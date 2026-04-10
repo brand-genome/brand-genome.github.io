@@ -2,7 +2,7 @@
 title: York U
 slug: "york-u"
 description: ""
-date: "2026-03-20T08:22:03.397282"
+date: "2026-04-10T09:40:30.963684"
 draft: false
 sectors:
   - education
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: "university in York, North Yorkshire, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q967165"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [http://www.ibm.com/plex](http://www.ibm.com/plex)
 - [http://www.yorku.ca](http://www.yorku.ca)
 - [https://york.ac.uk](https://york.ac.uk)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 

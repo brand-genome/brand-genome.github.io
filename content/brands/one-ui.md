@@ -2,7 +2,7 @@
 title: One UI
 slug: "one-ui"
 description: ""
-date: "2026-03-20T08:22:05.718590"
+date: "2026-04-10T09:40:34.671744"
 draft: false
 sectors:
   - software
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: user interface developed by Samsung
 wikidata_url: "https://www.wikidata.org/wiki/Q60220726"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,12 +71,6 @@ visual_term_image_urls: {}
 - [https://www.samsung.com/ae_ar/one-ui](https://www.samsung.com/ae_ar/one-ui)
 - [https://www.samsung.com/nl/one-ui](https://www.samsung.com/nl/one-ui)
 - [https://www.samsung.com/th/one-ui](https://www.samsung.com/th/one-ui)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

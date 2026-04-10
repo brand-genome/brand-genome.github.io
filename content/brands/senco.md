@@ -2,7 +2,7 @@
 title: Senco
 slug: senco
 description: ""
-date: "2026-03-20T08:22:05.018863"
+date: "2026-04-10T09:40:33.782420"
 draft: false
 sectors:
   - hardware
@@ -49,16 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - "pantone-186"
-typographies:
-  - script
-imagery_styles:
-  - bold
-  - staged
-  - photography
-  - professional
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q12051385"
 has_twitter: false
@@ -77,35 +70,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Logo clear space and minimum size requirements detailing clear space rules (e.g., surrounded by quiet area) and a minimum size of 0.25" tall for legibility.
-- Logo design specifications mention the corner radius designed to match 'SENCO' lettering and bars that underline the lettering. Colors specified include Pantone 186 (Red), CMYK conversion values: C:2 M:100 Y:85 K:6, and restrictions for color use outside standards.
-
-**Color Information:**
-
-- SENCO color scheme is specified using Pantone, RGB, and CMYK codes. Pantone 186 (Red), RGB: R200 G16 B46.
-
-**Typography Information:**
-
-- Guidelines specify Forza font family and its application in branding components such as headlines and tags. Bold and All caps typography specifications
-
-**Imagery Photography:**
-
-- Photography usage principles outline types of stylization guides for staged logos, proximity setting such layout anchoring are proximity-dependent 
-
-**Spacing Layout:**
-
-- Guides grid structure detailed outlining margins pad techniques spacing layout t methods visually printed layout fully aligned anchoring 
-
-**Brand Voice:**
-
-- Narrative emphasizes tone-centered branding committed user-focused positivity directives used corporate alignment script consistency optimizing streamlined execution elements
-- Explicit multimedia, OH video SENC implementation SEN Requirements  Voiceovers branding-tone-of-voice criteria alignment must professional-execution tone outline 
-
-**Notes:**
-
-- Document widely distributed archived branding contact intelligent 
+*Guidelines data not available*
 
 ## Additional Properties
 

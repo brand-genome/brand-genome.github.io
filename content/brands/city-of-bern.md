@@ -2,7 +2,7 @@
 title: City of Bern
 slug: "city-of-bern"
 description: ""
-date: "2026-03-20T08:22:04.163221"
+date: "2026-04-10T09:40:32.482137"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -70,4 +70,8 @@ visual_term_image_urls: {}
 
 ### 2022
 
+*Guidelines data not available*
+
 ### 2021
+
+*Guidelines data not available*

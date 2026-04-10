@@ -2,7 +2,7 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-03-20T08:22:05.560342"
+date: "2026-04-10T09:40:34.476769"
 draft: false
 sectors:
   - railroad
@@ -51,14 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - "pantone-2758"
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: transport company in Germany
 wikidata_url: "https://www.wikidata.org/wiki/Q2657565"
 has_twitter: false
@@ -79,40 +75,157 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Categories
 
-- The document specifies rules for logo application on various materials: Stone and brick surfaces require the full color logo; Stainless steel or aluminum surfaces require full color logos; Glass surfaces can use white logos; Transparent wall plaques on light-colored walls should use full color logos. Only original artwork should be used for logo reproduction, avoiding digitally altered versions or low-quality sources.
-- When placing the FirstGroup logo next to sponsor or partner logos, visual consistency in sizing and adherence to clear space standards is required; linear linking elements may be added when necessary.
-- Corporate brand signature must appear alongside local FirstGroup operating company identities in prominent positions, such as vehicle liveries, marketing materials, social media pages, websites, internal communications, press materials, and external presentations.
+##### Brand Imagery
 
-**Color Information:**
+- Il Marchio FIR (Federazione Italiana Rugby) è rappresentato da uno scudo, caratterizzato dai colori istituzionali (verde/ bianco/ rosso). I colori sono quelli della bandiera dell'Italia su fondo blu, colore della nazionale italiana. La bordatura intorno allo scudo è in colore oro. Nella parte sovrastante lo scudo si trova il logotipo, costituito dall'acronimo F.I.R. (con punteggiatura e a carattere maiuscolo). Nella parte sottostante c'è la scritta Italia, di colore oro, all'interno di un nastro di colore blu, posizionato al centro di due inserti di alloro.
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte. Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+- Alla base dell’identità visiva c’è l’utilizzo costante dei colori istituzionali (Pantone System): blu, verde, rosso, oro, oro scuro.
+- Il Marchio/Logo può essere riprodotto con i colori di quadricromia (Process System) usati secondo le percentuali indicate.
+- Pantone 286 C Pantone 341 C Pantone 186 C Pantone 871 C Pantone 873 C C100 / M60 / Y0 / K6 C100 / M0 / Y69 / K30 C0 / M100 / Y100 / K0 C40 / M40 / Y80 / K10 C40 / M40 / Y80 / K30
+- Alla base dell'identità visiva c'è l'utilizzo costante dei colori istituzionali (Pantane System): blu, verde, rosso, oro, oro scuro.
+- Nel caso di utilizzo su fondi o immagini chiari, la® sarà nera.
+- Nel caso di utilizzo su fondi o immagini scuri, la® sarà bianca.
 
-- Exterior signage incorporates Pantone 2758 for lettering and proportion guidelines. Lettercap heights are defined and centered within shaded areas.
+##### Color Palette
 
-**Typography Information:**
+- Alla base dell’identità visiva c’è l’utilizzo costante dei colori istituzionali (Pantone System): blu, verde, rosso, oro, oro scuro.
+- Il Marchio/Logo può essere riprodotto con i colori di quadricromia (Process System) usati secondo le percentuali indicate.
+- Pantone 286 C Pantone 341 C Pantone 186 C Pantone 871 C Pantone 873 C
+- C100 / M60 / Y0 / K6 C100 / M0 / Y69 / K30 C0 / M100 / Y100 / K0 C40 / M40 / Y80 / K10 C40 / M40 / Y80 / K30
+- Alla base dell'identità visiva c'è l'utilizzo costante dei colori istituzionali (Pantane System): blu, verde, rosso, oro, oro scuro.
+- Il colore dominante del marchio deve essere sempre blu Pantone 286C, nero o bianco (se nella versione al negativo).
+- BLU FIR PANTONE SYSTEM PANTONE 286 C
+- ORO FIR PANTONE SYSTEM PANTONE 871 C
+- VERDE FIR PANTONE SYSTEM PANTONE 341 C
+- ORO SCURO FIR PANTONE SYSTEM PANTONE 873 C
+- ROSSO FIR PANTONE SYSTEM PANTONE 186 C
 
-- Helvetia Neue Roman is specified for lettering on exterior signage, using 100% leading and observed proportions based on logo dimensions.
+##### Typography
 
-**Imagery Photography:**
+- DIN Next LT Pro Questo carattere è da considerarsi primario ed è consigliato per la realizzazione di testi in pubblicazioni istituzionali, modulistica e annunci pubblicitari.
+- È previsto l’uso nelle versioni: Light, Regular, Medium e Bold.
+- Per la stesura del documento è consigliato l’uso del carattere DIN Next LT Pro Light.
 
-- Corporate photography imagery for header photos should reflect customers, employees, FirstGroup values, vision, and community benefits.
-- Films and videos must adhere to guidelines by using current liveries, professionally shot footage, the corporate logo, and compliance with naming conventions.
+##### Logo Usage
 
-**Spacing Layout:**
+- Affinchè un Marchio venga riprodotto in modo conforme, e quindi non perda la sua identità visiva e progettuale, vengono studiate tutta una serie di regole (versioni colore, area di rispetto, leggibilità, ecc). In questo manuale saranno trattate le regole che "standardizzano" il Marchio per evitare che sia riprodotto in maniera errata.
+- Il Marchio FIR (Federazione Italiana Rugby) è rappresentato da uno scudo, caratterizzato dai colori istituzionali (verde/ bianco/ rosso). I colori sono quelli della bandiera dell'Italia su fondo blu, colore della nazionale italiana. La bordatura intorno allo scudo è in colore oro. Nella parte sovrastante lo scudo si trova il logotipo, costituito dall'acronimo F.I.R. (con punteggiatura e a carattere maiuscolo). Nella parte sottostante c'è la scritta Italia, di colore oro, all'interno di un nastro di colore blu, posizionato al centro di due inserti di alloro.
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte.
+- Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+- Alla base dell’identità visiva c’è l’utilizzo costante dei colori istituzionali (Pantone System): blu, verde, rosso, oro, oro scuro.
+- Il Marchio/Logo può essere riprodotto con i colori di quadricromia (Process System) usati secondo le percentuali indicate.
+- Pantone 286 C: C100 / M60 / Y0 / K6 Pantone 341 C: C100 / M0 / Y69 / K30 Pantone 186 C: C0 / M100 / Y100 / K0 Pantone 871 C: C40 / M40 / Y80 / K10 Pantone 873 C: C40 / M40 / Y80 / K30
+- Utilizzo in positivo Nel caso di utilizzo su fondi o immagini chiari, la® sarà nera.
+- Utilizzo in negativo Nel caso di utilizzo su fondi o immagini scuri, la® sarà bianca.
 
-- Exterior signage spacing proportions use key spacing measurements (e.g., Logo width as 50% of sign width, centered copy in shaded areas). Guidelines refer to page 13 for minimum distance spacing rules.
-- FirstGroup logo clear space standards apply to placements near sponsor/partner logos to maintain consistency.
+##### Brand Values
 
-**Brand Voice:**
+- Il Marchio è infatti una sintesi, di un'immagine (logo) e di un nome (logotipo), di quello che un'azienda è e che vuole rappresentare al suo pubblico di riferimento e dei valori che la contraddistinguono. Affinchè un Marchio venga riprodotto in modo conforme, e quindi non perda la sua identità visiva e progettuale, vengono studiate tutta una serie di regole (versioni colore, area di rispetto, leggibilità, ecc). In questo manuale saranno trattate le regole che "standardizzano" il Marchio per evitare che sia riprodotto in maniera errata.
 
-- The brand tone emphasizes a global identity with local customization, fostering community benefits and customer movement while preserving visual consistency.
-- Corporate social media guidelines dictate standardized username usage (e.g., @FirstGroup), corporate descriptors related to community improvements, and consistent language for hashtags (e.g., '#FirstGroup').
+##### Visual Style
 
-**Notes:**
+- Il Marchio FIR (Federazione Italiana Rugby) è rappresentato da uno scudo, caratterizzato dai colori istituzionali (verde/ bianco/ rosso). I colori sono quelli della bandiera dell'Italia su fondo blu, colore della nazionale italiana. La bordatura intorno allo scudo è in colore oro. Nella parte sovrastante lo scudo si trova il logotipo, costituito dall'acronimo F.I.R. (con punteggiatura e a carattere maiuscolo). Nella parte sottostante c'è la scritta Italia, di colore oro, all'interno di un nastro di colore blu, posizionato al centro di due inserti di alloro.
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte. Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+- Colori Pantone System e Process System Alla base dell’identità visiva c’è l’utilizzo costante dei colori istituzionali (Pantone System): blu, verde, rosso, oro, oro scuro.
+- Il Marchio/Logo può essere riprodotto con i colori di quadricromia (Process System) usati secondo le percentuali indicate.
+- Pantone 286 C Pantone 341 C Pantone 186 C Pantone 871 C Pantone 873 C C100 / M60 / Y0 / K6 C100 / M0 / Y69 / K30 C0 / M100 / Y100 / K0 C40 / M40 / Y80 / K10 C40 / M40 / Y80 / K30
 
-- Approval is required for promotional items, advertising, and communications using the FirstGroup brand outside corporate signatures. Approval requests are submitted as PDFs marked 'Brand Approval.' A response timeline of five working days applies.
-- Employee Portal style guides dictate content rules for appropriateness, clarity, and supporting FirstGroup's messages. Internal campaigns require careful internal sub-brand creation considerations.
-- Custom liveries may be tailored to local markets but must include the FirstGroup brand in alignment with specified formats.
+##### Iconography
+
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte. Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+
+##### Layout And Composition
+
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte. Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+
+##### Brand Architecture
+
+- La galassia F.I.R. comprende l’insieme di marchi che identificano le realtà che orbitano o che sono diretta emanazione della Federazione Italiana Rugby.
+- Ogni marchio è legato ad uno specifico ambito di applicazione e non può quindi essere utilizzato al di fuori di tali contesti, disciplinati dalla F.I.R.
+
+##### Co Branding
+
+- Il Marchio potrebbe vivere in abbinamento alla qualifica del Partner Commerciale nelle modalità di seguito elencate.
+
+##### Print Guidelines
+
+- Il Marchio/Logo deve essere leggibile sia a grandi dimensioni che ridotte. Dalle prove di riduzione si consiglia di non portarlo a dimensioni inferiori a 18 mm di base.
+- Si consiglia di utilizzare l’ultima riduzione solo in casi eccezionali per non fare venir meno la leggibilità degli elementi.
+- La leggibilità del Marchio è migliore se lo spazio che lo circonda è sufficientemente ampio. Lo spazio minimo da rispettare tra il Marchio e eventuali altri elementi (testi, foto, illustrazioni) è definito dal modulo base X, corrispondente, in questa tavola, alla larghezza della banda bianca posta al centro del Logo come riportato in figura.
+- Questo spazio è sempre da considerarsi minimo e quando è possibile, deve essere aumentato.
+- Colori Pantone System e Process System Alla base dell’identità visiva c’è l’utilizzo costante dei colori istituzionali (Pantone System): blu, verde, rosso, oro, oro scuro.
+- Il Marchio/Logo può essere riprodotto con i colori di quadricromia (Process System) usati secondo le percentuali indicate.
+- | Pantone 286 C | Pantone 341 C | Pantone 186 C | Pantone 871 C | Pantone 873 C | | C100 / M60 / Y0 / K6 | C100 / M0 / Y69 / K30 | C0 / M100 / Y100 / K0 | C40 / M40 / Y80 / K10 | C40 / M40 / Y80 / K30 |
+- È consigliabile usare questa versione quando il Marchio/Logo non è seguito dal blocchetto degli indirizzi (es.: carta intestata, biglietto da visita, busta commerciale, ecc.). Il Marchio, in questo caso, viene seguito dal suo logotipo (Federazione Italiana Rugby). Le dimensioni del logotipo sono proporzionali al Marchio secondo le indicazioni riportate in questa pagina.
+- DIN Next LT Pro Questo carattere è da considerarsi primario ed è consigliato per la realizzazione di testi in pubblicazioni istituzionali, modulistica e annunci pubblicitari.
+- È previsto l’uso nelle versioni: Light, Regular, Medium e Bold.
+- Formato 210 x 297 mm. Marchio/Logo Base 20 mm.
+- Stampa 4 colori quadricromia.
+- Carta Fedrigoni Splndorgel EW da 85 gr/mq
+- L’allineamento del testo è a 30 mm dal margine sinis tro e 30 mm dal margine destro. I dati del destinatario saranno posizionati a 130 mm dal margine sinistro e a 55 mm dal margine superiore del foglio.
+- Il testo avrà una larghezza m assima di 150 mm e sarà composto a bandiera sinistra senza rientro al capoverso.
+- Per la stesura del documento è consigliato l’uso del carattere DIN Next LT Pro Light.
+- Formato 210 x 297 mm.
+- Marchio/Logo Base 20 mm.
+- L’allineamento del testo è a 30 mm dal margine sinistro e 30 mm dal margine destro. I dati del destinatario saranno posizionati a 130 mm dal margine sinistro e a 55 mm dal margine superiore del foglio.
+- Il testo avrà una larghezza massima di 150 mm e sarà composto a bandiera sinistra senza rientro al capoverso.
+- Formato 220 x 11O mm.
+- Carta Fedrigoni Splndorgel EW da 115 gr/mq
+- Formato 229 x 324 mm.
+- Marchio/Logo Base 25 mm.
+- Formato 85 x 55 mm. Marchio/Logo Base 18 mm.
+- Carta Fedrigoni Splndorgel EW da 230 gr/mq
+- Formato 215 x 105 mm.
+- Marchio/Logo Base 18 mm.
+- Formato 220 x 310 mm.
+- Carta Fedrigoni Splndorgel EW da 300 gr/mq
+- Formato 210x297mm.
+- Stampa 1 colore Pantane 300 U
+
+##### Modulistica
+
+- La modulistica è l’insieme degli elementi cartacei che svolgono il ruolo di veicolare linguaggi scritti.
+- Di questi elementi fanno parte carta intestata, buste da lettera, biglietti da visita e altro materiale ancora.
+- Affinchè un insieme di moduli venga declinato in maniera uniforme si è studiato un sistema mediante il quale, nelle varie tipologie, tutti gli elementi risultino coordinati tra di loro. In questo capitolo si riportano le norme base per avere omogeneità tra i vari elementi.
+- Formato 210 x 297 mm. Marchio/Logo Base 20 mm.
+- Stampa 4 colori quadricromia.
+- Carta Fedrigoni Splndorgel EW da 85 gr/mq
+- L’allineamento del testo è a 30 mm dal margine sinis tro e 30 mm dal margine destro. I dati del destinatario saranno posizionati a 130 mm dal margine sinistro e a 55 mm dal margine superiore del foglio.
+- Il testo avrà una larghezza m assima di 150 mm e sarà composto a bandiera sinistra senza rientro al capoverso.
+- Per la stesura del documento è consigliato l’uso del carattere DIN Next LT Pro Light.
+- Formato 210 x 297 mm.
+- Marchio/Logo Base 20 mm.
+- L’allineamento del testo è a 30 mm dal margine sinistro e 30 mm dal margine destro. I dati del destinatario saranno posizionati a 130 mm dal margine sinistro e a 55 mm dal margine superiore del foglio.
+- Il testo avrà una larghezza massima di 150 mm e sarà composto a bandiera sinistra senza rientro al capoverso.
+- Formato 220 x 11O mm.
+- Carta Fedrigoni Splndorgel EW da 115 gr/mq
+- Formato 229 x 324 mm.
+- Marchio/Logo Base 25 mm.
+- Formato 85 x 55 mm. Marchio/Logo Base 18 mm.
+- Carta Fedrigoni Splndorgel EW da 230 gr/mq
+- Formato 215 x 105 mm.
+- Marchio/Logo Base 18 mm.
+- Formato 220 x 310 mm.
+- Carta Fedrigoni Splndorgel EW da 300 gr/mq
+- Formato 210x297mm.
+- Stampa 1 colore Pantane 300 U
 
 ## Additional Properties
 

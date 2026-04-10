@@ -2,12 +2,12 @@
 title: Mopar
 slug: mopar
 description: ""
-date: "2026-03-20T08:22:05.295575"
+date: "2026-04-10T09:40:34.127858"
 draft: false
 sectors:
+  - "consumer-goods"
   - automobile
   - "e-commerce"
-  - "consumer-goods"
 regions:
   - usa
 years:
@@ -54,17 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - favicon
-brand_colors:
-  - white
-  - blue
-typographies:
-  - arial
-  - script
-imagery_styles:
-  - bold
-  - flat
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "American car parts, service, and customer care company"
 wikidata_url: "https://www.wikidata.org/wiki/Q304444"
 has_twitter: false
@@ -87,33 +80,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Digital usage mentions the Mopar® brand mark with minimum size requirements for favicon use (60px, 100px, 190px dimensions) and isolation rules.
-
-**Color Information:**
-
-- Social media guidelines stipulate using the white brand mark on a blue background for enhanced visibility and consistency across platforms.
-
-**Typography Information:**
-
-- The Mopar website uses Titling Gothic FB Compressed Standard font for Header 1 (minimum size: 21px, uppercase), and alternative headers use Biro Script Plus Flat (minimum size: 30px). Header 3 and paragraphs use Titling Gothic FB Narrow Light (minimum size: 13px). Paragraphs are not justified.
-
-**Imagery Photography:**
-
-- Digital banners must use white backgrounds displaying image, headline/offer, and Mopar® brand mark in left-to-right or top-to-bottom alignment. Specific ad sizes include 728x90, 250x250, and 160x600.
-
-**Spacing Layout:**
-
-- Email marketing layouts consist of header, main content, extra content, and footer areas with defined organization, font types (Arial Bold), and functional segmentation for call-to-action and disclaimers.
-
-**Brand Voice:**
-
-- Mopar® aspires to be a brand with great service, evolving consistently with the best practices across stakeholders worldwide to maximize synergy and creativity.
-
-**Notes:**
-
-- General introduction about Mopar's remanufacturing standards ensuring the reliability and environmental benefits of its products.
+*Guidelines data not available*
 
 ## Additional Properties
 

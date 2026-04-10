@@ -2,7 +2,7 @@
 title: Euractiv
 slug: euractiv
 description: ""
-date: "2026-03-20T08:22:04.248804"
+date: "2026-04-10T09:40:32.833703"
 draft: false
 sectors:
   - publishing
@@ -50,24 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - favicon
-  - secondary
-brand_colors:
-  - navy
-  - white
-  - grey
-  - blue
-  - yellow
-  - black
-typographies:
-  - "open-sans"
-  - arial
-  - gotham
-  - verdana
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: European news website
 wikidata_url: "https://www.wikidata.org/wiki/Q1310000"
 has_twitter: false
@@ -107,40 +93,143 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- The default EURACTIV logo is white text on a yellow background. Its proportions are fixed and must not be changed. Third-party users must always use this version for co-branded materials. Alternative versions include yellow on a white background, black on a white background, and inverted, but these are permissible only for technical or ink constraints. Clear space rules require keeping the surrounding letters zone empty.
-- Proportions for clear space must always be adhered to. Logos used for favicon, social media, and small spaces must follow adaptations but maintain clear space guidelines.
-- Incorrect usage includes redrawing, altering placement or proportion, warping, stretching, changing orientation, or using the logo without a yellow background on photographs or patterns.
-- Logos should always be used from official electronic files and adhere to the correct colors (dominant yellow and secondary black, navy blue, and others). Always contact EURACTIV for uncertain cases.
-- Logo files can be downloaded from www.euractiv.com/logos.
+##### Mission
 
-**Color Information:**
+- EURACTIV is an independent pan-European media network specialised in EU policies. It sparks and nourishes policy debates among stakeholders, including governments, businesses, and civil society, covering policy processes upstream of decisions and summarising issues without taking sides [^1].
 
-- Primary colors: Yellow (#FFC709, RGB 255,198,18, CMYK 0,22,100,0, Pantone PMS123), White (#FFFFFF, RGB 255,255,255, CMYK 0,0,0,0), Black (#000000, RGB 0,0,0, CMYK 0,0,0,100), Navy Blue (#002B41, RGB 0,43,65, CMYK 95,0,0,90). Secondary colors: Blue (#006A91, RGB 0,106,145, CMYK 95,0,0,50), Grey (#808285, RGB 128,130,133, CMYK 0,0,0,60). Yellow is dominant, and white is supporting.
-- Yellow and white can be inverted only when working on a yellow background is not optimal. Black dominates textual elements. Navy blue complements black, and blue and grey are used only when the primary colors are insufficient.
+##### Core Values
 
-**Typography Information:**
+- independence
+- pan-European perspective
+- policy debate
+- neutrality
+- accessibility
 
-- Primary fonts for users include Open Sans (Regular for body text), Korolev (Bold for titles and Light for subtitles), Fjalla One (Regular for titles). For external collaboration, Verdana is for titles and Arial Black for body text.
-- Designer fonts include Korolev (Medium for body and Light/Bold for titles), Tisa Pro and Tisa Sans Pro (Regular for body text), Gotham OTF (Black Italic for logotypes and Light for baseline).
+##### Target Audience
 
-**Imagery Photography:**
+- Stakeholders in EU policy, including governments, businesses, civil society, and users across Europe and beyond [^2].
 
-- Star bubble is inspired by the EU flag star and a speech bubble. Variants include a slim version for separation and a design with 72° lines for graphical elements.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- neutral
+- accessible
+- collaborative
 
-- Clear space rules require keeping the zone surrounding the logo letters empty, especially on a white background.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- EURACTIV's visual identity is defined by a dominant yellow color, supported by white, black, navy blue, blue, and grey. The logo features fixed proportions and a star bubble element derived from the EU flag and a speech bubble. The brand uses modern, sans-serif fonts and maintains clear space around the logo. Visual style emphasizes clarity, minimalism, and strong color contrast [^3].
 
-- EURACTIV’s tone of voice is neutral, summarizing policy debates without taking sides. Use 'EURACTIV' in all caps unless part of a URL, where lowercase must be used.
+#### Categories
 
-**Notes:**
+##### Color Palette
 
-- EURACTIV provides free localized EU policy news and services in 12 languages, reaching 1.7 million users monthly.
-- For uncertain rules or guidelines, contact EURACTIV at info@euractiv.com.
+- RGB 255, 198, 18 Yellow CMJN 0, 22, 100, 0 HEX #FFC709 PANTONE PMS123 RGB 255, 255, 255 White CMJN 0, 0, 0, 0 HEX #FFFFFF RGB 0, 0, O Black CMJN 0, 0, 0, 100 HEX #000000 RGB 0, 43, 65 Navy Blue CMJN 95, 0, 0, 90 Main HEX #002B41 RGB 0, 106, 145 Blue CMJN 95, 0, 0.5, HEX #006A91 Secondary RGB 128, 130, 133 Grey CMJN 0, 0, 0, 0.20, HEX #808285, styled as a trapezoid. To the right of the Grey swatch, two horizontal labels, 'Main' and 'Secondary,' indicate the importance levels of Blue and Grey respectively.
+- These are the six colours in EURACTIV's visual identity. Yellow is the dominant colour and white is the main supporting colour. Yellow and white can be inverted only in those cases where working on a yellow background is not optimal. For textual elements, black dominates. Navy blue should complement the black in more complex designs. In comparison to the use of yellow and white, black and navy blue should be used in relatively small amounts.
+- The last two colours blue and grey are to be used only when the 4 main colours are not sufficient.
+- DO use the right colours. These are the six colours in EURACTIV's visual identity. MAIN COLOURS
+- Yellow RGB 255, 198, 18 CMJN 0, 22, 100, 0 HEX #FFC709 PANTONE PMS123; White RGB 255, 255, 255 CMJN 0, 0, 0, 0 HEX #FFFFFF; Black RGB 0, 0, 0 CMJN 0, 0, 0, 100 HEX #000000; Navy Blue RGB 0, 43, 65 CMJN 95, 0, 0, 90 HEX #002B41
+- SECONDARY COLOURS Blue RGB 0, 106, 145 CMJN 95, 0, 0, 50 HEX #006A91; Grey RGB 128, 130, 133 CMJN 0, 0, 0, 60 HEX #808285
+- DO use the right colour proportions.
+- Yellow is the dominant colour and white is the main supporting colour. Yellow and white can be inverted only in those cases where working on a yellow background is not optimal. For textual elements, black dominates. Navy blue should complement the black in more complex designs. In comparison to the use of yellow and white, black and navy blue should be used in relatively small amounts.
+
+##### Typography
+
+- KOROLEV (BOLD) Titles abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMN0PQRSTUVWXYZ 1234567890 &!? """@$€*#%/U0
+- KOROLEV (LIGHT) Subtitles abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMN0PQRSTUVWXYZ 1234567890 81? "@S€*#%/00
+- OPEN SANS (REGULAR) Body abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 &!? """@$€*#%/(){}
+- For documents requiring external collaboration, users must apply the Verdana font for titles, and the Arial Black font for the body of the text.
+- FJALLA ONE (REGULAR) Titles abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMN0PQRSTUVWXYZ 1234567890 &!? """@$€*#%/(00
+- GOTHAM OTF (BLACK ITALIC) Logotype abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 &!? "«"@$€*#%/O{}
+- GOTHAM OTF (LIGHT) Logotype baseline abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 &1? """@$€*#%/O(}
+- KOROLEV (BOLD) Titles abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 &!? """@$€*#%/(00
+- KOROLEV (LIGHT) Titles abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMN0PQRSTUVWXYZ 1234567890 81? "@S€*#%/00
+- KOROLEV (MEDIUM) Body abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 8!? ""@SC*#%/00
+- TISA SANS PRO (REGULAR) Body abcdefghijklmnopqrstuvwxyz ABCDEFGH IJ KLM NOPQRSTUVWXYZ 1234567890 &!? """@$€*#%/(){}
+- TISA PRO (REGULAR) Body abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 &!?"""@Se*#%/(){}
+
+##### Logo Usage
+
+- The white on yellow background logo is the default EURACTIV logo. Its proportions are fixed and must not be changed.
+- Third party users must always use this version for materials that are co-branded with EURACTIV.
+- This logo can be downloaded from www.euractiv.com/logos
+- Never redraw or alter the logo, including the placement and size relationship of its letters or star bubble. Doing so weakens our identity.
+- Other versions can only be used to work around technical restrictions:
+- Yellow on white background: only when yellow background is not possible
+- Black on white background: only for ink constraints
+- Inverted: only for ink constraints
+- For very small spaces:
+- For logos on a white background, do not forget to ALWAYS KEEPTHEZONESURROUNDINGTHE LETTERS EMPTY
+- DON'T redraw or retype the logo. It will be difficult to match the official specifications.
+- DO keep the minimum clear space empty.
+- For logos on a white background, always keep the zone surrounding the letters empty.
+- DON'T place text or shapes within the clear space boundary.
+- DO keep the right proportions.
+- DON'T warp or stretch the logo.
+- DON'T change the logo's orientation.
+- DO keep the yellow background logo when used on photographs or patterns.
+- DON'T use the logo without the yellow background on photographs or patterns.
+- DO use the right colours. These are the six colours in EURACTIV's visual identity. MAIN COLOURS
+- DO use the right colour proportions.
+- Yellow is the dominant colour and white is the main supporting colour. Yellow and white can be inverted only in those cases where working on a yellow background is not optimal. For textual elements, black dominates. Navy blue should complement the black in more complex designs. In comparison to the use of yellow and white, black and navy blue should be used in relatively small amounts.
+- The last two colours blue and grey are to be used only when the 4 main colours are not sufficient.
+
+##### Tone And Messaging
+
+- EURACTIV is an independent pan-European media network specialised in EU policies.
+- We spark and nourish policy debates among stakeholders, including governments, businesses and civil society. We cover policy processes upstream of decisions, summarising the issues without taking sides.
+- The EURACTIV Network provides free localised EU policy news and services in 12 languages. Together with our media partners, we reach 1.7 million users across Europe and beyond, every month.
+
+##### Brand Values
+
+- EURACTIV is an independent pan-European media network specialised in EU policies.
+- We spark and nourish policy debates among stakeholders, including governments, businesses and civil society. We cover policy processes upstream of decisions, summarising the issues without taking sides.
+- The EURACTIV Network provides free localised EU policy news and services in 12 languages. Together with our media partners, we reach 1.7 million users across Europe and beyond, every month.
+
+##### Visual Style
+
+- These are the six colours in EURACTIV's visual identity. Yellow is the dominant colour and white is the main supporting colour. Yellow and white can be inverted only in those cases where working on a yellow background is not optimal. For textual elements, black dominates. Navy blue should complement the black in more complex designs. In comparison to the use of yellow and white, black and navy blue should be used in relatively small amounts.
+- The last two colours blue and grey are to be used only when the 4 main colours are not sufficient.
+- The white on yellow background logo is the default EURACTIV logo. Its proportions are fixed and must not be changed.
+- Third party users must always use this version for materials that are co-branded with EURACTIV.
+- Never redraw or alter the logo, including the placement and size relationship of its letters or star bubble. Doing so weakens our identity.
+- Yellow on white background: Inverted: only when yellow background is not possible
+- Black on white background: only for ink constraints
+- For logos on a white background, do not forget to ALWAYS KEEPTHEZONESURROUNDINGTHE LETTERS EMPTY
+- EURACTIV's star bubble is a combination of a star from the European flag and a speech bubble. Its main design element is the 72° line.
+- DO use the original electronic files.
+- DON'T redraw or retype the logo. It will be difficult to match the official specifications.
+- Never red raw or alter the logo, including the placement and size relationship of its letters or star bubble. Doing so weakens our identity.
+- DO keep the minimum clear space empty.
+- For logos on a white background, always keep the zone surrounding the letters empty.
+- DON'T place text or shapes within the clear space boundary.
+- DO keep the right proportions.
+- DON'T warp or stretch the logo.
+- DON'T change the logo's orientation.
+- DO keep the yellow background logo when used on photographs or patterns.
+- DON'T use the logo without the yellow background on photographs or patterns.
+- DO use the right colours. These are the six colours in EURACTIV's visual identity. MAIN COLOURS
+- DO use the right colour proportions.
+- Yellow is the dominant colour and white is the main supporting colour. Yellow and white can be inverted only in those cases where working on a yellow background is not optimal. For textual elements, black dominates. Navy blue should complement the black in more complex designs. In comparison to the use of yellow and white, black and navy blue should be used in relatively small amounts.
+
+##### Iconography
+
+- EURACTIV's star bubble is a combination of a star from the European flag and a speech bubble. Its main design element is the 72° line.
+- Use of the star bubble as a stand-alone element.
+- Variation of the star bubble, best used for quotes, speeches, etc.
+- "Slim" version of the star bubble, Simple 72° line. Series of simple 72° lines. best used as separation element. Structural graphical element Structural graphical element
+
+##### Layout And Composition
+
+- For logos on a white background, do not forget to ALWAYS KEEPTHEZONESURROUNDINGTHE LETTERS EMPTY
+- DO keep the minimum clear space empty.
+- For logos on a white background, always keep the zone surrounding the letters empty.
+- DON'T place text or shapes within the clear space boundary.
+- DO keep the right proportions.
+- DON'T warp or stretch the logo.
+- DON'T change the logo's orientation.
 
 ## Additional Properties
 

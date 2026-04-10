@@ -2,7 +2,7 @@
 title: Lifeline
 slug: lifeline
 description: ""
-date: "2026-03-20T08:22:05.749161"
+date: "2026-04-10T09:40:34.729592"
 draft: false
 sectors:
   - ngo
@@ -47,12 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -71,35 +68,4 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- The document outlines logo usage guidelines and file formats such as EPS, PNG, SVG, PDF. Clear space rules are specified under exclusion zone and safe zone requirements, ensuring visibility of the logo.
-- Incorrect application of the Lifeline logos is critically highlighted, showcasing examples of distortion and unacceptable variants.
-- Minimum sizes have been specified for logos, providing constraints for reproducibility at different scales in marketing materials.
-
-**Color Information:**
-
-- Details about the Lifeline corporate color palette are provided, mentioning primary and complementary colors, HEX codes, Pantone references, and CMYK profiles.
-- Guidance on the application of corporate colors for branding purposes is outlined along with acceptable contrasts and background usage.
-
-**Typography Information:**
-
-- The primary corporate font is 'AG Book Rounded', and the secondary font is 'Arial'. Both are confined by respective usage guidelines depending on marketing contexts.
-
-**Imagery Photography:**
-
-- Imagery guidelines specify acceptable photographic styles and treatments to maintain consistent branding of Lifeline materials.
-
-**Spacing Layout:**
-
-- Grid layout instructions for stationery and documents are explained, with measurements pertaining to visual alignment and padding.
-
-**Brand Voice:**
-
-- The brand voice emphasizes empathy, professionalism, and direct crisis support messaging tailored to the audience's needs.
-
-**Notes:**
-
-- Appendix 1 highlights the Lifeline Strategic Framework, providing organizational goals and priorities.
-- Appendix 2 provides details on Trade Mark Licence Agreement obligations for Lifeline centers.
-- Appendix 3 introduces the National Communications Reference Group, tasked with Lifeline's strategic oversight.
+*Guidelines data not available*

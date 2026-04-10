@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-03-20T08:22:03.878807"
+date: "2026-04-10T09:40:31.562577"
 draft: false
 sectors:
-  - aerospace
   - defense
   - satellite
+  - aerospace
 regions:
   - europe
 years:
@@ -34,16 +34,16 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "airbus-a340"
-  - "airbus-a310"
-  - "airbus-a300"
-  - "airbus-a380"
-  - "airbus-a330"
-  - aircraft
-  - airplane
-  - "airbus-a350"
-  - "airbus-a220"
   - "airbus-a320-family"
+  - aircraft
+  - "airbus-a220"
+  - "airbus-a300"
+  - "airbus-a310"
+  - "airbus-a330"
+  - "airbus-a350"
+  - "airbus-a340"
+  - "airbus-a380"
+  - airplane
 products: []
 headquarters_locations:
   - blagnac
@@ -52,8 +52,8 @@ foundation_dates:
   - 1970
   - 1969
 foundation_year_buckets:
-  - 1960S
   - 1970S
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -71,23 +71,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-brand_colors:
-  - blue
-  - white
-  - grey
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "European aircraft manufacturer, subsidiary of Airbus SE"
 wikidata_url: "https://www.wikidata.org/wiki/Q67"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -102,47 +95,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2017
 
-**Logo Information:**
-
-- Authorized Partner Signet rules and formats. Available formats include EPS, PNG, JPEG, TIFF. The signet must be applied as a reference on promotional materials and must not be altered. The preferred color version is blue, but black and white may be used in specific circumstances. The signet is restricted to solid-colored or very quiet backgrounds. Minimum size requirement for the Airbus logo is 3 mm in height.
-- Requirements for co-branded materials like brochures include placing partner logos under the 'Authorized Partner' header. Partner logo must conform to a 40-60 size ratio with Airbus' logo. Logos are to be left-aligned and centered vertically.
-- Co-branded materials guidelines: Partner logos and contact information must be added to specific footer sections of brochures. Fonts for contact information should be Arial 8 pt, with the company name in bold and other details in regular weight. Logos must appear in black or grey-shades.
-- Co-branded posters require partner logo placement below the 'Authorized Partner' header. Logos must conform to a 40-60 size ratio and be vertically aligned with the 'A' in 'Authorized'.
-- Booth visuals and usage of the 'Authorized Reseller Signet': Must feature as a reference but at a smaller size than partner branding. Usage requires prior approval from operational marketing.
-- Guidance on where to locate and how to apply the 'Authorized Partner' logo in brochures, websites, and documents.
-
-**Color Information:**
-
-- Recommendations for harmonizing logo colors for brochures and visuals depending on the backgrounds. Specific color harmonization rules mentioned on marketing materials.
-
-**Typography Information:**
-
-- Font used for contact information in co-branded brochures: Arial. Font size is 8 pt, with the company name in bold and all other details in regular weight.
-
-**Imagery Photography:**
-
-- Co-branded materials and event visuals must include partner elements alongside Airbus branding. Booth visuals require prior approval for alignment with the guidelines. Reproduction of Airbus roll-ups is permissible for smaller shows.
-
-**Spacing Layout:**
-
-- Logo placement on marketing materials: The logos are vertically aligned with the Airbus' logomark center point. Layouts include left alignment where specified, such as in headers.
-
-**Brand Voice:**
-
-- All co-branded materials must prominently feature the 'Authorized Partner' signet as a reference to Airbus branding alongside partner's information.
-- Rules regarding the use of logos in co-branded brochures and marketing materials are explicitly outlined to ensure harmonized communication.
-- Guidelines emphasize the appropriate placement of partner logos and promotion of Airbus branding across brochures, posters, and event visuals.
-- Q&A section provides guidance on logo placement, usage of signets, and contact for further queries regarding branding guidelines.
-
-**Notes:**
-
-- Specific instructions for integrating partner logos/information into brochures using DTP software such as Adobe InDesign or QuarkXPress.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -152,7 +107,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Aircraft](/products_or_materials_produced/aircraft/); [Airplane](/products_or_materials_produced/airplane/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/) |
+| Product Or Material Produced | [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Aircraft](/products_or_materials_produced/aircraft/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airplane](/products_or_materials_produced/airplane/) |
 | Headquarters Location | [Blagnac](/headquarters_locations/blagnac/) |
 | Foundation Date | [1970](/foundation_dates/1970/); [1969](/foundation_dates/1969/) |
 | Headquarters Location | Blagnac |

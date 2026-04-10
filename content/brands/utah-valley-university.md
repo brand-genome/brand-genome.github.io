@@ -2,7 +2,7 @@
 title: Utah Valley University
 slug: "utah-valley-university"
 description: ""
-date: "2026-03-20T08:22:03.122701"
+date: "2026-04-10T09:40:30.629654"
 draft: false
 sectors:
   - university
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: "public university in Orem, Utah, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q940919"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [http://www.google.com](http://www.google.com)
 - [http://www.uvu.edu](http://www.uvu.edu)
 - [http://www.uvsc.edu](http://www.uvsc.edu)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

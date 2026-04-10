@@ -2,7 +2,7 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-03-20T08:22:05.556707"
+date: "2026-04-10T09:40:34.473053"
 draft: false
 sectors:
   - education
@@ -54,25 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - secondary
-  - crest
-  - wordmark
-  - primary
-brand_colors:
-  - black
-typographies:
-  - display
-  - serif
-  - "open-sans"
-  - "sans-serif"
-  - roboto
-  - playfair
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public university in British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q2495961"
 has_twitter: false
@@ -91,44 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Key guidelines on the UFV primary logo design and its components. Emphasizes the harmonious combination of typography and the vine/leaf graphic representing growth and transformation.
-- Instructions on minimum size requirements, protected space (defined as the height of the 'V' in the wordmark), and placement preferences (e.g., bottom-right for posters). Preferred size for letter-sized paper is specifically mentioned.
-- Logo misuse: Prohibitions against resizing, stretching, removing elements, altering colors, and isolating logo components.
-- Details on logo variations (two-color, black, reversed) and background rules. Includes specifications for file formats like EPS, PNG, PDF, and usage recommendations for vector and raster files.
-- Prohibited color and placement practices for logos, including incorrect reversals, insufficient contrast, and usage on textured/photo backgrounds.
-- Secondary sub-brand logos with specific typographic alignment rules and availability of variations and file formats aligned to primary UFV branding.
-- Details about the supergraphic (vine/leaf element) and its independent use in marketing materials while retaining proportional integrity.
-- Institutional seal/crest usage guidelines for ceremonial and formal contexts, including color variations (e.g., metallic, full reverse).
-- UFV Coat of Arms: Symbolism tied to the Fraser Valley's cultural, ecological identity, and restricted usage for ceremonial purposes only.
-- Use of the acronym logo primarily for online and merchandise applications, alongside restrictions against replacing primary/sub-brand logos.
-- Co-branding rules: Placement priorities, maintenance of protected space, and scaled sizing relative to UFV logo prominence.
-
-**Color Information:**
-
-- Primary, secondary, and tertiary UFV color palette details with exact Pantone, RGB, CMYK, and HEX codes. Includes instructions on usage restrictions for secondary and tertiary accents.
-
-**Typography Information:**
-
-- Official UFV typography includes 'Bliss' sans-serif font family (Light, Regular, Medium, Bold, Extra Bold) for most applications and the 'Playfair Display' serif typeface for limited elegant uses. Substitute options provided (Roboto, Open Sans, etc.).
-- Constraints and typographical precision descriptions regarding sub-brand logo creation, particularly spacing between main wordmark and tagline segments.
-
-**Imagery Photography:**
-
-- Usage rules for the supergraphic, emphasizing its standalone capabilities while preserving shape/proportions and avoiding excessive manipulation. Should be paired with the main UFV logo whenever possible.
-
-**Spacing Layout:**
-
-- Spacing rules for logo placement, including minimum clear zones equal to the height of the 'V' in the wordmark, and predefined size for specific applications like letterheads, posters, and signage.
-- Specific typographical alignment and spacing directives for sub-brand creation, emphasizing the vertical spacing between taglines and the main wordmark.
-
-**Notes:**
-
-- The guidelines emphasize maintaining integrity and consistency across all materials, recommending consultation with the Marketing team for clarification where needed.
-- The introduction explains the importance of UFV's visual identity in reflecting the institution's values of growth, transformation, and community harmony.
-- Instructions for obtaining sub-brand logos and requesting clarifications from the Marketing department.
-- Links to further details and downloadable resources provided at ufv.ca/university-relations/marcom/.
+*Guidelines data not available*
 
 ## Additional Properties
 

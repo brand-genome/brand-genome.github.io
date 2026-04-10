@@ -2,7 +2,7 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-03-20T08:22:05.561788"
+date: "2026-04-10T09:40:34.477905"
 draft: false
 sectors:
   - education
@@ -52,19 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-  - arial
-  - georgia
-imagery_styles:
-  - bold
-  - dynamic
-  - clean
+typographies: []
+imagery_styles: []
 wikidata_description: Finnish university
 wikidata_url: "https://www.wikidata.org/wiki/Q300980"
 has_twitter: false
@@ -85,37 +76,151 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- Vertical logo version is recommended for online and digital services, while horizontal logo version is preferred for university schools for emphasis on the text component.
-- Logo must be placed in the upper or lower left-hand corner of the page with a mandatory exclusion area surrounding it.
+##### Mission
 
-**Color Information:**
+- To implement Aalto University's visual identity in the digital domain, ensuring communications are functional, logical, practical, university-spirited, sophisticated, simple, uncluttered, stylish, graphic, fresh, colourful, dynamic, clean-cut, engaging, sympathetic, explanatory, informative, genuine, warm, honest, and natural with a light touch, lively, direct, spontaneous, and relaxed approach [^1].
 
-- Aalto University's color palette for digital applications includes small differences in shades, fades, and very light blacks to distinguish design elements and functionalities like background colors, buttons, and navigation.
+##### Core Values
 
-**Typography Information:**
+- functional
+- logical
+- practical
+- university-spirited
+- sophisticated
+- simple
+- uncluttered
+- stylish
+- fresh
+- colourful
+- dynamic
+- clean-cut
+- sympathetic
+- explanatory
+- informative
+- genuine
+- warm
+- honest
+- light touch
+- lively
+- direct
+- spontaneous
+- relaxed
 
-- Primary font: Nimbus Sans Bold (based on Helvetica). Supplementary font: Sentinel. Combination creates visual effectiveness and recognizability.
-- Substitute fonts: Arial Bold and Regular for Nimbus Sans, Georgia Bold and Regular for Sentinel.
+##### Target Audience
 
-**Imagery Photography:**
+- Users of Aalto University's digital services, including students, alumni, media, and partners, as well as visitors seeking information about the university and its schools [^2].
 
-- Header links provide a dropdown menu for quick content overview and easy navigation for users.
+##### Personality Traits
 
-**Spacing Layout:**
+- university-spirited
+- sophisticated
+- simple
+- uncluttered
+- stylish
+- fresh
+- colourful
+- dynamic
+- clean-cut
+- sympathetic
+- explanatory
+- informative
+- genuine
+- warm
+- honest
+- light touch
+- lively
+- direct
+- spontaneous
+- relaxed
 
-- Headers on school pages feature smaller bands of color coordinated to match the school’s theme, helping distinguish them from university-wide headers.
-- Direct links include functionalities for language selection and search access without needing the entire header expansion.
-- Footer area lists entire site content for quick navigation. Contains logo, university description, contact information, social media links.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- Aalto University's visual identity is characterized by a clean, modern layout, prominent logo placement, a vibrant and diverse color palette, clear typography, and responsive design across devices. The guidelines emphasize clarity, accessibility, and a dynamic, engaging visual style [^3].
 
-- Functional, logical, practical; simple, uncluttered, stylish; fresh, colourful, dynamic, clean-cut; sympathetic, explanatory, informative, genuine, warm, honest; light touch, lively, direct, spontaneous, relaxed.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- Basic communication principles for digital services design must adhere to functionality, clarity, and aesthetic simplicity.
+- When designing digital services, Aalto University’s basic communications principles must always be observed: • Appropriate functional, logical, practical • University-spirited and sophisticated simple, uncluttered, stylish • Graphic fresh, colourful, dynamic, clean-cut • Engaging sympathetic, explanatory, informative, genuine, warm, honest • Natural light touch, lively, direct, spontaneous, relaxed
+
+##### Brand Imagery
+
+- Appropriate functional, logical, practical University-spirited and sophisticated simple, uncluttered, stylish Graphic fresh, colourful, dynamic, clean-cut Engaging sympathetic, explanatory, informative, genuine, warm, honest Natural light touch, lively, direct, spontaneous, relaxed
+
+##### Color Palette
+
+- The colour palette defined in Aalto University’s Visual Guidelines should also be used in digital applications.
+- Small differences in shades, together with fades, can be used in digital designs, as well as very light blacks, to help users distinguish between different elements of the design or identity the functionality of specific items (for ex. dividing areas of content by background colours and for buttons, forms, and navigation elements).
+- RGB 245, 203, 8 HEX #F5CB08
+- RGB 221, 83, 84 HEX #DD5354
+- RGB 0, 108, 180 HEX #006CB4
+- RGB 136, 129, 120 HEX #888178
+- RGB 234, 161, 36 HEX #EAA124
+- RGB 227, 120, 40 HEX #E37828
+- RGB 171, 51, 136 HEX #AB3388
+- RGB 106, 69, 147 HEX #6A4593
+- RGB 0, 158, 105 HEX #009E69
+- RGB 124, 184, 47 HEX #7CB82F
+- Light greys can be used in digital applications in addition to the standard colour palette.
+
+##### Typography
+
+- Nimbus Sans Bold, based on Helvetica, is the primary font used in Aalto University’s graphic identity.
+- Sentinel is used as a supplementary font.
+- Together, these two fonts create a visually effective, clearly recognisable, and versatile combination – and are the university’s official fonts.
+- In cases where Aalto University’s official fonts are not available, they can be substituted by the following fonts, which are part of the standard system font collections on both PC and Macintosh computers::
+- • Arial substitutes for Nimbus Sans.
+- • Georgia substitutes for Sentinel.
+- Nimbus Sans is a digital version of the Helvetica font designed in 1958 by Max Miedinger produced by URW Studio in 1982.
+- Sentinel was designed by Jonathan Hoefler and Tobias Frere-Jones in 2009.
+- Arial Bold
+- Georgia Bold Italic
+- Arial Regular
+- Georgia Regular
+
+##### Logo Usage
+
+- The vertical version of the logo should be used in online and other digital services.
+- The horizontal version is preferred for the university's schools, as this gives slightly more emphasis to the text component and makes the name of the school easier to read.
+- The Aalto University logo should be placed in the upper or lower left-hand corner of the page.
+- When placing the logo, allowance should be made for the exclusion area that surrounds it on all sides, as in the case of printed material. No other elements should be placed in the general vicinity of the logo outside this exclusion area either.
+
+##### Tone And Messaging
+
+- When designing digital services, Aalto University’s basic communications principles must always be observed: • Appropriate functional, logical, practical • University-spirited and sophisticated simple, uncluttered, stylish • Graphic fresh, colourful, dynamic, clean-cut • Engaging sympathetic, explanatory, informative, genuine, warm, honest • Natural light touch, lively, direct, spontaneous, relaxed
+
+##### Brand Values
+
+- When designing digital services, Aalto University’s basic communications principles must always be observed: • Appropriate functional, logical, practical • University-spirited and sophisticated simple, uncluttered, stylish • Graphic fresh, colourful, dynamic, clean-cut • Engaging sympathetic, explanatory, informative, genuine, warm, honest • Natural light touch, lively, direct, spontaneous, relaxed
+
+##### Visual Style
+
+- When designing digital services, Aalto University’s basic communications principles must always be observed: • Appropriate functional, logical, practical • University-spirited and sophisticated simple, uncluttered, stylish • Graphic fresh, colourful, dynamic, clean-cut • Engaging sympathetic, explanatory, informative, genuine, warm, honest • Natural light touch, lively, direct, spontaneous, relaxed
+- The vertical version of the logo should be used in online and other digital services.
+- The horizontal version is preferred for the university’s schools, as this gives slightly more emphasis to the text component and makes the name of the school easier to read.
+- The Aalto University logo should be placed in the upper or lower left-hand corner of the page.
+- When placing the logo, allowance should be made for the exclusion area that surrounds it on all sides, as in the case of printed material. No other elements should be placed in the general vicinity of the logo outside this exclusion area either.
+- The colour palette defined in Aalto University’s Visual Guidelines should also be used in digital applications.
+- Small differences in shades, together with fades, can be used in digital designs, as well as very light blacks, to help users distinguish between different elements of the design or identity the functionality of specific items (for ex. dividing areas of content by background colours and for buttons, forms, and navigation elements).
+- RGB 245, 203, 8 HEX #F5CB08
+- RGB 221, 83, 84 HEX #DD5354
+- RGB 0, 108, 180 HEX #006CB4
+- RGB 136, 129, 120 HEX #888178
+- RGB 234, 161, 36 HEX #EAA124
+- RGB 227, 120, 40 HEX #E37828
+- RGB 171, 51, 136 HEX #AB3388
+- RGB 106, 69, 147 HEX #6A4593
+- RGB 0, 158, 105 HEX #009E69
+- RGB 124, 184, 47 HEX #7CB82F
+- Light greys can be used in digital applications in addition to the standard colour palette.
+
+##### Layout And Composition
+
+- When designing digital services, Aalto University’s basic communications principles must always be observed: • Appropriate functional, logical, practical • University-spirited and sophisticated simple, uncluttered, stylish • Graphic fresh, colourful, dynamic, clean-cut • Engaging sympathetic, explanatory, informative, genuine, warm, honest • Natural light touch, lively, direct, spontaneous, relaxed
+- The Aalto University logo should be placed in the upper or lower left-hand corner of the page.
+- When placing the logo, allowance should be made for the exclusion area that surrounds it on all sides, as in the case of printed material. No other elements should be placed in the general vicinity of the logo outside this exclusion area either.
 
 ## Additional Properties
 

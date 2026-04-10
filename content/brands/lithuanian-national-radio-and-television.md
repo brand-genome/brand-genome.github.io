@@ -2,7 +2,7 @@
 title: Lithuanian National Radio and Television
 slug: "lithuanian-national-radio-and-television"
 description: ""
-date: "2026-03-20T08:22:03.134043"
+date: "2026-04-10T09:40:30.675404"
 draft: false
 sectors:
   - broadcasting
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: public broadcasting company of Lithuania
 wikidata_url: "https://www.wikidata.org/wiki/Q1550538"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [https://www.lrt.lt/ru/novosti](https://www.lrt.lt/ru/novosti)
 - [https://www.lrt.lt/pl/wiadomosci](https://www.lrt.lt/pl/wiadomosci)
 - [https://www.lrt.lt/ua/novini](https://www.lrt.lt/ua/novini)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Supercell
 slug: supercell
 description: ""
-date: "2026-03-20T08:22:03.831196"
+date: "2026-04-10T09:40:31.463444"
 draft: false
 sectors:
   - gaming
@@ -63,9 +63,9 @@ imagery_styles: []
 wikidata_description: Finnish video game company
 wikidata_url: "https://www.wikidata.org/wiki/Q1438774"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [https://supercell.com](https://supercell.com)
 - [https://supercell.com/en/about-us](https://supercell.com/en/about-us)
 - [https://supercell.com/en](https://supercell.com/en)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: NAHB
 slug: nahb
 description: ""
-date: "2026-03-20T08:22:05.243553"
+date: "2026-04-10T09:40:34.116805"
 draft: false
 sectors:
   - "real-estate"
@@ -50,14 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "nonprofit organization in Washington D.C., United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q30272792"
 has_twitter: false
@@ -77,34 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo information is provided on page 2. Content includes components, clear space, minimum size, colors, backgrounds, incorrect usage, and positioning details.
-- Logo information is provided on page 11. Content includes components, clear space, minimum size, colors, backgrounds, incorrect usage, and positioning details.
-- Logo information is provided on page 13. Content includes components, clear space, minimum size, colors, backgrounds, incorrect usage, and positioning details.
-
-**Color Information:**
-
-- Color palette details mentioned on page 2, including primary, accents, and pairings.
-- Color palette details mentioned on page 7, including primary, accents, and pairings.
-- Color palette details mentioned on page 8, including primary, accents, and pairings.
-- Color palette details mentioned on page 16, including primary, accents, and pairings.
-
-**Typography Information:**
-
-- Typography guidelines referenced on page 2, covering primary, secondary, and alternate typefaces.
-- Typography guidelines referenced on page 20, covering primary, secondary, and alternate typefaces.
-
-**Imagery Photography:**
-
-- Imagery and photography standards found on page 2, including examples and inappropriate usage.
-- Imagery and photography standards found on page 24, including examples and inappropriate usage.
-- Imagery and photography standards found on page 26, including examples and inappropriate usage.
-- Imagery and photography standards found on page 27, including examples and inappropriate usage.
-
-**Spacing Layout:**
-
-- Spacing and layout rules identified on page 37.
+*Guidelines data not available*
 
 ## Additional Properties
 

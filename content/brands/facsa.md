@@ -2,7 +2,7 @@
 title: Facsa
 slug: facsa
 description: ""
-date: "2026-03-20T08:22:03.244120"
+date: "2026-04-10T09:40:30.758751"
 draft: false
 sectors:
   - utilities

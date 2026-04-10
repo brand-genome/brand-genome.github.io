@@ -2,7 +2,7 @@
 title: UMKC
 slug: umkc
 description: ""
-date: "2026-03-20T08:22:04.241439"
+date: "2026-04-10T09:40:32.807887"
 draft: false
 sectors:
   - education
@@ -52,19 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-  - secondary
-brand_colors:
-  - gold
-  - blue
-typographies:
-  - helvetica
-imagery_styles:
-  - clean
-  - natural
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American public university
 wikidata_url: "https://www.wikidata.org/wiki/Q940690"
 has_twitter: false
@@ -83,42 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- UMKC Master Logo - Safe Space and Minimum Size standards are explained for the UMKC master logo. Specific spacing and sizing guidelines must be followed.
-- UMKC Master Logo - Incorrect Logo Use is detailed with examples of common mistakes that must be avoided. Examples include stretching of the logo, color alterations, and placement errors.
-- UMKC Master Logo With Signature - Guidelines on how to use the UMKC logo with associated department or location signature. Usage examples are provided.
-- Minimum size standards for the UMKC logo are specified as 1 inch wide for scaling.
-
-**Color Information:**
-
-- Official UMKC colors are listed, including Pantone (Blue: PMS-285C, Gold: PMS-123C), RGB, CMYK, and HEX values.
-- Guidance on appropriate usage of primary and secondary colors in branded materials, including restrictions and complementary pairings.
-
-**Typography Information:**
-
-- Helvetica Neue and Goudy Old Style are the official fonts for UMKC materials. Usage roles for the fonts are provided for body text, headlines, and formal material.
-- Additional guidelines on recommended font sizes and spacing for various print and digital use cases.
-
-**Imagery Photography:**
-
-- Guidelines specify that images featured in UMKC materials should follow a clean, professional style with natural lighting and friendly tones.
-- Examples of incorrect image usage include overly dark filters and stretching of photos. Accessibility aspects are emphasized.
-
-**Spacing Layout:**
-
-- Safe space requirements around the UMKC logo are detailed in relation to the logo's height and associated elements.
-- Grid alignment and spacing rules for co-branded materials are explained. Equal visual weight must be maintained across all partner logos.
-
-**Brand Voice:**
-
-- UMKC messaging tone is formal, professional, and approachable, emphasizing inclusivity and academic excellence.
-- General social media tone guidelines advise the use of friendly, engaging, yet formal language consistent with UMKC’s brand standards.
-
-**Notes:**
-
-- The document introduces the importance of standardized visual identity for UMKC, including logos, colors, typography, and applications.
-- The UMKC brand aims to represent academic excellence, innovation, and engagement to its community and stakeholders.
+*Guidelines data not available*
 
 ## Additional Properties
 

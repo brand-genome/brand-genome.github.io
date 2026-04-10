@@ -2,7 +2,7 @@
 title: SDSU
 slug: sdsu
 description: ""
-date: "2026-03-20T08:22:04.203643"
+date: "2026-04-10T09:40:32.566865"
 draft: false
 sectors:
   - education
@@ -74,6 +74,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2022
+
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: "Région Rhône-Alpes"
 slug: "region-rhone-alpes"
 description: ""
-date: "2026-03-20T08:22:05.064540"
+date: "2026-04-10T09:40:33.830967"
 draft: false
 sectors:
   - "public-sector"
@@ -46,19 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - univers
-  - display
-  - frutiger
-  - garamond
-imagery_styles:
-  - bold
-  - natural
-  - graphic
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,15 +67,4 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Color Information:**
-
-- Section on 'Univers Couleurs' (Color Universe) is discussed with detailed color usage guidelines. This section likely mentions the visual language related to colors in the brand identity, including primary, secondary, or accent colors, though the extracted text doesn't clarify specific color codes or naming conventions.
-
-**Imagery Photography:**
-
-- Guidelines on communication tools, including use in signage, panel creation, and display boards. Specific measurements in millimeters for text alignment and layout presented across multiple pages. Typography specifications such as 'Frutiger 67 Bold Condensed' and 'ITC Garamond Light' are suggested for different applications.
-
-**Notes:**
-
-- The PDF starts with an introduction mentioning the objectives of the guidelines, emphasizing the importance of uniform branding and involving local stakeholders. It is aimed at natural reserve managers and communication departments for Rhône-Alpes natural reserves.
-- Various notices and confirmations, such as requiring institutional validation before finalizing branding materials and notes on suggested text or graphic contents, are distributed across the document.
+*Guidelines data not available*

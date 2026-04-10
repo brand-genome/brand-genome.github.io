@@ -2,7 +2,7 @@
 title: Université des Antilles
 slug: "universite-des-antilles"
 description: ""
-date: "2026-03-20T08:22:05.723861"
+date: "2026-04-10T09:40:34.680922"
 draft: false
 sectors:
   - education
@@ -55,18 +55,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.univ-antilles.fr](https://www.univ-antilles.fr)
-
-## Brand Guidelines
-
-### 2016
-
-*Guidelines data not available*

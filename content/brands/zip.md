@@ -2,7 +2,7 @@
 title: ZIP
 slug: zip
 description: ""
-date: "2026-03-20T08:22:04.190145"
+date: "2026-04-10T09:40:32.540596"
 draft: false
 sectors:
   - finance
@@ -70,14 +70,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Brand Voice:**
-
-- Zip's brand is centered around empowering people by rebalancing the power in payments. Focus on creating a world where people can live fearlessly today, knowing they’re in control of tomorrow. Brand highlights universal truths: confidence and financial control.
-
-**Notes:**
-
-- The cover page includes the title 'Brand guidelines and merchant marketing resources'.
-- Page includes a heading 'Brand Elements'. Specifics not provided on this page.
+*Guidelines data not available*
 
 ## Additional Properties
 

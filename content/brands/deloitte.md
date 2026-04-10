@@ -2,11 +2,11 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-03-20T08:22:04.968982"
+date: "2026-04-10T09:40:33.740066"
 draft: false
 sectors:
-  - finance
   - consulting
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - financial
 industries:
-  - "professional-services-industry"
   - "accounting-services"
+  - "professional-services-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced:
   - tax
   - audit
-  - "law-firm"
   - consultation
+  - "law-firm"
   - "risk-management"
 products: []
 headquarters_locations:
@@ -61,21 +61,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - white
-  - black
-typographies:
-  - impact
-  - "open-sans"
-  - times
-  - verdana
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: multinational professional services network founded in 1845
 wikidata_url: "https://www.wikidata.org/wiki/Q491748"
 has_twitter: false
@@ -96,39 +85,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Deloitte Green Dot is treated as a valuable brand asset, representing a shorthand symbol for the Deloitte brand. It is treated with respect and retains its meaning as either a sign-off or the start of a point of view.
-- Identifiers are designed for external-facing communications such as advertisements and proposals. These include the linked Green Dot and represent specific business services. Identifier principles focus on external relevance and should clearly reflect client-facing themes.
-
-**Color Information:**
-
-- The primary color palette revolves around Deloitte Green, complemented by usable neutral grays, blues, and other greens. The pie chart demonstrates proportions for color usage. While green is used sparingly to retain its impact, other colors enhance clarity and break up spaces or documents.
-- Primary palette color codes:
-- Deloitte Green (PMS 368, HEX #86BC25, RGB 134,188,37, CMYK 55,0,100,0)
-- Black (PMS Black, HEX #000000, RGB 0,0,0, CMYK 0,0,0,100)
-- White (PMS White, HEX #FFFFFF, RGB 255,255,255)
-Additional complementary colors including blues and grays are listed explicitly with complete Pantone, HEX, RGB, CMYK details.
-
-**Typography Information:**
-
-- Primary typeface is Open Sans, available in weights Light, Regular, Semibold, Bold, Extrabold. System typeface Verdana is used in MS Office applications for compatibility when sharing with external stakeholders.
-
-**Imagery Photography:**
-
-- Primary imagery uses a circular motif derived from the Green Dot. This is a signature design element that creates confidence and focus. It allows for flexible visual expression while reinforcing brand identity.
-
-**Brand Voice:**
-
-- The Deloitte Financial Advisory brand emphasizes 'connected solutions in defining moments.' Terms such as 'global scale and local knowledge,' 'career-defining lifecycle times,' and connecting breakthrough technology are central positioning elements.
-- The brand pyramid outlines:
-1. Deloitte master brand purpose ('To make an impact that matters').
-2. Deloitte Financial Advisory purpose ('To drive smarter decisions in defining moments').
-3. Functional pillars such as agile business advisors, global insights, innovation and technology drive brand behavior and service offerings.
-
-**Notes:**
-
-- The guidelines emphasize the use of internal messaging for positioning and external messaging for clients. Visual directions align with a consistent identity system across internal and marketing materials.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -138,7 +95,7 @@ Additional complementary colors including blues and grays are listed explicitly 
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Tax](/products_or_materials_produced/tax/); [Audit](/products_or_materials_produced/audit/); [Law Firm](/products_or_materials_produced/law-firm/); [Consultation](/products_or_materials_produced/consultation/); [Risk Management](/products_or_materials_produced/risk-management/) |
+| Product Or Material Produced | [Tax](/products_or_materials_produced/tax/); [Audit](/products_or_materials_produced/audit/); [Consultation](/products_or_materials_produced/consultation/); [Law Firm](/products_or_materials_produced/law-firm/); [Risk Management](/products_or_materials_produced/risk-management/) |
 | Headquarters Location | [London](/headquarters_locations/london/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1845](/foundation_dates/1845/) |
 | Founded By | William Welch Deloitte, George Touche |

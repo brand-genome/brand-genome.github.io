@@ -2,7 +2,7 @@
 title: MGM+
 slug: mgm
 description: ""
-date: "2026-03-20T08:22:03.262112"
+date: "2026-04-10T09:40:30.777991"
 draft: false
 sectors:
   - broadcasting
@@ -51,16 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - silver
-  - white
-  - gold
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - gradient
+imagery_styles: []
 wikidata_description: American premium cable and satellite television network
 wikidata_url: "https://www.wikidata.org/wiki/Q5383759"
 has_twitter: false
@@ -79,30 +73,46 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- 3D Logos are presented in gold on dark and light backgrounds. Download formats available: PNG, JPG, TIFF.
-- Gradient Logos feature gold gradients on dark and light backgrounds. Download formats available: PNG, JPG, EPS.
-- Solid Logos include solid gold versions on dark and light backgrounds. Additional formats include black and white logos for other uses. Download formats: PNG, JPG, EPS.
-- Trademarked logos in various formats. Download formats: EPS, PNG, JPG, TIFF.
-- Clear space rules for logo: 1 unit defined as 'the width of fi+fl' between the logo and any other element or background color shift.
-- Logo must be centered using specified guides for positioning.
-- Never rotate or stretch the logo. Avoid using gradient logos on solid color backgrounds. Always maintain contrast and legibility.
+##### Visual Identity Overview
 
-**Color Information:**
+- The MGM+ brand visual identity is centered around a premium, luxurious, and modern aesthetic. The logo is consistently presented in a three-dimensional, metallic gold finish with reflective and shiny surface qualities. The font is bold, stylistic, and often features sharp edges and a slight bevel, conveying a cinematic and entertainment-focused style. The logo is used against plain, neutral backgrounds (white, light gray, or black) to emphasize its metallic qualities and ensure high contrast. Guidelines specify acceptable color palettes (gold, black, white, silver), logo variations (3D, gradient, solid, black & white), and strict rules for logo placement, clear space, and background usage. The overall visual style is minimalistic, elegant, and focused on clarity and branding impact, with no additional imagery or decorative elements allowed. The brand prioritizes consistency and high-end presentation in all logo applications.
 
-- Primary Colors: White (HEX: #FFFFFF, RGB: 255, 255, 255, CMYK: 0, 0, 0, 0), Silver (HEX: #ECEDEB, RGB: 236, 237, 235, CMYK: 6, 4, 5, 0).
-- Gold Palette: Light Gold (HEX: #E0C479, RGB: 224, 196, 121, CMYK: 13, 20, 62, 0), Medium Gold (HEX: #C7AA59, RGB: 199, 170, 89, CMYK: 23, 29, 77, 1), Dark Gold (HEX: #8D6F2F, RGB: 141, 111, 47, CMYK: 39, 49, 96, 19).
-- Pantone References: PMS 8641 C (Metallic), PMS 7557 C (Coated), PMS 7557 U (Uncoated).
+#### Categories
 
-**Spacing Layout:**
+##### Logo Usage
 
-- Logo clear-space configuration: minimum spacing is defined as 1 unit (width of 'fi+fl') around the logo.
-- Logo must be aligned along designated centerlines for uniform positioning.
+- 3D gold on dark background
+- 3D gold on light background
+- Gold gradient on dark background
+- Gold gradient on light background
 
-**Notes:**
+##### Color Palette
 
-- Document includes a mix of visual examples and downloadable file format options (e.g., PNG, JPG, EPS, TIFF). Color rules emphasize accessibility and contrast.
+- White Hex: #FFFFFF RGB: 255, 255, 255 CMYK: 0, 0, 0, 0
+- Black Hex: #000000 RGB: 0, 0, 0 CMYK: 50,50,50,100
+- Silver Hex: #ECEDEB RGB: 236, 237, 235 CMYK: 6, 4, 5, 0
+- Gold Light CMYK: 13, 20, 62, 0 RGB: 224, 196, 121 HEX: e0c479
+- Gold Medium CMYK: 23, 29, 77, 1 RGB: 199, 170, 89 HEX: c7aa59
+- Pantone Metallic PMS 8641 C Pantone Coated PMS 7557 C Pantone Uncoated PMS 7557 U
+- Gold Dark CMYK: 39,49,96, 19 RGB: 141, 111, 47 HEX: 8d6f2f
+- White, Block, Charcoal and Light Silver ore the only acceptable background colors for the gradient logo Never use the MGM+ gold gradient logo on a solid color background.
+
+##### Visual Style
+
+- The image should prominently display the text 'MGM+' in a three-dimensional, metallic gold finish, with reflective and shiny surface qualities. The font should be bold and stylistic, with sharp edges and a slight bevel, conveying a premium and luxurious aesthetic. The plus sign is positioned immediately after the letters, matching the same reflective gold style, and is slightly smaller but clearly visible. The background should be plain and neutral, likely white or light-colored, to emphasize the metallic text. The lighting should create highlights and subtle shadows on the text, enhancing the three-dimensional effect and giving the logo a polished, high-end appearance. No additional elements or imagery are necessary; the focus remains solely on the text, capturing a modern cinematic or entertainment branding style.
+- 3D gold on dark background
+- 3D gold on light background
+- Gold gradient on dark background
+- Gold gradient on light background
+
+##### Layout And Composition
+
+- 3D gold on dark background
+- 3D gold on light background
+- Gold gradient on dark background
+- Gold gradient on light background
 
 ## Additional Properties
 

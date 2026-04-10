@@ -2,11 +2,11 @@
 title: Taboola
 slug: taboola
 description: ""
-date: "2026-03-20T08:22:03.972540"
+date: "2026-04-10T09:40:31.891222"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - marketing
 industries:
-  - "advertising-industry"
   - "digital-marketing"
+  - "advertising-industry"
   - "software-industry"
 countries:
   - "united-states"
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: "Technology company specialized in contextual, native advertising"
 wikidata_url: "https://www.wikidata.org/wiki/Q18154756"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -84,12 +84,6 @@ visual_term_image_urls: {}
 - [https://www.taboola.com/zh-hant](https://www.taboola.com/zh-hant)
 - [https://www.taboola.com/es](https://www.taboola.com/es)
 - [https://www.taboola.com/ja](https://www.taboola.com/ja)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

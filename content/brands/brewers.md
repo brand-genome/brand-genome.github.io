@@ -2,7 +2,7 @@
 title: Brewers
 slug: brewers
 description: ""
-date: "2026-03-20T08:22:04.660839"
+date: "2026-04-10T09:40:33.389532"
 draft: false
 sectors:
   - sports
@@ -50,18 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-123"
-  - gold
-  - navy
-  - blue
-  - "pantone-293"
-  - "pantone-2767"
-  - "pantone-19"
-  - "pantone-14"
-  - "pantone-18"
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States"
@@ -82,36 +72,68 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary Club Logo in regular and 3D versions.
-- Primary Club Logo on dark background and one-color options.
+##### Visual Identity Overview
 
-**Color Information:**
+- The Milwaukee Brewers brand visual identity is centered around bold, athletic, and sports-oriented imagery. The primary logo features a stylized fist with a baseball, encircled by the team name in a clean, sans-serif font. The color palette includes navy blue, gold, and white, used consistently across logos, uniforms, and emblems. Typography is blocky, collegiate, and script styles, emphasizing strength and movement. The brand uses multiple logo variations, including color, monochrome, and black-and-white, and applies these across uniforms, caps, and signage. The overall style is clean, graphic, and highly recognizable, with a focus on sportsmanship and team pride. [^1]
 
-- Milwaukee Brewers Navy:
-Pantone 2767 C
-C: 100, M: 87, Y: 42, K: 41
-Pantone 19-4013 TC
-RGB: R: 00, G: 36, B: 93
-HEX: #00245D
-- Milwaukee Brewers Gold:
-Pantone 123 C
-C: 00, M: 23, Y: 91, K: 00
-Pantone 14-1064 TC
-RGB: R: 186, G: 151, B: 101
-HEX: #BA9765
-- Milwaukee Brewers Blue:
-Pantone 293 C
-C: 100, M: 86, Y: 01, K: 00
-Pantone 18-4140 TC
-RGB: R: 138, G: 31, B: 03
-HEX: #8A1F03
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Trademarks and other artwork marks displayed need official approval by Major League Baseball Properties.
-- RGB formulations are optimized for digital, web, and broadcast usage.
+- Note: Yellow outline must remain on overall mark.
+- ON DARK BACKGROUND ONE-COLOR "TM" notices on these pages are for placement purposes only. licensees will be apprised of the appropriate "TM" or "®" notice for each product upon submission of product materials to Major League Baseball Properties for Ouality Control Review. Trademarks are proprietary to Major league Baseball entities. Any use of these marks must be approved by Major league Baseball Properties. TM/© 2019 Major league Baseball Properties, lnc.
+
+##### Color Palette
+
+- Milwaukee Brewers Navy: Pantone® 2767, Process Color: C 100, M 87, Y 42, K 41, Textile Color: Pantone 19-4013 TC, Thread Colors: FuFu-3767 MD-1044 RA-2387
+- Milwaukee Brewers Gold: Pantone® 123, Process Color: C 00, M 23, Y 91, K 00, Textile Color: Pantone 14-1064 TC, Thread Colors: FuFu-524 MD-1024 RA-2396
+- Milwaukee Brewers Blue: Pantone® 293, Process Color: C 100, M 86, Y 01, K 00, Textile Color: Pantone 18-4140 TC, Thread Colors: FuFu-3653 MD-1133 RA-2529
+- Note: Use Club Colors and formulations provided above OR match Pantone® Formula Guide Solid Coated swatches
+- Yellow outline must remain on overall mark.
+
+##### Typography
+
+- On the palm of the fist is a small, white baseball with yellow stitching, round in shape. Encircling the fist at the top and bottom are white, uppercase text; at the top, it reads 'MILWAUKEE' and at the bottom, 'BREWERS,' both following the curve of the circle. The text is bold and evenly spaced, with a clean, sans-serif font.
+- The text 'MILWAUKEE BREWERS' is displayed in a circular arrangement around the fist, in white, uppercase letters, with 'MILWAUKEE' positioned at the top and 'BREWERS' at the bottom.
+- The first logo on the left is a colored version with a dark blue circular background, a gold outer ring containing the text 'MILWAUKEE BREWERS' in white capital letters, and a stylized hand above a beer mug in the center, which is primarily white with gold accents.
+- The middle logo is a black-and-white version, with the same circular design, text, and hand and mug illustration, all rendered in black, white, and shades of gray.
+- The third logo on the right is another monochrome variation, also in black, white, and shades of gray, with the same design elements.
+- The first section from the left shows an off-white or beige background with a curved, arching text that reads 'BREWERS' in bold, black, uppercase letters with a slight arch.
+- The second section features a beige background with the word 'MILWAUKEE' in large, bold, black uppercase letters, slightly arched.
+- The third section displays a sign similar to the first, with an off-white background and the same 'BREWERS' text in curved, uppercase black letters, but with the addition of a faint vertical striped pattern overlaying the entire sign.
+- The fourth section features a dark blue background with the word 'Milwaukee' written in a yellow, cursive, italicized script, contrasting with the background.
+- The first rectangle, labeled 'HOME,' has a black background with yellowish-tan text; it shows the alphabet from A to Z arranged in uppercase letters at the top, with the road designation '12345 67890' centered below, in large white numerals.
+- The second rectangle, labeled 'ROAD,' has a white background with black text, displaying the alphabet in uppercase letters at the top, followed by the number sequence '12345 67890' in black, larger font in the center.
+- The third rectangle, labeled 'ALTERNATE HOME,' has a white background with a black border, the alphabet in uppercase at the top, and the number sequence '12345 67890' below, all in black font.
+- The fourth rectangle, labeled 'ALTERNATE ROAD,' has a dark background, with the alphabet and numbers in blue and orange respectively, and features a more stylized font, with the alphabet in uppercase at the top, and the number sequence '12345 67890' below, aligned centrally and in a larger, bolder font.
+- The image features the word 'BREWERS' in large, bold, uppercase letters that are arched slightly upward. The font style is blocky and collegiate, with each letter outlined in gold and filled with a dark blue color.
+- The image should feature a rectangular background in a dark navy blue color with the word 'BREWERS' prominently displayed in the center in large, bold, yellow uppercase letters. The font used for the text is blocky with angular serifs, conveying a strong and sturdy appearance. The word is slightly arched, creating a gentle curve across the middle of the background.
+- The image features a rectangular yellow background occupying the right half of the image, displaying the word 'BREWERS' in bold, dark blue, uppercase letters that are slightly arched. The text is centered within the rectangle, with the letter 'B' and 'S' near the edges of the rectangle, and all letters uniformly spaced in a blocky, collegiate font style.
+- The image consists of three variations of a logo text 'MILWAUKEE' displayed horizontally. The first variation shows the word in black, bold, uppercase letters with a slight arch, on a white background. The second variation depicts the same text in gold-colored, bold, uppercase letters with a slight arch, but on a navy blue background. The third variation presents the word in the same style and color as the second, on a bright yellow background.
+- The image should prominently feature the word 'Milwaukee' in a bold, stylized script font that emphasizes a sense of movement and dynamism. The text should be colored in a dark navy blue with a distinct yellow or gold outline around each letter, creating a high contrast for visibility.
+- The image should feature the word 'Milwaukee' prominently displayed in large, bold, yellow script font with a slight italic slant, set against a solid, dark navy blue rectangular background.
+- The image features a rectangular sign with a bright yellow background and a thin black border along its edges. Centered prominently in the middle of the sign is the word 'Milwaukee' written in a bold, dark blue, cursive font that has a slight slant to the right, giving it an energetic and dynamic appearance. The text is large, occupying most of the sign's central area, and has a smooth, flowing style characteristic of a signature or handwritten script.
+- The image should feature three side-by-side samples of digital or printed characters displaying the digits 0 through 9 in two rows, with each sample set presented on a separate rectangular background. The first sample has a white background with black or dark brown text, the characters are uppercase alphabetic letters in the alphabetic sequence from A to Z divided into three lines, with numerals '1 2 3 4 5' on the top row and '6 7 8 9 0' on the bottom row; all characters are in a bold, sans-serif font with consistent size and spacing. The second sample has a dark blue background with characters in a bright orange or yellow color, displaying the same alphabetic sequence and numerals in the identical arrangement and font style, creating a high contrast and emphasis. The third sample has a vibrant yellow background with characters in a dark blue or navy color, also showing the same sequence and arrangement, maintaining visual consistency across all three samples.
+
+##### Logo Usage
+
+- ON DARK BACKGROUND ONE-COLOR "TM" notices on these pages are for placement purposes only. licensees will be apprised of the appropriate "TM" or "®" notice for each product upon submission of product materials to Major League Baseball Properties for Ouality Control Review. Trademarks are proprietary to Major league Baseball entities. Any use of these marks must be approved by Major league Baseball Properties. TM/© 2019 Major league Baseball Properties, lnc.
+- Note: Yellow outline must remain on overall mark.
+
+##### Visual Style
+
+- Note: Yellow outline must remain on overall mark.
+- ON DARK BACKGROUND ONE-COLOR "TM" notices on these pages are for placement purposes only. licensees will be apprised of the appropriate "TM" or "®" notice for each product upon submission of product materials to Major League Baseball Properties for Ouality Control Review. Trademarks are proprietary to Major league Baseball entities. Any use of these marks must be approved by Major league Baseball Properties. TM/© 2019 Major league Baseball Properties, lnc.
+- Note: Use Club Colors and formulations provided above OR match Pantone® Formula Guide Solid Coated swatches
+- Milwaukee Brewers Navy: Pantone® 2767, C 100, M 87, Y 42, K 41, Pantone 19-4013 TC, FuFu-3767 MD-1044 RA-2387
+- Milwaukee Brewers Gold: Pantone® 123, C 00, M 23, Y 91, K 00, Pantone 14-1064 TC, FuFu-524 MD-1024 RA-2396
+- Milwaukee Brewers Blue: Pantone® 293, C 100, M 86, Y 01, K 00, Pantone 18-4140 TC, FuFu-3653 MD-1133 RA-2529
+
+##### Layout And Composition
+
+- Note: Yellow outline must remain on overall mark.
 
 ## Additional Properties
 

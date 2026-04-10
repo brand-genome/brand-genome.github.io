@@ -2,7 +2,7 @@
 title: University of Salford
 slug: "university-of-salford"
 description: ""
-date: "2026-03-20T08:22:03.376041"
+date: "2026-04-10T09:40:30.905038"
 draft: false
 sectors:
   - education
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: "public research university in Salford, Greater Manchester"
 wikidata_url: "https://www.wikidata.org/wiki/Q2738622"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 - [https://www.salford.ac.uk](https://www.salford.ac.uk)
 - [http://www.salford.ac.uk](http://www.salford.ac.uk)
 - [http://www.salford.ac.uk/homepage.html](http://www.salford.ac.uk/homepage.html)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

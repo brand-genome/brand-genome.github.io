@@ -2,7 +2,7 @@
 title: St John’s University
 slug: "st-johns-university"
 description: ""
-date: "2026-03-20T08:22:05.785974"
+date: "2026-04-10T09:40:34.769576"
 draft: false
 sectors:
   - education
@@ -70,36 +70,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo guidelines mentioned on page 3. Extract full information.
-- Logo guidelines mentioned on page 19. Extract full information.
-- Logo guidelines mentioned on page 20. Extract full information.
-- Logo guidelines mentioned on page 22. Extract full information.
-- Logo guidelines mentioned on page 24. Extract full information.
-- Logo guidelines mentioned on page 26. Extract full information.
-
-**Color Information:**
-
-- Color guidelines mentioned on page 3. Extract color codes.
-- Color guidelines mentioned on page 28. Extract color codes.
-
-**Typography Information:**
-
-- Typography guidelines discussed on page 3.
-- Typography guidelines discussed on page 27.
-
-**Brand Voice:**
-
-- Brand voice and editorial guidelines discussed on page 3.
-- Brand voice and editorial guidelines discussed on page 10.
-- Brand voice and editorial guidelines discussed on page 12.
-- Brand voice and editorial guidelines discussed on page 14.
-- Brand voice and editorial guidelines discussed on page 16.
-
-**Notes:**
-
-- General notes related to vision, mission, or brand. Found on page 3.
-- General notes related to vision, mission, or brand. Found on page 10.
-- General notes related to vision, mission, or brand. Found on page 18.
-- General notes related to vision, mission, or brand. Found on page 32.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-03-20T08:22:05.132463"
+date: "2026-04-10T09:40:33.944879"
 draft: false
 sectors:
   - software
@@ -32,10 +32,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - workstation
-  - server
   - software
+  - workstation
   - "computer-hardware"
+  - server
 products: []
 headquarters_locations:
   - "santa-clara"
@@ -61,12 +61,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-brand_colors:
-  - yellow
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: defunct American computer hardware and software company
@@ -88,28 +84,11 @@ visual_term_image_urls: {}
 
 ### 2004
 
-**Logo Information:**
-
-- Proper usage of the Sun corporate logo and authorized versions, including the logomark (bug), logotype, and 'Microsystems' text. These elements must not be separated.
-- Minimum clearspace of 1x (distance from the cap height of 'Sun' to the baseline of 'Microsystems') must be maintained around the Sun logo to ensure visual clarity and prominence.
-- Approved identity versions shown on pages 5-6. Specifics on approved identity variations of the Sun corporate logo.
-- Examples of unacceptable applications of the Sun corporate logo, provided with visual clarification.
-- File formats for Sun logos are available for Macintosh and PC platforms in Illustrator EPS, GIF, and JPEG formats. EPS should be used for print formats, and GIF/JPEG for digital formats like web and UI.
-- The Sun logo must always maintain legibility. Minimum size and registered mark (®) standards must be adhered to.
-
-**Color Information:**
-
-- Color palette includes one-color black (1C), one-color PMS (1C), four-color CMYK (4C), RGB, and white. The black logo must be used on a Sun Yellow background. Black or white logos can be applied depending on background color or application.
-
-**Spacing Layout:**
-
-- Clearspace rule: Minimum clearspace around the Sun corporate logo is defined as 1x, where x is the height of the word 'Sun'. No imagery or text should encroach this defined clearspace.
-
-**Notes:**
-
-- Guidelines emphasize consistent adherence to logo spacing, size, color, and file format standards to maintain brand integrity.
+*Guidelines data not available*
 
 ### 2002
+
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -119,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Software](/products_or_materials_produced/software/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/) |
 | Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |

@@ -2,7 +2,7 @@
 title: BitsCrunch
 slug: bitscrunch
 description: ""
-date: "2026-03-20T08:22:04.220796"
+date: "2026-04-10T09:40:32.633214"
 draft: false
 sectors:
   - software
@@ -47,14 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,35 +68,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo guidelines mention the logo as a unique identity reflecting the company's robust and intelligent image. Execution rules prohibit unlawful representation or use.
-- Primary Lockup format for bitsCrunch logo is shown prominently.
-- Guidelines describing primary and secondary logo lockup standards usage in documentation.
-- Logo clear space rules and minimum size requirements are outlined.
-- Examples of incorrect logo usage are provided, illustrating non-compliance scenarios.
-
-**Color Information:**
-
-- Primary brand colors are defined with HEX, RGB, and CMYK values. Secondary/accent colors are also outlined.
-
-**Typography Information:**
-
-- Typography guidelines specify the font family, weights, and usage roles for headers, body text, and captions.
-
-**Imagery Photography:**
-
-- Imagery composition rules and style guidelines for brand photography are detailed.
-
-**Spacing Layout:**
-
-- Spacing and layout guidelines specify grid, alignment, and margin rules.
-
-**Brand Voice:**
-
-- Brand voice descriptors emphasize a confident, intelligent, and innovative tone of communication.
-
-**Notes:**
-
-- The document emphasizes lawful execution and proper representation of the logo in alignment with guidelines.
-- Early pages primarily focus on proper usage, visual identity standards, and distinctions between logo formats for documentation versus general branding.
+*Guidelines data not available*

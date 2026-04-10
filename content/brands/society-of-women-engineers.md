@@ -2,7 +2,7 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-03-20T08:22:04.159596"
+date: "2026-04-10T09:40:32.478756"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - community
+  - engineering
 industries: []
 countries:
   - "united-states"
@@ -52,27 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - gold
-  - teal
-  - white
-  - purple
-  - blue
-  - gray
-  - yellow
-  - orange
-  - pink
-  - black
-typographies:
-  - "open-sans"
-  - arial
-imagery_styles:
-  - graphic
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "American non-profit"
 wikidata_url: "https://www.wikidata.org/wiki/Q51768"
 has_twitter: false
@@ -93,43 +76,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo file types and their usage: EPS logos are for professional graphic design and preferred for professional printed pieces. PNG files are for web, Microsoft, and non-professional printing where a transparent background is needed. JPEG always has a white background and is suitable for web and email usage.
-- Clear space rule mentions the need for maintaining spaces between elements using segmented lines. When using the SWE Primary Brand with the segmented line, there must be visual space between the lines and the elements they interact with.
-- Minimum size requirement is mentioned for the gear pattern component, specifying that the width of the individual gears should not be less than 1/4 inch (0.7 cm) or greater than 1 inch (2.5 cm) based on application.
-- 1-color SWE logos must default to SWE Purple (PMS 5275 C).
-- Full-color version of the logo is preferred across applications. Other versions include a 1-color SWE Purple version and a Black version suitable for grayscale applications.
-
-**Color Information:**
-
-- Primary colors: SWE Purple (PMS 5275 C, CMYK: 71/71/31/13, RGB: 90/83/119, Hex: #5A5377), SWE Gold (PMS 458C, CMYK: 16/17/81/0, RGB: 219/197/84, Hex: #DBC554), SWE Gray (PMS Cool Gray 6 C, CMYK: 35/29/28/0, RGB: 169/169/169, Hex: #A9A8A9).
-- Secondary colors include SWE Burgundy (PMS 696 C, CMYK: 32/81/55/16, RGB: 155/71/85, Hex: #9B4755), SWE Light Purple (PMS 667 C, CMYK: 57/63/23/3, RGB: 125/104/144, Hex: #7D6890), SWE Dark Gray (PMS 425 C, CMYK: 65/56/53/29, RGB: 84/87/89, Hex: #545759), SWE Teal (PMS 7709 C, CMYK: 60/13/25/0, RGB: 99/176/187, Hex: #63B0BB), SWE Orange (PMS 7577 C, CMYK: 7/61/87/0, RGB: 229/125/60, Hex: #E57D3C).
-- ADA-compliant colors: Web SWE Pink (PMS 710 C, CMYK: 4/90/64/0, RGB: 230/63/82, Hex: #E63F52), Web SWE Teal (PMS: 7713 C, CMYK: 100/0/29/24, RGB: 0/125/138, Hex: #007D8A), Web SWE Blue (PMS: 2382 C, CMYK: 83/43/0/2, RGB: 39/116/184, Hex: #2774AE), Web SWE Dark Purple (PMS: 4144 C, CMYK: 79/72/17/43, RGB: 58/58/89, Hex: #3A3A59).
-- Colors that are ADA-compliant on SWE’s Purple and Dark Gray are SWE Gold, SWE Cool Gray, SWE Green, SWE Yellow.
-- Colors that are ADA-compliant on SWE’s Dark Purple include SWE Gold, SWE Cool Gray, SWE Green, SWE Yellow, SWE Blue, SWE Orange, SWE Teal.
-
-**Typography Information:**
-
-- Primary typeface is Open Sans and Open Sans Condensed, allowing easy readability in print and electronic communications. Open Sans includes weights/styles and is available for free download.
-- Backup font is Arial Regular, approved for use when Open Sans cannot be used.
-
-**Imagery Photography:**
-
-- Imagery should represent SWE positively and professionally, emphasizing diversity and inclusion. Avoid non-professional snapshots for primary branding; they can only be used for secondary materials.
-- File types for imagery: High-resolution (300 dpi) images for print; low-resolution (72 dpi) for on-screen viewing. PNGs recommended for Microsoft applications.
-
-**Spacing Layout:**
-
-- Gear patterns in SWE identity must have widths between 1/4 inch and 1 inch. Opacities for dark colors range between 15-20%, and light colors range between 20-40%, depending on the background.
-
-**Brand Voice:**
-
-- Imagery and campaigns emphasize professionalism, diversity, inclusiveness, empowerment, and positivity.
-
-**Notes:**
-
-- Themes like gear patterns and segmented lines are visually significant in the SWE brand identity system. These elements highlight key points in SWE communications.
+*Guidelines data not available*
 
 ## Additional Properties
 

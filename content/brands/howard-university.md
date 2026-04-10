@@ -2,7 +2,7 @@
 title: Howard University
 slug: "howard-university"
 description: ""
-date: "2026-03-20T08:22:04.894277"
+date: "2026-04-10T09:40:33.662789"
 draft: false
 sectors:
   - education
@@ -59,9 +59,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: university in Washington D.C.
 wikidata_url: "https://www.wikidata.org/wiki/Q1068752"
 has_twitter: false
@@ -82,38 +80,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Description related to Howard University's logo, including usage, namemarks, trademarks, and licensing details.
-- Proper usage guidelines of Howard University namemarks including case formatting and prohibitions.
-
-**Color Information:**
-
-- Color codes and representation in official Howard University branding, including guidelines for materials and documents.
-
-**Typography Information:**
-
-- Typography specifications used in Howard University's branded materials, including size, weight, and font styles.
-- Information on font usage and roles across Howard University communications.
-
-**Imagery Photography:**
-
-- Photography style and rules for professional materials at Howard University including cost estimates and guidelines for acceptable formats.
-- On-campus photo and video usage rules for Howard University, including archival submission requirements.
-
-**Spacing Layout:**
-
-- Grid alignment and spacing rules that guide design layouts in Howard University's branding materials.
-
-**Brand Voice:**
-
-- Howard University's tone of voice specifications and descriptions to align communications with the institution's core values.
-- Guidelines for engaging stakeholders in social media spaces, protecting brand opportunity, efficiency, and shared content.
-
-**Notes:**
-
-- Howard University's archival agency guidelines including restrictions, permissions, and procedures for sharing archived materials.
-- Policies impacting media inquiries, sensitive University incidents, and response guidelines applied across departments.
+*Guidelines data not available*
 
 ## Additional Properties
 

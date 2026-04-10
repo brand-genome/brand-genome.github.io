@@ -2,7 +2,7 @@
 title: AFL
 slug: afl
 description: ""
-date: "2026-03-20T08:22:04.077692"
+date: "2026-04-10T09:40:32.128924"
 draft: false
 sectors:
   - sports
@@ -47,14 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - symbol
-brand_colors:
-  - silver
-  - red
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: sports statistics website
@@ -75,34 +69,103 @@ visual_term_image_urls: {}
 
 ### 1999
 
-**Logo Information:**
+#### Brand Summary
 
-- The AFL brand comprises two elements: the elliptical shape and the AFL wordmark. These elements should always appear together. Master artwork is available in digital format for both Macintosh and IBM systems; authorized artwork must be used and not redrawn.
-- Logo variations: 3 color, 2 color, 1 color, 1 color simplified version (for small reproductions). Minimum sizes are specified: 25mm width for 3 color and 2 color versions, 10mm width for simplified 1 color version.
-- Clear space guidelines: Minimum clear space must surround the brand at all sizes. The space is calculated using a basic formula. Additional clear space is desirable.
-- Reversed versions: The 3 color brand has a graduated halo to separate it from backgrounds; 2 color and 1 color brands use a solid keyline. Minimum size specifications apply.
-- The position and size of the ® symbol are fixed; it must remain visible and cannot be less than 1mm in width and height.
-- Official artwork for variations listed with reference codes (e.g., AFL04a.eps for AFL Blue). File formats available include EPS for spot and CMYK processes.
+##### Mission
 
-**Color Information:**
+- Ensure consistent presentation of the AFL brand across all applications by adhering to strict guidelines for logo usage, color, and artwork.
 
-- Corporate colors: AFL Blue (Pantone PMS 287, CMYK C:100 M:70 Y:0 K:10), AFL Red (Pantone PMS 485, CMYK C:5 M:100 Y:90 K:0), AFL Silver (Pantone PMS 8400, CMYK C:0 M:0 Y:0 K:40). These colors apply to coated and uncoated stocks.
-- Thread colors for woven applications: AFL Blue (Madiera 1076) and AFL Red (Madiera 1037). Only 2 color AFL brand versions may be woven.
-- Reversal usage: Background Spot CMYK examples provided with files such as AFL04a.eps and AFL04b.eps listed for AFL Blue, AFL Red, Black, and AFL Silver.
+##### Core Values
 
-**Imagery Photography:**
+- consistency
+- clarity
+- recognizability
+- professionalism
 
-- Reversing the AFL brand out of a photographic image is allowed as long as background details do not interfere with legibility.
+##### Target Audience
 
-**Spacing Layout:**
+- Organizations, designers, and licensees responsible for reproducing or applying the AFL brand in official and licensed contexts.
 
-- Clear space guidelines: Minimum clear space around brand is calculated based on the size formula on page 2. Use of additional clear space beyond minimum requirement is encouraged.
+##### Personality Traits
 
-**Notes:**
+- bold
+- dynamic
+- modern
+- patriotic
 
-- All colors shown in the guidelines to depict brand variations are indicative only and should not be used for accurate color reference.
-- Approval from AFL Licensing Division is required before using the 3 color brand in any application. Licensing applications require specific permissions.
-- The simplified version of 1 color AFL brand is intended for widths smaller than 25mm but greater than 10mm.
+##### Visual Identity Overview
+
+- The AFL brand is defined by its elliptical logo shape and wordmark, using a vibrant color palette (AFL Blue, AFL Red, AFL Silver), clear space requirements, and strict rules for logo variations, minimum sizes, and reproduction methods. The visual style emphasizes sharpness, clarity, and recognizability.
+
+#### Categories
+
+##### Logo Usage
+
+- The AFL brand comprises two elements; the elliptical shape and the AFL wordmark. These elements should always appear together, as shown below.
+- Before using the 3 colour brand in any application, ensure that you seek approval from the AFL Licensing Division. The 3 colour brand may not be used in any Licensing application.
+- To reproduce the AFL brand it is essential that you use the digital artwork supplied. This is available in both Macintosh and IBM formats. Always use authorised master artwork available -never redraw the brand.
+- Refer to the 'AFL brand variations' page of these guidelines for correct brand variation usage.
+- All colours shown in these guidelines to depict the AFL brand variations are indicative only and should not be used as an accurate colour reference.
+- The official corporate colours are: AFL Blue PMS 287, AFL Red PMS 485, AFL Silver PMS 8400. These PMS colours apply when printing on both coated and uncoated stock. The AFL brand may only appear in the colours specified in these guidelines. No other colour combination is acceptable. Always attach colour swatches to the master artwork to ensure correct colour specifications.
+- If reproduction using Pantone® (spot) colours is not possible, process (CMYK) equivalents may be used. AFL Blue (PMS 287): C 100% M 70% Y 0% K 10%. AFL Red (PMS 485): C 5% M 100% Y 90% K 0%. AFL Silver (PMS 8400): C 0% M 0% Y 0% K 40%.
+- The AFL brand variations are supplied in both spot and CMYK formats.
+- The official corporate thread colours are: AFL Blue: Madiera 1076, AFL Red: Madiera 1037. Only the 2 colour AFL brand may be woven.
+- The brand is most effective when surrounded by as much uninterrupted space as possible. The example below shows the basic formula for calculating the minimum clear space and can be used as a guide to determine the clear space for the brand at all sizes. Use of additional clearspace, outside the minimum requirement is desirable.
+- Where the AFL brand is reversed from a background, the correct digital artwork file must be used. Refer to the table on page 4 of these guidelines. The 3 colour AFL brand has a graduated halo separating the AFL brand from the background. The 2 colour and 1 colour AFL brands have a solid keyline. Minimum size specifications apply.
+- The brand may be reversed out of a photographic image, although care should be taken to ensure that the background detail does not interfere with the brand or make it illegible.
+- To avoid any possible reproduction problems, the AFL 3 colour brand may never be reproduced at a width less than 25mm. The 2 colour brand should, wherever possible, be reproduced at a minimum width of 25mm, but may be reproduced at a 10mm width provided the® symbol remains at a minimum size of 1mm in width and height. The 1 colour brand should not appear smaller than 25mm in width -when it does, the simplified version must be used (outlined below).
+- Where the 1 colour AFL brand is reproduced at a size smaller than 25mm in width, use the simplified version to ensure legibility and correct minimum size for the ® symbol. The simplified version may only be reproduced at a width less than 24mm and greater than 10mm. The 1 colour AFL brand may not be reproduced at a size smaller than 10mm in width.
+- The position and size of the ® symbol is fixed and must always be visible. It may never appear smaller than 1mm in width and height.
+- ® symbol is fixed on all AFL brand variations
+- 3 colour AFL brand at minimum size -note, ® symbol is at minimum size of 1 mm
+- AFL brand simplifed version at minimum size in 1 colour and 2 colour -note, ® symbol is realigned and remains at minimum size of 1 mm
+- Shown below are the AFL brand variations. Alongside each brand is the reference code for the digital artwork.
+- 3 colour AFL brand The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485 AFL Silver PMS 8400
+- 2 colour AFL brand The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485
+- 1 colour AFL brand The official corporate colours are: AFL Blue PMS 287 or Black No other colour is acceptable
+- 1 colour AFL brand Simplified version The official corporate colours are: AFL Blue PMS 287 or Black No other colour is acceptable
+- Note: ensure ® symbol is reversed
+
+##### Color Palette
+
+- The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485 AFL Silver PMS 8400 These PMS colours apply when printing on both coated and uncoated stock. The AFL brand may only appear in the colours specified in these guidelines. No other colour combination is acceptable. Always attach colour swatches to the master artwork to ensure correct colour specifications.
+- If reproduction using Pantone® (spot) colours is not possible, process (CMYK) equivalents may be used. AFL Blue (PMS 287): C 100% M 70% Y 0% K 10% AFL Red (PMS 485): C 5% M 100% Y 90% K 0% AFL Silver (PMS 8400): C 0% M 0% Y 0% K 40%
+- The official corporate thread colours are: AFL Blue: Madiera 1076 AFL Red: Madiera 1037 Note: only the 2 colour AFL brand may be woven
+- Note: All colours shown in these guidelines to depict the AFL brand variations are indicative only and should not be used as an accurate colour reference.
+- The AFL brand may only appear in the colours specified in these guidelines.
+- No other colour combination is acceptable.
+- Where the AFL brand is reversed from a background, the correct digital artwork file must be used. Refer to the table on page 4 of these guidelines. The 3 colour AFL brand has a graduated halo separating the AFL brand from the background. The 2 colour and 1 colour AFL brands have a solid keyline. Minimum size specifications apply.
+- The brand may be reversed out of a photographic image, although care should be taken to ensure that the background detail does not interfere with the brand or make it illegible.
+- 3 colour AFL brand with graduated halo 2 colour, 1 colour and simplified version AFL brands use a solid keyline
+- To avoid any possible reproduction problems, the AFL 3 colour brand may never be reproduced at a width less than 25mm. The 2 colour brand should, wherever possible, be reproduced at a minimum width of 25mm, but may be reproduced at a 10mm width provided the® symbol remains at a minimum size of 1mm in width and height. The 1 colour brand should not appear smaller than 25mm in width -when it does, the simplified version must be used (outlined below).
+- Where the 1 colour AFL brand is reproduced at a size smaller than 25mm in width, use the simplified version to ensure legibility and correct minimum size for the ® symbol. The simplified version may only be reproduced at a width less than 24mm and greater than 10mm. The 1 colour AFL brand may not be reproduced at a size smaller than 10mm in width.
+- Shown below are the AFL brand variations. Alongside each brand is the reference code for the digital artwork. 3 colour AFL brand The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485 AFL Silver PMS 8400 Pantone® (spot) -AFL03a.eps Process (CMYK) -AFL03b.eps AFL Blue AFL Red Black AFL Silver Note: ensure ® symbol is reversed 2 colour AFL brand The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485 Pantone® (spot) -AFL01a.eps Process (CMYK) -AFL01b.eps Note: ensure ® symbol is reversed 1 colour AFL brand The official corporate colours are: AFL Blue PMS 287 or Black No other colour is acceptable AFL02a.eps Note: ensure ® symbol is reversed 1 colour AFL brand Simplified version The official corporate colours are: AFL Blue PMS 287 or Black No other colour is acceptable AFL02b.eps Note: ensure ® symbol is reversed
+
+##### Visual Style
+
+- The AFL brand comprises two elements; the elliptical shape and the AFL wordmark. These elements should always appear together, as shown below.
+- Before using the 3 colour brand in any application, ensure that you seek approval from the AFL Licensing Division. The 3 colour brand may not be used in any Licensing application.
+- To reproduce the AFL brand it is essential that you use the digital artwork supplied. This is available in both Macintosh and IBM formats. Always use authorised master artwork available -never redraw the brand.
+- Refer to the 'AFL brand variations' page of these guidelines for correct brand variation usage.
+- Note: All colours shown in these guidelines to depict the AFL brand variations are indicative only and should not be used as an accurate colour reference.
+- The official corporate colours are: AFL Blue PMS 287 AFL Red PMS 485 AFL Silver PMS 8400
+- These PMS colours apply when printing on both coated and uncoated stock. The AFL brand may only appear in the colours specified in these guidelines. No other colour combination is acceptable.
+- Always attach colour swatches to the master artwork to ensure correct colour specifications.
+- If reproduction using Pantone® (spot) colours is not possible, process (CMYK) equivalents may be used. AFL Blue (PMS 287): C 100% M 70% Y 0% K 10% AFL Red (PMS 485): C 5% M 100% Y 90% K 0% AFL Silver (PMS 8400): C 0% M 0% Y 0% K 40%
+- Note: the AFL brand variations are supplied in both spot and CMYK formats.
+- The official corporate thread colours are: AFL Blue: Madiera 1076 AFL Red: Madiera 1037 Note: only the 2 colour AFL brand may be woven
+- The brand is most effective when surrounded by as much uninterrupted space as possible. The example below shows the basic formula for calculating the minimum clear space and can be used as a guide to determine the clear space for the brand at all sizes. Use of additional clearspace, outside the minimum requirement is desirable.
+- Where the AFL brand is reversed from a background, the correct digital artwork file must be used. Refer to the table on page 4 of these guidelines. The 3 colour AFL brand has a graduated halo separating the AFL brand from the background. The 2 colour and 1 colour AFL brands have a solid keyline. Minimum size specifications apply.
+- The brand may be reversed out of a photographic image, although care should be taken to ensure that the background detail does not interfere with the brand or make it illegible.
+- To avoid any possible reproduction problems, the AFL 3 colour brand may never be reproduced at a width less than 25mm. The 2 colour brand should, wherever possible, be reproduced at a minimum width of 25mm, but may be reproduced at a 10mm width provided the® symbol remains at a minimum size of 1mm in width and height. The 1 colour brand should not appear smaller than 25mm in width -when it does, the simplified version must be used (outlined below).
+- Where the 1 colour AFL brand is reproduced at a size smaller than 25mm in width, use the simplified version to ensure legibility and correct minimum size for the ® symbol. The simplified version may only be reproduced at a width less than 24mm and greater than 10mm. The 1 colour AFL brand may not be reproduced at a size smaller than 10mm in width.
+- The position and size of the ® symbol is fixed and must always be visible. It may never appear smaller than 1mm in width and height.
+- ® symbol is fixed on all AFL brand variations
+- 3 colour AFL brand at minimum size -note, ® symbol is at minimum size of 1 mm
+- AFL brand simplifed version at minimum size in 1 colour and 2 colour -note, ® symbol is realigned and remains at minimum size of 1 mm
+- Pantone® (spot) -AFL03a.eps Process (CMYK) -AFL03b.eps
+- AFL Blue PMS 287 or Black No other colour is acceptable
+- Note: ensure ® symbol is reversed
 
 ## Additional Properties
 

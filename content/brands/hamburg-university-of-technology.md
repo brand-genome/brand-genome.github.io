@@ -2,7 +2,7 @@
 title: Hamburg University of Technology
 slug: "hamburg-university-of-technology"
 description: ""
-date: "2026-03-20T08:22:04.227806"
+date: "2026-04-10T09:40:32.679369"
 draft: false
 sectors:
   - university
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: university in Germany
 wikidata_url: "https://www.wikidata.org/wiki/Q1060"
 has_twitter: false
@@ -75,34 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Section discussing logo usage and guidelines.
-- Section discussing logo usage and guidelines.
-- Section discussing logo usage and guidelines.
-
-**Color Information:**
-
-- Section discussing color palette and color guidelines.
-- Color codes are mentioned, including formats like Pantone, HEX, RGB, and CMYK.
-- Section discussing color palette and color guidelines.
-
-**Typography Information:**
-
-- Details about typography guidelines, font families, and specifications.
-- Details about typography guidelines, font families, and specifications.
-
-**Imagery Photography:**
-
-- Section discussing photography styles, treatments, and guidelines.
-- Section discussing photography styles, treatments, and guidelines.
-- Section discussing photography styles, treatments, and guidelines.
-
-**Brand Voice:**
-
-- Contains details about brand voice, tone, and messaging guidelines.
-- Contains details about brand voice, tone, and messaging guidelines.
-- Contains details about brand voice, tone, and messaging guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

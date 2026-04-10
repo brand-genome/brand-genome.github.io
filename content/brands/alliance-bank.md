@@ -2,7 +2,7 @@
 title: Alliance Bank
 slug: "alliance-bank"
 description: ""
-date: "2026-03-20T08:22:03.302606"
+date: "2026-04-10T09:40:30.835814"
 draft: false
 sectors:
   - finance
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - astana
   - almaty
+  - astana
 subsidiaries: []
 foundation_dates:
   - 1993
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: Kazakhstan private bank
 wikidata_url: "https://www.wikidata.org/wiki/Q1336498"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [http://forte.kz](http://forte.kz)
 - [https://www.fortebank.com](https://www.fortebank.com)
 
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -88,7 +82,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Astana](/headquarters_locations/astana/); [Almaty](/headquarters_locations/almaty/) |
+| Headquarters Location | [Almaty](/headquarters_locations/almaty/); [Astana](/headquarters_locations/astana/) |
 | Foundation Date | [1993](/foundation_dates/1993/) |
 | Headquarters Location | Almaty, Astana |
 | Legal Form | joint-stock company |

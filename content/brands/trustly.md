@@ -2,7 +2,7 @@
 title: Trustly
 slug: trustly
 description: ""
-date: "2026-03-20T08:22:04.903737"
+date: "2026-04-10T09:40:33.679515"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - financial
   - technology
+  - financial
 industries:
   - fintech
   - "financial-services"
@@ -54,21 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - orange
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - modern
-  - clean
-  - minimal
+imagery_styles: []
 wikidata_description: Swedish financial technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q18449475"
 has_twitter: false
@@ -90,84 +79,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Trustly Logo
-Original logo
-Use whenever the background allows to stay consistent with the brand.
-White out: Must only be used against background colors strong and dark enough to hold enough contrast to maintain legibility.
-White out + green: Use against dark background (excluding green background).
-Minimum space surrounding the logo should equal the dimensions of the first letter of the logotype.
-- Incorrect logo usage:
-1. Never use the logo in outlined letterform.
-2. Never apply effects and drop shadows.
-3. Never use the logo without the symbol.
-4. Never scale and distort the logo shape.
-5 and 6: Never move parts of the logo around.
-7 & 8: Never use color options other than provided ones, even if they are Trustly colors.
-- Trustly symbol
-Trustly's symbol is mainly used alone for internal purposes and exceptions (e.g., social media profile photos).
-Green symbol: Used against simple backgrounds.
-Inverted symbol: Used against green or very busy backgrounds, if necessary.
-Minimum space surrounding the logo should be the dimensions of the letter 'T' in the symbol in each direction.
-- Checkout logos
-Three variants:
-1. Primary checkout logo (green): Used on sites with light/dark backgrounds.
-2. Secondary checkout logo: Used on dark backgrounds.
-3. Inverted checkout logo: Use when background color conflicts with green cart (e.g., green/light blue).
-Clear space equals the first letter's dimensions of the logotype in each direction.
-
-**Color Information:**
-
-- Primary palette:
-Trustly green - Two green shades (digital and print variants).
-Trustly's green color tones are used in symbols, splashes, and illustrations.
-Accent:
-Orange - Used in buttons, icons, illustrations; never on large surfaces or as background.
-Secondary palette: Main palette for digital/web materials.
-Color coding systems:
-RGB for screen materials.
-HEX for web-related materials.
-CMYK for printed materials.
-
-**Typography Information:**
-
-- Fonts:
-Trustly Sans:
-- Light: Used for paragraphs.
-- Regular/Bold: Use sparingly for emphasis; never for whole paragraphs.
-Trustly Sans Headline:
-- Light for headlines.
-- Regular for trustly.com navigation menus.
-Showcases Light, Regular, Bold typography samples.
-
-**Imagery Photography:**
-
-- Imagery:
-Use clean, minimalistic photographs.
-Employer branding: Images with people are used for career sites.
-Commercial purposes: Use sleek, minimal, 'Nordic' aesthetics with green highlights.
-Keywords: Bright, minimalistic, green highlights, modern.
-
-**Spacing Layout:**
-
-- Logo clear space:
-Minimum space equals the dimensions of the first letter of the logo or respective symbol.
-
-**Brand Voice:**
-
-- Tone of voice:
-Maintains a consistent voice across channels, ensuring clarity, conciseness, trustworthiness, and approachability.
-Style:
-Follows AP Stylebook for grammar, spelling, punctuation.
-Refers to Merriam-Webster for unlisted terms.
-Numerals avoid starting sentences except years.
-Money conventions explained.
-
-**Notes:**
-
-- Editorial Guidelines include extensive Trustly-specific terminologies (e.g., use 'Safe' instead of 'Secure'; 'Trustly' always capitalized).
-- Stationary guidelines provide layouts for letterheads and business cards, ensuring branded appearance.
+*Guidelines data not available*
 
 ## Additional Properties
 

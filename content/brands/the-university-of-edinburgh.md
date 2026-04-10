@@ -2,12 +2,12 @@
 title: The University of Edinburgh
 slug: "the-university-of-edinburgh"
 description: ""
-date: "2026-03-20T08:22:05.784829"
+date: "2026-04-10T09:40:34.767400"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - "united-kingdom"
 years:
@@ -54,16 +54,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - "pantone-282"
-  - white
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Edinburgh, Scotland, United Kingdom"
@@ -84,36 +76,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Brand Essentials V2 Making us all look good Chapter 1: Our logo
-- Our corporate identity, including the University of Edinburgh corporate logos. Logos include primary versions, secondary logos, ceremonial roundels, and Gaelic logos. Downloadable versions are available on www.ed.ac.uk/brand.
-- Minimum size rules for all logo versions (15mm roundel diameter to ensure legibility).
-- Correct use examples of University of Edinburgh corporate and secondary logos.
-- Incorrect use examples for University of Edinburgh corporate and secondary logos — includes warnings against distortion, recoloring, repositioning, and key guidelines for use.
-
-**Color Information:**
-
-- The University corporate logos are available in full color, black, white, and corporate blue (Pantone 282).
-- Secondary logos for schools, services, and centers are available in black, white, and corporate blue (Pantone 282).
-
-**Imagery Photography:**
-
-- Guidelines for logo use on photographic or video backgrounds. Avoid using logos on busy backgrounds or backgrounds with similar colors.
-
-**Spacing Layout:**
-
-- Guidelines about the University of Edinburgh Gaelic logo regarding translations. Minimum size and clear space rules apply the same as other logos.
-
-**Brand Voice:**
-
-- The corporate campaign line 'Influencing the world since 1583'. Preferred placement is away from the logo and not more dominant than the logo. It remains in Perpetua font, can be over one, two, or three lines, and can appear in white if needed.
-
-**Notes:**
-
-- The Brand Essentials Guide aims to ensure that communication is consistent, recognisable, and strengthens the University of Edinburgh's brand globally. Contact details for queries are provided.
-- Guidelines state logos should be used carefully on different backgrounds with corporate blue and black being preferred for specific situations.
-- Certain areas related to the University, such as programs, products, services, or awards, may use logos with horizontal and vertical keylines to establish connections. Individual programs do not have their own separate logos unless specified.
+*Guidelines data not available*
 
 ## Additional Properties
 

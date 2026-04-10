@@ -2,7 +2,7 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-03-20T08:22:04.190505"
+date: "2026-04-10T09:40:32.541411"
 draft: false
 sectors:
   - software
@@ -54,24 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - logomark
-  - symbol
-  - primary
-  - icon
-brand_colors:
-  - black
-typographies:
-  - slab
-  - "open-sans"
-  - display
-  - roboto
-imagery_styles:
-  - bold
-  - graphic
-  - photography
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: social media management platform
 wikidata_url: "https://www.wikidata.org/wiki/Q2749075"
 has_twitter: false
@@ -93,323 +79,107 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary logo and identity guidelines
-Primary logo
-Alter native logo versions
-Font used in logotype
-Font used in documents
-LOGOMARK
-LOGOTYPE
+##### Visual Identity Overview
 
+- The visual identity centers on a stylized cartoon owl head paired with a clean, modern logotype. The logo uses a structured layout with precise placement, proportion, and safety margins. The color palette includes brown, beige, white, bright yellow, and dark gray. Typography features CLANCELF-BOLD for the logotype and HELVETICA NEUE for documents. Alternative logo versions are permitted, including variations with taglines, logotype-only, owl substitutions, and shadow effects. The overall style is modern, balanced, and professional, emphasizing clarity and consistency in logo presentation [^1].
 
+#### Categories
 
+##### Logo Usage
 
+- Gray padding indicates Safe Zone
+- The minimum required Clear Space is defined by the height of the lowercase letter "o"
+- The minimum required Clear Space between the logomark and the logotype is equal to the body width of the letter "h"
+- Adding tagline at the bottom and across the logotype is allowed.
+- The use of the logotype without the logomark is allowed.
+- Replacing the "normal" owl with another branded owl is allowed.
+- Using the logomark with a shadow is allowed.
 
+##### Color Palette
 
-!@#$%^&*( )-=\][‚;/.,<>?ﬂ:|}{+
-ABCDEFGHIJKLMNOPQRSTUVW X YZ
+- PANTONE 404 C R136 G126 B110 C0 M8 Y22 K56
+- PANTONE 7503 C R200 G179 B139 C0 M12 Y35 K25
+- PANTONE 130 C R253 G185 B19 C0 M30 Y100 K0
+- PANTONE 7506 C R255 G240 B216 C0 M5 Y15 K0
+- PANTONE WHITE C R255 G255 B255 C0 M0 Y0 K0
+- PANTONE Black 4C R65 G48 B0 C0 M22 Y100 K89
 
-abcdefghijklmnopqrstuvwxyz
+##### Typography
 
-1234567890
-1234567890
-Social Media Dashboard
+- Font used in logotype CLANCELF-BOLD (regular for tagline) !@#$%&*()-=UI';/.,<>?":I}(+ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Font used in documents HELVETICA NEUE (light, regular, medium, bold and italics) !@#$%A&*()-=\JI;/.,<>?":1}{+ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefg hij klm nopq rstuvwxyz 1234567890
 
+##### Visual Style
 
-
-PANTONE
-R
-G
-B
-110
-
-C
-M
-Y
-K
-56
-PANTONE
-R
-G
-B
-19
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-255
-
-C
-M
-Y
-K
-0
-PANTONE
-
-R
-G
-B
-139
-
-C
-M
-Y
-K
-25
-PANTONE
-R
-G
-B
-216
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-0
-
-C
-M
-Y
-K
-89
-
-**Color Information:**
-
-- Primary logo and identity guidelines
-Primary logo
-Alter native logo versions
-Font used in logotype
-Font used in documents
-LOGOMARK
-LOGOTYPE
-
-
-
-
-
-
-!@#$%^&*( )-=\][‚;/.,<>?ﬂ:|}{+
-ABCDEFGHIJKLMNOPQRSTUVW X YZ
-
-abcdefghijklmnopqrstuvwxyz
-
-1234567890
-1234567890
-Social Media Dashboard
-
-
-
-PANTONE
-R
-G
-B
-110
-
-C
-M
-Y
-K
-56
-PANTONE
-R
-G
-B
-19
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-255
-
-C
-M
-Y
-K
-0
-PANTONE
-
-R
-G
-B
-139
-
-C
-M
-Y
-K
-25
-PANTONE
-R
-G
-B
-216
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-0
-
-C
-M
-Y
-K
-89
-
-**Notes:**
-
-- Primary logo and identity guidelines
-Primary logo
-Alter native logo versions
-Font used in logotype
-Font used in documents
-LOGOMARK
-LOGOTYPE
-
-
-
-
-
-
-!@#$%^&*( )-=\][‚;/.,<>?ﬂ:|}{+
-ABCDEFGHIJKLMNOPQRSTUVW X YZ
-
-abcdefghijklmnopqrstuvwxyz
-
-1234567890
-1234567890
-Social Media Dashboard
-
-
-
-PANTONE
-R
-G
-B
-110
-
-C
-M
-Y
-K
-56
-PANTONE
-R
-G
-B
-19
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-255
-
-C
-M
-Y
-K
-0
-PANTONE
-
-R
-G
-B
-139
-
-C
-M
-Y
-K
-25
-PANTONE
-R
-G
-B
-216
-
-C
-M
-Y
-K
-0
-PANTONE
-R
-G
-B
-0
-
-C
-M
-Y
-K
-89
+- Gray padding indicates Safe Zone
+- The minimum required Clear Space is defined by the height of the lowercase letter "o"
+- The minimum required Clear Space between the logomark and the logotype is equal to the body width of the letter "h"
+- Adding tagline at the bottom and across the logotype is allowed.
+- The use of the logotype without the logomark is allowed.
+- Replacing the "normal" owl with another branded owl is allowed.
+- Using the logomark with a shadow is allowed.
+- PANTONE 404 C R136 G126 B110 C0 M8 Y22 K56
+- PANTONE 7503 C R200 G179 B139 C0 M12 Y35 K25
+- PANTONE 130 C R253 G185 B19 C0 M30 Y100 K0
+- PANTONE 7506 C R255 G240 B216 C0 M5 Y15 K0
+- PANTONE WHITE C R255 G255 B255 C0 M0 Y0 K0
+- PANTONE Black 4C R65 G48 B0 C0 M22 Y100 K89
+- CLANCELF-BOLD (regular for tagline)
+- HELVETICA NEUE (light, regular, medium, bold and italics)
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo symbol (Owly) and brand marks are provided, including details on their usage and preference for professional design applications.
-- Owly guidelines prohibit modifications like adding elements, integrating Owly into illustrations or photos, or using the Owl Icon as a replacement for Owly.
+##### Visual Identity Overview
 
-**Color Information:**
+- The visual identity centers on a stylized cartoon owl head paired with a clean, modern logotype. The logo uses a structured layout with precise placement, proportion, and safety margins. The color palette includes brown, beige, white, bright yellow, and dark gray. Typography features CLANCELF-BOLD for the logotype and HELVETICA NEUE for documents. Alternative logo versions are permitted, including variations with taglines, logotype-only, owl substitutions, and shadow effects. The overall style is modern, balanced, and professional, emphasizing clarity and consistency in logo presentation [^1].
 
-- Core primary colors are defined, including Pantone, RGB, HEX, and CMYK values. Examples: Pantone Black, HEX #FFFFFF, and specific gradients.
-- Use of gradients is mentioned, referencing brand primary colors, and a design approval process is required for custom cases.
+#### Categories
 
-**Typography Information:**
+##### Logo Usage
 
-- Primary Typeface: 'Open Sans', with weights including light, regular, semi-bold, bold, extra-bold. Preferred for headlines, UI, and communications.
-- Secondary Typeface: 'Roboto Slab', recommended as a display typeface with weights like thin, light, regular, bold. Usage limited to specific callouts for contrast.
+- Gray padding indicates Safe Zone
+- The minimum required Clear Space is defined by the height of the lowercase letter "o"
+- The minimum required Clear Space between the logomark and the logotype is equal to the body width of the letter "h"
+- Adding tagline at the bottom and across the logotype is allowed.
+- The use of the logotype without the logomark is allowed.
+- Replacing the "normal" owl with another branded owl is allowed.
+- Using the logomark with a shadow is allowed.
 
-**Imagery Photography:**
+##### Color Palette
 
-- Hootsuite photography emphasizes inclusivity, authentic moments, and brand alignment. Professional, high-resolution images are required following specific mood and contextual values.
-- Stock photography must avoid stereotypical or cheesy imagery. Sources should align closely to Hootsuite's brand values.
+- PANTONE 404 C R136 G126 B110 C0 M8 Y22 K56
+- PANTONE 7503 C R200 G179 B139 C0 M12 Y35 K25
+- PANTONE 130 C R253 G185 B19 C0 M30 Y100 K0
+- PANTONE 7506 C R255 G240 B216 C0 M5 Y15 K0
+- PANTONE WHITE C R255 G255 B255 C0 M0 Y0 K0
+- PANTONE Black 4C R65 G48 B0 C0 M22 Y100 K89
 
-**Spacing Layout:**
+##### Typography
 
-- Guidance on icon-spacing and layout. Icons must align visually with other brand elements, using either primary or secondary palette colors.
+- Font used in logotype CLANCELF-BOLD (regular for tagline) !@#$%&*()-=UI';/.,<>?":I}(+ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Font used in documents HELVETICA NEUE (light, regular, medium, bold and italics) !@#$%A&*()-=\JI;/.,<>?":1}{+ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefg hij klm nopq rstuvwxyz 1234567890
 
-**Brand Voice:**
+##### Visual Style
 
-- Hootsuite's tone is clear, welcoming, fresh, witty, and approachable without being boastful or overly casual. Key rules include maintaining clarity, avoiding slang or overly corporate language, and being relatable.
-- Specific examples of tone: Writing should feel genuine, avoid superlatives unless justified, and use light humor sparingly and only when contextually appropriate.
-
-**Notes:**
-
-- For design approvals or questions about the brand guidelines, users are encouraged to contact design.brand@hootsuite.com.
-- Sections include detailed discussions about typography styles, core design principles, and use of illustrations or graphic treatments.
+- Gray padding indicates Safe Zone
+- The minimum required Clear Space is defined by the height of the lowercase letter "o"
+- The minimum required Clear Space between the logomark and the logotype is equal to the body width of the letter "h"
+- Adding tagline at the bottom and across the logotype is allowed.
+- The use of the logotype without the logomark is allowed.
+- Replacing the "normal" owl with another branded owl is allowed.
+- Using the logomark with a shadow is allowed.
+- PANTONE 404 C R136 G126 B110 C0 M8 Y22 K56
+- PANTONE 7503 C R200 G179 B139 C0 M12 Y35 K25
+- PANTONE 130 C R253 G185 B19 C0 M30 Y100 K0
+- PANTONE 7506 C R255 G240 B216 C0 M5 Y15 K0
+- PANTONE WHITE C R255 G255 B255 C0 M0 Y0 K0
+- PANTONE Black 4C R65 G48 B0 C0 M22 Y100 K89
+- CLANCELF-BOLD (regular for tagline)
+- HELVETICA NEUE (light, regular, medium, bold and italics)
 
 ## Additional Properties
 

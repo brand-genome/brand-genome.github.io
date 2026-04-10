@@ -2,7 +2,7 @@
 title: General Electric
 slug: "general-electric"
 description: ""
-date: "2026-03-20T08:22:05.405412"
+date: "2026-04-10T09:40:34.262409"
 draft: false
 sectors:
   - aerospace
@@ -14,16 +14,16 @@ years:
 languages:
   - english
 tags:
-  - industry
   - featured
+  - industry
 industries:
-  - "finance-lease"
-  - "automotive-industry"
   - conglomerate
-  - "mechanical-engineering"
+  - "automotive-industry"
   - "power-engineering"
-  - "aircraft-industry"
+  - "mechanical-engineering"
   - "weapons-industry"
+  - "finance-lease"
+  - "aircraft-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -43,8 +43,8 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - boston
   - massachusetts
+  - boston
 subsidiaries: []
 foundation_dates:
   - 1892
@@ -67,8 +67,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - monogram
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -92,34 +91,11 @@ visual_term_image_urls: {}
 
 ### 2008
 
+*Guidelines data not available*
+
 ### 2004
 
-**Logo Information:**
-
-- Introduction to Monogram guidelines including proper use, improper use, and integration into branding system.
-- 25% of the diameter of the Monogram as minimum clear space rule.
-
-**Color Information:**
-
-- The color of the Monogram aligns with branding text colors across Levels 1 to 4. Level 3 uses 100% color of Monogram, Levels 1 and 2 use a tint (40%).
-- Consistent color usage across Monogram and brand architecture components is mandatory.
-
-**Typography Information:**
-
-- GE Inspira font used across all brand architecture levels, ensuring flush left alignment.
-
-**Spacing Layout:**
-
-- Clear space rules specify 25% minimum surrounding Monogram text and elements.
-- Alignment rules ensure all brand architecture text is flush left to maintain consistency.
-
-**Brand Voice:**
-
-- Tone of voice focus on creating a singular, global communication aligning GE's diverse offerings through streamlined architecture.
-
-**Notes:**
-
-- GE branding doesn't allow specific sub-business branding exceptions without explicit corporate approval.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -129,7 +105,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Boston](/headquarters_locations/boston/); [Massachusetts](/headquarters_locations/massachusetts/) |
+| Headquarters Location | [Massachusetts](/headquarters_locations/massachusetts/); [Boston](/headquarters_locations/boston/) |
 | Foundation Date | [1892](/foundation_dates/1892/) |
 | Founded By | Thomas Edison, Elihu Thomson, Charles A. Coffin, Edwin J. Houston |
 | Library Of Congress Authority Id | n79078780 |

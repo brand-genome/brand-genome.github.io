@@ -2,17 +2,17 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-03-20T08:22:05.573160"
+date: "2026-04-10T09:40:34.495505"
 draft: false
 sectors:
+  - software
   - restaurant
   - "e-commerce"
-  - software
 regions:
   - india
 years:
-  - 2019
   - 2015
+  - 2019
 languages:
   - english
 tags:
@@ -53,22 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - grey
-  - black
-typographies:
-  - "sans-serif"
-  - "open-sans"
-imagery_styles:
-  - bold
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Indian food delivery service
 wikidata_url: "https://www.wikidata.org/wiki/Q8073715"
 has_twitter: false
@@ -89,72 +77,11 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Introduction to the brand logo as a representation of identity and love for food.
-- Requirements for leaving sufficient breathing space around the logo.
-- Do not accessorize, modify, rotate, or anthropomorphize the logo.
-- Two forms of the Zomato logo: wordmark inside a square and standalone wordmark.
-- Do not alter the logo, including rotating, tilting, stretching, changing proportions, using non-brand colors, or placing on a background that interferes with the logo colors.
-
-**Color Information:**
-
-- White: HEX #FFFFFF.
-- Black: HEX #000000.
-- Cranberry red: HEX #E23744.
-- Text color: HEX #FFFFFF.
-- Tyrolean: HEX #F4F4F2, CMYK C:3, M:3, Y:3, K:0.
-- Peppercorn: HEX #2D2D2D, CMYK C:0, M:0, Y:10, K:100.
-- Feta: HEX #FFFFFF, CMYK C:0, M:0, Y:0, K:0.
-- Cranberry: HEX #E23744, CMYK C:0, M:90, Y:75, K:0.
-
-**Typography Information:**
-
-- Primary typeface: Metropolis. A clean, proportional sans-serif font. Used in branding, stationery, social media, print, and BTL collateral. Licensed under SIL Open Font License.
-- Secondary typeface: Open Sans, to be used for presentations, business proposals, and training material. Free-to-use Google font with support for many languages.
-
-**Notes:**
-
-- Contact: design@zomato.com for any questions. Note on respecting the logo and brand.
+*Guidelines data not available*
 
 ### 2015
 
-**Logo Information:**
-
-- The logo is a spoon with red (#CB202D) and black (#2D2D2D) wordmark colors. Primary variations include red with black wordmark, red with white wordmark, and white background with white wordmark. The logo cannot be rotated, stretched disproportionately, or altered in colors outside red, white, and black.
-- Alignment and proportions of the logo state that the height of the wordmark is the same as the spoon at its broadest point. Sufficient relief area must be maintained around the logo.
-- Do's include aligning the icon to a corner, using suitable background. Don'ts include tilting, flipping, stretching the logo non-proportionally, using non-brand colors, adding textures, using multiple logos together, or modifying the spoon size.
-- Minimum size or spacing specifications not explicitly mentioned, but emphasis on alignment and relief area is stated.
-
-**Color Information:**
-
-- Primary brand colors include:
-Pomodoro Red - HEX: #CB202D, CMYK: C10 M100 Y90 K0
-Peppercorn Black - HEX: #2D2D2D, CMYK: C0 M0 Y5 K95
-Feta White - HEX: #FFFFFF, CMYK: C0 M0 Y0 K0
-Tyrolean Light Grey - HEX: #F4F4F2, CMYK: C3 M3 Y3 K0
-- Color variations of the logo include red with black wordmark, red with white wordmark, and white hollow logo revealing background.
-
-**Typography Information:**
-
-- No explicit mention of font family, weights, or roles for usage in the guidelines provided.
-
-**Imagery Photography:**
-
-- Imagery style reflects simplicity and effectiveness with visual elements complementing typography. Avoid creativity for creativity's sake.
-
-**Spacing Layout:**
-
-- Spacing around the logo must maintain sufficient relief area. Alignment and proportions specify logo usage where wordmark height equals the spoon’s broadest point.
-
-**Brand Voice:**
-
-- The brand voice is described as bold without being in-your-face, innovative in a simplifying manner, youthful but mature, and witty yet not boorish.
-
-**Notes:**
-
-- Widgets, such as the rating widget and 'Powered by Zomato,' should not be altered and must backlink to Zomato.
-- All content from Zomato should maintain attribution and backlinks for partners using said content.
+*Guidelines data not available*
 
 ## Additional Properties
 

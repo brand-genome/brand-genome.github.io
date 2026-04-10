@@ -2,11 +2,11 @@
 title: Superior Essex
 slug: "superior-essex"
 description: ""
-date: "2026-03-20T08:22:04.196182"
+date: "2026-04-10T09:40:32.552287"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,17 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
-  - secondary
-brand_colors:
-  - red
-  - gray
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: American magnet wire manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q7643527"
 has_twitter: false
@@ -84,27 +77,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- The Superior Essex logo contains two components: the Superior Essex icon and logotype. The icon features three curves representing wire/cable reel flanges and depends on the background color. The logo is a registered trademark requiring the (®) symbol.
-- Clear space around the Superior Essex logo: Elements should not intrude within specified clear space. Minimum size: 0.15 inches or 3.8 mm.
-- Color options for the Superior Essex logo: 2-color, 2-color reverse, 1-color reverse, 1-color black, 1-color red, 1-color gray.
-- The Essex logo includes three components: the Superior Essex icon, Essex logotype, and secondary logotype. The logo is a registered trademark requiring the (®) symbol.
-- Color options for the Essex logo: 2-color, 2-color reverse, 1-color reverse, 1-color black, 1-color red, 1-color gray. Clear space rules mirror those of the Superior Essex logo.
-- The Essex Brownell logo contains the Superior Essex icon, Essex Brownell logotype, and secondary logotype. The icon is a registered trademark requiring the (®) symbol.
-
-**Color Information:**
-
-- Color options for both Superior Essex and Essex logos include six variations: 2-color, 2-color reverse, 1-color reverse, 1-color black, 1-color red, and 1-color gray. Specific HEX, RGB, or CMYK codes are not detailed in this section.
-
-**Spacing Layout:**
-
-- Clear spacing guideline: Each logo version must maintain a specified clear zone where no other elements intrude. This space is dynamically calculated using the width of a component of the logo, typically measured in 'X'.
-- Minimum size requirement: 0.15 inches (3.8 mm) for logo representation.
-
-**Notes:**
-
-- The Superior Essex icon must not be used alone as the sole graphic representation of the brand but can be used as a background element. It features three curves representing wire/cable reel flanges.
+*Guidelines data not available*
 
 ## Additional Properties
 

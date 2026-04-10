@@ -2,7 +2,7 @@
 title: Yoakley Care
 slug: "yoakley-care"
 description: ""
-date: "2026-03-20T08:22:05.024414"
+date: "2026-04-10T09:40:33.786547"
 draft: false
 sectors:
   - ngo
@@ -47,11 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -71,8 +68,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The Yoakley Care logo communicates the message 'Care,' symbolized as a heart. Key components include: an emblem formed by two flowing lines creating a heart shape, symbolizing care; a main logotype with a spacious flow to convey a friendly nature; and a statement reinforcing the logotype, always positioned beneath it.
-- Logo variations include: (1) Single-color black logos for use on light or white backgrounds, available in PNG, JPEG, EPS, and TIFF formats; (2) Single-color white logos for use on brand color backgrounds or images, available in PNG, EPS, and TIFF; (3) Full-color logos for light or white backgrounds, available in PNG, JPEG, EPS, and TIFF formats.
-- Minimum logo size: Logos with the statement should be no smaller than 14mm in height, while logos without the statement should be no smaller than 9mm in height. Clear space (or safe zone) around the logo is defined as one-third of the logo height measurement. This ensures clarity.
+*Guidelines data not available*

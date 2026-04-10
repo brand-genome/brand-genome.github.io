@@ -2,7 +2,7 @@
 title: Sescam
 slug: sescam
 description: ""
-date: "2026-03-20T08:22:04.085402"
+date: "2026-04-10T09:40:32.141459"
 draft: false
 sectors:
   - "public-sector"
@@ -52,21 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - "pantone-280"
-  - "pantone-339"
-  - "pantone-123"
-  - blue
-  - yellow
-  - black
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "healthcare organization in Toledo, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q5665691"
 has_twitter: false
@@ -85,37 +74,7 @@ visual_term_image_urls: {}
 
 ### 2007
 
-**Logo Information:**
-
-- The SESCAM logo must always be accompanied by the Junta de Comunidades de Castilla-La Mancha logo.
-- Black and negative (reversed) symbol variations are supported for specific use cases.
-
-**Color Information:**
-
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-- Pantone 339 (Green), Pantone 280 (Blue), and Pantone 123 (Yellow) are used in the SESCAM color palette.
-
-**Typography Information:**
-
-- Referenced typography styles found (page 10). Primary options include Helvetica Black and Helvetica Condensed Bold.
-- Referenced typography styles found (page 158). Primary options include Helvetica Black and Helvetica Condensed Bold.
-- Referenced typography styles found (page 159). Primary options include Helvetica Black and Helvetica Condensed Bold.
-- Referenced typography styles found (page 160). Primary options include Helvetica Black and Helvetica Condensed Bold.
-- Referenced typography styles found (page 161). Primary options include Helvetica Black and Helvetica Condensed Bold.
-
-**Spacing Layout:**
-
-- Symbol placement is defined over a fixed grid system with space allocations indicated (e.g., 9x, 10.5x units) for consistent scaling and alignment.
-- Symbol placement is defined over a fixed grid system with space allocations indicated (e.g., 9x, 10.5x units) for consistent scaling and alignment.
+*Guidelines data not available*
 
 ## Additional Properties
 

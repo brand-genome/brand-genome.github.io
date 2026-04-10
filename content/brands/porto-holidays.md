@@ -2,7 +2,7 @@
 title: Porto Holidays
 slug: "porto-holidays"
 description: ""
-date: "2026-03-20T08:22:05.702045"
+date: "2026-04-10T09:40:34.641384"
 draft: false
 sectors:
   - hospitality
@@ -48,15 +48,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-2395"
-  - "pantone-485"
-  - "pantone-2756"
-  - "pantone-361"
-  - "pantone-393"
-  - "pantone-2728"
-  - "pantone-299"
-  - "pantone-144"
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -77,15 +69,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Color Information:**
-
-- Pantone 485 c Pantone 144 c Pantone 2756 c Pantone 2728 c Pantone 299 c Pantone 2395 c Pantone 361 c Pantone 393 c C: 1 M: 95 Y:94 K :0 C: 0 M: 45 Y:100 K :0 C: 100 M: 45 Y:100 K:0 C: 95 M: 72 Y:0 K :0 C: 80 M: 15 Y:0 K :0 C: 31 M: 91 Y:0 K :0 C: 73 M: 0 Y:100 K :0 C: 10 M: 0 Y:65 K :0 C: 0 M: 0 Y:0 K:10
-- C: 0 M: 0 Y:0 K:80 C: 0 M: 0 Y: 0 K:35 C: 0 M: 0 Y: 0 K:75 C: 0 M: 0 Y:0 K:45 C: 0 M: 0 Y:0 K:50 C: 0 M: 0 Y:0 K:65 C: 0 M: 0 Y:0 K:40 C: 0 M: 0 Y:0 K:20 C: 0 M: 0 Y:0 K:85 C: 0 M: 0 Y:0 K:10
-
-**Spacing Layout:**
-
-- Spacing rules enforce 0.5 cm safe zones around brand elements.
-
-**Brand Voice:**
-
-- Messaging emphasizes family-friendly and fun experiences.
+*Guidelines data not available*

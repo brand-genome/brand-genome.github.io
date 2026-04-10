@@ -2,7 +2,7 @@
 title: IRPET
 slug: irpet
 description: ""
-date: "2026-03-20T08:22:05.551076"
+date: "2026-04-10T09:40:34.458972"
 draft: false
 sectors:
   - "public-sector"
@@ -48,14 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - "pantone-426"
-  - gray
-  - black
-  - "pantone-227"
-typographies:
-  - bodoni
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -74,22 +68,4 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- Reproduction of logo in black and white (Pantone 426 C), Black: 100, HEX: #1a171b.
-- Pantone Cool Gray 10 C - Black: 75 - HEX: #646567
-- Instructions for logo usage on colored or dark backgrounds. Provides specific color compatibility and restrictions.
-
-**Color Information:**
-
-- Pantone 227 - CMYK: C 35; M 100; Y 35; K 10 - HEX: #a10d59
-- Pantone Cool Gray 10 C - CMYK: C 0; M 0; Y 0; K 75 - HEX: #646567
-
-**Typography Information:**
-
-- Font: Bauer Bodoni Roman (used in the IRPET logo).
-- Font: Myriad Pro Regular (used in extended organization name).
-
-**Notes:**
-
-- The document introduces the IRPET visual identity and importance of consistent application for brand recognition.
+*Guidelines data not available*

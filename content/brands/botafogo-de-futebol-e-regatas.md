@@ -2,7 +2,7 @@
 title: Botafogo de Futebol e Regatas
 slug: "botafogo-de-futebol-e-regatas"
 description: ""
-date: "2026-03-20T08:22:03.085495"
+date: "2026-04-10T09:40:30.601406"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - sport
   - featured
+  - sport
 industries:
   - "sporting-activities"
 countries:
@@ -59,21 +59,15 @@ imagery_styles: []
 wikidata_description: association football team from Rio de Janeiro
 wikidata_url: "https://www.wikidata.org/wiki/Q80958"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.botafogo.com.br](https://www.botafogo.com.br)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
 
 ## Additional Properties
 

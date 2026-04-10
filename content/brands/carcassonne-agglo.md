@@ -2,7 +2,7 @@
 title: Carcassonne Agglo
 slug: "carcassonne-agglo"
 description: ""
-date: "2026-03-20T08:22:04.524592"
+date: "2026-04-10T09:40:33.316647"
 draft: false
 sectors:
   - "public-sector"
@@ -51,23 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - green
-  - "pantone-632"
-  - "pantone-235"
-  - blue
-  - "pantone-722"
-  - "pantone-377"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
+imagery_styles: []
 wikidata_description: agglomeration community
 wikidata_url: "https://www.wikidata.org/wiki/Q1035596"
 has_twitter: false
@@ -86,38 +73,61 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Categories
 
-- The logo consists of a pictogram with a cross, a typogram 'carcassonne,' and the nomination 'agglo.' Variants include horizontal and vertical constructions. The vertical format ensures the cross remains in the same position while proportions are maintained.
-- Clear zone rules specify that no graphic element may violate the protective reserve zone surrounding the logo. Ample breathing space must be respected.
-- The logo may appear on photographic or colored backgrounds but must ensure legibility and page harmony. Correct forms and color associations should be selected.
-- Prohibited and authorized logo variations are specified. These ensure proper logo application and prevent inappropriate distortions or modifications.
+##### Brand Imagery
 
-**Color Information:**
+- Aucun élément graphique ne doit franchir la zone de réserve de protection de l'identité visuelle. L'espace de respiration autour du logotype doit être impérativement respecté.
+- Le logo en quatrième de couverture peut vivre sur fond photographique ou sur fond de couleur, la règle absolue étant de privilégier sa lisibilité et l'harmonie générale de la page. Il s'agira donc de faire un choix subtil et pertinent entre les différentes formes du logo et les associations de couleurs.
 
-- Primary colors include Pantone 632 C (Blue), Pantone 377 C (Green), Pantone 235 C (Red), Pantone 722 C (Ochre), and Pantone Black C. CMYK codes provided for all colors: C:74 M:0 Y:0 K:20 (Blue); C:40 M:0 Y:100 K:25 (Green); C:10 M:100 Y:0 K:40 (Red); C:10 M:45 Y:78 K:0 (Ochre); C:20 M:20 Y:20 K:100 (Black).
-- Ochre represents the built heritage and southern sunny landscapes. Green symbolizes the territory's vast nature. Blue relates to the Aude River and Canal du Midi, while red reflects viticulture passion and economic dynamism.
+##### Color Palette
 
-**Typography Information:**
+- Colorimétrie quadrichromique C:20 C:74 C:40 C:10 C:10 M:20 M:O M:O M:100 M:45 J:20 J:O J:100 J:O J:78 N:100 N:20 N:25 N:40 N:O Colorimétrie ton direct
+- Colorimétrie ton direct PANTONE® Black C PANTONE® 632 C PANTONE® 377 C PANTONE® 235 C PANTONE® 722 C
+- Logotype en quadrichromie
+- L'ocre : couleur de la pierre et du patrimoine bâti, l'ocre fait référence à l'Histoire hors norme de notre territoire. Elle illustre également des terres ensoleillées du sud. Le vert : un territoire vaste, où l'environnement et la nature tiennent une place privilégiée et assurent ainsi une qualité de vie agréable. Le bleu : un territoire irrigué par l'Aude et traversé par le célèbre Canal du Midi. Le rouge : couleur chaude, proche du lie de vin, illustre la passion de la viticulture et d'un point de vue plus élargit, le dynamisme économique. Il évoque également le caractère affirmé de ses habitants.
+- carcassonne TERRES D'AUDACE agglo C:10 M:45 J:78 L'ocre couleur de l'agglo N:O carcassonne rase!il SMICTOM agglo C:40 M:O J:100 Le vert couleur du SMICTOM N:25 carcassonne SOLIDARITÉ agglo C:10 M:100 J:O Le rouge couleur de la solidarité N:40 carcassonne TRANSPORT agglo C:74 M:O J:O Le rouge couleur du transport N2o L1 Logotypes en quadrichromie
 
-- The typeface for titles is Museo with weights 100, 500, and 900. Chosen for readability, dynamism, modernity, and variety of weights.
-- The body typography is ArcherPro with weights Book, Medium, and Bold.
+##### Typography
 
-**Imagery Photography:**
+- Les typographies Museo et Archer Pro ont été choisies pour leur bonne lisibilité, leur dynamisme, leur modernité et leur vaste choix de déclinaison.
+- Typographie pour titre Museo 100 AaBbCcDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 Museo 500 AaBbCcDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 Museo 900 AaBbCcDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- Typographie pour body ArcherPro book AaBbCcDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 ArcherPro medium AaBbCeDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 ArcherPro bold AaBbCeDdEeGg abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
 
-- Guidelines for logo usage on photographic backgrounds emphasize harmony and readability.
+##### Logo Usage
 
-**Spacing Layout:**
+- Aucun élément graphique ne doit franchir la zone de réserve de protection de l'identité visuelle. L'espace de respiration autour du logotype doit être impérativement respecté.
+- Attention en vertical comme en horizontal, le picto reste dans la même position.
+- Le logo en quatrième de couverture peut vivre sur fond photographique ou sur fond de couleur, la règle absolue étant de privilégier sa lisibilité et l'harmonie générale de la page. Il s'agira donc de faire un choix subtil et pertinent entre les différentes formes du logo et les associations de couleurs.
 
-- Clear space rules stipulate maintaining a protective zone where no elements intrude around the logo.
+##### Tone And Messaging
 
-**Brand Voice:**
+- UNE DOSE D'AUDACE • • • SUR NOS TERRES IRRIGUÉES PAR L'AUDE ET PARÉES DU CÉLÈBRE CANAL DU MIDI
 
-- The tagline 'TERRES D’AUDACE' reflects the ambition of new governance. It emphasizes the region's diversity, collective projects, and historical audacity.
+##### Brand Values
 
-**Notes:**
+- UNE DOSE D'AUDACE • • • SUR NOS TERRES IRRIGUÉES PAR L'AUDE ET PARÉES DU CÉLÈBRE CANAL DU MIDI
+- LA CULTURE DE L'AUDACE··· SUR NOS TERRES FERTILES ET FORTES D'UN DYNAMISME RENOUVELÉ
+- LE GOUT DE L'AUDACE • • SUR NOS TERRES AMBITIEUSES ET PASSIONNÉES DE VITICULTURE
+- UNE HISTOIRE D'AUDACE··· SUR NOS TERRES RICHES D'UN PATRIMOINE CLASSÉ AVEC LA MAJESTUEUSE CITÉMÉDIÉVALE
+- Pour faire écho à l’ambition de la nouvelle gouvernance, l’audace, trait de caractère historiquement associé au peuple de ce territoire, est mise en avant. Pour mettre en exergue la diversité des identités, rassemblées en un projet communautaire commun, le mot « terres » est au pluriel.
 
-- The brand guidelines seek to create consistent communication across regional partners. For further clarifications, the communication team's contact details include a telephone number and email.
+##### Visual Style
+
+- Aucun élément graphique ne doit franchir la zone de réserve de protection de l'identité visuelle. L'espace de respiration autour du logotype doit être impérativement respecté.
+- Le logo en quatrième de couverture peut vivre sur fond photographique ou sur fond de couleur, la règle absolue étant de privilégier sa lisibilité et l'harmonie générale de la page. Il s'agira donc de faire un choix subtil et pertinent entre les différentes formes du logo et les associations de couleurs.
+
+##### Iconography
+
+- d'un pictogramme "la croix", les 4 éléments la composant sont indissociables et doivent toujours être proposés ensemble dans le même rapport de proportion
+- Attention en vertical comme en horizontal, le picto reste dans la même position.
+
+##### Layout And Composition
+
+- Aucun élément graphique ne doit franchir la zone de réserve de protection de l'identité visuelle. L'espace de respiration autour du logotype doit être impérativement respecté.
+- Attention en vertical comme en horizontal, le picto reste dans la même position.
+- Le logo en quatrième de couverture peut vivre sur fond photographique ou sur fond de couleur, la règle absolue étant de privilégier sa lisibilité et l'harmonie générale de la page. Il s'agira donc de faire un choix subtil et pertinent entre les différentes formes du logo et les associations de couleurs.
+- La vague structurante prend toute la largeur du document (voir les differents exemples ci-apres).
 
 ## Additional Properties
 

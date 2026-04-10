@@ -2,7 +2,7 @@
 title: Petit c Paris
 slug: "petit-c-paris"
 description: ""
-date: "2026-03-20T08:22:05.738377"
+date: "2026-04-10T09:40:34.705114"
 draft: false
 sectors:
   - food
@@ -46,15 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - colorful
-  - geometric
-  - photography
-  - modern
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,39 +68,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo consists of geometric symbols combined into a modular system. Key elements include star for sweetness, heart for warmth, and happy face for mini-joy. Logo is adaptable for animation as well.
-
-**Color Information:**
-
-- Colors are warm and fresh, referencing flavors. They are primary to the brand identity.
-- Colors are warm and fresh, referencing flavors. They are primary to the brand identity.
-- Colors are warm and fresh, referencing flavors. They are primary to the brand identity.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize textures, flavors, and ingredients.
-
-**Brand Voice:**
-
-- Keywords: sweet, warm, fresh, colorful, modern, simple, delicious, delicate, soft, cute, creative.
-
-**Notes:**
-
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
-- General identity overview includes the origin of the name 'Petit c', creative direction notes, and the essence of the brand style (simple, friendly, and approachable).
+*Guidelines data not available*

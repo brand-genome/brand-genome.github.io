@@ -2,7 +2,7 @@
 title: Trek Bicycles
 slug: "trek-bicycles"
 description: ""
-date: "2026-03-20T08:22:04.159827"
+date: "2026-04-10T09:40:32.478889"
 draft: false
 sectors:
   - sports
@@ -70,11 +70,4 @@ visual_term_image_urls: {}
 
 ### 2001
 
-**Logo Information:**
-
-- Different TREK corporate logo versions explained: 1) TREK with 'American Bicycle Technology' tagline (used on executive stationary and B2B correspondence), 2) TREK with 'TREKBIKES.COM' tagline (used in advertising, consumer-facing materials, and to encourage website visits), and 3) Standalone TREK logo (used only where small sizes make the tagline unreadable or purely for promoting the name; requires prior approval from Trek).
-- Acceptable and unacceptable applications of the logo: Examples of correct scaling and alignment provided. Incorrect usage includes disproportionate scaling, skewing, morphing/moving letters, spherizing, applying filters, or perspective distortion.
-
-**Notes:**
-
-- When in doubt about logo usage, it is recommended to contact the Trek Brand Manager for approval.
+*Guidelines data not available*

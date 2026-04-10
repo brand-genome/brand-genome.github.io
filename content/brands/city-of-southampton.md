@@ -2,7 +2,7 @@
 title: City of Southampton
 slug: "city-of-southampton"
 description: ""
-date: "2026-03-20T08:22:05.859014"
+date: "2026-04-10T09:40:34.880322"
 draft: false
 sectors:
   - "public-sector"
@@ -69,6 +69,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2008
+
+*Guidelines data not available*
 
 ## Additional Properties
 

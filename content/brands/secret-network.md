@@ -2,7 +2,7 @@
 title: Secret Network
 slug: "secret-network"
 description: ""
-date: "2026-03-20T08:22:04.075741"
+date: "2026-04-10T09:40:32.126325"
 draft: false
 sectors:
   - software
@@ -48,13 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
+logo_elements: []
 brand_colors: []
-typographies:
-  - montserrat
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,123 +71,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The Primar y Logo
-- The Secondar y Logo
-- The Logomark
-The Logotype
-- Logo Usage
-- Logo Usage
-- Logo Usage
-- Logo Usage
-
-**Color Information:**
-
-- Limited Color Palette Š ﬁAnalogﬂ Colors
-Primar y
-Secondar y
-- Full Gamut Color Palette Š ﬁAnalogﬂ Colors
-Primar y
-Secondar y
-Tertiary
-- Primar y
-Secondar y
-Limited Color Palette Š ﬁHigh Keyﬂ Colors
-- Full Gamut Color Palette Š ﬁHigh Keyﬂ Colors
-Primar y
-Secondar y
-Tertiary
-- Secret Network Paint Swirl Š ﬁAnalogﬂ Colors
-- Secret Network Paint Swirl Š ﬁAnalogﬂ Colors
-- Secret Network Paint Swirl Š ﬁHigh Keyﬂ Colors
-- Secret Network Paint Swirl Š ﬁHigh Keyﬂ Colors
-
-**Typography Information:**
-
-- Typography
-ABCDEFGHIJKLM
-NOPQRSTUVWXYZ
-abcdefghijklm
-nopqrstuvwxyz
-1234567890
-Montserrat Bold
-- Typography
-  
-extra emphasis
- 
- 
-extra emphasis
- 
- 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890
-Hind Bold
-
-**Spacing Layout:**
-
-- Clear Space
-
-**Notes:**
-
-- Brand Guidelines, Version 0.1
-- What is the Secret of Secret Network?
-- Mission Statement
-Vision Statement
-- Visual Brand Identity
-- privacy 
- 
-  transparency
-- The Primar y Logo
-- The Secondar y Logo
-- The Logomark
-The Logotype
-- Clear Space
-- Logo Usage
-- Logo Usage
-- Logo Usage
-- Logo Usage
-- Typography
-ABCDEFGHIJKLM
-NOPQRSTUVWXYZ
-abcdefghijklm
-nopqrstuvwxyz
-1234567890
-Montserrat Bold
-- Typography
-  
-extra emphasis
- 
- 
-extra emphasis
- 
- 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890
-Hind Bold
-- Limited Color Palette Š ﬁAnalogﬂ Colors
-Primar y
-Secondar y
-- Full Gamut Color Palette Š ﬁAnalogﬂ Colors
-Primar y
-Secondar y
-Tertiary
-- Primar y
-Secondar y
-Limited Color Palette Š ﬁHigh Keyﬂ Colors
-- Full Gamut Color Palette Š ﬁHigh Keyﬂ Colors
-Primar y
-Secondar y
-Tertiary
-- Secret Network Paint Swirl Š ﬁAnalogﬂ Colors
-- Secret Network Paint Swirl Š ﬁAnalogﬂ Colors
-- Secret Network Paint Swirl Š ﬁHigh Keyﬂ Colors
-- Secret Network Paint Swirl Š ﬁHigh Keyﬂ Colors
-- Secret Network Topographical Map
-- Secret Network 
-Topographical Map
-- Monochromatic Paint Swirls
-Tertiary Palette
-- ... to be continued
+*Guidelines data not available*

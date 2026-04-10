@@ -2,7 +2,7 @@
 title: Transport Scotland
 slug: "transport-scotland"
 description: ""
-date: "2026-03-20T08:22:05.399005"
+date: "2026-04-10T09:40:34.247886"
 draft: false
 sectors:
   - "public-sector"
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-brand_colors:
-  - "pantone-2717"
-  - white
-  - blue
-  - "pantone-2736"
-  - black
-typographies:
-  - "gill-sans"
-  - arial
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: national transport agency of Scotland
 wikidata_url: "https://www.wikidata.org/wiki/Q7834896"
 has_twitter: false
@@ -83,41 +72,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Transport Scotland logo consists of a graphic representation of transport highlighted in white, the text 'Transport Scotland' with Gaelic translation 'Còmhdhail Alba' in Gill Sans font, and a blue and white color palette referencing the saltire.
-- Logo variants include a preferred blue-and-white version enclosed in a white box, black-and-white variants for printing, greyscale, and single color for specific materials.
-- An exclusion zone is defined by the height of the 'Transport Scotland' typographic expression. No marks or images are permitted within this zone.
-- Minimum size requirements ensure logos are legible with clear exclusion zones. Minimum dimensions vary by application context (e.g., motorway signage).
-- Do's: Always use the logo version that fits the space appropriately and ensures legibility. Never distort or alter the relative sizes or order of elements, or place reversed logos on light backgrounds.
-- Logo color formats include CMYK, RGB, Pantone colors for print and presentations, categorized as EPS for printing and JPEG files for presentations.
-- Approved logos for motorway and trunk roads include: Stacked Positive, Linear Positive, Stacked Reversed, and Linear Reversed.
-- Specific usage for digital formats must comply with space restrictions, sometimes using motorway and trunk road variants upon approval.
-- Vehicle liveries demonstrate different logo versions (stacked and block). On small cars or vans, the logo should fit available space, with logos maintaining the required ratios in size relative to partner logos.
-
-**Color Information:**
-
-- Color scheme incorporates blue (#0062A5 in HTML, Pantone 2736) and white tones. Secondary road marking graphics use different shades (e.g., Pantone 2736 at a 30% tint, CMYK: 30/27/0/0, RGB: 175/176/216). If unable to print as tint, use Pantone 2717.
-
-**Typography Information:**
-
-- Corporate typefaces include ARS Maquette (Light, Regular, Bold weights) and Gill Sans (Light, Regular, Bold weights), used for official publications.
-- Correspondence typeface is Arial (Regular, Italic, Bold weights), used for PC-generated material like letters, faxes and PowerPoint presentations.
-
-**Spacing Layout:**
-
-- Exclusion zones are measured from the borders of the logo itself on white backgrounds, or the edges of the enclosing white box on colored backgrounds.
-- Positioning guidelines specify the logo to appear top-right in communication materials, except web pages or road signage where specific alignment rules apply.
-
-**Brand Voice:**
-
-- Transport Scotland identity embodies professionalism and effectiveness, ensuring consistent use across all communications.
-- The 'Investing in Scotland' identity promotes sustainable economic growth on high visibility capital projects funded by the Scottish Government.
-
-**Notes:**
-
-- Public-facing signage under 'Investing in Scotland' requires special authorizations for adherence to Road Traffic Regulations. Additional guidelines exist for project-level boards.
-- Certain applications of branding (e.g., partner signage, hoardings, and vehicle liveries) involve context-based modifications under approval from the Corporate Communications Manager.
+*Guidelines data not available*
 
 ## Additional Properties
 

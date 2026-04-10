@@ -2,11 +2,11 @@
 title: Royal Society of Chimestry
 slug: "royal-society-of-chimestry"
 description: ""
-date: "2026-03-20T08:22:04.980823"
+date: "2026-04-10T09:40:33.751498"
 draft: false
 sectors:
-  - publishing
   - research
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -47,25 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - abstract
-  - secondary
-brand_colors:
-  - blue
-typographies:
-  - "source-sans"
-  - serif
-  - gotham
-  - display
-imagery_styles:
-  - abstract
-  - graphic
-  - bold
-  - modern
-  - natural
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -87,44 +72,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Different logo versions are included for primary use, regional applications, and interest groups. Customizations are made with spacing modifications and text configurations.
-- Social media adaptations are supported, including use as avatars or badges for social platforms.
-- Clear space rules indicate specific spacing requirements related to elements within the logo.
-- Incorrect usage examples provide guidance on alignment, spacing, and symbolic consistency within the logo applications.
-
-**Color Information:**
-
-- The color palette is divided into hero (RSC Dark Blue), primary (derived from logo colors), and secondary palettes with specific colors and their codes.
-- Color spectrum provided includes Pantone, RGB, HEX, and CMYK codes for detailed implementation.
-- Reversed logo versions may only be used on RSC Dark Blue.
-
-**Typography Information:**
-
-- Headline font is Bree Serif Regular, designed for impactful headers and quotes. Open source and available on Google Fonts.
-- Display font is Gotham, specified in four weights (bold, book, medium, etc.), used for larger blocks of text but not suitable for dense body copy.
-- Body fonts include Source Sans Pro and Source Serif Pro, optimized for readability and available on Google Fonts.
-- Usage scenarios for fonts include print (headline, display, and body fonts specified) and digital communications (navigation, headers, body text).
-
-**Imagery Photography:**
-
-- People photography emphasizes natural looks, diversity, and connection with the chemistry community.
-- Applications photography highlights modern science connections and collaborations. Emphasis on chemistry subjects with unconventional views or angles.
-- Abstract photography suggests vibrant, visually intriguing designs representing innovation and concepts.
-- Illustrations should follow the color palette and maintain simplicity and clarity, with preference for vector-based creation.
-
-**Spacing Layout:**
-
-- Graphic device structured around a circular grid with proportions controlled by circle diameter. Must maintain overlap consistency and increments of 45°.
-- Preset graphic devices and Adobe Illustrator templates are created for customization.
-- Accessibility considerations include using a minimum type size of 9pt, balanced alignment, clearness, and color contrast for ease of readability.
-
-**Brand Voice:**
-
-- The visual identity aims to represent passion for chemistry, engagement with diverse audiences, and consistency across messaging.
-
-**Notes:**
-
-- Contact information is available for brand inquiries, specifying both Brand and Communications Lead and Creative and Production team emails.
-- Brand headquarters and additional office locations provided, along with registered charity number.
+*Guidelines data not available*

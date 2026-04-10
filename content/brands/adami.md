@@ -2,7 +2,7 @@
 title: Adami
 slug: adami
 description: ""
-date: "2026-03-20T08:22:04.210129"
+date: "2026-04-10T09:40:32.579581"
 draft: false
 sectors:
   - "arts-culture"
@@ -52,13 +52,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-  - horizontal
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -80,33 +75,108 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo exists in two versions: a square version and a horizontal version. The square version is used where width is limited, such as profile photos in social media. The horizontal version is the primary version and should be prioritized wherever possible.
-- Two signature versions of the logo are defined: one includes a signature, and the other does not. Logos with signatures are used for official Adami communication. Logos without signatures are used on materials from third parties.
+##### Mission
 
-**Color Information:**
+- Adami is a collective society serving performing artists, representing their voices and empowering them through unity and artistic expression [^1].
 
-- Pantone color: Pantone 485C.
-- RGB equivalent provided (values not visible in this extract).
-- Black and white versions are supported.
+##### Core Values
 
-**Typography Information:**
+- artistic empowerment
+- unity
+- individuality
+- creativity
 
-- Typography guidelines are provided (details not fully visible in current extract).
+##### Target Audience
 
-**Spacing Layout:**
+- Performing artists and interpreters seeking representation and support within the artistic community [^2].
 
-- Clear space and minimum size rules are described. There are examples of correct and incorrect usage of the logo.
+##### Personality Traits
 
-**Brand Voice:**
+- dynamic
+- modern
+- creative
+- energetic
 
-- General principles of Adami's brand identity are summarized, including cohesive messaging and appropriate use of brand elements.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is characterized by bold, stylized red typography, dynamic dot and dash patterns symbolizing unity and individuality, a modern and energetic aesthetic, and clear logo usage guidelines. The color palette is predominantly red, with black and white variants, and the typography features Maax for titles and Roboto Slab for baseline and body text [^3].
 
-- The document is titled 'CHARTE D’IDENTITÉ VISUELLE DU LOGO DE L’ADAMI'.
-- Introduction to Adami brand identity. Adami represents a collective of artists that are symbolized by 'dots', which unite to create a symbolic 'digital fingerprint' or 'artistic DNA'. This reflects uniqueness and unity among artists.
+#### Categories
+
+##### Brand Imagery
+
+- Le logo existe en 2 versions, pour s’adapter aux diverses possibilités d’utilisation.
+- Version horizontale C’est la version principale du logo. Elle est à utiliser en priorité.
+- Version carré Elle peut-être utilisée quand la largeur d’utilisation du logo est limitée ou qu’un format carré ou rond est privilégié, comme les photos profil en social media.
+- Quadrichromie C : 0% M : 100% J : 100% N : 0%
+- Pantone Pantone 485C
+- RVB R : 227 V : 6 B : 19
+- Hexa #e30613
+- Noir et blanc Noir : 100%
+- Le logo peut-être utilisé sur des fonds de couleur ou fond photo. La lisibilité est primordiale.
+- Sur fond sombre, l'usage de la version blanche est recommandée. Sur fond clair, la version rouge est à utiliser.
+- Usage sur photo Le logo peut être utilisé sur photo à condition que la zone sur laquelle il s'exprime reste une zone avec une couleur uniforme.
+- Si cela n'est pas le cas, il faut utiliser le logo dans un cartouche blanc.
+- Taille Afin de respecter la lisibilité de la base-line du logo, si la taille du logo est inférieure à 30 mm en hauteur, il est demandé d’utiliser le logo sans sa base-line.
+- Zone de protection Pour préserver la bonne lisibilité du logo par rapport à un autre élément graphique, veuillez respecter un espace minimum correspondant à un “m“.
+- Toutes les utilisations non présentes dans ce document ne sont pas autorisées (changement de couleurs, déformation/modification du logo…)
+
+##### Color Palette
+
+- C : 0% M : 100% J : 100% N : 0%
+- Pantone 485C
+- R : 227 V : 6 B : 19
+- #e30613
+- Noir : 100%
+- Le logo peut-être utilisé sur des fonds de couleur ou fond photo. La lisibilité est primordiale.
+- Sur fond sombre, l'usage de la version blanche est recommandée. Sur fond clair, la version rouge est à utiliser.
+- Le logo peut être utilisé sur photo à condition que la zone sur laquelle il s'exprime reste une zone avec une couleur uniforme.
+- Si cela n'est pas le cas, il faut utiliser le logo dans un cartouche blanc.
+- Toutes les utilisations non présentes dans ce document ne sont pas autorisées (changement de couleurs, déformation/modification du logo…)
+
+##### Typography
+
+- Maax La Maax est la police du logo, elle est également utilisée en police de titrage.
+- Elle dispose de 4 graisses + des versions alternates permettant de jouer sur la composition des textes
+- Digital / Nous utilisons la Palanquin Dark (Google Fonts) en alternative à la Maax.
+- Roboto Slab La Roboto Slab est la police de la baseline, elle est également utilisée en police de texte courant.
+
+##### Logo Usage
+
+- Le logo existe en 2 versions, pour s’adapter aux diverses possibilités d’utilisation.
+- Version horizontale C’est la version principale du logo. Elle est à utiliser en priorité.
+- Version carré Elle peut-être utilisée quand la largeur d’utilisation du logo est limitée ou qu’un format carré ou rond est privilégié, comme les photos profil en social media.
+- Le logo peut-être utilisé sur des fonds de couleur ou fond photo. La lisibilité est primordiale.
+- Sur fond sombre, l'usage de la version blanche est recommandée. Sur fond clair, la version rouge est à utiliser.
+- Le logo peut être utilisé sur photo à condition que la zone sur laquelle il s'exprime reste une zone avec une couleur uniforme.
+- Si cela n'est pas le cas, il faut utiliser le logo dans un cartouche blanc.
+- Afin de respecter la lisibilité de la base-line du logo, si la taille du logo est inférieure à 30 mm en hauteur, il est demandé d’utiliser le logo sans sa base-line.
+- Pour préserver la bonne lisibilité du logo par rapport à un autre élément graphique, veuillez respecter un espace minimum correspondant à un “m“.
+- Toutes les utilisations non présentes dans ce document ne sont pas autorisées (changement de couleurs, déformation/modification du logo…)
+
+##### Visual Style
+
+- Le logo existe en 2 versions, pour s’adapter aux diverses possibilités d’utilisation.
+- Version horizontale C’est la version principale du logo. Elle est à utiliser en priorité.
+- Version carré Elle peut-être utilisée quand la largeur d’utilisation du logo est limitée ou qu’un format carré ou rond est privilégié, comme les photos profil en social media.
+- Quadrichromie C : 0% M : 100% J : 100% N : 0%
+- Pantone Pantone 485C
+- RVB R : 227 V : 6 B : 19
+- Hexa #e30613
+- Noir et blanc Noir : 100%
+- Le logo peut-être utilisé sur des fonds de couleur ou fond photo. La lisibilité est primordiale.
+- Sur fond sombre, l'usage de la version blanche est recommandée. Sur fond clair, la version rouge est à utiliser.
+- Usage sur photo Le logo peut être utilisé sur photo à condition que la zone sur laquelle il s'exprime reste une zone avec une couleur uniforme.
+- Si cela n'est pas le cas, il faut utiliser le logo dans un cartouche blanc.
+- Taille Afin de respecter la lisibilité de la base-line du logo, si la taille du logo est inférieure à 30 mm en hauteur, il est demandé d’utiliser le logo sans sa base-line.
+- Zone de protection Pour préserver la bonne lisibilité du logo par rapport à un autre élément graphique, veuillez respecter un espace minimum correspondant à un “m“.
+- Toutes les utilisations non présentes dans ce document ne sont pas autorisées (changement de couleurs, déformation/modification du logo…)
+- Maax La Maax est la police du logo, elle est également utilisée en police de titrage.
+- Elle dispose de 4 graisses + des versions alternates permettant de jouer sur la composition des textes
+- Digital / Nous utilisons la Palanquin Dark (Google Fonts) en alternative à la Maax.
+- Roboto Slab La Roboto Slab est la police de la baseline, elle est également utilisée en police de texte courant.
 
 ## Additional Properties
 

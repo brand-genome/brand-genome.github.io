@@ -2,7 +2,7 @@
 title: Commonwealth Games Federation
 slug: "commonwealth-games-federation"
 description: ""
-date: "2026-03-20T08:22:04.413374"
+date: "2026-04-10T09:40:33.155955"
 draft: false
 sectors:
   - sports
@@ -52,25 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - blue
-  - yellow
-  - black
-typographies:
-  - impact
-  - helvetica
-  - arial
-  - display
-imagery_styles:
-  - bold
-  - portrait
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international organization responsible for the Commonwealth Games and Commonwealth Youth Games
 wikidata_url: "https://www.wikidata.org/wiki/Q3684877"
 has_twitter: false
@@ -90,46 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Formal identity
-Wordmark
-Sub-brands
-Ad hoc usage
-Events and Members
-- Brand language  |  Identity lock-ups: Wordmark always combined with Celebration Device; supporting wall textures and templates provided for generating logo lock-ups.
-- Association Lock-Up (Sponsor version) specifies safe margin rules and alignment details for sponsor visuals, including scaling based on the height of the wordmark.
-- Composite Logos for Sponsors: Includes multiple file formats (CMYK, RGB, white, black). Steps for editable files and logo placement areas provided.
-
-**Color Information:**
-
-- Primary Commonwealth brand colors listed with respective codes:
-Red (Pantone: 185C, HEX: #e62a32, RGB: 230, 42, 50), Yellow (Pantone: 129C, HEX: #fec33b, RGB: 254, 195, 59), Blue (Pantone: 2171C, HEX: #2ca5de, RGB: 44, 165, 222);
-Additional black (#231f20)/white (#ffffff) for contrast.
-
-**Typography Information:**
-
-- Display typeface: Helvetica Neue family (uses fonts Helvetica Neue 75 Bold, 85 Heavy, 95 Black for drama/impact, and 45 Light for contrast). Suggested tight tracking of -25 em and leading ratio 130% for display headings and titles.
-- Standard Typography weights: Helvetica Neue 55 Roman for body copy or white-on-image text; 75 Bold for subtitles or highlighted sentences.
-- Styling notes: Leading (line-height) recommended at 160% for long body text blocks.
-- Alternative Typography: Arial family suggested as standardized replacement for internal communications or when Helvetica Neue isn't available.
-
-**Imagery Photography:**
-
-- Formal Identity applications in color prioritize Celebration Device use; presets for mono (all black/white) reproduction mentioned. Secondary options for white wordmarks over images noted.
-- Themes in photography for Commonwealth athletes include action shots, scenes of celebration, and human portraits. Imagery must be impactful, active, and representative (broad demographics, diverse Commonwealth regions).
-- Photography style emphasizes community and inclusion (portrait representations) in addition to athlete focus.
-- Fan Device imagery specifics: It interacts creatively, expanding brand color usage within guidelines for transparency application, minimum size rules, and directional constraints.
-
-**Brand Voice:**
-
-- Brand voice aligns trained Commonwealth visuals: key messaging amplifies inclusivity, inspiration, active tone (parallel to impactful colors and visuals).
-
-**Notes:**
-
-- General brand principles introducing CGF role with distinctive organizational anchor for Commonwealth sporting.
-- Association lock-ups detailed for CGA identities showing flag and alignment instructions; rule prominence of Celebration Device placement emphasized.
-- Games-time specific CGA branding refinements pending for Birmingham 2022 detailed in GFS10 Guidelines future iterations.
+*Guidelines data not available*
 
 ## Additional Properties
 

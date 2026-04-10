@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-03-20T08:22:04.718115"
+date: "2026-04-10T09:40:33.444213"
 draft: false
 sectors:
   - "arts-culture"
@@ -52,15 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - black
-  - gray
-  - white
-  - blue
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
+imagery_styles: []
 wikidata_description: American professional organization for communication design
 wikidata_url: "https://www.wikidata.org/wiki/Q3622004"
 has_twitter: false
@@ -80,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2000
 
-**Logo Information:**
-
-- The AIGA logo retains the spirit of the previous identifier designed by Paul Rand, with a bold background box for prominence. The letterforms are redrawn, respaced, and not replicable with any existing typeface. The logo must never be modified.
-- The logo can be reproduced in any of the palette's 24 selected colors, black, or gray. 'National Blue,' similar to PAN-TONE® 5415C, is recommended.
-- The letters 'AIGA' within the box must always appear as a reverse (white text). An outline version of the logo is available for medium and dark-colored backgrounds.
-- Electronic artwork for both positive and reverse logos is available on the web.
-
-**Color Information:**
-
-- The logo should preferably use one of 24 selected support colors, including black and gray. 'National Blue,' similar to PANTONE® 5415C, is mentioned as a preferred color.
-
-**Typography Information:**
-
-- The letterforms in the AIGA logo are entirely custom; they cannot be replicated by any existing typeface and must not be modified.
-- Casual names (e.g., 'AIGA New York') should always be typeset in a single typeface and weight, avoiding any portions being emphasized.
-
-**Imagery Photography:**
-
-- Imaginative usage of the logo in communications is encouraged. It should not just be placed as an afterthought but integrated meaningfully.
-
-**Spacing Layout:**
-
-- No specific spacing rules for the logo mentioned, but efforts should be made to integrate it meaningfully in communications rather than as an afterthought.
-
-**Brand Voice:**
-
-- The brand aims to evoke emotional responses that align with the organization's goals, mission, and values. All communications must embody the positive characteristics of the AIGA organization.
-- The casual name 'AIGA' may be conversationally used in text or headings, but formal names must be used in signatures and address blocks.
-
-**Notes:**
-
-- The official website provides artwork downloads for the logo (positive and reverse versions).
-- 'American Institute of Graphic Arts' is the official name, whereas 'AIGA' is the casual name. Casually used names should not substitute for official names.
+*Guidelines data not available*
 
 ## Additional Properties
 

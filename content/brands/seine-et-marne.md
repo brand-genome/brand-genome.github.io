@@ -2,7 +2,7 @@
 title: "Seine-et-Marne"
 slug: "seine-et-marne"
 description: ""
-date: "2026-03-20T08:22:04.217298"
+date: "2026-04-10T09:40:32.605475"
 draft: false
 sectors:
   - "public-sector"
@@ -49,15 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - signature
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - modern
+imagery_styles: []
 wikidata_description: French department
 wikidata_url: "https://www.wikidata.org/wiki/Q12753"
 has_twitter: false
@@ -77,10 +72,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo includes a graphical representation of '77' (double 7), with a modern, elegant, and dynamic typeface. It includes the department name in a rounded typeface and the signature 'LE DÉPARTEMENT'.
-- There are two versions: 1) institutional version (square); 2) alternate version (horizontal), both in 2 colors.
+*Guidelines data not available*
 
 ## Additional Properties
 

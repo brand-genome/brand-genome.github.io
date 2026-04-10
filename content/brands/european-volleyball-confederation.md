@@ -2,7 +2,7 @@
 title: European Volleyball Confederation
 slug: "european-volleyball-confederation"
 description: ""
-date: "2026-03-20T08:22:04.229942"
+date: "2026-04-10T09:40:32.692043"
 draft: false
 sectors:
   - sports
@@ -70,6 +70,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

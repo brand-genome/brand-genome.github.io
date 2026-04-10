@@ -2,7 +2,7 @@
 title: Moeve
 slug: moeve
 description: ""
-date: "2026-03-20T08:22:03.076462"
+date: "2026-04-10T09:40:30.582151"
 draft: false
 sectors:
   - energy
@@ -76,44 +76,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Keyword 'minimum size' found, relevant content extracted.
-- Keyword 'logo' found, relevant content extracted.
-- Keyword 'logo' found, relevant content extracted.
-- Keyword 'logo' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-
-**Color Information:**
-
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'CMYK' found, relevant content extracted.
-- Keyword 'Pantone' found, relevant content extracted.
-- Keyword 'Pantone' found, relevant content extracted.
-
-**Typography Information:**
-
-- Keyword 'font' found, relevant content extracted.
-- Keyword 'font' found, relevant content extracted.
-- Keyword 'font' found, relevant content extracted.
-- Keyword 'font' found, relevant content extracted.
-- Keyword 'weight' found, relevant content extracted.
-
-**Spacing Layout:**
-
-- Keyword 'alignment' found, relevant content extracted.
-
-**Brand Voice:**
-
-- Keyword 'tone' found, relevant content extracted.
-- Keyword 'tone' found, relevant content extracted.
-- Keyword 'tone' found, relevant content extracted.
-- Keyword 'tone' found, relevant content extracted.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-03-20T08:22:05.709690"
+date: "2026-04-10T09:40:34.653493"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -47,23 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - white
-  - grey
-  - black
-typographies:
-  - gotham
-  - din
-  - display
-imagery_styles:
-  - minimal
-  - graphic
-  - professional
-  - modern
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q746111"
 has_twitter: false
@@ -84,414 +71,112 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- Contents
-04  Color System..............................
-02  Logo.............................................
-01  Introduction................................
-03  Variations.....................................
-07  Stationary.....................................
-05  Typography.................................
-10  Contact Us...................................
-06  merchandising............................
-08  Grid Systems...............................
-09  Check List...................................
-- BRAND GUIDELINES
-06
-Logo
-Our logo is very precious to us.
- We took our time 
-developing our brand so please be nice to it.
-02
-- 07
-BRAND GUIDELINES
-Our logo was developed to be modern and future-proof, updating our public persona and realizing the design with new techniques. 
-It is a distinctive mark and brand that seeks to present Our Company as a forward-thinking, professional organization.
-PRESENTATION
-The Prime Version of our Logo.
-Our corporate icon
-- BRAND GUIDELINES
-08 
-Logo Implementation
-Area around the logo shows how close to the edge of printed medium logo can be placed. Empty area around the logo cannot 
-be distributed by any elements in any case.  For the primary logo the margin of clear space is measured by the logo icon. No ele
--
+##### Mission
 
-ment, other than our tagline, may encroach on this space.
-= 
-Minimun clear space
-- 09
-BRAND GUIDELINES
-Minimum Size
-Minimum print size is 32 mm wide
-minimum digital size is 124 pixels wide 
-To make sure our logo is always visible we™ve determined a minimum display size for the digital and print applications.
-- BRAND GUIDELINES
-10
-Logo Usage
-01 If you have to...
-If it ™s unavoidable to sit the logo 
-on a color or a photo, use the 
+- To be a leading source for Open Source software that meets the demand for innovative, adaptable, and sustainable solutions, represented by a modern visual identity centered on the Apache feather.
 
-negative logo.
-02 Not right
-Do not rotate the logo.
-03 Color clash
-Do not place the logo on the 
+##### Core Values
 
-wrong colors.
-04 Not good
-Do not use the negative logo on 
+- innovation
+- adaptability
+- sustainability
 
-backgrounds that are too light or 
+##### Target Audience
 
-cluttered.
-05 No thanks
-Do not add embellishments like 
+- Individuals and organizations seeking reliable, modern, and professional open source software solutions.
 
-drop-shadows,embossing etc. to 
+##### Personality Traits
 
-the logo.
-We don™t want to come across all doom and gloom, but there is a right way and a wrong way to present our logo
-Don't rotate the logo
-Don't Stretch the logo
-Don't use drop shadow.
-Don't use on other backgrounds.
-Don't change the position of 
-the logo.
-Don't add any other color to the 
+- professional
+- modern
+- clean
+- innovative
 
-logo.
-- 11
-BRAND GUIDELINES
-Variations
-We want to look good all the time, 
-so take time to con
--
-sider how to apply our logo.
-03
-- BRAND GUIDELINES
-12
-The color usage is fairly minimal. The logo will be used in black or white against neutral backgrounds, use the white version for 
-black backgrounds and the black version for white backgrounds and the colored version for white and grey background.
-- BRAND GUIDELINES
-16
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890!@#$%^&*( )
-Gotham is the main font for:
-- Headings
-- body text
-It ™s used to complement the Volte rounded semibold font reserved for logo word mark. The choice 
-of the weight depends on the situation.
-GOTHAM
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
+##### Visual Identity Overview
 
-1234567890!@#$%^&*( )
-- BRAND GUIDELINES
-20
-LETTERHEAD
-Clean and simple, we designed our stationary to align with our visual system. The letterhead features the logo in the right of the top 
-of letter.
-DIMENSIONS: 
-DIN A4
-PAPER:
-100 g/m  offset white
-WWW.PacCoin.net
-- 29
-BRAND GUIDELINES
-USE ON DIFFERENT DEVISES
-Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here are some exam
--
-ples.
-Please follow the rules, to have a consistant visual appearance.
-Screen/App
-MORE EXAMPLES FOR SCREEN GRID 16:9
-- 31
-BRAND GUIDELINES
-01 The Logo
-Only use logos that are complete and in an appropriate version, created from
-original digital artwork. Please check that you have respected the minimum size
+- The visual identity features a stylized feather with a gradient color palette (orange, red, purple), clean typography (Montserrat), and a balanced, professional layout. The logo is used in full color or single color variations, with strict guidelines for clear space, alignment, and approved color usage.
 
-and exclusion zone requirements.
-02 Backgrounds
-The logo should not appear on light or cluttered images without being reversed out.
-03 Graphics
-Check that any supporting graphics or graphic elements do not marginalize, obscure 
+#### Categories
 
-or overpower Our Company logo.
-04 Typography
- 
-Check that our corporate typefaces have been used appropriately where applicable.
-05 Design
-Be sure to provide these guidelines to third parties or collaborating partners.
-A final thought.
-If in doubt, take a look back through this document, all the answers are there. We 
+##### Color Palette
 
-don™t ask for much, just a little love and respect for our branding which is why we 
+- The brand colors for the mark consist of carefully selected colors, designed to stand out across the competitive set.
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- Color Palette | Color | Red | Color | Gray | |----------|----------| | RGB: | R 210 / G 33 / B 40 | RGB: | R 109 / G 110 / B 113 | | CMYK: | C 11 / M 100 / Y 98 / K 02 | CMYK: | C 58 / M 49 / Y 46 / K 15 | | HEX: | D22128 | HEX: | 6D6E71 | | PMS: | PANTONE 1797 CP | PMS: | PANTONE 416 CP |
+- | Color | Goldenrod | Color | Orange | Color | Crimson | | RGB: | R 247 / G 154 / B 37 | RGB: | R 234 / G 120 / B 38 | RGB: | R 203 / G 33 / B 56 | | CMYK: | C 0 / M 46 / Y 96 / K 0 | CMYK: | C 04 / M 64 / Y 98 / K 0 | CMYK: | C 14 / M 100 / Y 82 / K 03 | | HEX: | F79A25 | HEX: | EA7826 | HEX: | CB2138 | | PMS: | PANTONE 1375 CP | PMS: | PANTONE 7413 CP | PMS: | PANTONE 200 CP |
+- | Color | Magenta | Color | Violet | Color | Indigo | | RGB: | R 158 / G 33 / B 101 | RGB: | R 102 / G 47 / B 143 | RGB: | R 40 / G 38 / B 97 | | CMYK: | C 36 / M 100 / Y 34 / K 08 | CMYK: | C 75 / M 98 / Y 02 / K 0 | CMYK: | C 100 / M 99 / Y 31 / K 22 | | HEX: | 9E2165 | HEX: | 662F8F | HEX: | 282661 | | PMS: | PANTONE 7434 CP | PMS: | PANTONE 526 CP | PMS: | PANTONE 5265 CP |
+- | D22128 | 6D6E71 | | Logotype | FFFFFF |
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- | Feather | | F7AE18 | | EA7826 | CB2138 | | 9E2165 | | 662F8F | 282661 |
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks. even if they exist within the approved brand color palette.
+- use BLACK or WHITE for one­ color variations of the logomark.
 
-think we™ve created a flexible system that won™t stifle your creativity.
-Give it your best shot...
+##### Logo Usage
 
-**Color Information:**
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- The primary lockup is horizontal in orientation, and the feather extends slightly above and below the logotext. The full logomark should always include the entire organization name: "The Apache Software Foundation."
+- When horizontal space is limited, a standalone feather can be used as a substitute.
+- If it is necessary to include the Apache URL in the logomark, this horizontal lockup should be used.
+- Alternatively, if vertical space is at a premium, this long, vertically condenced lockup which also includes the full Apache URL may be used instead.
+- The logotype should be vertically centered with the feather.
+- Spacing between the feather and the logotype and between the “E” in the logotype and the “Registered” mark should be equal to each other and roughly equivalent to the weight of the lines in the word “APACHE.”
+- Vertical space between the lines of text in the logotype should be equal to each other and roughly equivalent to the height of the supporting text “THE” and “SOFTWARE FOUNDATION.”
+- The “H” in “THE” should be horizontally centered with “A” in “APACHE.”
+- A minimum area of space must always surround the mark /logotype lockups. This area of isolation allows the identity to stand out by ensuring that other visual elements are kept clear from the mark.
+- This clear space is based on the height of the logomark.
+- DON'T stretch the logomark or the feather vertically or horizontally.
+- ✓ DO maintain the original ratio.
+- DON'T remove words from the full logomark or allow "APACHE' to appear without "THE" and "SOFTWARE FOUNDATION."
+- ✓ DO use the full logomark in its entirety, without modifications.
+- DON'T add additional words or modify the standard logomark beyond brand specifications.
+- ✓ DO use ONLY approved variations of the standard logomark.
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- ✓ DO use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks, even if they exist within the approved brand color palette.
+- ✓ DO use BLACK or WHITE for one­color variations of the logomark.
+- DON'T place other logos, text, or visual elements within the specified "clear space" around the logomark.
+- ✓ DO place other elements far enough from the logomark that they don't enter the necessary "clear space" around the mark.
 
-- BRAND GUIDELINES
-14
-80%  - 20%
-CMKY - 0, 0, 0, 100
-RGB - 0, 0, 0
-HEX #000000
-CMKY - 2, 2, 90, 0
+##### Typography
 
-RGB - 254, 240, 0
-80%  - 20%
-HEX #fef000
-CMKY - 2, 2, 90, 0
+- Aa # Montserrat Light abcdefghijk1 rm®#pqrstuvwxyz Cc7esaoss-ea_aN CDEFGHIJKLMN gPQRSTUVWXYZ
+- Aa # Montserrat Regular abcdefghijklrn"# •• 1 pqrstuvwxyz ABCE DEFGHIJKLMN PORSTUVWXYZ 1234567890! !@#$%0 &*()_+<>?()I\ -
+- Mon t s errat is a free. o p en-source Google Fon t and can be downloaded for use at: fonts.google.com /specimen • /Montserrat
 
-RGB - 254, 240, 0
-80%  - 20%
-HEX #fef000
-Use Of Color For Printed And Digital Media
-Color is an integral part of brand identity. Consistent use of the color palette not only reinforces the cohesiveness of the brand, but also serves as psychological pur
--
-pose by communicating certain feelings to your audience. 
-A comprehensive color palette has been developed to provide flexibility while creating a 
-unified, recognizable appearance across all communications.
+##### Visual Style
 
-**Typography Information:**
-
-- Contents
-04  Color System..............................
-02  Logo.............................................
-01  Introduction................................
-03  Variations.....................................
-07  Stationary.....................................
-05  Typography.................................
-10  Contact Us...................................
-06  merchandising............................
-08  Grid Systems...............................
-09  Check List...................................
-- 09
-BRAND GUIDELINES
-Minimum Size
-Minimum print size is 32 mm wide
-minimum digital size is 124 pixels wide 
-To make sure our logo is always visible we™ve determined a minimum display size for the digital and print applications.
-- BRAND GUIDELINES
-10
-Logo Usage
-01 If you have to...
-If it ™s unavoidable to sit the logo 
-on a color or a photo, use the 
-
-negative logo.
-02 Not right
-Do not rotate the logo.
-03 Color clash
-Do not place the logo on the 
-
-wrong colors.
-04 Not good
-Do not use the negative logo on 
-
-backgrounds that are too light or 
-
-cluttered.
-05 No thanks
-Do not add embellishments like 
-
-drop-shadows,embossing etc. to 
-
-the logo.
-We don™t want to come across all doom and gloom, but there is a right way and a wrong way to present our logo
-Don't rotate the logo
-Don't Stretch the logo
-Don't use drop shadow.
-Don't use on other backgrounds.
-Don't change the position of 
-the logo.
-Don't add any other color to the 
-
-logo.
-- BRAND GUIDELINES
-12
-The color usage is fairly minimal. The logo will be used in black or white against neutral backgrounds, use the white version for 
-black backgrounds and the black version for white backgrounds and the colored version for white and grey background.
-- 15
-BRAND GUIDELINES
-Typography
-05
-Typography is the backbone of design, 
-getting it right 
-is paramount.
-- BRAND GUIDELINES
-16
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890!@#$%^&*( )
-Gotham is the main font for:
-- Headings
-- body text
-It ™s used to complement the Volte rounded semibold font reserved for logo word mark. The choice 
-of the weight depends on the situation.
-GOTHAM
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-
-1234567890!@#$%^&*( )
-- 17
-BRAND GUIDELINES
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890!@#$%^&*( )
-Volte Rounded
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-
-1234567890!@#$%^&*( )
-Our second corporate font is volte rounded in semibold weght.
-- 27
-BRAND GUIDELINES
-Columns
-USE ON DIN A4 AND LETTER FORMAT
-The grid is used as a guide for how to place text, photos and advertisements on the page. The font size that you use should be 
-proportionate to the grid. 
-The 12 column grid is always the basic. For special prints, a 6 cloumn grid is also allowed.
-- 31
-BRAND GUIDELINES
-01 The Logo
-Only use logos that are complete and in an appropriate version, created from
-original digital artwork. Please check that you have respected the minimum size
-
-and exclusion zone requirements.
-02 Backgrounds
-The logo should not appear on light or cluttered images without being reversed out.
-03 Graphics
-Check that any supporting graphics or graphic elements do not marginalize, obscure 
-
-or overpower Our Company logo.
-04 Typography
- 
-Check that our corporate typefaces have been used appropriately where applicable.
-05 Design
-Be sure to provide these guidelines to third parties or collaborating partners.
-A final thought.
-If in doubt, take a look back through this document, all the answers are there. We 
-
-don™t ask for much, just a little love and respect for our branding which is why we 
-
-think we™ve created a flexible system that won™t stifle your creativity.
-Give it your best shot...
-
-**Spacing Layout:**
-
-- Contents
-04  Color System..............................
-02  Logo.............................................
-01  Introduction................................
-03  Variations.....................................
-07  Stationary.....................................
-05  Typography.................................
-10  Contact Us...................................
-06  merchandising............................
-08  Grid Systems...............................
-09  Check List...................................
-- BRAND GUIDELINES
-08 
-Logo Implementation
-Area around the logo shows how close to the edge of printed medium logo can be placed. Empty area around the logo cannot 
-be distributed by any elements in any case.  For the primary logo the margin of clear space is measured by the logo icon. No ele
--
-
-ment, other than our tagline, may encroach on this space.
-= 
-Minimun clear space
-- 21
-BRAND GUIDELINES
-ENVELOPE
-The envelope will be used for all official contact and communication of our company. These are the approved layouts. Other 
-formats are also allowed.
-DIMENSIONS: 
-DIN lang C5
-PAPER:
-80g/m˜ offset white paper
-- BRAND GUIDELINES
-26
-08 
-Grid Systems
-Using a grid system is one way to achieve a level of consis
--
-tency 
-that would be otherwise extremely difficult to master.
-- 27
-BRAND GUIDELINES
-Columns
-USE ON DIN A4 AND LETTER FORMAT
-The grid is used as a guide for how to place text, photos and advertisements on the page. The font size that you use should be 
-proportionate to the grid. 
-The 12 column grid is always the basic. For special prints, a 6 cloumn grid is also allowed.
-- BRAND GUIDELINES
-28 
-For images
-GENERAL INFORMATION OF THE CONTENT AND LAYOUT OF EACH 
-PA G E
-- 29
-BRAND GUIDELINES
-USE ON DIFFERENT DEVISES
-Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here are some exam
--
-ples.
-Please follow the rules, to have a consistant visual appearance.
-Screen/App
-MORE EXAMPLES FOR SCREEN GRID 16:9
-- 31
-BRAND GUIDELINES
-01 The Logo
-Only use logos that are complete and in an appropriate version, created from
-original digital artwork. Please check that you have respected the minimum size
-
-and exclusion zone requirements.
-02 Backgrounds
-The logo should not appear on light or cluttered images without being reversed out.
-03 Graphics
-Check that any supporting graphics or graphic elements do not marginalize, obscure 
-
-or overpower Our Company logo.
-04 Typography
- 
-Check that our corporate typefaces have been used appropriately where applicable.
-05 Design
-Be sure to provide these guidelines to third parties or collaborating partners.
-A final thought.
-If in doubt, take a look back through this document, all the answers are there. We 
-
-don™t ask for much, just a little love and respect for our branding which is why we 
-
-think we™ve created a flexible system that won™t stifle your creativity.
-Give it your best shot...
-
-**Brand Voice:**
-
-- BRAND GUIDELINES
-08 
-Logo Implementation
-Area around the logo shows how close to the edge of printed medium logo can be placed. Empty area around the logo cannot 
-be distributed by any elements in any case.  For the primary logo the margin of clear space is measured by the logo icon. No ele
--
-
-ment, other than our tagline, may encroach on this space.
-= 
-Minimun clear space
-
-**Notes:**
-
-- BRAND GUIDELINES
-28 
-For images
-GENERAL INFORMATION OF THE CONTENT AND LAYOUT OF EACH 
-PA G E
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- The brand colors for the mark consist of carefully selected colors, designed to stand out across the competitive set.
+- The logotype should be vertically centered with the feather.
+- Spacing between the feather and the logotype and between the “E” in the logotype and the “Registered” mark should be equal to each other and roughly equivalent to the weight of the lines in the word “APACHE.”
+- Vertical space between the lines of text in the logotype should be equal to each other and roughly equivalent to the height of the supporting text “THE” and “SOFTWARE FOUNDATION.”
+- The “H” in “THE” should be horizontally centered with “A” in “APACHE.”
+- A minimum area of space must always surround the mark /logotype lockups. This area of isolation allows the identity to stand out by ensuring that other visual elements are kept clear from the mark.
+- This clear space is based on the height of the logomark.
+- DON'T stretch the logomark or the feather vertically or horizontally.
+- ✓ DO maintain the original ratio.
+- DON'T remove words from the full logomark or allow "APACHE' to appear without "THE" and "SOFTWARE FOUNDATION."
+- ✓ DO use the full logomark in its entirety, without modifications.
+- DON'T add additional words or modify the standard logomark beyond brand specifications.
+- ✓ DO use ONLY approved variations of the standard logomark.
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- ✓ DO use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks, even if they exist within the approved brand color palette.
+- ✓ DO use BLACK or WHITE for one­color variations of the logomark.
+- DON'T place other logos, text, or visual elements within the specified "clear space" around the logomark.
+- ✓ DO place other elements far enough from the logomark that they don't enter the necessary "clear space" around the mark.
 
 ## Additional Properties
 

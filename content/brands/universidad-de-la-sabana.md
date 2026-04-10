@@ -2,7 +2,7 @@
 title: Universidad de La Sabana
 slug: "universidad-de-la-sabana"
 description: ""
-date: "2026-03-20T08:22:03.385041"
+date: "2026-04-10T09:40:30.931982"
 draft: false
 sectors:
   - education
@@ -58,21 +58,15 @@ imagery_styles: []
 wikidata_description: Colombian private university
 wikidata_url: "https://www.wikidata.org/wiki/Q7895617"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.unisabana.edu.co](https://www.unisabana.edu.co)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 

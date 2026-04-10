@@ -2,7 +2,7 @@
 title: University of Nottingham Ningbo China
 slug: "university-of-nottingham-ningbo-china"
 description: ""
-date: "2026-03-20T08:22:03.303497"
+date: "2026-04-10T09:40:30.838306"
 draft: false
 sectors:
   - university
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: The English Language Education department at the University of Nottingham Ningbo China
 wikidata_url: "https://www.wikidata.org/wiki/Q131377585"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [http://www.edu.cn](http://www.edu.cn)
 - [https://www.nottingham.edu.cn/en/cele/welcome.aspx](https://www.nottingham.edu.cn/en/cele/welcome.aspx)
 - [https://www.nottingham.edu.cn/cn/cele/homepage.aspx](https://www.nottingham.edu.cn/cn/cele/homepage.aspx)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
 
 ## Additional Properties
 

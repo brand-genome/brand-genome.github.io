@@ -2,7 +2,7 @@
 title: Promise Biomedical
 slug: "promise-biomedical"
 description: ""
-date: "2026-03-20T08:22:03.160858"
+date: "2026-04-10T09:40:30.708957"
 draft: false
 sectors:
   - healthcare
@@ -68,10 +68,4 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Initial content mentions logo information from the brand guidelines (page provides general introduction).
-
-**Notes:**
-
-- Table of contents briefly lists key sections such as logos, typography, and field materials.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: TUI
 slug: tui
 description: ""
-date: "2026-03-20T08:22:05.858435"
+date: "2026-04-10T09:40:34.879990"
 draft: false
 sectors:
   - hospitality
@@ -57,8 +57,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: German travel and tourism company
 wikidata_url: "https://www.wikidata.org/wiki/Q573103"
 has_twitter: false
@@ -84,77 +83,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-- Logo-related information likely present on this page.
-
-**Color Information:**
-
-- Color-related information likely present on this page.
-
-**Typography Information:**
-
-- Typography-related information likely present on this page.
-- Typography-related information likely present on this page.
-- Typography-related information likely present on this page.
-- Typography-related information likely present on this page.
-- Typography-related information likely present on this page.
-- Typography-related information likely present on this page.
-
-**Imagery Photography:**
-
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-- Imagery and photography details likely present on this page.
-
-**Spacing Layout:**
-
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-- Spacing and layout information likely present on this page.
-
-**Brand Voice:**
-
-- Brand voice guidance likely present on this page.
-- Brand voice guidance likely present on this page.
-- Brand voice guidance likely present on this page.
-- Brand voice guidance likely present on this page.
-- Brand voice guidance likely present on this page.
-- Brand voice guidance likely present on this page.
-
-**Notes:**
-
-- General information or brand overview content.
-- General information or brand overview content.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Pennsylvania College of Technology
 slug: "pennsylvania-college-of-technology"
 description: ""
-date: "2026-03-20T08:22:04.563153"
+date: "2026-04-10T09:40:33.375162"
 draft: false
 sectors:
   - education
@@ -49,25 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
-  - abstract
-brand_colors:
-  - green
-  - grey
-  - blue
-typographies:
-  - impact
-  - univers
-imagery_styles:
-  - dynamic
-  - abstract
-  - graphic
-  - bold
-  - subtle
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public college in Williamsport, Pennsylvania"
 wikidata_url: "https://www.wikidata.org/wiki/Q15265909"
 has_twitter: false
@@ -86,37 +71,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Color Information:**
-
-- Primary colors: PMS 285 (CMYK: C89 M43 Y0 K0, RGB: R0 G113 B206, HEX: #0072ce), PMS 424 (CMYK: C0 M0 Y0 K65, RGB: R119 G120 B123, HEX: #77787b). Blue and grey are lead colors. Tints of grey may be used, but tints of primary blue should not be used due to low tonal contrast. Instead, light blue is provided in the secondary palette.
-- Secondary palette: PMS 2935 U (C96 M82 Y2 K0, RGB: R33 G74 B159, HEX: #214a9f), PMS 289 U (C94 M86 Y48 K61, RGB: R16 G24 B51, HEX: #101833), PMS 2349 U (C4 M87 Y100 K0, RGB: R230 G70 B34, HEX: #e64622), PMS 2270 U (C70 M0 Y81 K0, RGB: R72 G184 B92, HEX: #48b85c), PMS 115-9 U (C14 M3 Y0 K0, RGB: R227 G242 B250, HEX: #e3f2fa). Includes bright colors for content separation and high contrast.
-
-**Typography Information:**
-
-- Primary typeface is Univers. Weights include Light, Roman, Bold, Bold Condensed, and Bold Oblique. Univers offers flexibility through a wide range of styles, suitable for headers, body text, and longer documents.
-- Headline styling: Univers Bold in Mixed Caps with various options such as bold, all caps, outlined, vertical styles. Examples include oversized and vertical treatments. Size specifications provided: Headlines are set larger than body copy for hierarchy, ranging from 11 to 165 points for use cases.
-- Body copy best practices: Recommended size is 7-11 points for print and 12-16 pixels for web. Avoid using bold styles for regular body text as it can get too dense.
-
-**Imagery Photography:**
-
-- Photography tone: Captures a dynamic and hands-on community. Emphasizes bold, authentic, and transformative themes. Includes portraiture of students and faculty, active moments, unconventional angles, and detailed shots showing hands and tools.
-- Environmental photography: Wide-angle for facilities, eye-level for student life. Highlights cutting-edge areas, on/off-campus comparisons for real-world preparation.
-- Color monotone photo treatments: Use green or blue tones from the brand palette for subtle visual impact. Avoid multiple overlays or over-editing to keep content discernible.
-
-**Spacing Layout:**
-
-- Color-blocking guidelines: Create high-contrast compositions for visual interest and structure. Arrange dynamic color proportions by avoiding low-contrast or similar adjacent colors.
-- Abstract graphic elements: Inspired by machine graphics and diagrams for creating compositional flow. Arrows are used to guide the viewer's eye and add texture.
-- General type guidelines: Maintain legibility and consistency by using branding elements such as fonts and scaling headlines and body text appropriately.
-
-**Brand Voice:**
-
-- Brand tone is confident, welcoming, and pragmatic. Copy should echo the transformative, bold, supportive, authentic, and connected nature of the institution.
-- Headline purpose: Engage and quickly express what makes Penn College unique. Suggested taglines include 'Experience Acquired' and 'Momentum Guaranteed.'
-
-**Notes:**
-
-- Photography and graphic elements prioritize authenticity. Avoid over-cropping and ensure tonal balance to maintain clarity.
+*Guidelines data not available*
 
 ## Additional Properties
 

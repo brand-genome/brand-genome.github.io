@@ -2,7 +2,7 @@
 title: Generations for Peace
 slug: "generations-for-peace"
 description: ""
-date: "2026-03-20T08:22:04.301651"
+date: "2026-04-10T09:40:32.982071"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - peace
   - ngo
+  - peace
 industries: []
 countries:
   - jordan
@@ -48,14 +48,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - wordmark
-brand_colors:
-  - white
-  - black
-typographies:
-  - times
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "Jordanian non-governmental organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q60741107"
@@ -75,26 +70,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The logo consists of two elements: the dove symbol and the wordmark.
-- Clear space around the logo must be maintained at all times, equivalent to one-quarter (1/4) of the width of the logo.
-- Standard full-color logo is the most common version and should be used whenever possible.
-- One-color logo version should be used in cases when the standard two-color version cannot be used.
-- White and black versions of the logo are available for use in cases when a color logo cannot be used.
-
-**Color Information:**
-
-- No specific colors or codes mentioned. Full-color, one-color, and black/white options are mentioned.
-
-**Spacing Layout:**
-
-- Clear space around the logo is 1/4th the width of the full logo.
-
-**Notes:**
-
-- Guidelines emphasize the importance of consistent use of the brand logo to uphold brand identity and reputation.
-- Contact details for further assistance with logo usage are provided: info@generationsforpeace.org and +962 6 500 4600.
+*Guidelines data not available*
 
 ## Additional Properties
 

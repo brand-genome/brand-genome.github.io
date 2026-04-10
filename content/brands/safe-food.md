@@ -2,7 +2,7 @@
 title: Safe Food
 slug: "safe-food"
 description: ""
-date: "2026-03-20T08:22:05.843572"
+date: "2026-04-10T09:40:34.860683"
 draft: false
 sectors:
   - "public-sector"
@@ -48,9 +48,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,52 +68,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Clear zone defined by 'safe' in logo mark. Minimum required zone specified.
-- Minimum size for logo mark is specified as 30mm for clarity in reproduction.
-- Clear zone defined by 'safe' in logo mark. Minimum required zone specified.
-- Minimum size for logo mark is specified as 30mm for clarity in reproduction.
-- Version of logo with tagline is for TV end frame usage only.
-- Clear zone defined by 'safe' in logo mark. Minimum required zone specified.
-- Minimum size for logo mark is specified as 30mm for clarity in reproduction.
-- Version of logo with tagline is for TV end frame usage only.
-- Version of logo with tagline is for TV end frame usage only.
-- Version of logo with tagline is for TV end frame usage only.
-- Version of logo with tagline is for TV end frame usage only.
-- Version of logo with tagline is for TV end frame usage only.
-
-**Color Information:**
-
-- Colors for logo mark include PMS 3272 (CMYK C100 M0 Y44 K0, RGB R1 G149 B135) and PMS 526 (CMYK C76 M100 Y7 K0, RGB R71 G0 B116). Black and white versions available.
-
-**Typography Information:**
-
-- Typography for helpline details is unified and treated separately from general font guidelines.
-- Typography for helpline details is unified and treated separately from general font guidelines.
-
-**Spacing Layout:**
-
-- Corporate and consumer grid system specified for layout consistency.
-- Technical publications grid adapted based on use case.
-- Corporate and consumer grid system specified for layout consistency.
-- Technical publications grid adapted based on use case.
-
-**Brand Voice:**
-
-- Compliance with guidelines is mandatory. Queries should be directed to the Marketing and Communications department.
-- Compliance with guidelines is mandatory. Queries should be directed to the Marketing and Communications department.
-
-**Notes:**
-
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
-- Master artwork provided for logos and fixed elements is specified.
+*Guidelines data not available*
 
 ## Additional Properties
 

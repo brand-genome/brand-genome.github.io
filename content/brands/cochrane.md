@@ -2,12 +2,12 @@
 title: Cochrane
 slug: cochrane
 description: ""
-date: "2026-03-20T08:22:04.328932"
+date: "2026-04-10T09:40:33.032410"
 draft: false
 sectors:
-  - research
-  - publishing
   - ngo
+  - publishing
+  - research
   - healthcare
 regions:
   - "united-kingdom"
@@ -56,12 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: British nonprofit for reviews of medical research (formed 1993)
 wikidata_url: "https://www.wikidata.org/wiki/Q1105202"
 has_twitter: false
@@ -82,33 +80,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- References to the brand logo are present throughout the document, including its usage, positioning, variations (master brand logo, logos for projects, initiatives, and sub-entities), and rules for appropriate application. Additional instructions cover safe zones, minimum sizes, and prohibited alterations on logo pages.
-
-**Color Information:**
-
-- Details on the official Cochrane color palette are extensively covered, including primary colors, HEX, RGB, and CMYK codes, meant for both print and digital applications. Guidelines for combining colors harmoniously, emphasizing accessibility for digital designs, and respecting visual identity are outlined.
-
-**Typography Information:**
-
-- The selected font family for Cochrane and typographic guidelines are highlighted, including font sizes, weights, styles, and usage for headlines, body text, and other elements. The importance of maintaining uniformity and legibility in communications is emphasized.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines describe stylistic preferences, including composition, mood, and thematic choices. Recommendations ensure that visuals align with brand tone and convey authenticity, diversity, and accessibility.
-
-**Spacing Layout:**
-
-- Spacing and layout rules cover margin conventions, grid usage, alignment, and padding in brand materials to ensure consistent design outputs across mediums. Examples and templates guide correct implementation.
-
-**Brand Voice:**
-
-- Guidelines elaborate on the tone of voice Cochrane uses, focusing on clarity, inclusiveness, authority, and relatability in language. Writing toolkits provide examples for crafting appropriate messaging for diverse audiences.
-
-**Notes:**
-
-- The document provides an overview of branding principles, summarizing Cochrane's mission, vision, and strategic goals, along with practical instructions and downloadable templates for implementing the guidelines. Provision for regional linguistic and cultural adaptations is highlighted.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,17 +2,17 @@
 title: Oculus
 slug: oculus
 description: ""
-date: "2026-03-20T08:22:04.180317"
+date: "2026-04-10T09:40:32.503152"
 draft: false
 sectors:
-  - gaming
   - hardware
+  - gaming
   - entertainment
 regions:
   - usa
 years:
-  - 2020
   - 2016
+  - 2020
 languages:
   - english
 tags:
@@ -21,8 +21,8 @@ tags:
   - entertainment
 industries:
   - "electronics-industry"
-  - "virtual-reality-industry"
   - "software-industry"
+  - "virtual-reality-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -35,21 +35,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "ray-ban-stories"
   - "oculus-rift"
-  - "meta-quest-2"
-  - "meta-portal"
-  - "gear-vr"
   - "oculus-rift-s"
+  - "gear-vr"
+  - "ray-ban-stories"
+  - "meta-quest-2"
+  - "meta-quest-pro"
+  - "meta-portal"
+  - "horizon-worlds"
   - "oculus-go"
   - "meta-quest"
-  - "horizon-worlds"
-  - "meta-quest-pro"
 products: []
 headquarters_locations:
+  - irvine
   - california
   - "menlo-park"
-  - irvine
 subsidiaries: []
 foundation_dates:
   - 2020
@@ -72,25 +72,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - vertical
-  - abstract
-  - horizontal
-  - primary
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - abstract
-  - lifestyle
-  - bold
-  - photography
-  - gradient
+imagery_styles: []
 wikidata_description: virtual reality technology subsidiary of Meta Platforms (formerly Oculus VR)
 wikidata_url: "https://www.wikidata.org/wiki/Q16321326"
 has_twitter: false
@@ -111,67 +96,11 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo and clearspace rules extracted from multiple pages that detail logo placements, minimum sizes, stacked lockups, and large applications.
-
-**Color Information:**
-
-- Color palette details including neutral palette, gradient color wheel, and CMYK or RGB values for screen and print applications.
-
-**Typography Information:**
-
-- Detailed typography rules including font family, weights, usage roles (headlines, body text), and fallback fonts described across multiple pages.
-
-**Imagery Photography:**
-
-- Imagery guidelines featuring render styles, lifestyle photos, storytelling imagery such as personal transformations, immersive action, and environmental lifestyle.
-
-**Spacing Layout:**
-
-- Spacing and layout rules tied to grid structure, focal positioning, and alignment requirements detailed throughout various sections.
-
-**Notes:**
-
-- Purely visual content may have been missed because text extraction does not capture images or diagrams.
+*Guidelines data not available*
 
 ### 2016
 
-**Logo Information:**
-
-- The Stadium logo is a simple, recognizable mark representing Oculus. It could be perceived as a rifted 'O', an abstract eye, or an infinite loop.
-- Logo misuse guidance includes avoiding tilting, skewing, recoloring, adding effects, pulling, pinching, recreating, or altering logos.
-- Isolated and joined logos can be used separately in applications like websites, videos, and apparel or combined in specific approved forms.
-- Clear spacing rules for Oculus logo and wordmarks: For logos, clear space equals half their total height or x. For other marks, minimum clear space equals 1x height.
-- Examples of primary usage include vertical and horizontal lock-ups, isolated and joined logos.
-- Improper usage examples include rearranging logos or combining logos in unapproved configurations such as creating montages.
-
-**Color Information:**
-
-- Oculus color palette consists of pure black to pure white shades, along with Oculus Blue, Oculus Green, and Oculus Red. Includes print (CMYK/Spot) and digital (RGB) specifications.
-- Recommended color usage varies by medium. Print environments should be low contrast (black on black), and screen environments should aim for high contrast (white on black).
-
-**Typography Information:**
-
-- Custom typeface 'Oculus Sans' is used with 10 weights ranging from Light to Ultra Bold, each with its own italic variant. Designed to be simple yet unique.
-- Typographic hierarchy and design rules recommend optical kerning, varying leading based on font size, and different weights for headlines, subheadlines, and body text.
-
-**Imagery Photography:**
-
-- Photography misuse rules include avoiding filters, montages, cutting out images, altering backgrounds, or clustering images.
-
-**Spacing Layout:**
-
-- Clear space requirements around logos and wordmarks: Minimum spacing equals x height and all sides must be surrounded by clear spaces.
-
-**Brand Voice:**
-
-- The brand voice is built around attributes like fearless, inspiring, thoughtful, and visionary. It should be human, inclusive, direct, friendly, and not overly technical, arrogant, or salesy.
-
-**Notes:**
-
-- All usages of logos must respect trademark attribution with guidelines rejecting distortion, misuse, and unapproved combinations shared throughout.
-- Submissions to Oculus, like press releases, must adhere to timelines for approval, branding guidelines, and naming conventions.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -181,8 +110,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Oculus Rift](/products_or_materials_produced/oculus-rift/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Gear Vr](/products_or_materials_produced/gear-vr/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Meta Quest](/products_or_materials_produced/meta-quest/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/) |
-| Headquarters Location | [California](/headquarters_locations/california/); [Menlo Park](/headquarters_locations/menlo-park/); [Irvine](/headquarters_locations/irvine/) |
+| Product Or Material Produced | [Oculus Rift](/products_or_materials_produced/oculus-rift/); [Oculus Rift S](/products_or_materials_produced/oculus-rift-s/); [Gear Vr](/products_or_materials_produced/gear-vr/); [Ray Ban Stories](/products_or_materials_produced/ray-ban-stories/); [Meta Quest 2](/products_or_materials_produced/meta-quest-2/); [Meta Quest Pro](/products_or_materials_produced/meta-quest-pro/); [Meta Portal](/products_or_materials_produced/meta-portal/); [Horizon Worlds](/products_or_materials_produced/horizon-worlds/); [Oculus Go](/products_or_materials_produced/oculus-go/); [Meta Quest](/products_or_materials_produced/meta-quest/) |
+| Headquarters Location | [Irvine](/headquarters_locations/irvine/); [California](/headquarters_locations/california/); [Menlo Park](/headquarters_locations/menlo-park/) |
 | Foundation Date | [2020](/foundation_dates/2020/) |
 | Headquarters Location | Irvine, Menlo Park, California |
 | Country | United States |

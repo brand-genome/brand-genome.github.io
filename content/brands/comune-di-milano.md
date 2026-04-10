@@ -2,21 +2,21 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-03-20T08:22:04.410468"
+date: "2026-04-10T09:40:33.149588"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - italy
 years:
-  - 2017
   - 2016
+  - 2017
 languages:
   - italian
 tags:
+  - city
   - regional
   - featured
-  - city
 industries: []
 countries:
   - italy
@@ -51,27 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - crest
-  - horizontal
-  - emblem
-  - primary
-brand_colors:
-  - silver
-  - red
-  - green
-  - gold
-  - white
-  - black
-typographies:
-  - times
-  - frutiger
-  - bodoni
-imagery_styles:
-  - bold
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "photo archive in Milan, Italy"
 wikidata_url: "https://www.wikidata.org/wiki/Q21551956"
 has_twitter: false
@@ -91,76 +74,97 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo versions available: vertical and horizontal orientations. Includes a combination of two elements: the stemma (with a black-bordered Sanitic shield, red cross on a white field, green laurel branches on the left, oak branches on the right tied by a tricolor ribbon, topped with a crown) and the logotype 'Comune di Milano' displayed in the 'Milano City' typeface. Recommended color schemes: full-color (black-bordered red cross on white, green fronds, and tricolor ribbon), two-color (red and white), monochrome (black or white) exclusively for one/two-color compositions or monochrome logotype combinations.
-- Logo file dimensions and spacing rules: Minimum stemma width of 12 mm is defined. Respect a clear space around logos equal to half of the stemma's width (e.g., 6 mm for stemma of 12 mm width). Larger logos also require spacing equal to half of their width.
-- Do's and don'ts for logo usage detailed with examples, including maintaining legibility, adhering to color versions, proportions, minimum size requirements, and spacing between logos.
-- Minimum size for logo reproduction defined as 12 mm in width; smaller layouts may compromise elements' readability.
+##### Mission
 
-**Color Information:**
+- The document does not explicitly state a mission or purpose statement for the Comune di Milano, but it emphasizes the correct application and representation of the municipality's identity through its emblem and visual guidelines [^1].
 
-- Institutional colors defined as Pantone codes: PMS 186 C (Red), PMS 341 C (Green), PMS Process Black C. Also details use for quadricromia printing and alternative media like RAL codes for paints or 3M codes for self-adhesive films.
-- Color recommendations matched to logo applications: Full color (for white/light backgrounds), two-color, and monochrome settings.
+##### Core Values
 
-**Typography Information:**
+- authority
+- autonomy
+- victory
+- strength
+- dignity
+- regality
+- importance
 
-- The official font is Frutiger, provided for use. Version examples include Frutiger Light, Bold, Black; installation required for internal devices.
+##### Target Audience
 
-**Imagery Photography:**
+- Entities and individuals seeking to use the Comune di Milano's emblem for official, sponsored, or collaborative purposes, including both internal and external partners [^2].
 
-- No imagery-specific rules or photographic styles detailed within visible pages.
+##### Personality Traits
 
-**Spacing Layout:**
+- formal
+- heraldic
+- institutional
+- historical
 
-- Spacing rules: Clear area around the logo equal to half the width of the logo defined (e.g., 6 mm when logo width is 12 mm). Details provided on spacing when accompanying external/internal marks for branding purposes.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a heraldic emblem featuring a red cross on a white shield, green laurel and oak branches, a crown, and the logotype 'Comune di Milano.' The guidelines specify color palettes, typographic choices, minimum dimensions, spacing, and correct logo usage for various contexts [^3].
 
-- No explicit rules or descriptions regarding brand voice or messaging style found.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Historical evolution of Milano's emblem exported over centuries; graphical elements like the shield shape (Sanitic), crown structure, branches design, date back to decrees covering Italy's heraldry practices between 1929 and 2011.
-- Sponsors assisting municipal campaigns/events must prioritize Milano’s Crest leading functional implementation or arrange accordingly.
+- La costruzione del Marchio prevede due elementi combinati: • lo stemma, formato dallo scudo di tipo sannitico bordato di nero, con croce rossa su campo bianco, con fronde verdi di alloro a sinistra e quercia a destra, legate alla loro base da un nastro tricolore. Lo scudo è sormontato da una corona a cinque torri e una porta, riunite da cortine di muro in nero; • il logotipo "Comune di Milano" composto con il carattere tipografico "Milano City", che evidenzia il soggetto emittente.
+- Sono disponibili due versioni del marchio, che si adattano al contesto grafico e agli spazi disponibili: • a impaginazione verticale • a impaginazione orizzontale
+- Il marchio può essere riprodotto nei seguenti colori: • a quattro colori, bordo nero con croce rossa su sfondo bianco, fronde verdi e nastro tricolore. Questa versione è consigliata per applicazioni su fondo bianco e su fondi chiari • a due colori, bianco con croce rossa. Questa versione è consigliata per applicazioni su fondi scuri • a un colore o monocromatico, bianco o nero. Questa versione è consigliata solo ed esclusivamente per applicazioni in compresenza di altri marchi monocromatici o di creatività a uno o due colori
+- Nella tavola d'esempio sono sintetizzati alcuni casi indicativi del corretto e scorret­to utilizzo.
+- La dimensione minima del marchio prevede la larghezza dello stemma pari a 12 mm. Al di sotto di tale misura gli elementi che compongono il marchio perdono di leggibilità.
+- In caso di affiancamento a ulteriori marchi o testi è necessario riservare intorno al marchio un’area di rispetto minima pari alla metà della larghezza dello stemma, in ambedue i casi di impaginazione: • sull’asse verticale • sull’asse orizzontale
+- con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 6 mm, ossia alla metà dello stemma con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla metà della larghezza dello stemma Distanza Minima = metà della larghezza dello stemma
+- Nel caso di patrocinio concesso dal solo Comune di Milano è obbligatorio utilizzare la versione del marchio appositamente prevista e disponibile con la dicitura “Patrocinio”, come previsto da Delibera Comunale.
+- E’ necessario rispettare la distanza minima tra i marchi, sia in orizzontale sia in verticale: con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 12 mm, ossia alla dimensione dello stemma con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla larghezza dello stemma
+
+##### Color Palette
+
+- Il marchio può essere riprodotto nei seguenti colori: • a quattro colori, bordo nero con croce rossa su sfondo bianco, fronde verdi e nastro tricolore. Questa versione è consigliata per applicazioni su fondo bianco e su fondi chiari • a due colori, bianco con croce rossa. Questa versione è consigliata per applicazioni su fondi scuri • a un colore o monocromatico, bianco o nero. Questa versione è consi­gliata solo ed esclusivamente per applicazioni in compresenza di altri marchi monocromatici o di creatività a uno o due colori
+- I colori istituzionali sono quelli utilizzati per la riproduzione del marchio.
+- I colori sono codificati con il codice Pantone, utilizzabile per la stampa su materiale cartaceo, con il codice RAL, utilizzabile per la riproduzione a mezzo vernici, con il codice 3M, utilizzabile per la riproduzione a mezzo pellicole autoadesive.
+- In caso di stampa su materiale cartaceo il marchio può essere stampato utilizzando i colori in quadricromia, rispettando le percentuali prefissate indicate di seguito.
+- ROSSO MILANO PMS 186 C Quadricromia: Cyan: 0% Magenta: 100% Giallo: 100% Nero: 0% Colori 3M: 100-13 Colori RAL: 3020
+- VERDE MILANO PMS 341 C Quadricromia: Cyan: 100% Magenta: 0% Giallo: 69% Nero: 30% Colori 3M: 100-450 Colori RAL: 6016
+- NERO MILANO PMS PROCESS BLACK C Quadricromia: Cyan: 0% Magenta: 0% Giallo: 0% Nero: 100% Colori 3M: 100-12 Colori RAL: 9011
+- Nella tavola d'esempio sono sintetizzati alcuni casi indicativi del corretto e scorret­to utilizzo.
+
+##### Typography
+
+- Il sistema di comunicazione del Comune di Milano prevede l’uso della famiglia di caratteri tipografici Frutiger, riprodotti in questa tavola e disponibili in download sulla Intranet o su richiesta.
+- Tali caratteri tipografici sono da installare a cura del referente informatico su ciascun computer in dotazione.
+- Frutiger Light abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 $%&(.,;:””!?)@#£
+- Frutiger abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 $%&(.,;:””!?)@#£
+- Frutiger Bold abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 $%&(.,;:””!?)@#£
+- Frutiger Black abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567980 $%&(.,;:”!”?)@#£
+- Il logotipo "Comune di Milano" composto con il carattere tipografico "Milano City", che evidenzia il soggetto emittente.
+
+##### Visual Style
+
+- La costruzione del Marchio prevede due elementi combinati: • lo stemma, formato dallo scudo di tipo sannitico bordato di nero, con croce rossa su campo bianco, con fronde verdi di alloro a sinistra e quercia a destra, legate alla loro base da un nastro tricolore. Lo scudo è sormontato da una corona a cinque torri e una porta, riunite da cortine di muro in nero; • il logotipo "Comune di Milano" composto con il carattere tipografico "Milano City", che evidenzia il soggetto emittente.
+- Sono disponibili due versioni del marchio, che si adattano al contesto grafico e agli spazi disponibili: • a impaginazione verticale • a impaginazione orizzontale
+- Il marchio può essere riprodotto nei seguenti colori: • a quattro colori, bordo nero con croce rossa su sfondo bianco, fronde verdi e nastro tricolore. Questa versione è consigliata per applicazioni su fondo bianco e su fondi chiari • a due colori, bianco con croce rossa. Questa versione è consigliata per applicazioni su fondi scuri • a un colore o monocromatico, bianco o nero. Questa versione è consi­gliata solo ed esclusivamente per applicazioni in compresenza di altri marchi monocromatici o di creatività a uno o due colori
+- Nella tavola d'esempio sono sintetizzati alcuni casi indicativi del corretto e scorret­to utilizzo.
+- La dimensione minima del marchio prevede la larghezza dello stemma pari a 12 mm. Al di sotto di tale misura gli elementi che compongono il marchio perdono di leggibilità.
+- In caso di affiancamento a ulteriori marchi o testi è necessario riservare intorno al marchio un’area di rispetto minima pari alla metà della larghezza dello stemma, in ambedue i casi di impaginazione: • sull’asse verticale • sull’asse orizzontale
+- con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 6 mm, ossia alla metà dello stemma con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla metà della larghezza dello stemma Distanza Minima = metà della larghezza dello stemma
+
+##### Layout And Composition
+
+- La costruzione del Marchio prevede due elementi combinati: • lo stemma, formato dallo scudo di tipo sannitico bordato di nero, con croce rossa su campo bianco, con fronde verdi di alloro a sinistra e quercia a destra, legate alla loro base da un nastro tricolore. Lo scudo è sormontato da una corona a cinque torri e una porta, riunite da cortine di muro in nero; • il logotipo "Comune di Milano" composto con il carattere tipografico "Milano City", che evidenzia il soggetto emittente. Sono disponibili due versioni del marchio, che si adattano al contesto grafico e agli spazi disponibili: • a impaginazione verticale • a impaginazione orizzontale
+- Il marchio può essere riprodotto nei seguenti colori: • a quattro colori, bordo nero con croce rossa su sfondo bianco, fronde verdi e nastro tricolore. Questa versione è consigliata per applicazioni su fondo bianco e su fondi chiari • a due colori, bianco con croce rossa. Questa versione è consigliata per applicazioni su fondi scuri • a un colore o monocromatico, bianco o nero. Questa versione è consigliata solo ed esclusivamente per applicazioni in compresenza di altri marchi monocromatici o di creatività a uno o due colori
+- Nella tavola d'esempio sono sintetizzati alcuni casi indicativi del corretto e scorret­to utilizzo.
+- La dimensione minima del marchio prevede la larghezza dello stemma pari a 12 mm. Al di sotto di tale misura gli elementi che compongono il marchio perdono di leggibilità.
+- In caso di affiancamento a ulteriori marchi o testi è necessario riservare intorno al marchio un’area di rispetto minima pari alla metà della larghezza dello stemma, in ambedue i casi di impaginazione: • sull’asse verticale • sull’asse orizzontale
+- Nel caso in cui uno o più soggetti esterni abbiano pari titolo nella promozione di un servizio/evento, il marchio del Comune di Milano deve essere posizionato in prima posizione. Sono illustrate di seguito le modalità di impaginazione. E’ necessario rispettare la distanza minima tra i marchi, sia in orizzontale sia in verticale: • con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 6 mm, ossia alla metà dello stemma • con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla metà della larghezza dello stemma Distanza Minima = metà della larghezza dello stemma
+- Nel caso in cui un soggetto interno al Comune di Milano promuova servizi/eventi o attività, il marchio del Comune di Milano deve essere posizionato immediatamente dopo il marchio del soggetto emittente. Sono illustrate di seguito le modalità di impaginazione. E' necessario rispettare la distanza minima tra i marchi, sia in orizzontale sia in verticale: • con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 6 mm, ossia alla metà dello stemma • con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla metà della larghezza dello stemma Distanza Minima = metà della larghezza dello stemma
+- Nel caso di patrocinio concesso dal solo Comune di Milano è obbligatorio utilizzare la versione del marchio appositamente prevista e disponibile con la dicitura “Patrocinio”, come previsto da Delibera Comunale. E’ necessario rispettare la distanza minima tra i marchi, sia in orizzontale sia in verticale: • con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 12 mm, ossia alla dimensione dello stemma • con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla larghezza dello stemma
+- Nel caso di patrocinio concesso dal Comune di Milano unitamente a patrocini rilasciati da altri enti e istituzioni, la dicitura “Patrocinio” sarà a cura dell’impaginatore, incluso il posizionamento, la scelta del carattere tipografico, il colore, ecc. E’ necessario rispettare la distanza minima tra i marchi, sia in orizzontale sia in verticale: • con dimensione minima del Marchio, ossia 12 mm di larghezza, la distanza minima dal successivo marchio sarà pari a 12 mm, ossia alla dimensione dello stemma • con dimensioni superiori la distanza minima dal marchio successivo sarà sempre pari alla larghezza dello stemma Distanza Minima = larghezza dello stemma
 
 ### 2016
 
-**Logo Information:**
-
-- The logo consists of four elements: 1. The crest (stemma); 2. The logotype 'Milano'; 3. The emitter 'Comune di Milano'; 4. The family feeling structure. The positions of these elements within the logo are fixed and cannot be altered.
-- The crest (stemma) can be reproduced in versions: a. Three-color variant (red, black, green); b. Four-color variant (red, gold, green, silver); c. Single-color variant (red or black); d. Embossed versions with or without colors for specific applications in materials like paper, metal, fabric, etc. Negative white cross-styles are recommended for single-color reproductions when using red or black.
-- The logo must not be reproduced with a base width of less than 22mm. This ensures legibility of all components within the space.
-- A simplified version of the logo (without the 'Comune di Milano' emitter logotype) is provided for broader use in institutional communications. This version allows a minimum base width of 12mm.
-- The logo can be reproduced in the following variants: a. Three colors (red, black, green) or four colors (red, gold, green, silver); b. Two colors (red and black); c. Single color (red or black); d. Negative white version against a black or dark background.
-- The spacing in relation to other logos is defined. An area of respect surrounds the crest, equal to a square constructed around it. Partner logos must stay within defined boundaries of height and width, and they must align with the central horizontal axis.
-
-**Color Information:**
-
-- Institutional colors include red (Pantone PMS 186 C), green (Pantone PMS 341C), black (Pantone Process Black C), gold (Pantone PMS 876 C), silver (Pantone PMS 877 C), and white. These colors are defined according to Pantone, RAL, and 3M standards.
-- Color employment hierarchy: red and black are considered primary colors; gold and silver are substitutive to black and white for particular applications. CMYK and Quadricromia specifications are included.
-
-**Typography Information:**
-
-- The institutional typeface is 'Milano City', derived from Bodoni with rounded edges and modified for better legibility. Example lettering includes a full character set with uppercase, lowercase, numbers, and symbols.
-- Compatible secondary typefaces: Frutiger (used primarily for stationery, signage, and administrative or editorial applications); example text includes multiple styles like light, regular, heavy.
-- Times is recognized as another compatible typeface; examples of uppercase, lowercase, numbers, and symbols are provided.
-
-**Spacing Layout:**
-
-- The logo construction utilizes modular grids to ensure consistent representation and organization across various applications.
-- Family feeling structures include Cartesian axes for flexible placement of crest, logotype, and auxiliary elements. Free-scale designs can accommodate functional needs for better layout compositions.
-- Spacing in relation to other entities is defined using modular axis scales. Additional guiding ratios ensure orderly arrangements for text alongside the crest or other elements.
-
-**Brand Voice:**
-
-- The name 'Milano' carries strong emotional and symbolic value for its association with successful cultural, scientific, design, and fashion industries. It symbolizes unity and adds unique value intrinsically through its eloquence.
-
-**Notes:**
-
-- The identity system extends flexibility for affiliate city institutions to adopt the family feeling structure and modular conventions for their own branding under the 'Milano' umbrella.
-- Embossed logo versions with relief effects are suitable for applications involving non-paper materials such as metal and fabric. Such variations allow more suitable tactile identity displays.
-- Examples of logo combinations with institutional or sponsor logos are presented, illustrating hierarchical placements and alignment rules.
+*Guidelines data not available*
 
 ## Additional Properties
 

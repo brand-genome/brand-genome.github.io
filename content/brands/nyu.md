@@ -2,7 +2,7 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-03-20T08:22:04.466149"
+date: "2026-04-10T09:40:33.211455"
 draft: false
 sectors:
   - education
@@ -57,22 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - seal
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - purple
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - natural
-  - photography
-  - clean
-  - candid
+imagery_styles: []
 wikidata_description: private university in New York City
 wikidata_url: "https://www.wikidata.org/wiki/Q49210"
 has_twitter: false
@@ -94,44 +82,205 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
+#### Brand Summary
 
-- New York University Graphic Standards and Logo Usage Guide. The guide emphasizes consistent usage of the NYU logo consisting of the logotype and logomark.
-- Logo color variations including the standard PMS 2597 purple, black, and white.
-- Details on minimum clear space around the logo to maintain visual integrity.
-- Examples of incorrect logo treatments. Advises against alterations, distortions, and color changes.
-- Additional branding elements include the NYU seal used only for official documents.
+##### Mission
 
-**Color Information:**
+- To unify New York University under a shared logo and visual identity, leveraging its strong reputation and history to communicate clearly and build recognition globally [^1].
 
-- Primary color: PMS 2597 Purple. Secondary colors include white, black, and grayscale for specific contexts.
-- Use of color to ensure readability and maintain brand consistency, especially in digital and print media.
+##### Core Values
 
-**Typography Information:**
+- unity
+- clarity
+- professionalism
+- global recognition
+- simplicity
 
-- Primary font families specified; details on font weights used for headlines and body text.
-- Usage of typography to maintain a unified brand voice across all materials.
+##### Target Audience
 
-**Imagery Photography:**
+- Prospective and current students, alumni, faculty, staff, and global audiences seeking a clear, recognizable connection to New York University [^2].
 
-- Guidelines on photography style with emphasis on natural lighting, candid shots, and alignment with the brand message.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- minimalistic
+- organized
 
-- Grid system and alignment rules to ensure clean and consistent layouts across various media.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the NYU Violet color (PMS 2597), a consistent logo featuring a torch icon and bold typography, clear space and sizing rules, and a minimalist, clean layout. The logo is used in various formats for different contexts, always maintaining clarity and avoiding unnecessary variations or clutter [^3].
 
-- The tone of communication reflects NYU's commitment to academic excellence, inclusivity, and innovation.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- This manual encourages central administration adherence to guidelines but provides flexibility for sub-brands.
-- Examples and guidance on developing sub-identities, such as for schools and special programs, provided later in the document.
+- The primary color is NYU Violet (PMS 2597). Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background. NYU Violet PMS: 2597 CMYK: C85, M1OO, YO, KO RGB: R87, G6, B14O HEX: 57O68c
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. "X" represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
+- The NYU logo includes the logomark combined with the logotype. Through consistent use, we can create a distinctive visual identity that is easily recognized and that can be protected from impostors or unauthorized uses.
+- The logo should not be altered in any way.
+- Do not remove the torch from the box.
+- Do not remove parts of the logo.
+- Do not distort the shape of the logo.
+- Do not crop the torch in a different way.
+- Do not add additional type to the logo.
+- Do not create other logos using the torch.
+- Do not color the torch in other colors.
+- Do not make the torch transparent.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not use the logo over busy backgrounds.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+- Do not make the logo the most dominant image on the page.
+- Do not use the logo as a word in a sentence.
+- Separate logos for your unit, project, department, institute, or center are unnecessary and add to the complexity and clutter of NYU’s visual landscape. Below are the reasons why NYU does not allow additional or new logos.
+- It's not necessary to use more than one university logo.
+- One NYU logo clearly communicates that this is an NYU initiative.
+
+##### Color Palette
+
+- The primary color is NYU Violet (PMS 2597).
+- NYU Violet PMS: 2597 CMYK: C85, M100, Y0, K0 RGB: R87, G6, B140 HEX: 57068c
+- Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not color the torch in other colors.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+
+##### Visual Style
+
+- The primary color is NYU Violet (PMS 2597).
+- NYU Violet PMS: 2597 CMYK: C85, M100, Y0, K0 RGB: R87, G6, B140 HEX: 57068c
+- Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background.
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. "X" represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
+- Do not remove the torch from the box.
+- Do not remove parts of the logo.
+- Do not distort the shape of the logo.
+- Do not crop the torch in a different way.
+- Do not add additional type to the logo.
+- Do not create other logos using the torch.
+- Do not color the torch in other colors.
+- Do not make the torch transparent.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not use the logo over busy backgrounds.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+- Do not make the logo the most dominant image on the page.
+- Do not use the logo as a word in a sentence.
+- Separate logos for your unit, project, department, institute, or center are unnecessary and add to the complexity and clutter of NYU’s visual landscape.
+- It's not necessary to use more than one university logo.
+- One NYU logo clearly communicates that this is an NYU initiative.
+
+##### Layout And Composition
+
+- The image should feature a vertical, rectangular infographic with a solid deep purple background that has a subtle diagonal line pattern, giving it a textured appearance. On the left side, large, bold, white numerals are arranged vertically and aligned to the left edge, displaying the following statistics from top to bottom: '470,000', '48,000', '9,000', '3,100', '2,500', '130', '18', '11', and '3'. To the right of each number, corresponding white text labels specify categories: 'ALUMNI' next to '470,000', 'STUDENTS' next to '48,000', 'EMPLOYEES' next to '9,000', 'FULL-TIME FACULTY' next to '3,100', 'COURSES OFFERED' next to '2,500', 'COUNTRIES REPRESENTED' next to '130', 'SCHOOLS' next to '18', 'STUDY AWAY SITES' next to '11', and 'DEGREE-GRANTING CAMPUSES' next to '3'. The labels are in a smaller, light gray font, positioned horizontally adjacent to their respective numbers, evenly spaced, and aligned to the left, creating a clean and organized visual hierarchy. The overall layout emphasizes the large numerical data, with minimalistic design elements and no additional graphics or images.
+- The image features a predominantly purple background with diagonal lines creating a textured pattern across the entire surface. In the center, there is a large, bold, white numeral '1' with a slightly tilted and irregular shape, giving it a dynamic appearance. Below the number, aligned towards the bottom center of the image, is small white text that reads 'UNIVERSITY' in uppercase letters, with a subtitle beneath it stating '(Unified under a shared logo)'. The overall design emphasizes the number '1' as the main focal point, with a simple and modern aesthetic, and minimal additional elements beyond the patterned background and text.
+- The image depicts seven business cards arranged on a wooden surface with a warm brown tone, with the word 'Then' written in white, bold font at the top center. The cards are arranged in an informal cluster, with some overlapping slightly. Six of the cards are from 'New York University,' featuring a purple logo, and contain various contact details, names, titles, and addresses, with some cards including the university’s address in white text on a purple background and others with black text on a white background. The seventh card is different, with a simple black logo and the name 'Samantha Sharples Wertheim,' with her title 'Director' and contact information, also from New York University. The cards vary in layout but mostly follow a professional business card format, with some including icons or logos, and others emphasizing text. The surfaces of the cards appear smooth and glossy, with the text clearly legible. No additional objects or decorations are visible, and the scene is well-lit, with shadows cast subtly on the wooden surface, indicating a diffuse light source from above.
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. 'X' represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
 
 ### 2014
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To unify New York University under a shared logo and visual identity, leveraging its strong reputation and history to communicate clearly and build recognition globally [^1].
+
+##### Core Values
+
+- unity
+- clarity
+- professionalism
+- global recognition
+- simplicity
+
+##### Target Audience
+
+- Prospective and current students, alumni, faculty, staff, and global audiences seeking a clear, recognizable connection to New York University [^2].
+
+##### Personality Traits
+
+- professional
+- modern
+- minimalistic
+- organized
+
+##### Visual Identity Overview
+
+- The visual identity centers on the NYU Violet color (PMS 2597), a consistent logo featuring a torch icon and bold typography, clear space and sizing rules, and a minimalist, clean layout. The logo is used in various formats for different contexts, always maintaining clarity and avoiding unnecessary variations or clutter [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- The primary color is NYU Violet (PMS 2597). Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background. NYU Violet PMS: 2597 CMYK: C85, M1OO, YO, KO RGB: R87, G6, B14O HEX: 57O68c
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. "X" represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
+- The NYU logo includes the logomark combined with the logotype. Through consistent use, we can create a distinctive visual identity that is easily recognized and that can be protected from impostors or unauthorized uses.
+- The logo should not be altered in any way.
+- Do not remove the torch from the box.
+- Do not remove parts of the logo.
+- Do not distort the shape of the logo.
+- Do not crop the torch in a different way.
+- Do not add additional type to the logo.
+- Do not create other logos using the torch.
+- Do not color the torch in other colors.
+- Do not make the torch transparent.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not use the logo over busy backgrounds.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+- Do not make the logo the most dominant image on the page.
+- Do not use the logo as a word in a sentence.
+- Separate logos for your unit, project, department, institute, or center are unnecessary and add to the complexity and clutter of NYU’s visual landscape. Below are the reasons why NYU does not allow additional or new logos.
+- It's not necessary to use more than one university logo.
+- One NYU logo clearly communicates that this is an NYU initiative.
+
+##### Color Palette
+
+- The primary color is NYU Violet (PMS 2597).
+- NYU Violet PMS: 2597 CMYK: C85, M100, Y0, K0 RGB: R87, G6, B140 HEX: 57068c
+- Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not color the torch in other colors.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+
+##### Visual Style
+
+- The primary color is NYU Violet (PMS 2597).
+- NYU Violet PMS: 2597 CMYK: C85, M100, Y0, K0 RGB: R87, G6, B140 HEX: 57068c
+- Ideally, the logo should be reproduced in Violet (PMS 2597). It can also be reproduced in black or reversed out to white from a dark background.
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. "X" represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
+- Do not remove the torch from the box.
+- Do not remove parts of the logo.
+- Do not distort the shape of the logo.
+- Do not crop the torch in a different way.
+- Do not add additional type to the logo.
+- Do not create other logos using the torch.
+- Do not color the torch in other colors.
+- Do not make the torch transparent.
+- Do not use the black logo on an NYU violet background.
+- Do not use the NYU violet logo on a black background.
+- Do not use the logo over busy backgrounds.
+- Do not use the color logo over backgrounds where there is not enough contrast to have the logo stand out.
+- Do not make the logo the most dominant image on the page.
+- Do not use the logo as a word in a sentence.
+- Separate logos for your unit, project, department, institute, or center are unnecessary and add to the complexity and clutter of NYU’s visual landscape.
+- It's not necessary to use more than one university logo.
+- One NYU logo clearly communicates that this is an NYU initiative.
+
+##### Layout And Composition
+
+- The image should feature a vertical, rectangular infographic with a solid deep purple background that has a subtle diagonal line pattern, giving it a textured appearance. On the left side, large, bold, white numerals are arranged vertically and aligned to the left edge, displaying the following statistics from top to bottom: '470,000', '48,000', '9,000', '3,100', '2,500', '130', '18', '11', and '3'. To the right of each number, corresponding white text labels specify categories: 'ALUMNI' next to '470,000', 'STUDENTS' next to '48,000', 'EMPLOYEES' next to '9,000', 'FULL-TIME FACULTY' next to '3,100', 'COURSES OFFERED' next to '2,500', 'COUNTRIES REPRESENTED' next to '130', 'SCHOOLS' next to '18', 'STUDY AWAY SITES' next to '11', and 'DEGREE-GRANTING CAMPUSES' next to '3'. The labels are in a smaller, light gray font, positioned horizontally adjacent to their respective numbers, evenly spaced, and aligned to the left, creating a clean and organized visual hierarchy. The overall layout emphasizes the large numerical data, with minimalistic design elements and no additional graphics or images.
+- The image features a predominantly purple background with diagonal lines creating a textured pattern across the entire surface. In the center, there is a large, bold, white numeral '1' with a slightly tilted and irregular shape, giving it a dynamic appearance. Below the number, aligned towards the bottom center of the image, is small white text that reads 'UNIVERSITY' in uppercase letters, with a subtitle beneath it stating '(Unified under a shared logo)'. The overall design emphasizes the number '1' as the main focal point, with a simple and modern aesthetic, and minimal additional elements beyond the patterned background and text.
+- The image depicts seven business cards arranged on a wooden surface with a warm brown tone, with the word 'Then' written in white, bold font at the top center. The cards are arranged in an informal cluster, with some overlapping slightly. Six of the cards are from 'New York University,' featuring a purple logo, and contain various contact details, names, titles, and addresses, with some cards including the university’s address in white text on a purple background and others with black text on a white background. The seventh card is different, with a simple black logo and the name 'Samantha Sharples Wertheim,' with her title 'Director' and contact information, also from New York University. The cards vary in layout but mostly follow a professional business card format, with some including icons or logos, and others emphasizing text. The surfaces of the cards appear smooth and glossy, with the text clearly legible. No additional objects or decorations are visible, and the scene is well-lit, with shadows cast subtly on the wooden surface, indicating a diffuse light source from above.
+- To maintain full legibility, never reproduce the logo at heights smaller than 0.25 inches tall for print and 30 pixels tall for digital. There is no maximum size limit, but use discretion when sizing the logo. It should never be the most dominant element on the page.
+- Allow the logo room to breath and maintain an appropriate amount of clear space around the logo. 'X' represents one-half the size of the torch in the box and is used as a measuring tool to help maintain clearance.
 
 ## Additional Properties
 

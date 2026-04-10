@@ -2,7 +2,7 @@
 title: Universidad de Murcia
 slug: "universidad-de-murcia"
 description: ""
-date: "2026-03-20T08:22:03.303616"
+date: "2026-04-10T09:40:30.838432"
 draft: false
 sectors:
   - university
@@ -14,9 +14,9 @@ years:
 languages:
   - spanish
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries: []
 countries:
   - spain
@@ -53,31 +53,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - silver
-  - red
-  - gold
-  - white
-  - grey
-  - "pantone-187"
-  - black
-typographies:
-  - helvetica
-  - arial
-  - din
-  - verdana
-imagery_styles:
-  - bold
-  - graphic
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: public university in Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q1236345"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -88,54 +73,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
-
-*Guidelines data not available*
-
 ### 2009
 
-**Logo Information:**
-
-- The official shield is reserved for protocolary or official use and features the figure of Alfonso X with two shields representing Murcia and Albacete. Additionally, updated versions include modifications such as using special silver and gold inks for printing.
-- Versions of the shield in black-and-white (positive and negative) are available for alternative printing scenarios.
-- Single-color shield designs feature corporate colors Pantone 187 and Pantone Cool Grey 11.
-- Clear space for the shield: Elements cannot go beyond designated limits to avoid visual clutter.
-- Minimum reproduction size: 20 mm.
-- The logo comprises typographically expressed branding of Universidad de Murcia, combining textual representation with a red Pantone 187 background.
-- Clear space for the logo includes area 'A' around the logo text, prohibiting overlap with the red Pantone 187 background block.
-- Do's and don'ts for logo usage include maintaining original colors and proportions; effects such as gradient, shading, or distortions are strictly prohibited.
-- Minimum reproduction size for the logo is detailed (44 mm x 120 mm).
-- Combination logosymbol integrates the shield with the logo text for comprehensive visual identity.
-- Do's and don'ts for logosymbol usage parallel logo standards: Retain original shapes, colors, and proportions without alterations.
-- Minimum reproduction size for logosymbol is specified as 44 mm x 140 mm.
-
-**Color Information:**
-
-- Primary corporate colors include Pantone 187, Cool Grey 11, and corresponding CMYK (0, 91, 72, 23) and RGB (189, 42, 51) values.
-
-**Typography Information:**
-
-- Primary font family: DIN (Regular and Bold) for high-visibility applications and printed designs.
-- Complementary fonts: For digital and fallback usage, Helvetica, Arial, and Verdana are specified (in preferential order).
-- Special font Goudy Old Style (Regular and Bold): Reserved exclusively for Rector's stationery use.
-
-**Imagery Photography:**
-
-- Strategic use of photographic or illustrative backgrounds is advised to visually enhance materials, with unrestricted conceptual freedom as long as identity markers are intact.
-
-**Spacing Layout:**
-
-- Grid and safety areas must adhere to proportions both for logos, shields, and logosymbols. Recommended clear spaces are demarcated to prevent contamination of visual assets.
-
-**Brand Voice:**
-
-- The tone and messaging emphasize clear distinction between 'university' branding vs. unit-level communication, ensuring hierarchy and institutional recognition.
-- Graphic communication standards ensure consistent design, typography, and branding optimization while aligning with messaging priorities.
-
-**Notes:**
-
-- Office stationery dimensions are standardized for letters, envelopes, and folders; reductions in size range from 54% to 80% depending on the format.
-- Signage elements extend across internal and external spaces using varied formats: monoposts, totems, directory boards, and crystal vinyl designs.
+*Guidelines data not available*
 
 ## Additional Properties
 

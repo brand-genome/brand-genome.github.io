@@ -2,7 +2,7 @@
 title: KALW 91.7
 slug: "kalw-917"
 description: ""
-date: "2026-03-20T08:22:03.837431"
+date: "2026-04-10T09:40:31.472105"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.kalw.org](https://www.kalw.org)
 - [http://www.kalw.org](http://www.kalw.org)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-03-20T08:22:04.079904"
+date: "2026-04-10T09:40:32.134074"
 draft: false
 sectors:
   - finance
@@ -54,23 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - arial
-  - "proxima-nova"
-imagery_styles:
-  - clean
-  - graphic
-  - monochrome
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Italian bank
 wikidata_url: "https://www.wikidata.org/wiki/Q3803598"
 has_twitter: false
@@ -93,38 +80,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- VIDEO GRAPHIC FORMAT APPLICATIONS EXAMPLES DOTS NETS LOGO AND BASIC ELEMENTS LOGO AND BASIC ELEMENTS
-- LOGO PRESENTATION VARIANTS: The Nexi logo can be reproduced in primary colors, grayscale, monochrome black or white, or reversed on colored backgrounds. It is crucial to maintain clear space around the logo based on 1x horizontal and vertical measurements.
-- PROPORTIONS: The logo must comply with the outlined minimum size and safe space rules ensuring clear visual representation across all applications.
-
-**Color Information:**
-
-- PRIMARY COLORS include Nexi Blue (HEX #045FB4, RGB 4, 95, 180) and Secondary Colors are provided for accents on branding material.
-- Color rules outline Pantone, CMYK, and RGB codes for consistency in print and digital expressions.
-
-**Typography Information:**
-
-- Fonts: Primary font is 'Proxima Nova' and secondary fallback is 'Arial'. Usage guidelines mandate Proxima for headings, with Arial as backup.
-- Font sizes: Headings should use 24pt, body text 12pt, and legal notices 8pt as minimums for readability.
-
-**Imagery Photography:**
-
-- Imagery highlights emphasize people and technology in clean, bright settings. Avoid clutter and overexposed shots.
-
-**Spacing Layout:**
-
-- SPACING RULES: Standard layout spacing uses a 'Module' system, divided into a grid of 18 sections. Minimum margins are 1 module on all sides.
-
-**Brand Voice:**
-
-- BRAND VISION: Nexi aims to revolutionize digital payments, focusing on simplicity, safety, and wide accessibility.
-- Messaging tone is professional and customer-centric, with a commitment to innovation and trust.
-
-**Notes:**
-
-- The document also references IT innovation projects and digital design tools like InVision Design System Manager (DSM) for maintaining consistency in layouts and interfaces.
+*Guidelines data not available*
 
 ## Additional Properties
 

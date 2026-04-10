@@ -2,7 +2,7 @@
 title: Université de Bordeaux
 slug: "universite-de-bordeaux"
 description: ""
-date: "2026-03-20T08:22:04.721601"
+date: "2026-04-10T09:40:33.454497"
 draft: false
 sectors:
   - education
@@ -73,36 +73,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-- Details related to logo usage, construction elements, clear space, size, colors, and incorrect uses are scattered among pages.
-
-**Color Information:**
-
-- Brand color palette details, including chromatic versions.
-- Brand color palette details, including chromatic versions.
-- Brand color palette details, including chromatic versions.
-- Brand color palette details, including chromatic versions.
-- Brand color palette details, including chromatic versions.
-
-**Notes:**
-
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
-- Additional instructions may exist within annexes or downloadable content.
+*Guidelines data not available*

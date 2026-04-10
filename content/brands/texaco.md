@@ -2,7 +2,7 @@
 title: Texaco
 slug: texaco
 description: ""
-date: "2026-03-20T08:22:03.385676"
+date: "2026-04-10T09:40:30.936045"
 draft: false
 sectors:
   - "petrol-station"
@@ -27,9 +27,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "petroleum-product"
   - petroleum
   - "natural-gas"
-  - "petroleum-product"
 products: []
 headquarters_locations:
   - "san-ramon"
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: oil subsidiary of Chevron Corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q775060"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -77,12 +77,6 @@ visual_term_image_urls: {}
 - [https://texaco.be](https://texaco.be)
 - [https://www.texacocontechron.com](https://www.texacocontechron.com)
 
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -91,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Petroleum](/products_or_materials_produced/petroleum/); [Natural Gas](/products_or_materials_produced/natural-gas/); [Petroleum Product](/products_or_materials_produced/petroleum-product/) |
+| Product Or Material Produced | [Petroleum Product](/products_or_materials_produced/petroleum-product/); [Petroleum](/products_or_materials_produced/petroleum/); [Natural Gas](/products_or_materials_produced/natural-gas/) |
 | Headquarters Location | [San Ramon](/headquarters_locations/san-ramon/) |
 | Foundation Date | [1901](/foundation_dates/1901/) |
 | Topic'S Main Category | Category:Texaco |

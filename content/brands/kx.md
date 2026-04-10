@@ -2,7 +2,7 @@
 title: KX
 slug: kx
 description: ""
-date: "2026-03-20T08:22:04.235597"
+date: "2026-04-10T09:40:32.739840"
 draft: false
 sectors:
   - software
@@ -52,12 +52,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: postgraduate theological college federated with the University of Toronto
@@ -82,26 +78,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Primary logo usage: The KX logo should be used in black on white or white on black. It can be used on secondary colored backgrounds and over imagery. The logo should never appear in any other color.
-- Logo clear space rule: There must be a minimum space surrounding the KX logo. This is determined using half the height of the 'K'.
-- Minimum Size: In print, the logo width should not be smaller than 20mm. For digital use, the minimum height is 18px.
-- Logo positioning: Preference for logo placement is top-left, followed by bottom-left or middle.
-- Logo lock-ups: When creating a partner lock-up on a light background, guidelines include using the KX logo as a spacer, including a divider line set to a 34° angle in the middle, and aligning elements accordingly.
-
-**Color Information:**
-
-- The KX logo should be used in black or white for optimized legibility when placed over imagery or on secondary colored backgrounds.
-
-**Spacing Layout:**
-
-- Logo clear space uses half the height of the letter 'K' for spacing consistency.
-- Positioning preferences include top-left, bottom-left, or middle alignment for consistency.
-
-**Notes:**
-
-- The document includes specific detailed rules for logo usage in partnership lock-ups, emphasizing proper alignment and spacing for co-branding applications.
+*Guidelines data not available*
 
 ## Additional Properties
 

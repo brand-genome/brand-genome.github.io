@@ -2,7 +2,7 @@
 title: Flughafen Muenchen
 slug: "flughafen-muenchen"
 description: ""
-date: "2026-03-20T08:22:04.900861"
+date: "2026-04-10T09:40:33.674669"
 draft: false
 sectors:
   - "public-transportation"
@@ -70,121 +70,191 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo guidelines and details as mentioned in the content on page 2.
-- Logo guidelines and details as mentioned in the content on page 3.
-- Logo guidelines and details as mentioned in the content on page 4.
-- Logo guidelines and details as mentioned in the content on page 5.
-- Logo guidelines and details as mentioned in the content on page 6.
-- Logo guidelines and details as mentioned in the content on page 7.
-- Logo guidelines and details as mentioned in the content on page 8.
-- Logo guidelines and details as mentioned in the content on page 9.
-- Logo guidelines and details as mentioned in the content on page 10.
-- Logo guidelines and details as mentioned in the content on page 13.
-- Logo guidelines and details as mentioned in the content on page 15.
-- Logo guidelines and details as mentioned in the content on page 16.
-- Logo guidelines and details as mentioned in the content on page 17.
-- Logo guidelines and details as mentioned in the content on page 18.
-- Logo guidelines and details as mentioned in the content on page 19.
-- Logo guidelines and details as mentioned in the content on page 20.
-- Logo guidelines and details as mentioned in the content on page 21.
-- Logo guidelines and details as mentioned in the content on page 24.
-- Logo guidelines and details as mentioned in the content on page 26.
-- Logo guidelines and details as mentioned in the content on page 28.
-- Logo guidelines and details as mentioned in the content on page 29.
-- Logo guidelines and details as mentioned in the content on page 30.
-- Logo guidelines and details as mentioned in the content on page 31.
-- Logo guidelines and details as mentioned in the content on page 33.
-- Logo guidelines and details as mentioned in the content on page 36.
-- Logo guidelines and details as mentioned in the content on page 37.
-- Logo guidelines and details as mentioned in the content on page 38.
-- Logo guidelines and details as mentioned in the content on page 39.
-- Logo guidelines and details as mentioned in the content on page 40.
-- Logo guidelines and details as mentioned in the content on page 42.
-- Logo guidelines and details as mentioned in the content on page 44.
-- Logo guidelines and details as mentioned in the content on page 46.
-- Logo guidelines and details as mentioned in the content on page 47.
-- Logo guidelines and details as mentioned in the content on page 51.
-- Logo guidelines and details as mentioned in the content on page 52.
+##### Mission
 
-**Color Information:**
+- To create and maintain a unified, distinctive visual identity for Munich Airport that reflects its status as an open, customer- and service-oriented enterprise, supporting its role as a leading European aviation hub and multifaceted corporate group [^1].
 
-- Color guidelines or specifications mentioned on page 2.
-- Color guidelines or specifications mentioned on page 3.
-- Color guidelines or specifications mentioned on page 5.
-- Color guidelines or specifications mentioned on page 6.
-- Color guidelines or specifications mentioned on page 9.
-- Color guidelines or specifications mentioned on page 10.
-- Color guidelines or specifications mentioned on page 11.
-- Color guidelines or specifications mentioned on page 15.
-- Color guidelines or specifications mentioned on page 17.
-- Color guidelines or specifications mentioned on page 18.
-- Color guidelines or specifications mentioned on page 21.
-- Color guidelines or specifications mentioned on page 22.
-- Color guidelines or specifications mentioned on page 27.
-- Color guidelines or specifications mentioned on page 38.
-- Color guidelines or specifications mentioned on page 40.
-- Color guidelines or specifications mentioned on page 46.
-- Color guidelines or specifications mentioned on page 47.
-- Color guidelines or specifications mentioned on page 51.
-- Color guidelines or specifications mentioned on page 52.
+##### Core Values
 
-**Typography Information:**
+- openness
+- customer orientation
+- service orientation
+- systematic design
+- high design standards
+- economy
+- identity
+- clarity
+- innovation
+- synergy
 
-- Typography (Schriften) details extracted from page 2.
-- Typography (Schriften) details extracted from page 3.
-- Typography (Schriften) details extracted from page 5.
-- Typography (Schriften) details extracted from page 6.
-- Typography (Schriften) details extracted from page 12.
-- Typography (Schriften) details extracted from page 15.
-- Typography (Schriften) details extracted from page 17.
-- Typography (Schriften) details extracted from page 19.
-- Typography (Schriften) details extracted from page 23.
-- Typography (Schriften) details extracted from page 26.
-- Typography (Schriften) details extracted from page 27.
-- Typography (Schriften) details extracted from page 28.
-- Typography (Schriften) details extracted from page 29.
-- Typography (Schriften) details extracted from page 30.
-- Typography (Schriften) details extracted from page 31.
-- Typography (Schriften) details extracted from page 32.
-- Typography (Schriften) details extracted from page 33.
-- Typography (Schriften) details extracted from page 34.
-- Typography (Schriften) details extracted from page 38.
-- Typography (Schriften) details extracted from page 40.
-- Typography (Schriften) details extracted from page 41.
-- Typography (Schriften) details extracted from page 42.
-- Typography (Schriften) details extracted from page 43.
-- Typography (Schriften) details extracted from page 44.
-- Typography (Schriften) details extracted from page 46.
-- Typography (Schriften) details extracted from page 47.
-- Typography (Schriften) details extracted from page 49.
-- Typography (Schriften) details extracted from page 51.
+##### Target Audience
 
-**Imagery Photography:**
+- Passengers, business partners, subsidiary companies, and stakeholders in the European aviation sector, with a focus on both local and international audiences [^2].
 
-- Imagery or graphics-related details, such as diagrams, mentioned on page 2.
-- Imagery or graphics-related details, such as diagrams, mentioned on page 42.
-- Imagery or graphics-related details, such as diagrams, mentioned on page 46.
+##### Personality Traits
 
-**Spacing Layout:**
+- welcoming
+- professional
+- distinctive
+- innovative
+- service-driven
+- systematic
 
-- Layout or spacing rules mentioned on page 2.
-- Layout or spacing rules mentioned on page 8.
-- Layout or spacing rules mentioned on page 20.
-- Layout or spacing rules mentioned on page 31.
-- Layout or spacing rules mentioned on page 37.
-- Layout or spacing rules mentioned on page 39.
-- Layout or spacing rules mentioned on page 41.
-- Layout or spacing rules mentioned on page 42.
-- Layout or spacing rules mentioned on page 46.
-- Layout or spacing rules mentioned on page 47.
-- Layout or spacing rules mentioned on page 48.
-- Layout or spacing rules mentioned on page 49.
-- Layout or spacing rules mentioned on page 50.
-- Layout or spacing rules mentioned on page 51.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the custom 'M' logo, consistent use of the Flughafenblau color palette, clear and precise typography (Univers family), strict logo usage rules, and a clean, modern layout style. The guidelines ensure a cohesive appearance across all media, print, digital, and subsidiary brands, emphasizing clarity, recognizability, and adaptability [^3].
 
-- Corporate branding or design voice information on page 4.
-- Corporate branding or design voice information on page 16.
+#### Categories
+
+##### Brand Imagery
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden. Es steht symbolisch für München. Seine charakteristische und gut einprägsame Gestalt macht es zu einem auffälligen und markant wirkenden Merkzeichen. Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden. Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch. Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Die Logos in Deutsch und Englisch, sowie beide Versionen mit Claim, sind auf der beiliegenden CD-ROM in verschiedenen Formaten abgespeichert. Das Verzeichnis der Dateinamen steht in diesem Heft auf Seite 18.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Bei internationalen Kontakten, internationalen Messen und einsprachig englischen Printprodukten und Medienauftritten wird das Logo M Munich Airport International eingesetzt. Bei zweisprachigen Produkten findet immer die deutsche Version des Logos Verwendung.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+
+##### Color Palette
+
+- Flughafenblau dunkel ist die primäre Erscheinungsbildfarbe. Durch ihre spezifische Farbwirkung hinterlässt sie einen unverkennbaren Farbeindruck, der im hellen Umfeld einen großen Kontrast zeigt.
+- Ihre Eigenart und Bestimmtheit prädestiniert sie als Kennfarbe für den Flughafen München, dessen Selbstbewusstsein und Kompetenz im Auftritt sich in der klaren farblichen Orientierung widerspiegelt.
+- Flughafenblau hell ist die sekundäre Erscheinungsbildfarbe. Sie ist eine atmosphärische Farbe und in der Lage, in besonderer Weise das Licht-und Farbklima des bayerischen Alpenvorlandes und seines Föhnhimmels zu vermitteln.
+- Sie wird eingesetzt als Kennfarbe für die flugbezogene Orientierungsbeschilderung und als Akzent- und Signalfarbe der Passagierbusse auf dem Vorfeld. Als Schmuckfarbe ist sie ein dekoratives Element für festliche Ausstattungen.
+- Das Logo M Flughafen München erscheint negativ weiß auf Flughafenblau dunklem oder Flughafenblau hellem Hintergrund. Auf weißem Hintergrund erscheint es in Flughafenblau dunkel.
+- Soll das Logo zurückhaltend auftreten, steht es in Weiß auf einer silbernen Fondfläche.
+- In begründeten Ausnahmefällen, beispielsweise bei andersfarbigem Hintergrund oder bei s/w-Drucksachen, kann das Logo in Schwarz erscheinen.
+- Wird das Logo direkt auf ein Foto platziert, muss darauf geachtet werden, dass alle Teile des Logos gut lesbar bleiben.
+- Die Farben Orange und Grün, Hellgrau, Dunkelgrau und Silber die Farben des Erscheinungsbildes. Die dargestellten Rasterwerte sind beispielhaft - es können alle Zwischenwerte verwendet werden.
+- Für diese Farben ist die Verwendung als Hintergrund zu zulässig. Das Logo wird in einer Farbe einer von zu Weiß abgebildet. Ausnahme: Farbverläufe sind nur von einer Farbe des Erscheinungsbildes zu Weiß zulässig. Verläufe einer Farbe zu einer anderen Farbe sind nicht erlaubt.
+- Logo in Flughafenblau dunkel auf Silber oder Hellgrau.
+- Die Farben Flughafenblau dunkel und Flughafenblau hell, Orange und Silber sind hier als Sonderfarben gedruckt, die Farben Grün, Hellgrau und Dunkelgrau in 4c.
+- Flughafenblau hell ist für den Offsetdruck und als Folienfarbe speziell angemischt worden und kann unter Angabe der Bestellnummer bei den Herstellern bezogen werden.
+- Die Logos der Unternehmen in ihrer jeweiligen Erscheinungsbildfarbe können auf Weiß, Hellgrau, Dunkelgrau, Silber und deren Rasterwerten platziert werden.
+- In begründeten Ausnahmefällen, beispielsweise bei andersfarbigem Hintergrund oder bei s/w-Drucksachen, kann das jeweilige Logo in Schwarz erscheinen.
+- Wird ein Logo direkt auf ein Foto platziert, muss darauf geachtet werden, dass alle Teile des Logos gut lesbar bleiben.
+- Die dargestellten Rasterwerte sind beispielhaft – es können alle Zwischenwerte verwendet werden.
+- Farbverläufe sind nur von einer Farbe des Erscheinungsbildes zu Weiß zulässig. Verläufe von einer Farbe zu einer anderen Farbe sind nicht erlaubt.
+
+##### Typography
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden.
+- Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden.
+- Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch.
+- Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Die Logos in Deutsch und Englisch, sowie beide Versionen mit Claim, sind auf der beiliegenden CD-ROM in verschiedenen Formaten abgespeichert.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Bei internationalen Kontakten, internationalen Messen und einsprachig englischen Printprodukten und Medienauftritten wird das Logo M Munich Airport International eingesetzt. Bei zweisprachigen Produkten findet immer die deutsche Version des Logos Verwendung.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+
+##### Logo Usage
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden.
+- Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden. Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch.
+- Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Die Logos in Deutsch und Englisch, sowie beide Versionen mit Claim, sind auf der beiliegenden CD-ROM in verschiedenen Formaten abgespeichert. Das Verzeichnis der Dateinamen steht in diesem Heft auf Seite 18.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+- Bei internationalen Kontakten, internationalen Messen und einsprachig englischen Printprodukten und Medienauftritten wird das Logo M Munich Airport International eingesetzt. Bei zweisprachigen Produkten findet immer die deutsche Version des Logos Verwendung.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+
+##### Visual Style
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden. Es steht symbolisch für München. Seine charakteristische und gut einprägsame Gestalt macht es zu einem auffälligen und markant wirkenden Merkzeichen. Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden. Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch.
+- Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+
+##### Layout And Composition
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden. Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden. Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch.
+- Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+
+##### Brand Architecture
+
+- Das Logo„M Flughafen München“steht im Vordergrund, es ist das zusammenfassende Markenzeichen des Multifunktionalen Konzernverbundes. Neu gegründete Tochtergesellschaften erhalten eigene Logos und besondere Erscheinungsbildmerkmale. Die neuen Logos sind in ihrer Erscheinung, ihrem Auftritt und ihren Inhalten klar und eindeutig, sie werden durch das unverwechselbare Profil des Flughafens München unterstützt.
+- Die Logos, die Marken des Multifunktionalen Konzernverbundes sind und werden in ihrer Struktur aus dem Logo der Muttergesellschaft Flughafen München entwickelt. Der Name des Unternehmens, in Groß- und Kleinschreibung oder als Kürzel in Versalien geführt, wird dem Zeichen M in genau definierter Größe und Lage zugeordnet.
+- Die Logos erscheinen immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der jeweiligen Wortmarke identisch.
+- Jedes Unternehmen erhält eine Erscheinungsbildfarbe, die, zusammen mit den Farben Hellgrau, Dunkelgrau und Silber aus der Farbreihe Flughafen München, eine unternehmensspezifische Farbreihe ergibt.
+- Das Zeichen M kann eigen­ständig eingesetzt werden, die Wortmarke wird in Kom­nur dem Zeichen bination mit abgebildet, sie steht nie allein.
+- Alle Logos sind auf der bei­liegenden CD-ROM in ver­schiedenen Formaten abge­speichert, sie sollten nicht nachgesetzt werden. Das Verzeichnis der Dateinamen steht in diesem Heft auf Seite 16.
+- Mindestabstände Der hier dargestellte Bereich um das Logo freige­halten werden. Er definiert sich durch die Höhe des Zeichens M. Ausnahmen sind in Einzelfällen, beispiels­weise in kleinen Textanzeigen, möglich.
+- Diese Angaben gelten für alle Logos des Multifunktionalen Konzernverbundes.
+- Das Zeichen muss vollständig abgebildet werden und auch nach Bearbeitung/Verfrem­dung und/oder spielerisch einge­setzt erkennbar bleiben.
+- Für werbliche und dekorative Ausstattungen kann das M Anschnitt als Grautöne, Silber und deren Rasterwerte verwendet werden.
+- Es ist nicht zulässig, dem Zeichen M andere Elemente wie die beiden Erscheinungsbildfarbe hinzuzufügen; Wortspiele mit dem M sind nicht erlaubt.
+- 3-D-Darstellungen des M, Animationen, Objekte. sind unzulässig.
+- Werden sie mit anderen Logos kombiniert, so muss Abstand eingehalten 2c von werden. Die unterschiedlichen Logos werden wie dargestellt gemittelt und in ihrer Größe angepasst.
+- Logokombinationen Werden die Logos des Multifunktionalen Konzernverbundes miteinander oder mit dem Logo M Flughafen München kombiniert, so haben diese einen Abstand zueinander definiert sich durch die Höhe des Zeichens M.
+- Die Logos der Unternehmen in ihrer jeweiligen Erscheinungsbildfarbe können auf Weiß, Hellgrau, Dunkelgrau, Silber und deren Rasterwerten platziert werden.
+- In begründeten Ausnahmefällen, beispielsweise bei andersfarbigem Hintergrund oder bei s/w-Drucksachen, kann das jeweilige Logo in Schwarz erscheinen.
+- Wird ein Logo direkt auf ein Foto platziert, muss darauf geachtet werden, dass alle Teile des Logos gut lesbar bleiben.
+- Die dargestellten Rasterwerte sind beispielhaft – es können alle Zwischenwerte verwendet werden.
+- Farbverläufe sind nur von einer Farbe des Erscheinungsbildes zu Weiß zulässig. Verläufe von einer Farbe zu einer anderen Farbe sind nicht erlaubt.
+- Die Hausschrift des Flughafens München, die Univers aus der Adobe Schriften-Bibliothek, gilt auch für die Unternehmen des Multifunktionalen Konzernverbundes. Die ausgewählten Schnitte sind in den Formaten PostScript und TrueType erhältlich. Wird aus technischen Gründen mit einem anderen Format gearbeitet, muss beim Hersteller der Schrift nach einer Konvertierungsmöglichkeit gefragt werden.
+- Generell wird gemischte Groß-und Kleinschreibung sowie linksbündiger Flattersatz eingesetzt. Blocksatz, rechtsbündiger Satz und auf Mittelachse gesetzter Satz werden nicht verwendet.
+- Stauchungen, Dehnungen, Sperrungen, Rundsatz, Unterstreichungen etc. sind nicht zugelassen.
+- Alle Logos des Multifunktionalen Konzernverbundes sind in einer Größe von 12 mm angelegt.
+- Diese Ausgangsgröße von 12 mm basiert auf der Anwendung der Logos auf den Briefbögen. Definiert wird die Größe durch die Höhe des Zeichens M.
+- Jede der nebenstehenden Dateien kann ohne Qualitätsverlust verkleinert werden – beispielsweise zum Druck von Visitenkarten. Die Mindestgröße ist mit 50% der Originaldatei (M= 6 mm) vorgegeben. Bei Vergrößerungen sollte die jeweilige TIFF-Datei nicht verwendet werden. Alle anderen Daten sind ohne Qualitätsverlust einsetzbar.
+- Wird ein Logo mit ausgeschriebener Firmenbezeichnung unabhängig von einer Anwendung wie Brief, Visitenkarte, Stempel etc. verwendet, so ist – wie unten dargestellt – zwischen Logo und Text ein Mindestabstand einzuhalten.
+- Schrift Firmenbezeichnung: Univers 55 regular
+- Angaben zu den (Druck-)Farben der einzelnen Unternehmen und zu den Mindestabständen zwischen den Logos sind in Heft 2, Grafik – Multifunktionaler Konzernverbund, Logos, Farben, Schrift zu finden.
+
+##### Print Guidelines
+
+- Das Flughafen-M ist ein eigens entworfener Buchstabe und kann keiner Schrifttype entnommen werden.
+- Die formale Charakteristik des M ist durch verschiedene Strichstärken bestimmt. Der linke Aufstrich a ist schmaler als der rechte Abstrich b.
+- Der zweizeilig gesetzte Begriff Flughafen München ist ebenfalls gezeichnet und darf nicht nachgesetzt werden. Die Wortmarke verbindet sich mit dem M zu einer formalen Einheit, dem Logo, der Marke des Flughafens München.
+- Das Zeichen M kann eigenständig eingesetzt werden, die Wortmarke wird nur in Kombination mit dem Zeichen abgebildet, sie steht nie allein.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch.
+- Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+
+##### Digital Guidelines
+
+- Die Logos in Deutsch und Englisch, sowie beide Versionen mit Claim, sind auf der beiliegenden CD-ROM in verschiedenen Formaten abgespeichert. Das Verzeichnis der Dateinamen steht in diesem Heft auf Seite 18.
+- Das Logo M Flughafen München erscheint immer in einer einheitlichen Farbe, das heißt, die Farbe des Zeichens M ist mit der der Wortmarke identisch. Auf einer weißen Fläche wird das Logo in Flughafenblau dunkel abgebildet.
+- Das Logo M Flughafen München und das Zeichen M dürfen nicht für Produkte verwendet werden, für die sich die Flughafen München GmbH nicht verantwortlich zeigt oder für die keine Freigabe seitens der Flughafen München GmbH vorliegt.
+- Bei internationalen Kontakten, internationalen Messen und einsprachig englischen Printprodukten und Medienauftritten wird das Logo M Munich Airport International eingesetzt. Bei zweisprachigen Produkten findet immer die deutsche Version des Logos Verwendung.
+- In der vorgegebenen Position können dem Logo Claims beigefügt werden. Da die Wortmarke „Flughafen München“ eigens gezeichnet ist, muss auch der Claim – wie hier „Service nonstop“ – angepasst, also gezeichnet werden. Auf zweizeilige Claims sollte verzichtet werden.
+- Der hier dargestellte Bereich um das Logo M Flughafen München muss freigehalten werden. Er definiert sich durch die Höhe des Zeichens M.
+- Gleiches gilt für die englische Version des Logos. Ausnahmen sind in Einzelfällen, beispielsweise in kleinen Textanzeigen, möglich.
+
+##### Co Branding
+
+- Logokombinationen Wird mit anderen Logos es Wird das Logo M Flughafen kombiniert, ein Ab­so muss München mit Logos des stand eingehalten 2c von Multifunktionalen Konzern­werden. Die unterschiedlichen verbundes kombiniert, Logos werden wie darge-so C haben diese einen Abstand stellt ausgemittelt und in ihrer zueinander defi­Größe angepasst. von c c -niert sich durch die Höhe des Zeichens M.
+- Logokombinationen Werden die Logos des Multi­funktionalen Konzernver­bundes miteinander oder mit dem Logo M Flughafen München kombiniert, so haben diese einen Abstand zueinander defi­von c c - niert sich durch die Höhe des Zeichens M.
+- Die Kombination des Logos „M Flughafen München" mit anderen Logos ist in Heft „Grafik Flughafen München Logo, Farbe, Schrift" und in Heft „Grafik Multifunktio­naler KonzernverbundLogos, - Farben, Schrift" geregelt.
+- Bei gemeinsamer Verwendung des Zeichens „M" und der Bildmarke „Kranich" werden diese in einem bestimmten Größenverhältnis und Abstand zueinander eingesetzt. Die dargestellten Abstände sind Mindestab­stände, die auf jedem Format eingehalten werden müssen. Die Reihenfolge der Zeichen bei horizontaler Anordnung, von links nach rechts: M, Kranich. Bei vertikaler Anordnung, von oben nach unten: M, Kranich.
+- „M Flughafen München" und „Lufthansa" gelten die Angaben auf Seite 20 bezogen auf Farben, Anordnung und Mindestabstand. Das abwei­chende Größenverhältnis der Logos zueinander ist unten dargestellt.

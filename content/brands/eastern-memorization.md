@@ -2,7 +2,7 @@
 title: Eastern Memorization
 slug: "eastern-memorization"
 description: ""
-date: "2026-03-20T08:22:04.463098"
+date: "2026-04-10T09:40:33.207256"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - education
   - community
+  - education
 industries: []
 countries: []
 revenue_buckets: []

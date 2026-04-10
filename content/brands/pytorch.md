@@ -2,7 +2,7 @@
 title: PyTorch
 slug: pytorch
 description: ""
-date: "2026-03-20T08:22:04.685219"
+date: "2026-04-10T09:40:33.407380"
 draft: false
 sectors:
   - software
@@ -46,22 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - symbol
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - crimson
-  - white
-  - purple
-  - orange
-  - indigo
-  - gray
-  - violet
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "open source machine learning library for Python, based on Torch"
@@ -84,35 +70,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Stacked lockup and single-line lockup versions of the PyTorch logo available. Choose the appropriate lockup depending on specific applications.
-- Clear space specified for logo to ensure legibility and avoid distracting elements. The spacing is determined by the size of the 'P' in the PyTorch wordmark.
-- Sizing guidelines for the PyTorch symbol. Minimum size for screens: 24px. Minimum size for print: 10mm.
-
-**Color Information:**
-
-- Primary brand color: Orange.
-HEX: #EE4C2C. RGB: R238 G76 B44. CMYK: C00 M61 Y72 K00. Pantone: 171 C.
-- Secondary colors for print and digital use:
-Crimson: HEX: #E32D5B. RGB: R227 G45 B91. CMYK: C00 M94 Y64 K00. Pantone: 192 C.
-Raspberry: HEX: #CC2F90. RGB: R204 G47 B144. CMYK: C23 M83 Y00 K00. Pantone: 2385 C.
-Fuchsia: HEX: #CC2FAA. RGB: R204 G47 B170. CMYK: C40 M90 Y00 K00. Pantone: Purple C.
-Violet: HEX: #B932CC. RGB: R185 G50 B204. CMYK: C48 M80 Y00 K00. Pantone: 2582 C.
-Indigo: HEX: #812CE5. RGB: R129 G44 B229. CMYK: C70 M76 Y00 K00. Pantone: 2665 C.
-- Tertiary grayscale/neutral palette for typography and supporting backgrounds:
-Dark Gray: HEX: #262626. RGB: R38 G38 B38. CMYK: C38 M35 Y33 K92. Pantone: Process Black C.
-Light Gray: HEX: #BBBBBB. RGB: R187 G187 B187. CMYK: C70 M76 Y00 K00. Pantone: Cool Gray 5 C.
-White: HEX: #FFFFFF. RGB: R255 G255 B255. CMYK: C00 M00 Y00 K00.
-
-**Spacing Layout:**
-
-- Clearspace insulation around the PyTorch wordmark is determined by the 'P' character in the logo, ensuring it is visually separated from other elements.
-
-**Notes:**
-
-- Attribution statement guidelines: 'PyTorch, the PyTorch logo and any related marks are trademarks of Facebook, Inc.'
-- Usage instruction: Do not use PyTorch marks in a way that suggests endorsement or affiliation with Facebook, Inc.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: World Meteorological Organization
 slug: "world-meteorological-organization"
 description: ""
-date: "2026-03-20T08:22:04.903043"
+date: "2026-04-10T09:40:33.678930"
 draft: false
 sectors:
   - "public-sector"
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - abstract
-brand_colors:
-  - green
-  - "pantone-196"
-  - "pantone-368"
-  - yellow
-  - pink
-  - "pantone-108"
-typographies:
-  - verdana
-imagery_styles:
-  - abstract
-  - photography
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: specialized agency of the United Nations for meteorology
 wikidata_url: "https://www.wikidata.org/wiki/Q170424"
 has_twitter: false
@@ -91,40 +80,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- WMO logotypes available include versions with full name, acronym, language variations, and wind rose. The full name and acronym versions are provided in examples.
-- Guidelines on placement of the logo on publications include alignment rules. When co-publishing with partners, the WMO logo is aligned horizontally for major partnership or along the bottom for equal partnership.
-- Placement and scale requirements for logos in travel kits and posters were provided. For example, the logo must not be placed at foot level. Different centred and aligned options are shown.
-- Incorrect usage examples or visual hierarchy rules for publication layouts were emphasized. The WMO logo has specific rules for its appearance and needs to maintain predominance for publications where WMO is the publishing agency.
-
-**Color Information:**
-
-- The WMO constituent body session reports have specific colored designs: Pantone 108 (yellow) for Executive Council and Congress reports, Pantone 196 (pink) for regional association reports, and Pantone 368 (light green) for technical commission reports.
-- The guidelines suggest green shades for technical publications, and publications featured abstract backgrounds or images to indicate color schemes. Bright yellows may be added for specific events.
-
-**Typography Information:**
-
-- Font specifications for WMO publications: Verdana is used for session reports, and Stone Sans is used for all other report types. Font size is fixed at 10pts for governance reports.
-- Specific levels of typography for titles, subtitles, and headings were provided, e.g., Level 1 (25 pts), Level 2 (18/30 pts), Level 3 (16/28 pts), etc.
-
-**Imagery Photography:**
-
-- Photography for WMO materials should convey clear, relevant messages and not be used purely for decoration. Images used must maintain harmony with other graphical elements.
-- Specific events like Madrid+10 include unique imagery and expanded color schemes (e.g., bright yellow and urban garden images). These designs distinguish them from other WMO materials.
-
-**Spacing Layout:**
-
-- Spacing details for WMO publication layouts include minimum page margins: left/right 2.8 cm, top 2.4 cm, bottom 1.7 cm. One-column layouts emphasized for readability.
-- Text zones and logo alignments for A4 letterheads were standardized: e.g., placement at 65 mm for bilingual templates.
-
-**Brand Voice:**
-
-- Key principles such as simplicity, flexibility, harmony, and conviviality govern WMO communication products. Materials must look contemporary, have a clear visual hierarchy, avoid clutter, and attract attention effectively.
-
-**Notes:**
-
-- Additional material components defined: business cards (titles disallowed), envelopes, compliment slips (handwritten notes), flyers, folders, foldouts, posters, and travel kits.
+*Guidelines data not available*
 
 ## Additional Properties
 

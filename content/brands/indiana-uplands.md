@@ -2,7 +2,7 @@
 title: Indiana Uplands
 slug: "indiana-uplands"
 description: ""
-date: "2026-03-20T08:22:03.237188"
+date: "2026-04-10T09:40:30.748937"
 draft: false
 sectors:
   - ngo
@@ -48,10 +48,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - oswald
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,42 +68,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo arrangements and variants mentioned, specific placements likely shown (details required).
-- Logo mechanics, clear zones, and improper usages are mentioned across multiple pages.
-- Logo arrangements and variants mentioned, specific placements likely shown (details required).
-- Logo mechanics, clear zones, and improper usages are mentioned across multiple pages.
-- Logo mechanics, clear zones, and improper usages are mentioned across multiple pages.
-- Logo arrangements and variants mentioned, specific placements likely shown (details required).
-- Logo mechanics, clear zones, and improper usages are mentioned across multiple pages.
-- Logo arrangements and variants mentioned, specific placements likely shown (details required).
-
-**Typography Information:**
-
-- Specifications of Knockout typeface and usage in headlines, subtitles; Oswald as alternative mentioned.
-- Specifications of Knockout typeface and usage in headlines, subtitles; Oswald as alternative mentioned.
-
-**Imagery Photography:**
-
-- Photography style description and storyline guidelines present.
-- Photography style description and storyline guidelines present.
-
-**Spacing Layout:**
-
-- Spacing and minimum size rules are explicitly addressed.
-- Spacing and minimum size rules are explicitly addressed.
-- Spacing and minimum size rules are explicitly addressed.
-- Spacing and minimum size rules are explicitly addressed.
-- Spacing and minimum size rules are explicitly addressed.
-
-**Brand Voice:**
-
-- The brand's tone of voice emphasizes consistency and strict adherence to standards.
-- The brand's tone of voice emphasizes consistency and strict adherence to standards.
-
-**Notes:**
-
-- Comprehensive brand standards and rules for materials on page 3.
-- Comprehensive brand standards and rules for materials on page 17.
-- Comprehensive brand standards and rules for materials on page 27.
+*Guidelines data not available*

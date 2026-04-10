@@ -2,7 +2,7 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-03-20T08:22:05.800687"
+date: "2026-04-10T09:40:34.795449"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "research-and-development-in-other-physical-and-natural-sciences"
   - research
+  - "research-and-development-in-other-physical-and-natural-sciences"
 countries:
   - france
 revenue_buckets: []
@@ -53,15 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - "pantone-294"
-typographies:
-  - univers
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French space agency
 wikidata_url: "https://www.wikidata.org/wiki/Q48756"
 has_twitter: false
@@ -85,38 +80,135 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
+#### Brand Summary
 
-- La stratégie de communication du CNES vise une image modernisée : logotype datant des années 70, ajusté pour lisibilité dans les médias modernes. Logo modulaire pour supports divers. Sphérique et élancé, sans stries pour une ouverture moderne.
-- Le logotype inclut un symbole et une typographie en construction horizontale ou pyramidale. Les proportions, couleurs, et typographie sont immuables.
+##### Mission
 
-**Color Information:**
+- Renforcer l'image et la notoriété du CNES auprès d’un large public par une maîtrise et diffusion accrue de son identité visuelle, avec la signature « De l’espace pour la Terre » donnant du sens à ses missions [^1].
 
-- Couleurs dégradées de l'atmosphère terrestre reliées à l'espace et la Terre. Gamme comprend un bleu pur dense associé à l'univers spatial.
-- Pantone 294 utilisé à 100% pour solides et tramé à 10% pour fonds légers.
+##### Core Values
 
-**Typography Information:**
+- cohésion
+- modernité
+- ouverture
+- rayonnement
+- communication
+- innovation
+- sustainable development
+- public applications
+- security defense
+- science & innovation
+- space access [^2]
 
-- Arial Regular, Italic, Bold, Bold Italic utilisé pour communication générale du CNES. Large choix de caractères permet de répondre à tous les besoins.
-- Papeterie et PowerPoint spécifiés avec tailles Arial : titres (28/24 pt), sous-titres (20/18/16 pt).
+##### Target Audience
 
-**Imagery Photography:**
+- Un large public, incluant agents internes, partenaires institutionnels, et parties prenantes externes [^3].
 
-- Respire la modernité et la cohésion des services CNES grâce à images centrées sur les missions terrestres et spatiales.
+##### Personality Traits
 
-**Spacing Layout:**
+- moderne
+- ouvert
+- lisible
+- professionnel
+- technologique
+- institutionnel [^4]
 
-- La courbe graphique dédiée à CNES doit être utilisée pleine largeur, seulement hauteur modulable. Ne jamais recadrer ni modifier.
-- Bandeau CNES aligné haut page, revisité dans contextes co-branding partenaires.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- Identité visuelle centrée sur une courbe représentant la planète et l’atmosphère, une palette de bleu pur et dense associée à l’univers spatial, un logotype sphérique et modulable, typographie Arial pour harmonisation, et une structure graphique non modifiable pour cohérence sur tous supports .
 
-- Tone modernisé pour inclusion, ouverture. Signature « De l’espace pour la Terre » signifiant missions CNES reliant Espace/Terre.
-- Texte clair, adapté à enjeux multiples CNES (scientifiques, éducatifs, défense). Directive sur usage précis.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Un guide complet détaillant les éléments graphiques du CNES est proposé. A chaque support correspond instructions détaillées.
+- La charte repose pour l’essentiel sur l’adoption d’une courbe, celle de notre planète avec le dégradé de l’atmosphère, faisant le lien entre l’espace et la Terre, correspondant à notre positionnement éditorial. La gamme de couleur est inchangée : un bleu pur et dense qui reste associé à l’univers spatial.
+- Le logotype CNES est composé de deux éléments indissociables : le symbole et la typographie dans une construction horizontale ou pyramidale Les proportions, les couleurs et la typographie sont immuables.
+- Le logotype CNES tel qu’il est défini, s’applique sur tous les supports où le logotype s’applique sans signature, dans le respect de ses proportions, couleurs et règles (détaillées ci-après).
+- Selon les supports et leur mode d’impression, le bleu spécifique du logotype CNES a des références appropriées.
+- Pour les applications où il n’est pas possible d’utiliser le logotype couleur, une version spécifique en noir est permise.
+- Le logotype CNES est entouré d’une zone de protection qui garantit sa bonne visibilité et sa reconnaissance. Cette zone de protection est un rectangle technique invisible, qui a pour hauteur le “n” de CNES et dans lequel aucun élément graphique, textuel ou visuel ne doit pénétrer.
+- Pantone 294 Quadrichromie B 100 % M 60 % N 20 %
+- Pantone Process black Noir 100 %
+- taille minimale : cnes 8,5 mm
+- Sur fonds de couleur foncée, le logotype CNES doit être appliqué en réserve blanche.
+- Sur fonds de couleur claire, le logotype CNES doit être appliqué dans sa couleur.
+- Sur fonds photographiques ou fonds perturbés le logotype CNES doit être utilisé dans sa couleur, inséré dans un cartouche blanc équivalent à sa zone de protection.
+
+##### Color Palette
+
+- La gamme de couleur est inchangée : un bleu pur et dense qui reste associé à l’univers spatial.
+- Selon les supports et leur mode d’impression, le bleu spécifique du logotype CNES a des références appropriées.
+- Pantone 294
+- Quadrichromie B 100 % M 60 % N 20 %
+- Pour les applications où il n’est pas possible d’utiliser le logotype couleur, une version spécifique en noir est permise.
+- Pantone Process black
+- Noir 100 %
+- Sur fonds de couleur foncée, le logotype CNES doit être appliqué en réserve blanche.
+- Sur fonds de couleur claire, le logotype CNES doit être appliqué dans sa couleur.
+- Sur fonds photographiques ou fonds perturbés le logotype CNES doit être utilisé dans sa couleur, inséré dans un cartouche blanc équivalent à sa zone de protection.
+- Pantone 294 à 100 % + 294 à 10 % Quadrichromie B 100 % M 60 % N 20 %
+
+##### Typography
+
+- Pour toute sa communication d'usage général, le CNES utilise une typographie d'accompagnement, et une seule, l'Arial, permettant d'harmoniser l'ensemble de ses supports d'expression. Le large choix de caractéres proposé par l'Arial suffit à couvrir l'ensemble des applications et des demandes.
+- Pour les documents de communication institutionnels, la typographie utilisée et de référence est l'Arial. Cependant, il est aussi possible d'utiliser d'autres typographies en complément de l'Arial. Exemple: "CNES qui se passe", "CNES mag".
+- Sur l'en-tête de lettre, le bandeau -Pantone 294 -est utilisé tramé à 10 %. La typographie d'accompagnement pour la frappe du courrier est l'Arial.
+- Trois masques powerpoint ont été créé: une page de garde, et deux page cnes de contenu. CENTRE NATIONAL D'ÉTUDES SPATIALES Zone de titre NB: pour certaines applications, ne AriaI 28 pt pour le titre nécéssitant pas la couleur, les masques Aria I 24 pt pour le sous-titre Zone de sous-titre Powerpoint ont été exécutés en niveau de gris. -page de contenu Powerpoint (format réduit à 30 %) à utiliser pour projections AriaI 24 pt pour le titre de titre AriaI 20 pt Zone de sous-titre Arial 18 pt Vimque idem ad res"divertissimas, parend praeficere malle, pericula erat. caloris ac frigoris patientia dis rebus superesset. AriaI 16 pt ----------+----+-e > Vimque idem ad res divertissimas, parend praeficere maIle, pericula caloris ac frigoris patientia dis rebus superesset. -page de contenu Powerpoint (format réduit à 30 %) à utiliser pour impressions cnes AriaI 24 pt pour le titre Zone de titre AriaI 20 pt Zone de sous titre Arial 18 pt >Vimque idem ad res"divertissimas parend praeficere malle pericula erat caloris ac frigoris patientia dis rebus superesset AriaI 16 pt 1 • >Vimque idem ad res divertissimas, parend praeficere malle, pericula caloris ac frigoris patientia dis rebus superesset
+
+##### Logo Usage
+
+- Le logotype CNES est composé de deux éléments indissociables : le symbole et la typographie dans une construction horizontale. Les proportions, les couleurs et la typographie sont immuables.
+- Le logotype CNES tel qu’il est défini, s’applique sur tous les supports où le logotype s’applique sans signature, dans le respect de ses proportions, couleurs et règles (détaillées ci-après).
+- Selon les supports et leur mode d’impression, le bleu spécifique du logotype CNES a des références appropriées.
+- Pour les applications où il n’est pas possible d’utiliser le logotype couleur, une version spécifique en noir est permise.
+- Le logotype CNES est entouré d’une zone de protection qui garantit sa bonne visibilité et sa reconnaissance. Cette zone de protection est un rectangle technique invisible, qui a pour hauteur le “n” de CNES et dans lequel aucun élément graphique, textuel ou visuel ne doit pénétrer.
+- Pantone 294
+- Quadrichromie B 100 % M 60 % N 20 %
+- Pantone Process black
+- Noir 100 %
+- taille minimale : 8,5 mm
+- Sur fonds de couleur foncée, le logotype CNES doit être appliqué en réserve blanche.
+- Sur fonds de couleur claire, le logotype CNES doit être appliqué dans sa couleur.
+- Sur fonds photographiques ou fonds perturbés le logotype CNES doit être utilisé dans sa couleur, inséré dans un cartouche blanc équivalent à sa zone de protection.
+
+##### Visual Style
+
+- Le logotype CNES est composé de deux éléments indissociables : le symbole et la typographie dans une construction horizontale. Les proportions, les couleurs et la typographie sont immuables.
+- Selon les supports et leur mode d’impression, le bleu spécifique du logotype CNES a des références appropriées.
+- Pour les applications où il n’est pas possible d’utiliser le logotype couleur, une version spécifique en noir est permise.
+- Le logotype CNES est entouré d’une zone de protection qui garantit sa bonne visibilité et sa reconnaissance. Cette zone de protection est un rectangle technique invisible, qui a pour hauteur le “n” de CNES et dans lequel aucun élément graphique, textuel ou visuel ne doit pénétrer.
+- Pantone 294
+- Quadrichromie B 100 % M 60 % N 20 %
+- Pantone Process black
+- Noir 100 %
+- taille minimale : 8,5 mm
+- Sur fonds de couleur foncée, le logotype CNES doit être appliqué en réserve blanche.
+- Sur fonds de couleur claire, le logotype CNES doit être appliqué dans sa couleur.
+- Sur fonds photographiques ou fonds perturbés le logotype CNES doit être utilisé dans sa couleur, inséré dans un cartouche blanc équivalent à sa zone de protection.
+
+##### Layout And Composition
+
+- Le logotype CNES est composé de deux éléments indissociables : le symbole et la typographie dans une construction horizontale ou pyramidale Les proportions, les couleurs et la typographie sont immuables.
+- Le logotype CNES tel qu’il est défini, s’applique sur tous les supports où le logotype s’applique sans signature, dans le respect de ses proportions, couleurs et règles (détaillées ci-après).
+- Le logotype CNES est entouré d’une zone de protection qui garantit sa bonne visibilité et sa reconnaissance. Cette zone de protection est un rectangle technique invisible, qui a pour hauteur le “n” de CNES et dans lequel aucun élément graphique, textuel ou visuel ne doit pénétrer.
+- taille minimale : 8,5 mm
+- Sur fonds de couleur foncée, le logotype CNES doit être appliqué en réserve blanche.
+- Sur fonds de couleur claire, le logotype CNES doit être appliqué dans sa couleur.
+- Sur fonds photographiques ou fonds perturbés le logotype CNES doit être utilisé dans sa couleur, inséré dans un cartouche blanc équivalent à sa zone de protection.
+
+##### Co Branding
+
+- Dans le cas de co-branding, on utilise la courbe CNES (repartir du document d'exécution de la courbe institutionnelle et l'adapter selon les règles définies ci-dessous. Le logotype CNES est toujours ferré en bas à droite. Les logotypes des partenaires s'installent dans cette courbe dans la partie gauche et sont séparés par un filet d'une épaisseur de 0,5 point pour un format A4 Optiquement les logotypes doivent tous avoir la même taille. Les logotypes sont centrés sur un axe horizontal qui a pour origine le milieu du filet.
+- La courbe CNES est toujours appliquée en réserve blanche. Dans le cas, où le fond du support est blanc, (un filet bleu de 0,5 point d'épaisseur pour un format A4 suivant le dessin de la courbe) délimitera la structure d'accueil du visuel.
+
+##### Brand Partnerships
+
+- Dans le cas de co-branding, on utilise la courbe CNES (repartir du document d'exécution de la courbe institutionnelle et l'adapter selon les règles définies ci-dessous. Le logotype CNES est toujours ferré en bas à droite. Les logotypes des partenaires s'installent dans cette courbe dans la partie gauche et sont séparés par un filet d'une épaisseur de 0,5 point pour un format A4 Optiquement les logotypes doivent tous avoir la même taille. Les logotypes sont centrés sur un axe horizontal qui a pour origine le milieu du filet.
+- La courbe CNES est toujours appliquée en réserve blanche. Dans le cas, où le fond du support est blanc, (un filet bleu de 0,5 point d'épaisseur pour un format A4 suivant le dessin de la courbe) délimitera la structure d'accueil du visuel.
+- Dans les cas de partenariats, on devra se baser sur les documents d'exécution spécifiques à chaque support développé dans la charte institutionnelle. Sur les bases identiques, on intègre le logotype du projet séparé du logotype CNES par un filet d'une épaisseur de 0,5 point pour un formatA4.
+- Lorsque le bandeau est appliqué en haut du support, le logotype CNES est ferré en haut à gauche.
+- Dans les cas de partenariats, on devra se baser sur les documents d'exécution spécifiques à chaque support développés dans la charte institutionnelle, sur lesquels on intègre le logotype du projet séparé du logotype CNES par un filet d'une épaisseur de 0,5 point pour un format A4.
+- Dans le cas d'un partenariat regroupant le CNES, un projet et un partenaire, les logos du CNES et du projet sont proches et séparés par un filet d'une épaisseur de 0,5 point pour un format A4. Le logotype du partenaire est dissocié du bloc CNES/projet. Il est ferré à droite dans le bandeau en haut et à gauche dans le bandeau en bas. Le filet qui le sépare des autres logotypes est d'une double épaisseur soit un point pour un format A4 (cf. schéma).
 
 ## Additional Properties
 

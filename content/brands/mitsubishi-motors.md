@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-03-20T08:22:04.886899"
+date: "2026-04-10T09:40:33.644576"
 draft: false
 sectors:
   - automobile
@@ -29,8 +29,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - car
-  - "sport-utility-vehicle"
   - "commercial-vehicle"
+  - "sport-utility-vehicle"
 products: []
 headquarters_locations:
   - minato
@@ -56,20 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - gray
-  - yellow
-  - magenta
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
+imagery_styles: []
 wikidata_description: Japanese automotive manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q36033"
 has_twitter: false
@@ -91,27 +81,7 @@ visual_term_image_urls: {}
 
 ### 2005
 
-**Logo Information:**
-
-- Examples of incorrect logo usage including improper alignment, incorrect font usage for 'MITSUBISHI MOTORS', using contrasting outlines, adding new colors, and distorting the logo.
-- Vertical and horizontal logo variations shown with 'MITSUBISHI MOTORS' text in proper alignment with the three-diamond mark.
-- Rules for logo reproduction emphasize using the official artwork to avoid distortion, redraws, or modifications.
-
-**Color Information:**
-
-- Defined corporate colors include Mitsubishi Motors Red (Pantone 485C), Mitsubishi Motors Black (Pantone Process Black), and Mitsubishi Motors Silver (Pantone 877C). Mitsubishi Motors Gray (Pantone Cool Gray 5C) is used as a substitute for Mitsubishi Motors Silver due to printing limitations.
-- Color specifications for various printing and materials: Mitsubishi Red (Pantone 485C, Magenta 100% + Yellow 100%), Mitsubishi Black (Pantone Process Black, Black 100%), Mitsubishi Silver (Pantone 877C, limited use), and Mitsubishi Gray (Pantone Cool Gray 5C, Black 30%).
-- Material guidelines for vinyl and paint such as RAL 3020 Traffic Red, RAL 9017 Traffic Black, and RAL 9022 Pearl Light Gray.
-
-**Typography Information:**
-
-- Main typography specified as Avant Garde Gothic Condensed - Demi, chosen for compatibility with the corporate marks. Supported weights include Book and Medium for secondary applications like signs and stationery.
-- Type hierarchy and dynamic usage are emphasized to present Mitsubishi Motors distinctly. Dealer names on signs and departmental descriptors follow this guideline using supplied artwork.
-
-**Notes:**
-
-- Strict caution is advised for maintaining color integrity when reproducing the corporate mark. Incorrect use of colors such as substituting Pantone 485C or Pantone Process Black can alter brand recognition. Specific guidelines for Mitsubishi Motors Silver reproduction are outlined.
-- Departmental descriptors maintain consistent colors and typography listed under corporate guidelines. Digital reproduction must adhere to Pantone and CMYK standards.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -121,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:Mitsubishi Motors |

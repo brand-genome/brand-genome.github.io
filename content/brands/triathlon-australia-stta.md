@@ -2,7 +2,7 @@
 title: "Triathlon Australia & STTA"
 slug: "triathlon-australia-stta"
 description: ""
-date: "2026-03-20T08:22:04.511306"
+date: "2026-04-10T09:40:33.284261"
 draft: false
 sectors:
   - sports
@@ -46,11 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -73,11 +70,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Primary option: Use Triathlon logo on a white background design; keep the original logo colors.
-- Secondary option: Incorrect logo usage examples: (1) Do not change colors of any elements of the logo, (2) Do not alter the logo structure in any way, (3) Do not remove logo elements.
-
-**Notes:**
-
-- Some text appears distorted or unstructured due to font or encoding issues in the provided PDF. Manual review of images or formatted text is recommended for complete analysis.
+*Guidelines data not available*

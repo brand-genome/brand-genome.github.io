@@ -2,7 +2,7 @@
 title: easyGroup
 slug: easygroup
 description: ""
-date: "2026-03-20T08:22:03.156807"
+date: "2026-04-10T09:40:30.698276"
 draft: false
 sectors:
   - finance
@@ -53,28 +53,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-021"
-  - white
-  - grey
-  - orange
-  - black
-typographies:
-  - futura
-imagery_styles:
-  - graphic
-  - bold
-  - photography
-  - contemporary
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British multinational branded venture capital conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q1278337"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -89,46 +77,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2020
-
-*Guidelines data not available*
-
 ### 2011
 
-**Logo Information:**
-
-- The exclusion zone: The logotype must be reproduced with a clear area around it which is free from other graphic elements. This area is known as 'the exclusion zone'. Additionally, the minimum size for legibility and usage of colors has been prescribed. The logo must always be white on an easy orange background (Pantone 021). It is permitted to use black on white only where white out of easy orange is not practical.
-- Business logos are associated with specific businesses via descriptive words after 'easy', following this rule: the word 'easy' must appear in lowercase and followed (without a space) by another word with the first character capitalized. Examples of such logos are presented, such as 'easyJet', 'easyCar', 'easyMoney'. The logos can only be in Cooper Black font (not bold, italicized, outlined, or underlined).
-- Do's and Don'ts for logo typography: Demonstrations provided for correct and incorrect renderings of 'easy' trading names. They must use the Cooper Black font as specified.
-
-**Color Information:**
-
-- Use of orange (Pantone 021) as the primary color has major brand significance. Orange is essential to the easyGroup brand identity and is combined with white, black, and dark grey to create a simple but powerful style.
-- Each business logo uses white text on an orange background (Pantone 021c on glossy materials; nearest equivalent for others). In some cases, body text may appear black on a white background, but only if orange-white combinations are impractical.
-
-**Typography Information:**
-
-- Specified Cooper Black as the brand font for all business names/logos. This font is associated with the identity and recognizability of the easyGroup brand. Cooper Black is bold, confident, and has friendly curves, giving a warm personality to the businesses.
-- Futura is the communication typeface for body and headline text and provides a clean, contemporary appearance. Futura is used in three styles: Bold (headlines), Book (body text), and Light (small text below 6 pt). Examples of each font style provided in uppercase, lowercase, and symbols.
-
-**Imagery Photography:**
-
-- Photography Style: The images used should be expressive, show real emotions, and be cropped for maximum effect. The attributes of the images focus on enjoyment, optimism, clarity, simplicity, and real people in real situations.
-- When used in advertising, photography is used to show the experiences offered by the easyGroup brands. Photos should reflect descriptive settings and human interaction with products.
-- For two-color artwork, pictures may be replaced by logo types, maintaining a cohesive orange background that associates businesses.
-
-**Spacing Layout:**
-
-- Website layout for the easy.com portal must be clear, consistent, and concise in design. Information should flow structurally to encourage purchases.
-
-**Brand Voice:**
-
-- Tone of Voice: Communication must be simple and direct. Avoid over-complicating or using jargon. Messages should be concise and in plain language. The tone must reflect honesty and simplicity while being cheeky, fun, and aiming to raise a smile.
-
-**Notes:**
-
-- Appendix provided with FAQs about the brand, alongside a comprehensive contents list. Topics include 'What is the easyGroup?', 'The new easyGroup strapline', and 'How to use Stelios effectively as a brand asset'.
-- Contact details for key personnel like Sir Stelios Haji-Ioannou, as well as operational information for businesses under the easyGroup umbrella (e.g., easyJet, easyCar, easyVan).
+*Guidelines data not available*
 
 ## Additional Properties
 

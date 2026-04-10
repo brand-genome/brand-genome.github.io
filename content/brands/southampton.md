@@ -2,7 +2,7 @@
 title: Southampton
 slug: southampton
 description: ""
-date: "2026-03-20T08:22:03.071623"
+date: "2026-04-10T09:40:30.572004"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,15 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-typographies:
-  - "work-sans"
-imagery_styles:
-  - clean
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city and major port in Hampshire, South-East England, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q79848"
 has_twitter: false
@@ -75,28 +70,7 @@ visual_term_image_urls: {}
 
 ### 2025
 
-**Color Information:**
-
-- Color HEX #F5F3E4 (RGB 245, 243, 228; CMYK: 3, 2, 10, 0).
-- Color HEX #010909 (RGB 2, 10, 10; CMYK: 60, 40, 40, 100).
-- Mentions color schemes such as Maritime, Brick, Deep Green, Leafy Mint, and Tudor, but details are corrupted.
-
-**Typography Information:**
-
-- Work Sans is mentioned as the primary typeface for Southampton City branding; highlighted for its clean lines, neutral character, and balance.
-
-**Spacing Layout:**
-
-- Grid system is based on the Golden Ratio to ensure a consistent visual identity across all brand assets.
-
-**Brand Voice:**
-
-- Southampton's tone of voice is described as vibrant and passionate, aiming to represent the city's unique identity.
-
-**Notes:**
-
-- Text encoding issues prevent full readability and verification of specifics in several sections, especially 'Brand Narrative,' 'Purpose,' and 'Values.' Only fragments could be extracted.
-- Color information spans multiple pages (19-22), but with text corruption on certain values.
+*Guidelines data not available*
 
 ## Additional Properties
 

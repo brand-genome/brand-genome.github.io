@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-03-20T08:22:05.162126"
+date: "2026-04-10T09:40:34.007779"
 draft: false
 sectors:
   - electronics
@@ -27,9 +27,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - calculator
-  - watch
   - "electronic-dictionary"
+  - watch
+  - calculator
   - "electronic-musical-instrument"
 products: []
 headquarters_locations:
@@ -57,11 +57,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - white
-  - blue
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: multinational electronics manufacturing company
@@ -86,29 +82,7 @@ visual_term_image_urls: {}
 
 ### 2000
 
-**Logo Information:**
-
-- The red dash rule and red bullet (PMS 186 for coated or PMS 1925 for un-coated) may be used to tie the logo with the branding, but should not appear to be part of the logo.
-- All logo artwork must be used consistently across correspondence materials, such as emails, presentations, faxes, packaging, brochures, POP materials, web pages, and advertising.
-- Office use guidelines specify the use of GIF versions for PowerPoint, Word, and Excel. Specialized folders such as 'Office Art' (GIF format), 'WWW' (GIF and PSD versions), and 'GRAPHICS' (PSD and Illustrator formats) are available.
-- Rules for logo usage: (1) Never distort the logo, (2) Do not box in the logo, (3) Never change its color, (4) Do not reposition design elements such as changing line spacing or altering proportions.
-- File naming conventions for master logo art files include 'UE LOGO,' 'UE KO RED,' 'UE KO BLUE/DARK,' 'UE B&W KO,' 'UE B&W SUR,' and 'UE B&W 293'.
-- Color background usage: The logo may only appear with Casio-approved backgrounds, including Blue, Black, and White, maintaining priority on readability.
-- Printing flexibility allows for using PMS 293 for Casio blue and PMS specifications for coated and un-coated papers. Red elements near the logo must be avoided.
-- The logo proportion may deviate for aesthetic value or readability as necessary but should generally maintain the core size ratio.
-
-**Color Information:**
-
-- Color codes for logo: Coated Paper - Red Ink PMS 186 (C:91 M:76 Y:6 K:0), Blue Ink PMS 293 (C:100 M:56 Y:0 K:0); Un-coated Paper - Red Ink PMS 1925 (C:94 M:51 Y:0 K:0), Blue Ink PMS 293 (C:100 M:56 Y:0 K:0).
-- Preference for carton printing allows using PMS 293 Casio blue with 'extra' in 40% tint.
-
-**Brand Voice:**
-
-- Consistent implementation of branding is key for strengthening Casio’s reputation and presenting its products in a coordinated manner.
-
-**Notes:**
-
-- For any questions regarding the guide, users may contact Art Heron at aheron@casio.com or call 973-361-5400 Ext. 1436/1450.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -118,7 +92,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Calculator](/products_or_materials_produced/calculator/); [Watch](/products_or_materials_produced/watch/); [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/) |
+| Product Or Material Produced | [Electronic Dictionary](/products_or_materials_produced/electronic-dictionary/); [Watch](/products_or_materials_produced/watch/); [Calculator](/products_or_materials_produced/calculator/); [Electronic Musical Instrument](/products_or_materials_produced/electronic-musical-instrument/) |
 | Headquarters Location | [Shibuya](/headquarters_locations/shibuya/) |
 | Foundation Date | [1957](/foundation_dates/1957/) |
 | Headquarters Location | Shibuya |

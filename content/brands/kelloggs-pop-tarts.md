@@ -2,7 +2,7 @@
 title: "Kellogg’s Pop-Tarts"
 slug: "kelloggs-pop-tarts"
 description: ""
-date: "2026-03-20T08:22:04.248109"
+date: "2026-04-10T09:40:32.831068"
 draft: false
 sectors:
   - food
@@ -46,16 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - playful
-  - retro
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,14 +67,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The primary and secondary brand marks are specified for the Pop-Tarts® retro program. Guidelines specify that one logo must be selected and used permanently on the product, incorporated appropriately into the design, applied via embossed, embroidered, etched, or sewn methods. It must not be altered without prior approval. Additionally, the brandmark cannot be used in sentences or paragraphs; only the 'Pop-Tarts' name should be used in such cases.
-
-**Color Information:**
-
-- The retro color palette is designed to embody the playful essence of the Pop-Tarts brand. Consistency in using the equity colors across licensing and merchandising is critical. Pop-Tarts 'equity blue' should feature prominently in all brand materials.
-
-**Notes:**
-
-- The guidelines emphasize consistent and permanent applications of the brand logos and colors, and they specify not to alter proprietary elements without approval.
+*Guidelines data not available*

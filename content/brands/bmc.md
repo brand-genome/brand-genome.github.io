@@ -2,15 +2,15 @@
 title: BMC
 slug: bmc
 description: ""
-date: "2026-03-20T08:22:04.160346"
+date: "2026-04-10T09:40:32.479242"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2018
   - 2022
+  - 2018
 languages:
   - english
 tags:
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - "open-sans"
-imagery_styles:
-  - bold
-  - modern
-  - dramatic
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: commercial vehicle manufacturer in Turkey
 wikidata_url: "https://www.wikidata.org/wiki/Q796295"
 has_twitter: false
@@ -85,56 +77,11 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- The logo consists of two parts: a symbol/brand mark and a logotype, embodying arrows and a double helix representing innovation.
-- The logo consists of two parts: a symbol/brand mark and a logotype, embodying arrows and a double helix representing innovation.
-- The logo consists of two parts: a symbol/brand mark and a logotype, embodying arrows and a double helix representing innovation.
-- Clear space rules around logos determined by the height of the letter 'c' in 'bmc'.
-
-**Color Information:**
-
-- BMC brand color palette includes primary and secondary colors, with RGB, HEX, and CMYK values provided for each. Formula usage is critical: do not alter prescribed values.
-- BMC brand color palette includes primary and secondary colors, with RGB, HEX, and CMYK values provided for each. Formula usage is critical: do not alter prescribed values.
-- BMC brand color palette includes primary and secondary colors, with RGB, HEX, and CMYK values provided for each. Formula usage is critical: do not alter prescribed values.
-- BMC brand color palette includes primary and secondary colors, with RGB, HEX, and CMYK values provided for each. Formula usage is critical: do not alter prescribed values.
-
-**Typography Information:**
-
-- Primary typeface for BMC is Freight Sans. Open Sans is the digital substitute, and Calibri for PowerPoint presentations.
-
-**Imagery Photography:**
-
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-- Imagery positions BMC as modern, bold, approachable, with high-contrast colors, lively personas, and photography reflecting diverse tech professionals. Lighting emphasizes contrast without being overly dramatic.
-
-**Notes:**
-
-- BMC provides branding guidelines, editorial style guides, and further queries can be sent to published email contacts.
+*Guidelines data not available*
 
 ### 2018
 
-**Logo Information:**
-
-- The BMC logo consists of two elements: the symbol and the logotype. The symbol is an abstraction of a double helix structure, representing innovation and transformation, with fluid arrows indicating customer-first commitment.
-- The symbol is designed to resemble a capitalized 'B', connecting the BMC name with past and present as the company moves toward the future.
-- Clear space around the logo is determined by the height of the letter 'b' in 'bmc'.
-- The minimum logo size for print is 11 mm wide, and for screen is 40 pixels wide.
-- Proportions of the logo should never be altered, rotated, embellished, or recreated.
-
-**Spacing Layout:**
-
-- Clear space measurements are determined based on the logo’s 'b' character height.
-
-**Notes:**
-
-- The BMC logo is described as simple, bold, and meaningful. It incorporates visual symmetry and details, such as the helix design, symbolizing innovation, flexibility, and strength.
+*Guidelines data not available*
 
 ## Additional Properties
 

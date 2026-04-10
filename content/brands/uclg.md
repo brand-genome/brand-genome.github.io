@@ -2,11 +2,11 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-03-20T08:22:05.564566"
+date: "2026-04-10T09:40:34.482087"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - spain
 years:
@@ -51,20 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - red
-  - "pantone-485"
-  - green
-  - "pantone-431"
-  - "pantone-369"
-  - "pantone-1959"
-typographies:
-  - verdana
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "umbrella organization for cities, local and regional governments, and municipal associations throughout the world"
 wikidata_url: "https://www.wikidata.org/wiki/Q2974854"
 has_twitter: false
@@ -84,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Full logo version with construction and production area rules defined (symbols and logos). Boundary area cannot be invaded by other graphic elements.
-- Reduced logo version with construction elements provided.
-- International logo versions include: original version for general communication, reduced formats without optimal acronym readability, and multilingual versions containing official languages (English, French, Spanish).
-- Incorrect logo usage examples: hollow symbols, dashed outlines, usage of non-corporate colors, or incorrect content format.
-- Specific logo reductions based on height for both printed (millimeters) and digital (pixels) versions.
-
-**Color Information:**
-
-- Main corporate colors include Pantone 369 (CMYK: 65C 0M 100Y 8K; RGB: 67R 234G 0B), Pantone 485 (CMYK: 0C 100M 100Y 0K; RGB: 255R 0G 0B), and Pantone 431 (CMYK: 11C 0M 0Y 65K; RGB: 60R 89G 89B).
-- Secondary corporate colors include Pantone 1959 (CMYK: 0C 72M 92Y 0K; RGB: 236R 98G 33B).
-- Color fade rules defined: linear fade at 54 degrees, transitioning between corporate colors green and red (example gradients provided).
-- Usage presented for logos in full color, single color (positive or negative), with and without outline possibilities.
-- Guidelines for usage on light, dark, photographic, and non-photographic backgrounds.
-
-**Typography Information:**
-
-- Basic typography for logo and communication: ITC Officina Sans Bold for logos; ITC Officina Sans Book for printed texts.
-- Secondary typography: Bebas for titles, highlights, infographics, and special pieces; Verdana for internal PC communications.
-
-**Spacing Layout:**
-
-- Grid areas defined for production and clear boundary zones to ensure optimum visual perception. Example spacings include areas defined as 'x' in relation to logo dimensions.
-- Combined logo spacing maintained at 5mm minimum separation when used together (e.g., UCLG logo + Logo Centenary, or co-brand logos with others such as Rabat 2013).
-
-**Brand Voice:**
-
-- UCLG represents concepts such as network, global/local union, city diversity, and connections. These themes are accentuated in the visual identity and communication tone.
-
-**Notes:**
-
-- The document serves as a foundational guide for maintaining corporate identity across various mediums including local, national, and international communication. Some details may require referencing the actual graphical examples provided as shown in the visual diagrams.
+*Guidelines data not available*
 
 ## Additional Properties
 

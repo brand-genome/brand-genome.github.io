@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-03-20T08:22:04.925964"
+date: "2026-04-10T09:40:33.698392"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - featured
+  - music
 industries: []
 countries:
   - "united-states"
@@ -51,20 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - logomark
-  - alternate
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - dynamic
-  - gradient
+imagery_styles: []
 wikidata_description: online music streaming service
 wikidata_url: "https://www.wikidata.org/wiki/Q16155126"
 has_twitter: false
@@ -82,27 +72,63 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- LOGO & WORDMARK information is introduced, emphasizing both logo and wordmark usage guidelines.
-- PRIMARY LOGOMARK & WORDMARK showcased as the main logo variant.
-- PRIMARY LOGOMARK detailed separately as a standalone or icon-only version.
-- ALTERNATE LOGOMARK & WORDMARK mentioned as a secondary option for logo usage.
+##### Mission
 
-**Color Information:**
+- Not explicitly stated in the document.
 
-- COLOR PALETTE is highlighted as a core branding component.
-- Color weighting and specific roles (Identification & Awareness, Engagement & Experience) are emphasized, with gradients and principles for consistent use.
-- Detailed gradient description including color codes (CMYK, RGB, HEX), Pantone references (e.g., 186C, BLACK C), and guidelines for gradient directions (45-degree top-right to bottom-left).
+##### Target Audience
 
-**Typography Information:**
+- Not explicitly described in the document.
 
-- TYPOGRAPHY section introduces Neuzeit Grotesk font family variations — Black, Bold, Regular — with alphabetical and numerical character sets.
-- Detailed guidance on tracking (-25 for headers, -10 for body copy), leading adjustments, and intentional air spacing for dynamic tension between headers and body text.
+##### Personality Traits
 
-**Notes:**
+- modern
+- minimalist
+- bold
+- vibrant
 
-- Final acknowledgment and note of thanks indicating the end of the brand guidelines.
+##### Visual Identity Overview
+
+- The visual identity centers on a sleek, minimalist design with a strong emphasis on bold typography, vibrant gradient color palettes (red to purple), and a prominent play button icon integrated into the logo. The brand uses clean layouts, high contrast, and contemporary sans-serif fonts to convey a professional and music-focused aesthetic. The logo and wordmark are consistently presented with clear guidelines for safe area, exclusion zone, and color variations, reinforcing clarity and immediate recognition in digital contexts.
+
+#### Categories
+
+##### Brand Imagery
+
+- Gradient Play Button Logo - The image features a circular logo with a gradient color scheme transitioning from deep purple on the lower left to bright red on the upper right. Inside the circle, there is a stylized, bold white letter 'b' that dominates the space. Within the lower portion of the 'b', there is a white play button icon, shaped as a right-pointing triangle. The entire logo has a flat, modern design without additional textures or shadows, emphasizing simplicity and clarity. The background is transparent, allowing the logo to be versatile for various uses.
+- Beats Music Logo - The image features the Beats Music logo, which includes a stylized lowercase 'b' enclosed within a circle on the left, rendered in black. To the right of this emblem, the word 'beats' is displayed in a sleek, modern, lowercase font in black, followed immediately by the word 'MUSIC' in uppercase, bolded, and also in black, emphasizing the brand's focus on music streaming. The background of the entire logo is plain white, providing a stark contrast that highlights the black elements. The overall composition is minimalistic and clean, centering the logo and brand name prominently in the image. The design exudes a contemporary, professional aesthetic associated with digital music brands.
+- Beats Music Logo Design - The image features a sleek, minimalist design with the word 'beats' written in lowercase, black, thin sans-serif font positioned on the left side. To the right of 'beats', the word 'MUSIC' is displayed in uppercase, bold, black font, creating a strong visual contrast. The background is plain white, enhancing the clarity and modern aesthetic of the design. The overall composition emphasizes simplicity and boldness, representing a brand or logo related to music, likely associated with Beats by Dre or similar music/audio products.
+- Media Play Button Icon - The image features a large, solid black circle with a white segment at the top left, creating a crescent shape on the circle's perimeter. Inside this circle, at the center, there is a smaller, white circle that contains a black, right-pointing triangle (play icon) in the middle. The design is minimalist, utilizing contrasting black and white colors to emphasize the play button symbol. The overall shape strongly resembles a traditional media play button icon, suggesting media control or multimedia content, with a focus on simplicity and clarity.
+
+##### Color Palette
+
+- Color plays a critical role in the way that we express our brand.
+- The color gradient reinforces movement and interaction within the interface.
+- The 45° gradient of color reinforces movement and interaction within the interface. The gradient always goes from red in the top right to purple in the bottom left.
+- C74 M89YO KO C64 M82 YO KO C42 M90YO KO CO M100 Y81 K4 CO MOYO KO R101 G45 B176 R137 G39 B142 R137 G39 B142 R227 G24 B55 R255 G255 B255 #652DB0 #89278E #BC1F5D #E31837 #FFFFFF PANTONE 186C 45°
+- C19 M15 Y16 KO R204 G204 B204 #CCcccc
+- C43 M35 Y35 K1 R153 G153 B153 #999999
+- C60 M51 Y51 K20 R102 G102 B102 #666666
+- C72 M66 Y65 K73 R33 G33 B33 #212121
+- CO M0Y0 K100 RO GO BO #000000 PANTONE BLACK C
+
+##### Typography
+
+- Neuzeit Grotesk Black Neuzeit Grotesk Bold Neuzeit Grotesk Regular
+- Neuzeit Grotesk Black/ -25 Tracking/ Tight leading
+- Neuzeit Grotesk Bold and Regular/ -10 Tracking/ Open leading
+- USE CAPS WITH -25 TRACKING. LEADING SHOULD BE NICE AND TIGHT LIKE THIS.
+- Use the Neuzeit Bold where you need something more impactful than the Neuzeit Regular but nor as punchy as Neuzeit Black.
+- Give your type some air. Open up your leading and never use more than -10 tracking for body copy. We want to create some dynamic tension between the big chunky headers and smaller airy body copy.
+
+##### Visual Style
+
+- The image features a circular logo with a gradient color transitioning from deep purple on the lower left to bright red on the upper right. Inside the circle, there is a stylized, bold white letter 'b' that dominates the space. Within the lower portion of the 'b', there is a white play button icon, shaped as a right-pointing triangle. The entire logo has a flat, modern design without additional textures or shadows, emphasizing simplicity and clarity. The background is transparent, allowing the logo to be versatile for various uses.
+- The image features the Beats Music logo, which includes a stylized lowercase 'b' enclosed within a circle on the left, rendered in black. To the right of this emblem, the word 'beats' is displayed in a sleek, modern, lowercase font in black, followed immediately by the word 'MUSIC' in uppercase, bolded, and also in black, emphasizing the brand's focus on music streaming. The background of the entire logo is plain white, providing a stark contrast that highlights the black elements. The overall composition is minimalistic and clean, centering the logo and brand name prominently in the image. The design exudes a contemporary, professional aesthetic associated with digital music brands.
+- The image features a sleek, minimalist design with the word 'beats' written in lowercase, black, thin sans-serif font positioned on the left side. To the right of 'beats', the word 'MUSIC' is displayed in uppercase, bold, black font, creating a strong visual contrast. The background is plain white, enhancing the clarity and modern aesthetic of the design. The overall composition emphasizes simplicity and boldness, representing a brand or logo related to music, likely associated with Beats by Dre or similar music/audio products.
+- The image features a large, solid black circle with a white segment at the top left, creating a crescent shape on the circle's perimeter. Inside this circle, at the center, there is a smaller, white circle that contains a black, right-pointing triangle (play icon) in the middle. The design is minimalist, utilizing contrasting black and white colors to emphasize the play button symbol. The overall shape strongly resembles a traditional media play button icon, suggesting media control or multimedia content, with a focus on simplicity and clarity.
 
 ## Additional Properties
 

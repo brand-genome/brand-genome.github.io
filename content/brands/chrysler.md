@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-03-20T08:22:03.835525"
+date: "2026-04-10T09:40:31.467817"
 draft: false
 sectors:
   - automobile
@@ -26,9 +26,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
   - car
   - "automotive-part"
+  - truck
 products: []
 headquarters_locations:
   - "chrysler-headquarters-and-technology-center"
@@ -83,7 +83,56 @@ visual_term_image_urls: {}
 
 ### 2013
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- The document does not explicitly state a mission or purpose statement for the Chrysler brand.
+
+##### Target Audience
+
+- The document does not provide a description of the target audience.
+
+##### Visual Identity Overview
+
+- Chrysler's visual identity is defined by a uniquely designed and distinctive brand mark, consisting of both the logotype and wing badge. The guidelines emphasize professionalism, simplicity, clarity, and brand focus, with strict rules for logo usage, area of isolation, and approved color palettes. The brand mark must be used in its original form, without modification, and only authorized artwork may be used for reproduction. The preferred visual style is modern, clean, and minimalistic, ensuring high readability and visual impact across all media. Various approved color versions are specified for different applications, and the brand mark's integrity is maintained through consistent use and adherence to guidelines for size, spacing, and reproduction quality [^1].
+
+#### Categories
+
+##### Logo Usage
+
+- The Chrysler brand mark is a uniquely designed and distinctive graphic image. Any alteration weakens its impact and value; modifications to its style, proportions, and letterforms are not permitted. The brand mark must be used correctly, in its original form and only authorized artwork may be used for reproduction.
+- The Chrysler brand mark consists of both the Chrysler brand logotype and the Chrysler brand badge (wing badge).
+- The use of the Chrysler logotype or wing badge separately on communications, advertising and promotional materials is not permitted.*
+- * It is permissible for the Product Design Office to separate the logotype and brand badge on the product.
+- No extraneous elements such as text, photographs, graphic images, or the outside edge of the brand mark’s display surface may encroach within the area of isolation. The area of isolation preserves the legibility and visual impact of the brand mark.
+- The area of isolation or free space for the Chrysler brand mark is equal to two times the height of the “C” in the “Chrysler” brand logotype, (2C), as illustrated.
+- The Chrysler brand mark is not to be combined with another graphic element, e.g., text, illustration or logotype.
+- The Chrysler logotype may not be used in headIines or text.
+- Recognition of the Chrysler brand's company origin may be accomplished through use of a statement or tag Iine such as "A Brand of Chrysler Group LLC." This statement is positioned in a manner which does not interfere with the central brand message.
+- The Chrysler Brand Mark is Not to be Displayed: • Altered with a drop shadow • As a repeated pattern or decorative device • As a screen or tint • Combined with a model nameplate • Combined with elements other than an approved marketing theme line • In poor contrast with the background • Obscured by an overprint • On a background which has texture, pattern or gradation • Outlined • Reversed incorrectly • Rotated or vertical • With altered colors • With modified proportions or positions of the brand logotype or brand badge • With other elements within its area of isolation • In close proximity with the Chrysler Group LLC brand mark • Within a confined shape border or space
+- The brand mark must be used in its original form without modification.
+
+##### Color Palette
+
+- The preferred version of the Chrysler brand mark is the 4-color process, 3-dimensional artwork. It may also be reproduced in a gray scale format.
+- A two color version is available for reproduction, the approved colors for this Chrysler brand mark is PMS® 541 and black.
+- When restricted to one color reproduction, the approved color for the vector Chrysler brand mark is black.
+- The preferred reproduction of the logotype is PMS Cool Gray #7, 37% tint of black, or metallic PMS 877. The logotype may also appear in white or black when poor contrast with the background color causes illegibility.
+
+##### Visual Style
+
+- The Chrysler brand mark is a uniquely designed and distinctive graphic image. Any alteration weakens its impact and value; modifications to its style, proportions, and letterforms are not permitted. The brand mark must be used correctly, in its original form and only authorized artwork may be used for reproduction.
+- The Chrysler brand mark consists of both the Chrysler brand logotype and the Chrysler brand badge (wing badge).
+- The use of the Chrysler logotype or wing badge separately on communications, advertising and promotional materials is not permitted.
+- It is permissible for the Product Design Office to separate the logotype and brand badge on the product.
+- A cardinal rule for the display of the Chrysler brand mark is the area of isolation. No extraneous elements such as text, photographs, graphic images, or the outside edge of the brand mark’s display surface may encroach within the area of isolation. The area of isolation preserves the legibility and visual impact of the brand mark.
+- The area of isolation or free space for the Chrysler brand mark is equal to two times the height of the “C” in the “Chrysler” brand logotype, (2C), as illustrated.
+- The Chrysler brand mark is not to be combined with another graphic element, e.g., text, illustration or logotype.
+- The Chrysler logotype may not be used in headIines or text.
+- Recognition of the Chrysler brand's company origin may be accomplished through use of a statement or tag Iine such as "A Brand of Chrysler Group LLC." This statement is positioned in a manner which does not interfere with the central brand message.
+- The Chrysler Brand Mark is Not to be Displayed: • Altered with a drop shadow • As a repeated pattern or decorative device • As a screen or tint • Combined with a model nameplate • Combined with elements other than an approved marketing theme line • In poor contrast with the background • Obscured by an overprint • On a background which has texture, pattern or gradation • Outlined • Reversed incorrectly • Rotated or vertical • With altered colors • With modified proportions or positions of the brand logotype or brand badge • With other elements within its area of isolation • In close proximity with the Chrysler Group LLC brand mark • Within a confined shape border or space
+- The brand mark must be used in its original form without modification.
 
 ## Additional Properties
 
@@ -93,7 +142,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Chrysler Headquarters And Technology Center](/headquarters_locations/chrysler-headquarters-and-technology-center/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Founded By | Walter Percy Chrysler Sr. |

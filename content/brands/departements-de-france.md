@@ -2,7 +2,7 @@
 title: Départements de France
 slug: "departements-de-france"
 description: ""
-date: "2026-03-20T08:22:04.561551"
+date: "2026-04-10T09:40:33.372025"
 draft: false
 sectors:
   - "public-sector"
@@ -46,20 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - "pantone-485"
-  - white
-  - blue
-  - "pantone-2935"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,23 +68,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo versions: Original (centered) version recommended as the default; Horizontal version allowed only for secondary usage.
-- Logo declination guidelines: Main logo primarily to be used in blue (Pantone 2935 C), red (Pantone 485 C), and white. Variants include: - Blue and red on white background. - White logo on red, blue, or multi-colored background. - Red and white on darker backgrounds. - Monochrome blue logo on lighter backgrounds.
-- Authorized logo color usage includes: - Full color (blue and red) in white cartouche - Reserved white logo, contrasting well against backgrounds
-- Minimum safe zone: Protection margins required. Margin 'x' equals 1/4 of the logo width. Cartouche forms part of the safe zone and must not be altered.
-- Incorrect usage examples: Avoid distortions, rotations, incorrect proportions, unapproved contouring, and lack of adherence to safe-zone rules.
-
-**Color Information:**
-
-- Color specifications: - Pantone codes: Blue (Pantone 2935 C), red (Pantone 485 C) - CMYK: Blue (89/59/0/0), red (0/97/100/0) - RGB: Blue (47/97/171), red (228/27/19) - Direct Tone: Blue and Red - Black (100%) option available.
-- Primary color schemes: Blue, red, and white. Secondary/declination-approved palettes depend on background requirements. Examples include monochrome white, monochrome blue.
-
-**Spacing Layout:**
-
-- Grid layout and spacing: A 1/4-width of logo defines the protection zone. Cartouche (white square frame) serves as background and a set protection area. No elements may overlap this zone.
-
-**Notes:**
-
-- General branding guideline notes include abstaining from any distortion, proportion modification, misalignment, or use of unofficial colors and outlines for logos.
+*Guidelines data not available*

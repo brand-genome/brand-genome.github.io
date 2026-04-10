@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-03-20T08:22:04.307487"
+date: "2026-04-10T09:40:32.996875"
 draft: false
 sectors:
   - university
@@ -53,23 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - wordmark
-  - primary
-  - alternate
-brand_colors:
-  - "pantone-187"
-  - "pantone-485"
-  - white
-  - black
-typographies:
-  - slab
-imagery_styles:
-  - bold
-  - dynamic
-  - vibrant
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private liberal arts university in Delaware, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q194266"
 has_twitter: false
@@ -90,40 +77,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- OWU logo is often anchored to another design element such as margin, color block, or photo. Commonly accompanied by punch lines like 'Since 1842. Still Insatiable.', 'Home for Hungry Minds.', 'Always Hungry.', 'How’s Your Appetite?', 'Open Wide.', 'Omnivores Wanted.', 'Be Ravenous.' The punch lines are aligned differently (e.g., base, outside margin, or centered on the logo) and avoid competing with the main message.
-- Oh-Woodles are visual patterns denoting social and intellectual hunger, used with at least two edges bleeding off to depict unrestrained ideas. Dotted lines may connect them to represent community connections. Specific design context and judicious use are recommended.
-- Oh-Woooo! is a special wordmark used for emphasis. Can be styled in all caps or sentence case, stacked, or in one line, applied with or without Oh-Woodles.
-
-**Color Information:**
-
-- Primary colors include Pantone 187 C (C:5 M:100 Y:71 K:22; RGB: 167, 25, 48; HEX: #A71930), Pantone Black (C:0 M:0 Y:0 K:100; RGB: 30, 30, 30; HEX: #1E1E1E), and Pantone 485 C (C:0 M:93 Y:95 K:0; RGB: 213, 43, 30; HEX: #D52B1E). Additional colors include Pantone 390C, 1235C, 151C, 3135C, and 267C. Colors differentiate OWU from others while maintaining dynamism and a vibrant tone.
-- Formal communications primarily use Pantone 187, Black, and Pantone 485. Casual materials may integrate warmer shades like PMS 151, PMS 1235, and cooler tones like PMS 390, 3135, and 267.
-
-**Typography Information:**
-
-- Fonts include Veneer (regular and italics) for short headlines in informal materials, Kievit Slab Pro (book, book italics, bold, and bold italics) for longer headlines and subheads, Kievit (regular, italics, bold, and bold italics) for readable text, Alternate Gothic Two for formal materials headlines, and Freeland for emphasis.
-
-**Imagery Photography:**
-
-- Photography should represent the hunger, drive, dedication, and diversity of OWU's community. Include dynamic and asymmetrical compositions with potential retouching to add intensity and grit.
-- Photography retouching process involves duplicating layers, adjusting levels and brightness/contrast, adding grain texture, and adjusting opacity to increase drama and intensity while avoiding overly dark images.
-
-**Spacing Layout:**
-
-- Design supports dynamic asymmetry with unconstrained elements, uneven borders, and overlapping translucent color blocks. Headlines are often set in all-caps Veneer in white or combined with other font types for contrast.
-
-**Brand Voice:**
-
-- Voice should make OWU appear smart, open-minded, inclusive, relevant, confident, energetic, and welcoming. Humor is used contextually to enhance energy.
-- Adapt tone based on audience, varying from informal (current/prospective students, young alumni) to formal (older alumni, donors, peer institutions).
-- Copy emphasizes storytelling with a focus on hunger, action-oriented writing, surprising language, and concise storytelling to convey strong brand messages.
-
-**Notes:**
-
-- This toolkit is meant to be a flexible, evolving guide focused on enabling consistent brand communication across all touchpoints.
-- Key brand elements include essence (passion for learning), promise (freedom to follow passion), values (connections, diversity, optimism), attributes (smart, passionate, engaged), and theme (hunger).
+*Guidelines data not available*
 
 ## Additional Properties
 

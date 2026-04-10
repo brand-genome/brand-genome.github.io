@@ -2,11 +2,11 @@
 title: Research Luxembourg
 slug: "research-luxembourg"
 description: ""
-date: "2026-03-20T08:22:04.419559"
+date: "2026-04-10T09:40:33.164709"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
 regions:
   - luxembourg
 years:
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,47 +69,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Color Information:**
-
-- Color codes include Pantone, RGB, and CMYK formats for maintaining stylistic consistency.
-
-**Typography Information:**
-
-- Typography section describes font families and potential applications for headlines, body text, and other use cases.
-
-**Imagery Photography:**
-
-- Imagery rules focus on visual aesthetics, with guidelines for iconography or photography usage according to brand principles.
-
-**Spacing Layout:**
-
-- Guidelines for spacing and layout maintain consistent design alignment. Includes logo-proportional margins and visible structure rules.
-
-**Notes:**
-
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
-- Content spans branding hierarchy. Adjacent refinement steps may clarify overlaps.
+*Guidelines data not available*

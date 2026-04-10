@@ -2,7 +2,7 @@
 title: US Soccer Federation
 slug: "us-soccer-federation"
 description: ""
-date: "2026-03-20T08:22:05.420378"
+date: "2026-04-10T09:40:34.293284"
 draft: false
 sectors:
   - sports
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - horizontal
-brand_colors:
-  - red
-  - navy
-  - white
-  - blue
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,36 +68,93 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The U.S. Soccer Federation Referee Program logo must be surrounded with a minimum amount of clear space, referred to as the 'area of isolation.' This area is defined as a space equal to the horizontal width of the 'A' in the logo.
-- Minimum logo size for print is three-quarters of an inch. Minimum logo size for digital spaces is 100 pixels horizontally. The logo must never be reproduced in a size that makes the typography illegible.
-- Partner logo lockups must balance size and weight in the hierarchy. They must maintain clear space around both logos, ensuring legibility.
-- Misuse guidelines include NOT altering typefaces, background colors, color usage, proportions, text size/orientation, logo shapes, or using non-brand colors, tints, or transparency.
-- Do not stretch, skew, or distort the logo in any way. Do not retypeset text or alter logo shapes.
+##### Visual Identity Overview
 
-**Color Information:**
+- The visual identity centers on a circular emblem featuring a shield with 'USA' in bold navy blue letters and vertical red and white stripes, evoking a patriotic and official appearance. The color palette is strictly defined (black, white, navy blue, red), and the typography uses USSF 90 Min Display in various styles. Logo usage is highly regulated, including clear space, minimum size, and strict rules against alteration. Partner logo lockups require careful sizing and spacing for legibility and hierarchy. The brand emphasizes consistency and clarity in all visual communications [^1].
 
-- Approved colors include:
-- Red: Pantone PMS C (CMYK: C:16, M:100, Y:87, K:6; RGB: R:194, G:0, B:47; HEX: #C2002F)
-- White: (CMYK: C:0, M:0, Y:0, K:0; RGB: R:255, G:255, B:255; HEX: #FFFFFF)
-- Navy Blue: Pantone 200c (CMYK: C:90, M:82, Y:45, K:47; RGB: R:34, G:41, B:68; HEX: #212844)
-- Black: (CMYK: C:0, M:0, Y:0, K:100; RGB: R:0, G:0, B:0; HEX: #000000)
+#### Categories
 
-**Typography Information:**
+##### Logo Usage
 
-- Font family: USSF 90 Min Display (used in all U.S. Soccer Referee Program logos, lockups, and badges).
-- Available styles of the USSF 90 Min Display font include: Thin, Light, Medium, Bold, Black, Ultra.
+- To ensure the legibility of the U.S. Soccer Federation Referee Program logo, it must be surrounded with a minimum amount of clear space. This area is referred to as the "area of isolation." It is to remain free of trim or surface edges, typography, rule lines, folds or any graphic elements that may detract attention and lessen the overall visual impact. The diagrams on this page demonstrate the imaginary border lines of the area of isolation, expressed in terms of "x," which is equal is the horizontal width of the "A".
+- To preserve legibility and consistency, the logo must never be reproduced in a size that makes the typography illegible. The minimum logo size is measured by the horizontal dimension of the logo. The smallest size in print is three-quarters of an inch and in digital spaces is one hundred pixels. This minimum size must never be violated.
+- USSF 90 Min Display is the typeface to be used in all U.S. Soccer Referee Program logos, logo lockups and badges.
+- Below are the approved U.S. Soccer Referee Pantone Matching System (PMS) colors and their CMYK, RGB and web safe (HEX #) color breakdowns. All design elements that feature the colors of the brand should adhere to the exact specifications listed below. Use only approved colors in design to ensure proper printing.
+- The U.S. Soccer Referee logo will need to be used with partner logos for advertising, marketing and signage purposes. When creating a horizontal lockup, it is imperative to follow the sizing guidelines shown below to maintain clear space and room around both logos as well as the entire lockup for legibility and effectiveness. When sizing the width of the partner logo, make sure the size relationship between itself and the U.S. Soccer Referee logo is even in weight and hierarchy.
+- The following are acceptable for logo lockup usage: • Website • Email Signature • Letterhead & Stationery • Social Channels • State Referee Program Newsletters
+- The following are NOT acceptable for logo lockup usage: • Cloth • Apparel • Merchandise
+- The logo must not be altered or distorted in any way. The effectiveness of the brand depends on consistent usage as outlined in this guide.
+- Do not stretch, skew or alter proportions
+- Do not alter logo shapes or orientation
+- Do not use in outline
+- Do not alter black background color
+- Do not alter color or use on non-brand colors
+- Do not tint or use a transparency of the logo
+- Do not alter retypeset text
+- Do not alter typeface
+- Do not alter text size or orientation
 
-**Spacing Layout:**
+##### Color Palette
 
-- Logo clear space (area of isolation) and size guidelines: Maintain a space equal to the horizontal width of the 'A'.
-- Partner logos in lockups must maintain even space, size relationship balance, and adherence to clear space rules for legibility and effectiveness.
+- Below are the approved U.S. Soccer Referee Pantone Matching System (PMS) colors and their CMYK, RGB and web safe (HEX #) color breakdowns. All design elements that feature the colors of the brand should adhere to the exact specifications listed below. Use only approved colors in design to ensure proper printing.
+- 200c
+- C 16 M 100 Y 87 K 6 R 194 G 0 B 47
+- HEX# C2002F
+- White
+- C 0 M 0 Y 0 K 0
+- R 255 G 255 B 255
+- HEX# FFFFFF
+- 533c
+- Black
+- C 90 M 82 Y 45 K 47
+- R 34 G 41 B 68
+- HEX# 212844
+- C 0 M 0 Y 0 K 100
+- R 0 G 0 B 0
+- HEX# 000000
+- Do not alter black background color
+- Do not alter color or use on non-brand colors
+- Do not tint or use a transparency of the logo
 
-**Brand Voice:**
+##### Typography
 
-- In marketing materials, the full brand name 'U.S. Soccer Federation Referee Program' should be used on first mention, followed by 'U.S. Soccer Referee Program' in subsequent mentions. Both phrases should use initial capitals.
+- USSF 90 Min Display is the typeface to be used in all U.S. Soccer Referee Program logos, logo lockups and badges.
+- USSF 90 MIN DISPLAY BLACK ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+- USSF 90 MIN DISPLAY STYLES: THIN LIGHT MEDIUM BOLD BLACK ULTRA
+- Do not alter retypeset text
+- Do not alter typeface
+- Do not alter text size or orientation
 
-**Notes:**
+##### Visual Style
 
-- All designs using the U.S. Soccer Referee Program logo must be approved by the U.S. Soccer Marketing Department.
+- To ensure the legibility of the U.S. Soccer Federation Referee Program logo, it must be surrounded with a minimum amount of clear space. This area is referred to as the "area of isolation." It is to remain free of trim or surface edges, typography, rule lines, folds or any graphic elements that may detract attention and lessen the overall visual impact. The diagrams on this page demonstrate the imaginary border lines of the area of isolation, expressed in terms of "x," which is equal is the horizontal width of the "A".
+- To preserve legibility and consistency, the logo must never be reproduced in a size that makes the typography illegible. The minimum logo size is measured by the horizontal dimension of the logo. The smallest size in print is three-quarters of an inch and in digital spaces is one hundred pixels. This minimum size must never be violated.
+- USSF 90 Min Display is the typeface to be used in all U.S. Soccer Referee Program logos, logo lockups and badges.
+- USSF 90 MIN DISPLAY STYLES: THIN LIGHT MEDIUM BOLD BLACK ULTRA
+- Below are the approved U.S. Soccer Referee Pantone Matching System (PMS) colors and their CMYK, RGB and web safe (HEX #) color breakdowns. All design elements that feature the colors of the brand should adhere to the exact specifications listed below. Use only approved colors in design to ensure proper printing.
+- 200c C 16 M 100 Y 87 K 6 R 194 G 0 B 47 HEX# C2002F
+- White C 0 M 0 Y 0 K 0 R 255 G 255 B 255 HEX# FFFFFF
+- 533c
+- Black C 90 M 82 Y 45 K 47 R 34 G 41 B 68 HEX# 212844
+- C 0 M 0 Y 0 K 100 R 0 G 0 B 0 HEX# 000000
+- When creating a horizontal lockup, it is imperative to follow the sizing guidelines shown below to maintain clear space and room around both logos as well as the entire lockup for legibility and effectiveness. When sizing the width of the partner logo, make sure the size relationship between itself and the U.S. Soccer Referee logo is even in weight and hierarchy.
+- The following are acceptable for logo lockup usage: • Website • Email Signature • Letterhead & Stationery • Social Channels • State Referee Program Newsletters
+- The following are NOT acceptable for logo lockup usage: • Cloth • Apparel • Merchandise
+- The logo must not be altered or distorted in any way. The effectiveness of the brand depends on consistent usage as outlined in this guide.
+- Do not stretch, skew or alter proportions
+- Do not alter logo shapes or orientation
+- Do not use in outline
+- Do not alter black background color
+- Do not alter color or use on non-brand colors
+- Do not tint or use a transparency of the logo
+- Do not alter retypeset text
+- Do not alter typeface
+- Do not alter text size or orientation
+
+##### Brand Partnerships
+
+- The U.S. Soccer Referee logo will need to be used with partner logos for advertising, marketing and signage purposes. When creating a horizontal lockup, it is imperative to follow the sizing guidelines shown below to maintain clear space and room around both logos as well as the entire lockup for legibility and effectiveness. When sizing the width of the partner logo, make sure the size relationship between itself and the U.S. Soccer Referee logo is even in weight and hierarchy.
+- The following are acceptable for logo lockup usage: • Website • Email Signature • Letterhead & Stationery • Social Channels • State Referee Program Newsletters
+- The following are NOT acceptable for logo lockup usage: • Cloth • Apparel • Merchandise

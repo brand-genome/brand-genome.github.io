@@ -2,7 +2,7 @@
 title: Century 21
 slug: "century-21"
 description: ""
-date: "2026-03-20T08:22:03.125055"
+date: "2026-04-10T09:40:30.635329"
 draft: false
 sectors:
   - "real-estate"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "real-estate"
   - featured
+  - "real-estate"
 industries: []
 countries:
   - "united-states"
@@ -159,11 +159,455 @@ visual_term_image_urls: {}
 
 ### 2018
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Defy mediocrity and deliver extraordinary experiences, aiming to be the most sought-after real estate brand in the world [^1].
+
+##### Core Values
+
+- Persistence
+- Accountability
+- Optimism
+- Collaboration
+- Tenacity
+- Devotion
+- Constant evolution
+- Innovation
+- Improvement
+
+##### Target Audience
+
+- Agents, brokers, real estate companies, and homeowners who demand more and seek leadership and change in the industry [^2].
+
+##### Personality Traits
+
+- Challenger
+- Leader
+- Bold
+- Sophisticated
+- Modern
+- Relentless
+
+##### Visual Identity Overview
+
+- The brand emphasizes a sleek, modern, and minimalist visual style with bold typography, clear layouts, and a refined color palette centered on gold, grey, and black. The logo and seal are used as primary and secondary assets, with strict guidelines for their usage and clear space. Patterns and typography are carefully curated to maintain visual integrity and flexibility [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- So, like any aging pioneer, we’re faced with two options: Lead the change, or be left in the dust.
+- So we’re calling out the industry we built. The agents and brokers of the world — with a charge to be better, starting with ourselves. Because if we’re not willing to exceed the highest expectations of buyers and sellers, then we don’t deserve to be here at all.
+- We bar no holds. And we’re not afraid to burn a house down if that house needs to be rebuilt.
+- We’re putting the industry on blast for the sake of the industry. Our posture is that of a leader, not of a bully.
+- We’re a challenger—challenging agents to be better, challenging real estate companies to meet us on our level, and challenging homeowners to demand more. We are agents of change.
+- Don’t come for our throne.
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Brand Imagery
+
+- The image should feature a dark, possibly black or charcoal gray background to give a sleek and modern appearance. In the upper right corner, there should be a large, prominent circle outline, which is partially open on the right side, and inside it, the number '21' should be displayed in bold, beige or light tan-colored font. The number '21' should be centered within the circle. On the left side, roughly occupying the middle portion of the image, there should be the word 'CENTURY' in uppercase, white, bold letters, with the number '21' written as a smaller size directly following it, separated by a small space, collectively forming 'CENTURY 21.' beneath this, in smaller uppercase beige or tan font, the words 'MASTERMIND GUIDELINES' should be placed. Finally, at the bottom right corner, there should be a very small line of text in beige or tan, which appears to be some form of accreditation, timestamp, or reference number, with a format similar to '© 2023 www.21.com'. The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+
+##### Color Palette
+
+- COLOR PALETTE PRIMAR Y: RELENTLESS GOLD OBSESSED GREY SECOND ARY: D ARK GOLD LIGHT GREY MEDIUM GREY
+- Metallic inks for specialty use only.
+- PMS colors where spot printing is available.
+- 9121 Sawgrass Basket Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- SPECIALTY METALLIC C 22 M 22 Y 46 K 7 R 190 G 175 B 135
+- BEAF 87 RELENTLES S G O LD PANT ONE* RELENT LESS GOLD
+- 7069 Iron Ore Sherwin Williams FOR INTERIOR S, EXTERIOR S, AND SIGN POSTS USE: #252526 R 37 G 37 B 38 C 0 M 0 Y 0 K 90
+- OBSESSED GREY PMS Coated Bl ac k 7 & Un c oa t ed PANT ONE*
+- 9123 Barro Verde Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: # A 1927 6
+- GOLD C 36 M 36 Y 56 K 6 R 161 G 146 B 118
+- DARK D AR K G O L D
+- 2849 Westchester Gray Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: #808285 C 0 M 0 Y 0 K 60 R 128 G 130 B 133
+- MEDIUM GREY MEDIUM G R E Y For sign posts only, a white post may be used as a subsitute for 7070 Site White. 7070 Site White Sherwin Williams AND SIGN POSTS USE: FOR INTERIOR S, EXTERIOR S, #E6E7E8 C 0 M 0 Y 0 K 10 R 230 G 231 B 232
+- LIGHT Y L I GH T G R E
+
+##### Typography
+
+- abcdefg hijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789
+- TYPOLD REGULAR
+- Headlines + Subheads TYPOLD
+- T YPO L DB O L D
+- PRIMAR Y: TYPOLD
+- Headline ALT + Subhead ALT
+- TYPOLD EXTENDED
+- Headlines + Short DBA + Short Modifiers
+- TYPOLD EXTENDED MEDIUM
+- TYPOLDEXTENDED REGULAR
+- Headlines + Subheads
+- TYPOLDEXTENDED BOLD
+- TYPOLD CONDENSED REGULAR
+- Headlines + Long DBA + Long Modifiers
+- TYPOLD CONDENSED
+- PRIMAR Y: TYPOLD CONDENSED
+- Headlines
+- TYPOLDCONDENSED MEDIUM
+- In situations where Oakes cannot be used, the font Arial Regular is an approved alternative.
+- OA K E S R E G U L A R
+- Body Copy
+- Oakes
+- PRIMAR Y: OAKES
+- O A K E S B O L D
+- REGULAR SEMI CONDENSED B A R L OW
+- Numbers + Taglines + Legal BARLOW SEMICONDENSED
+- PRIMAR Y: SEMI CON DENS ED BARLOW
+- Headline ALT
+- SEMI CONDENSED MEDIUM
+- B A R L OW
+
+##### Logo Usage
+
+- The new CENTURY 21® Wordmark is our greatest asset and symbol of leadership as we move forward. It is to be locked up with the DBAs only. It is never to be locked up with the Seal unless explicitly specified within these guidelines.
+- MINIMUM SIZE: 1in.
+- PLACEMENT AND SCALE OF THE REGISTRATION MARK: ® HEIGHT =1X
+- CLEAR SPACE AROUND WORD MARK: X .5 ofX
+- The Seal is a secondary asset within this design system. It is the visual expression of the CENTURY 21® gold standard and serves as a simple, timeless and intuitive seal of approval. Please adhere to the rules outlined in the following pages.
+- Because the Seal is a secondary asset and not the primary logo, it should never locked up with the Wordmark unless it is is specified within the design templates provided in these guidelines.
+- MINIMUM SIZE: .25in.
+- CLEAR SPACE AROUND THE SEAL: X .5 ofX
+- Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- DO NOT: • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- These are the different ways to lock up your DBA with the Wordmark.
+- S TR U C TU R E & CLEAR SPA CE
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
+- Metallic inks for specialty use only. PMS colors where spot printing is available.
+- FOR INTERIOR S AND EXTERIOR S USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- FOR INTERIOR S, EXTERIOR S, AND SIGN POSTS USE: #252526
+- FOR INTERIOR S AND EXTERIOR S USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: #A19276
+- FOR INTERIOR S AND EXTERIOR S USE: #808285
+- For sign posts only, a white post may be used as a subsitute for 7070 Site White.
+
+##### Tone And Messaging
+
+- For decades, Century 21 Real Estate owned the homeowning game. Then the DIYers and Onliners came around to change the game itself. So, like any aging pioneer, we’re faced with two options: Lead the change, or be left in the dust.
+- So we’re calling out the industry we built. The agents and brokers of the world — with a charge to be better, starting with ourselves. Because if we’re not willing to exceed the highest expectations of buyers and sellers, then we don’t deserve to be here at all.
+- We bar no holds. And we’re not afraid to burn a house down if that house needs to be rebuilt.
+- We’re putting the industry on blast for the sake of the industry. Our posture is that of a leader, not of a bully.
+- We’re a challenger—challenging agents to be better, challenging real estate companies to meet us on our level, and challenging homeowners to demand more. We are agents of change.
+- Don’t come for our throne.
+- Be the most sought-after real estate brand in the world.
+- DEFY MEDIOCRITY
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Brand Values
+
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Visual Style
+
+- The image should feature a dark, possibly black or charcoal gray background to give a sleek and modern appearance. In the upper right corner, there should be a large, prominent circle outline, which is partially open on the right side, and inside it, the number '21' should be displayed in bold, beige or light tan-colored font. The number '21' should be centered within the circle. On the left side, roughly occupying the middle portion of the image, there should be the word 'CENTURY' in uppercase, white, bold letters, with the number '21' written as a smaller size directly following it, separated by a small space, collectively forming 'CENTURY 21.' beneath this, in smaller uppercase beige or tan font, the words 'MASTERMIND GUIDELINES' should be placed. Finally, at the bottom right corner, there should be a very small line of text in beige or tan, which appears to be some form of accreditation, timestamp, or reference number, with a format similar to '© 2023 www.21.com'. The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+- Reduce and refine
+- Negative space is positive space
+- Not all information is equally important
+- Quality over quantity
+- Elevate the brand at every touchpoint
+- Hierarchy is a systematic arrangement of items according to relative importance. All information cannot and should not be treated equally in prominence or placement because this results in information overload and tune-out rather than comprehension.
+- The contrast of color, scale of elements and size of typography have all been pressure-tested and approved.
+- Any new layouts should follow the system outlined in these guidelines.
+- The new CENTURY 21® Wordmark is our greatest asset and symbol of leadership as we move forward.
+- It is to be locked up with the DBAs only.
+- It is never to be locked up with the Seal unless explicitly specified within these guidelines.
+- MINIMUM SIZE: 1in.
+- PLACEMENT AND SCALE OF THE REGISTRATION MARK: ® HEIGHT =1X
+- CLEAR SPACE AROUND WORD MARK: X .5 ofX
+- The Seal is a secondary asset within this design system. It is the visual expression of the CENTURY 21® gold standard and serves as a simple, timeless and intuitive seal of approval. Please adhere to the rules outlined in the following pages.
+- Because the Seal is a secondary asset and not the primary logo, it should never locked up with the Wordmark unless it is is specified within the design templates provided in these guidelines.
+- MINIMUM SIZE: .25in.
+- CLEAR SPACE AROUND THE SEAL: X .5 ofX
+- *Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- DO NOT: • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- Company Name CHARACTER LIMIT 20
+- Really Long Company Name ALIGNMENT 45 2 CHARACTER MAX NO. LIMIT LINES
+- Really Rare Extremely Long Company Name ALIGNMENT 45 2 CHARACTER MAX NO. LIMIT LINES
+- PRIMARY DBA EXTREME HORIZONTAL STRUCTURE & CLEAR SPACE .5 of Y X ALIGNMENT TYPOGRAPHY Y .5 of X Company .5 of X .75 of X 45 3 CHARACTER MAX NO. LIMIT LINES
+- SECONDARY DBA CENTER ALIGNED CHARACTER LIMIT 20
+- Really Long Company Name ALIGNMENT CENTER 45 2 CHARACTER MAX NO. LIMIT LINES
+- Really Rare Extremely Long Company Name ALIGNMENT CENTER 45 2 CHARACTER LIMIT
+- Global CHARACTER LIMIT 20
+- PRIMARY MODIFIER EXTREME HORIZONTAL 45 3 CHARACTER MAX NO. LIMIT LINES
+- SECONDARY MODIFIER CENTER ALIGNED CHARACTER LIMIT 20
+- PATTERNS: As a general rule, the elements in the pattern should not be cropped on the vertical axis. Where needed, the pattern may be cropped on the horizontal axis at the top and bottom of the 21. Always make sure that the 21 reads correctly and is not flipped or rotated.
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
+- COLOR PALETTE PRIMARY: RELENTLESS GOLD OBSESSED GREY SECONDARY: DARK GOLD LIGHT GREY MEDIUM GREY
+- Metallic inks for specialty use only.
+- PMS colors where spot printing is available.
+- FOR INTERIORS AND EXTERIORS USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- SPECIALTY METALLIC C 22 M 22 Y 46 K 7 R 190 G 175 B 135
+- RELENTLESS GOLD PANTONE* RELENTLESS GOLD
+- FOR INTERIORS, EXTERIORS, AND SIGN POSTS USE: #252526 R 37 G 37 B 38 C 0 M 0 Y 0 K 90
+- OBSESSED GREY PMS Coated Black 7 & Uncoated PANTONE*
+- FOR INTERIORS AND EXTERIORS USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: #A19276 GOLD C 36 M 36 Y 56 K 6 R 161 G 146 B 118
+- DARK GOLD 2849 Westchester Gray Sherwin Williams FOR INTERIORS AND EXTERIORS USE: #808285 C 0 M 0 Y 0 K 60 R 128 G 130 B 133
+- MEDIUM GREY *For sign posts only, a white post may be used as a substitute for 7070 Site White. 7070 Site White Sherwin Williams AND SIGN POSTS USE: #E6E7E8 C 0 M 0 Y 0 K 10 R 230 G 231 B 232
+
+##### Layout And Composition
+
+- The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+- Hierarchy is a systematic arrangement of items according to relative importance. All information cannot and should not be treated equally in prominence or placement because this results in information overload and tune-out rather than comprehension.
+- Throughout the new brand identity system, every bit of information has been carefully thought through and purposefully arranged.
+- The contrast of color, scale of elements and size of typography have all been pressure-tested and approved.
+- Any new layouts should follow the system outlined in these guidelines.
+- Reduce and refine
+- Negative space is positive space
+- Not all information is equally important
+- Quality over quantity
+- Elevate the brand at every touchpoint
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- These are some examples of how not to treat the Seal and Wordmark. • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- As a general rule, the elements in the pattern should not be cropped on the vertical axis. Where needed, the pattern may be cropped on the horizontal axis at the top and bottom of the 21. Always make sure that the 21 reads correctly and is not flipped or rotated.
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
 
 ### UNKNOWN
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Defy mediocrity and deliver extraordinary experiences, aiming to be the most sought-after real estate brand in the world [^1].
+
+##### Core Values
+
+- Persistence
+- Accountability
+- Optimism
+- Collaboration
+- Tenacity
+- Devotion
+- Constant evolution
+- Innovation
+- Improvement
+
+##### Target Audience
+
+- Agents, brokers, real estate companies, and homeowners who demand more and seek leadership and change in the industry [^2].
+
+##### Personality Traits
+
+- Challenger
+- Leader
+- Bold
+- Sophisticated
+- Modern
+- Relentless
+
+##### Visual Identity Overview
+
+- The brand emphasizes a sleek, modern, and minimalist visual style with bold typography, clear layouts, and a refined color palette centered on gold, grey, and black. The logo and seal are used as primary and secondary assets, with strict guidelines for their usage and clear space. Patterns and typography are carefully curated to maintain visual integrity and flexibility [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- So, like any aging pioneer, we’re faced with two options: Lead the change, or be left in the dust.
+- So we’re calling out the industry we built. The agents and brokers of the world — with a charge to be better, starting with ourselves. Because if we’re not willing to exceed the highest expectations of buyers and sellers, then we don’t deserve to be here at all.
+- We bar no holds. And we’re not afraid to burn a house down if that house needs to be rebuilt.
+- We’re putting the industry on blast for the sake of the industry. Our posture is that of a leader, not of a bully.
+- We’re a challenger—challenging agents to be better, challenging real estate companies to meet us on our level, and challenging homeowners to demand more. We are agents of change.
+- Don’t come for our throne.
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Brand Imagery
+
+- The image should feature a dark, possibly black or charcoal gray background to give a sleek and modern appearance. In the upper right corner, there should be a large, prominent circle outline, which is partially open on the right side, and inside it, the number '21' should be displayed in bold, beige or light tan-colored font. The number '21' should be centered within the circle. On the left side, roughly occupying the middle portion of the image, there should be the word 'CENTURY' in uppercase, white, bold letters, with the number '21' written as a smaller size directly following it, separated by a small space, collectively forming 'CENTURY 21.' beneath this, in smaller uppercase beige or tan font, the words 'MASTERMIND GUIDELINES' should be placed. Finally, at the bottom right corner, there should be a very small line of text in beige or tan, which appears to be some form of accreditation, timestamp, or reference number, with a format similar to '© 2023 www.21.com'. The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+
+##### Color Palette
+
+- COLOR PALETTE PRIMAR Y: RELENTLESS GOLD OBSESSED GREY SECOND ARY: D ARK GOLD LIGHT GREY MEDIUM GREY
+- Metallic inks for specialty use only.
+- PMS colors where spot printing is available.
+- 9121 Sawgrass Basket Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- SPECIALTY METALLIC C 22 M 22 Y 46 K 7 R 190 G 175 B 135
+- BEAF 87 RELENTLES S G O LD PANT ONE* RELENT LESS GOLD
+- 7069 Iron Ore Sherwin Williams FOR INTERIOR S, EXTERIOR S, AND SIGN POSTS USE: #252526 R 37 G 37 B 38 C 0 M 0 Y 0 K 90
+- OBSESSED GREY PMS Coated Bl ac k 7 & Un c oa t ed PANT ONE*
+- 9123 Barro Verde Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: # A 1927 6
+- GOLD C 36 M 36 Y 56 K 6 R 161 G 146 B 118
+- DARK D AR K G O L D
+- 2849 Westchester Gray Sherwin Williams FOR INTERIOR S AND EXTERIOR S USE: #808285 C 0 M 0 Y 0 K 60 R 128 G 130 B 133
+- MEDIUM GREY MEDIUM G R E Y For sign posts only, a white post may be used as a subsitute for 7070 Site White. 7070 Site White Sherwin Williams AND SIGN POSTS USE: FOR INTERIOR S, EXTERIOR S, #E6E7E8 C 0 M 0 Y 0 K 10 R 230 G 231 B 232
+- LIGHT Y L I GH T G R E
+
+##### Typography
+
+- abcdefg hijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789
+- TYPOLD REGULAR
+- Headlines + Subheads TYPOLD
+- T YPO L DB O L D
+- PRIMAR Y: TYPOLD
+- Headline ALT + Subhead ALT
+- TYPOLD EXTENDED
+- Headlines + Short DBA + Short Modifiers
+- TYPOLD EXTENDED MEDIUM
+- TYPOLDEXTENDED REGULAR
+- Headlines + Subheads
+- TYPOLDEXTENDED BOLD
+- TYPOLD CONDENSED REGULAR
+- Headlines + Long DBA + Long Modifiers
+- TYPOLD CONDENSED
+- PRIMAR Y: TYPOLD CONDENSED
+- Headlines
+- TYPOLDCONDENSED MEDIUM
+- In situations where Oakes cannot be used, the font Arial Regular is an approved alternative.
+- OA K E S R E G U L A R
+- Body Copy
+- Oakes
+- PRIMAR Y: OAKES
+- O A K E S B O L D
+- REGULAR SEMI CONDENSED B A R L OW
+- Numbers + Taglines + Legal BARLOW SEMICONDENSED
+- PRIMAR Y: SEMI CON DENS ED BARLOW
+- Headline ALT
+- SEMI CONDENSED MEDIUM
+- B A R L OW
+
+##### Logo Usage
+
+- The new CENTURY 21® Wordmark is our greatest asset and symbol of leadership as we move forward. It is to be locked up with the DBAs only. It is never to be locked up with the Seal unless explicitly specified within these guidelines.
+- MINIMUM SIZE: 1in.
+- PLACEMENT AND SCALE OF THE REGISTRATION MARK: ® HEIGHT =1X
+- CLEAR SPACE AROUND WORD MARK: X .5 ofX
+- The Seal is a secondary asset within this design system. It is the visual expression of the CENTURY 21® gold standard and serves as a simple, timeless and intuitive seal of approval. Please adhere to the rules outlined in the following pages.
+- Because the Seal is a secondary asset and not the primary logo, it should never locked up with the Wordmark unless it is is specified within the design templates provided in these guidelines.
+- MINIMUM SIZE: .25in.
+- CLEAR SPACE AROUND THE SEAL: X .5 ofX
+- Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- DO NOT: • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- These are the different ways to lock up your DBA with the Wordmark.
+- S TR U C TU R E & CLEAR SPA CE
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
+- Metallic inks for specialty use only. PMS colors where spot printing is available.
+- FOR INTERIOR S AND EXTERIOR S USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- FOR INTERIOR S, EXTERIOR S, AND SIGN POSTS USE: #252526
+- FOR INTERIOR S AND EXTERIOR S USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: #A19276
+- FOR INTERIOR S AND EXTERIOR S USE: #808285
+- For sign posts only, a white post may be used as a subsitute for 7070 Site White.
+
+##### Tone And Messaging
+
+- For decades, Century 21 Real Estate owned the homeowning game. Then the DIYers and Onliners came around to change the game itself. So, like any aging pioneer, we’re faced with two options: Lead the change, or be left in the dust.
+- So we’re calling out the industry we built. The agents and brokers of the world — with a charge to be better, starting with ourselves. Because if we’re not willing to exceed the highest expectations of buyers and sellers, then we don’t deserve to be here at all.
+- We bar no holds. And we’re not afraid to burn a house down if that house needs to be rebuilt.
+- We’re putting the industry on blast for the sake of the industry. Our posture is that of a leader, not of a bully.
+- We’re a challenger—challenging agents to be better, challenging real estate companies to meet us on our level, and challenging homeowners to demand more. We are agents of change.
+- Don’t come for our throne.
+- Be the most sought-after real estate brand in the world.
+- DEFY MEDIOCRITY
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Brand Values
+
+- We won’t settle. We believe in constant evolution, innovation and improvement, because we know there is always a better way.
+- Owners build things and create value — so take action and be accountable.
+- Challenging legacy thinking creates the possibility for creativity and innovation to make things better.
+- Break down walls and silos. Encourage collaboration.
+- Big ideas are born when we challenge ourselves to ask, “How can we make this have a bigger impact?”
+- Don’t just check the box and complete the task (at 100%), give it the extra effort that goes “above and beyond.”
+
+##### Visual Style
+
+- The image should feature a dark, possibly black or charcoal gray background to give a sleek and modern appearance. In the upper right corner, there should be a large, prominent circle outline, which is partially open on the right side, and inside it, the number '21' should be displayed in bold, beige or light tan-colored font. The number '21' should be centered within the circle. On the left side, roughly occupying the middle portion of the image, there should be the word 'CENTURY' in uppercase, white, bold letters, with the number '21' written as a smaller size directly following it, separated by a small space, collectively forming 'CENTURY 21.' beneath this, in smaller uppercase beige or tan font, the words 'MASTERMIND GUIDELINES' should be placed. Finally, at the bottom right corner, there should be a very small line of text in beige or tan, which appears to be some form of accreditation, timestamp, or reference number, with a format similar to '© 2023 www.21.com'. The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+- Reduce and refine
+- Negative space is positive space
+- Not all information is equally important
+- Quality over quantity
+- Elevate the brand at every touchpoint
+- Hierarchy is a systematic arrangement of items according to relative importance. All information cannot and should not be treated equally in prominence or placement because this results in information overload and tune-out rather than comprehension.
+- The contrast of color, scale of elements and size of typography have all been pressure-tested and approved.
+- Any new layouts should follow the system outlined in these guidelines.
+- The new CENTURY 21® Wordmark is our greatest asset and symbol of leadership as we move forward.
+- It is to be locked up with the DBAs only.
+- It is never to be locked up with the Seal unless explicitly specified within these guidelines.
+- MINIMUM SIZE: 1in.
+- PLACEMENT AND SCALE OF THE REGISTRATION MARK: ® HEIGHT =1X
+- CLEAR SPACE AROUND WORD MARK: X .5 ofX
+- The Seal is a secondary asset within this design system. It is the visual expression of the CENTURY 21® gold standard and serves as a simple, timeless and intuitive seal of approval. Please adhere to the rules outlined in the following pages.
+- Because the Seal is a secondary asset and not the primary logo, it should never locked up with the Wordmark unless it is is specified within the design templates provided in these guidelines.
+- MINIMUM SIZE: .25in.
+- CLEAR SPACE AROUND THE SEAL: X .5 ofX
+- *Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- DO NOT: • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- Company Name CHARACTER LIMIT 20
+- Really Long Company Name ALIGNMENT 45 2 CHARACTER MAX NO. LIMIT LINES
+- Really Rare Extremely Long Company Name ALIGNMENT 45 2 CHARACTER MAX NO. LIMIT LINES
+- PRIMARY DBA EXTREME HORIZONTAL STRUCTURE & CLEAR SPACE .5 of Y X ALIGNMENT TYPOGRAPHY Y .5 of X Company .5 of X .75 of X 45 3 CHARACTER MAX NO. LIMIT LINES
+- SECONDARY DBA CENTER ALIGNED CHARACTER LIMIT 20
+- Really Long Company Name ALIGNMENT CENTER 45 2 CHARACTER MAX NO. LIMIT LINES
+- Really Rare Extremely Long Company Name ALIGNMENT CENTER 45 2 CHARACTER LIMIT
+- Global CHARACTER LIMIT 20
+- PRIMARY MODIFIER EXTREME HORIZONTAL 45 3 CHARACTER MAX NO. LIMIT LINES
+- SECONDARY MODIFIER CENTER ALIGNED CHARACTER LIMIT 20
+- PATTERNS: As a general rule, the elements in the pattern should not be cropped on the vertical axis. Where needed, the pattern may be cropped on the horizontal axis at the top and bottom of the 21. Always make sure that the 21 reads correctly and is not flipped or rotated.
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
+- COLOR PALETTE PRIMARY: RELENTLESS GOLD OBSESSED GREY SECONDARY: DARK GOLD LIGHT GREY MEDIUM GREY
+- Metallic inks for specialty use only.
+- PMS colors where spot printing is available.
+- FOR INTERIORS AND EXTERIORS USE: C 14 | M 18 | Y 44 | K 0 FOR NEWSPAPER USE: PMS 8383 C
+- SPECIALTY METALLIC C 22 M 22 Y 46 K 7 R 190 G 175 B 135
+- RELENTLESS GOLD PANTONE* RELENTLESS GOLD
+- FOR INTERIORS, EXTERIORS, AND SIGN POSTS USE: #252526 R 37 G 37 B 38 C 0 M 0 Y 0 K 90
+- OBSESSED GREY PMS Coated Black 7 & Uncoated PANTONE*
+- FOR INTERIORS AND EXTERIORS USE: C 26 | M 28 | Y 54 | K 0 FOR NEWSPAPER USE: #A19276 GOLD C 36 M 36 Y 56 K 6 R 161 G 146 B 118
+- DARK GOLD 2849 Westchester Gray Sherwin Williams FOR INTERIORS AND EXTERIORS USE: #808285 C 0 M 0 Y 0 K 60 R 128 G 130 B 133
+- MEDIUM GREY *For sign posts only, a white post may be used as a substitute for 7070 Site White. 7070 Site White Sherwin Williams AND SIGN POSTS USE: #E6E7E8 C 0 M 0 Y 0 K 10 R 230 G 231 B 232
+
+##### Layout And Composition
+
+- The overall composition should emphasize modernity and professionalism, with clear, bold typography and minimal clutter.
+- Hierarchy is a systematic arrangement of items according to relative importance. All information cannot and should not be treated equally in prominence or placement because this results in information overload and tune-out rather than comprehension.
+- Throughout the new brand identity system, every bit of information has been carefully thought through and purposefully arranged.
+- The contrast of color, scale of elements and size of typography have all been pressure-tested and approved.
+- Any new layouts should follow the system outlined in these guidelines.
+- Reduce and refine
+- Negative space is positive space
+- Not all information is equally important
+- Quality over quantity
+- Elevate the brand at every touchpoint
+- As a rule, the left aligned and extreme horizontal variations are the primary uses. As a secondary option, the center aligned version may only be used in cases specified within provided design templates.
+- The Wordmark and the Seal are separate design elements and should only be used as specified within these guidelines and the provided design templates.
+- These are some examples of how not to treat the Seal and Wordmark. • Watermark the Seal or Wordmark with a transparency • Place text or logos over top of the Wordmark or the Seal • Crop or rotate the Seal or Wordmark in any other way except what is specified in the guidelines • Stack or lockup the Seal wih the Wordmark or DBA names in any way other than what is specified in the guidelines • Apply different colors to the “C” and “21” within the Seal • FIll the Seal or Wordmark with a color that isn’t specified within the guidelines
+- Only utilize these specific crops. Do not attempt to crop the Seal in any other manner unless specified within a CENTURY 21 template. Also, cropped versions of the Seal do not require a trademark.
+- As a general rule, the elements in the pattern should not be cropped on the vertical axis. Where needed, the pattern may be cropped on the horizontal axis at the top and bottom of the 21. Always make sure that the 21 reads correctly and is not flipped or rotated.
+- The Wordmark pattern can also be used as a complementary element, The letters should not be clipped as a general rule. If there are special cases that involve cropping the pattern, only crop the letters on the horizonal axis. The letters on the vertical axis should always stay intact.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-03-20T08:22:04.678065"
+date: "2026-04-10T09:40:33.392399"
 draft: false
 sectors:
   - pharma
@@ -53,16 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - coral
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: "UK-headquartered pharmaceutical company"
 wikidata_url: "https://www.wikidata.org/wiki/Q12179266"
 has_twitter: false
@@ -83,35 +77,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Our logo is a valuable business asset that must be treated with care and respect. Always use the approved electronic artwork and never adapt, manipulate, or recreate the logo.
-- Preferred logo version: This logo exemplifies Hikma's branding with specific scaling and positioning details provided.
-
-**Typography Information:**
-
-- Typography specifications mentioned under the 'Defining the grid'. General use of typography converges on specific styles and formats.
-- Latin type examples include various font weights: Bold, Demi, Regular, Light, showcasing flexibility of usage.
-
-**Imagery Photography:**
-
-- Photography and videography style and copyright guidelines mentioned. Licensed imagery from Hikma, and for details, users are directed to contact brand@hikma.com or visit their Brand Hub.
-- Guidelines on image content and style: specific attention to subject matter, including capturing own footage or briefing appropriately.
-
-**Spacing Layout:**
-
-- Contents mention understanding brand, tone of voice, contact details, and defining the grid.
-- General layout guidance and explanations related to the concept of defining a grid as a design principle.
-
-**Brand Voice:**
-
-- Outline of tone of voice and communication principles.
-- Content referencing understanding the brand and tone of voice, with indications of a guide available.
-
-**Notes:**
-
-- Introduction to the Hikma brand and identity guidelines.
-- Primary color palette described with specific codes: Hikma Coral (R255 G92 B87, Hex #FF5C57, C0 M80 Y65 K0), Hikma Dark Blue (R000 G22 B98, Hex #001662, C100 M92 Y35 K28), White (R255 G255 B255, Hex #FFFFFF). Colors should be used in 100% solid form and not as tints.
+*Guidelines data not available*
 
 ## Additional Properties
 

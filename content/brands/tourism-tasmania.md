@@ -2,7 +2,7 @@
 title: Tourism Tasmania
 slug: "tourism-tasmania"
 description: ""
-date: "2026-03-20T08:22:04.346080"
+date: "2026-04-10T09:40:33.073529"
 draft: false
 sectors:
   - "public-sector"
@@ -52,9 +52,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - staged
-  - photography
+imagery_styles: []
 wikidata_description: "government agency of Tasmania, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q48816103"
 has_twitter: false
@@ -73,21 +71,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Imagery Photography:**
-
-- Photographic direction emphasizes real, gritty, and immersive moments, preferred to be less polished and more character-driven.
-- Key photographic principles stated: spacious, captivating, anti-ordinary, visceral, and authentic.
-- Best practices discourage overly saturated, contrived symmetry, staged and cliched photography; immersive and authentic compositions are encouraged.
-- Examples of imagery to avoid: overexposed, overly saturated, romantic clichés, staged, exposure effects, and duotones.
-
-**Brand Voice:**
-
-- The tone of voice includes four Compass Points: anti-ordinary, authentic, grounded, and wry.
-- The tone avoids using formal, ironic, or generic language. It is casual but grounded in humanity and authenticity, with an emphasis on embracing peculiarities.
-
-**Notes:**
-
-- The tagline 'COME DOWN' serves as an informal yet inviting message, emphasizing Tasmania’s unique southern location.
+*Guidelines data not available*
 
 ## Additional Properties
 

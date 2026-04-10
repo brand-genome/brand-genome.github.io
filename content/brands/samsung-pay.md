@@ -2,7 +2,7 @@
 title: Samsung Pay
 slug: "samsung-pay"
 description: ""
-date: "2026-03-20T08:22:05.718730"
+date: "2026-04-10T09:40:34.671892"
 draft: false
 sectors:
   - finance
@@ -49,24 +49,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - teal
-  - "pantone-286"
-  - "pantone-3265"
-  - coral
-  - white
-  - blue
-  - "pantone-3005"
-  - "pantone-1365"
-  - "pantone-2285"
-  - "pantone-306"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: mobile payment and digital wallet service
@@ -88,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-- Horizontal and vertical lock-ups for logo layouts.
-- Horizontal and vertical lock-ups for logo layouts.
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-- Clear space rules: clear space is defined as 'x', where 'x' is the height of the Samsung master logo.
-
-**Color Information:**
-
-- Primary Colors: Samsung Blue (Pantone 286 C, HEX #1428A0, RGB 20/40/160, CMYK 100/80/0/0), Black (HEX #000000, RGB 0/0/0, CMYK 0/0/0/100), White (HEX #FFFFFF, RGB 255/255/255, CMYK 0/0/0/0).
-- Secondary Colors: Sea Blue (Pantone 306 C, HEX #00B3E3, RGB 0/179/227), Teal (Pantone 3265 C, HEX #00C3B2, RGB 0/195/178, CMYK 66/0/39/0), Sky Blue (Pantone 3005 C, HEX #0077C8, RGB 0/119/200, CMYK 100/34/2/0), Saffron (Pantone 1365 C, HEX #FFB546, RGB 255/181/70, CMYK 0/28/73/0), Coral (Pantone Warm Red C, HEX #FF4337, RGB 255/67/55, CMYK 0/80/70/0), Clover (Pantone 2285 C, HEX #97D653, RGB 151/214/83, CMYK 40/0/90/0).
-
-**Typography Information:**
-
-- Typography rules for 'Samsung Pay' mentions in body copy: Utilize the same font and font weight; keep title case.
-- Never translate 'Samsung Pay' into other languages.
-- Incorrect Typography Usage: Avoid uppercase text in body copy unless UI uses all uppercase.
-
-**Spacing Layout:**
-
-- Clear space rules apply to logos and button graphics; ensure minimum padding aligns with guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

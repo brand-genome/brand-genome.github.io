@@ -2,7 +2,7 @@
 title: FloSports
 slug: flosports
 description: ""
-date: "2026-03-20T08:22:04.212838"
+date: "2026-04-10T09:40:32.590945"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: sports streaming website
 wikidata_url: "https://www.wikidata.org/wiki/Q69652198"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 
 - [https://www.flosports.tv](https://www.flosports.tv)
 - [https://support.flosports.tv](https://support.flosports.tv)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

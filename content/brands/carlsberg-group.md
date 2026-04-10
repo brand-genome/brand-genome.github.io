@@ -2,7 +2,7 @@
 title: Carlsberg Group
 slug: "carlsberg-group"
 description: ""
-date: "2026-03-20T08:22:03.243641"
+date: "2026-04-10T09:40:30.758534"
 draft: false
 sectors:
   - drink
@@ -17,8 +17,8 @@ tags:
   - "food-beverage"
   - corporate
 industries:
-  - "beverage-industry"
   - "food-industry"
+  - "beverage-industry"
 countries:
   - denmark
 revenue_buckets:
@@ -31,8 +31,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - water
   - "non-alcoholic-beverage"
+  - water
   - beer
 products: []
 headquarters_locations:
@@ -59,24 +59,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - green
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - dynamic
-  - modern
+imagery_styles: []
 wikidata_description: Danish brewery group
 wikidata_url: "https://www.wikidata.org/wiki/Q113215"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -86,26 +78,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2017
 
-**Logo Information:**
-
-- The Carlsberg Group logo comes in two primary colors: Carlsberg Green and White.
-- Minimum distance around the logo is defined by the width of the Carlsberg 'C'.
-- The logo can be placed in each corner of the format with minimum distance defined by the width of the 'C'. Example dimensions for vertical A4: Logo size 30mm, Margin 8.5mm; for vertical A3: Logo size 38mm, Margin 10.5mm.
-- Free logo placement allows down-scaling to 50%-80% of CAPS height. Should be centered with regard to typography balance.
-
-**Spacing Layout:**
-
-- Minimum margin for vertical and horizontal formats is based on 'C' width of Carlsberg logo. Example: For Vertical A4, margin is 8.5mm; for A3, margin is 10.5mm.
-
-**Notes:**
-
-- The design guide represents the Carlsberg heritage, ensuring a modern, dynamic and bold brand identity.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -115,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Water](/products_or_materials_produced/water/); [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Beer](/products_or_materials_produced/beer/) |
+| Product Or Material Produced | [Non Alcoholic Beverage](/products_or_materials_produced/non-alcoholic-beverage/); [Water](/products_or_materials_produced/water/); [Beer](/products_or_materials_produced/beer/) |
 | Headquarters Location | [Copenhagen](/headquarters_locations/copenhagen/) |
 | Foundation Date | [1847](/foundation_dates/1847/) |
 | Named After | Carl Jacobsen |

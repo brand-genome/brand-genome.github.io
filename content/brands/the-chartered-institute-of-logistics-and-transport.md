@@ -2,11 +2,11 @@
 title: The Chartered Institute of Logistics and Transport
 slug: "the-chartered-institute-of-logistics-and-transport"
 description: ""
-date: "2026-03-20T08:22:04.250118"
+date: "2026-04-10T09:40:32.837439"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - education
+  - "logistics-supply-chain"
 regions:
   - "united-kingdom"
 years:
@@ -47,16 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-872"
-  - gold
-  - "pantone-269"
-  - purple
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - professional
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,23 +73,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- No logo treatments or color variations visible in the first 12 pages.
-
-**Color Information:**
-
-- Primary colors identified as 'CILT Purple' (Pantone 269, CMYK: C: 85, M: 100, Y: 0, K: 40; RGB: R: 43, G: 11, B: 75; HEX: #361163) and 'CILT Gold' (Pantone 872, CMYK: C: 10, M: 30, Y: 60, K: 25; RGB: R: 173, G: 135, B: 79; HEX: #b38e5e).
-
-**Imagery Photography:**
-
-- Shift towards a more people-focused and human-centered approach, with images of people emphasized.
-
-**Brand Voice:**
-
-- Tone of voice emphasizes being global, inclusive, human, supportive, and professional. Messaging should be clear, confident, direct, using warm and accessible words, with British English preferred.
-- Key messages include: 'Stronger Together' (used in all applications), 'Career Partner for Life' (for education/marketing), and 'Established to promote the art and science of logistics and transport' (used on certificates).
-
-**Notes:**
-
-- General guidelines emphasize consistency and adherence to defined standards for all communications. Primary focus is on maintaining accurate representation of the brand.
+*Guidelines data not available*

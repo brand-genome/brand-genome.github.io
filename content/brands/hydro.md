@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-03-20T08:22:04.858152"
+date: "2026-04-10T09:40:33.608756"
 draft: false
 sectors:
-  - "renewable-energy"
   - hardware
+  - "renewable-energy"
 regions:
   - norway
 years:
@@ -17,8 +17,8 @@ tags:
   - industry
 industries: []
 countries:
-  - "european-union"
   - germany
+  - "european-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,24 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - "pantone-300"
-  - blue
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - product
-  - muted
-  - bold
-  - natural
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: peer reviewed open access scientific journal
 wikidata_url: "https://www.wikidata.org/wiki/Q15755050"
 has_twitter: false
@@ -93,33 +79,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Hydro logo usage mandates clear space around the logo equal to 'x-height' of the logo, where no other elements can intersect. Several logo versions exist, including horizontal, vertical, and wordmark formats. Hydro specific endorsement includes sub-brands like WICONA (always written in uppercase). Incorrect usages include distorting the logo or placing it on cluttered backgrounds.
-
-**Color Information:**
-
-- Primary brand colors include Hydro Blue (Pantone 300), secondary colors for accents, and detailed CMYK and RGB breakdowns. Hydro blue codes specified as HEX #0066cc.
-
-**Typography Information:**
-
-- Official font family for Hydro is Arial for digital use and Helvetica for print materials, with weights like Regular, Bold used for headlines and body text.
-
-**Imagery Photography:**
-
-- Imagery features clean, non-cluttered compositions emphasizing Hydro's sustainability and industrial themes. Recommendation for natural lighting and muted tones.
-
-**Spacing Layout:**
-
-- Grid system organized in multiples of 8px, wide spacing margins around corner logos or text columns (defined 20mm for print contexts).
-
-**Brand Voice:**
-
-- Hydro's tone of voice is corporate yet approachable, emphasizing sustainability, quality, and innovation in messaging.
-
-**Notes:**
-
-- Sub-brands like Wicona and REDUXA are endorsed under Hydro master brand strategy. Unique badges for each sub-product exist with specifications.
+*Guidelines data not available*
 
 ## Additional Properties
 

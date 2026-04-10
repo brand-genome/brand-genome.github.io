@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-03-20T08:22:05.788968"
+date: "2026-04-10T09:40:34.775820"
 draft: false
 sectors:
   - entertainment
@@ -27,10 +27,10 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "chaillot-palace"
   - "16th-arrondissement-of-paris"
-  - london
   - "city-of-brussels"
+  - "chaillot-palace"
+  - london
 subsidiaries: []
 foundation_dates:
   - 1949
@@ -53,28 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - "pantone-201"
-  - white
-  - "pantone-199"
-  - "pantone-195"
-  - brown
-  - black
-typographies:
-  - serif
-  - gotham
-  - display
-imagery_styles:
-  - bold
-  - static
-  - photography
-  - contemporary
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: intergovernmental military alliance between 32 member states
 wikidata_url: "https://www.wikidata.org/wiki/Q7184"
 has_twitter: false
@@ -94,54 +76,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Master logo displayed in black with white type, red gradient, white gradient, or reversed colors on black background. The black box surrounding the white version is not considered part of the logo.
-- Stacked display of the logo available. Black, white, or gradient colors are allowed. From left to right, boxes in white gradient drop 20% in opacity (e.g., box for 'A' is 80% white).
-- Isolation zone rule: Minimum space around logo is defined by the height of one square in the logo grid.
-- Scaling the logo: The divider always remains half the size of the stem of the type. At very small sizes, the divider should be no smaller than one pixel.
-- Logo can include the strapline 'Evolving the moviegoing experience,' and it can be ranged right or centered depending on layout.
-- 4x4 color grid usage: Logo can be displayed using a flexible grid that scales. Can be used in static displays or animated. Grid elements can derive directly from chosen imagery.
-- Images can be integrated within the 4x4 system grid when appropriate, either in static display or animation. The grid adapts to large-format photography, fitting the logo alongside chosen visuals.
-
-**Color Information:**
-
-- Primary color palette includes:
-Black (CMYK: 0, 0, 0, 100; RGB: 44, 42, 41; HEX: #2C2A29; Pantone Process Black C),
-White (CMYK: 0, 0, 0, 0; RGB: 255, 255, 255; HEX: #FFFFFF; Pantone White),
-Red (CMYK: 0, 100, 72, 0; RGB: 213, 0, 50; HEX: #D50032; Pantone 199 C),
-Dark Red (CMYK: 19, 90, 50, 55; RGB: 120, 47, 64; HEX: #782F40; Pantone 195 C),
-Burgundy (CMYK: 7, 100, 68, 32; RGB: 157, 34, 53; HEX: #9D2235; Pantone 201 C),
-Dark Brown (CMYK: 41, 57, 72, 90; RGB: 49, 38, 29; HEX: #31261D; Pantone Black 4C).
-- Primary palettes drive the NATO brand identity, while secondary palettes can be used to complement the primary colors in immersive and harmonious ways.
-
-**Typography Information:**
-
-- Primary typeface: Gotham.
-Headline fonts: Use Bold or Medium weights.
-Body copy fonts: Use Book or Light weights.
-Ensure optimal font size in relation to chosen imagery for harmony.
-- Alternative to Gotham: A secondary sans serif font similar to Gotham can be used if Gotham cannot be rendered or shared across platforms.
-
-**Imagery Photography:**
-
-- Imagery usage must align with logo, typography, and flexible system rules. Often imagery is pixelated and enlarged to generate color palettes, encouraging creative designs while retaining brand consistency.
-- Photographs can be paired with the flexible grid system for large-format displays. Select images that harmonize with the brand and grid structure.
-
-**Spacing Layout:**
-
-- Isolation zone rule: Minimum space around the logo must equal the x-height of one square in the logo grid.
-- Dividing line within the logo grid should always be half the thickness of the type stem as shown by the red reference guide. For very small scaling, ensure the dividing line is no less than 1 pixel.
-
-**Brand Voice:**
-
-- Tone of voice reflects professionalism, distinction, contemporary, and forward-looking values, while allowing the brand ample room for creative expression.
-- Messaging is consistent with the identity of NATO as evolving and immersive, exemplified by the strapline: 'Evolving the moviegoing experience.'
-
-**Notes:**
-
-- Flexibility system allows for creative adaptation across media, ensuring consistency with pixels and color palettes derived from imagery.
-- For queries related to NATO branding, contact Brigitte Buehlman, Deputy Director of Industry Relations, via bgb@natoca.com.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -151,7 +86,7 @@ Ensure optimal font size in relation to chosen imagery for harmony.
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Chaillot Palace](/headquarters_locations/chaillot-palace/); [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/); [London](/headquarters_locations/london/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Headquarters Location | [16Th Arrondissement Of Paris](/headquarters_locations/16th-arrondissement-of-paris/); [City Of Brussels](/headquarters_locations/city-of-brussels/); [Chaillot Palace](/headquarters_locations/chaillot-palace/); [London](/headquarters_locations/london/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Motto Text | Animus in consulendo liber |
 | Official Language | English, French |

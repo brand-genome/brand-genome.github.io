@@ -2,7 +2,7 @@
 title: Viber
 slug: viber
 description: ""
-date: "2026-03-20T08:22:05.515779"
+date: "2026-04-10T09:40:34.399639"
 draft: false
 sectors:
   - software
@@ -49,13 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "cross-platform instant messaging voice-over-Internet Protocol application for smartphones"
 wikidata_url: "https://www.wikidata.org/wiki/Q332707"
 has_twitter: false
@@ -78,33 +75,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The document references logos with details about their layout, positioning, and color variations present throughout the content.
-
-**Color Information:**
-
-- The brand colors, including specifications in RGB, HEX, and CMYK, are referenced across multiple sections detailing primary and secondary color use.
-
-**Typography Information:**
-
-- Sections describe fonts, weights, and specific uses such as headlines or body text.
-
-**Imagery Photography:**
-
-- Photography guidelines are elaborated with a focus on spontaneity and authenticity. Textures and image treatments are also discussed.
-
-**Spacing Layout:**
-
-- Details about alignment and spacing rules for designs.
-
-**Brand Voice:**
-
-- Defines the tone, style, and messaging with a focus on spreading positive vibes and being authentic.
-
-**Notes:**
-
-- General information, including context and additional notes, extracted from pages without specific categories.
+*Guidelines data not available*
 
 ## Additional Properties
 

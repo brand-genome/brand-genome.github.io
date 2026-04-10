@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-03-20T08:22:04.184173"
+date: "2026-04-10T09:40:32.519192"
 draft: false
 sectors:
   - ngo
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - london
   - "city-of-brussels"
+  - london
 subsidiaries: []
 foundation_dates:
   - 1961
@@ -53,13 +53,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - yellow
-  - grey
-  - black
-typographies:
-  - impact
-  - frutiger
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "non-governmental organization based in the United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q42970"
@@ -81,30 +76,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- INTRODUCTION SOMMAIRE La couleur 16 Nuancier d™Amnesty International 17 Couleurs complémentaires du jaune 18 Amnesty Trade Gothic 19 Frutiger Arabic 20 Police secondaire 21 Conception graphique 22 Illustrations 23 Photographies 24 Introduction 2 Démultiplier notre impact 3 Un mouvement mondial 4 Le manifeste 5 Le ton 6 La bougie d™Amnesty International 7 Emplacement 11 Usage numérique 12 Réseaux sociaux 13 Partenariats 14 Campagnes mondiales 15
-- 3 INTRODUCTION Voilà pourquoi nous avons rédigé ce guide. Il doit nous aider à créer ensemble une remettre en cause les préjugés et les partis pris des gens, bousculer leur façon de voir, gagner de nouveaux sympathisants et étendre d™agir qui peut faire changer le monde. Le nom et le logo d™Amnesty International sont des marques déposées dans plus de consignes d™utilisation de ces éléments de marque, nous risquons de perdre la protection juridique qui y est associée. Une marque commerciale qui n™est pas utilisée dans la forme sous laquelle elle est enregistrée n™est plus protégée par la loi. Elle risque également de ne plus être reconnue par le grand public ou de soutien de sept millions de personnes, nous continuons de défendre les droits humains dans le monde entier. Cet ancrage s™accompagne d™une énorme démultiplier notre impact sur l™injustice par nos actions et nos propos.
-
-**Color Information:**
-
-- 17 LA COULEUR NUANCIER D™AMNESTY INTERNATIONAL Le jaune est la couleur principale qui sert notre intervention, mais il existe aussi des couleurs secondaires. Elles doivent être utilisées uniquement dans les graphiques et encadrés de nos documents internes. Pour une meilleure visibilité, les gris froids sont autorisés en ligne. Couleurs primaires Couleurs secondaires PANTONE PROCESS YELLOW À L™ÉCRAN #FFFF00 À L™ÉCRAN R:255 V:255 B:0 QUADRICHROMIE C:0 M:0 J:100 N:0 PANTONE PROCESS BLACK À L™ÉCRAN #000000 À L™ÉCRAN R:0 V:0 B:0 QUADRICHROMIE C:0 M:0 J:0 N:100 PANTONE COOL GREY 3 À L™ÉCRAN #C5C5C5 À L™ÉCRAN R:197 V:197 B:197 QUADRICHROMIE C:7 M:4 J:6 N:14 PANTONE COOL GREY 8 À L™ÉCRAN #939598 À L™ÉCRAN R:147 V:149 B:152 QUADRICHROMIE C:20 M:11 J:12 N:30 PANTONE COOL GREY 11 À L™ÉCRAN #7A7D 81 À L™ÉCRAN R:122 V :125 B:129 QUADRICHROMIE C:30 M:17 J:8 N:51
-
-**Typography Information:**
-
-- 19 NOTRE POLICE DE CARACTÈRES AMNESTY TRADE GOTHIC Les mots Amnesty Trade Gothic sont susceptibles de condensée des outils de mobilisations. Pour nos communications générales. Elle a déjà construit un.
-
-**Imagery Photography:**
-
-- 24 ORIENTATION ARTISTIQUE DES PHOTOS QUI FONT RÉAGIR Nos images visent à susciter une réaction émotionnelle. Nous montrons les conséquences des atteintes aux droits humains sur le plan personnel, nous célébrons les personnes autonomes, nous révélons au grand jour des réalités masquées et nous incitons des individus et des groupes d™individus à agir de toute urgence pour lutter contre l™injustice.
-
-**Brand Voice:**
-
-- 6 LE TON  OUVERTURE Nous accueillons les gens, nous travaillons tous ensemble et nous faisons participer les gens. Nous employons de nouvelles techniques pour conserver notre pertinence.
-
-**Notes:**
-
-- 1 GUIDE DE L™IDENTITÉ VISUELLE D™AMNESTY INTERNATIONAL INCITER LES GENS À FAIRE DE L™INJUSTICE UNE AFFAIRE PERSONNELLE
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -114,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [London](/headquarters_locations/london/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
+| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/) |
 | Foundation Date | [1961](/foundation_dates/1961/) |
 | Viaf Cluster Id | 141290649 |
 | Gnd Id | 2003911-6 |

@@ -2,7 +2,7 @@
 title: Tides
 slug: tides
 description: ""
-date: "2026-03-20T08:22:05.188208"
+date: "2026-04-10T09:40:34.062713"
 draft: false
 sectors:
   - ngo
@@ -52,32 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-342"
-  - "pantone-603"
-  - cyan
-  - "pantone-2200"
-  - "pantone-368"
-  - "pantone-7723"
-  - gray
-  - "pantone-7706"
-  - "pantone-583"
-  - black
-typographies:
-  - arial
-  - lato
-  - avenir
-  - georgia
-imagery_styles:
-  - artificial
-  - bold
-  - photography
-  - gradient
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: public charity and fiscal sponsor working to advance progressive policy
 wikidata_url: "https://www.wikidata.org/wiki/Q7800861"
 has_twitter: false
@@ -95,53 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Primary logo, Secondary logo, Primary logo - simple, Secondary logo - simple, Icon version available for different applications.
-- Clearspace rules defined with specific measurements based on the height of elements like 'T'.
-- Minimum size requirements specified for logo usage to maintain legibility.
-- Do's and Don'ts for logo usage: avoid altering colors, angles, proportions, arrangements, or treatments like shadows.
-- Photographic placement guidelines: Avoid busy backgrounds; ensure proper contrast.
-- Icon usage: Used independently only for special promotions/materials where brand is already established. Icon can include images or be used as a line drawing.
-
-**Color Information:**
-
-- Primary colors: Tides Cyan (Pantone 2200 C, CMYK 82 1 17 3, RGB 4 169 199, HEX #04A9C7), Tides Aqua (Pantone 7723 C, CMYK 69 0 54 7, RGB 80 166 132, HEX #50A684).
-- Primary colors continued: Tides Slate (Pantone Cool Gray 11 C, CMYK 44 34 22 77, RGB 83 86 90, HEX #53565A).
-- Secondary colors: Tides Grass (Pantone 368 C, CMYK 65 0 100 0, RGB 120 190 32, HEX #78BE20), Tides Olive (Pantone 583 C, CMYK 26 1 100 10, RGB 183 191 16, HEX #B7BF10).
-- Secondary colors continued: Tides Citrus (Pantone 603 C, CMYK 6 0 82 0, RGB 237 224 75, HEX #EDE04B), Tides Denim (Pantone 7706 C, CMYK 100 16 10 44, RGB 0 106 142, HEX #006A8E).
-- Additional colors: Tides Sea (Pantone 342 C, CMYK 93 10 75 43, RGB 0 103 71, HEX #006747), Tides Heather (Pantone Cool Gray 7 C, CMYK 20 14 12 40, RGB 151 153 155, HEX #97999B).
-
-**Typography Information:**
-
-- Primary font: Avenir. Weights: Light, Regular, Medium, Bold, Heavy.
-- Secondary font: Adelle. Weights: Ultra Thin, Thin, Light, Regular, Semi-Bold, Bold.
-- Fallback fonts for Avenir: Google Lato (First Option), Arial (Second Option). Fallback fonts for Adelle: Google Bitter (First Option), Georgia (Second Option).
-- Typography roles and sizes: Primary Headline (Adelle Light, 25pt, kerning 0), Secondary Headline (Avenir Black, 13pt, kerning -10).
-- Body copy: Avenir Book, 10pt, kerning -10. Callouts: Avenir Black, 6pt, kerning 60. Bullets: Avenir Book, 8pt, kerning -20.
-
-**Imagery Photography:**
-
-- Photography style is real, diverse, emotion-driven, people-focused, and candid.
-- Images focus on genuine emotions like hope, courage, and joy, avoiding artifice or heavy styling.
-- Photo treatments for branded elements include high contrast adjustments and gradient filters.
-
-**Spacing Layout:**
-
-- Clearspace rules defined using references like the 'T' height to measure spacing between logo and elements.
-- Minimum sizes for logos specified for both regular and small applications to ensure legibility.
-- Logos should always maintain proper contrast against the background; avoid overly complicated layouts.
-
-**Brand Voice:**
-
-- Tone of voice: Dedicated to social good, promoting shared prosperity, diversity, and equity.
-- Uses hopeful, genuine, and editorial imagery to reflect values of humanity and candid connection.
-- Photography tone reflects candid, people-focused moments rather than artificial happiness.
-
-**Notes:**
-
-- To download official brand assets, visit: tides.org/brand-assets.
-- Contact for creative questions: Ilyse Magy, Creative Manager, imagy@tides.org.
+*Guidelines data not available*
 
 ## Additional Properties
 

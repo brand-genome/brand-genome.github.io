@@ -2,7 +2,7 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-03-20T08:22:04.660448"
+date: "2026-04-10T09:40:33.388412"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2015
+  - 2019
 languages:
   - english
 tags:
@@ -52,25 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - gold
-  - blue
-  - gray
-  - black
-typographies:
-  - impact
-  - trebuchet
-  - din
-imagery_styles:
-  - staged
-  - bold
-  - natural
-  - photography
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q608132"
 has_twitter: false
@@ -90,59 +75,359 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The 2017 Jamboree theme logo is available in different color formats: GOLD (Pantone 131C), BLACK (Pantone Black 7C), RED (Pantone 186C), and BLUE.
-- Logo usage rules include the following 'DO NOTS': Do not convert the logo to grayscale, change any color elements, distort proportions, delete parts of the logo, screen/tint, add drop shadow, warp/tweak, or change copy proportions.
+##### Mission
 
-**Color Information:**
+- To create consistent, informative, easy-to-use, and visually attractive brand and signage for the Summit Bechtel Reserve and the 2017 National Scout Jamboree, fostering greater consistency for visitors, scouts, and an expanded audience [^1].
 
-- Primary colors for branding are GOLD (Pantone 131C), BLACK (Pantone Black 7C), RED (Pantone 186C), and BLUE.
-- Secondary color Pantone Cool Gray 2C is used as a patch background color.
+##### Core Values
 
-**Typography Information:**
+- adventure
+- exploration
+- honor
+- growth
+- community
+- patriotism
+- consistency
+- visual sophistication [^2]
 
-- Key Typeface: DIN Condensed Bold - Used for signage, corporate documents, and marketing materials. Alternative typefaces include Abadi Condensed Light or Impact for body text in case DIN Condensed is unavailable.
+##### Target Audience
 
-**Imagery Photography:**
+- Visitors, scouts, and an expanded audience attending the Summit Bechtel Reserve and the 2017 National Scout Jamboree [^3].
 
-- Imagery style includes grayscale, sketched images. Keywords like 'scouting' or activity-related words are utilized as overlays to enhance images.
+##### Personality Traits
 
-**Notes:**
+- adventurous
+- patriotic
+- energetic
+- explorative
+- respectful
+- community-oriented [^4]
 
-- The guidelines mention icons and symbols used to represent various activities, logos, and base-camp maps. This is likely for event or scouting-related materials.
-- General logo rules emphasize not altering attributes like proportions, color, or layout for consistent branding.
+##### Visual Identity Overview
+
+- The visual identity features bold, dynamic logos and taglines, a color palette of American Flag Red, BSA Blue, Patch Background Gray, Gold Patch Accent, and other approved Pantone colors, sketched black-and-white imagery, gold accents, and consistent use of icons and symbols. Typography includes DIN Condensed Bold for wayfinding and body copy, and I.F.C. Hardball as a specialty font. The style emphasizes adventure, exploration, and national pride, with strict logo and tagline usage rules [^5][^4].
+
+#### Categories
+
+##### Brand Imagery
+
+- IMAGERY TO BE SELECTED FROM 2013 JAMBOREE AND FILTER TO BE APPLIED TO CREATE BLACK AND WHITE SKETCHED IMAGES TO BE APPLIED TO COLLATERAL OR PLYWOOD; ADDITIONAL IMAGES CAN BE SELECTED BASED ON DEVELOPMENT OF THE PACKAGE.
+- The following images should be used as a rectangle with the approved filter and colors. The rights to all images need to be obtained before use. High resolution images will need to be supplied for final implementation. All images must be approved prior to use.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+
+##### Color Palette
+
+- The colors used in the logo of the 2017 National Jamboree are also used in the temporary graphics for the Jamboree. Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- THESE ARE THE APPROVED COLORS FOR THE 2017 NATIONAL JAMBOREE.
+- AMERICAN FLAG RED PANTONE 186C
+- BSA BLUE PANTONE 294C
+- PATCH BACKGROUND PANTONE COOL GRAY 2C
+- GOLD PATCH ACCENT PANTONE 131C
+- GOLD PANTONE 131C
+- BLACK PANTONE BLACK 6C
+- WHITE
+- THESE ARE THE APPROVED COLOR CONFIGURATIONS FOR THE 2017 NATIONAL JAMBOREE.
+- FULL COLOR
+- FULL COLOR PRINTED
+- SEE COLOR SHEET 15 FOR DETAILS
+- TWO COLOR BLACK
+- BLACK SHOWN TO BE 100% BLACK
+- GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR
+- TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Screen or tint the logo
+
+##### Typography
+
+- ALL CORPORATE USE, MARKETING MATERIALS AND CORPORATE COLLATERAL MUST USE THE DIN CONDENSED BOLD PER THESE STANDARDS. Please Note: If individual councils do not have "Din Condensed Bold" and is not available for use, they may use "Abadi Condensed Light" or Bold or "Impact" as a substitute for the body copy use. (note the selected font must be a San Serif Condensed font as available.)
+- This font is the legible condensed san serif recommended for use on all build environment wayfinding signage and graphics and also can be used on marketing components for body copy or descriptive text and can be upper or lowercase depending upon usage.
+- This specialty font is to be used within the build environment or within select marketing components only. The font is unique and will add specific character to key items. All usage of this font style should be approved prior to use.
+- No lowercase is to be used for this font.
+- Tagline should be in ALL CAPS and have quotations when used in body copy.
+- The tagline consists of three words in two font styles.
+- KEY WORDS TO BE SELECTED THAT RELATE TO SCOUTING AND/OR THE ACTIVITIES TO ENHANCE AND OVERLAY ON THE IMAGES. THESE KEYWORDS ARE TO BE USED AS A "WHITE" STROKE OUTLINE ONLY, NO FILL PERMITTED.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+
+##### Logo Usage
+
+- Consists of the copy “Live Scouting’s Adventure, National Jamboree,” corporate logo, partial American flag design, the year “2017,” SBR and a one-color mountain climber illustration. This trademark is the event’s primary graphic device and should be used for all primary identity applications, i.e., brochure covers and temporary signage.
+- The colors used in the logo of the 2017 National Jamboree are also used in the temporary graphics for the Jamboree. Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- FULL COLOR PRINTED SEE COLOR SHEET 15 FOR DETAILS
+- BLACK SHOWN TO BE 100% BLACK GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Convert the copy to strokes
+- Do Not: Delete any part of the logo
+- Do Not: Change porportions of any part of the logo
+- Do Not: Distort the porportions of the logo in any way
+- Do Not: Add a drop shadow to the logo
+- Do Not: Screen or tint the logo
+- Do Not: Tweak or warp the logo
+
+##### Tone And Messaging
+
+- IN THE SIMPLEST TERMS, THESE STANDARDS ESTABLISH CONSISTENCY WHILE AVOIDING “COOKIE CUTTER” UNIFORMITY. THIS IS THE NUMBER ONE GOAL.
+- These standards give the 2017 National Scout Jamboree the tools to communicate the brand to the visitors and Scouts with signage and graphics that are informative, easy-to-use, and visually attractive.
+- By following the manual and the standards in, BSA strives for greater consistency in both brand, signage, and graphics to its visitors, scouts and an expanded audience.
+- KEY WORDS TO BE SELECTED THAT RELATE TO SCOUTING AND/OR THE ACTIVITIES TO ENHANCE AND OVERLAY ON THE IMAGES. THESE KEYWORDS ARE TO BE USED AS A "WHITE" STROKE OUTLINE ONLY, NO FILL PERMITTED.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+
+##### Visual Style
+
+- Summit Bechtel Reserve -Two Color Logo Orange = PMS 151 C Black = PMS Black C
+- SBR -Color Icon Orange = PMS 151 C
+- Orange PMS 151 C
+- Black PMS Black C
+- Basecamp ALPHA Ref. P6 or PMS 356 C
+- Basecamp BRAVO Ref. P7 or PMS 185 C
+- Basecamp CHARLIE Ref. PB or PMS 2955 C
+- Basecamp DELTA Ref. P1 or PMS 1655 C
+- Basecamp ECHO Ref. P9 or PMS 267 C
+- Basecamp FOXTROT Ref. P10 or PMS 136 C
+- These images shown here are for inspirational use only to create the 2017 National Jamboree Graphic & Signage theme. Not to be used on any collateral or signage.
+- IMAGERY TO BE SELECTED FROM 2013 JAMBOREE AND FILTER TO BE APPLIED TO CREATE BLACK AND WHITE SKETCHED IMAGES TO BE APPLIED TO COLLATERAL OR PLYWOOD; ADDITIONAL IMAGES CAN BE SELECTED BASED ON DEVELOPMENT OF THE PACKAGE.
+- Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- AMERICAN FLAG RED PANTONE 186C
+- BSA BLUE PANTONE 294C
+- PATCH BACKGROUND PANTONE COOL GRAY 2C
+- GOLD PATCH ACCENT PANTONE 131C
+- GOLD PANTONE 131C
+- BLACK PANTONE BLACK 6C
+- WHITE
+- THESE ARE THE APPROVED COLOR CONFIGURATIONS FOR THE 2017 NATIONAL JAMBOREE.
+- FULL COLOR
+- FULL COLOR PRINTED
+- SEE COLOR SHEET 15 FOR DETAILS
+- TWO COLOR BLACK
+- BLACK SHOWN TO BE 100% BLACK
+- GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR
+- TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Convert the copy to strokes
+- Do Not: Delete any part of the logo
+- Do Not: Change porportions of any part of the logo
+- Do Not: Distort the porportions of the logo in any way
+- Do Not: Add a drop shadow to the logo
+- Do Not: Screen or tint the logo
+- Do Not: Tweak or warp the logo
+- THESE ARE THE NON PERMITTED TAGLINE USES FOR THE 2017 NATIONAL JAMBOREE
+- Do Not: Delete any primary part of the logo
+- Do Not: Change porportions of any part of the logo Do Not: Distort the porportions of the logo in any way
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- The following images should be used as a rectangle with the approved filter and colors. The rights to all images need to be obtained before use. High resolution images will need to be supplied for final implementation. All images must be approved prior to use.
+- PH0TOSH0P PLUG-IN "AKVIS SKETCH" FILTER FILTER SETTINGS AKVIS DEFAULT PRESET TO PURCHASE; www.akvis.com SKETCH FILTER
+
+##### Iconography
+
+- This is a summary only. Please see additional information and details on sheets 26, 27 and 28.
+- THESE ARE THE APPROVED ICONS FOR THE 2017 NATIONAL JAMBOREE.
+- The following activity icons should be used in an orange rounded square exclusively.
+- THE PARK (Skateboarding)
+- THE BOWS ( Archery Sports )
+- THE CANOPY ( Canopy Tour)
+- THE POOLS ( Swimming & Scuba Diving)
+- THE TRAX (BMX)
+- THE ROCKS ( Climbing Walls)
+- THE ROPES ( Challenge Course)
+- THE CLOUD ( Popular Science & Robotics)
+- THE BARRELS ( Shooting Sports )
+- LOW & HIGH GEAR ( Lower & Upper Mtn Biking)
+- THE ZIP ( Big Zip)
+- DISABILITY AWARENESS ( Challenge Area Action Point ONLY)
+- THESE ARE THE APPROVED BASE CAMP ICONS FOR THE 2017 NATIONAL JAMBOREE.
+- The following base camp icons should be used in a rounded square exclusively. Icons are to be used only for base camps.
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Design ads that follow BSA brand standards and use wholesome images that enhance perception of the Boy Scouts of America. The appropriate brand logo should appear on the ad in a highly visible place.
-- Shared images are a great way to introduce brand elements such as overlay treatments, logos, type, and color.
-- Use of logos and branding conventions to close out a video effectively. The example discusses using logos distinctly in the design.
+##### Mission
 
-**Color Information:**
+- To create consistent, informative, easy-to-use, and visually attractive brand and signage for the Summit Bechtel Reserve and the 2017 National Scout Jamboree, fostering greater consistency for visitors, scouts, and an expanded audience [^1].
 
-- Scouting Red is used as an accent color that indicates interactivity or areas of high importance. Be judicious in your use of color in an app. Choose one or two colors to indicate interactivity.
-- Color selection for banners and design, such as Scouting Blue, Scouting Red, within the diagonal used in BSA corporate advertisements.
+##### Core Values
 
-**Typography Information:**
+- adventure
+- exploration
+- honor
+- growth
+- community
+- patriotism
+- consistency
+- visual sophistication [^2]
 
-- Use of various weights of the Adelle typeface throughout the app keeps the experience unified visually and meets Boy Scouts of America type standards.
-- Title and Department set in Trebuchet Italic, Scouting Gray, 18 px for email signatures.
+##### Target Audience
 
-**Imagery Photography:**
+- Visitors, scouts, and an expanded audience attending the Summit Bechtel Reserve and the 2017 National Scout Jamboree [^3].
 
-- BSA photography guidelines emphasize using natural light and candid, unposed shots.
-- Shared images in social media should avoid staged photography. Authenticity prevails.
+##### Personality Traits
 
-**Brand Voice:**
+- adventurous
+- patriotic
+- energetic
+- explorative
+- respectful
+- community-oriented [^4]
 
-- Engaging narratives and adhering to Scouts’ stories using methods such as hashtags in social content.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity features bold, dynamic logos and taglines, a color palette of American Flag Red, BSA Blue, Patch Background Gray, Gold Patch Accent, and other approved Pantone colors, sketched black-and-white imagery, gold accents, and consistent use of icons and symbols. Typography includes DIN Condensed Bold for wayfinding and body copy, and I.F.C. Hardball as a specialty font. The style emphasizes adventure, exploration, and national pride, with strict logo and tagline usage rules [^5][^4].
 
-- Thank you for your time and effort in reading these guidelines. Questions and contact details for further guidance are provided.
+#### Categories
+
+##### Brand Imagery
+
+- IMAGERY TO BE SELECTED FROM 2013 JAMBOREE AND FILTER TO BE APPLIED TO CREATE BLACK AND WHITE SKETCHED IMAGES TO BE APPLIED TO COLLATERAL OR PLYWOOD; ADDITIONAL IMAGES CAN BE SELECTED BASED ON DEVELOPMENT OF THE PACKAGE.
+- The following images should be used as a rectangle with the approved filter and colors. The rights to all images need to be obtained before use. High resolution images will need to be supplied for final implementation. All images must be approved prior to use.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+
+##### Color Palette
+
+- The colors used in the logo of the 2017 National Jamboree are also used in the temporary graphics for the Jamboree. Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- THESE ARE THE APPROVED COLORS FOR THE 2017 NATIONAL JAMBOREE.
+- AMERICAN FLAG RED PANTONE 186C
+- BSA BLUE PANTONE 294C
+- PATCH BACKGROUND PANTONE COOL GRAY 2C
+- GOLD PATCH ACCENT PANTONE 131C
+- GOLD PANTONE 131C
+- BLACK PANTONE BLACK 6C
+- WHITE
+- THESE ARE THE APPROVED COLOR CONFIGURATIONS FOR THE 2017 NATIONAL JAMBOREE.
+- FULL COLOR
+- FULL COLOR PRINTED
+- SEE COLOR SHEET 15 FOR DETAILS
+- TWO COLOR BLACK
+- BLACK SHOWN TO BE 100% BLACK
+- GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR
+- TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Screen or tint the logo
+
+##### Typography
+
+- ALL CORPORATE USE, MARKETING MATERIALS AND CORPORATE COLLATERAL MUST USE THE DIN CONDENSED BOLD PER THESE STANDARDS. Please Note: If individual councils do not have "Din Condensed Bold" and is not available for use, they may use "Abadi Condensed Light" or Bold or "Impact" as a substitute for the body copy use. (note the selected font must be a San Serif Condensed font as available.)
+- This font is the legible condensed san serif recommended for use on all build environment wayfinding signage and graphics and also can be used on marketing components for body copy or descriptive text and can be upper or lowercase depending upon usage.
+- This specialty font is to be used within the build environment or within select marketing components only. The font is unique and will add specific character to key items. All usage of this font style should be approved prior to use.
+- No lowercase is to be used for this font.
+- Tagline should be in ALL CAPS and have quotations when used in body copy.
+- The tagline consists of three words in two font styles.
+- KEY WORDS TO BE SELECTED THAT RELATE TO SCOUTING AND/OR THE ACTIVITIES TO ENHANCE AND OVERLAY ON THE IMAGES. THESE KEYWORDS ARE TO BE USED AS A "WHITE" STROKE OUTLINE ONLY, NO FILL PERMITTED.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+
+##### Logo Usage
+
+- Consists of the copy “Live Scouting’s Adventure, National Jamboree,” corporate logo, partial American flag design, the year “2017,” SBR and a one-color mountain climber illustration. This trademark is the event’s primary graphic device and should be used for all primary identity applications, i.e., brochure covers and temporary signage.
+- The colors used in the logo of the 2017 National Jamboree are also used in the temporary graphics for the Jamboree. Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- FULL COLOR PRINTED SEE COLOR SHEET 15 FOR DETAILS
+- BLACK SHOWN TO BE 100% BLACK GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Convert the copy to strokes
+- Do Not: Delete any part of the logo
+- Do Not: Change porportions of any part of the logo
+- Do Not: Distort the porportions of the logo in any way
+- Do Not: Add a drop shadow to the logo
+- Do Not: Screen or tint the logo
+- Do Not: Tweak or warp the logo
+
+##### Tone And Messaging
+
+- IN THE SIMPLEST TERMS, THESE STANDARDS ESTABLISH CONSISTENCY WHILE AVOIDING “COOKIE CUTTER” UNIFORMITY. THIS IS THE NUMBER ONE GOAL.
+- These standards give the 2017 National Scout Jamboree the tools to communicate the brand to the visitors and Scouts with signage and graphics that are informative, easy-to-use, and visually attractive.
+- By following the manual and the standards in, BSA strives for greater consistency in both brand, signage, and graphics to its visitors, scouts and an expanded audience.
+- KEY WORDS TO BE SELECTED THAT RELATE TO SCOUTING AND/OR THE ACTIVITIES TO ENHANCE AND OVERLAY ON THE IMAGES. THESE KEYWORDS ARE TO BE USED AS A "WHITE" STROKE OUTLINE ONLY, NO FILL PERMITTED.
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+
+##### Visual Style
+
+- Summit Bechtel Reserve -Two Color Logo Orange = PMS 151 C Black = PMS Black C
+- SBR -Color Icon Orange = PMS 151 C
+- Orange PMS 151 C
+- Black PMS Black C
+- Basecamp ALPHA Ref. P6 or PMS 356 C
+- Basecamp BRAVO Ref. P7 or PMS 185 C
+- Basecamp CHARLIE Ref. PB or PMS 2955 C
+- Basecamp DELTA Ref. P1 or PMS 1655 C
+- Basecamp ECHO Ref. P9 or PMS 267 C
+- Basecamp FOXTROT Ref. P10 or PMS 136 C
+- These images shown here are for inspirational use only to create the 2017 National Jamboree Graphic & Signage theme. Not to be used on any collateral or signage.
+- IMAGERY TO BE SELECTED FROM 2013 JAMBOREE AND FILTER TO BE APPLIED TO CREATE BLACK AND WHITE SKETCHED IMAGES TO BE APPLIED TO COLLATERAL OR PLYWOOD; ADDITIONAL IMAGES CAN BE SELECTED BASED ON DEVELOPMENT OF THE PACKAGE.
+- Consistent use of color plays an important role in main­taining a strong visual identity and wayfinding system. The following color palette should be used exclusively when using the 2017 National Jamboree Temporary Graphics.
+- AMERICAN FLAG RED PANTONE 186C
+- BSA BLUE PANTONE 294C
+- PATCH BACKGROUND PANTONE COOL GRAY 2C
+- GOLD PATCH ACCENT PANTONE 131C
+- GOLD PANTONE 131C
+- BLACK PANTONE BLACK 6C
+- WHITE
+- THESE ARE THE APPROVED COLOR CONFIGURATIONS FOR THE 2017 NATIONAL JAMBOREE.
+- FULL COLOR
+- FULL COLOR PRINTED
+- SEE COLOR SHEET 15 FOR DETAILS
+- TWO COLOR BLACK
+- BLACK SHOWN TO BE 100% BLACK
+- GRAY SHOWN TO BE 40% BLACK
+- SINGLE COLOR
+- TO BE ALL BLACK [AS SHOWN) OR ALL WHITE IF ON DARK BACKGROUND
+- Do Not: Convert the logo to gray scale
+- Do Not: Change the color of any element
+- Do Not: Convert the copy to strokes
+- Do Not: Delete any part of the logo
+- Do Not: Change porportions of any part of the logo
+- Do Not: Distort the porportions of the logo in any way
+- Do Not: Add a drop shadow to the logo
+- Do Not: Screen or tint the logo
+- Do Not: Tweak or warp the logo
+- THESE ARE THE NON PERMITTED TAGLINE USES FOR THE 2017 NATIONAL JAMBOREE
+- Do Not: Delete any primary part of the logo
+- Do Not: Change porportions of any part of the logo Do Not: Distort the porportions of the logo in any way
+- Keywords to be selected that relate to scouting and/or the activities to enhance and overlay on the images. These keywords are to be used as a white stroke outline, no fill and used vertically. The wayfinding/body copy font DIN Condensed Bold is to be used only.
+- TO BE OUTLINED WHITE IF ON DARK BACKGROUND AND OUTLINED BLACK IF ON WHITE BACKGROUND (AS SHOWN)
+- In each case, keywords must be outlined with no fill. in vertical position only and read upwards, facing outward as shown. All keywords must be approved before use.
+- The following images should be used as a rectangle with the approved filter and colors. The rights to all images need to be obtained before use. High resolution images will need to be supplied for final implementation. All images must be approved prior to use.
+- PH0TOSH0P PLUG-IN "AKVIS SKETCH" FILTER FILTER SETTINGS AKVIS DEFAULT PRESET TO PURCHASE; www.akvis.com SKETCH FILTER
+
+##### Iconography
+
+- This is a summary only. Please see additional information and details on sheets 26, 27 and 28.
+- THESE ARE THE APPROVED ICONS FOR THE 2017 NATIONAL JAMBOREE.
+- The following activity icons should be used in an orange rounded square exclusively.
+- THE PARK (Skateboarding)
+- THE BOWS ( Archery Sports )
+- THE CANOPY ( Canopy Tour)
+- THE POOLS ( Swimming & Scuba Diving)
+- THE TRAX (BMX)
+- THE ROCKS ( Climbing Walls)
+- THE ROPES ( Challenge Course)
+- THE CLOUD ( Popular Science & Robotics)
+- THE BARRELS ( Shooting Sports )
+- LOW & HIGH GEAR ( Lower & Upper Mtn Biking)
+- THE ZIP ( Big Zip)
+- DISABILITY AWARENESS ( Challenge Area Action Point ONLY)
+- THESE ARE THE APPROVED BASE CAMP ICONS FOR THE 2017 NATIONAL JAMBOREE.
+- The following base camp icons should be used in a rounded square exclusively. Icons are to be used only for base camps.
 
 ## Additional Properties
 

@@ -2,12 +2,12 @@
 title: HAW Hambourg
 slug: "haw-hambourg"
 description: ""
-date: "2026-03-20T08:22:03.133406"
+date: "2026-04-10T09:40:30.672906"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - germany
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
   - science
 industries: []
 countries: []
@@ -57,9 +57,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,9 +71,3 @@ visual_term_image_urls: {}
 - [https://www.haw-hamburg.de/hochschule](https://www.haw-hamburg.de/hochschule)
 - [http://www.haw-hamburg.de](http://www.haw-hamburg.de)
 - [http://www.hamburg.de](http://www.hamburg.de)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*

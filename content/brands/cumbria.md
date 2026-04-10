@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-03-20T08:22:04.854371"
+date: "2026-04-10T09:40:33.602314"
 draft: false
 sectors:
   - tourism
@@ -50,19 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-brand_colors:
-  - yellow
-  - white
-  - orange
-  - black
-typographies:
-  - helvetica
-  - display
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city in Allegany County, Maryland, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q754868"
 has_twitter: false
@@ -86,46 +77,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- Two basic formats for the consumer brand logo: on a white background and reversed out of a solid colour.
-- The logo components include text ('lake district', 'the', 'Cumbria') and a solid 'C' that matches Pantone PMS 130. Different tints are used for specific elements depending on background.
-- Minimum size requirements for displaying the logo: 60mm for normal use, 35mm for small use, measured across the width.
-- Color guidelines: preferred logo color is black, and it can be reproduced in specific colors (excluding yellow/orange tones). Pantone colors or alternatives are acceptable.
-- Logo positioning: the consumer brand should normally appear at the bottom left of communications and be reversed out of a colored panel for legibility.
-- Logo file formats available: EPS, TIFF, JPG, PDF. EPS files are preferred for flexibility in size and printing, including vector resizing.
-- Usage of logos on photographs may require the negative version and removal of the solid background color for legibility.
-- Corporate logo minimum sizes: 35mm across the width and flexibility to use alternate versions without a strapline.
-- Corporate brand usage in partnership: includes requirements for placement on promotional materials, websites, and press releases.
-
-**Color Information:**
-
-- Preferred logo color is black, but any strong and legible color (avoiding yellow/orange hues) can be used. Example Pantone references provided.
-
-**Typography Information:**
-
-- Destination font created specifically for headlines and titles in marketing materials. Helvetica Neue is preferred for body text.
-- Font weights and styles: Helvetica Neue 75 Bold, 55 Roman, 35 Thin. These are used for display roles.
-
-**Imagery Photography:**
-
-- Photography guidelines: emphasize consistent placement of titles and marketing messages on photographs with appropriate contrasting colors.
-- Visual style integrates the logo, font, and consistent design elements for use in brochures, websites, and other media.
-- Thematic campaigns supported by specific photography styles and color schemes to target segmented audiences.
-
-**Spacing Layout:**
-
-- Logo clearing zones are specified but must not be visually printed. The minimum size measurements apply to safe display.
-
-**Brand Voice:**
-
-- Destination identity allows tourism partners to use the brand font and logo for consumer-facing communication.
-- Corporate identity can highlight membership or support from Cumbria Tourism, used in promotional materials and partnership contexts.
-
-**Notes:**
-
-- Additional style and branding resources are available on the Cumbria Tourism corporate website: www.cumbriatourism.org/brand.
-- Brand manager contact information: Phone: 01539 822222, Email: brand@cumbriatourism.org.
+*Guidelines data not available*
 
 ## Additional Properties
 

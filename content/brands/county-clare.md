@@ -2,7 +2,7 @@
 title: County Clare
 slug: "county-clare"
 description: ""
-date: "2026-03-20T08:22:04.368359"
+date: "2026-04-10T09:40:33.093979"
 draft: false
 sectors:
   - "public-sector"
@@ -49,23 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - white
-  - black
-typographies:
-  - "proxima-nova"
-imagery_styles:
-  - dynamic
-  - bold
-  - photography
-  - monochrome
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "1831 United Kingdom of Great Britain and Ireland Act of Parliament 1 & 2 Will 4 c. 27"
 wikidata_url: "https://www.wikidata.org/wiki/Q106184641"
 has_twitter: false
@@ -83,43 +70,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo usage details and visual references for Clare Tourism. Examples in horizontal, vertical, and icon-only formats included.
-- Full-color logo and monochrome variants (black and white) provided. Recommendations for reversed usage also included.
-- Clear space rules around the logo specified; measurements ensure safety and visibility.
-- Minimum size for logo usage specified; guidelines prevent distortion or legibility issues.
-- Incorrect usage examples include stretching, rotating, recoloring, or adding drop shadows to the logo.
-
-**Color Information:**
-
-- Primary color palette with Pantone, CMYK, RGB, and HEX codes for brand colors.
-- Secondary/accent colors specified for limited use cases and complementary designs.
-- Usage rules elaborate on maintaining consistent contrast and avoiding color combinations outside the palette.
-
-**Typography Information:**
-
-- Primary font family named (e.g., 'Proxima Nova') alongside usage roles for headings, sub-headings, and body text.
-- 'Proxima Nova' weights specified include Regular, Bold, Extra Bold for varying design contexts.
-
-**Imagery Photography:**
-
-- Photography style emphasizes emotional connection, vibrant environments, and dynamic compositions.
-- Guidelines restrict the use of overly saturated filters and out-of-focus imagery.
-
-**Spacing Layout:**
-
-- Grid systems detailed to align with logo placement and text hierarchy.
-- Specifications for margins and padding ensure readability.
-
-**Brand Voice:**
-
-- Tone of voice indicated as warm, welcoming, and reflective of Clare's vibrant culture.
-- Messaging emphasizes inclusivity and connection, avoiding corporate or overly formal language.
-
-**Notes:**
-
-- Contact information for brand manager provided for additional guidance.
+*Guidelines data not available*
 
 ## Additional Properties
 

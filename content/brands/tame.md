@@ -2,7 +2,7 @@
 title: TAME
 slug: tame
 description: ""
-date: "2026-03-20T08:22:04.495302"
+date: "2026-04-10T09:40:33.249844"
 draft: false
 sectors:
   - airline
@@ -50,13 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: Defunct airline of Ecuador
 wikidata_url: "https://www.wikidata.org/wiki/Q1530726"
 has_twitter: false
@@ -75,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- Content discussing logo guidelines spanning pages, such as rules for logo usage, color variants, positioning, and file formats.
-
-**Color Information:**
-
-- Colors specified across designs, including Pantone codes, gradients, primary and secondary palettes, and rules.
-
-**Imagery Photography:**
-
-- Guides on the appropriate use of promotional and communication-centered photography.
-
-**Spacing Layout:**
-
-- Defined margin guides, clear spaces, and baseline alignments for visual consistency in layouts.
-
-**Brand Voice:**
-
-- Concept applied to communication tone and stylistic phrases associated with brand delivery.
-
-**Notes:**
-
-- The PDF is titled 'MANUAL DE IMAGEN LINEAMIENTOS Y PROHIBICIONES 2009', explicitly mentioning essential visual rules for corporate brand application.
-- Introduction outlines the manual as mandatory for proper implementation of TAME brand visuals.
-- Historical and operational background of TAME Linea Aérea del Ecuador is provided for context in brand positioning.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Lucas
 slug: lucas
 description: ""
-date: "2026-03-20T08:22:05.240545"
+date: "2026-04-10T09:40:34.114577"
 draft: false
 sectors:
   - hardware
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "letterman-digital-arts-center"
   - "san-francisco"
+  - "letterman-digital-arts-center"
 subsidiaries: []
 foundation_dates:
   - 1982
@@ -53,16 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - "pantone-185"
-  - white
-  - grey
-  - black
-typographies:
-  - roboto
-imagery_styles:
-  - bold
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American video game producer and publisher
 wikidata_url: "https://www.wikidata.org/wiki/Q216611"
 has_twitter: false
@@ -84,40 +77,79 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Coloured version of the LUCAS logotype: Includes Pantone 185 C (red) and Black C. Formats shown across RGB, HEX, CMYK.
-- Greyscale version of the LUCAS logotype: Includes HEX and RGB codes. Color HEX ranges from #7A7A7A (grey).
-- Uses over different backgrounds: Includes white logotype over pictures, solid dark backgrounds, and transparent black overlays (60%).
-- Minimum clear space rules: Space around the logotype must match the height and width of the 'C' in LUCAS. Minimum reproduction size is specified as 20 mm width.
-- Guidelines for reproducing alongside other partner logos: Maintain uniform distance between logos based on size proportions.
+##### Mission
 
-**Color Information:**
+- Not explicitly stated in the document.
 
-- Pantone 185 C (red) and Black C; HEX codes: #E62720 (red) and #1D1D1D (black); RGB and CMYK values provided for print compatibility.
-- Greyscale HEX codes: #7A7A7A and #1D1C1C; RGB and CMYK breakdowns included.
+##### Target Audience
 
-**Typography Information:**
+- Not explicitly stated, but implied to be robotics distributors, industrial partners, and corporate clients based on the frequent mention of 'Robotics Distributor' and business stationery formats.
 
-- Font: Eurostyle. Typeface variations include Regular, Bold Condensed, Extended, and Bold Extended. Specific use: print materials.
-- Font: Roboto. Variations: Thin, Light, Regular, Medium, Bold, Black with corresponding italics. Use for web, mobile, applications. Resource link: Google Fonts.
+##### Personality Traits
 
-**Imagery Photography:**
+- modern
+- minimalist
+- professional
+- high-tech
 
-- Imagery usage: White logotype recommended for overlays on images with a minimum of 60% black transparency, ensuring readability.
+##### Visual Identity Overview
 
-**Spacing Layout:**
+- The visual identity is characterized by bold, uppercase sans-serif logotypes, minimalist layouts, high contrast color schemes (black, white, red), and clear, uncluttered compositions. Logo usage is strictly defined for various backgrounds and media, with precise measurements and alignment rules. Typography is specified for print and digital applications, and QR code integration is included for digital access.
 
-- Clear space rules: Height and width of 'C' in LUCAS must be maintained around logos.
-- Reproduction alignment rules: Distributors' logo aligned based on measured spacing. Partner logos follow uniform distance placement relative to size.
+#### Categories
 
-**Brand Voice:**
+##### Logo Usage
 
-- Standard use of LUCAS Robotics Distributor logotype across multimedia, electronic signatures, print applications.
+- White Logotype over solid dark background
+- Black Logotype over solid neutral background
+- White Logotype over solid color background
+- White Logotype over picture and white color background
+- White Logotype over picture with at least 60% transparent black background
 
-**Notes:**
+##### Color Palette
 
-- QR code usage recommended as a complement or replacement for www.lucas-robotic-system.com in digital formats.
+- White Logotype over solid dark background
+- Black Logotype over solid neutral background
+- White Logotype over solid color background
+- White Logotype over picture and white color background
+- White Logotype over picture with at least 60% transparent black background
+
+##### Typography
+
+- Eurostyle Used for: print Regular Condensed Bold Condensed Extended 2 Bald Extended 2
+- Roboto Used for: web, mobile and applications Thin Thin !ta!ic Light Light !talic Regular Regular ltalic Medium Medium ltalic Bold Bold ltalic Black Black ltalic Google web font: fonts .goog le. com/specimen/Roboto
+
+##### Visual Style
+
+- White Logotype over solid dark background
+- Black Logotype over solid neutral background
+- White Logotype over solid color background
+- White Logotype over picture and white color background
+- White Logotype over picture with at least 60% transparent black background
+
+##### Layout And Composition
+
+- White Logotype over solid dark background
+- Black Logotype over solid neutral background
+- White Logotype over solid color background
+- White Logotype over picture and white color background
+- White Logotype over picture with at least 60% transparent black background
+
+##### Qr Code Guidelines
+
+- The QR code can be used instead of or in complement of the url: www.lucas-robotic-system.com
+
+##### Brand Stationery
+
+- LETTER PAPER
+- BUSINESS CARD
+- ENVELOPS
+- The Logo Robotics Distributor should be applied in the footer of the page, in alignement to the distributor's Logo. If the distributor's Logo is centered or aligned in different way, the Logo Robotics Distributor should be applied in the footer of the page, with right alignement.
+- The Logo Robotics Distributor should be applied in the footer of the card, in alignement to the distributor's Logo. If the distributor's Logo is centered or aligned in different way, the Logo Robotics Distributor should be applied in the top of the card, with right ali­gnement.
+- The Logo Robotics Distributor should be applied in the footer of the envelope, in alignement to the distributor's Logo.
+- The Logo Robotics Distributor should be applied 1n alignement to the distributor's Logo 1n both side.
 
 ## Additional Properties
 
@@ -127,7 +159,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Letterman Digital Arts Center](/headquarters_locations/letterman-digital-arts-center/); [San Francisco](/headquarters_locations/san-francisco/) |
+| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/); [Letterman Digital Arts Center](/headquarters_locations/letterman-digital-arts-center/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | George Lucas |
 | Inception | 1982-05-01 |

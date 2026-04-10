@@ -2,7 +2,7 @@
 title: TensorFlow
 slug: tensorflow
 description: ""
-date: "2026-03-20T08:22:05.556090"
+date: "2026-04-10T09:40:34.471166"
 draft: false
 sectors:
   - software
@@ -48,20 +48,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - logomark
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - white
-  - blue
-  - gray
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: machine learning software framework
@@ -84,29 +72,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Stacked lockup (for constrained spaces), horizontal lockup (preferred), white lockup on black, white lockup on orange, lockup on gray, icon-only logo, wordmark logo.
-- Use the width of the nodes in the logomark (the two end node columns) to determine the minimum amount of clear space that should surround the TensorFlow logo.
-- The logo should never appear smaller than: 20 dp (digital applications), 0.125 inches (print applications).
-- Do's and Don'ts: Do not stretch, alter colors, or rotate logos.
-- Partnership Guidelines: When sizing logos in partnerships, match the text x-height or cap height. Never use dividing symbols between partnering logos. Maintain clear space using width of nodes in the logomark.
-
-**Color Information:**
-
-- Primary colors derived from the logo: Orange (#FFA800, CMYK: 0, 70, 100, 0, PMS 137 C), Gray (#E6E6E6, CMYK: 9, 6, 5, 0, PMS 649 C), Light Orange (#FF6F00, CMYK: 0, 39, 100, 0, PMS 021 C), Dark Gray (#616161, CMYK: 61, 53, 52, 23, PMS 425 C), Slate Blue (#425066, CMYK: 78, 64, 41, 24, PMS 534 C), White (#FFFFFF, CMYK: 0, 0, 0, 0).
-
-**Spacing Layout:**
-
-- Partnership spacing: Use the width of nodes in the TensorFlow logomark to determine space between TensorFlow logo and partner logos. Match distances for balance.
-
-**Brand Voice:**
-
-- Messaging guideline: Include attribution statement, "TensorFlow, the TensorFlow logo and any related marks are trademarks of Google Inc." Use 'Powered by TensorFlow' attribution mark correctly.
-
-**Notes:**
-
-- Downloadable brand assets mentioned but not explicitly detailed in the text.
+*Guidelines data not available*
 
 ## Additional Properties
 

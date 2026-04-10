@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-03-20T08:22:04.369091"
+date: "2026-04-10T09:40:33.095299"
 draft: false
 sectors:
-  - publishing
   - ngo
   - research
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
   - english
 tags:
   - biology
-  - science
   - community
+  - science
 industries: []
 countries:
   - "united-kingdom"
@@ -55,23 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - abstract
-brand_colors:
-  - green
-  - white
-  - cyan
-  - blue
-  - black
-typographies:
-  - arial
-  - avenir
-imagery_styles:
-  - abstract
-  - flat
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: learned society for physiologists in the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q7757011"
 has_twitter: false
@@ -90,38 +77,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The Physiological Society logo is available for use in four color variations: full color (preferred logo used on white or light backgrounds), cyan and white (for dark blue backgrounds or very dark images), white (used on the six brand colors), and black (used with light colors). The primary logo is the full-color version ensuring high visibility and contrast.
-- Logo positioning can be in any corner to suit the design requirements, and clear exclusion zones are specified. Minimum size for print is 20mm width for clarity. Minimum size for digital screens is 72px width. Logos should maintain a safe zone around them and should not be distorted or modified.
-- Incorrect usage examples for logos include: placing the white logo on lighter backgrounds, altering or distorting proportions, using cyan and white on non-dark images, flipping or rotating the icon, modifying or rearranging the logo wordmark.
-- Journal-specific logos for 'The Journal of Physiology' and 'Experimental Physiology' retain the typography and brand colors of the Society.
-
-**Color Information:**
-
-- The Physiological Society brand palette includes cyan, blue, green, and accent colors with codes provided for HEX (#1B75BC for blue). Usage rules specify consistency and prohibited incorrect applications like mismatching colors or creating gradients.
-
-**Typography Information:**
-
-- Primary font families include Arial and Avenir Next for consistent messaging, with specified weights and usage purposes for titles, bodies, and captions.
-- Accessibility in typography ensures readability, with recommended font sizes and contrasting color combinations for various designs.
-
-**Imagery Photography:**
-
-- Imagery follows themes reflecting research, teaching, collaborations, inspiration, and conferences. Photos must align with brand tone and ensure clarity. Abstract illustrations and photographic treatments are encouraged.
-- Illustrative guidelines include flat vector images retaining brand colors for logo interconnection while promoting core disciplines visually.
-
-**Spacing Layout:**
-
-- Exclusion zones around logos require space proportional to logo height or width, ensuring clarity across designs. Recommended minimum width provisions exist for print and digital in diverse layout guidelines, maintaining proportion alignment rules.
-
-**Brand Voice:**
-
-- Brand voice emphasizes inspiring curiosity in physiology research, promoting inclusivity and partnerships, and educating in impactful scientific discourse.
-
-**Notes:**
-
-- Checklist provided to verify compliance with visual styles, typography, logos, and accessibility. Final sign-off mandatory before publication.
+*Guidelines data not available*
 
 ## Additional Properties
 

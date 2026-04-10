@@ -2,7 +2,7 @@
 title: Western Sydney University
 slug: "western-sydney-university"
 description: ""
-date: "2026-03-20T08:22:05.706973"
+date: "2026-04-10T09:40:34.649611"
 draft: false
 sectors:
   - education
@@ -59,21 +59,15 @@ imagery_styles: []
 wikidata_description: "university in Sydney, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q1141452"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.westernsydney.edu.au](https://www.westernsydney.edu.au)
-
-## Brand Guidelines
-
-### 2015
-
-*Guidelines data not available*
 
 ## Additional Properties
 

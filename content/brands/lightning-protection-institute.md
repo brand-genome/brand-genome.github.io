@@ -2,11 +2,11 @@
 title: Lightning Protection Institute
 slug: "lightning-protection-institute"
 description: ""
-date: "2026-03-20T08:22:04.192729"
+date: "2026-04-10T09:40:32.547116"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - usa
 years:
@@ -47,19 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - logomark
-  - horizontal
-  - lockup
-  - wordmark
-brand_colors:
-  - purple
-  - "pantone-871"
-typographies:
-  - avenir
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,27 +69,43 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- Stacked Wordmark Logo
-- Horizontal Wordmark Logo
-- Logomark
-- Stacked Logomark + Tagline Lockup
+##### Mission
 
-**Color Information:**
+- Embrace the Standard
 
-- Pantone Medium Purple U; CMYK: 63, 84, 0, 0; RGB: 100, 67, 137; HEX: #644389.
-- Pantone 871 C Metallic; CMYK: 37, 43, 62, 8; RGB: 157, 134, 103; HEX: #9D8667.
+##### Visual Identity Overview
 
-**Typography Information:**
+- The visual identity centers on a clean, minimalistic, and professional look, using a primary color palette of medium purple (PANTONE Medium Purple U) and metallic beige (PANTONE 871 C Metallic). The logo features a stylized shield and wordmark, with consistent use of uppercase, bold typography (Ridley Grotesk Bold and Avenir Book). Layouts emphasize clarity, alignment, and modernity, with prominent use of the tagline 'Embrace the Standard' in purple sans-serif font.
 
-- RIDLEY GROTESK BOLD font; Alphabet set provided with uppercase and lowercase examples.
-- AVENIR BOOK font; Alphabet set provided with uppercase and lowercase examples.
+#### Categories
 
-**Brand Voice:**
+##### Color Palette
 
-- Tagline: 'Embrace the Standard'.
+- PANTONE Medium Purple U CMYK: 63, 84, O, 0 RGB: 100, 67137 , HEX: #644389
+- PANTONE 871 C Metallic CMYK: 37, 43, 62, 8 RGB: 157, 134, 103 HEX: #9D8667
 
-**Notes:**
+##### Logo Usage
 
-- Contact information provided: P: 800.488.6864 | lightning.org | 333 Peterson Road, Suite F, Libertyville, IL 60048.
+- PANTONE Medium Purple U CMYK: 63, 84, 0, 0 RGB: 100, 67, 137 HEX: #644389
+- PANTONE 871 C Metallic CMYK: 37, 43, 62, 8 RGB: 157, 134, 103 HEX: #9D8667
+- LPI LIGHTNING PROTECTION INSTITUTE Stacked Wordmark Logo
+- LPI LIGHTNING PROTECTION INSTITUTE Horizontal Wordmark Logo
+- LPI Logomark
+- LPI Embrace the Standard Stacked Logomark + Tagline Lockup
+
+##### Typography
+
+- RIDLEY GROTESK BOLD: ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz AVENIR BOOK: ABCDEFG H IJ KLM NOPORSTUVWXYZ abcdefgh ij kl mnopqrstuvwxyz
+
+##### Visual Style
+
+- PANTONE Medium Purple U CMYK: 63, 84, 0, 0 RGB: 100, 67, 137 HEX: #644389
+- PANTONE 871 C Metallic CMYK: 37, 43, 62, 8 RGB: 157, 134, 103 HEX: #9D8667
+- LPI LIGHTNING PROTECTION INSTITUTE Stacked Wordmark Logo
+- LPI LIGHTNING PROTECTION INSTITUTE Horizontal Wordmark Logo
+- LPI Logomark
+- LPI Embrace the Standard Stacked Logomark + Tagline Lockup
+- Embrace the Standard Tagline
+- RIDLEY GROTESK BOLD: ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz AVENIR BOOK: ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz

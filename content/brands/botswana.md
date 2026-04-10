@@ -2,7 +2,7 @@
 title: Botswana
 slug: botswana
 description: ""
-date: "2026-03-20T08:22:05.414365"
+date: "2026-04-10T09:40:34.276467"
 draft: false
 sectors:
   - "public-sector"
@@ -49,23 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - gold
-  - blue
-  - yellow
-  - brown
-  - orange
-  - black
-typographies:
-  - serif
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "men's national association football team representing Botswana"
 wikidata_url: "https://www.wikidata.org/wiki/Q119322"
 has_twitter: false
@@ -84,45 +71,231 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- The Pride Mark consists of a uniquely crafted typeface, symbol (sun symbol representing beauty, discovery, light, energy, progress, and growth), and tagline ('Botswana - Pride and Progress').
-- Pride Mark formats include full-color, mono, black, and reversed versions. Mono variants may use Brand colors like Botswana Blue, Sienna, Orange, and Gold.
-- Minimum size requirements include A4 width at 45mm, A5 width at 40mm, and smaller contexts (e.g., web banners) at 25mm where the tagline is removed.
-- Clear space rules are defined by the height of the word 'BOTSWANA' to ensure no crowding by other design elements or logos.
-- The full-color Pride Mark should not appear on brightly colored or dark backgrounds; reversed versions should be used in such cases.
-- Do's and Don'ts for maintaining the Pride Mark include not altering, distorting, or recreating it. Specific incorrect usage examples are outlined, including removing elements, changing colors, relocating components, stretching, skewing proportions, and adding text.
-- Co-branding rules mandate following clear space and proportionate scaling guidelines when collaborating with partner logos. Consistency and clarity are prioritized.
+##### Mission
 
-**Color Information:**
+- To unify the national pride of all Batswana based on respect, hope and ambition towards a common goal for the future of our people and our country. The Pride Mark provides a symbolic reference point for projects and communications expressing community pride within Botswana and internationally, embodying the essence of ‘Pride and Progress’ linked to the Brand Botswana Blueprint [^1].
 
-- The Primary Color Palette includes Botswana Blue (Pantone 2925c, #0098DB), Botswana Gold (Pantone 131c, #CE8E00), Botswana Orange (Pantone 144c, #E98300), Botswana Brown (Pantone 476c, #4C3327), Botswana Sienna (Pantone 7526c, #8D3C1E), Botswana Yellow (Pantone 166c, #FECB00), Botswana Sunset (Pantone 166c, #E05206), Botswana Green (Pantone 362c, #3F9C35), and Botswana Black (Pantone Black, #1E1E1E). Detailed CMYK and RGB values accompany each.
-- Tints of the Primary Brand Colors are allowed for diagrams and charts. Text must always use 50% tint or greater.
-- The color palette is broad and rich but should be constrained to combinations of three to maintain consistency. Botswana Blue serves as the common color across various palettes.
-- A secondary palette complements the primary colors, shared across Trade, Tourism, and Community initiatives.
+##### Core Values
 
-**Typography Information:**
+- Peaceful
+- Inclusive
+- Trustworthy
+- Progressive
 
-- Meta Plus Typeface: Legible, neutral, and space-efficient. Variants include Meta Plus Book Roman and Bold Roman for headlines and statement text.
-- Tiempos Typeface: Sturdy serif type, suitable for body copy, campaign statements, and pull-outs. Variants include Regular, Italic, Semibold, and Semibold Italic.
+##### Target Audience
 
-**Imagery Photography:**
+- Local community groups, organizations, cultural expressions, products made in Botswana, and international agencies responsible for marketing and promoting Botswana products and services, including tourism [^2].
 
-- When applying the Pride Mark over photography, use mono or reversed versions. Full-color logos should not appear over photography. Apply the logo in quiet areas of the photograph with clear space rules for maximum contrast.
+##### Personality Traits
 
-**Spacing Layout:**
+- Friendly
+- Reliable
+- Optimistic
+- Thoughtful
+- Confident
 
-- Clear space and exclusion zones are dictated by the height of the word 'BOTSWANA', ensuring no crowding by design elements.
-- Lock-up rules for co-branding ensure proportional scaling of partner logos, guided by overall visual composition.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the Pride Mark, which includes a uniquely crafted word mark, a sun symbol, and a tagline. The color palette is inspired by Botswana’s landscape and heritage, featuring earth tones, blue, green, yellow, and zebra patterns. Typography uses Meta Plus and Tiempos typefaces for clarity and personality. The logo is applied across print, online, promotional items, and products, with strict guidelines for usage, clear space, minimum size, and co-branding [^3].
 
-- The tagline 'Pride and Progress' conveys a sense of ownership and pride for Batswana while appealing to an international audience. Messaging underscores Botswana’s peaceful, progressive, trustworthy, and inclusive values.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The Brand Tool Kit section provides thorough rules on the application, care, and representation of the Pride Mark.
-- Brand applications span print, marketing materials, web presence, community events, and cultural initiatives.
+- Our brand personality reflects the unique attributes that define our brand expression – or how we connect with others.
+- The brand personality traits are: Friendly Reliable Optimistic Thoughtful Confident
+- Friendly: We are always welcoming in our interactions with other people. We are naturally warm and respectful towards others and take pride in projecting this warmth to the outside world.
+- Reliable: Our people are consistent in their behaviour, providing greater reliability in social and business communications. This is achieved through Botswana’s social, economic and political stability which creates a safe and secure environment for people to live and work.
+- Optimism: We believe we can make life better for all Batswana by cultivating ideas, seeking out opportunities and facing the future with a positive outlook.
+- Thoughtful: We respect the views of others. We strive to find new and better ways to enhance our society. We act with responsibility, accountability and a genuine appreciation of our role in helping others.
+- Confident: While committed to the principles of democracy and consultation, we are decisive and clear in our views and keen to present a leading position on important issues.
+
+##### Brand Imagery
+
+- The Pride Mark is made up of a number of elements: the word mark, symbol and tagline.
+- The word mark consists of a uniquely crafted typeface, and uses the national colour blue, making it a strong identifier for the country.
+- The tagline instills a sense of ownership and pride of the Batswana people, yet also talks to an international audience.
+- The sun symbol holds positive connotations of beauty, discovery and light, as well as a source of energy, progress and growth of the nation.
+- In addition to the full-colour version, the Pride Mark is available in mono, black or reversed.
+- These formats are required when printing a black and white/limited colour job, or when the logo is placed over a darker background.
+- The mono logo can be produced in any of these Brand colours: Botswana Blue, Sienna, Orange and Gold.
+- Minimum size conditions ensure reproduction and appropriate scale of the Pride Mark.
+- A4 45mm (210 x 297mm)
+- A5 (148 x 210mm) 40mm
+- A6 / A7 and smaller (105 x 148mm) 35mm
+- Special Consideration 25mm For circumstances when the logo is required at a smaller size, eg. web banners, the tagline is removed. The zebra pattern is also replaced with a solid black.
+- Clear space ensures the impact of the Pride Mark is not diminished by being crowded by other design elements or logos.
+- X height = the height of the word 'BOTSWANA'
+- The full-colour Pride Mark should never appear on a brightly coloured background
+- The Pride Mark can appear over any of the brand colours (refer to pg 32 for all colour options). When placed over a solid colour, the logo should not be in colour, but instead appear in either black or white
+- When the Pride Mark is applied directly over photography, the mono or reversed version should be used. The full-colour Pride Mark should never be used directly over photography.
+- It is important that the clear space rule is respected and the Pride Mark is placed in a quiet section of the photograph to allow for maximum contrast and standout.
+- It is important that we protect our Pride Mark. The Pride Mark must never be altered, recreated or distorted in any way.
+- Remove any part of the Pride Mark Our pride, your destination Change any colours or typefaces within the Pride Mark Relocate any elements within the Pride Mark Stretch or skew out of proportion Change the proportions of the elements within the Pride Mark Add any additional text to the Pride Mark
+- The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
+
+##### Color Palette
+
+- The colours used in the Pride Mark have been inspired by the multitude of natural wonders found across the country.
+- Refer to pg. 32 for further colour information.
+- Earth Tones Represent much of the semi-arid Botswana landscape – sand dunes, hills, rocks and deserts.
+- Green Represents growth and the lush environment found in some parts of the country.
+- Blue Blue is prominent in the national flag and represents prosperity for all and the significance of water for Botswana.
+- Yellow Represents optimism and positivity.
+- Zebra Pattern This pattern represents the zebra, our national pride, which forms part of our country’s coat of arms. Black and white represent racial harmony.
+- The colour palette of the Pride Mark brand has been derived from the logo. The array of colours each hold special meaning, having been inspired by the culture, landscape and heritage of the country.
+- For the colours to work together as a family and provide impact and clarity in communication, there must be careful consideration of scale and proportion of colour.
+- Blue is the dominant colour, backed by the rich earth tones. Green is used sparingly.
+- Accurate representation of these colours is critical to building brand awareness and reinforcing Botswana’s ownership of this colour palette.
+- The table below outlines the PMS/CMYK & RGB breakdowns of the Pride Mark’s primary colour palette.
+- Note: Colours may vary depending on paper stock and printer. Please match as closely as possible to PMS Coated swatches.
+- Tints of the Primary Brand Colours are allowed for use in items such as diagrams and charts. The light end of the spectrum should never be used for text.
+- Text should always be 50% tint or greater.
+- The colour palette is broad and rich, however this diversity needs to be managed to ensure brand strength.
+- The below palette combinations can be used as a guide for choosing colours, and proportional usage.
+- We recommend only using three colours within an application to give strength and consistency to the Pride Mark communications.
+- The common colour across each of these scenarios is Botswana Blue.
+- In addition to the primary Pride Mark brand colours is an extended palette or secondary palette.
+
+##### Typography
+
+- The typography operates on two levels. The first level is the humanist sans serif typeface, Meta Plus. First released in 1991, the typeface is characterised by its legibility, neutrality, and space-saving qualities.
+- The typeface is strong and sturdy, powerfully delivering messages as a headline font, yet also reproducing particularly well at a small point size, giving it vast flexibility.
+- This neutral typeface is highly adaptable and suitable for use in print communications, online and in signage.
+- While maintaining clarity, the small irregularities of the angles and curves create a friendly and unique personality, and compliment the 'hand crafted' feel of the Pride Mark.
+- This typeface is primarily used for headings, sub-headings and statement text.
+- Meta Plus
+- Meta Plus Book Roman
+- Meta Plus Bold Roman
+- Meta Plus Book Italic
+- Meta Plus Bold Italic
+- Tiempos works well alongside the primary typeface Meta Plus.
+- Tiempos was originally designed for a Spanish newspaper redesign. It is characterised by the sturdy serifs and the robust skeleton.
+- It's sharp without being shrill or brittle, with snug spacing to optimise copyfit. The lengthened ascenders and descenders aim to strike a balance between practicality and elegance.
+- This style of typography is used in body copy, campaign statements and 'pull-outs'.
+- Tiempos
+- Tiempos Regular
+- Tiempos Italic
+- Tiempos Semibold
+- Tiempos Semi bold Italic
+- Tints of the Primary Brand Colours are allowed for use in items such as diagrams and charts. The light end of the spectrum should never be used for text.
+- Text should always be 50% tint or greater.
+
+##### Logo Usage
+
+- In addition to the full-colour version, the Pride Mark is available in mono, black or reversed.
+- These formats are required when printing a black and white/limited colour job, or when the logo is placed over a darker background.
+- The mono logo can be produced in any of these Brand colours: Botswana Blue, Sienna, Orange and Gold.
+- Minimum size conditions ensure reproduction and appropriate scale of the Pride Mark.
+- Paper Size (ISO 216 – A Series) Minimum Mark Size (Width) A4 45mm (210 x 297mm) A5 (148 x 210mm) 40mm A6 / A7 and smaller (105 x 148mm) 35mm Special Consideration 25mm For circumstances when the logo is required at a smaller size, eg. web banners, the tagline is removed. The zebra pattern is also replaced with a solid black.
+- Clear space ensures the impact of the Pride Mark is not diminished by being crowded by other design elements or logos.
+- X height = the height of the word 'BOTSWANA'
+- Pride Mark on light colour background (The full-colour Pride Mark should never appear on a brightly coloured background)
+- The Pride Mark can appear over any of the brand colours (refer to pg 32 for all colour options). When placed over a solid colour, the logo should not be in colour, but instead appear in either black or white
+- When the Pride Mark is applied directly over photography, the mono or reversed version should be used. The full-colour Pride Mark should never be used directly over photography.
+- It is important that the clear space rule is respected and the Pride Mark is placed in a quiet section of the photograph to allow for maximum contrast and standout.
+- It is important that we protect our Pride Mark. The Pride Mark must never be altered, recreated or distorted in any way.
+- Remove any part of the Pride Mark Our pride, your destination Change any colours or typefaces within the Pride Mark Relocate any elements within the Pride Mark Stretch or skew out of proportion Change the proportions of the elements within the Pride Mark Add any additional text to the Pride Mark
+- In situations where there is more than one logo supporting or collaborating with the Pride Mark, consistency and clarity are the priority.
+- The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
+
+##### Tone And Messaging
+
+- Together the components seek to be informative, inspirational and motivational.
+- The Pride Mark symbolises the pride of Batswana and acts as a unifying mark for all community projects and events that are specifically designed to instill pride within the local community.
+- Each activity or product that carries the Pride Mark must clearly support the Essence of Brand Botswana, deliver positive social outcomes and demonstrate the values of peaceful, progressive, trustworthy and inclusive.
+- Our values reflect our beliefs and guide how we behave in the world.
+- Peaceful: We take pride in being a peaceful nation.
+- Inclusive: Our society is built on the principles of Botho, the Kgotla system, and Therisanyo, which guide our personal and business interactions as we strive to find new and better ways to enhance the lives of all Batswana.
+- Trustworthy: We are economically and politically stable with a democratically elected government and good governance structures.
+- Progressive: We are committed to innovation and success, investment in knowledge, infrastructure and the growth of our community. We aspire to be a leading nation – socially, politically and economically.
+- Our brand personality reflects the unique attributes that define our brand expression – or how we connect with others.
+- Friendly: We are always welcoming in our interactions with other people. We are naturally warm and respectful towards others and take pride in projecting this warmth to the outside world.
+- Reliable: Our people are consistent in their behaviour, providing greater reliability in social and business communications. This is achieved through Botswana’s social, economic and political stability which creates a safe and secure environment for people to live and work.
+- Optimism: We believe we can make life better for all Batswana by cultivating ideas, seeking out opportunities and facing the future with a positive outlook.
+- Thoughtful: We respect the views of others. We strive to find new and better ways to enhance our society. We act with responsibility, accountability and a genuine appreciation of our role in helping others.
+- Confident: While committed to the principles of democracy and consultation, we are decisive and clear in our views and keen to present a leading position on important issues.
+- Our essence sits at the core Through our personality traits it is expressed to the outside world in terms of proof points and belief statements. These are our ‘Reasons to Believe’.
+- The essence is: Pride and Progress
+- The tagline instills a sense of ownership and pride of the Batswana people, yet also talks to an international audience.
+
+##### Brand Values
+
+- Our values reflect our beliefs and guide how we behave in the world.
+- The brand values are: Peaceful Inclusive Trustworthy Progressive
+- Peaceful: We take pride in being a peaceful nation.
+- Inclusive: Our society is built on the principles of Botho, the Kgotla system, and Therisanyo, which guide our personal and business interactions as we strive to find new and better ways to enhance the lives of all Batswana.
+- Trustworthy: We are economically and politically stable with a democratically elected government and good governance structures.
+- Progressive: We are committed to innovation and success, investment in knowledge, infrastructure and the growth of our community. We aspire to be a leading nation – socially, politically and economically.
+
+##### Visual Style
+
+- The Pride Mark is made up of a number of elements: the word mark, symbol and tagline.
+- The word mark consists of a uniquely crafted typeface, and uses the national colour blue, making it a strong identifier for the country.
+- The tagline instills a sense of ownership and pride of the Batswana people, yet also talks to an international audience.
+- The sun symbol holds positive connotations of beauty, discovery and light, as well as a source of energy, progress and growth of the nation.
+- In addition to the full-colour version, the Pride Mark is available in mono, black or reversed.
+- These formats are required when printing a black and white/limited colour job, or when the logo is placed over a darker background.
+- The mono logo can be produced in any of these Brand colours: Botswana Blue, Sienna, Orange and Gold.
+- Minimum size conditions ensure reproduction and appropriate scale of the Pride Mark.
+- A4 45mm (210 x 297mm)
+- A5 (148 x 210mm) 40mm
+- A6 / A7 and smaller (105 x 148mm) 35mm
+- Special Consideration 25mm For circumstances when the logo is required at a smaller size, eg. web banners, the tagline is removed. The zebra pattern is also replaced with a solid black.
+- Clear space ensures the impact of the Pride Mark is not diminished by being crowded by other design elements or logos.
+- X height = the height of the word 'BOTSWANA'
+- The full-colour Pride Mark should never appear on a brightly coloured background
+- The Pride Mark can appear over any of the brand colours (refer to pg 32 for all colour options). When placed over a solid colour, the logo should not be in colour, but instead appear in either black or white
+- When the Pride Mark is applied directly over photography, the mono or reversed version should be used. The full-colour Pride Mark should never be used directly over photography.
+- It is important that the clear space rule is respected and the Pride Mark is placed in a quiet section of the photograph to allow for maximum contrast and standout.
+- The Pride Mark must never be altered, recreated or distorted in any way.
+- Remove any part of the Pride Mark Our pride, your destination Change any colours or typefaces within the Pride Mark Relocate any elements within the Pride Mark Stretch or skew out of proportion Change the proportions of the elements within the Pride Mark Add any additional text to the Pride Mark
+- The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
+- The typography operates on two levels. The first level is the humanist sans serif typeface, Meta Plus. First released in 1991, the typeface is characterised by its legibility, neutrality, and space-saving qualities.
+- The typeface is strong and sturdy, powerfully delivering messages as a headline font, yet also reproducing particularly well at a small point size, giving it vast flexibility.
+- This neutral typeface is highly adaptable and suitable for use in print communications, online and in signage.
+- While maintaining clarity, the small irregularities of the angles and curves create a friendly and unique personality, and compliment the 'hand crafted' feel of the Pride Mark.
+- This typeface is primarily used for headings, sub-headings and statement text.
+- Tiempos works well alongside the primary typeface Meta Plus.
+- Tiempos was originally designed for a Spanish newspaper redesign. It is characterised by the sturdy serifs and the robust skeleton.
+- It's sharp without being shrill or brittle, with snug spacing to optimise copyfit. The lengthened ascenders and descenders aim to strike a balance between practicality and elegance.
+- This style of typography is used in body copy, campaign statements and 'pull-outs'.
+- The use of colour is an important element of any brand expression. The use of colour helps to convey our brand's uniqueness and personality.
+- The colour palette of the Pride Mark brand has been derived from the logo. The array of colours each hold special meaning, having been inspired by the culture, landscape and heritage of the country.
+- For the colours to work together as a family and provide impact and clarity in communication, there must be careful consideration of scale and proportion of colour.
+- Blue is the dominant colour, backed by the rich earth tones. Green is used sparingly.
+- Accurate representation of these colours is critical to building brand awareness and reinforcing Botswana’s ownership of this colour palette.
+- Colours may vary depending on paper stock and printer. Please match as closely as possible to PMS Coated swatches.
+- Tints of the Primary Brand Colours are allowed for use in items such as diagrams and charts. The light end of the spectrum should never be used for text.
+- Text should always be 50% tint or greater.
+- The colour palette is broad and rich, however this diversity needs to be managed to ensure brand strength.
+- The below palette combinations can be used as a guide for choosing colours, and proportional usage.
+- We recommend only using three colours within an application to give strength and consistency to the Pride Mark communications.
+- The common colour across each of these scenarios is Botswana Blue.
+- In addition to the primary Pride Mark brand colours is an extended palette or secondary palette.
+
+##### Layout And Composition
+
+- Minimum size conditions ensure reproduction and appropriate scale of the Pride Mark.
+- Paper Size (ISO 216 – A Series) Minimum Mark Size (Width) A4 45mm (210 x 297mm) A5 (148 x 210mm) 40mm A6 / A7 and smaller (105 x 148mm) 35mm Special Consideration 25mm For circumstances when the logo is required at a smaller size, eg. web banners, the tagline is removed. The zebra pattern is also replaced with a solid black.
+- Clear space ensures the impact of the Pride Mark is not diminished by being crowded by other design elements or logos.
+- X height = the height of the word 'BOTSWANA'
+- The full-colour Pride Mark should never appear on a brightly coloured background
+- The Pride Mark can appear over any of the brand colours (refer to pg 32 for all colour options). When placed over a solid colour, the logo should not be in colour, but instead appear in either black or white
+- When the Pride Mark is applied directly over photography, the mono or reversed version should be used. The full-colour Pride Mark should never be used directly over photography.
+- It is important that the clear space rule is respected and the Pride Mark is placed in a quiet section of the photograph to allow for maximum contrast and standout.
+- The Pride Mark must never be altered, recreated or distorted in any way.
+- Remove any part of the Pride Mark Our pride, your destination Change any colours or typefaces within the Pride Mark Relocate any elements within the Pride Mark Stretch or skew out of proportion Change the proportions of the elements within the Pride Mark Add any additional text to the Pride Mark
+- In situations where there is more than one logo supporting or collaborating with the Pride Mark, consistency and clarity are the priority.
+- The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
+
+##### Co Branding
+
+- The following rules are a guide to managing relationships between the Pride Mark and its potential partners, supporters or related organisations.
+- In situations where there is more than one logo supporting or collaborating with the Pride Mark, consistency and clarity are the priority.
+- The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
 
 ## Additional Properties
 

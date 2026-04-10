@@ -2,7 +2,7 @@
 title: Yelp
 slug: yelp
 description: ""
-date: "2026-03-20T08:22:05.797071"
+date: "2026-04-10T09:40:34.791444"
 draft: false
 sectors:
   - "e-commerce"
@@ -48,20 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-  - "app-icon"
-  - lockup
-  - primary
-brand_colors:
-  - red
-  - grey
-  - black
-typographies:
-  - avenir
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: help viewer application for the GNOME desktop environment
 wikidata_url: "https://www.wikidata.org/wiki/Q47430544"
 has_twitter: false
@@ -82,34 +72,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The ideal presentation of our logo is shown in full color. Full-color logos can be downloaded at www.yelp.com/brand.
-- Logo variations: One Color, Grey Scale. Specific color codes provided include Yelp Red (Hex: #c41200, RGB: 196/18/0, Pantone 1795c, CMYK: 9/98/93/1), 5-star Red (Hex: #181512, RGB: 24/21/18, CMYK: 70/67/68/81), Natoma (Hex: #cccccc, RGB: 204/204/204, CMYK: 19/15/16/0).
-- Clear space rules: Proportionally substantial to the smallest font size used. Minimum logo size: No smaller than 1/4 inches in height.
-- Logo usage restrictions: Do not alter the logo, create custom versions, rotate the logo, or change the colors. Logos must be downloaded from www.yelp.com/brand.
-
-**Color Information:**
-
-- Primary colors include Yelp Red (Hex: #c41200, RGB: 196/18/0, Pantone 1795c, CMYK: 9/98/93/1), 5-star Red (Hex: #181512, RGB: 24/21/18, CMYK: 70/67/68/81), and Natoma (Hex: #cccccc, RGB: 204/204/204, CMYK: 19/15/16/0).
-
-**Typography Information:**
-
-- Yelp's primary typeface is Avenir. Typically, black is used with weights including Heavy, Medium, Roman, and Book. Light and Italic styles are not permitted.
-
-**Spacing Layout:**
-
-- Clear space proportions are set relative to the smallest font size used in the design. Logos have a minimum size of 1/4 inches in height.
-
-**Brand Voice:**
-
-- Yelp's voice is conversational and approachable, leaning more towards chatting over coffee than casual beer discussions. The voice should reflect the user's perspective as consumers.
-
-**Notes:**
-
-- Yelp uses distinctive lockups for its tagline: Vertical lockup 'We know just the place' as the preferred option and a Horizontal lockup variation.
-- Yelp's burst logos are used as a support graphic in community collateral for Elite Yelper events and as an app icon for Android. Usage guidelines specify not rotating or altering the burst color schemes.
-- Partnerships section identifies appropriate usage of Yelp's logo and content for partners. Content guidelines are accessible at www.yelp.com/partners.
+*Guidelines data not available*
 
 ## Additional Properties
 

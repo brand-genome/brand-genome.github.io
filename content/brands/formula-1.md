@@ -2,7 +2,7 @@
 title: Formula 1
 slug: "formula-1"
 description: ""
-date: "2026-03-20T08:22:05.044660"
+date: "2026-04-10T09:40:33.809143"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -72,3 +72,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*

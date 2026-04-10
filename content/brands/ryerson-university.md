@@ -2,7 +2,7 @@
 title: Ryerson University
 slug: "ryerson-university"
 description: ""
-date: "2026-03-20T08:22:04.527775"
+date: "2026-04-10T09:40:33.324505"
 draft: false
 sectors:
   - education
@@ -55,18 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
-brand_colors:
-  - gold
-  - blue
-typographies:
-  - impact
-imagery_styles:
-  - graphic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public research university located in Toronto, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q611723"
 has_twitter: false
@@ -87,42 +79,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The university logo is described as embodying Ryerson's identity, combining elements from the past while facing forward. It uses Replica Std typeface and the primary brand colors (blue and gold), along with two overlaid boxes for undisturbed space around the university name.
-- Logo must not be recreated or modified. It is always used in full color unless production limitations apply. Specific examples of incorrect usage are detailed later in the document.
-- Clear space guidelines are defined for logo protection, ensuring no text or visuals encroach the designated safe zone around the logo. Minimum size rules are also specified.
-- Details all incorrect uses of the logo including distortions, color changes, or improper placements.
-
-**Color Information:**
-
-- Primary color palette includes details on blue and gold with their HEX, RGB, CMYK codes. Secondary palette expands to complementary tones for additional flexibility.
-- Accessibility considerations are outlined for color contrast in design. All colors should meet minimum contrast ratios to ensure readability and inclusivity.
-
-**Typography Information:**
-
-- Replica Std is designated as the primary font of the Ryerson brand guidelines. It is used prominently in logo and consistent visual identity.
-- Secondary font options are also provided for more flexible uses and to differentiate distinct brand messages.
-
-**Imagery Photography:**
-
-- Guidelines for selecting photography emphasize clear messaging, consistent style, and brand alignment. Licensing considerations are highlighted for specific use cases (e.g., poster, social media).
-- Photography licensing options include project-specific use and multiple application contracts. Ownership terms must be clearly defined upfront.
-
-**Spacing Layout:**
-
-- Safe zone for logo placement and vertical alignment recommendations are provided to maintain consistent layout.
-
-**Brand Voice:**
-
-- The tone is defined as optimistic, grounded, progressive, inclusive, daring, and scholarly. These characteristics articulate the brand's personality and help maintain consistency across messages.
-- Mission and vision statements emphasize Ryerson as a hub for thoughtful innovation, encouraging transformation and societal impact.
-- Core values involve diversity, inventiveness, resourcefulness, relevance, courage, and openness, each reflecting the brand ethos.
-
-**Notes:**
-
-- This document contains additional sections on partnership rules, graphic design elements, campaign branding, and application examples.
-- University Relations is available to assist with photography licensing, contract drafting, and usage rights clarification.
+*Guidelines data not available*
 
 ## Additional Properties
 

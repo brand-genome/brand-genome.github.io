@@ -2,11 +2,11 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-03-20T08:22:04.885560"
+date: "2026-04-10T09:40:33.640460"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - usa
 years:
@@ -18,10 +18,10 @@ tags:
   - internet
 industries:
   - "technology-industry"
-  - "software-industry"
+  - "mass-media"
   - "media-industry"
   - "internet-industry"
-  - "mass-media"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -39,8 +39,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1983
   - 1985
+  - 1983
 foundation_year_buckets:
   - 1980S
 lightings: []
@@ -60,19 +60,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-brand_colors:
-  - red
-  - white
-  - cyan
-  - grey
-  - orange
-  - pink
-  - black
-typographies:
-  - arial
-  - din
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: American web portal and online service provider
 wikidata_url: "https://www.wikidata.org/wiki/Q27585"
@@ -95,30 +85,366 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
+#### Brand Summary
 
-- Details regarding AOL Wordmark appearance in various contexts, proper cropping, color rules, clear space rules, and usage restrictions. Page discusses AOL wordmark sizing from 30% to 80% of the canvas size, ensuring breakout from the canvas and proper cropping rules.
-- Rules on improper usage of the AOL Wordmark, such as incorrect rotations, applying gradients, affecting letter legibility, or filling a canvas with images.
-- Motion file branding examples including rules for placement of the AOL Wordmark on a motion canvas, proper breakout, maintaining white color, and ensuring clear interactive visibility.
+##### Mission
 
-**Color Information:**
+- AOL's mission is to deliver world-class products and original content to consumers, focusing on simplicity and creativity in everything they do [^1].
 
-- The AOL color palette emphasizes visual boldness, simplicity, and fun. Colors like White (HEX #FFFFFF), Black (HEX #000000), and accent shades including Pink (Pantone 2395C), Cyan (Pantone Process Cyan C), Red (Pantone 485C), and Orange (Pantone 021C) are detailed with CMYK, RGB, and HEX values. Explicit Pantone matching disclaimer included.
-- Guidance on color usage for body copy and applications: Black or grey is specified; Grey is suggested as CoolGray10C and noted only as spot color, never as CMYK build.
+##### Core Values
 
-**Typography Information:**
+- Bold
+- Simple
+- Fun
 
-- AOL corporate font is Din Next Rounded Pro, to be used wherever feasible for branded material. Alternative font is Calibri for PC or Arial for Mac systems. Detailed usage for headlines and captions, type size recommendations, solid leading for text set at 72pt, usage tracking at -15/1000em, and proper column width specifications for optimal legibility.
-- Spacing specifications such as leading values above 72pt, use of flush left and rag settings for justifications, and avoiding justified text. Wide columns to ensure text legibility per set guidelines.
+##### Target Audience
 
-**Imagery Photography:**
+- Consumers seeking engaging, creative, and simple content experiences, including users of AOL's products and services such as mail, corporate communications, B2B marketing, and those interacting with AOL through partnerships [^2].
 
-- Visual guidance for integrating AOL branded motion files within digital or multimedia content. Encourages users to treat motion canvases as custom artwork, following brand principles.
-- 1-color and 4-color photographic integrations allow for high contrast printing without diluting brand identity touchpoints.
+##### Personality Traits
 
-**Notes:**
+- Direct
+- Easy to understand
+- Upbeat
+- Optimistic
+- Creative
+- Modern
 
-- Appendices for corporate contact details: Brand guidelines or inquiries directed to brand.team@corp.aol.com. Support and official request process for creating new digital layouts or printable assets.
+##### Visual Identity Overview
+
+- AOL's visual identity is built around custom canvases, channel lockups, and sub-brands, using bold, simple, and fun design principles. The brand employs a diverse color palette, distinctive wordmarks, and modern, open compositions with plenty of white space. Visual elements include abstract and representational art, playful imagery, and clear, legible typography [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Use these three design principles for anything you are creating. Bold Keep your subject and audience clearly in mind, and communicate directly. Be direct and easy to understand. Simple Give your canvas, images and text room to breathe. Say more with less, and use open, modern com positions. Fun Be upbeat and optimistic. The internet is a wacky place where the world comes together to share and learn. You help create the space where that takes place: enjoy it! Where it makes sense, use humor to communicate.
+
+##### Brand Imagery
+
+- Our canvases express the company vision of creating simple and exciting content experiences. They are used when talking about the company as a whole and on key products and services—such as www.aol.com, mail, corporate and internal communications, B2B marketing, and when sponsoring or partnering with other companies.
+- Use these three design principles for anything you are creating. Bold: Keep your subject and audience clearly in mind, and communicate directly. Be direct and easy to understand. Simple: Give your canvas, images and text room to breathe. Say more with less, and use open, modern compositions. Fun: Be upbeat and optimistic. The internet is a wacky place where the world comes together to share and learn. You help create the space where that takes place: enjoy it! Where it makes sense, use humor to communicate.
+- A combination of the AOL word mark and art, our canvases (both 4-color and 1-color) are the primary way we communicate the AOL brand. We don't show our brand by simply stamping our name everywhere. We have crafted an identity that shares our wonder at the range of content found on the Web.
+- 4-color art can be abstract or representational, and includes photography and illustration.
+- As of December 10, 2009, approved files exist for all the 4-color canvases shown.
+- The canvas usually appears on a white background. The AOL wordmark is white as well. If there is an instance when the canvas appears on a color background, contact the brand team for support and approval.
+- Cropping the canvas lockup is allowed as it may appear in limited size spaces. Crop for visual interest and understanding if the original image is not abstract.
+- Do not crop into the word mark on the canvas.
+- While there is no specific clear space measurement for canvases, be sure to treat them like artwork and give them space to breathe.
+- Only the AOL word mark appears on canvases. Do not place additional copy or graphic elements on canvases.
+- Contact the brand team (brandteam@corp.aol.com) before creating new 4-color art.
+- 4-color canvases are created as layered Adobe Photoshop files then made into single-layer files for distribution in JPG and TIFF formats.
+- Always use the AOL wordmark.
+- The wordmark must break out of the canvas in at least one place.
+- Size the AOL wordmark 20-50% of the overall 4-color canvas size.
+- Do not recreate the AOL word mark. Always use the supplied artwork.
+- Do not use color other than white for AOL wordmark.
+- Do not create transparency for use on canvases.
+- Do not colorize 4-color canvases.
+- Do not make AOL wordmark too small.
+- Do not make AOL wordmark too large.
+- Do not lose legibility of letters of wordmark, especially "A" and "l".
+- Do not rotate AOL word mark.
+- Avoid rotating/flipping canvas.
+- Do not make up your own canvas art.
+- 1-color art is bold and abstract illustration. Our canvas collection will change and evolve, but they will remain simple, iconic and easy­to-use. If you have any question as to which canvas you need, the 1-color canvases are a smart and practical choice.
+- As of December 10, 2009 approved files exist for all of the 1-color canvases shown.
+- 1-color canvases appear in every color of the primary color palette except Gray.
+- Contact the brand team before using a 1-color canvas that is not black or white with transparency against a photograph or color background.
+- 1-color canvases are created as layered Adobe Illustrator files and then made into single-layer files for distribution in EPS, JPG, and PNG formats.
+- Size the AOL wordmark 30-80% of the overall canvas size.
+- Do not change the color or transparency of the AOL wordmark.
+- Do not apply gradients to the artwork.
+- Use only the primary color palette when coloring our 1-color canvases.
+- Do not fill a 1-color canvas with an image.
+- Do not place any type or graphics on the canvas.
+- We have created a library of AOL motion canvases that serve the same function as 1-color and 4-color canvases. We don't show our brand by simply stamping our name everywhere: we have crafted an identity that shares our wonder at the range of content found on the Web.
+- Contact the brand team (brandteam@corp.aol.com) before creating new motion files.
+- Follow the same rules for placement of the AOL wordmark on a canvas (in this case on the content acting as a canvas).
+- Motion files are created as MOV, MP4, and M4V files.
+- Do not create a motion canvas with a word mark in any other color than white.
+- Do not create a motion canvas where the wordmark doesn't break out of the canvas in at least one place.
+- Do not place any type or graphics on a motion canvas other than the word mark.
+- Do not create a motion canvas with a 1-color canvas as the wordmark.
+- Do not use the AOL wordmark as a bug.
+
+##### Color Palette
+
+- Our color palette reflects our design principles: Bold, simple, fun.
+- Use the colors sparingly, and as accent color only. Along with our color, white space is also our friend. In any piece of communication white space should be the dominant color.
+- We are updating the complete AOL color palette (in the current AOL style guide) to include all colors that we use across our properties.
+- This new nine-color palette is specific to the new AOL brand identity. These are the colors allowed for the 1-color canvases except Gray. CMYK values are preferred for print applications.
+- PANTONE® The colors shown throughout these guidelines have not been evaluated by Pantone, Inc. for accuracy and may not match the Pantone Color Standards. Consult current Pantone Publications for accurate color. Pantone is the property of Pantone, Inc.
+- BLACK Pantone Black C C 0 M 0 Y 0 K 100 R G B 0 0 0 HEX 000000
+- White C 0 M 0 Y 0 K 0 R 255 HEX G 255 FFFFFF B 255
+- GRAY Pantone Cool Gray 10 C C 0 M 0 Y 0 K 60 R G B 128 128 128 HEX 808080
+- PINK Pantone 2395 C C 0 M 100 Y 0 K 0 R G B 255 0 222 HEX FF00DE
+- GREEN Pantone 375 C C 47 M 0 Y 94 K 0 R G B 76 255 0 HEX 4CFF00
+- CYAN Pantone Process Cyan C C 100 M 0 Y 0 K 0 R G B 15 214 255 HEX 00CCFF
+- PURPLE Pantone 266 C C 82 M 88 Y 0 K 0 R G B 111 0 194 HEX 6F00C2
+- RED Pantone 485 C C 0 M 93 Y 95 K 0 R G B 255 0 0 HEX FF0000
+- ORANGE Pantone 021 C C 0 M 68 Y 100 K 0 R G B 255 134 0 HEX FF8600
+- These are the colors allowed for the 1-color canvases except Gray.
+- CMYK values are preferred for print applications.
+- Do not use more than one color to highlight text when used in conjunction with color photography and/or 4-color canvas art.
+- A single color from our color palette has also been used to highlight sections of copy.
+
+##### Typography
+
+- Din Next Rounded Pro is a custom font and should be used as our primary typeface. It should be used where ever possible on AOL branded materials and templates.
+- A license is required to use Din Next Rounded Pro. The Brand Team will supply the font to teams who produce marketing and communications pieces. All other teams may request a license from the Brand team.
+- If your team does not have availability to Din Next Rounded Pro, please use, as a default, Calibri (Regular and Bold). This is a system font that is available on all PC systems. Mac users should default to Arial (Regular and Bold).
+- DIN Next Rounded Pro Light Use for headlines, captionsand body copy at any size.
+- DIN Next Rounded Pro Regular Use for subheads and as emphasis for any type 24 pt. and below. This weight is also preferred for web and broadcast applications.
+- Calibri Regular (default for PC users) Use for headlines, captionsand body copy at any size.
+- Calibri Bold Use for subheads and as emphasis for any type 24 pt. and below.
+- Arial Regular (default for Mac users) Use for headlines, captionsand body copy at any size.
+- Arial Bold (Mac users) Use for subheads and as emphasis for any type 24 pt. and below.
+- Upper and lowercase is preferred for all communications. All caps may be used very occasionally for subheads.
+- The term leading refers to the space between lines of type. When type is used below 72pt., leading should be two points greater than the type size. Above 72pt., leading should be the same as the type size or even less, if appropriate.
+- Tracking is the space between letters. Set DIN Next Rounded Pro with -15/1000 em tracking. Letters should never “crash” or touch each other.
+- Type should always be set either flush left, rag right or flush right, rag left. Type is never justified and rarely centered.
+- It is important that the width of the column is optimal for legibility. The column width should not be more than 72 characters wide.
+- This type is set at 72pt. At this size, the leading should be 100% of the point size, 72pt. This is sometimes referred to as solid leading. The tracking is -15. The column width is 32 characters wide.
+- Subheads Keep thing s an' color d Titles u • fuland consisst tent t. sen• 5torfor titles, subhea d "#C,,}":s, an ca xu use eny one color per a pplication.
+- The standard' alors for body copy are black or grey. f body copy is g rey , use Cool Gray 1 OC as a spot color on ly , never as a CMYK build.
+
+##### Logo Usage
+
+- The AOL word mark consists of the letters "Aol" and the dot.
+- A combination of the word mark (with the dot shifted) and the channel name.
+- A combination of the AOL word mark approved 4-color and 1-color art.
+- A 1-color canvas seen in the URL window of internet browsers. It is used across all of the AOL properties.
+- The AOL wordmark consists of the letters “Aol” and the dot. It is rarely used outside of the combinations that make canvases and channel lockups.
+- If it does appear without art or a channel name, it’s color is either black or white.
+- Contact the brand team before using the wordmark alone.
+- When referring to our company, in copy, AOL is always written in uppercase. It should never appear as “Aol.” We do not try to recreate our logo in copy.
+- A combination of the AOL word mark and the channel name, our channel lockups exist primarily online: they are used as either headers or footers within their specific domains.
+- The channel name always appears between the AOL word mark and the dot.
+- "Aol" and the dot are always in black or white. Select the channel color according to the online color palette. On color backgrounds with sufficient contrast the channel lockup is white.
+- A suggested minimum clear space between the channel lockup and other graphic elements is measured by the width of the dot.
+- Contact the brand team (brandteam@corp.aol.com) before creating new channel artwork.
+- Channel lockups are created as layered Adobe Illustrator files then made into single-layer files for distribution in JPG and PNG formats.
+- Use DIN Next Rounded Pro Regular for the channel name. Track the font -15/1000em.
+- Define the space between the AOL wordmark and the channel name using the width of the dot as a measure.
+- Color the channel according to the online color palette. The AOL and dot are black on a white or light color background.
+- On color backgrounds with sufficient contrast, the channel and AOL wordmark become white (e.g., in footers).
+- Do not recreate the AOL wordmark or the lockup. Always use the supplied artwork.
+- Do not crop or obscure the lockup.
+- Be sure there is sufficient contrast between the background and the channel lockup.
+- Use only black or white for the AOL wordmark.
+- A channel name is never black.
+- Do not change the order of elements in the lockup. The channel name always appears between the “Aol” and the dot.
+- Do not change the word or letter spacing of the lockup.
+- On color backgrounds with sufficient contrast the channel lockup is white, never color.
+- Do not skew/distort AOL wordmark or the lockup. Always use the supplied artwork.
+- Contact the brand team (brandteam@corp.aol.com) before creating new 4-color art.
+- 4-color canvases are created as layered Adobe Photoshop files then made into single-layer files for distribution in JPG and TIFF formats.
+- Always use the AOL wordmark.
+- The wordmark must break out of the canvas in at least one place.
+- Size the AOL wordmark 20-50% of the overall 4-color canvas size.
+- Do not recreate the AOL word mark.
+- Always use the supplied artwork.
+- Do not use color other than white for AOL wordmark.
+- Do not colorize 4-color canvases.
+- Do not make AOL wordmark too small.
+- Do not make AOL wordmark too large.
+- Do not lose legibility of letters of wordmark, especially "A" and "l".
+- Do not rotate AOL word mark.
+- Avoid rotating/flipping canvas.
+- Do not make up your own canvas art.
+- Contact the brand team (brandteam@corp.aol.com) before creating new 1-color art.
+- 1-color canvases are created as layered Adobe Illustrator files and then made into single-layer files for distribution in EPS, JPG, and PNG formats.
+- Size the AOL wordmark 30-80% of the overall canvas size.
+- Do not recreate the AOL wordmark. Always use the supplied artwork.
+- Do not change the color or transparency of the AOL wordmark.
+- Do not apply gradients to the artwork.
+- Use only the primary color palette when coloring our 1-color canvases.
+- Do not lose legibility of letters of wordmark, especially “A” and “l.”
+- Do not place any type or graphics on the canvas.
+- Do not rotate AOL wordmark.
+- Do not fill a 1-color canvas with an image.
+- Follow the same rules for placement of the AOL wordmark on a canvas (in this case on the content acting as a canvas).
+- The wordmark must break out of the canvas in at least one place
+- Do not create a motion canvas with a word mark in any other color than white.
+- Do not create a motion canvas where the wordmark doesn't break out of the canvas in at least one place.
+- Do not place any type or graphics on a motion canvas other than the word mark.
+- Do not create a motion canvas with a 1-color canvas as the wordmark.
+- Do not use the AOL wordmark as a bug.
+
+##### Tone And Messaging
+
+- Use these three design principles for anything you are creating. Bold Keep your subject and audience clearly in mind, and communicate directly. Be direct and easy to understand. Simple Give your canvas, images and text room to breathe. Say more with less, and use open, modern com positions. Fun Be upbeat and optimistic. The internet is a wacky place where the world comes together to share and learn. You help create the space where that takes place: enjoy it! Where it makes sense, use humor to communicate.
+
+##### Brand Values
+
+- Our new brand identity is shorthand for our strategy. AOL is a company focused on delivering world-class products and original content to our consumers. We developed the new brand identity to reflect the company we want to be: and to focus our efforts on delivering simplicity and creativity in everything we do.
+- Our canvases express the company vision of creating simple and exciting content experiences.
+- Our channel lockups embrace the category or product name with the AOL wordmark. This clearly connects them to the AOL brand and is a promise to consumers that these products and services will also deliver the AOL company vision.
+- Our sub-brands continue to have their own distinct propositions, identities and personalities. They are all endorsed with the appropriate AOL channel to identify them as part of our brand family, helping consumers and advertisers more effectively explore and navigate our vast and rich network.
+- Use these three design principles for anything you are creating. Bold Keep your subject and audience clearly in mind, and communicate directly. Be direct and easy to understand. Simple Give your canvas, images and text room to breathe. Say more with less, and use open, modern com positions. Fun Be upbeat and optimistic. The internet is a wacky place where the world comes together to share and learn. You help create the space where that takes place: enjoy it! Where it makes sense, use humor to communicate.
+- Bold Simple Fun
+
+##### Visual Style
+
+- Use these guidelines to learn, and navigate through, the essential visual elements of our new identity.
+- Wherever a canvas might exist, make sure it will stand out. Consider color contrast and scale when deciding on a canvas.
+- Never literal When sponsoring an event avoid the obvious literal example. Don't use the baby canvas for the conference that targets moms, don't use the stiletto canvas for a fashion event.
+- Understand where the canvas will exist, and keep technical limitations in mind. How your canvas will be reproduced can help you decide: Online or print? 4-color or 1-color? Big or small?
+- Use these three design principles for anything you are creating. Bold Keep your subject and audience clearly in mind, and communicate directly. Be direct and easy to understand. Simple Give your canvas, images and text room to breathe. Say more with less, and use open, modern compositions. Fun Be upbeat and optimistic. The internet is a wacky place where the world comes together to share and learn. You help create the space where that takes place: enjoy it! Where it makes sense, use humor to communicate.
+- The AOL wordmark consists of the letters “Aol” and the dot. It is rarely used outside of the combinations that make canvases and channel lockups.
+- If it does appear without art or a channel name, it’s color is either black or white.
+- Contact the brand team before using the wordmark alone.
+- When referring to our company, in copy, AOL is always written in uppercase. It should never appear as “Aol.” We do not try to recreate our logo in copy.
+- A combination of the AOL word mark and the channel name, our channel lockups exist primarily online: they are used as either headers or footers within their specific domains.
+- The channel name always appears between the AOL word mark and the dot.
+- "Aol" and the dot are always in black or white. Select the channel color according to the online color palette. On color backgrounds with sufficient contrast the channel lockup is white.
+- A suggested minimum clear space between the channel lockup and other graphic elements is measured by the width of the dot.
+- Channel lockups are created as layered Adobe Illustrator files then made into single-layer files for distribution in JPG and PNG formats.
+- Use DIN Next Rounded Pro Regular for the channel name. Track the font -15/1000em.
+- Define the space between the AOL wordmark and the channel name using the width of the dot as a measure.
+- Color the channel according to the online color palette. The AOL and dot are black on a white or light color background.
+- On color backgrounds with sufficient contrast, the channel and AOL wordmark become white (e.g., in footers).
+- Do not recreate the AOL wordmark or the lockup. Always use the supplied artwork.
+- Do not crop or obscure the lockup.
+- Be sure there is sufficient contrast between the background and the channel lockup.
+- Use only black or white for the AOL wordmark.
+- A channel name is never black.
+- Do not change the order of elements in the lockup. The channel name always appears between the “Aol” and the dot.
+- Do not change the word or letter spacing of the lockup.
+- On color backgrounds with sufficient contrast the channel lockup is white, never color.
+- Do not skew/distort AOL wordmark or the lockup. Always use the supplied artwork.
+- Cropping the canvas lockup is allowed as it may appear in limited size spaces. Crop for visual interest and understanding if the original image is not abstract.
+- Do not crop into the word mark on the canvas.
+- While there is no specific clear space measurement for canvases, be sure to treat them like artwork and give them space to breathe.
+- Only the AOL word mark appears on canvases. Do not place additional copy or graphic elements on canvases.
+- Contact the brand team (brandteam@corp.aol.com) before creating new 4-color art.
+- 4-color canvases are created as layered Adobe Photoshop files then made into single-layer files for distribution in JPG and TIFF formats.
+- Always use the AOL wordmark.
+- The wordmark must break out of the canvas in at least one place.
+- Size the AOL wordmark 20-50% of the overall 4-color canvas size.
+- Do not recreate the AOL word mark.
+- Always use the supplied artwork.
+- Do not use color other than white for AOL wordmark.
+- Do not colorize 4-color canvases.
+- Do not make AOL wordmark too small.
+- Do not make AOL wordmark too large.
+- Do not lose legibility of letters of wordmark, especially "A" and "l".
+- Do not rotate AOL word mark.
+- Avoid rotating/flipping canvas.
+- Do not make up your own canvas art.
+- 1-color art is bold and abstract illustration. Our canvas collection will change and evolve, but they will remain simple, iconic and easy­to-use.
+- 1-color canvases appear in every color of the primary color palette except Gray.
+- Cropping the canvas lockup is allowed as it may appear in limited size spaces.
+- Photographic backgrounds In the instance that a canvas must be used against a photographic background, the recommendation is to use either black or white.
+- Contact the brand team before using a 1-color canvas that is not black or white with transparency against a photograph or color background.
+- Size the AOL wordmark 30-80% of the overall canvas size.
+- Do not recreate the AOL wordmark. Always use the supplied artwork.
+- Do not change the color or transparency of the AOL wordmark.
+- Do not apply gradients to the artwork.
+- Use only the primary color palette when coloring our 1-color canvases.
+- Do not lose legibility of letters of wordmark, especially “A” and “l.”
+- Do not place any type or graphics on the canvas.
+- Do not rotate AOL wordmark.
+- Do not fill a 1-color canvas with an image.
+- Follow the same rules for placement of the AOL wordmark on a canvas (in this case on the content acting as a canvas).
+- The wordmark must break out of the canvas in at least one place
+- Do not create a motion canvas with a word mark in any other color than white.
+- Do not create a motion canvas where the wordmark doesn't break out of the canvas in at least one place.
+- Do not place any type or graphics on a motion canvas other than the word mark.
+- Do not create a motion canvas with a 1-color canvas as the wordmark.
+- Do not use the AOL wordmark as a bug.
+- Our color palette reflects our design principles: Bold, simple, fun.
+- Use the colors sparingly, and as accent color only. Along with our color, white space is also our friend. In any piece of communication white space should be the dominant color.
+- This new nine-color palette is specific to the new AOL brand identity. These are the colors allowed for the 1-color canvases except Gray. CMYK values are preferred for print applications.
+- Din Next Rounded Pro is a custom font and should be used as our primary typeface. It should be used where ever possible on AOL branded materials and templates.
+- If your team does not have availability to Din Next Rounded Pro, please use, as a default, Calibri (Regular and Bold). This is a system font that is available on all PC systems. Mac users should default to Arial (Regular and Bold).
+- Upper and lowercase is preferred for all communications. All caps may be used very occasionally for subheads.
+- When type is used below 72pt., leading should be two points greater than the type size. Above 72pt., leading should be the same as the type size or even less, if appropriate.
+- Set DIN Next Rounded Pro with -15/1000 em tracking. Letters should never “crash” or touch each other.
+- Type should always be set either flush left, rag right or flush right, rag left. Type is never justified and rarely centered.
+- The column width should not be more than 72 characters wide.
+- The standard' alors for body copy are black or grey. f body copy is g rey , use Cool Gray 1 OC as a spot color on ly , never as a CMYK build.
+
+##### Layout And Composition
+
+- Give your canvas, images and text room to breathe. Say more with less, and use open, modern compositions.
+- A suggested minimum clear space between the channel lockup and other graphic elements is measured by the width of the dot.
+- While there is no specific clear space measurement for canvases, be sure to treat them like artwork and give them space to breathe.
+- Only the AOL word mark appears on canvases. Do not place additional copy or graphic elements on canvases.
+- Do not crop into the word mark on the canvas.
+- Size the AOL wordmark 20-50% of the overall 4-color canvas size.
+- Size the AOL wordmark 30-80% of the overall canvas size.
+- The wordmark must break out of the canvas in at least one place.
+- Do not make AOL wordmark too small.
+- Do not make AOL wordmark too large.
+- Do not lose legibility of letters of wordmark, especially "A" and "l".
+- Do not place any type or graphics on the canvas.
+- Do not rotate AOL wordmark.
+- Avoid rotating/flipping canvas.
+- Do not fill a 1-color canvas with an image.
+- Do not make up your own canvas art.
+- Follow the same rules for placement of the AOL wordmark on a canvas (in this case on the content acting as a canvas).
+- Do not create a motion canvas where the wordmark doesn't break out of the canvas in at least one place.
+- Do not place any type or graphics on a motion canvas other than the word mark.
+
+##### Brand Architecture
+
+- Our new brand is works in three different ways: - Canvases represent our company - Channel lockups represent our category or product names - Sub-brands carry their own unique identity and are endorsed by channel lockups
+- Our canvases express the company vision of creating simple and exciting content experiences. They are used when talking about the company as a whole and on key products and services—such as www.aol.com, mail, corporate and internal communications, B2B marketing, and when sponsoring or partnering with other companies.
+- Our channel lockups embrace the category or product name with the AOL wordmark. This clearly connects them to the AOL brand and is a promise to consumers that these products and services will also deliver the AOL company vision.
+- Our sub-brands continue to have their own distinct propositions, identities and personalities. They are all endorsed with the appropriate AOL channel to identify them as part of our brand family, helping consumers and advertisers more effectively explore and navigate our vast and rich network.
+
+##### Co Branding
+
+- 13 Co-Branded Events A simple, 1-color canvas is used for maximum POP within a graphically busy piece of communication. Black is used to clearly delineate the AOL brand.
+
+##### Packaging Design
+
+- A 1-color canvas will ensure the best results when screen printing or for printing packaging. Din Next Rounded Pro Light is used for large message text.
+
+##### Print Guidelines
+
+- CMYK values are preferred for print applications.
+- This new nine-color palette is specific to the new AOL brand identity. These are the colors allowed for the 1-color canvases except Gray.
+- PANTONE® The colors shown throughout these guidelines have not been evaluated by Pantone, Inc. for accuracy and may not match the Pantone Color Standards. Consult current Pantone Publications for accurate color. Pantone is the property of Pantone, Inc.
+- Din Next Rounded Pro is a custom font and should be used as our primary typeface. It should be used where ever possible on AOL branded materials and templates.
+- A license is required to use Din Next Rounded Pro. The Brand Team will supply the font to teams who produce marketing and communications pieces. All other teams may request a license from the Brand team.
+- If your team does not have availability to Din Next Rounded Pro, please use, as a default, Calibri (Regular and Bold). This is a system font that is available on all PC systems. Mac users should default to Arial (Regular and Bold).
+- DIN Next Rounded Pro Light Use for headlines, captionsand body copy at any size.
+- DIN Next Rounded Pro Regular Use for subheads and as emphasis for any type 24 pt. and below. This weight is also preferred for web and broadcast applications.
+- Calibri Regular (default for PC users) Use for headlines, captionsand body copy at any size.
+- Calibri Bold Use for subheads and as emphasis for any type 24 pt. and below.
+- Arial Regular (default for Mac users) Use for headlines, captionsand body copy at any size.
+- Arial Bold (Mac users) Use for subheads and as emphasis for any type 24 pt. and below.
+- Upper and lowercase is preferred for all communications. All caps may be used very occasionally for subheads.
+- When type is used below 72pt., leading should be two points greater than the type size. Above 72pt., leading should be the same as the type size or even less, if appropriate.
+- Set DIN Next Rounded Pro with -15/1000 em tracking. Letters should never “crash” or touch each other.
+- Type should always be set either flush left, rag right or flush right, rag left. Type is never justified and rarely centered.
+- The column width should not be more than 72 characters wide.
+- The standard' alors for body copy are black or grey. f body copy is g rey , use Cool Gray 1 OC as a spot color on ly , never as a CMYK build.
+
+##### Digital Guidelines
+
+- A combination of the AOL word mark and the channel name, our channel lockups exist primarily online: they are used as either headers or footers within their specific domains.
+- The channel name always appears between the AOL word mark and the dot.
+- "Aol" and the dot are always in black or white. Select the channel color according to the online color palette. On color backgrounds with sufficient contrast the channel lockup is white.
+- A suggested minimum clear space between the channel lockup and other graphic elements is measured by the width of the dot.
+- Contact the brand team (brandteam@corp.aol.com) before creating new channel artwork.
+- Channel lockups are created as layered Adobe Illustrator files then made into single-layer files for distribution in JPG and PNG formats.
+- Use DIN Next Rounded Pro Regular for the channel name. Track the font -15/1000em.
+- Define the space between the AOL wordmark and the channel name using the width of the dot as a measure.
+- Color the channel according to the online color palette. The AOL and dot are black on a white or light color background.
+- On color backgrounds with sufficient contrast, the channel and AOL wordmark become white (e.g., in footers).
+- Do not recreate the AOL wordmark or the lockup. Always use the supplied artwork.
+- Do not crop or obscure the lockup.
+- Be sure there is sufficient contrast between the background and the channel lockup.
+- Use only black or white for the AOL wordmark.
+- A channel name is never black.
+- Do not change the order of elements in the lockup. The channel name always appears between the “Aol” and the dot.
+- Do not change the word or letter spacing of the lockup.
+- On color backgrounds with sufficient contrast the channel lockup is white, never color.
+- Do not skew/distort AOL wordmark or the lockup. Always use the supplied artwork.
 
 ## Additional Properties
 
@@ -130,7 +456,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1983](/foundation_dates/1983/); [1985](/foundation_dates/1985/) |
+| Foundation Date | [1985](/foundation_dates/1985/); [1983](/foundation_dates/1983/) |
 | Topic'S Main Category | Category:AOL |
 | Freebase Id | /m/0plw |
 | Headquarters Location | New York City |

@@ -2,7 +2,7 @@
 title: TikTok for Business
 slug: "tiktok-for-business"
 description: ""
-date: "2026-03-20T08:22:04.441476"
+date: "2026-04-10T09:40:33.188376"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -50,9 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - playful
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,13 +69,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Brand Voice:**
-
-- TikTok's brand voice is described as bold, provocative, and full of creative energy. Copy should be smart and direct with a hint of playfulness. Avoid business jargon unless necessary, and balance it with colloquial or casual expressions. The tone expresses fun and modernity while being helpful for brands to achieve results.
-- Do: Be confident yet humble, playful, get to the point, keep it casual, write conversationally, and be provocative. Don't: Brag, try too hard, write sloppy, omit fun personality, or be mean/derisive.
-- Examples of tone-of-voice usage: Do - 'Make it big on a small biz budget and maximize ROI.' Don't - 'Hit the big time without spending a lot of dolla dolla billz, y'all.' Another example: Do - 'Grow your audience. Grow your brand. Make graphs go up!', Don't: 'Increase your audience and brand share of voice.'
-
-**Notes:**
-
-- When referenced in copy, the brand is to be displayed as 'TikTok For Business' with the uppercase 'F'. Abbreviations like TT4B or TTFB are intended for internal use only and should not appear in consumer or public-facing content.
-- The visual design language is inspired by the TikTok logo, specifically the circular shapes forming speech bubbles, rounded rectangles echoing phone shapes, and rounded typographical edges of the typeface Sofia Pro Soft.
+*Guidelines data not available*

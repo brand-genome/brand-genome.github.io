@@ -2,7 +2,7 @@
 title: The Coca Cola Foundation
 slug: "the-coca-cola-foundation"
 description: ""
-date: "2026-03-20T08:22:03.401509"
+date: "2026-04-10T09:40:30.982974"
 draft: false
 sectors:
   - ngo
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.coca-colacompany.com/social](https://www.coca-colacompany.com/social)
 - [https://www.coca-cola.com/us/en/about-us/faq/what-is-the-coca-cola-foundation](https://www.coca-cola.com/us/en/about-us/faq/what-is-the-coca-cola-foundation)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

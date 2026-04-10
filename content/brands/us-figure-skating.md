@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-03-20T08:22:04.550461"
+date: "2026-04-10T09:40:33.345173"
 draft: false
 sectors:
   - sports
@@ -50,30 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - mascot
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - "pantone-123"
-  - green
-  - "pantone-485"
-  - "pantone-367"
-  - white
-  - blue
-  - "pantone-275"
-  - yellow
-  - gray
-  - "pantone-428"
-  - "pantone-304"
-  - black
-typographies:
-  - gotham
-  - montserrat
-imagery_styles:
-  - bold
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: national governing body for figure skating
 wikidata_url: "https://www.wikidata.org/wiki/Q4071524"
 has_twitter: false
@@ -93,36 +73,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The 'Get Up' logo is available in three color options: black, gray, and white. Registration mark required when used in text. Permission for use via email (bburns@usfigureskating.org).
-- SKATING magazine logo for use in cover and marketing materials with tagline 'OFFICIAL PUBLICATION OF U.S. FIGURE SKATING' when isolated. Permission required via email (tschwindt@usfigureskating.org).
-- World Figure Skating Museum & Hall of Fame logo available in black, white, and color options. Permission for use granted upon request via email (kcover@usfigureskating.org).
-- Snowplow Sam mascot logo available in three designs: Learn to Skate USA version, U.S. Figure Skating version, and a generic version. Snowplow Sam may be rotated or altered only by U.S. Figure Skating's creative department.
-
-**Color Information:**
-
-- Brand color palette: Pantone codes include USFig Yellow (PANTONE 123), USFig Red (PANTONE 485), USFig Light Blue (PANTONE 304), USFig Blue (Reflex Blue), USFig Dark Blue (PANTONE 275), USFig Green (PANTONE 367), and USFig Gray (PANTONE 428). Colors may be used in gradients and transparencies. Reflex Blue and Pantone 485 are primary colors.
-- Gradient versions of brand colors include specific CMYK, RGB, and HEX codes for Yellow, Red, Blue, Dark Blue, Green, Gray, and Light Blue.
-
-**Typography Information:**
-
-- Primary font family: Gotham Narrow. Includes 16 variants such as Thin, Bold, Black. Used for headlines, subheads, and body text. Montserrat font recommended for web development when Gotham Narrow is unavailable.
-- Secondary font: Montserrat, free Google font with 18 variants. Suitable for web, email, and digital usage where Gotham Narrow cannot be applied.
-
-**Spacing Layout:**
-
-- Iconography guidelines: Icons should have a 2px stroke with rounded corners. Examples include specific dimensions for light and dark backgrounds (64px x 64px and 32px x 32px).
-
-**Brand Voice:**
-
-- Writing style adheres to Associated Press standards (exceptions noted). Highlights include lowercase use for accolades, postal abbreviations for state addresses, and guidelines for referencing skating terms and events. Emphasis placed on brand consistency in communication.
-
-**Notes:**
-
-- Permission to use logos or mascot designs must be obtained via specific email contacts provided for each asset.
-- Detailed rules on using brand colors and gradients in design applications.
-- Critical details on appropriate use of skating event names, competition references, and program branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Grover
 slug: grover
 description: ""
-date: "2026-03-20T08:22:04.179804"
+date: "2026-04-10T09:40:32.502746"
 draft: false
 sectors:
   - "e-commerce"
@@ -48,13 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - monochrome
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,44 +70,8 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Grover’s logo is bold, fresh, free, casual, flexible, and very simple, serving as the user's first contact with the company.
-- Four versions of the logo to ensure legibility and optimum reproduction quality: Full Color (positive and negative), Monochrome (positive and negative).
-- Full Color: The positive logo is considered the preferred version and should be used wherever possible.
-- Monochrome: Monochrome version to be used when limited colors are available or quality of size/colors is questionable.
-- Do's: Always use contrast for backgrounds.
-
-**Color Information:**
-
-- Main colors for logo: Grover Black and Grover White for full color variations. Pure Black and Pure White for Monochrome variations.
-
-**Brand Voice:**
-
-- To boost everyone’s experience with the brand, follow the indications for the right use of the trademark to stay true to Grover’s look, feel, and sound.
-
-**Notes:**
-
-- Document emphasizes the importance of adhering to brand guidelines to ensure consistency in visual identity.
+*Guidelines data not available*
 
 ### 2018
 
-**Logo Information:**
-
-- Grover’s logo is bold, fresh, free, casual, flexible, and very simple, serving as the user's first contact with the company.
-- Four versions of the logo to ensure legibility and optimum reproduction quality: Full Color (positive and negative), Monochrome (positive and negative).
-- Full Color: The positive logo is considered the preferred version and should be used wherever possible.
-- Monochrome: Monochrome version to be used when limited colors are available or quality of size/colors is questionable.
-- Do's: Always use contrast for backgrounds.
-
-**Color Information:**
-
-- Main colors for logo: Grover Black and Grover White for full color variations. Pure Black and Pure White for Monochrome variations.
-
-**Brand Voice:**
-
-- To boost everyone’s experience with the brand, follow the indications for the right use of the trademark to stay true to Grover’s look, feel, and sound.
-
-**Notes:**
-
-- Document emphasizes the importance of adhering to brand guidelines to ensure consistency in visual identity.
+*Guidelines data not available*

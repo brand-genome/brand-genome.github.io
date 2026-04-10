@@ -2,7 +2,7 @@
 title: Shchusev Museum of Architecture
 slug: "shchusev-museum-of-architecture"
 description: ""
-date: "2026-03-20T08:22:04.003392"
+date: "2026-04-10T09:40:31.956001"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ years:
 languages:
   - russian
 tags:
-  - architecture
   - museum
+  - architecture
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,9 +66,3 @@ visual_term_image_urls: {}
 
 - [https://muar.ru](https://muar.ru)
 - [http://www.muar.ru](http://www.muar.ru)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

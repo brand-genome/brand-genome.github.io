@@ -2,7 +2,7 @@
 title: Saudi
 slug: saudi
 description: ""
-date: "2026-03-20T08:22:04.408613"
+date: "2026-04-10T09:40:33.147713"
 draft: false
 sectors:
   - "public-sector"
@@ -16,10 +16,10 @@ languages:
 tags:
   - tourism
 industries:
-  - "extraction-of-petroleum"
   - "oil-refining"
-  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "extraction-of-petroleum"
   - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -48,8 +48,8 @@ foundation_dates:
   - 1988
   - 1932
 foundation_year_buckets:
-  - 1980S
   - 1930S
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,14 +68,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - white
-  - purple
-  - blue
-  - orange
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Saudi Arabian state-owned petroleum company"
@@ -96,48 +89,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logotype guidelines
-Version 1.0  
-|
-  23 .11. 2019
-- Please do not attempt to re-create the logotype yourself. Artwork files for the logotype are in both languages, with or without the strapline, and are available from the marketing team. This is the National Tourism logotype and should only be used for the explicit purpose of promoting tourism for Saudi Arabia. This logotype should never be used within any other form of communication.
-- Our logotype has been created with special characteristics that ensure its uniqueness and reflect the brand and message.
-
-1. Logotype: A handcrafted calligraphic marque influenced by Saudi calligraphy.
-2. Strapline: Our strapline is an invitation to the world.
-3. Accents: The accents around the logotype are based on Arabic calligraphy further reinforcing our heritage.
-- Our logotype is designed in two languages, Latin and Arabic. There are two versions for each language, one is accompanied by our strapline (logotype lock-up) and one stands alone. Artwork files are available from the marketing team.
-- Our logotype may appear in six colorways: blue, dark green, green, orange, purple, and red. Colored logotypes are for use on white backgrounds; do not use these on imagery.
-- A special transparent white logotype has been created for use on imagery. Colored logotypes may not be used here.
-- Solid black, greyscale, and solid white versions are available for different reproduction requirements. These should be used for one-color production scenarios like engraving or black and white printing.
-- An area of clear space is required around the logotype, measured as half the height of the calligraphic 'S' (referred to as 'X'). The minimum size is 14mm in print.
-- Do's and Don'ts for logo usage: Do not disproportionately scale, rotate, recolor, add shadows, or remove accents.
-- Artwork files are named with identifiers for brand name, logotype color, and color space (CMYK for printing or RGB for screens). Example: SAUDI TOURISM LOGO GREEN RGB.ai.
-
-**Color Information:**
-
-- Colorways: blue, dark green, green, orange, purple, and red. There is no preference among these; they must be used evenly in collective applications.
-- Transparent white logotype is used exclusively on imagery.
-- Solid colors like black, greyscale, or white are for engraving or black/white printing scenarios.
-- Do not use colored logotypes on imagery. Examples included in incorrect usage.
-- File naming conventions include RGB (office/screen use) and CMYK (printing).
-
-**Imagery Photography:**
-
-- Transparent white logotype exclusively used on imagery. Ensure permissions for image usage.
-- Usage restrictions: Avoid disproportionately scaling, rotating, recoloring, or applying shadows to logotypes.
-
-**Spacing Layout:**
-
-- Exclusion zones around the logotype are based on half the height of the calligraphic 'S' measure ('X'). Clear space ensures prominence and legibility.
-
-**Notes:**
-
-- Ensure all colors are used evenly and collectively across communications. Transparent white logotype detailed for imagery.
-- Solid versions available for one-color production like engraving and black/white printing.
-- Minimum size requirements: not smaller than 14mm in print. Maintain exclusion zones to ensure legibility.
+*Guidelines data not available*
 
 ## Additional Properties
 

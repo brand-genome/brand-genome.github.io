@@ -2,7 +2,7 @@
 title: Université Rennes 2
 slug: "universite-rennes-2"
 description: ""
-date: "2026-03-20T08:22:05.866639"
+date: "2026-04-10T09:40:34.900872"
 draft: false
 sectors:
   - university

@@ -2,7 +2,7 @@
 title: Van Leeuwen
 slug: "van-leeuwen"
 description: ""
-date: "2026-03-20T08:22:04.519762"
+date: "2026-04-10T09:40:33.298091"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -54,11 +54,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - montserrat
-imagery_styles:
-  - product
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: Dutch steel company
 wikidata_url: "https://www.wikidata.org/wiki/Q2764768"
 has_twitter: false
@@ -79,38 +76,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Mentions basic logo elements and logo colors including full color options.
-- Mentions basic logo elements and logo colors including full color options.
-- Mentions basic logo elements and logo colors including full color options.
-
-**Color Information:**
-
-- Color palette for the brand is described here.
-- Color palette for the brand is described here.
-
-**Typography Information:**
-
-- Font families specified include Montserrat and Calibri.
-
-**Imagery Photography:**
-
-- This page describes photography guidelines for employees, cases, markets, and products.
-
-**Spacing Layout:**
-
-- Spacing and layout guidelines are provided here, including modular content blocks.
-
-**Brand Voice:**
-
-- Descriptor terms and brand messaging guidelines are included on this page.
-- Descriptor terms and brand messaging guidelines are included on this page.
-- Descriptor terms and brand messaging guidelines are included on this page.
-
-**Notes:**
-
-- Includes references to business cards, product data sheet layouts, and table of contents.
+*Guidelines data not available*
 
 ## Additional Properties
 

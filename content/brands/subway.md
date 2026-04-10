@@ -2,7 +2,7 @@
 title: Subway
 slug: subway
 description: ""
-date: "2026-03-20T08:22:04.191002"
+date: "2026-04-10T09:40:32.542595"
 draft: false
 sectors:
   - restaurant
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - salad
   - sandwich
+  - salad
 products: []
 headquarters_locations:
   - milford
@@ -55,21 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - green
-  - yellow
-  - orange
-  - purple
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - aerial
-  - bold
-  - natural
+imagery_styles: []
 wikidata_description: American sandwich restaurant chain
 wikidata_url: "https://www.wikidata.org/wiki/Q244457"
 has_twitter: false
@@ -107,41 +96,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Background colors: Never use the logotype over Subway yellow or Lettuce green; forward-pointing arrow must have the greatest contrast against backgrounds, and the logotype must remain legible. Note: Using orange may not result in optimal legibility.
-
-**Color Information:**
-
-- Core background colors for imagery swapping: Orange, Light green, Yellow, Dark green, Purple. These background colors are supplied as art and should not be altered. Background color combos should reflect sandwich imagery colors (e.g., green sandwich should not be on a purple background).
-
-**Typography Information:**
-
-- Grid layouts specify typographic roles as follows: Headlines occupy 4 columns, Subheads occupy 2 columns, Body copy occupies 2 columns. Imagery is full-bleed core, and the logotype always occupies 1 column.
-- Alternate alignment for typography in modular grid layouts: Typography elements can be adjusted across grid quadrants to enable diverse layouts (e.g., partnership branding). Partner logos should use the same cap height as the logotype.
-
-**Imagery Photography:**
-
-- Core imagery focuses on taste appeal and emotional connection. Show ingredients in their most delicious form with backgrounds from the color palette to ensure bold contrast.
-- Imagery guidelines for angled sandwich photos: Use backgrounds that emphasize appetite appeal. Do not alter core sandwich imagery as provided artwork.
-- Imagery in storytelling should build emotional connection by showcasing natural ingredients and utilizing contrasting color backgrounds.
-- Limited-time offer (LTO) imagery takes core styles but pairs with packaging. Details include crumbs and condensation for added appetite cues.
-- Imagery dos and don'ts: Do not use aerial views, bleed imagery off backgrounds, clip out imagery, or utilize stock photos. Avoid unnatural surfaces, heavy gradients, and combining photographs.
-
-**Spacing Layout:**
-
-- Layouts are designed using a grid system with margins between 2-6% of the layout width. Use smaller margins on billboards/signage and optimal gutter sizes.
-- Extreme vertical or horizontal layouts require one-column grids or adjusted gutter sizes; gutters can equal margin widths when necessary.
-
-**Brand Voice:**
-
-- Tone of voice aims for casual, witty, conversational, short/punchy language focused on freshness.
-- Dos and don'ts for tone of voice: Avoid cheesy, preachy, long-winded copy; aim for classy, original, and upbeat messaging.
-- Use the Choice Mark for clear divisions between contrasting ideas or fun word pairings but not as pauses.
-
-**Notes:**
-
-- Subway branded contacts: StudioS@subway.com is listed as the primary contact.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -151,7 +106,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Salad](/products_or_materials_produced/salad/); [Sandwich](/products_or_materials_produced/sandwich/) |
+| Product Or Material Produced | [Sandwich](/products_or_materials_produced/sandwich/); [Salad](/products_or_materials_produced/salad/) |
 | Headquarters Location | [Milford](/headquarters_locations/milford/) |
 | Foundation Date | [1965](/foundation_dates/1965/) |
 | Founded By | Fred DeLuca, Peter Buck |

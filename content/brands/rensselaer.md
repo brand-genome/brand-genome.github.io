@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-03-20T08:22:05.868772"
+date: "2026-04-10T09:40:34.904083"
 draft: false
 sectors:
   - university
@@ -53,30 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - primary
-  - secondary
-  - wordmark
-brand_colors:
-  - "pantone-5425"
-  - "pantone-485"
-  - "pantone-158"
-  - "pantone-390"
-  - "pantone-424"
-  - "pantone-7711"
-  - black
-typographies:
-  - gotham
-  - serif
-  - impact
-  - "sans-serif"
-  - times
-  - "source-sans"
-imagery_styles:
-  - bold
-  - modern
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private research university in Troy, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q49211"
 has_twitter: false
@@ -95,44 +75,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The Rensselaer logo is the single most important and most recognizable design element and is an important communication tool for the university. The logo consists of the wordmark and the seal, and should be treated as one unit. Proportion and spacing of the logo must not be altered.
-- The Rensselaer logo should not be resized independently, distorted, rearranged, tilted, cropped, outlined, or tinted. Wordmark must always be paired with the seal.
-- A minimum clear space should surround the logo at all times to ensure prominence and readability.
-- Logo is positioned in the lower corners of brochures with specified spacing and sizing rules.
-
-**Color Information:**
-
-- Primary colors include Pantone 485 (C:0 M:100 Y:100 K:0), Pantone 424 (C:0 M:0 Y:0 K:61), and Black (C:0 M:0 Y:0 K:100). These colors form the foundation of the Rensselaer palette.
-- Neutral colors involve options like Pantone 5425, 7502, and 406 with CMYK equivalents for four-color printing.
-- Accent colors include Pantone 7711 (C:98 M:0 Y:28 K:4), Pantone 390 (C:27 M:0 Y:100 K:3), and Pantone 158 (C:0 M:62 Y:95 K:0). These should be used sparingly to complement core colors.
-
-**Typography Information:**
-
-- Gotham typeface is used for a professional and modern style, preferred for headlines and body text in marketing materials. Gotham font weights include Light, Bold, and Ultra.
-- FF Scala is the selected serif typeface, typically for body text. Recommended weights include Regular and Bold.
-- Swiss 721 is the preferred sans-serif font for headlines in printed material.
-- For web headings, the font Source Sans Pro is used, with weights including Normal (400), Semi-Bold (600), and Bold (700).
-
-**Imagery Photography:**
-
-- The Rensselaer logo in partnership must not overpower or be subordinated to others. Logos should not be combined with other graphics or identifiers other than approved agreements.
-
-**Spacing Layout:**
-
-- Logo placement on large and small brochures must adhere to specific corner placement guidelines with minimum spacing measurements of 3/16".
-- Spacing rules for adequate clear space surround the logo at all times.
-
-**Brand Voice:**
-
-- Expresses Rensselaer Polytechnic Institute as The New Polytechnic through impactful messaging and visuals that align with The Rensselaer Plan 2024.
-- Guidelines are framed to communicate transformative goals like global impact, pedagogical innovation, and multidisciplinary research.
-
-**Notes:**
-
-- Editorial instructions follow the Associated Press Stylebook for consistency, plus specific guidelines on academic titles, abbreviations, and branding terminology.
-- Secondary marks for distinct centers or programs must adhere to Rensselaer branding guidelines and require prior approval.
+*Guidelines data not available*
 
 ## Additional Properties
 

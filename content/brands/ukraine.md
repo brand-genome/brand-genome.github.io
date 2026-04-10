@@ -2,7 +2,7 @@
 title: Ukraine
 slug: ukraine
 description: ""
-date: "2026-03-20T08:22:04.409974"
+date: "2026-04-10T09:40:33.149357"
 draft: false
 sectors:
   - "public-sector"
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: "men's national association football team representing Ukraine"
 wikidata_url: "https://www.wikidata.org/wiki/Q170403"
 has_twitter: false
@@ -74,20 +73,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- System of Visual Identity of Ukrainian tourism brand Using full color logo on chromatic background 34
-- 103 Logo flash animation of Ukrainian tourism brand
-
-**Color Information:**
-
-- System of Visual Identity of Ukrainian tourism brand Color solutions 33
-- System of Visual Identity of Ukrainian tourism brand Using full color logo on chromatic background 34
-
-**Typography Information:**
-
-- 42 System of Visual Identity of Ukrainian tourism brand Brand fonts 2. Brand font for subtitles Kolyada Regular ABCDEFGHIJKLMNOPRSTUVWXYZ abcdefghijklmnoprstuvwxyz 1234567890 !@#$%^&*()-+=<>? 1. Brand font for titles
-- Fonts for body text and additional fonts ~ 43 System of Visual Identity of Ukrainian tourism brand 4. For highlighting in text Tahoma Regular ABCDEFGHIJKLMNOPRSTUVWXYZ abcdefghijklmnoprstuvwxyz 1234567890 !@#$%^&*()-+=<>? 5. Additional for body text Tahoma Bold ! " # $ % & ' ABCDEFGHIJKLMNOPRSTUVWXYZ abcdefghijklmnoprstuvwxyz 1234567890 !@#$%^&*()-+=<>? 6. Additional for highlighting in body text 3. For body text
+*Guidelines data not available*
 
 ## Additional Properties
 

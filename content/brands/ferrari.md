@@ -2,7 +2,7 @@
 title: Ferrari
 slug: ferrari
 description: ""
-date: "2026-03-20T08:22:04.157176"
+date: "2026-04-10T09:40:32.476461"
 draft: false
 sectors:
   - automobile
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - supercar
   - "sports-car"
+  - supercar
 products: []
 headquarters_locations:
   - maranello
@@ -58,8 +58,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: Italian luxury sports car manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q27586"
 has_twitter: false
@@ -79,25 +78,7 @@ visual_term_image_urls: {}
 
 ### 2004
 
-**Logo Information:**
-
-- Logo guidelines and information from multiple pages referring to logos.
-
-**Color Information:**
-
-- Details about color specifications and usage across numerous pages.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines discussed on page 35.
-
-**Spacing Layout:**
-
-- Details on spacing rules and grid layouts referenced across pages.
-
-**Notes:**
-
-- Relevant notes or remarks mentioned on page 6.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -107,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Supercar](/products_or_materials_produced/supercar/); [Sports Car](/products_or_materials_produced/sports-car/) |
+| Product Or Material Produced | [Sports Car](/products_or_materials_produced/sports-car/); [Supercar](/products_or_materials_produced/supercar/) |
 | Headquarters Location | [Maranello](/headquarters_locations/maranello/) |
 | Foundation Date | [1947](/foundation_dates/1947/) |
 | Founded By | Enzo Ferrari |

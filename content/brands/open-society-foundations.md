@@ -2,7 +2,7 @@
 title: Open Society Foundations
 slug: "open-society-foundations"
 description: ""
-date: "2026-03-20T08:22:04.222309"
+date: "2026-04-10T09:40:32.637170"
 draft: false
 sectors:
   - ngo
@@ -51,13 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - wordmark
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international grantmaking network founded by business magnate George Soros
@@ -78,12 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Open Society Foundations wordmark is the unique signature of the organization, used on all branded items either in a primary position or as part of a lock-up. The wordmark is available in black or white for optimal legibility.
-- Wordmark variations include flexible designs positioned on one, two, or three lines, with or without the term 'Foundations'. These versions are approved for special cases such as social avatars and video bugs. Additional versions should not be created.
-- Clearance and protection rules maintain wordmark legibility and avoid obstruction. The surrounding clearance area is relative to the size of the wordmark, and defined as 2x the height of the wordmark.
-- Minimum size of the wordmark: 20mm (0.8 in) for print applications and 120px for screen applications. These measurements ensure readability.
+*Guidelines data not available*
 
 ## Additional Properties
 

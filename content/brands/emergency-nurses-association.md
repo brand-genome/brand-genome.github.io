@@ -2,7 +2,7 @@
 title: Emergency Nurses Association
 slug: "emergency-nurses-association"
 description: ""
-date: "2026-03-20T08:22:04.350239"
+date: "2026-04-10T09:40:33.080447"
 draft: false
 sectors:
   - ngo
@@ -51,34 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - secondary
-brand_colors:
-  - 2d68c4
-  - ffc72c
-  - ff6a13
-  - purple
-  - 590072
-  - gray
-  - 84bd00
-  - ee2737
-  - 53565a
-  - 00a5bd
-  - black
-typographies:
-  - serif
-  - garamond
-  - arial
-  - "sans-serif"
-  - nunito
-imagery_styles:
-  - dynamic
-  - professional
-  - bold
-  - photography
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q19864764"
 has_twitter: false
@@ -96,43 +72,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo versions include primary ENA logo, foundation logo and alternate logo. State and Chapter logos also have custom lockups. Clear space rules indicate 'X' amount around logo elements. Minimum size is 1 inch / 72 pt.
-- Do's and don'ts include not altering the color, rotating, distorting, or adding effects. Incorrect usage examples include logos placed within a shape or container.
-- National logo usage guidelines: acceptable to position the state council/chapter name below or to the side. Personalization for state/chapter logos includes guidelines for using customized crests.
-
-**Color Information:**
-
-- Primary colors include PMS 2617 (Purple, HEX#590072, RGB: R89 G0 B114) and PMS Cool Gray 11 (HEX#53565A, RGB: R83 G86 B90).
-- Secondary colors include PMS 2386 (HEX#2D68C4, RGB: R45 G104 B96), PMS 2228 (HEX#00A5BD, RGB: R0 G165 B189), and PMS 376 (HEX#84BD00, RGB: R132 G189 B0). Tints acceptable as accents for visual elements.
-- Accent colors: PMS 123 (HEX#FFC72C, RGB: R255 G199 B44), PMS 1788 (HEX#EE2737, RGB: R238 G39 B55), PMS 1585 (HEX#FF6A13, RGB: R255 G106 B19). Guidelines suggest limited use for highlighting.
-
-**Typography Information:**
-
-- Primary typefaces include Nunito Sans (Sans-serif), available in weights Regular, Bold, Black, Light, Italics. Intended for headlines and large messaging.
-- Secondary typefaces include EB Garamond (Serif), available in Regular, SemiBold, ExtraBold with Italics variations. Suited for body text and contrast.
-- Web-safe alternate typefaces: Arial, in Regular, Bold, Italic variations.
-
-**Imagery Photography:**
-
-- Photography style highlights safety standards, emotive qualities (dynamic visuals), and a sense of community.
-
-**Spacing Layout:**
-
-- Size and spacing rules for logo usage: Clear space defined as 'X' for logo and lockups; minimum size: 1 inch/72pt.
-- Applied layout guidelines for ENA communication assets such as letterhead, business cards, and envelopes. Design emphasizes clean, professional aesthetic.
-
-**Brand Voice:**
-
-- Tone of voice incorporates bold, energetic qualities reflecting ENA's fast-paced environment for nursing professionals. Values include collaboration, compassion, diversity, and excellence.
-- Messaging highlights inspiration, connectedness, and adhering to ENA's brand identity while allowing personalization.
-
-**Notes:**
-
-- ENA brand includes guidelines for exceptions like lapel pins; logos may be placed inside state shapes provided logos don't touch shapes.
-- ENA offers visual assets on its Brand Center website and allows alternate designs upon approval.
-- Contact for creative inquiries: creative@ena.org.
+*Guidelines data not available*
 
 ## Additional Properties
 

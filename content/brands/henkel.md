@@ -2,16 +2,16 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-03-20T08:22:04.161561"
+date: "2026-04-10T09:40:32.479372"
 draft: false
 sectors:
-  - chemicals
   - "consumer-goods"
+  - chemicals
 regions:
   - germany
 years:
-  - 2018
   - 2022
+  - 2018
 languages:
   - english
 tags:
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - laundry
 products: []
 headquarters_locations:
-  - aachen
   - dusseldorf
+  - aachen
 subsidiaries: []
 foundation_dates:
   - 1876
@@ -57,9 +57,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - favicon
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,7 +66,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q276507"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -81,31 +79,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2022
-
-*Guidelines data not available*
-
 ### 2018
 
-**Logo Information:**
-
-- The Henkel X logo is derived from the original Henkel logo, using the same typeface, form, and color. It replaces the encompassing circle with an open, standalone X. The X is segmented, with negative space forming a forward-pointing arrow. The mark alone can be used in specific digital contexts (e.g., as a favicon). Major use cases include the primary logo and scenarios where it must appear with Henkel’s brand claim: 'Accelerating Henkel’s Entrepreneurial Transformation.'
-- Spacing around the Henkel X logo is determined by the X mark itself, which serves as the basis for measuring the clear space needed for the logo to 'breathe' on its own.
-- The Henkel X logo with the brand claim, 'Accelerating Henkel’s Entrepreneurial Transformation,' is emphasized for external communications to ensure the mission of Henkel X is clear.
-
-**Spacing Layout:**
-
-- For the logo design, spacing around the Henkel X logo is standardized by using the X mark as the basis for measuring clear space. This ensures the logo maintains readability and proper visibility for any usage.
-
-**Brand Voice:**
-
-- Henkel X's design expresses core values which include being hyperconnected, agile, and entrepreneurial. The tone of voice emphasizes a collaborative and innovative culture, focusing on customer and business partner relationships, and fostering entrepreneurial transformation through open collaboration.
-- The mission of Henkel X is to unite and accelerate Henkel’s entrepreneurial transformation across its three pillars: ecosystem, experience, and experimentation.
-
-**Notes:**
-
-- The document provides an overview of Henkel X as an entrepreneurial platform aiming to drive collaboration and innovation internally and externally. The three key pillars of Henkel X are defined as ecosystem, experience, and experimentation. These principles guide branding and storytelling.
-- Henkel X focuses on creating new business models, fostering collaboration and innovation, and promoting cultural transformation towards digital growth.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -116,7 +92,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
-| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Aachen](/headquarters_locations/aachen/) |
 | Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |

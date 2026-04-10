@@ -2,11 +2,11 @@
 title: BlaBlaCar
 slug: blablacar
 description: ""
-date: "2026-03-20T08:22:03.083508"
+date: "2026-04-10T09:40:30.594108"
 draft: false
 sectors:
-  - "ride-sharing"
   - software
+  - "ride-sharing"
 regions:
   - france
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - app
   - transport
+  - app
 industries:
   - unknown
 countries:
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: French intercity bus company
 wikidata_url: "https://www.wikidata.org/wiki/Q1653380"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [https://www.blablacar.co.uk](https://www.blablacar.co.uk)
 - [https://www.blablacar.in](https://www.blablacar.in)
 - [https://www.blablacar.fr/bus](https://www.blablacar.fr/bus)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

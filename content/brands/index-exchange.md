@@ -2,11 +2,11 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-03-20T08:22:05.715735"
+date: "2026-04-10T09:40:34.668069"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -47,22 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - purple
-  - grey
-  - blue
-  - pink
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - clean
-  - natural
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,46 +69,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The primary logo, known as 'The Squares,' should represent Index Exchange.
-- Clearspace guidelines: Use an invisible bounding box equal to the height (labeled 'x') of the logo around it.
-- Registered Trademark Symbol (®) must be included alongside the logo in all external applications.
-- Logo variations: Solid white or solid black logos can be used for readability or printing limitations.
-- Social media usage of the logo: Maintain a spacing equal to the width of the second-largest square on all sides.
-- Incorrect usage examples such as distortions, warping, blurring, narrow dimensions, and altered line weight.
-- Minimum size: For print, the Squares should not be smaller than 1.5in / 3.81cm. For digital, use at least 115px @72dpi.
-- Incorrect usage examples: Avoid gradients, improper trademark usage, breaking the Squares layout, rendering, or complex backgrounds.
-
-**Color Information:**
-
-- Primary colors: Ice White (#FFFFFF), Index Blue (#1D428A), Blue Jay (#041E42), and Night Sky (#000000).
-- Secondary colors: Header Tag Pink (#DE396E), Grey Jay (#AEBECC), Viola (#8F8EF8), Raptor Purple (#8259F7), Wintergreen (#88E5C1), Bright Sky (#2CACE2).
-- Appropriate contexts for color usage listed for clarity, trust, elegance, growth, and other emotional associations.
-
-**Typography Information:**
-
-- Primary typeface: Adelle Sans, versatile and approachable for headlines, body text, and more.
-- Usage details for Adelle Sans weights: Thin for body text; Thin Italic for captions; SemiBold for calls to action; Bold for headlines.
-- Fallback typeface: Calibri, available on Microsoft Office products for complementary use.
-
-**Imagery Photography:**
-
-- Photographic style: Clean, bright, elegant, natural, and authentic with sharp focus and shorter depth of field.
-- Use overlays with transparency set at 30% or less for text legibility. Encourages black & white imagery for contrast.
-- Incorrect usage examples: Avoid gradients, stock photos, extreme closeups, or overlays exceeding 30%. Avoid unflattering images.
-
-**Spacing Layout:**
-
-- Grid alignment for the expanded logo ensures proportional scaling based on Golden Ratio principles.
-- Ensure ample spacing (clearspace rules) around logos following height ('x') clearspace methods.
-
-**Brand Voice:**
-
-- Tone is understated, elegant, clean, approachable, and based on precision. Amplifies ideals and avoids self-promotion.
-- Tagline examples and language reflect democratization of advertising, openness, and partner-centric values.
-
-**Notes:**
-
-- Contact information for brand-related queries is creative@indexexchange.com.
-- Preferred logos and guidelines are available at indexexchange.com/brand.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Go North Wales
 slug: "go-north-wales"
 description: ""
-date: "2026-03-20T08:22:03.836203"
+date: "2026-04-10T09:40:31.471594"
 draft: false
 sectors:
   - tourism
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 - [https://www.gonorthwales.co.uk](https://www.gonorthwales.co.uk)
 - [https://northwalestourism.co.uk](https://northwalestourism.co.uk)
 - [https://northwalesdistribution.co.uk](https://northwalesdistribution.co.uk)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

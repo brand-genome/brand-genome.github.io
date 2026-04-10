@@ -2,7 +2,7 @@
 title: Transfermuga
 slug: transfermuga
 description: ""
-date: "2026-03-20T08:22:04.337916"
+date: "2026-04-10T09:40:33.051377"
 draft: false
 sectors:
   - "public-transportation"
@@ -68,24 +68,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Transfermuga logo with a referenced height of 15 cm.
-- Logo dimension minimum specified as dimensions of 15 cm.
-
-**Typography Information:**
-
-- Various typographic sizes listed, including Corps 80 pts, Corps 60 pts, Corps 40 pts, Corps 28 pts, Corps 20 pts, and Corps 100 pts.
-
-**Spacing Layout:**
-
-- Measurements for spatial relations include 25 mm, 20 mm, 15 mm, 10 mm, 7 mm, and 5 mm.
-
-**Brand Voice:**
-
-- Mention of 'Jalonnement Transfermuga DEPLOIEMENT DE LA SIGNALETIQUE AU FIL DU CHEMINEMENT,' referring to signage deployment.
-
-**Notes:**
-
-- Mentions specific locations like Place des Basques and Bayonne, potentially for localized applications of branding.
-- References to 'Messages communiquants' associated with A4-sized outputs and Public Transit applications (e.g., Autobus).
+*Guidelines data not available*

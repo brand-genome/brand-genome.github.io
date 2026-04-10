@@ -2,7 +2,7 @@
 title: Sisense
 slug: sisense
 description: ""
-date: "2026-03-20T08:22:04.016726"
+date: "2026-04-10T09:40:31.999269"
 draft: false
 sectors:
   - software
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: Business analytics software company
 wikidata_url: "https://www.wikidata.org/wiki/Q17194268"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 - [https://www.sisense.com](https://www.sisense.com)
 - [https://trust.sisense.com](https://trust.sisense.com)
 - [http://www.sisense.com](http://www.sisense.com)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

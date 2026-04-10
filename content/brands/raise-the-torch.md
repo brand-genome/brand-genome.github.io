@@ -2,7 +2,7 @@
 title: Raise the torch
 slug: "raise-the-torch"
 description: ""
-date: "2026-03-20T08:22:05.713286"
+date: "2026-04-10T09:40:34.662315"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - community
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,14 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - signature
-brand_colors:
-  - gold
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,26 +70,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Raise the Torch logo signatures include 'raisethetorch.fsu.edu' in the graphic and should be hyperlinked to the campaign URL.
-- Instructions detail how logos should be resized only smaller while maintaining proportions by holding 'Shift'. Logos must not be resized so small that any text is unreadable.
-- The campaign logo should appear below email signature text, inserted via picture icon in email editor.
-
-**Color Information:**
-
-
-**Spacing Layout:**
-
-- Raise the Torch logos can be embossed and foil stamped using ‘Antique Gold’ foil on garnet stock. Die details: approximately 4” x 5.5” available at Gandy Printers.
-
-**Brand Voice:**
-
-- Campaign communications should emphasize strong traditions, excellence, and a bright future for FSU’s students, alumni, and community.
-- Social media posts should incorporate #SupportFSU for messaging about the campaign, monitored by the Annual Giving Department.
-
-**Notes:**
-
-- A variety of collateral pieces such as pens, folders, commemorative coins, annual reports, banners, and promotional items are available. For inquiries on preferred vendors or art files, contact the campaign manager.
-- Campaign leadership drafts and distributes social media content about gifts, impacts, faculty, staff, history, etc., to interested FSU-affiliated accounts.
-- Contact Tom Block, campaign manager, for any additional inquiries or collateral requests.
+*Guidelines data not available*

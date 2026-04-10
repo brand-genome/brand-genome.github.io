@@ -2,11 +2,11 @@
 title: Surf Life Saving New Zealand
 slug: "surf-life-saving-new-zealand"
 description: ""
-date: "2026-03-20T08:22:05.523054"
+date: "2026-04-10T09:40:34.414242"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
   - "emergency-services"
 regions:
   - "new-zealand"
@@ -53,15 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - green
-  - blue
-  - gray
-  - yellow
-  - orange
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: New Zealand nationwide organization dedicated to safety on the open water
@@ -81,28 +74,74 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- SLS NZ patrol logos for uniforms with specified placements. Sizes provided, e.g., SLS logo width: 70mm and 150mm width for chest placement.
-- Manufacturer logos allowed on uniforms, with final size and placement subject to agreement by SLSNZ.
-- Allowed club or sponsor branding on back of uniforms, size 50mm x 30mm.
-- Incorrect or unauthorized logo placements may not be allowed unless agreed upon by SLSNZ.
+##### Mission
 
-**Color Information:**
+- To ensure Surf Life Saving and partner branding is represented accurately and consistently, creating a unified and positive image for the Surf Life Saving movement in New Zealand. The brand guide is designed to help staff, clubs, members, partners, and suppliers uphold this standard across all communications and materials.
 
-- Primary colors for SLS NZ branding include SLS Red (Pantone PMS 1795), SLS Yellow (Pantone PMS 116), SLS Blue (Pantone PMS 293), and TSB Gray (Pantone Cool Gray 11C).
-- Additional colors for equipment include Green (Pantone PMS 368 and 355), Yellow (Pantone PMS 109), and Orange (Pantone PMS 021).
-- Pantone Cool Gray 8C is used specifically for TSB logos on uniforms where applicable.
+##### Core Values
 
-**Spacing Layout:**
+- Lifesaving
+- Sport
+- Education
 
-- Final logo placements, sizes, and layouts for uniforms must be agreed upon between SLSNZ and the manufacturer.
-- General spacing requirements for text and logo elements include minimum width for logos on Patrol Support uniforms: SLS Logo 70mm width and respective placements.
+##### Target Audience
 
-**Notes:**
+- Surf Life Saving staff, clubs, members, partners, suppliers, and the broader community engaged with surf life saving activities in New Zealand.
 
-- Uniform visuals in the document indicate logo sizes and placements but must undergo final agreement and approval between the organization and SLSNZ.
-- The document includes detailed color usage for equipment signage, branding for safety boards, and clubhouses, providing guidelines for consistency.
+##### Personality Traits
+
+- Commitment
+- Passion
+- Unity
+- Professionalism
+
+##### Visual Identity Overview
+
+- The visual identity is defined by a consistent use of the core color palette (SLS Red, SLS Blue, SLS Yellow), clear logo usage guidelines, and a unified approach to branding across uniforms, collateral, and partner materials. The brand emphasizes clarity, visibility, and positive representation, with specific instructions for logo variations, color applications, and typographic choices.
+
+#### Categories
+
+##### Logo Usage
+
+- In most cases the generic logo should be used. There are two versions of the generic logo, 'Stacked' and 'Flat'. The Flat logo is the preferred logo. Depending on the space and shape available the stacked version may be needed.
+- The reverse version of the logo should be used when the background is too dark and the logo cannot be seen clearly.
+- When the logo can only be reproduced in black and white please use the greyscale version of the logo.
+- Colours: SLS RED C:5 M:100 Y:100 K:0 PMS: 1795 C PMS: 1795 U SLS BLUE C:100 M:56 Y:0 K:0 PMS: 293 C PMS: 293 U SLS YELLOW C:0 M:12 Y:100 K:0 PMS: 116 C PMS: 116 U
+- Greyscale: RED 80% Black BLUE 50% Black YELLOW 30% Black
+- Clear space = 1 x 'LIFE' No other elements must ever encroached into the area
+- Flat logo with a locational descriptor in the naming section should not be any smaller than 45mm wide.
+- The Diamond on its own should not be any smaller than 16mm.
+- Flat logo with no locational descriptor should not be any smaller than 30mm.
+- Stacked logo with locational descriptor should not be any smaller than 23mm wide.
+- Stacked logo without locational descriptor should not be any smaller than 18mm wide.
+
+##### Color Palette
+
+- Colours: SLS RED C:5 M:100 Y:100 K:0 PMS: 1795 C PMS: 1795 U SLS BLUE C:100 M:56 Y:0 K:0 PMS: 293 C PMS: 293 U SLS YELLOW C:0 M:12 Y:100 K:0 PMS: 116C PMS: 116U
+- Greyscale: RED 80% Black BLUE 50% Black YELLOW 30% Black
+- sls red signifies lifesaving: C:5 M:100 Y:100 K:0 PMS: 1795 C PMS: 1795 U
+- sls Blue signifies sport: C:100 M:56 Y:0 K:0 PMS: 293 C PMS: 293 U
+- sls Yellow signifies education: C:0 M:12 Y:100 K:0 PMS: 116 C PMS: 116 U
+- The red, blue and yellow which make up the logo also make up the core colour palette which is used heavily throughout collateral. The three colours also represent the core business areas; Lifesaving (red), Sport (blue), and Education (yellow).
+- Where large areas of flat colour are printed the PMS spot colour inks are preferred.
+
+##### Typography
+
+- Helvetica Neue 45 Light abcdefgHijkLmNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 55 Roman ABCDEFGHIJKLMNOPqRSTUVWxYZ abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica neue 65 Medium aBcdefGHijKlMnopQrstuvwxYZ abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica neue75 Bold aBCdeFGHiJkLMnOPqrSTuvwxYZ abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 95 Black aBcdefgHijklmNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 47 Light Condensed abCdefgHijkLmNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 55 Condensed abCdefgHijklmNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 67 Medium Condensed abCdefgHijklMNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 87 Heavy Condensed abCdefgHijklmNopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890 Helvetica Neue 97 Black Condensed abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz 1234567890
+- Helvetica Neue is the common font family used across all Surf Life Saving collateral.
+- In most cases the regular (not condensed) version should be used. The full version of the Helvetica Neue family can be supplied in PC or Mac format.
+- Verdana is the email and internet equivalent which will be universal across Mac and PC platforms. This should be used for all internal and external documents, power points, websites and email.
+- This catch phrase is applied to the majority of Surf Life Saving communications. It conveys the commitment and passion of it's members. It's typographical treatment is more casual which is emphasised by using a hand written font. Formal documents will carry the organisation purpose rather than the slogan.
+
+##### Visual Style
+
+- Colours: SLS RED C:5 M:100 Y:100 K:0 PMS: 1795 C PMS: 1795 U SLS BLUE C:100 M:56 Y:0 K:0 PMS: 293 C PMS: 293 U SLS YELLOW C:0 M:12 Y:100 K:0 PMS: 116C PMS: 116U
+- Greyscale: RED 80% Black BLUE 50% Black YELLOW 30% Black
+- In most cases the generic logo should be used. There are two versions of the generic logo, 'Stacked' and 'Flat'. The Flat logo is the preferred logo. Depending on the space and shape available the stacked version may be needed.
+- The reverse version of the logo should be used when the background is too dark and the logo cannot be seen clearly.
+- When the logo can only be reproduced in black and white please use the greyscale version of the logo.
 
 ## Additional Properties
 

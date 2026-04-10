@@ -2,7 +2,7 @@
 title: "Institut Saint-Luc Liège"
 slug: "institut-saint-luc-liege"
 description: ""
-date: "2026-03-20T08:22:03.380137"
+date: "2026-04-10T09:40:30.923689"
 draft: false
 sectors:
   - education
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
+  - featured
   - education
   - art
-  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 
 - [https://saintlucliege.be](https://saintlucliege.be)
 - [https://saintlucpsliege.be](https://saintlucpsliege.be)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*

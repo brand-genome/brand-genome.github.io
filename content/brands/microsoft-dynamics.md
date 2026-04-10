@@ -2,7 +2,7 @@
 title: Microsoft Dynamics
 slug: "microsoft-dynamics"
 description: ""
-date: "2026-03-20T08:22:05.589393"
+date: "2026-04-10T09:40:34.534626"
 draft: false
 sectors:
   - software
@@ -46,17 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - navy
-  - white
-  - grey
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: enterprise resource planning software produced by Microsoft
@@ -78,32 +69,87 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Dynamics 365 symbol can only be printed in black, white, Dynamics Navy Blue, or Dynamics Sky Blue. It must not be distorted, re-colored, typeset, enlarged, or reduced at unequal proportions.
-- Dynamics 365 symbol application examples include specific dimensions: 200px, 165px, 210px, 215px, 70px, 235px, 340px.
-- Dynamics 365 color options for the symbol outlined: black, white, Dynamics Navy Blue, Dynamics Sky Blue.
-- Logo usage examples illustrate minimum sizes such as 64px, 32px, and 16px for symbols.
-- Incorrect logo usage rules illustrated, including guidelines for lockups. Examples show misuse with inline combinations or altering hierarchy.
+##### Mission
 
-**Color Information:**
+- To build and maintain a strong identity for Microsoft Dynamics 365 through consistent use of brand elements, ensuring clarity, modernity, and precision in all communications.
 
-- Dynamics Navy Blue: HEX #002050, Pantone 655C; CMYK C100 M91 Y37 K39; RGB R2 G34 B79 — serves as the main brand color.
-- Dynamics Sky Blue: HEX #3A96DD, Pantone 279C; CMYK C70 M30 Y0 K0; RGB R63 G151 B218 — works as a secondary brand color.
-- Dynamics Aqua: HEX #00B7C3, Pantone 7710C; CMYK C73 M3 Y25 K0; RGB R29 G183 B219 — tertiary color, used for highlights like buttons or calls to action.
-- Dynamics Ash Grey: HEX #505C6D, Pantone 7545C; CMYK C72 M58 Y42 K20; RGB R80 G92 B108 — secondary color for headers, body text, and backgrounds.
-- Dynamics Charcoal Grey: HEX #394453, Pantone 432C; CMYK C78 M66 Y48 K36; RGB R57 G68 B82 — secondary color for headers, body text, and backgrounds.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- legibility
+- modernity
+- balance
+- precision
 
-- Primary typeface: Segoe UI Regular and Segoe UI Semibold. Recognized for legibility, modernity, balance, and precision.
-- Examples of Segoe UI weights provided — Regular and Semibold — showing alphabets, numerals, and special characters.
+##### Target Audience
 
-**Notes:**
+- Business professionals and organizations seeking integrated business applications and solutions.
 
-- Color palette includes RGB and HEX for web use, ensuring accurate representation. Dynamics Navy Blue is the core brand color, while Sky Blue and Aqua serve as secondary/tertiary colors.
-- Dynamics 365 lockup hierarchy adheres strictly to the Microsoft logo guidelines.
-- Dynamics 365 service icons provided for various functionalities like Customer Service, Operations, Financials, Field Service, etc.
+##### Personality Traits
+
+- professional
+- modern
+- precise
+- balanced
+
+##### Visual Identity Overview
+
+- The visual identity centers on the Dynamics 365 symbol, a geometric, angular shape used in specific color options (Navy Blue, Sky Blue, Aqua, Ash Grey, Charcoal Grey, black, and white), with strict rules for logo usage and proportions. The Segoe typeface is used for its legibility and modern appearance, and the overall style is clean, technical, and professional.
+
+#### Categories
+
+##### Logo Usage
+
+- Consistent use of the Dynamics 365 elements is critical to building and maintaining a strong identity. The Dynamics 365 identity is composed of: the symbol, the colors and the font. The Dynamics 365 symbol can only be printed in black, white and Dynamics 365 Navy or Sky Blue. The symbol should never be distorted, re-colored, typeset, or enlarged or reduced at unequal proportions. The guidelines are simple, but following them is essential to maintaining the integrity of the Dynamics 365 identity.
+- The Dynamics 365 symbol should only be used in small spaces
+
+##### Color Palette
+
+- The Dynamics 365 symbol can only be printed in black, white and Dynamics 365 Navy or Sky Blue.
+- Color is one of the fundamental building blocks of any successful identity system.
+- Please use the colors outlined above to accurately represent the Dynamics 365 identity color palette. RGB and HEX values are provided for use on the web.
+- Dynamics Navy Blue is the main Dynamics brand color. It can be used in a background, Dynamics logo, headers, body text.
+- Dynamics Sky Blue is a secondary color and should be used in addition to Navy Blue in a background, Dynamics logo, headers, links. Sky Blue will also be used to represent Dynamics 365 service icons.
+- Dynamics Aqua is a tertiary color to be used as a highlight. In digital execution this color will be used to indicate calls to action, for example, buttons, links.
+- Dynamics Ash Grey and Dynamics Charcoal Grey are secondary colors. They both can be used in a background, headers, body text.
+- C100 M91 Y37 K39 R2 G34 B79 #002050 Pantone 655C Dynamics Navy Blue
+- C70 M30 Y0 K0 R63 G151 B218 #3A96DD Pantone 279C Dynamics Sky Blue
+- C73 M3 Y25 K0 R29 G183 B2194 #00B7C3 Pantone 7710C Dynamics Aqua
+- C72 M58 Y42 K20 R80 G92 B108 #505C6D Pantone 7545C Dynamics Ash Grey
+- C78 M66 Y48 K36 R57 G68 B82 #394453 Pantone 432C Dynamics Charcoal Grey
+
+##### Typography
+
+- The Dynamics 365 typeface is Segoe. It was chosen to represent Dynamics 365 because of its legibility, modernity, balance and precision. It’s important to ensure this typeface is used consistently across all Dynamics 365 communications, following in accordance with all other Microsoft properties.
+- SEGOE UI REGULAR
+- # ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%^&*()
+- SEGOE UI SEMIBOLD
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%^&*()
+- Dynamics Navy Blue is the main Dynamics brand color. It can be used in a background, Dynamics logo, headers, body text.
+- Dynamics Ash Grey and Dynamics Charcoal Grey are secondary colors. They both can be used in a background, headers, body text.
+
+##### Visual Style
+
+- Consistent use of the Dynamics 365 elements is critical to building and maintaining a strong identity. The Dynamics 365 identity is composed of: the symbol, the colors and the font. The Dynamics 365 symbol can only be printed in black, white and Dynamics 365 Navy or Sky Blue. The symbol should never be distorted, re-colored, typeset, or enlarged or reduced at unequal proportions. The guidelines are simple, but following them is essential to maintaining the integrity of the Dynamics 365 identity.
+- The Dynamics 365 symbol application must adhere to the geometric blueprint measurements: 200px width, 340px height, 165px height for the top polygon, 60° angle at its inclined side, 235px height for the adjacent polygon, 200px width, 215px height for the next polygon below, 60° angle at its inclined side, 210px height for the bottom polygon, 70px width for the lower section, and the bounding box outlined with dashed red lines. The symbol must be centered within a grid composed of nine equally sized rectangles outlined by red dashed lines, with each of the four corners of the grid containing a red 'X' mark.
+- DYNAMICS 365 SYMBOL - COLOR OPTIONS
+- 64 PX DYNAMICS 365 SYMBOL
+- 32 PX DYNAMICS 365 SYMBOL
+- 16 PX DYNAMICS 365 SYMBOL
+- Color is one of the fundamental building blocks of any successful identity system.
+- Please use the colors outlined above to accurately represent the Dynamics 365 identity color palette. RGB and HEX values are provided for use on the web.
+- Dynamics Navy Blue is the main Dynamics brand color. It can be used in a background, Dynamics logo, headers, body text.
+- Dynamics Sky Blue is a secondary color and should be used in addition to Navy Blue in a background, Dynamics logo, headers, links. Sky Blue will also be used to represent Dynamics 365 service icons.
+- Dynamics Aqua is a tertiary color to be used as a highlight. In digital execution this color will be used to indicate calls to action, for example, buttons, links.
+- Dynamics Ash Grey and Dynamics Charcoal Grey are secondary colors. They both can be used in a background, headers, body text.
+- The Dynamics 365 typeface is Segoe. It was chosen to represent Dynamics 365 because of its legibility, modernity, balance and precision. It’s important to ensure this typeface is used consistently across all Dynamics 365 communications, following in accordance with all other Microsoft properties.
+- SEGOE UI REGULAR
+- SEGOE UI SEMIBOLD
+- The Dynamics 365 symbol should only be used in small spaces
+- Do not use the Dynamics 365 mark inline with the name lockup
+- Do not use the Dynamics 365 mark in combination with a Dynamics 365 service name
 
 ## Additional Properties
 

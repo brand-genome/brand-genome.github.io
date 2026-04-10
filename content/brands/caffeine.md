@@ -2,12 +2,12 @@
 title: Caffeine
 slug: caffeine
 description: ""
-date: "2026-03-20T08:22:04.889530"
+date: "2026-04-10T09:40:33.650889"
 draft: false
 sectors:
+  - gaming
   - broadcasting
   - entertainment
-  - gaming
   - "social-media"
 regions:
   - usa
@@ -52,19 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - white
-  - blue
-  - cyan
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: Indonesian pop/rock group
 wikidata_url: "https://www.wikidata.org/wiki/Q12478159"
 has_twitter: false
@@ -83,28 +74,88 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo is the left-aligned wordmark and logo combination. It should only be used in black/white/brand blue and should not overlap other shapes.
-- The solo logo (icon only) should be used for smaller designs where the wordmark becomes illegible. It should not be used out of the product context.
-- Do not add a stroke, drop shadow, or overlay an image on the logo. Avoid placing the logo on top of patterns.
-- The logo should have sufficient spacing to avoid collision with other elements. Specific spacing rules include a margin of at least 10 units.
+##### Mission
 
-**Color Information:**
+- To make it simple for people to create their own shows and watch new interactive content with friends, featuring content at the intersection of gaming, sports, and entertainment, and maintaining a zero-tolerance policy for bullying, hate speech, and racism.
 
-- Primary color - Gallery White (#FFFFFF) is used as a base to highlight content and creators.
-- Primary color - Stage Black (#000000) serves as a neutral base.
-- Secondary color - Brand Blue (#0000FF) is primarily used for 'Live' status and logo mark.
-- Secondary color - Activity Cyan (#00FFFF) is used to highlight activity.
-- Tertiary color - Highlights (#FFFF00, #FF00FF, #FF0000, #00FF00) are used for accenting specific information and differentiating users/items.
+##### Core Values
 
-**Spacing Layout:**
+- simplicity
+- interactivity
+- community
+- inclusivity
+- zero-tolerance for bullying, hate speech, and racism
 
-- Logo spacing rules include a margin of 10 units around the logo to ensure clarity and avoid collision with other elements.
+##### Target Audience
 
-**Brand Voice:**
+- Gamers, entertainers, athletes, and viewers interested in live, interactive content, especially those who value community and inclusivity.
 
-- Caffeine is positioned as a platform featuring content at the intersection of gaming, sports, and entertainment, with a zero-tolerance policy for bullying, hate speech, and racism.
+##### Personality Traits
+
+- modern
+- minimalistic
+- professional
+- friendly
+- energetic
+
+##### Visual Identity Overview
+
+- The brand uses geometric patterns and a modern, minimalistic logo with a clean sans-serif wordmark. The color palette is primarily black, white, and brand blue, with accent colors for highlights. Visuals emphasize clarity, simplicity, and symmetry, avoiding unnecessary embellishments.
+
+#### Categories
+
+##### Brand Imagery
+
+- This is the primary usage of the logo, using the left aligned logo with the wordmark. The logo should never be overlapped with other shapes, or used in colors other than black/white/brand blue.
+- The solo icon is best used for smaller designs where the word mark becomes illegible or cut off. The logo should not be used on its own out of the context of the product or other branded elements.
+- Add a drop shadow of any kind
+- Add a stroke or modify it in any way
+- Apply/ overlay an image on top of the logo
+- Place the image on top of a pattern
+- The logo should always have enough space around it to avoid colliding with other typography, assets. or borders.
+
+##### Color Palette
+
+- Gallery White #FFFFFF
+- Stage Black #000000
+- Designed to show off the amazing content and creators of Caffeine the brand should never be a detractor. That’s why the simplicity of black and white base’s with color accents is key.
+- Brand / Status Blue #0000FF
+- Primarily used for “Live” status and logo mark
+- Activity Cyan #00FFFF
+- Used to highlight activity
+- Highlights #FFFF00
+- #00FF00 #FF00FF #FF0000
+- Used to highlight specific information and differentiate between users/items
+
+##### Logo Usage
+
+- The requested JSON object containing all logo usage guidelines has been created and is available for download. [Download logo_usage_guidelines.json](sandbox:/mnt/data/logo_usage_guidelines.json)
+
+##### Brand Values
+
+- Caffeine has a zero-tolerance policy for bullying, hate speech and racism.
+
+##### Visual Style
+
+- This is the primary usage of the logo, using the left aligned logo with the wordmark. The logo should never be overlapped with other shapes, or used in colors other than black/white/brand blue.
+- The solo icon is best used for smaller designs where the word mark becomes illegible or cut off. The logo should not be used on its own out of the context of the product or other branded elements.
+- Add a drop shadow of any kind
+- Add a stroke or modify it in any way
+- Apply/ overlay an image on top of the logo
+- Place the image on top of a pattern
+- The logo should always have enough space around it to avoid colliding with other typography, assets. or borders.
+- Gallery White #FFFFFF
+- Stage Black #000000
+- Brand / Status Blue #0000FF
+- Activity Cyan #00FFFF
+- Highlights #FFFF00
+- #00FF00 #FF00FF #FF0000
+- Designed to show off the amazing content and creators of Caffeine the brand should never be a detractor. That’s why the simplicity of black and white base’s with color accents is key.
+- Primarily used for “Live” status and logo mark
+- Used to highlight activity
+- Used to highlight specific information and differentiate between users/items
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: South Africa
 slug: "south-africa"
 description: ""
-date: "2026-03-20T08:22:05.162365"
+date: "2026-04-10T09:40:34.008053"
 draft: false
 sectors:
   - "public-sector"
@@ -52,13 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - vibrant
+imagery_styles: []
 wikidata_description: "public university in Cape Town, South Africa"
 wikidata_url: "https://www.wikidata.org/wiki/Q951305"
 has_twitter: false
@@ -79,51 +76,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Welcome to the brand guideline manual for Brand South Africa. Our purpose is to create a positive and compelling brand image for South Africa, both domestically and internationally and in so doing, drive strategic opportunities for trade and tourism. The guidelines set out in this manual should be strictly adheared to. For more information, contact Brand Manager, Brand South Africa Tel: +27 11 483 0122.
-- 1. Communication hierarchy (5-8)
-- Levels of communication
-2. Basic elements (9-31)
-- Overview
-- Brand South Africa logo
-- Units of measurement
-- Clear space
-- Keyline
-- Logo with URL
-- Secondary brand
-- Logo placement guidelines
-- Correct logo usage
-- Incorrect logo usage
-- Incorrect tagline usage
-- Minimum size
-- Color palette
-- Primary font
-- Type area
-- Typography application
-3. Stationery (32-57)
-4. Literature (58-67)
-5. Campaign branding (68-73).
-
-**Color Information:**
-
-- Color palette specifies primary and secondary colors with Pantone, RGB, HEX, and CMYK values with examples of application and rules for digital reproduction.
-
-**Typography Information:**
-
-- The typography includes Mundo Sans as the primary font family. Variations include Regular, Light, Medium, Italic. Roles specified include headlines, captions.
-
-**Imagery Photography:**
-
-- Images and graphics must reflect South Africa's diversity, use vibrant colors, and convey positivity. Guidelines for proper alignment with typography are defined.
-
-**Spacing Layout:**
-
-- Clear space for the logo is determined as 'X-height around the entire logo.' Minimum size rules must be followed.
-
-**Brand Voice:**
-
-- The tagline follows strict translations approved by Brand South Africa. Tagline usage must accompany the logo unless specified otherwise.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Instituto de Empresa
 slug: "instituto-de-empresa"
 description: ""
-date: "2026-03-20T08:22:04.512395"
+date: "2026-04-10T09:40:33.287022"
 draft: false
 sectors:
   - education
@@ -51,9 +51,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -79,33 +77,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Case 1
-The corporate logo appears at the closing and secondary to the logo. Case 2
-The institutional logo appears at the closing and secondary to the logo.
-- Do you know which logo to use? When more than one logo is used, the place logo is the primary logo and the corporate or institutional logo appears at the closing in a secondary position.
-- This is how our logo has changed over time (1976-2016). History and identity.
-
-**Notes:**
-
-- How to use 
-the IE brand 
-We™re here 
-to help
-Learn more
-- Intro
-Here we™ll show you the do™s 
-and don™t™s of applying IE 
-visual identity. 
-This guide is designed to answer 
-your questions, but without 
-limiting your creativity.
-- Our history
-History and identity
-- We are made
-of change
-History and identity
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Variety
 slug: variety
 description: ""
-date: "2026-03-20T08:22:05.416067"
+date: "2026-04-10T09:40:34.286311"
 draft: false
 sectors:
   - ngo
@@ -46,25 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - red
-  - "pantone-485"
-  - "pantone-652"
-  - "pantone-285"
-  - white
-  - "pantone-198"
-  - black
-typographies:
-  - lato
-imagery_styles:
-  - bold
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: type of British theatrical entertainment popular between 1850 and 1960
 wikidata_url: "https://www.wikidata.org/wiki/Q940462"
 has_twitter: false
@@ -88,39 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Detailed logo usage instructions, safe zone rules, and logo structure guidelines, including mentions of stacked, icon-only, and horizontal logos.
-
-**Color Information:**
-
-- Primary colors include Pantone 485 (Red, CMYK: 0, 95, 100, 0; RGB: 238, 49, 36; HTML: #EE3123) and Pantone Black (CMYK: 0, 0, 0, 100; RGB: 0, 0, 0; HTML: #000000).
-- Secondary palette includes Pantone 285, Pantone 652, Pantone 198, and other colors with respective color standards (Pantone, HEX, RGB, CMYK values).
-
-**Typography Information:**
-
-- Primary fonts include VAG Rounded Std Bold and Lato (Regular and Bold). Font sizes, weights, and purpose are specified for headings, subheadings, and body text.
-- Font recommendations ensure readability and consistency across print and digital media, with emphasis on alignment to brand tone as a children's charity appealing to adults.
-
-**Imagery Photography:**
-
-- Guidelines suggest using vibrant, high-quality images emphasizing positivity and children's happy outcomes. Avoid cluttering images and ensure appropriate use with brand colors.
-
-**Spacing Layout:**
-
-- Clear margins and paddings specified for various brand assets (e.g., 18pt margins for business cards, header and footer specifications for documents).
-- Guidelines on white space importance to maintain visual clarity and prevent clutter around corporate elements.
-
-**Brand Voice:**
-
-- Brand tone is described as empathetic, genuine, and caring with a focus on the children. Communication avoids guilt or pity and strives to inspire pride and action.
-- Guidelines for consistent brand use, such as emphasizing children's empowerment and avoiding disempowering language like 'suffering.'
-- Specific language rules: Never abbreviate 'Variety the Children's Charity' as 'VIC' or similar. Underlines correct and incorrect names, e.g., 'Variety NT’s Goanna Park (correct abbreviation).
-
-**Notes:**
-
-- Overall brand ethos describes overcoming limitations for children, emphasizing independence and better life outcomes through charity work.
-- Website navigation and accessibility guidelines—focus on the clarity and user-friendliness of digital assets.
+*Guidelines data not available*
 
 ## Additional Properties
 

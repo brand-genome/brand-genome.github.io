@@ -2,7 +2,7 @@
 title: "Rolls-Royce SMR"
 slug: "rolls-royce-smr"
 description: ""
-date: "2026-03-20T08:22:03.070253"
+date: "2026-04-10T09:40:30.569624"
 draft: false
 sectors:
   - "nuclear-energy"
@@ -51,8 +51,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,20 +69,4 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Logo-related details including exclusion zones and usage aesthetics found on page 5.
-- Digital logos and considerations appear on page 9, discussing alignment and branding specifics.
-- Logo-specific design guidelines referenced on page 17, showcasing branding for digital spaces.
-
-**Typography Information:**
-
-- Typography-related details focusing on readability, font attributes, and accessibility standards as outlined on page 50.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines, including mood, composition, lighting, and treatments outlined across pages 68 to 76.
-
-**Notes:**
-
-- Miscellaneous notes across all pages that have content extracted.
+*Guidelines data not available*

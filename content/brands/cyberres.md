@@ -2,11 +2,11 @@
 title: CyberRes
 slug: cyberres
 description: ""
-date: "2026-03-20T08:22:03.396290"
+date: "2026-04-10T09:40:30.961745"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: software company
 wikidata_url: "https://www.wikidata.org/wiki/Q55864542"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,12 +66,6 @@ visual_term_image_urls: {}
 - [https://www.microfocus.com/en-us/cyberres](https://www.microfocus.com/en-us/cyberres)
 - [https://cybersecurity.opentext.com](https://cybersecurity.opentext.com)
 - [https://www.opentext.com/microfocus](https://www.opentext.com/microfocus)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

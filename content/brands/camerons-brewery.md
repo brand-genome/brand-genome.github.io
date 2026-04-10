@@ -2,11 +2,11 @@
 title: Camerons Brewery
 slug: "camerons-brewery"
 description: ""
-date: "2026-03-20T08:22:04.686930"
+date: "2026-04-10T09:40:33.409587"
 draft: false
 sectors:
-  - restaurant
   - brewery
+  - restaurant
 regions:
   - "united-kingdom"
 years:
@@ -53,12 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - gold
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "brewery in Hartlepool, County Durham, England"
@@ -79,31 +75,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Standard logo with gold - To be used on pure white backgrounds.
-- Standard logo plain on light - To be used on light-colored backgrounds ensuring the text is clearly visible.
-- Standard logo with gold on dark - To be used on pure black backgrounds.
-- Standard logo plain on dark - To be used on dark backgrounds ensuring the text is clearly visible.
-- Standard logo BW on dark - To be used on dark backgrounds.
-- Standard logo BW on light - To be used on light backgrounds.
-- Basic logo on dark - To be used on dark backgrounds.
-- Basic logo on light - To be used on light backgrounds.
-- The colors of the logos must not be altered. Proportions must not be altered. Logos must not be stretched, placed on background shapes, and must remain easily visible.
-- Minimum size allowed for standard logo use is stipulated, ensuring clear visibility.
-
-**Color Information:**
-
-- Gold is the primary color used in the standard logo for accents and emphasis on white and black backgrounds.
-- Plain standard logo uses black or white depending on the background.
-
-**Spacing Layout:**
-
-- Minimum clear space requirements are defined around the logo to maintain visual clarity.
-
-**Notes:**
-
-- Brand guidelines document dated 2017 encompasses information regarding logo usage, colors, sizes, and placements.
+*Guidelines data not available*
 
 ## Additional Properties
 

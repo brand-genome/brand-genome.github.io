@@ -2,7 +2,7 @@
 title: Daikin
 slug: daikin
 description: ""
-date: "2026-03-20T08:22:03.838995"
+date: "2026-04-10T09:40:31.477006"
 draft: false
 sectors:
   - hardware
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: multinational corporation based in Japan
 wikidata_url: "https://www.wikidata.org/wiki/Q1157589"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [https://www.daikin.it](https://www.daikin.it)
 - [https://www.daikin.fr](https://www.daikin.fr)
 - [https://www.daikin.de](https://www.daikin.de)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

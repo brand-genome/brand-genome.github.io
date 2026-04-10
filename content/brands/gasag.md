@@ -2,7 +2,7 @@
 title: Gasag
 slug: gasag
 description: ""
-date: "2026-03-20T08:22:03.865291"
+date: "2026-04-10T09:40:31.528428"
 draft: false
 sectors:
   - utilities
@@ -13,11 +13,11 @@ years:
 languages:
   - german
 tags:
-  - industry
   - featured
+  - industry
 industries:
-  - "energy-supply"
   - "energy-company"
+  - "energy-supply"
   - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
 countries:
   - germany
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: natural gas company in Berlin
 wikidata_url: "https://www.wikidata.org/wiki/Q1343030"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [http://www.gasagdeals.de](http://www.gasagdeals.de)
 - [http://www.peperoni.berlin](http://www.peperoni.berlin)
 - [http://www.gasag.de](http://www.gasag.de)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

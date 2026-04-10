@@ -2,11 +2,11 @@
 title: SEI
 slug: sei
 description: ""
-date: "2026-03-20T08:22:05.561514"
+date: "2026-04-10T09:40:34.477635"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - sweden
 years:
@@ -72,6 +72,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2018
+
+*Guidelines data not available*
 
 ## Additional Properties
 

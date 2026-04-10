@@ -2,7 +2,7 @@
 title: Politecnico di Milano
 slug: "politecnico-di-milano"
 description: ""
-date: "2026-03-20T08:22:03.238113"
+date: "2026-04-10T09:40:30.750198"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - featured
+  - education
 industries: []
 countries:
   - italy
@@ -75,15 +75,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Brand Voice:**
-
-- The brand focuses on sustainable and inclusive growth, highlighting talents, skills, and ambitions, while significantly impacting social and cultural progress. Ethical values are central, characterized by responsibility, respect, integrity, professionalism, equity, trust, transparency, sustainability, and inclusiveness.
-- The manifesto emphasizes sustainable and inclusive growth, ethical integrity, scientific rigor intertwined with creativity, and a 160-year heritage of projecting toward the future.
-- The vision defines the Politecnico as an authoritative guide, pivotal in addressing scientific, technological, and sustainable challenges while adhering to ethical dimensions of equity, inclusion, and shared growth. It aligns with key values like dignity, freedom, democracy, equality, rule of law, and respect for human rights.
-
-**Notes:**
-
-- The introductory segment outlines the target audience, focusing on the Politecnico's mission to engage researchers, students, employees, and international talents aspiring toward elevated cultural, scientific, and institutional standards.
+*Guidelines data not available*
 
 ## Additional Properties
 

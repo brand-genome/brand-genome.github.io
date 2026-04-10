@@ -2,12 +2,12 @@
 title: Starbucks Coffee Company
 slug: "starbucks-coffee-company"
 description: ""
-date: "2026-03-20T08:22:04.164977"
+date: "2026-04-10T09:40:32.486665"
 draft: false
 sectors:
+  - drink
   - restaurant
   - food
-  - drink
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
   - english
 tags:
   - "food-beverage"
-  - vintage
   - featured
+  - vintage
 industries:
   - "coffee-industry"
 countries:
@@ -37,8 +37,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - coffee
   - frappuccino
+  - coffee
 products: []
 headquarters_locations:
   - seattle
@@ -65,10 +65,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - green
-  - white
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American multinational coffee company
@@ -116,22 +113,7 @@ visual_term_image_urls: {}
 
 ### 1996
 
-**Logo Information:**
-
-- The Starbucks logo must adhere to the following usage standards: It should symbolize the company's values, distinguish its products and services, and maintain consistency to protect the brand identity and reputation.
-- The Starbucks logo must be printed in its three correct colors: Pantone 3425c (green), black, and white; no other colors are allowed.
-- Examples of correct one-color logo usage include the black logo on a white background and the white logo on a black background.
-- Contact Creative Services for approved logo slicks and camera-ready art.
-- Incorrect logo usage can dilute or harm the brand and diminish Starbucks' ability to prevent infringement by others.
-
-**Color Information:**
-
-- The Starbucks logo uses Pantone 3425c (green) as its official green color, along with black and white.
-
-**Notes:**
-
-- Starbucks never has an apostrophe, even when used in possessive form.
-- When identifying the company, use 'Starbucks Coffee Company' or 'Starbucks Coffee.' Any use of the Starbucks name must comply with branding guidelines and be approved by Communications and Public Affairs at (206) 447-1575 prior to publication.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -141,7 +123,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Coffee](/products_or_materials_produced/coffee/); [Frappuccino](/products_or_materials_produced/frappuccino/) |
+| Product Or Material Produced | [Frappuccino](/products_or_materials_produced/frappuccino/); [Coffee](/products_or_materials_produced/coffee/) |
 | Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
 | Foundation Date | [1971](/foundation_dates/1971/) |
 | Founded By | Jerry Baldwin, Gordon Bowker, Zev Siegl |

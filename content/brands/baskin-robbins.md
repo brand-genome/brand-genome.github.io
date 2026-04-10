@@ -2,7 +2,7 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-03-20T08:22:04.208841"
+date: "2026-04-10T09:40:32.577020"
 draft: false
 sectors:
   - restaurant
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "ice-cream"
   - pie
+  - "ice-cream"
 products: []
 headquarters_locations:
   - canton
@@ -54,20 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-brand_colors:
-  - white
-  - blue
-  - magenta
-  - black
-typographies:
-  - helvetica
-  - display
-imagery_styles:
-  - natural
-  - lifestyle
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: US international ice cream parlor chain
 wikidata_url: "https://www.wikidata.org/wiki/Q584601"
 has_twitter: false
@@ -96,33 +86,105 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Acceptable logo colors: white, black, and blue. Usage must include a TM mark or registered trademark symbol after 'Robbins'. The TM/registered trademark symbol must always appear in blue.
-- Outdated logos are categorized. The current logo versions date back to 2015.
+##### Mission
 
-**Color Information:**
+- We create and market premium ice cream, specialty frozen desserts and beverages, all while providing quality and value to consumers at our shops which span across 50 countries [^1].
 
-- The specified colors for the brand are: (1) CMYK Values for Magenta: C=7, M=81, Y=0, K=0, HEX=#ED4FAF; (2) CMYK Values for Blue: C=100, M=88, Y=0, K=0, HEX=#0038A8.
+##### Core Values
 
-**Typography Information:**
+- flavour and fun
+- freedom to choose
+- quality
+- value
+- family
+- celebration
+- consistency
+- familiarity [^2]
 
-- Specified typefaces: (1) Variex - Used for headings and logos, (2) Neutra Display Medium - Used for headings, (3) Helvetica - Used for body text.
-- Examples of usage for typefaces are provided on the same page.
+##### Target Audience
 
-**Imagery Photography:**
+- Primary audience: general consumers, especially parents and grandparents, who see posters and ice cream tags in stores and advertisements at home. Content should also appeal to children. Secondary audience: internal stakeholders including franchisees, executives, communications and marketing departments, and web/graphic designers, mainly in Canada .
 
-- Photography and imagery rules: Use natural lighting; avoid filters or overstaged photos. Products featured in images should either stand alone or be incorporated into lifestyle shots but always guaranteed a central focus. Decorating details are emphasized as important to represent pride in products.
+##### Personality Traits
 
-**Brand Voice:**
+- welcoming
+- friendly
+- fun
+- conversational
+- playful
+- caring [^4]
 
-- Tone guidelines: Content should reflect a store experience—welcoming, friendly, and fun. Writing should feel familiar and, where appropriate, use humor.
-- Rules for acronyms: Uppercase with no periods unless otherwise specified (e.g., 'BR' for Baskin-Robbins). Rules for capitalization: Always capitalize 'Baskin-Robbins'. Always hyphenate 'Baskin-Robbins' (use a hyphen, not dashes). Numbers should be written out until ten and numerals afterward.
-- Customer terminology preferred in writing: 'Customers' over 'patrons' or 'guests', but all brand-specific substitutes are acceptable. Avoid general terms such as 'people'.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity features bright, playful colors (pink and blue), clean and legible typography (Variex, Neutra Display Medium, Helvetica), and imagery that emphasizes product details and evokes celebration and indulgence. Logo usage is consistent, with clear guidelines for color and trademark symbols. Photography uses natural lighting and focuses on products, often in lifestyle or celebratory contexts [^5].
 
-- Internal communications emphasize a middle-aged or older target audience (also including individuals in their 20s working in communications). There are specific prerequisites for franchise partnerships, highlighting relatively higher economic status among target professionals.
+#### Categories
+
+##### Brand Voice
+
+- Baskin-Robbins was founded on the desire to give customers a heaping scoop of flavour and fun. It’s a place for families and friends to come together and celebrate. Our customers let us participate in these celebrations like we’re part of the family, and we’re so thankful for that. It’s only fair that we return the favour and make them feel like a part of our family.
+- The experience a customer has reading our content should mirror the experience they have walking into a store. You should be welcoming, friendly and fun. The voice in your content should be the same you would use for a customer in your store.
+- How do you achieve that? Use colloquial terms, conversational language and contractions. Don’t be afraid to speak to people in a familiar way or, if the situation allows, be funny! If it seems too formal to say to your best friend, you probably need to rephrase your copy.
+- The reader needs to know that there’s an actual person behind the words they’re reading, and that that person cares about them. We’re not just trying to push ice cream on them. The quality of our products speaks for itself. You don’t have to tell customers why our stuff is great, show them.
+
+##### Brand Imagery
+
+- Images are another way to convey our personality and encourage a meaningful connection with our customers. You need to choose images that will resonate with them.
+- Photos should feature natural lighting. Avoid crazy filters or editing on these images. Accurate representations of our products are important.
+- Products can stand-alone or incorporated into a lifestyle shot, but products should always be the primary focus. Don't be afraid to show off the fine details, we take pride in them, especially when it comes to decorating!
+
+##### Color Palette
+
+- It's important to be consistent in your colour selections. In addition to white and black, the only other acceptable options for print materials are our logo's pink and blue. No gradients or patterns should be accepted.
+- C = 7 PMS 238 M = 81 #ED4FAF Y = 0 K = 0
+- C = 100 PMS 286 M = 88 #0038A8 Y = 0 K = 0
+
+##### Typography
+
+- Typefaces are an extension of brand personality. Our typefaces have changed over the years to better reflect who we are.
+- Text can be straight across or on a curve, but shouldn't be placed at other strange angles. Text should always be right-side up and legible.
+- The fonts we currently use are: 1. Variex 2. Neutra Display Medium 3. Helvetica
+- Variex is most often used for headings and our logo, Neutra Display Medium for headings, and Helvetica for body text.
+
+##### Logo Usage
+
+- If our logo is being printed in colour, it must be printed in the intended colours (see below for colour information). Black and white is acceptable, but colour is preferred.
+- All markets must use the TM mark(™) with the logo until we receive confirmation of the registration for your market. After registration you will be able to use the registered trademark symbol (®). Always locate the TM mark or registered trademark symbol after "Robbins" and always use the blue color for the TM mark/registered trademark symbol in the logo.
+- Baskin-Robbins has used several logos over 70 years, so be sure you're using the most current logo.
+- It's important to be consistent in your colour selections. In addition to white and black, the only other acceptable options for print materials are our logo's pink and blue. No gradients or patterns should be accepted.
+- C = 7 PMS 238 M = 81 #ED4FAF Y = 0 K = 0
+- C = 100 PMS 286 M = 88 #0038A8 Y = 0 K = 0
+
+##### Tone And Messaging
+
+- Baskin-Robbins was founded on the desire to give customers a heaping scoop of flavour and fun. It’s a place for families and friends to come together and celebrate. Our customers let us participate in these celebrations like we’re part of the family, and we’re so thankful for that. It’s only fair that we return the favour and make them feel like a part of our family.
+- The experience a customer has reading our content should mirror the experience they have walking into a store. You should be welcoming, friendly and fun. The voice in your content should be the same you would use for a customer in your store.
+- How do you achieve that? Use colloquial terms, conversational language and contractions. Don’t be afraid to speak to people in a familiar way or, if the situation allows, be funny! If it seems too formal to say to your best friend, you probably need to rephrase your copy.
+- The reader needs to know that there’s an actual person behind the words they’re reading, and that that person cares about them. We’re not just trying to push ice cream on them. The quality of our products speaks for itself. You don’t have to tell customers why our stuff is great, show them.
+- When in doubt, follow the CP Style Guide for any stylistic/spelling concerns.
+- “Customers” is preferred but alternatives such as “patrons” and “guests” are acceptable. Avoid terms like “people” that are too general and impersonal.
+- These are acceptable, in moderation.
+
+##### Brand Values
+
+- We create and market premium ice cream, specialty frozen desserts and beverages, all while providing quality and value to consumers at our shops which span across 50 countries.
+- Our story begins in 1945 with two brother-in laws, Burton “Burt” Baskin and Irvine “Irv” Robbins. They came together through their mutual love of old-fashioned ice cream and a desire to give customers a heaping scoop of flavour and fun. Since then we’ve become the world’s largest chain of ice cream specialty shops and, more importantly, we’ve become a place for families and friends to gather for holidays and every day celebrations.
+- Burt and Irv strongly believed people should have the freedom to choose, so they offered 31 flavours (one for every day of the month). They also believed people should be able to try flavours at no cost – a belief that led to our pink taster spoons. Their ideals live on at Baskin-Robbins, where we now possess a flavour library made up of more than 1,000 recipes.
+
+##### Visual Style
+
+- If our logo is being printed in colour, it must be printed in the intended colours (see below for colour information). Black and white is acceptable, but colour is preferred.
+- All markets must use the TM mark(™) with the logo until we receive confirmation of the registration for your market. After registration you will be able to use the registered trademark symbol (®). Always locate the TM mark or registered trademark symbol after "Robbins" and always use the blue color for the TM mark/registered trademark symbol in the logo.
+- Baskin-Robbins has used several logos over 70 years, so be sure you're using the most current logo.
+- It's important to be consistent in your colour selections. In addition to white and black, the only other acceptable options for print materials are our logo's pink and blue. No gradients or patterns should be accepted.
+- C = 7 PMS 238 M = 81 Y = 0 K = 0 #ED4FAF
+- C = 100 PMS 286 M = 88 Y = 0 K = 0 #0038A8
+
+##### Channels
+
+- These are the guidelines for our print communications. Print communications could include (but are not limited to): press releases, advertisements, posters, coupons, ice cream tags, mailers, signage, and internal communications.
 
 ## Additional Properties
 
@@ -132,7 +194,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Ice Cream](/products_or_materials_produced/ice-cream/); [Pie](/products_or_materials_produced/pie/) |
+| Product Or Material Produced | [Pie](/products_or_materials_produced/pie/); [Ice Cream](/products_or_materials_produced/ice-cream/) |
 | Headquarters Location | [Canton](/headquarters_locations/canton/) |
 | Foundation Date | [1945](/foundation_dates/1945/) |
 | Founded By | Burt Baskin, Irv Robbins |

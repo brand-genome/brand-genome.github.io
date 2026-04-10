@@ -2,7 +2,7 @@
 title: International Ice Hockey Federation
 slug: "international-ice-hockey-federation"
 description: ""
-date: "2026-03-20T08:22:04.225393"
+date: "2026-04-10T09:40:32.656301"
 draft: false
 sectors:
   - sports
@@ -50,24 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - blue
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - flat
-  - minimal
-  - graphic
-  - bold
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "worldwide governing body for ice hockey and in-line hockey"
 wikidata_url: "https://www.wikidata.org/wiki/Q190173"
 has_twitter: false
@@ -85,43 +71,116 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- The parent logo and emblem must not be modified and remain as registered trademarks. Various formats include combined marks, emblem-only representations, and flat color logos. It explicitly mentions the digital availability of logos and enforces the registered trademark symbol use.
-- States for IIHF parent, emblem, and word mark logos; mentions flat color logos using PMS values (3 PMS + black). Includes combinations of PMS 282, flat color variants, and black only states.
-- Logo clear spaces: Blue cartridges equal optimal clearance (100% of emblem). Red cartridges indicate minimal clearance (50% of emblem). Ensures spacing rules for emblem or logotype usage.
-- Minimum logo dimension: For IIHF parent logos, minimum full height is 15mm for HQ printing. Emblem logos have a minimum size of 10mm.
-- Prohibitions on logo modifications: No recoloring, proportional changes, visual effects, or new logo state creations. All logo files should remain consistent with official IIHF branding standards.
-- Placing logos: Distance to paper edge must be 6% of publication width; distance rules for usage on covers established.
-- Quick reference for logo file types and reproduction processes: EPS, AI, and JPEG formats suggested for quality reproduction.
-- Logo states for primary and secondary appearances in IIHF branding. Guidelines elaborate on PMS colors and composite elements.
+##### Mission
 
-**Color Information:**
+- To establish coherence and recognition for official IIHF ice hockey competitions and position the IIHF as the governing body of international ice hockey worldwide [^1].
 
-- Flat color versions utilize PMS 282 and black in IIHF logo states. Color values are established for primary and secondary branding applications.
-- IIHF primary and secondary colors elaborated with detailed PMS, RGB, CMYK, and HEX values for colors, such as IIHF Passion (#CE211F), IIHF Force (#002D62), and IIHF Justice (#FFFFFF). PMS values identified accordingly.
-- Restrictions mention prohibitions on recoloring logos using unspecified elements and maintaining specified PMS colors without changes.
-- Using gradient restrictions, prohibitions on fill patterns, avoiding unclear intersections, and prohibitions of single-color application in graphic elements.
-- Annual reports refer to applying specified color combinations and graphic elements, emphasizing proper branding guidelines.
-- File specifications for flat and full color files in CMYK, RGB, PMS states elaborated. Mentions formats EPS, AI, and JPEG.
+##### Core Values
 
-**Typography Information:**
+- speed
+- agility
+- passion
+- victory
+- heritage
+- justice
+- decision
+- force
 
-- Corporate typefaces: Helvetica Neue (Thin, Roman), Arial Rounded MT Bold, Arial Regular. Font hierarchy specified for use in branding assets.
+##### Target Audience
 
-**Imagery Photography:**
+- Stakeholders and participants in international ice hockey, including teams, officials, event organizers, and fans [^2].
 
-- General recommendation for graphic support and layout, emphasizing imagery used for recruitment manuals associated with European trends.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- dynamic
+- international
+- coherent
+- recognizable
 
-- Standard cover template rules: Elements must maintain set margins (left/right - 6% of width; emblem width - 10%). Crease line placement optimally integrated within layouts.
-- Document layout samples enforce top/bottom margins of 10% height and roles for titling. Tips for suitable crease line positions are established.
-- Spacing for text placement elaborates text alignment and sizing rules harmonized with imagery and branding.
+##### Visual Identity Overview
 
-**Notes:**
+- The IIHF visual identity is built around the shape of an ice rink, with structured use of logos, fonts, and colors to ensure a clear visual relationship within the IIHF family. The brand uses a palette of primary and secondary colors, dynamic graphic elements, and consistent typography to create a professional and sleek appearance across all communications and events [^3].
 
-- Version 1.00 of IIHF branding document formalizes branding resources and rules.
+#### Categories
+
+##### Brand Imagery
+
+- When using imagery on the cover, ensure they are: - free to use or with proper rights (recommended source: imagesonice.net) - Of good enough quality and contrast (check this with your print supplier if needed) - relevant to the subject - impactful and intriguing - showing professionalism - game imagery: showing action, passion, victory, positive values... - void of empty stands (during game)
+- Together with the graphic support elements, the image you use for your cover design can become very inviting and communicate the right values.
+- Feel free to play with the elements (using transparencies, colour and interesting placements) but make sure the titles and the IIHF Parent logo are always legible.
+
+##### Color Palette
+
+- IIHF Passion-red shall never be used in less than a 100% colour tint.
+- IIHF Decision-black, IIHF Force-dark blue and IIHF Heritage-blue may be used in different shades.
+- IIHF Victory-light blue may be used in shades and gradations to a minimum of 25% colour tint.
+- Text may be set in a 70% tint of the IIHF Decision-black (i.e. normal black).
+- Only in rare occasions when the primary colours do not suffice should these be used on primary IIHF communications.
+- These colours are of course preferential when communicating around a fixed competition brand (see IIHF Competition ID manual).
+- A set of primary colours is used to embed the different brand values in the logos.
+- The secondary set of colours are introduced to identify the different categories of the IIHF competitions.
+- Alternative colours cannot be used for the IIHF emblem.
+- Do not recolour the composite elements of the logos. Do not create new logo states. Do not change proportions. Do not apply colours other than specified. Do not apply new logos. visual effects.
+- Never rearrange, distort, or alter the colour or composition of any of the IIHF corporate logo elements. All IIHF logos are available as digital files and should NEVER be changed.
+- When choosing a colour for background, crease line, type etc. make sure the colour is relevant to the subject, clearly distinguishable, showing enough contrast and preferably -from either the primary or secondary colour palettes.
+- Choose colours from the IIHF colour theme embedded in this template.
+
+##### Typography
+
+- Arial Rounded MT Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 éèëïüöäáß
+- Helvetica Neue 65 Medium ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 éèëïüöäáß
+- Helvetica Neue 45 Light ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 éèëïüöäáß
+- Helvetica Neue 75 Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 éèëïüöäáß
+- Arial Rounded is further used in the date and venue descriptions of all official IIHF World Championship logos. This information is set according to strict indications available in the templates. Arial Rounded is NOT used anywhere else.
+- All professionally printed pieces are set in one of the weights of the Helvetica Neue family.
+- Running texts are set in Helvetica Neue 45 Light, in general at a 70% tint of black. The italic version (Helvetica Neue 46 Light Italic) can be used to highlight certain texts but the use of italics should stay low key in order to keep a visual balance in the texts.
+- Medium (65) and Bold (75) can be used to emphasize texts and titles. No strict rules are to be followed concerning these. Italic versions may be used sparsely and in general italics are not used in titles.
+- Any of the other weights (ultra light, thin, roman, heavy) may be used as well, taking into account that there should be sufficient visual difference between highlights in texts. Helvetica Neue Ultra Light and Thin should only be used for larger titles due to its fragile character at smaller sizes.
+- Type should not to be stretched, squeezed, pulled, nor should any text decoration effects be used (e.g. shadow, 3dimensional effects, pattern fills, etc).
+- Helvetica Neue may be replaced by Arial in office applications (e-mail, MS Word, Excel and PowerPoint).
+
+##### Logo Usage
+
+- This base logo is to be used only as described in this manual.
+- This secondary logo should only be used when necessary - e.g. due to space restrictions, formatting etc.
+- Use of this logo is limited; in no case may this logo represent the IIHF brand on printed pieces.
+- The two components of this mark should only be combined as above.
+- Use of this logo is limited; in no case may this logo represent the IIHF brand on publication covers.
+- All IIHF logos are copyright protected, registered trademarks and protected by other relevant intellectual property laws internationally, and may therefore not be changed or modified. The IIHF emblem should at all times carry the registered trademark ® symbol in the bottom right corner and the graphic specifications in this manual should at all times be respected. All logos are available as digital files.
+
+##### Visual Style
+
+- The IIHF brand architecture brings coherence to official IIHF ice hockey competitions and helps establish the IIHF as the governing body of international ice hockey worldwide. The IIHF identity builds around the shape of an ice rink, which is the common visual denominator between all identities of official IIHF competitions. The entire IIHF brand architecture adopts this shape as the base of all of its logos ensuring a clear visual relationship within the IIHF family. The structured use of other design elements such as fonts and colours strengthens this relationship. This approach will ensure a coherent, recognizable brand throughout all IIHF competitions and IIHF events: a truly branded house.
+- The IIHF parent logo consists of a carefully balanced combination of the IIHF emblem with the IIHF logotype. This base logo is to be used only as described in this manual.
+- A secondary logo features the IIHF emblem only. This secondary logo should only be used when necessary - e.g. due to space restrictions, formatting etc.
+- Use of this logo is limited; in no case may this logo represent the IIHF brand on printed pieces.
+- The two components of this mark should only be combined as above. Use of this logo is limited; in no case may this logo represent the IIHF brand on publication covers.
+- All IIHF logos are copyright protected, registered trademarks and protected by other relevant intellectual property laws internationally, and may therefore not be changed or modified. The IIHF emblem should at all times carry the registered trademark ® symbol in the bottom right corner and the graphic specifications in this manual should at all times be respected. All logos are available as digital files.
+
+##### Layout And Composition
+
+- The IIHF identity builds around the shape of an ice rink, which is the common visual denominator between all identities of official IIHF competitions. The entire IIHF brand architecture adopts this shape as the base of all of its logos ensuring a clear visual relationship within the IIHF family. The structured use of other design elements such as fonts and colours strengthens this relationship.
+- Never rearrange, distort, or alter the colour or composition of any of the IIHF corporate logo elements. All IIHF logos are available as digital files and should NEVER be changed.
+- Distance to paper edge is 6% of the width of the emblem.
+- The width of the IIHF emblem in the logo should be at least 10% of the width of the publication. If the logo is not used together with a title text (or in a special event logo), it should be placed towards the right edge of the printed publication.
+- To calculate the minimum distance between the logo and the edge see the illustrations above -these distances remain the same when the logo is placed to the left.
+- Other IIHF logos should never be used on publication covers.
+- The IIHF identity system comes with a set of standard cover designs. These are digital templates which allow the upper and lower areas on these covers to be enlarged or reduced respectively. The crease line may be moved to level A, B or C in line with the IIHF logo.
+- The background areas may be filled with either a photo, illustration or with colour, however one of the areas must remain primarily white. The crease line may be filled with another colour or gradient. A pattern or image fill cannot be applied to the crease line.
+- Left margin: 6% of document width Right margin: 6% of document width Emblem width: 10% of doc. width
+- Top margin: height 10% of doc Bottom margin: 10% of doc height; in the event of chasing a different crease line placement, the document title may be placed in the bottom Left margin: 6% of document width
+- When placing texts on the cover, make sure that: - the main title elements are placed in top or bottom, depending on the location of the crease line, applying the 10% and 6% margin rules as explained - they are legible when placed over photographic images - margin recommendations are respected for texts placed in the bottom of the cover
+- When choosing a colour for background, crease line, type etc. make sure the colour is relevant to the subject, clearly distinguishable, showing enough contrast and preferably -from either the primary or secondary colour palettes.
+- White space shows distinction and generates more attention to the more important elements. Use of white also shows respect for the IIHF brand and the federation's status in the world of professional sport, while passion and excitement is generated with lively colours.
+
+##### Brand Architecture
+
+- The IIHF brand architecture brings coherence to official IIHF ice hockey competitions and helps establish the IIHF as the governing body of international ice hockey worldwide.
+- The IIHF identity builds around the shape of an ice rink, which is the common visual denominator between all identities of official IIHF competitions. The entire IIHF brand architecture adopts this shape as the base of all of its logos ensuring a clear visual relationship within the IIHF family. The structured use of other design elements such as fonts and colours strengthens this relationship.
+- This approach will ensure a coherent, recognizable brand throughout all IIHF competitions and IIHF events: a truly branded house.
 
 ## Additional Properties
 

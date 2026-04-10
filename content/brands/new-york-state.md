@@ -2,7 +2,7 @@
 title: New York State
 slug: "new-york-state"
 description: ""
-date: "2026-03-20T08:22:05.536978"
+date: "2026-04-10T09:40:34.441186"
 draft: false
 sectors:
   - "public-sector"
@@ -51,17 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - oswald
-  - "proxima-nova"
-imagery_styles:
-  - bold
-  - monochrome
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "state university in Albany, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q1780816"
 has_twitter: false
@@ -82,36 +75,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- New York State brand logo will be mandatory for agency and/or program communications. Specific rules govern logo usage, including legacy logo exceptions and endorsed agency lockups.
-- Rules for logo endorsement hierarchies: The New York State brand mark is the primary identity, with agency typography and lockups as secondary. No new logos are permitted beyond those exceptions listed.
-
-**Color Information:**
-
-- New York State core colors include coded palettes tailored to specific agency groupings. Full color, gradients, and monochrome versions of the brand color are specified.
-- Hex codes, RGB, and CMYK values for core colors are mandated, with a special emphasis on usage in digital and print contexts.
-
-**Typography Information:**
-
-- The core typography uses the fonts D Sari (for lockups), Proxima Nova (Light, Regular, Semi-Bold, Bold), and Oswald Light for digital titles.
-- Typography hierarchies define usage for headlines, subtitles, captions, and branding elements to ensure consistency.
-
-**Imagery Photography:**
-
-- Photography guidelines cover composition, diversity of perspectives, and licensed holding shapes for ensuring brand consistency.
-
-**Spacing Layout:**
-
-- Clear space guidelines for logos specify a minimum margin equal to the height of the 'NY' within the state's brand mark.
-
-**Brand Voice:**
-
-- The tone reflects New York State's leadership, inspiration, and progressive ideals, emphasizing resilience and diversity.
-
-**Notes:**
-
-- Guidelines require strict adherence, and vendors must be made aware of branding elements and rules.
+*Guidelines data not available*
 
 ## Additional Properties
 

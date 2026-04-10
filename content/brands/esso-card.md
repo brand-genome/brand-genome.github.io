@@ -2,7 +2,7 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-03-20T08:22:05.044538"
+date: "2026-04-10T09:40:33.808599"
 draft: false
 sectors:
   - finance
@@ -47,18 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - red
-  - "pantone-485"
-  - white
-  - blue
-  - "pantone-293"
-typographies:
-  - impact
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -79,36 +70,73 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The Esso Card logo must remain consistent in proportions, style, and colors. Only authorized artwork is permissible for usage.
-- Clear space around the logo must equal the height of the 'E' in Esso on all sides. On the ExxonMobil Blue background, it may be reduced to 1/2 the height of the 'E'.
-- Minimum logo size is 0.156 inches, 4 mm, or 11 pixels to ensure quality reproduction.
-- Logo color specifications including Pantone, CMYK, RGB, and HEX codes: Pantone 293 C (#0047BA), Pantone 485 C (#D42E12), White (#FFFFFF).
-- Logo file formats include EPS, PNG, and RGB versions for both positive and reverse color formats.
-- Approved logo variations include 2-Line color positive, 2-Line color reverse, 2-Line one color positive, 2-Line one color reverse, and pattern variations.
-- Do not use the logo artwork in headlines or body text; adhere to clear space rules in all applications.
+##### Mission
 
-**Color Information:**
+- The Esso CardTM logo is the visual representation of the Esso CardTM brand, aiming for consistent, recognizable, and high-quality branding across all applications [^1].
 
-- Primary colors specified as Pantone 293 C (ExxonMobil Blue) and 485 C (ExxonMobil Red). White is also included as a supporting color.
-- Color codes include Pantone, CMYK, RGB, and HEX for prominent logo colors: Pantone 293 C (#0047BA), Pantone 485 C (#D42E12), White (#FFFFFF).
+##### Core Values
 
-**Typography Information:**
+- consistency
+- legibility
+- visual impact
+- accuracy
 
-- Always write 'Esso Card™' with capitals for 'E' and 'C'. Ensure the TM symbol is placed correctly after 'Card' in the first appearance.
-- Use 'Esso Card™' as an adjective or modifier, not as a verb or noun. Exceptionally, 'Esso card' (lowercase 'c') may be used in English communication when necessary.
-- Typography for the brand ensures consistent communication in headlines and body copy without using logo artwork.
+##### Target Audience
 
-**Spacing Layout:**
+- Internal use, approved agencies, and card issuers involved with Esso CardTM branding and communications [^2].
 
-- Clear space around the logo must follow prescribed dimensions for preserving legibility and visual impact. Minimum space equals height of 'E' in Esso.
+##### Personality Traits
 
-**Brand Voice:**
+- professional
+- reliable
+- clean
+- bold
 
-- Esso Card™ communicates professionalism and consistency in the network. Adhere to strict capitalization and TM symbol placements in textual mentions.
-- The logo artwork should not be used in headlines or as part of textual body content. Textual representations must align with brand guidelines.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on the Esso CardTM logo, which uses specific color palettes (ExxonMobil Red, ExxonMobil Blue, White), clear space, minimum size requirements, and multiple logo variations for different backgrounds. The style is clean, bold, and highly recognizable, emphasizing legibility and brand consistency [^3].
 
-- Logo boxes or shapes shown in guidelines are for display purposes only and should not be replicated in applications.
+#### Categories
+
+##### Logo Usage
+
+- Avoid changing the proportions, style, and color of the logo. Only authorized artwork of the logo should be used for reproduction.
+- Always adhere to color specifications to ensure consistent presentation of our logo. For all print communications, refer to Pantone® or CMYK specifications. For all digital communications (e.g., PowerPoint® presentations or on a website), refer to RGB or Hex specifications.
+- A minimum amount of clear space should always surround the logo, separating it from other graphic elements. This protected area preserves the legibility and visual impact of the logo.
+- The minimum clear space is equal to the height of the “E” in Esso mark on all sides of the logo. When placed on the ExxonMobil Blue background, the minimum clear space may be equal to 1/2 of the height of the “E” in Esso mark on all sides of the logo.
+- Minimum size is the smallest size at which to safely reproduce the logo for both print and digital applications.
+- To ensure quality reproduction, the logo may not be reproduced with the height of the “E” in Esso mark smaller than 0.156 inches; 4 mm; or 11 pixels.
+- Note: All logo variations share the same clear space and minimum size specifications.
+- ExxonMobil Red: Pantone 485 C, CMYK 0 100 90 0, RGB 254 0 12, HEX #D42E12
+- ExxonMobil Blue: Pantone 293 C, CMYK 100 60 0 0, RGB 12 71 157, HEX #0047BA
+- White: Pantone n/a, CMYK 0 0 0 0, RGB 255 255 255, HEX #FFFFFF
+- Using the appropriate logo variations is critical on every application. When selecting the logo, consider the space in which the logo will be shown to ensure legibility and visual impact of the logo.
+- The color-positive and color-reverse logos are the preferred versions. Use the color-positive version on all white or light backgrounds. Use the color-reverse version on black or dark backgrounds. One-color versions may be used when print color is limited.
+- Note: Within these guidelines, logos are occasionally displayed within a box or shape. This treatment is for display purposes only. Always adhere to clear space specifications.
+
+##### Color Palette
+
+- Always adhere to color specifications to ensure consistent presentation of our logo. For all print communications, refer to Pantone® or CMYK specifications. For all digital communications (e.g., PowerPoint® presentations or on a website), refer to RGB or Hex specifications.
+- ExxonMobil Red: Pantone 485 C, CMYK 0 100 90 0, RGB 254 0 12, HEX #D42E12
+- ExxonMobil Blue: Pantone 293 C, CMYK 100 60 0 0, RGB 12 71 157, HEX #0047BA
+- White: Pantone n/a, CMYK 0 0 0 0, RGB 255 255 255, HEX #FFFFFF
+- Avoid changing the proportions, style, and color of the logo. Only authorized artwork of the logo should be used for reproduction.
+- The color-positive and color-reverse logos are the preferred versions. Use the color-positive version on all white or light backgrounds. Use the color-reverse version on black or dark backgrounds. One-color versions may be used when print color is limited.
+
+##### Visual Style
+
+- Avoid changing the proportions, style, and color of the logo. Only authorized artwork of the logo should be used for reproduction.
+- Always adhere to color specifications to ensure consistent presentation of our logo. For all print communications, refer to Pantone® or CMYK specifications. For all digital communications (e.g., PowerPoint® presentations or on a website), refer to RGB or Hex specifications.
+- A minimum amount of clear space should always surround the logo, separating it from other graphic elements. This protected area preserves the legibility and visual impact of the logo.
+- The minimum clear space is equal to the height of the “E” in Esso mark on all sides of the logo. When placed on the ExxonMobil Blue background, the minimum clear space may be equal to 1/2 of the height of the “E” in Esso mark on all sides of the logo.
+- Minimum size is the smallest size at which to safely reproduce the logo for both print and digital applications.
+- To ensure quality reproduction, the logo may not be reproduced with the height of the “E” in Esso mark smaller than 0.156 inches; 4 mm; or 11 pixels.
+- Note: All logo variations share the same clear space and minimum size specifications.
+- ExxonMobil Red Pantone: 485 C, CMYK: 0 100 90 0, RGB: 254 0 12, HEX: #D42E12
+- ExxonMobil Blue Pantone: 293 C, CMYK: 100 60 0 0, RGB: 12 71 157, HEX: #0047BA
+- White Pantone: n/a, CMYK: 0 0 0 0, RGB: 255 255 255, HEX: #FFFFFF
+- Using the appropriate logo variations is critical on every application. When selecting the logo, consider the space in which the logo will be shown to ensure legibility and visual impact of the logo.
+- The color-positive and color-reverse logos are the preferred versions. Use the color-positive version on all white or light backgrounds. Use the color-reverse version on black or dark backgrounds. One-color versions may be used when print color is limited.
+- Note: Within these guidelines, logos are occasionally displayed within a box or shape. This treatment is for display purposes only. Always adhere to clear space specifications.

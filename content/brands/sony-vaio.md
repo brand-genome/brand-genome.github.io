@@ -2,11 +2,11 @@
 title: Sony Vaio
 slug: "sony-vaio"
 description: ""
-date: "2026-03-20T08:22:05.803554"
+date: "2026-04-10T09:40:34.806285"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - japan
 years:
@@ -55,16 +55,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - helvetica
-imagery_styles:
-  - classic
-  - product
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: line of computers and consumer electronics by VAIO corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q849488"
 has_twitter: false
@@ -97,46 +90,7 @@ visual_term_image_urls: {}
 
 ### 2004
 
-**Logo Information:**
-
-- Sony Logo Standards - Original artwork must always be used, the logo must always be displayed on its own, never combined with other figures, symbols, or trademarks, and must not be used in headlines or copy text.
-- Sony Logo Formats - The logo appears in 50% black on VAIO black, must always be displayed horizontally, never distorted, or altered, and must not include extra elements.
-- Sony Logo Exclusion Zones - Double the height of the logo must be allowed on all sides for isolation, except near the edge of the page.
-- Sony Logo Positioning - The logo sits at the bottom left, 10mm from the bottom and left page edges.
-- VAIO Logo Standards - Must use original artwork and treat the logo with the same respect as Sony logo.
-- VAIO Logo Formats - Logo must always be displayed horizontally, never altered or distorted. Encouraged use of spot varnishes to enhance quality.
-- VAIO Logo Colors - Can be white, at least 25% black, or maximum 50% black on VAIO black. Spot varnishes encouraged.
-
-**Color Information:**
-
-- VAIO Colors - Two principal ones: VAIO black and VAIO support color. Support color is used in overlays and should not be isolated.
-- YMIAS Cluster Colors - Clusters used in VAIO advertising should be blue. Colors must complement photography mood and drawn from specific palettes.
-- Example Gradients - Gradients in clusters imply depth and must use sensitive variations of color from the same palette row.
-
-**Typography Information:**
-
-- Sales Literature Typographic Rules - Headlines in Helvetica 45 Light. Leading must equal lowercase letter height, and specified headline sizes vary based on brochure type. Body copy in NeuzeitS Book font.
-- Sales Literature Layout Rules - Typography settings align with NeuzeitS Book and Helvetica 45 Light for consistent communication.
-- Concept Line Font - NeuzeitS Book font is used, with the minimum size being 30mm wide. Concept line never manipulated.
-
-**Imagery Photography:**
-
-- Photographic Style - Minimalism and class emphasized. Neutral colors, classic lines, human involvement implied, product prominence, depth of field critical for softer appearance.
-
-**Spacing Layout:**
-
-- Sony Logo Exclusion Zones - Double height spacing needed around logo.
-- Sales Literature Layout Rules - Layout designs like front cover must align VAIO logo size (1/8 document height) and positioning rules.
-
-**Brand Voice:**
-
-- Brand Introduction - VAIO represents synergy, form, function, reliability, and human-tech symbiosis.
-
-**Notes:**
-
-- General design must align with warmth and sensitivity, adhering to rules for smooth synergy between style and function.
-- Third-party logos are not recommended for covers, must align below image baselines, and widths are no more than half VAIO logo width.
-- Miscellaneous items mention POS promotional units like banners and branded items such as pens and bags.
+*Guidelines data not available*
 
 ## Additional Properties
 

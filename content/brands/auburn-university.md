@@ -2,7 +2,7 @@
 title: Auburn University
 slug: "auburn-university"
 description: ""
-date: "2026-03-20T08:22:05.725117"
+date: "2026-04-10T09:40:34.684544"
 draft: false
 sectors:
   - university
@@ -51,24 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - mascot
-  - wordmark
-  - symbol
-brand_colors:
-  - red
-  - green
-  - white
-  - cyan
-  - blue
-  - yellow
-  - black
-  - orange
-  - magenta
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - monochrome
+imagery_styles: []
 wikidata_description: "public university in Auburn, Alabama, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q540672"
 has_twitter: false
@@ -87,32 +73,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Logo guidelines include minimum size requirements (half an inch high on a 4x9 brochure, larger for larger publications), required white space (no encroaching graphics), and color restrictions (official colors PMS 289 blue or PMS 158 orange, black for monochrome, white for dark backgrounds).
-- Details about sports-related marks such as the Tiger Eyes logo and Aubie mascot, stating these are not suitable for academic or official publications and are regulated by the Office of Trademark Management and Licensing.
-- The AU wordmark paired with the interlocking AU is preferred for promotional or athletic purposes, while the Samford Hall tower symbol is preferred for academic branding.
-
-**Color Information:**
-
-- Auburn's official colors are PMS 158 (Orange) and PMS 289 (Blue). CMYK values for PMS 289 are Cyan 100%, Magenta 64%, Black 60%. For PMS 158, Magenta 61% and Yellow 97%. Hex codes: Blue (#003366), Orange (#FF6633).
-- For web pages, use the official colors (PMS 289, RGB: Red 0, Green 39, Blue 81; Hex: #003366). Sidebar background colors should also use these shades or gradients derived therefrom.
-
-**Typography Information:**
-
-- The official typeface for Auburn University is ITC Galliard, chosen for its classical, traditional appearance. Departments may use compatible body fonts for readability.
-- On banners for web pages, the font should be ITC Galliard Standard, using white color. Department names must appear in the official font in the top banner.
-
-**Spacing Layout:**
-
-- Clear space required around wordmark: no graphic may encroach within a unit of 'x' (top, bottom, or sides). Minimum size: 5/16 inch for business cards, one-half inch for standard brochures (4x9 inches). Larger publications require appropriate scaling.
-- For embroidery projects, spacing between logo elements should be closely maintained. Samples of proper spacing displayed.
-
-**Notes:**
-
-- Always download logos from the official Auburn University style guide portal to ensure quality. Web-quality logos (72dpi) must not be used for print.
-- For printing publications, compliance with Auburn's graphic standards and identity guidelines is required. OCM approval is mandatory for all external print jobs, and misappropriation of trademarks is strictly prohibited.
-- Auburn's trademarks (such as WAR EAGLE, AUBURN TIGERS, and logos for the AU and Tiger Eyes) are federally registered and must not be altered or misused.
+*Guidelines data not available*
 
 ## Additional Properties
 

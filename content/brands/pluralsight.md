@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-03-20T08:22:05.787720"
+date: "2026-04-10T09:40:34.772390"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -52,30 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - alternate
-  - lockup
-  - primary
-  - icon
-brand_colors:
-  - white
-  - gray
-  - black
-  - orange
-  - magenta
-typographies:
-  - impact
-  - gotham
-  - montserrat
-imagery_styles:
-  - professional
-  - bold
-  - modern
-  - photography
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: online education company
 wikidata_url: "https://www.wikidata.org/wiki/Q19757566"
 has_twitter: false
@@ -96,43 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Horizontal, Vertical, and standalone icon versions of the logo are presented. Mentions the logo's goals and the meanings of its elements like intersection, movement, mentorship, and togetherness.
-- Clear space rules for the logo are detailed. Adequate clear space must be maintained around the logo to preserve integrity and visual impact.
-- Do's and don'ts for logo usage: Avoid manipulations like skewing, changing colors or gradients, changing font, applying opacity, and angling the logo in any format.
-- Alternate logos are used for specific contexts like apparel and swag. The gradient logo must be used on white, light gray, or black backgrounds. Select alternate versions for busy image backgrounds to ensure readability.
-- Partnership lockup rule: Both logos maintain equal deference using grayscale or black and white, with primary emphasis given to Pluralsight on the left.
-
-**Color Information:**
-
-- Primary colors: Pluralsight Orange, Pluralsight Magenta, Black, White. Includes HEX, RGB, and Pantone references. Magenta signifies change, transformation, and knowledge; Orange reflects optimism, warmth, and openness.
-- Secondary colors: Used primarily on the website to distinguish different roles in apps, charts, and presentations. Should only be used sparingly outside of these contexts.
-- Use of gradient: Applied minimally on letterhead and business cards and more prominently on trade show materials. Directions and examples of usage included.
-
-**Typography Information:**
-
-- Primary font: Gotham. Licensed, modern, and sophisticated, used widely across marketing and digital applications. Includes weights: Extra Light, Light, Book, Medium, Bold.
-- Alternate font: Montserrat. Recommended as a free alternative to Gotham. Used primarily for PowerPoint, Keynote presentations, and internal Microsoft templates.
-
-**Imagery Photography:**
-
-- Photography emphasizes authenticity, capturing subjects 'in the moment.' Must engage viewers emotionally with relatable composition and color.
-
-**Spacing Layout:**
-
-- Clear space for logos: Ensure uncluttered boundaries around each logo version to preserve visual integrity.
-- Ribbon elements act as key anchors for hierarchy. Used in motion graphics to transition or within presentations for emphasis.
-
-**Brand Voice:**
-
-- Tone: Confident, enthusiastic, and clever. Encourages clear, conviction-based writing and discourages arrogance, verbosity, or immaturity. Writing embodies simplicity, positivity, and relatability.
-- Traits: Honest, Intelligent, Spirited. Avoids being insincere, silly, or apathetic.
-
-**Notes:**
-
-- Mission: To democratize professional technology learning.
-- Guidelines emphasize integrity and consistent application of branding in all contexts, maintaining emotional relatability and strong design cohesion.
+*Guidelines data not available*
 
 ## Additional Properties
 

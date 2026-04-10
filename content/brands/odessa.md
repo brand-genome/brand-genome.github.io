@@ -2,7 +2,7 @@
 title: Odessa
 slug: odessa
 description: ""
-date: "2026-03-20T08:22:04.405551"
+date: "2026-04-10T09:40:33.145689"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -51,11 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-brand_colors:
-  - red
-  - yellow
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Ector and Midland counties in Texas, United States, that is county seat of Ector County"
@@ -77,18 +74,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- The logo of the city of Odessa consists of a symbol and textual parts. There are three layout variations for the logo elements: symbol above the text, symbol beside the text, and symbol below the text. Examples include yellow and red versions: 'Odessa-Logo-Up-Yellow.ai', 'Odessa-Logo-Vert-Yellow.ai', 'Odessa-Logo-Down-Yellow.ai', as well as 'Odessa-Logo-Up-Red.ai', 'Odessa-Logo-Vert-Red.ai', and 'Odessa-Logo-Down-Red.ai'.
-
-**Color Information:**
-
-- The logo comes in multiple color variations, including yellow and red. For yellow: 'Odessa-Logo-Up-Yellow.ai', 'Odessa-Logo-Vert-Yellow.ai', 'Odessa-Logo-Down-Yellow.ai'. For red: 'Odessa-Logo-Up-Red.ai', 'Odessa-Logo-Vert-Red.ai', 'Odessa-Logo-Down-Red.ai'.
-
-**Notes:**
-
-- The document is structured as a guideline for the unified visual style of the city of Odessa. It includes details of visual brand components and refers to digital templates ('mockups') available in electronic form. The document emphasizes that only its specified files should be used during work.
-- The brand style guide was reformulated in 2012 by Artemy Lebedev's studio.
+*Guidelines data not available*
 
 ## Additional Properties
 

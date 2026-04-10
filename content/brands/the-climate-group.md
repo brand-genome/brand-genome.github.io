@@ -2,7 +2,7 @@
 title: The Climate Group
 slug: "the-climate-group"
 description: ""
-date: "2026-03-20T08:22:04.682808"
+date: "2026-04-10T09:40:33.401435"
 draft: false
 sectors:
   - ngo
@@ -18,8 +18,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - "united-kingdom"
   - "united-states"
+  - "united-kingdom"
 revenue_buckets:
   - "10M-100M"
 operating_income_buckets: []
@@ -53,21 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - red
-  - green
-  - white
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - bold
-  - graphic
-  - photography
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q7723391"
 has_twitter: false
@@ -89,38 +78,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The Climate Group logo consists of two elements: a bold 'C' along with a red degree symbol positioned before the 'C'. Logo variations include black with a red degree symbol, white with a red degree symbol, completely black, and completely white.
-- Permitted permutations for logo use include black/red, white/red, completely black, and completely white. Red and black is the primary color pairing. Guidelines specify uniformity in logo size and spacing to maintain brand consistency.
-
-**Color Information:**
-
-- The Climate Group utilizes red, black, and white as corporate colors. Red CMYK: C=0%, M=90%, Y=76%, K=0%; RGB: R=238, G=62, B=66.
-- The usage of tints must be carefully done to preserve clarity and legibility. Tints are only used effectively in charts and diagrams.
-
-**Typography Information:**
-
-- The logotype is always rendered in the brand typeface using capitalized letters alongside the red degree symbol. This typeface and configuration are reserved for descriptors, such as stationery headers or publication sign-offs.
-
-**Imagery Photography:**
-
-- Imagery and photography should avoid traditional 'green/environmental' imagery stereotypes; instead, the unconventional approach embodies corporate and authoritative tones.
-- Photographs used must maximize impact by keeping the identity recognizably bold and scalable in use during presentations or educational content formats.
-
-**Spacing Layout:**
-
-- Graphic styles and charts must prioritize legibility alongside precise grid alignment.
-
-**Brand Voice:**
-
-- The tone of voice is solutions-oriented and straight-talking while using facts approachable to consumers of decision-making circles.
-- Messaging is concise and devoid of emotional tones. Branding avoids traditional 'gentle green activism,' focusing instead on factual and professional framing.
-
-**Notes:**
-
-- Contact addresses for Climate Group offices across London, New York, Beijing, and Melbourne are visible.
-- The brand's unconventional marketing focus differentiates 'beyond conventional environmental sector norms.'
+*Guidelines data not available*
 
 ## Additional Properties
 

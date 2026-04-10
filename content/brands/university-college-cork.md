@@ -2,7 +2,7 @@
 title: University College Cork
 slug: "university-college-cork"
 description: ""
-date: "2026-03-20T08:22:04.307182"
+date: "2026-04-10T09:40:32.996378"
 draft: false
 sectors:
   - university
@@ -76,6 +76,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

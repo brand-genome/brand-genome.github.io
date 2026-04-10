@@ -2,7 +2,7 @@
 title: Banco do Brasil
 slug: "banco-do-brasil"
 description: ""
-date: "2026-03-20T08:22:03.370912"
+date: "2026-04-10T09:40:30.889163"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
+  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
-  - "economics-of-banking"
 countries:
   - brazil
 revenue_buckets: []
@@ -79,7 +79,104 @@ visual_term_image_urls: {}
 
 ### 2023
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Banco do Brasil's visual identity aims to ensure high recognition and integrity of the brand, especially in official and public-facing contexts, through consistent application of its logo and colors [^1].
+
+##### Core Values
+
+- recognition
+- integrity
+- quality
+- consistency
+
+##### Target Audience
+
+- General public, clients, and partners interacting with Banco do Brasil in physical and digital environments [^2].
+
+##### Personality Traits
+
+- institutional
+- official
+- trustworthy
+- distinctive
+
+##### Visual Identity Overview
+
+- The brand uses a distinctive symbol and logotype, with strict guidelines for color (Pantone yellow and blue), exclusive typography, proportional sizing, and clear rules for logo placement and partnerships. Visual style emphasizes contrast, clarity, and non-interference zones [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- Compõe-se de símbolo e logotipo do Banco do Brasil. As versões central e horizontal são para usos específicos, como por exemplo em fachadas, onde é necessário sinalizar o nome do banco, ou em situações mais oficiais, como documentos.
+- Elemento principal do sistema de identidade visual do Banco do Brasil. É utilizado como sinal de identificação da Empresa devido a seu alto índice de reconhecimento. Seu uso é preferencial.
+- Nossa logomarca funciona em diferentes fundos. A logomarca deve ser aplicada nas nossas cores amarelo, azul. Sobre fundo branco, a logomarca é azul.
+- As cores padronizadas para a identidade da marca Banco do Brasil são o azul e o amarelo, nas referências descritas ao lado. Ao se reproduzir essas cores é importante o rigor no controle de qualidade, a fim de garantir contraste e singularidade, com base nas amostras Pantone* originais.
+- Pantone Amarelo 3945 C CMYK 0 0 100 0 RGB 252 252 48 #FCFC30
+- Pantone Azul 2387 C CMYK 90 60 0 0 RGB 70 94 255 #465EFF
+- As variações em preto e branco podem ser usadas em situações específicas, quando houver condições técnicas limitantes para a aplicação das versões em cor.
+- Essa versão é a mais indicada para ocasiões em que a logomarca é aplicada como acabamento ou material. Por exemplo: relevos, verniz localizado ou gravações a laser.
+- O alfabeto Banco do Brasil é a tipografia exclusiva das logomarcas do Conglomerado. É utilizada apenas para a composição visual das logomarcas Banco do Brasil, de relacionamento e empresas. Para a composição de logomarcas de relacionamento e de empresas usa-se o estilo versalete. O uso desse alfabeto é restrito à Diretoria de Marketing e Comunicação.
+- A logomarca possui reduções máximas de acordo com a peça em que é aplicada, considerando o físico e o digital.
+- Deverá ser respeitado um espaço equivalente à metade da altura da logomarca, em todas as versões.
+- Nos casos em que a logomarca do Banco do Brasil for aplicada ao lado de outras logomarcas, deve ser utilizada versão com a área de suporte amarelo institucional, específica para essa finalidade. Tal fato visa garantir a integridade e reconhecimento da identidade do Banco do Brasil.
+- Busque a melhor relação de proporcionalidade entre as logomarcas aplicadas, conforme os exemplos ao lado.
+- (para aplicações que envolvam a logomarca do Governo Federal, utilize as regras previstas em manual próprio).
+
+##### Color Palette
+
+- Nossa logomarca funciona em diferentes fundos. A logomarca deve ser aplicada nas nossas cores amarelo, azul. Sobre fundo branco, a logomarca é azul.
+- As cores padronizadas para a identidade da marca Banco do Brasil são o azul e o amarelo, nas referências descritas ao lado. Ao se reproduzir essas cores é importante o rigor no controle de qualidade, a fim de garantir contraste e singularidade, com base nas amostras Pantone* originais.
+- Amarelo institucional Pantone Amarelo 3945 C CMYK 0 0 100 0 RGB 252 252 48 #FCFC30
+- Azul Pantone Azul 2387 C CMYK 90 60 0 0 RGB 70 94 255 #465EFF
+- Nos casos em que a logomarca do Banco do Brasil for aplicada ao lado de outras logomarcas, deve ser utilizada versão com a área de suporte amarelo institucional, específica para essa finalidade.
+
+##### Typography
+
+- O alfabeto Banco do Brasil é a tipografia exclusiva das logomarcas do Conglomerado. É utilizada apenas para a composição visual das logomarcas Banco do Brasil, de relacionamento e empresas. Para a composição de logomarcas de relacionamento e de empresas usa-se o estilo versalete. O uso desse alfabeto é restrito à Diretoria de Marketing e Comunicação.
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ ABCDEFGHIJKLMNOPORSTUVWXYZ
+
+##### Visual Style
+
+- Compõe-se de símbolo e logotipo do Banco do Brasil. As versões central e horizontal são para usos específicos, como por exemplo em fachadas, onde é necessário sinalizar o nome do banco, ou em situações mais oficiais, como documentos.
+- Elemento principal do sistema de identidade visual do Banco do Brasil. É utilizado como sinal de identificação da Empresa devido a seu alto índice de reconhecimento. Seu uso é preferencial.
+- Nossa logomarca funciona em diferentes fundos. A logomarca deve ser aplicada nas nossas cores amarelo, azul. Sobre fundo branco, a logomarca é azul.
+- As cores padronizadas para a identidade da marca Banco do Brasil são o azul e o amarelo, nas referências descritas ao lado. Ao se reproduzir essas cores é importante o rigor no controle de qualidade, a fim de garantir contraste e singularidade, com base nas amostras Pantone* originais.
+- Amarelo institucional Pantone Amarelo 3945 C CMYK 0 0 100 0 RGB 252 252 48 #FCFC30
+- Azul Pantone Azul 2387 C CMYK 90 60 0 0 RGB 70 94 255 #465EFF
+- As variações em preto e branco podem ser usadas em situações específicas, quando houver condições técnicas limitantes para a aplicação das versões em cor.
+- Essa versão é a mais indicada para ocasiões em que a logomarca é aplicada como acabamento ou material. Por exemplo: relevos, verniz localizado ou gravações a laser.
+- O alfabeto Banco do Brasil é a tipografia exclusiva das logomarcas do Conglomerado. É utilizada apenas para a composição visual das logomarcas Banco do Brasil, de relacionamento e empresas. Para a composição de logomarcas de relacionamento e de empresas usa-se o estilo versalete. O uso desse alfabeto é restrito à Diretoria de Marketing e Comunicação.
+- A logomarca possui reduções máximas de acordo com a peça em que é aplicada, considerando o físico e o digital.
+- Deverá ser respeitado um espaço equivalente à metade da altura da logomarca, em todas as versões.
+- Nos casos em que a logomarca do Banco do Brasil for aplicada ao lado de outras logomarcas, deve ser utilizada versão com a área de suporte amarelo institucional, específica para essa finalidade. Tal fato visa garantir a integridade e reconhecimento da identidade do Banco do Brasil.
+- Busque a melhor relação de proporcionalidade entre as logomarcas aplicadas, conforme os exemplos ao lado.
+- (para aplicações que envolvam a logomarca do Governo Federal, utilize as regras previstas em manual próprio).
+
+##### Layout And Composition
+
+- Compõe-se de símbolo e logotipo do Banco do Brasil. As versões central e horizontal são para usos específicos, como por exemplo em fachadas, onde é necessário sinalizar o nome do banco, ou em situações mais oficiais, como documentos.
+- A logomarca deve ser aplicada nas nossas cores amarelo, azul. Sobre fundo branco, a logomarca é azul.
+- As cores padronizadas para a identidade da marca Banco do Brasil são o azul e o amarelo, nas referências descritas ao lado. Ao se reproduzir essas cores é importante o rigor no controle de qualidade, a fim de garantir contraste e singularidade, com base nas amostras Pantone* originais.
+- Pantone Amarelo 3945 C CMYK 0 0 100 0 RGB 252 252 48 #FCFC30 Pantone Azul 2387 C CMYK 90 60 0 0 RGB 70 94 255 #465EFF
+- As variações em preto e branco podem ser usadas em situações específicas, quando houver condições técnicas limitantes para a aplicação das versões em cor.
+- Essa versão é a mais indicada para ocasiões em que a logomarca é aplicada como acabamento ou material. Por exemplo: relevos, verniz localizado ou gravações a laser.
+- A logomarca possui reduções máximas de acordo com a peça em que é aplicada, considerando o físico e o digital.
+- Deverá ser respeitado um espaço equivalente à metade da altura da logomarca, em todas as versões.
+- Nos casos em que a logomarca do Banco do Brasil for aplicada ao lado de outras logomarcas, deve ser utilizada versão com a área de suporte amarelo institucional, específica para essa finalidade. Tal fato visa garantir a integridade e reconhecimento da identidade do Banco do Brasil.
+- Busque a melhor relação de proporcionalidade entre as logomarcas aplicadas, conforme os exemplos ao lado.
+- (para aplicações que envolvam a logomarca do Governo Federal, utilize as regras previstas em manual próprio).
+- Distância mínima entre os elementos = x/2
+
+##### Brand Partnerships
+
+- Nos casos em que a logomarca do Banco do Brasil for aplicada ao lado de outras logomarcas, deve ser utilizada versão com a área de suporte amarelo Institucional, específica para essa finalidade. Tal fato visa garantir a integridade e reconhecimento da identidade do Banco do Brasil.
+- Busque a melhor relação de proporcionalidade entre as logomarcas aplicadas, conforme os exemplos ao lado.
+- (para aplicações que envolvam a logomarca do Governo Federal, utilize as regras previstas em manual próprio).
+- Distância mínima entre os elementos
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: SUNY
 slug: suny
 description: ""
-date: "2026-03-20T08:22:05.789835"
+date: "2026-04-10T09:40:34.776552"
 draft: false
 sectors:
   - education
@@ -55,8 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public university system in the state of New York, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1140241"
 has_twitter: false
@@ -74,18 +73,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-- Details of SUNY's brandmark colors, staging, and improper usage examples.
-
-**Imagery Photography:**
-
-- Guidelines for emotional photography including lighting, authentic moments, and angles.
+*Guidelines data not available*
 
 ## Additional Properties
 

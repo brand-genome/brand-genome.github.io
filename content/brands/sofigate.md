@@ -2,7 +2,7 @@
 title: Sofigate
 slug: sofigate
 description: ""
-date: "2026-03-20T08:22:04.891242"
+date: "2026-04-10T09:40:33.655566"
 draft: false
 sectors:
   - consulting
@@ -47,23 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - grey
-  - blue
-  - black
-typographies:
-  - arial
-  - futura
-imagery_styles:
-  - bold
-  - graphic
-  - landscape
-  - natural
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11893964"
 has_twitter: false
@@ -81,42 +68,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Clear space around the logo must be equal to the height of the logo letters. Minimum clear space is emphasized.
-- Do's and Don'ts are provided for logo usage, such as avoiding red logos on non-brand colors, prohibiting effects like shadows or outlines, not tilting, stretching, compressing, or incorporating other graphic elements into the logo.
-
-**Color Information:**
-
-- Brand colors include red (PMS 185C, HEX #eb172d), white (HEX #FFF), and grey shades. Red is strongly associated with the brand and should almost always be represented unless in black and white. Functional colors are assigned by area (e.g., sourcing uses blue PMS 297C, HEX #4fd4fb).
-- Detailed color specifications include Pantone, CMYK, RGB, and HEX codes for each color. Examples include PMS 185C, C0 M95 Y80 K0, R235 G23 B45, #eb172d.
-- Rules for adjusting typography color based on background; text must contrast strongly for readability. Typography is exclusively colored in brand colors (red, dark grey, light grey).
-
-**Typography Information:**
-
-- Primary typeface is Futura in four weights: Bold, Demi, Book, and Light. Futura is used for headlines, subheadings, and body text depending on weight.
-- Typography hierarchy examples: Headlines use Futura Bold, Subheading uses Futura Demi with specific kerning and leading ratios. Body copy primarily uses Futura Book.
-- Guidelines for font sizes to maintain typographic hierarchy: Headline size should be at least 400% larger than body text size; other ratios vary for subheadings and secondary headlines.
-- Left-aligned typography is preferred for readability. Optical kerning is used for headlines, and metric kerning is leveraged for subheadings and body text.
-- Arial is recommended as a secondary typeface when Futura is unavailable, following the same rules for weights and hierarchy.
-
-**Imagery Photography:**
-
-- Imagery style emphasizes non-saturated, neutral, and natural tones with clear lines and focal points. Categories include 'People', 'Architecture/Environment', and 'Nature/Landscape'.
-- Imagery treatment guidelines encourage whitespace utilization and careful cropping to avoid losing focal points.
-- Imagery should evoke emotions and present the Nordic region in a sophisticated manner with authenticity.
-
-**Spacing Layout:**
-
-- Use a flexible 12-column grid system for layout structure and alignment. Asymmetric layout encouraged; whitespace is preferred.
-
-**Brand Voice:**
-
-- Communication tone emphasized as calm, elegant, and sophisticated, reflecting Nordic qualities. Images and design align with these themes to convey brand values.
-
-**Notes:**
-
-- Construction of pictograms is highly structured within grid systems. Visual consistency is achieved by following rules for line thickness, corner radius, and alignment.
+*Guidelines data not available*
 
 ## Additional Properties
 

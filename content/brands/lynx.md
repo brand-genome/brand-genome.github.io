@@ -2,7 +2,7 @@
 title: Lynx
 slug: lynx
 description: ""
-date: "2026-03-20T08:22:05.168679"
+date: "2026-04-10T09:40:34.027394"
 draft: false
 sectors:
   - "public-transportation"
@@ -49,12 +49,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - gray
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: brand of male grooming products
@@ -76,23 +72,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- LYNX logo usage must adhere to the registered trademark standards and clearspace requirements. Acceptable colors include PMS 233, CMYK equivalent, gray (case-by-case), black, and white. Exceptions on color are allowed only with approval from the creative designer.
-- Logo clear space requires a minimum of 0.25 inches from other objects. Incorrect logo usage includes altering color, rotating, modifying the arrangement, distorting, placing on a busy background, and poor quality versions.
-
-**Color Information:**
-
-- Primary logo colors are PMS 233, CMYK equivalent (C=9, M=100, Y=14, K=0), black, and white. Gray may be used on a case-by-case basis.
-
-**Spacing Layout:**
-
-- Logo requires a clear space of minimum 0.25 inches from other objects.
-
-**Notes:**
-
-- Contact details for Central Florida Regional Transportation Authority and branding specifications for memos, envelopes, and notices are included.
-- A Physical style-guide with promotional examples such as Fishing Frenzy Giveaway, service passes, and new branding are visible.
+*Guidelines data not available*
 
 ## Additional Properties
 

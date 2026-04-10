@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-03-20T08:22:05.586960"
+date: "2026-04-10T09:40:34.531198"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -37,8 +37,8 @@ products_or_materials_produced:
   - norton
 products: []
 headquarters_locations:
-  - "mountain-view"
   - tempe
+  - "mountain-view"
 subsidiaries: []
 foundation_dates:
   - 1982
@@ -61,15 +61,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - yellow
-  - magenta
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - clean
-  - professional
+imagery_styles: []
 wikidata_description: American software company
 wikidata_url: "https://www.wikidata.org/wiki/Q677085"
 has_twitter: false
@@ -91,28 +86,7 @@ visual_term_image_urls: {}
 
 ### 2000
 
-**Logo Information:**
-
-- Symantec logo is described as a signature that symbolizes trust and innovation. It consists of a circle and check mark.
-- Rules for clear space and safe zone surrounding the logo are specified. Clear space is indicated to maintain visibility.
-- Examples of improper logo usage are given, showing incorrect scaling, placement, and color alterations.
-
-**Color Information:**
-
-- Corporate color palette includes 'Symantec yellow'. Pantone Yellow 012, CMYK (Magenta: 12%, Yellow: 100%).
-- Alternatives for Symantec yellow listed in uncoated printing scenarios.
-
-**Typography Information:**
-
-- Symantec's typography guidelines emphasize the use of clean, professional typefaces. Specific fonts are not listed in provided text.
-
-**Brand Voice:**
-
-- Symantec's brand voice is described as trustworthy, innovative, and action-oriented to convey their commitment to customers.
-
-**Notes:**
-
-- Document includes a director's note emphasizing the ongoing development of Symantec's identity and brand.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -123,7 +97,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Norton](/products_or_materials_produced/norton/) |
-| Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/); [Tempe](/headquarters_locations/tempe/) |
+| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Mountain View](/headquarters_locations/mountain-view/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | Gary Hendrix |
 | Stock Exchange | Nasdaq (from 2019, until 2022), Nasdaq (until 2019), Nasdaq (from 2022) |

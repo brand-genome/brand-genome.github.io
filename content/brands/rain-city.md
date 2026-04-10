@@ -2,7 +2,7 @@
 title: Rain City
 slug: "rain-city"
 description: ""
-date: "2026-03-20T08:22:05.525586"
+date: "2026-04-10T09:40:34.417833"
 draft: false
 sectors:
   - sports
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - purple
-  - black
-typographies:
-  - impact
-  - display
-  - "proxima-nova"
-imagery_styles:
-  - bold
-  - graphic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q16931474"
 has_twitter: false
@@ -81,39 +71,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The RCRD logo is shown prominently on various pages with variations including full color usage defined, and emphasis on purple as the primary color for its background.
-- Logo Do's and Don'ts: DO NOT use off-brand colors, DO NOT place the logo on off-brand backgrounds, DO NOT rotate the logo, DO NOT distort or stretch it, DO NOT add shadows or bevels, DO NOT add transparency effects.
-- Text-based logo variant is suggested for simpler applications on merchandise and designs without the need for complex branding constraints.
-
-**Color Information:**
-
-- Primary color: Purple - Pantone Solid Uncoated Medium Purple U, CMYK code: C:76 M:92 Y:5 K:0, HEX code: #613b8f.
-- Color guidance: Strong usage of whites, blacks, greys in monochromatic schemes with accent purple.
-
-**Typography Information:**
-
-- Proxima Nova Extra Bold (All Caps): Designed for headings and high-impact statements with massive wide tracking.
-- Proxima Nova Regular: Appropriate for large body text, articles, notes, and small font-based needs.
-- Refrigerator Deluxe: Considered a sporty display font suitable for subheadings and short stylized poster texts.
-
-**Imagery Photography:**
-
-- Photography can incorporate black and white high contrast, full color, or heavy purple overlays. Imagery should emphasize themes like team spirit, sporting prowess, community connections, and competition wins.
-
-**Spacing Layout:**
-
-- Design elements such as rain droplets, diagonal lines (45-degree angles), skew boxes, and rain clouds are highlighted as graphic motifs tied to the brand identity.
-
-**Brand Voice:**
-
-- The tone of voice aims to unify the brand and create a recognizable identity. Imagery, typography, and design should portray cohesion and elevate the perception of RCRD team values.
-
-**Notes:**
-
-- Additional merchandise ideas include vests, tees, baseball shirts, tote bags, and kits that integrate brand identity motifs.
-- Social media templates for games and bootcamps suggested for digital promotional posters. Emphasis on connecting regularly with game photographers for refreshing content.
+*Guidelines data not available*
 
 ## Additional Properties
 

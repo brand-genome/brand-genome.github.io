@@ -2,7 +2,7 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-03-20T08:22:04.158335"
+date: "2026-04-10T09:40:32.478367"
 draft: false
 sectors:
   - broadcasting
@@ -10,18 +10,18 @@ sectors:
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:
   - entertainment
 industries:
+  - "publishing-industry"
+  - telecommunications
   - "media-industry"
   - "internet-industry"
   - "tv-industry"
-  - telecommunications
-  - "publishing-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -40,15 +40,15 @@ products_or_materials_produced:
   - "television-program"
 products: []
 headquarters_locations:
-  - "new-york-city"
   - delaware
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 2016
   - 1990
 foundation_year_buckets:
-  - 1990S
   - 2010S
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,24 +66,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - horizontal
-  - alternate
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - white
-  - grey
-  - blue
-  - "pantone-299"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - modern
-  - clean
+imagery_styles: []
 wikidata_description: former American multinational media conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q191715"
 has_twitter: false
@@ -102,253 +88,11 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- WORDMARK
-- WORDMARK
-- wordmarks. The clear space around all
-- Wordmark spacing rules mention the clear space for titles. For optimal visibility, clear spacing should be between 100% and 50% of the x-height.
-- Portfolio brand logos should be displayed optically aligned when used with the wordmark.
-- Identify usage rules mandating the inline wordmark as the preferred version and discouraging usage of the stacked version in communication documents.
-- Identify acceptable and unacceptable wordmark usage within defined layouts and media contexts (e.g., positioning examples).
-- The primary wordmark requires specific x-height proportional placement across web/screen title sizing recommendations summarized as x-height role margins accurately anchored flexibly.
+*Guidelines data not available*
 
 ### 2018
 
-**Logo Information:**
-
-- 2
-WarnerMedia  Lockup  Usage
-The WarnerMedia lockup is used to improve awareness and 
-recognition of our brand in marketing and advertising. It™s a 
-clean, elegant, typographic presentation of our name created 
-with AT&T Aleck Sans Bold in all uppercase. The lockup must 
-
-
-The lockup should be used in communication materials created for both 
-
-lockup: horizontal (1-line) and horizontal alternate (2-line). These versions should 
-accommodate most layout and sizing constraints. Please select the lockup that 
-works best for the dimensions and design of your communication. When in doubt, 
-the horitontal (1-line) version of the lockup is preferred.
-- 11
-A  WarnerMedia Company  Branded Divisional  Tagline:  
- 
-The WarnerMedia Branded Divisional 
-T
-agline incorporates the 
-
-between WarnerMedia, its divisions, and the products and 
-
-
-
-use 
-of the WarnerMedia name and brand, including as par t of the 
-Branded Divisional 
-T
-agline, helps maintain recognition among 
-consumers who identify WarnerMedia with high standards of 
-
-
-
-
-
-
-
-The W
-arnerMedia legal department has cleared its divisions and 
-companies, to use ﬁA WarnerMedia Company ﬂ as represented 
-in these guidelines. Note that this representation of the 
-
-WarnerMedia name and brand is a specially created piece 
-
-of ar twork that purposefully incorporates the WarnerMedia 
-
-
-
-and to maintain the association between WarnerMedia 
-
-and the products and services produced and distributed 
-
-
-
-entertainment. 
-
-
-1.
-Relegating ﬁA WarnerMedia Company ﬂ to ﬁmouse typeﬂ
-2.
-Bur ying ﬁA WarnerMedia Company ﬂ with legal/copyright
-
-information
-
-
-Company ﬂ should be in the format of the downloadable logo
-
-**Color Information:**
-
-- 3
-WarnerMedia  Logo  Varia tions  &  File  Naming
-E PS
-att_wm_hz_pref_4cp_ pos.eps
-att_wm_hz_pref_rgb_ pos.eps
-att_wm_hz_pref_2cs_ pos.eps
-PNG
-att_wm_hz_pref_rgb_ pos.png
-JPG
-att_wm_hz_pref_rgb_ pos.jpg
-E PS
-att_wm_hz_pref_4cp_rev.eps
-att_wm_hz_pref_rgb_rev.eps
-att_wm_hz_pref_2cs_rev.eps
-PNG
-att_wm_hz_pref_rgb_rev.png
-Positive Version 
-(preferred)
-Reverse Version
-Black
-RGB: 0 / 0 / 0
-CMKY: 0 / 0 / 0 / 100
-HEX: #000000
-Pantone: Black C
-G re y
-RGB: 149 / 149 / 149
-CMKY: 0 / 0 / 0 / 50
-HEX: #959595
-Pantone: Cool Grey 8 C
-White
-RGB: 255 / 255 / 255
-CMKY: 0 / 0 / 0 / 0
- 
-Pantone: White
-- 7
- 
-The main colors of the WarnerMedia 
- are Black, White and Grey.
-They are 
-people associate with our name. 
-
-additional pop of vibrancy. It also serves as 
-a reminder that we™re part of a larger modern media company built on global leadership in 
-technology, 
-media and telecom
-Black
-RGB
- 
-0 / 0 / 0
-CMKY
- 
-0 / 0 / 0 / 100
-HEX
- 
-#000000
-PANTONE 
-Black C
-Blue
- 
-ACCENT COLOR
-RGB
- 
-0 / 160 / 221
-CMKY
- 
-80 / 18 / 0 / 0
-HEX
- 
-#00a0dd
-PANTONE 
-299 C
-G re y
-RGB
- 
-149 / 149 / 149
-CMKY
- 
-0 / 0 / 0 / 50
-HEX
- 
-#959595
-PANTONE 
-Cool Grey 8 C
-White
-RGB
- 
-255 / 255 / 255
-CMKY
- 
-0 / 0 / 0 / 0
-HEX
- 
-
-PANTONE 
- 
-White
-30%
-10%
-30%
-30%
-Color Usage
-Black
- 
-30%
-G re y
- 
-30%
-White
- 
-30%
-Blue
- 
-10%
-
-**Typography Information:**
-
-- 8
-Brand  Typography
-Aleck Sans is a contemporar y typeface designed by AT&T for its clarity, readability and elegance. 
-This font is used to suppor t the new WarnerMedia identity when designing all communications 
-pieces including stationery and print collateral. 
-
-
-WarnerMedia communications.
-ABCDEFGHIJKLMNOPQRSTUVWZXYZ
-ABCDEFGHIJKLMNOPQRSTUV WZXYZ
-
-abcdefghijklmnopqrstuvwxyz
-1234567890@?&%
-1234567890@?&%
-ABCDEFGHIJKLMNOPQRSTUVWZXYZ
-ABCDEFGHIJKLMNOPQRSTUVWZXYZ
-abcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuv wxyz
-1234567890@?&%
-1234567890@?&%
-ABCDEFGHIJKLMNOPQRSTUVWZXYZ
-ABCDEFGHIJKLMNOPQRSTUVWZXYZ
- 
-abcdefghijklmnopqrstuv wxyz
-1234567890@?&%
-1234567890@?&%
-ATT Aleck Sans Light and Italic
-ATT Aleck Sans Regular and Italic
-ATT Aleck Sans Bold and Italic
-
-**Spacing Layout:**
-
-- 2
-WarnerMedia  Lockup  Usage
-The WarnerMedia lockup is used to improve awareness and 
-recognition of our brand in marketing and advertising. It™s a 
-clean, elegant, typographic presentation of our name created 
-with AT&T Aleck Sans Bold in all uppercase. The lockup must 
-
-
-The lockup should be used in communication materials created for both 
-
-lockup: horizontal (1-line) and horizontal alternate (2-line). These versions should 
-accommodate most layout and sizing constraints. Please select the lockup that 
-works best for the dimensions and design of your communication. When in doubt, 
-the horitontal (1-line) version of the lockup is preferred.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -359,7 +103,7 @@ the horitontal (1-line) version of the lockup is preferred.
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Television Program](/products_or_materials_produced/television-program/) |
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [Delaware](/headquarters_locations/delaware/) |
+| Headquarters Location | [Delaware](/headquarters_locations/delaware/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [2016](/foundation_dates/2016/); [1990](/foundation_dates/1990/) |
 | Industry | media industry, TV industry, publishing industry, Internet industry, telecommunications (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:WarnerMedia |

@@ -2,7 +2,7 @@
 title: ERA
 slug: era
 description: ""
-date: "2026-03-20T08:22:05.845337"
+date: "2026-04-10T09:40:34.863161"
 draft: false
 sectors:
   - "real-estate"
@@ -50,25 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - navy
-  - white
-  - blue
-  - gray
-  - black
-typographies:
-  - helvetica
-  - arial
-  - gotham
-imagery_styles:
-  - bold
-  - dynamic
-  - monochrome
-  - modern
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: public research university in the Netherlands
 wikidata_url: "https://www.wikidata.org/wiki/Q633529"
 has_twitter: false
@@ -88,35 +73,82 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- Zone de protection for logo: An empty space equal to the height of the letter 'E' in 'ERA' must be maintained around the logo. On colored backgrounds, a white reserve must be used with space equal to twice the width of the letter 'E' in 'immobilier'.
-- Gray shades version: Use in cases where color printing is unavailable. Can be used in positive (on white background) or negative (on black background).
-- Monochrome versions: Black (on white or light-colored backgrounds), White (on black or dark-colored backgrounds), and Red (only on black or white backgrounds). These are limited to business or promotional materials, but not for signage.
-- Color specifications for use: Pantone for direct printing, CMYK for four-color printing, RGB for digital use, and HEX for web.
-- Examples of correct use of the logo with color backgrounds, illustrations, and in gray shades.
-- Examples of incorrect logo usage: Do not distort, move, alter or dissociate any elements of the logo. Do not change colors, typography, or opacity. Do not add outlines, 3D effects, shadows, or apply the logo without its white reserve on colored backgrounds.
-- Custom logo version for ERA France only, strictly not modifiable by replacing 'France' or any other elements.
-- Access to downloadable logo files available on ERA France Online intranet under the marketing section.
+##### Mission
 
-**Color Information:**
+- Ensemble réalisons votre avenir.
 
-- Primary brand colors include:
-- ERA RED (Pantone 186C, CMYK: C2 M100 Y85 K6, RGB: R200 G16 B46, HEX: #C8102E).
-- ERA DARK RED (Pantone 1955C, CMYK: C9 M100 Y54 K40, RGB: R138 G21 B56, HEX: #990033).
-- ERA NAVY BLUE (Pantone 2755C, CMYK: C100 M84 Y0 K30, RGB: R37 G14 B98, HEX: #250E62).
-Secondary colors include White (CMYK: C0 M0 Y0 K0, RGB: R255 G255 B255, HEX: #FFFFFF), Black (CMYK: C0 M0 Y0 K100, RGB: R0 G0 B0, HEX: #000000), and Black at 30% opacity (CMYK: C0 M0 Y0 K30, RGB: R178 G178 B178, HEX: #B2B2B2).
+##### Core Values
 
-**Typography Information:**
+- professionalism
+- clarity
+- modernity
+- trustworthiness
 
-- Primary typeface is Gotham, offering a modern and dynamic look. Three weights: Gotham Light, Gotham Book, and Gotham Bold.
-- Typography usage rules: 'ERA' must appear in capital letters when used in text, and 'Immobilier' should have its first letter capitalized. Avoid using more than three different styles in one document. Exclusively use authorized typefaces for brand consistency.
-- Allowable substitute fonts: Trade Gothic, Helvetica, and in rare cases Arial for technical constraints. Arial usage should be strictly minimized.
+##### Target Audience
 
-**Notes:**
+- Individuals and businesses seeking real estate services, with a focus on clarity and professionalism.
 
-- ERA France-specific custom logo version exists; prohibited from customizing, including modification of the text 'France'.
-- For guidance on applying the branding requirements or creating new documents, consult Jerome Bost, Director of Communications, Marketing, and Events at jerome@erafrance.com.
+##### Personality Traits
+
+- dynamic
+- current
+- professional
+- trustworthy
+
+##### Visual Identity Overview
+
+- The visual identity is centered on a geometric, stylized house roof icon in red and dark red, paired with bold, uppercase navy blue 'ERA' text and a horizontal red line. The palette includes red, dark red, navy blue, white, and gray, with strict logo usage rules, protected zones, and consistent typography (Gotham, Trade Gothic, Helvetica, Arial). The style is clean, modern, and minimalistic, emphasizing clarity and professionalism.
+
+#### Categories
+
+##### Logo Usage
+
+- Pour assurer une bonne perception du logotype, il faut tenir compte d'un espace protégé égal à la hauteur du «E» du nom « ERA ». Le « E» étant à chaque fois proportionnel au logotype. Cette zone de protection autour du logotype doit être impérativement respectée. Aucun élément graphique ne doit empiéter à l'intérieur de ce périmètre.
+- Sur un fond autre que blanc ou noir, il est nécessaire d'utiliser le logotype en réserve blanche afin de lui assurer une bonne visibilité.
+- Cette réserve doit comporter un blanc tournant égal à deux fois la largeur de la lettre « E » du mot «immobilier».
+- La zone de protection du logo s'applique alors à partir de la limite extérieure de la réserve blanche.
+
+##### Color Palette
+
+- Les couleurs du logotype doivent etre reproduites conformernent aux specifications precisees : Pantone pour l'impression en tons directs, CMJN pour une impression en quadrichromie, RVB en utilisation bureautique et Hex pour le web.
+- ERA RED PANTONE 186C CMJN: C2 Ml00 J85 N6 RVB : R200 Vl6 B46 HEX: #C8102E
+- ERA DARK RED PANTONE 1955C CMJN : C9 Ml00 J54 N40 RVB : Rl38 V21 B56 HEX : #990033
+- ERA NAVY BLUE PANTONE 2755C CMJN : Cl00 M84 J0 N30 RVB: R37 Vl4 B98 HEX: #250E62
+- Sur les supports en noir et blanc, les couleurs du logotype doivent etre reproduites conforrnement aux specifications precisees : CMJN pour une impression en quadrichromie, RVB en utilisation bureautique et Hex pour le web.
+- BLANC CMJN : C0 M0 J0 N0 RVB : R255 V255 B255 HEX: #FFFFFF
+- NOIR CMJN: C0 M0 J0 Nl00 RVB: R0 V0 B0 HEX:#000000
+- NOIR 30% CMJN: C0 M0 J0 N30 RVB: Rl78 Vl78 B178 HEX: #B2B2B2
+- Ne pas utiliser de couleurs autres que celles spécifiées
+
+##### Typography
+
+- • Lorsque « ERA Immobilier » apparaît dans le corps d’un texte, le nom «ERA» doit apparaitre en lettres capitales, ainsi que la première lettre du mot « Immobilier ».
+- • Afin de faciliter la lecture des documents, évitez d’utiliser plus de 3 styles typographiques différents au sein d’un même document.
+- • L’utilisation exclusive des typographies présentées ci-dessous est indispensable à la cohérence graphique des supports de communication de ERA Immobilier.
+- La police de caractères Gotham apporte une image actuelle, dynamique et offre un bon confort de lecture. Elle doit être privilégiée sur tous les supports de communication.
+- Les polices de caractères Trade Gothic et Helvetica peuvent également être utilisées sur les visuels destinés au marketing (affiches, flyers, mailings...).
+- Lorsqu’il est techniquement impossible d’utiliser Gotham, Trade Gothic ou Helvetica, la police de caractères Arial peut lui être substituée, cependant, son usage doit être strictement limité.
+- Ne pas changer la typographie
+
+##### Visual Style
+
+- Pour assurer une bonne perception du logotype, il faut tenir compte d'un espace protégé égal à la hauteur du «E» du nom « ERA ». Le « E» étant à chaque fois proportionnel au logotype. Cette zone de protection autour du logotype doit être impérativement respectée. Aucun élément graphique ne doit empiéter à l'intérieur de ce périmètre.
+- Sur un fond autre que blanc ou noir, il est nécessaire d'utiliser le logotype en réserve blanche afin de lui assurer une bonne visibilité.
+- Cette réserve doit comporter un blanc tournant égal à deux fois la largeur de la lettre « E » du mot «immobilier».
+- La zone de protection du logo s'applique alors à partir de la limite extérieure de la réserve blanche.
+
+##### Layout And Composition
+
+- Pour assurer une bonne perception du logotype, il faut tenir compte d'un espace protégé égal à la hauteur du «E» du nom « ERA ». Le « E» étant à chaque fois proportionnel au logotype. Cette zone de protection autour du logotype doit être impérativement respectée. Aucun élément graphique ne doit empiéter à l'intérieur de ce périmètre.
+- Sur un fond autre que blanc ou noir, il est nécessaire d'utiliser le logotype en réserve blanche afin de lui assurer une bonne visibilité.
+- Cette réserve doit comporter un blanc tournant égal à deux fois la largeur de la lettre « E » du mot «immobilier».
+- La zone de protection du logo s'applique alors à partir de la limite extérieure de la réserve blanche.
+
+##### Brand Partnerships
+
+- En sa qualité de partenaire officiel de la Coupe de Ligue, ERA Immobilier bénéficie de la possibilité d'utiliser le logotype officiel ci-dessous sur ses supports de communication durant toute la durée du partenariat.
 
 ## Additional Properties
 

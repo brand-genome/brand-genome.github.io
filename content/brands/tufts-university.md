@@ -2,7 +2,7 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-03-20T08:22:05.870960"
+date: "2026-04-10T09:40:34.908652"
 draft: false
 sectors:
   - education
@@ -54,22 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - seal
-  - primary
-  - symbol
-brand_colors:
-  - brown
-  - blue
-typographies:
-  - gotham
-  - serif
-imagery_styles:
-  - classic
-  - bold
-  - graphic
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private research university in Medford/Somerville, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q49120"
 has_twitter: false
@@ -92,135 +80,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- contents
- 1.0  Overview 4.0  Color
-1.1   From the President  4.1  Core Colors
- 1.2  Tufts Brand Strategy   4.2  Extended Palette
- 1.3  Branding Guidelines  4.3  Color Chart
- 2.0  Logo 5.0  Type
- 2.1  University Logo  5.1  Official Typefaces
- 2.2  Logo Versions 5.2  Characteristics and Styles
- 2.3  Incorrect Uses of Logo
- 2.4  University Seal 6.0  Stationery
- 2.5  Branding Guidelines Hierarchy
- 6.1  Letterhead
- 2.6  Schools
- 6.2  Letterhead Use
- 2.7  Schools: Treatments
- 6.3  Envelope
- 2.8  Administration and Divisions
- 6.4  Business Cards: School
- 2.9  Centers
- 6.5  Business Cards: Department of School 
- 6.6  Business Cards: Department of Division
- 3.0  Cobranding
- 3.1  University and Center 7.0  Signage
- 3.3  School and Center
- 7.1  Exterior Signage
- 3.6  Center: Part of School
- 7.2  Interior Signage
- 3.9  Multiple Entities
- 3.15  External Entities
- 8.0  Resources
-communications.tufts.edu
-- university logo
-It is very important that designers do not attempt to construct 
-the logo themselves, as the lettering in the logo has been 
-sculpted especially for Tufts. 
-Please download authorized logo files with original art.
-In addition, do not reproduce the logo by scanning a previously 
-printed version. Such “second-generation” art will degrade the 
-quality of the image and perhaps alter the scale of the various 
-elements.
-A mandatory “clear space” around the logo equal to the height of 
-the capital “T” (cap height) must be incorporated into any design 
-using the logo.
-cap height
-cap height
-cap height
-communications.tufts.edu
-- incorrect uses of logo
-Never manipulate or distort the Tufts logo, for example, by 
-stretching or compressing it.
-Never try to redesign one element of the logo, for example,  
-the word “university.”
-Never replace an element of the logo or add any graphic 
-elements such as a symbol or punctuation mark.
-Never add words or images to the logo to create a composite 
-logo treatment, and do not use the seal (see following page for 
-more information).
-communications.tufts.edu
-
-**Color Information:**
-
-- core colors
-The official Tufts University colors are blue and brown. While 
-Tufts Classic Blue has emerged as the primary color associated 
-with the university, one or both colors together can be used. At 
-least one university color should appear frequently across all 
-communications, including websites, print publications, 
-sweatshirts, etc. 
-It is important to render the colors accurately. This can pose  
-Classic Blue
-a significant challenge when working with vendors in various 
-PMS 279 mediums. They use different means for reproducing colors such 
-as on a mug, delivery vehicle, or banner. You should request that 
-the color accuracy reference be the Pantone system with official 
-“PMS” values.
-A designer should never change the school colors by designating 
-an alternate PMS color in a different shade of blue or brown.
-Classic Brown
-PMS 4625   Accessible Blue: Tufts has identified an additional blue that 
-meets the contrast requirements and accessibility standards for 
-people with visual impairments. The Tufts logo is not to be 
-rendered in Accessible Blue. It is only for non-brand elements such 
-as navigation or headlines.
-Visit Tufts UX Standards* for further accessibility information.
-Accessible
-Blue
-PMS 653
-* sites.tufts.edu/uxstandards/accessibility/accessibility-guidelines/accessible-color
-communications.tufts.edu
-
-**Typography Information:**
-
-- official typefaces
-Whitney
-The Tufts University official fonts fit a variety of communications 
-needs for digital and print environments. These typefaces are 
-required and complement the university logo. Each family of 
-fonts has a large range of weights and style options, including 
-light, medium, bold, and italics.
-Meta Serif
-The range of these typefaces allows for design flexibility  
-so that schools and units can create a distinctive look for their 
-own marketing purposes. At the same time, we ensure that all 
-communications originating from Tufts have a professional and 
-unified appearance. 
-Gotham
-A Word about Accessibility: The Tufts fonts were chosen while 
-keeping in mind accessibility for people with visual impairments. 
-Accessible text can be read out loud by text-to-speech software or 
-Vitesse translated into braille. Images of text are not accessible unless OCR 
-(Optical Character Recognition) is enabled, which can be read by 
-adaptive technology.
-Visit Tufts UX Standards* for further accessibility information.
-Quarto
-* sites.tufts.edu/uxstandards/accessibility/accessibility-guidelines/accessible-text
-communications.tufts.edu
-
-**Notes:**
-
-- branding guidelines hierarchy
-Schools Administration / Division Center / Institute
-Department / Program Department / Service Program
-Tufts uses a “parent brand” strategy so that all sub-brands can  
-be easily recognized as belonging to the same university. No unit 
-of Tufts, whether a school, research center, or auxiliary unit, 
-should develop an individual logo that would compete with the 
-official Tufts logo.
+*Guidelines data not available*
 
 ## Additional Properties
 

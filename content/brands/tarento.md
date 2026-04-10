@@ -2,11 +2,11 @@
 title: Tarento
 slug: tarento
 description: ""
-date: "2026-03-20T08:22:04.662056"
+date: "2026-04-10T09:40:33.390574"
 draft: false
 sectors:
-  - consulting
   - software
+  - consulting
 regions:
   - sweden
 years:
@@ -47,14 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - navy
-  - grey
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -74,23 +69,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Several logo variations such as primary and discretionary usage, along with incorrect examples labeled 'Don'ts'.
-- Clear space requirements highlighted but not explicitly measured; might imply spacing around logos.
-
-**Color Information:**
-
-- Colors include 'Capri Seas' (#1E8F8E; RGB: 30, 143, 142) and 'Old Navy' (#16283C; RGB: 22, 40, 60). The discretionary grey (#D8D8D8) for secondary elements is also defined.
-
-**Typography Information:**
-
-- Typography section showcases a complete alphabet display, but specific font families or usage roles are not specified.
-
-**Spacing Layout:**
-
-- Clear Space is specified, but detailed grid specifications, padding, or margin rules are absent.
-
-**Notes:**
-
-- The document provides basic branding specifications but lacks detailed descriptions in certain critical areas such as imagery, brand voice, and typography usage roles.
+*Guidelines data not available*

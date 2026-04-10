@@ -2,7 +2,7 @@
 title: Sochi 2014 Mascot
 slug: "sochi-2014-mascot"
 description: ""
-date: "2026-03-20T08:22:04.503181"
+date: "2026-04-10T09:40:33.273062"
 draft: false
 sectors:
   - sports
@@ -46,8 +46,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - mascot
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -68,22 +67,4 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Proportions, size guidelines, simplified versions, grayscale, linear versions, and mascot illustrations.
-
-**Color Information:**
-
-- Color palette usage rules specific to mascots, including color codes for different usage contexts.
-
-**Imagery Photography:**
-
-- Guidelines on usage against light and bright backgrounds for optimal visibility.
-
-**Spacing Layout:**
-
-- Spacing and layout considerations for creating appropriate 3D mascot models.
-
-**Notes:**
-
-- Examples of incorrect mascot usage to avoid.
+*Guidelines data not available*

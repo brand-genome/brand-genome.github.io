@@ -2,7 +2,7 @@
 title: Fox NFL
 slug: "fox-nfl"
 description: ""
-date: "2026-03-20T08:22:04.176896"
+date: "2026-04-10T09:40:32.495805"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,15 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - black
-  - yellow
-  - white
-  - blue
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - flat
+imagery_styles: []
 wikidata_description: television series
 wikidata_url: "https://www.wikidata.org/wiki/Q6953774"
 has_twitter: false
@@ -76,144 +70,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- 5
-|  CLEATUS LOGO
-CLEATUS LOGO SHEET
-CLEATUS STROKE LOGO
-CLEATUS LOGO 2019
-FULL COLOR
-FLAT COLOR
-BLACK AND WHITE
-WHITE (FOR DARK BACKGROUNDS)
-R: 0
-G: 0
-B: 0
-HEX#: 000000
-R: 255
-G: 255
-B: 255
-HEX#: FFFFFF
-R: 2
-G: 122
-B: 213
-HEX#: 027AD5
-R: 188
-G: 188
-B: 188
-HEX#: BCBCBC
-R: 76
-G: 76
-B: 76
-HEX#: 4C4C4C
-- 6
-|  DESIGN ELEMENTS
-45 DEGREE STRIPES
-DOT GRID PATTERN
-- Cut out section of pattern when 
-logo or text is on top
-- Can use pattern in veils
-- Can use as feathered framers 
-- Cut out section of pattern when 
-logo or text is on top
-X&O GRID PATTERN
-
-**Color Information:**
-
-- R: 0
-G: 0
-B: 0
-HEX#: 000000
-R: 255
-G: 255
-B: 255
-HEX#: FFFFFF
-R: 255
-G: 192
-B: 0
-HEX#: FFC000
-R: 2
-G: 122
-B: 213
-HEX#: 027AD5
-NFL 2019 COLOR CHEAT SHEET
-R: 76
-G: 76
-B: 76
-HEX#: 4C4C4C
-R: 40
-G: 40
-B: 40
-HEX#: 282828
-4
-|  NFL19 COLOR SHEET
-- 5
-|  CLEATUS LOGO
-CLEATUS LOGO SHEET
-CLEATUS STROKE LOGO
-CLEATUS LOGO 2019
-FULL COLOR
-FLAT COLOR
-BLACK AND WHITE
-WHITE (FOR DARK BACKGROUNDS)
-R: 0
-G: 0
-B: 0
-HEX#: 000000
-R: 255
-G: 255
-B: 255
-HEX#: FFFFFF
-R: 2
-G: 122
-B: 213
-HEX#: 027AD5
-R: 188
-G: 188
-B: 188
-HEX#: BCBCBC
-R: 76
-G: 76
-B: 76
-HEX#: 4C4C4C
-- 11
-| CLEATUS COLOR TREATMENT
-FULL COLOR
-BLUE
-BLUE AO
-YELLOW
-YELLOW AO
-CLEATUS COLOR TREATMENTS
-
-**Typography Information:**
-
-- 3
-FONT FAMILY
-INDUSTRY
-• MEDIUM
-• DEMI
-• BOLD
-• BLACK
-
-**Imagery Photography:**
-
-- 9
-CLEATUS IMAGERY
-
-**Spacing Layout:**
-
-- 6
-|  DESIGN ELEMENTS
-45 DEGREE STRIPES
-DOT GRID PATTERN
-- Cut out section of pattern when 
-logo or text is on top
-- Can use pattern in veils
-- Can use as feathered framers 
-- Cut out section of pattern when 
-logo or text is on top
-X&O GRID PATTERN
+*Guidelines data not available*
 
 ## Additional Properties
 

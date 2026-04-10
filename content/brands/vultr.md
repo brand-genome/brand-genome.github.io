@@ -2,7 +2,7 @@
 title: Vultr
 slug: vultr
 description: ""
-date: "2026-03-20T08:22:03.299167"
+date: "2026-04-10T09:40:30.827553"
 draft: false
 sectors:
   - software
@@ -53,9 +53,9 @@ imagery_styles: []
 wikidata_description: cloud infrastructure company
 wikidata_url: "https://www.wikidata.org/wiki/Q137343200"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -63,9 +63,3 @@ visual_term_image_urls: {}
 
 - [https://www.vultr.com](https://www.vultr.com)
 - [http://www.vultr.com](http://www.vultr.com)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*

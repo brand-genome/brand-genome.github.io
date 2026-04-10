@@ -2,15 +2,15 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-03-20T08:22:03.383382"
+date: "2026-04-10T09:40:30.930409"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
 tags:
@@ -53,13 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
@@ -67,7 +62,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q7837522"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -79,23 +74,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
-
-*Guidelines data not available*
-
 ### 2020
 
-**Logo Information:**
-
-- The TreePeople logo is a simple wordmark set in Cooper Black typeface, chosen for its friendly and approachable characteristics. The adjusted kerning ensures the logo looks consistent.
-- The TreePeople logo file names include CMYK and RGB formats: TreePeople_logo_color_CMYK.eps, TreePeople_logo_color_CMYK.jpg, TreePeople_logo_black_CMYK.eps, TreePeople_logo_color_RGB.jpg, TreePeople_logo_black_RGB.jpg.
-- Guidelines require maintaining a clear space around the logo equivalent to 'P' height and a safe minimum size of 1.5 inches for print, or 108px for digital use.
-
-**Color Information:**
-
-- Primary palette colors defined with Pantone, HEX, RGB, and CMYK values. Includes TreePeople Green (PMS 574) as a main brand color alongside complementary hues.
-- Secondary palette colors defined for complementary applications, including warm hues (reds, oranges, grays) with assigned Pantone, HEX, RGB, and CMYK values.
-- Color usage guidelines emphasize maintaining contrast: use darker colors on light backgrounds and vice versa. TreePeople Green is preferred but should be used in moderation for large-scale web applications.
+*Guidelines data not available*
 
 ## Additional Properties
 

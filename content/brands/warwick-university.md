@@ -2,7 +2,7 @@
 title: Warwick University
 slug: "warwick-university"
 description: ""
-date: "2026-03-20T08:22:04.855511"
+date: "2026-04-10T09:40:33.605222"
 draft: false
 sectors:
   - university
@@ -50,24 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - gold
-  - white
-  - grey
-  - orange
-  - black
-typographies:
-  - lato
-  - avenir
-imagery_styles:
-  - graphic
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "university in Coventry, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q865528"
 has_twitter: false
@@ -89,42 +75,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The University of Warwick master logotype has been designed as a visual representation of a 'Window on Warwick.' The master logotype combines the window device with the word 'WARWICK' typography; these elements should always appear locked together. The window device can be used in isolation; however, the WARWICK typography should never be isolated. (includes exclusion zone and preferred color options)
-- Exclusion zone for the logotype: A minimum clear spacing measured as the height of the center point within the 'W' (window device) and the width of one and a half of the triangular shape inside the 'W.' No graphic items should interfere with this space.
-- Incorrect logotype usage examples include distortions or resizing breaking proportions, improper placements, use of inappropriate colors affecting legibility, and failure to maintain the integrity of the window 'W' shape.
-- Bespoke mono versions are provided for print limitations and dark backgrounds. The mono versions remain strictly black and white and cannot be reproduced in other colors.
-- Social media avatar dimensions include Twitter (400x400 recommended, 200x200 minimum), Facebook (180x180 recommended, 160x160 minimum), Instagram (110x110). Cover photos: Twitter (1500x500), Facebook (851x315), YouTube (various dimensions). Design continuity guidelines provided, with advice to avoid copying elements from main central accounts.
-
-**Color Information:**
-
-- Primary color palette includes Warwick Gold, Warwick Burnt Orange (Pantone, CMYK, RGB, HEX codes provided). Uncoated vs. coated paper variants follow defined Pantone conventions. Colors may appear solid or in tints.
-- Secondary palette includes Warwick Aubergine, Warwick Cool Grey (Pantone, CMYK, RGB, HEX codes provided). Usage recommended selectively to complement core colors while maintaining professionalism.
-- Guidelines for limiting color palette use in conjunction with body text Warwick Grey or black to maintain design sophistication and avoid visual distraction.
-
-**Typography Information:**
-
-- Core typefaces include Avenir Next for print materials (clarity and legibility) and Lato for online text. Specific weights: Ultra Light (for large headings requiring elegance), Regular (primary body text), Medium (pullout content). Usage defined for readability improvement.
-- Examples showcase typography styling with font size specifications: Avenir Next Ultra Light (46/47pt for headlines), Regular (12/19pt subhead styles). Colors used: Warwick Burnt Orange, Warwick Aubergine.
-
-**Imagery Photography:**
-
-- Primary imagery consists of motion-based styles showing movement, natural motion blur, and active scenarios, particularly integrating student activity on campus.
-- Secondary imagery focuses on reportage style for depicting genuine student lifestyles, relying on unstaged photography rather than polished visual clichés.
-
-**Spacing Layout:**
-
-- Grid layouts provided for A4 covers with multicolumn (4 vertical, 12 horizontal columns). Explicit mm dimensions ensure structured alignment across publication formats.
-
-**Brand Voice:**
-
-- Tone defined as 'challenging, ambitious, thought-provoking.' Messaging principles include positivity, future focus, avoidance of passive phrasing, and personalized direct address strategies.
-
-**Notes:**
-
-- Guidelines for webpage banner imagery selection and banner font adjustments. Web header allowed slight variation (1170px). Key elements guiding institutional coherence.
-- Signage and lock-up uses differ internally (WARWICK typography paired with the window device) versus welcoming campus signage for external communication clarity.
+*Guidelines data not available*
 
 ## Additional Properties
 

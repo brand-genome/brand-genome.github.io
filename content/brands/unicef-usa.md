@@ -2,7 +2,7 @@
 title: Unicef USA
 slug: "unicef-usa"
 description: ""
-date: "2026-03-20T08:22:05.705636"
+date: "2026-04-10T09:40:34.647415"
 draft: false
 sectors:
   - ngo
@@ -50,12 +50,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
-typographies:
-  - impact
+typographies: []
 imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54557197"
@@ -75,49 +72,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logo versions discussed, including horizontal and vertical applications.
-- Clear space rules highlighted for maintaining visual impact.
-- Logo versions discussed, including horizontal and vertical applications.
-- Clear space rules highlighted for maintaining visual impact.
-
-**Color Information:**
-
-- Color palette is defined including basic and complete color ranges.
-- Color palette is defined including basic and complete color ranges.
-
-**Typography Information:**
-
-- Typography guidelines include font names, sizes, and usage principles.
-- Typography guidelines include font names, sizes, and usage principles.
-- Typography guidelines include font names, sizes, and usage principles.
-- Typography guidelines include font names, sizes, and usage principles.
-- Typography guidelines include font names, sizes, and usage principles.
-- Typography guidelines include font names, sizes, and usage principles.
-
-**Notes:**
-
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
-- Additional page content captured but did not match predefined categories.
+*Guidelines data not available*
 
 ## Additional Properties
 

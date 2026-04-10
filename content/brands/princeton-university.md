@@ -2,7 +2,7 @@
 title: Princeton University
 slug: "princeton-university"
 description: ""
-date: "2026-03-20T08:22:05.066873"
+date: "2026-04-10T09:40:33.835775"
 draft: false
 sectors:
   - university
@@ -54,14 +54,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - orange
-  - black
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "private Ivy League research university in Princeton, New Jersey, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q21578"
@@ -83,30 +78,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- Princeton University logos and shield specifications are provided for different applications: S5 Princeton University logo for vehicular scale signs, shield logos for pedestrian and vehicular scales. File format mentioned for Shield Logo: XXX.eps. Additional examples include modified vehicular directional shields and particular arrangements for print and signage usage.
-- Logo usage instructions specify that print versions of logos cannot simply be enlarged for signage. The large vehicular directional logo has a modified shield position and thicker stroke weight than the official logo.
-
-**Color Information:**
-
-- Color specifications for signs and finishes: F1 Porcelain Enamel Pan, F2 Painted Aluminum Panel, F3 Matthews Paint - Black MP30132 Satin, F4 Matthews Paint - White MP11477 Satin, F5 Matthews Paint - Orange MP01229 Satin, F6-F8 Reflective Tapes - Black, White, and Orange respectively. Use of UV Matte clear-coat is mandated.
-- Reflective vinyl applications (F7, F8) include road signage such as 'Road Shared with Bikes', and finishes on poles and panels ensure consistency. E.g., aluminum poles painted black with UV matte clear-coat, and silkscreened graphics on porcelain enamel (F1).
-
-**Typography Information:**
-
-- Whitney is the primary typeface used for all signage. Different weights and cases are specified for various sign types: Whitney Semibold and Book for most sign types, and Princeton Monticello Display for specialized signage. Examples of use cases include upper/lower case and numbers for vehicular and pedestrian scale signs.
-- Kerning and letter-spacing must match examples from Construction Intent Documents prepared in Adobe Illustrator (Version CS3). Adjustments should follow 'optical' kerning guidelines with specific numeric values for consistency.
-
-**Spacing Layout:**
-
-- Line spacing and measurements are highly specified across different sign types. For instance, Sign Type EE1 'Road Shared with Bikes' includes a line spacing of 1 1/2"=1'-0" for the elevation view, whereas Sign Type EE2 'Accessible Parking' includes various typographic and spacing restrictions, disallowing type weight or color variations.
-- Matrix of Signage Elements provides fabrication directives with spacing, typography, and positioning guides for every sign type.
-
-**Notes:**
-
-- Guiding principles outline the strategy behind the signage design for Princeton University, suggesting a focus on visitor experience, traffic improvement, and orientation on campus. Identification plaques are strictly reserved for Princeton-owned buildings.
-- Sign fabrication is divided into Princeton-led and custom-fabricated processes. Princeton handles standard sign types (EE1, EE2, C1, C2, and others), while detailed construction for more complex designs involves contracted fabricators.
+*Guidelines data not available*
 
 ## Additional Properties
 

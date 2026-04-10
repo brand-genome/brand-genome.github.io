@@ -2,7 +2,7 @@
 title: Murray
 slug: murray
 description: ""
-date: "2026-03-20T08:22:04.925790"
+date: "2026-04-10T09:40:33.698144"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -70,6 +70,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 

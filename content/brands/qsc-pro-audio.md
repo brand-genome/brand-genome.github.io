@@ -2,11 +2,11 @@
 title: QSC Pro Audio
 slug: "qsc-pro-audio"
 description: ""
-date: "2026-03-20T08:22:03.795010"
+date: "2026-04-10T09:40:31.405021"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - music
-  - featured
   - technology
+  - featured
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -67,9 +67,3 @@ visual_term_image_urls: {}
 - [https://www.qscaudio.com](https://www.qscaudio.com)
 - [https://support.qscaudio.com](https://support.qscaudio.com)
 - [http://www.qsc.com](http://www.qsc.com)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*

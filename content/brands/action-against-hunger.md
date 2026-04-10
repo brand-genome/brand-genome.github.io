@@ -2,7 +2,7 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-03-20T08:22:04.470710"
+date: "2026-04-10T09:40:33.216851"
 draft: false
 sectors:
   - ngo
@@ -33,8 +33,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - paris
-  - "new-york-city"
   - toronto
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1979
@@ -57,21 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - orange
-  - grey
-  - blue
-typographies:
-  - futura
-  - lato
-imagery_styles:
-  - bold
-  - photography
-  - serious
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French global humanitarian aid organization
 wikidata_url: "https://www.wikidata.org/wiki/Q343624"
 has_twitter: false
@@ -92,42 +81,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The Action Against Hunger symbol comprises a leaf and droplet. The leaf represents food, and the droplet represents water.
-- Co-branding requires minimum exclusion space for logos—minimum space specified is the size of the leaf component.
-- Partner logos must align in height to Action Against Hunger's logo and should not appear below the minimum size requirements.
-
-**Color Information:**
-
-- Accent colors are mentioned; specific colors and usage areas will be described in the Visual Identity section.
-- Diagrams should use organization-specific colors: green, blue, grey, and orange, in specified order.
-
-**Typography Information:**
-
-- Primary font in MS Office programs is 'Futura Bold,' used in uppercase for headings.
-- Lato can be used as a fallback font, with specific settings for normal text, available in the typography guidelines.
-
-**Imagery Photography:**
-
-- Photography should depict harsh truths and human emotions, connecting powerfully before written words are read.
-- Compositions must respect the dignity of people being portrayed.
-- Do capture people/children at eye level to maintain a sense of connection and respect; ensure our logo remains visible when present.
-- Do not stage scenes or use unclear contexts. Avoid photos showing helplessness or children photographed from above.
-
-**Spacing Layout:**
-
-- Layouts balance consistency and creativity; elements should align with branding guidelines.
-
-**Brand Voice:**
-
-- The brand declares what it stands 'FOR' (Action, Food, Water) and what it stands 'AGAINST' (Hunger, Malnutrition, Disease).
-- Tone of voice emphasizes action and making a positive difference.
-
-**Notes:**
-
-- Sub-brands must remain visually connected to the main brand and require explicit permission for creation.
-- Event styles and logos must reflect the serious work done while still linking the events to core brand values.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -137,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [New York City](/headquarters_locations/new-york-city/); [Toronto](/headquarters_locations/toronto/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [Toronto](/headquarters_locations/toronto/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Freebase Id | /m/0zmk |
 | Inception | 1979 |

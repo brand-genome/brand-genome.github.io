@@ -2,7 +2,7 @@
 title: SALGA
 slug: salga
 description: ""
-date: "2026-03-20T08:22:05.542586"
+date: "2026-04-10T09:40:34.450623"
 draft: false
 sectors:
   - "public-sector"
@@ -50,15 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: association football club
 wikidata_url: "https://www.wikidata.org/wiki/Q772114"
 has_twitter: false
@@ -79,66 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Details about the primary logo section.
-- Details for the secondary logo applications.
-- Black and white logo specifications.
-- Details about the primary logo section.
-- Details about the primary logo section.
-- Details about the primary logo section.
-- Details about the primary logo section.
-- Details about the primary logo section.
-- Details for the secondary logo applications.
-- Details for the secondary logo applications.
-- Details about the primary logo section.
-- Details for the secondary logo applications.
-
-**Color Information:**
-
-- Color-related specifications on page 8.
-- Color-related specifications on page 9.
-- Color-related specifications on page 23.
-
-**Typography Information:**
-
-- Typography specifications mentioned on page 3.
-- Typography specifications mentioned on page 9.
-- Typography specifications mentioned on page 12.
-- Typography specifications mentioned on page 26.
-- Typography specifications mentioned on page 30.
-- Typography specifications mentioned on page 31.
-- Typography specifications mentioned on page 33.
-- Typography specifications mentioned on page 36.
-- Typography specifications mentioned on page 49.
-- Typography specifications mentioned on page 50.
-- Typography specifications mentioned on page 68.
-
-**Imagery Photography:**
-
-- Image and photography guidelines mentioned on page 8.
-- Image and photography guidelines mentioned on page 27.
-
-**Spacing Layout:**
-
-- Spacing and grid layout mentioned on page 4.
-- Spacing and grid layout mentioned on page 8.
-- Spacing and grid layout mentioned on page 13.
-- Spacing and grid layout mentioned on page 14.
-- Spacing and grid layout mentioned on page 17.
-- Spacing and grid layout mentioned on page 21.
-
-**Brand Voice:**
-
-- Brand voice or tone of messaging on page 12.
-- Brand voice or tone of messaging on page 16.
-
-**Notes:**
-
-- Important notes extracted from page 1.
-- Important notes extracted from page 3.
-- Important notes extracted from page 8.
-- Important notes extracted from page 9.
+*Guidelines data not available*
 
 ## Additional Properties
 

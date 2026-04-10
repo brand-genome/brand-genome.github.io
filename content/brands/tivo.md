@@ -2,7 +2,7 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-03-20T08:22:05.062390"
+date: "2026-04-10T09:40:33.825597"
 draft: false
 sectors:
   - software
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "santa-clara"
   - "san-jose"
+  - "santa-clara"
 subsidiaries: []
 foundation_dates:
   - 1983
@@ -54,13 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: American technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q917002"
 has_twitter: false
@@ -82,116 +79,11 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- Found key term 'Logo' in context on page 1.
-- Found key term 'Logo' in context on page 2.
-- Found key term 'Logo' in context on page 3.
-- Found key term 'minimum size' in context on page 3.
-- Found key term 'clear space' in context on page 3.
-- Found key term 'grounding' in context on page 3.
-- Found key term 'Logo' in context on page 4.
-- Found key term 'Logo' in context on page 5.
-- Found key term 'Logo' in context on page 6.
-- Found key term 'Logo' in context on page 7.
-- Found key term 'Logo' in context on page 8.
-- Found key term 'Logo' in context on page 13.
-- Found key term 'Logo' in context on page 14.
-- Found key term 'Logo' in context on page 15.
-- Found key term 'Logo' in context on page 16.
-
-**Color Information:**
-
-- Found key term 'Pantone' in context on page 1.
-- Found key term 'CMYK' in context on page 1.
-- Found key term 'RGB' in context on page 1.
-- Found key term 'color' in context on page 2.
-- Found key term 'color' in context on page 3.
-- Found key term 'color' in context on page 4.
-- Found key term 'color' in context on page 5.
-- Found key term 'Pantone' in context on page 6.
-- Found key term 'CMYK' in context on page 6.
-- Found key term 'CMYK' in context on page 7.
-- Found key term 'Pantone' in context on page 8.
-- Found key term 'RGB' in context on page 8.
-- Found key term 'color' in context on page 8.
-- Found key term 'color' in context on page 13.
-
-**Typography Information:**
-
-- Found key term 'typography' in context on page 1.
-- Found key term 'typeface' in context on page 9.
-- Found key term 'headline' in context on page 14.
-
-**Imagery Photography:**
-
-- Found key term 'style' in context on page 2.
-- Found key term 'style' in context on page 3.
-- Found key term 'style' in context on page 4.
-- Found key term 'style' in context on page 5.
-- Found key term 'style' in context on page 6.
-- Found key term 'style' in context on page 7.
-- Found key term 'style' in context on page 8.
-- Found key term 'style' in context on page 9.
-- Found key term 'style' in context on page 10.
-- Found key term 'style' in context on page 11.
-- Found key term 'style' in context on page 12.
-- Found key term 'style' in context on page 13.
-- Found key term 'style' in context on page 14.
-- Found key term 'style' in context on page 15.
-- Found key term 'style' in context on page 16.
-
-**Brand Voice:**
-
-- Found key term 'messaging' in context on page 1.
-- Found key term 'tagline' in context on page 4.
-- Found key term 'messaging' in context on page 10.
-- Found key term 'messaging' in context on page 11.
-
-**Notes:**
-
-- Found key term 'guidelines' in context on page 1.
-- Found key term 'legal' in context on page 1.
-- Found key term 'note' in context on page 2.
-- Found key term 'guidelines' in context on page 10.
-- Found key term 'guidelines' in context on page 13.
-- Found key term 'note' in context on page 14.
-- Found key term 'legal' in context on page 14.
+*Guidelines data not available*
 
 ### 2018
 
-**Logo Information:**
-
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-- Mentions regarding TiVo logo application and evolution.
-
-**Color Information:**
-
-- Details about primary and secondary color usage.
-- Details about primary and secondary color usage.
-- Details about primary and secondary color usage.
-- Details about primary and secondary color usage.
-- Details about primary and secondary color usage.
-
-**Typography Information:**
-
-- Typography guidelines pertaining to fonts and styles.
-- Typography guidelines pertaining to fonts and styles.
-- Typography guidelines pertaining to fonts and styles.
-
-**Imagery Photography:**
-
-- Guidelines on imagery and photography appearance for the brand.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -201,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/); [San Jose](/headquarters_locations/san-jose/) |
+| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1983](/foundation_dates/1983/) |
 | Stock Exchange | Nasdaq (from 1999-09-30) |
 | Headquarters Location | Santa Clara, San Jose |

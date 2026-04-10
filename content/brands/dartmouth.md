@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-03-20T08:22:05.158819"
+date: "2026-04-10T09:40:34.002774"
 draft: false
 sectors:
   - university
@@ -54,22 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - orange
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Hanover, New Hampshire, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q49116"
 has_twitter: false
@@ -91,42 +79,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The wordmark must always have appropriate clear space around it to maintain legibility and visual impact. Minimum size of 1 inch is recommended.
-- Do ensure that the wordmark is placed proportionally on all print materials, maintaining its design integrity.
-- Don't create unapproved lockups of the logo, apply drop shadows, or manipulate letter spacing. Stretching or condensing the logo is strictly prohibited.
-
-**Color Information:**
-
-- Primary color: Dartmouth Green (PMS 349, CMYK 95/0/100/50, RGB 0/105/62)
-- Secondary color palette inspired by nature includes Forest Green (PMS 627), Midnight Black (CMYK 50/50/50/100), Snow White (CMYK 0/0/0/0).
-- Tertiary colors for supplemental design use include Tuck Orange (PMS 179) and Bonfire Red (PMS 7427).
-
-**Typography Information:**
-
-- Primary typeface: National 2, used for headers and body text on formal materials.
-- Secondary typeface: Dartmouth Ruzicka, suitable for traditional and academic purposes.
-- Font sizes recommended: Main text block in National 2 Regular (10pt font size, 12pt leading), Address block in Dartmouth Ruzicka Regular (8.5pt font size, 9pt leading).
-
-**Imagery Photography:**
-
-- Photography should showcase Dartmouth's tradition, legacy, and natural beauty with an insider's perspective. Community and diversity are focal points.
-- Preferred color treatments for photography include the use of Dartmouth Green to maintain brand alignment.
-
-**Spacing Layout:**
-
-- The minimum amount of clear space required around the wordmark is defined as one-quarter of the logo's height.
-- Stationery grid specifications include consistent dimensions, spacing, and alignments for all visual communication templates.
-
-**Brand Voice:**
-
-- The tone and messaging reflect Dartmouth's academic excellence, tradition, and innovative spirit.
-- Signature phrases such as 'Give a rouse for the College on the hill' highlight Dartmouth's identity.
-
-**Notes:**
-
-- Visual identity guidelines explicitly prioritize consistency and adherence to the defined parameters for all brand elements.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-03-20T08:22:05.043570"
+date: "2026-04-10T09:40:33.805609"
 draft: false
 sectors:
   - research
@@ -51,20 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - orange
-  - black
-typographies:
-  - impact
-  - "open-sans"
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Flemish research institute
 wikidata_url: "https://www.wikidata.org/wiki/Q2463367"
 has_twitter: false
@@ -85,29 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo represents VIB with its main activities, Research Centers, and Core Facilities. It must not be altered, reformatted, or redrawn.
-- Clear space rule: A blank space equal to the height/width of the orange triangle (height of 'VIB' text) must be preserved around the logo.
-- Minimum size requirement: The logo should not be used smaller than 6 mm to ensure legibility.
-- When the logo is secondary (e.g., on third-party tools), the logo and tagline lockup is used unless tagline text height is below 1.2 mm.
-- Separate tagline and logo usage: Used when the logo is the primary material element and there is space for the tagline. Tagline is in Dense Bold, with a height equal to the green circle in the logo. Minimum separation space: 3x width of the tagline.
-
-**Color Information:**
-
-- Full-color logo and tagline: Used on white or light-colored backgrounds.
-- White logo version: Used on dark-colored backgrounds.
-- Black logo version: Used when color printing is not possible.
-
-**Typography Information:**
-
-- Tagline 'Science meets life' expresses VIB's attitude: combines elements of work and expresses underlying spirit.
-- When combined with the logo: Tagline uses Open Sans font for contrast with logo.
-- When used independently as a headline: Tagline uses Dense font for stronger character and messaging impact.
-
-**Notes:**
-
-- Document titled as 'VIB Logo Guidelines', version 1.0 from October 2016.
+*Guidelines data not available*
 
 ## Additional Properties
 

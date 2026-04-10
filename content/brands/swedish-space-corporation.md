@@ -2,11 +2,11 @@
 title: Swedish Space Corporation
 slug: "swedish-space-corporation"
 description: ""
-date: "2026-03-20T08:22:04.523686"
+date: "2026-04-10T09:40:33.314066"
 draft: false
 sectors:
-  - satellite
   - "space-technology"
+  - satellite
 regions:
   - sweden
 years:
@@ -72,33 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo-related instruction covering variations, safe zones, colors, and usage guidelines.
-
-**Color Information:**
-
-- Color specifications, including color palette, acceptable color usage across mediums, and formats such as Pantone, RGB, and HEX.
-
-**Typography Information:**
-
-- Typography details such as the font family and usage roles for headers, body copy, and other communication materials.
-
-**Imagery Photography:**
-
-- Imagery usage guidelines with examples of acceptable styles, treatments, and scenarios.
-
-**Spacing Layout:**
-
-- Spacing and layout specifications to ensure consistent visual representation.
-
-**Brand Voice:**
-
-- Guidelines on the tone of voice, key messaging themes, and overall brand communication principles.
-
-**Notes:**
-
-- Miscellaneous notes and general instructions appearing across the document.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Navigators
 slug: navigators
 description: ""
-date: "2026-03-20T08:22:04.225580"
+date: "2026-04-10T09:40:32.657636"
 draft: false
 sectors:
   - ngo
@@ -54,21 +54,15 @@ imagery_styles: []
 wikidata_description: "non-governmental organization in Uganda"
 wikidata_url: "https://www.wikidata.org/wiki/Q136178836"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://navigators.org.au](https://navigators.org.au)
-
-## Brand Guidelines
-
-### 2016
-
-*Guidelines data not available*
 
 ## Additional Properties
 

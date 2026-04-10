@@ -2,11 +2,11 @@
 title: Virgin Money
 slug: "virgin-money"
 description: ""
-date: "2026-03-20T08:22:04.857303"
+date: "2026-04-10T09:40:33.607248"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -52,17 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-brand_colors:
-  - red
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "is a financial services brand used by three independent brand-licensees worldwide."
 wikidata_url: "https://www.wikidata.org/wiki/Q14463124"
 has_twitter: false
@@ -83,38 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Details about logo variations, including a preference for the full-color logo in print and 2-color in digital media.
-- Logo includes horizontal and vertical formats, optionally providing stacked variations.
-- Logo usage options include white on red, black, and compatibility with various backgrounds.
-- Clear space or safe zone rules for proper logo usage.
-
-**Color Information:**
-
-- Color specifications provided, including RGB, CMYK, and other color notes for backgrounds.
-- Specific color palette information including Pantone, RGB, HEX codes, etc., and their usage.
-
-**Typography Information:**
-
-- Font-family usage and typography guidelines for maintaining consistency across visuals.
-- Typography rules include specific typefaces and weights for headlines, body, and other elements.
-
-**Imagery Photography:**
-
-- Guidelines for photography and imagery styles, moods, and treatments for alignment with the brand.
-
-**Spacing Layout:**
-
-- Rules are provided for grid layouts and spacing in different design cases.
-
-**Brand Voice:**
-
-- Description of the tone of voice for communication, representing the personality of the brand.
-
-**Notes:**
-
-- Brand-specific notes, including trademark licenses and usage approvals under license.
+*Guidelines data not available*
 
 ## Additional Properties
 

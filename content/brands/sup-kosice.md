@@ -2,11 +2,11 @@
 title: ŠUP Košice
 slug: "sup-kosice"
 description: ""
-date: "2026-03-20T08:22:04.065168"
+date: "2026-04-10T09:40:32.097197"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - slovakia
 years:
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 
 - [https://supke.sk](https://supke.sk)
 - [http://www.supke.sk](http://www.supke.sk)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*

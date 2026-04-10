@@ -2,7 +2,7 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-03-20T08:22:04.719656"
+date: "2026-04-10T09:40:33.448865"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2019
   - 2015
+  - 2019
 languages:
   - english
 tags:
@@ -53,31 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-2756"
-  - "pantone-166"
-  - "pantone-7658"
-  - "pantone-207"
-  - "pantone-282"
-  - cyan
-  - "pantone-871"
-  - "pantone-204"
-  - "pantone-2292"
-  - gray
-  - "pantone-3560"
-  - "pantone-306"
-  - black
-  - "pantone-143"
-typographies:
-  - futura
-imagery_styles:
-  - staged
-  - bold
-  - natural
-  - photography
-  - lifestyle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "multi-campus university located in Northern Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q2096524"
 has_twitter: false
@@ -97,48 +76,11 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Minimum size has been specified for the brandmark.
-- The importance of clear space and safe zone around the logo.
-
-**Color Information:**
-
-- Pantone 282 C
-- Pantone 871 C
-- Pantone 282 C and Pantone 2756 C with Process Cyan and Pantone 306 C for digital outputs (HEX/RGB).
-- Pantone Black 6 C and Pantone Cool Gray variations (2C, 3C, 5C, 7C).
-- Additional color variations include: Pantone 143 C, Pantone 204 C, Pantone 207 C, Pantone 7658 C, Pantone 3560 C, Pantone 166 C, Pantone 2292 C.
-
-**Typography Information:**
-
-- Futura is the primary typeface, using its five weights: Extra Bold, Bold, Heavy, Book, and Light. Italics are mentioned as available but avoided for headlines and body texts.
-- Headline texts should use punchy phrases for grabbing attention.
-- Clear specifications on minimum font sizes and adherence to minimum space requirements provided.
-- Creative applications of typography encouraged within design guidelines.
-
-**Imagery Photography:**
-
-- Photography is used to embody Ulster University's brand message through natural, genuine, and real imagery.
-- Photography styles are divided into categories to suit imagery needs—hero photography is central to the brand's representation.
-- Rules for photography emphasize avoiding staged or unnatural images, focusing on powerful, lifestyle-based content.
-- Image treatment guidelines outlined with visual examples.
-
-**Spacing Layout:**
-
-- Grid System principles outlined. A 12 x 12 grid forms the foundation of layout design and ensures alignment and flexibility.
-- Alignment rules emphasize positioning content within the grid system for consistency.
-- Safe margins and spacing guidelines provided for text layouts and video content.
-
-**Brand Voice:**
-
-- The tone of voice is defined by confidence and clarity, aiming to convey trust and professionalism.
-
-**Notes:**
-
-- Ulster University brand guidelines emphasize a cohesive visual identity through consistent typography, color, imagery, and grid usage.
+*Guidelines data not available*
 
 ### 2015
+
+*Guidelines data not available*
 
 ## Additional Properties
 

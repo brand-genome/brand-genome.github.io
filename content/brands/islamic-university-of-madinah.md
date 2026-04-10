@@ -2,7 +2,7 @@
 title: Islamic University of Madinah
 slug: "islamic-university-of-madinah"
 description: ""
-date: "2026-03-20T08:22:04.346757"
+date: "2026-04-10T09:40:33.074665"
 draft: false
 sectors:
   - education

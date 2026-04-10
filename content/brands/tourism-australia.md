@@ -2,7 +2,7 @@
 title: Tourism Australia
 slug: "tourism-australia"
 description: ""
-date: "2026-03-20T08:22:05.801260"
+date: "2026-04-10T09:40:34.796321"
 draft: false
 sectors:
   - "public-sector"
@@ -50,13 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - vibrant
+imagery_styles: []
 wikidata_description: Australian Government tourism agency
 wikidata_url: "https://www.wikidata.org/wiki/Q7829083"
 has_twitter: false
@@ -76,33 +73,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Logo-related information and configurations found in various sections of the document, including details on logo variations and usage.
-
-**Color Information:**
-
-- Details on the color palettes used within the guidelines, including specifications for primary colors and variations across sections.
-
-**Typography Information:**
-
-- Typeface and typography guidelines, including TheSans Basic as a key typeface for materials.
-
-**Imagery Photography:**
-
-- Guidelines for the use of photography in materials, showcasing Australia as a vibrant and diverse tourism destination.
-
-**Spacing Layout:**
-
-- Specifications on layout and grid design, helping to maintain clarity and consistency in communication materials.
-
-**Brand Voice:**
-
-- Details surrounding the tone of voice, brand personality, and key messaging to effectively represent Tourism Australia.
-
-**Notes:**
-
-- General notes and high-level information about applying the brand guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

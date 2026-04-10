@@ -2,7 +2,7 @@
 title: Stephen F. Austin University
 slug: "stephen-f-austin-university"
 description: ""
-date: "2026-03-20T08:22:05.793436"
+date: "2026-04-10T09:40:34.784934"
 draft: false
 sectors:
   - university
@@ -71,6 +71,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

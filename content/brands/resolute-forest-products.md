@@ -2,7 +2,7 @@
 title: Resolute Forest Products
 slug: "resolute-forest-products"
 description: ""
-date: "2026-03-20T08:22:04.225217"
+date: "2026-04-10T09:40:32.655667"
 draft: false
 sectors:
   - "forestry-timber"
@@ -74,78 +74,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-- Information on logo usage, variations, or guidelines identified.
-
-**Color Information:**
-
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-- Color system, palettes, or related guidelines extracted.
-
-**Typography Information:**
-
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-- Typography rules referencing fonts, weights, and roles identified.
-
-**Spacing Layout:**
-
-- Identified rules or measurements for spacing and layout.
-- Identified rules or measurements for spacing and layout.
-- Identified rules or measurements for spacing and layout.
-- Identified rules or measurements for spacing and layout.
-
-**Brand Voice:**
-
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-- Tone of voice or messaging-related guidelines extracted.
-
-**Notes:**
-
-- Additional observations or notes on brand usage found.
-- Additional observations or notes on brand usage found.
-- Additional observations or notes on brand usage found.
-- Additional observations or notes on brand usage found.
+*Guidelines data not available*
 
 ## Additional Properties
 

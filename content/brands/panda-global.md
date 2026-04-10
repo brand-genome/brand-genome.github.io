@@ -2,7 +2,7 @@
 title: Panda Global
 slug: "panda-global"
 description: ""
-date: "2026-03-20T08:22:04.223905"
+date: "2026-04-10T09:40:32.653597"
 draft: false
 sectors:
   - gaming
@@ -68,3 +68,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*

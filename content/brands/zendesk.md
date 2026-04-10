@@ -2,7 +2,7 @@
 title: Zendesk
 slug: zendesk
 description: ""
-date: "2026-03-20T08:22:04.003756"
+date: "2026-04-10T09:40:31.957294"
 draft: false
 sectors:
   - software
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: CRM company that builds customer support and sales software which aims for quick implementation and adaptation at scale
 wikidata_url: "https://www.wikidata.org/wiki/Q15401349"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [https://www.zendesk.com](https://www.zendesk.com)
 - [https://support.zendesk.com](https://support.zendesk.com)
 - [https://www.zendesk.co.jp](https://www.zendesk.co.jp)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

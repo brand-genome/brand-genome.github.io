@@ -2,7 +2,7 @@
 title: Turkey – Discover the potential
 slug: "turkey-discover-the-potential"
 description: ""
-date: "2026-03-20T08:22:04.310691"
+date: "2026-04-10T09:40:32.997999"
 draft: false
 sectors:
   - "public-sector"
@@ -64,3 +64,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2018
+
+*Guidelines data not available*

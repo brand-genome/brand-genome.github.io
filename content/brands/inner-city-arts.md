@@ -2,7 +2,7 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-03-20T08:22:04.900389"
+date: "2026-04-10T09:40:33.673052"
 draft: false
 sectors:
   - ngo
@@ -53,26 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - gray
-  - orange
-  - black
-typographies:
-  - gotham
-  - impact
-  - arial
-  - "sans-serif"
-  - helvetica
-imagery_styles:
-  - bold
-  - dynamic
-  - clean
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54857722"
 has_twitter: false
@@ -91,44 +75,128 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- The Inner-City Arts logo was designed in 2008, inspired by the architectural forms of Michael Maltzan, reflecting its creative and dynamic character.
-- Primary colors for the logo include Pantone 032U, Pantone 172U, and Pantone Orange 021U with respective CMYK values. Secondary color is CMYK Gray.
-- 3-color and single-color versions of the logo are supported. The single-color version uses Pantone Orange 021U or CMYK (C: 0, M: 66, Y: 88, K: 0).
-- A minimum clear space of at least 0.25 inches around the logo must be maintained.
-- The logo should not be resized to smaller than 0.25 inches. Alteration of color, transparency, or design elements without approval is prohibited.
-- Usage restrictions: Logo use in marketing materials that are vulgar, sexually explicit, or imply adult content is strictly prohibited.
+##### Mission
 
-**Color Information:**
+- To engage young people in the creative process in order to shape a society of creative, confident and collaborative individuals [^1].
 
-- Pantone and CMYK values: Pantone Red 032U (C: 0, M: 90, Y: 86, K: 0), Pantone 172U (C: 0, M: 66, Y: 88, K: 0), Pantone Orange 021U (C: 0, M: 53, Y: 100, K: 0).
-- Primary colors should not appear in any hues except white or specific pre-approved solid colors to match marketing collateral.
-- Secondary color is defined as CMYK (C: 0, M: 0, Y: 0, K: 60).
+##### Core Values
 
-**Typography Information:**
+- creativity
+- confidence
+- collaboration
+- vibrancy
+- dynamic
+- multi-faceted
+- transformational
+- integrity
+- accessibility
+- community
+- education
+- personal growth
+- honoring human capacity for creativity
+- value cultivation in education of young people [^2]
 
-- Gotham Black and Gotham Bold are used for headlines and titles, conveying bold and impactful messages.
-- Adelle Sans is the main paragraph and body text font, being clean, spirited, and flexible.
-- Fallback standard sans-serif fonts like Helvetica and Arial can be used when primary fonts are unavailable.
+##### Target Audience
 
-**Imagery Photography:**
+- Young people, especially children and youth in Los Angeles, including those with Limited English Proficiency who are at risk of academic failure .
 
-- Required resolutions are 300 DPI for print, 72 DPI for email and web. All photographs need prior approval and consent by depicted individuals through photo release forms.
-- Photographs may be masked in simple shapes for visual consistency and impact.
+##### Personality Traits
 
-**Spacing Layout:**
+- vibrant
+- dynamic
+- multi-faceted
+- transformational
+- creative
+- confident
+- collaborative
+- spirited
+- personable
+- light
+- flexible [^2]
 
-- Logo must have a minimum padding/clear space of 0.25 inches around it to ensure visibility.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is bold, energetic, and vibrant, featuring large block letters in red, orange, and yellow, with dynamic, irregular arrangements. The logo is inspired by architectural forms and the creative environment, using clean geometric lines and a modern aesthetic. The color palette is primarily Pantone Red 032 U, Pantone 172 U, and Pantone Orange 021 U. Typography centers on Gotham Black and Gotham Bold for headlines, and Adelle Sans for body text. Visual style emphasizes creativity, movement, and urban artistic expression [^5].
 
-- The brand identity is vibrant, dynamic, multi-faceted, and symbolic of a transformational creative space, reflecting organizational values.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Brand guidelines strictly prohibit the use of the organization's name or logo without permission. Unauthorized reproduction for promotional or merchandising purposes is not allowed.
-- Brand extensions and sub-logos are inspired by the lines, shapes, and designs of spaces on the campus.
+- FOR PRINT I 300 DPI
+- FOR EMAIL I 72 DPI
+- FOR WEB I 72 DPI
+- All photographs must be approved by Inner­City Arts and any individuals depicted must consent via photo release. Image resolutions must be appropriate to the image's application.
+- For photo permission and approval, contact communications@inner-cityarts.org.
+- Photographs can be masked in simple shapes.
+
+##### Color Palette
+
+- SPOT COLOR PANTONE RED 032 U PANTONE 172 U PANTONE ORANGE 021 U
+- PROCESS COLOR C O / M 90 / y 86 / K 0 C O/M 66 / y 88 / K 0 C O / M 53 / y 100 / K 0
+- SECONDARY COLOR C O / M O / y O / K 60 C O / M O / y O / K 30
+- These 3 colors are our primary brand colors. The logo should not appear in any other hues except for when converted to white or, in some cases, a solid pre-approved color to match specific marketing collateral.
+- 3 COLOR LOGO Color logo should be presented with our 3 colors
+- 1 COLOR LOGO One color logo should be presented with Pantone Orange 021 U or C0/M66/Y88/K0
+- 1 COLOR LOGO One-color logo over dark-color background should be presented in white.
+
+##### Typography
+
+- DISPLAY FONT | GOTHAM BLACK
+- HEADLINE FONT | GOTHAM BOLD
+- Inner-City Arts primarily uses Gotham bold and Gotham black – bold, clear, and impactful – for headlines and in titles. Adelle Sans – clean, spirited, personable, light and flexible – is used as our main paragraph and body text in documents.
+- When neither fonts are available, a standard sans serif font, such as Helvetica and Arial, are acceptable in document applications.
+- PARAGRAPH 1 - HEADLINE | GOTHAM BOLD
+- PARAGRAPH 2 | ADELLE SANS - REGULAR
+- QUOTES | GOTHAM BOOK
+
+##### Logo Usage
+
+- Color logo should be presented with our 3 colors
+- One color logo should be presented with Pantone Orange 021 U or C0/M66/Y88/K0
+- One-color logo over dark-color background should be presented in white.
+- If placed on photography, ensure there is a strong enough contrast between the logo (in black or white) and the image.
+- Logo should have a minimum of a quarter inch space padding.
+- LOGO SHOULD NOT BE SMALLER THAN THIS SIZE
+- Never assign a new unapproved color to the logo or alter its transparency without permission. Never add-to, remove, or create design elements around the icon, unless otherwise approved.
+- The printing or sale of any Inner-City Arts-branded merchandise without permission and approval from Inner-City Arts is strictly prohibited.
+- Any mention of our organization and/or our logo should be excluded from any marketing or promotional material that is vulgar, sexually explicit, or references drug-use or adult content.
+- To make any use of our marks in a way that is not covered by these guidelines, please contact us at communications@inner-cityarts.org and include a visual mockup.
+- These 3 colors are our primary brand colors. The logo should not appear in any other hues except for when converted to white or, in some cases, a solid pre-approved color to match specific marketing collateral.
+
+##### Brand Values
+
+- In many ways, the Inner-City Arts brand is more than just a logo or font; our brand is the sum of who we are and what we do. Vibrant, dynamic, multi-faceted and representative of our transformational creative space, our brand identity is essential in communicating our values as an organization.
+- We created this document in order to share our branding standards and aid partners, supporters and third parties in promoting Inner-City Arts. These guidelines are provided to keep our brand focused and aligned with our vision. We appreciate your collaboration in maintaining the integrity of our visual identity.
+- We believe that the arts and creativity are transformational. Inner-City Arts envisions a society that honors the human capacity for creativity, and values its cultivation in the education of young people.
+- Our mission is to engage young people in the creative process in order to shape a society of creative, confident and collaborative individuals.
+
+##### Visual Style
+
+- SPOT COLOR PANTONE RED 032 U PANTONE 172 U PANTONE ORANGE 021 U
+- PROCESS COLOR C O / M 90 / y 86 / K 0 C O/M 66 / y 88 / K 0 C O / M 53 / y 100 / K 0
+- SECONDARY COLOR C O / M O / y O / K 60 C O / M O / y O / K 30
+- Color logo should be presented with our 3 colors
+- One color logo should be presented with Pantone Orange 021 U or C0/M66/Y88/K0
+- One-color logo over dark-color background should be presented in white.
+- If placed on photography, ensure there is a strong enough contrast between the logo (in black or white) and the image.
+- Logo should have a minimum of a quarter inch space padding.
+- LOGO SHOULD NOT BE SMALLER THAN THIS SIZE
+- Never assign a new unapproved color to the logo or alter its transparency without permission. Never add-to, remove, or create design elements around the icon, unless otherwise approved.
+- The printing or sale of any Inner-City Arts-branded merchandise without permission and approval from Inner-City Arts is strictly prohibited.
+- Any mention of our organization and/or our logo should be excluded from any marketing or promotional material that is vulgar, sexually explicit, or references drug-use or adult content.
+
+##### Layout And Composition
+
+- Logo should have a minimum of a quarter inch space padding.
+- LOGO SHOULD NOT BE SMALLER THAN THIS SIZE
+- If placed on photography, ensure there is a strong enough contrast between the logo (in black or white) and the image.
+
+##### Brand Extensions
+
+- Inspired by the relationship between our campus and logo, our design team utilized the lines, shapes and design of our spaces to develop logos for each program within our organization.
+- The initial lines drawn from the space transform, find balance, and take shape as a sub logo to visually express the program it is representing.
 
 ## Additional Properties
 

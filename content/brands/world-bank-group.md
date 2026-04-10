@@ -2,7 +2,7 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-03-20T08:22:05.797575"
+date: "2026-04-10T09:40:34.791804"
 draft: false
 sectors:
   - "public-sector"
@@ -52,20 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international financial institution
 wikidata_url: "https://www.wikidata.org/wiki/Q7164"
 has_twitter: false
@@ -91,34 +81,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Various logo configurations including horizontal and vertical versions, as well as black-and-white, full-color, grayscale, and white (reversed) formats. Mentions of file formats such as EPS, PNG, and TIFF.
-- Instructions for using specific partner logos such as the World Bank (IBRD and IDA), IFC, and MIGA.
-- DO NOTs for logo usage including avoiding alterations or creating unauthorized versions.
-
-**Color Information:**
-
-- Primary corporate blue, solid black, bright blue, and white are detailed, with mentions of PMS and HEX codes.
-- Secondary palette, including saturated, warm, and cool tones. HEX and RGB details provided.
-
-**Typography Information:**
-
-- Primary font family: Andes, with commonly used weights such as ExtraLight, Regular, and Bold.
-- Secondary font family: Arial, used for documents like PowerPoint and Word.
-
-**Imagery Photography:**
-
-- Promotes the use of the corporate color palette alongside photography. Specific guidelines for image placement included.
-- Photography on banners must balance logos and text.
-
-**Spacing Layout:**
-
-- Spacing and alignment rules for logos in special cases such as the Independent Evaluation Group (IEG), WBG Integrity VPU, and Inspection Panel.
-
-**Notes:**
-
-- General information about the World Bank Group Visual Identity and Branding Guidelines, February 2016.
+*Guidelines data not available*
 
 ## Additional Properties
 

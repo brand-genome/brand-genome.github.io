@@ -2,7 +2,7 @@
 title: Hobie Cat Worldwide
 slug: "hobie-cat-worldwide"
 description: ""
-date: "2026-03-20T08:22:04.182816"
+date: "2026-04-10T09:40:32.515772"
 draft: false
 sectors:
   - sports
@@ -47,25 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - horizontal
-brand_colors:
-  - red
-  - green
-  - "pantone-450"
-  - "pantone-1797"
-  - white
-  - cyan
-  - grey
-  - blue
-  - orange
-  - black
-typographies:
-  - din
-  - script
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -84,34 +69,66 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- Flying H Logo: Approved version of the Hobie Cat Flying H Logo. Sizing note: When the Flying H logo is large, the ® is half the height of the 'H''s leg. Below 0.75 inches in height, the ® matches the leg of the H.
-- Color Versions of the Flying H logo: Preferred background is white. Reversal allowed on black only when color is not possible. Ensure proper contrast and leave space around the logo.
-- Hobie Cat Script Logos: The Script logo approved has variations for Blue (Pantone Process Cyan C) and Black.
-- Horizontal and Stacked versions of the Hobie Cat Logo presented.
-- Hobie Cat Division Logos: Includes logos for Kayaking, Fishing, Sailing, Island Club, Stand Up Paddleboards.
-- MirageDrive® Logos: Blue and Black/White versions.
-- eVolve™ Logos: Includes eVolve in full color and black/white.
+##### Mission
 
-**Color Information:**
+- To communicate a clear and consistent public identity for Hobie Cat, projecting quality, professionalism, and the brand's mission through unified visual presentation and strict adherence to graphic standards and logo usage policies.
 
-- Flying H Logo: Use approved color schemes (details not explicitly listed in the extracted text, but likely referencing white on black versions).
-- Hobie Cat Script Logo Colors: Color defined as Pantone Process Cyan C, CMYK (C:100, M:0, Y:0, K:0), RGB (R:0, G:174, B:239).
-- Diamond Logos utilize various colors such as Process Cyan C (Blue), Pantone 450 C (Green), and Pantone 1797 C (Red) with exact CMYK and RGB values provided.
-- Division Logos: Includes red (Pantone 1797C), green (Pantone 450C), blue, white, and black variants with specific values for CMYK, RGB, and white combinations.
-- MirageDrive Logos use Pantone Cyan Process C and Black with defined RGB, CMYK.
-- eVolve Logos use Pantone 158C (Orange), Pantone 355C (Green), and Grey with defined values for RGB, CMYK.
+##### Core Values
 
-**Typography Information:**
+- quality
+- professionalism
+- consistency
 
-- Approved Fonts: DIN Black, DIN Bold, DIN Regular for Hobie Cat visual communications.
+##### Target Audience
 
-**Spacing Layout:**
+- Dealers, representatives, and the public engaging with Hobie Cat through products, publications, advertisements, and other forms of communication.
 
-- Required clear space: At least half the height of the logo must be left as free space around all logos (Flying H, Hobie Cat, Diamond, Script, Division, MirageDrive, eVolve).
+##### Personality Traits
 
-**Notes:**
+- dynamic
+- modern
+- energetic
+- professional
 
-- Improper Logo Usage: Do not stretch, rotate, vary colors, manipulate relationships, or use logos smaller than defined minimum sizes.
-- Minimum Sizes Defined: Minimum size for Flying H (1 inch), Script Logo (specific proportions), Hobie Cat Logo (1.5 inches), and others.
+##### Visual Identity Overview
+
+- The visual identity is defined by strict logo usage standards, approved color palettes, clear typography guidelines, and consistent application across all brand touchpoints. Logos are used with specific color systems, backgrounds, and sizing requirements to ensure clarity and impact.
+
+#### Categories
+
+##### Logo Usage
+
+- When the Flying H Logo appears at a large size, the® is half the height of the leg of the H. When it appears smaller than .75" tall, the® is the same height of the leg.
+- This is the approved color for use in the Hobie Cat Flying H logo. Black C 0 R 0 M 0 G 0 Y 0 B 0 K 100
+- The preferred use of the Flying H logo is on a white background.
+- When using the logo in a color background, proper contrast is essential. Color should not compete with the logo.
+- Logo is acceptable reversed out of black only when color is not an option. Be sure to leave ample free space around the logo to avoid the impression that it is confined within a shape.
+
+##### Color Palette
+
+- This is the approved color for use in the Hobie Cat Flying H logo. Black C 0 R 0 M 0 G 0 Y 0 B 0 K 100
+- The preferred use of the Flying H logo is on a white background.
+- When using the logo in a color background, proper contrast is essential. Color should not compete with the logo.
+- Logo is acceptable reversed out of black only when color is not an option. Be sure to leave ample free space around the logo to avoid the impression that it is confined within a shape.
+
+##### Typography
+
+- The fonts used for all hobie cat communications are: din Black ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz din Bold aBcdeFGhiJkLmnopQrsTUVWXyZ abcdefghijklmnopqrstuvwxyz din regular ABcDEFGhiJKLMnopQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+
+##### Visual Style
+
+- When the Flying H Logo appears at a large size, the® is half the height of the leg of the H. When it appears smaller than .75" tall, the® is the same height of the leg.
+- This is the approved color for use in the Hobie Cat Flying H logo. Black C 0 R 0 M 0 G 0 Y 0 B 0 K 100
+- The preferred use of the Flying H logo is on a white background.
+- When using the logo in a color background, proper contrast is essential. Color should not compete with the logo.
+- Logo is acceptable reversed out of black only when color is not an option. Be sure to leave ample free space around the logo to avoid the impression that it is confined within a shape.
+
+##### Brand Imagery
+
+- When the Flying H Logo appears at a large size, the® is half the height of the leg of the H. When it appears smaller than .75" tall, the® is the same height of the leg.
+- This is the approved color for use in the Hobie Cat Flying H logo. Black C 0 R 0 M 0 G 0 Y 0 B 0 K 100
+- The preferred use of the Flying H logo is on a white background.
+- When using the logo in a color background, proper contrast is essential. Color should not compete with the logo.
+- Logo is acceptable reversed out of black only when color is not an option. Be sure to leave ample free space around the logo to avoid the impression that it is confined within a shape.

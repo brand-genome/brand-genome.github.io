@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-03-20T08:22:04.197887"
+date: "2026-04-10T09:40:32.555222"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
-  - canada
   - "united-states"
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
-  - "commercial-vehicle"
   - "pickup-truck"
+  - "commercial-vehicle"
+  - truck
 products: []
 headquarters_locations:
   - "auburn-hills"
@@ -56,18 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-  - badge
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
-  - product
+imagery_styles: []
 wikidata_description: "American brand of light to mid-weight commercial vehicles"
 wikidata_url: "https://www.wikidata.org/wiki/Q165708"
 has_twitter: false
@@ -87,34 +79,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The Ram brand mark includes two versions: a vertical and horizontal version. Both consist of a logotype and badge, and must be used together unless otherwise permitted for product design use.
-- The area of isolation (or free space) must equal the height of the 'R' in 'Ram' for both horizontal and vertical versions of the Ram brand mark.
-- The Ram brand mark must never be altered or combined with other graphic elements like text, illustrations, or other logos. Alterations such as outlining, drop shadows, or color changes are prohibited.
-- Minimum size for brand marks: 11mm in width for the vertical version, 16mm for the horizontal version. For embossed or engraved marks, the minimum width is 11mm (vertical) and 20mm (horizontal).
-- The Ram brand mark can be produced in grayscale (dimensional raster) for certain applications or as one-color vector artwork in Ram Black (process black). It may also be reversed (white on black).
-
-**Color Information:**
-
-- Approved colors for the vector Ram brand mark include Ram Black (Process Black). HEX: #000000, CMYK: C:0 M:0 Y:0 K:100.
-
-**Typography Information:**
-
-- The term 'typeface' refers to unique alphabets or font families. Examples provided include Trade Gothic Light, Trade Gothic Regular, and Trade Gothic Bold No. 2.
-
-**Spacing Layout:**
-
-- Area of isolation for the Ram brand mark should always maintain clear space equivalent to the height of the 'R' in 'Ram'.
-- Free space must be maintained around the Ram brand mark when used alongside other logos. Adequate spacing as defined on page 4 must be adhered to.
-
-**Brand Voice:**
-
-- The Ram brand name should not appear in headlines or text using the logotype. It must be typed in the same font as the rest of the text, always capitalizing the first letter when used.
-
-**Notes:**
-
-- Requests to deviate from these guidelines must be reviewed and approved by the Corporate Identity and Design office. Artwork for the Ram brand mark is available at www.FCACI.com.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -124,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/) |
+| Product Or Material Produced | [Pickup Truck](/products_or_materials_produced/pickup-truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Auburn Hills](/headquarters_locations/auburn-hills/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Auburn Hills |

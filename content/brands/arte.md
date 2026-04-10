@@ -2,7 +2,7 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-03-20T08:22:04.551468"
+date: "2026-04-10T09:40:33.345615"
 draft: false
 sectors:
   - broadcasting
@@ -11,17 +11,17 @@ regions:
   - france
 years:
   - 2016
-  - 2008
   - 2017
-  - 2011
+  - 2008
   - 2013
+  - 2011
 languages:
-  - french
   - english
+  - french
 tags:
-  - broadcast
-  - media
   - mobile
+  - media
+  - broadcast
   - featured
   - "social-networks"
 industries: []
@@ -60,16 +60,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - orange
-  - blue
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - dynamic
-  - illustration
-  - monochrome
+imagery_styles: []
 wikidata_description: "Franco-German television channel and network"
 wikidata_url: "https://www.wikidata.org/wiki/Q8073"
 has_twitter: false
@@ -88,101 +81,479 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- The Arte Info logo is available in 3 versions: Logo, Picto, Logo Partnership. Logo usage is for antennas, communication, and editions. Picto usage is for signage, avatars, and icons. Logo Partnership is for placement on posters and signage where marking space is limited.
-- Security zones for each version are defined by proportion rules depending on the size of the pictogram. Includes diagrams for Logo, Picto, and Logo Partnership.
-- Declination examples and file formats include ARTE-INFO BLEU in CMYK or Pantone (AI files).
+##### Mission
 
-**Color Information:**
+- The brand centers its platforms and services around the concept of 'Direct', positioning Arte as the origin point in a constellation of media offerings, emphasizing logical and harmonious organization based on chromatic principles [^1].
 
-- Orange color specifications - PANTONE: 172C, RGB: R250 G72 B28, CMYK: C0 M80 Y100 K0
-- Blue color specifications - PANTONE: 3005C, RGB: R27 G122 B187, CMYK: C100 M37 Y0 K0
+##### Core Values
 
-**Imagery Photography:**
+- clarity
+- modernity
+- minimalism
+- harmonious organization
 
-- Conceptual alignment of services described as a galaxy with 'Direct' at the center. Visual themes include additive synthesis aligning blue and orange.
+##### Target Audience
 
-**Spacing Layout:**
+- Viewers and users of Arte's platforms, including those seeking creative, informative, and cinematic content, organized around a central media hub [^2].
 
-- Rules for safe zones and proportional spacing depending on the size of the pictogram across different logo versions.
+##### Personality Traits
 
-**Notes:**
+- modern
+- creative
+- informative
+- minimalist
 
-- Platforms and services visually aligned as a galaxy with color themes harmonized based on their positions on the chromatic circle. White light responds to orange as central visual imagery.
+##### Visual Identity Overview
+
+- The visual identity features bold, lowercase red-orange 'arte' text, clean white backgrounds, modern sans-serif typography, and concentric circular motifs. The color palette is distributed logically across platforms, with orange and blue as key colors, and logo usage is defined for various contexts. The style is minimalist, technical, and data-driven, with emphasis on clarity and visual impact [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- ![**Red 'arte' Text on White Background** - The image should display the word 'arte' in large, bold, lowercase letters aligned horizontally along the bottom of the image, with the letters colored in a vivid shade of red-orange. The background should be plain white, providing a stark contrast that emphasizes the text. The text 'arte' is prominent and eye-catching, with a modern, sans-serif font style that features thick strokes and slightly rounded edges. The size of the text dominates the lower part of the image, leaving ample empty space above for a clean, minimalist composition. There are no additional graphical elements, textures, or visual distractions in the image, focusing solely on the stylized text.](page_0-AD251211-2030-1182-ADBE-000000001726)
+- ![**Complex Radar Chart Illustration** - The image depicts a complex, multi-layered radar chart with several concentric circles and radial axes, overlaid with graphical and textual elements. Central to the chart is a radial bar composed of three segments, colored green, red, and purple, extending outward from the center, with each segment containing icons and labels: the green segment has an upward arrow and the label 'LIVE', the red segment has a plus sign ' + ' and the label '+AR/TC', and the purple segment features a power icon with the label 'OBJECT'. Surrounding this central structure are smaller, circular icons connected by dashed lines, representing various elements labeled with terms like 'TV', '+7', and '?'. These icons are primarily in orange and red, with some outline variations. The background comprises multiple concentric circles with radiating lines, creating a layered, radar-like appearance, and includes grid lines and labels such as 'PLATFORMS' and 'FUTURE'. The entire diagram has a technical, data visualization style, with precise geometric arrangements, a color palette of red, orange, green, purple, and blue, and textual annotations for clarity. The overall scene appears to visualize some form of strategic or technical mapping, with emphasis on the central segmented structure and related peripheral icons, set against a neutral, light background.](page_1-AD251211-2030-1182-ADBE-000000001741)
+- ![**Arte Info Logo Design** - The image should feature a white background with a logo consisting of two main textual elements and a graphic symbol. The first text element is 'arte' in bold, lowercase letters, colored red, positioned on the left side of the image. Adjacent to it, towards the right, is the word 'INFO' in uppercase letters, rendered in a lighter blue color and with a thinner font weight. To the right of the text, there is a circular graphic motif resembling a stylized radar or target symbol, composed of concentric circles and radial lines, all depicted in a darker blue shade. The overall composition is centered horizontally, with the logo's elements evenly spaced and balanced, designed to symbolize information or media related to art, with a clean and modern aesthetic.
+- [Figure description: **Arte Info Logo Design** - The image should feature a white or light gray background with prominent text displaying the word 'arte' in large, bold, red-orange letters centered in the upper half. Below 'arte,' the word 'INFO' should be present in smaller, uppercase, blue letters. To the right of the text, there should be a circular, target-like graphic composed of concentric blue rings with a central dot, resembling a radar or aiming reticle, with the rings increasing in size and spacing; this graphic overlaps the lower right part of the word 'arte,' integrating seamlessly into the overall design. The overall aesthetic is clean, modern, and minimalistic, emphasizing clarity and visual impact, with no additional elements or decorations.]
+- ![**Blue Circular Maze Diagram** - The image depicts a circular maze with multiple concentric rings connected by a series of branching paths, all rendered in blue on a light gray background. The maze's outermost ring is incomplete, with gaps allowing entry or exit points. The paths within the maze are evenly spaced, forming a symmetrical pattern from the center outward, with some paths linked by small perpendicular corridors. The maze design appears to be a top-down, schematic view, emphasizing geometric precision and symmetry. There are no additional objects, symbols, or textual elements visible in the image.
+- [Figure description: **Abstract Circular Pattern Design** - The image contains three side-by-side panels, each with a similar layout but different arrangements. The background is divided into two horizontal zones: a dark gray upper section occupying about one-third of the height, and a lighter gray lower section. In each panel, there's a large, bold, gray text that reads 'arte' on the left side, partially cut off or truncated. Next to 'arte', in each panel, is the word 'INFO' in uppercase, with a slightly smaller font size. Surrounding the text are target-like concentric circle patterns: centered around the 'INFO' text are multiple circular rings with alternating darker and lighter shades, suggesting a rippling or focusing effect. On the left, center, and right sides of each panel are circles of varying sizes, positioned at different distances from the center. In the first panel, the circles are positioned with one large circle on the far left, a smaller circle just right of center, another circle near the middle, and one on the far right, with the concentric circles emanating from the 'INFO' area in the middle. The second panel features similar elements but with different arrangements: the circles are more symmetrically placed around the central ripples, and the concentric circles are more prominently centered over 'INFO'. The third panel again has variations: the circles are positioned differently—some overlapping the text 'arte', with the concentric rings shifted to the right, and some circles are larger, with a different pattern of placement compared to the other panels. The overall composition emphasizes the 'arte' and 'INFO' text surrounded by radiating concentric rings and circular elements, with a consistent color palette of grays and a clear visual focus around the central circular ripple patterns.]
+- ![**Contrast of Red and Blue Pillars** - The image features two vertically oriented, pillar-like shapes, each with a rounded top and a slightly narrower middle section, resembling stylized barrels or columns. The shape on the left is uniformly colored in bright red, while the one on the right is uniformly colored in dark blue. Both shapes have a flat bottom and are positioned side by side with a small space between them, centered against a white background. There are no additional objects, patterns, or text present in the image, making the entire composition simple and symmetrical, emphasizing the contrasting colors and identical structures of the two shapes.]
+
+##### Color Palette
+
+- Les couleurs des plateformes sont régies selon qu’“Arte+7” doit en tant que service être rattaché au orange d’“Arte”. Partant de ce principe, les couleurs des plateformes sont donc distribuées logiquement et harmonieusement selon leur position sur le cercle chromatique.
+- La filiale “Arte Cinéma” sort de la constellation des plateformes. Elle est alignée dans l'axe Orange et Bleue dans une zone régie par la synthèse additive et elle en devient blanche. Le blanc, c'est la lumière venant en réponse à la couleur Orange.
+- ARTE INFO R 250 R 27 G 72 G 122 B 28 B 187 C 0 C 100 M 80 M 37 J 100 J 0 N 0 N 0 PANTONE PANTONE 172C 3005C
+
+##### Logo Usage
+
+- Le logo Arte Info est disponible en 3 versions
+- Logo: Usage antenne, communication ou édition
+- Picto: Usage signalétique, avatar, icône
+- Logo Partenariat : Version à utiliser dans le cas de partenariat pour être placer sur des affiches ou sur des éléments signalétiques nécessitant un espace de marquage plus réduit.
+- Les zones de sécurité de chaque version sont définies selon des règles de proportions dépendantes de la taille du pictogramme
+- ARTE INFO R 250 R 27 G 72 G 122 B 28 B 187 C 0 C 100 M 80 M 37 J 100 J 0 N 0 N 0 PANTONE PANTONE 172C 3005C
+- ARTE-INFO-BLEU-CMJN.AI ARTE-INFO-BLEU-PANTONE.AI ARTE-INFO-BLEU-RVB.AI ARTE-INFO-BLANC-CMJN.AI ARTE-INFO-BLANC-PANTONE.AI ARTE-INFO-BLANC-RVB.AI ARTE-INFO-MONOCHROME-CMJN.AI ARTE-INFO-MONOCHROME-PANTONE.AI ARTE-INFO-MONOCHROME-RVB.AI
+- ARTE-INFO-BLANC-CMJN.AI ARTE-INFO-BLANC-PANTONE.AI ARTE-INFO-BLANC-RVB.AI ARTE-INFO-MONOCHROME-CMJN.AI ARTE-INFO-MONOCHROME-PANTONE.AI ARTE-INFO-MONOCHROME-RVB.AI
+
+##### Visual Style
+
+- The image should display the word 'arte' in large, bold, lowercase letters aligned horizontally along the bottom of the image, with the letters colored in a vivid shade of red-orange. The background should be plain white, providing a stark contrast that emphasizes the text. The text 'arte' is prominent and eye-catching, with a modern, sans-serif font style that features thick strokes and slightly rounded edges. The size of the text dominates the lower part of the image, leaving ample empty space above for a clean, minimalist composition. There are no additional graphical elements, textures, or visual distractions in the image, focusing solely on the stylized text.
+- Les couleurs des plateformes sont régies selon qu’“Arte+7” doit en tant que service être rattaché au orange d’“Arte”. Partant de ce principe, les couleurs des plateformes sont donc distribuées logiquement et harmonieusement selon leur position sur le cercle chromatique.
+- La filiale “Arte Cinéma” sort de la constellation des plateformes. Elle est alignée dans l'axe Orange et Bleue dans une zone régie par la synthèse additive et elle en devient blanche. Le blanc, c'est la lumière venant en réponse à la couleur Orange.
+- Le logo Arte Info est disponible en 3 versions
+- Logo: Usage antenne, communication ou édition
+- Picto: Usage signalétique, avatar, icône
+- Logo Partenariat : Version à utiliser dans le cas de partenariat pour être placer sur des affiches ou sur des éléments signalétiques nécessitant un espace de marquage plus réduit.
+- Les zones de sécurité de chaque version sont définies selon des règles de proportions dépendantes de la taille du pictogramme
+- ARTE INFO R 250 R 27 G 72 G 122 B 28 B 187 C 0 C 100 M 80 M 37 J 100 J 0 N 0 N 0 PANTONE PANTONE 172C 3005C
+
+##### Iconography
+
+- Le logo Arte Info est disponible en 3 versions Logo: Usage antenne, communication ou édition Picto: Usage signalétique, avatar, icône Logo Partenariat : Version à utiliser dans le cas de partenariat pour être placer sur des affiches ou sur des éléments signalétiques nécessitant un espace de marquage plus réduit.
+- Les zones de sécurité de chaque version sont définies selon des règles de proportions dépendantes de la taille du pictogramme
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- The Arte logo is described as simple, bold, and elegant, representing the channel’s identity as 'Europe’s Culture Magnet.' Specific guidelines emphasize that the logo must not be redrawn or amended, and details of on-screen use can be found in the official Brand Guidelines.
+##### Mission
 
-**Imagery Photography:**
+- Promote and accelerate the reconquest of biodiversity in Brittany, emphasizing environmental awareness and ecological action.
 
-- The material uses categories such as brand idents, stings, and programme idents to maintain a cohesive visual identity across social media. The imagery supports messaging and content when dedicated program-specific visuals are unavailable. Headers on social media avoid combining the logo with imagery because the logo already exists as an avatar next to headers.
+##### Core Values
 
-**Notes:**
+- biodiversity
+- regional identity
+- environmental awareness
+- sustainability
 
-- This guide provides instructions for maintaining the Arte brand’s guidelines across social media and emphasizes proper logo usage, cautioning against redrawing or altering the logo.
+##### Target Audience
+
+- Individuals and organizations interested in biodiversity and environmental issues in Brittany, including the general public, professionals, and stakeholders.
+
+##### Personality Traits
+
+- modern
+- colorful
+- professional
+- friendly
+- educational
+
+##### Visual Identity Overview
+
+- The visual identity is characterized by vibrant colors (yellow, blue, green), geometric shapes, bold typography, and a clean, modern layout. The logo features interlocking loops and is paired with the hashtag #biodiversitéBZH. Visuals include nature imagery, badges, and consistent use of color and typography to reinforce the brand's ecological and regional focus.
+
+#### Categories
+
+##### Brand Imagery
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Color Palette
+
+- Noir & Blanc En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+
+##### Typography
+
+- les typographies les titres et sous-titres Playtime One Regular Kumbh Sans Light Kumbh Sans Regular Exemple la journée
+- Dans Canva, la typographie de substitution à la Kumbh est la Montserrat Classic en Bold pour les sous-titres.
+
+##### Logo Usage
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Visual Style
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Layout And Composition
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Digital Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Print Guidelines
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Social Media Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
 
 ### 2016
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Promote and accelerate the reconquest of biodiversity in Brittany, emphasizing environmental awareness and ecological action.
+
+##### Core Values
+
+- biodiversity
+- regional identity
+- environmental awareness
+- sustainability
+
+##### Target Audience
+
+- Individuals and organizations interested in biodiversity and environmental issues in Brittany, including the general public, professionals, and stakeholders.
+
+##### Personality Traits
+
+- modern
+- colorful
+- professional
+- friendly
+- educational
+
+##### Visual Identity Overview
+
+- The visual identity is characterized by vibrant colors (yellow, blue, green), geometric shapes, bold typography, and a clean, modern layout. The logo features interlocking loops and is paired with the hashtag #biodiversitéBZH. Visuals include nature imagery, badges, and consistent use of color and typography to reinforce the brand's ecological and regional focus.
+
+#### Categories
+
+##### Brand Imagery
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Color Palette
+
+- Noir & Blanc En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+
+##### Typography
+
+- les typographies les titres et sous-titres Playtime One Regular Kumbh Sans Light Kumbh Sans Regular Exemple la journée
+- Dans Canva, la typographie de substitution à la Kumbh est la Montserrat Classic en Bold pour les sous-titres.
+
+##### Logo Usage
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Visual Style
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Layout And Composition
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Digital Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Print Guidelines
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Social Media Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
 
 ### 2008
 
-**Logo Information:**
+#### Brand Summary
 
-- le logo ARTE : le logo ARTE ne doit pas être coupé. le logo ARTE ne doit pas apparaître en contours. couleur différente. la composition typographique du logo ARTE ne doit pas être modifiée. le logo ARTE ne peut avoir une inclinaison autre que -4° par rapport à l’horizontale. le logo ARTE ne doit pas être encadré, apparaître en transparence, ni être noir. Das ARTE-logo darf nicht angeschnitten, umgefärbt oder in schwarz gesetzt werden. Die Proportionen dürfen nicht geändert werden.
-- le logo ARTE peut être placé dans le cartouche dans le respect des règles établies. Das Podest darf nicht verzerrt werden. Les proportions du cartouche ne peuvent être modifiées. Le logo ARTE doit impérativement être incliné lorsqu’il figure dans le cartouche. Das ARTE-logo darf nicht gerade innerhalb des Podestes stehen. Das Podest darf nicht frei im Bild stehen. Das Podest darf nur mit der breiteren Seite ins Bild reinragen.
-- le logo ARTE ne peut être blanc, ni en transparence. Der farbverlauf darf nicht zu weiß gehen. Le cartouche ne peut être monochrome, ni surmonté d’une bande. Das Podest darf nicht einfarbig verwendet werden. Le dégradé ne peut jamais se terminer sur du noir ou du gris. Der Farbnverlauf darf nie zu schwarz oder grau gehen.
+##### Mission
 
-**Color Information:**
+- Promote and accelerate the reconquest of biodiversity in Brittany, emphasizing environmental awareness and ecological action.
 
-- Le serveur contient des cartouches dans les 4 perspectives et les différents dégradés de couleurs. Disponibles sous forme fichier Illustrator .eps et .jpg. Hyperlink: ftp://transfert.artepro.com.
-- Dans Illustrator, le cartouche est dessiné à l’aide de la fonction 'Objet/Dégradé de formes'. Les paramètres doivent être vérifiés afin d’éviter les cascades de couleurs. Illustration permet de supprimer le logo ARTE pour utiliser le cartouche seul.
+##### Core Values
 
-**Typography Information:**
+- biodiversity
+- regional identity
+- environmental awareness
+- sustainability
 
-- La composition typographique du logo ARTE ne doit pas être modifiée. Les lettres composant le logo ARTE doivent suivre les proportions définies.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and organizations interested in biodiversity and environmental issues in Brittany, including the general public, professionals, and stakeholders.
 
-- Le cartouche ne peut apparaître deux fois sur une même page. Ne peut être surmonté d’une bande ou placé librement. Das Podest darf nicht mehrmals auf einer Seite erscheinen.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- colorful
+- professional
+- friendly
+- educational
 
-- Les proportions du cartouche et du logo ARTE doivent impérativement être respectées. Aucun élément étranger ne doit perturber l’espace vide autour du logo ARTE.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is characterized by vibrant colors (yellow, blue, green), geometric shapes, bold typography, and a clean, modern layout. The logo features interlocking loops and is paired with the hashtag #biodiversitéBZH. Visuals include nature imagery, badges, and consistent use of color and typography to reinforce the brand's ecological and regional focus.
 
-- Les fichiers disponibles incluent différents color mappings et perspectives correctement sauvegardés sur ARTE serveurs.
+#### Categories
+
+##### Brand Imagery
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Color Palette
+
+- Noir & Blanc En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+
+##### Typography
+
+- les typographies les titres et sous-titres Playtime One Regular Kumbh Sans Light Kumbh Sans Regular Exemple la journée
+- Dans Canva, la typographie de substitution à la Kumbh est la Montserrat Classic en Bold pour les sous-titres.
+
+##### Logo Usage
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Visual Style
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Layout And Composition
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Digital Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Print Guidelines
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Social Media Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Page 4: C O R P O R AT E D E S I G N – P R I N T C H A R T E G R A P H I Q U E Log o e t Li g n e s ZO N E D E P R OT E C T I O N : L E LO G O A R T E P E U T Ê T R E D I S P O S É L I B R E M E N T E N R E S P E C TA N T L A Z O N E D E P R OT E C T I O N . L’ E S PAC E M I N I M U M E S T R E P R É S E N T É P A R L A H A U T E U R E T L A L A R G E U R ( F Û T ) D U « R ».
+##### Mission
 
-**Color Information:**
+- Promote and accelerate the reconquest of biodiversity in Brittany, emphasizing environmental awareness and ecological action.
 
-- Page 6: C o r p o r at e d e s i g n – p r i n t C H A R T E G R A P H I Q U E Co U Le U r a n C i e n C : 0 M : 78 Y: 100 K : 0 R : 255 G : 96 B : 29 PA N TO N E : 1505 C L E LO G O A R T E C O N S E R V E S O N A N C I E N N E F O R M E D E M A R Q U E G É N É R I Q U E M A I S P R E N D U N O R A N G E P L U S S O U T E N U , C O U L E U R Q U I L U I C O N F È R E D U DY N A M I S M E .
+##### Core Values
 
-**Typography Information:**
+- biodiversity
+- regional identity
+- environmental awareness
+- sustainability
 
-- Page 13: G O T H A M E S T U T I L I S É E AV E C L E S S T Y L E S D E P O L I C E S U I VA N T S L i g H t ( L É g e r ) U N I Q U E M E N T DA N S L E S P U B L I C AT I O N S A R T E D E H A U T E T E N U E E T F O R T E M E N T A X É E S S U R L’ I M AG E D E L A C H A Î N E .
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and organizations interested in biodiversity and environmental issues in Brittany, including the general public, professionals, and stakeholders.
 
-- Page 25: L E S I M AG E S P E U V E N T Ê T R E P R E S E N T E E S DA N S U N E F O R M E / S H A P E M e s s ag e C L A I R E T S I M P L E i M paC t s U r L’ i M ag e d ’a r t e FA I B L E À M OY E N S C U L P T U R E C O M M E T E X T U R E DA N S U N E F O R M E / S H A P E .
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- colorful
+- professional
+- friendly
+- educational
 
-- Page 28: C o r p o r at e d e s i g n – p r i n t C H A R T E G R A P H I Q U E – L A F O R M E / S H A P E – V E C T E U R D ’ I N F O R M AT I O N + S C U L P T U R E C O N TO U R S D E L A S C U L P T U R E Va r i a n t e
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is characterized by vibrant colors (yellow, blue, green), geometric shapes, bold typography, and a clean, modern layout. The logo features interlocking loops and is paired with the hashtag #biodiversitéBZH. Visuals include nature imagery, badges, and consistent use of color and typography to reinforce the brand's ecological and regional focus.
 
-- Page 6: The logo retains a dynamic Pantone color 1505 C providing vibrancy and a connection to Arte's branding across format consistency.
+#### Categories
+
+##### Brand Imagery
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Color Palette
+
+- Noir & Blanc En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+
+##### Typography
+
+- les typographies les titres et sous-titres Playtime One Regular Kumbh Sans Light Kumbh Sans Regular Exemple la journée
+- Dans Canva, la typographie de substitution à la Kumbh est la Montserrat Classic en Bold pour les sous-titres.
+
+##### Logo Usage
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Visual Style
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Layout And Composition
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Digital Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Print Guidelines
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Social Media Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
 
 ## Additional Properties
 

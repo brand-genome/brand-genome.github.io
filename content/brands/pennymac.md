@@ -2,11 +2,11 @@
 title: PennyMac
 slug: pennymac
 description: ""
-date: "2026-03-20T08:22:04.181506"
+date: "2026-04-10T09:40:32.506793"
 draft: false
 sectors:
-  - "real-estate"
   - finance
+  - "real-estate"
 regions:
   - usa
 years:
@@ -53,15 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-brand_colors:
-  - white
-  - cyan
-  - blue
-  - yellow
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American residential mortgage company
@@ -85,24 +78,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logo variants are available in full color, grayscale, and solid treatments. Full color is preferred unless technical limitations apply. Solid versions can be black, white, or a single color.
-- Examples of incorrect logo usage include using drop shadows, other colors, outlines, unapproved lockups, rotations, backgrounds, tight tracking, or squeezing.
-- Whitespace guidelines mandate minimum spacing of 2x the mark in the lockup, regardless of scale.
-
-**Color Information:**
-
-- Primary palette includes brand element colors. Details like PennyMac Blue (#003087, PMS 287), Cyan (#31AFDF, PMS 2915), Yellow (#F1C400, PMS 7406), and Charcoal (#333333).
-
-**Spacing Layout:**
-
-- Alignment and proportions are crucial for layouts, focusing on consistent spacing around key brand elements.
-- Alignment and proportions are crucial for layouts, focusing on consistent spacing around key brand elements.
-
-**Brand Voice:**
-
-- PennyMac adopts the persona of a 'Helpful Neighbor,' emphasizing emotional investment, shared aspirations, and community-oriented communication.
+*Guidelines data not available*
 
 ## Additional Properties
 

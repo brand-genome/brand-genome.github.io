@@ -2,7 +2,7 @@
 title: University of Limerick
 slug: "university-of-limerick"
 description: ""
-date: "2026-03-20T08:22:04.391376"
+date: "2026-04-10T09:40:33.119763"
 draft: false
 sectors:
   - education
@@ -74,6 +74,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

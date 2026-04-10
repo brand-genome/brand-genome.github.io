@@ -2,11 +2,11 @@
 title: Umbro
 slug: umbro
 description: ""
-date: "2026-03-20T08:22:04.850814"
+date: "2026-04-10T09:40:33.589208"
 draft: false
 sectors:
-  - sports
   - fashion
+  - sports
   - footwear
 regions:
   - "united-kingdom"
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries:
   - "united-kingdom"

@@ -2,12 +2,12 @@
 title: Solar Edge
 slug: "solar-edge"
 description: ""
-date: "2026-03-20T08:22:05.160342"
+date: "2026-04-10T09:40:34.004381"
 draft: false
 sectors:
-  - "renewable-energy"
-  - software
   - hardware
+  - software
+  - "renewable-energy"
 regions:
   - israel
 years:
@@ -48,16 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
-  - orange
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,24 +72,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Color Information:**
-
-- Brand colors setup includes Red (RGB 255, 50, 50), White (RGB 255, 255, 255), Dark Blue (RGB 0, 20, 70), and Orange (RGB 255, 110, 30).
-
-**Typography Information:**
-
-- The primary typeface mentioned is 'Segoe UI'.
-- Typography emphasis includes Bold text usage.
-
-**Brand Voice:**
-
-- We believe that a continuous improvement in the ways we produce and consume energy will lead to a better future for us all.
-- Through engineering excellence and relentless innovation, we drive progress by creating the smart energy solutions that power the future.
-- Performance, Control, Elite Engineering, Global Expertise, and Industry Leadership are emphasized as personality traits making the brand a preferred partner.
-- The brand voice includes traits such as being clear, intelligent, and accessible.
-- The brand aims to occupy a unique space in the customer's mind, focusing on being innovative, reliable, and optimistic in energy solutions.
-- 'Question Everything. Imagine the Impossible. Create the Future.' acts as guiding principles.
-
-**Notes:**
-
-- The document appears to highlight brand traits and some structural guidelines but lacks clear images or measurable specifics regarding logo versions, spacing, and boundaries.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: EMT Madrid
 slug: "emt-madrid"
 description: ""
-date: "2026-03-20T08:22:04.299999"
+date: "2026-04-10T09:40:32.978924"
 draft: false
 sectors:
   - "public-transportation"
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - clean
-  - dynamic
+imagery_styles: []
 wikidata_description: "company charged with the planning of public urban transport in the city in Madrid, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q1094755"
 has_twitter: false
@@ -83,37 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The brand includes a logo and an isotipo (icon/logo symbol). Specific versions include the principal version, horizontal version, and version with a tagline. Additional details on the reproductions include versions on backgrounds: blue, positive, and negative. Construction, clear space/safe zone guidelines, and tests for minimum size requirements are detailed.
-- The spacing around the logo includes an area of safety specified in the manual ('área de seguridad y acotaciones'). This ensures the logo remains visually clean and unimpeded.
-- Minimum size requirements ('tamaño mínimo') for logo digital or physical reproductions are defined in the document.
-- Guidelines for the use and misuse of logos are provided, with examples of incorrect usage ('Usos incorrectos').
-
-**Color Information:**
-
-- Primary brand colors and corporate colors are specified, including the main brand color and additional colors for sub-brands. Gradients are also detailed.
-
-**Typography Information:**
-
-- Typography guidelines include corporate typography for branding, text typography for general use, and alternative typography.
-
-**Spacing Layout:**
-
-- Safe zone and spatial arrangement rules for the logo ensure brand clarity and distinctiveness.
-
-**Brand Voice:**
-
-- The document states a commitment to defining a recognizable brand language for communicating targeted and consistent branding to clients and citizens.
-- The document highlights the importance of external visibility of branding, especially on the company's public vehicles, to ensure strong and clear messaging to the city of Madrid.
-- Coherence and consistency in branding applications across multiple materials and platforms are emphasized.
-- Acknowledges the dynamic nature of branding needs; the manual is to be treated as a living document that evolves over time, allowing for the creation of new branding responses as required by societal trends and company needs.
-
-**Notes:**
-
-- The document emphasizes participation and collaboration as one of its design principles. It highlights the effort to include internal votes to decide on important design elements.
-- The new branding reflects a shift from being a traditional bus company to a comprehensive mobility company. It aims to convey a healthier, more sustainable, participatory city image.
-- Specific applications and coexistence of branding for EMT and Madrid City Council, as well as business unit logos, are referenced ('con marca del Ayuntamiento de Madrid y Unidades de Negocio').
+*Guidelines data not available*
 
 ## Additional Properties
 

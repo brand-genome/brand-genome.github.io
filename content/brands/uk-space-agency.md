@@ -2,7 +2,7 @@
 title: UK Space Agency
 slug: "uk-space-agency"
 description: ""
-date: "2026-03-20T08:22:03.879129"
+date: "2026-04-10T09:40:31.563435"
 draft: false
 sectors:
   - "public-sector"
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: executive agency of the Government of the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q1140638"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,16 +72,6 @@ visual_term_image_urls: {}
 - [http://www.youtube.com/user/spacegovuk](http://www.youtube.com/user/spacegovuk)
 - [https://gov.uk/uksa](https://gov.uk/uksa)
 - [http://www.bis.gov.uk/ukspaceagency](http://www.bis.gov.uk/ukspaceagency)
-
-## Brand Guidelines
-
-### 2013
-
-*Guidelines data not available*
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

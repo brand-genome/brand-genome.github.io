@@ -2,7 +2,7 @@
 title: Prime Video
 slug: "prime-video"
 description: ""
-date: "2026-03-20T08:22:05.548605"
+date: "2026-04-10T09:40:34.453969"
 draft: false
 sectors:
   - broadcasting
@@ -53,8 +53,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -79,35 +78,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Primary Service Logo: Used outside Prime Video properties in U.S., UK, and DE. Minimum size is 75px. Clear space must remain free of graphics, text, or borders.
-- Global Marketing Logo: Includes Amazon attached to Prime Video to build trust globally. Minimum size is 125px. Clear space rules apply.
-- Logos available in EPS, PNG, and JPG formats for use in marketing and design purposes. Cannot be altered creatively.
-- Exclusivity messaging guidelines: Use '...only on Prime Video' or '...only with Prime' to highlight membership and premium content. The preposition 'on' is for the service, and 'with' is for Prime membership.
-
-**Color Information:**
-
-- Logos available in 1-color and 2-color variations. Details on usage depend on background and composition to ensure optimal contrast.
-
-**Imagery Photography:**
-
-- Messaging examples for exclusivity: 'Only on Prime Video' or 'Included with Prime' text are annotated in campaigns. Presented within contextual placements.
-
-**Spacing Layout:**
-
-- Clear space rules: Logos must maintain a designated area free from text, graphics, or borders to ensure brand clarity.
-- Bug Placement on Social: Specific provisions on placement (e.g., Top Right or Centered depending on aspect ratio). Bugs always appear at 70% opacity.
-
-**Brand Voice:**
-
-- Consistent CTA language globally: Use 'Watch' instead of 'Stream' to avoid localization issues or misinterpretations in global markets.
-- Proper nomenclature: First mentions globally use 'Amazon Prime Video,' except US, UK, and DE where 'Prime Video' suffices. Copy usage differs based on region-specific platforms.
-
-**Notes:**
-
-- FAQ clarifies branding and marketing usage, including off-platform logo applications and proper naming conventions for Originals and Exclusives.
-- Marketing rules emphasize Prime Video identification across advertisements, ensuring proportional sizing with event branding while maintaining prominence.
+*Guidelines data not available*
 
 ## Additional Properties
 

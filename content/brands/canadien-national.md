@@ -2,7 +2,7 @@
 title: Canadien National
 slug: "canadien-national"
 description: ""
-date: "2026-03-20T08:22:05.846804"
+date: "2026-04-10T09:40:34.864275"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -18,8 +18,8 @@ tags:
 industries:
   - "rail-freight-transport"
 countries:
-  - canada
   - "united-states"
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - "pantone-485"
-  - white
-  - black
-typographies:
-  - frutiger
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Canadian Class I freight railway company
 wikidata_url: "https://www.wikidata.org/wiki/Q624798"
 has_twitter: false
@@ -82,30 +74,139 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
+#### Brand Summary
 
-- The CN logo follows specific grid proportions, described as 'three by eight.' All inner curves share a radius, and all outer curves share a different radius. Masters must use proportions faithful to the original.
-- Protective space guidelines: Preferred protective space is equal to the height of the logo on all sides. In exceptional cases, half the height of the logo may be used for protective space. No text, images, or graphics may encroach upon protective space.
-- Prohibited uses include distortions such as elongation, condensing, addition of graphic elements, departure from official colors, and positioning with backgrounds that hinder visibility.
-- The CN logo must always be surrounded by sufficient space and preserved without changes to design.
+##### Mission
 
-**Color Information:**
+- To symbolize and communicate CN’s modern, efficient, and connected railroad identity, providing quality service and seamless connections across North America, with a focus on clarity, openness, honesty, and future orientation [^1].
 
-- The CN corporate color is red (Pantone 485). Primary usage should be red on white or white on red. Alternative combinations include black on white and white on black. Contrast must always be sufficient.
+##### Core Values
 
-**Typography Information:**
+- efficient
+- seamless connections
+- clarity of purpose
+- openness
+- honesty
+- future orientation
+- quality service
+- innovation
+- modernity
+- boldness
+- progressiveness
+- dynamism
 
-- Primary typefaces include Humanist 777 (available in Roman, Italic, Bold, and Bold Italic styles) and Zapf Calligraphic 801 (Regular, Italic, Bold, and Bold Italic styles). Humanist 777 is primarily used for titles, subheads, and short text, while Zapf Calligraphic 801 complements Humanist for body text.
-- Suggested replacements for unavailable fonts: Frutiger as a replacement for Humanist 777, and Palatino as a replacement for Zapf Calligraphic 801.
+##### Target Audience
 
-**Spacing Layout:**
+- Shippers, customers, and stakeholders in the North American rail industry, including those involved in east-west and north-south trade, and ports on the Atlantic, Pacific, and Gulf coasts [^2].
 
-- Protective space recommendations to ensure no visual competing elements surround the logo; preferred space equal to logo height, acceptable space at half its height.
+##### Personality Traits
 
-**Notes:**
+- modern
+- bold
+- innovative
+- future-oriented
+- dynamic
+- progressive
+- audacious
 
-- The CN logo, designed in 1960, emphasizes innovation. It was chosen among the Top 50 Corporate Logos of All Time by an international panel in October 2000.
-- Instructions for computer-generated documents emphasize consistent type specifications for corporate letterheads, fax cover sheets, shipping labels, and memos. These are preformatted and available to CN employees.
+##### Visual Identity Overview
+
+- The visual identity centers on the iconic CN logo, characterized by its simplicity, clarity, and bold red color (Pantone 485). The logo is always surrounded by protective space, never distorted or altered, and is used consistently across applications. The design system includes specific guidelines for logo construction, color palette, typography, and prohibited treatments, ensuring a strong, recognizable, and modern brand presence [^3].
+
+#### Categories
+
+##### Color Palette
+
+- Colour is a key factor in ensuring rapid recognition of the logo. Like other elements of the design system, colour must be used consistently if it is to serve this purpose.
+- The CN corporate colour is red (Pantone 485). Whenever the application method or the medium itself permits it, the logo should appear red on white, or white on red. If red is not available, the logo may be black on white, or white on black. Contrast must always be sufficient.
+- Special situations may arise where the logo is used in a more commercial context and a background other than a solid colour is permitted.
+- Any such departure from the corporate colours must, however, be justified, and will be decided upon case by case by Public Affairs.
+- PANTONE 485
+- M 100 %
+- Y 100 %
+- K 100 %
+- Departure from official colors
+- Écart par rapport aux couleurs officielles
+
+##### Typography
+
+- The right typeface helps to convey a modern, efficient message. While it is important that the typeface be in harmony with the logo and design system, it is imperative that the message be easily read and understood.
+- Humanist 777 and Zapf Calligraphic 801 have been chosen for their design and flexibility. They are to be used in the company’s corporate communications and are commercially available for both Macintosh and Windows operating systems.
+- If Humanist 777 is not available, it may be replaced by Frutiger.
+- If Zapf Calligraphic 801 is not available, it may be replaced by Palatino.
+- Titles and subheads: The main sans-serif typeface used in CN communications is Humanist 777. It can be used in all available weights and is recommended for titles, subheads and short paragraphs.
+- Copy: The serif typeface Zapf Calligraphic 801 has been chosen to complement Humanist 777. Either typeface may be used for copy.
+- Examples of the typefaces used for titles and copy are reproduced below.
+- Humanist 777 Roman
+- Humanist 777 Italic
+- Humanist 777 Bold
+- Humanist 777 Black
+- Zapf Calligraphic 801
+- Zapf Calligraphic 801 Italic
+
+##### Logo Usage
+
+- The CN logo stands out dramatically from its graphic surroundings because of its scale and positioning and because of the protective white space surrounding it. Significantly, no other design element—logo, wordmark or decorative element— competes with the logo for symbolic expression.
+- There can be no liberties taken, though, with regard to the handling of the corporate signature within a given layout. Following the standards for signature placement and scale given in these pages will help ensure that CN is identified prominently, consistently, and without graphic competition.
+- The CN logo is accurately reproduced below. Besides revealing the simple drafting style used to create the logo, the grid pattern serves to ensure its proper proportions are used in each and every application: on a ballpoint pen, on the side of a boxcar, or at the top of a building.
+- The overall proportions are three by eight, and must always be respected.
+- Notice that the inner and outer curves are based on the same centre points, all inner curves share a single radius, and all outer curves share another single radius.
+- When reproducing the logo, use a master that is no more than two generations away from an original. When electronic masters are used, be certain that they preserve the three-by-eight proportions of the true CN logo.
+- The signature must be always surrounded by a minimum amount of "breathing space" to ensure effective communication. No text, graphic, photographic, illustrative or typographic element must encroach upon this space.
+- Preferred: Space equal to the height of the signature, on all sides
+- Acceptable: In exceptional circumstances, space equal to half the height of the signature, on all sides
+- The CN corporate colour is red (Pantone 485). Whenever the application method or the medium itself permits it, the logo should appear red on white, or white on red. If red is not available, the logo may be black on white, or white on black. Contrast must always be sufficient.
+- Special situations may arise where the logo is used in a more commercial context and a background other than a solid colour is permitted.
+- Any such departure from the corporate colours must, however, be justified, and will be decided upon case by case by Public Affairs.
+- The CN logo must never be distorted or misrepre­sented by elongating, condensing or otherwise taking liberties with its geometry. No decorative element should ever be added to it or allowed to appear behind or in front of it.
+- If you are unsure of the proper use of the CN logo, please contact Public Affairs, Montreal.
+
+##### Tone And Messaging
+
+- These newly revised and updated graphics standards are in keeping with CN’s new customer and corporate communications philosophy. As it has been in the past, the familiar and time-honored CN logo is the cornerstone of the company’s visual identity. Because of its simplicity and clarity, it stands out in all applications. It is our hope that this will symbolize the transmittal of simple, clear messages in all our communications.
+- In the applications to be governed by these graphics standards, a measure of design, editorial and layout freedom is left to the designer. This is desirable, to ensure that each piece produced meets its communication objectives. The assumption, however, is that talented and experienced graphic designers will be involved.
+- There can be no liberties taken, though, with regard to the handling of the corporate signature within a given layout. Following the standards for signature placement and scale given in these pages will help ensure that CN is identified prominently, consistently, and without graphic competition.
+- The CN logo is more than 40 years old. It has survived unchanged for all these years because it represents qualities that CN valued at the time, and indeed still values: efficient, seamless connections, smooth flow of traffic, clarity of purpose, openness, honesty, an eye on the future.
+- The more often the logo is carefully displayed, and the more it stands out as the dominant corporate communicator, the more audiences will receive a clear, compelling message about CN. Above all, the CN logo is a symbol of quality service.
+- The right typeface helps to convey a modern, efficient message. While it is important that the typeface be in harmony with the logo and design system, it is imperative that the message be easily read and understood.
+
+##### Brand Values
+
+- The CN logo is more than 40 years old. It has survived unchanged for all these years because it represents qualities that CN valued at the time, and indeed still values: efficient, seamless connections, smooth flow of traffic, clarity of purpose, openness, honesty, an eye on the future.
+- The more often the logo is carefully displayed, and the more it stands out as the dominant corporate communicator, the more audiences will receive a clear, compelling message about CN. Above all, the CN logo is a symbol of quality service.
+- Le logo CN est demeuré inchangé depuis plus de 40 ans, car il illustre toujours les qualités que le CN a toujours privilégiées : l’efficacité, la fluidité du trafic, la clarté des objectifs, l’ouverture d'esprit, l’honnêteté et l’orientation vers l’avenir.
+- Plus notre logo sera présenté avec soin, plus il s’imposera comme outil de communication, et plus le message livré au sujet du CN sera clair et captera l’attention du public cible. Le logo CN est d’abord et avant tout le symbole de la qualité de nos services.
+
+##### Visual Style
+
+- The CN logo stands out dramatically from its graphic surroundings because of its scale and positioning and because of the protective white space surrounding it. Significantly, no other design element—logo, wordmark or decorative element— competes with the logo for symbolic expression.
+- There can be no liberties taken, though, with regard to the handling of the corporate signature within a given layout. Following the standards for signature placement and scale given in these pages will help ensure that CN is identified prominently, consistently, and without graphic competition.
+- The CN logo is accurately reproduced below. Besides revealing the simple drafting style used to create the logo, the grid pattern serves to ensure its proper proportions are used in each and every application: on a ballpoint pen, on the side of a boxcar, or at the top of a building.
+- The overall proportions are three by eight, and must always be respected.
+- Notice that the inner and outer curves are based on the same centre points, all inner curves share a single radius, and all outer curves share another single radius.
+- When reproducing the logo, use a master that is no more than two generations away from an original. When electronic masters are used, be certain that they preserve the three-by-eight proportions of the true CN logo.
+- The signature must be always surrounded by a minimum amount of "breathing space" to ensure effective communication. No text, graphic, photographic, illustrative or typographic element must encroach upon this space.
+- Preferred: Space equal to the height of the signature, on all sides
+- Acceptable: In exceptional circumstances, space equal to half the height of the signature, on all sides
+- Colour is a key factor in ensuring rapid recognition of the logo. Like other elements of the design system, colour must be used consistently if it is to serve this purpose.
+- The CN corporate colour is red (Pantone 485). Whenever the application method or the medium itself permits it, the logo should appear red on white, or white on red. If red is not available, the logo may be black on white, or white on black. Contrast must always be sufficient.
+- Special situations may arise where the logo is used in a more commercial context and a background other than a solid colour is permitted.
+- Any such departure from the corporate colours must, however, be justified, and will be decided upon case by case by Public Affairs.
+- The CN logo must never be distorted or misrepre­sented by elongating, condensing or otherwise taking liberties with its geometry. No decorative element should ever be added to it or allowed to appear behind or in front of it.
+- Following are some examples of prohibited logo treatments.
+
+##### Layout And Composition
+
+- The CN logo stands out dramatically from its graphic surroundings because of its scale and positioning and because of the protective white space surrounding it. Significantly, no other design element—logo, wordmark or decorative element— competes with the logo for symbolic expression.
+- In the applications to be governed by these graphics standards, a measure of design, editorial and layout freedom is left to the designer. This is desirable, to ensure that each piece produced meets its communication objectives. The assumption, however, is that talented and experienced graphic designers will be involved.
+- There can be no liberties taken, though, with regard to the handling of the corporate signature within a given layout. Following the standards for signature placement and scale given in these pages will help ensure that CN is identified prominently, consistently, and without graphic competition.
+- The CN logo is accurately reproduced below. Besides revealing the simple drafting style used to create the logo, the grid pattern serves to ensure its proper proportions are used in each and every application: on a ballpoint pen, on the side of a boxcar, or at the top of a building.
+- The overall proportions are three by eight, and must always be respected.
+- Notice that the inner and outer curves are based on the same centre points, all inner curves share a single radius, and all outer curves share another single radius.
+- When reproducing the logo, use a master that is no more than two generations away from an original. When electronic masters are used, be certain that they preserve the three-by-eight proportions of the true CN logo.
+- The signature must be always surrounded by a minimum amount of "breathing space" to ensure effective communication. No text, graphic, photographic, illustrative or typographic element must encroach upon this space.
+- Preferred: Space equal to the height of the signature, on all sides
+- Acceptable: In exceptional circumstances, space equal to half the height of the signature, on all sides
 
 ## Additional Properties
 

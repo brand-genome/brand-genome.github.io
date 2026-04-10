@@ -2,7 +2,7 @@
 title: XPO Logistics
 slug: "xpo-logistics"
 description: ""
-date: "2026-03-20T08:22:04.686298"
+date: "2026-04-10T09:40:33.409120"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -53,31 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - signature
-  - symbol
-  - alternate
-  - primary
-brand_colors:
-  - red
-  - green
-  - white
-  - purple
-  - blue
-  - yellow
-  - gray
-  - orange
-  - black
-typographies:
-  - impact
-  - arial
-  - display
-  - roboto
-imagery_styles:
-  - product
-  - staged
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American transportation company
 wikidata_url: "https://www.wikidata.org/wiki/Q8042415"
 has_twitter: false
@@ -96,44 +75,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Standard brand signature used for signage, equipment, marketing, and digital materials. Symbol never used as standalone except rare cases like business cards and mobile app icons (requires special permission). Use minimum clear space around the logo equivalent to the height and width of the lowercase 's'.
-- Do's and Don'ts for logo usage: Do not alter logo or symbol colors; do not enclose logo in borders or add drop shadows/glow effects; do not superimpose logo on photographs or patterned backgrounds; do not stack, stretch, distort, add outlines, or alter the logo in any way.
-- Color versions of logo: black, reversed in black, reversed in XPO red, reversed in XPO medium gray, XPO red, XPO medium gray.
-
-**Color Information:**
-
-- Primary color palette includes white, red (XPO Red), black, and gray for external audiences. XPO Red: HEX #CC0000, RGB 204/0/0, CMYK 0/100/96/7, Custom PMS Mix.
-- Secondary color palette represents internal values: Yellow (Entrepreneurial, HEX #FFBE0A, RGB 255/185/0, CMYK 0/28/100/0, PMS 7549 C), Orange (Safe, HEX #FF6400, RGB 255/100/0, CMYK 0/75/100/0, PMS 1585 C), Green (Respectful, HEX #0FB44B, RGB 15/180/75, CMYK 80/0/100/0, PMS 7481 C), Blue (Innovative, HEX #2396DC, RGB 35/150/220, CMYK 75/30/0/0, PMS 639 C), Purple (Inclusive, HEX #825AC8, RGB 130/90/200, CMYK 60/75/0/0, PMS 2665 C).
-- Brand values colors are used exclusively for internal communications and should not be used for external purposes; must accompany XPO Red in logos.
-- Color usage rules: White should be the dominant color; brand colors must appear in full strength; avoid darkening, lightening, or displaying colors transparently.
-
-**Typography Information:**
-
-- XPO brand typeface is Roboto alongside XPO Roboto Wide (signature display typeface). Alternate typeface is Arial for cases where Roboto is unavailable.
-- Roboto Regular and Arial Regular for body text; XPO Roboto Wide Light and XPO Roboto Wide Black for headlines and product logos; examples of use provided.
-
-**Imagery Photography:**
-
-- Only photographs from the XPO Brand Assets Library are approved for external use. Regional appropriateness must be maintained in photographs (e.g., European trucks for European presentations). Photos must represent the regions they are applied.
-- Photo types include: Formal portraits; workplace activities; XPO spirit; non-workplace settings like social media. Use high-quality photos with clear subject and action, sharp focus, appropriate lighting, and sufficient resolution.
-- Avoid abstraction (pictures of nothing); photos should feature XPO brand presence with elements like XPO Red, XPO symbol, or full XPO Logistics logo.
-- Prohibited imagery: Distracting shapes; improperly branded equipment; tinted, monochrome, or composite images; staged or generic imagery not supporting messaging.
-
-**Spacing Layout:**
-
-- Use minimum clear space around the logo equivalent to the height and width of the lowercase 's'.
-
-**Brand Voice:**
-
-- Tagline: 'Let's Move the World Forward.' It articulates positive impact and must only appear in specific lock-up formats with logo.
-- Tagline font: XPO Roboto Wide Light. Tagline may appear independently in certain instances (e.g., digital banners, interior signage) but must adhere to typography and layout rules.
-
-**Notes:**
-
-- Corporate communications ticketing portal: https://xpologistics.service-now.com. Brand assets and guidelines available at https://brand.xpo.com.
-- All external communications should adhere to brand guidelines, including typography, logo usage, and imagery.
+*Guidelines data not available*
 
 ## Additional Properties
 

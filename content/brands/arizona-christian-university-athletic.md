@@ -2,7 +2,7 @@
 title: Arizona Christian University Athletic
 slug: "arizona-christian-university-athletic"
 description: ""
-date: "2026-03-20T08:22:04.230242"
+date: "2026-04-10T09:40:32.693630"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - sport
+  - university
 industries: []
 countries:
   - "united-states"
@@ -49,18 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - yellow
-  - grey
-  - black
-typographies:
-  - "proxima-nova"
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q106929902"
 has_twitter: false
@@ -80,22 +72,33 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Wordmark logos shown with usage requirements for black, red, and yellow backgrounds. Logos should not be stretched, recolored, or modified in any way. Modifications must be handled by the ACU Marketing Department.
-- Sport-specific logos are mentioned as examples; no specific details or designs are shown.
+##### Mission
 
-**Color Information:**
+- Not explicitly stated in the document.
 
-- Primary colors include: RED (#D92E26, RGB: 217/46/39, CMYK: 9/96/100/1), YELLOW (#F3BE17, RGB: 243/190/23, CMYK: 5/25/100/0), LIGHT GREY (#D2CFC8, RGB: 210/207/201, CMYK: 17/14/18/0), DARK RED (#C62A23, RGB: 198/42/35, CMYK: 16/97/100/5), BRIGHT YELLOW (#FFC917, RGB: 255/202/23, CMYK: 0/21/97/0), DARK GREY (#222222, RGB: 34/34/34, CMYK: 72/68/67/90).
+##### Target Audience
 
-**Typography Information:**
+- Athletic teams, sports programs, and marketing staff of Arizona Christian University.
 
-- Font families include Kulturista and Proxima Nova. Kulturista: Thin, Light, Medium, SemiBold, Bold, each with Italic versions. Proxima Nova: Thin, Light, Regular, Medium, SemiBold, Bold, ExtraBold, Black, each with Italic versions.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is defined by bold, collegiate fonts (Kulturista and Proxima Nova), a vibrant color palette (reds, yellows, greys, and black), and a variety of logos including stylized animal mascots and wordmarks. Logos are used consistently across different backgrounds and must not be modified except by the marketing department. The style emphasizes clarity, boldness, and athletic energy.
 
-- For more information on Arizona Christian University Athletics Branding, contact marketing@arizonachristian.edu.
+#### Categories
+
+##### Color Palette
+
+- RED: #D92E26 RGB: 217/46/39 CMYK: 9/96/100/1
+- YELLOW: #F3BE17 RGB: 243/190/23 CMYK: 5/25/100/0
+- LIGHT GREY: #D2CFC8 RGB: 210/207/201 CMYK: 17/14/18/0
+- DARK RED: #C62A23 RGB: 198/42/35 CMYK: 16/97/100/5
+- BRIGHT YELLOW: #FFC917 RGB: 255/202/23 CMYK: 0/21/97/0
+- DARK GREY: #222222 RGB: 34/34/34 CMYK: 72/68/67/90
+- TO BE USED ON A BLACK BACKGROUND
+- TO BE USED ON A RED BACKGROUND
+- TO BE USED ON A YELLOW BACKGROUND
 
 ## Additional Properties
 

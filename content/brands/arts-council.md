@@ -2,7 +2,7 @@
 title: Arts Council
 slug: "arts-council"
 description: ""
-date: "2026-03-20T08:22:05.862519"
+date: "2026-04-10T09:40:34.890485"
 draft: false
 sectors:
   - "public-sector"
@@ -52,12 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: arts council for Norway
 wikidata_url: "https://www.wikidata.org/wiki/Q4801450"
 has_twitter: false
@@ -78,30 +75,136 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo includes the Arts Council Identity Mark or Logo (corporate), and the Funding Acknowledgment Mark with 4 elements: 1. Arts Council logo, 2. funding tab, 3. versatile title tab, 4. artscouncil.ie tab promoting the website.
-- The funding logos should only appear in black on a white or light background, or in white on a black or dark background. No other colors are allowed.
-- The minimum size for the funding logo is 15mm. Proportional sizes for other formats are given, e.g., A4 - 21mm, A3 - 30mm, up to larger formats (160+mm).
-- Exclusion zone: Equal to the text content of the corporate mark. Nothing (typography, graphic device, photo details) should encroach into this space.
-- Positioning: The logo should be in the extreme top-left or bottom-left corners, at least the distance of the exclusion zone from the edge. Logos in a line-up must align and reflect investment hierarchy.
-- Incorrect usage: Do not stretch, crop, shrink below 15mm, enclose in a box, alter proportions, or add effects. Specific examples include not reversing or outlining the logo, not placing on inappropriate backgrounds.
-- Digital usage: Minimum size of 70 pixels in height for web application, placed prominently on the home page with a hyperlink to www.artscouncil.ie.
-- File formats available: EPS and PNG formats for both black and white logo versions.
+##### Mission
 
-**Color Information:**
+- To provide clear and consistent guidelines for the use of Arts Council Funding logos, ensuring proper acknowledgment and visibility for arts funding across various platforms and artforms.
 
-- The funding logo is restricted to black on white or light backgrounds and white on black or dark backgrounds. No other colors allowed and highlights of correct color usage are given.
+##### Core Values
 
-**Spacing Layout:**
+- clarity
+- consistency
+- visibility
+- professionalism
 
-- Exclusion zone requirements equal to the text content of the corporate mark. Applies to all reproduction sizes.
-- Minimum distance of the exclusion zone applies to positioning of the logo in design layouts. Alignment rules for multiple logos are specified.
+##### Target Audience
 
-**Notes:**
+- Organizations and individuals receiving Arts Council funding, including theatre companies, venues, and other arts-related entities who need to display the funding logo in print and online materials.
 
-- Logos are also available for download from www.artscouncil.ie/funding/logoguide.
-- Contact details are provided for assistance at reception@artscouncil.ie or by phone.
+##### Personality Traits
+
+- professional
+- minimalist
+- structured
+- inclusive
+
+##### Visual Identity Overview
+
+- The visual identity centers on a minimalist, high-contrast logo with strict rules for color usage (black on white or white on black backgrounds), clear typography, defined exclusion zones, and precise positioning. The logo is never to be altered, stretched, colored, or boxed, and must maintain prominence and alignment in all applications.
+
+#### Categories
+
+##### Logo Usage
+
+- The funding logos should only ever appear in black against a white (Fig 5) or light background (Fig 6), or in white against a black (Fig 7) or dark background (Fig 8).
+- They should not be reproduced in any other colour.
+- The minimum size for the funding logo is 15mm where the proportion of the logo is determined by the square of the corporate mark component as shown.
+- Ensure you place an exclusion zone of blank space around the logo.
+- For this logo the exclusion zone is equal in size to the text content of the corporate mark element as shown.
+- Nothing (typography, graphic device or photographic detail) should encroach into this space.
+- The formula for the exclusion zone is detailed opposite and applies to all sizes of reproduction.
+- If any of the logos feature in a line up of logos from other organisations, our exclusion zone requirements still apply.
+- The Arts Council funding logo should be positioned in the extreme top left or extreme bottom left corners of a design layout.
+- The logo should be positioned at least the distance of the exclusion zone from the edge of the page. If you need to display one or more logos in a line-up, please ensure they are exactly aligned and reflective of the investment hierarchy.
+- For example, where the Arts Council is the primary funder, the logo must be the most prominent and should appear first in a logo line-up, and adhere to our exclusion zone guidelines.
+- Note that the only exceptions to this requirement is in cases where the event or programme is for overseas consumption, in which case the Culture Ireland logo may appear first, immediately followed by the Arts Council logo
+- You must not stretch the logo, or crop it to fit into a small space. See the examples opposite which demonstrate how misuse of the logo can affect its impact.
+- Never: - reduce the logo smaller than 15mm - enclose the logo in a box - alter the proportions of the logo - add effects to the logo, eg. shading or outlines
+- Don’t stretch the logo
+- Don’t squash the logo
+- Don’t shrink the logo
+- Don’t rotate the logo
+- Don’t box in the logo
+- Don’t colour the logo
+- Don’t apply effects to the logo
+- Don’t place the white version on a light background
+- Don’t place the black version on a dark background
+- Don’t reverse or outline the logo
+- If you or your organisation has a website, the relevant grant award logo must appear on the home page and be positioned ‘above the fold’, so the user does not have to scroll down the screen to see it.
+- It must be clearly visible, a minimum of 70 pixels in height. We also require you to include a link to our website www.artscouncil.ie, so more people know who we are and the artforms we fund.
+- If you use other web-based platforms to publicise your work, such as MySpace or other networking sites, you should also display the funding logo.
+- The logo must be positioned on the home page and be visible when the page opens
+
+##### Color Palette
+
+- The funding logos should only ever appear in black against a white (Fig 5) or light background (Fig 6), or in white against a black (Fig 7) or dark background (Fig 8).
+- They should not be reproduced in any other colour.
+- Don’t colour the logo
+- Don’t place the white version on a light background
+- Don’t place the black version on a dark background
+
+##### Visual Style
+
+- The funding logos should only ever appear in black against a white (Fig 5) or light background (Fig 6), or in white against a black (Fig 7) or dark background (Fig 8).
+- They should not be reproduced in any other colour.
+- The minimum size for the funding logo is 15mm where the proportion of the logo is determined by the square of the corporate mark component as shown.
+- The following is a guide to proportional size according to formats. DL 15 mm High A5 15 mm High A4 21 mm High A3 30 mm High A2 42 mm High A1 60 mm High A0 80 mm High Larger formats 160+mm High
+- Ensure you place an exclusion zone of blank space around the logo.
+- For this logo the exclusion zone is equal in size to the text content of the corporate mark element as shown.
+- Nothing (typography, graphic device or photographic detail) should encroach into this space.
+- The formula for the exclusion zone is detailed opposite and applies to all sizes of reproduction.
+- If any of the logos feature in a line up of logos from other organisations, our exclusion zone requirements still apply.
+- The Arts Council funding logo should be positioned in the extreme top left or extreme bottom left corners of a design layout.
+- The logo should be positioned at least the distance of the exclusion zone from the edge of the page. If you need to display one or more logos in a line-up, please ensure they are exactly aligned and reflective of the investment hierarchy.
+- For example, where the Arts Council is the primary funder, the logo must be the most prominent and should appear first in a logo line-up, and adhere to our exclusion zone guidelines.
+- Note that the only exceptions to this requirement is in cases where the event or programme is for overseas consumption, in which case the Culture Ireland logo may appear first, immediately followed by the Arts Council logo
+- You must not stretch the logo, or crop it to fit into a small space. See the examples opposite which demonstrate how misuse of the logo can affect its impact.
+- Never: - reduce the logo smaller than 15mm - enclose the logo in a box - alter the proportions of the logo - add effects to the logo, eg. shading or outlines
+- Don’t stretch the logo
+- Don’t squash the logo
+- Don’t shrink the logo
+- Don’t rotate the logo
+- Don’t box in the logo
+- Don’t colour the logo
+- Don’t apply effects to the logo
+- Don’t place the white version on a light background
+- Don’t place the black version on a dark background
+- Don’t reverse or outline the logo
+- If you or your organisation has a website, the relevant grant award logo must appear on the home page and be positioned ‘above the fold’, so the user does not have to scroll down the screen to see it.
+- It must be clearly visible, a minimum of 70 pixels in height.
+- We also require you to include a link to our website www.artscouncil.ie, so more people know who we are and the artforms we fund.
+- If you use other web-based platforms to publicise your work, such as MySpace or other networking sites, you should also display the funding logo.
+- The logo must be positioned on the home page and be visible when the page opens
+
+##### Layout And Composition
+
+- The minimum size for the funding logo is 15mm where the proportion of the logo is determined by the square of the corporate mark component as shown.
+- The following is a guide to proportional size according to formats. DL 15 mm High A5 15 mm High A4 21 mm High A3 30 mm High A2 42 mm High A1 60 mm High A0 80 mm High Larger formats 160+mm High
+- Ensure you place an exclusion zone of blank space around the logo.
+- For this logo the exclusion zone is equal in size to the text content of the corporate mark element as shown.
+- Nothing (typography, graphic device or photographic detail) should encroach into this space.
+- The formula for the exclusion zone is detailed opposite and applies to all sizes of reproduction.
+- If any of the logos feature in a line up of logos from other organisations, our exclusion zone requirements still apply.
+- The Arts Council funding logo should be positioned in the extreme top left or extreme bottom left corners of a design layout.
+- The logo should be positioned at least the distance of the exclusion zone from the edge of the page. If you need to display one or more logos in a line-up, please ensure they are exactly aligned and reflective of the investment hierarchy.
+- For example, where the Arts Council is the primary funder, the logo must be the most prominent and should appear first in a logo line-up, and adhere to our exclusion zone guidelines.
+- Note that the only exceptions to this requirement is in cases where the event or programme is for overseas consumption, in which case the Culture Ireland logo may appear first, immediately followed by the Arts Council logo
+- The mark should be positioned at least the distance of the exclusion zone from the corner of the page
+- Ensure logos are exactly aligned
+- Primary funder first
+- You must not stretch the logo, or crop it to fit into a small space. See the examples opposite which demonstrate how misuse of the logo can affect its impact.
+- Never: - reduce the logo smaller than 15mm - enclose the logo in a box - alter the proportions of the logo - add effects to the logo, eg. shading or outlines
+- Don’t stretch the logo
+- Don’t squash the logo
+- Don’t shrink the logo
+- Don’t rotate the logo
+- Don’t box in the logo
+- Don’t colour the logo
+- Don’t apply effects to the logo
+- Don’t place the white version on a light background
+- Don’t place the black version on a dark background
+- Don’t reverse or outline the logo
 
 ## Additional Properties
 

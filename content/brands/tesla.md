@@ -2,7 +2,7 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-03-20T08:22:05.798901"
+date: "2026-04-10T09:40:34.793716"
 draft: false
 sectors:
   - automobile
@@ -18,9 +18,9 @@ tags:
   - corporate
   - transport
 industries:
-  - "battery-industry"
-  - "automotive-industry"
   - "solar-industry"
+  - "automotive-industry"
+  - "battery-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -64,15 +64,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - primary
-  - symbol
-brand_colors:
-  - red
-  - gray
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American automotive, energy storage and solar power company"
@@ -98,17 +91,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Overview of Tesla Visual Identity, including logo variations: Tesla Wordmark, Tesla Flag, Tesla T.
-- Tesla Wordmark may only be used in shown color combinations and must not be altered. Clear space equal to the vertical height of the Wordmark must be maintained.
-- Backgrounds must not be heavily patterned or photographic. The Wordmark cannot be used in-line within text or altered with effects (e.g., drop shadows).
-- Tesla Flag should use specific background colors (Tesla Red, Black, Gray). No patterns or images allowed inside the symbol; preferred background is Tesla Red.
-- Clear space equal to half the height of the Tesla T must be maintained around the Tesla Flag.
-
-**Color Information:**
-
-- Primary color PMS 186 is used in Tesla branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

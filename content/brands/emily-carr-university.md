@@ -2,7 +2,7 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-03-20T08:22:05.587730"
+date: "2026-04-10T09:40:34.531953"
 draft: false
 sectors:
   - education
@@ -52,26 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - silver
-  - "pantone-305"
-  - "pantone-8420"
-  - white
-  - "pantone-7546"
-  - "pantone-3955"
-  - black
-  - "pantone-8423"
-  - "pantone-4625"
-  - "pantone-422"
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: art school
 wikidata_url: "https://www.wikidata.org/wiki/Q1337587"
 has_twitter: false
@@ -91,31 +75,142 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Two logo configurations are specified: stacked and horizontal. Buffer space around the logo is defined as the x-height.
-- Minimum size requirements for logos are given for both print and web: 7/8 inch for print and 144 pixels for web.
-- Color variations for the logo include: two-color (Black + Pantone 8420), metallic silver-only, and black and white. Greyscale logos utilize 80% black for small text.
-- Clarifications on logo placement against backgrounds include permissible usage in black and white or metallic, but against appropriate contrast.
-- Examples of incorrect logo usage are provided, including distortion, unauthorized text additions, and incorrect typography.
+##### Mission
 
-**Color Information:**
+- To create and maintain a powerful, recognizable, and consistent brand experience for Emily Carr University of Art + Design, encompassing all aspects from visual identity to the overall reputation and experience of the institution [^1].
 
-- Primary color palette includes: Metallic Silver (Pantone 8420) and Black.
-- Secondary color palette includes: Pantone 8423 (metallic), Pantone 305, Pantone 4625, Pantone 7546, Pantone 422, and Pantone 3955.
+##### Core Values
 
-**Typography Information:**
+- creativity
+- free spirit
+- consistency
+- recognition
+- professionalism
 
-- Primary typefaces include italic styles for both uppercase and lowercase alphabets, with emphasis on compatibility between them.
-- Secondary typeface specified as Arial: Arial Regular, Arial Bold, Arial Italic, and Arial Bold Italic.
+##### Target Audience
 
-**Spacing Layout:**
+- Aspiring painters, visual artists, art and design students, faculty, staff, and the broader community interested in art and design education [^2].
 
-- Margins and type styles for the letterhead and templates are defined. For letters, use Arial 9pt with a line spacing of 14pt, and maintain a 3/4 inch margin on both sides.
+##### Personality Traits
 
-**Notes:**
+- creative
+- modern
+- professional
+- dynamic
+- artistic
 
-- The document provides directions for where to find templates and brand assets online at www.ecuad.ca/brand.
+##### Visual Identity Overview
+
+- The visual identity is defined by a modern, abstract, and minimalistic style, featuring a changeable circular graphic element, a sleek sans-serif wordmark, a carefully curated color palette (including metallic silver, black, yellow, and blue), and strict logo usage guidelines to ensure clarity, contrast, and consistency across all applications [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The Emily Carr logo has 2 elements: the wordmark (text) and the accompanying graphic (wire bundle). In the Emily Carr logo, the graphic element is designed to be changeable -the idea being that the logo will continue to evolve, thereby remaining current, relevant and interesting. As a simple example, the wire could be changed to a camera lens when promoting the photography program. Please do not replace the item yourself, the imagery will be at the sole discretion of the University's design office.
+- There are two configurations of the logo: a vertical version where all the elements are stacked and a horizontal version where the graphic and the wordmark are side-by-side. Both versions are equally acceptable to use -please use the most appropriate for your layout.
+- The clear space around the logo that is equal to the "x-height" of the words "emily carr". Please keep this space between the logo and all other type, graphics, photos or the page edge.
+
+##### Color Palette
+
+- Our primary colour palette consists of colours selected from the PAnTOnE MATChInG SYSTEM® (PMS)*. Colours are also shown with a CMYK breakdown for four-colour printing and an RGB breakdown for electronic media or web use.
+- PAntonE 8420 (metallic) CMYK = 45/42/38/3 RGB = 146/139/141
+- PAntonE 3955 CMYK = 6/0/100/0 RGB = 247/236/0
+- PAntonE 422 CMYK = 0/0/0/33 RGB = 182/184/186
+- Our secondary colour palette consists of four additional colours.
+- PAntonE 8423 (metallic) CMYK = 57/54/51/22 RGB = 104/96/97
+- PAntonE 305 CMYK = 51/0/9/0 RGB = 112/205/227
+- PAntonE 4625 CMYK = 0/60/100/79 RGB = 88/39/0
+- PAntonE 7546 CMYK = 33/4/0/72 RGB = 65/89/104
+- * The standards for PAnTOnE® colours are shown in the current edition of the PAnTOnE® formula guide. Colours shown on this page are not intended to match the PAnTOnE® Colour Standards, please use actual PAnTOnE® chips. Do not attempt to match examples in this guide. PAnTOnE® is a registered trademark of Pantone, Inc.
+- Metallic colours do not look metallic when represented as CMYK versions. For this reason, take care when choosing colour and print technique. When in doubt, please contact the design office at 604 844 3871.
+
+##### Typography
+
+- Primary fonT For print materials, our primary font is Leitura Sans. This font family comes in 4 weights with accompanying italics:
+- Currently, Emily Carr’s University Advancement office has only a single use license for Leitura Sans. The font can be purchased from www.myfonts.com.
+- There are also several accompanying faces in the Leitura family including a serif version, a slab-serif version and even a symbols font. Any of the following fonts from the Leitura family can easily be used alongside Leitura Sans and can be purchased through www.myfonts.com.
+- For writing on letterhead and all electronic forms (fax, memo etc) please use Arial regular. All body text should be 9pt size with the spacing set to exactly 14 points.
+- The font for all correspondence is Arial regular, sized at 9pt with 14pt line spacing.
+- If you need to reset the line spacing in Microsoft Word, go to the format menu and select paragraph. From the editing window that appears, select the indents and spacing option. Under spacing, you can change the line spacing. Choose exactly from the options listed and type in 14pt in the at: held.
+- If you need to reset the font, highlight all the type you need to change. Next, go to the format menu and select font. In the window that appears, click on the font tab. From here you can select Arial and in the font style, select regular and finally in the size held, select 9.
+
+##### Logo Usage
+
+- The Emily Carr logo has 2 elements: the wordmark (text) and the accompanying graphic (wire bundle). In the Emily Carr logo, the graphic element is designed to be changeable -the idea being that the logo will continue to evolve, thereby remaining current, relevant and interesting. As a simple example, the wire could be changed to a camera lens when promoting the photography program. Please do not replace the item yourself, the imagery will be at the sole discretion of the University's design office.
+- There are two configurations of the logo: a vertical version where all the elements are stacked and a horizontal version where the graphic and the wordmark are side-by-side. Both versions are equally acceptable to use -please use the most appropriate for your layout.
+- The clear space around the logo that is equal to the "x-height" of the words "emily carr". Please keep this space between the logo and all other type, graphics, photos or the page edge.
+- For print application, the logo should appear no smaller than 7/8” across the wordmark section of the logo, from the left side of the “e” to the right of the “r”. For web application, the minimum size is 144 pixels.
+- There are 3 versions of colour logos. Which you use will depend on what and how you are printing. If you have questions, please call the design office at 604 844 3871. Colours are demonstrated on the horizontal version but apply to both stacked and horizontal logos.
+- 2 coloUr: Black + Pantone 8420 (metallic silver)
+- The wordmark is 8420 silver and the graphic is a mix of black + 8420 silver to create a “duotone”.
+- 1 coloUr: Pantone 8420 (metallic silver)
+- The wordmark and the graphic print in 8420 silver.
+- Black and whiTe
+- The wordmark prints as 80% black and the graphic prints as a greyscale image.
+- Please note that the black and white version is not 100% black, but rather an 80% black to create a grey. The small type has a very small outline around it in solid black so that the type appears crisp when printed from any printer, even a coarse newsprint.
+- Please use approved, unaltered versions only -do not distort the logo in any way.
+- Do not attempt to type the wordmark yourself.
+- The wordmark should not be blended or incorporated into other logos or department names.
+- Do not incorporate the logo or wordmark into a sentence.
+- Do not add to or delete part of the logo.
+- Do not change the colour of any part of the logo.
+- Do not place the logo into a containing shape.
+- If you are placing the logo on a background, make sure it's the right coloured logo for the job and that it's placed in a readable position. The background should be light enough to provide sufficient contrast and a clear enough space to be read properly.
+
+##### Visual Style
+
+- The Emily Carr logo has 2 elements: the wordmark (text) and the accompanying graphic (wire bundle). In the Emily Carr logo, the graphic element is designed to be changeable -the idea being that the logo will continue to evolve, thereby remaining current, relevant and interesting. As a simple example, the wire could be changed to a camera lens when promoting the photography program. Please do not replace the item yourself, the imagery will be at the sole discretion of the University's design office.
+- There are two configurations of the logo: a vertical version where all the elements are stacked and a horizontal version where the graphic and the wordmark are side-by-side. Both versions are equally acceptable to use -please use the most appropriate for your layout.
+- The clear space around the logo that is equal to the "x-height" of the words "emily carr". Please keep this space between the logo and all other type, graphics, photos or the page edge.
+- For print application, the logo should appear no smaller than 7/8” across the wordmark section of the logo, from the left side of the “e” to the right of the “r”. For web application, the minimum size is 144 pixels.
+- PAntonE 8420 mEtALLiC siLvEr
+- BLACk (note: b&w version tyPe is 80% blaCk)
+- There are 3 versions of colour logos. Which you use will depend on what and how you are printing. If you have questions, please call the design office at 604 844 3871. Colours are demonstrated on the horizontal version but apply to both stacked and horizontal logos.
+- 2 coloUr: Black + Pantone 8420 (metallic silver)
+- The wordmark is 8420 silver and the graphic is a mix of black + 8420 silver to create a “duotone”.
+- 1 coloUr: Pantone 8420 (metallic silver)
+- The wordmark and the graphic print in 8420 silver.
+- Black and whiTe
+- The wordmark prints as 80% black and the graphic prints as a greyscale image.
+- Please note that the black and white version is not 100% black, but rather an 80% black to create a grey. The small type has a very small outline around it in solid black so that the type appears crisp when printed from any printer, even a coarse newsprint.
+- Please use approved, unaltered versions only -do not distort the logo in any way.
+- Do not attempt to type the wordmark yourself.
+- The wordmark should not be blended or incorporated into other logos or department names.
+- Do not incorporate the logo or wordmark into a sentence.
+- Do not add to or delete part of the logo.
+- Do not change the colour of any part of the logo.
+- Do not place the logo into a containing shape.
+- If you are placing the logo on a background, make sure it's the right coloured logo for the job and that it's placed in a readable position. The background should be light enough to provide sufficient contrast and a clear enough space to be read properly.
+
+##### Layout And Composition
+
+- There are two configurations of the logo: a vertical version where all the elements are stacked and a horizontal version where the graphic and the wordmark are side-by-side. Both versions are equally acceptable to use -please use the most appropriate for your layout.
+- The clear space around the logo that is equal to the "x-height" of the words "emily carr". Please keep this space between the logo and all other type, graphics, photos or the page edge.
+- For print application, the logo should appear no smaller than 7/8” across the wordmark section of the logo, from the left side of the “e” to the right of the “r”. For web application, the minimum size is 144 pixels.
+- Please use approved, unaltered versions only -do not distort the logo in any way.
+- Do not attempt to type the wordmark yourself.
+- The wordmark should not be blended or incorporated into other logos or department names.
+- Do not incorporate the logo or wordmark into a sentence.
+- Do not add to or delete part of the logo.
+- Do not change the colour of any part of the logo.
+- Do not place the logo into a containing shape.
+- If you are placing the logo on a background, make sure it's the right coloured logo for the job and that it's placed in a readable position. The background should be light enough to provide sufficient contrast and a clear enough space to be read properly.
+- Margin and type guides for letterhead, mailing labels and envelopes.
+- LETTERHEAD AND ELECTRONIC FORMS FONT For writing on letterhead and all electronic forms (fax, memo etc) please use Arial regular. All body text should be 9pt size with the spacing set to exactly 14 points.
+- MARGINS AND TYPE STYLE FOR THE LETTERHEAD + SECOND SHEET The stationery templates can be found and downloaded online at www.ecuad.ca/brand.
+- The font for all correspondence is Arial regular, sized at 9pt with 14pt line spacing.
+- If you need to reset the line spacing in Microsoft Word, go to the format menu and select paragraph. From the editing window that appears, select the indents and spacing option. Under spacing, you can change the line spacing. Choose exactly from the options listed and type in 14pt in the at: held.
+- If you need to reset the font, highlight all the type you need to change. Next, go to the format menu and select font. In the window that appears, click on the font tab. From here you can select Arial and in the font style, select regular and finally in the size held, select 9.
+- Margin is 1" from left edge. Address should be centred vertically within the white space
+- Margin is 3" from left edge and 2" from the top edge.
+- Type style is Arial 9pt with 14 pt leading. Margins are 3/4" on both left and right sides.
+
+##### Press Document Checklist
+
+- Before yoU send an iTem To Press, Use This handy checklisT To ensUre yoU have all yoUr informaTion:  Emily Carr logo  partner logo (if applicable)  phone number(s)  website and/or email contact  date (if event or deadline)  credit for artwork (signed release form) and/or photography and/or model release  approval from University Advancement Office
 
 ## Additional Properties
 

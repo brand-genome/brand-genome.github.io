@@ -2,7 +2,7 @@
 title: eBay
 slug: ebay
 description: ""
-date: "2026-03-20T08:22:03.266216"
+date: "2026-04-10T09:40:30.786367"
 draft: false
 sectors:
   - "e-commerce"
@@ -55,7 +55,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q47005148"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,11 +68,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
+### 2008
 
 *Guidelines data not available*
-
-### 2008
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Premier Rugby
 slug: "premier-rugby"
 description: ""
-date: "2026-03-20T08:22:05.538239"
+date: "2026-04-10T09:40:34.445986"
 draft: false
 sectors:
   - sports
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - primary
-  - badge
-brand_colors:
-  - red
-  - green
-  - gold
-  - purple
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q61831177"
 has_twitter: false
@@ -85,56 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- 10
-The Master Logo
-Visual Branding
-- 11
-The horizontal lock-up is our master logo, however this vertical lock-up option has been created for use should it be required. This logo may only be used with express permission, and cannot be downloaded from the brand site.
-- 12
-The clear space around the logo is the space into which no other object may intrude. This includes type, graphics and imagery.
-- 13
-Minimum size for print: 24mm width x 7mm height. Minimum size for screen: 190px width x 55px height.
-- 15
-Always use logos from our officially approved logo suite. Apply the logo incorrectly and it will compromise its effectiveness. Some common mistakes include: 1. Placing on an angle, 2. Center-aligning the logo, and more.
-
-**Color Information:**
-
-- 17
-Master Brand Color Palette. Primary: Deep purple (HEX: #2C2565, RGB: R:44 G:37 B:101), Secondary: Red (HEX: #EE3A24, RGB: R:238 G:58 B:36). Gradients used sparingly.
-- 18
-Premium Events primary color is deep purple (HEX: #2C2565, RGB: R:44 G:37 B:101), Secondary color is gold (HEX: #B79671, RGB: R:183 G:150 B:113).
-- 19
-Community primary color is deep purple (HEX: #2C2565, RGB: R:44 G:37 B:101), Secondary color is mint green (HEX: #33D258, RGB: R:51 G:210 B:88).
-
-**Typography Information:**
-
-- 20
-We use Khmer UI. Khmer UI Bold is for headlines and big statements, while Khmer UI Regular is for subtext and body copy.
-
-**Imagery Photography:**
-
-- 27
-We use color photography showcasing rugby energy through compelling encounters or determined poses.
-- 28
-Goalposts in promotional photography images can be adjusted to suit focus while ensuring logo visibility.
-- 29
-For live photography, goalposts position follows uniform templates. The logo behind the image can be slightly darkened.
-
-**Spacing Layout:**
-
-- 35
-Spacing around the Gallagher Premiership Rugby logo must maintain a minimum gap equal to the height of the globe badge ('x'). Official colors approved.
-
-**Brand Voice:**
-
-- 22
-Tone of Voice: Welcoming, Knowledgeable, Confident, Engaging.
-- 23
-Language and Style: English spelling, clear messaging, avoiding jargon, first-person usage.
-- 24
-Terminology: Rugby terms like 'Full-back', 'Scrum-half', and standard word usage such as 'Half-time' should maintain specified capitalization and formats.
+*Guidelines data not available*
 
 ## Additional Properties
 

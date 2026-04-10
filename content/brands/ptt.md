@@ -2,7 +2,7 @@
 title: PTT
 slug: ptt
 description: ""
-date: "2026-03-20T08:22:04.113128"
+date: "2026-04-10T09:40:32.187066"
 draft: false
 sectors:
   - "public-sector"
@@ -75,48 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo-related details found on page 4.
-- Logo-related details found on page 10.
-- Logo-related details found on page 11.
-- Logo-related details found on page 12.
-- Logo-related details found on page 14.
-- Logo-related details found on page 18.
-- Logo-related details found on page 19.
-- Logo-related details found on page 20.
-- Logo-related details found on page 21.
-- Logo-related details found on page 22.
-
-**Color Information:**
-
-- Color-related details found on page 4.
-- Color-related details found on page 16.
-- Color-related details found on page 18.
-- Color-related details found on page 19.
-
-**Typography Information:**
-
-- Typography details found on page 4.
-- Typography details found on page 17.
-
-**Spacing Layout:**
-
-- Spacing and layout discussion found on page 5.
-- Spacing and layout discussion found on page 46.
-- Spacing and layout discussion found on page 47.
-- Spacing and layout discussion found on page 48.
-- Spacing and layout discussion found on page 49.
-
-**Brand Voice:**
-
-- Brand voice and tagline-related details found on page 4.
-- Brand voice and tagline-related details found on page 25.
-
-**Notes:**
-
-- Notices or additional information found on page 5.
-- Notices or additional information found on page 65.
+*Guidelines data not available*
 
 ## Additional Properties
 

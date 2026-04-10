@@ -2,11 +2,11 @@
 title: World Avocado Organization
 slug: "world-avocado-organization"
 description: ""
-date: "2026-03-20T08:22:05.418261"
+date: "2026-04-10T09:40:34.290065"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - international
 years:

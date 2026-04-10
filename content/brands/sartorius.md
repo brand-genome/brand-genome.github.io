@@ -2,11 +2,11 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-03-20T08:22:04.683687"
+date: "2026-04-10T09:40:33.402731"
 draft: false
 sectors:
-  - biotech
   - hardware
+  - biotech
 regions:
   - france
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - science
   - featured
   - corporate
+  - science
 industries:
+  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
   - "precision-engineering-and-optical-industry"
   - "pharmaceutical-industry"
-  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
 countries:
   - germany
 revenue_buckets: []
@@ -56,15 +56,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - yellow
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: German technology company specializing in equipment and services for the biopharmaceutical industry
@@ -87,22 +80,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The logo is described as the key visual element with high clarity and boldness. It's a combination of a wordmark and a figurative mark.
-- Clear space rule: The clear space around the logo is equal to the height of the 'S'. Minimum size of logo is 15mm or 120 pixels, including clear space.
-- Orientation: The logo is ideally used horizontally but vertical applications are permissible for constraints such as on flags.
-- Variants: The logo should preferably use a yellow background. Black and white variants are allowed for exceptional circumstances.
-- Examples of incorrect usage include unnecessary orientation change, additions to the logo, insufficient clear space, applying effects, and using yellow logo on yellow background.
-
-**Typography Information:**
-
-- TT Norms Pro font family is specified with weights: Light, Regular, and Medium.
-
-**Notes:**
-
-- Brand Style Guide Version: February 2020 is mentioned as the main document title.
-- The Table of Contents shows the organization of content: Logo (pg 4), Signet (pg 12), Layout System (pg 17), Colors (Primary at pg 42, Secondary at pg 47), Typography (pg 61), Imagery (pg 72), Icons (pg 99), and Illustrations (pg 108 onwards).
+*Guidelines data not available*
 
 ## Additional Properties
 

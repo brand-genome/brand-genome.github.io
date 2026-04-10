@@ -2,7 +2,7 @@
 title: Stifel
 slug: stifel
 description: ""
-date: "2026-03-20T08:22:05.319932"
+date: "2026-04-10T09:40:34.152755"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
+  - finance
   - "financial-services"
   - investment
-  - finance
 countries:
   - "united-states"
 revenue_buckets:
@@ -33,12 +33,12 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "asset-management"
-  - broker
   - "investment-banking"
-  - "financial-services"
+  - broker
   - intermediation
   - "broker-dealer"
+  - "asset-management"
+  - "financial-services"
 products: []
 headquarters_locations:
   - "st-louis"
@@ -65,15 +65,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - staged
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American investment bank
 wikidata_url: "https://www.wikidata.org/wiki/Q7616390"
 has_twitter: false
@@ -92,40 +86,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The Stifel Logo is the face of our brand and a key element of our brand identity. Consistent use is essential for recognition across all marketing channels and media outlets.
-- Logo colors include Stifel Blue, White, and Black versions. The black version is primarily for grayscale materials and one-color imprints but can be used over images when necessary.
-- Unacceptable logo usage examples include adding effects, recreating fonts, squeezing/stretching the logo, changing colors, and placing on distracting backgrounds.
-- Suggested file formats: For print use .ai, .eps, .tiff, and .jpeg at 300 dpi; for digital and PowerPoint, use .jpeg, .gif, .bmp, or .png at 72-150 dpi.
-
-**Color Information:**
-
-- Stifel Blue (PANTONE® 540): CMYK C:100 M:57 Y:12 K:66, RGB R:0 G:48 B:87. Black color listed as CMYK C:0 M:0 Y:0 K:100, RGB R:0 G:0 B:0.
-- Expanded color palette includes specific tones for branding and asset classes. Asset classes have pre-assigned colors with RGB values clearly referenced.
-
-**Typography Information:**
-
-- Print formatting requires Meta Light Italic for disclosure text at 8 pt. Text is left-aligned and not justified, with body text recommended at 11 pt where possible.
-- Digital formatting uses Arial as a standard web-safe font. Meta is used for images such as banners or social posts. Minimum digital font size is 10 pt.
-
-**Imagery Photography:**
-
-- Photography imagery must reflect client goals and convey diversity while looking spontaneous. Observational, non-staged imagery is preferred.
-- Printing resolution: 300 dpi; digital resolution: 72 dpi (recommended standards). Avoid pixelation and ensure only high-quality image usage.
-
-**Spacing Layout:**
-
-- Left-aligned typography is required for brochures/newsletters; never justified text.
-
-**Brand Voice:**
-
-- Consistency of tone across branding channels; photography and typography align messaging to client values.
-
-**Notes:**
-
-- Questions regarding Stifel branding can be directed to creation@stifel.com or snsocialmedia@stifel.com for social media-related inquiries.
-- Access marketing materials through AdTrax portal.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -135,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Asset Management](/products_or_materials_produced/asset-management/); [Broker](/products_or_materials_produced/broker/); [Investment Banking](/products_or_materials_produced/investment-banking/); [Financial Services](/products_or_materials_produced/financial-services/); [Intermediation](/products_or_materials_produced/intermediation/); [Broker Dealer](/products_or_materials_produced/broker-dealer/) |
+| Product Or Material Produced | [Investment Banking](/products_or_materials_produced/investment-banking/); [Broker](/products_or_materials_produced/broker/); [Intermediation](/products_or_materials_produced/intermediation/); [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Asset Management](/products_or_materials_produced/asset-management/); [Financial Services](/products_or_materials_produced/financial-services/) |
 | Headquarters Location | [St Louis](/headquarters_locations/st-louis/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Stock Exchange | New York Stock Exchange (from 1986-11-24) |

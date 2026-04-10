@@ -2,7 +2,7 @@
 title: Seoul
 slug: seoul
 description: ""
-date: "2026-03-20T08:22:05.186193"
+date: "2026-04-10T09:40:34.060092"
 draft: false
 sectors:
   - "public-sector"
@@ -73,22 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The Seoul Brand logo 'I·SEOUL·U' introduced as the main brand identifier.
-
-**Imagery Photography:**
-
-- The brand emphasizes showcasing 'citizen-driven' imagery reflecting pride, aspirations, and ownership of the city. Suggests local citizen involvement and showcasing attractions and sights of Seoul.
-
-**Brand Voice:**
-
-- The city's tone of branding is 'citizen-driven,' focusing on participation, consensus, and reflecting a sense of pride through ownership and personal connections with the city.
-- The SEOUL brand aims to express how the city presents itself to its citizens and the world, caring about citizens and enhancing visitor experience.
-
-**Notes:**
-
-- The development process featured extensive research including data analysis, interviews, surveys, social and trend analyses, and competitor and stakeholder evaluation. Led by experts with in-depth discussions.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-03-20T08:22:05.510946"
+date: "2026-04-10T09:40:34.390111"
 draft: false
 sectors:
   - restaurant
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "quick-service-restaurant-sector"
   - "fast-food"
+  - "quick-service-restaurant-sector"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "fast-food"
   - "fried-chicken"
+  - "fast-food"
 products: []
 headquarters_locations:
   - louisville
@@ -195,6 +195,8 @@ visual_term_image_urls: {}
 
 ### 2006
 
+*Guidelines data not available*
+
 ## Additional Properties
 
 | Property | Value |
@@ -203,7 +205,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Fast Food](/products_or_materials_produced/fast-food/); [Fried Chicken](/products_or_materials_produced/fried-chicken/) |
+| Product Or Material Produced | [Fried Chicken](/products_or_materials_produced/fried-chicken/); [Fast Food](/products_or_materials_produced/fast-food/) |
 | Headquarters Location | [Louisville](/headquarters_locations/louisville/) |
 | Foundation Date | [1930](/foundation_dates/1930/) |
 | Topic'S Main Category | Category:KFC |

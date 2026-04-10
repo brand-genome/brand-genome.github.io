@@ -2,7 +2,7 @@
 title: Ville de Cabourg
 slug: "ville-de-cabourg"
 description: ""
-date: "2026-03-20T08:22:04.195625"
+date: "2026-04-10T09:40:32.551084"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -70,6 +70,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Notes:**
-
-- The PDF's text includes numerous encoding artifacts, severely impacting the readability of the document. Many sections use symbols instead of text, and only parts of headers and subsections like 'LES APPLICATIONS' and 'ÉDITION' are identifiable. Usable information or examples must be examined visually beyond the raw text extraction for accurate data.
+*Guidelines data not available*

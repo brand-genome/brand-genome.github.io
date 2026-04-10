@@ -2,7 +2,7 @@
 title: College of New Caledonia
 slug: "college-of-new-caledonia"
 description: ""
-date: "2026-03-20T08:22:04.717027"
+date: "2026-04-10T09:40:33.443422"
 draft: false
 sectors:
   - education
@@ -52,15 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - "open-sans"
-imagery_styles:
-  - natural
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "college in northern British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q5146783"
 has_twitter: false
@@ -78,32 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Details about logo versions, clear space rules, and minimum sizes are provided.
-- File formats for logos include EPS, PNG, and JPG.
-- Outlined rules to avoid skewing, outlining, or rotating logos.
-
-**Color Information:**
-
-- Information about primary and secondary colors, including specifications like PMS 185 C and PMS 445C.
-
-**Typography Information:**
-
-- Details about primary and secondary fonts: Stag and Open Sans.
-- Guidelines for aligning text and selecting appropriate font weights and styles.
-
-**Imagery Photography:**
-
-- Guidelines on photography styles emphasizing first-person viewpoints, natural lighting, and authenticity.
-
-**Brand Voice:**
-
-- Guidelines on tone of voice emphasizing empowerment, connectivity, and dynamism.
-
-**Notes:**
-
-- Contact information and acknowledgment sections.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-03-20T08:22:03.081001"
+date: "2026-04-10T09:40:30.591587"
 draft: false
 sectors:
   - finance
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2020
   - 2022
+  - 2020
   - 2013
 languages:
   - english
@@ -55,17 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - helvetica
-imagery_styles:
-  - photography
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American worldwide online payments system
 wikidata_url: "https://www.wikidata.org/wiki/Q483959"
 has_twitter: false
@@ -88,105 +81,15 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo versions include PayPal logo (rounded for approachability), twin bands, and a short-hand mark (Double P for spatial restrictions). Clear space and logo usage dos and don'ts are outlined, including prohibition of outdated color versions, incorrect trademarks, and keyline treatments. Black and white logos are sanctioned only under color limitation circumstances.
-- Accepted colors include Pay Blue (PMS: 295 PC, HEX: #00457C) and Pal Blue (PMS: 300 PC, HEX: #0079C1). Black and white versions are permissible only when color is unavailable.
-- Minimum clear space described as proportional surrounding space. Incorrect uses include adding keylines, incorrect trademarks, or outdated color treatments.
-
-**Color Information:**
-
-- Primary colors: Pay Blue (Pantone PMS: 295 PC, CMYK: 100, 57, 0, 40, RGB: 0, 69, 124, HEX: #00457C) and Pal Blue (Pantone PMS: 300 PC, CMYK: 100, 44, 0, 0, RGB: 0, 121, 193, HEX: #0079C1). Accent colors include Slate, Pale Slate, Sand, Pale Sand, Leaf, Lime, Sea, Aqua, Tomato, Tangerine, Plum, and Berry.
-- Color usage rules emphasize leveraging Pay and Pal Blue as dominant brand colors, using neutral tones (Sand, Pale Sand, Slate, Pale Slate) for warmth, and utilizing accent colors sparingly for visual interest.
-
-**Typography Information:**
-
-- Font family is Helvetica Neue Light. Typography is meant to convey brand voice consistency while staying approachable and professional.
-
-**Imagery Photography:**
-
-- Photography guidelines specify adding a slight touch of blue to infuse brand identity into photographic assets.
-
-**Spacing Layout:**
-
-- White space to be utilized to keep tone open and inviting. Clear-space rules emphasized around logos and visual elements.
-
-**Brand Voice:**
-
-- Voice described as consistent, accurate, confident, unified, and approachable, with emphasis on simplicity and resonance with diverse cultural audiences.
-
-**Notes:**
-
-- The guidelines include a comprehensive brand promise, personality, visual identity elements, and design philosophy structured around accessibility and simplicity.
-- The document mentions branded assets for multiple contexts like buttons, acceptance marks, POS collateral, and workplaces.
+*Guidelines data not available*
 
 ### 2020
 
-**Logo Information:**
-
-- Logo versions include PayPal logo (rounded for approachability), twin bands, and a short-hand mark (Double P for spatial restrictions). Clear space and logo usage dos and don'ts are outlined, including prohibition of outdated color versions, incorrect trademarks, and keyline treatments. Black and white logos are sanctioned only under color limitation circumstances.
-- Accepted colors include Pay Blue (PMS: 295 PC, HEX: #00457C) and Pal Blue (PMS: 300 PC, HEX: #0079C1). Black and white versions are permissible only when color is unavailable.
-- Minimum clear space described as proportional surrounding space. Incorrect uses include adding keylines, incorrect trademarks, or outdated color treatments.
-
-**Color Information:**
-
-- Primary colors: Pay Blue (Pantone PMS: 295 PC, CMYK: 100, 57, 0, 40, RGB: 0, 69, 124, HEX: #00457C) and Pal Blue (Pantone PMS: 300 PC, CMYK: 100, 44, 0, 0, RGB: 0, 121, 193, HEX: #0079C1). Accent colors include Slate, Pale Slate, Sand, Pale Sand, Leaf, Lime, Sea, Aqua, Tomato, Tangerine, Plum, and Berry.
-- Color usage rules emphasize leveraging Pay and Pal Blue as dominant brand colors, using neutral tones (Sand, Pale Sand, Slate, Pale Slate) for warmth, and utilizing accent colors sparingly for visual interest.
-
-**Typography Information:**
-
-- Font family is Helvetica Neue Light. Typography is meant to convey brand voice consistency while staying approachable and professional.
-
-**Imagery Photography:**
-
-- Photography guidelines specify adding a slight touch of blue to infuse brand identity into photographic assets.
-
-**Spacing Layout:**
-
-- White space to be utilized to keep tone open and inviting. Clear-space rules emphasized around logos and visual elements.
-
-**Brand Voice:**
-
-- Voice described as consistent, accurate, confident, unified, and approachable, with emphasis on simplicity and resonance with diverse cultural audiences.
-
-**Notes:**
-
-- The guidelines include a comprehensive brand promise, personality, visual identity elements, and design philosophy structured around accessibility and simplicity.
-- The document mentions branded assets for multiple contexts like buttons, acceptance marks, POS collateral, and workplaces.
+*Guidelines data not available*
 
 ### 2013
 
-**Logo Information:**
-
-- Logo versions include PayPal logo (rounded for approachability), twin bands, and a short-hand mark (Double P for spatial restrictions). Clear space and logo usage dos and don'ts are outlined, including prohibition of outdated color versions, incorrect trademarks, and keyline treatments. Black and white logos are sanctioned only under color limitation circumstances.
-- Accepted colors include Pay Blue (PMS: 295 PC, HEX: #00457C) and Pal Blue (PMS: 300 PC, HEX: #0079C1). Black and white versions are permissible only when color is unavailable.
-- Minimum clear space described as proportional surrounding space. Incorrect uses include adding keylines, incorrect trademarks, or outdated color treatments.
-
-**Color Information:**
-
-- Primary colors: Pay Blue (Pantone PMS: 295 PC, CMYK: 100, 57, 0, 40, RGB: 0, 69, 124, HEX: #00457C) and Pal Blue (Pantone PMS: 300 PC, CMYK: 100, 44, 0, 0, RGB: 0, 121, 193, HEX: #0079C1). Accent colors include Slate, Pale Slate, Sand, Pale Sand, Leaf, Lime, Sea, Aqua, Tomato, Tangerine, Plum, and Berry.
-- Color usage rules emphasize leveraging Pay and Pal Blue as dominant brand colors, using neutral tones (Sand, Pale Sand, Slate, Pale Slate) for warmth, and utilizing accent colors sparingly for visual interest.
-
-**Typography Information:**
-
-- Font family is Helvetica Neue Light. Typography is meant to convey brand voice consistency while staying approachable and professional.
-
-**Imagery Photography:**
-
-- Photography guidelines specify adding a slight touch of blue to infuse brand identity into photographic assets.
-
-**Spacing Layout:**
-
-- White space to be utilized to keep tone open and inviting. Clear-space rules emphasized around logos and visual elements.
-
-**Brand Voice:**
-
-- Voice described as consistent, accurate, confident, unified, and approachable, with emphasis on simplicity and resonance with diverse cultural audiences.
-
-**Notes:**
-
-- The guidelines include a comprehensive brand promise, personality, visual identity elements, and design philosophy structured around accessibility and simplicity.
-- The document mentions branded assets for multiple contexts like buttons, acceptance marks, POS collateral, and workplaces.
+*Guidelines data not available*
 
 ## Additional Properties
 

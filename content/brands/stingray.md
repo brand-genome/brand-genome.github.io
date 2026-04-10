@@ -2,7 +2,7 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-03-20T08:22:05.569850"
+date: "2026-04-10T09:40:34.490353"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - broadcast
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,17 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - icon
-  - horizontal
-brand_colors:
-  - black
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: television series
 wikidata_url: "https://www.wikidata.org/wiki/Q281892"
 has_twitter: false
@@ -80,28 +73,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Safe zone is defined as equidistant to the space denoted in layout (x-height or equivalent), clear of elements like copy, images, or logos to ensure readability.
-- Minimum sizes: Vertical logo 0.5", Icon 0.165", Horizontal logo 0.75".
-- Safe zone is defined as equidistant to the space denoted in layout (x-height or equivalent), clear of elements like copy, images, or logos to ensure readability.
-- Minimum sizes: Vertical logo 0.5", Icon 0.165", Horizontal logo 0.75".
-- Logo variations mentioned include full color and black-and-white versions for both vertical and horizontal orientations. Guidelines for usage are given for specific backgrounds.
-- Do not change logo color, orientation, or spacing. Avoid outlining the icon, adding external elements, deforming proportions, or placing the logo on a non-prescribed background.
-- Exceptional use scenarios include watermark logos for applications needing placement atop TV spots or photographs.
-
-**Color Information:**
-
-- Colors are categorized with Pantone, RGB, and CMYK specifications. RGB for digital, CMYK for small print runs, and Pantone for optimal printing results.
-- Blue background logos are exclusively for digital, not to be printed. Consult RGB gradients in the branding section.
-
-**Typography Information:**
-
-- Main font is 'GT Walsheim Bold', usable in both uppercase and lowercase.
-
-**Spacing Layout:**
-
-- Specific measurements for safe zone spacing around logos include reliance on x-height or equivalent.
+*Guidelines data not available*
 
 ## Additional Properties
 

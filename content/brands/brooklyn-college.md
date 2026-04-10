@@ -2,7 +2,7 @@
 title: Brooklyn College
 slug: "brooklyn-college"
 description: ""
-date: "2026-03-20T08:22:05.553095"
+date: "2026-04-10T09:40:34.463317"
 draft: false
 sectors:
   - education
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - slab
-  - display
-  - serif
-imagery_styles:
-  - photography
-  - contemporary
+typographies: []
+imagery_styles: []
 wikidata_description: "senior college of the City University of New York, located in Brooklyn"
 wikidata_url: "https://www.wikidata.org/wiki/Q371625"
 has_twitter: false
@@ -86,34 +78,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The Brooklyn College logo embodies the youthful and forward-looking spirit of the institution, using a contemporary stylized sans serif typeface specifically sculpted for Brooklyn College. Designers are instructed not to redraw or reset them. Additionally, scanning printed versions or copying the logo from the website to reproduce is prohibited, as it affects quality and scale.
-- Entities within the college, such as individual schools, have unique logos. The Brooklyn College logotype is positioned flush right with a thin vertical rule separating it from the school name. These appear in full color whenever possible, and authorized files must be obtained from the Office of Communications and Marketing.
-
-**Color Information:**
-
-- Primary colors and secondary colors are outlined within the guidelines. The precise codes for these colors are available on specific pages detailing their roles and Pantone, HEX, RGB, and CMYK values.
-
-**Typography Information:**
-
-- Official Brooklyn College typefaces include serif, sans serif, and slab serif fonts, each described in terms of their naming conventions and specific roles in branding.
-
-**Imagery Photography:**
-
-- Specific guidelines for photography style and treatment, including composition, mood, and other visual considerations, are provided within the guidelines.
-
-**Spacing Layout:**
-
-- Information on logo clear space and minimum size is outlined to reinforce consistency. Official specifications clarify measurements and minimum display dimensions.
-
-**Brand Voice:**
-
-- Brand voice guidelines emphasize visual and editorial continuity across platforms. The description outlines adherence to established standards for visual and written communication. Additional guidance is provided within an editorial stylebook available online.
-
-**Notes:**
-
-- The Brooklyn College Brand Guidelines contain information regarding social media guidelines, digital media standards, and stationery design specifications. Specific pages detail everything from webpage sizes to business card and envelope designs.
+*Guidelines data not available*
 
 ## Additional Properties
 

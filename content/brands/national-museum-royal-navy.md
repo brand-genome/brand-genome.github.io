@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-03-20T08:22:04.404347"
+date: "2026-04-10T09:40:33.142825"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - museum
   - military
+  - museum
 industries: []
 countries:
   - "united-kingdom"
@@ -50,21 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - "pantone-289"
-  - white
-  - blue
-  - "pantone-186"
-  - black
-typographies:
-  - arial
-  - display
-  - frutiger
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "created in early 2009 to act as a single non-departmental public body for the museums of the Royal Navy, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q6974518"
 has_twitter: false
@@ -84,27 +73,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Minimum print size ensures logo clarity; avoid usage below specific sizes: A3 = 60mm, A4 = 45mm. Exclusion zones defined by the 'N' height in 'NATIONAL'. No elements should enter this zone.
-- Examples of incorrect logo usage: Altering colors, replacing logotype with other typefaces, rearranging elements, removing the white keyline, cropping, rotating, or resizing beyond guidelines.
-
-**Color Information:**
-
-- Primary colors for the National Museum brand: Blue (Pantone 289 C, C: 100, M: 75, Y: 0, K: 76, RGB: 0, 0, 51, HEX: #000033), White (C: 0, M: 0, Y: 0, K: 0, RGB: 255, 255, 255), Red (Pantone 186 C, C: 0, M: 100, Y: 76, K: 6, RGB: 204, 0, 51, HEX: #CC0033). These colors define the logo and can also be used for text and backgrounds.
-
-**Typography Information:**
-
-- The primary typeface is Frutiger, with styles including Roman, Bold, Italic, and Black. Compacta and AR Techni are used for headlines. Arial and Arno Pro are permitted alternatives, mainly for web content.
-- Web typography: Arial (Regular, Bold Italic) and Arno Pro Display are specified for headers and body copy.
-
-**Spacing Layout:**
-
-- Logo exclusion zone: Defined by the 'N' height from 'NATIONAL'; ensures visual integrity by maintaining clear space around the logo.
-
-**Notes:**
-
-- The guidelines emphasize strict adherence to the brand's visual identity, including logo placement, typography use, and defined color palettes. Queries should be directed to the Head of Marketing.
+*Guidelines data not available*
 
 ## Additional Properties
 

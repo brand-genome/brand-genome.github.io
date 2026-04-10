@@ -2,7 +2,7 @@
 title: Luxembourg
 slug: luxembourg
 description: ""
-date: "2026-03-20T08:22:03.063902"
+date: "2026-04-10T09:40:30.555222"
 draft: false
 sectors:
   - "public-sector"
@@ -50,26 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-brand_colors:
-  - red
-  - cyan
-  - white
-  - blue
-  - black
-typographies:
-  - brandon
-  - gotham
-imagery_styles:
-  - dynamic
-  - graphic
-  - bold
-  - portrait
-  - monochrome
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: capital and largest city of Luxembourg
 wikidata_url: "https://www.wikidata.org/wiki/Q1842"
 has_twitter: false
@@ -93,48 +77,140 @@ visual_term_image_urls: {}
 
 ### 2025
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo is available in versions with the tagline 'Let's make it happen' and without. The logo with the tagline is preferred for promotional actions, while the version without is used in cases of sensitive communication or when official rules limit its usage.
-- The structure and proportions of the logo elements are fixed and cannot be changed. All elements, including the tagline and the 'X', must remain in their original configuration.
-- The clear space or exclusion zone around the logo with invitation must be at least '2L' (with 'L' being the height of the letter 'L' in the logo) around all sides to ensure clarity and readability.
-- Rules regarding the size: The logo with the invitation must not be smaller than 3 cm wide. The logo without the invitation must not be smaller than 2 cm wide. The 'X' symbol alone cannot be smaller than 0.3 cm wide.
-- The 'X' symbol is constructed from four bidirectional arrows (two red and two blue). The orientation, color, and proportions of these arrows cannot be changed.
-- Prohibited uses of the logo and its elements include: deformation, compression, stretching, adding graphic effects, using elements detached from the logo, combining various color versions, placing the logo on backgrounds with insufficient contrast, modifying or integrating the tagline, and inserting text inside the 'X' symbol or using it as a background.
-- Monochrome variants of the logo are available: black for use on white backgrounds when technically required, and white for use on images. On dark or colored backgrounds, the logo may also be displayed in white with a colored 'X'.
+##### Mission
 
-**Color Information:**
+- La Signature du Luxembourg vise à traduire le profil du pays en images et symboles, incarnant un acteur engagé sur la scène internationale, un allié fort pour une croissance durable, et un facilitateur d'idées innovantes pour un monde meilleur [^1].
 
-- Primary colors used in the Luxembourg Signature include red, blue, and black. Color specifications are as follows: Red - CMYK: C 0, M 100, Y 100, K 0, Pantone: 485, RGB: R 227, G 006, B 019, HEX: #E30613; Blue - CMYK: C 100, M 0, Y 0, K 0, Pantone: Process Cyan, RGB: R 000, G 153, B 255, HEX: #0099FF; Black - CMYK: C 0, M 0, Y 0, K 100, Pantone: Process Black, RGB: R 000, G 000, B 000, HEX: #000000.
-- The Luxembourg Signature is tri-color. The red and blue in the 'X' symbol represent national colors, complemented by black for the text elements.
+##### Core Values
 
-**Typography Information:**
+- fiabilité
+- dynamisme
+- ouverture
 
-- Preferred typography for titles and body text is Verlag, designed by Hoefler & Co. Available weights: Black, Bold, Book, Light, and Extra Light.
-- Typography Gotham, also designed by Hoefler & Co., can be used as an alternative for body text. Available weights include Thin, Regular, and Black.
-- Chronicle, a font with serifs designed by Hoefler & Co., is permissible as an alternative typography for body text.
-- Brandon Grotesque, designed by Hannes von Döhren, is the recommended web typography for titles. Available weights include Black, Bold, Medium, Regular, Italic, and Light.
-- Calibri, designed by Lucas de Groot, is the recommended web typography for body text. It is also the preferred font for Office applications (Word, PowerPoint, Excel). Available weights include Bold and Regular.
+##### Target Audience
 
-**Imagery Photography:**
+- Personnes de tous horizons, partenaires internationaux, acteurs de la croissance durable et de l'innovation [^2].
 
-- Photos showcasing culture, nature, history, and daily life in Luxembourg can be used for promotional purposes only, strictly for non-commercial use. Access and download them from https://lmih.lu/outils/photographies.
-- Photos with integrated 'X' design elements allow dynamic visual language enhancement in communication. You can access them at https://lmih.lu/outils/photographies/en-x.
-- Guidelines provided for incorporating photo cutouts and use of arrow shapes as part of the graphical layout.
+##### Personality Traits
 
-**Spacing Layout:**
+- allié
+- fiable
+- dynamique
+- ouvert
 
-- Positioning templates for press releases (A4), diplomas (A4), brochures (A5), cards (A6), and other materials are sectioned accordingly.
-- Grid and document layouts follow specified guidelines for posters (portrait and landscape), exhibition stands, roll-ups, and backdrops.
-- Using the 'X' symbol to divide and structure photographs dynamically is encouraged for visual communication.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- L'identité visuelle repose sur le symbole X, les couleurs nationales (rouge, bleu, noir), une typographie spécifique (Verlag, Gotham, Chronicle, Brandon Grotesque, Calibri), une composition fixe du logo, des éléments graphiques complémentaires, et un univers visuel dynamique et harmonieux [^3].
 
-- The tagline, 'Let's make it happen,' encapsulates Luxembourg's vision—a country committed to international growth, sustainability, creativity, diversity, and innovation.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Complementary graphic elements, including matrices of arrows, invitation, system of photo layout, isolated arrows (full/contour), and symbology (emoXies), are used as part of the visual identity.
+- Une flèche symbolise le dynamisme.
+- Les flèches pointent dans les deux sens, ce qui reflète l'ouverture.
+- La forme est renforcée symétriquement dans toutes les directions et est donc stable.
+- Le plus qui apparaît au centre n'est visible qu'au second coup d'oeil et symbolise la plus-value apportée par le partenariat avec le Luxembourg.
+- L'utilisation des couleurs nationales crée un lien direct avec le Luxembourg.
+
+##### Color Palette
+
+- La Signature est tricolore. Le rouge et le bleu dans le symbole X représentent les couleurs nationales et sont complétés par le noir pour les éléments de texte.
+- Dans la mesure du possible, la version en couleurs de la Signature sur fond blanc doit être utilisée.
+- ROUGE CMJN : C 0 M 100 Y 100 K 0 Pantone : 485 RGB : R 227 G 006 B 019 Web : #E30613 RAL : 3020
+- BLEU CMJN : C 100 M 0 Y 0 K 0 Pantone : PROCESS CYAN RGB : R 000 G 153 B 255 Web : #0099FF RAL : 5015
+- NOIR CMJN : C 0 M 0 Y 0 K 100 Pantone : PROCESS BLACK RGB : R 000 G 000 B 000 Web : #000000 RAL : 9005
+- Il existe cependant aussi deux variantes monochromes: un monochrome blanc et un monochrome noir. La version monochrome noir sur fond blanc peut être utilisée si des raisons techniques l’exigent.
+- Sur des fonds noirs, foncés, colorés ou sur des photos, la Signature peut être utilisée en version monochrome blanc ou en blanc avec le symbole X en couleurs (si la lisibilité le permet).
+- Il existe cependant deux variantes monochromes: un monochrome blanc et un monochrome noir. La version monochrome noir sur fond blanc peut être utilisée si des raisons techniques l’exigent.
+- Sur des fonds noirs, foncés, colorés ou sur des photos, le symbole X peut être utilisé en version monochrome blanc ou en couleurs (si la lisibilité le permet).
+- LES COULEURS DU SYMBOLE X NE PEUVENT PAS ÊTRE INTERVERTIES OU CHANGÉES.
+
+##### Typography
+
+- La typographie à privilégier est Verlag. C’est celle qui est utilisée pour la Signature (logotype et invitation).
+- Il est aussi possible d’utiliser la typographie Gotham.
+- Comme typographie à empattement, il est aussi possible d’utiliser Chronicle à la place de Verlag.
+- Les différentes typographies et les différents styles d’écriture doivent être utilisés pour mieux structurer le contenu. Hiérarchiser les typographies favorisera une lisibilité optimale qui pourra être adaptée à chaque format.
+- La typographie Brandon Grotesque est celle à utiliser pour les titres sur le Web.
+- La typographie Calibri est celle à utiliser pour les corps de texte sur le Web.
+- La Calibri est aussi à utiliser pour les applications Office (Word, Powerpoint, Excel...)
+
+##### Logo Usage
+
+- La Signature du Luxembourg est constituée du logotype LuXembourg – composé du mot « Luxembourg » avec le symbole X – et de l’invitation Let’s make it happen.
+- Le symbole X fait partie intégrante du logotype comme illustré ici. Il ne peut remplacer la lettre X dans aucun autre mot ou logotype.
+- Le logo et l’invitation sont indissociables. La composition est fixe et ne peut pas être modifiée.
+- La présente version du logo avec l’invitation Let’s make it happen est la version privilégiée pour les actions de promotion du Luxembourg.
+- La Signature peut aussi être utilisée sans l’invitation Let’s make it happen. Cette application est recommandée pour les cas de figure où le slogan peut être perçu comme inapproprié (par ex. pour une communication sensible) ou lorsque les règles officielles limitent l’utilisation (par ex. les règles des fédérations sportives mondiales).
+- Il existe, exclusivement pour les applications en langue allemande, une forme spéciale du logo dans laquelle le mot « Luxembourg » est adapté à l’orthographe allemande.
+- La combinaison et les proportions des éléments du logo sont fixes et ne doivent pas être modifiées.
+- La zone d’exclusion est l’écart minimal entre, d’une part, la Signature et, d’autre part, les autres éléments visuels ainsi que le bord de l’espace utilisable.
+- Elle correspond à un écart de « 2L » de chaque côté, un « L » correspondant à la hauteur de la lettre « L » du logo.
+- Cet écart minimal doit être respecté afin que la Signature reste claire et lisible.
+- Le logo avec l’invitation ne peut avoir une largeur inférieure à 3 cm. Il n’y a pas de limitation de taille vers le haut. Le logo sans l’invitation ne peut avoir une largeur inférieure à 2 cm.
+- Le symbole X ne peut avoir une largeur inférieure de 0,3 cm. Il n’y a pas de limitation de taille vers le haut. Le symbole X peut être utilisé seul, à condition que la Signature du Luxembourg ou un autre logotype de la famille de la marque LuXembourg se retrouvent ailleurs sur le même support.
+- La Signature est tricolore. Le rouge et le bleu dans le symbole X représentent les couleurs nationales et sont complétés par le noir pour les éléments de texte.
+- Dans la mesure du possible, la version en couleurs de la Signature sur fond blanc doit être utilisée.
+- Il existe cependant aussi deux variantes monochromes: un monochrome blanc et un monochrome noir. La version monochrome noir sur fond blanc peut être utilisée si des raisons techniques l’exigent.
+- Sur des fonds noirs, foncés, colorés ou sur des photos, la Signature peut être utilisée en version monochrome blanc ou en blanc avec le symbole X en couleurs (si la lisibilité le permet).
+- Afin d’assurer une présentation cohérente du Luxembourg à l’étranger, toutes les règles graphiques doivent être respectées.
+- Veuillez trouver ci-après les différentes versions interdites d’utilisation de la Signature du Luxembourg :
+- LES ÉLÉMENTS INDIVIDUELS DE LA SIGNATURE DU LUXEMBOURG NE PEUVENT PAS ÊTRE MODIFIÉS DANS LEURS PROPORTIONS OU LEUR POSITION LES UNS PAR RAPPORT AUX AUTRES.
+- IL EST INTERDIT D’UTILISER DES ÉLÉMENTS DÉTACHÉS DE LA SIGNATURE DU LUXEMBOURG.
+- L’INVITATION NE PEUT PAS ÊTRE MODIFIÉE.
+- LES VERSIONS EN COULEURS DE LA SIGNATURE DU LUXEMBOURG NE PEUVENT PAS ÊTRE COMBINÉES.
+- LES EFFETS GRAPHIQUES DE TOUTE NATURE NE SONT PAS AUTORISÉS.
+- LA SIGNATURE DU LUXEMBOURG NE PEUT PAS ÊTRE INTÉGRÉE DANS UNE EXPRESSION.
+- LA SIGNATURE DU LUXEMBOURG NE PEUT PAS ÊTRE PLACÉE SUR UN FOND QUI N’OFFRE PAS UN CONTRASTE SUFFISANT.
+- LA SIGNATURE DU LUXEMBOURG NE PEUT ÊTRE NI DÉFORMÉE, NI COMPRIMÉE, NI ÉTIRÉE.
+
+##### Tone And Messaging
+
+- Une flèche symbolise le dynamisme.
+- Les flèches pointent dans les deux sens, ce qui reflète l'ouverture.
+- La forme est renforcée symétriquement dans toutes les directions et est donc stable.
+- Le plus qui apparaît au centre n'est visible qu'au second coup d'oeil et symbolise la plus-value apportée par le partenariat avec le Luxembourg.
+- L'utilisation des couleurs nationales crée un lien direct avec le Luxembourg.
+
+##### Brand Values
+
+- Sur base de sondages, d’entretiens individuels, de groupes de discussion et de débat, mais aussi par des contributions directes du public, les points forts du Luxembourg ont pu être identifiés, se traduisant d’un côté par trois valeurs fondamentales, à savoir la fiabilité, le dynamisme et l’ouverture et de l’autre, par la personnalité de l’allié qui rappelle celle du Luxembourg.
+- Une flèche symbolise le dynamisme.
+- Les flèches pointent dans les deux sens, ce qui reflète l'ouverture.
+- La forme est renforcée symétriquement dans toutes les directions et est donc stable.
+- Le plus qui apparaît au centre n'est visible qu'au second coup d'oeil et symbolise la plus-value apportée par le partenariat avec le Luxembourg.
+
+##### Visual Style
+
+- Une flèche symbolise le dynamisme.
+- Les flèches pointent dans les deux sens, ce qui reflète l'ouverture.
+- La forme est renforcée symétriquement dans toutes les directions et est donc stable.
+- Le plus qui apparaît au centre n'est visible qu'au second coup d'oeil et symbolise la plus-value apportée par le partenariat avec le Luxembourg.
+- L'utilisation des couleurs nationales crée un lien direct avec le Luxembourg.
+
+##### Iconography
+
+- Une flèche symbolise le dynamisme.
+- Les flèches pointent dans les deux sens, ce qui reflète l'ouverture.
+- La forme est renforcée symétriquement dans toutes les directions et est donc stable.
+- Le plus qui apparaît au centre n'est visible qu'au second coup d'oeil et symbolise la plus-value apportée par le partenariat avec le Luxembourg.
+- L'utilisation des couleurs nationales crée un lien direct avec le Luxembourg.
+
+##### Layout And Composition
+
+- La combinaison et les proportions des éléments du logo sont fixes et ne doivent pas être modifiées.
+- La zone d’exclusion est l’écart minimal entre, d’une part, la Signature et, d’autre part, les autres éléments visuels ainsi que le bord de l’espace utilisable.
+- Elle correspond à un écart de « 2L » de chaque côté, un « L » correspondant à la hauteur de la lettre « L » du logo.
+- Cet écart minimal doit être respecté afin que la Signature reste claire et lisible.
+- Le symbole X est constitué de quatre flèches bidirectionnelles: deux rouges et deux bleues qui créent un équilibre, une harmonie visuelle et un positionnement garant de stabilité. Pour cette raison, leur orientation ne peut pas être modifiée.
+- • La flèche bleue commence toujours en bas à gauche et se termine en haut à droite, • la flèche rouge commence toujours en haut à gauche et se termine en bas à droite.
+- La zone d’exclusion est l’écart minimal entre, d’une part, le symbole X et, d’autre part, les autres éléments visuels ainsi que le bord de l’espace utilisable.
+- Elle correspond à un écart de « 1/3 L » de chaque côté, un écart de « 1L » étant l’écart du symbole X au milieu.
+- Le logo avec l’invitation ne peut avoir une largeur inférieure à 3 cm. Il n’y a pas de limitation de taille vers le haut. Le logo sans l’invitation ne peut avoir une largeur inférieure à 2 cm.
+- Le logo sans l’invitation ne peut avoir une largeur inférieure à 2 cm.
+- Le symbole X ne peut avoir une largeur inférieure de 0,3 cm. Il n’y a pas de limitation de taille vers le haut. Le symbole X peut être utilisé seul, à condition que la Signature du Luxembourg ou un autre logotype de la famille de la marque LuXembourg se retrouvent ailleurs sur le même support.
 
 ## Additional Properties
 

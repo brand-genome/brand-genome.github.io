@@ -2,7 +2,7 @@
 title: Carleton University
 slug: "carleton-university"
 description: ""
-date: "2026-03-20T08:22:04.496823"
+date: "2026-04-10T09:40:33.252164"
 draft: false
 sectors:
   - university
@@ -55,21 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-  - gotham
-  - georgia
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "university in Ottawa, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1041737"
 has_twitter: false
@@ -88,38 +77,131 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Official Carleton University logos with clear zone of 1x shield width are official. Logos are to be resized without altering the aspect ratio. Dropped-out versions are required for use on dark backgrounds.
-- Narrow version of Carleton logo is suitable for tall, narrow spaces including web banners. The tagline version should generally be used, but non-tagline versions are suitable when spacing limitations apply.
-- Examples of sub-brand logotypes and ancillary unit identities are standardized. Faculties and Schools must acquire logos directly from the Creative Services team.
-- Logos can be downloaded, and any combinations with other logos require official approval.
+##### Mission
 
-**Color Information:**
+- To provide resources, guidance, and reference for all things related to branding, graphic standards, and logo usage at Carleton University, supporting communicators in creating a strong and consistent look for the university both internally and externally [^1].
 
-- Primary colors include PMS 186 (Carleton Red, #CF112D) with additional specs: CMYK (12, 100, 91, 3), and Black (#000000, CMYK 0, 0, 0, 100). Secondary color: 70% black (#4D4D4D).
-- Primary colors must be used to correctly identify the brand. Design is not restricted to these colors but must incorporate them to maintain identity.
+##### Core Values
 
-**Typography Information:**
+- Consistency
+- Clarity
+- Professionalism
+- Institutional authority
+- Academic prestige
 
-- Gotham (Light, Book, Medium, Bold) and Georgia (regular, italic, bold) are the official fonts. Arial may substitute for Gotham if unavailable. Helvetica may also be used as a temporary substitute for internal use documents.
-- Text formatting rules note that all-caps for paragraphs affects readability negatively. Good color contrast threshold: 70% black on white.
-- Examples of substitute and use guidelines include substituting with Helvetica for internal usage.
+##### Target Audience
 
-**Imagery Photography:**
+- University communicators, staff, faculty, and anyone tasked with communicating within the university environment [^2].
 
-- Photography planning support and supplier options are provided by DUC. Contact Greg MacDonald for further details. Official Carleton online photo gallery and archival photo database mentioned.
-- Video shoot planning assistance and approved supplier options are also listed under DUC's domain.
+##### Personality Traits
 
-**Spacing Layout:**
+- Formal
+- Professional
+- Authoritative
+- Academic
 
-- Logo clear zone requires 1x shield width around the logo for prominence. Consistent application applies to sub-brand logotypes.
-- Spacing guidelines apply to all internal and external materials across faculties and schools at Carleton University.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is centered around the official Carleton University logo, which features a shield with a maple leaf and an open book, accompanied by a clear hierarchy of serif and sans-serif typography. The primary color palette includes Carleton Red (PMS 186), black, and grey, with strict guidelines for logo usage, spacing, and color application. The identity emphasizes clarity, balance, and institutional branding across print, web, and advertising materials [^3].
 
-- Guide aims to provide comprehensive resources and references. It is periodically updated for all university communicators.
-- Accessible design resources are suggested, and recommendations for advertising best practices are listed. Contact information for various domains is also provided.
+#### Categories
+
+##### Logo Usage
+
+- Give the logo space. A clear zone of "x" (x=shield width) around the logo will give it the space it needs to stand out.
+- Logos that appear on the official logos page are the only ones authorized by the university for use
+- Please ensure that spacing guidelines, as identified on this page, are applied for any logo use
+- Carleton logos can be resized for specific use, but logo shape and aspect ratio cannot be altered in any way.
+- It is forbidden to alter or add to the Carleton logo. If you have a need to present the Carleton logo with other logos, contact DUC for guidance and permission
+- The narrow version of the Carleton logo works best in advertising situations where you are using taller, narrower creative material space and in space-restricted applications and environments, such as web banner ads.
+- Please ensure you use the proper version of the logo for your materials. Only the dropped out versions of the logo, which are readily available on our logo page should be used when a logo is to appear on a dark backdrop.
+- The tagline version of the logo is the official university logo, but where space limitations exist, it can be appropriate to use the version without the tagline.
+
+##### Color Palette
+
+- PMS 186
+- PMS: 186
+- CMYK: 12, 100, 91, 3
+- WEB: #CF112D
+- Black
+- CMYK: 0, 0, 0, 100
+- WEB: #000000
+- Grey (70% black)
+- CMYK: 0, 0, 0, 70
+- WEB: #4D4D4D
+- The primary colors are those that should appear in some manner in a piece to properly identify and differentiate the brand. When using red in a design, the Carleton PMS must be used. However, the piece is not limited to use of these colours only. The goal is to properly identify the brand with the primary colours, but not lessen the effectiveness of the piece by limiting use of colour all together. Balance is key.
+- The secondary colour of 70% black can be used in situations when an additional colour is required along side the primary brand colors.
+- For print: PANTONE 186
+- Process colors (cmyk)
+- <table><tr> <td> Cyan</td> <td> 12</td> </tr> <tr> <td> Magenta</td> <td> 100</td> </tr> <tr> <td> Yellow</td> <td> 91</td> </tr> <tr> <td> Black</td> <td> 3</td> </tr></table>
+- For web: #CF112D
+
+##### Typography
+
+- Gotham and Georgia are the official University fonts. Georgia is a standard system font. If Gotham is not installed on your system, you may use Arial in place of Gotham.
+- Setting type in capital letters can make a word or line stand out, but formatting an entire paragraph in caps can negatively affect readability. 70% black on white is the threshold for good contrast. See the Access Ability Handbook (referenced in the resource section of this guide) for a full detailed explanation of these best practices.
+- Gotham and Georgia are the official University fonts for external communications. Helvetica can be used in place of Gotham for internal use documents when needed.
+- Gotham Light
+- Gotham Book
+- Gotham Medium
+- Gotham Bold
+- Georgia regular Georgia italic
+- Georgia bold
+- Helvetica Light
+- Helvetica Regular
+- Helvetica Bold
+
+##### Visual Style
+
+- Give the logo space. A clear zone of "x" (x=shield width) around the logo will give it the space it needs to stand out.
+- Logos that appear on the official logos page are the only ones authorized by the university for use
+- Please ensure that spacing guidelines, as identified on this page, are applied for any logo use
+- Carleton logos can be resized for specific use, but logo shape and aspect ratio cannot be altered in any way.
+- It is forbidden to alter or add to the Carleton logo. If you have a need to present the Carleton logo with other logos, contact DUC for guidance and permission
+- The narrow version of the Carleton logo works best in advertising situations where you are using taller, narrower creative material space and in space-restricted applications and environments, such as web banner ads.
+- Please ensure you use the proper version of the logo for your materials. Only the dropped out versions of the logo, which are readily available on our logo page should be used when a logo is to appear on a dark backdrop.
+- The tagline version of the logo is the official university logo, but where space limitations exist, it can be appropriate to use the version without the tagline.
+
+##### Layout And Composition
+
+- Give the logo space. A clear zone of "x" (x=shield width) around the logo will give it the space it needs to stand out.
+- Please ensure that spacing guidelines, as identified on this page, are applied for any logo use
+- Carleton logos can be resized for specific use, but logo shape and aspect ratio cannot be altered in any way.
+- It is forbidden to alter or add to the Carleton logo. If you have a need to present the Carleton logo with other logos, contact DUC for guidance and permission
+- The narrow version of the Carleton logo works best in advertising situations where you are using taller, narrower creative material space and in space-restricted applications and environments, such as web banner ads.
+- Please ensure you use the proper version of the logo for your materials. Only the dropped out versions of the logo, which are readily available on our logo page should be used when a logo is to appear on a dark backdrop.
+- The tagline version of the logo is the official university logo, but where space limitations exist, it can be appropriate to use the version without the tagline.
+
+##### Video Guidelines
+
+- DUC can assist you with all of your video shoot requirements. Please contact Greg MacDonald at x8707 to discuss your needs. DUC can assist with planning and can provide you with approved supplier options that fit your need, budget and timing.
+
+##### Web Guidelines
+
+- WEB: #CF112D
+- WEB: #000000
+- WEB: #4D4D4D
+- ARIAL (gotham substitute for print and web): Arial Regular Arial Bold Arial Italic Arial Bold Italic
+- Gotham and Georgia are the official University fonts. Georgia is a standard system font. If Gotham is not installed on your system, you may use Arial in place of Gotham.
+- Setting type in capital letters can make a word or line stand out, but formatting an entire paragraph in caps can negatively affect readability. 70% black on white is the threshold for good contrast. See the Access Ability Handbook (referenced in the resource section of this guide) for a full detailed explanation of these best practices.
+- You can direct all web-related questions to Dan Brown: Danny.Brown@carleton.ca
+
+##### Social Media Guidelines
+
+- If you have a question about Carleton’s social media policy, Chris Cline is a good person to ask. You can reach Chris here: Chris.Cline@carleton.ca
+
+##### Advertising Guidelines
+
+- The narrow version of the Carleton logo works best in advertising situations where you are using taller, narrower creative material space and in space-restricted applications and environments, such as web banner ads.
+- Please ensure you use the proper version of the logo for your materials. Only the dropped out versions of the logo, which are readily available on our logo page should be used when a logo is to appear on a dark backdrop.
+- The tagline version of the logo is the official university logo, but where space limitations exist, it can be appropriate to use the version without the tagline.
+
+##### Accessible Design Guidelines
+
+- Setting type in capital letters can make a word or line stand out, but formatting an entire paragraph in caps can negatively affect readability. 70% black on white is the threshold for good contrast. See the Access Ability Handbook (referenced in the resource section of this guide) for a full detailed explanation of these best practices.
+- The Association of Registered Graphic Designers of Ontario (RGD) have produced an easy to use guide for designing for accessibility in mind. You can download the guide here: rgd-accessibledesign.com/2015/05/new-handbook-now-available/
 
 ## Additional Properties
 

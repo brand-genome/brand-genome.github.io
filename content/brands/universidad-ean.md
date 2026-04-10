@@ -2,7 +2,7 @@
 title: Universidad Ean
 slug: "universidad-ean"
 description: ""
-date: "2026-03-20T08:22:03.383815"
+date: "2026-04-10T09:40:30.930751"
 draft: false
 sectors:
   - university
@@ -57,21 +57,15 @@ imagery_styles: []
 wikidata_description: "University in Bogotá, Colombia"
 wikidata_url: "https://www.wikidata.org/wiki/Q9091550"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://universidadean.edu.co](https://universidadean.edu.co)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

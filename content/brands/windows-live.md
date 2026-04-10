@@ -2,7 +2,7 @@
 title: Windows Live
 slug: "windows-live"
 description: ""
-date: "2026-03-20T08:22:05.013791"
+date: "2026-04-10T09:40:33.778425"
 draft: false
 sectors:
   - software
@@ -49,29 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - yellow
-  - black
-typographies:
-  - script
-imagery_styles:
-  - product
-  - graphic
-  - bold
-  - natural
-  - static
-  - photography
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: cloud storage and file synchronization service from Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q864889"
 has_twitter: false
@@ -96,43 +77,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Windows Live brand logos include: full-color horizontal logo, full-color vertical logo, full-color vertical stacked logo, color line-art logo, and one-color (black) logo.
-- Clear space rules specify that the logo must have space equal to the height of the lowercase letters surrounding it. Minimum size for the logo in print is 0.2 inches and on-screen is 18 pixels.
-- Logo usage rules: Do not change the color, skew or stretch, rotate or tilt, use in copy, create new logos, alter typography in the logotype, use next to Windows Live product logos, or place within other graphic shapes.
-- Specific usage of product logos includes one-color (black) logo classified as 'limited use' for print only. Multiple size specifications for icons (.ico file) range between 256px to 16px.
-- Messenger icon guidelines: Trademarked icons cannot be altered but may be accessorized minimally if recognizable; modifications must be approved by wlbrand@microsoft.com.
-
-**Color Information:**
-
-- Color palette includes primary and extended colors. Examples: PMS 172 (Red), PMS 357 (Dark Green), PMS 360 (Green), PMS 541 (Dark Blue), PMS 279 (Blue), PMS 123 (Yellow). Specifies CMYK, RGB, and HEX codes for each color.
-- Gradient backgrounds are critical to visual identity. Includes color backgrounds such as Windows Yellow, Windows Green, Windows Blue, and Windows Live Light Blue. Rules: Use one color per spread, combine with white, and avoid cropping hotspots.
-
-**Typography Information:**
-
-- Typography uses Microsoft Segoe font family including Regular, Light, Italic, and Bold weights. Light is recommended for headlines (14 points or larger), Regular for body copy, and Light Italic for pull quotes.
-- Do's and Don'ts for typography: Do not overuse color, track letter spacing, use Segoe Regular for headlines; avoid Segoe Black and Segoe Script fonts entirely.
-
-**Imagery Photography:**
-
-- Photography style emphasizes natural lighting, vivid colors, sharp focus, and strong composition. Avoid static moments such as sitting and staring at a PC or standing alone looking at a phone.
-- Imagery rules specify using elements from Media Bank under Active > U-Z > Windows Consumer, focusing on main characters or 'hero' characters.
-
-**Spacing Layout:**
-
-- Clear space around the logo must equal the height of lowercase letters. Minimum size: in print 0.2 inches, on-screen 18 pixels.
-- Light wave elements must use colored backgrounds with primary or extended palette colors and create visual hotspots in the lightest parts for logo placement.
-
-**Brand Voice:**
-
-- Windows Live Messenger brand voice prioritizes meaningful relationships, lightheartedness, and inclusivity. Personality traits include authenticity, innovation, and trustworthiness.
-- SkyDrive brand voice highlights helpfulness, pragmatism, innovation, and trustworthiness.
-
-**Notes:**
-
-- Trademark names (e.g., Windows Live®, Hotmail®, SkyDrive®) must include symbols on first mention and may be dropped subsequently. Exceptions include Help files and UI elements.
-- For inquiries or additional assets like logos, visit Media Bank or contact wlbrand@microsoft.com.
+*Guidelines data not available*
 
 ## Additional Properties
 

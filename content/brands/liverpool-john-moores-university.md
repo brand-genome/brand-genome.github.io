@@ -2,7 +2,7 @@
 title: Liverpool John Moores University
 slug: "liverpool-john-moores-university"
 description: ""
-date: "2026-03-20T08:22:04.119185"
+date: "2026-04-10T09:40:32.211527"
 draft: false
 sectors:
   - university
@@ -74,19 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The brand marque is represented by the Liver Bird, establishing LJMU's connection to Liverpool and its identity as part of the city's historical and cultural fabric.
-- The brand marque is represented by the Liver Bird, establishing LJMU's connection to Liverpool and its identity as part of the city's historical and cultural fabric.
-- The brand marque is represented by the Liver Bird, establishing LJMU's connection to Liverpool and its identity as part of the city's historical and cultural fabric.
-
-**Brand Voice:**
-
-- The brand proposition emphasizes the connection between Liverpool John Moores University (LJMU) and the city of Liverpool, focusing on shared values such as ambition, community support, pride, and making a difference together.
-
-**Notes:**
-
-- Empty or missing content on this page.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Ticket To The Moon
 slug: "ticket-to-the-moon"
 description: ""
-date: "2026-03-20T08:22:05.404019"
+date: "2026-04-10T09:40:34.260221"
 draft: false
 sectors:
   - "consumer-goods"
@@ -25,8 +25,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "outdoor-gear"
   - "sleeping-bag"
+  - "outdoor-gear"
   - hammock
 products: []
 headquarters_locations: []
@@ -53,9 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: "Company producing outdoor gear, mainly hammocks and accessories for them"
 wikidata_url: "https://www.wikidata.org/wiki/Q137605714"
 has_twitter: false
@@ -77,35 +75,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Mentions logo usage and importance.
-- Mentions 'logo' or related context.
-
-**Color Information:**
-
-- Mentions 'color' or related context.
-
-**Typography Information:**
-
-- Mentions typography guidance or styles.
-- Mentions 'font' or related context.
-- Mentions 'bold' or related context.
-
-**Imagery Photography:**
-
-- Mentions imagery or photography guidelines.
-
-**Spacing Layout:**
-
-- Mentions layout, spacing, or alignment specifications.
-- Mentions 'spacing' or related context.
-- Mentions 'layout' or related context.
-
-**Notes:**
-
-- General references to the importance of guidelines.
-- Mentions 'guidelines' or related context.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -115,6 +85,6 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Hammock](/products_or_materials_produced/hammock/) |
+| Product Or Material Produced | [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Hammock](/products_or_materials_produced/hammock/) |
 | Country | Austria |
 | Product Or Material Produced | outdoor gear, hammock, sleeping bag |

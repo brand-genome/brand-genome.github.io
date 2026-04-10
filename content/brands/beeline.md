@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-03-20T08:22:05.588781"
+date: "2026-04-10T09:40:34.533936"
 draft: false
 sectors:
   - telecom
@@ -52,24 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - white
-  - grey
-  - gray
-  - yellow
-  - black
-typographies:
-  - verdana
-  - serif
-imagery_styles:
-  - bold
-  - modern
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: telecommunications brand initially introduced in 1993 in Russia
 wikidata_url: "https://www.wikidata.org/wiki/Q402880"
 has_twitter: false
@@ -88,56 +74,7 @@ visual_term_image_urls: {}
 
 ### 2005
 
-**Logo Information:**
-
-- 02 Введение
-
-06 Логотип
-
-12 Полоски «Билайн»
-
-13 Графические образы
-
-16 Цветовая палитра «Билайн»
-
-19 Шрифты
-
-21 Запрещено!
-
-24 Примеры
-- Color scheme and logo placement details that describe how to pair logo colors with appropriate backgrounds to maintain contrast. Specific rules for color pairing exist, such as using black text for yellow or gray backgrounds and white text for red or black backgrounds. Particular focus is given to guidelines on avoiding overlapping logo placement on striped backgrounds.
-- Prohibited alterations to the logo are detailed, such as distorting proportions, changing font styles, modifying the shape or appearance of the logo, or placing the logo on a complex background. Certain restrictions include ensuring the logos appear singularly and are not used as watermarks or altered in saturation.
-
-**Color Information:**
-
-- Guidance on colors for backgrounds and text within marketing materials. Yellow must avoid use as a background due to its nature, while black is acceptable for high-value or VIP business contexts. Primary brand colors include yellow, black, and white, while secondary accents are gray and red, used for text emphasis.
-- Beeline Yellow – Pantone® 123; CMYK C0 M32 Y90 K0; RGB R240 G190 B50.
-Beeline Black – Pantone® Black C; CMYK C0 M0 Y0 K100; RGB R0 G0 B0.
-Beeline Grey – Pantone® 7529 C; Metallic Pantone® swap under certain premium conditions. 
-Beeline Red – Pantone® 186.
-Guidance mentions metallic silver-gray accents for premium materials.
-
-**Typography Information:**
-
-- Primary font: Officina Serif, characterized by openness, readability, and modern aesthetics. Recommended sizes are: 9pt for primary text, 6pt for service text, and 11pt for web use. Line spacing should exceed standard spacing by 2pt. Allow practical and legible typography design when incorporating headlines.
-- Secondary font: Verdana, a web-specific and widely recognized choice, applicable for internal usages. Minimum size for web application: 11pt. Bold Verdana for headers contrasts against light Verdana for articles.
-
-**Imagery Photography:**
-
-- Beelines signature striped patterns make the branding object recognizable; objects covered or interposed with familiar black-yellow branding stripes discourages merging or indistinction through colors/tones beyond recommended designs.
-
-**Spacing Layout:**
-
-- Information communicating Beeline layout must streamline unmistakably. Page proximity go minimally horizontally-extensive. Employ depth dimensions to surface symmetry mid-left/right regions avoiding backdrop pealt layering lacking uncluttered central merge of branding harmonizing fundamental bound externally high-integrity without complex element features distracting.
-
-**Brand Voice:**
-
-- Brand voice highlights the company's philosophy and values, focusing on comfort, clear communication, emotional connectedness, and creating a positive impression. Encourages friendly, warm, and confident messaging.
-
-**Notes:**
-
-- General introduction to the Beeline branding guide. Describes objectives of the brand refresh and emphasizes accessibility, emotion-sharing, and satisfaction within brand communication and experiences.
-- Content detailing restrictions and usage rules specific to imagery, color palette, typography, and layout within Beeline’s guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

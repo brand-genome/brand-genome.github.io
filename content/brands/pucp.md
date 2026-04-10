@@ -2,12 +2,12 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-03-20T08:22:04.246225"
+date: "2026-04-10T09:40:32.826059"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - peru
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - community
+  - education
 industries: []
 countries:
   - peru
@@ -54,14 +54,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-2239"
-  - "pantone-298"
-  - "pantone-1495"
-  - "pantone-390"
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: private university in Peru
 wikidata_url: "https://www.wikidata.org/wiki/Q200601"
 has_twitter: false
@@ -80,41 +75,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Imagotipo
-Es el elemento más importante de nuestra identidad. Es la garantía de calidad que uni˜ca todas las piezas de comunicación. El imagotipo es el elemento más reconocible y altamente visible de la institución, por lo que es vital que sea aplicado correctamente en todas las comunicaciones. La marca PUCP se compone de una unidad única portadora de todos los elementos reconocibles de su identidad.
-
-**Color Information:**
-
-- Para el uso correcto de la paleta institucional, se proponen las siguientes combinaciones entre un fondo del color principal con texto de un color secundario. Su aplicación será para piezas de comunicación externa.
-PANTONE 1495 C
-PANTONE 2239 C
-PANTONE 298 C
-PANTONE 390 C
-C0 M55Y95 K0
-C66 M0 Y42 K0
-C70 M0Y0 K0
-
-**Typography Information:**
-
-- TT Norms en sus variantes Light, Regular, Bold y ExtraBold, las cuales serán utilizadas para los títulos y subtítulos en la comunicación de la marca.
-
-**Imagery Photography:**
-
-- Estilo fotográfico recomendado para representar las carreras de la institución: armonía de colores vibrantes, iluminación adecuada, contrates que evoquen emoción y adapten al objetivo de comunicación.
-
-**Spacing Layout:**
-
-- En la presente grilla, se muestran las relaciones entre elementos y su disposición en el plano. Dichas relaciones no podrán ser modificadas ni alteradas, a fin de conservar intacta la identidad visual de la marca.
-
-**Brand Voice:**
-
-- Este manual ha sido creado para que todos los miembros de nuestra comunidad puedan crear materiales y contenidos para medios impresos de uso institucional, usando correctamente las tipografías, logotipos, colores y otros recursos de nuestra identidad.
-
-**Notes:**
-
-- Este manual está organizado para contestar preguntas frecuentes sobre el uso de elementos gráficos que conforman la identidad visual de la PUCP.
+*Guidelines data not available*
 
 ## Additional Properties
 

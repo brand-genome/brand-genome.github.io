@@ -2,7 +2,7 @@
 title: Do Space
 slug: "do-space"
 description: ""
-date: "2026-03-20T08:22:05.565909"
+date: "2026-04-10T09:40:34.482916"
 draft: false
 sectors:
   - education
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - vibrant
-  - clean
-  - natural
+imagery_styles: []
 wikidata_description: "organization in Nebraska, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q22907884"
 has_twitter: false
@@ -84,43 +74,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo configurations include primary logo setups that adapt to various contexts. Details on variations provided include horizontal and stacked arrangements.
-- Logo clear space requirements ensure visibility and exclusivity. Clear space is defined as '1x' of the logo height surrounding it. Minimum size specifications ensure legibility in different use cases.
-- Color variations for the logo include full color, black, white, and reversed versions. This ensures adaptability to light and dark backgrounds.
-- Guidelines for black and white logo versions: designed for grayscale printing or monochromatic use cases.
-- Incorrect usage examples highlight pitfalls like stretching, adding outlines, changing colors, or rotating the logo.
-
-**Color Information:**
-
-- Primary color palette includes Pantone, HEX, RGB, and CMYK specifications, ensuring brand consistency across mediums.
-- Pantone color builds for accent and alternative variations are specified to complement primary brand colors.
-- Rules specify appropriate scenarios for main color palette use and additional shades.
-- Examples of incorrect color usages include clashing combinations or unauthorized customizations.
-
-**Typography Information:**
-
-- Primary typeface is [Font Name], including weights such as Light, Regular, Medium, and Bold.
-- Secondary type samples demonstrate proper font sizing, leading, and applications across headers, body text, and captions.
-
-**Imagery Photography:**
-
-- Imagery should convey inclusivity, innovation, and engagement. Prioritize vibrant and high-quality photos depicting natural light.
-- Avoid over-editing images, using low-quality resolution, or detracting from brand identity through inappropriate visuals.
-
-**Spacing Layout:**
-
-- Spacing and layout follow a modular grid system. Uniform alignment and sufficient padding are crucial for maintaining consistency.
-- Margins and gutters must follow a proportional rule to screen size, ensuring clean designs in all resolutions.
-
-**Brand Voice:**
-
-- The Do Space brand conveys a unique culture and value system. It requires extra attention to detail at every user touchpoint to maintain consistency and integrity.
-
-**Notes:**
-
-- Brand guidelines emphasize strong, distinctive community-centric aesthetics with reminders to not violate exclusivity requirements.
+*Guidelines data not available*
 
 ## Additional Properties
 

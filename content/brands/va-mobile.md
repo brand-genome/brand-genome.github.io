@@ -2,7 +2,7 @@
 title: VA Mobile
 slug: "va-mobile"
 description: ""
-date: "2026-03-20T08:22:05.713582"
+date: "2026-04-10T09:40:34.663843"
 draft: false
 sectors:
   - "public-sector"
@@ -47,12 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,26 +71,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Primary VA Mobile Logo introduced. Emphasis on consistent usage for accurate brand representation.
-- VA Mobile Logo is positioned as complementary to the overarching VA brand, focusing on healthcare and benefits delivery through technology.
-- Mentioned logo font: Myriad Pro Bold Italic
-- Logo colors referenced: 541 PC and 7461 PC (likely Pantone color codes)
-
-**Color Information:**
-
-- Colors mentioned: 541 PC and 7461 PC. Appears to relate to VA Mobile Logo.
-
-**Typography Information:**
-
-- Primary logo font specified: Myriad Pro Bold Italic.
-
-**Brand Voice:**
-
-- Core Values defined as 'I CARE' — Integrity, Commitment, Advocacy, Respect, Excellence, representing the organization's principle philosophy.
-- VA Mobile brand focuses on expanding services to Veterans using mobile technologies, including apps for personal health info, mental health screening, and service location.
-
-**Notes:**
-
-- Access to VA Mobile branding and design templates provided at: http://mobilehealth.va.gov/content/va-mobile-branding-requirements-resources.
+*Guidelines data not available*

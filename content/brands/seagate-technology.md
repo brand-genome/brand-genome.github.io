@@ -2,11 +2,11 @@
 title: Seagate Technology
 slug: "seagate-technology"
 description: ""
-date: "2026-03-20T08:22:05.796337"
+date: "2026-04-10T09:40:34.791055"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -31,11 +31,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "hybrid-drive"
-  - "solid-state-drive"
   - seagate
   - software
   - "hard-disk"
+  - "hybrid-drive"
+  - "solid-state-drive"
 products: []
 headquarters_locations:
   - cupertino
@@ -68,9 +68,9 @@ imagery_styles: []
 wikidata_description: American data storage company
 wikidata_url: "https://www.wikidata.org/wiki/Q705392"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,12 +78,6 @@ visual_term_image_urls: {}
 
 - [https://www.seagate.com](https://www.seagate.com)
 - [http://www.seagate.com](http://www.seagate.com)
-
-## Brand Guidelines
-
-### 2006
-
-*Guidelines data not available*
 
 ## Additional Properties
 
@@ -93,7 +87,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Hybrid Drive](/products_or_materials_produced/hybrid-drive/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Seagate](/products_or_materials_produced/seagate/); [Software](/products_or_materials_produced/software/); [Hard Disk](/products_or_materials_produced/hard-disk/) |
+| Product Or Material Produced | [Seagate](/products_or_materials_produced/seagate/); [Software](/products_or_materials_produced/software/); [Hard Disk](/products_or_materials_produced/hard-disk/); [Hybrid Drive](/products_or_materials_produced/hybrid-drive/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/) |
 | Headquarters Location | [Cupertino](/headquarters_locations/cupertino/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Stock Exchange | Nasdaq (from 2002-12-11) |

@@ -2,7 +2,7 @@
 title: UnLtd
 slug: unltd
 description: ""
-date: "2026-03-20T08:22:04.441339"
+date: "2026-04-10T09:40:33.188270"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - social
+  - charity
 industries: []
 countries: []
 revenue_buckets: []

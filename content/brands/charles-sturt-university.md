@@ -2,7 +2,7 @@
 title: Charles Sturt University
 slug: "charles-sturt-university"
 description: ""
-date: "2026-03-20T08:22:03.888949"
+date: "2026-04-10T09:40:31.581646"
 draft: false
 sectors:
   - university
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: public university in Australia
 wikidata_url: "https://www.wikidata.org/wiki/Q1066188"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [https://www.shop.csu.edu.au](https://www.shop.csu.edu.au)
 - [https://social.csu.edu.au/connect](https://social.csu.edu.au/connect)
 - [http://csu.edu.au](http://csu.edu.au)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

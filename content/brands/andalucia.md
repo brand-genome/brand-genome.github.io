@@ -2,7 +2,7 @@
 title: Andalucia
 slug: andalucia
 description: ""
-date: "2026-03-20T08:22:04.686690"
+date: "2026-04-10T09:40:33.409479"
 draft: false
 sectors:
   - tourism
@@ -48,13 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - graphic
+imagery_styles: []
 wikidata_description: "municipality and town in Valle del Cauca Department, Colombia"
 wikidata_url: "https://www.wikidata.org/wiki/Q1526216"
 has_twitter: false
@@ -74,37 +71,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo clear space or protection area definition: 'Área de protección mínima' specifies a perimeter equal to 1/3 of the total height of the logo.
-- Do's and Don'ts or incorrect logo usage examples (details pending image extraction).
-
-**Color Information:**
-
-- Color information, including mentions of Pantone colors and CMYK codes. Includes primary and complementary palettes.
-
-**Spacing Layout:**
-
-- Graphic construction establishes fixed and unalterable proportions for designs. Protection area rules also apply here.
-
-**Brand Voice:**
-
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-- Mentions of brand identity and tone of voice with symbolic language like 'cultural richness' and dynamic expression of Andalusia.
-
-**Notes:**
-
-- Additional visual content or design elements mentioned on page 3, requires detailed image extraction.
-- Additional visual content or design elements mentioned on page 5, requires detailed image extraction.
-- Additional visual content or design elements mentioned on page 6, requires detailed image extraction.
-- Additional visual content or design elements mentioned on page 7, requires detailed image extraction.
-- Additional visual content or design elements mentioned on page 8, requires detailed image extraction.
-- Additional visual content or design elements mentioned on page 12, requires detailed image extraction.
+*Guidelines data not available*
 
 ## Additional Properties
 

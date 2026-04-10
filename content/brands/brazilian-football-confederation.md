@@ -2,7 +2,7 @@
 title: Brazilian Football Confederation
 slug: "brazilian-football-confederation"
 description: ""
-date: "2026-03-20T08:22:04.339063"
+date: "2026-04-10T09:40:33.053479"
 draft: false
 sectors:
   - sports
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - silver
-  - gold
-  - "pantone-288"
-  - "pantone-109"
-  - "pantone-7482"
-  - "pantone-2194"
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: governing body of association football in Brazil
 wikidata_url: "https://www.wikidata.org/wiki/Q244754"
 has_twitter: false
@@ -82,36 +72,169 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- The institutional logo requires an 8mm clear space and a minimum size of 50px for digital use to ensure legibility.
-- Examples of incorrect logo usage include adding gradients, rotating, distorting, altering logo colors, adding shadows, and changing alignments.
-- The logo can be used on all primary brand colors and requires proper contrast.
-- Monochromatic versions can be used for minimalistic style, such as on metallic or wooden backgrounds.
-- Monochromatic logos should ensure legibility on color and grayscale backgrounds. Metallic tones like gold and silver are acceptable.
+##### Mission
 
-**Color Information:**
+- Fazer do futebol a nossa melhor brasilidade.
 
-- Primary brand colors include Pantone 109 C, Pantone 2194 C, Pantone 7482 C, and Pantone 288 C.
-- The primary color palette is used in all communication pieces. Alternative colors ensure legibility on different backgrounds.
+##### Core Values
 
-**Typography Information:**
+- respeito à marca e à história
+- ginja
+- superação
+- consistência
+- visibilidade
+- legibilidade
 
-- Typography for institutional usage includes 'Prometo Bold' and 'Prometo X Bold', tailored for formal documents and presentations.
-- Typography for promotional usage includes 'Noka Light', 'Noka Medium', 'Noka Black', and 'Noka Bold' for energetic communication such as campaigns, advertisements, and social media.
-- System typography uses Arial in Regular and Bold weights for printed and digital materials.
+##### Target Audience
 
-**Spacing Layout:**
+- Instituições, seleções masculinas e femininas, público nacional e internacional relacionado ao futebol brasileiro.
 
-- Clear space and minimum size for logos and typography should be proportional for legibility across all environments, including printed materials and digital platforms.
+##### Personality Traits
 
-**Brand Voice:**
+- formal
+- emblematic
+- patriotic
+- dynamic
+- consistent
 
-- Brand messaging promotes Brazilian football identity with slogans such as 'Fazer do futebol a nossa melhor brasilidade' and 'Voa, canarinho, voa'.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on a shield emblem with blue, yellow, green, and white colors, featuring a cross and the acronym 'CBF'. The guidelines emphasize consistent logo usage, minimum sizing, clear space, color palette, and typographic rules. The brand is applied across uniforms, stationery, digital, and promotional materials, prioritizing legibility and contrast.
 
-- The document emphasizes consistency in brand application across materials, ensuring proper usage of logos, colors, and typography.
+#### Categories
+
+##### Brand Imagery
+
+- Para uso sobre fotografias, privilegie sempre o bom contraste da Marca e sua leitura integral. Caso a Marca principal não apresente boa leitura, utilize suas versões monocromáticas, com contorno branco, ou ainda o box de arejamento definido na página 6.
+- A Marca Monocromática pode assumir todas as 4 cores da Marca e ser aplicada sobre estas mesmas cores, sempre garantindo a total legibilidade da Marca.
+- A Marca Monocrcrnatlca pode assumir todas as 4 cores da Marca e ser aplicada sobre tons de cinza, sempre garantindo a total legibilidade da Marca.
+- Além dos tons da paleta, a versão monocromática poderá ser aplicada em preto, branco e tons metalizados como o dourado e o prata. Veja, ao lado, a legibilidade destas versões sobre fundos em tons de cinza.
+- Quando a Marca for aplicada em outras cores de fundo, deve-se prezar pelo contraste de todos elementos. Em versões onde não haja contraste suficiente em nenhuma das duas aplicações principais, a versão monocromática deve ser utilizada.
+
+##### Color Palette
+
+- A paleta de cores da CBF deve ser privilegiada nas aplicações.
+- A qualidade de reprodução das cores deve ser rigorosamente observada em todas as peças de comunicação.
+- Veja, ao lado, as especificações das cores institucionais em Pantone, CMYK, RGB e Hex Color.
+- Pantone 109 C C0 M10 Y100 K0 R255 G205 B0 #ffcd00 Pantone 7482 C C90 M0 Y100 K0 R0 G160 B50 #00a032 Pantone 2194 C C100 M30 Y0 K0 R0 G95 B230 #005fe6 Pantone 288 C C100 M80 Y0 K30 R0 G30 B115 #001e73
+
+##### Typography
+
+- A assinatura tipográfica da Marca também é aplicada nas comunicações institucionais da CBF, porém em materiais com espaço reduzido ou que já possuam a aplicação do escudo institucional.
+- A assinatura tipográfica conta com 3 versões de uso. Veja ao lado.
+- Assinatura simples
+- Assinatura horizontal
+- Assinatura vertical
+- Para garantir a legibilidade e integridade das versões da Assinatura Tipográfica, deve sempre haver um espaçamento mínimo ao seu redor, chamado de área de arejamento. Nenhum elemento gráfico deve invadir esse espaço, medido em função da largura da letra F.
+- Atenção: a largura da letra F é um módulo proporcional, não uma medida.
+- A definição de um tamanho mínimo da Marca tem o objetivo de manter a sua legibilidade na comunicação.
+- Ambiente impresso
+- 6mm
+- 25mm
+- 12mm
+- Ambiente digital
+- 30 px
+- 140 px
+- 67 px
+- A Marca Tippgráfica pode assumir todas as 4 cores da Marca e ser aplicada sobre estas mesmas cores, sempre garantindo a total legibilidade da Marca.
+- A aplicação deve priorizar sempre a versão principal. Em casos onde a Marca não apresente constraste suficiente, deve-se utilizar a versão em branco.
+- A paleta de cores da CBF deve ser privilegiada nas aplicações.
+- A qualidade de reprodução das cores deve ser rigorosamente observada em todas as peças de comunicação.
+- Veja, ao lado, as especificações das cores institucionais em Pantone, CMYK, RGB e Hex Color.
+- Prometo Regular
+- Prometo Bold
+- Prometo XBold
+- A Prometo deve ser utilizada em toda comunicação institucional da CBF, apresentações, materiais de papelaria e tudo que representa a CBF institucionalmente.
+- Ela é também a tipografia que compõe o escudo com nomes "CBF" e "BRASIL".
+- Atenção: Para blocos de texto corrido, deve-se usar a Prometo para ambos os casos, Institucional e Promocional.
+- A Noka, por outro lado, deve ser utilizada apenas nos materiais de comunicação, como campanhas, anúncios, redes sociais, pôsteres etc.
+- Atenção: a Noka deve ser sempre aplicada em CAIXA-ALTA.
+- Quando a tipografia oficial não puder ser utilizada por limitações técnicas, recomenda-se o uso da tipografia de sistema. A Arial foi selecionada por garantir o traço legível em meios digitais e impressos.
+- Arial Regular
+- Arial Bold
+
+##### Logo Usage
+
+- Para garantir a legibilidade e integridade da Marca CBF, deve sempre haver um espaçamento mínimo ao seu redor, chamado de área de arejamento. Nenhum elemento gráfico deve invadir esse espaço, medido em função de X. O X é a espessura das faixas internas do escudo.
+- Atenção: X é um módulo proporcional, não uma medida.
+- A definição de um tamanho mínimo da Marca tem o objetivo de manter a sua legibilidade na comunicação.
+- Tamanho mínimo Impressos 8mm
+- Tamanho mínimo Digital 50 px
+- É fundamental que a Marca seja aplicada de forma consistente para garantir sua personalidade, força e para assegurar sua visibilidade na comunicação. Ao lado, alguns exemplos de usos incorretos da Marca.
+- Não alterar tipografia
+- Não mexer no alinhamento
+- Não usar em fio de contorno
+- Não rotacionar
+- Não distorcer
+- Não alterar cor dos elementos
+- Não adicionar gradientes
+- Não adicionar sombra
+- Não criar versões 30
+- A Marca pode ser aplicada sobre todas as suas cores principais, porém sempre priorize os fundos branco, azul, amarelo e verde.
+- Sempre que a Marca não apresentar contraste suficiente, ela deve ser aplicada na versão de exceção, onde ganha um contorno com a mesma espessura do fio amarelo interno.
+- Observação: outra possibilidade é utilizar a versão monocromática da Marca.
+- A aplicação deve priorizar sempre a versão principal. Em casos onde a Marca não apresente constraste suficiente, deve-se utilizar a versão de exceção.
+- A versão monocromática da Marca pode ser utilizada tanto nos casos em que seja inviável aplicá-la em cores, como gravações em metal, madeira e outros, quanto em aplicações em que se queira uma presença mais discreta e elegante da Marca.
+- A Marca Monocromática pode assumir todas as 4 cores da Marca e ser aplicada sobre estas mesmas cores, sempre garantindo a total legibilidade da Marca.
+- A Marca Monocrcrnatlca pode assumir todas as 4 cores da Marca e ser aplicada sobre tons de cinza, sempre garantindo a total legibilidade da Marca.
+- Além dos tons da paleta, a versão monocromática poderá ser aplicada em preto, branco e tons metalizados como o dourado e o prata. Veja, ao lado, a legibilidade destas versões sobre fundos em tons de cinza.
+- Para uso sobre fotografias, privilegie sempre o bom contraste da Marca e sua leitura integral. Caso a Marca principal não apresente boa leitura, utilize suas versões monocromáticas, com contorno branco, ou ainda o box de arejamento definido na página 6.
+
+##### Visual Style
+
+- Para garantir a legibilidade e integridade da Marca CBF, deve sempre haver um espaçamento mínimo ao seu redor, chamado de área de arejamento. Nenhum elemento gráfico deve invadir esse espaço, medido em função de X. O X é a espessura das faixas internas do escudo.
+- Atenção: X é um módulo proporcional, não uma medida.
+- A definição de um tamanho mínimo da Marca tem o objetivo de manter a sua legibilidade na comunicação.
+- Tamanho mínimo Impressos 8mm
+- Tamanho mínimo Digital 50 px
+- É fundamental que a Marca seja aplicada de forma consistente para garantir sua personalidade, força e para assegurar sua visibilidade na comunicação. Ao lado, alguns exemplos de usos incorretos da Marca.
+- Não alterar tipografia
+- Não mexer no alinhamento
+- Não usar em fio de contorno
+- Não rotacionar
+- Não distorcer
+- Não alterar cor dos elementos
+- Não adicionar gradientes
+- Não adicionar sombra
+- Não criar versões 30
+- A Marca pode ser aplicada sobre todas as suas cores principais, porém sempre priorize os fundos branco, azul, amarelo e verde.
+- Sempre que a Marca não apresentar contraste suficiente, ela deve ser aplicada na versão de exceção, onde ganha um contorno com a mesma espessura do fio amarelo interno.
+- Observação: outra possibilidade é utilizar a versão monocromática da Marca.
+- A aplicação deve priorizar sempre a versão principal. Em casos onde a Marca não apresente constraste suficiente, deve-se utilizar a versão de exceção.
+- A versão monocromática da Marca pode ser utilizada tanto nos casos em que seja inviável aplicá-la em cores, como gravações em metal, madeira e outros, quanto em aplicações em que se queira uma presença mais discreta e elegante da Marca.
+- A Marca Monocromática pode assumir todas as 4 cores da Marca e ser aplicada sobre estas mesmas cores, sempre garantindo a total legibilidade da Marca.
+- A Marca Monocrcrnatlca pode assumir todas as 4 cores da Marca e ser aplicada sobre tons de cinza, sempre garantindo a total legibilidade da Marca.
+- Além dos tons da paleta, a versão monocromática poderá ser aplicada em preto, branco e tons metalizados como o dourado e o prata. Veja, ao lado, a legibilidade destas versões sobre fundos em tons de cinza.
+- Para uso sobre fotografias, privilegie sempre o bom contraste da Marca e sua leitura integral. Caso a Marca principal não apresente boa leitura, utilize suas versões monocromáticas, com contorno branco, ou ainda o box de arejamento definido na página 6.
+
+##### Layout And Composition
+
+- Para garantir a legibilidade e integridade da Marca CBF, deve sempre haver um espaçamento mínimo ao seu redor, chamado de área de arejamento. Nenhum elemento gráfico deve invadir esse espaço, medido em função de X. O X é a espessura das faixas internas do escudo.
+- Atenção: X é um módulo proporcional, não uma medida.
+- A definição de um tamanho mínimo da Marca tem o objetivo de manter a sua legibilidade na comunicação.
+- Tamanho mínimo Impressos 8mm
+- Tamanho mínimo Digital 50 px
+- É fundamental que a Marca seja aplicada de forma consistente para garantir sua personalidade, força e para assegurar sua visibilidade na comunicação. Ao lado, alguns exemplos de usos incorretos da Marca.
+- Não alterar tipografia
+- Não mexer no alinhamento
+- Não usar em fio de contorno
+- Não rotacionar
+- Não distorcer
+- Não alterar cor dos elementos
+- Não adicionar gradientes
+- Não adicionar sombra
+- Não criar versões
+- A Marca pode ser aplicada sobre todas as suas cores principais, porém sempre priorize os fundos branco, azul, amarelo e verde.
+- Sempre que a Marca não apresentar contraste suficiente, ela deve ser aplicada na versão de exceção, onde ganha um contorno com a mesma espessura do fio amarelo interno.
+- Observação: outra possibilidade é utilizar a versão monocromática da Marca.
+- A aplicação deve priorizar sempre a versão principal. Em casos onde a Marca não apresente constraste suficiente, deve-se utilizar a versão de exceção.
+- A versão monocromática da Marca pode ser utilizada tanto nos casos em que seja inviável aplicá-la em cores, como gravações em metal, madeira e outros, quanto em aplicações em que se queira uma presença mais discreta e elegante da Marca.
+- A Marca Monocromática pode assumir todas as 4 cores da Marca e ser aplicada sobre estas mesmas cores, sempre garantindo a total legibilidade da Marca.
+- A Marca Monocrcrnatlca pode assumir todas as 4 cores da Marca e ser aplicada sobre tons de cinza, sempre garantindo a total legibilidade da Marca.
+- Além dos tons da paleta, a versão monocromática poderá ser aplicada em preto, branco e tons metalizados como o dourado e o prata. Veja, ao lado, a legibilidade destas versões sobre fundos em tons de cinza.
+- Para uso sobre fotografias, privilegie sempre o bom contraste da Marca e sua leitura integral. Caso a Marca principal não apresente boa leitura, utilize suas versões monocromáticas, com contorno branco, ou ainda o box de arejamento definido na página 6.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Globo
 slug: globo
 description: ""
-date: "2026-03-20T08:22:04.339322"
+date: "2026-04-10T09:40:33.054156"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - broadcast
   - featured
+  - broadcast
   - media
 industries: []
 countries:
@@ -53,9 +53,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -81,118 +79,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- 1
-miniguia 
-m a rc a
-˝
-g lo b o
-marca e comunicação
-04 08 2020
-- 2
-Introdução
-Nossos atributos
-2 .1
-A marca Globo
-3 .1
-3. 2
-3. 3
-3. 4
-Linguagem
-4 .1
-4.2
-4.3
-4.4
-4.5
-4.6
-4 .7
-Aplicações
-Estratégia
-Símbolo
-Ty p e
-Versões
-Uso
-Branco
-Cores
-Gradiente
-Formas
-Grid
-
-
-índice
-- 14
-Esta é a nossa
-versão principal
-com as 8 cores
-da paleta brilho.
-a marca globo
-
-**Color Information:**
-
-- 14
-Esta é a nossa
-versão principal
-com as 8 cores
-da paleta brilho.
-a marca globo
-- 15
-Também
-temos
-estas versões
-secundárias
-com cores
-reduzidas.
-a marca globo
-
-**Typography Information:**
-
-- 21
-O nosso
-type com a 
-fonte globobrand.
-a marca globo
-Vetor
-- 22
-O nosso
-type versão 3D 
-com a 
-fonte globobrand.
-a marca globo
-3D
-
-**Imagery Photography:**
-
-- 60
-linguagem
-Para usar o 
-gradiente
-com imagens:
-1. Procure os pontos 
-de cor da imagem.
-- 61
-linguagem
-Para usar o 
-gradiente
-com imagens:
-1. Procure os pontos 
-de cor da imagem.
-2.Ache a cor 
-correspondente na 
-paleta brilho.
-
-**Spacing Layout:**
-
-- 24
-Grid versão 
-vertical.
-a marca globo
-Vertical
-- 33
-Grid versão 
-horizontal
-a marca globo
-Horizontal
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Napster
 slug: napster
 description: ""
-date: "2026-03-20T08:22:05.719444"
+date: "2026-04-10T09:40:34.672455"
 draft: false
 sectors:
   - software
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - gray
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: online music service
 wikidata_url: "https://www.wikidata.org/wiki/Q275141"
 has_twitter: false
@@ -83,42 +73,130 @@ visual_term_image_urls: {}
 
 ### 2007
 
-**Logo Information:**
+#### Brand Summary
 
-- The Napster corporate logo consists of a graphic symbol, also known as the 'Kittyhead,' and 'Napster' type. These two elements should primarily appear together in corporate materials but may appear separately for special uses like promotional items.
-- The Napster logo proportions must not be altered. The configuration and shape must remain consistent to maintain logo integrity.
-- Clear space rules: Clear space around the logo is equal to the X-height of the Napster type to preserve the logo's integrity.
-- Minimum size requirement: The Napster logo must not be reproduced smaller than 1.0 inches across to ensure readability.
-- The full-color Napster logo uses three colors: Pantone 2728C (blue), Pantone 368C (green), and Pantone Cool Grey 10C (gray). It is the preferred for printed materials and promotional use.
-- Monochromatic logo variants may use Napster Blue (Pantone 2728C) or black, particularly for 1-color applications like newspaper advertisements.
-- Logo on mid-tone backgrounds: The type must reverse to white, and the inside of the Kittyhead must also appear white. Ensure sufficient contrast between the logo graphic and the background color.
-- Logo on dark backgrounds: A 1pt white outline may be placed around the Kittyhead for differentiation, with the type appearing in white. The outline should not be too large.
-- Background control guidelines: The logo must have sufficient contrast with color, patterned, or photographic backgrounds. Overly complex backgrounds are not allowed.
-- Improper logo usage: Examples include altering size relationships between the Kittyhead and type, changing colors, modifying typography, or placing the logo within a shape or graphic.
+##### Mission
 
-**Color Information:**
+- To provide the foundation for consistent application of the Napster brand across all media, building strong brand awareness and enabling Napster to become the marketplace leader.
 
-- Primary colors: Napster Blue (Pantone 2728C, C:96 M:69 Y:0 K:0, R:24 G:51 B:148), Napster Green (Pantone 368C, C:57 M:0 Y:100 K:0, R:110 G:187 B:31), Napster Grey (Pantone Cool Grey 10C, C:0 M:2 Y:0 K:60, R:102 G:100 B:101).
+##### Core Values
 
-**Typography Information:**
+- consistency
+- brand integrity
+- recognition
 
-- The Napster type is a custom design and does not belong to any standard font family. It must not be altered or reset.
+##### Target Audience
 
-**Imagery Photography:**
+- Users and partners interacting with Napster across interface, web, collateral, promotions, and advertising.
 
-- When applying the Napster logo to backgrounds (color, patterned, or photographic), sufficient contrast must be maintained to ensure the logo remains legible and visually effective.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- bold
+- recognizable
 
-- Clear space around the Napster logo must be maintained and equal to the X-height of the Napster type, ensuring the logo's visual impact and integrity in all applications.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The Napster visual identity centers on a corporate logo featuring a graphic symbol (Kittyhead) and custom Napster type, with strict guidelines for logo proportions, clear space, minimum size, and color specifications. The logo uses blue, green, and gray spot colors, and may be adapted for monochromatic or color backgrounds, always maintaining contrast and legibility.
 
-- The Napster brand is built on consistent expression across media platforms including web, collateral, advertisements, and promotional content.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Follow these guidelines to maintain the consistency and integrity of the Napster brand in all applications.
+- The Napster logo has been developed as a balanced whole and at no time may the shape, configuration, or proportions be altered. The correct proportions are shown here.
+- Consistent use of the logo helps maintain the integrity of the brand and ensures greater brand recognition.
+- To preserve the integrity of the logo and ensure maximum impact in environments where it appears with other elements, clear space must be maintained on all sides of the logo. The minimum clear space required is relative to the size of the logo. It is equal to the X-height of the Napster type as indicated.
+- When the logo is reduced there is a point at which it becomes ineffective. By establishing a minimum size for the logo it is ensured the logo is always prominent and readable. The Napster logo should never be reproduced smaller than 1.0 inches across.
+- The Napster corporate logo is made up of both a graphic symbol and the Napster type. These two elements should appear as shown here in all corporate materials including the Napster application, Web site, and collateral materials.
+- The graphic symbol, or Kittyhead as it is known, and the Napster type may appear separately in special situations such as on promotional items like hats and t-shirts. The corporate configuration is the preferred usage however.
+- The Napster logo utilizes three spot colors: blue, green and gray. This full-color version is the preferred usage for all printed materials or promotional items. Pantone Matching System colors are specified here for those purposes. When 4-color offset printing is used for printed materials, the logo may be reproduced in the 4-color equivalents of the Pantone colors. RGB values are provided for onscreen usage.
+- When using the 3 Napster spot colors or their 4-color equivalents is not an option on printed materials, a monochromatic version of the logo may be used. Napster Blue (PMS 2728) is the preferred option. Black may be used in 1-color applications such as newspaper advertisements.
+- Color logo on a mid-tone background. Although the 3-color logo on a white background is the preferred usage, there will be instances when the logo must appear on a color background. In cases where the background is a mid-tone the type must reverse to white for maximum legibility. The space inside the Kittyhead must also appear white. There must be sufficient contrast between the Kittyhead graphic and the background color for this usage.
+- For application of the logo on a dark or black background it is acceptable to place a thin white rule around the Kittyhead to differentiate it from the background. At the logo size shown here, a 1pt rule works best, smaller or larger versions of the logo may require different size rules. The type appears white as shown.
+- Do not make the white outline around the Kittyhead too large.
+- Do not reverse the outline of the Kittyhead to white on a dark background.
+- To maintain the legibility of the logo and brand integrity there always must be sufficient contrast between the logo and the background it appears on. The Napster logo may be printed on a color, patterned, or photographic background if there is adequate contrast with the logo. Shown here are examples of acceptable and unacceptable usage of the logo on various backgrounds.
+- Background color must always provide sufficient contrast with the Napster colors.
+- The logo type must reverse to white on mid-tone or black backgrounds.
+- Photographic or patterned backgrounds must not be overly complex.
+- The Napster logo has been carefully designed to reflect the brand personality of Napster and it should always appear in it’s original form with sufficient clear space surrounding it.
+- The Napster type is a custom design and does not belong to any standard font family. Do not reset the Napster type or alter it in any way. Do not alter the overall shape of the Kittyhead or the expression on its face.
+- To ensure the impact and preserve the integrity of the logo, any deviation from the established standard usage is prohibited. The following examples show improper usage of the Napster logo.
+- Do not alter the size relationship between the Kittyhead and the Napster type.
+- Do not alter the typography.
+- Do not put the logo in a containing shape or graphic
+- Do not alter the colors of the logo.
+
+##### Color Palette
+
+- The Napster logo utilizes three spot colors: blue, green and gray. This full-color version is the preferred usage for all printed materials or promotional items. Pantone Matching System colors are specified here for those purposes. When 4-color offset printing is used for printed materials, the logo may be reproduced in the 4-color equivalents of the Pantone colors. RGB values are provided for onscreen usage.
+- When using the 3 Napster spot colors or their 4-color equivalents is not an option on printed materials, a monochromatic version of the logo may be used. Napster Blue (PMS 2728) is the preferred option. Black may be used in 1-color applications such as newspaper advertisements.
+- Napster Blue Pantone 2728C
+- C:96 M:69: Y:0 K:0
+- R:24 G:51 B:148
+- Napster Green
+- Pantone 368C
+- C:57 M:0: Y:100 K:0
+- R:110 G:187 B:31
+- Napster Grey
+- Pantone Cool Grey 10C
+- C:0 M:2: Y:0 K:60
+- R:102 G:100 B:101
+- Monochromatic logo: One spot color
+- Monochromatic logo: Black
+- Color logo on a mid-tone background. Although the 3-color logo on a white background is the preferred usage, there will be instances when the logo must appear on a color background. In cases where the background is a mid-tone the type must reverse to white for maximum legibility. The space inside the Kittyhead must also appear white. There must be sufficient contrast between the Kittyhead graphic and the background color for this usage.
+- For application of the logo on a dark or black background it is acceptable to place a thin white rule around the Kittyhead to differentiate it from the background. At the logo size shown here, a 1pt rule works best, smaller or larger versions of the logo may require different size rules. The type appears white as shown.
+- Do not make the white outline around the Kittyhead too large.
+- Do not reverse the outline of the Kittyhead to white on a dark background.
+- To maintain the legibility of the logo and brand integrity there always must be sufficient contrast between the logo and the background it appears on. The Napster logo may be printed on a color, patterned, or photographic background if there is adequate contrast with the logo. Shown here are examples of acceptable and unacceptable usage of the logo on various backgrounds.
+- Background color must always provide sufficient contrast with the Napster colors.
+- The logo type must reverse to white on mid-tone or black backgrounds.
+- Photographic or patterned backgrounds must not be overly complex.
+- Do not alter the colors of the logo.
+
+##### Visual Style
+
+- The Napster logo has been developed as a balanced whole and at no time may the shape, configuration, or proportions be altered. The correct proportions are shown here.
+- Consistent use of the logo helps maintain the integrity of the brand and ensures greater brand recognition.
+- To preserve the integrity of the logo and ensure maximum impact in environments where it appears with other elements, clear space must be maintained on all sides of the logo. The minimum clear space required is relative to the size of the logo. It is equal to the X-height of the Napster type as indicated.
+- When the logo is reduced there is a point at which it becomes ineffective. By establishing a minimum size for the logo it is ensured the logo is always prominent and readable. The Napster logo should never be reproduced smaller than 1.0 inches across.
+- The Napster logo utilizes three spot colors: blue, green and gray. This full-color version is the preferred usage for all printed materials or promotional items. Pantone Matching System colors are specified here for those purposes. When 4-color offset printing is used for printed materials, the logo may be reproduced in the 4-color equivalents of the Pantone colors. RGB values are provided for onscreen usage.
+- When using the 3 Napster spot colors or their 4-color equivalents is not an option on printed materials, a monochromatic version of the logo may be used. Napster Blue (PMS 2728) is the preferred option. Black may be used in 1-color applications such as newspaper advertisements.
+- Napster Blue Pantone 2728C
+- C:96 M:69: Y:0 K:0
+- R:24 G:51 B:148
+- Napster Green Pantone 368C
+- C:57 M:0: Y:100 K:0
+- R:110 G:187 B:31
+- Napster Grey Pantone Cool Grey 10C
+- C:0 M:2: Y:0 K:60
+- R:102 G:100 B:101
+- Color logo on a mid-tone background. Although the 3-color logo on a white background is the preferred usage, there will be instances when the logo must appear on a color background. In cases where the background is a mid-tone the type must reverse to white for maximum legibility. The space inside the Kittyhead must also appear white. There must be sufficient contrast between the Kittyhead graphic and the background color for this usage.
+- For application of the logo on a dark or black background it is acceptable to place a thin white rule around the Kittyhead to differentiate it from the background. At the logo size shown here, a 1pt rule works best, smaller or larger versions of the logo may require different size rules. The type appears white as shown.
+- Do not make the white outline around the Kittyhead too large.
+- Do not reverse the outline of the Kittyhead to white on a dark background.
+- To maintain the legibility of the logo and brand integrity there always must be sufficient contrast between the logo and the background it appears on. The Napster logo may be printed on a color, patterned, or photographic background if there is adequate contrast with the logo. Shown here are examples of acceptable and unacceptable usage of the logo on various backgrounds.
+- Background color must always provide sufficient contrast with the Napster colors.
+- The logo type must reverse to white on mid-tone or black backgrounds.
+- Photographic or patterned backgrounds must not be overly complex.
+- The Napster logo has been carefully designed to reflect the brand personality of Napster and it should always appear in it’s original form with sufficient clear space surrounding it.
+- The Napster type is a custom design and does not belong to any standard font family. Do not reset the Napster type or alter it in any way. Do not alter the overall shape of the Kittyhead or the expression on its face.
+- To ensure the impact and preserve the integrity of the logo, any deviation from the established standard usage is prohibited. The following examples show improper usage of the Napster logo.
+- Do not alter the size relationship between the Kittyhead and the Napster type.
+- Do not alter the typography.
+- Do not put the logo in a containing shape or graphic
+- Do not alter the colors of the logo.
+
+##### Typography
+
+- The Napster corporate logo is made up of both a graphic symbol and the Napster type. These two elements should appear as shown here in all corporate materials including the Napster application, Web site, and collateral materials.
+- The graphic symbol, or Kittyhead as it is known, and the Napster type may appear separately in special situations such as on promotional items like hats and t-shirts. The corporate configuration is the preferred usage however.
+- The Napster logo has been developed as a balanced whole and at no time may the shape, configuration, or proportions be altered. The correct proportions are shown here.
+- Clear space must be maintained on all sides of the logo. The minimum clear space required is relative to the size of the logo. It is equal to the X-height of the Napster type as indicated.
+- The Napster logo should never be reproduced smaller than 1.0 inches across.
+- The Napster type is a custom design and does not belong to any standard font family. Do not reset the Napster type or alter it in any way.
+- Do not alter the size relationship between the Kittyhead and the Napster type.
+- Do not alter the typography.
 
 ## Additional Properties
 

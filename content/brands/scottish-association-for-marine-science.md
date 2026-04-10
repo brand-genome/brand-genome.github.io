@@ -2,11 +2,11 @@
 title: Scottish Association for Marine Science
 slug: "scottish-association-for-marine-science"
 description: ""
-date: "2026-03-20T08:22:03.063465"
+date: "2026-04-10T09:40:30.549106"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - scotland
 years:
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: Scottish oceanographic Society and research organization
 wikidata_url: "https://www.wikidata.org/wiki/Q7437625"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.sams.ac.uk](https://www.sams.ac.uk)
 - [http://www.sams.ac.uk](http://www.sams.ac.uk)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

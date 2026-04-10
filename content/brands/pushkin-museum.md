@@ -2,7 +2,7 @@
 title: Pushkin Museum
 slug: "pushkin-museum"
 description: ""
-date: "2026-03-20T08:22:04.226856"
+date: "2026-04-10T09:40:32.667747"
 draft: false
 sectors:
   - "arts-culture"
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: museum of European art in Moscow
 wikidata_url: "https://www.wikidata.org/wiki/Q4872"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 
 - [https://pushkinmuseum.art](https://pushkinmuseum.art)
 - [http://www.arts-museum.ru](http://www.arts-museum.ru)
-
-## Brand Guidelines
-
-### 2012
-
-*Guidelines data not available*
 
 ## Additional Properties
 

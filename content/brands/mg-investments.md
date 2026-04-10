@@ -2,7 +2,7 @@
 title: "M&G Investments"
 slug: "mg-investments"
 description: ""
-date: "2026-03-20T08:22:04.714300"
+date: "2026-04-10T09:40:33.436651"
 draft: false
 sectors:
   - finance
@@ -79,16 +79,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Brand Voice:**
-
-- Tone of voice goes beyond rules of good writing (brevity, clarity, relevance). It aims to ensure consistency of style and align with company values (Conviction, Originality, Energy). The tone can be adjusted based on the audience.
-- Conviction: The business is built on conviction, focusing on straightforward products, rigorous research, and delivering trustworthiness for over 80 years. The style is honest, straightforward, and supported by records and principles.
-- Originality: The company emphasizes creative problem-solving and long-term thinking. Language should reflect these principles by being confident and fresh while avoiding reliance on clichés.
-- Energy: Focused on high performance with a positive, forward-thinking attitude. Writing should be enthusiastic, honest about performance, and highlight benefits while tackling issues factually.
-
-**Notes:**
-
-- Corrupted or unreadable content was encountered in the majority of the PDF, with only sections on the brand voice and writing style being legible.
+*Guidelines data not available*
 
 ## Additional Properties
 

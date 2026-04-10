@@ -2,7 +2,7 @@
 title: ACTVET
 slug: actvet
 description: ""
-date: "2026-03-20T08:22:04.342707"
+date: "2026-04-10T09:40:33.062073"
 draft: false
 sectors:
   - "public-sector"
@@ -47,18 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - gray
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - monochrome
-  - vibrant
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,37 +68,107 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- ACTVET logo is composed of two elements: the symbol and the logotype. It should be simple, with no drop shadows, glossy reflections, or flashy graphic effects.
-- Logo clear space rules: Maintain a clear space of 50% of the symbol's height around the logo wherever possible. If not possible, a reduced clear space of 25% may be used.
-- To maximize visibility and recognition, logos should be placed in any corner position of a layout, avoiding placement in the center.
-- Monochrome logo usage: Use vibrant colors preferably, but if full color is impractical, use a gray version (75% black tint), or black and white versions.
-- Logo should be adaptable to image backgrounds using contrast (gray logo on light backgrounds and white logo on dark backgrounds). It requires placement within uncluttered image areas.
+##### Mission
 
-**Color Information:**
+- Regulate the TVET sector in the Emirate of Abu Dhabi to build a national workforce that is capable of effectively participating in the sustainable development of the country [^1]
 
-- Color theme provides CMYK color breakdowns but the specific color names or associations are not explicitly noted.
+##### Core Values
 
-**Typography Information:**
+- quality
+- clarity
+- professionalism
+- bilingual identity
 
-- Primary typefaces: 'GE SS' for Arabic, 'Neo Sans Std' for English.
+##### Target Audience
 
-**Imagery Photography:**
+- UAE citizens, technical and vocational education institutions, trainers, tutors, and stakeholders in the Abu Dhabi technical and vocational sector [^2]
 
-- LOGO on backgrounds: Contrasting adjustments recommended for maximum legibility. Gray logos for light-colored backgrounds and white logos for dark-colored backgrounds. Always ensure the area is uncluttered.
+##### Personality Traits
 
-**Spacing Layout:**
+- institutional
+- formal
+- modern
+- inclusive
 
-- Clear spacing rules: Maintain clear area of 50% the symbol’s height around the logo, reducible to 25% in special circumstances.
-- Preferred placement: Place the logo in the corners of the layout, avoiding center alignments.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The brand uses a clean, professional, and modern visual style with a focus on clarity, bilingual presentation (English and Arabic), and consistent logo usage. The color palette includes gold, brown, gray, and blue tones, with clear guidelines for logo placement, clear space, and monochrome adaptations. Typography is specified for both English and Arabic, and the brand is applied across various internal print materials and signage. [^3]
 
-- ACTVET communicates with clarity and consistency across its media and materials to reflect quality and simplicity.
-- Social media accounts and online presence are integral to marketing and maintaining brand interface with core business and education services.
+#### Categories
 
-**Notes:**
+##### Color Palette
 
-- The document repeatedly emphasizes updated brand adherence, referencing Version 00 updated on 20 January 2021.
-- Sample items such as ID cards, booklets, and hypothetical brand applications are included for illustrative purposes of brand identity.
+- Pantone P 11 - 16 U
+- COLOR THEME
+- C: 30 M:45 Y: 87 K: 8
+- C: 47 M:50 Y: 42 K: 32
+- C: 54 M:22 Y: 28 K: 4
+- The preferred color of the logo is one of the vibrant colors. In same cases, a full color logo may not be practical or possible due to limitations in printing. In these instances, the use of a gray version (made as a 75% tint of black) or a one-color black or white logo is allowed.
+- Use an all-gray logo for use on light colored backgrounds, and an all-white version for dark backgrounds.
+
+##### Typography
+
+- Arabic: GE SS
+- English: Neo Sans Std
+
+##### Logo Usage
+
+- ACTVET logo is the most visible element of the organization identity - a universal signature across all ACTVET Media communications. Its a reflection of quality that unites our diverse products and services.
+- Use the same version in di˜erent variety of design elements; It's simple, easy to understand, no drop shadows, no glossy reflections, and no flashy graphic e˜ects.
+- ACTVET logo is made up of two elements: 1. The symbol 2. The logotype
+- The following pages cover the correct usage to ensure the logo always looks its best.
+- Pantone P 11 - 16 U
+- To ensure that the signature versions are clearly visible in all applications, surround it with sufficient clear space free of type, graphics, and other elements that might cause visual clutter -to maximize the recognition and impact of the identity.
+- To ensure the integrity and legibility of the logo lock-ups, the area directly surrounding it should be protected.
+- When the logotype or full name is used, a clear space of 50% the symbol's height should be maintained.
+- In special circumstances when a 50% clear zone isn't available or possible, use the second option of 25% clear space.
+- Avoid placing the logo in the middle of an area. On any given format -landscape or vertical -the preferred logo placement is in any corner position.
+- The preferred color of the logo is one of the vibrant colors. In same cases, a full color logo may not be practical or possible due to limitations in printing. In these instances, the use of a gray version (made as a 75% tint of black) or a one-color black or white logo is allowed.
+- ACTVET logo may also be used on an image background with sufficient contrast. Use an all-gray logo for use on light colored backgrounds, and an all-white version for dark backgrounds.
+- When placing the logo onto imaginary, ensure that it is placed within an uncluttered image area to allow for maximum legibility and visibility.
+
+##### Visual Style
+
+- Use the same version in di˜erent variety of design elements; It's simple, easy to understand, no drop shadows, no glossy reflections, and no flashy graphic e˜ects.
+- To ensure that the signature versions are clearly visible in all applications, surround it with sufficient clear space free of type, graphics, and other elements that might cause visual clutter -to maximize the recognition and impact of the identity.
+- To ensure the integrity and legibility of the logo lock-ups, the area directly surrounding it should be protected.
+- When the logotype or full name is used, a clear space of 50% the symbol's height should be maintained.
+- In special circumstances when a 50% clear zone isn't available or possible, use the second option of 25% clear space.
+- Avoid placing the logo in the middle of an area. On any given format -landscape or vertical -the preferred logo placement is in any corner position.
+- The preferred color of the logo is one of the vibrant colors. In same cases, a full color logo may not be practical or possible due to limitations in printing. In these instances, the use of a gray version (made as a 75% tint of black) or a one-color black or white logo is allowed.
+- Arabic: GE SS
+- English: Neo Sans Std
+- ACTVET logo may also be used on an image background with sufficient contrast. Use an all-gray logo for use on light colored backgrounds, and an all-white version for dark backgrounds.
+- When placing the logo onto imaginary, ensure that it is placed within an uncluttered image area to allow for maximum legibility and visibility.
+
+##### Layout And Composition
+
+- To ensure that the signature versions are clearly visible in all applications, surround it with sufficient clear space free of type, graphics, and other elements that might cause visual clutter -to maximize the recognition and impact of the identity.
+- To ensure the integrity and legibility of the logo lock-ups, the area directly surrounding it should be protected.
+- When the logotype or full name is used, a clear space of 50% the symbol's height should be maintained.
+- In special circumstances when a 50% clear zone isn't available or possible, use the second option of 25% clear space.
+- Avoid placing the logo in the middle of an area. On any given format -landscape or vertical -the preferred logo placement is in any corner position.
+- When placing the logo onto imaginary, ensure that it is placed within an uncluttered image area to allow for maximum legibility and visibility.
+
+##### Mission Statement
+
+- Regulate the TVET sector in the Emirate of Abu Dhabi to build a national workforce that is capable of effectively participating in the sustainable development of the country
+
+##### Vision Statement
+
+- TVET to become the first choice for UAE citizens
+
+##### Internal Print Materials
+
+- The following elements are hypothetical examples, showing the brand identity applied across various materials.
+
+##### Social Media Guidelines
+
+- ACTVET social media accounts and website are the interface of its core business, services, and education system. there are three ways to market the official channels as follows:
+- actvet.gov.ae @@ © @ACTVETuae
+- @
+- 0©000 @ACTVETuae actvet.gov.ae
+- @ACTVETuae I actvet.gov.ae
+- For further inquiries, please contact: social.media@actvet.gov.ae +971 2 613 2128

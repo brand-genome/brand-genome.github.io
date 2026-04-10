@@ -2,11 +2,11 @@
 title: Lun.ua
 slug: lunua
 description: ""
-date: "2026-03-20T08:22:03.254701"
+date: "2026-04-10T09:40:30.767563"
 draft: false
 sectors:
-  - "real-estate"
   - software
+  - "real-estate"
 regions:
   - ukraine
 years:
@@ -49,14 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-5255"
-  - "pantone-1495"
-  - "pantone-7548"
-typographies:
-  - roboto
-imagery_styles:
-  - clean
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,30 +70,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The logo is described as 'a window into the LUN world', reflecting the brand essence.
-
-**Color Information:**
-
-- Brand colors are specified with Pantone, CMYK, and RGB codes. Examples include Pantone 1495 C (C: 3 M: 52 Y: 92 K: 0 / R: 250 G: 120 B: 0), Pantone 5255 C (C: 94 M: 87 Y: 41 K: 50 / R: 10 G: 10 B: 40), Pantone 7548 C, and others.
-
-**Typography Information:**
-
-- Roboto font family is used. The exact roles or weights are not specified in this section.
-
-**Imagery Photography:**
-
-- The style specifies maintaining honesty and a connection to the brand mission. No hyper stylizations or exaggerated treatment.
-
-**Spacing Layout:**
-
-- Spacing and alignment must complement the clean and honest brand identity of LUN.
-
-**Brand Voice:**
-
-- LUN communicates with simplicity, honesty, openness, and humor. The tone reflects trustworthiness and emphasizes truth.
-
-**Notes:**
-
-- The guidelines emphasize reflecting the brand mission of exposing the truth in real estate. Visual design, imagery, and communication are all tailored to simplify the user journey.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: "Colby-Sawyer College"
 slug: "colby-sawyer-college"
 description: ""
-date: "2026-03-20T08:22:04.403954"
+date: "2026-04-10T09:40:33.142457"
 draft: false
 sectors:
   - university
@@ -50,14 +50,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
-typographies:
-  - merriweather
-  - lato
+typographies: []
 imagery_styles: []
 wikidata_description: "Private college in New Hampshire, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q5142055"
@@ -76,35 +71,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Guidelines for consistent logo usage, including logotypes and stamps. Variations in size, spacing, and placement of branding elements are covered.
-- Spacing rules for vertical and horizontal logo applications, including lockups and spacing examples for consistent branding.
-
-**Color Information:**
-
-- Details on primary logo colors and gradients, including CMYK specifications for approved palettes.
-- Supplementary color palettes, including HEX, RGB, and CMYK specifications for brand consistency in various applications.
-
-**Typography Information:**
-
-- Guidelines on approved typefaces for print, including font families, weights, and usage examples.
-- Web typography specifications detailing font families like Lato and Merriweather, with weights and pairing examples.
-
-**Spacing Layout:**
-
-- Spacing rules and layout grids for logo usage and text alignments in marketing materials.
-- Requirements for consistent margins and headings in documents, including left and right alignment specifications.
-
-**Brand Voice:**
-
-- Introduction to the brand identity, emphasizing the need for consistency in tone, design, and messaging across applications.
-- Specific messaging guidelines to align with the brand's strategic vision and goals, targeting a wide variety of audiences.
-
-**Notes:**
-
-- General introduction to the brand guide, explaining its purpose and scope.
-- Contact information for the Office of Marketing and Communications, available for assistance with brand and logo usage.
+*Guidelines data not available*
 
 ## Additional Properties
 

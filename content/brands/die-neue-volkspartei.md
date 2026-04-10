@@ -2,7 +2,7 @@
 title: Die Neue Volkspartei
 slug: "die-neue-volkspartei"
 description: ""
-date: "2026-03-20T08:22:04.177567"
+date: "2026-04-10T09:40:32.497213"
 draft: false
 sectors:
   - "public-sector"
@@ -47,9 +47,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - orange
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,411 +68,169 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Design Basics
-Absender
-Auf den Einsat z des ÖVP-Logos wird bis auf 
-Weiteres ver zichtet. Als Absender fungier t der 
-Slogan —Die neue Volkspar teiﬁ.
-Dieser wird primär linksbündig und zweizeilig 
-gesetz t. Wenn es die gegebenen Formate nicht 
-anders erlauben, ist auch eine einzeilige Anwen
--
-dung möglich.
-Hauptanwendung
-Anwendung einzeilig
+##### Mission
 
-**Color Information:**
+- To create a fresh, modern, and authentic look for the new Volkspartei, emphasizing natural interactions and a clear, approachable visual identity [^1].
 
-- Design Basics
-Hauptfarben
-Die neue Markenfarbe ist SK-Türkis. Diese 
-Farbe kommt bei plakativen Anwendungen als 
-Hintergrundfarbe zum Einsat z, bei eleganten 
-Anwendungen als Schrif tfarbeaufWeiß. Schwar z 
-kommt nur mehr als Schrif tfarbe zur Anwen
--
-dung, nicht mehr jedoch zur Gestaltung flächi
--
-ger Hintergründe.
-Speziell für den Zeitungsdruck gibt es eine 
-adaptier te CMYK-Definition des SK-Türkis Œ um 
-ein optimales Erscheinungsbild auf dem immer 
-leicht gelblichen Zeitungspapier zu gew ährleisten. 
-Darüber hinaus gibt es auch eine RAL Definition, 
-die natürlich nur eine farbliche Annäherung dar
--
-stellen kann. Demzufolge sollte diese Definition 
+##### Core Values
 
-nur dann zur Anwendung kommen, wenn es 
-keine andere Alternative (z.B. Beklebung durch 
-Folien) gibt.
-SK-Türkis
+- authenticity
+- freshness
+- modernity
+- approachability
+- community
+- responsibility
+- clarity
 
-CMYK: 60/0/20/0
-PANTONE: 7 709C / 7 709U
-RGB: 98/195/208
+##### Target Audience
 
-#: 62C3D0
-RAL: 6034 (Pastelltürkis)
-Œ
+- Supporters, functionaries, and the general public, with a focus on engaging people in natural, everyday situations and regional events [^2].
 
-Zeitungsdruck
-CMYK: 60/0/12/0
-Weiß
-C M YK :  0/0/0/0
-RGB: 255/255/255
-#: FFFFFF
-Schwarz
+##### Personality Traits
 
-CMYK: 0/0/0/100
-PANTONE: Black C
-R G B :  0/0/0
+- natural
+- light
+- elegant
+- non-aggressive
+- responsible
+- community-oriented
 
-#: 000000
+##### Visual Identity Overview
 
-**Typography Information:**
+- The visual identity centers on SK-Türkis as the primary color, supported by secondary colors for differentiation. Typography uses Geomanist and Knile fonts, with clear rules for headlines and copy. The brand avoids traditional logo usage, instead using the slogan 'Die neue Volkspartei' in specific layouts. Photography is candid, with natural color environments and depth of field, aiming for an authentic, modern look. Call-to-action elements are prominent and consistently styled. Regional and event materials follow defined templates for layout and color [^3].
 
-- Regionale Anwendungen
-Facebook Account
-Jetzt unterstützen:
-www.sebastian-kurz.at
-Jetzt unterstützen:
-www.sebastian-kurz.at
-Coverbild
-Zusammen
-neue Wege 
-gehen.
-Profilbild
-Grundsät zlich sind bei allen Anwendungen die 
-definier ten Schrif ten zu ver wenden. Sollte dies 
-aus technischen Gründen nicht möglich sein, 
+#### Categories
 
-dient die Systemschrif t —Arialﬁ als alleiniger Ersat z.
-Bei der Ver wendung der Ersatzschrift —Arialﬁ bitten 
-wir darum, die Schriftschnitte dergestalt zu wählen, 
-dass der Gesamteindruck der Kampagne mög
--
-lichst gewahr t bleibt.
-Besondere Achtsamkeit sollte in diesem Zusam
--
-menhang auch den Zeilen- und Buchstabenab
--
+##### Brand Imagery
 
-ständen sowie den Unterstreichungen zukommen.
+- Sämtliche Fotos der Kampagne entstehen aus natürlichen Situationen heraus. Nichts ist dabei gestellt: Der Fotograf ist als Beobachter vor Ort, wenn Sebastian Kurz auf Menschen trifft Dabei interessieren uns ganz besonders die natürlichen Reaktionen der Menschen. Das geht manchmal so weit, dass sogar der Kandidat selbst in den Hintergrund rückt oder unscharf ist Weil es um die Menschen geht
+- Das Fotokonzept der Kampagne folgt klaren Regeln. An erster Stelle steht das Prinzip der Tiefenschärfe. Sie erlaubt es uns. den Blick des Betrachters auf einen bestimmten Punkt des Fotos hin zu lenken und visuell interessante Storys zu erzählen. Des Weiteren wird jedes Foto ausnahmslos in seiner authentisch-natürlichen Farbwelt erzählt. Letzter Punkt: Die Farbigkeit selbst ist stets elegant und frisch. niemals domi­nant und keinesfalls aggressiv
+- Übergeordnetes Ziel ist es. einen frischen. modernen und vor allem authentischen Look zu schaffen.
+- Auch für die Portraits von Funktionären und Unterstützern gelten dieselben Regeln: - Tiefenunschärfe - natürliche Farbumgebung - frische, nicht aggressive Farbwelt
+- Darüber hinaus ist auf folgende Punkte zu achten: Look & Feel - natürlich - leicht Blickwinkel - leichtes Profil - nicht frontal - auf Augenhöhe Styling - der eigenen Persönlichkeit entsprechend - dezente Farben - keine Stoffmuster - kein auffälliger Schmuck Hintergrund - drinnen oder draußen - hell - nicht geblitzt - unscharf bzw. räumlich - ruhig - kein Freisteller
+- Darüber hinaus ist auf folgende Punkte zu achten: Look & Feel -natürlich -leicht Blickwinkel -leichtes Profil -nicht frontal -auf Augenhöhe Styling - der eigenen Persönlichkeit entsprechend -dezente Farben -keine Stoffmuster -kein auffälliger Schmuck Hintergrund - drinnen oder draußen - hell - nicht geblitzt - unscharf bzw. räumlich - ruhig - kein Freisteller
 
-**Notes:**
+##### Color Palette
 
-- Die neue Volkspar tei
-Design Styleguide
-28. 06. 2017
-- Design Basics
-Auf den folgenden Seiten findet sich ein Leitfaden 
-zur korrek ten Gestaltung von unterstüt zenden 
-Werbemaßnahmen für die neue Volkspar tei.
-Die neue Volkspar tei freut sich über werbliche 
-Unterstüt zung, ersucht aber dringend um Ankün
--
-digung und Abstimmung sämtlicher geplanter 
+- Die neue Markenfarbe ist SK-Türkis. Diese Farbe kommt bei plakativen Anwendungen als Hintergrundfarbe zum Einsatz, bei eleganten Anwendungen als Schriftfarbe auf Weiß. Schwarz kommt nur mehr als Schriftfarbe zur Anwendung, nicht mehr jedoch zur Gestaltung flächiger Hintergründe.
+- Speziell für den Zeitungsdruck gibt es eine adaptierte CMYK-Definition des SK-Türkis - um ein optimales Erscheinungsbild auf dem immer leicht gelblichen Zeitungspapier zu gewährleisten.
+- Darüber hinaus gibt es auch eine RAL Definition, die natürlich nur eine farbliche Annäherung darstellen kann. Demzufolge sollte diese Definition nur dann zur Anwendung kommen, wenn es keine andere Alternative (z.B. Beklebung durch Folien] gibt.
+- SK-Türkis CMYK: 60/0/20/0 PANTONE: 7709C / 7709U RGB: 98/195/208 #: 62C3D0 RAL: 6034 [Pastelltürkis] Zeitungsdruck CMYK: 60/0/12/0
+- Weiß CMYK: 0/0/0/0 RGB: 255/255/255 #: FFFFFF
+- Schwarz CMYK: 0/0/0/100 PANTONE: Black C RGB: 0/0/0 #: 000000
+- Die Sekundärfarben kommen nur dann zur Anwendung, wenn eine große Informations-und/ oder Themenvielfalt gestalterisch zu bewältigen ist: etwa bei Informationsbroschüren, Websites etc.
+- Diese Farben dienen ausschließlich dazu, eine entsprechende Differenzierung der Inhalte auf optisch ansprechende Weise zu schaffen. Sowohl die Anwendung als Schriftfarbe als auch die Anwendung als Fläche ist zulässig.
+- Allerdings sollte der verantwortungsbewusste Gestalter hier immer mit Zurückhaltung agieren, sie also ihrem Namen „Sekundärfarben" gerecht werdend anwenden.
+- Bei Sonderanwendungen, im Besonderen im Online-Bereich, können auch neutrale Grautöne aus dem gesamten Graubereich heraus für Flächen und Schriften eingesetzt werden und für die nötige Differenzierung sorgen.
+- Gelb CMYK 0/15/100/0 RGB: 255/212/0 #: FFD400
+- Orange CMYK: 0/40/70/0 RGB: 247/170/88 #: F7AA58
+- Rosa CMYK 0/50/0/0 RGB: 242/158/196 #: F29EC4
+- Grün CMYK: 50/10/60/0 RGB 145/185/128 # 91B980
+- Lila CMYK: 60/60/30/0 RGB: 126/108/141 #: 7E6C8D
+- Grau CMYK: 0/0/0/10 -0/0/0/80 RGB: 236/236/237 -87/86/86 #: ECECED -575656
 
-Maßnahmen mit der Marketingabteilung.
-- Design Basics
-Hauptfarben
-Die neue Markenfarbe ist SK-Türkis. Diese 
-Farbe kommt bei plakativen Anwendungen als 
-Hintergrundfarbe zum Einsat z, bei eleganten 
-Anwendungen als Schrif tfarbeaufWeiß. Schwar z 
+##### Typography
 
-kommt nur mehr als Schrif tfarbe zur Anwen
--
-dung, nicht mehr jedoch zur Gestaltung flächi
--
-ger Hintergründe.
-Speziell für den Zeitungsdruck gibt es eine 
-adaptier te CMYK-Definition des SK-Türkis Œ um 
+- In der Kampagne kommen die beiden Schriften „Geomanist“ und „Knile“ in verschiedenen Schriftschnitten auf genau definierte Weise zur Anwendung.
+- Diese Schriften sind kostenpflichtig und können bei der Österreichischen Volkspartei bestellt werden.
+- Sollte die Verwendung dieser Schriften technisch nicht möglich sein, wird statt der Schrift „Geomanist“ die Systemschrift „Arial“ verwendet. In diesen seltenen Ausnahmefällen wird auf die Serifenschrift „Knile“ gänzlich verzichtet.
+- Für die Gestaltung von Headlines gilt folgende Definition: Grundsätzlich gelangt Variante Azur Anwendung: eine Kombination der beiden Kampagnen-Schriften in verschiedenen Farben - sowohl auf Farbflächen als auch auf Fotohintergründen. Der erste Teil der Headline besteht dabei aus der Schrift „Geomanist" und wird immer unterstrichen, der zweite Teil aus der Schrift „Knile".
+- Die Entscheidung darüber, wo genau die Trennung der Headline erfolgt, ist frei zu treffen und folgt inhaltlichen und gestalterischen Kriterien. Es bietet sich an, einzelne Worte bzw. sinnstiftende Einheiten dadurch hervorzuheben - ein wesentliches Gestaltungsmerkmal der Kampagne.
+- Überall dort, wo Version A aus Platzgründen nicht zur Geltung kommen kann [etwa auf kleinen Werbeartikeln] oder aus technischen Gründen nicht möglich ist [z. B. bei nur einfärbigem Druck], gelangt Version B zum Einsatz. Hier wird nur die Schrift „Geomanist" angewandt, einfarbig und unterstrichen.
+- Für Copytexte kommt die Schrift „Geomanist" im Schriftschnitt „Light" zur Anwendung, Hervorhebungen finden im Schriftschnitt „Book" statt. Alternativ kann auch die Schrift „Knile" für Copytexte angewandt werden.
+- Bei der Verwendung der Ersatzschrift „Arial“ bitten wir darum, die Schriftschnitte dergestalt zu wählen, dass der Gesamteindruck der Kampagne möglichst gewahrt bleibt.
+- Besondere Achtsamkeit sollte in diesem Zusammenhang auch den Zeilen- und Buchstabenabständen sowie den Unterstreichungen zukommen.
 
-ein optimales Erscheinungsbild auf dem immer 
-leicht gelblichen Zeitungspapier zu gew ährleisten. 
-Darüber hinaus gibt es auch eine RAL Definition, 
-die natürlich nur eine farbliche Annäherung dar
--
-stellen kann. Demzufolge sollte diese Definition 
+##### Logo Usage
 
-nur dann zur Anwendung kommen, wenn es 
-keine andere Alternative (z.B. Beklebung durch 
-Folien) gibt.
-SK-Türkis
+- Auf den Einsatz des ÖVP-Logos wird bis auf Weiteres verzichtet. Als Absender fungiert der Slogan „Die neue Volkspartei“.
+- Dieser wird primär linksbündig und zweizeilig gesetzt. Wenn es die gegebenen Formate nicht anders erlauben, ist auch eine einzeilige Anwendung möglich.
+- Der Slogan/Absender wird primär in Schwarz auf einer Fläche in SK-Türkis angewandt. Damit ist eine hohe Plakativität gewährleistet.
+- Wenn hingegen eine hochwertige Wirkung erzielt werden soll, kommt der Slogan/Absender in SK-Türkis auf weißem Hintergrund zur Anwendung. [Auch bei sämtlichen Anwendungen, wo nur auf weißer Fläche bzw mit einer Farbe gedruckt werden kann.]
+- Gelangt der Slogan/Absender auf einem Fotohintergrund zur Anwendung, so hat er immer in Weiß zu erscheinen. Hier hat ein genau definierter Schatten für die entsprechende Lesbarkeit zu sorgen.
 
-CMYK: 60/0/20/0
-PANTONE: 7 709C / 7 709U
-RGB: 98/195/208
+##### Tone And Messaging
 
-#: 62C3D0
-RAL: 6034 (Pastelltürkis)
-Œ
+- Auf den Einsatz des ÖVP-Logos wird bis auf Weiteres verzichtet. Als Absender fungiert der Slogan „Die neue Volkspartei“. Dieser wird primär linksbündig und zweizeilig gesetzt. Wenn es die gegebenen Formate nicht anders erlauben, ist auch eine einzeilige Anwendung möglich.
+- Der Slogan/Absender wird primär in Schwarz auf einer Fläche in SK-Türkis angewandt. Damit ist eine hohe Plakativität gewährleistet. Wenn hingegen eine hochwertige Wirkung erzielt werden soll, kommt der Slogan/Absender in SK-Türkis auf weißem Hintergrund zur Anwendung. [Auch bei sämtlichen Anwendungen, wo nur auf weißer Fläche bzw mit einer Farbe gedruckt werden kann.] Gelangt der Slogan/Absender auf einem Fotohintergrund zur Anwendung, so hat er immer in Weiß zu erscheinen. Hier hat ein genau definierter Schatten für die entsprechende Lesbarkeit zu sorgen.
+- Für die Gestaltung von Headlines gilt folgende Definition: Grundsätzlich gelangt Variante Azur Anwendung: eine Kombination der beiden Kampagnen-Schriften in verschiedenen Farben -sowohl auf Farbflächen als auch auf Fotohintergründen. Der erste Teil der Headline besteht dabei aus der Schrift „Geomanist" und wird immer unterstrichen, der zweite Teil aus der Schrift „Knile". Die Entscheidung darüber, wo genau die Trennung der Headline erfolgt. ist frei zu treffen und folgt inhaltlichen und gestalterischen Kriterien. Es bietet sich an, einzelne Worte bzw. sinnstiftende Einheiten dadurch hervorzuheben -ein wesentliches Gestaltungsmerkmal der Kampagne. Überall dort, wo Version A aus Platzgründen nicht zur Geltung kommen kann [etwa auf kleinen Werbeartikeln] oder aus technischen Gründen nicht möglich ist [z B bei nur einfärbigem Druck), gelangt Version B zum Einsatz. Hier wird nur die Schrift „Geomanist" angewandt, einfarbig und unterstrichen. Für Copytexte kommt die Schrift „Geomanist" im Schriftschnitt „Light" zur Anwendung, Hervorhebungen finden im Schriftschnitt „Book" statt. Alternativ kann auch die Schrift „Knile" für Copytexte angewandt werden.
 
-Zeitungsdruck
-CMYK: 60/0/12/0
-Weiß
-C M YK :  0/0/0/0
-RGB: 255/255/255
-#: FFFFFF
-Schwarz
+##### Visual Style
 
-CMYK: 0/0/0/100
-PANTONE: Black C
-R G B :  0/0/0
+- Die neue Markenfarbe ist SK-Türkis. Diese Farbe kommt bei plakativen Anwendungen als Hintergrundfarbe zum Einsatz, bei eleganten Anwendungen als Schriftfarbe auf Weiß. Schwarz kommt nur mehr als Schriftfarbe zur Anwendung, nicht mehr jedoch zur Gestaltung flächiger Hintergründe.
+- Speziell für den Zeitungsdruck gibt es eine adaptierte CMYKDefinition des SK-Türkis -um ein optimales Erscheinungsbild auf dem immer leicht gelblichen Zeitungspapier zu gewährleisten.
+- Darüber hinaus gibt es auch eine RAL Definition, die natürlich nur eine farbliche Annäherung darstellen kann. Demzufolge sollte diese Definition nur dann zur Anwendung kommen, wenn es keine andere Alternative (z.B. Beklebung durch Folien] gibt.
+- SK-Türkis CMYK: 60/0/20/0 PANTONE: 7709C / 7709U RGB: 98/195/208 #: 62C3D0 RAL: 6034 (Pastelltürkis) Zeitungsdruck CMYK: 60/0/12/0
+- Weiß CMYK: 0/0/0/0 RGB: 255/255/255 #: FFFFFF
+- Schwarz CMYK: 0/0/0/100 PANTONE: Black C RGB: 0/0/0 #: 000000
+- Die Sekundärfarben kommen nur dann zur Anwendung, wenn eine große Informations-und/ oder Themenvielfalt gestalterisch zu bewältigen ist: etwa bei Informationsbroschüren, Websites etc.
+- Diese Farben dienen ausschließlich dazu, eine entsprechende Differenzierung der Inhalte auf optisch ansprechende Weise zu schaffen. Sowohl die Anwendung als Schriftfarbe als auch die Anwendung als Fläche ist zulässig.
+- Allerdings sollte der verantwortungsbewusste Gestalter hier immer mit Zurückhaltung agieren, sie also ihrem Namen „Sekundärfarben" gerecht werdend anwenden.
+- Bei Sonderanwendungen, im Besonderen im Online-Bereich, können auch neutrale Grautöne aus dem gesamten Graubereich heraus für Flächen und Schriften eingesetzt werden und für die nötige Differenzierung sorgen.
+- Gelb CMYK 0/15/100/0 RGB: 255/212/0 #: FFD400
+- Orange CMYK: 0/40/70/0 RGB: 247/170/88 #: F7AA58
+- Rosa CMYK 0/50/0/0 RGB: 242/158/196 #: F29EC4
+- Grün CMYK: 50/10/60/0 RGB 145/185/128 # 91B980
+- Lila CMYK: 60/60/30/0 RGB: 126/108/141 #: 7E6C8D
+- Grau CMYK: 0/0/0/10 -0/0/0/80 RGB: 236/236/237 -87/86/86 #: ECECED -575656
+- Auf den Einsatz des ÖVP-Logos wird bis auf Weiteres verzichtet. Als Absender fungiert der Slogan „Die neue Volkspartei“. Dieser wird primär linksbündig und zweizeilig gesetzt. Wenn es die gegebenen Formate nicht anders erlauben, ist auch eine einzeilige Anwendung möglich.
+- Der Slogan/Absender wird primär in Schwarz auf einer Fläche in SK-Türkis angewandt. Damit ist eine hohe Plakativität gewährleistet.
+- Wenn hingegen eine hochwertige Wirkung erzielt werden soll, kommt der Slogan/Absender in SK-Türkis auf weißem Hintergrund zur Anwendung. [Auch bei sämtlichen Anwendungen, wo nur auf weißer Fläche bzw mit einer Farbe gedruckt werden kann.]
+- Gelangt der Slogan/Absender auf einem Fotohintergrund zur Anwendung, so hat er immer in Weiß zu erscheinen. Hier hat ein genau definierter Schatten für die entsprechende Lesbarkeit zu sorgen.
+- Für die Gestaltung von Headlines gilt folgende Definition: Grundsätzlich gelangt Variante Azur Anwendung: eine Kombination der beiden Kampagnen-Schriften in verschiedenen Farben -sowohl auf Farbflächen als auch auf Fotohintergründen. Der erste Teil der Headline besteht dabei aus der Schrift „Geomanist" und wird immer unterstrichen, der zweite Teil aus der Schrift „Knile".
+- Die Entscheidung darüber, wo genau die Trennung der Headline erfolgt. ist frei zu treffen und folgt inhaltlichen und gestalterischen Kriterien. Es bietet sich an, einzelne Worte bzw. sinnstiftende Einheiten dadurch hervorzuheben -ein wesentliches Gestaltungsmerkmal der Kampagne.
+- Überall dort, wo Version A aus Platzgründen nicht zur Geltung kommen kann [etwa auf kleinen Werbeartikeln] oder aus technischen Gründen nicht möglich ist [z B bei nur einfärbigem Druck), gelangt Version B zum Einsatz. Hier wird nur die Schrift „Geomanist" angewandt, einfarbig und unterstrichen.
+- Für Copytexte kommt die Schrift „Geomanist" im Schriftschnitt „Light" zur Anwendung, Hervorhebungen finden im Schriftschnitt „Book" statt. Alternativ kann auch die Schrift „Knile" für Copytexte angewandt werden.
 
-#: 000000
-- Design Basics
-Sekundärfarben
-Die Sekundärfarben kommen nur dann zur An
--
-wendung, wenn eine große Informations- und/
-oder Themenvielfalt gestalterisch zu bew ältigen 
-ist: et wa bei Informationsbroschüren, Websites etc.  
-Diese Farben dienen ausschließlich dazu, eine 
-entsprechende Differenzierung der Inhalte 
+##### Layout And Composition
 
-auf optisch ansprechende Weise zu schaffen. 
-Sowohl die Anwendung als Schrif tfarbe als auch 
-die Anwendung als Fläche ist zulässig. 
-Allerdings sollte der verant wortungsbewusste 
-Gestalter hier immer mit Zurückhaltung agieren, 
+- Dieser wird primär linksbündig und zweizeilig gesetzt. Wenn es die gegebenen Formate nicht anders erlauben, ist auch eine einzeilige Anwendung möglich.
+- Der Slogan/Absender wird primär in Schwarz auf einer Fläche in SK-Türkis angewandt. Damit ist eine hohe Plakativität gewährleistet.
+- Wenn hingegen eine hochwertige Wirkung erzielt werden soll, kommt der Slogan/Absender in SK-Türkis auf weißem Hintergrund zur Anwendung. [Auch bei sämtlichen Anwendungen, wo nur auf weißer Fläche bzw mit einer Farbe gedruckt werden kann.]
+- Gelangt der Slogan/Absender auf einem Fotohintergrund zur Anwendung, so hat er immer in Weiß zu erscheinen. Hier hat ein genau definierter Schatten für die entsprechende Lesbarkeit zu sorgen.
+- Für die Gestaltung von Headlines gilt folgende Definition: Grundsätzlich gelangt Variante Azur Anwendung: eine Kombination der beiden Kampagnen-Schriften in verschiedenen Farben -sowohl auf Farbflächen als auch auf Fotohintergründen. Der erste Teil der Headline besteht dabei aus der Schrift „Geomanist" und wird immer unterstrichen, der zweite Teil aus der Schrift „Knile".
+- Die Entscheidung darüber, wo genau die Trennung der Headline erfolgt, ist frei zu treffen und folgt inhaltlichen und gestalterischen Kriterien. Es bietet sich an, einzelne Worte bzw. sinnstiftende Einheiten dadurch hervorzuheben -ein wesentliches Gestaltungsmerkmal der Kampagne.
+- Überall dort, wo Version A aus Platzgründen nicht zur Geltung kommen kann [etwa auf kleinen Werbeartikeln] oder aus technischen Gründen nicht möglich ist [z B bei nur einfärbigem Druck), gelangt Version B zum Einsatz. Hier wird nur die Schrift „Geomanist" angewandt, einfarbig und unterstrichen.
 
-sie also ihrem Namen —Sekundärfarbenﬁ gerecht 
-werdend anwenden.
-Bei Sonderanwendungen, im Besonderen im 
-Online-Bereich, können auch neutrale Grautö
--
-ne aus dem gesamten Graubereich heraus für 
+##### Call To Action Guidelines
 
-Flächen und Schrif ten eingeset z t werden und für 
-die nötige Differenzierung sorgen.
-Gelb
-CMYK: 0/15/100/0
-RGB: 255/21 2/0
-#: FFD400
-Grau
-CMYK: 0/0/0/10 Œ 0/0/0/80
+- Der „Call To Action“ erfüllt eine wichtige Aufgabe. Er dient dazu, Unterstützer aktiv zu gewinnen und ist daher auf jedem Werbemittel verpflichtend einzusetzen. (Sofern die Platzverhältnisse gegeben sind.)
+- Der „Call To Action“ wird wenn möglich bzw. gestalterisch sinnvoll in einer leichten Neigung nach rechts oben platziert. Er kann auf Farbflächen direkt, auf Fotohintergründen auch in Form eines weißen Rahmens eingesetzt werden. Dieser Rahmen sollte nach Möglichkeit ebenfalls immer nach rechts oben geneigt sein.
+- Der „Call To Action“ soll in einer ausgewogenen Relation zur Gesamtgestaltung, aber stets in deutlich wahrnehmbarer Größe, angewandt werden.
 
-RGB: 236/236/237 Œ 87/86/86
-#: ECECED Œ 575656
-Orange
-CMYK: 0/40/ 70/0
-RGB: 247/170/88
-#: F7AA58
-Rosa
+##### Regional Applications Guidelines
 
-CMYK: 0/50/0/0
-RGB: 242/158/196 
-#: F29EC4
-Grün
+- Für die Ankündigung regionaler Veranstaltungen gibt es zwei Vorlagen Gestaltung mit Bild: Hier sind die Inhalte in einem Winkel von 6 Grad nach rechts oben geneigt zu platzieren. Eine Fläche in SK-Türkis trägt dabei die Hauptinformation [Headline]. Direkt darunter finden erläuternde Informationen auf einer deutlich schmaleren weißen Fläche Platz. Die Proportionen sollten der Vorlage folgen Ziel ist eine möglichst plakative Wirkung der Hauptbotschaft.
+- Rein typographische Gestaltung ohne Bild: Hier wird die Hauptinformation [Headline] nicht nach rechts oben geneigt. Darüber hinaus gelten die­selben Richtlinien wie für die Gestaltung mit Bild.
+- Grundsätzlich sind bei allen Anwendungen die definierten Schriften zu verwenden. Sollte dies aus technischen Gründen nicht möglich sein, dient die Systemschrift „Arial“ als alleiniger Ersatz.
+- Bei der Verwendung der Ersatzschrift „Arial“ bitten wir darum, die Schriftschnitte dergestalt zu wählen, dass der Gesamteindruck der Kampagne möglichst gewahrt bleibt.
+- Besondere Achtsamkeit sollte in diesem Zusammenhang auch den Zeilen- und Buchstabenabständen sowie den Unterstreichungen zukommen.
 
-CMYK: 50/10/60/0
-RGB: 145/185/1 28 
-#: 91B980
-Lila
+##### Promotional Merchandise Guidelines
 
-CMYK: 60/60/30/0
-RGB: 126/108/141
-#: 7E6C8D
-- Design Basics
-Absender
-Auf den Einsat z des ÖVP-Logos wird bis auf 
-Weiteres ver zichtet. Als Absender fungier t der 
-Slogan —Die neue Volkspar teiﬁ.
-Dieser wird primär linksbündig und zweizeilig 
-gesetz t. Wenn es die gegebenen Formate nicht 
-anders erlauben, ist auch eine einzeilige Anwen
--
+- ## Streuartikel Luftballons
+- [Figure description: **Team Kurz Balloons** - The image features two identical light blue balloons with a smooth, matte surface, positioned side by side against a white background. The left balloon prominently displays the bold, black text 'Team Kurz' in a large, clear font, centered on the balloon's surface. The right balloon bears a white logo that includes a stylized vertical line, a curved line resembling a smile or arc, and the website URL 'www.sebastian-kurz.at' in a smaller font beneath the logo. The balloons are slightly inflated, showing gentle curves and a teardrop shape, with the strings or ties at the bottom not visible, but their small knot or closure is implied. The overall composition is simple, emphasizing branding through text and logos on the balloons, which appear to be floating or suspended in the air.]Team Kurz
+- ## Streuartikel Kugelschreiber
+- [Figure description: **Promotional Pens with Website** - The image should feature two ballpoint pens positioned diagonally, with the tips pointing to the left. The upper pen is turquoise with a matching clip and a rounded cap integrated seamlessly into its design; it displays white text along its body that reads 'Ich bin dabei: www.sebastian-kurzat.at'. The lower pen is white with a transparent clip, and it similarly has a cap integrated into the body; it bears blue text that states 'Ich bin dabei: www.sebastian-kurzat.at'. Both pens are of similar size, with smooth, cylindrical bodies and a slightly tapered tip, set against a plain, light background to emphasize their design and text.
+- ## Streuartikel Apfelchips
+- [Figure description: **Vitamin Snack Packaging Design** - The image should depict a snack or food package with a vibrant teal background, featuring a rectangular transparent window in the upper middle portion that displays a mixture of dried or chopped vegetables, possibly including pieces of onion or similar items, with colors ranging from light pinks to dark reds and browns. The package has bold black text at the top stating 'Zeit' with an underline, followed by white text 'für Vitamine.' in a larger font. Near the bottom, there is diagonal white text reading 'Ich bin dabei:' with a slash mark preceding it, and below that, a website URL 'www.sebastian-kurz.at' printed in a smaller size. The overall design is clean with a focus on the product name and branding, with no additional graphics or imagery beyond the window showing the contents.
+- ## Ausstattung Freiwillige
+- [Figure description: **Turquoise T-Shirt Designs** - The image should display two different styles of t-shirts, both in a bright turquoise color. The first set features a standard crew-neck t-shirt with the front view showing white text 'Team Kurz' positioned on the left chest area, and the back view displaying a larger white text 'Ich bin dabei:' with a website URL 'www.sebastian-kurz.at' beneath it, aligned to the left side. The second set depicts a collared polo shirt, with the front view showing white text 'Die neue Volkspartei' centered on the chest, and the back view having white text 'Ich bin dabei:' with the same website URL 'www.sebastian-kurz.at' underneath, aligned to the center. Each shirt has short sleeves and appears to be made of a smooth, lightweight fabric with minimal texture visible. The layout presents the front and back views of each shirt side by side, with the front images on the left and back images on the right, creating a clear comparison of each design. The background is plain white, emphasizing the vivid turquoise color of the shirts and the white text.
 
-dung möglich.
-Hauptanwendung
-Anwendung einzeilig
-- Design Basics
-Absender Farbvarianten
-Der Slogan/Absender wird primär in Schwar z 
- 
-auf einer Fläche in SK-Türkis angewandt. Damit 
- 
-ist eine hohe Plakativität gew ährleistet.
-Wenn hingegen eine hochwer tige Wirkung 
-er zielt werden soll, kommt der Slogan/Absender 
-in SK-Türkis auf weißem Hintergrund zur An
--
+##### Event Material Guidelines
 
-wendung. (Auch bei sämtlichen Anwendungen, 
-wo nur auf weißer Fläche bzw. mit einer Farbe 
-gedruck t werden kann.)
-Gelangt der Slogan/Absender auf einem Foto-
- 
-hintergrund zur Anwendung, so hat er immer in 
-Weiß zu erscheinen. Hier hat ein genau definier
--
-ter Schatten für die entsprechende Lesbarkeit 
- 
-zu sorgen.
-Anwendung auf SK-Türkis
-Anwendung auf Foto-Hintergrund
-Anwendung auf Weiß
-- Design Basics
-Schrif ten
-AB CDEFGHIJKL MNOPQRSTU V WX YZ
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Für die Ankündigung regionaler Veranstaltungen gibt es zwei Vorlagen Gestaltung mit Bild: Hier sind die Inhalte in einem Winkel von 6 Grad nach rechts oben geneigt zu platzieren. Eine Fläche in SK-Türkis trägt dabei die Hauptinformation [Headline]. Direkt darunter finden erläuternde Informationen auf einer deutlich schmaleren weißen Fläche Platz. Die Proportionen sollten der Vorlage folgen Ziel ist eine möglichst plakative Wirkung der Hauptbotschaft.
+- Rein typographische Gestaltung ohne Bild: Hier wird die Hauptinformation [Headline] nicht nach rechts oben geneigt. Darüber hinaus gelten die­selben Richtlinien wie für die Gestaltung mit Bild.
 
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-a bcdefghijklmnopqrstuvwxyz
-Subline/Copy
-Geomanist Light & Book
-Copy Alternative
+##### Photography Portrait Guidelines
 
-Knile Light & SemiBold ( Zeichenbreite 95%)
-Headline/Subline
-
-Knile Medium ( Zeichenbreite 95%)
-ABCDEFGLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrst uvwxyz
-1 23456789!"§$% &/()=?'*
-Headline/Subline
-Geomanist Medium
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-
-1 23 456789!"§$%&/()=?™ *
-In der Kampagne kommen die beiden Schrif
--
-ten —Geomanistﬁ und —Knileﬁ in verschiedenen 
-Schrif tschnitten auf genau definier te Weise zur 
-Anwendung.
-Diese Schrif ten sind kostenpflichtig und können 
-bei der Österreichischen Volkspar tei bestellt 
-
-werden.
-Sollte die Ver wendung dieser Schrif ten tech
--
-nisch nicht möglich sein, wird statt der Schrif t 
-—Geomanistﬁ die Systemschrif t —Arialﬁ ver wendet. 
-In diesen seltenen Ausnahmefällen wird auf die 
-
-Serifenschrif t —Knileﬁ gänzlich ver zichtet.
-- Design Basics
-Schrif ten Anwendung
-Für die Gestaltung von Headlines gilt folgende 
-Definition:
-Grundsät zlich gelangt Variante A zur Anwen
--
-dung: eine Kombination der beiden Kampagnen-
- 
-Schrif ten in verschiedenen Farben Œ sowohl 
-auf Farbflächen als auch auf Fotohintergründen. 
-
-Der erste Teil der Headline besteht dabei aus 
-der Schrif t —Geomanistﬁ und wird immer unter
--
-strichen, der zweite Teil aus der Schrif t —Knileﬁ. 
-Die Entscheidung darüber, wo genau die Tren
--
-nung der Headline erfolgt, ist frei zu treffen und 
-
-folgt inhaltlichen und gestalterischen Kriterien. Es 
-bietet sich an, einzelne Wor te bzw. sinnstif tende 
-Einheiten dadurch her vor zuheben Œ ein wesent
--
-liches Gestaltungsmerkmal der Kampagne.
-Überall dor t, wo Version A aus Plat zgründen 
-nicht zur Geltung kommen kann (et wa auf klei
--
-nen Werbear tikeln) oder aus technischen Grün
--
-den nicht möglich ist (z.B. bei nur einfärbigem 
-
-Druck), gelangt Version B zum Einsat z. Hier wird 
-nur die Schrif t —Geomanistﬁ angewandt, einfarbig 
-und unterstrichen.
-Für Copy texte kommt die Schrif t —Geomanistﬁ 
-im Schrif tschnitt —Lightﬁ zur Anwendung, Her vor
--
-
-hebungen finden im Schrif tschnitt —Bookﬁ statt. 
-Alternativ kann auch die Schrif t —Knileﬁ für Copy
--
-texte angewandt werden.
-Akkreditierung
-Gäste
-Occus experia quo tet ut 
-eossitessunt
- doluptatur, occatempor aut enis 
-ma coria 
-il ipid et ut
- quia et digenem renitatus verum dolorenit estis pe muia nimporit assit, 
-acest, ipsam si cuptatur mosam, conseria sitatat as 
-volupta ecuptat uressin nulpar
-
-ibus
- estis eum delet lit et harchil id qui occulla borehenis am, sunto minctate
-Subline
-Copy
-Zeit
- 
-für  
-Neues.
-Zeit
- 
-für  
-
-Neues.
-Zeit
- 
-für  
-
-Neues.
-Headline Variante A
-Anwendung Flächen
-Headline Variante A
-
-Anwendung Fotos
-Headline Variante B
-Die neu e Kraft.
-Die neu e Kraft.
-Die neu e Kraft.
-- Design Basics
-Gestaltungselemente
-Auf den Werbemitteln der Kampagne können 
-neben Absender und Headlines noch weitere 
-Gestaltungselemente zum Einsat z kommen.
-Der —Call To Actionﬁ erfüllt eine wichtige Aufga
--
-be. Er dient dazu, Unterstützer aktiv zu gewinnen 
-und ist daher auf jedem Werbemittel verpflich
--
-
-tend einzusetzen. (Sofern die Plat zverhältnisse 
-gegeben sind.)
-Der —Call To Actionﬁ wird wenn möglich bzw. 
-gestalterisch sinnvoll in einer leichten Neigung 
-nach rechts oben platzier t. Er kann auf Farb
--
-
-flächen direkt, auf Fotohintergründen auch in 
-Form eines weißen Rahmens eingeset z t werden. 
-Dieser Rahmen sollte nach Möglichkeit ebenfalls 
-
-immer nach rechts oben geneigt sein.
-Der —Call To Actionﬁ soll in einer ausgewoge
--
-nen Relation zur Gesamtgestaltung, aber stets 
-in deutlich wahrnehmbarer Größe, angewandt 
-werden.
-Call To Action
-www.sebastian-kurz.at
-Ich  bin  dabei:
-www.sebastian-kurz.at
-Ich  bin  dabei:
-www.se b as tian -kur z.at
-Ich bin dabei :
+- Auch für die Portraits von Funktionären und Unterstützern gelten dieselben Regeln: - Tiefenunschärfe - natürliche Farbumgebung - frische, nicht aggressive Farbwelt Darüber hinaus ist auf folgende Punkte zu achten: Look & Feel - natürlich - leicht Blickwinkel - leichtes Profil - nicht frontal - auf Augenhöhe Styling - der eigenen Persönlichkeit entsprechend - dezente Farben - keine Stoffmuster - kein auffälliger Schmuck Hintergrund - drinnen oder draußen -hell - nicht geblitzt -unscharf bzw. räumlich -ruhig - kein Freisteller
+- - ZU stilisiert - ZU schwer - Zu bunt
+- Auch für die Portraits von Funktionären und Unterstützern gelten dieselben Regeln: - Tiefenunschärfe - natürliche Farbumgebung - frische, nicht aggressive Farbwelt Darüber hinaus ist auf folgende Punkte zu achten: Look & Feel -natürlich - leicht Blickwinkel - leichtes Profil - nicht frontal - auf Augenhöhe Styling - der eigenen Persönlichkeit entsprechend - dezente Farben - keine Stoffmuster - kein auffälliger Schmuck Hintergrund - drinnen oder draußen - hell - nicht geblitzt - unscharf bzw. räumlich - ruhig - kein Freisteller
+- -zu frontal -zu seitlich -zu untersichtig
+- Auch für die Portraits von Funktionären und Unterstützern gelten dieselben Regeln: - Tiefenunschärfe - natürliche Farbumgebung - frische, nicht aggressive Farbwelt Darüber hinaus ist auf folgende Punkte zu achten: Look & Feel -natürlich -leicht Blickwinkel -leichtes Profil -nicht frontal auf Augenhöhe Styling - der eigenen Persönlichkeit entsprechend -dezente Farben -keine Stoffmuster - kein auffälliger Schmuck Hintergrund - drinnen oder draußen - hell - nicht geblitzt - unscharf bzw. räumlich - ruhig - kein Freisteller
+- -Ideal: Hemden/Blusen in hellen Blau-od. Grautönen
+- -Zu auffällige Farbe -zu unruhiger Stoffmuster -zu auffälliger Schmuck
+- - zu scharf/nah - zu dunkel -zu unruhig -freigestellt -geblitzt

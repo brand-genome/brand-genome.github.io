@@ -2,7 +2,7 @@
 title: "Al-Hilal Saudi Football Club"
 slug: "al-hilal-saudi-football-club"
 description: ""
-date: "2026-03-20T08:22:03.254438"
+date: "2026-04-10T09:40:30.766946"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,12 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-brand_colors:
-  - gray
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -73,40 +69,4 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- ALHILAL
-BR AND GUIDELINES
-Logo usage and formats section
-- Logo clear space and layout guidelines samples.
-- Minimum size indicated for logo placement: '1/22 longest side of layout'.
-
-**Color Information:**
-
-- PANTONE COOL GRAY 4 C
-RGB: 210 | 210 | 210
-CMYK: 24 | 17 | 15 | 0
-HEX: #d2d2d2
-- Primary colors include POWER BLUE, COBALT BLUE, DARK GRAY.
-
-**Typography Information:**
-
-- Font roles: Bukra Wide for headlines and primary features.
-
-**Imagery Photography:**
-
-- Build photographic layouts by governed moons and margins placement.
-- Imagery specified to express pride and ambition, including crescent symbolism.
-
-**Spacing Layout:**
-
-- Horizontal build involves dividing layout sides into specified equal partitions for grid proportionality.
-- System establishes margins based on proportion to logo width, adhering to specific rules mentioned for each section.
-
-**Brand Voice:**
-
-- Values pride with cultural uniqueness and ambition beyond sports.
-
-**Notes:**
-
-- Iconography grid uses 48x48 units system for uniform balance, requires curvature patterns akin to logo influence.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Universidad de los Andes
 slug: "universidad-de-los-andes"
 description: ""
-date: "2026-03-20T08:22:05.862741"
+date: "2026-04-10T09:40:34.891046"
 draft: false
 sectors:
   - education
@@ -52,15 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: private university in Colombia
 wikidata_url: "https://www.wikidata.org/wiki/Q1569421"
 has_twitter: false
@@ -81,102 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-- Details about logo usage, including horizontal, vertical, and grayscale versions.
-
-**Color Information:**
-
-- Institutional and secondary colors are mentioned.
-- Institutional and secondary colors are mentioned.
-- Institutional and secondary colors are mentioned.
-
-**Typography Information:**
-
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-- Typography details are provided, such as font family: Helvetica.
-
-**Imagery Photography:**
-
-- Details about photography style and imagery guidelines.
-- Details about photography style and imagery guidelines.
-
-**Spacing Layout:**
-
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-- Spacing rules for printed materials are outlined.
-
-**Brand Voice:**
-
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-- Messaging tone and outreach guidelines are defined.
-
-**Notes:**
-
-- Important disclaimers and references to authorized materials.
+*Guidelines data not available*
 
 ## Additional Properties
 

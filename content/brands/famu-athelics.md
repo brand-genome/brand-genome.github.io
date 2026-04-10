@@ -2,7 +2,7 @@
 title: FAMU Athelics
 slug: "famu-athelics"
 description: ""
-date: "2026-03-20T08:22:04.556181"
+date: "2026-04-10T09:40:33.357686"
 draft: false
 sectors:
   - sports
@@ -47,16 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - green
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,25 +69,116 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo includes variations such as 'FAMU RATTLES Stand Alone Text', 'Rattler Head Icon with FAMU Rattlers Text', and other athletic variants.
-- Background color variants specified include PMS 348 Green, PMS 151 Orange, and Black, along with corresponding border variants on different backgrounds.
+##### Mission
 
-**Color Information:**
+- To unify and strengthen FAMU Athletics' communications by projecting a message of order and consistency through comprehensive visual standards, reflecting the institution's style, character, traditions, strengths, and values, and conveying pride and commitment to a common mission [^1].
 
-- Note: Approved FAMU Athletic Pantone color standards are specified on page 33.
-- Screen-printed and twilled letters and numbers must use Pantone-approved colors.
+##### Core Values
 
-**Typography Information:**
+- tradition
+- strength
+- pride
+- commitment
+- consistency
+- unity
 
-- The primary font is 'National Champion', available in weights: Bold, Medium, Regular, and Light.
-- Sports titles should use 'National Champion Medium'. All titles must remain centered and fit inside the FAMU logotype.
+##### Target Audience
 
-**Spacing Layout:**
+- The public, including external audiences who interact with FAMU through newsletters, brochures, websites, and other marketing materials, as well as internal stakeholders who share a sense of pride and mission [^2].
 
-- Spacing utilities and layouts must adhere to the grid and alignment rules, especially regarding protected space around logotypes.
+##### Personality Traits
 
-**Notes:**
+- energetic
+- bold
+- athletic
+- prideful
+- consistent
 
-- The visual identity guidelines emphasize communication consistency and representation of the institution's character, traditions, and strengths.
+##### Visual Identity Overview
+
+- The visual identity centers on bold, collegiate typography, vibrant orange and green color palette (Pantone 151 and 348), prominent use of the rattlesnake mascot, and consistent logo usage across apparel, signage, and promotional materials. Guidelines specify protected logo areas, approved color standards, and preferred typefaces to ensure a unified and recognizable brand presence [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- NOTE: The colors displayed in this visual conceptualization may not accurately depict FAMU Athletics pantone colors. Please refer to page 33 for approved FAMU Athletics pantone color standards.
+
+##### Color Palette
+
+- Color is as significant to a graphic identity as images, symbols, and marks. The official colors of FAMU Athletics are ORANGE and GREEN. Ink colors are specified according to the Pantone Matching System (PMS). The Pantone number, its process-color equivalent (CYMK) and the recommended screen colors (RGB) are indicated as a coated and uncoated color. This document should not be used to match color on press. Please refer to a Pantone color selection book for correct rendition of color.
+- Pantone 151 (ORANGE)
+- CMYK: C: 0% M: 60% Y: 100% K: 0%
+- RGB: R: 245 G: 130 B: 32
+- HEX (WEB): #F4811F
+- Pantone 348 (GREEN)
+- CMYK: C: 97% M: 22% Y: 100% K: 9%
+- RGB: R: 0 G: 131 B: 69
+- HEX (WEB): #008344
+- ALTERNATE COLORS Russell Athletic Apparel Colors Russell Athletic (For Promotional use) Dark Green Burnt Orange Steel/Stealth Black White Watermelon Pink Royal Blue
+- The colors displayed in this visual conceptualization may not accurately depict FAMU Athletics pantone colors. Please refer to page 33 for approved FAMU Athletics pantone color standards.
+- NO RANDOM BACKGROUND COLORS
+
+##### Typography
+
+- TYPOGRAPHY INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30-31
+- Only use primary font "National Champion Medium" for all sports titles (see page 30). Note: All titles should remain centered, but never extend beyond the "FAMU" logotype. If the title is too long, the title font size can be reduced to fit inside the "FAMU" logotype.
+- Only use primary font "National Champion Medium" for all sports titles (see page 30). Note: All titles should remain centered, but never extend beyond the "A&M" logotype. If the title is too long (example: Cross Country), the title font size can be reduced to fit inside the "A&M" logotype.
+- PRIMARY FONT: NATIONAL CHAMPION
+- FONT (NATIONAL CHAMPION) BOLD
+- FONT (NATIONAL CHAMPION) MEDIUM
+- FONT (NATIONAL CHAMPION) REGULAR
+- FONT (NATIONAL CHAMPION) LIGHT
+- All screen printed and twilled letters and/or numbers provided by Russell Athletic (Russcote Lettering & Numbering Styles) must be in the "Full Block" or "Pro Block" font styles.
+- Venom typeface: Candy Script Regular
+
+##### Logo Usage
+
+- The protected area around the primary and secondary logos ensures that no other graphic elements interfere with its clarity and integrity. The protected area will always be scaled symmetrically with the logotype. The depth of the protected area is equivalent to the height and width of the space of where the gray dot is placed.
+- .25 AREA MARGIN AROUND LOGOTYPE
+- Color is as significant to a graphic identity as images, symbols, and marks. The official colors of FAMU Athletics are ORANGE and GREEN. Ink colors are specified according to the Pantone Matching System (PMS). The Pantone number, its process-color equivalent (CYMK) and the recommended screen colors (RGB) are indicated as a coated and uncoated color. This document should not be used to match color on press. Please refer to a Pantone color selection book for correct rendition of color.
+- Pantone 151 (ORANGE)
+- CMYK: C: 0% M: 60% Y: 100% K: 0% RGB: R: 245 G: 130 B: 32 HEX (WEB): #F4811F
+- Pantone 348 (GREEN)
+- CMYK: C: 97% M: 22% Y: 100% K: 9% RGB: R: 0 G: 131 B: 69 HEX (WEB): #008344
+- Please take these principles into consideration when using the logo.
+- NO WHITE INVERSE
+- NO 1 COLOR RATTLER W/ LOGO
+- DO NOT SUPERIMPOSE RATTLER
+- NO WARPING OR TEXT EFFECTS
+- NO 1 COLOR OUTLINE
+- NO DROP SHADOWS
+- DO NOT SKEW LOGO
+- ALWAYS INCLUDE "TM" TRADEMARK
+- DO NOT REVERSE RATTLER HEAD
+- NO RANDOM BACKGROUND COLORS
+
+##### Visual Style
+
+- The colors displayed in this visual conceptualization may not accurately depict FAMU Athletics pantone colors. Please refer to page 33 for approved FAMU Athletics pantone color standards.
+
+##### Iconography
+
+- 3 COLOR ICON PMS 348 GREEN, PMS 151 ORANGE, BLACK
+- 2 COLOR ICON PMS 348 GREEN, PMS 151 ORANGE
+- 1 COLOR ICON BLACK
+- 3 COLOR PMS 348 GREEN, PMS 151 ORANGE, BLACK
+- 2 COLOR PMS 348 GREEN, PMS 151 ORANGE
+- 1 COLOR BLACK
+- NO WHITE INVERSE
+- NO 1 COLOR RATTLER W/ LOGO
+- DO NOT SUPERIMPOSE RATTLER
+- NO WARPING OR TEXT EFFECTS
+- NO 1 COLOR OUTLINE
+- NO DROP SHADOWS
+- DO NOT SKEW LOGO
+- ALWAYS INCLUDE "TM" TRADEMARK
+- DO NOT REVERSE RATTLER HEAD
+- NO RANDOM BACKGROUND COLORS
+
+##### Layout And Composition
+
+- The protected area around the primary and secondary logos ensures that no other graphic elements interfere with its clarity and integrity. The protected area will always be scaled symmetrically with the logotype. The depth of the protected area is equivalent to the height and width of the space of where the gray dot is placed.
+- .25 AREA MARGIN AROUND LOGOTYPE

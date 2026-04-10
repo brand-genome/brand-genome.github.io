@@ -2,7 +2,7 @@
 title: Microsoft Bing
 slug: "microsoft-bing"
 description: ""
-date: "2026-03-20T08:22:04.301811"
+date: "2026-04-10T09:40:32.982339"
 draft: false
 sectors:
   - software
@@ -51,14 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - gray
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: web search engine from Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q182496"
 has_twitter: false
@@ -77,16 +73,91 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo is provided in positive version (logotype in gray on light or white backgrounds) and knock-out version (logotype in white for dark backgrounds or dark areas in photographs).
-- Product icon requires a minimum width of 0.16 inches, 4.23 mm, or 16 pixels.
-- Clear space guidelines defined as 'X' distance with 1/2 X on all sides for spacing.
+##### Mission
 
-**Notes:**
+- The document does not explicitly state a mission or purpose statement for the Microsoft Bing brand.
 
-- Usage of the Microsoft Bing logo and trademark requires a license or agreement, especially for sponsorship, endorsement, compatibility, or promotional usage. Existing agreements (e.g., Bing APIs or Bing Maps) should be checked before requesting permissions.
-- Authorization requires specific approval from the Microsoft brand team or business owner contact. Email provided for inquiries: brand@Microsoft.com.
+##### Target Audience
+
+- The document is intended for individuals or organizations seeking to use Microsoft Bing branding in their materials, including those involved in marketing communications for consumer and commercial audiences [^1].
+
+##### Visual Identity Overview
+
+- The visual identity centers on the Microsoft Bing logo and product icon, emphasizing clarity, simplicity, and brand recognition. The logo uses a four-square color icon (red, green, blue, yellow) paired with modern sans-serif typography, and guidelines specify usage for light and dark backgrounds, minimum sizes, clear space, and accessibility. The product icon features a blue gradient ribbon shape, with guidance for sizing, labeling, and visual centering [^2].
+
+#### Categories
+
+##### Logo Usage
+
+- A trademark use license is required in order to: 1) Use the Microsoft Bing trademark (logo) 2) Use the trademark or name to indicate sponsorship or endorsement 3) Indicate a compatibility endorsement from Microsoft Bing, such as “results from Microsoft Bing” or similar
+- If you have existing agreements with Microsoft Bing, such as Bing APIs or Bing Maps agreements, check those first to determine if your desired use of the Microsoft Bing trademark is covered.
+- If no agreement exists or if the proposed use doesn’t fall within the scope of your existing agreement, check if the use falls within the General Microsoft Trademark Guidelines and/or the Microsoft Corporate Logo Guidelines.
+- Finally, if the use is not covered in any of the above or you are not sure, it’s best to obtain a specific, stand-alone authorization or license. Such license must be initiated and approved by the Microsoft business owner who you are working with. If you do not have a business owner contact, email the Microsoft brand team (brand@Microsoft.com) to get started.
+- The Microsoft Bing trademark can only be used in a way that accurately reflects the nature of the relationship between your company/product and Bing and adheres to the guidelines in this document.
+- Do not create additional lockups using the Microsoft Bing logo or the new Microsoft Bing product icon.
+- The Microsoft Bing logo is the preferred logo for all communications.
+- Horizontal logo - preferred
+- Stacked logo On light backgrounds. Use the positive version (logotype in gray on light or white backgrounds)
+- Stacked logo On dark backgrounds. Use the knock-out version(logotype in white on dark backgrounds, including dark areas in photographs.
+- Minimum clear space
+- Minimum size By height. On screen, the symbol should never be smaller than 20 pixels tall. In print, it must appear at least .22" (5.5 mm) tall.
+- By width. On screen, the Microsoft logo should never be smaller than 72 pixels wide. In print, it must appear at least 1 inch (25.4 mm) wide.
+- The old Bing icon and logo should no longer be used.
+
+##### Color Palette
+
+- Use the specific color values provided for print and digital. Do not use automated color conversion software. Do not use high contrast option in marketing material unless there are production limitations.
+- Blue backgrounds are not recommended.
+
+##### Visual Style
+
+- Do not create additional lockups using the Microsoft Bing logo or the new Microsoft Bing product icon.
+- The Microsoft Bing logo is the preferred logo for all communications.
+- Horizontal logo -preferred
+- Stacked logo On light backgrounds. Use the positive version (logotype in gray on light or white backgrounds)
+- Stacked logo On dark backgrounds. Use the knock-out version(logotype in white on dark backgrounds, including dark areas in photographs.
+- Minimum clear space
+- By height. On screen, the symbol should never be smaller than 20 pixels tall. In print, it must appear at least .22" (5.5 mm) tall.
+- By width. On screen, the Microsoft logo should never be smaller than 72 pixels wide. In print, it must appear at least 1 inch (25.4 mm) wide.
+- The old Bing icon and logo should no longer be used.
+- This is the new Microsoft Bing icon. Use the full color icon wherever possible to represent the mobile app and favicon on .com pages. Do not use it as the logo for Microsoft Bing.
+- The icon must meet accessibility requirements. If you are unable to adjust the placement of the icon/background, a drop shadow can be added to the icon to ensure the color contrast ratios are met.
+- Use the specific color values provided for print and digital. Do not use automated color conversion software. Do not use high contrast option in marketing material unless there are production limitations.
+- Blue backgrounds are not recommended.
+- To maintain a clean, visually appealing layout consistent with Microsoft standards, keep a healthy clear space around product icons and the associated names.
+- Because of the vertical nature of the Microsoft Bing icon, it requires additional consideration when being place in a bounded space. Please follow the guidance for visual centering vs physically centering the icon in the space provided.
+- When paired with the product icon, the color of label copy should only be rich black, light gray, or white. Do not reference the color specifications found on page 15.
+- The label height should be about an eighth of the product icon height (X). The spacing between the product icon and name should be a minimum space equal to the height of the name font.
+- Minimum clear space with name
+- Bounding space and visual center
+- Minimum icon size Width 0.16 in/ 4.23 mm/ 16 px
+- Move icon right of physical center for visual center
+
+##### Brand Imagery
+
+- Do not create additional lockups using the Microsoft Bing logo or the new Microsoft Bing product icon.
+- The Microsoft Bing logo is the preferred logo for all communications.
+- Horizontal logo -preferred
+- Stacked logo On light backgrounds. Use the positive version (logotype in gray on light or white backgrounds)
+- Stacked logo On dark backgrounds. Use the knock-out version(logotype in white on dark backgrounds, including dark areas in photographs.
+- Minimum clear space
+- By height. On screen, the symbol should never be smaller than 20 pixels tall. In print, it must appear at least .22" (5.5 mm) tall.
+- By width. On screen, the Microsoft logo should never be smaller than 72 pixels wide. In print, it must appear at least 1 inch (25.4 mm) wide.
+- The old Bing icon and logo should no longer be used.
+- This is the new Microsoft Bing icon. Use the full color icon wherever possible to represent the mobile app and favicon on .com pages. Do not use it as the logo for Microsoft Bing.
+- The icon must meet accessibility requirements. If you are unable to adjust the placement of the icon/background, a drop shadow can be added to the icon to ensure the color contrast ratios are met.
+- Use the specific color values provided for print and digital. Do not use automated color conversion software. Do not use high contrast option in marketing material unless there are production limitations.
+- Blue backgrounds are not recommended.
+- To maintain a clean, visually appealing layout consistent with Microsoft standards, keep a healthy clear space around product icons and the associated names.
+- Because of the vertical nature of the Microsoft Bing icon, it requires additional consideration when being place in a bounded space. Please follow the guidance for visual centering vs physically centering the icon in the space provided.
+- When paired with the product icon, the color of label copy should only be rich black, light gray, or white. Do not reference the color specifications found on page 15.
+- The label height should be about an eighth of the product icon height (X). The spacing between the product icon and name should be a minimum space equal to the height of the name font.
+- Minimum clear space with name
+- Bounding space and visual center
+- Minimum icon size Width 0.16 in/ 4.23 mm/ 16 px
+- Move icon right of physical center for visual center
 
 ## Additional Properties
 

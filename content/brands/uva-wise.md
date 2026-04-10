@@ -2,7 +2,7 @@
 title: UVA Wise
 slug: "uva-wise"
 description: ""
-date: "2026-03-20T08:22:04.688651"
+date: "2026-04-10T09:40:33.412203"
 draft: false
 sectors:
   - university
@@ -50,26 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - cyan
-  - purple
-  - white
-  - blue
-  - gray
-  - "pantone-186"
-  - orange
-  - black
-typographies:
-  - gotham
-  - bodoni
-imagery_styles:
-  - bold
-  - dynamic
-  - gradient
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "American college (1999-)"
 wikidata_url: "https://www.wikidata.org/wiki/Q128111"
 has_twitter: false
@@ -88,35 +72,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Our logos are available in multiple color variations. Here is an explanation of when and where to use each one. FULL-COLOR LOGO: The Pantone, CMYK or RGB full-color logo is always preferred. Use Pantone or CMYK for any print applications such as collateral or business materials. Use RGB for digital applications such as for web, presentations or video. REVERSE LOGO: Use the reverse logos for applications on color or photographic backgrounds. Always ensure that the background you choose provides sufficient contrast for the logo. ONE-COLOR LOGO: When full-color printing is not an option, use the black version of the logo. This is also helpful for embossing, debossing, die-cutting or extrusion.
-
-**Color Information:**
-
-- COLOR PALETTE Neutrals: Black and gray (Highland Black, Dark Gray, Light Gray); supporting role as neutrals. Primary: Highland Red (PANTONE 186) and Jefferson Blue (PMS Process Blue and Medium Purple). RGB, HEX, CMYK codes provided for both.
-- Accents: UVA's Rotunda Orange and UVA Cyan can be used as small accents, not floods. Tints of primary colors (10% tints) explained.
-
-**Typography Information:**
-
-- Headline styles include Gotham Bold/Black, Bodoni Poster Italic, Mixed Type (combining Gotham and Bodoni), and Gotham Ultra Italic for athletic branding. Details provided on settings (e.g., all caps, tracking adjustments).
-
-**Imagery Photography:**
-
-- PHOTOGRAPHY TREATMENTS include color and tone adjustments, retouching, cropping, black and white conversions, and color overlays. Guidelines provided on acceptable versus unacceptable adjustments.
-- Color-treated photos include Highland Red (Gradient Maps Red 1 and 2) and Jefferson Blue (Gradient Maps Blue 1 and 2). Used for distinguishing photos with branded effects.
-
-**Spacing Layout:**
-
-- Dynamic design elements include dotted and angled linework, notches, angles, and triangle bullets for layouts.
-
-**Brand Voice:**
-
-- Brand voice emphasizes being connected, rooted in community, approachable, resilient, and nurturing. Inspired by Appalachian heritage and a dedication to development.
-
-**Notes:**
-
-- Great brands are recognizable and consistent. This document is intended for marketing, communication, and brand consistency across platforms (digital, print, video, etc.). Disclaimer: some photos may be conceptual and are not owned by UVA Wise.
+*Guidelines data not available*
 
 ## Additional Properties
 

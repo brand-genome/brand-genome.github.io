@@ -2,11 +2,11 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-03-20T08:22:04.213088"
+date: "2026-04-10T09:40:32.592249"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - norway
 years:
@@ -48,22 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - white
-  - purple
-  - grey
-  - black
-typographies:
-  - montserrat
-imagery_styles:
-  - colorful
-  - bold
-  - illustration
-  - playful
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Children's educational software"
 wikidata_url: "https://www.wikidata.org/wiki/Q6347127"
 has_twitter: false
@@ -88,44 +76,128 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Kahoot! has two main logo marks: the primary full logo used for company representation in external communications, and an icon version that can be used once the brand is established or in space-restricted contexts. The logo is quirky, colorful, and expressive.
-- Logo guideline mentions downloadable formats such as .png and vector.
-- Guidelines recommend using the purple or black logo on white or light grey backgrounds, and the white version for colored backgrounds. Sufficient contrast between the logo and backgrounds must be maintained.
-- Logos must not be altered with effects like shadows, color changes, or orientation adjustments. They must not be placed too close to other text or visual elements.
+##### Mission
 
-**Color Information:**
+- To make learning awesome by helping learners of any age and background unlock their full potential through fun, interactive, and social learning experiences [^1].
 
-- Kahoot! purple-2 (#46178f) is the default color for brand representation. Instructions include adherence to WCAG 2.1 guidelines for accessibility, use of white text on colored or photographic backgrounds, and limiting usage to 2-3 colors to avoid visual clutter.
-- Colors must not include colored text on colored backgrounds. A guideline warns against using combinations that lack sufficient contrast.
-- Guidelines mention downloadable swatches in formats like .ase and .ai.
+##### Core Values
 
-**Typography Information:**
+- playful
+- curious
+- inclusive
 
-- The brand typeface is Montserrat, supporting four weights: light, regular, bold, and black. Default text color is #333333 on light backgrounds or white on dark backgrounds. Montserrat black is used for emphasis or titles.
-- Typography roles include: Montserrat black for titles and emphasis, bold for paragraph headers/subtitles, regular for body content, and light for text-heavy documents with extra line spacing.
+##### Target Audience
 
-**Imagery Photography:**
+- Learners of any age and background, including teachers, students, parents, and organizations seeking engaging educational experiences [^2].
 
-- The Kahoot! illustration style is described as conveying energy, positivity, and humor. It combines curved and geometric edges for quirkiness and uses soft-edged shadows for complex elements.
-- Illustration guidelines include centering illustrations on consistent color sets to avoid visual clutter and using basic shapes like circles or triangles for added interest. Illustrations must have a distinct purpose and remain positive or humorous.
-- Do not apply strokes, textures, or other effects to illustrations. Avoid neutral base colors in the design.
+##### Personality Traits
 
-**Spacing Layout:**
+- loud
+- colorful
+- bold
+- energetic
+- inclusive
+- friendly
+- playful
+- fun
+- curious
 
-- Maintain enough spacing around the logo to avoid visual clutter, ensuring it stands out properly in designs.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- Kahoot!'s visual identity is quirky, colorful, expressive, and energetic, featuring playful illustrations, a vibrant color palette, and the Montserrat typeface. The brand emphasizes positivity, humor, and high energy in its visuals, with strict guidelines for logo usage, color combinations, and typography to maintain consistency and clarity [^3].
 
-- Kahoot!'s voice is described as human, friendly, familiar, conversational, clear, playful, and humorous. It empathizes with users and adjusts tone based on context such as being inspiring, helpful, or enthusiastic.
-- Do's: Use a tone that is friendly, playful, fun, inspiring, energetic, and curious. Don'ts: Avoid tones that are formal, patronizing, childish, distant, or complex.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- General trademark guidelines emphasize that 'KAHOOT!' should always include the exclamation point, always appear in all caps, and be used as an adjective (e.g., 'KAHOOT! games'). It must not be altered stylistically, represent unauthorized colors, or be used in created terms or logos.
-- Trademark variations allowed include: KAHOOTS (game names), KAHOOT!ing (for creating games), and KAHOOT!er (for identifying players).
-- All Kahoot! materials should include the trademark ownership statement: 'Kahoot! and the K! logo are trademarks of Kahoot! AS.'
+- Tone of voice When writing on behalf of Kahoot!, consider our identity as a company.
+- Kahoot!'s voice is human, friendly, and familiar. Our tone is conversational, clear, playful, and humorous, when appropriate. When writing on behalf of Kahoot!, we try to empathize with our users and adjust our tone depending on where they stand. We're inspiring when they are in an exploratory mood, we're helpful and knowledgeable when they're wondering about something, and we're enthusiastic and encouraging when they did something cool.
+- When you talk about Ka hoot!, we'd appreciate if you followed these recommendations to help make our voice heard.
+- DO use a tone that sounds... ► Informal and casual ► Friendly ► Playful and fun ► Inclusive ► Curious
+- DON'T use a tone that sounds... ► Formal ► Patronizing ► Childish ► Distant ► Complex
+
+##### Brand Imagery
+
+- We use illustrations to explain things and to add energy to our designs.
+- The Kahoot! visual style conveys energy, positivity, and humor.
+- Our illustration style features both curved and geometric edges for a quirky, high energy appearance. Lighting is flat, but sometimes we use simple hard-edged shadows when complex elements or characters need more form.
+- DO keep all illustrations positive or humorous, even if expressing topics such as error messages.
+- DO center illustrations and sets around the same color set to avoid too much visual clutter.
+- DO use circles, triangles, diamonds, and squares to add interest to solid colors or whitespace.
+- DON’T apply strokes, textures, or other effects to illustrations, or change the colors.
+- DON’T thoughtlessly place illustrations.
+- They should serve a distinct purpose, especially alongside text.
+- DON’T use neutral colors as a base. Illustrations should be colorful, based off our official brand colors.
+
+##### Color Palette
+
+- Kahoot! is a brand that is not afraid to use color. In fact we love using ours as often as possible!
+- Moreover, color is one of the most powerful tools to express who we are and what we represent. So, you’ll notice that we love using colors from our palette as often as possible. The official Kahoot! colors in RGB hex codes and PMS are on the following page. Here are the guidelines on using them.
+- ▶ Colored or photographic backgrounds should always have white text. Never place colored text on a colored background!
+- ▶ We always adhere to WCAG 2.1 guidelines. Refer to the color palette above for what color text goes on each color background.
+- ▶ The default color should be Kahoot! purple-2 (#46178f). When you need a single color to present the brand, use this one.
+- ▶ When you do choose to use the other colors, try to stick to 2 (max 3) colors, to stop designs from becoming messy and chaotic.
+- PMSVioletC #46178f PMS 2745 #25076b PMS266 #864cbf PMS 264 #c2aSdf PMS 804 #f5a23d PMS 148 #fad09e PMS 200 #c60929 PMS183 #ff99aa PMS 137 #ffa602 PMS199 #e2lb3c PMS7555 #d89e00 PMS7408 #ffcOOa PMS 114 #ffdd33 PMS 300 #1368ce PMS293 #0542b9 PMS 279 PMS 291 #45a3e5 #a2d1f2 PMS 7717 #028282 PMS 3252 #33cccc PMS 318 #99e5e5vv PMS7740 #26890c PMS356 #OS42b9 PMS 360 PMS358 #66bf39 #b2df9c PMS Black 7 #333333 PMS 663 #f2f2f2
+
+##### Typography
+
+- Our brand typeface is Montserrat.
+- We use it to shout about things when we're excited, or to calmly explain how things work when we need to be more serious.
+- We use four font weights: light, regular, bold, and black.
+- Our default text color is #333333 on light backgrounds, or white on dark backgrounds.
+- A pop of color can be used to highlight keywords in Montserrat black.
+- We use Montserrat black to SHOUT about things, or as titles.
+- We use bold mostly for paragraph headers and subtitles.
+- When we type body content, we use regular.
+- For body content in text-heavy documents and presentations, we use light to keep things nice and breezy with a little extra line spacing.
+
+##### Logo Usage
+
+- Kahoot! has two brand marks in use. Here’s how they are used.
+- Quirky, colorful and expressive, our logo is a little snapshot of what differentiates the Kahoot! brand. It’s very important for us that the appearance of our logo remains consistent and unmodified, and these guidelines will help you to ensure it always looks its best.
+- We use our primary, full logo when we talk about Kahoot! as a company and represent our brand in all external communications.
+- If you’d like to use the Kahoot! logo in your communcations or product offerings, please use this version. You’re also welcome to use it together with your own logo as long as you follow the guidelines on the next page.
+- When the Kahoot! brand has been established, you can use our icon (it saves space!)
+- It’s acceptable to use the icon playfully in illustrations, but not as a standalone communication logo.
+- DO keep the logo unmodified and consistent.
+- DON'T add shadows or other effects, change its color, or change its orientation.
+- DO use the purple or black logo on white or light grey backgrounds, and the white version for colored backgrounds.
+- DON'T create different colored logos. Make sure there is enough contrast between the logo and the background. Don't use colored logos on colored backgrounds.
+- DO use enough spacing around the logo.
+- Minimum spacing is½ of the logo height.
+- DON'T place the logo too close to other text or visual elements.
+
+##### Tone And Messaging
+
+- Kahoot!'s voice is human, friendly, and familiar. Our tone is conversational, clear, playful, and humorous, when appropriate. When writing on behalf of Kahoot!, we try to empathize with our users and adjust our tone depending on where they stand. We're inspiring when they are in an exploratory mood, we're helpful and knowledgeable when they're wondering about something, and we're enthusiastic and encouraging when they did something cool.
+- When you talk about Ka hoot!, we'd appreciate if you followed these recommendations to help make our voice heard.
+- DO use a tone that sounds... ► Informal and casual ► Friendly ► Playful and fun ► Inclusive ► Curious
+- DON'T use a tone that sounds... ► Formal ► Patronizing ► Childish ► Distant ► Complex
+
+##### Brand Values
+
+- These values guide us on our mission to make learning awesome and are reflected in our visual style and tone of voice.
+- We are PLAYFUL
+- Play is the first language we learn. It's how we discover the world and understand our place in it. When we make learning fun, we make it engaging for everyone.
+- We are CURIOUS
+- Curiosity is part of human nature, and it lies at the heart of all great endeavors. It's what turns learners into amazing leaders -and keeps those leaders learning.
+- We are INCLUSIVE
+- We're team players at Kahoot! and believe that no learner, or employee, should ever be left out. Kahoot! strives to ensure that everyone has the chance to succeed.
+
+##### Visual Style
+
+- These values guide us on our mission to make learning awesome and are reflected in our visual style and tone of voice.
+- The Kahoot! visual style conveys energy, positivity, and humor.
+- Our illustration style features both curved and geometric edges for a quirky, high energy appearance. Lighting is flat, but sometimes we use simple hard-edged shadows when complex elements or characters need more form.
+- DO keep all illustrations positive or humorous, even if expressing topics such as error messages.
+- DO center illustrations and sets around the same color set to avoid too much visual clutter.
+- DO use circles, triangles, diamonds, and squares to add interest to solid colors or whitespace.
+- DON’T apply strokes, textures, or other effects to illustrations, or change the colors.
+- DON’T thoughtlessly place illustrations.
+- They should serve a distinct purpose, especially alongside text.
+- DON’T use neutral colors as a base. Illustrations should be colorful, based off our official brand colors.
 
 ## Additional Properties
 

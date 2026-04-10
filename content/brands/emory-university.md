@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-03-20T08:22:03.262422"
+date: "2026-04-10T09:40:30.779754"
 draft: false
 sectors:
   - university
@@ -55,25 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - crimson
-  - gold
-  - "pantone-294"
-  - white
-  - blue
-  - yellow
-  - "pantone-130"
-  - black
-typographies:
-  - "open-sans"
-imagery_styles:
-  - bold
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private research university in Atlanta, Georgia, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q621043"
 has_twitter: false
@@ -94,36 +79,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- The Emory logo includes three versions: the primary logo, the stylistic logo, and the community logo. The stylistic logo can be reproduced in Emory Yellow (Pantone 130), while standard logo reproduction is in Emory Blue (Pantone 294), black, white, or gold (metallic ink, foil, embossing). Clear space around the logo should measure at least one 'M' width in the Emory wordmark.
-- Spacing around the logo should maintain a minimum clear space of one 'M' width in the Emory logotype for visual separation.
-
-**Color Information:**
-
-- Primary palette includes Emory Blue (Pantone 294), Emory Yellow (Pantone 130), and additional blue and gold shades for digital and print. Monotone photos and 10% tints of these primary colors are used for certain backgrounds.
-- Secondary palette includes natural and architectural hues inspired by the Emory campus, primarily for less crucial direct brand linkage.
-
-**Typography Information:**
-
-- Primary typeface is Crimson Pro (Extra Light, Regular, Italic) used for warmth, intelligence, and legibility. Secondary typeface is Open Sans (Regular, Semi-Bold), providing clarity.
-
-**Imagery Photography:**
-
-- Photography emphasizes distinctiveness to the Emory experience. Monotone treatments are used for cohesiveness, while shield patterns or frames can add compositional distinctiveness.
-
-**Spacing Layout:**
-
-- Use clear spacing around the logo with at least the width of the 'M' in the Emory wordmark. Shield and 'E' symbols are design elements used for layout balance and visual cohesion.
-- The crossed torch and trumpet in the shield are symbolic of discovery and proclamation of knowledge and can be used sparingly for decorative accents.
-
-**Brand Voice:**
-
-- 'Ambition through heart' is the core promise. Attributes include being smart, creative, connected, and courageous, reflecting Emory's values of collaboration, inclusivity, and innovation.
-
-**Notes:**
-
-- The visual system prioritizes logo use, color palettes, and typography to ensure a recognizable brand identity. The stylistic logo targets awareness communication and allows for more creative use of yellow.
+*Guidelines data not available*
 
 ## Additional Properties
 

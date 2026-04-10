@@ -2,12 +2,12 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-03-20T08:22:04.505635"
+date: "2026-04-10T09:40:33.276413"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - china
 years:
@@ -37,8 +37,8 @@ market_cap_buckets: []
 products_or_materials_produced:
   - "networking-hardware"
   - "building-automation"
-  - software
   - "computer-hardware"
+  - software
 products: []
 headquarters_locations:
   - beijing
@@ -64,22 +64,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - alternate
-  - primary
-brand_colors:
-  - white
-  - orange
-  - grey
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Chinese electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q1636958"
 has_twitter: false
@@ -101,46 +89,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The Xiaomi logo has multiple versions including vertical logo combination and horizontal logo combination. Vertical logos are recommended for online materials and horizontal logos are recommended for offline materials where it's difficult to read from afar.
-- Color versions of the Xiaomi logo include standard (full-color), cutout, and black versions. The orange and grey logo combination is the preferred combination for the brand.
-- Minimum clear space around the Xiaomi logo: Minimum clear space should equal 1/2X, where X is the height of the logo. No photos, typography, or graphic elements should invade this protected area.
-- Minimum size: For online use, if the logo width is smaller than 53px, the logo should be used without the word 'Xiaomi'; For offline collateral, if the logo width is smaller than 6mm, the word 'Xiaomi' should also be omitted.
-- Co-branding guidelines: When placed side-by-side with other company logos, the Xiaomi logo should be placed on the left, with both logos aligned properly. When both logos are positioned on the same central axis, the Xiaomi logo still must be on the left.
-- Co-branding with Xiaomi’s subsidiaries: Xiaomi logo should be placed in the top-right corner of visuals, and the subsidiary logo should be placed lower than Xiaomi’s logo.
-- Incorrect usage examples: Logos should not be distorted (e.g., changing proportion, alternate fonts, or changing logo colors). They must also not be placed on a background color that makes the logo less recognizable.
-- Logo usage for mi.com: The standard 'mi.com' logo combination includes standard color, cutout, and black versions for on-platform usage.
-
-**Color Information:**
-
-- Primary brand color: Xiaomi Orange - Pantone: 1505C, CMYK: 0 75 100 0, RGB: 255 105 0, HEX: #FF6900
-- Secondary brand color: Deep Grey - Pantone: 7540C, CMYK: 0 0 0 85, RGB: 68 68 68, HEX: #444444
-- Secondary brand color: Space Black - Pantone: Black, CMYK: 0 0 0 100, RGB: 0 0 0, HEX: #000000
-- Secondary brand color: Jade White - CMYK: 0 0 0 100, RGB: 255 255 255, HEX: #FFFFFF
-- Guidelines for brand color use: The Xiaomi Orange is the most distinctive brand color, preferred for communication materials. When used on dark backgrounds, the 'Xiaomi' word is reversed to white for legibility. Care should be taken to not obstruct the logo visibility with background gradients or busy designs.
-
-**Typography Information:**
-
-- Primary brand font: Camphor Pro. Available weights: Thin, Light, Regular, Medium, Bold, Heavy.
-- Recommended usage of font weights: Online - use a mix of Bold, Regular, and Light weights to create content hierarchy; Offline - prioritize Bold weight for better visibility at a distance. Usage is dependent on design context.
-- Font usage for different roles: Title - Bold, Subtitle - Regular, Tagline - Regular, Content - Light. Do not use more than 3 weights on the same page.
-
-**Spacing Layout:**
-
-- Recommended logo placement: Upper half of marketing materials for better visual impact.
-- For social media marketing, logo placement and size should follow guidelines for specific dimensions, such as 1000x1000 for posts and 1920x1080 for Instagram stories.
-- For offline materials and visuals placed far from the audience (e.g., billboards), ensure logo size is large enough for readability.
-
-**Brand Voice:**
-
-- Tone of voice should be consistent across domestic and international communications. Follow unified guidelines for fonts, colors, and messaging in all communication materials.
-
-**Notes:**
-
-- Xiaomi's brand colors and fonts should always remain consistent. Specific rules for logo usage, background application, and co-branding must be followed to ensure cohesive visual identity.
-- Special usage guidelines for the mi.com logo: Ensure correct proportion and avoid using non-brand colors, altering font, or changing the capitalization.
-- Incorrect logo examples include: changing proportion ratios, changing fonts, or placing the logo on poorly contrasting background colors.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -150,7 +99,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Software](/products_or_materials_produced/software/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |

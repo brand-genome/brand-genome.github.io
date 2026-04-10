@@ -2,7 +2,7 @@
 title: Teach For America
 slug: "teach-for-america"
 description: ""
-date: "2026-03-20T08:22:04.683110"
+date: "2026-04-10T09:40:33.401574"
 draft: false
 sectors:
   - ngo
@@ -53,13 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1135250"
 has_twitter: false
@@ -93,33 +90,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Information related to logos is extracted, including mentions of logo versions, color versions, and dimensions as specified within specific guidelines in the document.
-
-**Color Information:**
-
-- Details like Pantone, HEX, and CMYK descriptions for primary and secondary brand colors are listed in the document, with rules of usage defined.
-
-**Typography Information:**
-
-- Typography details such as font names, usage in headers, spacing, styles for the content, and typeface rules are highlighted.
-
-**Imagery Photography:**
-
-- Photography and imagery guidelines such as lighting preferences, compositional treatments, and mood suggestions for brand imagery.
-
-**Spacing Layout:**
-
-- Guidelines on spacing, grids, alignment rules, and margins for uniform branding design.
-
-**Brand Voice:**
-
-- Tone and messaging suggestions for effective brand communication and alignment.
-
-**Notes:**
-
-- Additional notes cover event-related branding materials, partnerships, and document layouts.
+*Guidelines data not available*
 
 ## Additional Properties
 

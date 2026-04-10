@@ -2,7 +2,7 @@
 title: Tigo Sports
 slug: "tigo-sports"
 description: ""
-date: "2026-03-20T08:22:05.545039"
+date: "2026-04-10T09:40:34.451226"
 draft: false
 sectors:
   - broadcasting
@@ -71,6 +71,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2013
+
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-03-20T08:22:04.495582"
+date: "2026-04-10T09:40:33.251036"
 draft: false
 sectors:
   - ngo
@@ -16,8 +16,8 @@ tags:
   - charity
 industries:
   - "voluntary-sector"
-  - "activities-of-religious-organisations"
   - "other-social-work-activities-without-accommodation-nec"
+  - "activities-of-religious-organisations"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -56,15 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-brand_colors:
-  - red
-typographies:
-  - times
-imagery_styles:
-  - clean
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Evangelical Christian church and charitable organisation
 wikidata_url: "https://www.wikidata.org/wiki/Q188307"
 has_twitter: false
@@ -83,27 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Color Information:**
-
-- Al l d ig ital colors shou ld b e RGB to ensu re that the signatu re SalvationArmy red mai nt ai n s its pu rest expression of  color i n the on l i ne format . S e e ﬁColorsﬂ s e c t ion  und e r ﬁ Ba sic sﬂ for more  i n form at ion.
-
-**Imagery Photography:**
-
-- ˜e SalvationAr my ™s most p owerfu l to ol i n p ortrayi ng the real ities of  hu man need th roughout ou r commun ities .
-- Whene ver p ossible, v i suals shou ld re present the strug gles add ress ed by ˜eSalvationArmy. Photos show i ng thes e i n itial problem s Œ rather than ˜e SalvationArmy ™s u ltimate s olution Œ help d isp el apathy and d rive action. For  e x a mple Ł Ima ges of  the deva st ation wrought by natu ral di sa sters. Ł Authentic, u np osed p ortraits of  thos e hu ng r y and hu rti ng  th roughout  our  com mu n itie s . Ł Genu i ne,ﬁfly on the wal lﬂ iteration s of  the trial s ou r cl ients face dai ly. Ł C andid shots of  men, women, and chi ld ren l iv i ng the on ly real ity they know. B ecau se raw artic u lation s of  suffering and loss are most comp el l i ng to ou r donors , subj ec ts i n non-p ortrait photo g raphy formats shou ld rarely b e aware of  the camera . Plea s e note:Though authenticity is of  paramou nt i mp ort ance, we must al so b e v ig i lant i n en su ri ng that ou r photo g raphy never pre ys up on ou r donors™ g ui lt or pity.To do s o, exerci s e restrai nt i n employi ng any i ma ges thatﬁshameﬂ or manipu late a p ossible giver. A fe w sto ck websites that off erﬁnon-sto ck lo okingﬂ i ma ges are w w w.masterfile.com w w w.sup e rsto ck . co m w w w .offs e t.co m
-
-**Spacing Layout:**
-
-- Ai m to de velop a clean, u ncluttered lo ok wh ile emp oweri ng each exec ution to st and out f rom comp e ting messa ges. E xamples of  appropriate layout tech n iq ues can b e fou nd on the Red Sh ieldTo ol kit . Ł Sizi ng, placi ng, and s cal ing fonts in an eleg ant and i ntentional man ner. Ł Appropriate kern i ng (adjusting the space b e tween le tters) and lead i ng (adj u sti ng the space be tween l i nes). ˜ough values w i l l var y ba s ed on siz e, the ty p e shou ld  ne ver lo ok smashed toge ther or spread to o far apart , either vertical ly or horizont al ly. For ty pe, foc u s on Ł The u s e of  PURPOSEFUL whitespace.Thiswhite space does not exi st j u st to be f i l led w ith more and more  i n form at ion . Ł Generou s amou nt of  breath i ng ro om to help ˚ Break though w ith si mpl icity. ˚ S e t off and d i splay carefu l ly craf ted text and i ma ges . ˚ Tran slate i nto i ncrea s ed attention span and rece ption  of  ke y message.
-
-**Brand Voice:**
-
-- fi The S alv at i on Army fed more th an one t h o usan d famil ies, thanks to your ge ne rous donat ion s. Ł Ac t ion able. Al l messages shou ld c u l m i nate i n a cal l to action  i n form i ng donors how the y can help.Th i s shou ld ne ver  b e del ivered i n a badgeri ng, desperate, or gu i lt-i nduci ng man ner, but shou ld carr y the same poi s e and g race a s the rest of  the copy. E x amp l e : ﬁGive th e gift of a war m meal . $5 buys someone dinne r. Donate now at SalvationAr myUSA.org.ﬂ  Ł Enco u ra g i ng . Donors  shou ld  feel  compel led Œ ne ve r obl ig ated Œ to contribute, s oﬁg u i lti ngﬂ ph ra s es and tonal ity such a s ﬁ without  you r  he lpﬂ shou ld  not  be  u s e d . Inclu sive  and encou ra g i ng lang ua ge i nv iti ng p otential donors to  pa rtne r  with The  Sa lvation  Ar m y w ill reap both i m med iate donation s and positive, long-term relation sh ips . E x ampl e :  ﬁ It doesn™t tak e much to tur n\‚ h ung r y™ into\‚we ll- fed™.ﬂ
-- Al l  com mun icat ion  ste mm i ng  f rom  ˜e SalvationArmy shou ld Ł Evoke ou r C h ristian moral s and b el ief. Ł Honor ou r b eneficiaries , ou r donors, and ou r Go d . Ł Re present a lov i ng, gracious , C h ri st-mi nded voice. Ple a s e note:We need n™t always overtly add ress  spi ritual ity.At times , it may b e b enef icial to remai n  s ec u lar i n ou r ac tual word s and ph ra s es . Pers onal  d i s cre tion shou ld b e employed to ach ie ve the ideal  messa ge for each scenario.
-
-**Notes:**
-
-- When al l tenets of  ˜e SalvationAr my  brand come to ge ther i n thei r b est p ossible form,  the resu lti ng commu n ication i s professional, p owerf ul, and p ersua sive.
+*Guidelines data not available*
 
 ## Additional Properties
 

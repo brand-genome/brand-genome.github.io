@@ -2,11 +2,11 @@
 title: Bank Muscat
 slug: "bank-muscat"
 description: ""
-date: "2026-03-20T08:22:03.069899"
+date: "2026-04-10T09:40:30.569260"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - oman
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - financial
+  - insurance
 industries:
   - "financial-services"
 countries:
@@ -54,14 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - clean
+imagery_styles: []
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q806607"
 has_twitter: false
@@ -80,24 +76,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo version: 'Complete Mark'
-- Clear space or safe zone rules: Please use the designated clear area around the logo to maintain visibility.
-- Use of CMYK color space specified for logo artworks.
-
-**Color Information:**
-
-- Pantone Red used as a primary color for branding.
-
-**Typography Information:**
-
-- Primary typeface: SST Arabic; used for consistency across all textual communications.
-- Font weights include light, regular, medium, and bold. Light weight for a clean and approachable aesthetic.
-
-**Spacing Layout:**
-
-- Maintaining proper grid alignment and balanced spacing crucial for effective layouts.
+*Guidelines data not available*
 
 ## Additional Properties
 

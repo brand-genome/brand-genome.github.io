@@ -2,7 +2,7 @@
 title: Atlanta Falcons
 slug: "atlanta-falcons"
 description: ""
-date: "2026-03-20T08:22:04.220496"
+date: "2026-04-10T09:40:32.631902"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -74,6 +74,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

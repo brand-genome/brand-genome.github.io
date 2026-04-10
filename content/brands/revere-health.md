@@ -2,7 +2,7 @@
 title: Revere Health
 slug: "revere-health"
 description: ""
-date: "2026-03-20T08:22:05.740327"
+date: "2026-04-10T09:40:34.710730"
 draft: false
 sectors:
   - healthcare
@@ -48,29 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-  - "pantone-367"
-  - white
-  - purple
-  - "pantone-241"
-  - blue
-  - gray
-  - black
-  - "pantone-306"
-  - magenta
-  - "pantone-538"
-typographies:
-  - "sans-serif"
-  - gotham
-  - "proxima-nova"
-  - serif
-imagery_styles:
-  - photography
-  - natural
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: healthcare
 wikidata_url: "https://www.wikidata.org/wiki/Q48845283"
 has_twitter: false
@@ -89,51 +70,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Primary logo for Revere Health; always use the full version and copy. Avoid using the mark alone unless the full logo is present nearby for context.
-- Specialty logo represents all groups within a defined Revere Health specialty.
-- Group logo represents individual clinics, with variations available for print and web.
-- Main Logo is the primary version used where proper contrast is available (highest brand recognition).
-- Single color white or black logo variants minimize print costs and provide high contrast.
-- Single color complementary variants should be used with discretion (mainly in commercial printing with approved Pantone colors).
-- Screen print logos reduce to 4, 3, or 2 colors for screen printing and embroidery.
-- Space around logo: Always leave enough breathing space for the logo and use white or neutral backgrounds.
-- White logo must be used when placed on colored or photographic backgrounds (Revere Purple preferred).
-- Avoid placing the logo on 'yucky' colors or backgrounds too light/cluttered.
-- Do not rotate, skew, or distort the logo under any circumstances.
-- Do not add embellishments (drop shadows, embossing, glowing effects) to the logo.
-
-**Color Information:**
-
-- Primary color: Revere Purple - Pantone: 2612, CMYK: 60/100/13/0, RGB: 131/42/130, Hex: #832a82
-- Accent color: Revere Text - Pantone: 7543, CMYK: 41/21/24/0, RGB: 144/167/172, Hex: #90a7ac
-- Revere Blue (Accent): Pantone 306, CMYK 79.8/1.15/0/0, RGB 0/183/239, HEX #00b7ef
-- Revere Magenta (Accent): Pantone 241, CMYK 25/100/0/0, RGB: 189/26/141, HEX #bd1a8d
-- Revere Green (Accent): Pantone 367, CMYK 38/0/100/0, RGB 171/208/55, HEX #abd037
-- Revere Light Gray (Accent): Pantone 538, CMYK 21/7.74/8.85/2.58, RGB: 193/209/216, HEX #c1d1d8
-
-**Typography Information:**
-
-- Corporate sans-serif font: Proxima Nova (premium license required; headlines and text applications). Gotham is the free alternative provided.
-- Corporate serif font: Aleo used exclusively for text applications; free for download.
-
-**Imagery Photography:**
-
-- Photography style: Images should feel natural, candid, unique (avoid stock imagery). Ensure engagement or focus among people in the images.
-- Images must communicate clear messaging and utilize friendly, approachable people.
-
-**Spacing Layout:**
-
-- Breathing space required around the logo; avoid cluttered backgrounds.
-
-**Brand Voice:**
-
-- Mission statement: 'Your health above all else.' Core values: Quality, Communication, Innovation, Coordination, Independence.
-
-**Notes:**
-
-- Contact Revere Health marketing department for guidance and support. Internal materials require approval at marketing@reverhealth.com.
+*Guidelines data not available*
 
 ## Additional Properties
 

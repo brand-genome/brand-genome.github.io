@@ -2,7 +2,7 @@
 title: University of the Highlands and Islands
 slug: "university-of-the-highlands-and-islands"
 description: ""
-date: "2026-03-20T08:22:03.876445"
+date: "2026-04-10T09:40:31.556337"
 draft: false
 sectors:
   - education
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: university in Scotland
 wikidata_url: "https://www.wikidata.org/wiki/Q1470817"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 
 - [https://www.uhi.ac.uk/en](https://www.uhi.ac.uk/en)
 - [http://www.uhi.ac.uk](http://www.uhi.ac.uk)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

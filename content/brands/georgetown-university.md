@@ -2,7 +2,7 @@
 title: Georgetown University
 slug: "georgetown-university"
 description: ""
-date: "2026-03-20T08:22:05.187424"
+date: "2026-04-10T09:40:34.062107"
 draft: false
 sectors:
   - education
@@ -78,6 +78,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

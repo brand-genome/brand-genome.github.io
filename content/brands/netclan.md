@@ -2,7 +2,7 @@
 title: Netclan
 slug: netclan
 description: ""
-date: "2026-03-20T08:22:04.418423"
+date: "2026-04-10T09:40:33.163172"
 draft: false
 sectors:
   - software
@@ -47,24 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - primary
-  - secondary
-  - alternate
-brand_colors:
-  - beige
-  - navy
-  - white
-  - blue
-  - yellow
-  - gray
-  - black
-typographies:
-  - raleway
-  - "open-sans"
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -84,52 +70,120 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logomark represents a community, with elements in alternate colors showing indirect connection among members. The circular shape highlights global unity, forming a swastika in the center that resonates with positivity, trust, brotherhood, and compassion.
-- Clear space requirements: 50% height of the logomark on all sides serves as a buffer zone, with the height of the letter 'N' being the clear space reference.
-- Available logo variations include full color, one-color, one-color reversed (white on dark backgrounds), and full color with background.
-- Prohibited usage guidelines: Do not resize or distort the proportions, avoid changing colors or using shadows, refrain from rotating the logo, maintain the specified fonts, and pair the logo with the tagline always.
+##### Mission
 
-**Color Information:**
+- Mission is to onboard more than a billion smart phone users consisting of individual users, professionals, merchants, into the Netclan trusted community through a mobile application; and give these community users a million of reasons to connect and transact with each other in hyperlocal geography, on need basis, and in mutual interests.
 
-- Primary Colors:
-1. Navy Blue - HEX: #133D59, CMYK: C:96 M:74 Y:42 K:32, PMS: 1235 C
-2. Yellow - HEX: #FFB81C, CMYK: C:0 M:31 Y:98 K:0, PMS: 524 C
-3. White - HEX: #FFFFFF, CMYK: C:0 M:0 Y:0 K:0
-4. Black - HEX: #000000, CMYK: C:0 M:0 Y:0 K:100
-- Secondary Colors:
-1. Beige - HEX: #F7D483, CMYK: C:3 M:15 Y:57 K:0, PMS: 7403 C
-2. Gray - HEX: #5E7286, CMYK: C:65 M:46 Y:31 K:14, PMS: 134 C
-3. Light Yellow - HEX: #F8CE7C, CMYK: C:2 M:19 Y:60 K:0, PMS: 5405 C
-- Color psychology: Yellow evokes energy and youth, while navy blue adds authority and trustworthiness, creating a harmonious and impactful logo color combination.
+##### Core Values
 
-**Typography Information:**
+- positivity
+- trust
+- humanity
+- brotherhood
+- compassion
 
-- Logo Typeface:
-Main Logo: New Font Regular
-Tagline: Raleway (Regular)
-- Primary font for headings and correspondence: Open Sans
-Styles:
-1. Open Sans Light
-2. Open Sans Semibold
-Usage examples: Web design, mobile apps, brochures, headings, and general communication.
+##### Target Audience
 
-**Imagery Photography:**
+- Individual users, professionals, merchants, and smartphone users seeking to connect and transact in hyperlocal communities.
 
-- Photography emphasizes connections and diversity, showcasing Netclan users' professions and lifestyles. Devices introduced in photos should emphasize mobility and must primarily focus on users, not the devices.
-- Photographs should evoke relatability—workspaces, audience demography, and scenarios where users employ Netclan effectively.
+##### Personality Traits
 
-**Spacing Layout:**
+- playful
+- confident
+- authoritative
+- friendly
+- trustworthy
 
-- Illustrations should be iterative and reflect primary colors to maintain brand consistency, usable across diverse applications.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity features a circular logomark depicting a community, with alternating colors of dark blue and yellow, symbolizing unity and global reach. The brand uses a playful yet confident color palette, modern sans-serif typography, and imagery that emphasizes users and their devices in familiar, professional, and everyday settings.
 
-- Brand tone emphasizes trustworthiness, connectivity, and hyperlocal engagements. Messaging promotes inclusivity and aligning community needs with focus on mutual interests.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Mission statement: Aim to onboard a billion smartphone users into Netclan's trusted community, creating value through hyperlocal geography interactions and mutual interests.
-- Vision statement: Develop a platform fostering communities based on location and proximity, enabling users to connect, transact, and create substantial value for a global network.
-- Icons should enhance communication efficiency, highlight key actions, and enable user interactions such as chat, call, and add image features.
+- Our images capture a range of professions and places to mirror the variety of our users. The various creative processes they utilize within their work and how they problem solve is apparent throughout our visual narrative.
+- When we're introducing devices, emphasizing people first is our motto. Even if we're showing the engagement of the user and the device, the primary focus should be on the user. Devices should reinforce the idea of mobility and movement.
+- .Netclan’s photography is easily graspable at a glimpse. It’s an image that the user can marvel and see themselves in. It’s a place that seems familiar to their workspace, a user they recognize as their audience or people who look similar to their colleagues. It shows them various ways they can use Netclan, no matter where they find themselves.
+
+##### Color Palette
+
+- ## Primary Colors <table><tr> <td> CMYK</td> <td colspan=4> 96 74 42 32</td> <td> 0 31 98 0</td> </tr> <tr> <td> HEX</td> <td colspan=4> #133D59</td> <td> #FFB81C</td> </tr> <tr> <td> PMS</td> <td colspan=4> 524 C</td> <td> 1235 C</td> </tr> <tr> <td> CMYK</td> <td> 0</td> <td> 0</td> <td> 0</td> <td> 100</td> <td> 0</td> <td> 0 0 0</td> </tr> <tr> <td> HEX</td> <td colspan=4> #000000</td> <td> #FFFFFF</td> </tr> <tr> <td> PMS</td> <td colspan=4> NOIR</td> <td> BLANC</td> </tr></table>
+- ## Secondary Colors <table><tr> <td> CMYK</td> <td> 19</td> <td> 15</td> <td> 8</td> <td> 6</td> <td> 2 19 60 0</td> </tr> <tr> <td> HEX</td> <td colspan=4> 5E7286</td> <td> #F8CE7C</td> </tr> <tr> <td> PMS</td> <td colspan=4> 5415 C</td> <td> 134 C</td> </tr> <tr> <td> CMYK</td> <td colspan=4> 65 46 31 14</td> <td> 3 15 57 0</td> </tr> <tr> <td> HEX</td> <td colspan=4> #5E7286</td> <td> #F7D483</td> </tr> <tr> <td> PMS</td> <td colspan=4> 5405 C</td> <td> 7403 C</td> </tr></table>
+- Yellow is the ultimate attention-grabber and radiates energy, and it sets up a youthful backdrop for the authoritative Navy.
+- This logo’s colour combination is playful yet confident, giving the impression that the company behind the symbol is one to be trusted.
+- Do not change the colors even if they look similar. Use the official colour specifications detailed in these guidelines and never put shadow while using logounit.
+- We try to maintain the uniformity of the brand by using the primary colors of the brand in all the illustrations used during design process.
+
+##### Typography
+
+- Two font styles are used for the logo, typeface family: New Font Regular- Name Raleway (Regular) - Tagline
+- OPEN SANS is the primary font used for the standard headings, wordings, ranging from: mobile app designs, web designs, brochures and all forms of general correspondance.
+- Do not use any other font, no matter how close it might look to New Font Regular (primary font) and never use the logo type alone without tagline.
+
+##### Logo Usage
+
+- Clear space prevents type, imagery or other graphic elements from interfering with the legibility of our logo. No graphic elements should encroach the border around the logomark.This space is determined by 50% height of logomark on each side. Measure the clear space for primary logomark by the height of the letter N.
+- Random logo used on an application will often depend on the background and production method. When using the logo on a white background. You can use full color version.
+- Do not resize or change the position of the logomark.
+- Do not use any other font, no matter how close it might look to New Font Regular (primary font) and never use the logo type alone without tagline.
+- Do not squish or squash the logo. Any resizing must be in proportion. Don't rotate the logomark and logotype.
+- Do not change the colors even if they look similar. Use the official colour specifications detailed in these guidelines and never put shadow while using logounit.
+
+##### Tone And Messaging
+
+- "Mission is to onboard more than a billion smart phone users consisting of individual users, professionals, merchants, into the Netclan trusted community through a mobile application; and give these community users a million of reasons to connect and transact with each other in hyperlo­cal geography, on need basis, and in mutual interests."
+- "To create a digital platform which will connect the entire unconnected world community of netizens with each other in a hyperlocal environment, for the purpose of mutual interests and benefits. The global community will form countless dynamic hyperlocal communities based on the locations and proximities and give members of these hyperlocal communities a host of reasons to connect, transact and create value for the community members."
+- The Endeavour is to create one of the largest online community of the world, consisting of trusted members, which will bring lot of value for members through a vast gamut of services, and will also create immense value for the digital platform.
+- Logo mark depicts a community. The members of the community (logo elements) in alternate colors depict that they are not directly connected but are still are within each other’s reach. The circular shape denotes that it is a global community. A swastika sign generated in the middle of the logo mark by all the elements resonates positivity, trust, humanity, brotherhood, compassion among the community members.
+
+##### Brand Values
+
+- No data was found in the selected collection for your question. This could be due to a system configuration issue, or there may not be relevant data matching your query. Suggestion: Try rephrasing your question with more specific information, or contact support if you believe this is a technical error.
+
+##### Visual Style
+
+- Clear space prevents type, imagery or other graphic elements from interfering with the legibility of our logo. No graphic elements should encroach the border around the logomark.This space is determined by 50% height of logomark on each side. Measure the clear space for primary logomark by the height of the letter N.
+- Do not resize or change the position of the logomark.
+- Do not use any other font, no matter how close it might look to New Font Regular (primary font) and never use the logo type alone without tagline.
+- Do not squish or squash the logo. Any resizing must be in proportion. Don't rotate the logomark and logotype.
+- Do not change the colors even if they look similar. Use the official colour specifications detailed in these guidelines and never put shadow while using logounit.
+- CMYK 96 74 42 32 0 31 98 0
+- HEX #133D59 #FFB81C
+- PMS 524 C 1235 C
+- CMYK 0 0 0 100 0 0 0 0 0
+- HEX #000000 #FFFFFF
+- PMS NOIR BLANC
+- CMYK 19 15 8 6 2 19 60 0
+- HEX 5E7286 #F8CE7C
+- PMS 5415 C 134 C
+- CMYK 65 46 31 14 3 15 57 0
+- HEX #5E7286 #F7D483
+- PMS 5405 C 7403 C
+- Yellow is the ultimate attention-grabber and radiates energy, and it sets up a youthful backdrop for the authoritative Navy.
+- This logo’s colour combination is playful yet confident, giving the impression that the company behind the symbol is one to be trusted.
+- Two font styles are used for the logo, typeface family: New Font Regular- Name Raleway (Regular) - Tagline
+- OPEN SANS is the primary font used for the standard headings, wordings, ranging from: mobile app designs, web designs, brochures and all forms of general correspondance.
+- Illustrations are one of the main elements in random brand identity. They are intended to be repeatable to be used in wide variety of applications. We try to maintain the uniformity of the brand by using the primary colors of the brand in all the illustrations used during design process.
+- Icons are simple, friendly visual system for highlighting, labelling, and searching.
+- Iconography signals, labels, or highlights simple information with speed and clarity.
+- Symbolising a command, file, device or directory.
+- Icons are also used to represent common actions like chat, call, add image etc.
+- Our images capture a range of professions and places to mirror the variety of our users. The various creative processes they utilize within their work and how they problem solve is apparent throughout our visual narrative.
+- When we're introducing devices, emphasizing people first is our motto. Even if we're showing the engagement of the user and the device, the primary focus should be on the user. Devices should reinforce the idea of mobility and movement.
+- Netclan’s photography is easily graspable at a glimpse. It’s an image that the user can marvel and see themselves in. It’s a place that seems familiar to their workspace, a user they recognize as their audience or people who look similar to their colleagues. It shows them various ways they can use Netclan, no matter where they find themselves.
+
+##### Iconography
+
+- Icons are simple, friendly visual system for highlighting, labelling, and searching.
+- Iconography signals, labels, or highlights simple information with speed and clarity.
+- • Symbolising a command, file, device or directory.
+- • Icons are also used to represent common actions like chat, call, add image etc.
+
+##### Layout And Composition
+
+- Clear space prevents type, imagery or other graphic elements from interfering with the legibility of our logo. No graphic elements should encroach the border around the logomark.This space is determined by 50% height of logomark on each side. Measure the clear space for primary logomark by the height of the letter N.
+- Do not resize or change the position of the logomark.
+- Do not squish or squash the logo. Any resizing must be in proportion. Don't rotate the logomark and logotype.

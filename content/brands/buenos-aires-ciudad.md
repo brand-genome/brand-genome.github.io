@@ -2,7 +2,7 @@
 title: Buenos Aires Ciudad
 slug: "buenos-aires-ciudad"
 description: ""
-date: "2026-03-20T08:22:04.561687"
+date: "2026-04-10T09:40:33.372138"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,14 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-brand_colors:
-  - yellow
-  - white
-  - black
-  - cyan
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -74,16 +68,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Specifications for sizes and proportions of the Buenos Aires Ciudad logo ('Escudo'): examples of 3 cm, 2 cm dimensions shown.
-- Rules for the zone of security for the logo to ensure visual clarity and spacing, defined as the thickness of the oval line in the logo.
-- Rules for positive and negative logo application: negative for backgrounds with less than 50% lightness, positive for backgrounds with more than 50% lightness.
-- Incorrect uses of the logo: do not modify proportions, distort, rotate, change internal spacing, or use the logo in outline form.
-- Correct and incorrect applications of the logo on colors: avoid colors that produce low contrast or deviate from the pre-defined color palette.
-- Vertical use of the logo with 'Escudo + Claim'. Designers may choose horizontal or vertical applications based on space layout.
-- Application of the logo in black (90%) on yellow backgrounds or cyan on white backgrounds.
-
-**Notes:**
-
-- The manual provides verbose rules for logo applications, including color restrictions and spacing or proportion guidelines.
+*Guidelines data not available*

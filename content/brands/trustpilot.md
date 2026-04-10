@@ -2,7 +2,7 @@
 title: Trustpilot
 slug: trustpilot
 description: ""
-date: "2026-03-20T08:22:03.081934"
+date: "2026-04-10T09:40:30.592839"
 draft: false
 sectors:
   - software
@@ -50,11 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - green
-  - pink
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Danish freemium review website
@@ -62,7 +59,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q7848226"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,21 +70,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2019
 
-**Logo Information:**
-
-- Minimum clear space around the Trustpilot logo is defined as half the width of the star. No other elements should intrude into this space.
-- The Trustpilot logo must not be smaller than 72px in digital usage and 20mm in print.
-- The logo must remain consistent and should not be misinterpreted, modified, or altered in any way. Avoid using the logo against poor contrasting backgrounds, such as green on a bright pink background. Use the secondary logo solution in such cases.
-
-**Brand Voice:**
-
-- Trustpilot branding is associated with leadership, progress, and people. Correct use of branding communicates a commitment to customer care.
+*Guidelines data not available*
 
 ## Additional Properties
 

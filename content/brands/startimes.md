@@ -2,7 +2,7 @@
 title: StarTimes
 slug: startimes
 description: ""
-date: "2026-03-20T08:22:04.393265"
+date: "2026-04-10T09:40:33.121737"
 draft: false
 sectors:
   - broadcasting
@@ -52,16 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
+logo_elements: []
 brand_colors: []
-typographies:
-  - times
-  - din
-imagery_styles:
-  - bold
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: Chinese electronics and media company operating in Africa
 wikidata_url: "https://www.wikidata.org/wiki/Q33362176"
 has_twitter: false
@@ -81,29 +75,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- STAR TIMES VISUAL IDENTITY GUIDELINES
-- ... Logo and symbol versions (including icon and color formats)
-- ... Safe zone dimensions and incorrect usage guidelines
-- ... Logo reproduction rules and dimensions
-
-**Color Information:**
-
-- ... Full color palette analysis for identity branding CMYK breakdowns clear sets Pantone codes.
-
-**Typography Information:**
-
-- ...Visible standard bold DIN recurring fonts applied.
-- Complete role typeface textual accents.
-
-**Imagery Photography:**
-
-- Scene depth photography elements integrations showcase across brand context visual.
-
-**Notes:**
-
-- Other elements directly noted includes overall guidelines appendix logos
+*Guidelines data not available*
 
 ## Additional Properties
 

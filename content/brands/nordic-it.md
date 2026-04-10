@@ -2,7 +2,7 @@
 title: Nordic IT
 slug: "nordic-it"
 description: ""
-date: "2026-03-20T08:22:05.156583"
+date: "2026-04-10T09:40:33.994923"
 draft: false
 sectors:
   - software
@@ -46,19 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - white
-  - blue
-typographies:
-  - "sans-serif"
-  - gotham
-imagery_styles:
-  - bold
-  - modern
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,34 +69,92 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- The Nordic IT logo consists of the brand name and the brand symbol. The logo must always be easy to see and read in all situations. Altering the logo in any way is prohibited by copyright law.
-- Logo variations include different color options depending on usage and print methods. For dark backgrounds, negative/white versions may be used.
-- Logo Do's and Don'ts: Always maintain original proportions and ensure the logo includes the 'IT' symbol. Avoid stretching the logo, using mismatched width-height proportions, or placing the logo on strong contrasting color backgrounds.
-- Minimum size for the logo is 20 mm in height. Logos that are smaller than 20 mm are too difficult to read.
-- Clear space rules specify that the protective area is based on the width and height of the letter 'N' from the brand name. No elements such as text, images, or illustrations should be placed within this area.
-- Alternative logo option includes a horizontal format for aesthetic difficulties in using the primary logo.
-- Incorrect usage examples include missing the 'IT' symbol, stretching the logo, mismatched dimensions, using strong contrasting backgrounds, and overlooking the elegant and stylish appearance requirement.
+##### Mission
 
-**Color Information:**
+- The document does not explicitly state a mission or purpose statement.
 
-- There are 7 colors in the Nordic IT brand color palette. Specific codes include CMYK for print materials, RGB for digital, and HEX for web. Ensuring accurate color reproduction requires using original color guides, not printed versions.
+##### Target Audience
 
-**Typography Information:**
+- The target audience is not directly described, but the brand book is intended for those using Nordic IT branding, such as employees, designers, and marketing professionals [^1].
 
-- The fonts for Nordic IT communication are Gotham and Journal. Gotham is a sans-serif typeface that provides a modern feel, while Journal is occasionally used to create a looser feel.
-- Gotham font styles: Light, Book, and Bold alongside Journal typography, displayed with examples of characters and digits.
+##### Personality Traits
 
-**Imagery Photography:**
+- modern
+- professional
+- minimalist
+- clean
+- stylish
 
-- The Nordic IT brand pattern consists of 7 blue colors derived from the 'IT' logo symbol. The pattern is designed for selective use in brand materials like business cards and phone covers, serving as a visual attention getter and brand reference.
+##### Visual Identity Overview
 
-**Spacing Layout:**
+- The visual identity is characterized by a pixelated geometric logo in shades of blue, a clean and minimalist layout, a color palette of seven blue tones, and the use of Gotham and Journal typefaces. The brand pattern is used sparingly as a visual attention getter, and logo usage is strictly regulated for consistency and clarity [^2].
 
-- Protective clear space around the logo is defined by the dimensions of the letter 'N' from the brand name. No text or visual elements should intrude within this space.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- All guidelines mentioned are binding under copyright law and must be adhered to strictly. Visual elements such as the brand pattern should serve restricted functional and aesthetic purposes.
-- For more information or branding materials, visit www.nordic-it.com/press-room/ or contact the CMO, Linnea Kira Birk (marketing@nordic-it.com).
+- The Nordic IT brand pattern is created from 7 blue colours (See specific colour codes on page 22). The pattern is derived from the (IT) in the Nordic IT logo.
+- Because of the visual dominans, the pattern is not meant to be used excessively on brand materials or as backgrounds in presentations. It is meant only as an extra brand element whenever it makes sense: For example on the back of business cards, on phone covers or used as a attention getter at events. This way the pattern is only used as a visual attention getter and a visual colour reference to the Nordic IT Brand.
+
+##### Color Palette
+
+- The Nordic IT brand pattern is created from 7 blue colours (See specific colour codes on page 22). The pattern is derived from the (IT) in the Nordic IT logo.
+- Because of the visual dominans, the pattern is not meant to be used excessively on brand materials or as backgrounds in presentations. It is meant only as an extra brand element whenever it makes sense: For example on the back of business cards, on phone covers or used as a attention getter at events. This way the pattern is only used as a visual attention getter and a visual colour reference to the Nordic IT Brand.
+- There are 7 colors in the Nordic IT brand color palette. The CMYK color codes are for print material. The RGB is for digital material. The HEX colors are for web.
+- Color provides a strong visual link to our brand identity across a wide range of applications.
+- It is important to follow the color specifications carefully selected by the designer. Never let a software application translate from one colour system to another.
+- ATTENTION: Never use a print of the page as a visual color reference. Always use an original color guide as visual color reference.
+
+##### Typography
+
+- A typeface plays an important role in creating a distinct identity.
+- The fonts for all Nordic IT communication are Gotham & Journal.
+- Gotham is a san serif typeface. It has a very modern feel which compliments the Nordic IT Brand very well.
+- Journal is also occasionally used in the Nordic IT Brand - but always as a suplement to Gotham. Journal is used to bring a more lose feel to the Nordic IT typefaces.
+- Gotham Light
+- abcdefghiljklmnopqrstuvwxyzæøå,.-ABCDEFGHILJKLMNOPQRSTUVWXYZÆØÅ,.- 1234567890
+- Gotham Book
+- Gotham Bold
+- Journal
+
+##### Logo Usage
+
+- It is very important that the logo is always easy to see and read in all usage situations. According to needs and print method, the logo can be displayed in different colour variations (See examples on page 8-9).
+- For dark background situations, it will only be possible to display the logo in negative/white.
+- Note that altering the logo is against the copyright law.
+- In order to ensure consistency in the Nordic IT brand, it is very important to maintain the logo’s original proportions when using it.
+- The NORDIC IT logo should never be used withuot the (IT) symbol.
+- The NORDIC IT logo should not be stretched.
+- The NORDIC IT logo should never be used on strong contrasting color backgrounds.
+- The NORDIC IT logo should always be used with the (IT) symbol.
+- Width and hight of the NORDIC IT logo should always match.
+- The NORDIC IT logo should always appear elegant and stylish.
+- To ensure that the Nordic IT logo is never disturbed by other elements such as text, images or illustrations, a protective area has been specified by the width and height of the letter N in the brand name. No letters should be placed within this area.
+- There are no restrictions on how big the logo can be. However, when it comes to scaling it down, the logo may never be smaller than 20 mm in height. Any smaller and it will be too difficult to read or register.
+
+##### Visual Style
+
+- It is very important that the logo is always easy to see and read in all usage situations. According to needs and print method, the logo can be displayed in different colour variations (See examples on page 8-9).
+- For dark background situations, it will only be possible to display the logo in negative/white.
+- Note that altering the logo is against the copyright law.
+- In order to ensure consistency in the Nordic IT brand, it is very important to maintain the logo’s original proportions when using it.
+- The NORDIC IT logo should never be used withuot the (IT) symbol.
+- The NORDIC IT logo should not be stretched.
+- The NORDIC IT logo should never be used on strong contrasting color backgrounds.
+- The NORDIC IT logo should always be used with the (IT) symbol.
+- Width and hight of the NORDIC IT logo should always match.
+- The NORDIC IT logo should always appear elegant and stylish.
+- To ensure that the Nordic IT logo is never disturbed by other elements such as text, images or illustrations, a protective area has been specified by the width and height of the letter N in the brand name. No letters should be placed within this area.
+- There are no restrictions on how big the logo can be. However, when it comes to scaling it down, the logo may never be smaller than 20 mm in height. Any smaller and it will be too difficult to read or register.
+- When facing an aesthetic problem due to the format of the primary Nordic IT logo there has been created a horisontal anternative.
+- You can use either of the logos as you please - Just make sure the logo is presented in the best possible way.
+- The Nordic IT brand pattern is created from 7 blue colours (See specific colour codes on page 22). The pattern is derived from the (IT) in the Nordic IT logo.
+- Because of the visual dominans, the pattern is not meant to be used excessively on brand materials or as backgrounds in presentations. It is meant only as an extra brand element whenever it makes sense: For example on the back of business cards, on phone covers or used as a attention getter at events. This way the pattern is only used as a visual attention getter and a visual colour reference to the Nordic IT Brand.
+- There are 7 colors in the Nordic IT brand color palette. The CMYK color codes are for print material. The RGB is for digital material. The HEX colors are for web.
+- It is important to follow the color specifications carefully selected by the designer. Never let a software application translate from one colour system to another.
+- ATTENTION: Never use a print of the page as a visual color reference. Always use an original color guide as visual color reference.
+- The fonts for all Nordic IT communication are Gotham & Journal.
+- Gotham is a san serif typeface. It has a very modern feel which compliments the Nordic IT Brand very well.
+- Journal is also occasionally used in the Nordic IT Brand - but always as a suplement to Gotham. Journal is used to bring a more lose feel to the Nordic IT typefaces.

@@ -2,12 +2,12 @@
 title: Kew
 slug: kew
 description: ""
-date: "2026-03-20T08:22:05.718939"
+date: "2026-04-10T09:40:34.672034"
 draft: false
 sectors:
+  - research
   - tourism
   - "arts-culture"
-  - research
 regions:
   - "united-kingdom"
 years:
@@ -51,19 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - natural
-  - vibrant
+imagery_styles: []
 wikidata_description: government botanical research institute in the UK
 wikidata_url: "https://www.wikidata.org/wiki/Q18748726"
 has_twitter: false
@@ -82,39 +73,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Masterbrand logo variations, including: Three-color, single color (mid green, dark green, black & white), and white on photography backgrounds.
-- Incorrect usage guidelines: Do not box logo, distort, alter relationships, or use overly complicated backgrounds.
-- Detailed logo color combinations for representation in different contexts (e.g., photographic background for legibility).
-
-**Color Information:**
-
-- Color palette includes primary and secondary colors with variations in Kew green shades. Exact color codes and contrasts emphasized.
-- Colors described with specific combinations (e.g., Pantone, HEX, RGB, and CMYK codes for Kew greens and additional colors).
-
-**Typography Information:**
-
-- Typography guidelines highlight typeface families and usage examples. Fonts include primary and supporting styles for all text types.
-- Usage specifics for headlines, subheadings, and body text in various applications. Vertical spacing emphasized.
-
-**Imagery Photography:**
-
-- Imagery guidelines highlight photography style for representing Kew branding—natural compositions, clear lighting, and vibrant tones.
-- Rules for overlays, gradients, or positioning images within layouts. Incorporate text-safe imagery zones.
-
-**Spacing Layout:**
-
-- Spacing guidelines include clear safe zone margins around the logo and supporting visuals. Grid application rules provided.
-- Proportionality emphasized in layout designs to ensure clarity and readability in communication materials.
-
-**Brand Voice:**
-
-- Brand tone specifies clarity, sophistication, and engaging communication with audiences. Consistent messaging across touchpoints.
-
-**Notes:**
-
-- References to brand architecture and application details also support contextual integration into partnerships, campaigns, etc.
+*Guidelines data not available*
 
 ## Additional Properties
 

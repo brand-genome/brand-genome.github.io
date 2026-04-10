@@ -2,11 +2,11 @@
 title: EROAD
 slug: eroad
 description: ""
-date: "2026-03-20T08:22:05.420237"
+date: "2026-04-10T09:40:34.293120"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - software
+  - "logistics-supply-chain"
   - hardware
 regions:
   - "new-zealand"
@@ -49,16 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-brand_colors:
-  - white
-  - black
-typographies:
-  - gotham
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Australian public company
 wikidata_url: "https://www.wikidata.org/wiki/Q109626990"
 has_twitter: false
@@ -80,19 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Wordmark usage rules stated: EROAD wordmark is kerned and adjusted in Gotham Bold font, cannot be typed out or re-written, and can only be used in black or white.
-- Do's and Don'ts for logo usage regarding positioning, sizing, and acceptable file formats directly specified.
-- Wordmark usage rules stated: EROAD wordmark is kerned and adjusted in Gotham Bold font, cannot be typed out or re-written, and can only be used in black or white.
-- Vertical logo version shown, used in both commercial and established markets, especially under space constraints. File names include EROAD_Logo_VerticalWordmark_CMYK, EROAD_Logo_VerticalWordmark_Reverse, and EROAD_Logo_VerticalWordmark_White.
-- Wordmark usage rules stated: EROAD wordmark is kerned and adjusted in Gotham Bold font, cannot be typed out or re-written, and can only be used in black or white.
-- Wordmark usage rules stated: EROAD wordmark is kerned and adjusted in Gotham Bold font, cannot be typed out or re-written, and can only be used in black or white.
-
-**Notes:**
-
-- Quick Start Guide and template instructions summarize key branding elements for practical, day-to-day application by creators.
-- Quick Start Guide and template instructions summarize key branding elements for practical, day-to-day application by creators.
+*Guidelines data not available*
 
 ## Additional Properties
 

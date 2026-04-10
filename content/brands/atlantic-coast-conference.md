@@ -2,7 +2,7 @@
 title: Atlantic Coast Conference
 slug: "atlantic-coast-conference"
 description: ""
-date: "2026-03-20T08:22:05.189063"
+date: "2026-04-10T09:40:34.064423"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - sport
+  - education
 industries: []
 countries:
   - "united-states"
@@ -49,15 +49,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - gold
-  - purple
-  - maroon
-  - blue
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "men's collegiate basketball league"
@@ -81,26 +74,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Required placement of the ACC logo on football helmets: front bumper above the facemask and back right-hand side of the helmet. Clear space specifications from page 13 apply here.
-- The ACC logo must appear on football jerseys in the institution's colors. Preferred size is 2.25” wide, placed on the left chest (as worn) on the front of the jersey, centered between the collar and sleeve seam.
-- The ACC logo is required on basketball jerseys within a 4-sided rectangular space not exceeding 2.25 square inches. Preferred size is 2.8” wide x 0.8037” tall and positioned on the right chest.
-
-**Color Information:**
-
-- Boston College primary colors: PMS 202 Maroon, PMS 4515 Gold, PMS 871 Metallic Gold.
-- Clemson primary colors: PMS 165 Orange, PMS 268 Purple.
-- Duke primary colors: PMS 287 Royal Blue, Black.
-
-**Spacing Layout:**
-
-- Minimum clear space specifications as outlined on page 13, required for logo placement.
-- For basketball courts, the ACC logo should be painted in two locations inside the key on each end, facing center court. Recommended width is 10 feet, 7.5 inches.
-
-**Notes:**
-
-- The document emphasizes co-branding with ACC logos across uniforms, helmets, facilities, and courts, requiring clear approval and standard stencil usage.
+*Guidelines data not available*
 
 ## Additional Properties
 

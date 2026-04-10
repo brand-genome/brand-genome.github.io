@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-03-20T08:22:04.174092"
+date: "2026-04-10T09:40:32.489075"
 draft: false
 sectors:
   - ngo
@@ -17,8 +17,8 @@ tags:
 industries:
   - "religious-congregations-and-associations"
 countries:
-  - canada
   - switzerland
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,27 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - horizontal
-  - alternate
-  - lockup
-  - primary
-brand_colors:
-  - gray
-  - white
-  - "pantone-172"
-  - black
-typographies:
-  - "source-sans"
-  - arial
-  - display
-  - avenir
-imagery_styles:
-  - photography
-  - bold
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "social organization that promotes womens' emancipation, leadership and rights"
 wikidata_url: "https://www.wikidata.org/wiki/Q643370"
 has_twitter: false
@@ -94,53 +77,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Primary logo is preferred for general usage, with secondary and white logo versions available for specific contexts (e.g., black and white applications, simple photographic backgrounds).
-- White logo is provided as transparent .png and .eps formats. It must be placed over dark backgrounds to display correctly.
-- Clear space: Minimum clear space around the logo should equal the height of the letter 'w' in the YWCA logo.
-- Minimum size requirements: Print - 1 inch wide; Screen - 100 pixels wide.
-- Logo resizing must always maintain proportional aspect ratio (width/height).
-- Incorrect Use: Do not alter elements, add drop shadows, change colors, distort proportions, place inside another shape, or remove elements from the logo.
-- Alternate logo lockups include stacked (primary stacked lockup) and horizontal versions for limited-height layouts.
-- Minimum size requirements for lockups: Primary stacked - 0.75 inches wide; Horizontal - 1.5 inches wide; Alternate horizontal - 1 inch wide.
-
-**Color Information:**
-
-- Primary colors: Persimmon (Pantone 172, HEX #FD5A1E, RGB: 253, 90, 30, CMYK: C:0 M:65 Y:83 K:0), Black (HEX #000000, RGB: 0, 0, 0, CMYK: C:0 M:0 Y:0 K:100), White (HEX #FFFFFF, RGB: 255, 255, 255, CMYK: C:0 M:0 Y:0 K:0).
-- Secondary color: Gray (Pantone Cool Gray 5, HEX #CCCCCC, RGB: 189, 189, 189, CMYK: C:0 M:0 Y:0 K:34).
-- Color usage: Palette should always be bright, crisp, and optimistic with Persimmon as the dominant color. Gray can be used as a supplemental color.
-
-**Typography Information:**
-
-- Font families: Avenir Next Pro Heavy (Headlines), Source Sans Pro Regular (Body Copy and Deck/Headline 2), and Source Sans Pro Semibold (Subheadings).
-- Browser safe fonts substitute: Arial Black (Headlines), Arial Bold (Deck/Headline 2), Arial Regular (Body Copy).
-- Font download details: Avenir Next Pro available from fonts.com; Source Sans Pro available free from google.com/fonts.
-
-**Imagery Photography:**
-
-- Photography of individuals must represent authenticity, positive emotion, and empowerment. Iconic portraits must be used to depict empowered women.
-- Community action images should depict people engaged in candid activity and communicate a connection to the community.
-- Examples of stock photography resources include Veer, Getty, and ColorStock.
-
-**Spacing Layout:**
-
-- Association names should align with the YWCA logo with specific spacing rules matching the line spacing of the tagline. Fonts must be Source Sans Pro Bold in 'Persimmon' color.
-
-**Brand Voice:**
-
-- Brand tone is bold, inspirational, and authentic. Content must be clear, motivating, and consistent with YWCA's mission.
-- Voice characteristics: Action-oriented, personable, honest, clear, consistent, inspirational, positive.
-- Key values in communication for internal team and community members include pride, solidarity, empowerment, inspiration, possibility, and ownership.
-- Writing style tips: Use active voice, show integrity through honestly presented metrics, end communication with clear calls to action (e.g., advocate, donate).
-- Use 'YWCA' instead of 'the YWCA' to establish the organization as a movement rather than as a location.
-- Connect communication to real stories supported by data to create emotional connections.
-
-**Notes:**
-
-- YWCA brand essence is defined as 'Pioneers for Empowerment,' showcasing its history of social change spanning 150 years.
-- Correct and consistent usage of the YWCA brand and logo is a requirement under the organization's bylaws.
-- Mission Statement: YWCA is dedicated to eliminating racism, empowering women, and promoting peace, justice, freedom, and dignity for all.
+*Guidelines data not available*
 
 ## Additional Properties
 

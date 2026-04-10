@@ -2,15 +2,15 @@
 title: BC Hydro
 slug: "bc-hydro"
 description: ""
-date: "2026-03-20T08:22:04.686137"
+date: "2026-04-10T09:40:33.408743"
 draft: false
 sectors:
   - utilities
 regions:
   - canada
 years:
-  - 2020
   - 2019
+  - 2020
 languages:
   - english
 tags:
@@ -74,7 +74,11 @@ visual_term_image_urls: {}
 
 ### 2020
 
+*Guidelines data not available*
+
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 

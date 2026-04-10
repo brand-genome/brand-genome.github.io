@@ -2,7 +2,7 @@
 title: F’INE Pasifika Aotearoa Trust
 slug: "fine-pasifika-aotearoa-trust"
 description: ""
-date: "2026-03-20T08:22:04.186318"
+date: "2026-04-10T09:40:32.524255"
 draft: false
 sectors:
   - ngo
@@ -47,35 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - logomark
-  - crest
-  - monogram
-  - primary
-  - badge
-brand_colors:
-  - green
-  - white
-  - purple
-  - cyan
-  - gray
-  - orange
-  - black
-typographies:
-  - "sans-serif"
-  - avenir
-  - serif
-imagery_styles:
-  - dynamic
-  - staged
-  - professional
-  - bold
-  - modern
-  - geometric
-  - photography
-  - clean
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -93,42 +68,105 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo incorporates elements including the canoe (vaka) symbolizing journey and discovery, alongside 5 elements: the Frigate Bird (air), Sun (fire), Wavey lines (water), Patterned quadrant (earth), and White space (sky/heavens). Variations include LOGOMARK and BRANDMARK/MONOGRAM.
-- A circular badge/crest is only used in white monotone except on white backgrounds. Restrictions provided about improper usage include no unstipulated color changes, improper resizing, and avoiding graphical effects such as shadows or glows.
-- A clear space is defined relative to the brandmark size, at 1:8 the brandmark size. Minimum size for the full logo is 30mm/114px, and for the brandmark is 35px/10mm.
-- Logo color specifications: The brand mark is allowed in specific combinations only (white monochrome for image placement).
-- The colored logo mark is to only be used on Pine Green or white backgrounds, optionally on images with sufficient contrast.
-- Monotone logos can be used with any brand colors.
+##### Mission
 
-**Color Information:**
+- Restoring cultural practices that uplift and centre Pacific people, empowering voice and visibility of Pacific MVPFAFF / LGBTQI+ people, maintaining and sustaining healthy relationships between Pacific MVPFAFF / LGBTQI+ people and their families, facilitating the restoration of mana and dignity of Pacific peoples, and advocating for improved health and wellbeing for Pacific peoples [^1].
 
-- Primary colors are Pine Green (#03746d, CMYK 97/0/6/55, RGB 3/116/109) and Cadmium Orange (#f3831f, CMYK 0/46/87/5, RGB 243/131/31).
-- Secondary colors include Purple Mountain Majesty (#986db3, CMYK 15/39/0/30, RGB 152/109/179) and Cyan Process (#06acec, CMYK 97/27/0/7, RGB 6/172/236).
-- Neutral colors include Gray X 11 Gray (#bfbfc4, CMYK 2/2/0/24, RGB 191/191/194) and Raisin Black (#1E1D20, CMYK 6/9/0/87, RGB 30/29/32).
+##### Core Values
 
-**Typography Information:**
+- Trust
+- Creativity
+- Professionalism
+- Authenticity
+- Innovation
+- Energy
+- Team work
+- Integrity
+- Discretion [^2]
 
-- Primary font: Recoleta (Designed by Jorge Cisterna). Available weights: Regular, Medium, Semi-Bold. Notable design recalls warm serif styles from 1970s like Cooper and Windsor.
-- Secondary font: Avenir. Available weights: Light, Medium, Heavy, Black. Inspired by geometric sans-serif styles of the 1920s.
-- Typography hierarchy includes: headings in Recoleta (Bold/Semi-Bold) and Avenir (Medium/Light/Black). Defaults like leading Auto and tracking at 0 for all typography styles.
+##### Target Audience
 
-**Imagery Photography:**
+- Pasifika MVPFAFF / LGBTQI+ peoples and their families in the Auckland region, including rural Pasifika LGBTQI peoples and their whānau/fanau, as well as the wider spectrum of western identities and terms such as Lesbian, Gay, Bisexual, Transgender, Queer or Questioning, and the Intersex community and their families [^3].
 
-- Photography must be professionally taken and edited with dynamic focus capturing detail and dimension for a clean, modern, and engaging look.
-- Avoid staged images, overly complicated compositions, low-resolution or unrelated/cropped images, and stock imagery. Maintain contextual relevance and a high professional standard.
+##### Personality Traits
 
-**Spacing Layout:**
+- Calm
+- Caring
+- Down-to-earth
+- Progressive
+- Trustworthy
+- Approachable
+- Comforting
+- Bold [^4]
 
-- Exclusion zones must equal 1:8 of the brandmark size. Avoid using full logo mark smaller than 30mm/114px or brandmark smaller than 35px/10mm.
-- Color pairing rules specify combining visual elements within defined brand guidelines.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is modern, clean, and professional, featuring a logo mark with a stylized landscape, sun rays, and a canoe, using a primary color palette of Pine Green and Cadmium Orange, secondary colors of Purple Mountain and Cyan Process, and neutral tones. Typography includes Recoleta (serif) and Avenir (sans-serif). Visual style emphasizes clarity, minimalism, and Pacific cultural motifs [^5].
 
-- Tone reflects uplifting and empowering messaging centered around Pacific identities, ensuring visibility for MVPFAFF/LGBTQI+ communities. Advocates for dignity and equity for all Pacific peoples.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- The designs incorporate elements of the brandmark such as borderless takes and individual components (e.g., bird, water, earth). Specified uses ensure coherence within applications.
-- Brand applications include business cards, letterheads, ID cards, and email signatures. Formats ensure coherence across all visual communication channels.
+- The main element our logo is the our brand mark. The main element of the brand mark is the canoe (vaka), it is a representation of journey and discovery which resonates with the journey of a person seeking support. The design also incorporates the 5 elements -The Frigate Bird (Air), The Sun (Fire), The wavey lines (Water), The patterned quadrant (Earth) and the white space between the earth/water and the other elements (The sky/The Heavens).
+- Our logo was created to be versatile, and a versatile logo always has multiple variations. The alternate variation of our logo is a circular badge/crest. This varation should always be used in the white {monotone) colour except when place on a white background as shown in A.
+- • Do not change the logo in an unspecified color or combination of colours. • Do not scale, scretch or disproportionately resize the logo. • Do not use the logo other than Horizontally. • Do not attempt to recreate the logo. • Do use the wrong logo colour on a background without proper contrast. • Do not use the logo as a repeated pattern. • Do not apply graphical elements such as drop shadow or glow. • Do not change the composition of the logo.
+- The exclusion zone must be relative to the size of the brandmark therefore equal to 1 :8 of the brandmark size. Avoid using the full logo mark at a size smaller than 30mm / 114px and the brand mark at 35px or 10mm.
+- The brand mark should only be used in the specified combinations below. If the brand mark is to be placed on an image, ensure to use only the white {monotone) colour.
+
+##### Color Palette
+
+- Colour is highly communicative and plays an important role within our identity. A range of curated colours are available which can be used to communicate in a wide range of tones. A consistent approach to colour usage is integral.
+- ### PRIMARY COLOUR CODE Pine Green Hex #03746d CMYK 97 00 06 55 RGB 03 116 109 Cadium Orange Hex #f3831f CMYK 00 46 87 05 RGB 243 131 31
+- ### SECONDARY COLOUR CODE Purple Mountain Hex #986db3 CMYK 15 39 00 30 RGB 152 109 179 Cyan Process Hex #06acec CMYK 97 27 00 07 RGB 06 172 236
+- ### NEUTRAL COLOUR CODE White Gray X 11 Gray Hex #03746d CMYK 02 02 00 24 RGB 191 191 194 Raisin Black Hex #1E1D20 CMYK 06 09 00 87 RGB 30 29 32
+- The brand mark should only be used in the specified combinations below. If the brand mark is to be placed on an image, ensure to use only the white {monotone) colour.
+- The coloured logo mark should only be used on the Pine Green background or the white background. In some cases where the coloured variation can be placed on images that provide enough contrast, it can also be used. Otherwise, the all white (monotone) variaiton should be used.
+- The monotone version of both logo varations can be used on any of the brand colours.
+- The key visual elements should only be used in the specified combinations below.
+- The key visual element was created to allow usage on multiple dimensions across different applications and scenerios. It can be used on multiple background colors of both the primary & secondary colours and works well with all the brand assets combined.
+
+##### Typography
+
+- Recoleta is a serif typeface designed by Jorge Cisterna and published through Latinotype in 2018. The design fondly recalls the soft, warm serifs popular during the 1970s, such as Cooper, ITC Souvenir, ITC Clearface and Windsor.
+- Regular Medium Semi-Bold Bold
+- Aa
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- 01234567890!@#$%^&*()
+- Avenir is a geometric sans-serif typeface designed by Adrian Frutiger in 1987 and released in 1988 by Linotype GmbH. The word avenir is French for "future". As the name suggests, the family takes inspiration from the geometric style of sans-serif typeface developed in the 1920s that took the circle as a basis, such as Erbar and Futura.
+- Light Medium Heavy Black
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 01234567890!@#$%^&*()
+- 1. Recoleta (Caps)-Bold Leading: Auto Tracking: 0 (Default)
+- 2. Recoleta-Semi Bold/ Leading: Auto Tracking: 0 (Default)
+- 3. Avenir-Light & Heavy Leading: Auto Tracking: 0 (Default)
+- 1. Recoleta -Bold Leading: Auto Tracking: 0 (Default)
+- 2. Avenir (Caps) -Medium Leading: Auto Tracking: 0 (Default)
+- The various weights of our typography allows for easily building heirarchy with type.
+
+##### Logo Usage
+
+- The main element our logo is the our brand mark. The main element of the brand mark is the canoe (vaka), it is a representation of journey and discovery which resonates with the journey of a person seeking support. The design also incorporates the 5 elements -The Frigate Bird (Air), The Sun (Fire), The wavey lines (Water), The patterned quadrant (Earth) and the white space between the earth/water and the other elements (The sky/The Heavens).
+- Our logo was created to be versatile, and a versatile logo always has multiple variations. The alternate variation of our logo is a circular badge/crest. This varation should always be used in the white {monotone) colour except when place on a white background as shown in A.
+- LOGO USAGE DON'TS • Do not change the logo in an unspecified color or combination of colours. • Do not scale, scretch or disproportionately resize the logo. • Do not use the logo other than Horizontally. • Do not attempt to recreate the logo. • Do use the wrong logo colour on a background without proper contrast. • Do not use the logo as a repeated pattern. • Do not apply graphical elements such as drop shadow or glow. • Do not change the composition of the logo.
+- The exclusion zone must be relative to the size of the brandmark therefore equal to 1 :8 of the brandmark size. Avoid using the full logo mark at a size smaller than 30mm / 114px and the brand mark at 35px or 10mm.
+- Our Logo is essential to our organisation's visual identity. It embodies our philosophy and acts as a recognisable signature uniting all parts of our brand. It should be used consistently across all communications. Our logomark must always used thoughtfully and carefully. In order to maintain the integrity of our symbol, a minimum area of surrounding space is required across all visual communication.
+- The brand mark should only be used in the specified combinations below. If the brand mark is to be placed on an image, ensure to use only the white {monotone) colour.
+
+##### Tone And Messaging
+
+- Brand Personality • Calm • Caring • Down-to-earth • Progressive • Trustworthy • Approachable • Comforting • Bold
+- Brand Values • Trust • Creativity • Professionalism • Authenticity • Innovation • Energy • Team work • Integrity • Discretion
+
+##### Brand Values
+
+- • Trust • Creativity • Professionalism • Authenticity • Innovation • Energy • Team work • Integrity • Discretion
+
+##### Visual Style
+
+- The main element our logo is the our brand mark. The main element of the brand mark is the canoe (vaka), it is a representation of journey and discovery which resonates with the journey of a person seeking support. The design also incorporates the 5 elements -The Frigate Bird (Air), The Sun (Fire), The wavey lines (Water), The patterned quadrant (Earth) and the white space between the earth/water and the other elements (The sky/The Heavens).
+- Our logo was created to be versatile, and a versatile logo always has multiple variations. The alternate variation of our logo is a circular badge/crest. This varation should always be used in the white {monotone) colour except when place on a white background as shown in A.
+- LOGO USAGE DON'TS • Do not change the logo in an unspecified color or combination of colours. • Do not scale, scretch or disproportionately resize the logo. • Do not use the logo other than Horizonta I ly. • Do not attempt to recreate the logo. • Do use the wrong logo colour on a background without proper contrast. • Do not use the logo as a repeated pattern. • Do not apply graphical elements such as drop shadow or glow. • Do not change the composition of the logo.
+- The exclusion zone must be relative to the size of the brandmark therefore equal to 1 :8 of the brandmark size. Avoid using the full logo mark at a size smaller than 30mm / 114px and the brand mark at 35px or 10mm.
+- Our Logo is essential to our organisation's visual identity. It embodies our philosophy and acts as a recognisable signature uniting all parts of our brand. It should be used consistently across all communications. Our logomark must always used thoughtfully and carefully. In order to maintain the integrity of our symbol, a minimum area of surrounding space is required across all visual communication.
+- The brand mark should only be used in the specified combinations below. If the brand mark is to be placed on an image, ensure to use only the white {monotone) colour.

@@ -2,11 +2,11 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-03-20T08:22:04.056246"
+date: "2026-04-10T09:40:32.074365"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
@@ -15,18 +15,18 @@ years:
 languages:
   - english
 tags:
-  - vintage
-  - featured
   - software
+  - featured
   - technology
+  - vintage
 industries:
-  - "software-development"
-  - "software-industry"
-  - electronics
-  - "digital-distribution"
   - "consumer-electronics-industry"
   - "information-technology"
+  - "software-development"
+  - "digital-distribution"
+  - electronics
   - "mobile-phone-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,30 +44,30 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
-  - "computer-hardware"
-  - "personal-computer"
-  - "apple-watch"
-  - imac
-  - mac
-  - "video-game-console"
+  - "apple-tv"
+  - peripheral
   - homepod
   - "wearable-computer"
-  - "apple-pay"
-  - "consumer-electronics"
+  - "video-game-console"
   - smartphone
-  - "ipod-touch"
-  - software
-  - "networking-hardware"
-  - peripheral
+  - "personal-computer"
   - "personal-digital-assistant"
-  - "tablet-computer"
   - airpods
+  - "apple-watch"
+  - mac
+  - software
   - ipod
-  - "apple-tv"
+  - "computer-hardware"
+  - "consumer-electronics"
+  - "tablet-computer"
+  - imac
+  - "networking-hardware"
+  - "ipod-touch"
+  - "apple-pay"
 products: []
 headquarters_locations:
-  - cupertino
   - "apple-park"
+  - cupertino
 subsidiaries: []
 foundation_dates:
   - 1976
@@ -90,22 +90,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - green
-  - gold
-  - white
-  - "pantone-186"
-typographies:
-  - garamond
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "American multinational technology company based in Cupertino, California"
 wikidata_url: "https://www.wikidata.org/wiki/Q312"
 has_twitter: false
@@ -234,44 +222,219 @@ visual_term_image_urls: {}
 
 ### 1987
 
+#### Brand Summary
+
+##### Mission
+
+- To preserve and enforce Apple's corporate identity, ensuring it remains a valuable asset that brings credibility and recognition to all products and communications.
+
+##### Core Values
+
+- creativity
+- imagination
+- consistency
+- quality
+- recognition
+
+##### Target Audience
+
+- Individuals and organizations interacting with Apple products, employees, partners, and anyone responsible for applying the Apple brand in communications, products, and environments.
+
+##### Personality Traits
+
+- innovative
+- distinctive
+- professional
+- precise
+- creative
+
+##### Visual Identity Overview
+
+- The Apple brand is defined by its iconic logo, strict color standards, minimalist and clean visual style, consistent typography (primarily ITC Garamond), and precise guidelines for logo usage across various media and environments. The visual identity emphasizes clarity, simplicity, and high contrast, with the logo's shape and color bands strictly regulated.
+
+#### Categories
+
+##### Logo Usage
+
+- There is only one Apple logo, and this is it. Its shape must not be altered in any way. Its color bands must exactly match the colors shown here, and must always appear in this order, from top to bottom. Also, the bands must al­ways butt against each oilier. They do not overlap or bleed together; they are never separated by lines, white space, or oilier colors. If you're ever tempted to try some­thing creative with this logo­don't Save your creativity for what­ever the logo will be applied to.
+- As you can see, the Apple logo is not just a nice, simple drawing. In fact, its shape is precisely defined and hard to re-create. For that reason you'll be wise not to try. Always use the logo art available to you on request-in a wide variety of sizes-by contacting APPLE CI on AppleLink
+- Again, there is only one Apple logo-and it consists of six colors. Of course, some things simply do not warrant four-or six-color print­ing. In these cases, the Apple logo may be reversed to white, or printed in any of the three solid colors shown here-but only these three.
+- It has always been Apple's nature to stand out in the crowd. By the same token, the Apple logo will be most easily noticed if it stands out from the other elements around it Give it plenty of breath­ing room. The minimum clear space required on all sides of the logo is equal to the distance between the upper and lower "dimples" of the logo. Only the registered trademark symbol and the corporate logotype are permitted within this dear space.
+- All vehicles that will carry the Apple logo must be painted white (the undercarriage and exposed motor parts may be painted black or gray to hide grime). To determine the size of the logo, divide by 3 the mini­mum horizontal dimension of the surface that will carry it This will give you the logo's appropriate height, dimple to dimple. Preprinted logo decals, in a variety of sizes, may be requested by contacting APPLE CI on AppleLink.
+- The Apple logo shows up on a lot more than just computers these days. Shirts, calculators, and other items sometimes carry our identity In such cases, only top-quality merchandise may be used. Also, all corporate identity guidelines must be followed. In any event, all gift items not purchased through Apple's Creative Ser­vices department in Cupertino or through the official Cupertino APPLE COLLECTION catalog, and that carry the Apple logo must be pre-approved by the Apple Creative Services and Law depart-ments(contactAPPLE CI and APPLE TM on AppleL.ink).
+
+##### Color Palette
+
+- There is only one Apple logo, and this is it. Its shape must not be altered in any way. Its color bands must exactly match the colors shown here, and must always appear in this order, from top to bottom. Also, the bands must al­ways butt against each oilier. They do not overlap or bleed together; they are never separated by lines, white space, or oilier colors. If you're ever tempted to try some­thing creative with this logo­don't Save your creativity for what­ever the logo will be applied to.
+- PMS 368 PMS 123 PMS 165 PMS 186 PMS 253 PMS 299
+- Again, there is only one Apple logo-and it consists of six colors. Of course, some things simply do not warrant four-or six-color print­ing. In these cases, the Apple logo may be reversed to white, or printed in any of the three solid colors shown here-but only these three.
+- When dealing with a dark image, you may wish to reverse the Apple logo out of the background. If so, be certain that the logo is pure white, and that the background is no lighter than the gray shown here.
+
+##### Typography
+
+- Amazingly, people have come to identify Apple ads, brochures, displays, and the like purely by the typeface used. That's the fortunate result of a consistent approach to our typography. The official Apple type style is ITC Garamond, con­densed to 80 percent The ITC Garamond family is preferred for all primary uses. Light type is best for headlines and body copy, while bold and book type are reserved for headlines. For secon­dary uses-small headlines or subheads, for instance-the Hel­vetica family of type is also accept­able. However, body copy should nearly always be ITC Garamond.
+- ITC Garamond Light Roman, condensed t Amazingly, people hav identify Apple ads, br displays, and the like I typeface used. That's t result of a consistent a typography The offici style is ITC Garamonc to 80 percent. The ITC family is preferred for uses. light type is bes and body copy, while type are reserved for secondary uses-sm or subheads, for insta Helvetica family of tyt acceptable. However, should nearly always Garamond.
+- ITC Garamond Light Roman, condensed to 80% of Roman Amazingly, people have come to identify Apple ads, brochures, displays, and the like purely by the typeface used. That's the fortunate result of a consistent approach to our typography The official Apple type style is ITC Garamond, condensed to 80 percent. The ITC Garamond family is preferred for all primary uses. Light type is best for headlines and body copy, while bold and book type are reserved for headlines. For secondary uses-small headlines or subheads, for instance-the Helvetica family of type is also acceptable. However, body copy should nearly always be ITC Garamond.
+- ITC Garamond Book Roman, condensed to 80% of Roman Amazingly, people have come to identify Apple ads, brochures, displays, and the like purely by the typeface used. That's the fortunate result of a consistent approach to our typography. The official Apple type style is ITC Garamond, condensed to 80 percent. The ITC Garamond family is preferred for
+- ITC Garamond Bold Roman, condensed to 80% of Roman Amazingly, people have come to identify Apple ads, brochures, displays, and the like purely by the typeface used. That's the fortunate result of a consistent approach to our typography. The official Apple type style is ITC HelveticaLight
+- Helvetica Regular
+- HelveticaBold
+
+##### Visual Style
+
+- Word 'No' in Large Font - The image should prominently feature the word 'No.' written in large, bold, black serif font on a plain white background. The letter 'N' should be taller with a distinctive point at the top left and slight curves at the bottom of its legs. The 'o' should be rounded and appears slightly smaller in height than the 'N'. The period after 'No' should be clearly visible, smaller in size, positioned close to the 'o', and aligned to the baseline of the lowercase letter. The overall composition emphasizes clarity and simplicity, with high contrast between the black text and white background, making the word 'No' unmistakably readable and visually striking.
+- Simplified Apple Logo - The image should feature a large, solid, stylized depiction of an apple, rendered in a flat, monochromatic teal or green color. The apple shape is rounded with a slight indent on the right side, representing a typical apple’s form. At the top of the apple, there is a single leaf, elongated and pointed, attached to the stem area, also in the same teal or green color. The leaf leans slightly to the right. Near the bottom right corner of the image, there is a small registered trademark symbol (®). The background should be plain white, providing a high contrast to the apple, emphasizing its shape. There are no additional details, textures, or shading on the apple, making it a simple, minimalist silhouette.
+- Rainbow Apple Logo - The image should depict a logo featuring an apple shape divided into rainbow-colored horizontal stripes, with a green leaf on top, all encased within a white circle. The background of the entire image is a solid blue color. The rainbow stripes within the apple include colors arranged from top to bottom as green, yellow, orange, red, purple, and blue, with the stripes running horizontally across the apple. The green leaf is positioned at the top left of the apple's stem area, contrasting with the rainbow pattern. The white circle encloses the apple and is centrally placed on the blue background, creating a clear contrast to make the logo stand out prominently. The overall composition is symmetrical, with the apple centered within the circle and the circle centered on the blue background.
+- Stylized 'Nie.' Text - The image should have a white or light-colored background with the word 'Nie.' prominently displayed in large, bold, Gothic or serif font. The text should be centered and evenly spaced, with the capital 'N' and lowercase 'ie' clearly distinguishable. The font style should evoke a formal, classic aesthetic, with a slight flourish or variance in stroke thickness. The dot after 'Nie' should be placed immediately to the right of the 'e,' maintaining proportional spacing. The overall composition should be minimalist, emphasizing the text without additional ornamentation or imagery.
+
+##### Packaging Design
+
+- As the Apple product family continues to grow, so does the complexity of its packaging system. A new international packaging design, however, has simplified that system. Products whose sales are least influenced by packaging (such as printers) feature an economical two-color graphic design. Products whose sales are more easily influenced by packaging (such as software) are printed in full color.
+
+##### Corporate Gift Items
+
+- The Apple logo shows up on a lot more than just computers these days. Shirts, calculators, and other items sometimes carry our identity In such cases, only top-quality merchandise may be used. Also, all corporate identity guidelines must be followed. In any event, all gift items not purchased through Apple's Creative Ser­vices department in Cupertino or through the official Cupertino APPLE COLLECTION catalog, and that carry the Apple logo must be pre-approved by the Apple Creative Services and Law depart-ments(contactAPPLE CI and APPLE TM on AppleL.ink).
+
+##### Stationery Guidelines
+
+- A International Corporate Letterhead Size: 211 x 295 mm A Standard Corporate Letterhead Size: 82 x 11 inches A Standard Envelope size: 9/ x #s inches A Envelope Size: 12 x 9 inches Standard Business Cards Size: 32 x 2 inches Japanese Business Card Mailing Label Size: 4 x 24 inches Business cards shown at 60% of original size. Stationery, envelopes, and mailing label shown at 50% of original size. A = 4 picas B = 3 picas C = 1.5 picas
+- What's true every­where else on this poster is true here: The official way is the only way. Apple's Corporate Identity Guidelines notebook spells it out for you, and even provides reproducible art for your stationery and business cards.
+
+##### Vehicle Signage
+
+- All vehicles that will carry the Apple logo must be painted white (the undercarriage and exposed motor parts may be painted black or gray to hide grime). To determine the size of the logo, divide by 3 the mini­mum horizontal dimension of the surface that will carry it This will give you the logo's appropriate height, dimple to dimple. Preprinted logo decals, in a variety of sizes, may be requested by contacting APPLE CI on AppleLink.
+
+##### Site Signage
+
+- Corporate identity starts at home-beginning with the signs that greet people who visit Apple's facilities. For that reason, a system of modular signs has been de­signed on 17, 30, and 45 square inch grids. For blueprints, installa­tion procedures, and other details, X contact APPLE CI on AppleL.ink.
+- 45" 45" 600 Hamilton 10455 Bandley Drive
+- 45" 15" 4 Marketing Finance Engineering Sales 45" 600 Hamilton e 10455 Bandley Drive
+
+##### Exhibit Signage
+
+- When planning an exhibit display or booth, don't overuse the Apple logo. Ours is a powerful identity, and a little goes a long way. Simply see to it that the corporate signature is clearly visible from a distance, that there is adequate white space surrounding it, and that the logo is re-produced accurately. What's true everywhere else on this poster is true here: The official way is the only way. Apple's Corporate Identity Guidelines notebook spells it out for you, and even provides reproducible art for your stationery and business cards.
+
+##### Av Presentation Guidelines
+
+- When preparing slides for a multi­media presentation, always place the Apple logo in one of the positions illustrated here. All the stan­dard rules regarding logo colors apply. Whenever you superimpose the logo over a color photo or background, however, you should show the logo in white.
+
 ### 1993
 
-**Logo Information:**
+#### Brand Summary
 
-- Apple Computer Logo, Signature, and Typeface Standards
-- Consistent Apple branding elements identified, including Apple logo, logotypes, signatures, typefaces, colors, and white space.
-- Definition provided of Apple signature combinations, artwork provided for consistent reproduction.
-- Clear space around Apple signatures defined using dimple-to-dimple measurements for spectrum or one-color logos.
-- Apple logo minimum size rule defined as 7 mm.
-- Correct usage clarified for Apple spectrum logo colors and their exclusive application to the Apple logo.
+##### Mission
 
-**Color Information:**
+- To build positive associations through products, values, and clear communications, confirming the difference between Apple and its competitors [^1].
 
-- Apple logo colors specified including metallic gold, silver, blind embossed options.
-- Pantone 186 referenced for Apple Red logo reproduction.
-- Apple Green color illustrated alongside primary spectrum colors.
-- Various applications, including off-white backgrounds for the Apple signature.
+##### Core Values
 
-**Typography Information:**
+- simplicity
+- clarity
+- consistency
+- quality control
 
-- Apple Garamond identified as primary typeface with special weights Light, Book, and Bold.
-- Tracking and scaling guidelines provided for Apple Garamond in QuarkXPress.
-- Helvetica defined as secondary typeface for technical publications and subheadlines.
-- Typography style examples illustrated for headings and body copy.
+##### Target Audience
 
-**Imagery Photography:**
+- Customers familiar with Apple products and services, as well as broader audiences reached through corporate communications, advertisements, merchandising, and legal documents [^2].
 
-- White space emphasized for logo positioning ensuring visibility.
+##### Personality Traits
 
-**Spacing Layout:**
+- innovative
+- distinctive
+- professional
+- approachable
 
-- Apple Logo placement requires uncluttered space around signatures.
-- Grid spacing incorporated for headline typography.
+##### Visual Identity Overview
 
-**Notes:**
+- Apple's visual identity centers on the consistent use of the Apple logo, logotypes, signatures, and typefaces, with strict guidelines for color palette, clear space, and layout. The logo is used in both spectrum (rainbow) and one-color versions, with specific Pantone colors and minimum size requirements. Apple Garamond and Helvetica are the primary typefaces, and white space is integral to the brand's look [^3].
 
-- Registered trademark notice detailed for use in applicable countries.
-- Electronic Apple Garamond fonts and logo artwork provided on the accompanying CD-ROM.
+#### Categories
+
+##### Logo Usage
+
+- Use the electronic or photographic artwork provided with these standards every time you reproduce the Apple logo. Do not alter the logo in any way. Use only the colors shown here. Do not substitute colors or rearrange the order of the colors. Do not use the spectrum colors as a "rainbow" design in any other graphics. They are reserved for use on the Apple logo.
+- Always check the color of the Apple spectrum logo when printing it. Match the printed logo to the color swatches provided. You'll need to adjust the color to create a more accurate match depending on the paper stocks you use.
+- The minimum size for the logo is 7 mm. Do not use an Apple logo smaller than this size.
+- Never use both the spectrum logo and the one-color logo in the same piece. Only one Apple logo should be used on any one surface of your layout.
+- Apple Green; use Pantone* 368. Apple Yellow; use Pantone* 123. Apple Orange; use Pantone* 165. Apple Red; use Pantone* 186. Apple Purple; use Pantone* 253. Apple Blue; use Pantone* 299. Black or Apple Blue.
+- This demonstration of the Apple logo is printed with six match colors and black.
+- Minimum size is 7 mm.
+- Inks produce slightly different results depending Oil the paper stock or surface material you're printing on. Always check the color and quality of the spectrum logo while on press. To obtain the closest color match possible, use the color swatches provided.
+- These swatches are printed on coated paper stock. When using various paper stocks, including uncoated stock, visually match the colors as closely as possible to these color swatches.
+- The Apple spectrum logo is often printed using four­color process to save money. The Apple colors are achieved by mixing screen tints of three of the four standard process colors: cyan, magenta, and yellow.
+- Choose a line screen that best suits your printer's capabilities and that will achieve good results on your paper stock or surface. A fine screen will produce a sharper logo, but will require more effort on press to ensure that the logo prints correctly.
+- We recommend that you order color-separation screens directly from an approved Apple vendor.
+- Be sure to specify the height of your logo, the line screen, the film type (positive or negative), the film orientation (right reading emulsion up or emulsion down), or the format SyQuest disk your printer uses.
+- Apple spectrum logo printed using four-color process with 85 line screen Standard for newspaper printing.
+- Apple spectrum logo printed using four-color process with 133 line screen. Standard for magazine printing.
+- Apple spectrum logo printed using four-color process with 150 line screen Standard for commercial printing. Often used for Apple brochures and packaging.
+- Apple spectrum logo printed using four-color process with 175 line screen. Standard for fine commercial printing. Often used for Apple posters and high-quality brochures.
+- It's important that the Apple spectrum logo be placed only on black, white, or off-white back­grounds. In certain applications, such as exhibits and product labels, a tight-gray background can be used.
+- Use the one-color version of the Apple logo-black, white, or red only-when you can't afford to print the spectrum logo or when your layout warrants a simple color treatment. Always use the electronic or photographic artwork provided when reproducing the Apple logo.
+- In addition to printing, the Apple spectrum logo can be produced using a variety of methods, such as silk screening, embroidery, or molded plastic.
+- The Apple one-color logo can also be printed in metallic gold or silver. It can be blind embossed or debossed, or etched on glass. It can be laser-cut into materials. It can be printed or embroidered on fabric.
+- Always remember that quality control is vitally important. Check the logo when it is being produced to ensure that the colors, shape, and size are accurate.
+- White space is an integral part of the Apple look. Keep the area around the iogo clean and uncluttered.
+- Graphics, type, photographs, and illustrations should not enter the dear-space area, shown here. Placement of the registered trademark notice symbol (®) is also shown.
+- When using the Apple logo at very large sizes, you'll need to adjust the size and position of the registered trademark symbol. The symbol should be reduced on very large logos and sometimes should be placed closer to the logo, so that it is readable but unobtrusive.
+- x=height of the Apple logo. The clear space should measure x on all sides of the logo.
+- The same clear-space rule applies to the one-color Apple logo.
+- The registered trademark notice symbol (®) should be included when the Apple logo is registered in the country in which the materials bearing the logo are used. If the Apple logo appears on materials that will be distributed internationally, do not use the ® unless the logo is registered in each country of distribution.
+- Use of the Apple logo on printed materials should be accompanied by the credit line, "The Apple logo is a trademark of Apple Computer, Inc., registered in the U.S.A. and other countries'
+
+##### Color Palette
+
+- Apple colors-see pages 6-7 Apple Green Apple Yellow Apple Orange Apple Red Apple Purple Apple Blue
+- Apple Green; use Pantone* 368. Apple Yellow; use Pantone* 123. Apple Orange; use Pantone* 165. Apple Red; use Pantone* 186. Apple Purple; use Pantone* 253. Apple Blue; use Pantone* 299. Black or Apple Blue
+- Use only the colors shown here. Do not substitute colors or rearrange the order of the colors. Do not use the spectrum colors as a "rainbow" design in any other graphics. They are reserved for use on the Apple logo.
+- Always check the color of the Apple spectrum logo when printing it. Match the printed logo to the color swatches provided. You'll need to adjust the color to create a more accurate match depending on the paper stocks you use.
+- Make sure the colors match the Apple colors exactly. Carefully check each color. Colors should be bright and fully saturated. The six color bands should be of equal width. Make sure that the bands touch without overlapping. There should be no white space between bands.
+- The Apple spectrum logo is often printed using four­color process to save money. The Apple colors are achieved by mixing screen tints of three of the four standard process colors: cyan, magenta, and yellow.
+- The Apple spectrum logo be placed only on black, white, or off-white back­grounds. In certain applications, such as exhibits and product labels, a tight-gray background can be used.
+- Use the one-color version of the Apple logo-black, white, or red only-when you can't afford to print the spectrum logo or when your layout warrants a simple color treatment.
+- The Apple one-color logo can also be printed in metallic gold or silver. It can be blind embossed or debossed, or etched on glass. It can be laser-cut into materials. It can be printed or embroidered on fabric.
+- Apple Red logo (Use Pantone* 186.)
+- Spectrum logo with black logotype
+- Black logo with black logotype
+- Apple Red logo with black logotype (For Apple Red, use Pantone* 186.)
+- Spectrum logo and while logotype on black background
+- White logo and logotype on black background
+- White logo and logotype on any dark background that provides strong contrast
+- Black logo and logotype on any light background that provides strong contrast
+
+##### Typography
+
+- Apple Garamond has been our primary typeface for more than ten years. Apple Garamond is a specially drawn version of Garamond. Do not substitute other versions of Garamond.
+- Apple Garamond is an ideal typeface for text applications and comes in three weights.
+- Apple Garamond Light (and Light Italic)-Primarily used for text, captions, and headlines.
+- Apple Garamond Book (and Book Italic)-For most display applications (such as signs and some headlines), the book weight provides a heavier weight while retaining the elegant, classic letter forms.
+- Apple Garamond Bold (and Bold Italic)-For limited use to emphasize specific words, such as glossary entries.
+- In QuarkXPress, Apple Garamond can be further condensed. The table gives recommended specifications for tracking (removing space between letters) and horizontal scaling (condensing the shape of the letters). These specifications are for use in QuarkXPress only, and do not apply to other software.
+- Helvetica is Apple's secondary typeface. It is a sans serif typeface that offers a wide range of weights. The condensed versions can be used in technical publications. The bold and black weights are ideal for headlines and subheadlines.
+- The examples below show the most typical uses of Helvetica in Apple communications. These examples use Adobe fonts. If Adobe fonts are not available, you can use other versions of Helvetica that closely match these examples.
+- Apple Garamond is used in a particular manner at Apple. The examples shown here will help you to recognize Apple's way of setting type.
+- The letterspacing and line spacing in this example are typical of the Apple typographic look. The headline is set in QuarkXPress using Apple Garamond Light 36 point on 35 point leading with -10 tracking and 95% horizontal scaling. This body copy is Apple Garamond Light 13 point on 16 point leading with -5 tracking.
+- This example is set too tightly. The ascenders in the headline touch the line above. The letters are cramped and touching each other.
+- This example is set with too much letterspacing and line spacing. The big, wide, open feel is not the Apple look.
+- The cover headline is eioe-erg carefully letterspaced. This headline is set in Apple Garamond Light 34/40 point, -10 tracking, 96% scaling, alignment centered.
+- The cover subhead is smaller than the headline but uses the same style. Subheads are carefully letterspaced and set with tight line spacing. They are usually centered. This subhead Is set in Apple Garamond Light 20/17 point, -9 tracking, alignment centered.
+
+##### Visual Style
+
+- Apple relies on the consistent use of a few simple elements to identify itself.
+- Apple logo-the primary symbol of our company, our products, and our services.
+- Apple logotypes-the specially designed versions of the words "Apple," "Apple Computer," and other official names for the company.
+- Apple signatures-the combination of an Apple logo and an Apple logotype.
+- Typefaces-Type families and the manner in which they are used in Apple communications.
+- Apple colors-the colors of the Apple logo.
+- Whitespace-the space that's an integral part of the Apple look.
+- Use the electronic or photographic artwork provided with these standards every time you reproduce the Apple logo. Do not alter the logo in any way. Use only the colors shown here. Do not substitute colors or rearrange the order of the colors. Do not use the spectrum colors as a "rainbow" design in any other graphics. They are reserved for use on the Apple logo.
+- Always check the color of the Apple spectrum logo when printing it. Match the printed logo to the color swatches provided. You'll need to adjust the color to create a more accurate match depending on the paper stocks you use.
+- The minimum size for the logo is 7 mm. Do not use an Apple logo smaller than this size.
+- Never use both the spectrum logo and the one-color logo in the same piece. Only one Apple logo should be used on any one surface of your layout.
+- Apple Green; use Pantone* 368. Apple Yellow; use Pantone* 123. Apple Orange; use Pantone* 165. Apple Red; use Pantone* 186. Apple Purple; use Pantone* 253. Apple Blue; use Pantone* 299. Black or Apple Blue
+- This demonstration of the Apple logo is printed with six match colors and black.
+- Minimum size is 7 mm.
 
 ## Additional Properties
 
@@ -281,8 +444,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Imac](/products_or_materials_produced/imac/); [Mac](/products_or_materials_produced/mac/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Homepod](/products_or_materials_produced/homepod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); [Smartphone](/products_or_materials_produced/smartphone/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); +8 more |
-| Headquarters Location | [Cupertino](/headquarters_locations/cupertino/); [Apple Park](/headquarters_locations/apple-park/) |
+| Product Or Material Produced | [Apple Tv](/products_or_materials_produced/apple-tv/); [Peripheral](/products_or_materials_produced/peripheral/); [Homepod](/products_or_materials_produced/homepod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Smartphone](/products_or_materials_produced/smartphone/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Airpods](/products_or_materials_produced/airpods/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Mac](/products_or_materials_produced/mac/); [Software](/products_or_materials_produced/software/); +8 more |
+| Headquarters Location | [Apple Park](/headquarters_locations/apple-park/); [Cupertino](/headquarters_locations/cupertino/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |
 | Legal Entity Identifier | HWUPKR0MPOU8FGXBT394 |

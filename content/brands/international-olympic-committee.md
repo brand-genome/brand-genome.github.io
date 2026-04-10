@@ -2,7 +2,7 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-03-20T08:22:04.012542"
+date: "2026-04-10T09:40:31.986859"
 draft: false
 sectors:
   - sports
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - vintage
-  - sport
   - featured
+  - sport
+  - vintage
 industries: []
 countries:
   - switzerland
@@ -77,6 +77,38 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 1993
+
+#### Brand Summary
+
+##### Mission
+
+- To celebrate and promote the Olympic Games, fostering international unity and excellence through sport.
+
+##### Core Values
+
+- international unity
+- excellence
+- tradition
+- celebration of sport
+
+##### Target Audience
+
+- Global audience including athletes, sports enthusiasts, and the general public interested in the Olympic movement.
+
+##### Personality Traits
+
+- prestigious
+- historic
+- inclusive
+- dynamic
+
+##### Visual Identity Overview
+
+- The visual identity centers on iconic Olympic symbols such as the five rings, event-specific logos, and mascots, with a consistent use of bold colors and clean layouts to highlight the unique character of each Olympiad while maintaining a unified Olympic brand.
+
+#### Categories
+
+*Category values not available*
 
 ## Additional Properties
 

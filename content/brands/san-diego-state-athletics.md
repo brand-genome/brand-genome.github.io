@@ -2,7 +2,7 @@
 title: San Diego State Athletics
 slug: "san-diego-state-athletics"
 description: ""
-date: "2026-03-20T08:22:05.742446"
+date: "2026-04-10T09:40:34.715308"
 draft: false
 sectors:
   - sports
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,57 +69,4 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-- Contains logo details and branding guidelines.
-
-**Color Information:**
-
-- Contains color palette guidelines and usage.
-- Contains color palette guidelines and usage.
-- Contains color palette guidelines and usage.
-
-**Typography Information:**
-
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-- Contains typography details including fonts and weights.
-
-**Imagery Photography:**
-
-- Contains imagery and photography design guidelines.
-- Contains imagery and photography design guidelines.
-
-**Spacing Layout:**
-
-- Includes spacing, layout, and alignment rules.
-
-**Brand Voice:**
-
-- Discusses tone of voice and overall brand philosophy.
-- Discusses tone of voice and overall brand philosophy.
-- Discusses tone of voice and overall brand philosophy.
-- Discusses tone of voice and overall brand philosophy.
-
-**Notes:**
-
-- Style guide usage rules and contact information for distribution.
+*Guidelines data not available*

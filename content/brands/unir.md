@@ -2,7 +2,7 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-03-20T08:22:05.403341"
+date: "2026-04-10T09:40:34.256980"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - madrid
   - logrono
+  - madrid
 subsidiaries: []
 foundation_dates:
   - 2008
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - white
-  - orange
-  - blue
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: private university in Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q6156490"
 has_twitter: false
@@ -83,38 +75,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo applications and architecture explicitly described for UNIR corporate brands, including placement, layers, and color usage.
-
-**Color Information:**
-
-- Primary colors: Black (Pantone Black C, RGB 51,51,51, CMYK 0,0,0,90, Hex #333333), Blue (Pantone 313C, RGB 0,152,205, CMYK 100,0,11,2, Hex #0098CD), and White (RGB 255,255,255, CMYK 0,0,0,0, Hex #FFFFFF).
-- Secondary colors include OCRE (Pantone 125C, Hex #B68400), Orange (Pantone 716C, Hex #db8100), and Dark Blue (Pantone 63C, Hex #006C8F).
-
-**Typography Information:**
-
-- Corporate typography families: Unit OT Light, Unit OT Regular, Unit OT Medium reserved for general applications offline and online.
-- Caecilia LT Std series reserved for titles, highlights, and web links.
-- Substitution fonts: Arial Regular and Arial Bold for technical limitations in online environments.
-
-**Imagery Photography:**
-
-- Prescribed video standards involve blur transitions, Creative Commons musical credits, and usage of UNIR logos for audiovisual branding.
-- Mosca audiovisual uses logos in resolutions: 1920x1080px, 1440x1080px, and 520x576px tailored for corporate and sponsored productions.
-
-**Spacing Layout:**
-
-- Alignment rules for printed media dimensions such as A4 layout, unit measurements including padding (e.g., 12mm, 35mm margin).
-- Online layouts for Twitter and Facebook avatars specified with dimensions 1500x500px (background) and 180x180px (main image).
-
-**Brand Voice:**
-
-- UNIR promotes tone focused on emotional connection, emphasizing academic, social, and entrepreneurial values showcased across their branded content.
-
-**Notes:**
-
-- UNIR's brand guidelines detail structured applications including academic, outreach, and multimedia formats ensuring adherence to predefined scales and rules.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -124,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Madrid](/headquarters_locations/madrid/); [Logrono](/headquarters_locations/logrono/) |
+| Headquarters Location | [Logrono](/headquarters_locations/logrono/); [Madrid](/headquarters_locations/madrid/) |
 | Foundation Date | [2008](/foundation_dates/2008/) |
 | Gnd Id | 1031961895 |
 | Country | Spain |

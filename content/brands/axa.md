@@ -2,11 +2,11 @@
 title: Axa
 slug: axa
 description: ""
-date: "2026-03-20T08:22:04.387721"
+date: "2026-04-10T09:40:33.113322"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - france
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - featured
+  - insurance
 industries:
+  - "investment-funds-and-similar-financial-entities"
   - insurance
   - "financial-services"
   - "insurance-industry"
-  - "investment-funds-and-similar-financial-entities"
 countries:
   - france
 revenue_buckets:
@@ -63,8 +63,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: French multinational insurance firm
 wikidata_url: "https://www.wikidata.org/wiki/Q160054"
 has_twitter: false
@@ -94,48 +93,55 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Categories
 
-- Logo information found on page 2
-- Logo information found on page 9
-- Logo information found on page 10
-- Logo information found on page 11
-- Logo information found on page 12
-- Logo information found on page 13
-- Logo information found on page 14
-- Logo information found on page 16
-- Logo information found on page 33
-- Logo information found on page 37
+##### Brand Imagery
 
-**Color Information:**
+- La marca debe reproducirse siempre siguiendo los estándares corporativos recogidos en este manual. En este sentido, no se podrán alterar nunca los colo­res indicados ni las proporciones.
+- El tamaño del logotipo de la marca también es extre­madamente importante. El uso apropiado del tama­ño asegura que exista un equilibrio de diseño saluda­ble yjerarquía visual.
+- Los tamaños de la marca se indican a continuación:
+- Con el objetivo de asegurar la visibilidad y limpieza de la marca institucional del Gobierno del Estado de Oaxaca, es importante contar con un área de restric­ción que lo separe de otros elementos visuales cerca­nos. El espacio definido para esta área es de 2x, en ningún caso puede ser menor.
 
-- Color details or codes (e.g., CMYK, HEX) found on page 45
-- Color details or codes (e.g., CMYK, HEX) found on page 94
+##### Color Palette
 
-**Typography Information:**
+- Esta paleta de color ayudará a entender más sobre la identidad gráfica de la marca así como su personalidad, seguirla nos ayudará a darle el toque distintivo y que ésta sea más homogénea junto a sus aplicaciones.
+- En esta página se muestra como se debe reproducir la marca sobre fondos en blanco y negro, además del uso a dos tintas, utilizando según sea el caso de acuerdo al formato a reproducir.
+- La marca debe reproducirse siempre siguiendo los estándares corporativos recogidos en este manual. En este sentido, no se podrán alterar nunca los colores indicados ni las proporciones.
+- En este apartado se muestra como puede presentarse la marca, en cada uno de los colores asignados previamente.
 
-- Typography details (e.g., font use, roles) on page 9
-- Typography details (e.g., font use, roles) on page 25
+##### Typography
 
-**Imagery Photography:**
+- Las familias tipográficas seleccionadas son GMX y Montserrat, tipo-grafías oficiales del Gobierno de México.
+- GMX es empleada para títulos destacados y Montserrat para cuer-pos de texto en materiales publicitarios o documentos oficiales.
+- Montserrat Regular 10-11 pt • Color negro 80%
+- Montserrat Medium Italica en 12 pt • Negro 90% (Impresiones en escala de grises)
+- Color Rojo #9f244a, impresiones a color y/o medios digitales.
+- ler nivel: Montserrat Bold, 8 pt, Negro 80%
+- 2do nivel: Montserrat Bold, 8 pt, Negro 80%
+- 3er nivel: Montserrat Bold, 8 pt, Negro 80%
+- 4to nivel: Montserrat Bold, 8 pt, Negro 80%
+- Pie de página (Datos de contacto oficiales): Montserrat Semi Bold 6 pt Color #b4Be5d
+- CAMBIAR TIPOGRAFÍAS
 
-- Imagery or photography guidelines found on page 9
-- Imagery or photography guidelines found on page 11
+##### Logo Usage
 
-**Spacing Layout:**
+- El tamaño del logotipo de la marca también es extremadamente importante. El uso apropiado del tamaño asegura que exista un equilibrio de diseño saludable y jerarquía visual.
+- Los tamaños de la marca se indican a continuación:
+- El espacio definido para esta área es de 2x, en ningún caso puede ser menor.
+- La marca debe reproducirse siempre siguiendo los estándares corporativos recogidos en este manual. En este sentido, no se podrán alterar nunca los colores indicados ni las proporciones.
 
-- Spacing or layout details (e.g., grids, margins) on page 2
-- Spacing or layout details (e.g., grids, margins) on page 9
+##### Visual Style
 
-**Brand Voice:**
+- El presente Manual de Identidad Visual contiene las directrices para el uso coherente y unificado de la imagen gráfica del Gobierno del Estado de Oaxaca 2022-2028.
+- Se señalan los lineamientos y guías de comunicación visual para implementar la imagen en distintas aplicaciones y formatos, como la papelería institucional, uniformes, redes sociales, entre otros.
+- Todas las dependencias de la administración estatal deben hacer un uso adecuado de la imagen institucional.
+- La marca debe reproducirse siempre siguiendo los estándares corporativos recogidos en este manual. En este sentido, no se podrán alterar nunca los colo­res indicados ni las proporciones.
 
-- Brand voice or tone guidelines mentioned on page 9
-- Brand voice or tone guidelines mentioned on page 30
+##### Layout And Composition
 
-**Notes:**
-
-- Additional notes or guidelines found on page 11
-- Additional notes or guidelines found on page 21
+- La retícula es la estructura que permite alinear y disponer de manera armónica los elementos de un logotipo, es la base de su composición. Las propor­ciones y espacios señalados en esta retícula deben respetarse cuando se requiera escalar el logotipo para su aplicación en otros formatos.
+- Con el objetivo de asegurar la visibilidad y limpieza de la marca institucional del Gobierno del Estado de Oaxaca, es importante contar con un área de restric­ción que lo separe de otros elementos visuales cerca­nos. El espacio definido para esta área es de 2x, en ningún caso puede ser menor.
+- La marca debe reproducirse siempre siguiendo los estándares corporativos recogidos en este manual. En este sentido, no se podrán alterar nunca los colo­res indicados ni las proporciones.
 
 ## Additional Properties
 

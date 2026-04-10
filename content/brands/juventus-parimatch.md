@@ -2,7 +2,7 @@
 title: Juventus + Parimatch
 slug: "juventus-parimatch"
 description: ""
-date: "2026-03-20T08:22:04.467519"
+date: "2026-04-10T09:40:33.214030"
 draft: false
 sectors:
   - sports
@@ -47,15 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,22 +70,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- JUVENTUS TV JUVENTUS OFFICIAL PRODUCT JUVENTUS STORE SKY BOX CLUB GIAMPIERO BONIPERTI CLUB GIANNI E UMBERTO AGNELLI JUVENTUS BRAND ARCHITECTURE TRAINING CENTER + JUVENTUS OFFICIAL PARTNER + PARTNER/SPONSOR LOGO Logotype Wordmark Primary version Linear text version *Third parties managed applications.
-- PARTNER AND SPONSOR: Key dimensions, minimum distance, and proportions between J Icon and descriptors. Minimum clear space guidelines include 3X, 1/3X spacing.
-- Examples of coexistence proportions, 1.5X spacing rules for multiple logos and descriptors. Application restricted to proportions of width x height < 4. Includes examples for two or three partner logos.
-- Partner and Sponsor System Building Blocks: 1.5X Rule mandatory for partner logo applications with restricted proportions. Guidelines for institutional campaigns or communications.
-- Detailed proportions for J Icon, other logos, and descriptors. Guidelines include the resizing text proportion of X/2 or X for horizontal applications. Three-line text blocks preferred.
-- Backdrop application examples: Partner and sponsor coexistence guidelines with repeated examples of 1.5X logo proportion use.
-
-**Spacing Layout:**
-
-- Spacing rule descriptions with guidelines showing specific clearances between partner logos, descriptors, and dimensions starting from specified proportion files.
-
-**Notes:**
-
-- Examples demonstrating the 1.5X rule for multiple logos show specific proportions and restrictions on partner logos with width x height ratio under 4.
-- Partner and sponsor usage notes restricted for institutional campaigns without additional Juventus assets. Mandatory configurations for specified proportions.
-- Third-party usage includes mandated proportions, specific sponsor logo clearances, and file editing guidelines for horizontal applications.
-- Reference to www.brandbook.pm for Parimatch Guidelines.
+*Guidelines data not available*

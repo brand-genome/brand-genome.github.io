@@ -2,7 +2,7 @@
 title: Ubiregi
 slug: ubiregi
 description: ""
-date: "2026-03-20T08:22:04.504696"
+date: "2026-04-10T09:40:33.274677"
 draft: false
 sectors:
   - software
@@ -49,8 +49,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -68,37 +67,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo details possibly mentioned (translation may be required for full extraction).
-- Logo details possibly mentioned (translation may be required for full extraction).
-- Logo details possibly mentioned (translation may be required for full extraction).
-- Logo details possibly mentioned (translation may be required for full extraction).
-
-**Color Information:**
-
-- Color details mentioned (codes or examples might be present).
-- Color details mentioned (codes or examples might be present).
-- Color details mentioned (codes or examples might be present).
-- Color details mentioned (codes or examples might be present).
-
-**Typography Information:**
-
-- Typography specifications noted.
-
-**Imagery Photography:**
-
-- Imagery or photography styles described.
-- Imagery or photography styles described.
-
-**Notes:**
-
-- Review page 1 for additional context or untranslated content.
-- Review page 2 for additional context or untranslated content.
-- Review page 3 for additional context or untranslated content.
-- Review page 4 for additional context or untranslated content.
-- Review page 5 for additional context or untranslated content.
-- Review page 6 for additional context or untranslated content.
-- Review page 7 for additional context or untranslated content.
-- Review page 8 for additional context or untranslated content.
-- Review page 9 for additional context or untranslated content.
+*Guidelines data not available*

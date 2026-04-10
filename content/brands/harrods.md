@@ -2,11 +2,11 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-03-20T08:22:04.338788"
+date: "2026-04-10T09:40:33.051979"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - luxury
 industries:
-  - retail
   - "retail-sale-in-non-specialised-stores"
+  - retail
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -55,17 +55,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-6"
-  - green
-  - "pantone-5"
-  - black
-typographies:
-  - times
-imagery_styles:
-  - bold
-  - geometric
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British department store
 wikidata_url: "https://www.wikidata.org/wiki/Q332474"
 has_twitter: false
@@ -85,234 +77,241 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo-related information identified on page 3.
-- Logo-related information identified on page 4.
-- Logo-related information identified on page 7.
-- Logo-related information identified on page 28.
-- Logo-related information identified on page 29.
-- Logo-related information identified on page 30.
-- Logo-related information identified on page 33.
+##### Mission
 
-**Color Information:**
+- To maintain and protect the Harrods brand identity, ensuring its reputation, success, and longevity through consistent and careful implementation of guidelines by everyone who works with or represents the brand [^1].
 
-- Color-related information identified on page 5.
+##### Core Values
 
-**Typography Information:**
+- Britishness
+- Outward looking
+- Self-confidence without arrogance
+- Wit without being wacky
+- Contemporary while valuing tradition
+- Welcoming but not overfamiliar
+- Trusted but not dull
+- Authoritative but not authoritarian
+- Considered but not predictable
+- Relevant but not faddy
+- Well-connected but not superior
+- Proud but not smug
+- Appreciative of true luxury without ostentation [^2]
 
-- Typography-related information identified on page 6.
-- Typography-related information identified on page 7.
-- Typography-related information identified on page 8.
-- Typography-related information identified on page 9.
-- Typography-related information identified on page 10.
-- Typography-related information identified on page 11.
-- Typography-related information identified on page 12.
-- Typography-related information identified on page 32.
+##### Target Audience
 
-**Imagery Photography:**
+- Customers and partners who appreciate luxury, sophistication, and tradition, with a level of knowledge about products and services, and who value clarity, consistency, and a welcoming but not overfamiliar approach [^3].
 
-- Imagery- or photography-related information on page 7.
-- Imagery- or photography-related information on page 8.
-- Imagery- or photography-related information on page 9.
-- Imagery- or photography-related information on page 28.
-- Imagery- or photography-related information on page 30.
-- Imagery- or photography-related information on page 31.
-- Imagery- or photography-related information on page 32.
+##### Personality Traits
 
-**Brand Voice:**
+- British
+- Self-confident
+- Witty
+- Contemporary
+- Welcoming
+- Trusted
+- Authoritative
+- Considered
+- Relevant
+- Well-connected
+- Proud
+- Appreciative of true luxury [^2]
 
-- Brand voice and tone-related information identified on page 5.
-- Brand voice and tone-related information identified on page 14.
-- Brand voice and tone-related information identified on page 15.
-- Brand voice and tone-related information identified on page 17.
-- Brand voice and tone-related information identified on page 19.
-- Brand voice and tone-related information identified on page 21.
-- Brand voice and tone-related information identified on page 26.
-- Brand voice and tone-related information identified on page 29.
-- Brand voice and tone-related information identified on page 31.
-- Brand voice and tone-related information identified on page 32.
+##### Visual Identity Overview
 
-**Notes:**
+- Harrods' visual identity is defined by its iconic logo, core and supplementary color palettes (including Harrods Green, Metallic Gold, Black, and others), and a sophisticated, elegant typographic system using Adobe Caslon Pro, Caslon Egyptian, and Big Caslon FB. The brand emphasizes clear layout, proper logo usage, and a refined, luxurious aesthetic across all communications and collateral [^5].
 
-- General content found: HARRODS
- 
-Brand  Guidelines
-...
-- General content found: These guidelines contain the tools and resources you will 
-need to maintain the Harrods brand identi...
-- General content found: LOGO OPTIONS
-Alternative Harrods logos are used for different types of comm unication.  
-Please be s...
-- General content found: Optical centre
-Geometric centre
-20mm
-Optical centre
-Geometric centre
-H
-0.5H
-0.5H
-0.5H
-0.5H
-1B
-1B
-1B
-...
-- General content found: BLACK
-PANTONE 6
- 
-C:0 M:0 Y:0 K:100
- 
-R:29 G:29 B:27
-HA RRODS  GREEN
-PANTONE 5
-53 C
- 
-C:
-78
- M:
-45
- ...
-- General content found: Typography is a fundamental element in creating and protecting  
-Harrods™ brand identity. Harrods br...
-- General content found: Adobe Caslon Pro -
- Semibold Italic
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-1234567890...
-- General content found: Caslon Egyptian Bold Oblique
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-1234567890
-Caslon...
-- General content found: 2.2
- | HARRODS SERVICES BRAND GUIDELINES | TYPOGRAPHY | 
-BIG CASLON FB
-BIG CASLON FB
- - 
-Black
-ABCDE...
-- General content found: Times New Roman
-Times New Roman Bold
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-123456789...
-- General content found: 2.3
- | HARRODS SERVICES BRAND GUIDELINES | TYPOGRAPHY | DIGITAL | 
-APERCU
-Apercu Medium
-AB C DE FGHI...
-- General content found: 2.3
- | HARRODS SERVICES BRAND GUIDELINES | TYPOGRAPHY | DIGITAL | 
-MILLER HEADLINE
-Miller Headline B...
-- General content found: HARRODS STYLE GUIDE
-4
- | HARRODS BRAND GUIDELINES | 
-HARRODS STYLE GUIDE
-...
-- General content found: 4.0
- | HARRODS BRAND GUIDELINES | HARRODS STYLE GUIDE |
- TONE OF VOICE
-HARRODS™ TONE OF VOICE
-Harrod...
-- General content found: 4.0
- | HARRODS BRAND GUIDELINES | SUB BRANDS | 
-TONE OF VOICE
-LANGUAGE 
-CONTINUED
-Luxury/luxurious. ...
-- General content found: A
-ACCENTS
-For brands, wine names, places and people, 
-accents should be added Œ e.g. Hermès, Ladurée...
-- General content found: APOSTROPHES 
-CONTINUED
-e.g. Children™s Shoes, Men™s Ready-to-Wear,  
-Women™s Accessories.
-Make sure ...
-- General content found: COMPLIMENTARY/COMPLEMENTARY
-COMPLIMENTARY
- 
-a) expressing praise or admiration.
-b) given or supplied...
-- General content found: E
-EMAIL
-Always written as one word, e.g. email, not e-mail.
-EMOJI
-An important part of social-media ...
-- General content found: HASHTAGS 
-CONTINUED
-#HarrodsTravel
- 
-#HarrodsGeorgian
- 
-#HarrodsChefs
- 
-#HarrodsHistory / #HarrodsAr...
-- General content found: J
-JOB TITLES
-In external communications, when referring  
-to an individual™s job title Œ whether the...
-- General content found: P
-PERCENTAGE
-Should always be written out in text as two words  
-(20 per cent); in tables/for market...
-- General content found: S
-SALE
-Events should be referred to as the Summer 
- 
-Sale, the Winter Sale and the Sale Preview.  
- ...
-- General content found: TIME
- 
-See Date and Time.  
-W
-WEBSITES
-Harrods website should be written harrods.com
-For wider campa...
-- General content found: Harrods often works in conjunction with other brands, for example on a  
-brand mailer or advertiseme...
-- General content found: Ł 
- 
+#### Categories
 
-Please pay attention to Harrods™ tone of voice guidelines, especially 
-where dates, times, dep...
-- General content found: THE BRAND BAND
- 
-SIZE GUIDE
-The brand band is an integral part 
-of our external communications 
-and ...
-- General content found: www.dior.com 
-beatM_shortlist_mag_235_297_V4.indd   1
-18/02/09   17:33:13
-CO-BRANDED ADVERTISING
-Ł 
-...
-- General content found: HARRODS ADVERTORIALS
-Ł 
- 
+##### Brand Voice
 
-The majority of paid advertorials are written in-house by the  
-publicati...
-- General content found: HAR RODS AN D DEN NI S BA SSO
- 
- 
-a r e d e l i g h t e d t o i nv i t e you t o t h e e xcl u s i v...
-- General content found: HARRODS BRAND MAILER ESSENTIALS
-Ł 
- 
+- Harrods’ communications channels are numerous, encompassing everything from print to plasmas, online to social media. To some extent, there will be slightly different ways of writing for each channel. For example, online has to contend with space restrictions that the magazine doesn’t, while social has to convey more immediacy than a formal letter or invitation. However, it is crucial that all copy is cohesive, and to ensure that that is the case, it must always represent our brand persona. Just as a person’s voice and character will come through, whether they are writing a letter, email or text, so it should be with all copy that Harrods generates.
+- To help set the tone of voice, it is useful to keep in mind the Harrods brand persona.
+- Harrods is: Characterised by Britishness… but is outward looking Self-confident…but not arrogant Witty…but not wacky Contemporary…but values tradition Welcoming…but not overfamiliar Trusted…but not dull Authoritative…but not authoritarian Considered…but not predictable Relevant…but not faddy Well-connected…but not superior Proud…but not smug Appreciative of true luxury…but not blinded by ostentation
+- There are few words (apart from expletives) that are totally banned, although a number should be used with caution. Exquisite, covetable, iconic etc are all perfectly valid words, provided their use adheres to these two rules: 1. They are not clichéd or overused. For example, a couture lace dress that has taken weeks to make in an atelier is likely to be exquisite while a box of fruit jellies isn’t. The Chanel No. 5 bottle is iconic, whereas a bottle of foundation isn’t. 2. They mean what you think they mean. For example, a classic mistake is to assume infamous means very famous, when in reality it means notorious (for a bad reason). For instance, Jack Black is famous. Jack the Ripper is infamous. If you are in any doubt what a word really means, look it up.
+- The word “unique” has a unique place in the tone-of-voice rules. It’s heavily associated with PR spin. Brands the world over like to think everything they create is unique, so PRs make their clients happy by using the word copiously in press releases, whereas in reality, very few things are unique. Avoid, unless you are sure what you are describing is utterly distinctive, incomparable or inimitable.
+- Luxury/luxurious. We are a luxury brand – it is implicit in the name of Harrods. Use the words “luxury” and “luxurious” with caution and avoid using them as descriptors – ie “We present luxury homewares”. Think of a different way of describing it.
+- Steer clear of shortenings if possible – for instance, Champagne is always preferable to fizz or bubbles. However, there will be times when lack of space – for instance on the website – means only fizz will physically fit. This is fine. You may also need to use other words to avoid a far worse misdemeanour: the repetition of words within one piece of copy (see point below).
+- The repetition of words in the same piece of work looks sloppy and unimaginative, unless the copy is about that subject – eg it would be impossible not to repeat “necklace” in a story about necklaces. However, always try to think of alternatives (piece, jewellery) within paragraphs so that repetitions are minimised and spaced out.
+- Don’t overuse certain words. This has happened to many a poor word that was perfectly reasonable at one time in history but became so overused, it lost all meaning – for instance, “stunning” and “awesome”. There are, in fact, things in the world that are “stunning” and “awesome”, but they tend to be natural wonders, such as Grace Kelly (who really was stunning) and the Grand Canyon, which is pretty awesome. Try not to inflict the same fate on other words that are perfectly fine at the moment, but could go the same way. “Curated” was a word a few years back that was extremely novel and perfectly explained how things can be thoughtfully collected together. However, it’s on the cusp of being overused. Likewise, “storied” as in “legendary” is fine at the moment. But if its use becomes any more indulged, it will suffer. Be kind to useful words by not overusing them.
+- PLEASE AVOID: Instructing or commanding the customer/reader to do something (eg “wear this with that”) because it comes across as authoritative and therefore against brand. However, there are positive instructions we can give, such as “Discover” or “Enjoy” because these words are welcoming. Clichés and groan-inducing puns. The hard-sell or business-speak eg “retail theatre, offerings”. Overused contemporary business jargon such as “reaching out”. The words “cheap”, “low-cost”, “bargain”. Over-explanation. Our customers tend to have a level of knowledge about our products and services. Pedestrian opening lines, ie “Harrods is now stocking” or “Brand X is now in-store”. Find ways to lead into stories or marketing collateral with something that is surprising in an engaging way. Always ask yourself, “Would this opening make me want to read on?”
 
-Two-page and four-page communications must include the Harrods...
-- General content found: 5.5
- | HARRODS BRAND GUIDELINES | CO-BRANDING | 
-BRAND EMAILS
-BRAND EMAILS 
-In the approvals process...
-- General content found: CONTACTS & COMMUNICATION
-For information on Harrods™ Advertising and Marketing Brand Guidelines, 
-pl...
+##### Brand Imagery
+
+- The Harrods logo has its own idiosyncrasies and symmetry. It is most effectively centred using the optical centre as we have shown below, rather than by measurement.
+- We can maximise visual impact simply by creating a clearance zone around it. The size of the zone is determined by the height of the "H" in Harrods (as a unit of measurement H). This is a minimum recommended clearance zone; more space will improve visibility.
+- The Harrods sign-off can appear with or without the web & tel. The sizes indicated below provide a guide to print production of the Harrods logo.
+- 20mm
+- The three colours below are Harrods' core colour palette, and are fundamental to brand identity.
+- METALLIC GOLD PANTONE 8383 C C: M: Y: K: R: G: B:
+- BLACK PANTONE 6 C:0 M:O Y:O K:IOO R:29 G:29 B:27
+- HARRODS GREEN HARRODS GREEN PANTONE 553 C PANTONE 2411 U C:78 M:45 Y:80 K:49 C:76 M18 Y:100 K:68 R: G: B: R: G: B:
+- The LAB colour breakdown for the Harrods green is as follows:
+- L: 31, A: -13, B: 8
+- Our secondary palette (below) can be used in combination with our core colours, introducing subtle differentiation and variety to applications.
+- METALLIC SILVER PANTONE 8001 C C:44 M:35 Y:37 K:2l R:125 G:127 B:126
+- SALE RED C:0 M:100 Y:100 K:40 R:158 G:11 B:15
+- GOLD FOIL KURZ LUXOR 429 N
+- SILVER FOIL ALUFIN Special
+- Please DO NOT attempt to visually colour match from printouts or on-screen colours, as printing conditions and screen resolution may result in variations in colour shade. For accurate colour matching use the correct Pantone or CMYK colour reference.
+
+##### Color Palette
+
+- The three colours below are Harrods' core colour palette, and are fundamental to brand identity.
+- METALLIC GOLD PANTONE 8383 C C: M: Y: K: R: G: B:
+- BLACK PANTONE 6 C:0 M:O Y:O K:IOO R:29 G:29 B:27
+- HARRODS GREEN HARRODS GREEN PANTONE 553 C PANTONE 2411 U C:78 M:45 Y:80 K:49 C:76 M18 Y:100 K:68 R: G: B: R: G: B:
+- The LAB colour breakdown for the Harrods green is as follows: L: 31, A: -13, B: 8
+- Our secondary palette (below) can be used in combination with our core colours, introducing subtle differentiation and variety to applications.
+- METALLIC SILVER PANTONE 8001 C C:44 M:35 Y:37 K:2l R:125 G:127 B:126
+- SALE RED C:0 M:100 Y:100 K:40 R:158 G:11 B:15
+- GOLD FOIL KURZ LUXOR 429 N
+- SILVER FOIL ALUFIN Special
+- Please DO NOT attempt to visually colour match from printouts or on-screen colours, as printing conditions and screen resolution may result in variations in colour shade. For accurate colour matching use the correct Pantone or CMYK colour reference.
+
+##### Typography
+
+- Typography is a fundamental element in creating and protecting Harrods’ brand identity. Harrods branding appears in either Adobe Caslon Pro or Caslon Egyptian.
+- Web and telephone numbers always appear in Adobe Caslon Pro.
+- Caslon Pro is one of our three primary typefaces. For this reason it is used for applications relating to the core of the business. These include corporate communications and signs. It can also be used for headlines (Under 20pt) or body copy.
+- Caslon Pro Semibold is reserved for providing emphasis in body copy and used for reversed out copy on solid coloured backgrounds and photography. In the Harrods logo where the web address and telephone number are included, Caslon Pro Semibold is used. However, it should always be incorporated as a jpeg and never typed in manually.
+- Caslon Pro Bold is reserved for headings and sub-headings. It is also employed to provide emphasis in body copy set in Caslon Pro only.
+- Caslon Pro Italic is reserved purely to provide emphasis in body copy, or for captions supporting images.
+- Caslon Pro Italic Bold is reserved purely to provide emphasis in body copy set in Caslon Pro and Caslon Pro Italic.
+- The Big Caslon font is used only for Headlines for corporate communications and signs, and is not to be used smaller than 20 pt.
+- Caslon Pro Swash is reserved purely to provide artistic flourish at the designer’s discretion, and should be approved by the brand guardian.
+- The Caslon Pro font is available from a variety of brands/font houses. For Harrods material, only the Adobe version is to be used.
+- The Harrods corporate font is currently migrating from Gill to Caslon Egyptian. Both fonts can coexist in the short term as we update pieces that use Gill. All new pieces of work should use Caslon Egyptian.
+- Caslon Egyptian Light is one of our three primary typefaces. For this reason it is used for applications emanating from the core of the business. These include corporate communications and signs. It can be used for headlines or body copy.
+- Caslon Egyptian Regular is used and reserved for body copy on solid colur backgrounds and over layed body copy on photography.
+- Caslon Egyptian Bold is used to provide emphasis in body copy set in Caslon Egyptian Light only. In addition it is ideal for small headers and ideal for text which is over layed on solid colour or photography.
+- Caslon Egyptian Light Italic is reserved purely to provide emphasis in body copy, or for captions accompanying pictures, images and illustrations.
+- Caslon Egyptian Regular Italic is reserved purely to provide emphasis in body copy, or for captions accompanying pictures, images and illustrations.
+- Caslon Egyptian Bold Italic is reserved purely to provide emphasis in body copy, or for captions accompanying pictures, images and illustrations.
+- The Big Caslon FB font is used only for Headlines and subheadlines for corporate communications and signs, and is not to be used smaller than 20 pt.
+- Big Caslon FB is one of our three primary typefaces. For this reason it is used for applications relating to the core of the business. These include corporate communications and signs. It can also be used for headlines, subheadlines (Under 20pt) or body copy.
+- Big Caslon FB Bold is reserved for providing emphasis in body copy and used for reversed out copy on solid coloured backgrounds and photography. It is reserved for headings and sub-headings. It is also employed to provide emphasis in body copy set in Big Caslon FB only.
+- Big Caslon FB Bold Italic is reserved purely to provide emphasis in body copy, or for captions supporting images.
+- Big Caslon FB Black is reserved purely to provide emphasis in body copy set in Big Caslon FB bold.
+- Big Caslon FB Black Italic is reserved purely to provide artistic flourish at the designer’s discretion, and should be approved by the brand guardian.
+- The Big Caslon FB font is available from the Font Bureau.
+- The vast majority of Harrods in-house communication is carried out on PCs. With this in mind, two standard fonts are applicable across email and online communication: Arial and Times New Roman. Whether staff are writing a letter to a Business Unit Director or an email to an external Brand Manager, they should adhere to these fonts when corresponding via email.
+- Use as indicated on the brand email template. Main copy and headers should be #333333, links should be #000000, T&Cs #999999 and pre header is #666666.
+- Text should never be placed over images; a solid background colour is required
+
+##### Logo Usage
+
+- Alternative Harrods logos are used for different types of communication. Please be sure to check which logo is appropriate.
+- The Harrods logo has its own idiosyncrasies and symmetry. It is most effectively centred using the optical centre as we have shown below, rather than by measurement.
+- We can maximise visual impact simply by creating a clearance zone around it. The size of the zone is determined by the height of the "H" in Harrods (as a unit of measurement H). This is a minimum recommended clearance zone; more space will improve visibility.
+- The Harrods sign-off can appear with or without the web & tel. The sizes indicated below provide a guide to print production of the Harrods logo.
+- 20mm
+- The three colours below are Harrods' core colour palette, and are fundamental to brand identity.
+- METALLIC GOLD PANTONE 8383 C C: M: Y: K: R: G: B:
+- BLACK PANTONE 6 C:0 M:O Y:O K:IOO R:29 G:29 B:27
+- HARRODS GREEN PANTONE 553 C C:78 M:45 Y:80 K:49
+- HARRODS GREEN PANTONE 2411 U C:76 M18 Y:100 K:68
+- The LAB colour breakdown for the Harrods green is as follows:
+- L: 31, A: -13, B: 8
+- Please DO NOT attempt to visually colour match from printouts or on-screen colours, as printing conditions and screen resolution may result in variations in colour shade. For accurate colour matching use the correct Pantone or CMYK colour reference.
+
+##### Tone And Messaging
+
+- Harrods’ communications channels are numerous, encompassing everything from print to plasmas, online to social media. To some extent, there will be slightly different ways of writing for each channel. For example, online has to contend with space restrictions that the magazine doesn’t, while social has to convey more immediacy than a formal letter or invitation. However, it is crucial that all copy is cohesive, and to ensure that that is the case, it must always represent our brand persona. Just as a person’s voice and character will come through, whether they are writing a letter, email or text, so it should be with all copy that Harrods generates.
+- To help set the tone of voice, it is useful to keep in mind the Harrods brand persona.
+- Harrods is: Characterised by Britishness… but is outward looking Self-confident…but not arrogant Witty…but not wacky Contemporary…but values tradition Welcoming…but not overfamiliar Trusted…but not dull Authoritative…but not authoritarian Considered…but not predictable Relevant…but not faddy Well-connected…but not superior Proud…but not smug Appreciative of true luxury…but not blinded by ostentation
+- There are few words (apart from expletives) that are totally banned, although a number should be used with caution. Exquisite, covetable, iconic etc are all perfectly valid words, provided their use adheres to these two rules: 1. They are not clichéd or overused. For example, a couture lace dress that has taken weeks to make in an atelier is likely to be exquisite while a box of fruit jellies isn’t. The Chanel No. 5 bottle is iconic, whereas a bottle of foundation isn’t. 2. They mean what you think they mean. For example, a classic mistake is to assume infamous means very famous, when in reality it means notorious (for a bad reason). For instance, Jack Black is famous. Jack the Ripper is infamous. If you are in any doubt what a word really means, look it up.
+- The word “unique” has a unique place in the tone-of-voice rules. It’s heavily associated with PR spin. Brands the world over like to think everything they create is unique, so PRs make their clients happy by using the word copiously in press releases, whereas in reality, very few things are unique. Avoid, unless you are sure what you are describing is utterly distinctive, incomparable or inimitable.
+- Luxury/luxurious. We are a luxury brand – it is implicit in the name of Harrods. Use the words “luxury” and “luxurious” with caution and avoid using them as descriptors – ie “We present luxury homewares”. Think of a different way of describing it.
+- Steer clear of shortenings if possible – for instance, Champagne is always preferable to fizz or bubbles. However, there will be times when lack of space – for instance on the website – means only fizz will physically fit. This is fine. You may also need to use other words to avoid a far worse misdemeanour: the repetition of words within one piece of copy (see point below).
+- The repetition of words in the same piece of work looks sloppy and unimaginative, unless the copy is about that subject – eg it would be impossible not to repeat “necklace” in a story about necklaces. However, always try to think of alternatives (piece, jewellery) within paragraphs so that repetitions are minimised and spaced out.
+- Don’t overuse certain words. This has happened to many a poor word that was perfectly reasonable at one time in history but became so overused, it lost all meaning – for instance, “stunning” and “awesome”. There are, in fact, things in the world that are “stunning” and “awesome”, but they tend to be natural wonders, such as Grace Kelly (who really was stunning) and the Grand Canyon, which is pretty awesome. Try not to inflict the same fate on other words that are perfectly fine at the moment, but could go the same way. “Curated” was a word a few years back that was extremely novel and perfectly explained how things can be thoughtfully collected together. However, it’s on the cusp of being overused. Likewise, “storied” as in “legendary” is fine at the moment. But if its use becomes any more indulged, it will suffer. Be kind to useful words by not overusing them.
+- PLEASE AVOID: Instructing or commanding the customer/reader to do something (eg “wear this with that”) because it comes across as authoritative and therefore against brand. However, there are positive instructions we can give, such as “Discover” or “Enjoy” because these words are welcoming. Clichés and groan-inducing puns. The hard-sell or business-speak eg “retail theatre, offerings”. Overused contemporary business jargon such as “reaching out”. The words “cheap”, “low-cost”, “bargain”. Over-explanation. Our customers tend to have a level of knowledge about our products and services. Pedestrian opening lines, ie “Harrods is now stocking” or “Brand X is now in-store”. Find ways to lead into stories or marketing collateral with something that is surprising in an engaging way. Always ask yourself, “Would this opening make me want to read on?”
+- Please pay attention to Harrods’ tone of voice guidelines, especially where dates, times, departments and addresses are concerned
+- The collateral should sit comfortably with the Harrods tone of voice in terms of clarity, consistency and sophistication
+- Brand mailers created by Harrods will be written and designed according to Harrods' tone of voice
+- Emails created by Harrods will be written and designed according to Harrods' tone of voice.
+
+##### Brand Values
+
+- Harrods is: Characterised by Britishness… but is outward looking Self-confident…but not arrogant Witty…but not wacky Contemporary…but values tradition Welcoming…but not overfamiliar Trusted…but not dull Authoritative…but not authoritarian Considered…but not predictable Relevant…but not faddy Well-connected…but not superior Proud…but not smug Appreciative of true luxury…but not blinded by ostentation
+
+##### Visual Style
+
+- The Harrods logo has its own idiosyncrasies and symmetry. It is most effectively centred using the optical centre as we have shown below, rather than by measurement.
+- We can maximise visual impact simply by creating a clearance zone around it. The size of the zone is determined by the height of the "H" in Harrods (as a unit of measurement H). This is a minimum recommended clearance zone; more space will improve visibility.
+- The Harrods sign-off can appear with or without the web & tel. The sizes indicated below provide a guide to print production of the Harrods logo.
+- 20mm
+- The three colours below are Harrods' core colour palette, and are fundamental to brand identity.
+- METALLIC GOLD PANTONE 8383 C
+- BLACK PANTONE 6 C:0 M:O Y:O K:IOO R:29 G:29 B:27
+- HARRODS GREEN PANTONE 553 C C:78 M:45 Y:80 K:49
+- HARRODS GREEN PANTONE 2411 U C:76 M:18 Y:100 K:68
+- The LAB colour breakdown for the Harrods green is as follows: L: 31, A: -13, B: 8
+- Our secondary palette (below) can be used in combination with our core colours, introducing subtle differentiation and variety to applications.
+- METALLIC SILVER PANTONE 8001 C C:44 M:35 Y:37 K:21 R:125 G:127 B:126
+- SALE RED C:0 M:100 Y:100 K:40 R:158 G:11 B:15
+- GOLD FOIL KURZ LUXOR 429 N
+- SILVER FOIL ALUFIN Special
+- Please DO NOT attempt to visually colour match from printouts or on-screen colours, as printing conditions and screen resolution may result in variations in colour shade. For accurate colour matching use the correct Pantone or CMYK colour reference.
+
+##### Layout And Composition
+
+- The Harrods logo has its own idiosyncrasies and symmetry. It is most effectively centred using the optical centre as we have shown below, rather than by measurement.
+- We can maximise visual impact simply by creating a clearance zone around it. The size of the zone is determined by the height of the "H" in Harrods (as a unit of measurement H). This is a minimum recommended clearance zone; more space will improve visibility.
+- The Harrods sign-off can appear with or without the web & tel. The sizes indicated below provide a guide to print production of the Harrods logo.
+- 20mm
+
+##### Co Branding
+
+- Harrods often works in conjunction with other brands, for example on a brand mailer or advertisement. Where the material represents Harrods and an external brand in equal proportion, our preference is that the Harrods Brand Guidelines are followed.
+- • Please pay attention to Harrods’ tone of voice guidelines, especially where dates, times, departments and addresses are concerned
+- • The collateral should sit comfortably with the Harrods tone of voice in terms of clarity, consistency and sophistication
+- • Terms and conditions must be written in accordance with the Style Guide and approved by Harrods’ Legal department
+- • Collateral may not feature third-party web addresses
+- • Follow the brand band size guidelines (see 6.2) as stipulated for each variation on internal or external communication
+- • Collateral is subject to copy, artwork and brand approval by the Harrods Brand Guardians at brand@harrods.com
+- The brand band is an integral part of our external communications and should be incorporated into co-branded items that are not sent with a covering letter. Please pay particular attention to use of colour. Brand-band templates are sized differently for portrait, landscape and square format. The brand band with Harrods Rewards card is only used on direct communication with Rewards card holders.
+- For collateral that is prodominantly white, or light, always use a black band. For dark or black backgrounds, use a white brand band (see right).
+- Please contact brand@harrods.com for open template layouts
+- Co-branded advertising must feature the Harrods brand band as illustrated below and on the previous page
+- Copy, images and design should adhere to the Harrods Brand Guidelines
+- Please pay attention to the House Style for dates, locations and set phrases such as "Harrods Exclusively"
+- Collateral may not feature third-party web addresses
+- The Harrods brand band and logo must appear on co-branded advertising; for further information, please see the brand band and logo guidelines
+- Copy and creative artwork should adhere to the Harrods Brand Guidelines. Co-branded advertorials require approval from the Harrods Brand Guardians at brand@harrods.com
+- The Harrods logo must appear on advertorials; for further information, please see the brand-band and logo guidelines
+- Invitations should be laid out in accordance with the Harrods Brand Guidelines, to ensure continuity, and sent to the Harrods Brand Guardians at brand@harrods.com for approval prior to being printed. This approval should be organised with at least five days' notice
+- Events hosted by Harrods must be designed by the in-house Creative team. Information and logos should be supplied when submitting the original material
+- Invitations should contain the brand band on the image side, and the Harrods logo in the bottom right-hand corner on the text side; for further information, please see the brand band and logo guidelines
+- Invitations should be sent to the Harrods Brand Guardians at brand@harrods.com for brand approval prior to being printed
+- Invitations for events hosted by Harrods and a third party (co-funded, usually a concession) or an event that is supplier-funded and hosted by the third party at Harrods (using their database of contacts) should contain the brand band on the image side, and the Harrods logo in the bottom right-hand corner on the text side; for further information, please see the brand band and logo guidelines
+- Invitations must be sent to the Harrods Brand Guardians at brand@harrods.com for brand approval prior to being printed
+- Brand mailers should be laid out in accordance with the Harrods Brand Guidelines to ensure continuity and must be sent to the Harrods Brand Guardians at brand@harrods.com for brand approval prior to being printed. This approval should be organised with at least five days' notice
+- Two-page and four-page communications must include the Harrods brand band. Eight or more-page communications will not feature the brand band, but must be sent with a Harrods covering letter
+- Please pay attention to the Harrods Style Guide, especially where dates, times, departments and addresses are concerned
+- The brand mailer should sit comfortably with the Harrods tone of voice in terms of clarity, consistency and sophistication
+- The Harrods brand band should appear on the front cover and back cover of any brand mailer collateral; for further information, please see the brand band guidelines
+- Terms and conditions should be written in accordance with the Harrods Style Guide and must be approved by the Harrods Legal department
+- Brand mailers are subject to copy, artwork and brand approval and must be sent to the Harrods Brand Guardians at brand@harrods.com for approval prior to being printed. This approval should be organised with at least five days' notice
+- Brand mailers created by Harrods will be written and designed according to Harrods' tone of voice
+- Re approvals -only two versions will be sent to the brand to approve. All amends must be added to version one.
+- In the approvals process, only two versions will be sent to the brand to approve. All amends must be added to version one.
+- There are three template options, whether Harrods or the brand creates the email.
+- Emails created by Harrods will be written and designed according to Harrods' tone of voice.
+- The email content should fit inside the width of the template, which is 640 pixels. The header and footer should remain the same and may not be edited unless terms and conditions are added.
+- Use as indicated on the brand email template. Main copy and headers should be #333333, links should be #000000, T&Cs #999999 and pre header is #666666.
+- Text should never be placed over images; a solid background colour is required
+- Our copywriters will review copy and make changes to adhere to brand guidelines, and will provide a subject line for the email
+- Please note: no links to external websites or content, aside from harrods.com, can be included
+- Buttons may be used as a call to action, an example of which is included in the template.
+- When possible, please use a hero image, as in the example to the right
+- Harrods will place the supplied brand artwork into the Harrods branded email frame (see right)
+- Harrods reserves the right to re-colour the frame to give contrast to the artwork
+- Harrods will send a flattened proof for sign-off by the brand; the frame is subject to change by Harrods, as it is amended regularly
+- Brand email communications are subject to copy, artwork and brand approval by Harrods
+- The email template can be downloaded from: http://www.harrods-media.com/crm username: creative password: letmeincreative
 
 ## Additional Properties
 

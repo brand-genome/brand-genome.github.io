@@ -2,7 +2,7 @@
 title: Big Noon
 slug: "big-noon"
 description: ""
-date: "2026-03-20T08:22:04.177054"
+date: "2026-04-10T09:40:32.495915"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,10 +48,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-brand_colors:
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: US television program
@@ -71,68 +69,58 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- BIG NOON LOGO SYSTEM
-- 16X9 MONITORSSINGLE LOGODOUBLE LOGOTRIPLE LOGOPG_27
-- VERTICAL MONITORSSINGLE LOGODOUBLE LOGOTRIPLE LOGOPG_30
-- ULTRA-WIDE MONITORSSINGLE LOGODOUBLE LOGO PG_33
-- ULTRA-WIDE MONITORSTRIPLE LOGOSCOREBOARDPG_34
+##### Mission
 
-**Color Information:**
+- The document does not explicitly state a mission or purpose statement.
 
-- BIG NOON COLORS
+##### Target Audience
 
-R: 0G: 0B: 0HEX#: 000000R: 44G: 60B: 79HEX#: 2c3c4fR: 255G: 192B: 0HEX#: ffc000R: 202G: 214B: 232HEX#: cad6e8R: 255G: 255 B: 255HEX#: FFFFFFPG_04
+- The target audience appears to be viewers and fans of college football, specifically those engaging with FOX's Big Noon Kickoff broadcast and related sports programming [^1].
 
-**Typography Information:**
+##### Personality Traits
 
-- BIG NOON TYPOGRAPHY
+- bold
+- modern
+- dynamic
+- energetic
+- high-tech
+- sports-oriented
 
-PODIUM SHARP 2.12
+##### Visual Identity Overview
 
-RBNO 3.1 BLACK
+- The visual identity is characterized by bold typography, a modern and high-tech aesthetic, dynamic geometric backgrounds, and a vibrant color palette featuring black, dark blue, yellow, light blue, and white. The brand uses strong logo systems, textured patterns, and asymmetrical angles to convey energy and excitement, aligning with sports broadcast themes [^2].
 
-KICKOFF / SATURDAY / SATURDAY HALFTIMESECONDARY TYPEFACEPRIMARY TYPEFACEPG_03
+#### Categories
 
-**Imagery Photography:**
+##### Color Palette
 
-- BIG NOON TEXTURES
+- R: 0 G: 0 B: 0 HEX#: 000000
+- R: 44 G: 60 B: 79 HEX#: 2c3c4f
+- R: 255 G: 192 B: 0 HEX#: ffc000
+- R: 202 G: 214 B: 232 HEX#: cad6e8
+- R: 255 G: 255 B: 255 HEX#: FFFFFF
 
-1 / / 0  
+##### Typography
 
-  2 / / 0  
+- PRIMARY TYPEFACE
+- # PODIUM SHARP 2.12
+- SECONDARY TYPEFACE RBNO 3.1 BLACK
+- TYPE OUTLINES
+- CHEVRONS + TYPE
 
-  3 / / 0  
+##### Visual Style
 
-  4 / / 0  
+- BIG NOON COLORS R: 0 G: 0 B: 0 HEX#: 000000 R: 44 G: 60 B: 79 HEX#: 2c3c4f R: 255 G: 192 B: 0 HEX#: ffc000 R: 202 G: 214 B: 232 HEX#: cad6e8 R: 255 G: 255 B: 255 HEX#: FFFFFF
+- BIG NOON TEXTURES TRIANGLE PATTERN TYPE OUTLINES LINE PATTERN CHEVRONS + TYPE YARD MARKERS 1//0 2//0 3//0 4//0 5//0
+- BIG NOON BACKGROUNDS ASYMMETRICAL ANGLES CUBE SLICES ABSTRACT WAVE ULTRA-TEX
 
-  5 / / 0
+##### Brand Imagery
 
-triangle PAtternYARD MARKERSTYPE OUTLINESLINE PATTERNCHEVRONS + TYPEPG_05
-- BIG NOON BACKGROUNDS
-
-asymmetrical ANGLESULTRA-TEXCUBE SLICESAbstract wavePG_06
-
-**Spacing Layout:**
-
-- 5SET MONITORS
-- 16X9 MONITORSSINGLE ACTIONSINGLE HEADDOUBLE ACTIONDOUBLE HEADSCOREBOARDTEXTPG_26
-- 16X9 MONITORSSINGLE LOGODOUBLE LOGOTRIPLE LOGOPG_27
-- VERTICAL MONITORSSINGLE ACTIONDOUBLE ACTIONTEXTPG_28
-- VERTICAL MONITORSSINGLE HEADDOUBLE HEADPG_29
-- VERTICAL MONITORSSINGLE LOGODOUBLE LOGOTRIPLE LOGOPG_30
-- ULTRA-WIDE MONITORSSINGLE ACTIONDOUBLE ACTIONPG_31
-- ULTRA-WIDE MONITORSSINGLE HEADDOUBLE HEADPG_32
-- ULTRA-WIDE MONITORSSINGLE LOGODOUBLE LOGO PG_33
-- ULTRA-WIDE MONITORSTRIPLE LOGOSCOREBOARDPG_34
-- ULTRA-WIDE MONITORSTEXTPG_35
-- ULTRA-WIDE MONITORSGENERICPG_36
-
-**Brand Voice:**
-
-- August 20TH, 2019BIG NOON STYLE GUIDE
-- BIG NOON DESIGN ELEMENTS
+- BIG NOON COLORS R: 0 G: 0 B: 0 HEX#: 000000 R: 44 G: 60 B: 79 HEX#: 2c3c4f R: 255 G: 192 B: 0 HEX#: ffc000 R: 202 G: 214 B: 232 HEX#: cad6e8 R: 255 G: 255 B: 255 HEX#: FFFFFF
+- BIG NOON TEXTURES TRIANGLE PATTERN TYPE OUTLINES LINE PATTERN CHEVRONS + TYPE YARD MARKERS 1//0 2//0 3//0 4//0 5//0
+- BIG NOON BACKGROUNDS asymmetrical ANGLES CUBE SLICES Abstract wave ULTRA-TEX
 
 ## Additional Properties
 

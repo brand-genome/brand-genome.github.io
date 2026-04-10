@@ -2,7 +2,7 @@
 title: Ville amie des Animaux
 slug: "ville-amie-des-animaux"
 description: ""
-date: "2026-03-20T08:22:04.416726"
+date: "2026-04-10T09:40:33.160673"
 draft: false
 sectors:
   - "public-sector"
@@ -67,27 +67,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Mention of logo and its usage rules.
-- Mention of logo and its usage rules.
-- Mention of logo and its usage rules.
-
-**Color Information:**
-
-- Section discussing color usage in design.
-- Section discussing color usage in design.
-- Section discussing color usage in design.
-
-**Typography Information:**
-
-- Typographic guidelines for the label text.
-
-**Spacing Layout:**
-
-- Discussion of layout and structural rules.
-- Discussion of layout and structural rules.
-
-**Notes:**
-
-- Important advisory sections present, including adaptation of logo and format integrity.
+*Guidelines data not available*

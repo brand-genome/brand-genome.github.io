@@ -2,11 +2,11 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-03-20T08:22:04.342215"
+date: "2026-04-10T09:40:33.061410"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - financial
+  - insurance
 industries:
   - insurance
   - "financial-services"
@@ -55,26 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - abstract
-  - secondary
-brand_colors:
-  - gray
-  - white
-  - black
-typographies:
-  - arial
-  - display
-  - roboto
-imagery_styles:
-  - staged
-  - abstract
-  - bold
-  - natural
-  - illustration
-  - photography
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British multinational financial services company
 wikidata_url: "https://www.wikidata.org/wiki/Q1470848"
 has_twitter: false
@@ -95,46 +79,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Our primary logo has been redrawn symmetrically with a new handle, updated colors, and versions include: Full-color masterbrand logo, full color white logo, mono black, and mono white versions.
-- Sub-brand logos use the primary umbrella logo with sub-brand names locked up below. Use cases include direct mail, email signatures, online quoting platforms, application websites, and distribution partner websites.
-- Clearspace rules state that the exclusion zone equals the height of the letter 'L' in the logo. Minimum width is 10mm for the full logo and 24.5mm for the sub-brand logo.
-- Logo sizing based on applications. Sizing determined by dividing the diagonal of the application by the length of the logo.
-- Logo positioning guidelines suggest placing logos in any corner of the design, preferably in the top left or right. Margins must be twice the height of 'L' in the logo.
-- Logo don'ts include: Do not recreate logotypes, do not use standalone umbrellas, do not use retired Legal & General logos, and do not alter wording of sub-brands like William Penn or Banner Life.
-
-**Color Information:**
-
-- Core identity colors derived from the umbrella logo. Applications always use one or more core colors while adhering to referenced values for Pantone or RGB without color conversion.
-- Additional palette expands on the four core umbrella colors using complementary lighter and darker tones. Reserved black/gray colors are primarily for typography.
-- Retired design assets include the rainbow line, chevron, gradients, and rounded corner holding devices.
-
-**Typography Information:**
-
-- System typeface is Arial. Arial Regular is for body copy in Charcoal color and Arial Bold is used for headlines.
-- Headline typeface is Lyon Display, specifically designed for legibility in both print and digital. Titles use sentence case and non-aligned numbers.
-- Secondary typeface is Roboto, available as Google Free Font. Roboto Bold for secondary titles and Roboto Light for body copy, use Charcoal color or white.
-
-**Imagery Photography:**
-
-- Photography style focuses on natural lighting, use of color, candid situations, diversity across gender, race, sexuality, disability, and age.
-- Photography don'ts include avoiding staged scenarios, overly dark images, awkward angles, lack of color vibrance, and use of models.
-
-**Spacing Layout:**
-
-- Color boxes serve as a key visual identity element, used for headlines and body copy with margins determined by cap heights or headline sizes.
-- Margins for color box headlines use cap height on all sides except the bottom, which is 120% of cap height measured from the last baseline.
-
-**Brand Voice:**
-
-- Ensure clarity when referring to 'Legal & General America' consistently, using ampersand (&) instead of spelling 'and'. Avoid phrases or abbreviations like LGA for customers, but permissible internally.
-
-**Notes:**
-
-- Retired design assets include elements like rainbow gradients, chevron shapes, and rounded corners that are no longer valid in designs.
-- Illustrations combine line work, overprinted color shapes, and half-tone dot patterns. They can depict complex or abstract ideas and are distinct from simple icons.
-- Illustration don'ts include ensuring they avoid being generic, overly simple or overly complex with unnecessary details.
+*Guidelines data not available*
 
 ## Additional Properties
 

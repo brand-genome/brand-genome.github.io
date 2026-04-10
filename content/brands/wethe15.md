@@ -2,11 +2,11 @@
 title: WeThe15
 slug: wethe15
 description: ""
-date: "2026-03-20T08:22:04.228658"
+date: "2026-04-10T09:40:32.687002"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - international
 years:
@@ -70,9 +70,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Notes:**
-
-- Initial extracted text displays sections such as Introduction, Elements of Visual Identity, and Core Identity Elements, indicating the structure of the document.
+*Guidelines data not available*
 
 ## Additional Properties
 

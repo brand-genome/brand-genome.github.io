@@ -2,7 +2,7 @@
 title: NCB
 slug: ncb
 description: ""
-date: "2026-03-20T08:22:05.186933"
+date: "2026-04-10T09:40:34.060453"
 draft: false
 sectors:
   - finance
@@ -49,17 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: bank based in Hong Kong
 wikidata_url: "https://www.wikidata.org/wiki/Q3335816"
 has_twitter: false
@@ -78,140 +71,59 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- Brand Basic
-Logo Versions
-The preferred reproduction of NCB brand mark is in 
-its positive full 
-color version on white background. Alternativel
-y
-, the logo may be 
-reversed only out of a dark green background color from NCB
-’
-s 
-primary palettes to secure proper contrast and visibilit
-y
-.
-Mono-color logo is always used on other dark background of NCB 
-palettes.   
-When production limitation exists and the use 
-of a full color logo is not 
-possible, the grayscale version is to be applied (see color value) and 
-not an automatic conversion. 
-Rarel
-y
-, the use of monochrome (single color) or bitmap (black and 
-white) versions 
-is necessary. Example: fax transmissions, stamps and 
-film exposure for special finishes such as foil blocking and embossing 
-dyes. 
-Main Version
-Main Reverse
-Bitmap / B&W
-Grayscale
-Mono-Color Logo - Reverse
-Mono-Color Logo
+##### Mission
 
-- Reproduction Guideline
-Acceptable Backgrounds
-The figures demonstrate examples of permitted backgrounds for 
-placing NCB brand mark.
-The main focus is on securing enough visibility and contrast to 
-preserve visibility and maintain consistent branding.
-NCB brand mark shall preferably appear on white background. It is 
-permitted to place the positive logo versions on light backgrounds 
-from the color palettes with appropriate opacity.
+- The document does not explicitly state a mission or purpose statement.
 
-**Color Information:**
+##### Target Audience
 
-- Reproduction Guideline
-Acceptable Backgrounds
-The figures demonstrate examples of permitted backgrounds for 
-placing NCB brand mark.
-The main focus is on securing enough visibility and contrast to 
-preserve visibility and maintain consistent branding.
-NCB brand mark shall preferably appear on white background. It is 
-permitted to place the positive logo versions on light backgrounds 
-from the color palettes with appropriate opacity.
+- The target audience is implied to be customers and stakeholders of a financial institution, specifically a bank operating in North Africa or the Middle East, as indicated by the logo and Arabic text [^1].
 
-**Spacing Layout:**
+##### Personality Traits
 
-- NCB brand mark shall be placed towards the right 
-end of a wide or large space. Example: wide panels 
-or external sign boards, etc.
-The below shown guideline defines the ideal clear 
-space around the brand mark, and it demonstrates 
-how the logo fills the rectangle space, leaving the 
-minimum clear spaces on both sides of the brand 
-mark. When you place the logo on wider or taller format, position it top right.
-If the format is tall and narrow, like the pylon, Clear 
-space may be reduced to 25% of logo symbol width.
-Brand Mark Spacing - Main Logo
-X
-50% X
-50% X
-50% X
-50% X
-Reproduction Guideline
-- The below shown guideline defines the ideal clear 
-space around the brand mark, and it demonstrates 
-how the logo fills the rectangle space, leaving the 
-minimum clear spaces on both sides of the brand 
-mark. When you place the logo on wider or taller format, position it top right.
-If the format is tall and narrow, like the pylon, Clear 
-space may be reduced to 25% of logo symbol width.
-50% X
-50% X
-50% X
-50% X
-Reproduction Guideline
-Brand Mark Spacing - Compact
-NCB brand mark shall be placed towards the right 
-end of a wide or large space. Example: wide panels 
-or external sign boards, etc.
-- The below shown guideline defines the ideal clear 
-space around the brand mark, and it demonstrates 
-how the logo fills the rectangle space, leaving the 
-minimum clear spaces on both sides of the brand 
-mark. When you place the logo on wider or taller format, position it top right.
-If the format is tall and narrow, like the pylon, Clear 
-space may be reduced to 25% of logo symbol width.
-50% X
-50% X
-50% X
-50% X
-Reproduction Guideline
-Brand Mark Spacing - Vertical 
-NCB brand mark shall be placed towards the right 
-end of a wide or large space. Example: wide panels 
-or external sign boards, etc.
-- Brand Mark Spacing
-Signage Reconstruction Guide
-Reproduction Guideline
-25% X
-25% X
-Y
-25% X
-25% X
-X
-X
-X
-Ladies Branch
-28.55%Y
-63.43%Y
-- 7.5 M
-1.5 M
-2 M
-1.3 M
-4.5 M
-1.5 M
-Brand Mark Spacing
-Signage Reconstruction Guide
-X
-25% X
-25% X
-Reproduction Guideline
+- professional
+- stable
+- trustworthy
+
+##### Visual Identity Overview
+
+- The visual identity centers on a stylized, symmetrical archway motif inspired by Islamic architecture, rendered in gradients of green. The logo is paired with both Arabic and Latin text, using modern, bold fonts. The brand emphasizes clarity, professionalism, and consistent use of green color palettes, with strict guidelines for logo variations, backgrounds, and spacing [^2].
+
+#### Categories
+
+##### Logo Usage
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+
+##### Color Palette
+
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+- Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+
+##### Visual Style
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+
+##### Layout And Composition
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
 
 ## Additional Properties
 

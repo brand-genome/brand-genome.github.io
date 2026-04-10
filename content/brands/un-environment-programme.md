@@ -2,11 +2,11 @@
 title: UN Environment Programme
 slug: "un-environment-programme"
 description: ""
-date: "2026-03-20T08:22:05.562572"
+date: "2026-04-10T09:40:34.478729"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - brown
-  - white
-  - black
-  - cyan
-typographies:
-  - roboto
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: United Nations organisation
 wikidata_url: "https://www.wikidata.org/wiki/Q182016"
 has_twitter: false
@@ -84,32 +77,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Do not interchange design elements, such as changing the logo's color (e.g., using a black logo on a white envelope or Cyan text on a brown envelope).
-- Black logo on white (e.g., envelopes); alternatives like 100% Cyan text on brown envelopes are prohibited.
-
-**Color Information:**
-
-- Color standards are set, such as 100% Cyan text and specific logo colors for stationery, envelopes, and templates.
-
-**Typography Information:**
-
-- Font used is Roboto — weights include Regular and Bold; sizes include 6.5 pt, 8 pt, and 10 pt depending on templates and context (e.g., stationery, envelopes, and memos).
-- Roboto Regular and Bold are used for various text hierarchies such as Address, Organization names, and contact information.
-
-**Spacing Layout:**
-
-- Length measurements are defined in millimeters; templates follow strict layouts (e.g., margins cannot be altered, spacing rules for headers and footers).
-- Headers and footers are restricted (e.g., max 5 lines in footer). Layout integrity disallows changes in margins.
-
-**Notes:**
-
-- Stationery templates and guidelines are downloadable from the intranet for consistent application.
-- Letterhead templates are explicitly provided for Headquarters, divisions, and memos in English. Users should follow strict settings for alignment and design.
-- Campaign/event-specific additions (e.g., email signature graphics) require specific RGB value settings (R: 0 G: 174 B: 239). Recommended size: 300x100 pixels at 72 ppi.
-- Design templates for C4 and DL envelopes specify strict order of text elements: Address, Organization, Website.
-- The Press Release template permits header/footer modifications but retains strict layout and spacing rules. Users are not to alter margins.
+*Guidelines data not available*
 
 ## Additional Properties
 

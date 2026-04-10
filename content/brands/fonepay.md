@@ -2,7 +2,7 @@
 title: Fonepay
 slug: fonepay
 description: ""
-date: "2026-03-20T08:22:03.197505"
+date: "2026-04-10T09:40:30.741738"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - app
   - financial
+  - app
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,30 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - serif
-  - "century-gothic"
-  - garamond
-  - "sans-serif"
-  - poppins
-imagery_styles:
-  - product
-  - minimal
-  - professional
-  - bold
-  - modern
-  - illustration
-  - clean
-  - lifestyle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -89,40 +69,4 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- The company logo consists of 'Fonepay' with white and black text; 'fone' in white text on a red background (referencing F1Soft, parent company) and 'pay' in black text symbolizing payment via phone.
-- Master Logo Alternatives include: Primary preference (colors), secondary preference for backgrounds with clashing colors, and usage for black-and-white prints.
-- Clear space rules: The prescribed height ('F') is equivalent to the height of 'f' in the Fonepay logo. Minimum size requirements specify 30 px (digital) or 8mm (print) for the logo height.
-- Collaboration branding rules dictate maintaining respective logo dimensions for Fonepay and partners; horizontal and vertical lock-up are specified.
-- Incorrect usage includes: no usage without box, rotation, rearrangement, distortion, gradients, or outline of the logo. 'f spacing' must be maintained.
-
-**Color Information:**
-
-- Primary Colors: Fonepay Red, Black (not true black, slightly saturated), and White.
-
-**Typography Information:**
-
-- Primary brand font for English documentation: Century Gothic (modern, clean, professional, highly readable). Suitable for print and digital needs.
-- Font for Nepali documentation: Aakriti (rounded yet angular design for readability). Suitable for native content.
-- Design Primary English font: Poppins (modern sans-serif for clean design; recommended weights: Regular and Semi-Bold). Used for digital assets.
-- Design Secondary English font: Cormorant Garamond. Elegant serif font, recommended style: Semi-Bold Italics.
-- Nepali typography supports Devanagari scripts using 'Poppins.' Numbers are not supported in this version.
-
-**Imagery Photography:**
-
-- Hand-drawn illustration style for merchandise and branding assets conveying friendliness and distancing corporate sterility.
-- Lifestyle imagery prioritizing user experience (joy, relief) with Fonepay's products. Minimal aesthetics are recommended for product-focus photos.
-
-**Spacing Layout:**
-
-- Collaboration branding clear spacing rules specifying height relationships between the Fonepay box/logo and partner logos. Proportions and x/y alignments are stressed.
-
-**Brand Voice:**
-
-- Brand tone emphasizes friendly collaboration and reliability, with consistent messaging ensuring empowerment for users.
-
-**Notes:**
-
-- Collaborations with other brands require respect for visual identity proportion rules (horizontal/vertical lock-ups).
-- QR Standees designed for payments must balance logos of accepted networks alongside acquiring banks using consistent dimensions.
+*Guidelines data not available*

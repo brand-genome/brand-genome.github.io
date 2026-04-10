@@ -2,7 +2,7 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-03-20T08:22:05.184155"
+date: "2026-04-10T09:40:34.050972"
 draft: false
 sectors:
   - restaurant
@@ -47,21 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - secondary
-  - monogram
-brand_colors:
-  - white
-  - gold
-  - "pantone-872"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - product
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,39 +68,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Primary logo usage prohibited below 40mm width or in reproduction cases such as engraving. Alternate logo versions include Thin (Primary), Thin + Ink Trap, Thick, Thick + Ink Trap for small sizes.
-- Monogram logo reserved for small square formats, e.g., social media profile pictures.
-
-**Color Information:**
-
-- Gold: Pantone 872, CMYK 32, 40, 80, 0, RGB 183,150,99
-- Gold Foil K10: unspecified codes
-- Black: Pantone Process Black, CMYK 0, 0, 0, 100, RGB 0,0,0
-- White: No Pantone, CMYK 0,0,0,0, RGB 255,255,255
-- Colors can be used in any combinations; part of the Belle Epoque brand identity palette.
-
-**Typography Information:**
-
-- ITC Benguiat Bold is the primary typeface for headings and emphasis.
-- Sofia Pro Light is the secondary typeface used for body copy. Other weights can be used for subheadings.
-- Combination of Sofia Pro Light and Benguiat Bold can be used in body text for emphasis. Point sizes should be adjusted for x-heights.
-
-**Imagery Photography:**
-
-- Brand photography: High-resolution images for website or promotional use. File path: Belle Epoque > Photography > Metz & Racine.
-- Store photography: Atmospheric shots of the Belle Epoque exterior/interior for website or promotional material. File path: Belle Epoque > Photography > Shop Photography.
-- Product photography: Presented as cut-outs on plain white backgrounds with a generous margin. File path: Belle Epoque > Photography > Studio Cakes.
-
-**Spacing Layout:**
-
-- Letterhead: 210x297mm; Printed in 1 color litho. Specification: Belle Epoque > *Final Artwork > Letterhead.
-
-**Brand Voice:**
-
-- Use patterns inspired by the Art Nouveau movement. Standards: Black patterns paired with gold logo; Gold patterns if used standalone. Patterns can be adapted with smooth curves.
-
-**Notes:**
-
-- General information about patterns, maps, photography, and additional specs provided on relevant pages. The file paths are consistently included for referencing artwork.
+*Guidelines data not available*

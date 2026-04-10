@@ -2,7 +2,7 @@
 title: Škoda auto
 slug: "skoda-auto"
 description: ""
-date: "2026-03-20T08:22:05.794018"
+date: "2026-04-10T09:40:34.787334"
 draft: false
 sectors:
   - automobile
@@ -71,3 +71,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2003
+
+*Guidelines data not available*

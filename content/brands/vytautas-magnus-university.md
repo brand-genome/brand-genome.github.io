@@ -2,7 +2,7 @@
 title: Vytautas Magnus University
 slug: "vytautas-magnus-university"
 description: ""
-date: "2026-03-20T08:22:04.059486"
+date: "2026-04-10T09:40:32.080880"
 draft: false
 sectors:
   - education
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: "university in Kaunas, Lithuania (1989-)"
 wikidata_url: "https://www.wikidata.org/wiki/Q1756541"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [https://sso.vdu.lt](https://sso.vdu.lt)
 - [https://www.vdu.lt/en/studies/degree-studies](https://www.vdu.lt/en/studies/degree-studies)
 - [http://www.vdu.lt](http://www.vdu.lt)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

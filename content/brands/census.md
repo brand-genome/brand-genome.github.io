@@ -2,7 +2,7 @@
 title: Census
 slug: census
 description: ""
-date: "2026-03-20T08:22:05.510337"
+date: "2026-04-10T09:40:34.389877"
 draft: false
 sectors:
   - "public-sector"
@@ -29,9 +29,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - suitland
   - maryland
   - "washington-dc"
+  - suitland
 subsidiaries: []
 foundation_dates:
   - 1902
@@ -77,45 +77,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo-related information spotted on page 3
-- Logo-related information spotted on page 5
-- Logo-related information spotted on page 11
-- Logo-related information spotted on page 12
-- Logo-related information spotted on page 15
-- Logo-related information spotted on page 16
-- Logo-related information spotted on page 18
-- Logo-related information spotted on page 50
-
-**Color Information:**
-
-- Color-related guidelines found on page 3
-- Color-related guidelines found on page 20
-
-**Typography Information:**
-
-- Typography guidelines highlighted on page 3
-- Typography guidelines highlighted on page 24
-
-**Imagery Photography:**
-
-- Design or imagery references noted on page 4
-- Design or imagery references noted on page 29
-- Design or imagery references noted on page 30
-- Design or imagery references noted on page 31
-- Design or imagery references noted on page 36
-- Design or imagery references noted on page 39
-- Design or imagery references noted on page 40
-- Design or imagery references noted on page 41
-
-**Notes:**
-
-- Additional notes from page 7
-- Additional notes from page 8
-- Additional notes from page 9
-- Additional notes from page 30
-- Additional notes from page 53
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -125,7 +87,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Suitland](/headquarters_locations/suitland/); [Maryland](/headquarters_locations/maryland/); [Washington Dc](/headquarters_locations/washington-dc/) |
+| Headquarters Location | [Maryland](/headquarters_locations/maryland/); [Washington Dc](/headquarters_locations/washington-dc/); [Suitland](/headquarters_locations/suitland/) |
 | Foundation Date | [1902](/foundation_dates/1902/) |
 | Topic'S Main Category | Category:United States Census Bureau |
 | Gnd Id | 43130-8 (from 1903-07-01), 1086264584 |

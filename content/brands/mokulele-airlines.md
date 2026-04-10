@@ -2,7 +2,7 @@
 title: Mokulele Airlines
 slug: "mokulele-airlines"
 description: ""
-date: "2026-03-20T08:22:04.495447"
+date: "2026-04-10T09:40:33.250240"
 draft: false
 sectors:
   - airline
@@ -50,14 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - red
-  - white
-  - blue
-  - gray
-  - orange
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "commuter airline based out of Kailua-Kona, Hawaii"
@@ -78,26 +72,115 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Categories
 
-- The new Mokulele Airlines logo features a bright red Plumeria flower, stylized abstractly and with an airplane moving to the right, symbolizing growth and forward-thinking.
-- Clear space around the logotype should be equal to the height of the letters for legibility. The blue zone (clear space) and white zone (safe zone) should remain free of elements.
-- Master artwork should be used for logo reproduction. Original high-resolution or vector files must be used, and proportions should remain intact when resizing.
-- Incorrect logo usages: do not add gradients, background pictures, or distort proportions.
+##### Brand Imagery
 
-**Color Information:**
+- The clear space around the logotype on all sides should be equal to the height of the letters for maximum legibility and impact.
+- Blue indicates Clear Space. The blue area must be kept free of other elements. Outside white area indicates Safe Zone. Magenta indicates type and element alignment and boundaries.
+- The company logo is an important and valued graphic element and must be used consistently and appropriately. Even minor variations will undermine and compromise the image of the branding. Always use master artwork when reproducing any logo dsign internally or ecternally. The logo should never be recreated under any circum­stances.
+- When reproducing any logo elements, only the original high resolu­tion or vector graphic files should be used -logos should not be taken from this document. If you need to adjust the size of the logo ti fit in a restricted space, the scale of the logo ( not the dimensions ) must be adjusted to fit. The easiest way to resize the logo and main­tain the correct proportions is to drag the double arrow at the corners to the required size.
+- Never adjust the height or width of the image independently.
+- If our logo is to be used by another organisation for marketing purposes then insist that they use our master artwork when repro­ducing any logo design.
+- DON'T CHANGE ICON'S POSITION
+- DO NOT ADD GRADIENTS
+- DON'T STRETCH OR DISTORT
+- DON'T CHANGE FONTS OR COLOURS
+- DO NOT ADD BACKGROUND PICTURES
 
-- Main color: Red (#ED1C24, RGB 237, 28, 36; CMYK 0, 100, 100, 0; HEX ED1C24). Symbolizes energy, passion, ambition, and leadership.
-- Secondary color 1: Orange (#F58220, RGB 245, 130, 32; CMYK 0, 60, 100, 0).
-- Secondary color 2: Gray (#58595B, RGB 88, 89, 91; CMYK 0, 0, 0, 80).
+##### Color Palette
 
-**Spacing Layout:**
+- This color is a warm and positive color associated with our most physical needs and our will to survive. It exudes a strong and power­ful masculine energy.
+- Red is energizing. It excites the emotions and motivates us to take action.
+- It signifies a pioneering spirit and leadership qualities, promoting ambition and determination.
+- It is also strong-willed and can give confidence to those who are shy or lacking in will power.
+- MAIN COLOR #ED1C24 237 28 36 ) M 100 100 0 SECONDARY COLOR # 58595B 88 89 91 G) M O Y 0 80
 
-- Clear space required around the logo should match the height of the letters. Zones are marked as blue (clear space) or white (safe zone) to maintain element alignment and readability.
+##### Typography
 
-**Notes:**
+- The word Mokulele is a custom made ( edited version of MASQUE ) we wanted to create a unique identity for us hence the modifications of “M” and double “E’s”
+- MASQUE
+- # ABCDEFGHIJKLMNOPQRSTUVWX YZ
+- 1234567890 !@£$%^&*()-=+
+- Lorem ipsum 72 pt.
+- 24 pt.
+- Lorem ipsum dolor sit
+- 18 pt. dolore magna aliqua. Ut enim ad minim veniam
+- 14 pt.
+- Lorem ipsum dolor sit amet, consectetur adipi-scing elit
+- 10 pt. Lorem ipsum dolor sit amet, con-sectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- 7 pt. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- The Font used for AIRLINES is ALLER
+- ALLER REGULAR - UPPERCASE
+- ## ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890 !@£$%^&*()-=+
+- ### 72 pt. LOREM IPSUM
+- LOREM IPSUM DOLOR SIT AMET.
+- 18 pt.
+- DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM CONSECTERTUR AMET.
+- LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT
+- 10 pt.
+- LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA
+- 7 pt.
+- DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT.
+- ## abcdefghijklmnopqrstuvwxyz 1234567890 !@£$%^&*()-=+
+- ### 72 pt. lorem ipsum
+- lorem ipsum dolor sit amet.
+- 18 pt. dolore magna aliqua. ut enim ad minim veniam consectertur amet.
+- lorem ipsum dolor sit amet, con-sectetur adipiscing elit
+- 10 pt. lorem ipsum dolor sit amet, consectetur adipisc-ing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-- Ensure logos are only adjusted proportionally when scaling for specific needs. Do not tweak height or width independently.
+##### Logo Usage
+
+- The clear space around the logotype on all sides should be equal to the height of the letters for maximum legibility and impact.
+- Blue indicates Clear Space. The blue area must be kept free of other elements. Outside white area indicates Safe Zone. Magenta indicates type and element alignment and boundaries.
+- The company logo is an important and valued graphic element and must be used consistently and appropriately. Even minor variations will undermine and compromise the image of the branding. Always use master artwork when reproducing any logo dsign internally or ecternally. The logo should never be recreated under any circum­stances.
+- When reproducing any logo elements, only the original high resolu­tion or vector graphic files should be used -logos should not be taken from this document. If you need to adjust the size of the logo ti fit in a restricted space, the scale of the logo ( not the dimensions ) must be adjusted to fit. The easiest way to resize the logo and main­tain the correct proportions is to drag the double arrow at the corners to the required size.
+- Never adjust the height or width of the image independently.
+- If our logo is to be used by another organisation for marketing purposes then insist that they use our master artwork when repro­ducing any logo design.
+- WRONG: ( TO THE RIGHT ) DON'T CHANGE ICON'S POSITION DO NOT ADD GRADIENTS DON'T STRETCH OR DISTORT DON'T CHANGE FONTS OR COLOURS DO NOT ADD BACKGROUND PICTURES
+
+##### Brand Values
+
+- The brighter new red shows the passion is deep within our culture and passion for our customers.
+- The new logo for Mokulele Airlines shows a bright red color flower also known as Plumeria in Hawaii. The concept shows an abstract representation of Plumeria and an airplane going towards the right, symbolizing growth and forward and aggresive thinking of Mokulele Airlines.
+
+##### Visual Style
+
+- The clear space around the logotype on all sides should be equal to the height of the letters for maximum legibility and impact.
+- Blue indicates Clear Space. The blue area must be kept free of other elements. Outside white area indicates Safe Zone. Magenta indicates type and element alignment and boundaries.
+- The company logo is an important and valued graphic element and must be used consistently and appropriately. Even minor variations will undermine and compromise the image of the branding. Always use master artwork when reproducing any logo dsign internally or ecternally. The logo should never be recreated under any circum­stances.
+- When reproducing any logo elements, only the original high resolu­tion or vector graphic files should be used -logos should not be taken from this document. If you need to adjust the size of the logo ti fit in a restricted space, the scale of the logo ( not the dimensions ) must be adjusted to fit. The easiest way to resize the logo and main­tain the correct proportions is to drag the double arrow at the corners to the required size.
+- Never adjust the height or width of the image independently.
+- If our logo is to be used by another organisation for marketing purposes then insist that they use our master artwork when repro­ducing any logo design.
+- WRONG: ( TO THE RIGHT ) DON'T CHANGE ICON'S POSITION DO NOT ADD GRADIENTS DON'T STRETCH OR DISTORT DON'T CHANGE FONTS OR COLOURS DO NOT ADD BACKGROUND PICTURES
+
+##### Iconography
+
+- The clear space around the logotype on all sides should be equal to the height of the letters for maximum legibility and impact.
+- Blue indicates Clear Space. The blue area must be kept free of other elements. Outside white area indicates Safe Zone. Magenta indicates type and element alignment and boundaries.
+- Even minor variations will undermine and compromise the image of the branding. Always use master artwork when reproducing any logo dsign internally or ecternally. The logo should never be recreated under any circum­stances.
+- When reproducing any logo elements, only the original high resolu­tion or vector graphic files should be used -logos should not be taken from this document.
+- If you need to adjust the size of the logo ti fit in a restricted space, the scale of the logo ( not the dimensions ) must be adjusted to fit. The easiest way to resize the logo and main­tain the correct proportions is to drag the double arrow at the corners to the required size.
+- Never adjust the height or width of the image independently.
+- If our logo is to be used by another organisation for marketing purposes then insist that they use our master artwork when repro­ducing any logo design.
+- DON'T CHANGE ICON'S POSITION
+- DO NOT ADD GRADIENTS
+- DON'T STRETCH OR DISTORT
+- DON'T CHANGE FONTS OR COLOURS
+- DO NOT ADD BACKGROUND PICTURES
+
+##### Layout And Composition
+
+- The clear space around the logotype on all sides should be equal to the height of the letters for maximum legibility and impact.
+- Blue indicates Clear Space. The blue area must be kept free of other elements. Outside white area indicates Safe Zone. Magenta indicates type and element alignment and boundaries.
+- When reproducing any logo elements, only the original high resolution or vector graphic files should be used - logos should not be taken from this document. If you need to adjust the size of the logo ti fit in a restricted space, the scale of the logo ( not the dimensions ) must be adjusted to fit. The easiest way to resize the logo and maintain the correct proportions is to drag the double arrow at the corners to the required size.
+- Never adjust the height or width of the image independently.
+- DON'T CHANGE ICON'S POSITION
+- DO NOT ADD GRADIENTS
+- DON'T STRETCH OR DISTORT
+- DON'T CHANGE FONTS OR COLOURS
+- DO NOT ADD BACKGROUND PICTURES
 
 ## Additional Properties
 

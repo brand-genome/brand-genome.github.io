@@ -2,7 +2,7 @@
 title: RC Celta
 slug: "rc-celta"
 description: ""
-date: "2026-03-20T08:22:04.978694"
+date: "2026-04-10T09:40:33.749923"
 draft: false
 sectors:
   - sports
@@ -50,16 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - gotham
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Spanish association football club
 wikidata_url: "https://www.wikidata.org/wiki/Q8749"
 has_twitter: false
@@ -82,27 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The escudo consists of three main elements: the Cruz de Santiago, the Corona Real, and the Blasón Celeste. The silhouette surrounding the escudo must always remain white for visibility.
-- Color applications for the escudo include: Full color version, Contratipo blanco (white silhouette), black applications, blue applications, and monocolor applications.
-- The logotype uses Gotham font in uppercase: 'Light' for RC initials and 'Bold' for Celta. The logotype can be used without the escudo in cases of legibility or visibility concerns on specific media.
-
-**Color Information:**
-
-- The escudo's color versions include full color, black, blue, white (contratipo blanco), and monocolor variations.
-
-**Typography Information:**
-
-- Primary font for the logotype is Gotham, with weights: Light for RC initials and Bold for Celta.
-
-**Spacing Layout:**
-
-- It is mandatory to ensure the white silhouette around the escudo remains intact when applied to any background.
-
-**Notes:**
-
-- The document prioritizes maintaining historical elements of the escudo in all branding applications.
+*Guidelines data not available*
 
 ## Additional Properties
 

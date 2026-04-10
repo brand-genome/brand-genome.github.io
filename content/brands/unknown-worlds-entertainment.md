@@ -2,7 +2,7 @@
 title: Unknown Worlds Entertainment
 slug: "unknown-worlds-entertainment"
 description: ""
-date: "2026-03-20T08:22:03.238835"
+date: "2026-04-10T09:40:30.750546"
 draft: false
 sectors:
   - gaming
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - subnautica
   - "natural-selection"
+  - subnautica
 products: []
 headquarters_locations:
   - "san-francisco"
@@ -55,27 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - vertical
-  - horizontal
-  - alternate
-  - lockup
-  - primary
-  - favicon
-  - icon
-brand_colors:
-  - red
-  - green
-  - teal
-  - white
-  - purple
-  - blue
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: American video game developer
 wikidata_url: "https://www.wikidata.org/wiki/Q3022081"
 has_twitter: false
@@ -97,40 +80,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Logo variations include horizontal logo, horizontal stacked lockup, vertical stacked lockup, and standalone icon.
-- Clear space for horizontal logo defined with an outer boundary as safe area and inner boundary as minimum safe zone. Smallest height specified as 30 pixels.
-- Minimum height for vertical stacked logo is 100 pixels. Clear space rules include inner and outer safe zones within this logo type.
-- Minimum height for standalone logo icon is 75 pixels. Safe area width based on the thickest part of the crescent in the icon.
-- Incorrect logo usage includes tilting, non-approved colors, drop shadows, filling logos, modifying lockups, using unapproved typefaces, and altering logo dimensions.
-- Use cases for icons include favicon, app icons, and social media profile pictures. Icon usage spans digital platforms.
-
-**Color Information:**
-
-- Primary color palette includes UW Purple (#6418FF), Teal Green (#00E6C4), Ocean Blue (#008DFF), UW Red (#FF3975), Ice Blue (#4CDD1FF), Fire Orange (#FF5E5A), Light Orange (#FCA700), Warm Orange (#FF9100), Black (#000000), White (#FFFFFF). Includes HEX and RGB color values.
-- Opacity recommendations range from 10% to 90% for colors, demonstrating adaptive transparency settings.
-- Detailed color combinations illustrated for logo application across varying backgrounds and contexts, ensuring effective visibility and brand consistency.
-
-**Typography Information:**
-
-- The primary typeface is UW Sans, featuring a custom design specifically for the brand's visual identity.
-- Type styles include weights from light to bold, and regular to italic to support tonal adaptability in communications.
-- UW Sans supports Basic and Extended Latin as well as Cyrillic languages. Extensive character set for multi-language coverage.
-- Alternate typeface is Noto Sans for use in web-based localization and situations where UW Sans is inapplicable. Supports diverse global languages.
-
-**Imagery Photography:**
-
-- Design examples presented showcasing brand application across promotional mediums and digital platforms, including online visibility such as social media logos.
-
-**Spacing Layout:**
-
-- Spacing rules for co-branding ensure logos are presented with equal prominence, maintaining clear gaps and safe areas.
-- Optimal placement guidelines for logos per varying aspect ratios, considering content-dependent visibility.
-
-**Notes:**
-
-- Examples illustrated across sections demonstrate effective brand application in various environments. Additional contextual guidelines for co-branding provided.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -140,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Subnautica](/products_or_materials_produced/subnautica/); [Natural Selection](/products_or_materials_produced/natural-selection/) |
+| Product Or Material Produced | [Natural Selection](/products_or_materials_produced/natural-selection/); [Subnautica](/products_or_materials_produced/subnautica/) |
 | Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [2001](/foundation_dates/2001/) |
 | Headquarters Location | San Francisco |

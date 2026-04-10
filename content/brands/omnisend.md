@@ -2,7 +2,7 @@
 title: Omnisend
 slug: omnisend
 description: ""
-date: "2026-03-20T08:22:04.194213"
+date: "2026-04-10T09:40:32.548580"
 draft: false
 sectors:
   - software
@@ -50,12 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - "app-icon"
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - minimal
+imagery_styles: []
 wikidata_description: "e-commerce email marketing and SMS platform"
 wikidata_url: "https://www.wikidata.org/wiki/Q108440218"
 has_twitter: false
@@ -73,28 +71,131 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- Introduction to the logotype structure and usage rules.
-- Clear space guidelines for logotype usage for digital and print mediums.
-- Specifies minimal size requirements for logotype in digital and print mediums.
-- Introduction to the logotype structure and usage rules.
-- Rules about what is permitted and not for logotype usage, including avoiding rotation, effects, color changes, or inappropriate backgrounds.
-- Usage of app icon in platforms requiring smaller visual representations, including square corners for flexibility.
+##### Mission
 
-**Color Information:**
+- Make marketing relevant and keep Omnisend brand consistent while at it.
 
-- Introduction to brand colors and their applications for light and dark backgrounds.
-- Introduction to brand colors and their applications for light and dark backgrounds.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- clarity
+- minimalism
 
-- Description of typefaces, their weights, and suitable usage areas.
-- Description of typefaces, their weights, and suitable usage areas.
+##### Target Audience
 
-**Brand Voice:**
+- Businesses and marketers seeking effective, relevant, and consistent marketing solutions.
 
-- Specification of the brand's tonality, voice, and messaging dos and don'ts.
+##### Personality Traits
+
+- modern
+- minimalistic
+- clear
+- professional
+
+##### Visual Identity Overview
+
+- Omnisend's visual identity is defined by a minimalistic and modern style, featuring a clean sans-serif logotype, precise layout guides, a restrained color palette, and strict logo usage rules. Typography is set in GT Pressura for headlines and Roboto for body text, with clear specifications for kerning and tracking. The logo and icon are used with careful attention to clear space, sizing, and background contrast, ensuring brand consistency across digital and print formats.
+
+#### Categories
+
+##### Logo Usage
+
+- Never rotate the logotype.
+- Never use any additional effects or styles on the logotype.
+- Never change the proportions and original colours of the logotype.
+- Avoid multi colored backgrounds to keep the logotype readable and minimal. Logotype can be placed on the photograph, but never on illustration / pattern / etc.
+- Never put the logotype on a background that is low contrast.
+- Minimal size: Digital 80 px, Print 30 mm.
+- The icon is used in applications and formats where the full logotype gives less recognition and becomes too small to use. This is the primary icon option.
+- As the icon is used for different platforms, square corners may appear.
+
+##### Color Palette
+
+- Black (used only for logo)
+- #000000
+- RGB 0 / 0 / 0
+- CMYK 0 / 0 / 0 / 100
+- #555C66 RGB 85 / 92 / 102 CMYK 65 / 51 / 42 / 32
+- Grey
+- #42C299 RGB 66 / 194 / 153 CMYK 67 / 0 / 52 / 0
+- Green
+- #FF5B5D
+- RGB 255 / 91 / 93
+- CMYK 0 / 76 / 53 / 0
+- Red
+- #E4C8B4 RGB 228 / 200 / 180 CMYK 11 / 23 / 29 / 1
+- Brown
+- #FFFFFF
+- RGB 255 / 255 / 255 CMYK 0 / 0 / 0 / 0
+- White
+- #CFCFD0 RGB 207 / 207 / 208 CMYK 22 / 16 / 16 / 1
+- Bright grey
+- #EBF8F3
+- RGB 235 / 248 / 243
+- CMYK 10 / 0 / 7 / 0
+- Light green
+- #FFEEEE RGB 255 / 238 / 238 CMYK 0 / 10 / 5 / 0
+- Light red
+- #F3EADF RGB 243 / 234 / 223 CMYK 6 / 8 / 14 / 0
+- Light brown
+- #FDFBF8
+- RGB 253 / 251 / 248
+- CMYK 1 / 1 / 3 /0
+- Nude
+- Never change the proportions and original colours of the logotype.
+- Avoid multi colored backgrounds to keep the logotype readable and minimal. Logotype can be placed on the photograph, but never on illustration / pattern / etc.
+- Never put the logotype on a background that is low contrast.
+- All texts should be in Omnisend Grey, Green or White. Other brand colors could be used only in special cases where text in grey, green or white are in low contrast with the background.
+
+##### Typography
+
+- Omnisend headlines are set in GT Pressura Light and/ or Bold font. When using GT Pressura to create headings for Omnisend, always typeset it with optical kerning and set the tracking to O (for font size lower than 32 pt) or -1 O (for font size 32 pt and bigger).
+- Paragraph and all other texts are set in Roboto. Mostly Roboto Light and Roboto Medium should be used as a main font pair. Though depending on font size and medium where these fonts are used Roboto Regular and Roboto Bold could be used as well.
+- Bulleted P Roboto Light 19/ 1 (7,5 pt before paragraph; 8 / 15 mm left intend; 4,8 / 8 mm first line first intend)
+- Explaining text Roboto Light S / 12 (Optical kerning)
+- Source Roboto Medium / Light Italic 6 / 9 (Optical kerning)
+- Quote Mark GT Pressura Light, 64
+- Quote Text GT Pressura Light 15/ 18
+- Attribution Roboto Medium/ Light/ Light Italic 9 / 12,6
+- All texts should be in Omnisend Grey, Green or White. Other brand colors could be used only in special cases where text in grey, green or white are in low contrast with the background.
+
+##### Visual Style
+
+- Never rotate the logotype.
+- Never use any additional effects or styles on the logotype.
+- Never change the proportions and original colours of the logotype.
+- Avoid multi colored backgrounds to keep the logotype readable and minimal. Logotype can be placed on the photograph, but never on illustration / pattern / etc.
+- Never put the logotype on a background that is low contrast.
+- Black (used only for logo)
+- #000000
+- RGB 0 / 0 / 0
+- CMYK 0 / 0 / 0 / 100
+- #555C66 RGB 85 / 92 / 102 CMYK 65 / 51 / 42 / 32
+- #42C299 RGB 66 / 194 / 153 CMYK 67 / 0 / 52 / 0
+- #FF5B5D
+- RGB 255 / 91 / 93
+- CMYK 0 / 76 / 53 / 0
+- #E4C8B4 RGB 228 / 200 / 180 CMYK 11 / 23 / 29 / 1
+- #FFFFFF
+- RGB 255 / 255 / 255 CMYK 0 / 0 / 0 / 0
+- #CFCFD0 RGB 207 / 207 / 208 CMYK 22 / 16 / 16 / 1
+- #EBF8F3
+- RGB 235 / 248 / 243
+- CMYK 10 / 0 / 7 / 0
+- #FFEEEE RGB 255 / 238 / 238 CMYK 0 / 10 / 5 / 0
+- #F3EADF RGB 243 / 234 / 223 CMYK 6 / 8 / 14 / 0
+- #FDFBF8
+- RGB 253 / 251 / 248
+- CMYK 1 / 1 / 3 /0
+- All texts should be in Omnisend Grey, Green or White. Other brand colors could be used only in special cases where text in grey, green or white are in low contrast with the background.
+
+##### Iconography
+
+- The icon is used in applications and formats where the full logotype gives less recognition and becomes too small to use. This is the primary icon option.
+- As the icon is used for different platforms, square corners may appear.
+- Some of the app icon use cases include featuring Omnisend in product review sites, app stores and other product directories.
 
 ## Additional Properties
 

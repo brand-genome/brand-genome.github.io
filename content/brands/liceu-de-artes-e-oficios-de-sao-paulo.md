@@ -2,11 +2,11 @@
 title: Liceu de Artes e Ofícios de São Paulo
 slug: "liceu-de-artes-e-oficios-de-sao-paulo"
 description: ""
-date: "2026-03-20T08:22:04.065277"
+date: "2026-04-10T09:40:32.097299"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - brazil
 years:
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 
 - [https://www.liceuescola.com.br](https://www.liceuescola.com.br)
 - [https://cclao.com.br](https://cclao.com.br)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*

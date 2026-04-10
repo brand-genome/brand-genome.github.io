@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-03-20T08:22:05.159294"
+date: "2026-04-10T09:40:34.003089"
 draft: false
 sectors:
   - software
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - wordmark
-brand_colors:
-  - "pantone-3295"
-  - teal
-  - white
-  - gray
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: web search engine from Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q182496"
 has_twitter: false
@@ -82,37 +74,121 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The Bing logo consists of two components: the stylized symbol and the wordmark based on the Segoe typeface. Alterations to the logo, including colors, angles, or relationships between elements, are prohibited.
-- The preferred logo color is Teal (Pantone 3295). Logos are restricted to Teal, reversed White, Gray, or Black. Embossed, debossed, etched, or engraved versions are acceptable on materials like glass, aluminum, or wood, provided accessibility contrast requirements are met.
-- The minimum clear space for the Bing logo is equivalent to the height of the 'B' in Bing's wordmark. The minimum size for digital use is 50px wide.
-- Incorrect usage includes altering logo colors, angles, or element relationships and using only the Bing wordmark without the symbol.
+##### Mission
 
-**Color Information:**
+- Lab Ingénierie aims to create comfortable, productive, healthy, and environmentally respectful spaces, focusing on energy efficiency, resource conservation, and sustainable practices in engineering and construction [^1].
 
-- Brand color: Teal (Pantone 3295). Reverse logo to White for limited contrast situations. Additional logo colors include Gray for light backgrounds and Black for media using black-only reproduction.
+##### Core Values
 
-**Typography Information:**
+- environmental responsibility
+- energy efficiency
+- innovation
+- health and well-being
+- sustainability
+- professionalism
 
-- The Bing wordmark uses the Segoe typeface.
+##### Target Audience
 
-**Imagery Photography:**
+- Organizations, project groups, and companies seeking engineering solutions with a strong emphasis on environmental performance and sustainable development, including those involved in construction and facility management [^2].
 
-- When placing the logo on photographic backgrounds, aim to meet an accessibility contrast ratio of 4.5:1. Adding a 25-35% black overlay enhances text readability.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- professional
+- clean
+- innovative
+- minimalist
 
-- Ensure clear space equivalent to the height of 'B' in Bing and maintain a minimum on-screen size of 50px wide.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is defined by a bold, modern, sans-serif logo in red, with a clean and minimalist layout. The primary color palette is red and white, complemented by blue and black for secondary elements. Typography is carefully specified, with NTNovo-Dada, Butler, and Avenir fonts used for different contexts. The logo usage is strictly regulated, with clear rules for positive, negative, and grayscale applications, and a strong emphasis on visual clarity, balance, and simplicity [^3].
 
-- Bing trademarks can only be used to accurately reflect relationships between a company/product and Bing. Adherence to guidelines is mandatory.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- A trademark license is required to use Bing logos, trademarks, or names for sponsorship and endorsement purposes. Contact brand@Microsoft.com for licensing information.
-- For embossed, debossed, etched, or engraved logos, materials like glass, brushed aluminum, or wood are acceptable as long as they ensure sufficient contrast with the surroundings.
+- Emplacement dans le serveur : _Production > 04_COMMUNICATION > _Charte graphique > 2_LOGO
+- Utilisation seulement en positif (rouge 100%) pour tout support en couleur.
+- Le logo de Lab-ing peut-être disposé librement en respectant la zone de protection.
+- L’espace minimum est représenté par la hauteur et la largeur du «a».
+- Exceptions : si la hauteur/largeur de la zone de protection est restreinte, l’espace minimum peut être réduit à la moitié du «a».
+- Positif 45% du noir
+- Positif noir 100%
+- Toujours blanc sauf exception quand utilisation d’un bleu.
+- Négatif sur image en couleur
+- Négatif sur image en noir & blanc
+- Blanc pour une utilisation sur une image en niveau de gris, noir & blanc ou couleur.
+
+##### Color Palette
+
+- Utilisation seulement en positif (rouge 100%) pour tout support en couleur.
+- Positif 45% du noir
+- Positif noir 100%
+- Toujours blanc sauf exception quand utilisation d'un bleu.
+- Négatif sur image en couleur
+- Négatif sur image en noir & blanc
+- Blanc pour une utilisation sur une image en niveau de gris, noir & blanc ou couleur.
+- R : 250
+- V : 0
+- B : 0
+- Utilisation pour tout support numérique
+- C : 0 %
+- M : 95 %
+- J : 90 %
+- N : 0 %
+- Utilisation pour tout support imprimé
+
+##### Typography
+
+- Emplacement dans le serveur : _Production > 04_COMMUNICATION > _Charte graphique > 1_CHARTE GRAPHIQUE > FONTS > NTNovo-Dada.otf
+- Logo uniquement.
+- Nt Novo ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0 1 2 3 4 5 6 7 8 9 > ? ! . , :@&+
+- Emplacement dans le serveur : _Production > 04_COMMUNICATION > _Charte graphique > 1_CHARTE GRAPHIQUE > FONTS > BUTLER _Production > 04_COMMUNICATION > _Charte graphique > 1_CHARTE GRAPHIQUE > FONTS > AVENIR
+- Titre Suggestion de couleur : bleu roi.
+- Butler - medium ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0 1 2 3 4 5 6 7 8 9 > ? ! . , :@&+
+- Police de texte court
+- Butler - regular ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0 1 2 3 4 5 6 7 8 9 > ? ! . , :@&+
+- Police de bureau (e-mails, courriers, etc).
+- Avenir - book ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0 1 2 3 4 5 6 7 8 9 > ? ! . , :@&+
+- Police de bureau pour mise en gras (emails, courriers, etc).
+- Avenir - heavy ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0 1 2 3 4 5 6 7 8 9 > ? ! . , :@&+
+- Butler medium + Butler regular Combinaison typographique de présentation. Suggestion d’interlignage accentué (ci-dessous : corps = 13pt, interligne = 22pt).
+- Butler medium + Avenir book/heavy Combinaison typographique de bureau. Suggestion d’un alignement justifié.
+
+##### Visual Style
+
+- Le logo de Lab-ing peut-être disposé librement en respectant la zone de protection.
+- L’espace minimum est représenté par la hauteur et la largeur du «a».
+- Exceptions : si la hauteur/largeur de la zone de protection est restreinte, l’espace minimum peut être réduit à la moitié du «a».
+- Utilisation seulement en positif (rouge 100%) pour tout support en couleur.
+- Positif 45% du noir
+- Positif noir 100%
+- Pour les impressions/ supports en noir & blanc
+- Toujours blanc sauf exception quand utilisation d'un bleu.
+- Négatif sur image en couleur
+- Négatif sur image en noir & blanc
+- Blanc pour une utilisation sur une image en niveau de gris, noir & blanc ou couleur.
+
+##### Layout And Composition
+
+- Le logo de Lab-ing peut-être disposé librement en respectant la zone de protection.
+- L’espace minimum est représenté par la hauteur et la largeur du «a».
+- Exceptions : si la hauteur/largeur de la zone de protection est restreinte, l’espace minimum peut être réduit à la moitié du «a».
+- Toujours blanc sauf exception quand utilisation d’un bleu.
+- Blanc pour une utilisation sur une image en niveau de gris, noir & blanc ou couleur.
+
+##### Brand Imagery
+
+- Le logo de Lab-ing peut-être disposé librement en respectant la zone de protection. L’espace minimum est représenté par la hauteur et la largeur du «a». Exceptions : si la hauteur/largeur de la zone de protection est restreinte, l’espace minimum peut être réduit à la moitié du «a».
+- Utilisation seulement en positif (rouge 100%) pour tout support en couleur.
+- Positif 45% du noir
+- Positif noir 100%
+- Toujours blanc sauf exception quand utilisation d'un bleu.
+- Négatif sur image en couleur
+- Négatif sur image en noir & blanc
+- Blanc pour une utilisation sur une image en niveau de gris, noir & blanc ou couleur.
 
 ## Additional Properties
 

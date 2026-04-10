@@ -2,7 +2,7 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-03-20T08:22:04.074357"
+date: "2026-04-10T09:40:32.121505"
 draft: false
 sectors:
   - "public-sector"
@@ -50,24 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - yellow
-  - black
-typographies:
-  - arial
-  - frutiger
-imagery_styles:
-  - bold
-  - natural
-  - illustration
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: UK NHS foundation trust
 wikidata_url: "https://www.wikidata.org/wiki/Q16989274"
 has_twitter: false
@@ -86,38 +72,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- NHS organizational logos include components such as the NHS logo, organization name, and descriptor. NHS color logos can be used in full color, on black, white, or blue backgrounds, ensuring consistent visibility and communication alignment.
-- Service-level logos must follow logo rules for placement, text alignment, and ensure proper visibility on all supported backgrounds.
-
-**Color Information:**
-
-- Primary color palette includes NHS Blue (#005EB8), White (#FFFFFF), NHS Yellow (#FAE100), and NHS Black (#231F20). Secondary colors include NHS Green (#009639), Dark Grey (#425563), and Aqua Blue (#00A9CE). Colors are specified with Pantone, CMYK, RGB, and HEX codes.
-- Secondary colors are used for shapes and illustrations only. These colors are meant to complement the primary palette while maintaining brand consistency.
-
-**Typography Information:**
-
-- Primary font: Frutiger – used for headings, subtitles, and formal text applications within the brand. Font weights include Light, Regular, and Bold.
-- Secondary font: Arial – used primarily for accessibility purposes and digital materials. Includes weights like Regular and Bold.
-
-**Imagery Photography:**
-
-- Feature photography guidance includes using 'cut-out style' images for covers and brand pieces. Models should have natural poses, positive expressions, and avoid identifiable marks or cropped images above the chest line.
-- Illustrations should represent local community landmarks. Specific color combinations apply: Dark Blue illustration over shapes or Pale Grey illustrations on white backgrounds.
-
-**Spacing Layout:**
-
-- Design framework built from brand values forms the base structure for all materials. Shapes and angles derived from the values statement offer unique layout options across templates.
-
-**Brand Voice:**
-
-- The ELFT Promise represents the brand voice, emphasizing collaborative improvement of services and commitment to inclusivity, respect, and care. The Promise lock-up device combines badges, values statements, and the promise in a unified format.
-
-**Notes:**
-
-- Additional contact details for the brand communications team are provided for queries.
-- Templates and back covers include standardized designs featuring contact details, social media links, and ELFT promises.
+*Guidelines data not available*
 
 ## Additional Properties
 

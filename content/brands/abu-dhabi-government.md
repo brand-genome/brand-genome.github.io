@@ -2,7 +2,7 @@
 title: Abu Dhabi Government
 slug: "abu-dhabi-government"
 description: ""
-date: "2026-03-20T08:22:04.514666"
+date: "2026-04-10T09:40:33.290703"
 draft: false
 sectors:
   - "public-sector"

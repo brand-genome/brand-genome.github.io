@@ -2,7 +2,7 @@
 title: Gov.uk
 slug: govuk
 description: ""
-date: "2026-03-20T08:22:05.578832"
+date: "2026-04-10T09:40:34.508534"
 draft: false
 sectors:
   - "public-sector"
@@ -70,42 +70,86 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
-- Mentions of logo symbols including 'The Crown', endframe usage, and spacing.
+##### Mission
 
-**Typography Information:**
+- To provide a simpler, clearer, faster digital presence for UK government services and information.
 
-- Typography guidance on using capital letters for 'GOV.UK' and lowercase for the URL ('www').
-- Typography guidance on using capital letters for 'GOV.UK' and lowercase for the URL ('www').
+##### Core Values
 
-**Spacing Layout:**
+- simplicity
+- clarity
+- speed
 
-- Spacing guidelines for GOV.UK logos, endframes, and other elements.
-- Spacing guidelines for GOV.UK logos, endframes, and other elements.
-- Spacing guidelines for GOV.UK logos, endframes, and other elements.
+##### Target Audience
 
-**Brand Voice:**
+- Citizens, residents, and anyone seeking official UK government information or services online.
 
-- Mention of the guiding principle: 'Simpler, clearer, faster'.
-- Mention of the guiding principle: 'Simpler, clearer, faster'.
-- Mention of the guiding principle: 'Simpler, clearer, faster'.
+##### Personality Traits
 
-**Notes:**
+- authoritative
+- accessible
+- official
+- straightforward
 
-- Detailed discussion of campaign URLs and poster usage found on page 1.
-- Detailed discussion of campaign URLs and poster usage found on page 4.
-- Detailed discussion of campaign URLs and poster usage found on page 8.
-- Detailed discussion of campaign URLs and poster usage found on page 19.
-- Detailed discussion of campaign URLs and poster usage found on page 20.
+##### Visual Identity Overview
+
+- The visual identity centers on a minimalist, high-contrast logo featuring a stylized crown and bold, uppercase sans-serif text 'GOV.UK'. The logo is always accompanied by clear spacing rules, appears in white on dark backgrounds for digital use, and black for print. The tagline 'Simpler, clearer, faster' reinforces the brand's values. Visuals are clean, professional, and avoid unnecessary embellishments.
+
+#### Categories
+
+##### Brand Imagery
+
+- The symbol is the crown and the word GOV.UK together. The crown is always on the left
+- Online, on television and over graphics, the crown and the word should be white, but they can appear on any colour
+- For printed materials and stationary, the symbol should be black
+- Measure minimum space around the logo using the U character at the set size
+- Please don't play with the symbol
+
+##### Color Palette
+
+- Online, on television and over graphics, the crown and the word should be white, but they can appear on any colour
+- For printed materials and stationary, the symbol should be black
+
+##### Typography
+
+- They can use the GOV.UK Transport font
+- Apart from the GOV.UK symbol they should not use the GOV.UK Transport font
+
+##### Logo Usage
+
+- The symbol is the crown and the word GOV.UK together. The crown is always on the left
+- Online, on television and over graphics, the crown and the word should be white, but they can appear on any colour
+- For printed materials and stationary, the symbol should be black
+- Measure minimum space around the logo using the U character at the set size
+- Please don’t play with the symbol
+
+##### Tone And Messaging
+
+- Always use capital letters when writing the name GOV.UK
+- Always use www, never http. Use lower case
+- URLs should be all one word, not hyphenated
+- Use lower case for the URL and upper case for GOV.UK
+- Pronounce the dot. It helps people understand it’s a website
+- Say all the dots, and Ws
+- Please don't play with the symbol
+
+##### Visual Style
+
+- The symbol is the crown and the word GOV.UK together. The crown is always on the left
+- Online, on television and over graphics, the crown and the word should be white, but they can appear on any colour
+- For printed materials and stationary, the symbol should be black
+- Measure minimum space around the logo using the U character at the set size
+- Please don't play with the symbol
+
+##### Layout And Composition
+
+- The symbol is the crown and the word GOV.UK together. The crown is always on the left
+- Online, on television and over graphics, the crown and the word should be white, but they can appear on any colour
+- For printed materials and stationary, the symbol should be black
+- Measure minimum space around the logo using the U character at the set size
+- Please don't play with the symbol
 
 ## Additional Properties
 

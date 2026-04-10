@@ -2,7 +2,7 @@
 title: Echeverria
 slug: echeverria
 description: ""
-date: "2026-03-20T08:22:03.123138"
+date: "2026-04-10T09:40:30.630024"
 draft: false
 sectors:
   - drink
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q131815053"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 
 - [https://echewine.com](https://echewine.com)
 - [http://www.echewine.com](http://www.echewine.com)
-
-## Brand Guidelines
-
-### 2015
-
-*Guidelines data not available*
 
 ## Additional Properties
 

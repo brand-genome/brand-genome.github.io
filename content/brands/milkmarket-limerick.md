@@ -2,7 +2,7 @@
 title: MilkMarket Limerick
 slug: "milkmarket-limerick"
 description: ""
-date: "2026-03-20T08:22:05.025934"
+date: "2026-04-10T09:40:33.789166"
 draft: false
 sectors:
   - food
@@ -46,16 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
-  - "pantone-2748"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - professional
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,31 +67,100 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
+#### Brand Summary
 
-- The full-colour logo is the preferred version due to overlays and transparency effects. It should be used whenever possible.
-- Alternative color versions of the logo include solid color, black, negative (white on dark backgrounds), and RGB for screen colors.
-- Logos are provided in Adobe Illustrator (.AI) and .EPS formats. Black versions are also available in .TIFF format.
-- The solid version of the logo uses a solid Pantone spot ink and is provided in .EPS and .TIFF formats.
-- The black logo version can be recolored in layout programs if needed.
-- The negative version of the logo is recommended when placed on dark backgrounds or photographs to maintain legibility.
+##### Mission
 
-**Color Information:**
+- To ensure the Milk Market logo is used consistently, presented professionally, and reflects the spirit of the Milk Market.
 
-- Primary colors for the brand: 
-  - C:100 M:80 Y:15 K:0; RGB: 0, 69, 134
-  - C:82 M:30 Y:22 K:0; RGB: 22, 139, 172
-  - C:42 M:0 Y:0 K:0; RGB: 201, 233, 248
-  - C:25 M:0 Y:100 K:0; RGB: 220, 223, 74
-- For the single-colored logo, Pantone 2748 must be used.
-- Secondary colors: 
-  - C:60 M:100 Y:0 K:10; RGB: 119, 23, 118
-  - C:0 M:100 Y:80 K:10; RGB: 209, 0, 45
-  - C:100 M:40 Y:0 K:40; RGB: 0, 82, 134
-  - C:100 M:0 Y:40 K:40; RGB: 0, 108, 114
-- Secondary colors are meant to add interest and variety to the brand but should not replace the primary logo colors. They are better suited for backgrounds or decorative elements.
+##### Core Values
 
-**Notes:**
+- consistency
+- professionalism
+- community connection
+- freshness
+- quality
 
-- The PDF acts as a guide for consistent and professional usage of the MilkMarket logo to reflect the brand's spirit.
-- The primary goal of these guidelines is to ensure legibility and professionalism above all other factors.
+##### Target Audience
+
+- Individuals and businesses engaging with the Milk Market in Limerick, including market visitors, vendors, and the broader community.
+
+##### Personality Traits
+
+- modern
+- clean
+- inclusive
+- fresh
+- dynamic
+
+##### Visual Identity Overview
+
+- The visual identity centers on a stylized, semi-circular graphic with layered geometric shapes in shades of blue and green, paired with bold serif and sans-serif typography. The brand uses a cool color palette, emphasizing modernity, freshness, and community, with clear guidelines for logo usage, color variations, and typefaces.
+
+#### Categories
+
+##### Logo Usage
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- All logos are provided as .Al (Adobe Illustrator) or .EPS formats and the black version is also provided as a .TIFF.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- The single coloured logo should only be used in print.
+
+##### Color Palette
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- C/M/Y/K 100/80/15/0 C/M/Y/K 82/30/22/0 C/M/Y/K 42/0/0/0 C/M/Y/K 25/0/100/0
+- R/G/B 0/69/134 R/G/B 22/139/172 R/G/B 201/233/248 R/G/B 220/223/74
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+- C/M/Y/K 60/100/0/10
+- C/M/Y/K 0/100/80/10
+- C/M/Y/K 100/40/0/40
+- C/M/Y/K 100/0/40/40
+- R/G/B 119/23/118
+- R/G/B 209/0/45
+- R/G/B 0/82/134
+- R/G/B 0/108/114
+
+##### Typography
+
+- The type faces used in the logo are Trajan and Myriad.
+- Trajan is suited best for titles or decorative applications. Myriad Pro is ideal for setting text and directional signage. This manual uses Myriad as its main typeface.
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Examples ofTrajan used as a decorative typeface:
+- # FOOD & VARIETY MARKETS
+- FAMOUS FOR FRESH & FINE PRODUCE SINCE 1852
+- FOOD MARKET
+- FAILTE
+- Myriad as text or as signage:
+- « Food Stalls » Exit » Toilets
+
+##### Brand Imagery
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- All logos are provided as .Al (Adobe Illustrator) or .EPS formats and the black version is also provided as a .TIFF.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+
+##### Visual Style
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+- The single coloured logo should only be used in print.

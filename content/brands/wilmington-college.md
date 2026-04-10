@@ -2,7 +2,7 @@
 title: Wilmington College
 slug: "wilmington-college"
 description: ""
-date: "2026-03-20T08:22:05.710014"
+date: "2026-04-10T09:40:34.654276"
 draft: false
 sectors:
   - education
@@ -49,22 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - alternate
-  - primary
-  - icon
-brand_colors:
-  - green
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - clean
-  - modern
-  - staged
-  - photography
+imagery_styles: []
 wikidata_description: "Private college in Wilmington, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q8022753"
 has_twitter: false
@@ -85,43 +73,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logo usage specifications for apparel include guidance on using dark green logos on light shirts and lime green logos on dark shirts. White outlined versions should be used on other colors to maintain contrast.
-- The Wilmington College seal should be the only item on an apparel piece. It must maintain clear readability for elements like 'WILMINGTON COLLEGE' and 'ESTABLISHED A.D. 1870.'
-- Clearspace for uniforms around the icon must be equal to the height of the 'W'.
-
-**Color Information:**
-
-- Dark Green (PMS 3305) and Lime Green (PMS 376) are frequently emphasized for various applications including apparel, marketing materials, and overlays.
-- Rules for grayscale conversion include using '80% Black' for Dark Green and '40% Black' for Lime Green.
-- Strict rules for color usage include avoiding adjacent placement of colors with similar values, ensuring color contrast, and highlighting greens as the primary colors in any layout.
-- The Pantone Matching System (PMS) values for Dark Green (PMS 3305) and Lime Green (PMS 376) are confirmed. Full details on PMS, CMYK, RGB, and Web color values for the palette are outlined starting on page 3-25.
-
-**Typography Information:**
-
-- Primary brand fonts include Museo for titles and headlines, and Cantarell for sub-copy. Museo 700 is recommended for headlines, and Cantarell is emphasized for its clean, modern feel.
-- Alternate fonts for Microsoft Office applications include Rockwell for titles and headlines, and Corbel for sub-copy.
-- Special characters such as the vertical bar (|) and dot (·) are allowed for separating information in limited spaces, like headers, footers, and email templates.
-
-**Imagery Photography:**
-
-- Primary photography style is full color, with black-and-white as a complement. Images should feel honest, spontaneous, and authentic, avoiding overly staged or clichéd styles.
-- Core subject matter for photography includes student life, campus spaces, tools of learning, and athletics. Imagery should portray active, authentic, inviting, and warm scenes.
-- Overlay treatments involve applying dark green transparency over black-and-white images for use as section dividers or headers.
-
-**Spacing Layout:**
-
-- Uniforms must maintain a clearspace zone around the logo icon, with the clearspace equal to the height of the 'W' in Wilmington.
-
-**Brand Voice:**
-
-- The brand voice of Wilmington College emphasizes authenticity, welcoming tone, and warmth to reflect the college's community and values.
-
-**Notes:**
-
-- The Wilmington College seal is reserved for specific use cases such as diplomas and transcripts. It can be used in color or black-and-white for apparel but must be used alone.
-- Athletic uniforms follow specific design rules, such as using 'NIKE Ready Font BUREAU' for team names and 'Varsity Block Font' for numbers.
+*Guidelines data not available*
 
 ## Additional Properties
 

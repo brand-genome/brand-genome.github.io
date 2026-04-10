@@ -2,12 +2,12 @@
 title: Fujitsu
 slug: fujitsu
 description: ""
-date: "2026-03-20T08:22:05.866749"
+date: "2026-04-10T09:40:34.901003"
 draft: false
 sectors:
-  - consulting
   - software
   - hardware
+  - consulting
 regions:
   - japan
 years:
@@ -35,12 +35,12 @@ market_cap_buckets: []
 products_or_materials_produced:
   - "pointing-device"
   - "vehicle-audio"
+  - software
+  - workstation
   - "computer-hardware"
   - smartphone
-  - workstation
   - supercomputer
   - server
-  - software
 products: []
 headquarters_locations:
   - "shiodome-city-center"
@@ -66,26 +66,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - grey
-  - black
-typographies:
-  - impact
-  - helvetica
-  - arial
-  - times
-imagery_styles:
-  - dynamic
-  - duotone
-  - professional
-  - photography
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Japanese multinational information technology equipment and services company
 wikidata_url: "https://www.wikidata.org/wiki/Q186394"
 has_twitter: false
@@ -106,38 +90,7 @@ visual_term_image_urls: {}
 
 ### 2005
 
-**Color Information:**
-
-- For achieving high-quality printed materials such as corporate brochures and annual reports, Spot Fujitsu Red and Spot Fujitsu Grey are recommended in addition to process colors. Dense, dark black is achieved using duotones of Black and Spot Fujitsu Grey. These guidelines highlight the importance of consistent color reproduction for all media and channels.
-- For day-to-day items (not including secondary photography), Spot Fujitsu Red, Spot Fujitsu Grey, and Black can be used for production. The section emphasizes consistent application of brand colors across all channels and media.
-- Preferred paper type is Core Silk (formerly Mondial Silk) supplied through Adare Carwin. The recommended paper weight is 170gsm. Secondary corporate materials may use different stock—guidelines recommend contacting designated representatives for exceptions.
-
-**Typography Information:**
-
-- Helvetica Neue and Baskerville MT are the preferred font families for professional outputs. Standard MS fonts such as Times New Roman, Arial, and Impact are mentioned as alternatives when the former fonts are unavailable.
-- Typography hierarchy for Tone-of-Voice Principles includes clear and distinctive headlines to attract attention, followed by supporting and main body copy, summary copy (key points), and picture/diagram captions.
-- Text from campaign materials incorporates Helvetica Neue Black for highlighting keywords.
-
-**Imagery Photography:**
-
-- Primary photography in black and white. Red highlights may occasionally be used for contrast in specific campaign designs to align with the tone.
-- Photography style features dynamic and unique visual storytelling. Duotone images with Black and Spot Fujitsu Grey are recommended. Campaign-specific imagery provides light-hearted and humorous context.
-
-**Spacing Layout:**
-
-- Examples of layouts and emphasis on white space for easier readability. Suggestions include separating content into distinct sections such as highlights, main body copy, diagrams, and key pull quotes.
-
-**Brand Voice:**
-
-- Use a pragmatic, grounded, and trustworthy tone that demonstrates understanding of client needs. Avoid jargon, maintain a conversational style, and focus on benefits for the client.
-- Writing style varies across communication tiers: Tier 1 - clean and straight-talking; Tier 2 - business-focused and factual; Tier 3 - customer/audience-tailored without breaking base principles.
-- Key principles include clarity, targeted messaging, active voice, and avoidance of redundancy. Acknowledge the interplay between visual and verbal elements in communications.
-- Guidelines for corporate advertisements include using clear and benefit-oriented messaging targeting C-level executives; this involves concise and relevant text within structured layouts.
-
-**Notes:**
-
-- Templates for common layouts and communications (QuarkXPress, InDesign, Word) are available via brand resources like 'The Brand Zone.' Strict adherence to templates ensures consistency across internal and external communications.
-- Files and PDFs for campaigns or non-standard communications must comply with brand hierarchy and messaging. Special channels like multi-touch strategies incorporate Fujitsu's lockup and tonal identities.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -147,7 +100,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Pointing Device](/products_or_materials_produced/pointing-device/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Workstation](/products_or_materials_produced/workstation/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Server](/products_or_materials_produced/server/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Pointing Device](/products_or_materials_produced/pointing-device/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Server](/products_or_materials_produced/server/) |
 | Headquarters Location | [Shiodome City Center](/headquarters_locations/shiodome-city-center/) |
 | Foundation Date | [1935](/foundation_dates/1935/) |
 | Topic'S Main Category | Category:Fujitsu |

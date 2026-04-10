@@ -2,11 +2,11 @@
 title: ENQA
 slug: enqa
 description: ""
-date: "2026-03-20T08:22:05.558450"
+date: "2026-04-10T09:40:34.473360"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -52,11 +52,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - turquoise
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -77,18 +74,79 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Color Information:**
+#### Brand Summary
 
-- Primary brand colors are Dark Blue (PMS 280, CMYK: 100/72/0/18, RGB: 0/39/118, HEX: #002776) and Turquoise (PMS 3135, CMYK: 100/0/20/0, RGB: 0/148/179, HEX: #0094B3).
+##### Mission
 
-**Spacing Layout:**
+- To promote and support quality assurance in higher education across Europe, symbolized by the three blocks in the ENQA logo representing the three cycles of higher education and the structural entities of ENQA, aiming for higher quality in education [^1].
 
-- Protection area rules specify minimum spacing around logo, equivalent to the width of one block element (x).
-- Protection area rules specify minimum spacing around logo, equivalent to the width of one block element (x).
+##### Core Values
 
-**Brand Voice:**
+- quality assurance
+- collaboration
+- professionalism
 
-- ENQA publications, including workshop reports and occasional papers, use unique cover patterns and colors reflecting ENQA brand identity.
+##### Target Audience
+
+- Organizations, institutions, and professionals involved in quality assurance in European higher education [^2].
+
+##### Personality Traits
+
+- professional
+- collaborative
+- modern
+- clear
+
+##### Visual Identity Overview
+
+- ENQA's visual identity is characterized by a clean, modern look with a focus on blue and turquoise colors, geometric patterns, and consistent logo usage. The logo is central, with strict guidelines for color, size, and protection area. Stationery, publications, and presentation templates all reflect this cohesive visual style [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- The ENQA logo can be used with or without the ”European Association for Quality Assurance in Higher Education” text. In small sizes (width less than 20mm) it is recommended to use the logo without the text.
+- The logo should always be reproduced from original digital files. Logo is available in .eps and .ai for print use and .jpg and .gif for online and office use. Dimensions or colours of the logo should not be altered.
+- When applied to dark background the logo should appear white. If necessary, the logo can also be used in 100% black. Note that when used in black or white the logo is in one colour. Other variations should not be used.
+- Protection area is the minimum area around the logo that shoud remain clear of text and other graphic elements. This makes the logo visible and prevents it getting mixed with other visual elements. The size of the protection area is based on the width of one block element– marked with x in the example.
+
+##### Color Palette
+
+- Dimensions or colours of the logo should not be altered.
+- When applied to dark background the logo should appear white. If necessary, the logo can also be used in 100% black. Note that when used in black or white the logo is in one colour. Other variations should not be used.
+- EnQA dArk bluE
+- PMs 280
+- CMyK 100/72/0/18
+- RGB 0/39/118
+- # 002776
+- The main brand colours of ENQA are dark blue and turquoise of ENQA logo.
+- These colours should always be present ENQA brand is on display. Other colours can be used to complement these two.
+- EnQA turQuoisE
+- PMs 3135
+- CMyK 100/0/20/0
+- RGB 0/148/179
+- # 0094b3
+
+##### Visual Style
+
+- The three blocks in the ENQA logo symbolise the three cycles of higher education defined in the Bologna Declaration and the three structural entities of ENQA: General Assembly, Board and secretariat. The logo can also be seen as a chart – the aim being in the right upper end, in the higher quality of higher education. The ENQA logo can be used with or without the ”European Association for Quality Assurance in Higher Education” text. In small sizes (width less than 20mm) it is recommended to use the logo without the text. The logo should always be reproduced from original digital files. Logo is available in .eps and .ai for print use and .jpg and .gif for online and office use. Dimensions or colours of the logo should not be altered.
+- When applied to dark background the logo should appear white. If necessary, the logo can also be used in 100% black. Note that when used in black or white the logo is in one colour. Other variations should not be used.
+- Protection area is the minimum area around the logo that shoud remain clear of text and other graphic elements. This makes the logo visible and prevents it getting mixed with other visual elements. The size of the protection area is based on the width of one block element– marked with x in the example.
+- The main brand colours of ENQA are dark blue and turquoise of ENQA logo.
+- These colours should always be present ENQA brand is on display. Other colours can be used to complement these two.
+- EnQA dArk bluE PMs 280 CMyK 100/72/0/18 RGB 0/39/118 # 002776
+- EnQA turQuoisE PMs 3135 CMyK 100/0/20/0 RGB 0/148/179 # 0094b3
+- ENQA publishes reports and papers regularly, mostly two types of publications; workshop reports and occasional papers. These two publication types are visually differentiated with different cover patterns and colours. The colour of the cover is different in each publication.
+- Other publications can be designed more freely but considering that they should still represent ENQA visual image.
+
+##### Publication Design Guidelines
+
+- ENQA publishes reports and papers regularly, mostly two types of publications; workshop reports and occasional papers. These two publication types are visually differentiated with different cover patterns and colours. The colour of the cover is different in each publication.
+- Other publications can be designed more freely but considering that they should still represent ENQA visual image.
+
+##### Presentation Template Guidelines
+
+- Powerpoint template
 
 ## Additional Properties
 

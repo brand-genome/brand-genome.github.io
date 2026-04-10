@@ -2,7 +2,7 @@
 title: UCSF
 slug: ucsf
 description: ""
-date: "2026-03-20T08:22:04.248377"
+date: "2026-04-10T09:40:32.832411"
 draft: false
 sectors:
   - university
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
-  - education
   - signage
+  - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -78,43 +78,7 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Spacing Layout:**
-
-- Spacing and layout rules mentioned in the manual.
-- Spacing and layout rules mentioned in the manual.
-- Spacing and layout rules mentioned in the manual.
-- Spacing and layout rules mentioned in the manual.
-- Spacing and layout rules mentioned in the manual.
-
-**Brand Voice:**
-
-- Introduction and communication statements from leadership.
-- Introduction and communication statements from leadership.
-- Introduction and communication statements from leadership.
-- Introduction and communication statements from leadership.
-- Introduction and communication statements from leadership.
-- Introduction and communication statements from leadership.
-
-**Notes:**
-
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
-- Ordering procedures and revision details as per UCSF manual.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-03-20T08:22:05.159507"
+date: "2026-04-10T09:40:34.003553"
 draft: false
 sectors:
   - "public-sector"
@@ -52,11 +52,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "capital and largest city of the province of Manitoba, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q2135"
 has_twitter: false
@@ -79,29 +77,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Key guidelines for logo use are described within the document, detailing positioning, versions, safe zones, and use constraints in specified formats.
-
-**Color Information:**
-
-- The color palette includes Pantone 3015C, Pantone 1235C, Pantone Red 032C, and others detailed with their CMYK, RGB, and HEX values.
-
-**Typography Information:**
-
-- Typography introduction mentions use of systemized fonts and roles in body text versus headlines.
-
-**Imagery Photography:**
-
-- Guidelines on photography treatments, acceptable overlays, and gradients were included.
-
-**Spacing Layout:**
-
-- Specifications for a 10x10 grid system to be used across layouts, with a defined concept of a 'notch' for design symmetry.
-
-**Notes:**
-
-- Appendix and Glossary are available and provide additional clarity on terms and special instructions for color and design application.
+*Guidelines data not available*
 
 ## Additional Properties
 

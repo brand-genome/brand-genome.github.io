@@ -2,11 +2,11 @@
 title: Tilted Kilt
 slug: "tilted-kilt"
 description: ""
-date: "2026-03-20T08:22:04.558967"
+date: "2026-04-10T09:40:33.367419"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - usa
 years:
@@ -54,19 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-brand_colors:
-  - beige
-  - red
-  - white
-  - yellow
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - photography
+imagery_styles: []
 wikidata_description: "Celtic-themed sports bar and restaurant chain in the United States and Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q7803012"
 has_twitter: false
@@ -86,33 +77,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The primary stacked logo must appear only in red, white, or black; no mix of colors allowed. Rotation allowed only at 4 degrees. Minimum size is 10mm tall to maintain tagline legibility.
-
-**Color Information:**
-
-- Color palette includes TK RED (R211 G36 B43), TK YELLOW (R255 G242 B0), TK CREME (R245 G246 B230 - PMS 621 C), among others (e.g., TK DEEP RED, TK BEIGE) with specific RGB and PMS codes.
-
-**Typography Information:**
-
-- Typography section mentions typefaces and production specs; roles of fonts are yet to be finalized and listed based on future page extraction and details analysis.
-
-**Imagery Photography:**
-
-- Photography details outlined under different types — may include style guidelines and specifications regarding Kilt style and characters; analysis pending as per future sections.
-
-**Spacing Layout:**
-
-- Design sections mention Tartan & Patterns and Graphic Elements; measurements may apply across subsections for layouts involving page alignment specifications.
-
-**Brand Voice:**
-
-- Under introductory mission statements, Tilted Kilt aims to provide entertaining, high-service hospitality standards reflecting leisure branding alignments.
-
-**Notes:**
-
-- All brand phrases use (®) punctuations correctly; exact listing and sequence noted entirely require literal traceable contents spanning pages completely reviewed.
+*Guidelines data not available*
 
 ## Additional Properties
 

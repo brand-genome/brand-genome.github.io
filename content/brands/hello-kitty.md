@@ -2,7 +2,7 @@
 title: Hello Kitty
 slug: "hello-kitty"
 description: ""
-date: "2026-03-20T08:22:05.152327"
+date: "2026-04-10T09:40:33.989215"
 draft: false
 sectors:
   - "consumer-goods"
@@ -47,15 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - horizontal
-  - symbol
+logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-imagery_styles:
-  - product
+typographies: []
+imagery_styles: []
 wikidata_description: television series
 wikidata_url: "https://www.wikidata.org/wiki/Q1035156"
 has_twitter: false
@@ -74,45 +69,105 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
+#### Brand Summary
 
-- Each product must contain one Hello Kitty logo and one main Hello Kitty pose. The trademark symbol (®) is required for North America and Latin America products in the same color as the outermost part of the logo (not required on patterns). Not applicable for Europe. Logos must be original and provided by Sanrio, without modifications.
-- Do not create custom Hello Kitty logos; only use those provided by Sanrio. Do not separate the Hello Kitty logo into parts (e.g., separating 'Hello' and 'Kitty').
-- Do not add outlines or backdrops to the logo unless authorized.
-- The registered mark (®) should be on a horizontal baseline, even if the logo is not. Not applicable for Europe.
+##### Mission
 
-**Color Information:**
+- To secure brand awareness, maintain high standards on all products, and ensure a faster and smoother approval process for Hello Kitty branded items [^1].
 
-- Pantone colors specified for the Hello Kitty design include: Ribbon (Pantone 185C), Nose (Pantone 123C), and Body (varies depending on the costume; includes Pantone 185C, 340C, 285C, and 137C).
-- Use colors provided in Sanrio's style guides. Do not alter character colors without Sanrio's authorization.
+##### Core Values
 
-**Typography Information:**
+- friendship
+- consistency
+- quality
+- authenticity
+- approval compliance
 
-- The registered trademark (®) and copyright lines must be in Helvetica Neue font.
-- Indications for packaging should be typed in Helvetica Neue 55 font.
+##### Target Audience
 
-**Imagery Photography:**
+- Children, families, and fans of cute, friendly, and approachable characters, with a focus on school-age children and those who appreciate playful, wholesome imagery [^2].
 
-- Artwork and designs must use Sanrio's original images. Do not redraw or modify designs. All pop-up poses require a foreground; they cannot 'float.'
-- Mesh considerations for knitted products: minimum 42 mesh across is required for acceptable character design definition. A recommended 72 mesh ensures full-face clarity.
-- Required details for 3D mold designs: whiskers, eyes, noses, and ribbons must precisely align to the mold's shape and be colored to specific edges.
+##### Personality Traits
 
-**Spacing Layout:**
+- friendly
+- cheerful
+- approachable
+- cute
+- wholesome
 
-- Character proportions must always be maintained. Multiple poses are only allowed on patterns or graphics explicitly provided by Sanrio.
-- Indications on packaging must be visible and include all required details (e.g., seal marks, legal information).
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The Hello Kitty brand features a consistent cartoon-style depiction of Hello Kitty, always with a red bow on her left ear, a white face, black eyes, yellow nose, and no visible mouth. The brand uses bold outlines, simple shapes, and a limited color palette (red, blue, yellow, black, white). Visuals must use original Sanrio artwork, maintain character proportions, and avoid mixing style guides or unauthorized art [^3].
 
-- Guidelines emphasize ensuring the brand remains appealing, recognizable, and of high quality.
-- All verbiage must be approved by Sanrio, with no abbreviations or nicknames allowed for Hello Kitty.
-- Hello Kitty is to be referred to as 'Hello Kitty' only. She is described as a girl, not a cat.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Character-centric details, such as information on Hello Kitty, Mimmy, and other characters (e.g., their hobbies, birthdays, and locations), strongly emphasize personality and brand identity.
-- Packaging must meet strict visual and legal requirements, including Sanrio's seal, license, and appropriate copyright information.
-- Detailed copyright requirements by character and application are provided, specifying combinations of copyright years based on the character's registration and the launch year.
+- Each product shall contain 1 Hello Kitty logo and 1 main Hello Kitty pose
+- Please do not place the <R> next to the logo, it is the copyright only for the USA
+- Please always use our orig. artwork, do not change anything by yourself and do not mix styleguides.
+- Always provide indications (short for the product, non-removable and full for packaging & use org. font).
+- Hello Kitty is not a cat, she is a girl. Please do not make/use animal references.
+- Please never re-draw Sanrio's art. Use only art provided by Sanrio and do not combine it with your personal art.
+- Hello Kitty CANNOT be flipped. Her hair accessory is always on her left ear.
+- Please never remove Hello Kitty's hair accessory.
+- Do not use a yellow bow (which is worn by Mimmy only)
+- Mimmy always has to appear with Hello Kitty, never by herself.
+- Use pop-up poses only with foreground art. The pop-up poses cannot appear as floating.
+- The line weight should always be consistent. Not thick and thin on the same design.
+- Do not mix outline art with unoutlined art, unless specified by Sanrio.
+- Do not convert unoutlined art to outlined art or viceversa.
+- Do not use the Hello Kitty's friends without Hello Kitty.
+- Do not duplicate Hello Kitty's friends, except on patterns.
+- Do not use multiple Hello Kitty's poses on one design except on patterns or graphics provided by Sanrio.
+- Always keep the character's size in proportion.
+- Do not mix art from different style guides.
+
+##### Color Palette
+
+- Use the colors provided on Sanrio's style guides. Please do not change any colors unless authorized by Sanrio.
+- Please use Pantone colour below after the mold has been supplied by the sculptor.
+- Ribbon Nose Body* • • • • PANTONE PANTONE PANTONE PANTONE PANTONE PANTONE 1850 123c 340c 285c 137c 185c
+- *the colours may vary depending on the type of Hello Kitty costume used.
+- Ribbon must be colored until the edge where it adjusts to the face/ear.
+
+##### Logo Usage
+
+- Each product shall contain 1 Hello Kitty logo and 1 main Hello Kitty pose
+- Please do not place the <R> next to the logo, it is the copyright only for the USA
+- Please always use our orig. artwork, do not change anything by yourself and do not mix styleguides.
+- Always provide indications (short for the product, non-removable and full for packaging & use org. font).
+- Please never re-draw Sanrio's art. Use only art provided by Sanrio and do not combine it with your personal art.
+- Hello Kitty CANNOT be flipped. Her hair accessory is always on her left ear.
+- Please never remove Hello Kitty's hair accessory.
+- Do not use a yellow bow (which is worn by Mimmy only)
+- Do not mix art from different style guides.
+- Do not create your own Hello Kitty logo. Use only logos provided by Sanrio.
+- Do not separate Hello Kitty's logo. Example: Having a graphic between "Hello" and "Kitty" or one part on the front of the product and the other on the back.
+- Do not add an outline or backdrop to the logo, unless provided or authorized by Sanrio.
+- For North America and Latin America products. Please O include a registered trademark symbol (®) in the same color of the outermost color of the logo. (Not necessary on patterns). Not Applicable for Europe.
+
+##### Visual Style
+
+- Each product shall contain 1 Hello Kitty logo and 1 main Hello Kitty pose
+- Please do not place the <R> next to the logo, it is the copyright only for the USA
+- Please always use our orig. artwork, do not change anything by yourself and do not mix styleguides.
+- Always provide indications (short for the product, non-removable and full for packaging & use org. font).
+- Hello Kitty is not a cat, she is a girl. Please do not make/use animal references.
+- Please never re-draw Sanrio's art. Use only art provided by Sanrio and do not combine it with your personal art.
+- Hello Kitty CANNOT be flipped. Her hair accessory is always on her left ear.
+- Please never remove Hello Kitty's hair accessory.
+- Do not use a yellow bow (which is worn by Mimmy only)
+- Mimmy always has to appear with Hello Kitty, never by herself.
+- Use pop-up poses only with foreground art. The pop-up poses cannot appear as floating.
+- The line weight should always be consistent. Not thick and thin on the same design.
+- Do not mix outline art with unoutlined art, unless specified by Sanrio.
+- Do not convert unoutlined art to outlined art or viceversa.
+- Do not use the Hello Kitty's friends without Hello Kitty.
+- Do not duplicate Hello Kitty's friends, except on patterns.
+- Do not use multiple Hello Kitty's poses on one design except on patterns or graphics provided by Sanrio.
+- Always keep the character's size in proportion.
+- Do not mix art from different style guides.
 
 ## Additional Properties
 

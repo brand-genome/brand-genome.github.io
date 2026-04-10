@@ -2,7 +2,7 @@
 title: Square Kilometre Array
 slug: "square-kilometre-array"
 description: ""
-date: "2026-03-20T08:22:05.400587"
+date: "2026-04-10T09:40:34.251566"
 draft: false
 sectors:
   - research
@@ -49,18 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - clean
-  - photography
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "organization in Macclesfield, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q30296442"
 has_twitter: false
@@ -79,34 +71,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The logo is the most important asset of the SKA brand. Exclusion zone requires space around the logo; half of the globe device from the logo defines the minimum area. Size rules: minimum size 35mm wide for print or 100 pixels wide for digital. Stretching and alteration not permitted.
-- Alternative logo for use on colored backgrounds uses a white frame to isolate the main logo. The exclusion zone and size rules are the same as the primary logo.
-- Incorrect logo uses include altering the color of the logo, using it on photo backgrounds, stretching, or rotating the design.
-
-**Typography Information:**
-
-- Primary typeface: Eurostile Demi for professional marketing. Arial is used internally for emails and Word documents. Accessibility note: minimum 9pt body text size, 70% black color usage.
-- Eurostile usage breakdown: Demi for main headings, Medium for subheadings, and body text. Replacement font: Arial (Bold and Regular).
-
-**Imagery Photography:**
-
-- Use imagery relevant to subject matter. Due to SKA's evolving nature, only the latest images or artist impressions should be used — available on the SKA website.
-- Posters and banners utilize the SKA photography library to show telescope arrays or relevant imagery. Pop-up banners and PowerPoint slides should have consistent tone and incorporate the SKA visual style.
-
-**Spacing Layout:**
-
-- Exclusion zone for logos requires maintaining clear space equal to half the globe device around the logo.
-- First-level layout specification mentions logo and image spacing rules across marketing materials and mediums.
-
-**Brand Voice:**
-
-- Tone is technical, professional, and clean to convey the exciting and inspirational nature of SKA while maintaining a business-like look.
-
-**Notes:**
-
-- References to logo usability, imagery relevancy rules, or specific instructions (e.g., website for asset) are consistently mentioned throughout pages.
+*Guidelines data not available*
 
 ## Additional Properties
 

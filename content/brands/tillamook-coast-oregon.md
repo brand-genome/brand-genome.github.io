@@ -2,7 +2,7 @@
 title: Tillamook Coast Oregon
 slug: "tillamook-coast-oregon"
 description: ""
-date: "2026-03-20T08:22:04.387612"
+date: "2026-04-10T09:40:33.112914"
 draft: false
 sectors:
   - tourism
@@ -46,15 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - serif
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,25 +67,118 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo versions including Pictoglyph, Wordmark, and Brandmark shown within the guidelines.
-- Detailed clear space rules: 'The height of the “s” in the tagline must be maintained as minimum clear space.' Minimum size: 'Tagline Brandmark must not be smaller than 1 3/4 inches horizontally.' Usage showcased for various brandmarks and taglines across multiple pages.
-- Incorrect usage examples: 'Never change colors from those approved, never reorganize elements, or obstruct the brandmark. Avoid distortion, stretching, slanting, or skewing the brandmark.' Photographic backgrounds should not interfere with legibility.
+##### Mission
 
-**Color Information:**
+- To create a stunning public art trail of over 80 individually designed, super-sized, 3-D Bee sculptures for both residents and tourists to enjoy, celebrating Manchester's creative, industrious, and energetic spirit and leaving a lasting legacy for local charitable causes.
 
-- Primary, secondary, and tertiary color sets defined. Includes seven Pantone primary colors such as PMS 3435 Forest, PMS 7418 Dawn, PMS 4655 Clay, with color codes: CMYK, RGB, and HEX provided for each. Secondary and tertiary color uses detailed to ensure consistency across designs.
+##### Core Values
 
-**Typography Information:**
+- inspiring
+- inventive
+- creative
+- inclusive
+- informative
+- fun
+- celebratory
 
-- Typography must adhere to regulated styles using the PT font family. Eight distinct font styles within PT Sans and Serif are presented, including bold, italic, and regular variants: PT Sans Bold, PT Sans Italic, PT Serif Regular, etc., ideal for maintaining brand identity.
+##### Target Audience
 
-**Imagery Photography:**
+- Young school children, business people seeking sponsorship opportunities, and tourists planning to visit Manchester to follow the trail.
 
-- Photographic style emphasizes high-quality visuals that reflect the character of Tillamook Coast. Images must capture real people in real places and project enriching moments. 'WOW factor' and resonance with audience are key selection criteria.
+##### Personality Traits
 
-**Notes:**
+- fun
+- quirky
+- inventive
+- creative
+- inclusive
+- energetic
 
-- Brand guidelines offer a user’s manual to support creating consistent brand messaging and visual identity across multiple platforms.
-- Overview and reference of brand pillars, destination promise, personality elements, and the Tillamook Coast’s narrative purposes structured within the guidelines.
+##### Visual Identity Overview
+
+- The visual identity features a stylized bee logo with bold, clean lines, a modern sans-serif font, and a color palette of yellow, gold, and brown tones referencing the worker bee. The brand uses vibrant cityscape illustrations, minimalistic layouts, and consistent logo usage to convey urban vibrancy, creativity, and clarity.
+
+#### Categories
+
+##### Brand Voice
+
+- Audiences for Bee in the City range from young school children taking part in the event, to business people looking for sponsorship opportunities, and tourists planning to visit Manchester to follow the trail. Copy should be pitched accordingly.
+- Regardless of the readership, our messaging should always have a clear objective in mind.
+- As a check, everything you write should reflect the values of Bee in the City.
+- Inspiring
+- Inventive
+- Creative
+- Inclusive
+- Informative
+- Fun
+- Celebratory
+
+##### Brand Imagery
+
+- The Bee in the City logo is primarily featured brown (see page 8 Brand colours for colour references) and should be the default choice of logo on all communications for Bee in the City 2018. Alternatively, the logo can be used in white (see next page). The logo can only be used in black when colour printing is not possible.
+- The Bee in the City logo should always sit alone as the event brand. It should never sit alongside company logos or funding logos
+- 25mm
+- 120px
+
+##### Color Palette
+
+- The Bee in the City brand uses the following colours as part of the primary and secondary palettes. The primary palette of colours is preferred for partner artwork.
+- Primary colour palette This palette is made up of yellow, gold and brown tones which reference the worker bee colours. Tints of these colours may also be used
+- Secondary colour palette Brighter accent colours which can be used to compliment the primary palette for various uses e.g. sponsorship, learning, artist programme etc. Tints of these colours may also be used.
+- Do not apply the logo to a different colour background (use white or a brand colour from page 8).
+- Do not use the logo in any colour other than brown, black or white.
+
+##### Typography
+
+- We use Buenos Aires for document titles, headlines and short pull-out copy in print. If Buenos Aires is not available, Work Sans can be used as a widely available free alternative (see page 14).
+- We use Roboto for subheadings and body copy on digital applications as well as printed material. This is an open source typeface and is free to download.
+- The typeface Work Sans has been chosen as an open source alternative to our main font Buenos Aires. We use it for document titles, headlines and short pull-out copy on digital applications. It can also be used on printed materials where Buenos Aires cannot be used.
+- Our secondary typeface Roboto is an open source font and is available to download and use online for free. We use it for subheadings and body copy on digital applications as well as printed material.
+
+##### Logo Usage
+
+- The Bee in the City logo is primarily featured brown (see page 8 Brand colours for colour references) and should be the default choice of logo on all communications for Bee in the City 2018. Alternatively, the logo can be used in white (see next page). The logo can only be used in black when colour printing is not possible.
+- The Bee in the City logo should always sit alone as the event brand. It should never sit alongside company logos or funding logos
+- 25mm
+- 120px
+- When the Bee in the City logo is used on a darker background, the logo should be used in white to ensure it is legible and stands out against the backdrop.
+- Please observe the following rules when applying the logo to your communications.
+- Do not stretch the logo.
+- Do not change the alignment or position of the text.
+- Do not use the logo under the minimum size.
+- Do not apply the logo to photography.
+- Do not use the logo in any colour other than brown, black or white.
+- Do not apply the logo to a different colour background (use white or a brand colour from page 8).
+- Do not change the proportions of the logo.
+- Do not mix greyscale and full colour logos.
+
+##### Tone And Messaging
+
+- Audiences for Bee in the City range from young school children taking part in the event, to business people looking for sponsorship opportunities, and tourists planning to visit Manchester to follow the trail. Copy should be pitched accordingly.
+- Regardless of the readership, our messaging should always have a clear objective in mind.
+- As a check, everything you write should reflect the values of Bee in the City.
+- Inspiring
+- Inventive
+- Creative
+- Inclusive
+- Informative
+- Fun
+- Celebratory
+- Whenever you refer to generic worker bees e.g. ‘Manchester’s emblematic bees’ the word ‘bees’ features a lower case ‘b’.
+- Whenever you refer to the specific Bee in the City Bees e.g. ‘the Bee sculptures on display’ ‘sponsorship of a Bee’ the word ‘Bee’ features an upper case ‘B’.
+- When the following marketing line is used it should not include any punctuation but instead have line breaks between each of the phrases e.g. Bee creative Bee inspired Bee in the City
+- Alternatively, tabbed spaces between each phrase can be used to separate the phrases e.g. Bee creative Bee inspired Bee in the City
+- The phrase should not include punctuation such as commas or semicolons to separate the phrases.
+
+##### Brand Values
+
+- As a check, everything you write should reflect the values of Bee in the City.
+- Inspiring
+- Inventive
+- Creative
+- Inclusive
+- Informative
+- Fun
+- Celebratory

@@ -2,11 +2,11 @@
 title: Ce Petit Monde
 slug: "ce-petit-monde"
 description: ""
-date: "2026-03-20T08:22:05.739110"
+date: "2026-04-10T09:40:34.708383"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - france
 years:
@@ -47,23 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - yellow
-  - white
-  - pink
-  - blue
-typographies:
-  - helvetica
-  - futura
-imagery_styles:
-  - bold
-  - graphic
-  - playful
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,42 +68,128 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- Vertical layout of the logo with 50pt kerning for logotype. Includes a graphic variation showing a keyhole as a sun.
-- Horizontal layout of the logo with varied expressions possible.
-- Greyscale values indicated for logo use. Slightly darker blue recommended for ocean background. White interior on a solid color background.
-- Optical spacing rules around the logo for spacing layout; applies to horizontal version as well.
+##### Mission
 
-**Color Information:**
+- To create a playful, creative, and universally accessible world for early learners, encouraging exploration and imagination.
 
-- Primary colors are attractive to children; identity colors are blue (sky) and yellow (sun).
-- Identity colors include RGB, HEX, and secondary shades useful for correcting conflicts. Warm white alternatives (solids) for logo face also detailed.
-- Complete rainbow color set available for educational materials like flashcards.
+##### Core Values
 
-**Typography Information:**
+- open, universal access
+- humanist, sharing
+- early learners
+- playful approach
+- creative and fun
 
-- Font family 'Josefin Sans Bold', 'Helvetica Light (300)', 'Futura LT Book' used for printed text, the internet, and logo/identity/graphic titles at sizes 16pt or larger.
+##### Target Audience
 
-**Imagery Photography:**
+- Young children and early learners, with a focus on playful discovery and cultural adaptation.
 
-- Birdy and apple mountain graphic elements part of imagery.
-- Sun, cloud, mountain elements are core graphics reflecting a child's world. Clouds can be white, pink, or gradients. Lighter shade of yellow recommended for sun on yellow background.
-- Elements like stairs, ladders, doors, and balloons serve as thematic graphics representing exploration.
-- Speech bubbles for simple foreign words emphasize active language learning.
+##### Personality Traits
 
-**Spacing Layout:**
+- playful
+- creative
+- fun
+- open-minded
+- humanist
 
-- Optical spacing around the logo detailed with examples and spacing rules for both vertical and horizontal layouts.
-- Layouts of graphic elements should be within proportional squares or circles for versatile scenery creation.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on childlike graphic elements, pure geometries, schoolbook lettering, cherished objects, and nature motifs. The logo features a child with an earth-brain and a keyhole as a sun, symbolizing illumination and universal access. The color palette is bright and cheerful, with French national tri-colors and rainbow sets. Typography is playful and clear, and layouts use proportional squares or circles to evoke a 'small world' theme.
 
-- Tone focuses on universal access, sharing, early learning, playful and creative exploration. The motto 'Explorons-le ensemble!' reinforces exploration.
-- Birdy character adds personality traits such as polite, sharing, and exploring using various transportation methods.
-- Use of labels and foreign words emphasizes international awareness and collaboration.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- Some graphic elements can incorporate cultural themes to adapt to different languages offered by the institution. Single elements like Birdy might be customized for situational displays.
-- Poster templates and scenic arrangements demonstrate creative layouts of graphic elements. Logo text recommended for incorporation alongside scenery to avoid redundancy.
+- • Open, universal access • Humanist, sharing • Early learners • Playful approach • Creative and fun
+- • The interaction and creative possibilities of the graphic elements is the heart of the identi­ty.
+- • The graphic elements are meant to portray the world as observed by a child -pure geometries, schoolbook lettering, cherished objects, and surprises. The birdy and nature motifs are common amongst young children.
+- • The logo is a child with an earth-brain, or an international mind. The keyhole is also a sun (with rays), and together with the earth, they express the idea of universal access via an open mind (illumination).
+- • The name 'Ce Petit Monde' was conceived along with the identity. It refers to a personal world (this world) to explore via the imagina­tion, or a balloon.
+- • Cultural references are easily adapted to the identity and was an important point.
+
+##### Brand Imagery
+
+- The interaction and creative possibilities of the graphic elements is the heart of the identity.
+- The graphic elements are meant to portray the world as observed by a child - pure geometries, schoolbook lettering, cherished objects, and surprises. The birdy and nature motifs are common amongst young children.
+- The logo is a child with an earth-brain, or an international mind. The keyhole is also a sun (with rays), and together with the earth, they express the idea of universal access via an open mind (illumination).
+- Vertical layout
+- 50pt kerning for logotype
+- Horizontal layout
+- Graphic variation (to show keyhole as sun)
+- Different expressions are possible
+
+##### Color Palette
+
+- Identity rgb hex Secondary rgb hex 248 248 222 239 58 110 f8de3a f8ef6e 121 130 153 188 0 0 799900 82bc00 114 81 187 19 213 33 72bbd5 b5dbe9 215 30 58 d7le3a • Shades are useful for correcting color conflicts (sun on yellow background) 246 177 190 f6b1 be 37 61 113 253d71 • These colors are not part of the identity but may be needed for artwork 255 136 58 ff883a skin fde0cc 140 87 185 8c57b9 • For logo (face) 191 142 177 123 157 99 bfb19d 8e7b63 2 fef4ee fef9f7 121 91 48 795b30 34 34 34 222222 254 254 244 249 238 247 • Warmer white alternatives (solids)
+- • Shades are useful for correcting color conflicts (sun on yellow background)
+- • These colors are not part of the identity but may be needed for artwork
+- • For logo (face)
+- • Warmer white alternatives (solids)
+- • Use the main identity colors
+- Note: Use the lighter shade of yellow for the sun on a yellow background.
+- • A slightly darker blue should be used for the 'ocean' when on a blue solid
+- • Use a white interior on color solid
+- • French national tri-colors (red, white, blue)
+- • Primary or secondary colors are ok to use.
+
+##### Typography
+
+- Josefin Sans Bold
+- # ABCDEFGHIJKLM NOPQRSTUVWXYZ abcdefghijklm nopqrstuvwxyz
+- Futura LT Book
+- ABCDEFGHIJKLM NOPQRSTUVWXYZ abcdefghijklm nopqrstuvwxyz
+- Helvetica Light (300)
+- Use for logo/identity/graphic/titles at larger point sizes (16pt +)
+- Use for printed text
+- Use for internet text
+- 50pt kerning for logotype
+- 1 OOpt kerning for type
+
+##### Logo Usage
+
+- • Vertical layout • 50pt kerning for logotype • Horizontal layout • Graphic variation (to show keyhole as sun) • Different expressions are possible
+
+##### Tone And Messaging
+
+- Ce Petit Monde (This Small World) Explorons-le ensemble! (Let's explore together!)
+- • Open, universal access • Humanist, sharing • Early learners • Playful approach • Creative and fun
+- • The interaction and creative possibilities of the graphic elements is the heart of the identity.
+- • The graphic elements are meant to portray the world as observed by a child - pure geometries, schoolbook lettering, cherished objects, and surprises. The birdy and nature motifs are common amongst young children.
+- • The logo is a child with an earth-brain, or an international mind. The keyhole is also a sun (with rays), and together with the earth, they express the idea of universal access via an open mind (illumination).
+- • The name 'Ce Petit Monde' was conceived along with the identity. It refers to a personal world (this world) to explore via the imagination, or a balloon.
+- • Cultural references are easily adapted to the identity and was an important point.
+
+##### Brand Values
+
+- • Open, universal access • Humanist, sharing • Early learners • Playful approach • Creative and fun
+
+##### Visual Style
+
+- The interaction and creative possibilities of the graphic elements is the heart of the identity.
+- The graphic elements are meant to portray the world as observed by a child - pure geometries, schoolbook lettering, cherished objects, and surprises. The birdy and nature motifs are common amongst young children.
+- The logo is a child with an earth-brain, or an international mind. The keyhole is also a sun (with rays), and together with the earth, they express the idea of universal access via an open mind (illumination).
+- Cultural references are easily adapted to the identity and was an important point.
+- Vertical layout
+- 50pt kerning for logotype
+- Horizontal layout
+- Graphic variation (to show keyhole as sun)
+- Different expressions are possible
+
+##### Iconography
+
+- • The graphic elements are meant to portray the world as observed by a child -pure geometries, schoolbook lettering, cherished objects, and surprises. The birdy and nature motifs are common amongst young children.
+- • Vertical layout
+- • 50pt kerning for logotype
+- • Horizontal layout
+- • Graphic variation (to show keyhole as sun)
+- • Different expressions are possible
+
+##### Layout And Composition
+
+- • Vertical layout
+- • 50pt kerning for logotype
+- • Horizontal layout
+- • Graphic variation (to show keyhole as sun)
+- • Different expressions are possible

@@ -2,13 +2,13 @@
 title: Technip
 slug: technip
 description: ""
-date: "2026-03-20T08:22:05.170329"
+date: "2026-04-10T09:40:34.029440"
 draft: false
 sectors:
-  - construction
-  - gas
   - "renewable-energy"
   - oil
+  - construction
+  - gas
 regions:
   - france
 years:
@@ -82,6 +82,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2011
+
+*Guidelines data not available*
 
 ## Additional Properties
 

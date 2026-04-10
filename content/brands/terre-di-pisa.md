@@ -2,7 +2,7 @@
 title: Terre di Pisa
 slug: "terre-di-pisa"
 description: ""
-date: "2026-03-20T08:22:04.469400"
+date: "2026-04-10T09:40:33.216328"
 draft: false
 sectors:
   - tourism
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,64 +69,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo-related details and rules mentioned on page 1.
-- Logo-related details and rules mentioned on page 2.
-- Logo-related details and rules mentioned on page 3.
-- Logo-related details and rules mentioned on page 5.
-- Logo-related details and rules mentioned on page 7.
-- Logo-related details and rules mentioned on page 9.
-- Logo-related details and rules mentioned on page 10.
-- Logo-related details and rules mentioned on page 11.
-- Logo-related details and rules mentioned on page 12.
-- Logo-related details and rules mentioned on page 16.
-- Logo-related details and rules mentioned on page 17.
-- Logo-related details and rules mentioned on page 18.
-- Logo-related details and rules mentioned on page 19.
-- Logo-related details and rules mentioned on page 20.
-- Logo-related details and rules mentioned on page 21.
-- Logo-related details and rules mentioned on page 22.
-- Logo-related details and rules mentioned on page 23.
-- Logo-related details and rules mentioned on page 24.
-- Logo-related details and rules mentioned on page 25.
-- Logo-related details and rules mentioned on page 26.
-- Logo-related details and rules mentioned on page 27.
-- Logo-related details and rules mentioned on page 28.
-- Logo-related details and rules mentioned on page 29.
-- Logo-related details and rules mentioned on page 30.
-- Logo-related details and rules mentioned on page 31.
-- Logo-related details and rules mentioned on page 32.
-- Logo-related details and rules mentioned on page 33.
-- Logo-related details and rules mentioned on page 34.
-- Logo-related details and rules mentioned on page 35.
-- Logo-related details and rules mentioned on page 36.
-
-**Color Information:**
-
-- Color-related details and specifications mentioned on page 6.
-- Color-related details and specifications mentioned on page 11.
-- Color-related details and specifications mentioned on page 12.
-- Color-related details and specifications mentioned on page 13.
-- Color-related details and specifications mentioned on page 16.
-- Color-related details and specifications mentioned on page 20.
-- Color-related details and specifications mentioned on page 23.
-- Color-related details and specifications mentioned on page 26.
-- Color-related details and specifications mentioned on page 30.
-- Color-related details and specifications mentioned on page 33.
-- Color-related details and specifications mentioned on page 36.
-
-**Typography Information:**
-
-- Typography-related details and specifications mentioned on page 7.
-- Typography-related details and specifications mentioned on page 8.
-
-**Imagery Photography:**
-
-- Imagery and photography-related details mentioned on page 13.
-
-**Notes:**
-
-- General notes or references mentioned on page 1.
-- General notes or references mentioned on page 12.
-- General notes or references mentioned on page 37.
+*Guidelines data not available*

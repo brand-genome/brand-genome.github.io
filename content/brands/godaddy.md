@@ -2,11 +2,11 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-03-20T08:22:04.849844"
+date: "2026-04-10T09:40:33.583212"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -55,20 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - wordmark
-  - primary
-  - symbol
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - impact
-imagery_styles:
-  - clean
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: publicly held company that is primarily an internet domain registrar and web hosting company
 wikidata_url: "https://www.wikidata.org/wiki/Q1416215"
 has_twitter: false
@@ -87,40 +77,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The lockup, GoDaddy’s primary logo, includes a wordmark with the trademark (™) symbol. The logo lockup features specific clear space requirements where intruding elements are kept at bay using the 'o' width in the GoDaddy wordmark.
-- Logo minimum size guidelines are specified as 75 inches or 55 pixels.
-- The wordmark is clean and professional, always accompanied by a registered trademark symbol (®) when not paired with the GO.
-- Wordmark minimum size guidelines are specified as 55 inches or 40 pixels.
-- Placement rules specify maximum impact for the logo lockup and wordmark to appear on contrasting colors like black, white, or everyday blue. It should not be placed on images, accents, or textures.
-- Guidelines for incorrect usage of trademarks include not setting the wordmark or logo in text form, not altering or adding elements, not distorting, adding special effects, or using non-approved colors.
-- Legal restrictions prohibit altering GoDaddy’s logo, wordmark, or lockup and mandate adhering to clear space, minimum size guidelines, and approved readability formats.
-
-**Color Information:**
-
-- Recommended colors for the lockup and wordmark include black, white, and everyday blue. Non-approved colors are strictly prohibited.
-
-**Typography Information:**
-
-- No specific font-family or typography-related details are explicitly outlined in the document.
-
-**Imagery Photography:**
-
-- The logo lockup should not appear on images, accents, or textures to preserve its visibility and impact.
-
-**Spacing Layout:**
-
-- Clear space guidelines for the lockup and wordmark are defined using the width of the 'o' in GoDaddy as a guide.
-
-**Brand Voice:**
-
-- The GO symbolizes empowerment and advocacy for entrepreneurs. Messaging reflects positivity, independence, and encouragement, such as 'Do what you love' and similar taglines.
-
-**Notes:**
-
-- The guide outlines the importance of trademark consistency to protect GoDaddy’s identity and mandates adherence to outlined rules. Usage outside these rules is strictly prohibited.
-- For additional resources, the guide refers users to the GoDaddy Asset Manager at gddam.godaddy.com.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-03-20T08:22:05.158619"
+date: "2026-04-10T09:40:34.002581"
 draft: false
 sectors:
   - finance
@@ -50,16 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - brown
-  - gray
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: U.S. investment bank
 wikidata_url: "https://www.wikidata.org/wiki/Q2633403"
 has_twitter: false
@@ -80,35 +74,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- J.P. Morgan logo variations and applications, including dual logos.
-- Logo free space, size, positioning standards, and incorrect use examples.
-- Logo usage guidelines and positioning standards.
-
-**Color Information:**
-
-- Secondary color palette for Asia application, including guidance on sparing use of specialty colors.
-- Don't use PMS 871 or PMS 123 without the presence of PMS 485.
-- Secondary support colors must not be used on their own without primary brown, gray, or blue.
-
-**Typography Information:**
-
-- Font families and typography mentions noted; additional structured details require manual parsing.
-
-**Imagery Photography:**
-
-- Imagery and photography treatment guidelines relevant to regional applications, including Asia.
-- Mood and lighting instructions for photographic images.
-
-**Brand Voice:**
-
-- Messaging tone for the brand with descriptors visible.
-- Key taglines noted for messaging consistency.
-
-**Notes:**
-
-- Multiple details about 'Asia-specific' guidelines, including colors and logos.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Sofitel
 slug: sofitel
 description: ""
-date: "2026-03-20T08:22:04.513362"
+date: "2026-04-10T09:40:33.289442"
 draft: false
 sectors:
   - hospitality
@@ -50,12 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - white
-  - gold
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "building in Munich, Upper Bavaria, Germany"
@@ -80,44 +76,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Minimum size & Protection area
-- Protection area & Positioning
-- Black or White Logo
-- Black or White Logo
-- Master CMYK Gold
-- minimum size & protection area
-- Protection area and Positioning
-- Protection area & Minimum size
-- Black or White Icon
-- Black or White Icon
-
-**Color Information:**
-
-- Colours and Textures
-- or textured backgrounds
-- Brand Textures
-- Colours and textures
-- Sofitel Colours and Textures
-- CMYK K60%
-- Colours and Textures
-- Colours and textures
-- The Logo on coloured or textured backgrounds
-- CMYK gold with volume effect
-
-**Typography Information:**
-
-- Typefaces
-- Fonts
-- Alternative fonts
-- Fonts - Clan
-- Clan Book is only used for body text in cap and lower case.
-- Typefaces
-- NB: OpenType Font format is recommended, because it feautures cross-platform compatibility (the same font ˜le works on Macintosh and Windows computers), and support for greatly expanded character sets
-- and layout features. OpenType fonts are contained within a single .otf ˜le, and can be installed and used along-side PostScript Type 1 and TrueType fonts.
-- Fonts - Dear Joe
-- Typefaces
+*Guidelines data not available*
 
 ## Additional Properties
 

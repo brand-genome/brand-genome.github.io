@@ -2,7 +2,7 @@
 title: Clemson university
 slug: "clemson-university"
 description: ""
-date: "2026-03-20T08:22:04.330374"
+date: "2026-04-10T09:40:33.033470"
 draft: false
 sectors:
   - university
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public university in South Carolina, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q631066"
 has_twitter: false
@@ -74,33 +73,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Details about logo usage, versions, and rules are found.
-
-**Color Information:**
-
-- Information on color palettes, codes, and usage is provided.
-
-**Typography Information:**
-
-- Font families, weights, and typographic elements are outlined.
-
-**Imagery Photography:**
-
-- Details about photography styles, usage rules, and examples.
-
-**Spacing Layout:**
-
-- Guidelines related to document spacing and layout structures.
-
-**Brand Voice:**
-
-- The tone, messaging, and tone of interaction are advised.
-
-**Notes:**
-
-- Additional information across all pages of the document.
+*Guidelines data not available*
 
 ## Additional Properties
 

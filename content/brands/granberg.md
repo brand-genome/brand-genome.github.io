@@ -2,7 +2,7 @@
 title: Granberg
 slug: granberg
 description: ""
-date: "2026-03-20T08:22:05.717426"
+date: "2026-04-10T09:40:34.670767"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -54,18 +54,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.granberg.no](https://www.granberg.no)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*

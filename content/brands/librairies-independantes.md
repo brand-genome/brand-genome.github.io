@@ -2,7 +2,7 @@
 title: Librairies Indépendantes
 slug: "librairies-independantes"
 description: ""
-date: "2026-03-20T08:22:05.570956"
+date: "2026-04-10T09:40:34.491657"
 draft: false
 sectors:
   - "arts-culture"
@@ -46,15 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - horizontal
-brand_colors:
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,22 +68,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The logotype consists of a circular symbol with the brand name 'Librairies Indépendantes' written in True North font. The brand name is placed either below (vertical version) or to the right (horizontal version). The sign, circle, name, and typography are inseparable, and their positioning is non-modifiable.
-- Minimum size requirement for the logotype: the circle must have a diameter of no less than 10 mm.
-- Recommendations specify usage of different logotype versions provided in the communication kit to avoid deterioration.
-- Clear space rule (protection zone): The logotype must have a blank area surrounding it to ensure readability. No graphic elements (typography, signs, photos, illustrations, etc.) are permitted in this area. Clear space is defined mathematically on the layout diagram.
-
-**Typography Information:**
-
-- Font used for the logotype's name: True North, written in capital letters.
-
-**Spacing Layout:**
-
-- The design of the logotype has a precise construction to unify its lines and spacing. Measurements are specified to ensure consistent alignment and proportionality.
-- Protection area around the logotype (white space) for maintaining its clarity and readability. The computations for the area are outlined visually on a layout diagram.
-
-**Notes:**
-
-- The graphic guideline introduces rules for using the collective identity of Librairies Indépendantes, emphasizing careful adherence.
+*Guidelines data not available*

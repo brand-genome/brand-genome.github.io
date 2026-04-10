@@ -2,11 +2,11 @@
 title: Predator
 slug: predator
 description: ""
-date: "2026-03-20T08:22:04.419241"
+date: "2026-04-10T09:40:33.164235"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
@@ -47,24 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - "pantone-185"
-  - white
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - photography
-  - bold
-  - modern
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organism that preys upon and consumes other organisms through various methods of predation
 wikidata_url: "https://www.wikidata.org/wiki/Q29017578"
 has_twitter: false
@@ -83,39 +69,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The Predator logo has two versions: horizontal and vertical. The horizontal logo is the primary logo for product communications; it is ideal for corner placement and communications featuring product photography. The vertical logo serves as an alternative for layouts where the horizontal logo doesn't fit.
-- Clear space requirements for the logo specify a minimum margin of 2x the width of the 'P' in the logo. This space must be free from graphics, photography, typography, other elements, and the edges of the format.
-- Minimum size for the horizontal logo is 30mm (1.25 in.) for print and 72px for digital/broadcast. The vertical logo has a minimum size of 22.8mm (0.9 in.) for print and 52px for digital/broadcast use.
-- Logo is available in two color variations: white for use on black backgrounds (preferred) and black for use on white backgrounds (secondary). Placement on other background colors is not permitted unless pre-approved by Creative Marketing.
-- Do's and Don'ts: Do not stretch, skew, condense, outline, rearrange, rotate, or distort the logo. Additionally, logo colors must not be altered, and effects should not be added. Logos should not be used as patterns or combined into composite logos.
-- Predator logo assets are provided as print files (in black and white process at 76mm wide) and screen files (in black and white RGB).
-
-**Color Information:**
-
-- Primary colors include Predator Red (Pantone 185 C, CMYK: 0/100/92/0, RGB: 237/28/44, HEX: #ED1C2C), Predator Black (Pantone Black, CMYK: 0/0/0/100, RGB: 0/0/0, HEX: #000000), and White (CMYK: 0/0/0/0, RGB: 255/255/255, HEX: #FFFFFF).
-- Predator Red is ideal for product photography backgrounds, while black is ideal for logo backgrounds. White is used primarily for logos and text.
-
-**Typography Information:**
-
-- Primary Typeface: TT Squares. It is a modern, angular typeface complementing the logo design and suited to the gaming aesthetic. It is used in communications such as marketing documents, product sheets, and presentations. Legal copy uses TT Squares Italic.
-- TT Squares weights: Light, Regular, Bold.
-- Backup Typeface: Arial. Used in on-screen communications, Microsoft Office documents, and cases where TT Squares is unavailable.
-
-**Spacing Layout:**
-
-- Both Predator and Acer logos must appear on Predator materials. The Predator logo should have prominence over the Acer logo in placement and size. Examples of vertical and horizontal arrangements are provided.
-- The height of the 'a' in the Acer logo must not exceed the height of the 'P' in the Predator wordmark.
-
-**Brand Voice:**
-
-- Tone of voice pillars: Human (speak directly to gamers with enthusiasm), Aggressive (use strong, combative language emphasizing domination), and Practical (simplify technical benefits for clear, relatable gamer experience).
-
-**Notes:**
-
-- Predator logo is a crucial brand asset that must remain consistent across all applications. Any deviations or new applications must be approved by Creative Marketing.
-- Creative Marketing is available for assistance on guideline application via email: creative.marketing@acer.com.
+*Guidelines data not available*
 
 ## Additional Properties
 

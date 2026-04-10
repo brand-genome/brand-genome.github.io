@@ -2,7 +2,7 @@
 title: Coolbrook
 slug: coolbrook
 description: ""
-date: "2026-03-20T08:22:04.075607"
+date: "2026-04-10T09:40:32.125906"
 draft: false
 sectors:
   - "renewable-energy"
@@ -47,11 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-brand_colors:
-  - "pantone-293"
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "park in Dollard-des-Ormeaux (Quebec, Canada)"
@@ -72,21 +69,54 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- Coolbrook Logo consists of corporate brand elements which are the Wordmark (Coolbrook) and Identification Shape.
+##### Visual Identity Overview
 
-**Color Information:**
+- Coolbrook's visual identity centers on a modern, minimalistic logo featuring a bold, uppercase wordmark and a stylized globe icon, with a primary color palette of Electric Blue. The brand emphasizes clarity, global presence, and professional aesthetics through consistent logo usage, clear space requirements, and supporting color variations [^1].
 
-- Coolbrook Electric Blue: Pantone 293 C, CMYK (C89 M55 Y0 K12), RGB (R13 G74 B242), HEX (#0d4af2).
+#### Categories
 
-**Typography Information:**
+##### Brand Voice
 
-- Typography is listed as a key visual style component. Specifics might be mentioned later in the document.
+- other component parts play an important role in establishing the Coolbrook visual style. These elements are: Colors Typography Imagery Tone of voice
 
-**Spacing Layout:**
+##### Brand Imagery
 
-- Minimum required clear space around the logo is defined as the height of the letter 'O' in the logo's wordmark.
+- The Coolbrook logo is a clear signpost for our brand and our primary visual symbol. However, other component parts play an important role in establishing the Coolbrook visual style. These elements are: Colors Typography Imagery Tone of voice
+- Coolbrook Logo consist of corporate brand elements which are the Wordmark (Coolbrook) and Identification Shape.
+- While our default logo is blue, we can use the Color Reverse version on top of blue box or surface.
+- Use the black version on layouts that are black and white only or in cases that are necessary due the color restrictions.
+- Coolbrook Electric Blue Pantone 293 C CMYK C89 M55 Y0 K12 RGB R13 G74 B242 Hex #0d4af2
+- Clear space is the area that is required around the outside of our logo. It must be kept free of other graphic elements such as headlines, text, images and the outside edge of materials.
+- The minimum required clear space for the logo is defined by the measurement as shown. This measurement is equal to the height of the letter O in the word mark.
+- Consistent usage of our Electric Blue or White logos on our supporting color palette helps build recognition of our brand and ensures our logo is always rendered with proper impact and legibility.
+
+##### Color Palette
+
+- While our default logo is blue, we can use the Color Reverse version on top of blue box or surface.
+- Use the black version on layouts that are black and white only or in cases that are necessary due the color restrictions.
+- Coolbrook Electric Blue Pantone 293 C CMYK C89 M55 Y0 K12 RGB R13 G74 B242 Hex #0d4af2
+- Consistent usage of our Electric Blue or White logos on our supporting color palette helps build recognition of our brand and ensures our logo is always rendered with proper impact and legibility.
+
+##### Logo Usage
+
+- The Coolbrook logo is a clear signpost for our brand and our primary visual symbol. However, other component parts play an important role in establishing the Coolbrook visual style. These elements are: Colors Typography Imagery Tone of voice Coolbrook Logo consist of corporate brand elements which are the Wordmark (Coolbrook) and Identification Shape.
+- While our default logo is blue, we can use the Color Reverse version on top of blue box or surface. Use the black version on layouts that are black and white only or in cases that are necessary due the color restrictions.
+- Coolbrook Electric Blue Pantone 293 C CMYK C89 M55 Y0 K12 RGB R13 G74 B242 Hex #0d4af2
+- Clear space is the area that is required around the outside of our logo. It must be kept free of other graphic elements such as headlines, text, images and the outside edge of materials. The minimum required clear space for the logo is defined by the measurement as shown. This measurement is equal to the height of the letter O in the word mark.
+- Consistent usage of our Electric Blue or White logos on our supporting color palette helps build recognition of our brand and ensures our logo is always rendered with proper impact and legibility.
+
+##### Visual Style
+
+- The Coolbrook logo is a clear signpost for our brand and our primary visual symbol. However, other component parts play an important role in establishing the Coolbrook visual style. These elements are: Colors Typography Imagery Tone of voice
+- Coolbrook Logo consist of corporate brand elements which are the Wordmark (Coolbrook) and Identification Shape.
+- While our default logo is blue, we can use the Color Reverse version on top of blue box or surface.
+- Use the black version on layouts that are black and white only or in cases that are necessary due the color restrictions.
+- Coolbrook Electric Blue Pantone 293 C CMYK C89 M55 Y0 K12 RGB R13 G74 B242 Hex #0d4af2
+- Clear space is the area that is required around the outside of our logo. It must be kept free of other graphic elements such as headlines, text, images and the outside edge of materials.
+- The minimum required clear space for the logo is defined by the measurement as shown. This measurement is equal to the height of the letter O in the word mark.
+- Consistent usage of our Electric Blue or White logos on our supporting color palette helps build recognition of our brand and ensures our logo is always rendered with proper impact and legibility.
 
 ## Additional Properties
 

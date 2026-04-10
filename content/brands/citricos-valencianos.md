@@ -2,11 +2,11 @@
 title: Cítricos Valencianos
 slug: "citricos-valencianos"
 description: ""
-date: "2026-03-20T08:22:05.588661"
+date: "2026-04-10T09:40:34.533806"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - spain
 years:
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.citricosvalencianos.com](https://www.citricosvalencianos.com)
 - [http://www.citricosvalencianos.com](http://www.citricosvalencianos.com)
-
-## Brand Guidelines
-
-### 2016
-
-*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Rush Enterprises
 slug: "rush-enterprises"
 description: ""
-date: "2026-03-20T08:22:04.555067"
+date: "2026-04-10T09:40:33.354526"
 draft: false
 sectors:
   - automobile
@@ -55,8 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: Automotive Company
 wikidata_url: "https://www.wikidata.org/wiki/Q25245312"
 has_twitter: false
@@ -75,98 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-- Logo color guidelines mentioned
-
-**Color Information:**
-
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-- Color-related specifications or codes mentioned
-
-**Typography Information:**
-
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-- Typography guidelines mentioned (e.g., font names, sizes, roles, etc.)
-
-**Imagery Photography:**
-
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-- Photography or imagery style discussed
-
-**Spacing Layout:**
-
-- Spacing or layout rules mentioned
-- Spacing or layout rules mentioned
-- Spacing or layout rules mentioned
-- Spacing or layout rules mentioned
-- Spacing or layout rules mentioned
-- Spacing or layout rules mentioned
-
-**Brand Voice:**
-
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-- Brand voice guidelines or messaging approach discussed
-
-**Notes:**
-
-- Additional guidelines or notes discussed
-- Additional guidelines or notes discussed
-- Additional guidelines or notes discussed
-- Additional guidelines or notes discussed
-- Additional guidelines or notes discussed
-- Additional guidelines or notes discussed
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: The Kavli Foundation
 slug: "the-kavli-foundation"
 description: ""
-date: "2026-03-20T08:22:04.306566"
+date: "2026-04-10T09:40:32.996130"
 draft: false
 sectors:
   - ngo
@@ -51,27 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - lockup
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - "pantone-288"
-  - blue
-  - gray
-  - black
-typographies:
-  - avenir
-  - serif
-imagery_styles:
-  - classic
-  - bold
-  - modern
-  - subtle
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: foundation that supports the advancement of science
 wikidata_url: "https://www.wikidata.org/wiki/Q3441043"
 has_twitter: false
@@ -91,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Clear space/safe zone rules: 'X' clearance is shown around the logo.
-- Alternative versions of the logo are provided for print limitations and small-scale usage, which include a simplified version and the full logo lockup (logomark + logotype).
-- Notes specify that the full logo lockup should always be prioritized, but alternative versions can be used for cases where legibility is compromised due to resolution or scale.
-- The logo is intended to exemplify architectural strength and stability with origins in sacred geometry.
-- Only approved colors and placements for the logo are permitted.
-- When placing the logo on a photograph, it should use a white typeface. If legibility is compromised, the all-white logo should be used, and the background should be modified or changed if necessary.
-- Notes specify that the black logo should only be used where printing restrictions limit colors, and the light gray logo is restricted for subtle use like watermarking.
-
-**Color Information:**
-
-- Primary Colors: PANTONE Red 032 C (HEX: #EF3340, CMYK: C:0, M:90, Y:86, K:0, RGB: R:239, G:51, B:64) and PANTONE 288 C (HEX: #003399, CMYK: C:100, M:94, Y:0, K:23, RGB: R:0, G:33, B:121).
-- Secondary Colors: Palette includes complementary colors identified for the Kavli Sciences, such as PANTONE 3135C, PANTONE 254C, PANTONE 583C, among others.
-- Color usage rules: Primary branding should prioritize the logo on blue backgrounds where applicable. Secondary usage includes the red/blue logo on white backgrounds.
-- Black logo should only be used when a single black ink restriction applies. Light gray is restricted to subtle use cases like watermarking.
-
-**Typography Information:**
-
-- Primary font family: Avenir Next, chosen for its modern update of a classic sans serif style and alignment with the shapes found in the Kavli logo.
-- Font weights and roles: Demi Bold and Bold used for headlines and titles, Medium used for large headlines, titles, and names, Regular and Medium used for body text and subtitles.
-- Italic font specifically for captions, quotes, and accents.
-- Bold Caps and Demi Bold Caps used for labels and subtitles.
-
-**Spacing Layout:**
-
-- Clearance for logo placement uses 'X' measurement for spacing.
-
-**Notes:**
-
-- The Kavli visual identity emphasizes contrast with a bold use of red and blue, aided by a secondary palette highlighting the Kavli Sciences specifically.
-- The sacred geometry inspiration behind the logo conveys focus, energy, discovery, and the fundamental properties of the universe.
-- When placing the logomark on photography, a white logo or all-white logo can be used to enhance visibility, and background modifications may be needed.
+*Guidelines data not available*
 
 ## Additional Properties
 

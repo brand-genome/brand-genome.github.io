@@ -2,11 +2,11 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-03-20T08:22:05.855921"
+date: "2026-04-10T09:40:34.879590"
 draft: false
 sectors:
-  - insurance
   - automobile
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - insurance
 industries:
-  - "road-transport"
-  - "activities-of-other-membership-organisations-nec"
-  - "drivers-education"
-  - "roadside-assistance"
   - "voluntary-sector"
+  - "activities-of-other-membership-organisations-nec"
+  - "roadside-assistance"
+  - "drivers-education"
   - "insurance-industry"
+  - "road-transport"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -58,14 +58,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - yellow
-  - "pantone-116"
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - photography
+imagery_styles: []
 wikidata_description: British motoring association
 wikidata_url: "https://www.wikidata.org/wiki/Q1785352"
 has_twitter: false
@@ -84,42 +79,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- AA Brand Mark Exclusion Zone: Maintain an area free from text or graphics around the brand mark (details provided).
-- Minimum size for the logo mentioned to ensure visibility across platforms.
-- Logo usage guidelines for different applications provided.
-- Examples of when not to use the logo and incorrect usage cases included.
-- Production guidelines for AA logo include formats such as EPS and JPEG.
-
-**Color Information:**
-
-- Pantone 116 yellow, rich black mentioned, alongside usage combinations for color palette.
-- AA color palette highlights importance of consistent and cohesive branding.
-
-**Typography Information:**
-
-- Font specifications clearly mentioned; details include preferred font families and weights.
-- Typesetting and formatting instructions, such as alignment and placing text.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize simplicity, consistency, and high-quality images.
-- Image treatment focuses on adherence to AA branding standards.
-
-**Spacing Layout:**
-
-- Layout principles outlined for creating consistent and balanced designs across materials.
-
-**Brand Voice:**
-
-- AA tone of voice described as reliable, honest, expert, and innovative. Messaging guidelines provided for maintaining tone consistency.
-- Language guidelines highlight rules for capitalization, punctuation, bullet points, product names, and phone numbers.
-
-**Notes:**
-
-- Detailed examples of AA branding applications found in the brochure section.
-- Contact details for AA branding queries, including email and direct line.
+*Guidelines data not available*
 
 ## Additional Properties
 

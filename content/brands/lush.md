@@ -2,7 +2,7 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-03-20T08:22:04.238174"
+date: "2026-04-10T09:40:32.768032"
 draft: false
 sectors:
   - cosmetics
@@ -10,13 +10,13 @@ regions:
   - singapore
   - "united-kingdom"
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - english
 tags:
-  - cosmetics
   - furnitures
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,37 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - green
-  - navy
-  - white
-  - maroon
-  - blue
-  - grey
-  - orange
-  - black
-typographies:
-  - arial
-  - display
-  - din
-imagery_styles:
-  - product
-  - professional
-  - organic
-  - bold
-  - modern
-  - photography
-  - contemporary
-  - clean
-  - geometric
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: band
 wikidata_url: "https://www.wikidata.org/wiki/Q1668512"
 has_twitter: false
@@ -101,690 +74,251 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- 4.1
- 
-THE BRAND SIGNATURE
-SECONDARY TYPEFACE
- 
- 
-font weight is varied depending on usage. 
-Aa
-BbCcDd
-EeFfGg
-HhIiJj
-KkLlMm
-NnOoPp
- 
-QqRrSs
- 
-TtUuVv
-wXxYyZz
+##### Mission
 
-**Color Information:**
+- LUSH is born out of the mission to inspire contemporary styling ideas to individuals who have a keen eye for style and design, with an added touch of functionality. The brand aims to become a household name in contemporary furniture design, offering products that are iconic, recognisable, cutting-edge, functional, and timeless masterpieces [^1].
 
-- 2.1 
- 
-The Brand Colours
-GENERAL COLOURS 
- 
- 
- 
-Staying true to Lush™s brand the goal is to keep in mind that products range from vibrant rainbow bubble bars 
-to earthy-tone face masks. The brand colours must be kept simple so that the colour of the products can stand 
-out. 
- 
- The use of brand colours for the printed and digital logo is as followed, it has been selected for use in signage, 
-web, and catalogs but may vary through packaging. The logo may only be used with a 100% tint. 
-Hex
- 
-#859494
- 
- 
-RGB
- 
-133, 148, 148
- 
- 
-CMYK
- 
-51, 34, 38, 2
- 
- 
-Hex
- 
-#fffcf9
- 
- 
-RGB
- 
-255, 251, 249
- 
- 
-CMYK
- 
-0, 1, 1, 0
- 
- 
-COLOUR 01
- 
-CLEAN SLATE
- 
- 
-COLOUR 02
- 
-SNOW WHITE
- 
- 
-Main Colour | 01 
-Main Colour | 02
-- 2.2 
- 
-The Brand Colours
-ALTERNATIVE COLOURS
- 
- 
-Alternative colours are used through Lush™s brand. Black and White can be used instead of General Colours, 
-and the rest of the colours are based on the colour of each product. A rainbow of colours can be used 
-throughout their packaging changing only one element throughout the logo. These colours have been selected 
-for packaging purposes only and may only be used with a 100% tint.  
-Hex
- 
-#000000
- 
- 
-RGB
- 
-0, 0, 0
- 
- 
-CMYK
- 
-75, 68, 67,90
- 
- 
-Hex
- 
-#f8991d
- 
-RGB
- 
-248, 153, 33
- 
- 
-CMYK
- 
-0, 47, 98,0
- 
- 
-Hex
- 
-#a51f5d
- 
- 
-RGB
- 
-165, 30, 92
- 
- 
-CMYK
- 
-31, 100, 42, 10
- 
- 
-Hex
- 
-# fbb11b
- 
- 
-RGB
- 
-248, 176, 27
- 
- 
-CMYK
- 
-1, 34, 99,0
- 
- 
-Hex
- 
-#FFFFFF
- 
- 
-RGB
- 
-255, 255, 255
- 
- 
-CMYK
- 
-0, 0, 0, 0
- 
-Hex
- 
-#989936
- 
- 
-RGB
- 
-151, 153, 55
- 
- 
-CMYK
- 
-44, 28, 100, 5
- 
-Hex
- 
-#0b5a72
- 
- 
-RGB
-8, 91, 115
- 
- 
-CMYK
-93, 56, 39, 18
- 
-Hex
- 
-#482d7c
- 
- 
-RGB
- 
-72, 45, 125
- 
- 
-CMYK
- 
-89, 100, 16, 
-4
- 
-COLOUR 01
- 
-BLACK BEAUTY
- 
- 
-COLOUR 07
- 
-ORANGE JUICE
- 
- 
-COLOUR 03
- 
-STRAWBERRY PICKING
- 
- 
-COLOUR 05
- 
-Lemonade
- 
- 
-COLOUR 02
- 
-OLAF
- 
- 
-COLOUR 08
- 
-LEA
- 
- 
-COLOUR 04
- 
-OCEAN BLUE
- 
- 
-COLOUR 06
-Royal
- 
- 
-Alternative | 01
-Alternative | 07
-Alternative | 03
-Alternative | 05
-Alternative | 02
-Alternative | 08
-Alternative | 04
-Alternative | 06
-- 2.3
- 
-The Brand Colours
-ALTERNATIVE COLOURS
- 
- 
-Alternative colours are used through Lush™s brand. Black and White can be used instead of General Colours, 
-and the rest of the colours are based on the colour of each product. A neutral colour has been selected for 
-earthy-tone face masks that can be used throughout their packing changing only one element throughout 
-the logo. This colour have been selected for packaging purposes only and may only be used with a 100% tint 
-however the value of this colour maybe changed.  
-Hex
- 
-#b0a193
- 
- 
-RGB
- 
-176, 161, 147
- 
- 
-CMYK
- 
-32, 33, 40, 1
- 
- 
-Hex
- 
-#C0B3A7
- 
-RGB
- 
-191, 179, 167
- 
- 
-CMYK
- 
-26, 26, 32, 0
- 
- 
-Hex
- 
-#b9ac9e
- 
- 
-RGB
- 
-185, 172, 158
- 
- 
-CMYK
- 
-29, 29, 36, 0
- 
-COLOUR 01
- 
-EARTH TONE
- 
- 
-COLOUR 03
- 
-EARTHY TONER
- 
- 
-COLOUR 02
- 
-EARTH TONER
- 
- 
-Alternative | 01
-Alternative | 03
-Alternative | 02
-- 3.2
- 
-THE BRAND SIGNATURE
-PACKAGING EXAMPLES
- 
- 
-The brand™s logo can be presented in both a 
-vertical format and a horizontal format. Either 
-Clean Slate as a background and Snow White 
-for the logo, or Clean Slate for the logo and 
-Snow White for the background. 
- 
- Packaging allows alternative colours to 
-come in based on their name, similar colour 
-schemes will be paired together. This allows 
-the brand to remain neutral while adding a 
-vibrant colour scheme throughout the store.
-LUSH
-ocean salt
-LUSH
-magic crystals
-LUSH
-honey I washed the kids
-shower gel
-- 3.4
- 
-THE BRAND SIGNATURE
-SECONDARY TYPE VERTICAL
- 
- 
-The brand™s logo can be presented in both a 
-vertical format and a horizontal format. Either 
-Clean Slate as a background and Snow White 
-for the logo, or Clean Slate for the logo and 
-Snow White for the background. 
- 
- Packaging allows alternative colours to 
-come in based on their name, similar colour 
-schemes will be paired together. This allows 
-the brand to remain neutral while adding a 
-vibrant colour scheme throughout the store.
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-- 3.5
- 
-THE BRAND SIGNATURE
-SECONDARY TYPE HORIZONTAL
- 
- 
-The brand™s logo can be presented in both a 
-vertical format and a horizontal format. Either 
-Clean Slate as a background and Snow White 
-for the logo, or Clean Slate for the logo and 
-Snow White for the background. 
- 
- Packaging allows alternative colours to 
-come in based on their name, similar colour 
-schemes will be paired together. This allows 
-the brand to remain neutral while adding a 
-vibrant colour scheme throughout the store.
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-Fresh Hand Made Cosmetics
-LUSH
-Fresh Hand Made Cosmetics
+##### Core Values
 
-**Typography Information:**
+- Equality of form and function
+- Individuality and flexibility
+- Providing a peaceful, otherworldly atmosphere for relaxation
+- Captivating presentation
+- Creative inspiration
 
-- 3.8
- 
-THE BRAND SIGNATURE
-Prohibited Treatments
- 
- 
-The brand™s logo is not to be altered in the 
-following ways: 
- 
- - Change of Tints and or Values
- 
- - Condensed Typography
- 
- - Change of Type Face 
- 
- - Change of Orientation
-LUSH
-LUSH
-LUSH
-- 4.0
- 
-THE BRAND SIGNATURE
-OFFICIAL TYPEFACE
- 
- 
-the font weight is bold. 
-A
-BCDEF
-GHIJKL
-MNOPQR
-STUVW
-XYZ
-- 4.1
- 
-THE BRAND SIGNATURE
-SECONDARY TYPEFACE
- 
- 
-font weight is varied depending on usage. 
-Aa
-BbCcDd
-EeFfGg
-HhIiJj
-KkLlMm
-NnOoPp
- 
-QqRrSs
- 
-TtUuVv
-wXxYyZz
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals with a keen eye for style and design, particularly those interested in contemporary furniture and lifestyle, seeking both aesthetic appeal and functionality [^2].
 
-- 1.0 
- 
-Rationale
-mood board imagery and tone
- 
- 
-Lush - Fresh Hand Made Cosmetics. 
- 
- A brand that focuses on values including but 
-not limited to things such as the fresher the 
-ingredient is, the better the effect, 100 percent 
-vegetarian and more than 80 percent are 
-vegan, to source ingredients and packaging, 
-but to also learn about and build close 
-relationships with the land, the human touch, 
-going naked by getting rid of it packaging, 
- 
- A brand that doesn™t necessarily target any 
-care is for everyone.ﬂ The majority of Lush™s 
-advertising is organic. 
- 
- So what better reason than to create a 
-modern symbol that can be used across 
-variations of packaging or just simply 
-embedded on the product than combining 
-classical elements that typically refer to 
-concepts of the earth such as water, air, and 
-using negative space and contrast using a
+##### Personality Traits
 
-**Brand Voice:**
+- Expressive
+- Straightforward
+- Sophisticated
+- Refined
+- Professional
 
-- 1.0 
- 
-Rationale
-mood board imagery and tone
- 
- 
-Lush - Fresh Hand Made Cosmetics. 
- 
- A brand that focuses on values including but 
-not limited to things such as the fresher the 
-ingredient is, the better the effect, 100 percent 
-vegetarian and more than 80 percent are 
-vegan, to source ingredients and packaging, 
-but to also learn about and build close 
-relationships with the land, the human touch, 
-going naked by getting rid of it packaging, 
- 
- A brand that doesn™t necessarily target any 
-care is for everyone.ﬂ The majority of Lush™s 
-advertising is organic. 
- 
- So what better reason than to create a 
-modern symbol that can be used across 
-variations of packaging or just simply 
-embedded on the product than combining 
-classical elements that typically refer to 
-concepts of the earth such as water, air, and 
-using negative space and contrast using a
-- 2.1 
- 
-The Brand Colours
-GENERAL COLOURS 
- 
- 
- 
-Staying true to Lush™s brand the goal is to keep in mind that products range from vibrant rainbow bubble bars 
-to earthy-tone face masks. The brand colours must be kept simple so that the colour of the products can stand 
-out. 
- 
- The use of brand colours for the printed and digital logo is as followed, it has been selected for use in signage, 
-web, and catalogs but may vary through packaging. The logo may only be used with a 100% tint. 
-Hex
- 
-#859494
- 
- 
-RGB
- 
-133, 148, 148
- 
- 
-CMYK
- 
-51, 34, 38, 2
- 
- 
-Hex
- 
-#fffcf9
- 
- 
-RGB
- 
-255, 251, 249
- 
- 
-CMYK
- 
-0, 1, 1, 0
- 
- 
-COLOUR 01
- 
-CLEAN SLATE
- 
- 
-COLOUR 02
- 
-SNOW WHITE
- 
- 
-Main Colour | 01 
-Main Colour | 02
-- 2.3
- 
-The Brand Colours
-ALTERNATIVE COLOURS
- 
- 
-Alternative colours are used through Lush™s brand. Black and White can be used instead of General Colours, 
-and the rest of the colours are based on the colour of each product. A neutral colour has been selected for 
-earthy-tone face masks that can be used throughout their packing changing only one element throughout 
-the logo. This colour have been selected for packaging purposes only and may only be used with a 100% tint 
-however the value of this colour maybe changed.  
-Hex
- 
-#b0a193
- 
- 
-RGB
- 
-176, 161, 147
- 
- 
-CMYK
- 
-32, 33, 40, 1
- 
- 
-Hex
- 
-#C0B3A7
- 
-RGB
- 
-191, 179, 167
- 
- 
-CMYK
- 
-26, 26, 32, 0
- 
- 
-Hex
- 
-#b9ac9e
- 
- 
-RGB
- 
-185, 172, 158
- 
- 
-CMYK
- 
-29, 29, 36, 0
- 
-COLOUR 01
- 
-EARTH TONE
- 
- 
-COLOUR 03
- 
-EARTHY TONER
- 
- 
-COLOUR 02
- 
-EARTH TONER
- 
- 
-Alternative | 01
-Alternative | 03
-Alternative | 02
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is minimalist, modern, and striking, with a focus on geometric forms, clear spacing, and a distinctive logo featuring a split 'S' in icy green. The brand uses a palette of primary and secondary colors, clean typography, and consistent visual style across photography, illustration, and packaging. The overall look is contemporary, elegant, and functional [^3].
 
-- LUSH
-Brand Guidelines
-FRESH HAND MADE cosmetics
+#### Categories
+
+##### Brand Voice
+
+- LUSH engages in conversations that are open, simple yet insightful. Due to the wide range of furniture in our inventory and showcases, we like to let our products speak for themselves.
+- In order to convey our message across quickly, efficiently and clearly, we should remain direct and on the ball, in order to avoid bringing doubt to our potential clients.
+- LUSH approaches its clients in a manner where we sound refined and professional, in addition to conversing with them in a way that they can make an image of what we suggest in a few words.
+
+##### Brand Imagery
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+
+##### Color Palette
+
+- Icy Green Hex: 88BF9C RGB: 136,191,156
+- Turf Green Hex: 337F6C RGB: 51,127,108
+- Dark Grey Hex: 212120 RGB: 33,33,32
+- White Hex: FFFFFF RGB: 255,255,255
+- These are the primary colors for the LUSH identity system. They should hold the highest priority when selecting colors for both online and print applications.
+- An important thing to note is that body text should only use either Dark Grey or White.
+- Royal Maroon Hex: 5E0012 RGB: 94, 0, 18
+- Light Wood Hex: D1C39F RGB: 209,195,159
+- Navy Blue Hex: 1A1f4C RGB: 26, 31, 76
+- Baby Blue Hex: 53B2DB RGB: 83, 178, 219
+- Four secondary colours are available, although they should be used sparingly in cases where there are no more suitable primary colours for use.
+- Please note that they should not be applied for text elements.
+
+##### Typography
+
+- There are two main fonts that are used in the LUSH logo. They consist of Dekar Light and Circle D.
+- Dekar Light must be used for the letters “L”, “U” and “H”.
+- Circle D must be used for the letter “S”.
+- Print: Din-Regular; Web: Arial
+- Header should be in the size of 36 pt and should be in primary colour.
+- Subheader should be in the size of 24 pt.
+- Body text should be in the size of 14 pt.
+- Maintain a clear, uniform and distinguishable amount of spacing between elements to avoid legibility issues and confusion.
+- An important thing to note is that body text should only use either Dark Grey or White.
+- Four secondary colours are available, although they should be used sparingly in cases where there are no more suitable primary colours for use. Please note that they should not be applied for text elements.
+- Color of copy should primarily be in black or white, but in some instances, the LUSH colors may be utilized to add an extra dimension to the image.
+
+##### Logo Usage
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+- Do not stretch or distort it.
+- Do not make it glow.
+- Do not change its colour.
+- The ‘s’ should be unique.
+- Do not use drop shadow.
+- Do not place the logo on messy and inappropriate backgrounds
+
+##### Tone And Messaging
+
+- LUSH engages in conversations that are open, simple yet insightful. Due to the wide range of furniture in our inventory and showcases, we like to let our products speak for themselves.
+- In order to convey our message across quickly, efficiently and clearly, we should remain direct and on the ball, in order to avoid bringing doubt to our potential clients.
+- LUSH approaches its clients in a manner where we sound refined and professional, in addition to conversing with them in a way that they can make an image of what we suggest in a few words.
+- Setting of content should evoke a consistently sophisticated presence.
+- Content should provide a human element to it, be it design-related or functionality.
+- An important platform to display and relay the right message to our target audience, photography plays an integral part in our branding image and display of furniture. Witout the proper and right photography style, the wrong message would be sent to the audience, confusing them with our product and brand image.
+
+##### Brand Values
+
+- LUSH is born out of the mission to inspire contemporary styling ideas to individuals who have a keen eye for style and design, with an added touch of functionality.
+- This inaugural edition of our brand guide will aim to provide a creative insight into marketing our brand as a household name in contemporary furniture design and the incorporation of our products under our name, how we made them to look not only iconic, recognisable and cutting-edge, but also as functional, timeless masterpieces.
+- At LUSH, we like to imagine our products as a pieces of artwork. It helps us to think from different perspectives as designers. We pride ourselves on presenting our merchandise in the best possible manner that will captivate our customers.
+- Throughout our years as a furniture firm, we are always at the forefront of the contemporary design field. Although keeping up with the latest contemporary furniture trend is a necessity, the ability to successfully evoke a myriad of creative thoughts and design possibilities in the minds of our clients is a valued ability that LUSH holds dearly to.
+- Having the balance of a distinctive form and an innovative function is essential to our brand. We believe these two words go hand-hand resulting in a design that is LUSH-worthy.
+- LUSH aims to correct this oversight by providing designs that envelope our customers in an otherworldy atmosphere where they can truly recline in peace.
+- We believe in individuality and flexibility, which we feel should be expressed according to one’s desires.
+
+##### Visual Style
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+
+##### Layout And Composition
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+- Maintain a clear, uniform and distinguishable amount of spacing between elements to avoid legibility issues and confusion.
+- Simple, clear and consistent background colors/images, in line with the general image of LUSH.
+- Full colored photography reflecting the brand direction of LUSH.
+- Subject/Object to stand out or to make a perfect balance with others
+- Setting of content should evoke a consistently sophisticated presence.
+- Content should provide a human element to it, be it design-related or functionality.
 
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- The LUSH logo features a geometric split letter 'S' in an icy green color surrounded by white letters, symbolizing the link between form and function. This logo is simple and straightforward to reflect contemporary furniture offerings.
-- The LUSH logo must only be applied to dark or white backgrounds without other visual interference. Recommended versions include a white/green logo for darker backgrounds and a black/dark green logo for brighter backgrounds.
-- Minimum width of the logo: 20mm. Clear spacing rules: 12mm on all sides of the logo to minimize visual clutter.
-- Logo usage don'ts include: changing its color, stretching or distorting, adding glow or drop shadow, and placing the logo on visually messy or inappropriate backgrounds.
+##### Mission
 
-**Color Information:**
+- LUSH is born out of the mission to inspire contemporary styling ideas to individuals who have a keen eye for style and design, with an added touch of functionality. The brand aims to become a household name in contemporary furniture design, offering products that are iconic, recognisable, cutting-edge, functional, and timeless masterpieces [^1].
 
-- Primary colors include: Icy Green (HEX: #88BF9C, RGB: 136,191,156), Dark Grey (HEX: #212120, RGB: 33,33,32), Turf Green (HEX: #337F6C, RGB: 51,127,108), and White (HEX: #FFFFFF, RGB: 255,255,255). Body text should only use either Dark Grey or White.
-- Secondary colors include: Royal Maroon (HEX: #5E0012, RGB: 94,0,18), Navy Blue (HEX: #1A1F4C, RGB: 26,31,76), Light Wood (HEX: #D1C39F, RGB: 209,195,159), Baby Blue (HEX: #53B2DB, RGB: 83,178,219). These colors should not be applied to text elements and should be used sparingly.
+##### Core Values
 
-**Typography Information:**
+- Equality of form and function
+- Individuality and flexibility
+- Providing a peaceful, otherworldly atmosphere for relaxation
+- Captivating presentation
+- Creative inspiration
 
-- Two typefaces are used for the LUSH logo: Dekar Light letters for 'L', 'U', and 'H'; Circle D for the split letter 'S'.
-- General typefaces for brand usage include Arial and Din-Regular. Arial is specified for web usage, and Din-Regular for print.
-- Typographic style specifications: Headers are sized at 36pt and use primary colors. Subheaders are sized at 24pt. Body text is sized at 14pt. Spacing between elements should be clearly distinguishable to avoid legibility issues and confusion.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals with a keen eye for style and design, particularly those interested in contemporary furniture and lifestyle, seeking both aesthetic appeal and functionality [^2].
 
-- Photography style should use simple, clear, and consistent background colors/images that align with the LUSH brand image. Subjects/objects should either stand out or create perfect balance in photographs.
-- Photography plays an integral role in branding and furniture display, ensuring that it conveys the right message reflecting the product and brand image. Improper style risks audience confusion.
+##### Personality Traits
 
-**Spacing Layout:**
+- Expressive
+- Straightforward
+- Sophisticated
+- Refined
+- Professional
 
-- Spacing rules related to the LUSH logo include a minimum clear space of 12mm around all sides to avoid clutter and maintain visual clarity.
-- Maintain uniform spacing between typography elements to ensure legibility and avoid confusion.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is minimalist, modern, and striking, with a focus on geometric forms, clear spacing, and a distinctive logo featuring a split 'S' in icy green. The brand uses a palette of primary and secondary colors, clean typography, and consistent visual style across photography, illustration, and packaging. The overall look is contemporary, elegant, and functional [^3].
 
-- LUSH tone of voice is expressive (open, simple, and insightful conversations that let products speak for themselves), straightforward (efficient and clear messaging without doubt), and sophisticated (refined and professional language enabling clients to picture recommendations).
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The guidelines emphasize contemporary styling ideas, focusing on designs that are iconic, recognizable, cutting-edge, functional, and timeless while prioritizing individuality and flexibility in design.
+- LUSH engages in conversations that are open, simple yet insightful. Due to the wide range of furniture in our inventory and showcases, we like to let our products speak for themselves.
+- In order to convey our message across quickly, efficiently and clearly, we should remain direct and on the ball, in order to avoid bringing doubt to our potential clients.
+- LUSH approaches its clients in a manner where we sound refined and professional, in addition to conversing with them in a way that they can make an image of what we suggest in a few words.
+
+##### Brand Imagery
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+
+##### Color Palette
+
+- Icy Green Hex: 88BF9C RGB: 136,191,156
+- Turf Green Hex: 337F6C RGB: 51,127,108
+- Dark Grey Hex: 212120 RGB: 33,33,32
+- White Hex: FFFFFF RGB: 255,255,255
+- These are the primary colors for the LUSH identity system. They should hold the highest priority when selecting colors for both online and print applications.
+- An important thing to note is that body text should only use either Dark Grey or White.
+- Royal Maroon Hex: 5E0012 RGB: 94, 0, 18
+- Light Wood Hex: D1C39F RGB: 209,195,159
+- Navy Blue Hex: 1A1f4C RGB: 26, 31, 76
+- Baby Blue Hex: 53B2DB RGB: 83, 178, 219
+- Four secondary colours are available, although they should be used sparingly in cases where there are no more suitable primary colours for use.
+- Please note that they should not be applied for text elements.
+
+##### Typography
+
+- There are two main fonts that are used in the LUSH logo. They consist of Dekar Light and Circle D.
+- Dekar Light must be used for the letters “L”, “U” and “H”.
+- Circle D must be used for the letter “S”.
+- Print: Din-Regular; Web: Arial
+- Header should be in the size of 36 pt and should be in primary colour.
+- Subheader should be in the size of 24 pt.
+- Body text should be in the size of 14 pt.
+- Maintain a clear, uniform and distinguishable amount of spacing between elements to avoid legibility issues and confusion.
+- An important thing to note is that body text should only use either Dark Grey or White.
+- Four secondary colours are available, although they should be used sparingly in cases where there are no more suitable primary colours for use. Please note that they should not be applied for text elements.
+- Color of copy should primarily be in black or white, but in some instances, the LUSH colors may be utilized to add an extra dimension to the image.
+
+##### Logo Usage
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+- Do not stretch or distort it.
+- Do not make it glow.
+- Do not change its colour.
+- The ‘s’ should be unique.
+- Do not use drop shadow.
+- Do not place the logo on messy and inappropriate backgrounds
+
+##### Tone And Messaging
+
+- LUSH engages in conversations that are open, simple yet insightful. Due to the wide range of furniture in our inventory and showcases, we like to let our products speak for themselves.
+- In order to convey our message across quickly, efficiently and clearly, we should remain direct and on the ball, in order to avoid bringing doubt to our potential clients.
+- LUSH approaches its clients in a manner where we sound refined and professional, in addition to conversing with them in a way that they can make an image of what we suggest in a few words.
+- Setting of content should evoke a consistently sophisticated presence.
+- Content should provide a human element to it, be it design-related or functionality.
+- An important platform to display and relay the right message to our target audience, photography plays an integral part in our branding image and display of furniture. Witout the proper and right photography style, the wrong message would be sent to the audience, confusing them with our product and brand image.
+
+##### Brand Values
+
+- LUSH is born out of the mission to inspire contemporary styling ideas to individuals who have a keen eye for style and design, with an added touch of functionality.
+- This inaugural edition of our brand guide will aim to provide a creative insight into marketing our brand as a household name in contemporary furniture design and the incorporation of our products under our name, how we made them to look not only iconic, recognisable and cutting-edge, but also as functional, timeless masterpieces.
+- At LUSH, we like to imagine our products as a pieces of artwork. It helps us to think from different perspectives as designers. We pride ourselves on presenting our merchandise in the best possible manner that will captivate our customers.
+- Throughout our years as a furniture firm, we are always at the forefront of the contemporary design field. Although keeping up with the latest contemporary furniture trend is a necessity, the ability to successfully evoke a myriad of creative thoughts and design possibilities in the minds of our clients is a valued ability that LUSH holds dearly to.
+- Having the balance of a distinctive form and an innovative function is essential to our brand. We believe these two words go hand-hand resulting in a design that is LUSH-worthy.
+- LUSH aims to correct this oversight by providing designs that envelope our customers in an otherworldy atmosphere where they can truly recline in peace.
+- We believe in individuality and flexibility, which we feel should be expressed according to one’s desires.
+
+##### Visual Style
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+
+##### Layout And Composition
+
+- The LUSH logo should only be applied on a primarily dark or white background without any other visual interference, to maximize visibility even from a distance. It is advisable to utilise the white/green logo for darker backgrounds and the black/dark green logo for brighter backgrounds.
+- A clear spacing of 12mm should be maintained on all sides of the logo to minimize visual clutter.
+- The minimum width allowed for all applications of the logo should be no smaller than 20mm.
+- Maintain a clear, uniform and distinguishable amount of spacing between elements to avoid legibility issues and confusion.
+- Simple, clear and consistent background colors/images, in line with the general image of LUSH.
+- Full colored photography reflecting the brand direction of LUSH.
+- Subject/Object to stand out or to make a perfect balance with others
+- Setting of content should evoke a consistently sophisticated presence.
+- Content should provide a human element to it, be it design-related or functionality.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Colorado
 slug: colorado
 description: ""
-date: "2026-03-20T08:22:05.024646"
+date: "2026-04-10T09:40:33.786635"
 draft: false
 sectors:
   - "public-sector"
@@ -49,16 +49,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - badge
-brand_colors:
-  - silver
-  - green
-  - gold
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "city in and county seat of El Paso County, Colorado, United States"
@@ -82,21 +74,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The certification badge features various applications such as reverse application for dark/vivid backgrounds, black and white uses, and paired applications. Clear zone rules specify 'X is equal to the height of the CO inside the peak.' Minimum size is '1/2 inch high, measured from outside the outer circle.' Incorrect usages include disproportionate scaling, prominent placement over primary trademarks, usage as a wordmark or brand name, composite marks, modifying badge elements, and using it as resale merchandise.
-
-**Color Information:**
-
-- The certification badge supports printing in several colors including Pantone 355C (Green) with CMYK breakdown of 'C: 98, M: 12, Y: 100, K: 2,' RGB code '0/149/58,' and HEX '#00953a'. Black is defined using Pantone Black, CMYK 'C: 0, M: 0, Y: 0, K: 100,' RGB '35/31/32,' and HEX '#231f20.' Metallic ink or foil options are available in Gold or Silver. Additional usage guidelines mentioned.
-
-**Spacing Layout:**
-
-- The badge clear zone specifies 'X is equal to the height of the CO inside the peak.' Additional spacing should be maintained beyond the minimum indicated.
-
-**Notes:**
-
-- The document heavily emphasizes certification badge usage, outlining its applications, pairing suggestions for marketing usage, and prohibited practices. Contact information is provided for brand guideline inquiries.
+*Guidelines data not available*
 
 ## Additional Properties
 

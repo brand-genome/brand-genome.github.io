@@ -2,7 +2,7 @@
 title: Dulux
 slug: dulux
 description: ""
-date: "2026-03-20T08:22:03.873450"
+date: "2026-04-10T09:40:31.549063"
 draft: false
 sectors:
   - "consumer-goods"
@@ -17,8 +17,8 @@ tags:
 industries: []
 countries:
   - canada
-  - "united-kingdom"
   - india
+  - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: international paint manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q50921"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [https://www.dulux.co.uk/en](https://www.dulux.co.uk/en)
 - [https://www.dulux.in](https://www.dulux.in)
 - [https://www.dulux.ca](https://www.dulux.ca)
-
-## Brand Guidelines
-
-### 2011
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Wisconsin Union
 slug: "wisconsin-union"
 description: ""
-date: "2026-03-20T08:22:04.157789"
+date: "2026-04-10T09:40:32.477734"
 draft: false
 sectors:
   - education
@@ -47,17 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - signature
-  - wordmark
-  - symbol
-brand_colors:
-  - green
-  - white
-  - black
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: membership organization at the University of Wisconsin–Madison
 wikidata_url: "https://www.wikidata.org/wiki/Q8027342"
@@ -79,38 +71,7 @@ visual_term_image_urls: {}
 
 ### 2003
 
-**Logo Information:**
-
-- The Wisconsin Union logo must appear centered at the bottom or top  of signage materials. Units are not required to display the logo on all signs.
-- Wisconsin Union logo can be applied to merchandise like shirts, mugs, etc. Chairback icon may appear without wordmark, but requires TM symbol.
-- Two-color (green and black) or one-color (black) versions of the logo are preferred for merchandise imprint.
-- Guidelines for correct use of logos include centering them at the bottom of ads or kiosks with white space around them. The logo size, layout treatments, and colors must comply with specified standards.
-- Incorrect usage example of the logo provided on page, highlighting necessary compliance to branding guidelines.
-
-**Color Information:**
-
-- Green (specific shade not mentioned in text) and black for logos on merchandise.
-
-**Typography Information:**
-
-- Stationery uses consistent typography for department name, telephone, and email information in signature block. Custom fonts for specific units require approval.
-
-**Imagery Photography:**
-
-- Imagery must incorporate Wisconsin Union branding concepts through the logo displayed at the top or bottom and unit-specific graphics.
-
-**Spacing Layout:**
-
-- White space surrounding logos to highlight visual clarity in ads or promotional pieces. Logos should ideally appear centered at the bottom.
-
-**Brand Voice:**
-
-- Signage and communications reinforce Wisconsin Union’s identity consistently by using official logos, type treatments, and tagline inclusions where applicable.
-
-**Notes:**
-
-- Merchandise applications emphasize trademark protections and require prior approval from the Wisconsin Union Marketing Department before vendor orders.
-- The document highlights the Wisconsin Union’s registered trademarks and wordmarks as brand proprietary assets.
+*Guidelines data not available*
 
 ## Additional Properties
 

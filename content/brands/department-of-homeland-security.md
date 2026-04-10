@@ -2,7 +2,7 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-03-20T08:22:04.864818"
+date: "2026-04-10T09:40:33.613610"
 draft: false
 sectors:
   - "public-sector"
@@ -55,18 +55,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - secondary
-  - signature
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: United States federal executive department
@@ -95,32 +85,134 @@ visual_term_image_urls: {}
 
 ### 2003
 
-**Logo Information:**
+#### Brand Summary
 
-- The Homeland Security seal and signature consist of two elements: the seal and the wordmark. The seal features a white American eagle in a circular blue field with extended wings, a red inner ring, and an outer white ring with text: 'U.S. DEPARTMENT OF' in the top half and 'HOMELAND SECURITY' in the bottom. The eagle's left claw holds an olive branch with 13 leaves and 13 seeds, while the right claw grasps 13 arrows. The shield on the eagle's breast has 3 divisions representing mountains, plains, and waters, with 22 stars for the original agencies uniting the department.
-- Preferred signature layout includes the wordmark 'Homeland Security' placed to the right of the seal in upper- and lowercase letters in the Monotype version of the Joanna font.
-- Secondary vertical signature, where the wordmark is centered beneath the seal, is used when horizontal space is insufficient.
-- Use of the seal alone is reserved for special applications like lapel pins or podium signs.
-- Clear space around the signature is equal to the height of the uppercase 'H' in the word 'Homeland' at the reproduced size.
-- Minimum size requirements: The signature should be sized so that the seal's diameter or height is never less than 3/8 inch.
-- Incorrect usage includes altering the layout, using non-approved fonts, changing the colors, stretching/distorting, or adding non-approved elements.
+##### Mission
 
-**Color Information:**
+- The seal and signature of the U.S. Department of Homeland Security were created to embody our mission and values. As the public representation of our department, it must be reproduced with care and precision. Consistent reproduction across all types of applications will reinforce our mission and result in greater awareness of the Department of Homeland Security [^1].
 
-- Primary color palette includes colors specified for reproduction consistency. Includes descriptions of seal color usage.
-- Signature color variations displayed, detailing full-color, grayscale, and single-color applications. Includes color usage restrictions.
+##### Core Values
 
-**Typography Information:**
+- strength
+- peace
+- unity
+- care
+- precision
+- trust
+- clarity
+- directness
+- focus
+- impact
+- modernity
+- non-bureaucratic government
+- simplified communication
+- unification
 
-- Homeland Security wordmark uses the Monotype version of the Joanna font. It has been specifically tailored with custom kerning and placement.
+##### Target Audience
 
-**Spacing Layout:**
+- State and local entities, the general public, and bureaus/agencies with high visibility and interaction with the public [^2].
 
-- Clear space is defined as the height of the uppercase 'H' in the word 'Homeland' as reproduced. This isolates the signature from distracting elements.
+##### Personality Traits
 
-**Notes:**
+- authoritative
+- professional
+- trustworthy
+- unified
+- clear
+- modern
+- non-bureaucratic
 
-- For any questions regarding the seal and signature usage, the Office of Public Affairs of the U.S. Department of Homeland Security must be contacted.
+##### Visual Identity Overview
+
+- The visual identity centers on a graphically styled American eagle seal, a wordmark set in Joanna MT typeface, and a consistent color palette (Homeland Security Blue, Gray, Green, Light Blue, Red). The design emphasizes clearspace, minimum size, and strict logo usage rules to ensure legibility, impact, and trust. The overall style is formal, minimalistic, and authoritative, with careful attention to color, typography, and layout [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- The seal and signature of the U.S. Department of Homeland Security were created to embody our mission and values. As the public representation of our department, it must be reproduced with care and precision. Consistent reproduction across all types of applications—print materials, presentations, advertisements, websites, signage and even stationery—will reinforce our mission and result in a greater awareness of the Department of Homeland Security. This manual explains the elements of the seal, the signature and the basic specifications for reproduction, including color specifications and size requirements. Examples of distortions and misuses to avoid have also been included. Please make use of these guidelines and the approved digital artwork when reproducing the Homeland Security seal and signature.
+- The Homeland Security signature is made up of two elements—the seal and the wordmark.
+- The words “Homeland Security” are placed to the right of the seal and set in upper-and lowercase letters. The words have been set in the Monotype version of the font Joanna. Each letter has been carefully drawn and placed. Use only the approved digital artwork files and never typeset, recreate or alter the seal or signature. Any change will cause inconsistencies, lessening the impact and compromising the trust of the Homeland Security seal and signature.
+- The preferred signature lockup shown previously should be used in all applications whenever possible. If there is insufficient horizontal space, an alternate lockup that is vertically oriented can be used. In this lockup, the wordmark is centered underneath the seal, as shown in the exhibit below.
+- The alternate signature lockup should be used only when the preferred lockup cannot be reproduced accurately.
+- Use of the seal alone is reserved for special instances such as lapel pins or podium signs.
+- As with the preferred version of the signature, always use the approved digital artwork.
+- To ensure the prominence and legibility of the Homeland Security signature, always surround it with a minimum amount of clearspace. This clearspace isolates the signature from competing graphic elements, such as text, photography or background patterns, that may divert attention from the signature. As shown in the exhibit below, the clearspace for the signature is equal to the height of the uppercase letter “H” in the word “Homeland” in the size at which the signature is reproduced.
+- The Homeland Security signature can be used in a wide variety of sizes, but when it is sized too small, legibility is reduced and its impact is diminished. The minimum size is determined by the diameter of the seal. In printed material, the signature should not be reproduced with the seal smaller than .625" in diameter.
+- The Homeland Security signature should be reproduced in full color— Homeland Security Blue, Gray, Green, Light Blue, and Red—whenever possible. These colors are equivalent to the PANTONE numbers listed in the table below. For 4-color process printing, refer to the CMYK values shown. For on-screen applications (video, broadcast), refer to the RGB Video values specified. For Web applications, refer to the RGB Web values.
+- The colors shown throughout this manual have not been evaluated by Pantone, Inc., for accuracy and may not match the PANTONE® Color Standards. Please refer to the current edition of the Pantone color formula guide. PANTONE® is a registered trademark of Pantone, Inc.
+- The preferred version of the Homeland Security signature is the full-color positive signature. This version should be used for all applications whenever possible. Signature artwork is available in spotcolor (PANTONE), 4-color process (CMYK) and RGB Video and RGB Web versions. These color variations also apply to the alternate signature.
+- If reproduction is limited to one color, signatures in Homeland Security Blue with a tint and black with a tint are available. When the signature is placed on a dark background color or photograph, use the reverse versions of the signature.
+- When reproduction methods cannot accommodate color tints, use the signature variations shown below. The variations include a 1-color blue, a 1-color black and full reverses without tints.
+- A special use signature has been created for certain reproduction methods such as foil stamping, engraving, etching and embossing. In this signature, the white areas of the seal are transparent. Use of this signature is limited to these special applications only.
+- White is the most effective background on which to reproduce the full-color Homeland Security signature because it provides the colors with a clean, crisp contrast. The reverse version of the full-color signature can also be used with Homeland Security Blue and a 75% tint of black as background colors.
+- If the full-color signature appears on light backgrounds or photographs, there must always be sufficient contrast between the background or photograph and the signature colors. If the signature is being placed on a background or photograph where the full-color signature will be illegible, use one of the reverse signatures.
+- Incorrect use of the Homeland Security signature can compromise its integrity and effectiveness. Shown below is a small and by no means comprehensive sample of possible misuses.
+- To ensure accurate and consistent reproduction of the signature, always use the approved digital artwork. Never alter, add to or recreate the Homeland Security signature.
+- Do not change the arrangement of the preferred signature lockup.
+- Do not change the arrangement of the alternate signature lockup.
+- Do not change the color of the wordmark or seal.
+- Do not re-typeset or outline the wordmark.
+- Do not place the seal within a shape.
+- Do not distort the seal or wordmark.
+- Do not use the full-color signature with the color background showing through the seal.
+
+##### Color Palette
+
+- The Homeland Security signature should be reproduced in full color— Homeland Security Blue, Gray, Green, Light Blue, and Red—whenever pos-sible.These colors are equivalent to the PANTONE numbers listed in the table below. For 4-color process printing, refer to the CMYK values shown. For on-screen applications (video, broadcast), refer to the RGB Video values specified. For Web applications, refer to the RGB Web values.
+- The PANTONE and CMYK values provided can be used on both coated and uncoated paper when printing. Although variations in color will occur, try to match the colors as closely as possible.
+- The colors shown throughout this manual have not been evaluated by Pantone, Inc., for accuracy and may not match the PANTONE® Color Standards. Please refer to the current edition of the Pantone color formula guide. PANTONE® is a registered trademark of Pantone, Inc.
+- Homeland Security Blue: Pantone® 2955 C, CMYK: 100, 45, 0, 37; RGB Video: 0, 47, 128; RGB Web: 0, 51, 102.
+- Homeland Security Gray: Pantone® Cool Gray 6 C, CMYK: 0, 0, 0, 28; RGB Video: 176, 177, 179; RGB Web: 153, 153, 153.
+- Homeland Security Red: Pantone® 187 C, CMYK: 0, 100, 79, 20; RGB Video: 165, 0, 33; RGB Web: 204, 0, 51.
+- Homeland Security Light Blue: Pantone® 307 C, CMYK: 100, 16, 0, 27; RGB Video: 0, 112, 178; RGB Web: 0, 102, 153.
+- Homeland Security Green: Pantone® 370 C, CMYK: 56, 0, 100, 27; RGB Video: 89, 134, 0; RGB Web: 51, 153, 0.
+- Do not change the color of the wordmark or seal.
+- White is the most effective background on which to reproduce the full-color Homeland Security signature because it provides the colors with a clean, crisp contrast. The reverse version of the full-color signature can also be used with Homeland Security Blue and a 75% tint of black as background colors.
+- If the full-color signature appears on light backgrounds or photographs, there must always be sufficient contrast between the background or photograph and the signature colors. If the signature is being placed on a background or photograph where the full-color signature will be illegible, use one of the reverse signatures.
+- Do not use the full-color signature with the color background showing through the seal.
+
+##### Typography
+
+- Typography plays a major role in shaping a brand.To help create a consistent look and feel for all Homeland Security communications, one typeface— Joanna MT—is preferred.This typeface has been chosen to complement the look of the Homeland Security wordmark.
+- When Joanna MT is not available on your computer, you may substitute Times New Roman for Joanna MT.
+- The words “Homeland Security” are placed to the right of the seal and set in upper-and lowercase letters. The words have been set in the Monotype version of the font Joanna. Each letter has been carefully drawn and placed. Use only the approved digital artwork files and never typeset, recreate or alter the seal or signature. Any change will cause inconsistencies, lessening the impact and compromising the trust of the Homeland Security seal and signature.
+- Do not re-typeset or outline the wordmark.
+
+##### Visual Style
+
+- The Homeland Security signature is made up of two elements—the seal and the wordmark.
+- A graphically styled white American eagle appears in a circular blue field. The eagle’s outstretched wings break through an inner red ring into an outer white ring that contains a circular placement of the words “U.S. DEPARTMENT OF” in the top half and “HOMELAND SECURITY” in the bottom half. The outer white ring has a silvery gray border. As in The Great Seal, the eagle’s left claw holds an olive branch with 13 leaves and 13 seeds while the right claw grasps 13 arrows.
+- Centered on the eagle’s breast is a shield divided into three sections containing elements that represent the homeland “from sea to shining sea.” The top element, a dark blue sky, contains 22 stars representing the original 22 agencies and bureaus that have come together to form the department. The left shield element contains white mountains behind a green plain underneath a light blue sky. The right shield element contains four wave shapes representing the oceans, lakes and waterways alternating light and dark blue separated by white lines.
+- The words “Homeland Security” are placed to the right of the seal and set in upper- and lowercase letters. The words have been set in the Monotype version of the font Joanna. Each letter has been carefully drawn and placed. Use only the approved digital artwork files and never typeset, recreate or alter the seal or signature. Any change will cause inconsistencies, lessening the impact and compromising the trust of the Homeland Security seal and signature.
+- The preferred signature lockup shown previously should be used in all applications whenever possible. If there is insufficient horizontal space, an alternate lockup that is vertically oriented can be used. In this lockup, the wordmark is centered underneath the seal, as shown in the exhibit below.
+- The alternate signature lockup should be used only when the preferred lockup cannot be reproduced accurately.
+- Use of the seal alone is reserved for special instances such as lapel pins or podium signs.
+- As with the preferred version of the signature, always use the approved digital artwork.
+
+##### Layout And Composition
+
+- The Homeland Security signature is made up of two elements—the seal and the wordmark.
+- The words “Homeland Security” are placed to the right of the seal and set in upper- and lowercase letters. The words have been set in the Monotype version of the font Joanna. Each letter has been carefully drawn and placed. Use only the approved digital artwork files and never typeset, recreate or alter the seal or signature. Any change will cause inconsistencies, lessening the impact and compromising the trust of the Homeland Security seal and signature.
+- The preferred signature lockup shown previously should be used in all applications whenever possible. If there is insufficient horizontal space, an alternate lockup that is vertically oriented can be used. In this lockup, the wordmark is centered underneath the seal, as shown in the exhibit below.
+- The alternate signature lockup should be used only when the preferred lockup cannot be reproduced accurately.
+- Use of the seal alone is reserved for special instances such as lapel pins or podium signs.
+- As with the preferred version of the signature, always use the approved digital artwork.
+- To ensure the prominence and legibility of the Homeland Security signature, always surround it with a minimum amount of clearspace. This clearspace isolates the signature from competing graphic elements, such as text, photography or background patterns, that may divert attention from the signature. As shown in the exhibit below, the clearspace for the signature is equal to the height of the uppercase letter “H” in the word “Homeland” in the size at which the signature is reproduced.
+- The Homeland Security signature can be used in a wide variety of sizes, but when it is sized too small, legibility is reduced and its impact is diminished. The minimum size is determined by the diameter of the seal. In printed material, the signature should not be reproduced with the seal smaller than .625" in diameter.
+- Incorrect use of the Homeland Security signature can compromise its integrity and effectiveness. Shown below is a small and by no means comprehensive sample of possible misuses.
+- To ensure accurate and consistent reproduction of the signature, always use the approved digital artwork. Never alter, add to or recreate the Homeland Security signature.
+- Do not change the arrangement of the preferred signature lockup.
+- Do not change the arrangement of the alternate signature lockup.
+- Do not change the color of the wordmark or seal.
+- Do not re-typeset or outline the wordmark.
+- Do not place the seal within a shape.
+- Do not distort the seal or wordmark.
+- Do not use the full-color signature with the color background showing through the seal.
+
+##### Brand Values
+
+- The seal and signature of the U.S. Department of Homeland Security were created to embody our mission and values.
 
 ## Additional Properties
 

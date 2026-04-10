@@ -2,7 +2,7 @@
 title: Hope Air
 slug: "hope-air"
 description: ""
-date: "2026-03-20T08:22:05.842056"
+date: "2026-04-10T09:40:34.858866"
 draft: false
 sectors:
   - ngo
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - ngo
-  - transport
   - airline
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,17 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - "pantone-2925"
-  - "pantone-299"
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - vibrant
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,18 +71,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The Hope Air logo includes a primary logo in a horizontal variation, which is suitable for online and print materials, especially for space-saving layouts such as a website header. There is also a version with a tagline for uses requiring descriptive text.
-- Incorrect usage examples include disproportionate scaling of the logo, use on busy or low-contrast backgrounds where the logo becomes unclear or not visible.
-- Clear space around the logo must be maintained, requiring a 0.2x safe zone on all sides of the logo. The safe zone ratio is represented as fractions of the logo's size.
-
-**Color Information:**
-
-- The core brand palette includes two primary blue colors (Pantone 2925 C and 299 U) and a strong, vibrant secondary palette. The colors represent energy and positivity in Hope Air's brand.
-- Primary blue (Pantone 2925 C): HEX #188FCB, RGB 24 143 203.
-- Secondary blue (Pantone 299 U): Values are partially visible.
-
-**Notes:**
-
-- The document serves as a visual identity guideline for the Hope Air brand, detailing components like logo, color palette, typography, and image usage.
+*Guidelines data not available*

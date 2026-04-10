@@ -2,7 +2,7 @@
 title: The Touch Union
 slug: "the-touch-union"
 description: ""
-date: "2026-03-20T08:22:04.202777"
+date: "2026-04-10T09:40:32.565588"
 draft: false
 sectors:
   - sports
@@ -46,13 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - orange
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,30 +68,4 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Standard logos with light and orange keylines, straps. Includes light keyline main logo, orange keyline secondary logo, secondary logo with strap.
-
-**Color Information:**
-
-- References to orange color for logo keylines; details not explicitly mentioned.
-
-**Typography Information:**
-
-- No typography details were explicitly stated in the extracted content.
-
-**Imagery Photography:**
-
-- No explicit details about imagery or photography guidelines were found.
-
-**Spacing Layout:**
-
-- No explicit details about spacing, grids, or layout guidelines were found.
-
-**Brand Voice:**
-
-- Mentions 'Tone of Voice' but no further details; it may link back to being welcoming (e.g., use of 'WELCOME TO THE SQUAD').
-
-**Notes:**
-
-- General audience target includes 'YOUNG PROFESSIONALS', 'ALL GENDERS', and '14-35 STUDENTS'. Encourages an inviting tone for the brand.
+*Guidelines data not available*

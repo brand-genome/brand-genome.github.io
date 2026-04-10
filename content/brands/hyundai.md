@@ -2,7 +2,7 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-03-20T08:22:04.681099"
+date: "2026-04-10T09:40:33.397031"
 draft: false
 sectors:
   - automobile
@@ -10,19 +10,19 @@ regions:
   - usa
   - "south-korea"
 years:
-  - 2011
   - 2016
+  - 2011
   - 2002
 languages:
   - english
 tags:
-  - transport
   - corporate
+  - transport
 industries:
   - "automotive-industry"
 countries:
-  - "south-korea"
   - germany
+  - "south-korea"
 revenue_buckets:
   - "UNDER-1M"
 operating_income_buckets:
@@ -33,8 +33,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
   - car
+  - truck
 products: []
 headquarters_locations:
   - seoul
@@ -60,24 +60,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - logomark
-  - symbol
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-  - badge
-brand_colors:
-  - silver
-  - gold
-  - grey
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: South Korean multinational automaker
 wikidata_url: "https://www.wikidata.org/wiki/Q55931"
 has_twitter: false
@@ -255,61 +241,326 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The Hyundai logo consists of a symbol and a wordmark presented together as a lockup. The horizontal logo is preferred, with a vertical version available for restricted layouts. The symbol can appear alone in very limited circumstances.
-- The minimum horizontal logo width is 20mm. The protection zone for the horizontal logo is derived from the symbol height (H = height of symbol).
-- The minimum vertical logo width is 27mm. The protection zone for the vertical logo is also derived from the symbol height (H = height of symbol).
-- The minimum width for the symbol-only version is 5mm.
-- Color versions of the logo include Hyundai Blue (preferred for most applications), black (for newspaper print or debossing), and Hyundai Gold (for premium enhancements). Logos can also be reversed for dark backgrounds.
-- Incorrect logo usages: Do not use the logo on busy or dark backgrounds, distort the logo, add outlines, combine with unofficial taglines, recreate or modify proportions, shapes, or colors, or use in low-resolution formats.
+##### Visual Identity Overview
 
-**Color Information:**
+- Hyundai's visual identity centers on the consistent use of its 2-D logo, which includes a symbol and a wordmark presented together as a lockup. The horizontal version is preferred, with strict guidelines for protection zones, minimum sizes, and permitted color versions (Hyundai Blue, Hyundai Gold, black, and white). The logo must not be modified, distorted, or used with unofficial taglines or other typefaces. The brand emphasizes a clean, modern, and professional aesthetic with ample white space and minimalistic layouts, ensuring clarity and strong brand recognition in all applications [^1].
 
-- Color versions of the logo include Hyundai Blue (preferred), black (for certain print contexts), and Hyundai Gold (for premium uses).
+#### Categories
 
-**Spacing Layout:**
+##### Logo Usage
 
-- Horizontal logo protection zone is determined by the height of the symbol, ensuring optimal brand representation.
-- Vertical logo protection zone is determined by the height and width of the symbol for consistent brand presentation.
+- All Hyundai marketing communication uses the 2-D logo, which consists of a symbol and a word mark. Both elements are presented together as a lockup. The horizontal version is preferred.
+- A vertical version of the Hyundai logo is available for situations in which the standard horizontal version cannot be used. This version may only be used with permission.
+- The symbol may appear alone but only in very limited circumstances. This includes applications in which the symbol appears within a Hyundai communication context (e.g., a website or internal collateral item) or in which the full logo already appears elsewhere (e.g., merchandise).
+- The Hyundai horizontal logo version is preferred. It consists of a symbol and a word mark and appears as a lockup.
+- The horizontal and vertical dimensions of the protection zone area are derived from the symbol height. A protective zone ensures optimal brand representation.
+- The minimum horizontal logo width is 20mm
+- A vertical Hyundai logo version is also available. Like the horizontal variant, it consists of a symbol and a wordmark and is presented as a lockup.
+- The protection zone helps communicate our brand in the most effective way possible. Its specifications are derived from the height and width of the symbol.
+- The minimum vertical logo width is 12mm
+- The minimum symbol width is 6mm
 
-**Notes:**
+##### Color Palette
 
-- The document frequently emphasizes maintaining the integrity of the logo and following usage guidelines strictly.
+- The Hyundai Blue version is the preferred version for most applications; can be used on a white background or on an image; can be used reversed on dark backgrounds when Hyundai Blue is part of the composition or layout.
+- The black version should only be used for newspaper print or for enhancements such as debossing.
+- The Hyundai Gold version is reserved for premium enhancements only.
+- Do not use any other colors besides Hyundai Blue, Hyundai Gold, black, or white
+
+##### Visual Style
+
+- All Hyundai marketing communication uses the 2-D logo, which consists of a symbol and a word mark. Both elements are presented together as a lockup. The horizontal version is preferred.
+- A vertical version of the Hyundai logo is available for situations in which the standard horizontal version cannot be used. This version may only be used with permission.
+- The symbol may appear alone but only in very limited circumstances. This includes applications in which the symbol appears within a Hyundai communication context (e.g., a website or internal collateral item) or in which the full logo already appears elsewhere (e.g., merchandise).
+- The Hyundai horizontal logo version is preferred. It consists of a symbol and a word mark and appears as a lockup.
+- The horizontal and vertical dimensions of the protection zone area are derived from the symbol height. A protective zone ensures optimal brand representation.
+- The minimum horizontal logo width is 20mm
+- A vertical Hyundai logo version is also available. Like the horizontal variant, it consists of a symbol and a wordmark and is presented as a lockup.
+- The protection zone helps communicate our brand in the most effective way possible. Its specifications are derived from the height and width of the symbol.
+- The minimum vertical logo width is 12mm
+- The minimum symbol width is 6mm
+- The Hyundai Blue version is the preferred version for most applications; can be used on a white background or on an image; can be used reversed on dark backgrounds when Hyundai Blue is part of the composition or layout.
+- The black version should only be used for newspaper print or for enhancements such as debossing.
+- The Hyundai Gold version is reserved for premium enhancements only.
+- The integrity of the logo must be respected at all times. Always use the proper version of the logo, and never recreate or modify it in any way.
+- Modifications of proportions, shapes, or colors are not permitted.
+- Do not use the logo in a low-resolution format
+- Do not use the logo on an image with a busy or dark background
+- Do not use any other colors besides Hyundai Blue, Hyundai Gold, black, or white
+- Do not use the logo with outlines
+- Do not distort the logo
+- Do not change the element proportions within the lockup
+- Do not add any unofficial taglines, product strap lines, or other descriptors to the logo
+- Do not use any other typeface for the logo
+- Do not use the symbol with any other text content
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Hyundai brand logos are mentioned, including the Hyundai Brand Logo and the Hyundai Chrome Logomark.
-- Model-specific badge logos are available for download under each model’s section of HyundaiAdPlanner.com.
+##### Mission
 
-**Color Information:**
+- To strengthen the Hyundai brand and elevate the company into the ranks of the world’s most-admired and respected automakers, building confidence and trust in Hyundai as a reliable, quality-oriented and technology-driven company [^1].
 
-- Hyundai Blue is the main corporate color. It has been identified as: PMS 288 (Pantone), CMYK: C-100%, M-67%, Y-0%, K-23%, RGB: R-0, G-48, B-130.
-- Supporting colors include Silver: Pantone PMS 877 (CMYK: C-47%, M-37%, Y-36%, K-2%, RGB: R-143, G-143, B-140) and Gold: Pantone PMS 872 (CMYK: C-20%, M-30%, Y-70%, K-15%, RGB: R-140, G-115, B-74).
-- Grey scale and dark grey colors are also listed: Pantone PMS 421, PMS 7534, PMS 425, etc. with corresponding CMYK and RGB values. These colors serve as a primary supporting color palette for large graphic elements or backgrounds to create a refined impression.
+##### Core Values
 
-**Typography Information:**
+- reliability
+- quality
+- technology-driven
+- trust
+- harmony
+- consistency
+- uniformity
 
-- A section dedicated to typefaces is mentioned for specific typography usage across layouts, headlines, and general text specifications.
+##### Target Audience
 
-**Spacing Layout:**
+- Customers and business partners worldwide, as well as members of the Hyundai family, including employees and professionals [^2].
 
-- The need for layout consistency across promotional, poster, and outdoor mediums is emphasized. Common mistakes and an example of proper layout are specified.
+##### Personality Traits
 
-**Brand Voice:**
+- trustworthy
+- dynamic
+- harmonious
+- professional
+- consistent
 
-- Maintaining graphic continuity is crucial for protecting the brand image. Guidelines highlight the careful application of corporate logos, typefaces, and visual treatments to ensure branding consistency.
-- Specific guidelines for multicultural advertising and efforts to apply consistent graphic standards to market-specific needs.
+##### Visual Identity Overview
 
-**Notes:**
+- Hyundai's visual identity centers on a corporate symbol (stylized 'H' in an oval) representing trust and harmony, a consistent logotype, a defined color palette (HMC Blue, Silver, Gold, Light Gray, Dark Gray), and the Univers typeface. The guidelines emphasize clarity, consistency, and strict rules for logo usage, color, and typography across all applications [^3].
 
-- Contact information for visual applications and logo access is provided. Contact: Tim Maxwell, Hyundai Motor America, 10550 Talbert Avenue, P.O. Box 20850, Fountain Valley, CA 92728-0850, Email: tmaxwell@hmausa.com.
-- Instruction for obtaining assets such as corporate logos and model-specific badge logos via HyundaiAdPlanner.com.
-- The Corporate Color Palette is aligned with Hyundai Motor Company's global themes for the American market. Emphasis on consistency in usage for advertising across all communications.
+#### Categories
+
+##### Brand Imagery
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Color Palette
+
+- Corporate Color Palette
+- Hyundai Motor Company’s color system plays an important part in symbolizing Hyundai Motor Company and is used throughout various print materials. Therefore it is crucial that it is used according to the rules.
+- Of the colors that symbolize Hyundai Motor Company, the standard color is HMC Blue, with the optional HMC Silver, HMC Gold, HMC Light Gray and HMC Dark Gray. The color system is made up of the four color process (CMYK) print, as well as silver and gold. Always follow the rules in the PATONE® Color Formula Guide, and adhere to the four color breakdown shown on this page.
+- Do not use non-approved colors.
+- All corporate colors must be visually matched to the PANTONE R or 3M color chips.
+- All corporate colors must be visually matched to the PANTONE R color chips.
+- White, Silver/ HMC Blue or similar colors are recommended for body colors. Only use the CD-Rom data included in this manual.
+- Channel signs must be white when on a dark colored building, and HMC Blue when on a light colored building.
+- On Silk Printing HMC Silver(Pantone 877C) On Digital Printing HMC Light Grey(BK 30%)
+- Note : Please use 3M film 3M 3630-121 (PMS 877C) / 3M 3630-157(PMS 288C) for illuminated signs.
+
+##### Typography
+
+- The Hyundai Motor Company typeface “Univers” compliments and well suits the corporate symbol and logotype. “Univers” is to be used consistently when inscribing various descriptors such as office name and distributor name to increase and strengthen Hyundai Motor Company’s unified image.
+- * The Corporate Typeface has been altered from “Helvetica” & “Times roman” to “Univers”.
+- Typography Name : Univers Bold / 13 pt/ Condensed 95% Division & Position : Univers Medium/ 7 pt/ Condensed 95% Company Name : Univers Bold/ 9 pt/ Condensed 95% Address : Univers Medium / 7pt / Condensed 95%
+- Letterhead Typography Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95% Facsimile Form Typography Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95%
+- Typography-Small size Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95% URL: Univers Medium / 8pt / Condensed 95% Typography-Medium size Company name : Univers Bold / 11 pt /Condensed 95% Address: Univers Medium/ 10pt / Condensed 95% URL: Univers Medium/ 10pt/ Condensed 95% Typography-Large size Company name : Univers Bold / 13pt/ Condensed 95% 0 Address: Univers Medium/ 12pt/ Cond ensed 95% URL: Univers Medium/ 11pt/ Condens ed95%
+- Dealer name : Univers Bold/ Condensed 90%
+- Typography Illuminated sign : Fluorescent light Dealer name : Univers Bold/ Condensed 90%
+- Dealer name: Univers Bold/ Condensed 90%
+- Typography Dealer name: Univers Bold/ Condensed 90%
+- Typography : Univers Bold / Condensed 90%
+- Dealer Name: Univers Bold/ Condensed 90%
+
+##### Logo Usage
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Visual Style
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Layout And Composition
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Iconography
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
 
 ### 2002
+
+#### Brand Summary
+
+##### Mission
+
+- To strengthen the Hyundai brand and elevate the company into the ranks of the world’s most-admired and respected automakers, building confidence and trust in Hyundai as a reliable, quality-oriented and technology-driven company [^1].
+
+##### Core Values
+
+- reliability
+- quality
+- technology-driven
+- trust
+- harmony
+- consistency
+- uniformity
+
+##### Target Audience
+
+- Customers and business partners worldwide, as well as members of the Hyundai family, including employees and professionals [^2].
+
+##### Personality Traits
+
+- trustworthy
+- dynamic
+- harmonious
+- professional
+- consistent
+
+##### Visual Identity Overview
+
+- Hyundai's visual identity centers on a corporate symbol (stylized 'H' in an oval) representing trust and harmony, a consistent logotype, a defined color palette (HMC Blue, Silver, Gold, Light Gray, Dark Gray), and the Univers typeface. The guidelines emphasize clarity, consistency, and strict rules for logo usage, color, and typography across all applications [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Color Palette
+
+- Corporate Color Palette
+- Hyundai Motor Company’s color system plays an important part in symbolizing Hyundai Motor Company and is used throughout various print materials. Therefore it is crucial that it is used according to the rules.
+- Of the colors that symbolize Hyundai Motor Company, the standard color is HMC Blue, with the optional HMC Silver, HMC Gold, HMC Light Gray and HMC Dark Gray. The color system is made up of the four color process (CMYK) print, as well as silver and gold. Always follow the rules in the PATONE® Color Formula Guide, and adhere to the four color breakdown shown on this page.
+- Do not use non-approved colors.
+- All corporate colors must be visually matched to the PANTONE R or 3M color chips.
+- All corporate colors must be visually matched to the PANTONE R color chips.
+- White, Silver/ HMC Blue or similar colors are recommended for body colors. Only use the CD-Rom data included in this manual.
+- Channel signs must be white when on a dark colored building, and HMC Blue when on a light colored building.
+- On Silk Printing HMC Silver(Pantone 877C) On Digital Printing HMC Light Grey(BK 30%)
+- Note : Please use 3M film 3M 3630-121 (PMS 877C) / 3M 3630-157(PMS 288C) for illuminated signs.
+
+##### Typography
+
+- The Hyundai Motor Company typeface “Univers” compliments and well suits the corporate symbol and logotype. “Univers” is to be used consistently when inscribing various descriptors such as office name and distributor name to increase and strengthen Hyundai Motor Company’s unified image.
+- * The Corporate Typeface has been altered from “Helvetica” & “Times roman” to “Univers”.
+- Typography Name : Univers Bold / 13 pt/ Condensed 95% Division & Position : Univers Medium/ 7 pt/ Condensed 95% Company Name : Univers Bold/ 9 pt/ Condensed 95% Address : Univers Medium / 7pt / Condensed 95%
+- Letterhead Typography Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95% Facsimile Form Typography Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95%
+- Typography-Small size Company name : Univers Bold / 8.5pt / Condensed 95% Address: Univers Medium/ 7.5pt/ Condensed 95% URL: Univers Medium / 8pt / Condensed 95% Typography-Medium size Company name : Univers Bold / 11 pt /Condensed 95% Address: Univers Medium/ 10pt / Condensed 95% URL: Univers Medium/ 10pt/ Condensed 95% Typography-Large size Company name : Univers Bold / 13pt/ Condensed 95% 0 Address: Univers Medium/ 12pt/ Cond ensed 95% URL: Univers Medium/ 11pt/ Condens ed95%
+- Dealer name : Univers Bold/ Condensed 90%
+- Typography Illuminated sign : Fluorescent light Dealer name : Univers Bold/ Condensed 90%
+- Dealer name: Univers Bold/ Condensed 90%
+- Typography Dealer name: Univers Bold/ Condensed 90%
+- Typography : Univers Bold / Condensed 90%
+- Dealer Name: Univers Bold/ Condensed 90%
+
+##### Logo Usage
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Visual Style
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Layout And Composition
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
+
+##### Iconography
+
+- The corporate symbol is the most important visual factor of Hyundai Motor Company’s identity. Clarity and consistency of Hyundai Motor Company’s symbol is essential to the successful implementation of the Hyundai corporate identity system. Hyundai Motor Company’s symbol is never to be altered from the examples in this manual.
+- Only use the CD-ROM data included in this manual. When unable to use the provided data, precisely reconstruct the corporate symbol using the grid shown below.
+- The corporate symbol should be formed according to the rules without any change in color or shape in order to maintain its original image. Some examples of unacceptable modifications and incorrect use are illustrated in the eight misapplications below.
+- A. Do not alter the ratio of length and width of the symbol.
+- B. Do not alter the length of the symbol.
+- C. Do not alter the thickness of the symbol.
+- D. Do not reproduce in outline.
+- E. Do not reproduce with graphic effect, which may reduce the visibility of the symbol.
+- F. Do not use non-approved colors.
+- G. Do not outline the symbol on a dark background.
+- H. Do not use the symbol on complicated patterns or images, which may reduce the visibility of the symbol.
 
 ## Additional Properties
 
@@ -319,7 +570,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
 | Foundation Date | [1967](/foundation_dates/1967/) |
 | Member Of | Open Automotive Alliance, Linux Foundation |

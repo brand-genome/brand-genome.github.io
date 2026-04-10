@@ -2,7 +2,7 @@
 title: The Garment People
 slug: "the-garment-people"
 description: ""
-date: "2026-03-20T08:22:04.001601"
+date: "2026-04-10T09:40:31.951940"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -53,9 +53,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -63,9 +63,3 @@ visual_term_image_urls: {}
 
 - [https://www.thegarmentpeople.com](https://www.thegarmentpeople.com)
 - [http://www.thegarmentpeople.com](http://www.thegarmentpeople.com)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*

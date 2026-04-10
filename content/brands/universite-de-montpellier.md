@@ -2,7 +2,7 @@
 title: Université de Montpellier
 slug: "universite-de-montpellier"
 description: ""
-date: "2026-03-20T08:22:05.867590"
+date: "2026-04-10T09:40:34.902724"
 draft: false
 sectors:
   - university
@@ -13,10 +13,10 @@ years:
 languages:
   - french
 tags:
-  - university
   - institution
-  - education
   - featured
+  - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,8 +51,7 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - oswald
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -72,30 +71,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- RESSOURCES > LOGOS
-- RESSOURCES > LOGOS_textile.ai
-
-**Typography Information:**
-
-- RESSOURCES > FONTS > Oswald
-
-**Notes:**
-
-- Raw text extracted from page 1.
-- Raw text extracted from page 4.
-- Raw text extracted from page 16.
-- Raw text extracted from page 22.
-- Raw text extracted from page 24.
-- Raw text extracted from page 26.
-- Raw text extracted from page 28.
-- Raw text extracted from page 29.
-- Raw text extracted from page 32.
-- Raw text extracted from page 34.
-- Raw text extracted from page 36.
-- Raw text extracted from page 38.
-- Raw text extracted from page 40.
-- Raw text extracted from page 42.
-- Raw text extracted from page 44.
-- Raw text extracted from page 46.
+*Guidelines data not available*

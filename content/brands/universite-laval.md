@@ -2,7 +2,7 @@
 title: Université Laval
 slug: "universite-laval"
 description: ""
-date: "2026-03-20T08:22:05.719806"
+date: "2026-04-10T09:40:34.673166"
 draft: false
 sectors:
   - education
@@ -73,3 +73,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2018
+
+*Guidelines data not available*

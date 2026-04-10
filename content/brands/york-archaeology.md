@@ -2,7 +2,7 @@
 title: York Archaeology
 slug: "york-archaeology"
 description: ""
-date: "2026-03-20T08:22:03.875481"
+date: "2026-04-10T09:40:31.555647"
 draft: false
 sectors:
   - ngo
@@ -48,20 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - silver
-  - "pantone-287"
-  - "pantone-8001"
-  - grey
-  - blue
-  - gray
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,39 +71,70 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Visible descriptions of logos including 'Landscape logo diapostive', 'Revs Your Heart/Blue', and isolation rules for combination, ratios of colors, etc.
-- Examples of logo usage combinations including Yamaha Racing and Factory Racing logos, speed blocks, and restrictions at national levels.
-- bLU cRU branding guidelines and logo elements, including proper usage and proportions relative to the Yamaha Racing logo.
-- Approved promotional usage of logos including minimum size recommendations for embroidery of bLU cRU logos.
+##### Mission
 
-**Color Information:**
+- Ideas that work.
 
-- Primary Yamaha Racing colors: Racing Blue (Pantone 287, CMYK 100/90/0/0) and Silver (Pantone 8001 EC). Grey and other accent colors mentioned.
-- bLU cRU Blue detailed with CMYK 100C/90M, PMS 287C, RGB values provided alongside Black and Gray accent colors.
-- Erroneous color adjustments to logos, emphasizing standards for CMYK, RGB, and blue background requirements.
+##### Core Values
 
-**Typography Information:**
+- excitement
+- trust
+- innovation
 
-- Rules for the bLU cRU logo typography emphasizing capitalization of specific letters. Fonts cited include proportional designs.
-- Incorrect usage examples include altering font elements, proportions, or placement within the design.
+##### Target Audience
 
-**Imagery Photography:**
+- Not explicitly stated, but implied to be modern, professional, and technology-oriented individuals or businesses.
 
-- Examples for imagery treatment including the use of Racing Blue for contextual alignment with Yamaha branding.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- innovative
+- trustworthy
+- exciting
 
-- Minimum spacing and isolation rules around the bLU cRU and Yamaha Racing logos specified for optimal impact.
-- Rules specifying spacing between logos and elements, maintaining proportions and isolation zones for visibility.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- Akyanpay's visual identity centers on a clean, minimalistic, and contemporary style. The logo features a stylized lowercase 'a' with a gradient from pink to orange, bold sans-serif typography, and ample clear space. The color palette includes vibrant pinks, oranges, and light neutrals, and the primary typefaces are Univia Pro for titles and Ubuntu for body text. The brand emphasizes clarity, professionalism, and visual excitement through its logo, typography, and color choices.
 
-- Messaging guidelines for proper representation of the Yamaha Racing brand values aligning with the corporate message.
-- Guidelines for tone and voice related to Yamaha Racing promotional communications, including storytelling elements.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Raw text review highlights promotional aspects, isolation rules, colors codes, and erroneous usage examples.
-- Notes mentioning embroidery restrictions on logos under a minimum size to ensure legibility and reproduction standards.
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+- Akyanpay symbol is the shorthand signifier of the brand. It’s the small ‘a’ with nice eye catching graident color.
+- This master logo is our preferred logo and should be used whenever possible.
+
+##### Color Palette
+
+- HEX #E94E34
+- HEX #D4155B
+- RGB 212 21 91
+- CMYK 10 98 40 0
+- RGB 233 78 52
+- CMYK 0 80 81 0
+- RGB 230 233 245
+- CMYK 11 7 0 0
+- HEX #E6E9F5
+
+##### Typography
+
+- Our primary typeface is the “Univia Pro” family of fonts, using regular weight to provide contrast.
+- Ubuntu Family should be used for all body, and paragraph, in more functional roles, while the Univia Pro Family should be used when trying to convey emotion or make a big statement and all the titles.
+- Primary Univia Pro Family
+- Secondary Ubuntu Family
+
+##### Logo Usage
+
+- This master logo is our preferred logo and should be used whenever possible.
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+
+##### Visual Style
+
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+- This master logo is our preferred logo and should be used whenever possible.
+- Akyanpay symbol is the shorthand signifier of the brand. It’s the small ‘a’ with nice eye catching graident color.

@@ -2,7 +2,7 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-03-20T08:22:05.520014"
+date: "2026-04-10T09:40:34.410849"
 draft: false
 sectors:
   - "public-sector"
@@ -50,16 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - pink
-  - black
-typographies:
-  - script
-  - roboto
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Federal territory and capital city of Malaysia
 wikidata_url: "https://www.wikidata.org/wiki/Q1865"
 has_twitter: false
@@ -80,33 +74,129 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Variations of the logo shown include primary brand mark with no shadow effects, and usage on light and dark backgrounds.
-- Clear space (safe zone) for the logo is defined by 'X', which equals the cap height of the lowercase letters. Both height and width are the same. The pink area surrounding the logo must remain free of other elements.
-- Minimum size requirements are specified: 30mm minimum height for logo use.
-- Incorrect logo usage includes resizing, changing fonts other than TitilliumText22L (250wt), squishing, squashing, or disproportionate resizing.
+##### Mission
 
-**Color Information:**
+- To position Kuala Lumpur as the top-of-mind destination for exciting and diverse urban experiences, delivered through world-class infrastructure and services, differentiating the city from other major cities in the region and providing a platform for consistent communication and recognisable brand ownership in marketing materials [^1].
 
-- Color specifications for branding include: PROCESS: C0 M0 Y0 K100, SCREEN: R35 G31 B32, WEB: HTML #231f20
-- Color specifications for branding include: PROCESS: C24 M0 Y0 K38, SCREEN: R127 G158 B173, WEB: HTML #7F9EAD
+##### Core Values
 
-**Typography Information:**
+- excitement
+- surprise
+- enticement
+- contrasts
+- diversity
 
-- Primary font for logotype/logo wording: TitilliumText22L (250wt). Usage includes stationery, website design, brochures, and general correspondence. Font weights include Thin, Light, Regular, Semibold, Bold, and Black, with italicized styles available.
-- TitilliumText22L should highlight the tagline; for example, it is used within 'exciting, surprising, enticing'.
-- Additional font for the positioning line: Matura MT Script Capitals, used for lines such as 'A City of Contrasts & Diversity'.
-- Roboto family is used for body text and general use cases. It consists of four styles: Condensed, Light, Regular, and Bold, to be used in forms of stationery, website text, and brochures.
+##### Target Audience
 
-**Spacing Layout:**
+- Visitors seeking a variety of attractions including culture, heritage, shopping, entertainment, nature, adventure, luxury travel, sports, business, medical, wellness, and education, with an emphasis on both tourists and competitive business travelers [^2].
 
-- The safe zone surrounding the logo is marked by a pink area that must remain free of elements. The measurement 'X' is derived from the lowercase letter cap height.
+##### Personality Traits
 
-**Notes:**
+- exciting
+- surprising
+- enticing
 
-- The brand is identified with a tagline 'A City of Contrasts & Diversity', emphasizing Kuala Lumpur as a destination of various attractions, experiences, and ethnic diversity.
-- The metallic visual finish of the KL brand reflects the city's heritage as a tin mining center, symbolizing stability and consistency.
+##### Visual Identity Overview
+
+- The visual identity features a mix of historic and modern architectural imagery, metallic and chrome-style typography, a contemporary and elegant style, and a color palette emphasizing metallic silvers, blues, and contrasting backgrounds. The brandmark and logo usage are strictly regulated for consistency, with clear space and proportional resizing rules, and the primary typeface is TitilliumText22L, supported by Roboto for body text [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- Grey stripped area indicates Safe Zone. Other graphical and visual elements can be safely positioned up to the adjoining Pink area.
+- Pink indicates Clear Space. The pink area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement 'X' (equal to the height of the lowercase letters, known as the 'cap-height'. The width is equal to the height.)
+- To ensure your brandmark is not the victim of aesthetic vandalism, the general rule to abide by is: do not change, alter, modify any part of the brand.
+- Do not resize or change the position of the brandmark.
+- Do not use any other font, no matter how close it might look to TitilliumText22L (250wt)
+- Do not use squish or squash the logo. Any resizing must be in proportion.
+
+##### Color Palette
+
+- PROCESS CO MO YO K100 SCREEN R35 G31 B32 WEB HTML#231f20
+- PROCESS C24 MO YO K38 SCREEN R127 G158 B173 WEB HTML #7F9EAD
+
+##### Typography
+
+- TitilliumText22L (250wt) is the primary font used for the logotype/logo wording.
+- It can also be used as the standard when stronger emphasis is needed, such as in: stationery, website design, brochures and all forms of general correspondance.
+- The first font styles used for the logo is TitilliumText22L family.
+- The TitilliumText22L family consists of 6 typeface widths: Thin, Light, Regular, Semibold, Bold and Black. each sets comes with Italic characters as well.
+- The huge variety of font weights and widths will ensure immenense flexibility, and consistency for the future growth of the KUALA LUMPUR identity.
+- The TitilliumText22L is used to highlight the tag-line. 'exciting ■ surprising ■ enticing'
+- Matura MT Script Capitals is used to highlight the positioning line. 'A City of Contrasts & Diversity'
+- Roboto family is to be used for all other forms of standard body text, ranging from: stationery, website design, brochures and all forms of general correspondance.
+- The Roboto family consists of 4 typeface widths: Condensed, Light, Ragular and Bold
+- Do not use any other font, no matter how close it might look to TitilliumText22L (250wt)
+
+##### Logo Usage
+
+- Grey stripped area indicates Safe Zone. Other graphical and visual elements can be safely positioned up to the adjoining Pink area.
+- Pink indicates Clear Space. The pink area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement 'X' (equal to the height of the lowercase letters, known as the 'cap-height'. The width is equal to the height.)
+- TitilliumText22L (250wt) is the primary font used for the logotype/logo wording.
+- Do not change, alter, modify any part of the brand.
+- Do not resize or change the position of the brandmark.
+- Do not use any other font, no matter how close it might look to TitilliumText22L (250wt)
+- Do not use squish or squash the logo. Any resizing must be in proportion.
+- PROCESS CO MO YO K100 SCREEN R35 G31 B32 WEB HTML#231f20
+- PROCESS C24 MO YO K38 SCREEN R127 G158 B173 WEB HTML #7F9EAD
+
+##### Tone And Messaging
+
+- KUALA LUMPUR exciting ■ surprising • enticing
+- A City of Contrasts & Diversity
+- KUALA LUMPUR menarik • menakjubkan • menawan Penuh Kontras & Variasi
+
+##### Brand Values
+
+- To deliver KL’s vision to be the top-of-mind destination for exciting and diverse urban experiences, delivered through world-class infrastructure and services, KL needs a World-class positioning – a positioning that reflects the KL Brand and its core values, unique attributes and combined into a distinct visitor promise.
+- A Brand positioning for KL will streamline the task of marketing the city to increase tourist arrivals and as a competitive business destination. It will provide a platform for consistency in communication. A visual identity to support the branding will create a recognisable brand ownership in communication materials.
+- KUALA LUMPUR menarik, menakjubkan , menawan 3enuh _ontras &, /ariasi
+- KUALA LUMPUR exciting ■ surprising • enticing Citg of Contrasts & iversitg
+- KUALA LUMPUR menarik • menakjubkan • menawan Penuh Kontras & Variasi
+- KUALA LUMPUR exciting • surprising • enticing A City of Contrasts & Diversity
+
+##### Visual Style
+
+- Grey stripped area indicates Safe Zone. Other graphical and visual elements can be safely positioned up to the adjoining Pink area.
+- Pink indicates Clear Space. The pink area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement 'X' (equal to the height of the lowercase letters, known as the 'cap-height'. The width is equal to the height.)
+- TitilliumText22L (250wt) is the primary font used for the logotype/logo wording.
+- It can also be used as the standard when stronger emphasis is needed, such as in: stationery, website design, brochures and all forms of general correspondance.
+- The first font styles used for the logo is TitilliumText22L family.
+- The TitilliumText22L family consists of 6 typeface widths: Thin, Light, Regular, Semibold, Bold and Black. each sets comes with Italic characters as well.
+- The huge variety of font weights and widths will ensure immenense flexibility, and consistency for the future growth of the KUALA LUMPUR identity.
+- The TitilliumText22L is used to highlight the tag-line. 'exciting ■ surprising ■ enticing'
+- Matura MT Script Capitals is used to highlight the positioning line. 'A City of Contrasts & Diversity'
+- Roboto family is to be used for all other forms of standard body text, ranging from: stationery, website design, brochures and all forms of general correspondance.
+- The Roboto family consists of 4 typeface widths: Condensed, Light, Ragular and Bold
+- PROCESS CO MO YO K100 SCREEN R35 G31 B32 WEB HTML#231f20
+- PROCESS C24 MO YO K38 SCREEN R127 G158 B173 WEB HTML #7F9EAD
+- To ensure your brandmark is not the victim of aesthetic vandalism, the general rule to abide by is: do not change, alter, modify any part of the brand.
+- Do not resize or change the position of the brandmark.
+- Do not use any other font, no matter how close it might look to TitilliumText22L (250wt)
+- Do not use squish or squash the logo. Any resizing must be in proportion.
+- 160mm KUALA LUMPUR exciting • surprising ■ enticing
+- 130mm KUALA LUMPUR exciting • surprising • enticing
+- 80mm KUALA LUMPUR exciting • surprising • enticing Citg of Contrasts & iversitg
+- 30mm KUALA LUMPUR exciting • surprising • enticing A Citg of Contrasts & iversitg
+
+##### Layout And Composition
+
+- Grey stripped area indicates Safe Zone. Other graphical and visual elements can be safely positioned up to the adjoining Pink area.
+- Pink indicates Clear Space. The pink area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement 'X' (equal to the height of the lowercase letters, known as the 'cap-height'. The width is equal to the height.)
+- Do not resize or change the position of the brandmark.
+- Do not use squish or squash the logo. Any resizing must be in proportion.
+- 160mm KUALA LUMPUR exciting • surprising ■ enticing
+- 130mm KUALA LUMPUR exciting • surprising • enticing
+- 80mm KUALA LUMPUR exciting • surprising • enticing Citg of Contrasts & iversitg
+- 30mm KUALA LUMPUR exciting • surprising • enticing A Citg of Contrasts & iversitg
+- MINIMUM SIZE
 
 ## Additional Properties
 

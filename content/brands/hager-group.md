@@ -2,11 +2,11 @@
 title: Hager Group
 slug: "hager-group"
 description: ""
-date: "2026-03-20T08:22:04.415196"
+date: "2026-04-10T09:40:33.158080"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - germany
 years:
@@ -78,33 +78,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Details about logo usage, versions, dimensions, etc., are described within these pages.
-
-**Color Information:**
-
-- Descriptions of color codes, gradients, and brand-specific palettes are found on these pages.
-
-**Typography Information:**
-
-- Typography guidelines, font sizes, weights, and roles are described across the listed pages.
-
-**Imagery Photography:**
-
-- Imagery styles, mood and composition guidelines, as well as specific photographic treatments are addressed on these pages.
-
-**Spacing Layout:**
-
-- Spacing, grid systems, formats, padding, and alignment rules are covered within these pages.
-
-**Brand Voice:**
-
-- No specific 'brand voice' guidelines were detailed explicitly in the pages processed.
-
-**Notes:**
-
-- General notes or uncategorized guidelines spanning multiple branding outputs.
+*Guidelines data not available*
 
 ## Additional Properties
 

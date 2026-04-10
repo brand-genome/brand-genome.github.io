@@ -2,7 +2,7 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-03-20T08:22:05.563239"
+date: "2026-04-10T09:40:34.479111"
 draft: false
 sectors:
   - utilities
@@ -54,17 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - black
-typographies:
-  - arial
-  - georgia
-imagery_styles:
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Norwegian airport operator
 wikidata_url: "https://www.wikidata.org/wiki/Q791050"
 has_twitter: false
@@ -85,41 +78,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Clear space (spacing around the logo) is defined for various use cases (e.g., centrally positioned, corner positioning, logos with adjacent text). Minimum clear space examples are illustrated.
-- Minimum logo size requirements are detailed for smaller formats and exceptions.
-- Logo color guidelines specifying when to use full color, black, or reversed versions.
-- Guidelines for logo placement when used with other logos or design elements.
-- Examples and explanations of incorrect logo usage.
-
-**Color Information:**
-
-- Primary color scheme with defined Pantone, CMYK, RGB, and HEX values for seamless branding.
-- Guidelines for color usage in backgrounds and specific contexts.
-- Color weighting rules that emphasize which colors should dominate various media formats.
-
-**Typography Information:**
-
-- Primary typeface is Avinor Sans, defined for headlines and clean layout formats.
-- Secondary typefaces for print: Kepler, and digital: Arial and Georgia, with details on their contextual usages.
-- Typography guidelines for formats including subtitles, uppercase headlines, and spacing.
-
-**Imagery Photography:**
-
-- Guidelines on image style such as incorporating personal, emotional, and curiosity-arousing visuals.
-- Rules for integrating the dot-connect symbol in supergraphics and other visuals.
-- Focus on quality printing materials, semi-matte finishes, and tactile visual effects.
-
-**Spacing Layout:**
-
-- Detailed layout specifications for logo positioning in central, corner, and other asymmetric formats.
-- Examples showcasing typographic alignment and clean visual layouts in board designs.
-- Spacing examples for integrating the logo alongside other text and design elements in constrained layouts.
-
-**Notes:**
-
-- The branding guidelines emphasize consistent visual application across all media, with restrictions and clear expectations.
+*Guidelines data not available*
 
 ## Additional Properties
 

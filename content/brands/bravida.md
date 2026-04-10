@@ -2,19 +2,19 @@
 title: Bravida
 slug: bravida
 description: ""
-date: "2026-03-20T08:22:04.073090"
+date: "2026-04-10T09:40:32.118070"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - sweden
 years:
   - 2018
 languages: []
 tags:
-  - industry
   - featured
+  - industry
 industries: []
 countries:
   - denmark
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q10434929"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [https://www.bravida.dk](https://www.bravida.dk)
 - [http://www.bravida.se](http://www.bravida.se)
 - [http://www.linkedin.com/company/bravida](http://www.linkedin.com/company/bravida)
-
-## Brand Guidelines
-
-### 2018
-
-*Guidelines data not available*
 
 ## Additional Properties
 

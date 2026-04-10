@@ -2,19 +2,19 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-03-20T08:22:04.005648"
+date: "2026-04-10T09:40:31.962155"
 draft: false
 sectors:
   - automobile
 regions:
   - japan
 years:
+  - 2013
   - 2009
   - 2021
-  - 2013
 languages:
-  - french
   - english
+  - french
 tags:
   - featured
   - transport
@@ -37,22 +37,22 @@ total_equity_buckets:
   - "OVER-1T"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "et-cetera"
   - "garden-tool"
-  - car
-  - engine
-  - truck
-  - robot
-  - "electrical-generator"
-  - airplane
   - motorcycle
+  - "electrical-generator"
+  - truck
+  - engine
+  - "et-cetera"
+  - robot
+  - car
+  - airplane
 products: []
 headquarters_locations:
   - minato
 subsidiaries: []
 foundation_dates:
-  - 1946
   - 1948
+  - 1946
 foundation_year_buckets:
   - 1940S
 lightings: []
@@ -72,20 +72,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-brand_colors:
-  - red
-  - white
-  - "pantone-186"
-  - black
-typographies:
-  - helvetica
-  - arial
-  - avenir
-imagery_styles:
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "manufacturer of automobiles, motorcycles, and power equipment"
 wikidata_url: "https://www.wikidata.org/wiki/Q9584"
 has_twitter: false
@@ -119,53 +109,360 @@ visual_term_image_urls: {}
 
 ### 2021
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To create products and relationships that enrich everyday life, encouraging customers to engage with the brand through the call to action 'Start something special.' [^1].
+
+##### Core Values
+
+- innovation
+- engagement
+- enrichment
+- friendliness
+
+##### Target Audience
+
+- Individuals and families seeking modern, reliable vehicles and engaging brand experiences [^2].
+
+##### Personality Traits
+
+- friendly
+- modern
+- versatile
+- clean
+
+##### Visual Identity Overview
+
+- The visual identity features a clean, modern style with a consistent use of light blue and white color palette, rounded rectangles, and the Avenir Next Rounded typeface. The Honda logo is prominently used, and layouts are balanced and visually appealing, emphasizing clarity and approachability [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+
+##### Brand Imagery
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Typography
+
+- Typography-Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- The brand font can be purchased here: http://www.fonts.com/font/linotype/avenir-next-rounded#product_top
+- If Avenir Next Rounded is not available, please use Avenir.
+- Honda headline in Avenir Next Rounded Demi.
+- A Honda subhead should differ in size or weight from other type.
+- Body copy should be set in Avenir Next Rounded Regular.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Headline Text: Avenir Next Rounded Demi -32 pt
+- Subhead: Avenir Next Rounded Medium -13 pt
+- Body Copy: Avenir Next Rounded Regular-9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+- Headline Text: Avenir Next Rounded Demi
+- Subhead: Avenir Next Rounded Medium
+
+##### Logo Usage
+
+- Logo -The logo is our instantly recognizable brand signature.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Tone And Messaging
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headline Text: Avenir Next Rounded Demi -32 pt since the time-out. Subhead: Avenir Next Rounded Medium -13 pt Body Copy: Avenir Next Rounded Regular-9.25/13 pt Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+
+##### Brand Values
+
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+
+##### Visual Style
+
+- Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- A rounded corner treatment adds a clean, finished look to the visual style.
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in. W x .6725 in. H
+
+##### Layout And Composition
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- The Honda logo is a mandatory branding element and is a recognizable brand signature.
+##### Mission
 
-**Typography Information:**
+- To create products and relationships that enrich everyday life, encouraging customers to engage with the brand through the call to action 'Start something special.' [^1].
 
-- Avenir Next Rounded font is noted for a friendly tone, excellent readability, and versatility across communications. If unavailable, use Avenir.
+##### Core Values
 
-**Spacing Layout:**
+- innovation
+- engagement
+- enrichment
+- friendliness
 
-- Design includes rounded corner treatments to add a clean, finished look.
+##### Target Audience
 
-**Brand Voice:**
+- Individuals and families seeking modern, reliable vehicles and engaging brand experiences [^2].
 
-- The tagline 'Start something special' acts as both a call to action for customers and a reminder to enrich everyday life.
+##### Personality Traits
+
+- friendly
+- modern
+- versatile
+- clean
+
+##### Visual Identity Overview
+
+- The visual identity features a clean, modern style with a consistent use of light blue and white color palette, rounded rectangles, and the Avenir Next Rounded typeface. The Honda logo is prominently used, and layouts are balanced and visually appealing, emphasizing clarity and approachability [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+
+##### Brand Imagery
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Typography
+
+- Typography-Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- The brand font can be purchased here: http://www.fonts.com/font/linotype/avenir-next-rounded#product_top
+- If Avenir Next Rounded is not available, please use Avenir.
+- Honda headline in Avenir Next Rounded Demi.
+- A Honda subhead should differ in size or weight from other type.
+- Body copy should be set in Avenir Next Rounded Regular.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Headline Text: Avenir Next Rounded Demi -32 pt
+- Subhead: Avenir Next Rounded Medium -13 pt
+- Body Copy: Avenir Next Rounded Regular-9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+- Headline Text: Avenir Next Rounded Demi
+- Subhead: Avenir Next Rounded Medium
+
+##### Logo Usage
+
+- Logo -The logo is our instantly recognizable brand signature.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Tone And Messaging
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headline Text: Avenir Next Rounded Demi -32 pt since the time-out. Subhead: Avenir Next Rounded Medium -13 pt Body Copy: Avenir Next Rounded Regular-9.25/13 pt Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+
+##### Brand Values
+
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+
+##### Visual Style
+
+- Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- A rounded corner treatment adds a clean, finished look to the visual style.
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in. W x .6725 in. H
+
+##### Layout And Composition
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
 
 ### 2009
 
-**Logo Information:**
+#### Brand Summary
 
-- The Honda logo is described as primarily red and should be used on a white background to emphasize the red. There is a logo with the slogan 'The Power of Dreams' that forms an inseparable unit, primarily used for communication materials, advertisements, prints, point-of-sale advertising, and some merchandising items. Specific clear space minimums are mentioned (x = 2h; width = 85% of h; a = 35% of h; b = 45% of h). The guideline also specifies that the logo must not be altered, distorted, or combined with other elements, and placement/use should follow corporate identity regulations.
-- Different logo combinations are used for various applications. Examples include standalone logos for administrative documents, specific merchandising items, and uniforms.
-- Color versions include red on white background, or black and white for monochromatic visuals.
+##### Mission
 
-**Color Information:**
+- To create products and relationships that enrich everyday life, encouraging customers to engage with the brand through the call to action 'Start something special.' [^1].
 
-- Honda's primary color is Red (Pantone 186 C). CMYK: 0/100/90/0, RGB: 237/27/47, HEX: #CC0000. The logo should ideally be in Honda Red on a white background for optimal visibility.
+##### Core Values
 
-**Typography Information:**
+- innovation
+- engagement
+- enrichment
+- friendliness
 
-- The corporate typeface is Helvetica Neue, available in a variety of weights, suitable for all media. Substitute font: Arial. Examples provided include weights from Thin to Black with corresponding italics.
+##### Target Audience
 
-**Spacing Layout:**
+- Individuals and families seeking modern, reliable vehicles and engaging brand experiences [^2].
 
-- Clear space rules for the logo specify dimensions: x = 2h, width = 85% of h, a = 35% of h, b = 45% of h. These rules ensure the correct placement and usage of the logo according to Honda Corporate Identity (CI) guidelines.
+##### Personality Traits
 
-**Brand Voice:**
+- friendly
+- modern
+- versatile
+- clean
 
-- The Honda corporate identity is a coherent system of words, symbols, and colors that follow precise rules to maintain brand identity. Communication materials rely on the slogan 'The Power of Dreams' as part of the brand voice.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity features a clean, modern style with a consistent use of light blue and white color palette, rounded rectangles, and the Avenir Next Rounded typeface. The Honda logo is prominently used, and layouts are balanced and visually appealing, emphasizing clarity and approachability [^3].
 
-- This corporate identity guide has been designed to summarize the key rules and provide clear examples for Honda dealerships and Honda Automobile (Suisse) staff. Additional graphical elements and details are provided on the website www.hondalocaladv.ch.
+#### Categories
+
+##### Brand Voice
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+
+##### Brand Imagery
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Typography
+
+- Typography-Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- The brand font can be purchased here: http://www.fonts.com/font/linotype/avenir-next-rounded#product_top
+- If Avenir Next Rounded is not available, please use Avenir.
+- Honda headline in Avenir Next Rounded Demi.
+- A Honda subhead should differ in size or weight from other type.
+- Body copy should be set in Avenir Next Rounded Regular.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Headline Text: Avenir Next Rounded Demi -32 pt
+- Subhead: Avenir Next Rounded Medium -13 pt
+- Body Copy: Avenir Next Rounded Regular-9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+- Headline Text: Avenir Next Rounded Demi
+- Subhead: Avenir Next Rounded Medium
+
+##### Logo Usage
+
+- Logo -The logo is our instantly recognizable brand signature.
+- Logo Dimensions: 1.0 in W x .6725 in. H
+
+##### Tone And Messaging
+
+- Typography – Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+- Avenir Next Rounded is the primary typeface for all our communications. It is a clean, modern typeface and conveys friendliness without sacrificing versatility or legibility. It comes in a wide variety of weights, for flexibility in a variety of uses while still maintaining excellent legibility.
+- If Avenir Next Rounded is not available, please use Avenir.
+- Headlines should be set in sentence case, preferably using Avenir Next Rounded Demi with tracking set to a minimum of -25.* Avenir Next Rounded Bold should be used judiciously and with restraint as it looks childish in large point sizes. (Use at 28 points or less.)
+- Body copy should be set in Avenir Next Rounded Regular.
+- Legal copy and footnotes should be set in Avenir Next Rounded Regular, with an optimum size of 6–8 points.
+- Please use these guidelines as recommendations, rather than hard-and-fast rules. Your choice of weight and size will require judgment appropriate for each communication.
+- Headline Text: Avenir Next Rounded Demi -32 pt since the time-out. Subhead: Avenir Next Rounded Medium -13 pt Body Copy: Avenir Next Rounded Regular-9.25/13 pt Start Something Special Tag Line: Avenir Next Rounded Medium -12 pt
+
+##### Brand Values
+
+- Tag Line – “Start something special.” is a call to action to encourage customers to engage with our brand, and an internal reminder to create products and relationships that enrich everyday life.
+
+##### Visual Style
+
+- Avenir Next Rounded has a friendly tone, excellent readability and is versatile across all communications. If Avenir Next Rounded is not available, please use Avenir.
+- A rounded corner treatment adds a clean, finished look to the visual style.
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in. W x .6725 in. H
+
+##### Layout And Composition
+
+- Rounded rectangles give visual structure to our brand-identity system, whether in its primary use as a border treatment, as seen throughout this document, or used in conjunction with the border treatment as a containing device for color, type or imagery.
+- Our white border treatment with rounded corners adds a clean, finished look to our visual style and is a key component in our visual language.
+- Rounded rectangles can also be used as a foreground element as a containing device for type, color or imagery, as well as for functional uses such as buttons for digital applications.
+- Headline Text: Avenir Next Rounded Demi – 32 pt
+- Subhead: Avenir Next Rounded Medium – 13 pt
+- Body Copy: Avenir Next Rounded Regular – 9.25/13 pt
+- Start Something Special Tag Line: Avenir Next Rounded Medium – 12 pt
+- Border Width: .375 in.
+- Border Corner Radius: .1667 in.
+- Logo Dimensions: 1.0 in W x .6725 in. H
 
 ## Additional Properties
 
@@ -175,9 +472,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Et Cetera](/products_or_materials_produced/et-cetera/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Car](/products_or_materials_produced/car/); [Engine](/products_or_materials_produced/engine/); [Truck](/products_or_materials_produced/truck/); [Robot](/products_or_materials_produced/robot/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Airplane](/products_or_materials_produced/airplane/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
+| Product Or Material Produced | [Garden Tool](/products_or_materials_produced/garden-tool/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Truck](/products_or_materials_produced/truck/); [Engine](/products_or_materials_produced/engine/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Robot](/products_or_materials_produced/robot/); [Car](/products_or_materials_produced/car/); [Airplane](/products_or_materials_produced/airplane/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
-| Foundation Date | [1946](/foundation_dates/1946/); [1948](/foundation_dates/1948/) |
+| Foundation Date | [1948](/foundation_dates/1948/); [1946](/foundation_dates/1946/) |
 | Country | Japan |
 | Member Of | Open Automotive Alliance, Linux Foundation (from 2016-09-07) |
 | Headquarters Location | Minato |

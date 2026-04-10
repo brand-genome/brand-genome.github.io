@@ -2,7 +2,7 @@
 title: Columbia Law School
 slug: "columbia-law-school"
 description: ""
-date: "2026-03-20T08:22:05.558916"
+date: "2026-04-10T09:40:34.474199"
 draft: false
 sectors:
   - university
@@ -50,29 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-brand_colors:
-  - crimson
-  - gold
-  - white
-  - blue
-  - gray
-  - black
-typographies:
-  - serif
-  - "century-gothic"
-  - impact
-  - arial
-  - times
-  - nunito
-imagery_styles:
-  - staged
-  - candid
-  - natural
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: law school of Columbia University
 wikidata_url: "https://www.wikidata.org/wiki/Q1149089"
 has_twitter: false
@@ -90,36 +71,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Columbia Law School logo has two configurations: stacked and single-line. Both versions are available in Columbia Law blue, black, and white. Versions are optimized for print and web use. The logo's crown and typography should always appear together and must not be altered. Minimum size: Stacked logo no smaller than 9/16 inches (0.5625 inches) tall.
-- Logo guidelines prohibit altering the size, distorting, changing colors, outlining, or creating other logos using the crown. For logo usage, the entire logo should be used in specific colors (blue, black, or white) only.
-- Incorrect logo usage examples provided. Prohibits usage of black logo on a blue background, blue logo on a black background, logo on busy photographs, and logos that are not readable over photography.
-
-**Color Information:**
-
-- Core colors include Columbia Law Blue (PMS 2945 U; CMYK: 93-69-20-5; RGB: 36-88-141; HEX: #23578c), Warm Gold (PMS 7549 U), and Bright Blue (PMS 2995 U). Secondary and neutral palettes accompany these, including Dark Gray, Light Gray, Warm Gray, and Medium Gray.
-
-**Typography Information:**
-
-- Recommended typefaces for everyday use include Nunito Sans for san-serif (preferred) and Crimson Text for serif fonts. Acceptable PC alternatives include Century Gothic, Calibri, Arial Black, and Times New Roman.
-
-**Imagery Photography:**
-
-- Photography should focus on real people, natural light, clutter-free environments, and images that convey Columbia's vibrant community and surroundings. Candid shots with a photojournalistic feel are preferred for students, while more staged portraiture is acceptable for faculty and alumni. Avoid nighttime imagery, busy images, and heavy flash usage.
-
-**Spacing Layout:**
-
-- When creating branded materials, it's important to use templates to ensure consistency in layout and alignment. Poster templates are downloadable for different event use cases.
-
-**Brand Voice:**
-
-- The brand voice communicates a story of excellence, innovation, tradition, and diversity. Tone emphasizes a global viewpoint combining Columbia's history and commitment to academic impact.
-
-**Notes:**
-
-- Stationery guidelines include protocols for ordering business papers via the secretariat email. Official letterhead templates should be customizable in Microsoft Word and used instead of older versions post-December 30, 2018.
-- Branded examples showcase Columbia Law School's toolkit elements, such as scholarship and fellowship designs that reflect Columbia's commitments and values.
+*Guidelines data not available*
 
 ## Additional Properties
 

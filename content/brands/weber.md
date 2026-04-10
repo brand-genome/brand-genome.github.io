@@ -2,7 +2,7 @@
 title: Weber
 slug: weber
 description: ""
-date: "2026-03-20T08:22:04.390205"
+date: "2026-04-10T09:40:33.117700"
 draft: false
 sectors:
   - construction
@@ -46,24 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-  - favicon
-brand_colors:
-  - green
-  - white
-  - purple
-  - grey
-  - blue
-  - yellow
-  - orange
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -83,40 +69,120 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- The Weber logotype must always appear on a white background when used on colored or photo backgrounds. The white frame containing the logo should be at least as large as the defined protection area.
-- Protection area for the logotype must equal the width of the lowercase 'r'. The minimum width for the logo is 160 px to ensure the 'Saint-Gobain' text remains legible.
-- Logotype display rules with the associated 'Point-it' element: The minimum logotype width remains 160 px while the Point-it has specific, proportional visual spacing.
-- On high-resolution desktop screens, websites display the Weber logo in the upper left corner with a recommended width of 160 px.
-- Display of the Weber logo on smaller devices: 150 px width on tablets (upper left corner), 90 px width on mobile screens (centered).
-- Social media usage: The logo should appear on promotional posts in the top left or bottom right corner, with a squared-left border in some cases.
-- Rules for the application of the logo in videos and apps, including the use of squared left borders in specific contexts.
+##### Mission
 
-**Color Information:**
+- Indigenous Tourism Alberta (ITA) encourages and promotes Indigenous tourism in the province. ITA's goal is to enhance economic viability, further engage and support Indigenous peoples, and nurture partnerships throughout the province by sharing Indigenous stories, culture, and experiences with a global audience. ITA aims to create a coordinated voice and shared vision for Indigenous tourism in Alberta.
 
-- Primary colors: Yellow (#FFEB00, R: 255, G: 235, B: 0) and Warm Grey (#5A4C40, R: 90, G: 76, B: 64). These must be used in specific contexts, such as titles on dark backgrounds, the Point-it element, vertical strip backgrounds, icons, and button elements.
-- Complementary colors with opacity usage rules: Light Blue (#00A3DE, R: 0, G: 163, B: 222), Orange (#FF8200, R: 255, G: 130, B: 0), Purple (#D0006F, R: 208, G: 0, B: 111), and Green (#8FAD15, R: 143, G: 173, B: 21). These colors are used for highlighting text, graphics, table backgrounds, tags, and progress bars. Transparency (80%, 60%, or 40% opacities) is permissible for interactions.
+##### Core Values
 
-**Typography Information:**
+- diversity
+- inclusivity
+- authenticity
+- empowerment
+- cultural reclamation
+- reconciliation
+- togetherness
 
-- Weber Font is used for subtitles and regular text with variations like Light, Light Italic, Regular, Regular Italic, Medium, Medium Italic, Bold, and Bold Italic.
-- Weber Name font is designated for naming, ensuring consistent spacing between logotype and product or service names.
-- Weber Brush is used for titles and translations linked to the Point-it element in the vertical yellow strip.
+##### Target Audience
 
-**Imagery Photography:**
+- Curious adventurers and cultural explorers from Canada, United States, United Kingdom, Germany, and Japan, including families, young couples, retired couples, and singles who seek enriching, engaging, immersive experiences with Indigenous people.
 
-- Weber imagery is composed of 'double images', with contrasting elements like colors or focus in the upper and lower sections. The Point-it must not be placed on yellow backgrounds.
-- Imagery must represent people with a focus on care and connection (e.g., faces, hands, feet). Clear contrast between images is required for differentiation.
+##### Personality Traits
 
-**Spacing Layout:**
+- genuine
+- inviting
+- educational
+- celebratory
+- inspiring
+- joyful
+- dynamic
 
-- The yellow strip, 30 px wide on desktop view, aligns left with content boundaries. For smaller resolutions like mobile, width can reduce to 10 px.
-- Rounded corners of 8 px must be applied to images not directly attached to the yellow strip in all digital contexts.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity features Indigenous cultural symbols such as tipis, buffalo, canoes, and mountains, with a color palette inspired by the Medicine Wheel. Photography and imagery emphasize authentic cultural representation, nature, and immersive experiences. The logo is designed to be inclusive and welcoming, with guidelines for usage, clear space, and color variations. Typography uses Sonoran for display and Nunito Sans for primary text, supporting a bold, accessible, and culturally resonant visual style.
 
-- The logo's 'Point-it' element width must be 2/3 of the Weber logo width. It is restricted to use only in vertical alignment.
-- Favicon and app icons should use the Weber symbol in accordance with detailed platform specifications. Various file formats mentioned, including PNG and ICO.
-- Web usability standards for buttons, labels, and tags, ensuring consistency across platforms.
-- Digital applications must include intro/outro with the Weber logo and yellow strip.
+#### Categories
+
+##### Brand Voice
+
+- Language is one of the many ways that has been used to oppress Indigenous Peoples. By being aware of the ways in which implied colonialism lives in language you can re-frame the narrative and de-colonize your words. By educating themselves, writers can make better choices, and equip themselves with a basic understanding on how not to repeat historic inaccurate terms, break Indigenous Protocols, or use offensive language.
+- This guide is not intended to be a deep dive into the correct language and terms to use when writing about Indigenous Peoples; the authority on that is Elements of Indigenous Style, by Gregory Younging, published by Brush Education.
+- 1. Avoid using the past tense when you write about Indigenous Peoples. Indigenous Peoples are not a historical phenomenon; they have not been assimilated into Canadian culture and they have not lost their own rich, distinct cultures. Indigenous Peoples are diverse, authentic, empowered and current. Avoid the past tense: "they practiced ceremonies." Instead, use the present tense: "They practice Ceremonies."
+- 2. Do not use language which props up the colonial idea that Indigenous Peoples are incapable of taking care of things themselves. This manifests itself in language which implies that Indigenous Peoples have no agency. Avoid statements like "numbered treaties gave Canada's First Nations reserves, education and health care." Instead, write that "First Nations in Canada negotiated the numbered treaties to secure reserves, education and health care."
+- 3. Do not use the possessive when talking about the Indigenous Peoples who live in a country. Canada doesn't "own" the First Nations, Metis or Inuit Peoples who live in what is now called Canada. Avoid the phrase "Canada's First Nations." Instead, use "Indigenous People in Canada," or "First Nations, Metis, and Inuit Peoples in Canada."
+- 4. Do not whitewash Indigenous Peoples out of history. Be mindful of phrasing. The sentence "After a hike around Jasper, check out the Miette Hot Springs which have been around since the early 1900's" doesn't acknowledge that the hot springs have been an important site for the Indigenous Peoples of the area for thousands of years. To place your work in context, look at the following text which acknowledges the history of the Indigenous Peoples in the area, and the colonial practice of removing them from their land. "The aquacourt at the Miette Hot Springs and road access were built in the 1930's, however -prior to this -the springs were used by Indigenous Peoples as a source of healing and spirituality, and the land was an abundant area for hunting and gathering food. Nations including the Stoney First Nation and Keeseekoowenin Ojibwa were ousted from the area in the late 1880's."
+- 5. Think about Indigenous Knowledge as holding its own copyright. Give Oral Traditions and Traditional Knowledge the same weight and respect as printed texts. You need to ask for permission before reprinting Oral Traditions and Traditional Knowledge, exactly as you would with written texts.
+- 6. Be prepared for consultation to take time. Be aware that no one person is able to give permission; if copyright is held by a Nation, then there needs to be a proper consultation practice about sharing.
+- 7. Collaborate and seek permission when writing about Traditional Knowledge. If you're writing about Indigenous People then contact them and discuss what you'd like to do. Be aware that Indigenous Protocols -which are more formal than "customs" -need to be adhered to, and often it may not be appropriate to write about matters which have sacred significance, or perhaps contain stories which may only be told by women, men, or at a particular time of the year.
+- 8. Do not repeat inaccurate and offensive material. Check your source material; if you're quoting or using books written by nonlndigenous People as a reference point, it's possible that you will be repeating inaccurate, possibly offensive accounts. It's also possible that stories and Traditional Knowledge in these books were printed without permission.
+- 9. Always choose Indigenous Style over Canadian Press style. Capitalization may not be where you'd expect to see it. Gregory Younging describes this as a "deliberate decision that redresses mainstream society's history of regarding Indigenous Peoples as having no legitimate national identities; government, social, spiritual or religious institutions; or collective rights." Instead of using Canadian Press style, use Indigenous style: Aboriginal, First Nations, Indigenous, Elder, Oral Tradition, Clan, Protocols, Traditional Knowledge, Indigenous Right, Treaty Right.
+- 10. Respect Elders. Be aware of the important role of Elders within Indigenous societies and their role as holders of Traditional Knowledge and as community advisors.
+- 11. Recognize and respect distinct and diverse Indigenous Peoples. The Indigenous population in Canada is made up of Inuit, Metis, and some 634 different First Nations. Each has their own distinct Traditional Knowledge, culture and heritage. Avoid writing about 'First Nations' as though they are a homogenous group; instead, be specific and ask for people's preferred self­declaration. If no self-declaration has been made, try to identify the name of their community or nation. If it is still not known, then use Indigenous group names, such as First Nation, Metis or Inuit.
+- 12. Understand Indigenous cultures do not need to be static to be authentic. Indigenous Peoples are currently engaged in a period of cultural reclamation and rejuvenation. Just because someone doesn't live in a teepee, doesn't mean that they are not an authentic Indigenous person. Indigenous cultures are dynamic and undergo natural change and adaptation, just like other cultures.
+
+##### Brand Imagery
+
+- Photography should always accurately represent culture and traditions, and permission should always be obtained prior to photography being shot. Don't take photos of ceremony.
+- Images depicting learning experiences between a guide and visitors are encouraged.
+- Portraits in nature are encouraged.
+- When photographing regalia, ensure permission is obtained first. Don't photograph ceremonial activities.
+- Photography that shows visitor experiences within the context of land are encouraged.
+- Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
+- Depictions of food, art, or other installations by Indigenous creators is encouraged.
+
+##### Color Palette
+
+- Inspired by the colours of the Medicine Wheel, colour can be applied to communication pieces to complement images, or to contrast or draw attention to a particular element.
+- Pantone 187C CMYK: 23/100/88/15 RGB: 170/31/46 HEX: #AA1F2E
+- Pantone 280C CMYK: 100/93/27/23 RGB: 34/45/102 HEX: #222D66
+
+##### Typography
+
+- Sonoran may be used for display copy and headlines. Because it is a monocase typeface it is not suitable for long copy beyond the discretion of the marketing team.
+- Nunito Sans should be the most prominent typeface used in marketing materials. It can be used for both headlines and longer form body copy.
+- Source Sans can be used for headlines and body copy when the primary typeface is not available.
+
+##### Logo Usage
+
+- Only use the reversed option (white) when the black version is compromised by backgrounds, photos or colours. Minimum space must still be employed. If using the reversed logo option on images, ensure that it has solid contrast all around the logo.
+- Use the black logo when white does not provide enough contrast against backgrounds or images. Allow the same considerations for minimum space as all other logo usage.
+- The logomark should always be surrounded by generous white space. The diagram above defines the minimum amount of clear space needed, which is based on the width of the O in the wordmark.
+- In smaller applications and where necessary, a simplified logo may be used.
+
+##### Tone And Messaging
+
+- Language is one of the many ways that has been used to oppress Indigenous Peoples. By being aware of the ways in which implied colonialism lives in language you can re-frame the narrative and de-colonize your words. By educating themselves, writers can make better choices, and equip themselves with a basic understanding on how not to repeat historic inaccurate terms, break Indigenous Protocols, or use offensive language.
+- This guide is not intended to be a deep dive into the correct language and terms to use when writing about Indigenous Peoples; the authority on that is Elements of Indigenous Style, by Gregory Younging, published by Brush Education.
+- 1. Avoid using the past tense when you write about Indigenous Peoples. Indigenous Peoples are not a historical phenomenon; they have not been assimilated into Canadian culture and they have not lost their own rich, distinct cultures. Indigenous Peoples are diverse, authentic, empowered and current. Avoid the past tense: "they practiced ceremonies." Instead, use the present tense: "They practice Ceremonies."
+- 2. Do not use language which props up the colonial idea that Indigenous Peoples are incapable of taking care of things themselves. This manifests itself in language which implies that Indigenous Peoples have no agency. Avoid statements like "numbered treaties gave Canada's First Nations reserves, education and health care." Instead, write that "First Nations in Canada negotiated the numbered treaties to secure reserves, education and health care."
+- 3. Do not use the possessive when talking about the Indigenous Peoples who live in a country. Canada doesn't "own" the First Nations, Metis or Inuit Peoples who live in what is now called Canada. Avoid the phrase "Canada's First Nations." Instead, use "Indigenous People in Canada," or "First Nations, Metis, and Inuit Peoples in Canada."
+- 4. Do not whitewash Indigenous Peoples out of history. Be mindful of phrasing. The sentence "After a hike around Jasper, check out the Miette Hot Springs which have been around since the early 1900's" doesn't acknowledge that the hot springs have been an important site for the Indigenous Peoples of the area for thousands of years. To place your work in context, look at the following text which acknowledges the history of the Indigenous Peoples in the area, and the colonial practice of removing them from their land. "The aquacourt at the Miette Hot Springs and road access were built in the 1930's, however -prior to this -the springs were used by Indigenous Peoples as a source of healing and spirituality, and the land was an abundant area for hunting and gathering food. Nations including the Stoney First Nation and Keeseekoowenin Ojibwa were ousted from the area in the late 1880's."
+- 5. Think about Indigenous Knowledge as holding its own copyright. Give Oral Traditions and Traditional Knowledge the same weight and respect as printed texts. You need to ask for permission before reprinting Oral Traditions and Traditional Knowledge, exactly as you would with written texts.
+- 6. Be prepared for consultation to take time. Be aware that no one person is able to give permission; if copyright is held by a Nation, then there needs to be a proper consultation practice about sharing.
+- 7. Collaborate and seek permission when writing about Traditional Knowledge. If you're writing about Indigenous People then contact them and discuss what you'd like to do. Be aware that Indigenous Protocols -which are more formal than "customs" -need to be adhered to, and often it may not be appropriate to write about matters which have sacred significance, or perhaps contain stories which may only be told by women, men, or at a particular time of the year.
+- 8. Do not repeat inaccurate and offensive material. Check your source material; if you're quoting or using books written by nonlndigenous People as a reference point, it's possible that you will be repeating inaccurate, possibly offensive accounts. It's also possible that stories and Traditional Knowledge in these books were printed without permission.
+- 9. Always choose Indigenous Style over Canadian Press style. Capitalization may not be where you'd expect to see it. Gregory Younging describes this as a "deliberate decision that redresses mainstream society's history of regarding Indigenous Peoples as having no legitimate national identities; government, social, spiritual or religious institutions; or collective rights." Instead of using Canadian Press style, use Indigenous style: Aboriginal, First Nations, Indigenous, Elder, Oral Tradition, Clan, Protocols, Traditional Knowledge, Indigenous Right, Treaty Right.
+- 10. Respect Elders. Be aware of the important role of Elders within Indigenous societies and their role as holders of Traditional Knowledge and as community advisors.
+- 11. Recognize and respect distinct and diverse Indigenous Peoples. The Indigenous population in Canada is made up of Inuit, Metis, and some 634 different First Nations. Each has their own distinct Traditional Knowledge, culture and heritage. Avoid writing about 'First Nations' as though they are a homogenous group; instead, be specific and ask for people's preferred self­declaration. If no self-declaration has been made, try to identify the name of their community or nation. If it is still not known, then use Indigenous group names, such as First Nation, Metis or Inuit.
+- 12. Understand Indigenous cultures do not need to be static to be authentic. Indigenous Peoples are currently engaged in a period of cultural reclamation and rejuvenation. Just because someone doesn't live in a teepee, doesn't mean that they are not an authentic Indigenous person. Indigenous cultures are dynamic and undergo natural change and adaptation, just like other cultures.
+
+##### Visual Style
+
+- Only use the reversed option (white) when the black version is compromised by backgrounds, photos or colours. Minimum space must still be employed. If using the reversed logo option on images, ensure that it has solid contrast all around the logo.
+- Use the black logo when white does not provide enough contrast against backgrounds or images. Allow the same considerations for minimum space as all other logo usage.
+- The logomark should always be surrounded by generous white space. The diagram above defines the minimum amount of clear space needed, which is based on the width of the O in the wordmark.
+- Inspired by the colours of the Medicine Wheel, colour can be applied to communication pieces to complement images, or to contrast or draw attention to a particular element.
+- Pantone 187C CMYK: 23/100/88/15 RGB: 170/31/46 HEX: #AA1F2E
+- Pantone 280C CMYK: 100/93/27/23 RGB: 34/45/102 HEX: #222D66
+- Sonoran may be used for display copy and headlines. Because it is a monocase typeface it is not suitable for long copy beyond the discretion of the marketing team.
+- Nunito Sans should be the most prominent typeface used in marketing materials. It can be used for both headlines and longer form body copy.
+- Source Sans can be used for headlines and body copy when the primary typeface is not available.
+- Photography should always accurately represent culture and traditions, and permission should always be obtained prior to photography being shot. Don't take photos of ceremony.
+- Images depicting learning experiences between a guide and visitors are encouraged.
+- Portraits in nature are encouraged.
+- When photographing regalia, ensure permission is obtained first. Don't photograph ceremonial activities.
+- Photography that shows visitor experiences within the context of land are encouraged.
+- Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
+- Depictions of food, art, or other installations by Indigenous creators is encouraged.

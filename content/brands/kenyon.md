@@ -2,7 +2,7 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-03-20T08:22:04.076842"
+date: "2026-04-10T09:40:32.128051"
 draft: false
 sectors:
   - education
@@ -53,25 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - purple
-  - blue
-typographies:
-  - display
-  - serif
-  - georgia
-  - monospace
-  - helvetica
-imagery_styles:
-  - graphic
-  - duotone
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private liberal arts college in Gambier, Ohio, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1797768"
 has_twitter: false
@@ -91,43 +76,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Use of Kenyon shield for ceremonial purposes only, not for marketing collateral; available in two-color or single-color formats.
-- Cropped K graphic element must bleed off-edge and crop out serifs; used as background texture.
-- Cropped K image element represents diversity of students; limited to applications with short copy such as social media.
-
-**Color Information:**
-
-- Primary palette inspired by Kenyon's campus. Includes Kenyon Purple, Bright Purple, Quad Dark Green, BFEC Light Green, Kokosing River Blue, Summer Sunset Purple, Bolton Red, Pale Bolton Red, Old Kenyon Purple Light, Cromwell White, Old Kenyon Purple, Old Kenyon Purple Dark.
-- Do not use bright colors for type. Brights should emphasize underlines and calls-to-action.
-- Use Old Kenyon Purple Dark for small-scale text where legibility is a concern.
-
-**Typography Information:**
-
-- Primary typefaces are Gothia Serif (Display and Text) and Matter Sans. Secondary typefaces include Spezia Sans, Publico Mono. System defaults: Georgia, Helvetica.
-- Gothia Serif: Use for headlines and extended body text. Note: Negative leading recommended for headlines (e.g., 60pt text, 55pt leading).
-- Matter Sans: Use for descriptive headlines and subheads. Note: Positive leading recommended for headlines (e.g., 60pt text, 65pt leading).
-- Spezia Sans: Flexible sans serif for admissions campaigns. Includes wide range of weights and widths.
-- Publico Mono: Monospace type for short, supporting information. Avoid large scales or extended body use.
-
-**Imagery Photography:**
-
-- Photography blends place, academic, and student life shots. Includes four-color bright photos and limited duotone treatment for place-making shots.
-
-**Spacing Layout:**
-
-- Departmental lock-ups: One-line lock-ups must be no smaller than 0.3 inches; two-line lock-ups no smaller than 0.5 inches.
-- Sub-brand lock-ups: Sub-brand name appears locked with Kenyon logotype. Logotype should be 75% scale of sub-brand cap height.
-
-**Brand Voice:**
-
-- Focus on interconnected qualities and voice/tone adjusted for programs, centers, and audiences.
-
-**Notes:**
-
-- Legacy marks may be grandfathered into internal-facing applications but avoid locking them directly with logotype.
-- Social media brand extensions use cropped K in Kenyon Purple, with bright color floods like Kenyon Bright Purple or Quad Dark Green.
+*Guidelines data not available*
 
 ## Additional Properties
 

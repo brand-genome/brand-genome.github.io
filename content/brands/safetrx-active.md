@@ -2,11 +2,11 @@
 title: SafeTrx Active
 slug: "safetrx-active"
 description: ""
-date: "2026-03-20T08:22:04.202261"
+date: "2026-04-10T09:40:32.563693"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - ireland
 years:
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,18 +72,4 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Placeholder for logo details, including usage, spacing, or file type mentions. (Details pending refinement)
-
-**Typography Information:**
-
-- Sample typography-related content extracted. Detailed font classifications/use roles to be specified.
-
-**Imagery Photography:**
-
-- Placeholder for extracted imagery/photography guidelines. Style treatment pending refinement.
-
-**Notes:**
-
-- Placeholder notes of extracted or unexpected segments for clarifications…
+*Guidelines data not available*

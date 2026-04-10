@@ -2,7 +2,7 @@
 title: SMPS
 slug: smps
 description: ""
-date: "2026-03-20T08:22:04.553879"
+date: "2026-04-10T09:40:33.353774"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -50,25 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - green
-  - white
-  - blue
-  - gray
-  - "pantone-3262"
-  - orange
-  - black
-typographies:
-  - gotham
-  - georgia
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q1518565"
 has_twitter: false
@@ -88,37 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo versions include the primary horizontal lock-up. Logos must maintain a minimum clear space equal to the height of the 'S' in SMPS. Minimum size requirement: SMPS portion of the logo should not be smaller than 0.75 inches wide. Foundation, regional conference, chapter-specific, and certification logos are only to be used for specified events and marketing materials.
-- Anniversary logos are exclusive to anniversary-related chapter events. Specific anniversary logos can be requested by contacting josh@smps.org.
-- Do's and don'ts are specified for social media profile design and regional conference websites. Only black or white backgrounds should be used for chapter logos. Distracting fonts, colors, and images outside SMPS brand standards are prohibited.
-
-**Color Information:**
-
-- Primary Palette includes Revolution Orange (Pantone 3262 C, CMYK: 0% 64% 95% 0%, RGB: 255, 128, 0, HEX: #FF8000) and Business Black (Process Black, CMYK: 0% 0% 0% 100%). Secondary Palette includes Light Blue, Dark Blue, Light Green, Dark Green, Dark Gray, Light Gray, and White, with detailed CMYK, RGB, and HEX codes provided for each.
-
-**Typography Information:**
-
-- Primary fonts include Gotham Black for headlines, Gilroy Bold and ExtraBold for subheads and text labels (ExtraBold should not be used smaller than 9pt), and Gilroy Light for body copy in marketing and collateral materials.
-- Secondary typography includes Gotham Narrow Ultra (only uppercase headlines in digital applications) and Georgia Regular (used for body copy within business communications such as letters and official documents).
-
-**Imagery Photography:**
-
-- Emphasize key words and phrases in designs. Use engaging, well-composed imagery unique to the conference. SMPS underscore can be used as a graphic element in horizontal orientation only.
-
-**Spacing Layout:**
-
-- Logo clearance requires proper breathing room to ensure legibility, using the dimensions of the 'S' in SMPS for all logos, including secondary horizontal (lock-up).
-
-**Brand Voice:**
-
-- SMPS brand voice should be bold, focused, motivating, empowering, inspiring, approachable, conversational, and marketing-led. Content should evoke community, inspire confidence, and communicate a clear path for the future.
-
-**Notes:**
-
-- Editorial guidelines specified include capitalization rules for Internet-related words like 'internet,' 'website,' and 'webinar,' and numbers are spelled out for one through nine, while 10 and higher use numerals.
-- Specific rules about using percentages instead of the % symbol, slashes for A/E/C (unless graphical), em dash and en dash usage, and time formatting (e.g., '9 a.m.' instead of '9:00 a.m.') are provided.
+*Guidelines data not available*
 
 ## Additional Properties
 

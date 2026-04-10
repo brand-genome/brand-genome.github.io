@@ -2,7 +2,7 @@
 title: TPID Dallas
 slug: "tpid-dallas"
 description: ""
-date: "2026-03-20T08:22:04.213771"
+date: "2026-04-10T09:40:32.594791"
 draft: false
 sectors:
   - "public-sector"
@@ -49,8 +49,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -71,24 +70,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The TPID logo should not be sized lower than 1.25” wide. Minimum size allowed is 1” wide. These measurements ensure readability at small scales.
-- Color variations are available in CMYK, RGB, HEX, and PMS formats. Examples include PMS 289 (HEX #001B48) and PMS PROCESS BLACK (HEX #000000).
-- Do NOT use logo sizing smaller than the defined minimum width of 1” under any circumstances.
-
-**Color Information:**
-
-- PMS Codes: PMS 289 & PROCESS BLACK.
-HEX Codes: #001B48, #000000.
-RGB Values: RGB 0, 27, 73; RGB 35, 31, 32.
-CMYK Values: CMYK 100, 76, 10, 65; CMYK 0, 0, 0, 100; CMYK 0, 0, 0, 0.
-
-**Spacing Layout:**
-
-- Minimum logo dimensions for readability: 1.25” width recommended; 1” width minimum.
-
-**Notes:**
-
-- Color values are defined across CMYK, RGB, HEX, and PMS profiles ensuring consistency in print and digital mediums.
-- Readability is critical; adherence to minimum size specifications is mandatory.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Conservation International
 slug: "conservation-international"
 description: ""
-date: "2026-03-20T08:22:05.048320"
+date: "2026-04-10T09:40:33.813322"
 draft: false
 sectors:
   - ngo
@@ -54,21 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - wordmark
-  - primary
-brand_colors:
-  - green
-  - gray
-  - white
-  - blue
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: nonprofit environmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1127365"
 has_twitter: false
@@ -87,42 +76,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The Conservation International logo consists of a blue circle and a green rectangle underscoring the text, designed for visual symbolism.
-- Minimum logo size is specified as 1.1875 inches (30mm or 86px) for standard applications.
-- Clear space around the logo must equal the height of the green bar around the wordmark.
-- Alternate lockups of the logo are available based on space and aesthetic requirements.
-- Do not use the logo on backgrounds that lack sufficient contrast, such as busy photos or similar-toned colors.
-- Do not modify elements of the logo, resize disproportionately, or crop parts of the logo.
-
-**Color Information:**
-
-- The primary color palette includes: PMS 362 (C:70, M:0, Y:100, K:9; RGB: 74,170,66; HEX: #4AAA42), PMS 2925 (C:85, M:24, Y:0, K:0; RGB: 0,150,215; HEX: #0397D6), and PMS 431 (C:11, M:1, Y:0, K:64; RGB: 106,115,123; HEX: #6A747C).
-- The logo can be used on dark or light-colored backgrounds to ensure legibility, with wordmark in white for dark backgrounds and in gray for light backgrounds.
-- Avoid placing the logo on mid-value colors or busy gradients. Gradients can be used as a background when contrast between the logo and the background is maintained.
-- At no time should the logo be used on a background color that closely matches the primary colors of the logo (e.g., similar tones with the green or blue).
-
-**Typography Information:**
-
-- The primary typeface for Conservation International is Helvetica Neue, with variations including Ultra Light, Thin, Light, and Bold.
-- When Helvetica Neue is unavailable, Arial is an acceptable substitute.
-- Specific font usage guidelines: text should be written in Helvetica Neue Light (7pt) and numbers in Helvetica Neue Light (6.5pt).
-
-**Imagery Photography:**
-
-- Photographs used in visual assets should not have high levels of visual noise or busy patterns behind the logo to maintain visibility and legibility.
-- For use with photos or gradients, high contrast between the logo and background is strongly recommended.
-
-**Spacing Layout:**
-
-- Clear space requirements emphasize maintaining a consistent safe zone around the logo; this space is equivalent to the height of the green bar extending around the wordmark.
-- Graphic elements or other text should not encroach the clear space around the logo.
-- Logo proportions and spacing, including stroke widths and letter spacing, should never be altered from the original electronic artwork.
-
-**Notes:**
-
-- Alternate lockups, colors, and proportions are clearly governed by strict rules to maintain the brand identity.
+*Guidelines data not available*
 
 ## Additional Properties
 

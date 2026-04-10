@@ -2,7 +2,7 @@
 title: Pressreader
 slug: pressreader
 description: ""
-date: "2026-03-20T08:22:05.576999"
+date: "2026-04-10T09:40:34.505376"
 draft: false
 sectors:
   - software
@@ -10,13 +10,13 @@ sectors:
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries:
   - journalism
   - "software-industry"
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - vancouver
   - richmond
+  - vancouver
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -55,22 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - "app-icon"
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - green
-  - gray
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - modern
-  - monochrome
-  - vibrant
+imagery_styles: []
 wikidata_description: digital newspaper distribution and technology company based in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q6041620"
 has_twitter: false
@@ -88,65 +76,11 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The PressReader logo features a green 'P' icon and a gray wordmark. It includes color variations such as full color, grayscale, and monochrome versions. File formats and guidelines for usage are detailed.
-- Minimum clear space for the logo is defined as the width of the 'P' icon. Stacked logo clearance is half the 'P' icon's width. Minimum sizes include digital dimensions (200px and 100px width) and print dimensions (30mm and 15mm width).
-- The app icon should only be used to demonstrate app usage and is not a replacement for the main logo.
-- Logos should maintain equal prominence in co-branded contexts. Partner logos should align either vertically or optically centered next to the PressReader logo.
-- Co-branded or modified marketing materials must include PressReader approval. Examples and guidelines maintain proper brand identity.
-
-**Color Information:**
-
-- Primary corporate color palette includes: Green (#2BC48C, RGB 43, CMYK 70-0-62), Black (#091921, RGB 9, CMYK 85-70-60-75), Gray (#DADCDD, RGB 218, CMYK 100-30-100-0).
-- Partners are encouraged to use PressReader green; gray may dominate in luxury implementations. Proper color reference for print/materials (Pantone), digital (RGB), and marketing visuals (CMYK) are recommended.
-
-**Typography Information:**
-
-- Harmonia Sans Pro is the main typeface with weights like Regular, Semi Bold, and Bold. Applications range from headlines (Semi Bold) to body text (Regular). Sizes: Headline font size 50 pt, body 12 pt.
-
-**Spacing Layout:**
-
-- Logo exclusion zone must maintain a clearance of the 'P' component boundary size or greater.
-
-**Brand Voice:**
-
-- Modern, forward-thinking, and slightly cheeky messaging style is emphasized.
-
-**Notes:**
-
-- Contact VP of Marketing for queries: Kristin Eberth (kristin@pressreader.com).
+*Guidelines data not available*
 
 ### 2017
 
-**Logo Information:**
-
-- Details on PressReader's visual design system, youthfulness, and rules for consistency.
-- Co-branded marketing rules, approvals required by PressReader Brand Team.
-- P-icon usage rules and design elements including speech bubble abstraction.
-- Primary logo consisting of the P-icon and wordmark with unchangeable proportions.
-- Green and gray logos acceptable with color rules; grayscale available for specific needs.
-- Stacked logos reserved for tall or constrained spaces.
-- Clear space rules and sizing expectations for logos in digital and print settings.
-- App icon reserved for app-specific usage, not a logo substitute.
-
-**Color Information:**
-
-- Primary color palette includes shades of green and gray, advised for use based on target audiences.
-- Color references covering HEX, RGB, CMYK, and Pantone codes explained
-- Examples of using color combinations for sector-based targeting such as airlines and hospitality.
-
-**Typography Information:**
-
-- Typography family specified as Harmonia Sans Pro Regular and Semi-Bold for usage roles.
-
-**Imagery Photography:**
-
-- PressReader visual communication emphasizes minimalism, vibrant imagery, and direct calls-to-action.
-
-**Brand Voice:**
-
-- Instructions on respectful writing of 'PressReader' maintaining capitalization and P-icon emphasis.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -157,7 +91,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/); [Richmond](/headquarters_locations/richmond/) |
+| Headquarters Location | [Richmond](/headquarters_locations/richmond/); [Vancouver](/headquarters_locations/vancouver/) |
 | Name | PressReader Inc. (from 2014), NewspaperDirect (from 1999, until 2014) |
 | X (Twitter) Username | pressreader (as of 2020-12-25, from 2008-09-25), PressReaderCare (as of 2020-12-25, from 2014-07-21), PressReader |
 | Instagram Username | pressreader |

@@ -2,12 +2,12 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-03-20T08:22:05.413535"
+date: "2026-04-10T09:40:34.270161"
 draft: false
 sectors:
+  - telecom
   - networking
   - cybersecurity
-  - telecom
 regions:
   - taiwan
 years:
@@ -30,8 +30,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - router
   - "network-switch"
+  - router
 products: []
 headquarters_locations:
   - "hsinchu-city"
@@ -58,22 +58,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-287"
-  - "pantone-2915"
-  - white
-  - blue
-  - "pantone-194"
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - staged
-  - professional
-  - classic
-  - natural
-  - photography
-  - clean
+imagery_styles: []
 wikidata_description: Taiwanese manufacturer of networking hardware
 wikidata_url: "https://www.wikidata.org/wiki/Q245283"
 has_twitter: false
@@ -93,25 +80,7 @@ visual_term_image_urls: {}
 
 ### 2003
 
-**Logo Information:**
-
-- Various formats such as A4 Advertisement (Access & Classic versions), Double A4 Advertisement, Poster System (Access & Classic versions with left/right logos), Datasheet System (Access & Classic versions), and Product Guide System are mentioned with specifications such as dimensions, placement, and use of logos.
-
-**Color Information:**
-
-- Usage of Pantone colors such as Pantone 287 C, Pantone 194 C, and Pantone 2915 C across applications like business cards, posters, datasheets, and product guides. Two-color or three-color processes are used frequently, alongside black, white, and other Pantone shades.
-
-**Imagery Photography:**
-
-- Photography guidelines discourage the use of unnatural effects (e.g., special filters, computer-generated effects, staged/stiff poses). The emphasis is on natural expressions and gestures in images. The style reflects the brand's essence.
-
-**Brand Voice:**
-
-- Tone of voice emphasizes clear and concise messaging. Headlines are styled with specific colors (e.g., model names in blue), and layouts are professional and clean for consistency with the brand personality.
-
-**Notes:**
-
-- The document includes a detailed breakdown of ZyXEL branding elements, covering topics like ad systems, datasheets, corporate communications, and stationary applications. It provides comprehensive size, material, and design guidance for these elements.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -121,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Router](/products_or_materials_produced/router/); [Network Switch](/products_or_materials_produced/network-switch/) |
+| Product Or Material Produced | [Network Switch](/products_or_materials_produced/network-switch/); [Router](/products_or_materials_produced/router/) |
 | Headquarters Location | [Hsinchu City](/headquarters_locations/hsinchu-city/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/0c6x00 |

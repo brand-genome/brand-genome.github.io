@@ -2,7 +2,7 @@
 title: Varsity Spirit
 slug: "varsity-spirit"
 description: ""
-date: "2026-03-20T08:22:04.527283"
+date: "2026-04-10T09:40:33.322857"
 draft: false
 sectors:
   - sports
@@ -51,8 +51,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -75,17 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The Varsity Spirit brandmark consists of two primary elements: the Varsity Spirit logotype and V-braid logo.
-- The Varsity Spirit logotype has been specifically drawn to be proprietary to Varsity Spirit; the V-braid logo represents vitality and energy.
-- The center stripe in the V-braid logo is transparent, allowing the background color to show through.
-- The Varsity Spirit brandmark includes the register ® mark and should never be displayed without it.
-
-**Notes:**
-
-- Approval needed for all items using Varsity Spirit brandmark. Proofs can be sent as .pdf or .jpg files.
-- Approval contacts: Nicole Lauchaire, Catherine Morris, Sheila Noone. Expected response time is within 24 hours (Monday-Friday).
+*Guidelines data not available*
 
 ## Additional Properties
 

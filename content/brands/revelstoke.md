@@ -2,7 +2,7 @@
 title: Revelstoke
 slug: revelstoke
 description: ""
-date: "2026-03-20T08:22:05.575764"
+date: "2026-04-10T09:40:34.503674"
 draft: false
 sectors:
   - tourism
@@ -49,25 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - green
-  - white
-  - yellow
-  - black
-typographies:
-  - impact
-  - helvetica
-  - arial
-  - times
-imagery_styles:
-  - photography
-  - modern
-  - staged
-  - natural
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city in British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1893229"
 has_twitter: false
@@ -88,41 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Several variations of the wordmark developed for flexibility: Primary Wordmark (preferred use), Primary Box Wordmark (ideal for use on photography), Location Wordmark 1 (Provincial and National versions), Abbreviated Primary Wordmark (limited to digital and casual applications), Abbreviated Primary Box Wordmark (limited to digital and casual applications).
-- Reversed logos to be used on dark backgrounds for all logo variations, including Primary Wordmark, Box Wordmark, and Location Wordmarks.
-- Logo clear space defined: Minimum white space around the logo is 'R,' the height of the box surrounding the main text. Must be maintained at all times.
-- Minimum size requirement: The logo must be at least 1 inch wide at 300 DPI.
-- Logo usage guidelines: Prohibited actions include altering the logo's proportions, substituting unapproved colors, rotating/angling, rearranging elements, changing typeface, altering the location indicator, or distorting the shape of the logo.
-
-**Color Information:**
-
-- Rich Black: R: 9, G: 3, B: 4, CMYK: C: 63, M: 62, Y: 59, K: 94, HEX: #090304
-- Forest Green: R: 0, G: 92, B: 69, CMYK: C: 99, M: 11, Y: 72, K: 35, HEX: #005C45
-- Industrial Red: R: 157, G: 34, B: 53, CMYK: C: 7, M: 100, Y: 68, K: 32, HEX: #9D2235
-- Industrial Yellow: R: 238, G: 196, B: 26, CMYK: C: 0, M: 20, Y: 100, K: 2, HEX: #EEC41A
-
-**Typography Information:**
-
-- Primary typeface is Trade Gothic Condensed. Variants and usage: Trade Gothic Condensed No.18 (body copy and subheadings), Trade Gothic Condensed No.20 (headings, accents, and emphasis in body copy), Oblique versions used sparingly for emphasizing text. Digital substitutions include Helvetica or Arial where Trade Gothic Condensed cannot be used.
-
-**Imagery Photography:**
-
-- Images should follow Destination British Columbia's style guidelines. Key considerations: authenticity (no staged/contrived setups), strong emotional impact, nature focus, and avoidance of typical cliché tourism images. Unique compositions are encouraged, with emphasis on nature and raw emotions.
-
-**Spacing Layout:**
-
-- Logo clear space: ensure 'R,' the height of the box surrounding the main text, is maintained around the perimeter.
-
-**Brand Voice:**
-
-- Tone of voice is short, confident, and firm, catering to diverse audiences (families, adventurers, passers-by, and mountain resort seekers). Hashtag '#TheRealStoke' encourages user engagement on social platforms.
-
-**Notes:**
-
-- The Revelstoke brand honors its history while appealing to adventurers and modern audiences. Its story focuses on authenticity, natural beauty, and a unique identity tied deeply to its heritage and geography.
-- Questions regarding brand usage and permissions can be directed to marketing@revelstokechamber.com or 250-837-5345.
+*Guidelines data not available*
 
 ## Additional Properties
 

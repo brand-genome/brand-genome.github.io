@@ -2,11 +2,11 @@
 title: Nutribullet
 slug: nutribullet
 description: ""
-date: "2026-03-20T08:22:03.159277"
+date: "2026-04-10T09:40:30.704312"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
   - "home-appliances"
 regions:
   - usa
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - retail
   - corporate
+  - retail
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,9 +66,3 @@ visual_term_image_urls: {}
 
 - [https://www.nutribullet.com](https://www.nutribullet.com)
 - [https://www.nutribullet.com/press](https://www.nutribullet.com/press)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

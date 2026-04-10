@@ -2,11 +2,11 @@
 title: Cathay Pacific
 slug: "cathay-pacific"
 description: ""
-date: "2026-03-20T08:22:05.049208"
+date: "2026-04-10T09:40:33.814508"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - airline
+  - "logistics-supply-chain"
 regions:
   - "hong-kong"
 years:
@@ -50,24 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-brand_colors:
-  - "pantone-202"
-  - red
-  - green
-  - "pantone-185"
-  - white
-  - grey
-  - "pantone-323"
-  - "pantone-295"
-  - black
-typographies:
-  - univers
-imagery_styles:
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: flag carrier of Hong Kong
 wikidata_url: "https://www.wikidata.org/wiki/Q32141"
 has_twitter: false
@@ -88,39 +74,114 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
+#### Brand Summary
 
-- Basic details about the Cathay Pacific brand symbol, the 'Brushwing,' and its significance, including single and bilingual signature variants.
-- Detailed logo color usage including primary corporate colors (Pantone 323 and 185), acceptable variations for black and white settings, and keyline signature options.
-- Rules for clear space and minimum size, ensuring logo legibility and correct presentation across applications.
-- Logo reproductions for limited use cases such as embossing, foil stamping, and fabric, noting minimum size specifications.
-- Improper usage examples, such as incorrect color applications, distortions, or separating logo elements.
+##### Mission
 
-**Color Information:**
+- To define the basic guidelines for the proper implementation of the Cathay Pacific Identity Program, ensuring a consistent and professional visible manifestation of the brand across all materials and touchpoints [^1].
 
-- Primary corporate color guidelines include CX Green (Pantone 323) and CX Red (Pantone 185), along with CMYK and RGB equivalents.
-- Additional color palette includes business class (Pantone 295), first class burgundy (Pantone 202), CX dark grey, and light grey, along with usage guidelines.
+##### Core Values
 
-**Typography Information:**
+- Asian high standards of personal service
+- Technical acuity
+- Safety
+- Reliability
+- Contemporary professionalism
+- International outlook [^2]
 
-- The brand uses Univers as the primary corporate font for forms, layouts, and headings, complemented by Sabon for body text.
-- Specific typography styles for business cards, letterheads, and envelopes, detailing font sizes and alignments.
+##### Target Audience
 
-**Imagery Photography:**
+- All persons responsible for any phase or element of the visible manifestation of Cathay Pacific, including agencies, suppliers, and partners involved in producing materials bearing the brand identity [^3].
 
-- Imagery focuses on high-quality, professional visuals to align with the brand's premium aviation identity.
+##### Personality Traits
 
-**Spacing Layout:**
+- Energetic
+- Contemporary
+- Professional
+- Reliable
+- International
+- Devoted to service [^2]
 
-- Minimum space guidelines are outlined for printed materials and logos, including proportions and padding measurements.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the Brushwing symbol, a stylized motif expressing energetic flight and Asian heritage, paired with a specially drawn logotype. The color palette features CX Green (Pantone 323) and CX Red (Pantone 185), with strict guidelines for logo usage, clear areas, and reproduction. The design system includes corporate typefaces (Univers, Sabon, Bodoni), structured layouts, and consistent application across stationery, livery, and branded materials [^2] .
 
-- The tone of voice reflects professionalism and reliability, aligned with Cathay Pacific's focus on excellence.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Detailed information on ticket design specifications, livery applications, and vehicle decals as part of the expanded brand identity.
+- The Brushwing expresses the unique character of an airline that is both based in Asia and has an international outlook. It embodies a sense of energetic flight in an Asian motif. The “handmade” symbol acknowledges Cathay Pacific’s devotion to Asian high standards of personal service. Its well-balanced elements project a contemporary, professional whole which attests to the Airline’s technical acuity and uncompromising attention to safety and reliability.
+- The Cathay Pacific logotype is a specially drawn typeface for use in corporate signatures and the signatures for the principal core businesses – Cathay Pacific Catering Services and Cathay Pacific Cargo. It must not be used elsewhere, and cannot be replaced by any other typeface.
+- There are three versions of the corporate signature which have been approved for reproduction. The three versions are as follows: Single Line Signature, Centred Signature, Bilingual Signature.
+- The Single Line Signature: The logotype to be placed right of the Brushwing.
+- The Centred Signature: The logotype to be centred below the Brushwing.
+- Each comprises the Brushwing and the Cathay Pacific logotype. For artwork, please refer to the CD-ROM Colour Swatches.
+- Don’ts: Do not place the logotype to the left of the Brushwing. Do not place the logotype above the Brushwing.
+- CX Green Pantone 323 • CX Red Pantone 185 (PANTONE is a registered trademark of Pantone, Inc.)
+
+##### Color Palette
+
+- CX Green PANTONE 323
+- CX Red PANTONE 185
+- The colours used in this document are not to be used for colour matching purposes. Always refer to colour masters or Pantone specification swatches.
+- CX Green PMS 323 Cyan 100 Magenta 0 Yellow 55 Black 50
+- CX Red PMS 185 Cyan 0 Magenta 90 Yellow 80 Black 0
+- First Class Burgundy PMS 202 Cyan 0 Magenta 100 Yellow 70 Black 60
+- Business Class Blue PMS 295 Cyan 100 Magenta 60 Yellow 0 Black 60
+- Economy Class Green PMS 323 Cyan 100 Magenta 0 Yellow 55 Black 50
+- CX Dark Grey PMS 5445 Cyan 10 Magenta 0 Yellow 0 Black 20
+- CX Light Grey PMS 5455 Cyan 5 Magenta 0 Yellow 0 Black 10
+- The colours shown on this page do not meet PANTONE Colour Standards. For PANTONE Colour Standards, refer to current editions of the PANTONE Colour Publications. The process colour percentage formulas shown have not been checked nor approved by Pantone, Inc. as being accurate PANTONE Process Colour simulations for respective solid PANTONE Colours. Refer to the appropriate PANTONE Colour Reference Manual for accurate reproduction.
+
+##### Typography
+
+- The Cathay Pacific logotype is a specially drawn typeface for use in corporate signatures and the signatures for the principal core businesses – Cathay Pacific Catering Services and Cathay Pacific Cargo. It must not be used elsewhere, and cannot be replaced by any other typeface.
+- Two typefaces, Univers and Sabon have been selected as the corporate typefaces for Cathay Pacific. They should be used on all printed applications.
+- Univers is used on items such as business forms, tabular information, corporate brochures, promotional materials, guidelines and instructions.
+- The typeface Sabon is preferred for signage and displays.
+- The Bodoni family is added to the list as a supportive typeface mainly for display headings.
+- The Cargo logotype is the same typeface specially developed for Cathay Pacific, no attempt should be made to match the logotype with conventional typesetting.
+- The Chinese logotype has been specially developed for Cathay Pacific Cargo, no attempt should be made to match the logotype with conventional typesetting.
+- Cathay logo. Brushwing. Pacific the signature typography to the or extend within the change Don't the Don't add new elements
+- colour. signature non-approved in signature. reproduce Don't distort the Don't the
+- signature. Brushwing between the elements. from the relationship separate Don't alter the Don't the
+- without reproduced from the master artwork.
+
+##### Logo Usage
+
+- The Cathay Pacific logotype is a specially drawn typeface for use in corporate signatures and the signatures for the principal core businesses – Cathay Pacific Catering Services and Cathay Pacific Cargo. It must not be used elsewhere, and cannot be replaced by any other typeface.
+- There are three versions of the corporate signature which have been approved for reproduction. The three versions are as follows: Single Line Signature, Centred Signature, Bilingual Signature.
+- The Single Line Signature: The logotype to be placed right of the Brushwing
+- The Centred Signature: The logotype to be centred below the Brushwing
+- Don'ts: [image] CATHAY PACIFIC [image] CATHAY PACIFIC
+- CX Green Pantone 323 • CX Red Pantone 185 ( PANTONE is a registered trademark of Pantone, Inc.)
+
+##### Visual Style
+
+- The Cathay Pacific logotype is a specially drawn typeface for use in corporate signatures and the signatures for the principal core businesses – Cathay Pacific Catering Services and Cathay Pacific Cargo. It must not be used elsewhere, and cannot be replaced by any other typeface.
+- There are three versions of the corporate signature which have been approved for reproduction. The three versions are as follows: Single Line Signature, Centred Signature, Bilingual Signature.
+- The Single Line Signature: The logotype to be placed right of the Brushwing
+- The Centred Signature: The logotype to be centred below the Brushwing
+- CX Green Pantone 323 • CX Red Pantone 185 ( PANTONE is a registered trademark of Pantone, Inc.)
+
+##### Layout And Composition
+
+- There are three versions of the corporate signature which have been approved for reproduction. The three versions are as follows: Single Line Signature, Centred Signature, Bilingual Signature. Each comprises the Brushwing and the Cathay Pacific logotype. For artwork, please refer to the CD-ROM Colour Swatches.
+- The Single Line Signature: The logotype to be placed right of the Brushwing
+- The Centred Signature: The logotype to be centred below the Brushwing
+- Don'ts: Don't put logotype on top of the symbol. Don't use the positive Cathay Pacific logo on a dark-coloured background. Don't use the negative Cathay Pacific logo on a light-coloured background.
+
+##### Co Branding
+
+- Whenever companies, logos appear other and when all the other Cathay logo logos When Pacific is co-existed with of Exceptions the Brushwing form, in their the should then be used.
+- up logo sponsorship exposure corporate sponsors In oneworld lock with all other carriers In with other
+
+##### Brand Architecture
+
+- The Cathay Pacific logotype is a specially drawn typeface for use in corporate signatures and the signatures for the principal core businesses – Cathay Pacific Catering Services and Cathay Pacific Cargo. It must not be used elsewhere, and cannot be replaced by any other typeface.
+- There are three versions of the corporate signature which have been approved for reproduction. The three versions are as follows: Single Line Signature, Centred Signature, Bilingual Signature.
+- The Single Line Signature: The logotype to be placed right of the Brushwing
+- The Centred Signature: The logotype to be centred below the Brushwing
 
 ## Additional Properties
 

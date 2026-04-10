@@ -2,7 +2,7 @@
 title: Technology Logistics Systems
 slug: "technology-logistics-systems"
 description: ""
-date: "2026-03-20T08:22:04.392637"
+date: "2026-04-10T09:40:33.120839"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -46,13 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,13 +67,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Primary logo version (text + symbol) with clear specifications. Includes a monochrome variant for use when coloration isn't possible.
-- Minimum width for the logo is specified as no less than 30mm to maintain visual clarity.
-- Logo usage on backgrounds: Use the color version for sufficient contrast or the monochrome version when necessary.
-
-**Notes:**
-
-- Table of contents spans multiple brand guidelines like logos, colors, typography, connectivity materials, vehicles, presentation formats, and promotional products.
-- Maintaining visual identity entails adhering to rules for the logo, corporate colors, and typography, as detailed in the document. Any modifications to provided materials are not allowed.
+*Guidelines data not available*

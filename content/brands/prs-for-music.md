@@ -2,7 +2,7 @@
 title: PRS for Music
 slug: "prs-for-music"
 description: ""
-date: "2026-03-20T08:22:04.197734"
+date: "2026-04-10T09:40:32.554954"
 draft: false
 sectors:
   - finance
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - music
-  - community
   - cultural
+  - community
+  - music
 industries: []
 countries:
   - "united-kingdom"
@@ -55,9 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - portrait
-  - landscape
+imagery_styles: []
 wikidata_description: British music rights society
 wikidata_url: "https://www.wikidata.org/wiki/Q7120528"
 has_twitter: false
@@ -75,34 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- PRS for Music logo is prominently displayed and clear space rules are described. Minimum sizes include Desktop H=62px at 72dpi and Mobile H=49px at 72dpi.
-- Centered positioning for the logo when in portrait or landscape designs. Includes examples of placement with text.
-
-**Color Information:**
-
-- Detailed brand color palette with HEX values is presented. Various tints are also outlined for online use. Examples of ratios and their applications shown.
-
-**Typography Information:**
-
-- Brand fonts and their respective uses are discussed. Clear examples for headers, body text, and captions provided.
-
-**Imagery Photography:**
-
-- Guidelines for photographic treatments using clear, high-quality images. Blurred or disengaging subjects are discouraged.
-
-**Spacing Layout:**
-
-- Comprehensive layout designs include grid details and margin and padding rules for proper alignment.
-
-**Brand Voice:**
-
-- Brand personality is described as pioneering, customer-first, inclusive, and collaborative. Tone is confident, approachable, and warm.
-
-**Notes:**
-
-- The document includes examples of how to combine all the brand elements cohesively, such as designing advertisements, spreads, and documents.
+*Guidelines data not available*
 
 ## Additional Properties
 

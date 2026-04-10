@@ -2,11 +2,11 @@
 title: Varta
 slug: varta
 description: ""
-date: "2026-03-20T08:22:04.407142"
+date: "2026-04-10T09:40:33.147215"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - germany
 years:
@@ -17,11 +17,11 @@ tags:
   - corporate
   - technology
 industries:
-  - "electrical-industry"
   - "manufacture-of-batteries-and-accumulators"
+  - "electrical-industry"
 countries:
-  - "german-reich"
   - germany
+  - "german-reich"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -64,9 +64,9 @@ imagery_styles: []
 wikidata_description: German company
 wikidata_url: "https://www.wikidata.org/wiki/Q4672907"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [https://www.varta.com](https://www.varta.com)
 - [https://www.varta-ag.com/us](https://www.varta-ag.com/us)
 - [https://www.varta-automotive.com/en-us](https://www.varta-automotive.com/en-us)
-
-## Brand Guidelines
-
-### 2012
-
-*Guidelines data not available*
 
 ## Additional Properties
 

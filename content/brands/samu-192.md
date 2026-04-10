@@ -2,7 +2,7 @@
 title: Samu 192
 slug: "samu-192"
 description: ""
-date: "2026-03-20T08:22:04.347154"
+date: "2026-04-10T09:40:33.075017"
 draft: false
 sectors:
   - "public-sector"

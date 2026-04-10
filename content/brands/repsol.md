@@ -2,14 +2,14 @@
 title: Repsol
 slug: repsol
 description: ""
-date: "2026-03-20T08:22:04.054567"
+date: "2026-04-10T09:40:32.067526"
 draft: false
 sectors:
-  - oil
-  - "renewable-energy"
-  - gas
-  - petroleum
   - "petrol-station"
+  - gas
+  - oil
+  - petroleum
+  - "renewable-energy"
 regions:
   - spain
 years:
@@ -17,8 +17,8 @@ years:
 languages:
   - spanish
 tags:
-  - industry
   - featured
+  - industry
 industries:
   - "petroleum-industry"
 countries:
@@ -66,9 +66,9 @@ imagery_styles: []
 wikidata_description: Spanish multinational energy and petrochemical company
 wikidata_url: "https://www.wikidata.org/wiki/Q174747"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -82,12 +82,6 @@ visual_term_image_urls: {}
 - [https://repsol.it](https://repsol.it)
 - [https://factura.repsol.com.mx](https://factura.repsol.com.mx)
 - [https://www.repsol.pe](https://www.repsol.pe)
-
-## Brand Guidelines
-
-### 2012
-
-*Guidelines data not available*
 
 ## Additional Properties
 

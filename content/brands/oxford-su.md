@@ -2,7 +2,7 @@
 title: Oxford SU
 slug: "oxford-su"
 description: ""
-date: "2026-03-20T08:22:04.466854"
+date: "2026-04-10T09:40:33.212472"
 draft: false
 sectors:
   - ngo
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
   - featured
   - community
+  - university
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -74,35 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Contents 1˜˚ The lo go 6 1.1 Versions 8 1.2 C olour 10 1.3 Clear space 12 1.4 Sizes 14 1.5 Placement 16 1.6 Misuse 18 1.7 Sub-brands 20 1.8 C o-branding 22 1.9 Pattern 24...
-- The logo is a key recognizable asset and should be used simply and consistently. misuse of the logo...
-
-**Color Information:**
-
-- Palette Pantone references with CMYK values along...
-
-**Typography Information:**
-
-- Gräbenbach Mono is our headline typeface...
-
-**Imagery Photography:**
-
-- We source high-quality imagery...
-- Oxford SU imagery style presented...
-
-**Spacing Layout:**
-
-- Spacing guidelines for clear area...
-
-**Brand Voice:**
-
-- Tone pointers and Voice priorities...
-
-**Notes:**
-
-- Contact Details RE: questions how to implement branding...
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: University of British Columbia
 slug: "university-of-british-columbia"
 description: ""
-date: "2026-03-20T08:22:04.663195"
+date: "2026-04-10T09:40:33.391497"
 draft: false
 sectors:
   - education
@@ -77,6 +77,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

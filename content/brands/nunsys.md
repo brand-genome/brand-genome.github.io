@@ -2,12 +2,12 @@
 title: Nunsys
 slug: nunsys
 description: ""
-date: "2026-03-20T08:22:05.421117"
+date: "2026-04-10T09:40:34.297460"
 draft: false
 sectors:
+  - software
   - networking
   - cybersecurity
-  - software
 regions:
   - spain
 years:
@@ -48,19 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - secondary
-brand_colors:
-  - white
-  - gray
-  - black
-  - pink
-  - magenta
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -81,41 +72,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The logo can be presented in various forms: standalone, with the symbol, with the claim, or with both.
-- Variants: Logo + Claim + Symbol.
-- Logo variants based on position.
-- Composition variants of the logo.
-- Inverted color versions of the logo.
-- Clear space rules around the logo defined as space that must not be invaded by other elements.
-- Minimum size requirements for printed and digital applications. Examples: 15mm, 30mm for print; 50 pixels, 100 pixels for screen.
-- Correct applications include ensuring maximum visibility, legibility, and contrast. Logo versions in white, pink, or black based on background luminosity.
-- Incorrect applications include element omission, color changes, proportion distortion, and typographic changes.
-
-**Color Information:**
-
-- Corporate magenta: CMYK: C0 M100 Y0 K0, RGB: R230 G0 B126, HEX: #E6007E.
-- Dark gray: CMYK: C68 M58 Y60 K43, RGB: R74 G74 B70, HEX: #e3e3e3.
-- Light gray: CMYK: C11 M10 Y15 K0, RGB: R232 G227 B218, HEX: #f5f5f5.
-
-**Typography Information:**
-
-- Corporate typography is GeoSlab, applied in internal communication, signage, and external communication.
-- Secondary typography includes Myriad Pro Regular, Bold, Extended, and Condensed for cases where GeoSlab cannot be used. For instance: technical limitations.
-
-**Imagery Photography:**
-
-- Photography must reflect the brand identity for digital channels, supporting distributed content.
-
-**Spacing Layout:**
-
-- Clear space rules specified visually around the logo, marked with 'A' to denote spaces, minimum spacing is shown as multiples of 'A'.
-
-**Brand Voice:**
-
-- Any modifications of size, proportions, typography, or graphical elements (like claim) are strictly prohibited in order to maintain brand consistency.
-
-**Notes:**
-
-- The document outlines detailed guidelines on logo usage, typography, and layout principles to ensure brand consistency.
+*Guidelines data not available*

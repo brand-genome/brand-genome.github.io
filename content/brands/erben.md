@@ -2,7 +2,7 @@
 title: Erben
 slug: erben
 description: ""
-date: "2026-03-20T08:22:05.522456"
+date: "2026-04-10T09:40:34.413910"
 draft: false
 sectors:
   - drink
@@ -47,12 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - gold
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,37 +68,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Mention of logo and its elements. Additional details to parse.
-- Mention of logo and its elements. Additional details to parse.
-- Mention of logo and its elements. Additional details to parse.
-
-**Color Information:**
-
-- Color information on page 8. Potential mention of CMYK and gold color.
-- Color information on page 9. Potential mention of CMYK and gold color.
-- Color information on page 12. Potential mention of CMYK and gold color.
-- Color information on page 13. Potential mention of CMYK and gold color.
-- Color information on page 14. Potential mention of CMYK and gold color.
-
-**Typography Information:**
-
-- Typography styles and font family details, including Daxline Medium and Daxline Bold, on page 11.
-
-**Imagery Photography:**
-
-- References to imagery, photography or flyer-related content on page 14.
-
-**Brand Voice:**
-
-- Potential brand voice or mission statement details referenced on page 3.
-- Potential brand voice or mission statement details referenced on page 14.
-
-**Notes:**
-
-- Document version details mentioned (Version 1.6 | March 2018) on page 6.
-- Document version details mentioned (Version 1.6 | March 2018) on page 10.
-- Document version details mentioned (Version 1.6 | March 2018) on page 12.
-- Document version details mentioned (Version 1.6 | March 2018) on page 13.
-- Document version details mentioned (Version 1.6 | March 2018) on page 14.
+*Guidelines data not available*

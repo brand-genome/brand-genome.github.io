@@ -2,7 +2,7 @@
 title: Valencia C.F.
 slug: "valencia-cf"
 description: ""
-date: "2026-03-20T08:22:05.710621"
+date: "2026-04-10T09:40:34.655347"
 draft: false
 sectors:
   - sports
@@ -50,25 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-  - crest
-brand_colors:
-  - silver
-  - red
-  - white
-  - blue
-  - yellow
-  - orange
-  - black
-typographies:
-  - "gill-sans"
-  - futura
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "association football club in Valencia, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q10333"
 has_twitter: false
@@ -86,41 +71,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The VCF crest is a symbol of both the football club and the City of Valencia, representing its identity. The crest must be treated with respect and represented consistently. It is applicable across digital media (e.g., websites, social media, mailings) and physical media (e.g., magazines, catalogues, posters).
-- Approved versions of the crest include: color crest on white background, white crest on black background, crest on black with white outline, and silver crest on black. An inclination of 23º is allowed for some applications, but only on specific black backgrounds in white and black or silver.
-- Unpermitted applications of the crest are specified. However, examples of such uses are not detailed.
-- The exclusion zone around the crest must equal 1/4 of the logo's width. Minimum reproduction size is 15x20 mm.
-- Corporate crest applications vary based on stand design. Exclusion zones must equal two uppercase 'V' widths. Minimum size is 25x18 mm.
-- Horizontal corporate crest minimum reproduction size is 30x22 mm. Exclusion zone proportional to two uppercase 'V' widths.
-
-**Color Information:**
-
-- Primary colors include:
-- Orange (Pantone 165C, CMYK: 0-65-100-0),
-- Black (Pantone Black C, CMYK: 0-0-0-100),
-- Red (Pantone 1795C, CMYK: 0-94-100-0),
-- Yellow (Pantone 109C, CMYK: 0-9-94-0),
-- Granite (Pantone 484C, CMYK: 0-87-83-30),
-- Silver (Pantone 877C, CMYK: 0-0-0-40),
-- Blue (Pantone 2925C, CMYK: 87-23-0-0),
-- Ochre (Pantone 153C, CMYK: 0-43-100-18).
-
-**Typography Information:**
-
-- Typography includes the following font families:
-- Trade Gothic: Used for documents, logos, and small club ads.
-- Futura Std: Used for large ads and slogans.
-- Gill Sans: Used for partnership presentations, sponsorships, and stadium presentations. Noted for its elegant and dynamic style with a large family of variations.
-- Specific fonts include:
-- Trade Gothic BoldCond No.20 and No.18
-- Futura Std Bold and Light
-- Gill Sans Bold and Light.
-
-**Spacing Layout:**
-
-- Partner logos must maintain a 10mm exclusion zone from surrounding elements. Minimum reproduction size for partner logos is 35x20 mm. Partner logo occupies 6/4 parts of the designated space on the right side.
+*Guidelines data not available*
 
 ## Additional Properties
 

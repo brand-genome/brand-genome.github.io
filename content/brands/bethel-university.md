@@ -2,7 +2,7 @@
 title: Bethel University
 slug: "bethel-university"
 description: ""
-date: "2026-03-20T08:22:05.742926"
+date: "2026-04-10T09:40:34.715819"
 draft: false
 sectors:
   - university
@@ -75,18 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Brand Voice:**
-
-- MESSAGING MAP: A helpful tool for organizing and prioritizing messages, focusing on attributes (what Bethel provides) and benefits (how it helps stakeholders).
-- CORE VALUE PROPOSITION: Bethel University provides a Christ-centered forum for dialogue and discovery, preparing students to lead and serve with excellence in every aspect of life.
-- PERSONALITY: Highlights characteristics embodying Bethel's brand, such as being committed, intelligent, motivated, inviting, spirited, and inspiring. Not defined by arrogance, self-righteousness, or complexity.
-- AUDIENCES: Internal (e.g., students, parents, faculty), external (e.g., prospective students/parents, community partnerships). Tailor messages to address specific audience needs while maintaining brand consistency.
-
-**Notes:**
-
-- AT BETHEL UNIVERSITY, EXCELLENCE IS ABOUT SOMETHING MORE. It means accomplishing things in careers, communities, and the world. Excellence is a commitment to Christ and a calling to serve.
-- BRAND POSITION: Defines Bethel University as an institution focusing on excellence integrally connected to faith in Christ. High-level communication for external and internal audiences may use this directly.
-- BRAND ARCHITECTURE: Defines university components' structure and roles. Establishes the hierarchy of the master brand and its sub-brands to guide visual and verbal communication.
+*Guidelines data not available*
 
 ## Additional Properties
 

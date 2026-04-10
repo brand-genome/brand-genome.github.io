@@ -2,7 +2,7 @@
 title: Gorky Park
 slug: "gorky-park"
 description: ""
-date: "2026-03-20T08:22:05.043246"
+date: "2026-04-10T09:40:33.805389"
 draft: false
 sectors:
   - "arts-culture"
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-brand_colors:
-  - white
-  - cyan
-  - yellow
-  - black
-  - magenta
-typographies:
-  - inter
-imagery_styles:
-  - bold
-  - natural
-  - playful
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "amusement park in Moscow, Russia"
 wikidata_url: "https://www.wikidata.org/wiki/Q126877"
 has_twitter: false
@@ -85,41 +73,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- The Gorky Park logo includes Russian and English versions, with variations such as horizontal, two-line formats, and simplified versions optimized for small formats.
-- Expanded logo contains the full name of the park in Russian with both regular and simplified formats for large and small contexts.
-- File formats for logos are mentioned, including AI files: GorkyPark-Logo-Horiz-Ru.ai, GorkyPark-Logo-Horiz-En.ai, GorkyPark-Logo-2lines-Ru.ai, and others.
-- Simplified versions of logos are designed for small format usage to avoid detail loss.
-
-**Color Information:**
-
-- Primary Colors: Black and white; Additional Colors: Four vibrant seasonal colors representing winter, spring, summer, and autumn.
-- Seasonal Color Codes: Winter (Cyan: 100, Magenta: 10, Yellow: 0, Black: 50); Spring (Cyan: 0, Magenta: 100, Yellow: 95, Black: 10); Summer (Cyan: 40, Magenta: 0, Yellow: 100, Black: 5); Autumn (Cyan: 0, Magenta: 40, Yellow: 100, Black: 5).
-- Usage rule: Seasonal colors can be used for business cards and other applications.
-
-**Typography Information:**
-
-- Primary font is ALS Direct in nine styles including Regular, Italic, Bold, Semi-condensed Regular, Semi-condensed Light, Semi-condensed Bold, Condensed Regular, and Condensed Light.
-- Custom font ALS Direct Gorky Park includes unique symbols, ligatures, and decorated characters for signage, headlines, and slogans. Not suitable for body text.
-- Specific size rules for application: Name style uses ALS Direct Gorky Park with size 11pt, leading at 13pt, and tracking at 10. Contact info style uses ALS Direct Regular with size 6pt, leading at 9pt, tracking at 15, and inter-paragraph spacing of 1.5mm.
-
-**Imagery Photography:**
-
-- Examples of letters and ligatures unique to the brand were provided on posters such as Gorky Park-Letters-Poster-A1.pdf.
-
-**Spacing Layout:**
-
-- Spacing for business card templates includes inter-paragraph spacing of 1.5mm. Recommended to use colored paper dyed in bulk for colored cards.
-
-**Brand Voice:**
-
-- Messaging uses decorative surprises embedded in text, aiming for a playful tone. Specific restrictions include hiding only one surprise per word/message.
-
-**Notes:**
-
-- Contact information and business card designs frequently highlight the park's detailed seasonal themes and employee information.
-- Gorky Park branding integrates natural and seasonal elements in logo representations, typography, and color choices.
+*Guidelines data not available*
 
 ## Additional Properties
 

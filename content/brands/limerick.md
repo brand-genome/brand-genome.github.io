@@ -2,7 +2,7 @@
 title: Limerick
 slug: limerick
 description: ""
-date: "2026-03-20T08:22:05.168864"
+date: "2026-04-10T09:40:34.027545"
 draft: false
 sectors:
   - "public-sector"
@@ -48,27 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - blue
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - staged
-  - minimal
-  - graphic
-  - dramatic
-  - bold
-  - modern
-  - natural
-  - photography
-  - gradient
+imagery_styles: []
 wikidata_description: city in Ireland in the province of Munster
 wikidata_url: "https://www.wikidata.org/wiki/Q133315"
 has_twitter: false
@@ -88,47 +71,103 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- The Limerick brandmark is bold, transitioning from deep blue to bright green, reflecting Limerick's identity with key attributes: modern, resilient, textured (inspired by the Treaty Stone), and multi-dimensional. The texture is derived from the Limerick Treaty Stone using a reproduction technique from Limerick printmakers.
-- Clear space rule: Respect minimal margins in all applications and co-branded materials. The margin should be 1x the width of the 'LI' of Limerick on the left and right, and 1.5x the width on the top and bottom.
-- Two primary colorways are available: 1) blue-green gradient version (for white backgrounds), 2) white version for dark backgrounds or busy images. The black version is for accessibility or when color usage is not possible. Both vector (solid version) and textured PSD options of logos are provided.
-- Minimum size requirements: For print, logos' width should be at least 25mm for the primary version and 15mm for the logo without the strapline. For digital usage, the logo must be at least 175px and 100px respectively. Preferred positioning is bottom left, but center or right alignment is allowed when bottom left isn't possible.
-- Do's and don'ts for logo usage: Avoid recreating the logo, altering colors or elements, placing within shapes, reorienting, applying effects (like shadows), distorting, or creating unauthorized straplines.
-- Rules for locking up with other logos: Minimum distance between the Limerick logo and other logos should be at least 1/3 of the logo's width. For partner logos, Limerick's brandmark must be no smaller than 75% of the partner's logo width or height.
+##### Mission
 
-**Color Information:**
+- To ensure the Milk Market logo is used consistently, presented professionally, and reflects the spirit of the Milk Market.
 
-- Primary colors include Blue (HEX: #054e8a, RGB: 5, 78, 138), Pine Green (HEX: #226E71, RGB: 34, 110, 113), and Green (HEX: #498f4f, RGB: 73, 143, 79). These can be used generously for headers and backgrounds.
-- Secondary colors include Kelly Green (HEX: #70b42f, RGB: 112, 180, 47), used sparsely for decorative purposes, and Orange (HEX: #ef8117, RGB: 239, 129, 23) as an accent color. Limerick Gradient (transitioning between Blue and Kelly Green) is used sparingly as a decorative asset.
-- Charcoal (HEX: #34372f) is used for body copy on white backgrounds, and White (#ffffff) is used as a background or for body copy over dark backgrounds.
-- Text to background color combinations are categorized into 1) freely useable in creatives, 2) use cautiously (for large font sizes), and 3) combinations to avoid entirely.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- professionalism
+- community connection
+- freshness
+- quality
 
-- Primary font: Palanquin. Preferred versions for use are Bold and Regular, though the full family is available. It is used for most communications.
-- Special font: FS Industrie Narrow. Used sparingly for creative layouts, headers, and impactful advertising. Available weights include Narrow Black and Medium.
-- Typography style guidelines: Palanquin is standard for communications. Headline may include up to three highlighted words using the designated accent color. FS Industrie Narrow is employed for bold creative layouts.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and businesses engaging with the Milk Market in Limerick, including market visitors, vendors, and the broader community.
 
-- Photography should reflect the dual qualities of Limerick (Edge and Embrace): gritty yet warm, proud yet humble, creative yet driven. Imagery should have unique perspectives and quirky angles.
-- People photography should focus on natural imagery—avoid forced poses, eye contact with cameras, and overly staged scenes. Personality and storytelling are critical.
-- Photography of places in Limerick should reveal and surprise. Use light conditions such as sharp skies, sunrise, or atmospheric lighting to enhance dramatic or contrasting appearances.
-- Avoid overly edited images, harsh contrasts, generic shots with no story, or images lacking character or positivity.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- clean
+- inclusive
+- fresh
+- dynamic
 
-- Shapes and graphic frames are derived from the 'K' angle in the logotype. The vertex should not be positioned within a 10% margin of the layout edges.
-- The sloping lines of the Limerick icon shape dictate layout composition. Relationships between text, logo, and graphics should follow these lines.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a stylized, semi-circular graphic with layered geometric shapes in shades of blue and green, paired with bold serif and sans-serif typography. The brand uses a cool color palette, emphasizing modernity, freshness, and community, with clear guidelines for logo usage, color variations, and typefaces.
 
-- Limerick's voice is friendly (open-hearted, direct, and personable), outward-looking (appealing to newcomers), tough (resilient, straightforward, no clichés), and ambitious (self-confident but grounded).
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Official contact information for Limerick branding queries is provided: marketing@limerick.ie, +353 61 556000, and www.limerick.ie.
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- All logos are provided as .Al (Adobe Illustrator) or .EPS formats and the black version is also provided as a .TIFF.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- The single coloured logo should only be used in print.
+
+##### Color Palette
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- C/M/Y/K 100/80/15/0 C/M/Y/K 82/30/22/0 C/M/Y/K 42/0/0/0 C/M/Y/K 25/0/100/0
+- R/G/B 0/69/134 R/G/B 22/139/172 R/G/B 201/233/248 R/G/B 220/223/74
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+- C/M/Y/K 60/100/0/10
+- C/M/Y/K 0/100/80/10
+- C/M/Y/K 100/40/0/40
+- C/M/Y/K 100/0/40/40
+- R/G/B 119/23/118
+- R/G/B 209/0/45
+- R/G/B 0/82/134
+- R/G/B 0/108/114
+
+##### Typography
+
+- The type faces used in the logo are Trajan and Myriad.
+- Trajan is suited best for titles or decorative applications. Myriad Pro is ideal for setting text and directional signage. This manual uses Myriad as its main typeface.
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Examples ofTrajan used as a decorative typeface:
+- # FOOD & VARIETY MARKETS
+- FAMOUS FOR FRESH & FINE PRODUCE SINCE 1852
+- FOOD MARKET
+- FAILTE
+- Myriad as text or as signage:
+- « Food Stalls » Exit » Toilets
+
+##### Brand Imagery
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- All logos are provided as .Al (Adobe Illustrator) or .EPS formats and the black version is also provided as a .TIFF.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+
+##### Visual Style
+
+- The full-colour version is the preferred use of the Milk Market Logo. Because of the overlays and transparency effect, this version should be used whenever possible.
+- Ocassionally, you may need to use the logo on a background that may render the name illegible. There is a version of the logo with white type for this situation.
+- Alternatives to the logo include a solid colour, black, negative, and RGB (screen colours) versions (see opposite page). The designer should use the version that is most appropriate for the application. Legibility should be the foremost concern above all other factors.
+- The solid version should only be used when full-colour printing is not available. The colour is a solid Pantone spot ink.
+- The black version is also provided as .tif and .eps. to allow the designer to apply any colour to the logo within a layout program. This is useful when the Pantone ink is not available or as a decorative element (for example,as it is used here in the background).
+- The negative version is helpful when the logo is placed on a dark background or a photograph which may reduce legibility.
+- To create design elements that have the same colours as the logo, or shades of them, use these formulas.
+- Secondary colours are used to add interest and variety to the brand.They should never be used to replace the colours of the logo. These are better suited as background colours or in separate decorative elements.
+- The single coloured logo should only be used in print.
 
 ## Additional Properties
 

@@ -2,15 +2,15 @@
 title: The New School
 slug: "the-new-school"
 description: ""
-date: "2026-03-20T08:22:03.872409"
+date: "2026-04-10T09:40:31.547442"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2005
   - 2015
+  - 2005
 languages:
   - english
 tags:
@@ -55,17 +55,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - silver
-  - red
-  - white
-  - yellow
-  - orange
-  - black
-typographies:
-  - garamond
-imagery_styles:
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: private university in New York
 wikidata_url: "https://www.wikidata.org/wiki/Q599316"
 has_twitter: false
@@ -85,39 +77,139 @@ visual_term_image_urls: {}
 
 ### 2015
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To create a flexible, cohesive, and differentiated brand identity system for The New School that reinforces its university brand positioning and graphic identity, ensures consistency across all communications, and stands out from the competitive landscape [^1].
+
+##### Core Values
+
+- flexibility
+- cohesion
+- consistency
+- differentiation
+- progressive outlook
+
+##### Target Audience
+
+- Prospective and current students, faculty, staff, and stakeholders of The New School, including its various colleges and programs [^2].
+
+##### Personality Traits
+
+- flexible
+- personalized
+- progressive
+- modern
+- innovative
+
+##### Visual Identity Overview
+
+- The New School's visual identity is defined by a strict color palette (Pantone Parsons Red, Black, White), proprietary Neue type family, bold logo with horizontal bars, and clear rules for logo usage, sizing, alignment, and lockups. The style is minimalist, modern, and impactful, emphasizing clarity and consistency across print and digital applications [^3].
+
+#### Categories
+
+##### Color Palette
+
+- There are three core colors in The New School visual identity; Pantone Parsons Red, Black, and White. The New School visual identity relies heavily upon these colors, and therefore they should be used primarily for all printed and digital materials. The breakdowns should be used and should never be substituted for another color. The core color palette should never be dominated.
+- Colors shown on this page are not accurate for color matching. Please refer to the current Pantone Color Formula Guide to ensure that color reproduction is accurate. The colors shown have not been evaluated by Pantone, Inc. for accuracy (Pantone® is a registered trademark of Pantone, Inc.).
+- Pantone Parsons Red Pantone Breakdown Rubine Red(51), Yellow 012(49) CMYK Breakdown C(5), M(98), Y(100), K(0) Screen Breakdown R(232), G(46), B(33) HTML Breakdown #E82E21
+- Black CMYK Breakdown C(0), M(0), Y(0), K(100) Screen Breakdown R(0), G(0), B(0) HTML Breakdown #000000
+- White CMYK Breakdown C(0), M(0), Y(0), K(0) Screen Breakdown R(255), G(255), B(255) HTML Breakdown #FFFFFF
+
+##### Typography
+
+- Typefaces permissible to use within The New School identity are Neue and Neue Display.
+- When digital viewability issues arise, Arial should be used as a replacement.
+- Text can appear in black, tints of black, or white for use on dark backgrounds.
+- The preferred tracking is zero. The tracking of a particular line can be tightened slightly to avoid hypens or widows. This should only be resorted to if tighter kerning of word-spacing proves ineffective. Tracking should be kept visibly consistent.
+- Leading should generally be tight yet readable for cases with lots of text.
+- Avoid the use of hyphens. Try to avoid breaking words across lines if possible.
+- Space between paragraphs and sections will vary from piece to piece. Use a full return between sections. If a smaller space between paragraphs is desired, the space can be a few points smaller than the leading.
+- Sections should be spaced out in such a way that it makes the information very accessible to the reader.
+- Neue should not be substituted for any other font, or modified in any way. These examples illustrate improper uses of type when designing for The New School.
+- Do not modify the shape of the characters manually (shown vertically extended).
+- Do not modify the shape of the characters manually (shown horizontally extended).
+- Do not use any typefaces other than the provided Neue Type Family (Franklin Gothic shown here).
+- Do not manually skew the letterforms.
+- Do not manually add outlines to the letterforms (Neue Regular shown here).
+- To further enhance the brand, a proprietary typeface, Neue, has been created for The New School created by Peter Bil’ak in conjunction with Pentagram. The Neue type family includes Regular, Bold, and Black weights. Italic fonts are also included for Regular and Bold.
+- Display fonts have been created for Neue Black that include Black, Wide, Ultra, and Random.
+- To use the Neue fonts, load the provided files (Mac or PC) into a type management program.
+- Arial is an acceptable typeface only if Neue is not available.
+- The Neue Random font employs an OpenType algorithm that allows the font to cycle through characters of various widths as you type.
+- Microsoft Word (Mac): OpenType features are NOT on by default. You must turn on: Kerning, Ligatures, Contextual Alternates.
+- Tip: Save these settings as 'Default', and you won't have to set them again.
+
+##### Logo Usage
+
+- The New School is an integral part of every branded piece of communication or item — this should not be removed from the logo for any reason
+- The New School can stand alone, without an accompanying school
+- The New School can stand with the lock-up of all descriptive offerings together, though not with descriptions on their own unless they are also the name of the school. e.g. TNS/Liberal Arts is not OK, while TNS/Social Research is approved
+- The New School can stand with schools as outlined in the tier system
+- School names will never be seen in a logo format alone, they will always appear alongside The New School, though with different size weights depending on the usage
+- The New School logo employs the use of Neue Display in addition to two horizontal bars that span the width of the typography. This conveys The New School's flexible and personalized nature while hinting at its progressive outlook.
+- The New School logo should always be black or in reverse.
+- The logo exists in two versions each unique to its stacking ability. Version 1 stacks the typography on three lines; each word on its own line. This version is most recognizable to The New School brand and should be used as much as possible. Version 2 sets the typography on one line. The size relationship does not change, except for the fact that the height is decreased by two lines of typography.
+- These two versions of the logo were developed to troubleshoot any size or spacing issues. Version 1 should be used when no constraints exist.
+- When The New School logo is used alone and not locked up to any College the length of the two bars in The New School logo should not change.
+- Use the files provided. Do not recreate the logo or alter the logo colors.
+- Clear space is an area surrounding the logo that is free of text or graphics. This clear space applies to all executions including print, web, broadcast media, and promotional items.
+- The cap height of the letter “T” in the logo can be used to determine the clear space. This is the minimum amount of space around the Logotype that is acceptable.
+- Two sizes of The New School logo exist. These two versions vary in spacing to acheive optimal readability and should be used accordingly by following the strict size regulations.
+- The size of the logo is measured by the height of the logo as a whole, not the width. The height of the logo is measured from the top of the cap height to the bottom of the bottom bar.
+- Size 1 should be used at 1” and above. This version has a minimum of 1” and can be scaled infinitely. The New School logo should be scaled as a whole.
+- Size 2 should be used below 1”. This version has a maxmimum of under 1” and a minimum of a .35”. The New School logo should be scaled as a whole.
+- Do not scale the typography without scaling the bars proportionately. When used as a standalone logo the typography should never be separated from the horizontal bars.
+- 1” = 72px ; .35” = 25.2px
+- The sizing rule used for Size 2 is set for the three-stack logo.
+- When appearing below text, The New School logo is most comfortable aligned so that the left of the bars align with the left edge of the text.
+- When appearing above text, The New School logo is most comfortable aligned so that the left of the bars align with the left edge of the text.
+- Do not alter The New School logo files in any way. Below are examples of logo violations.
+- These violations apply to all color versions of the logo.
+- Do not change the color of the Logo.
+- Do not add a gradient to the Logo.
+- Do not extend the bars past the type. Do not alter the Logo.
+- Do not use the Black Logo on a similar colored background.
+- Do not horizontally stretch the Logo.
+- Do not vertically stretch the Logo.
+- Do not use the bars only.
+- Do not use the reverse Logo on a similar colored background.
+
+##### Visual Style
+
+- There are three core colors in The New School visual identity; Pantone Parsons Red, Black, and White. The New School visual identity relies heavily upon these colors, and therefore they should be used primarily for all printed and digital materials. The breakdowns should be used and should never be substituted for another color. The core color palette should never be dominated.
+- Pantone Parsons Red Pantone Breakdown Rubine Red(51), Yellow 012(49) CMYK Breakdown C(5), M(98), Y(100), K(0) Screen Breakdown R(232), G(46), B(33) HTML Breakdown #E82E21
+- Black CMYK Breakdown C(0), M(0), Y(0), K(100) Screen Breakdown R(0), G(0), B(0) HTML Breakdown #000000
+- White CMYK Breakdown C(0), M(0), Y(0), K(0) Screen Breakdown R(255), G(255), B(255) HTML Breakdown #FFFFFF
+- Typefaces permissible to use within The New School identity are Neue and Neue Display.
+- When digital viewability issues arise, Arial should be used as a replacement.
+- Text can appear in black, tints of black, or white for use on dark backgrounds.
+- The preferred tracking is zero. The tracking of a particular line can be tightened slightly to avoid hypens or widows. This should only be resorted to if tighter kerning of word-spacing proves ineffective. Tracking should be kept visibly consistent.
+- Leading should generally be tight yet readable for cases with lots of text.
+- Avoid the use of hyphens. Try to avoid breaking words across lines if possible.
+- Space between paragraphs and sections will vary from piece to piece. Use a full return between sections. If a smaller space between paragraphs is desired, the space can be a few points smaller than the leading.
+- Sections should be spaced out in such a way that it makes the information very accessible to the reader.
+- Neue should not be substituted for any other font, or modified in any way. These examples illustrate improper uses of type when designing for The New School.
+- Do not modify the shape of the characters manually (shown vertically extended).
+- Do not modify the shape of the characters manually (shown horizontally extended).
+- Do not use any typefaces other than the provided Neue Type Family (Franklin Gothic shown here).
+- Do not manually skew the letterforms.
+- Do not manually add outlines to the letterforms (Neue Regular shown here).
+- The Neue Random font employs an OpenType algorithm that allows the font to cycle through characters of various widths as you type.
+- Microsoft Word (Mac) OpenType features are NOT on by default. You must turn on: • Kerning • Ligatures • Contextual Alternates
+- Tip: Save these settings as 'Default', and you won't have to set them again.
+
+##### Layout And Composition
+
+- Space between paragraphs and sections will vary from piece to piece. Use a full return between sections. If a smaller space between paragraphs is desired, the space can be a few points smaller than the leading.
+- Sections should be spaced out in such a way that it makes the information very accessible to the reader.
+- Slides should be designed on the grid to maximize white space and remain consistent with the brand image.
+- A PowerPoint Template has been created for consistency and ease of use.
 
 ### 2005
 
-**Logo Information:**
-
-- References to various logo styles and states, including university logos and school logos in formats such as left, mid, and right states, and color variants like 'red', 'orange', 'yellow', 'black', 'white', etc. EPS file usage for these logos is discussed for high-resolution print applications.
-- Information on logo file formats such as EPS, and guidelines for using logos specifically under different color variants and layout states.
-
-**Color Information:**
-
-- Color naming structure for university and school graphics, including colors such as 'red', 'orange', 'yellow', 'black', 'silver', and reversed versions. Discussion on file naming convention for color-specific resource applications.
-
-**Typography Information:**
-
-- Use of typefaces such as Adobe Garamond Pro Regular (e.g., for return address typography), and ITC Franklin Gothic Book Condensed for form field typography in templates like fax sheets.
-- Typography guidelines for newsletters including format specifications, use of typeface in textural layering, and combining photography with typography for visual clarity.
-
-**Imagery Photography:**
-
-- Prototypes demonstrate photography usage layered with textual visual elements, creating a design system unified for communication materials.
-
-**Spacing Layout:**
-
-- Safe zones established for layout sophistication, spacing requirements around return addresses, and college diplomas.
-
-**Brand Voice:**
-
-- The New School defines its voice with descriptors such as activist, eclectic, open, street-smart, articulate, creative, and courageous. These traits embody identity themes.
-
-**Notes:**
-
-- File naming structure is discussed for major asset directories, covering the university’s main sub-divisions and associated titles, including template application conventions for stationery and correspondence.
+*Guidelines data not available*
 
 ## Additional Properties
 

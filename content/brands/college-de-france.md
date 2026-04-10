@@ -2,12 +2,12 @@
 title: Collège de France
 slug: "college-de-france"
 description: ""
-date: "2026-03-20T08:22:03.386555"
+date: "2026-04-10T09:40:30.937716"
 draft: false
 sectors:
-  - publishing
-  - university
   - research
+  - university
+  - publishing
 regions:
   - france
 years:
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,9 +66,3 @@ visual_term_image_urls: {}
 - [https://www.college-de-france.fr](https://www.college-de-france.fr)
 - [https://www.college-de-france.fr/en](https://www.college-de-france.fr/en)
 - [https://www.college-de-france.fr/fr/editions-du-college-de-france](https://www.college-de-france.fr/fr/editions-du-college-de-france)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*

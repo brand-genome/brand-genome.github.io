@@ -2,7 +2,7 @@
 title: Channel 4
 slug: "channel-4"
 description: ""
-date: "2026-03-20T08:22:03.197645"
+date: "2026-04-10T09:40:30.741829"
 draft: false
 sectors:
   - broadcasting
@@ -52,22 +52,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - monochrome
+imagery_styles: []
 wikidata_description: "British public-service television broadcaster; TV channel"
 wikidata_url: "https://www.wikidata.org/wiki/Q501070"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,50 +72,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2004
 
-**Logo Information:**
-
-- Logo isolation area detailed. Clear space rules establish protection zone around logo. Measurements cited explicitly.
-- Minimum logo size described for various formats, such as billboards and press ads.
-- Logo misuse detailed with examples, including distortion, incorrect positioning, and color usage violations.
-
-**Color Information:**
-
-- Channel 4 color palette presented. Includes Pantone, RGB, CMYK codes for primary colors.
-- Guidance on appropriate background contrast for logo colors.
-
-**Typography Information:**
-
-- C4 Headline font designated for headlines and advertising. Typography hierarchy limited to three levels.
-- C4 Text Bold used for smaller print and URLs in advertising signature.
-- Detailed leading guidelines provided for adjusting spacing within poster layouts (e.g., font size x 1.1 or 10% auto leading).
-
-**Imagery Photography:**
-
-- Style guidance emphasizes full-frame imagery over montages, supporting eye-catching advertising compositions.
-- Examples provided of commissioned artwork exclusively for Channel 4 campaigns.
-
-**Spacing Layout:**
-
-- Margins specified for printed literature formats such as A3, A4, and brochures. Measurements are detailed minutely.
-- Poster layout rules emphasized. Typography boxes created using a special developed font 'C4 Guides.'
-
-**Brand Voice:**
-
-- Tone of voice described as bold, surprising, irreverent, with soundbites for advertising clarity. Example campaigns provided.
-- Guidelines for writing copy include rules for acronyms, quotations, and numeral usage.
-- Website URL integration guidelines provided. URLs are positioned range-left and formatted for visibility.
-
-**Notes:**
-
-- Sponsorship and third-party logo rules establish placement and sizing respecting Channel 4's logo.
-- Monochrome reproduction rules indicate acceptable use of black-and-white logo variants.
-- Response advertising guidelines accommodate large textual information and sponsor logos.
+*Guidelines data not available*
 
 ## Additional Properties
 

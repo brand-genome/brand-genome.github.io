@@ -2,7 +2,7 @@
 title: Independent Lens
 slug: "independent-lens"
 description: ""
-date: "2026-03-20T08:22:04.852546"
+date: "2026-04-10T09:40:33.601601"
 draft: false
 sectors:
   - broadcasting
@@ -47,21 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - vertical
-  - secondary
-  - horizontal
-  - alternate
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - gray
-  - turquoise
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: Television documentary film series (began 1999)
 wikidata_url: "https://www.wikidata.org/wiki/Q15036230"
 has_twitter: false
@@ -81,34 +70,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Brand Elements include a logo consisting of two parts: an icon ('iL' Lightning Bolt) representing conversations and a wordmark ('INDEPENDENT LENS' in all capitals). Additional graphic elements feature circles and angles.
-- Logo versions include: Primary horizontal logo, smaller horizontal logo, stacked vertical logo, and bug (icon). Each version fits different use cases. Primary horizontal is preferred; stacked works better at larger sizes.
-- Logo usage guidance includes safe zones and minimum size requirements. Incorrect usage examples cover disallowed modifications (e.g., using two colors for the wordmark, altering approved color combinations).
-
-**Color Information:**
-
-- Primary color palette includes Wine (#6F193E) and Gray (#9FA2A3). Secondary palette involves light turquoise (#60B0BB) alongside additional shades. Color codes include HEX, PMS, RGB, and CMYK.
-- Primary colors are preferred for logo use. Alternate color combinations should be used judiciously for distinct events or special circumstances.
-
-**Typography Information:**
-
-- League Gothic is the primary typeface used for brand character. Supporting fonts include Bebas Neue (secondary) for lighter designs and Fira Sans (tertiary) for large bodies of text.
-- Broadcast specifications outline typographic adjustments based on title length, subtitle inclusion, and line count. Font sizes range from 94 PT for Bebas Neue to 375 PT for League Gothic.
-
-**Imagery Photography:**
-
-- Event and social media assets include shareable images, YouTube cover designs, and onscreen photographs. General branding incorporates key art and title treatments.
-- Broadcast guidelines include teaser sequences (e.g., Top of Show) incorporating logo animations and filmmaker images alongside title sequences. Recommended opacity and dimensions are provided.
-
-**Spacing Layout:**
-
-- Grid specifications for video promos (e.g., Web Promo 1920x1080) include clear margins, leading, tracking, and title placement within allocated windows. Specifications outline exact dimensions for title, subtitle, and margins.
-
-**Notes:**
-
-- Brand guidelines emphasize proper usage across digital platforms, including social media customization, and event branding. All assets should align with primary colors and typography rules to maintain coherence.
+*Guidelines data not available*
 
 ## Additional Properties
 

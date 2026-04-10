@@ -2,7 +2,7 @@
 title: Helsingin Energia
 slug: "helsingin-energia"
 description: ""
-date: "2026-03-20T08:22:05.154129"
+date: "2026-04-10T09:40:33.990783"
 draft: false
 sectors:
   - utilities
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-brand_colors:
-  - "pantone-021"
-  - "pantone-286"
-  - white
-  - blue
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - minimal
+imagery_styles: []
 wikidata_description: "energy company in Helsinki, Finland"
 wikidata_url: "https://www.wikidata.org/wiki/Q3129981"
 has_twitter: false
@@ -83,29 +73,112 @@ visual_term_image_urls: {}
 
 ### 2004
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo consists of three stylized lightning bolts representing the business area. The logo's color is orange (Pantone 021). In normal use, it appears with the name-logo. In some specific cases, the logo can appear alone, and these cases are detailed in the guidelines. Logo relationships and proportions must not be altered.
-- There are constraints for safe zones around the logo. The area immediately surrounding the logo should remain free of any text or graphic elements. The clear spacing is measured in units based on the width of the vertical line in the lightning bolt.
-- Minimum size for the logo is 30 mm in width. It must be used in exactly this or larger dimensions to retain clarity.
-- Color variations of the logo include: full-color (with orange Pantone 021 and blue Pantone 286), black, and white (negative version).
-- The logo must not be rotated, reshaped, used as a pattern or decorative element, or altered from its approved form. Incorrect usage includes changing colors, fonts, or spacing.
+##### Mission
 
-**Color Information:**
+- To succeed in the increasingly competitive energy sector by supporting a strong corporate image, unified visual identity, and clear, strong brand, which are essential for business operations [^1].
 
-- Primary logo colors are Pantone 021 (orange) and Pantone 286 (blue). In CMYK, the values are C100 M60 for blue and C0 M68 Y94 for orange. When these colors cannot be used, black and white variations are permitted.
+##### Core Values
 
-**Typography Information:**
+- unity
+- competence
+- efficiency
+- good management
 
-- Typography rules include the proportional size and minimum distances in design templates, particularly for printed materials. Fonts must match the specific design guidelines for headlines and body text.
+##### Target Audience
 
-**Imagery Photography:**
+- Stakeholders and customers in the energy sector, with an emphasis on external communication and recognition [^2].
 
-- Images and design elements should respect the logo's safe zone, and elements must not interfere with its clarity or positioning. Design samples provide guidance for maintaining minimal margins, specific to formats such as A4, A5, A6, etc.
+##### Personality Traits
 
-**Notes:**
+- competent
+- efficient
+- well-managed
+- dynamic
 
-- The brand guidelines emphasize maintaining uniform and standardized branding across various touchpoints and scales.
+##### Visual Identity Overview
+
+- The visual identity is defined by a unified external appearance, featuring a distinctive orange lightning bolt symbol, strict logo usage rules, specific color palette (orange PMS 021 and blue PMS 286), and the Syntax typeface. The brand emphasizes clean, geometric, and energetic visual elements [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- Liikemerkki kuvaa kolmella tyylitel­lyllä salamalla symbolisesti liiketoi­minta-aluettamme.
+- Liikemerkin väri on oranssi (Pan­tone 021).
+- Liikemerkin rakennettaja suhteita ei saa muuttaa. Liikemerkkiä toteutet­taessa käytetään valmiita sähköisiä aineistoja, joita voidaan suurentaa ja pienentää tarpeen mukaan suhteet säilyttäen.
+- Liikemerkin välitön ympäristö rau­hoitetaan kaikelta ylimääräiseltäja siten varmistetaan sen tehokkain mahdollinen näkyvyys kaikissa olo­suhteissa. Merkkiä ympäröivälle suoja-aluieelle ei koskaan sijoiteta mitään tekstiä tai kuvaelementtiä. Suoja-alueen koko on merkin ylä-ja alapuolella 3xA ja sivuilla 4xA, kun A on salaman pystysuoran linjan leveys.
+
+##### Color Palette
+
+- Liikemerkin väri on oranssi (Pantone 021).
+- Värillisessä yritystunnuksessa salamat ovat oranssit ja nimilogo sininen. Jotta värit toistuisivat mahdollisim­man oikein, suositaan PMS-sävyjen käyttöä, jolloin oranssi on PMS 021 ja sininen PMS 286.
+- Jos värit korvataan nelivärisarjan väreillä, käytetään seuraavia arvoja: sininen C100 M60 ja oranssi M68 Y94. Tällöin sävyt eivät kuiten­kaan täysin vastaa oikeita Helsingin Energian tunnusvärejä, koska nelivä­risarjalla ei ole mahdollista tuottaa täysin samoja sävyjä kuin PMS­väreillä.
+- Liikemerkkiä voidaan käyttää myös mustana sekä negatiivina.
+- Värillinen yritystunnus: oranssi PMS 021 (nelivärisarjassa M68 Y94) ja sininen PMS 286 (C100 M60)
+- Oranssilla pohjalla käytetään negatiiviversiota
+- Helsingin Energian tunnusvärit ovat sininen ja oranssi.
+- Värimääritykset riippuvat kulloin­kin käytetystä värijärjestelmästä. Painotöissä värit ovat oranssi PMS 021 ja sininen PMS 286. Jos painoteknisistä syistä käytetään CMYK-nelivärijärjestelmää, värit ovat oranssi M68 Y94 ja sininen M100 Y60.
+- RGB muodossa (esim. näytöllä ole­viin esityksiin kuten PowerPointin diashow) värit ovat oranssi R250 G95 BO ja sininen RO G56 B168.
+- Tarrakalvoissa oranssi on Scotchal 100-14ja sininen Scotchal 100-635. Tarrakalvoja käytetään muun muassa opasteiden teksteissä ja ajoneuvo­merkinnöissä.
+- Paras painojälki saadaan käyttämällä kompakteja Pantone-värejä.
+- 4-väripainatu ksessa väri rakennetaan rastero i mal la 4-väriskaalan pai novärejä oikeassa suhteessa C (cyan), M (magenta), Y (yellow) ja K (key/musta).
+- Salamakuvio on aina oranssi.
+
+##### Typography
+
+- Talotypografi a on keskeinen yritysil-mettä kokoava elementti. Sillä tar-koitetaan kirjaintyyppiä, jolla eri yhteyksissä julkaistu tekstiaineisto tyypitetään. Helsingin Energian talo-kirjasintyppi on Syntax. Mainos-, markkinointi- ja painotöissä käyte-tään Linotype Syntaxia. Linotype Syntaxista on hankittu Helsingin Energian omaan käyttöön lisenssi Helen Syntax -nimisenä, jonka voi asentaa omalle koneelleen tarvitta-essa.
+- Perusasiakirjojen, kuten muistion tai faksin, fontti on Arial.
+- Fonttien käytöstä on tehty erik-seen tarkempia ohjeita esim. asiakas-kirjeiden laatijoille.
+- Linotype Syntax, jonka fonttiper-heestä osa on erikseen nimetty Helen Syntax -nimellä Helsingin Energian käyttöön.
+- Helen Syntax Regular
+- Helen Syntax Regular italic
+- Helen Syntax bold
+- Helen Syntax Heavy
+- Helen Syntax Black
+- Arial on perusasiakirjojen fontti, joka toimii turvallisesti myös verkkovies-tinnässä ja liitetiedostoissa.
+- Arial
+- Arial italic
+- Arial bold
+
+##### Logo Usage
+
+- Liikemerkki kuvaa kolmella tyylitel­lyllä salamalla symbolisesti liiketoi­minta-aluettamme.
+- Liikemerkin väri on oranssi (Pan­tone 021). Liikemerkkiä käytetään normaalisti nimilogon kanssa, jolloin ne muodostavat yhdessä yritystun­nuksen. Joissakin tapauksissa liike­merkki voi esiintyä yksinään, ne tilanteet käydään tässä ohjeistossa myöhemmin läpi.
+- Liikemerkin rakennettaja suhteita ei saa muuttaa. Liikemerkkia toteutet­taessa käytetään valmiita sähköisiä aineistoja, joita voidaan suurentaa ja pienentää tarpeen mukaan suhteet säilyttäen.
+- Liikemerkin välitön ympäristö rau­hoitetaan kaikelta ylimääräiseltäja siten varmistetaan sen tehokkain mahdollinen näkyvyys kaikissa olo­suhteissa. Merkkiä ympäröivälle suoja-aluieelle ei koskaan sijoiteta mitään tekstiä tai kuvaelementtiä. Suoja-alueen koko on merkin ylä-ja alapuolella 3xA ja sivuilla 4xA, kun A on salaman pystysuoran linjan leveys.
+
+##### Visual Style
+
+- Liikemerkki kuvaa kolmella tyylitel­lyllä salamalla symbolisesti liiketoi­minta-aluettamme.
+- Liikemerkin väri on oranssi (Pan­tone 021).
+- Liikemerkin rakennettaja suhteita ei saa muuttaa. Liikemerkkia toteutet­taessa käytetään valmiita sähköisiä aineistoja, joita voidaan suurentaa ja pienentää tarpeen mukaan suhteet säilyttäen.
+- Liikemerkin välitön ympäristö rau­hoitetaan kaikelta ylimääräiseltäja siten varmistetaan sen tehokkain mahdollinen näkyvyys kaikissa olo­suhteissa. Merkkiä ympäröivälle suoja-aluieelle ei koskaan sijoiteta mitään tekstiä tai kuvaelementtiä. Suoja-alueen koko on merkin ylä-ja alapuolella 3xA ja sivuilla 4xA, kun A on salaman pystysuoran linjan leveys.
+
+##### Layout And Composition
+
+- Liikemerkin rakennetta ja suhteita ei saa muuttaa. Liikemerkkia toteutettaessa kaytetaan valmiita sahkoisia aineistoja, joita voidaan suurentaa ja pienentaa tarpeen mukaan suhteet säilyttäen.
+- Liikemerkin välitön ympäristö rauhoitetaan kaikelta ylimääräiseltä ja siten varmistetaan sen tehokkain mahdollinen näkyvyys kaikissa olosuhteissa. Merkkiä ympäröivälle suoja-alueelle ei koskaan sijoiteta mitään tekstiä tai kuvaelementtiä. Suoja-alueen koko on merkin ylä- ja alapuolella 3xA ja sivuilla 4xA, kun A on salaman pystysuoran linjan leveys.
+
+##### Print Guidelines
+
+- Painotöissä värit ovat oranssi PMS 021 ja sininen PMS 286. Jos painoteknisistä syistä käytetään CMYK-nelivärijärjestelmää, värit ovat oranssi M68 Y94 ja sininen M100 Y60.
+- Paras painojälki saadaan käyttämällä kompakteja Pantone-värejä.
+- 4-väripainatuksessa väri rakennetaan rasteroimalla 4-väriskaalan painovärejä oikeassa suhteessa C (cyan), M (magenta), Y (yellow) ja K (key/musta).
+- Mainos-ja markkinointimateriaaleissa, esitteissä yms. näitä yritystunnuksen kokoja on hyvä pitää suunnittelun lähtökohtina, mutta perustellusti kokoa voi myös muuttaa.
+- Varsinkin lomakemateriaaleissa ja muissa niitä vastaavissa aineistoissa on tärkeää käyttää näitä kokoja.
+
+##### Signage Guidelines
+
+- Valomainokset ...............................................................................5.1
+- Ulko-opasteet................................................................................ 5.2
+- Sisä-opasteet ................................................................................. 5.3
+- Työmaakilvet ................................................................................ 5.4
+
+##### Vehicle Branding
+
+- Tarrakalvoissa oranssi on Scotchal 100-14ja sininen Scotchal 100-635. Tarrakalvoja käytetään muun muassa opasteiden teksteissä ja ajoneuvomerkinnöissä.
 
 ## Additional Properties
 

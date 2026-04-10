@@ -2,7 +2,7 @@
 title: Macquarie University
 slug: "macquarie-university"
 description: ""
-date: "2026-03-20T08:22:04.557432"
+date: "2026-04-10T09:40:33.362275"
 draft: false
 sectors:
   - education
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - "pantone-1807"
-  - black
-typographies:
-  - serif
-imagery_styles:
-  - bold
-  - modern
-  - gradient
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "university in Sydney, New South Wales"
 wikidata_url: "https://www.wikidata.org/wiki/Q741082"
 has_twitter: false
@@ -85,56 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Macquarie University logo must comply with minimum sizing rules: 15mm for print and 40px for digital. Horizontal and vertical logo alignments exist.
-- Each logo must have a clear zone equal to 'X', defined as the height of the shield device on each side. Use the original artwork files without alteration.
-
-**Color Information:**
-
-- Primary color palette includes:
-- Macquarie Red: Pantone 1807 C, CMYK (0, 91, 73, 32), RGB (184, 46, 45), HEX #B82E2D
-- Charcoal: Pantone Neutral Black C, CMYK (72, 66, 65, 74), RGB (51, 51, 51), HEX #333333
-Faculty-specific colors assigned to arts, science, and more.
-- Gradient allowed with Macquarie Red transitioning to Charcoal for modern design elements to enhance backgrounds.
-- Faculty-specific palettes require fidelity to official Pantone numbers as standardized in the Pantone Plus Series. Hex values and CMYK equivalents provided.
-
-**Typography Information:**
-
-- Primary Font Family:
-- National: Light, Regular, Book, Bold
-- Newzald: Italic, Serif
-Usage: National for headings, body text, and subheadings. Newzald exclusively for specific materials.
-- Hierarchy system presents clear distinction: National Bold for Titles (min. 16pt); Newzald Light for dense textual fields. Avoid combining typefaces improperly.
-
-**Imagery Photography:**
-
-- Photography styles include:
-- 'Big Issues': Centering ground-breaking thematic content
-- 'Campus Facilities and Grounds': Showcase nature, architecture
-- 'Portraits': Celebrate individuality, diverse narratives.
-- Editing rules for photography:
-- Crop restrictions: Maintain compositional intent
-- Contextual settings prioritized over filters/altering mood.
-
-**Spacing Layout:**
-
-- Clear zones for layout grids prioritize logo prominence; spacing matches 'X' multiplier also specified for allied decorative elements like icons.
-- Grids maintain uniformity in academic publications including 8-column baselines for legibility coherence compliance parallel margin discussion.
-
-**Brand Voice:**
-
-- Tone of voice guided by core principles of:
-- Warmth: Inclusive & welcoming
-- Innovative Verbs alongside callouts must feel authentic to academia brand.
-- Specificity for stakeholders
-- Social Media informal exact behaviors prepolished
-Stake newsletter headlines reflect Macquarie uni advancing excellence core tenants preview persona formatting localization-address audience readiness protocols prepared operations accounts
-
-**Notes:**
-
-- Signage across academic campuses advantages simplifying-navigable crafted uniform evidence infographic scaled audience-centricity accessibility signposts marked regionalized-symbol coordination testing-reviewed facilities automatic.
-- Final compliance processing routing via intra-validation-place corrective efficien platforms clarify stakeholder-meshed–adopted comprehensive procedural schematic aesthetics progressive architecture contemporize.
+*Guidelines data not available*
 
 ## Additional Properties
 

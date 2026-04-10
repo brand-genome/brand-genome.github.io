@@ -2,7 +2,7 @@
 title: CALM
 slug: calm
 description: ""
-date: "2026-03-20T08:22:05.049078"
+date: "2026-04-10T09:40:33.813976"
 draft: false
 sectors:
   - ngo
@@ -47,27 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - yellow
-  - gray
-  - magenta
-  - brown
-  - orange
-  - pink
-  - black
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -88,37 +71,115 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Introduction to the CALM logo as the most visible element of identity. Emphasis on consistent application to ensure recognition.
-- Logo clear space/exclusion zone rule to ensure sufficient spacing for legibility.
-- Minimum logo size specified as 14mm width for retaining legibility.
-- Do's and Don'ts for logo usage: No texture application, no outlining, no distortion, no rotation, and no image fills. Explicit examples provided.
+##### Mission
 
-**Color Information:**
+- To campaign against living miserably, advocating for mental health awareness and support, especially targeting suicide prevention.
 
-- Core colors include Black (CMYK: C60 M40 Y0 K100; RGB: 0, 0, 0; Pantone: Black 6C), White (CMYK: C0 M0 Y0 K0; RGB: 225, 225, 225), Pantone 3015C in blue shades.
-- Secondary colors introduced for vibrant accents, such as Pantone 395C (Yellow), Process Magenta C (Pink), Pantone 165C (Orange), etc., with CMYK, RGB, and Pantone properties.
-- Examples of good and bad color pairings shared, indicating aesthetic and visual compatibility.
-- Guidelines for color use considering color blindness scenarios. Avoid specific combinations like green and red, green and brown, blue and gray, etc.
+##### Core Values
 
-**Typography Information:**
+- clarity
+- consistency
+- visibility
+- advocacy
+- support
 
-- Primary typefaces: Alternate Gothic No 2 for headlines and Swiss 721 Light for body text; default alternatives include Helvetica Bold for headlines and Calibri Regular for body text.
-- Headline style: Centered or left-aligned with specific tracking (+20) and leading adjustments (1pt larger than font size). Manual kerning for proper spacing.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals affected by mental health challenges, particularly men under 45 in the UK, as well as the broader public seeking mental health support.
 
-- Guidance for placing the logo on backgrounds based on adaptability. White logo preferred for dark backgrounds; core blues or black logos for light backgrounds.
+##### Personality Traits
 
-**Spacing Layout:**
+- bold
+- assertive
+- supportive
+- clear
+- modern
 
-- Typography spacing rules include tracking (+20), leading adjustments (1pt larger than font point size), and manual kerning for headlines.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The brand uses strong, high-contrast colors (primarily blues, black, and white), bold sans-serif typography, and a consistent logo with strict usage rules. The visual style is minimalist, impactful, and designed for clarity and recognition across all platforms.
 
-- Guidelines for typing CALM when logos cannot be used: Always uppercase for 'CALM' and title case for 'Campaign Against Living Miserably'.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- The document outlines stationary, posters, merchandising, and online applications of the brand elements across final pages.
+- Please use the exclusion zone and ensure it always appears legibly with enough space to breathe as outlined here.
+- Do not decrease legibility of the logo by reducing it to less than 14mm wide.
+- Do not apply texture to the logo.
+- Do not outline the logo.
+- Do not distort the logo.
+- Do not rotate the logo.
+- Do not fill the logo with images.
+
+##### Color Palette
+
+- The colour palette is a key element to the visual identity. The colours we use and the way we use them will be key for our audience to build some familiarity and recognition.
+- Yes, we want fame and notoriety and colours are a great way of building this.
+- The logo is flexible, but clarity is always maintained through the use of contrasting colours.
+- These guidelines will help you ensure it is loud, proud and visually sound.
+- CMYK: C100 M32 Y0 K28
+- RGB: 0 100 158
+- PANTONE: 3015 C
+- CMYK: C60 M40 Y0 K100 RGB: 0 0 0
+- PANTONE: BLACK 6 C
+- CMYK: C92 M0 Y10 K3 RGB: 0 161 210
+- PANTONE: 639 C
+- CMYK: C0 M0 Y0 K0
+- RGB: 225 225 225
+- CMYK: C58 M0 Y13 K0
+- RGB: 105 198 221
+- PANTONE: 631 C
+- These are our core colours and should be used as a base in most creative, especially when we need to be all corporate.
+- CMYK: C6 M0 Y87 K0
+- RGB: 250 234 39
+- PANTONE: 395 C
+- CMYK: C0 M100 Y0 K0
+- RGB: 230 0 126
+- PANTONE: PROCESS MAGENTA C
+- CMYK: C0 M74 Y100 K0
+- RGB: 255 103 0
+- PANTONE: 165 C
+- CMYK: C100 M72 Y0 K50
+- RGB: 0 46 98
+- PANTONE: 295 C
+- These are our secondary colours which can be used to inject some of our vibrant personality when we need to grab people’s attention.
+- Here are a few parings that we find pleasing on the eye, as well as some that are not.
+- 8% of the male population are colour blind. Astonishing, only 0.5% of the female population are.
+- Do not pair: Green & red Green & brown Green & grey Green & blue Green & black Yellow & light green Blue & purple Blue & grey
+
+##### Typography
+
+- We use four fonts: Alternate Gothic No 2 for the main headlines and Swiss 721 Light for the body or non-headline copy.
+- If you do not have, or cannot install the above fonts, Helvetica can be used for headlines and Calibri for body copy or non-headline copy as these are default typefaces.
+- It is each vendor’s legal responsibility to purchase a licensed version of the fonts before producing final work.
+- HEADLINE FONT ALTERNATE GOTHIC NO 2
+- BODY COPY FONT SWISS 721 LIGHT
+- HEADLINE FONT HELVETICA BOLD THIS FONT SHOULD BE PRE-INSTALLED ON ALL COMPUTERS.
+- BODY COPY FONT CALIBRI REGULAR THIS FONT SHOULD BE PRE-INSTALLED ON ALL PCS. MAC USERS CAN PURCHASE AT: myfonts.com/fonts/ascender/calibri/
+- STYLE CENTRED HEADLINE TRACKING +20 LEADING 1 POINT LARGER THAN FONT POINT SIZE
+- STYLE LEFT ALIGNED HEADLINE TRACKING +20 LEADING 1 POINT LARGER THAN FONT POINT SIZE
+- KERNING MANUAL In headlines, some pairs of letters create awkward spaces, so the space between them needs adjusting.
+- What’s our type? Strong, consistent and well arranged across all platforms, obviously. Please consider line and letter spacing carefully, together with methods of emphasis and hierarchy.
+- CALM should always be typed in upper case without any full stops, followed by Campaign Against Living Miserably all typed in title case.
+
+##### Visual Style
+
+- Please use the exclusion zone and ensure it always appears legibly with enough space to breathe as outlined here.
+- Do not decrease legibility of the logo by reducing it to less than 14mm wide.
+- Do not apply texture to the logo.
+- Do not outline the logo.
+- Do not distort the logo.
+- Do not rotate the logo.
+- Do not fill the logo with images.
+
+##### Layout And Composition
+
+- Please use the exclusion zone and ensure it always appears legibly with enough space to breathe as outlined here.
+- Do not decrease legibility of the logo by reducing it to less than 14mm wide.
+- Do not apply texture to the logo.
+- Do not outline the logo.
+- Do not distort the logo.
+- Do not rotate the logo.
+- Do not fill the logo with images.

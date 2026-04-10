@@ -2,7 +2,7 @@
 title: Sotheby’s
 slug: sothebys
 description: ""
-date: "2026-03-20T08:22:04.327402"
+date: "2026-04-10T09:40:33.029273"
 draft: false
 sectors:
   - "real-estate"
@@ -46,9 +46,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -70,18 +68,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Sotheby™s International Realty® service marks and logotypes licensed usage regulations.
-- Usage of Sotheby™s International Realty® name details including proper inclusion of the ® symbol and italicization rules.
-- Sales Associate Web Addresses must avoid brand confusion, maintaining correct domain name regulations.
-- A recommended email signature format which includes brand identity representations and confidentiality statements.
-- Affiliate-specific logo lock-up guidelines and their affiliation clarity for brand representation.
-- Online usage specifications for the Sotheby™s International Realty® logo, including minimum size (40 pixels) and clear space requirements.
-- Critical classified ads usage emphasizing consistent brand mark representation.
-
-**Notes:**
-
-- This Identity Standards Manual provides details on the strict guidelines for all branding assets' consistent usage.
-- Trademark rules for digital content submission including major site redesign approval process.
-- Guidelines on building signage modification approval and the process for compliance.
+*Guidelines data not available*

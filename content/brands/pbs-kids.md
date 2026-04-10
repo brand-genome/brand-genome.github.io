@@ -2,7 +2,7 @@
 title: PBS Kids
 slug: "pbs-kids"
 description: ""
-date: "2026-03-20T08:22:03.832195"
+date: "2026-04-10T09:40:31.465168"
 draft: false
 sectors:
   - broadcasting
@@ -32,8 +32,8 @@ headquarters_locations:
   - "crystal-city"
 subsidiaries: []
 foundation_dates:
-  - 1999
   - 1994
+  - 1999
 foundation_year_buckets:
   - 1990S
 lightings: []
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: "American PBS children's programming brand since 1999"
 wikidata_url: "https://www.wikidata.org/wiki/Q3245159"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [https://www.pbs.org/apps](https://www.pbs.org/apps)
 - [https://pbskids.org/apps](https://pbskids.org/apps)
 
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -89,7 +83,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Crystal City](/headquarters_locations/crystal-city/) |
-| Foundation Date | [1999](/foundation_dates/1999/); [1994](/foundation_dates/1994/) |
+| Foundation Date | [1994](/foundation_dates/1994/); [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:PBS Kids |
 | Freebase Id | /m/06_zh7 |
 | Inception | 1994-07-11, 1999-09-06 |

@@ -2,7 +2,7 @@
 title: Santa Ursula
 slug: "santa-ursula"
 description: ""
-date: "2026-03-20T08:22:04.235421"
+date: "2026-04-10T09:40:32.739281"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - spain
@@ -50,8 +50,7 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - arial
+typographies: []
 imagery_styles: []
 wikidata_description: municipality of Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q657800"
@@ -71,115 +70,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- LOGOTIPO PRINCIPAL
-- VERSIONES
-- UTILIZACIÓN DE LA MARCA
-
-ALGUNOS USOS INCORRECTOS
-
-El logotipo siempre deberá llevar una reserva de color detrás, es 
-decir: una mancheta infranqueable que lo aisle de otros elementos 
-con el fin de que su legibilidad siempre sea la adecuada.
-
-En el caso de que el fondo sea blanco, esta reserva no se verá, 
-pero siempre nos ayudará a no ubicar otros elementos dentro de 
-nuestra área de seguridad. 
-
-No usar ni el escudo ni el título por separado
-
-No rotar el logotipo
-
-No descomponer ni reescalar los elementos
-
-No invadir el área de seguridad
-
-No utilizar otros colores 
-
-No usar el logo sobre fondos sin la reserva de color
-
-**Color Information:**
-
-- COLORES
-
-TIPOGRAFÍAS
-
-GAMA CROMÁTICA PRINCIPAL
-
-Tipo de letra de la marca: diseños, aplicaciones gráficas, web, etc.
-
-COLORES SECUNDARIOS
-
-Tipo de letra para textos y comunicados corporativos.
-
-Arial
-
-**Notes:**
-
-- Manual de
-utilización
-de marca
-
-V.1. ENERO 2021
-- marca
-- USO CON OTRAS MARCAS
-
-Ejemplo de cartelería ya existente.
-
-El logotipo siempre deberá llevar una reserva de color detrás, es 
-decir: una mancheta infranqueable que lo aisle de otros elementos 
-con el fin de que su legibilidad siempre sea la adecuada.
-
-En el caso de que el fondo sea blanco, esta reserva no se verá, 
-pero siempre nos ayudará a no ubicar otros elementos dentro de 
-nuestra área de seguridad. 
-
-Ejemplo de nueva cartelería a desarrollar.
-
-Utilizar siempre el área de seguridad exterior para separar y ubicar otras marcas ordenadamente (en posición y tamaño)
-
-*Las líneas discontinuas exteriores son solo referenciales, no debe aparecer impresas.
-- recursos
-- PAPELERÍA
-
-TARJETAS DE VISITA
-(anverso y reverso)
-
-HOJA DE CARTA
-
-FIRMA DE CORREO
-ELECTRÓNICO
-- SOBRE (tipo “Americano”)
-
-TARJETÓN DE INVITACIÓN
-- CARPETAS (informes técnicos)
-- DIPLOMA
-- PLANTILLAS
-
-DOCUMENTOS DESCARGABLES
-- CARTELES TIPO
-
-NOTA DE PRENSA
-- SEÑALÉTICA
-
-EDIFICIO AYUNTAMIENTO NUEVO
-
-EDIFICIO USOS MÚLTIPLES
-
-EDIFICIO AYUNTAMIENTO VIEJO
-- REDES SOCIALES
-
-LOGOS DE PERFIL
-
-COMUNICADOS TIPO
-- OTROS SOPORTES
-
-VEHÍCULOS
-- BOLSAS (GENÉRICA Y PROMOCIONALES)
-- UNIFORMES DE TRABAJO
-
-MARCAJE ESPALDAS
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Swallow
 slug: swallow
 description: ""
-date: "2026-03-20T08:22:04.719028"
+date: "2026-04-10T09:40:33.447178"
 draft: false
 sectors:
   - tires
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - din
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British band
 wikidata_url: "https://www.wikidata.org/wiki/Q7653088"
 has_twitter: false
@@ -78,38 +70,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo consists of logo mark, logotype, and optional claim, with various configurations and combinations outlined in the guidelines.
-- Clear space rules: Proportions and spacing ensure visibility; exact guidelines provided for posters and grouped logos.
-- Minimum size requirement: Logo must remain legible at sizes as small as 25mm in length, but smaller sizes compromise readability.
-- Must-not guidelines for the logo: Avoid recreating, stretching, altering proportions, changing colors, reflections, or adding gradients/shadows.
-
-**Color Information:**
-
-- Primary color: Pantone 1788C. Associated codes: CMYK (0, 88, 82, 0), RGB (238, 39, 55), HEX (#ee2737). Red represents Swallow's identity.
-- Guideline: Logo contrast matters. If used on backgrounds, colors should ensure legibility—white for dark backgrounds, black for light.
-
-**Typography Information:**
-
-- Brand uses the DIN typeface family with styles including bold, black, medium, light, and regular. Applications: Titles, subtitles, body text, notes.
-- Font hierarchy and underline usage are emphasized, aiding readability and visual focus.
-
-**Imagery Photography:**
-
-- Photos multiplied with Pantone Swallow (red) must maintain the distance from the edges without requiring additional horizontal bands.
-
-**Spacing Layout:**
-
-- Geometry for footer/header is fixed; examples illustrated. Incorrect applications (e.g., centering logo or changing background color) noted.
-
-**Brand Voice:**
-
-- Swallow focuses on dynamic, safe, and performance-driven technology. Descriptions emphasize precision, expertise, and symbiosis with the road.
-
-**Notes:**
-
-- Swallow guidelines aim to maintain a premium, technical, and recognizable brand identity. They dictate permissible designs to align with brand values.
+*Guidelines data not available*
 
 ## Additional Properties
 

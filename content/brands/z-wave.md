@@ -2,11 +2,11 @@
 title: "Z-Wave"
 slug: "z-wave"
 description: ""
-date: "2026-03-20T08:22:05.573714"
+date: "2026-04-10T09:40:34.495906"
 draft: false
 sectors:
-  - networking
   - hardware
+  - networking
 regions:
   - usa
 years:
@@ -52,8 +52,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q123738652"
 has_twitter: false
@@ -71,103 +70,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Logo-related information on page 1.
-- Logo-related information on page 2.
-- Logo-related information on page 3.
-- Logo-related information on page 5.
-- Logo-related information on page 8.
-- Logo-related information on page 10.
-- Logo-related information on page 11.
-- Logo-related information on page 12.
-- Logo-related information on page 13.
-- Logo-related information on page 14.
-- Logo-related information on page 16.
-- Logo-related information on page 17.
-- Logo-related information on page 18.
-- Logo-related information on page 19.
-- Logo-related information on page 20.
-- Logo-related information on page 23.
-- Logo-related information on page 24.
-- Logo-related information on page 25.
-- Logo-related information on page 26.
-- Logo-related information on page 27.
-- Logo-related information on page 28.
-- Logo-related information on page 29.
-- Logo-related information on page 31.
-- Logo-related information on page 32.
-- Logo-related information on page 33.
-- Logo-related information on page 34.
-- Logo-related information on page 35.
-- Logo-related information on page 36.
-- Logo-related information on page 37.
-
-**Color Information:**
-
-- Color palette or usage rules mentioned on page 3.
-- Color palette or usage rules mentioned on page 12.
-- Color palette or usage rules mentioned on page 13.
-- Color palette or usage rules mentioned on page 26.
-- Color palette or usage rules mentioned on page 27.
-- Color palette or usage rules mentioned on page 28.
-- Color palette or usage rules mentioned on page 29.
-- Color palette or usage rules mentioned on page 34.
-- Color palette or usage rules mentioned on page 35.
-- Color palette or usage rules mentioned on page 36.
-- Color palette or usage rules mentioned on page 37.
-
-**Typography Information:**
-
-- Font or text specifications mentioned on page 3.
-- Font or text specifications mentioned on page 8.
-- Font or text specifications mentioned on page 14.
-
-**Imagery Photography:**
-
-- Imagery or photography guidelines noted on page 16.
-- Imagery or photography guidelines noted on page 17.
-- Imagery or photography guidelines noted on page 19.
-- Imagery or photography guidelines noted on page 20.
-- Imagery or photography guidelines noted on page 28.
-- Imagery or photography guidelines noted on page 29.
-- Imagery or photography guidelines noted on page 36.
-- Imagery or photography guidelines noted on page 37.
-
-**Spacing Layout:**
-
-- Spacing or layout specifications provided on page 3.
-- Spacing or layout specifications provided on page 10.
-- Spacing or layout specifications provided on page 17.
-- Spacing or layout specifications provided on page 19.
-- Spacing or layout specifications provided on page 20.
-- Spacing or layout specifications provided on page 24.
-- Spacing or layout specifications provided on page 28.
-- Spacing or layout specifications provided on page 29.
-- Spacing or layout specifications provided on page 32.
-- Spacing or layout specifications provided on page 36.
-- Spacing or layout specifications provided on page 37.
-
-**Brand Voice:**
-
-- Tone or brand voice guidance included on page 5.
-- Tone or brand voice guidance included on page 12.
-- Tone or brand voice guidance included on page 26.
-- Tone or brand voice guidance included on page 34.
-
-**Notes:**
-
-- General brand-related notes also present on page 1.
-- General brand-related notes also present on page 2.
-- General brand-related notes also present on page 9.
-- General brand-related notes also present on page 11.
-- General brand-related notes also present on page 12.
-- General brand-related notes also present on page 21.
-- General brand-related notes also present on page 25.
-- General brand-related notes also present on page 29.
-- General brand-related notes also present on page 31.
-- General brand-related notes also present on page 33.
-- General brand-related notes also present on page 37.
+*Guidelines data not available*
 
 ## Additional Properties
 

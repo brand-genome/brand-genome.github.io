@@ -2,7 +2,7 @@
 title: Treasury Board Of Canada Secretariat
 slug: "treasury-board-of-canada-secretariat"
 description: ""
-date: "2026-03-20T08:22:04.294654"
+date: "2026-04-10T09:40:32.972101"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - institution
   - featured
+  - vintage
 industries: []
 countries:
   - canada
@@ -75,26 +75,7 @@ visual_term_image_urls: {}
 
 ### 1987
 
-**Color Information:**
-
-- Symbols, typography, colour explicitly mentioned for the 'Federal Identity Program.'
-
-**Typography Information:**
-
-- Typography guidelines mentioned under the scope of 'Corporate Identity Guidelines,' targeting advertising and stationeries.
-
-**Spacing Layout:**
-
-- System overview and implementation for system signage and markings.
-
-**Brand Voice:**
-
-- Corporate identity messaging specified for machinery, vehicles, and operational aspects.
-- Corporate identity messaging and advertising mentioned, emphasizing sponsorship and shared-cost programs.
-
-**Notes:**
-
-- Common-use and operational signage addressed for establishing Federal Identity.
+*Guidelines data not available*
 
 ## Additional Properties
 

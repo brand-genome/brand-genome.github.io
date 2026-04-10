@@ -2,11 +2,11 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-03-20T08:22:05.587343"
+date: "2026-04-10T09:40:34.531452"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -56,17 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - black
-  - yellow
-  - white
-  - blue
-typographies:
-  - futura
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American multinational consumer electronics retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q533415"
 has_twitter: false
@@ -89,32 +82,94 @@ visual_term_image_urls: {}
 
 ### 2000
 
-**Logo Information:**
+#### Brand Summary
 
-- The Best Buy logo construction includes a 5-degree angle that aligns with the hole's diameter. Approved color versions include black text and line art on yellow, and a black-and-white version where the tag appears white with black text and rules with hole filled by background color. Existing versions with drop shadows should be replaced in all applications. Clear space rules require maintaining a clear area defined by the cap height of the 'B'.
-- Incorrect logo usage includes rotation beyond 5 degrees, color uses other than prescribed black or yellow, and altering proportions or adding drop shadows.
+##### Mission
 
-**Color Information:**
+- The primary objective of this standards manual is to maintain and expand the recognition of the brand. The logo is the 'face' of the brand, unifying all consumer experiences and reinforcing the brand's meaning every time it appears [^1].
 
-- Primary color specifications include Pantone Process Black C, CMYK (0C 0M 0Y 100K), Pantone Process Yellow C, and CMYK (0C 0M 100Y 0K). RGB values are specified as Process Black (0R 0G 0B) and Process Yellow (100R 100G 0B). The tertiary color PMS Blue 288 may only be used with approval.
-- Color association research concludes that yellow, black, and blue PMS 288 are strongly associated with and integral to Best Buy branding. These colors must remain consistent across all mediums.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- recognition
+- integrity
+- quality control
 
-- The approved typeface for Best Buy branding is Futura in variations—Extra Bold, Bold, Book, and Light. Mixing weights is allowed, and adaptations or other typefaces require approval. Type rules for certain backgrounds include white text on black and blue PMS 288, and black text on white backgrounds.
+##### Target Audience
 
-**Spacing Layout:**
+- Consumers who interact with Best Buy through various channels including ads, stores, websites, and promotional materials [^2].
 
-- Maintain clear spacing around the logo defined by the cap height of the 'B'. The hole in the tag and the outer edge outline rule cannot be altered or deleted.
+##### Personality Traits
 
-**Brand Voice:**
+- visible
+- unified
+- recognizable
+- trustworthy
 
-- The logo serves as the face of the brand, representing a unified identity across all customer interactions. Modifications to the logo appearance undermine the brand's meaning.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on a bold, yellow price tag logo with black type, strict color palette (yellow, black, blue, white), consistent Futura typeface, and clear rules for logo construction, placement, and non-interference. The logo must always appear at a 5° angle, with defined clear space, and only approved colors and proportions are allowed [^3].
 
-- Third-party and promotional uses of the logo require review and approval. Any misuse or unauthorized use should be referred to the Best Buy Advertising-Traffic Department.
-- The logo usage standards explicitly demand compliance to maintain quality and brand integrity.
+#### Categories
+
+##### Logo Usage
+
+- The Best Buy logo sits on a prescribed angle as shown. This is the ONLY position allowed when using the mark. The angle is always equal with the diameter of the hole in the Best Buy tag. Angle equals 5 degrees.
+- The only approved color use of the logo is solid black type and line art over solid process yellow. The hole in the tag fills with the background (if there is one).
+- For black and white applications the tag always appears white with black type and rules. The hole in the tag fills with the background (if there is one).
+- THERE IS NO OTHER ACCEPTABLE ANGLE, COLOR OR PROPORTION OF THE BEST BUY LOGO OTHER THAN THE VERSIONS SHOWN ON THIS PAGE!
+- Logo presentation is enhanced by maintaining a clear area, void of all imagery surrounding the logo. This area is defined by the cap height of the "B" within the logo.
+- Clear space from edge of logo should maintain the width of a "B" within the logo type as shown.
+- Logotype is art. Do not re-space or reconfigure in any way. Type is only solid PMS black.
+- Registration mark must appear with logo at all times.
+- The diameter of the hole is art and cannot be altered. The center of the hole remains clear at all times.
+- Outline rule is part of art and cannot be adjusted or deleted. Color is PMS Black only.
+- The line art rule that defines the logo's outer edge prints at all times regardless of background color or image. The background color or image appears inside the hole within the tag. Existing versions of the logo with a drop shadow should be replaced in all applications going forward. Never use a drop shadow within or around the logo.
+
+##### Color Palette
+
+- The only approved color use of the logo is solid black type and line art over solid process yellow. The hole in the tag fills with the background (if there is one).
+- For black and white applications the tag always appears white with black type and rules. The hole in the tag fills with the background (if there is one).
+- THERE IS NO OTHER ACCEPTABLE ANGLE, COLOR OR PROPORTION OF THE BEST BUY LOGO OTHER THAN THE VERSIONS SHOWN ON THIS PAGE!
+- Maintaining the logo color palette is essential to building the brand identity. The primary colors on this page are the only colors to be used on or in conjunction with the Best Buy logo. The use of other tertiary or background colors must be approved by an authorized representative in the Best Buy Advertising, Visual Merchandising or Communications Departments. Contact the Advertising-Traffic Department to initiate authorization.
+- Mixed colors on all respective systems must match the PMS color palette as indicated above. Primary logo colors cannot be used in percentages less than solid color.
+- Blue PMS288 is considered a tertiary color acceptable for use in conjunction with the primary color applications of the Best Buy logo. Use of Blue 288 must be approved by an authorized representative in the Best Buy Advertising, Visual Merchandising or Communications Departments. Contact the Advertising-Traffic Department to initiate authorization.
+- A preferred tertiary background color use with the Best Buy logo is white.
+- A preferred tertiary background color use with the Best Buy logo is black.
+- When the logo is dropped out from a full color background review and approval of actual placement is required by Best Buy.
+- Blue PMS 288c is an acceptable tertiary color to use as a background.
+- Research told us that customers strongly associate our colors -yellow, black and secondary color blue -with Best Buy. Our corporate color applications are integral to brand recognition and must be consistent in all mediums, including but not limited to collateral, print advertising, store signage, television advertising and the Web.
+- Use of logo in any color other than process yellow.
+
+##### Typography
+
+- Type is an important element in consistent brand identity. In combination with the use of correct corporate colors, use of a consistent typeface further solidifies brand recognition.
+- The consistent use of the Futura typeface is a key ingredient in maintaining the brand identity. Use of any other typefaces in connection with the logo must be approved by an authorized representative in the Best Buy Advertising, Visual Merchandising or Communications Departments. Contact the Advertising-Traffic Department to initiate authorization.
+- FUTURA EXTRA BOLD ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- FUTURA BOLD ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- FUTURA BOOK ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- FUTURA LIGHT ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- FUTURA EXTRA BOLD, FUTURA LIGHT, FUTURA and its variations are the only approved type face to be used in conjunction with the Best Buy logo.
+- Mixing the type weights as shown above is allowed. Adaptations to the type must be approved by Best Buy.
+- Typeface on black drops out white in all applications.
+- Typeface on white prints black in all applications.
+- Typeface on PMS 288 (blue) drops out white in all applications.
+- Typeface on full color backgrounds should be readjusted from negative to positive depending on background.
+
+##### Visual Style
+
+- The Best Buy logo sits on a prescribed angle as shown. This is the ONLY position allowed when using the mark. The angle is always equal with the diameter of the hole in the Best Buy tag. Angle equals 5 degrees.
+- The only approved color use of the logo is solid black type and line art over solid process yellow. The hole in the tag fills with the background (if there is one).
+- For black and white applications the tag always appears white with black type and rules. The hole in the tag fills with the background (if there is one).
+- THERE IS NO OTHER ACCEPTABLE ANGLE, COLOR OR PROPORTION OF THE BEST BUY LOGO OTHER THAN THE VERSIONS SHOWN ON THIS PAGE!
+- Logo presentation is enhanced by maintaining a clear area, void of all imagery surrounding the logo. This area is defined by the cap height of the "B" within the logo.
+- Clear space from edge of logo should maintain the width of a "B" within the logo type as shown.
+- Logotype is art. Do not re-space or reconfigure in any way. Type is only solid PMS black.
+- Registration mark must appear with logo at all times.
+- The diameter of the hole is art and cannot be altered. The center of the hole remains clear at all times.
+- Outline rule is part of art and cannot be adjusted or deleted. Color is PMS Black only.
+- The line art rule that defines the logo's outer edge prints at all times regardless of background color or image. The background color or image appears inside the hole within the tag.
+- Existing versions of the logo with a drop shadow should be replaced in all applications going forward. Never use a drop shadow within or around the logo.
 
 ## Additional Properties
 

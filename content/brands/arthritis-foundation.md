@@ -2,11 +2,11 @@
 title: Arthritis Foundation
 slug: "arthritis-foundation"
 description: ""
-date: "2026-03-20T08:22:05.704271"
+date: "2026-04-10T09:40:34.646265"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - usa
@@ -54,29 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - logomark
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - "pantone-7725"
-  - green
-  - blue
-  - "pantone-3005"
-  - gray
-  - black
-typographies:
-  - roboto
-imagery_styles:
-  - staged
-  - candid
-  - graphic
-  - bold
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q4797637"
 has_twitter: false
@@ -95,41 +76,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The graphic logo for the Arthritis Foundation emphasizes simplicity, modernity, and a clear representation of the brand's purpose.
-- The brandmark is composed of the logomark (a specific shape/logo) and wordmark (text component). The text element incorporates the Arthritis Foundation name.
-- Logo versions included: vertical and horizontal orientations. Usage guidelines detailed for both formats.
-- Requirements for clear space and padding around logo: 'X', where X = height of the 'A' in Arthritis.
-- Minimum logo size: Full-color logo must be used at specific size requirements (details unclear in the extracted literals).
-- Logo usage guidelines specify visual integrity by keeping the logo legible. Guidelines: Do not alter colors, stretch, rotate, or place against low contrast backgrounds. Avoid adding effects such as shadows or gradients.
-
-**Color Information:**
-
-- Primary color: Green with HEX #2DBE60, Pantone 7725, RGB (45, 190, 96), CMYK (83, 2, 91, 1).
-- Secondary color: Blue with HEX #0072CE, Pantone 3005, RGB (0, 114, 206), CMYK (99, 50, 0, 0).
-- Neutral color palette includes shades of gray and black. Examples mentioned but specific codes are not explicitly cited.
-
-**Typography Information:**
-
-- Primary font family: 'Roboto'. Used for headers, body text, and emphasized text styles.
-- Font weights: Light, Regular, Bold. Usage varies based on context—for example, Bold for headlines and Regular for body text.
-- Hierarchy is created by varying font sizes and weights. Large sizes for headlines and smaller sizes for supporting text.
-
-**Imagery Photography:**
-
-- Photography style is candid and authentic, showing real people rather than staged or stylized poses. Images should evoke emotions tied to optimism and personal connection.
-- Image treatment rules include avoiding busy backgrounds and ensuring photos align with brand values, highlighting vibrant and positive moments.
-
-**Brand Voice:**
-
-- The Arthritis Foundation positions itself as the 'Champion of Yes,' emphasizing inspiration, optimism, and consistent messaging.
-
-**Notes:**
-
-- Key brand attributes include being all-in, expert, bold, ever-present, and brave. Brand audience includes personas like Amy Shelton (a 36-year-old mother with arthritis) and Dr. Curtis Yelton (a care provider). Value propositions emphasize community, resources, and living with hope.
-- The brand identity is derived from the core visual elements: the brandmark, color, typography, photography, and composition. These elements collectively create a consistent visual language.
-- The Sample Applications section provides visual examples of branding implementation, such as flyers, banners, and social media assets.
+*Guidelines data not available*
 
 ## Additional Properties
 

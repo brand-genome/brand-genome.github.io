@@ -2,7 +2,7 @@
 title: Vancouver Island University
 slug: "vancouver-island-university"
 description: ""
-date: "2026-03-20T08:22:04.334925"
+date: "2026-04-10T09:40:33.045424"
 draft: false
 sectors:
   - education
@@ -54,16 +54,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - black
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Canadian public university primarily on Vancouver Island, British Columbia, Canada"
@@ -83,28 +75,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- VIU’s logo represents the university's connection to Vancouver Island and Canada. The icon features mountains (upper half), ocean stylized as a maple leaf (lower half), symbolizing creativity, relaxation, dependability, strength, and trustworthiness.
-- Logo color options: full-color (used for most products produced in color), black and white (used for black and white products), and white logos (used in special applications, requires strategic marketing approval).
-- Logo arrangements: vertical (primary arrangement with icon above text) and horizontal (icon placed left of text, used in cases unsuitable for vertical arrangement).
-- Logo elements: The official VIU logo consists of an icon, type, and background (clear space). These elements should not be altered or separated.
-- Logo variants are determined by traits (text, color, arrangement, appearance). Text may include full-name or initials; appearance options include standard (color text and icon on white background), reverse (white text/icon on blue or black background), and knockout (transparent background).
-- Primary logos include combinations such as: full-name, full-color, vertical, standard; initials, full-color, reverse; and others. Primary logos should be used whenever possible, with other variants allowed if necessary.
-- Logo proportions differ between variants: full-name logos use a 1,2,3 arrangement (height of text and icon equals 1x, height of background is 2x, width is 3x), while initials version uses 1,2,2 system.
-
-**Color Information:**
-
-- Logo color options include full-color, black and white, and white. Full-color logos are used for most products produced in color. Black and white logos are for black and white outputs. White logos are reserved for special applications.
-
-**Spacing Layout:**
-
-- Logo clear space rules specify proportions: full-name logos use 1x, 2x, 3x height-width ratio, and initials version employs a square with 1, 2, 2 ratio.
-
-**Notes:**
-
-- The logo is a symbol of VIU's connection to Vancouver Island, Canada, and the values of creativity, relaxation, dependability, and trustworthiness.
-- Strategic Marketing must approve certain logo usages, particularly for special applications.
+*Guidelines data not available*
 
 ## Additional Properties
 

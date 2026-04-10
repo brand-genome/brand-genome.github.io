@@ -2,11 +2,11 @@
 title: NIHR
 slug: nihr
 description: ""
-date: "2026-03-20T08:22:05.577365"
+date: "2026-04-10T09:40:34.505544"
 draft: false
 sectors:
-  - "public-sector"
   - research
+  - "public-sector"
   - healthcare
 regions:
   - "united-kingdom"
@@ -49,13 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "medical research institute in Teheran, Iran"
 wikidata_url: "https://www.wikidata.org/wiki/Q88980859"
 has_twitter: false
@@ -76,83 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-- NIHR logos are covered, including their authorized uses and variations. Details span horizontal, vertical, and other configurations.
-
-**Color Information:**
-
-- NIHR color palette and specifications such as RGB, CMYK, or HEX values.
-- NIHR color palette and specifications such as RGB, CMYK, or HEX values.
-- NIHR color palette and specifications such as RGB, CMYK, or HEX values.
-
-**Typography Information:**
-
-- Typography guidelines, including font families and use cases, are detailed.
-- Typography guidelines, including font families and use cases, are detailed.
-- Typography guidelines, including font families and use cases, are detailed.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines, covering style, composition, and treatment.
-- Imagery and photography guidelines, covering style, composition, and treatment.
-- Imagery and photography guidelines, covering style, composition, and treatment.
-- Imagery and photography guidelines, covering style, composition, and treatment.
-
-**Notes:**
-
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
-- General notes on NIHR brand guidelines and application examples.
+*Guidelines data not available*
 
 ## Additional Properties
 

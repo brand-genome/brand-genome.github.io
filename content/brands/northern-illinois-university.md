@@ -2,7 +2,7 @@
 title: Northern Illinois University
 slug: "northern-illinois-university"
 description: ""
-date: "2026-03-20T08:22:04.218726"
+date: "2026-04-10T09:40:32.622300"
 draft: false
 sectors:
   - university
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - horizontal
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
-  - gotham
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "public university in DeKalb, Illinois, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1191344"
 has_twitter: false
@@ -87,33 +79,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Details on logos, configurations, tagline integrations, and general usage appearing across pages. Includes logo with tagline, configurations (horizontal, vertical, stacked), color options (4-color, 2-color, 1-color), and improper usage guidelines. Clear space and legibility specified.
-
-**Color Information:**
-
-- Color palette description and application rules; includes primary and secondary colors in Pantone, CMYK, RGB, HEX formats.
-
-**Typography Information:**
-
-- Specifications for typefaces such as Arial, Gotham, Chronicle Text, and their roles for headings and body text. Includes font sizes and leading details.
-
-**Imagery Photography:**
-
-- Photography guidelines, including style (engaging mood, context-focused), image corrections, and alignment with brand voice.
-
-**Spacing Layout:**
-
-- Specifications for layout, including margins, grids, safe zones around elements, and spacing requirements in various formats.
-
-**Brand Voice:**
-
-- Descriptors for the brand tone of voice, combinations of brand personality and narrative for messaging, and practical application per guidelines.
-
-**Notes:**
-
-- General notes on communication standards overview, Clearinghouse submission process, and procedural instructions.
+*Guidelines data not available*
 
 ## Additional Properties
 

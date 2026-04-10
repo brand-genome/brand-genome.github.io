@@ -2,7 +2,7 @@
 title: Stevens
 slug: stevens
 description: ""
-date: "2026-03-20T08:22:04.340640"
+date: "2026-04-10T09:40:33.057851"
 draft: false
 sectors:
   - university
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - secondary
-brand_colors:
-  - red
-  - gray
-  - white
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "higher education institute in Hoboken, New Jersey, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q657222"
 has_twitter: false
@@ -82,40 +75,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Four color options for Stevens Red depending on paper type. Pantone Matching System reserved for special circumstances. Pantone codes: PMS 201C (coated), PMS 187U (uncoated). Usage reserved for Stevens Red and Stevens Gray.
-- Specific guidelines for logo usage on vehicles. Full-color, red, or white logo depending on the vehicle's color. The logo must conform to visual identity standards.
-
-**Color Information:**
-
-- Stevens Red HEX: #A32638, RGB: R:163 G:38 B:56, CMYK for coated: C:0% M:100% Y:63% K:29%, CMYK for uncoated: C:7% M:84% Y:56% K:16%.
-- Stevens Gray HEX: #9A989A, RGB: R:154 G:152 B:154, CMYK coated & uncoated: C:0% M:0% Y:0% K:45%.
-- Secondary and accent colors with multiple CMYK/HEX specifications are outlined for use alongside legacy colors.
-
-**Typography Information:**
-
-- Official font is Trade Gothic. Acceptable weights: Regular, Oblique, Bold, Bold Oblique, Condensed. Oblique used for italics; bold for subhead/callout text.
-- The Stevens PowerPoint template uses Arial font, with Regular, Oblique, Bold, and Bold Oblique versions permissible in Microsoft platforms.
-
-**Imagery Photography:**
-
-- Video production standards must include Stevens branding elements, official intro slate, and standard title-safe area placement.
-- Environmental signage and exhibits should conform to Stevens branding guidelines.
-
-**Spacing Layout:**
-
-- Stevens signage must adhere to consistent visual identity, approved before ordering/installing.
-- Templates for exhibits include customizable configurations for spaces ranging from 10'x10' to 10'x40'.
-
-**Brand Voice:**
-
-- Email communications should always use a consistent signature format with name, title, and contact info in Arial font.
-- Merchandise and apparel must conform to branding guidelines. Logos and colors outlined explicitly for clothing and vehicles.
-
-**Notes:**
-
-- Downloadable assets, templates, and periodic updates are available at www.stevens.edu/brandguide.
+*Guidelines data not available*
 
 ## Additional Properties
 

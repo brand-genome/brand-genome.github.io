@@ -2,16 +2,16 @@
 title: Barbican Centre
 slug: "barbican-centre"
 description: ""
-date: "2026-03-20T08:22:04.020327"
+date: "2026-04-10T09:40:32.013471"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - "united-kingdom"
 years:
-  - 2007
   - 2013
+  - 2007
 languages:
   - english
 tags:
@@ -51,24 +51,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - white
-  - black
-typographies:
-  - futura
-imagery_styles:
-  - colorful
-  - bold
-  - dynamic
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: arts centre in the City of London
 wikidata_url: "https://www.wikidata.org/wiki/Q653858"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,41 +70,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2013
-
-*Guidelines data not available*
-
 ### 2007
 
-**Logo Information:**
-
-- Logo introduction with positioning, protective spacing, colors, and versions included in the early guidelines pages.
-- Logo is defined as the most visible element of brand identity and a universal signature across all communications.
-- Logo must maintain left alignment, consistent application across publications, and adhere to safe zone rules.
-- Examples of incorrect logo usage, including altering colors, orientations, and spacing.
-- Logo color adaptability includes full color (CMYK, RGB), monochrome black and white, and offset formats.
-- Logo alignment examples when adapting to grid systems for marketing materials.
-- File format availability includes CMYK, RGB, EPS, and others as stated.
-
-**Typography Information:**
-
-- Typography principles dictate left alignment for easier readability and alignment, use of sentence case, and avoidance of all caps.
-- Line spacing affects readability and is carefully considered. Points and half-points are used for spacing adjustments.
-- Letter spacing contributes to visual appeal with prescribed kerning and tracking adjustments.
-- Typography element 'signature' is always set in Futura Bold Italic with specific alignment rules for exhibitions.
-
-**Imagery Photography:**
-
-- Barbican international theatre identity encourages the use of colorful and dynamic imagery inspired by performances.
-- Highlighted artist names and imagery are integrated within the framework using specified grid positioning.
-- Imagery evokes cinematic experiences, utilizing overlays and composition techniques in designated placements.
-- Guidelines on imagery placement within the core framework, focusing on blending typography and colors.
-
-**Notes:**
-
-- Barbican identity principles aim to unite diverse programs under a cohesive and recognizable branding structure.
-- Brand identity builds upon years of leadership in arts with a diversity-centered philosophy.
-- Events guide utilizes a vivid color palette and typographic design template as its distinguishing feature.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,20 +2,20 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-03-20T08:22:04.198981"
+date: "2026-04-10T09:40:32.556278"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2017
   - 2022
+  - 2017
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,18 +50,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - symbol
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - white
-  - blue
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: family of computer operating systems developed by Microsoft
 wikidata_url: "https://www.wikidata.org/wiki/Q1406"
@@ -86,36 +77,11 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Mentions safe zone for logo usage for proper spacing.
-
-**Notes:**
-
-- General information or rules for following branding guidelines.
+*Guidelines data not available*
 
 ### 2017
 
-**Logo Information:**
-
-- The Windows logo consists of a symbol and logotype arranged in a horizontal lockup. The standalone symbol may only refer to the Start Menu; otherwise, it must be used with the wordmark.
-- Do not use logos from previous versions of Windows (e.g., Windows 7 or Windows 8.1). Use the current Windows logo, and refer to older versions in text only.
-- Accepted color versions: Blue logo (primary) and White logo (for dark or photo backgrounds). Do not re-color logos.
-- Preferred clear space is equal to the height of the symbol. Minimum symbol height: 0.22 inches (5.5mm) in print or 15.5 pixels on screen.
-- Prohibited uses of the logo: unapproved colors, shadows, gradients, incorrect contrast, busy backgrounds, stacking, unapproved standalone symbol usage, rotation, compression, or alteration of colors. Avoid locking up additional text with the logo or using logos to replace 'Windows' within a sentence.
-
-**Color Information:**
-
-- Primary color: Blue logo (used on light or white backgrounds). Secondary color: White logo (used on dark or photographic backgrounds).
-
-**Spacing Layout:**
-
-- Clear spacing: Use space around the logo equivalent to the height of the symbol. Minimum sizes: 0.22 inches / 5.5 mm for print and 15.5 pixels for screen display.
-
-**Notes:**
-
-- Windows logo usage requires a trademark use license. Specific guidelines for certification (e.g., apps or hardware) or badges exist, which require corresponding authorization or resources. Contact Microsoft for further approval for unaddressed use cases.
-- A thank-you note from Microsoft, emphasizing adherence to guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

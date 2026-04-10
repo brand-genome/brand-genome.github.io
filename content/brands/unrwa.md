@@ -2,11 +2,11 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-03-20T08:22:04.407300"
+date: "2026-04-10T09:40:33.147353"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -17,8 +17,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - jordan
   - palestine
+  - jordan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,16 +27,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "public-works"
-  - microcredit
-  - "social-services"
-  - "emergency-service"
   - education
   - "health-care"
+  - "social-services"
+  - "emergency-service"
+  - "public-works"
+  - microcredit
 products: []
 headquarters_locations:
-  - amman
   - "gaza-city"
+  - amman
 subsidiaries: []
 foundation_dates:
   - 1949
@@ -61,11 +61,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - "century-gothic"
-imagery_styles:
-  - colorful
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "United Nations agency founded in 1949, whose stated purpose is to help and protect Palestinian refugees"
 wikidata_url: "https://www.wikidata.org/wiki/Q846656"
 has_twitter: false
@@ -85,34 +82,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- The UNRWA logo is a key branding element used across publications, audiovisual materials, and presentations. Specific formats such as Adobe Indesign CS5.5 and idml, high and low-resolution JPEGs, transparent PNG, and PDF are mentioned, along with main partner logos.
-
-**Color Information:**
-
-- Specifications for branding materials mention the use of chromo paper and matte lamination for consistent branding across printed materials such as letterheads and brochures.
-
-**Typography Information:**
-
-- The recommended font for UNRWA PowerPoint presentations is Century Gothic. Text specifications for brochures, booklets, and covers include lowercase letters to ensure uniform branding.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize selecting bright and colorful images, focusing on positive aspects of UNRWA's efforts, and maintaining relevance to stories. Guidelines also include technical specifications: 3-megapixel resolution, 2000x1500 pixels, high-quality JPEG or TIFF format, RGB for digital use, CMYK/greyscale for printing, and at least 300 pixels per inch. Credits must use the photographer's name and organization, e.g., ©Full Name/UNRWA.
-- Guidelines emphasize showcasing individuals' success, aid in action, the brand in context, and maintaining high emotional connection in photos. Examples include showcasing children benefiting from education programs, successful microfinance activities, and brand visibility on aid products like flour bags.
-- A repository of high-resolution official photos related to human development goals, health, education, microfinance, cash for work, vocational training, and camp improvement is available and included in the branding DVD.
-
-**Spacing Layout:**
-
-- Specifications include size, paper type, weight, and lamination details (for example, brochures use A4 or A5 dimensions, chromo paper, 300 g weight, and matte lamination). These are applied across stationery and event branding, including repeating backdrops and podium fronts.
-- Event branding includes designs for T-shirts and repeating backdrops. Repeating backdrops are 50 cm x 70 cm in size, mounted on foam boards.
-- CD sleeves and installation signs for schools, clinics, and offices have specific dimensions and require chromo paper with matte lamination. CD sleeves, when folded, have dimensions of 13 cm x 13 cm.
-
-**Notes:**
-
-- UNRWA branding materials emphasize neutrality, non-political stance, and focus on aiding Palestine refugees. Publications must uniformly adhere to branding rules such as lowercase text and inclusion of copyright statements verified by the Department of Legal Affairs.
-- The branding DVD includes a complete kit comprising templates for stationery, publications, event branding, installation design, photography, PowerPoint presentations, audiovisual materials, logo files, and style guides.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -122,8 +92,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Public Works](/products_or_materials_produced/public-works/); [Microcredit](/products_or_materials_produced/microcredit/); [Social Services](/products_or_materials_produced/social-services/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Education](/products_or_materials_produced/education/); [Health Care](/products_or_materials_produced/health-care/) |
-| Headquarters Location | [Amman](/headquarters_locations/amman/); [Gaza City](/headquarters_locations/gaza-city/) |
+| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Health Care](/products_or_materials_produced/health-care/); [Social Services](/products_or_materials_produced/social-services/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Public Works](/products_or_materials_produced/public-works/); [Microcredit](/products_or_materials_produced/microcredit/) |
+| Headquarters Location | [Gaza City](/headquarters_locations/gaza-city/); [Amman](/headquarters_locations/amman/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |
 | Viaf Cluster Id | 142614632 |

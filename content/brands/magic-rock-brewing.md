@@ -2,7 +2,7 @@
 title: Magic Rock Brewing
 slug: "magic-rock-brewing"
 description: ""
-date: "2026-03-20T08:22:05.164649"
+date: "2026-04-10T09:40:34.014755"
 draft: false
 sectors:
   - brewery
@@ -51,17 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Brewery in Huddersfield, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q86756254"
 has_twitter: false
@@ -79,41 +72,66 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary logo is positioned within a circle; secondary un-circled logo can be used in certain situations.
-- Logo color options: solid black or reversed white.
-- Logo usage guidelines specify avoiding stretching, squashing, slanting, shading, drop shadows, or deleting elements like the drip.
-- Logo usage over imagery: must be a block color (black or white), not hollow.
-- Logo safe area: Allow enough spacing based on the height of the factory element.
-- Minimum logo size: 15mm, except for social media icons dictated by device requirements.
+##### Visual Identity Overview
 
-**Color Information:**
+- The brand visual identity is defined by a monochromatic black and white palette, bold geometric logo featuring a stylized brewery building and droplet, and consistent use of high-contrast, minimalistic graphics. The logo is used in solid black or white, with strict rules for placement, sizing, and safe area. Typography is specified with Effra as the primary typeface and Bebas Neue for beer names, supporting a clean, modern, and professional look [^1].
 
-- Primary color palette is black and white for corporate communications. Black: CMYK (C:0 M:0 Y:0 K:100), RGB (R:44 G:42 B:41), Pantone Process Black. White: CMYK (C:0 M:0 Y:0 K:0), RGB (R:0 G:0 B:0), Pantone Opaque White.
+#### Categories
 
-**Typography Information:**
+##### Logo Usage
 
-- Primary typeface for Magic Rock Brewing is unspecified but used for correct typesetting.
-- Secondary typeface is Bebas Neue, used only for beer names and styles on can labels.
-- For emails, system fonts Helvetica or Arial are used.
+- The positioning of our primary logo is within a circle. Use our second (un-circled) logo in certain situations.
+- Only use our logo in solid black or reversed out white.
+- Do not stretch, squash, slant, delete drip, shade or drop shadow our logo.
+- When placing our logo over imagery, it should never be hollow and should always be blocked black or white.
+- Our Logo should always be a block colour when used over imagery
+- When using our logo, please allow enough space. For correct spacing, please use the hight of the factory as a guide.
+- This is the minimum size our logo can be used. The only exception is social media icons which can be dictated by the device.
+- 15mm
 
-**Imagery Photography:**
+##### Color Palette
 
-- Photos can be sent upon request by emailing vik@magicrockbrewing.com. Images cannot be edited, reproduced, copied, or manipulated without written permission.
+- Our colour palette is black and white. When creating any corporate communication these colours should be used.
+- Black C0 R 44 M0 G 42 Y0 B 41 K 100 Pantone Process Black
+- White C0 R 0 M0 G0 Y0 B0 K 0 Pantone Opaque white
 
-**Spacing Layout:**
+##### Typography
 
-- Logo safe area defined by the height of the factory graphic and minimum logo size is 15mm.
+- Primary Typeface The primary typeface for Magic Rock Brewing is Effra. Please use this guide for correct typesetting.
+- Effra regular - Used for body copy The quick brown fox jumps over the lazy dog
+- Effra medium - Used for sub headings The quick brown fox jumps over the lazy dog
+- Effra bold - Used for headings The quick brown fox jumps over the lazy dog
+- Effra heavy - Used for poster headings The quick brown fox jumps over the lazy dog
+- Secondary Typeface Our secondary typeface is Bebas Neue. This should only be used for beer names and beer styles on can labels.
+- BEBAS NEUE REGULAR - Used for BEER NAMES The quick brown fox jumps over the lazy dog
+- Office Typeface Our website had Effra integrated into the site however for email, please use Helvetica or Arial depending on your system fonts.
+- Helvetica - Used for email The quick brown fox jumps over the lazy dog
 
-**Brand Voice:**
+##### Brand Imagery
 
-- Brand communications should utilize black and white color palette for corporate communication.
+- When placing our logo over imagery, it should never be hollow and should always be blocked black or white.
+- Our Logo should always be a block colour when used over imagery
 
-**Notes:**
+##### Visual Style
 
-- Graphics for events should be requested via email (vik@magicrockbrewing.com) and must not be edited.
-- Photos are owned by Magic Rock Brewing and are subject to copyright and cannot be used without permission.
+- The positioning of our primary logo is within a circle. Use our second (un-circled) logo in certain situations.
+- Only use our logo in solid black or reversed out white.
+- Do not stretch, squash, slant, delete drip, shade or drop shadow our logo.
+- When placing our logo over imagery, it should never be hollow and should always be blocked black or white.
+- Our Logo should always be a block colour when used over imagery
+- When using our logo, please allow enough space. For correct spacing, please use the hight of the factory as a guide.
+- This is the minimum size our logo can be used. The only exception is social media icons which can be dictated by the device.
+- 15mm
+- Our colour palette is black and white. When creating any corporate communication these colours should be used.
+- Black C0 R 44 M0 G 42 Y0 B 41 K 100 Pantone Process Black
+- White C0 R 0 M0 G0 Y0 B0 K 0 Pantone Opaque white
+- Primary Typeface The primary typeface for Magic Rock Brewing is Effra. Please use this guide for correct typesetting. Effra regular - Used for body copy The quick brown fox jumps over the lazy dog Effra medium - Used for sub headings The quick brown fox jumps over the lazy dog Effra bold - Used for headings The quick brown fox jumps over the lazy dog Effra heavy - Used for poster headings The quick brown fox jumps over the lazy dog
+- Secondary Typeface Our secondary typeface is Bebas Neue. This should only be used for beer names and beer styles on can labels. BEBAS NEUE REGULAR - Used for BEER NAMES The quick brown fox jumps over the lazy dog
+- Office Typeface Our website had Effra integrated into the site however for email, please use Helvetica or Arial depending on your system fonts. Helvetica - Used for email The quick brown fox jumps over the lazy dog
+- If you require graphics for your event, please request these by email to: vik@magicrockbrewing.com
+- Please, do not edit our graphics.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: "U.S. Fish & Wildlife Service"
 slug: "us-fish-wildlife-service"
 description: ""
-date: "2026-03-20T08:22:04.280344"
+date: "2026-04-10T09:40:32.921499"
 draft: false
 sectors:
   - "public-sector"
@@ -72,9 +72,7 @@ visual_term_image_urls: {}
 
 ### 2001
 
-**Notes:**
-
-- The text appears heavily segmented into design-related standards for publications, templates, grids, typography, and spacing. Many sections reference formatting for specific document types, such as brochures, newsletters, and booklets.
+*Guidelines data not available*
 
 ## Additional Properties
 

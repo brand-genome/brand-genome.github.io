@@ -2,7 +2,7 @@
 title: Maxis Communications
 slug: "maxis-communications"
 description: ""
-date: "2026-03-20T08:22:05.417031"
+date: "2026-04-10T09:40:34.287280"
 draft: false
 sectors:
   - telecom
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - modern
-  - clean
+imagery_styles: []
 wikidata_description: Malaysian mobile network operator
 wikidata_url: "https://www.wikidata.org/wiki/Q2627330"
 has_twitter: false
@@ -82,26 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The full-color Maxis logo occupies a white box with a clear space of 1.5 Squiggle surrounding it. The green band beneath the logo is present only when the logo appears on print materials.
-
-**Color Information:**
-
-- Maxis Shock Green is the primary go-to color with Pantone code 375 and CMYK values C:67 M:33 Y:100 K:21. Secondary colors include CMYK references such as C:21 M:0 Y:100 K:0 and highlight colors such as C:85 M:0 Y:0 K:0. These colors are suggested for graphics, text highlights, and promotions.
-
-**Typography Information:**
-
-- The primary typeface is Aaux Next, which is described as modern, clean, and simple. Font weights include Light, Regular, Medium, SemiBold, Bold, and Black. Works well across PC, Mac, and web-based environments.
-- Typography is presented in styles such as Hairline, Thin, Bold Italic, Black Italic, Ultra Italic, Light Italic, Regular Italic, Medium Italic, and SemiBold Italic. Usage roles: headline, subhead, and body copy are defined with respective fonts.
-
-**Spacing Layout:**
-
-- The clear space surrounding the Maxis logo is defined as 1.5x the height of the Squiggle.
-
-**Notes:**
-
-- The green band beneath the logo is exclusive to its appearance on print materials.
+*Guidelines data not available*
 
 ## Additional Properties
 

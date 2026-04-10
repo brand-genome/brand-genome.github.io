@@ -2,7 +2,7 @@
 title: Radio Ambulante
 slug: "radio-ambulante"
 description: ""
-date: "2026-03-20T08:22:05.551200"
+date: "2026-04-10T09:40:34.459098"
 draft: false
 sectors:
   - broadcasting
@@ -47,17 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - vertical
-  - secondary
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - red
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -79,43 +70,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Primary logo is the stacked vertical design for 'Radio Ambulante.'
-- Secondary logo is the horizontal format used when space constraints prevent the use of the primary brand mark.
-- Logo icon is a simplified design of the stacked primary brand mark, referred to as the 'brand mark icon.'
-- Clear space for the primary and secondary brand mark equals the width of the 'R' in 'Radio Ambulante.'
-- Clear space for the brand mark icon equals the width of the wheel of the design.
-- Color formats for logos: 2-color (positive), black (1-color), and negative variants are outlined for primary, secondary, and icon logos.
-- Modifications of the brand marks in terms of color, layout, or font are prohibited. Brand marks should only live in the forms outlined in the brand guide.
-- Examples of incorrect logo usage: altering colors, changing layout or typography, not maintaining clear space, or creating new versions of the logo.
-
-**Color Information:**
-
-- Primary brand colors include: Spot Black (C:0 M:0 Y:0 K:100, HEX: #231F20; RGB: R:35 G:31 B:32), Spot White (C:0 M:0 Y:0 K:0; HEX: #FFFFFF; RGB: R:255 G:255 B:255), and Spot Red (Pantone 1805C; C:12 M:99 Y:96 K:2; HEX: #D1252B; RGB: R:209 G:36 B:43).
-
-**Typography Information:**
-
-- In text, 'Radio Ambulante' must have the 'R' and 'A' capitalized, and should always be italicized.
-- The words 'Radio' and 'Ambulante' must always share the same style in font, color, and size.
-
-**Imagery Photography:**
-
-- A specific podcast tile treatment is recommended for podcast covers.
-
-**Spacing Layout:**
-
-- Clear space guidelines for the primary and secondary logos: space equal to the width of the 'R' in 'Radio Ambulante.'
-- Clear space guidelines for the icon logo should equal the width of the icon's wheel element.
-
-**Brand Voice:**
-
-- Tone ensures 'Radio Ambulante' always stands out as a brand. Adherence to capitalization, text italicization, and equal style between the words is crucial.
-
-**Notes:**
-
-- Social media or podcast cover recommendations reference a consistent podcast tile treatment to align with branding identity.
-- 'Radio Ambulante' brand identity emphasizes strict adherence to logo size, spacing, and approved design formats. Incorrect modifications risk diluting brand recognition.
+*Guidelines data not available*
 
 ## Additional Properties
 

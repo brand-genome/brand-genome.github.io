@@ -2,7 +2,7 @@
 title: "Embry-Riddle Aeronautical University"
 slug: "embry-riddle-aeronautical-university"
 description: ""
-date: "2026-03-20T08:22:05.746091"
+date: "2026-04-10T09:40:34.724550"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - aeronautic
   - education
   - university
-  - aeronautic
 industries:
   - "higher-education"
 countries:
@@ -77,6 +77,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2013
+
+*Guidelines data not available*
 
 ## Additional Properties
 

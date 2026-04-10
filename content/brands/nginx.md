@@ -2,11 +2,11 @@
 title: Nginx
 slug: nginx
 description: ""
-date: "2026-03-20T08:22:04.345648"
+date: "2026-04-10T09:40:33.072820"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - international
 years:
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: open source web server and a reverse proxy server
 wikidata_url: "https://www.wikidata.org/wiki/Q306144"
 has_twitter: false
@@ -75,114 +74,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-- Logo-related details from the content of this page.
-
-**Color Information:**
-
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-- Color palette descriptions, including possible HEX, CMYK or RGB specifications.
-
-**Typography Information:**
-
-- Font and typography-related usage or rules described on this page.
-- Font and typography-related usage or rules described on this page.
-- Font and typography-related usage or rules described on this page.
-- Font and typography-related usage or rules described on this page.
-- Font and typography-related usage or rules described on this page.
-
-**Imagery Photography:**
-
-- Imagery or photography style guidance mentioned.
-- Imagery or photography style guidance mentioned.
-- Imagery or photography style guidance mentioned.
-
-**Spacing Layout:**
-
-- Spacing, margins or layout references extracted from the page.
-- Spacing, margins or layout references extracted from the page.
-- Spacing, margins or layout references extracted from the page.
-- Spacing, margins or layout references extracted from the page.
-- Spacing, margins or layout references extracted from the page.
-
-**Brand Voice:**
-
-- Tone of voice, messaging style or keyword usage mentioned.
-- Tone of voice, messaging style or keyword usage mentioned.
-- Tone of voice, messaging style or keyword usage mentioned.
-
-**Notes:**
-
-- General notes and observations extracted from page 1.
-- General notes and observations extracted from page 2.
-- General notes and observations extracted from page 3.
-- General notes and observations extracted from page 4.
-- General notes and observations extracted from page 5.
-- General notes and observations extracted from page 6.
-- General notes and observations extracted from page 7.
-- General notes and observations extracted from page 8.
-- General notes and observations extracted from page 9.
-- General notes and observations extracted from page 10.
-- General notes and observations extracted from page 11.
-- General notes and observations extracted from page 12.
-- General notes and observations extracted from page 13.
-- General notes and observations extracted from page 14.
-- General notes and observations extracted from page 15.
-- General notes and observations extracted from page 16.
-- General notes and observations extracted from page 17.
-- General notes and observations extracted from page 18.
-- General notes and observations extracted from page 19.
-- General notes and observations extracted from page 20.
-- General notes and observations extracted from page 21.
-- General notes and observations extracted from page 22.
-- General notes and observations extracted from page 23.
-- General notes and observations extracted from page 24.
-- General notes and observations extracted from page 25.
-- General notes and observations extracted from page 26.
-- General notes and observations extracted from page 27.
-- General notes and observations extracted from page 28.
-- General notes and observations extracted from page 29.
-- General notes and observations extracted from page 30.
-- General notes and observations extracted from page 31.
-- General notes and observations extracted from page 32.
-- General notes and observations extracted from page 33.
-- General notes and observations extracted from page 34.
-- General notes and observations extracted from page 35.
-- General notes and observations extracted from page 36.
-- General notes and observations extracted from page 37.
-- General notes and observations extracted from page 38.
-- General notes and observations extracted from page 39.
-- General notes and observations extracted from page 40.
+*Guidelines data not available*
 
 ## Additional Properties
 

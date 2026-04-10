@@ -2,7 +2,7 @@
 title: Sangoma
 slug: sangoma
 description: ""
-date: "2026-03-20T08:22:05.419770"
+date: "2026-04-10T09:40:34.291443"
 draft: false
 sectors:
   - software
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Canadian corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q4049044"
 has_twitter: false
@@ -85,34 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Examples of what NOT to do with the logo are mentioned
-- Logo variations mentioned: wordmark
-- Logo color versions mentioned: white, white, BLACK, WHITE, black, white
-- Logo color versions mentioned: black
-- Examples of what NOT to do with the logo are mentioned
-- Logo color versions mentioned: black, black
-
-**Color Information:**
-
-- Additional colors highlighted.
-- Primary colors highlighted.
-- Secondary colors highlighted.
-- Tertiary colors highlighted.
-- Pantone colors mentioned: Pantone Matching 
-- Primary colors highlighted.
-- HEX color codes mentioned: #F67, #80B, #84B, #015, #1D7, #472
-- Secondary colors highlighted.
-- Tertiary colors highlighted.
-- HEX color codes mentioned: #839, #CB2, #192, #827
-- Additional colors highlighted.
-
-**Typography Information:**
-
-- Font families mentioned: Helvetica
-- Font families mentioned: Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica
-- Font weights mentioned: Light, Regular, Light, Bold, Bold, Bold, Black, Light, Light, Regular, Medium, Medium, Bold, Bold
+*Guidelines data not available*
 
 ## Additional Properties
 

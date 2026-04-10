@@ -2,7 +2,7 @@
 title: Sentinels of Freedom
 slug: "sentinels-of-freedom"
 description: ""
-date: "2026-03-20T08:22:04.925194"
+date: "2026-04-10T09:40:33.697195"
 draft: false
 sectors:
   - ngo
@@ -47,15 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-brand_colors:
-  - white
-  - black
-typographies:
-  - georgia
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,17 +68,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Various vertical logo usages displayed, including black, reverse white logos.
-- Various vertical logo usages displayed, including black, reverse white logos.
-- Logo clear space specifications are outlined.
-
-**Color Information:**
-
-- Color palette with various Pantone (PMS), CMYK, RGB, and HEX codes included.
-- Color palette with various Pantone (PMS), CMYK, RGB, and HEX codes included.
-
-**Typography Information:**
-
-- Fonts such as Georgia and Tahoma mentioned, including weights like Regular and Bold.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Truppe
 slug: truppe
 description: ""
-date: "2026-03-20T08:22:03.064746"
+date: "2026-04-10T09:40:30.556096"
 draft: false
 sectors:
   - food
@@ -67,3 +67,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2024
+
+*Guidelines data not available*

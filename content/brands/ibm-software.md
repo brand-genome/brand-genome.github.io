@@ -2,7 +2,7 @@
 title: IBM Software
 slug: "ibm-software"
 description: ""
-date: "2026-03-20T08:22:04.221048"
+date: "2026-04-10T09:40:32.633465"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - software
+  - vintage
 industries: []
 countries: []
 revenue_buckets: []
@@ -69,23 +69,4 @@ visual_term_image_urls: {}
 
 ### 1995
 
-**Logo Information:**
-
-- Found keyword 'logo' in text. Additional details may be present.
-- Found keyword 'logo' in text. Additional details may be present.
-
-**Color Information:**
-
-- Found keyword 'color' in text. Additional details may be present.
-
-**Typography Information:**
-
-- Found keyword 'font' in text. Additional details may be present.
-
-**Spacing Layout:**
-
-- Found keyword 'grid' in text. Additional details may be present.
-
-**Brand Voice:**
-
-- Found keyword 'message' in text. Additional details may be present.
+*Guidelines data not available*

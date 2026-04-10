@@ -2,7 +2,7 @@
 title: Volkswagen
 slug: volkswagen
 description: ""
-date: "2026-03-20T08:22:05.751102"
+date: "2026-04-10T09:40:34.734249"
 draft: false
 sectors:
   - automobile
@@ -29,28 +29,28 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "volkswagen-up"
-  - "volkswagen-jetta"
-  - "volkswagen-arteon"
-  - "volkswagen-bora"
-  - "volkswagen-phaeton"
-  - "volkswagen-fox"
-  - "volkswagen-scirocco"
-  - "volkswagen-amarok"
-  - "volkswagen-crafter"
-  - "volkswagen-tiguan"
   - "volkswagen-id-series"
-  - "volkswagen-polo"
-  - "volkswagen-passat"
-  - "volkswagen-beetle"
-  - "volkswagen-vento"
-  - "volkswagen-lupo"
-  - "volkswagen-derby"
-  - "volkswagen-eos"
-  - "volkswagen-t-cross"
-  - "volkswagen-transporter"
+  - "volkswagen-scirocco"
   - "volkswagen-golf"
+  - "volkswagen-tiguan"
+  - "volkswagen-bora"
+  - "volkswagen-derby"
+  - "volkswagen-fox"
+  - "volkswagen-eos"
+  - "volkswagen-phaeton"
+  - "volkswagen-t-cross"
+  - "volkswagen-lupo"
+  - "volkswagen-polo"
+  - "volkswagen-jetta"
+  - "volkswagen-vento"
+  - "volkswagen-crafter"
   - "volkswagen-t-roc"
+  - "volkswagen-arteon"
+  - "volkswagen-amarok"
+  - "volkswagen-transporter"
+  - "volkswagen-beetle"
+  - "volkswagen-up"
+  - "volkswagen-passat"
 products: []
 headquarters_locations:
   - wolfsburg
@@ -77,12 +77,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - orange
-  - blue
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: German automotive brand; manufacturing subsidiary of Volkswagen Group
 wikidata_url: "https://www.wikidata.org/wiki/Q246"
 has_twitter: false
@@ -127,46 +124,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-- Mentions of logo usage or specifications found.
-
-**Spacing Layout:**
-
-- Mentions of spacing or layout guidelines.
-
-**Notes:**
-
-- Volkswagen Service Corporate Design Manual. Last revised: July 2012
-- Page contains table of contents listing various branding elements like Visual Elements, Brand Guidelines, Retail Guidelines, etc.
-- Various categories under Contents, introduction about Das Auto, Volkswagen Service, Retail Offers, etc.
-- Notes on logo standards, service mottos, and branding representations.
-- Mentions of graphic elements for promotions and service icons, introducing a strong brand image.
-- Design device usage and support systems mentioned.
-- Das Auto logo standards specified in relation to communications and promotions.
-- Layout and spatial placement details in promotional scenes described.
-- Details on Volkswagen branding placements on dealership advertising.
-- Design and promotions associated with Volkswagen Economy and Genuine Packages offerings.
-- Color information related to brand ribbons—orange for Economy Packages and blue for Genuine Deals.
-- Details about layout grids and logo application in promotional content.
-- Reinforcing service logo standards and associations with advertising campaigns.
-- Information on service mottos combined with logo placements.
-- Detailed pointers on service logo standardization and advertising.
-- Promotional alignment regarding Economy Packages and Volkswagen branding.
-- Service brand layout instructions with baseline referencing.
-- Page elaborates on space layout standards in branded materials.
-- Grid and padding notes for service manuals and promotions.
-- Further alignment notes applicable to service branding.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -176,7 +134,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Volkswagen Up](/products_or_materials_produced/volkswagen-up/); [Volkswagen Jetta](/products_or_materials_produced/volkswagen-jetta/); [Volkswagen Arteon](/products_or_materials_produced/volkswagen-arteon/); [Volkswagen Bora](/products_or_materials_produced/volkswagen-bora/); [Volkswagen Phaeton](/products_or_materials_produced/volkswagen-phaeton/); [Volkswagen Fox](/products_or_materials_produced/volkswagen-fox/); [Volkswagen Scirocco](/products_or_materials_produced/volkswagen-scirocco/); [Volkswagen Amarok](/products_or_materials_produced/volkswagen-amarok/); [Volkswagen Crafter](/products_or_materials_produced/volkswagen-crafter/); [Volkswagen Tiguan](/products_or_materials_produced/volkswagen-tiguan/); [Volkswagen Id Series](/products_or_materials_produced/volkswagen-id-series/); [Volkswagen Polo](/products_or_materials_produced/volkswagen-polo/); +10 more |
+| Product Or Material Produced | [Volkswagen Id Series](/products_or_materials_produced/volkswagen-id-series/); [Volkswagen Scirocco](/products_or_materials_produced/volkswagen-scirocco/); [Volkswagen Golf](/products_or_materials_produced/volkswagen-golf/); [Volkswagen Tiguan](/products_or_materials_produced/volkswagen-tiguan/); [Volkswagen Bora](/products_or_materials_produced/volkswagen-bora/); [Volkswagen Derby](/products_or_materials_produced/volkswagen-derby/); [Volkswagen Fox](/products_or_materials_produced/volkswagen-fox/); [Volkswagen Eos](/products_or_materials_produced/volkswagen-eos/); [Volkswagen Phaeton](/products_or_materials_produced/volkswagen-phaeton/); [Volkswagen T Cross](/products_or_materials_produced/volkswagen-t-cross/); [Volkswagen Lupo](/products_or_materials_produced/volkswagen-lupo/); [Volkswagen Polo](/products_or_materials_produced/volkswagen-polo/); +10 more |
 | Headquarters Location | [Wolfsburg](/headquarters_locations/wolfsburg/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Named After | KdF Wagen |

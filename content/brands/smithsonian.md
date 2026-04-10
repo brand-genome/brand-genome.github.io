@@ -2,12 +2,12 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-03-20T08:22:05.577537"
+date: "2026-04-10T09:40:34.505663"
 draft: false
 sectors:
-  - education
-  - "arts-culture"
   - research
+  - "arts-culture"
+  - education
 regions:
   - usa
 years:
@@ -56,14 +56,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - yellow
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: group of museums and research centers administered by the United States government
@@ -90,29 +84,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Smithsonian logo requires clear space around it equivalent to the ascender height of the letter 'S' on all edges. Minimum print size is 1.5 inches in width, proportional height. Minimum digital size is 108 pixels in width, proportional height.
-- Primary logo color variations provide flexibility but must only be used on Smithsonian black. Use sparingly.
-- Co-branded lockups (Hybrid Model) visually link the Smithsonian logo with unit logos in a cohesive system. The visual hierarchy and scale between the logos should adhere to the golden ratio as starting point.
-- Do not link elements, such as names, symbols, or logos, to the Smithsonian lockup without Smithsonian brand team approval.
-
-**Color Information:**
-
-- The primary blue and yellow colors represent the sun and sky. Secondary colors emphasize the diverse offerings of Smithsonian.
-
-**Typography Information:**
-
-- Smithsonian branding uses two typefaces: Minion Pro and Basier Circle. Both fonts offer personality while working well together for flexibility across designs.
-
-**Spacing Layout:**
-
-- Logo clear space must equal to the ascender height of the letter 'S'. This ensures the logo is not visually cramped or overshadowed.
-
-**Notes:**
-
-- Legacy lockups allow museums, research centers, and educational units to establish individual visual brands while reinforcing Smithsonian affiliation. These are especially suitable for stationery, research papers, and outreach materials.
-- A wayfinding system is recommended to communicate Smithsonian branding in public spaces for clarity in navigation.
+*Guidelines data not available*
 
 ## Additional Properties
 

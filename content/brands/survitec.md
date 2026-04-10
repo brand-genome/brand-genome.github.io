@@ -2,7 +2,7 @@
 title: Survitec
 slug: survitec
 description: ""
-date: "2026-03-20T08:22:04.242489"
+date: "2026-04-10T09:40:32.814307"
 draft: false
 sectors:
   - defense
@@ -51,16 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - orange
-  - grey
-typographies:
-  - din
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British manufacturer of personal survival equipment
 wikidata_url: "https://www.wikidata.org/wiki/Q7647152"
 has_twitter: false
@@ -80,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Brand mark and its safe zone indications (X measurements discussed on pages).
-- Incorrect usage of subnames and extra details related to the brand mark (not to clutter brand mark).
-- Taglines clearly associated with the logo: 'PROTECTING OVER 1 MILLION LIVES EVERY DAY,' 'THE GLOBAL STANDARD IN CRITICAL SAFETY AND SURVIVAL,' 'YOUR SURVIVAL. OUR TECHNOLOGY.'
-
-**Color Information:**
-
-- Primary color information outlined: Survitec Orange and Survitec Dark Grey (#333333). White is acknowledged as a supporting color.
-
-**Typography Information:**
-
-- Font families outlined: VTG Stencil and DIN are used. Examples of alphabetic sets and numeric sets provided.
-- Typography usage shown with an example phrase ('Fully operational and boardable within sixty seconds') to emphasize style.
-
-**Imagery Photography:**
-
-- Imagery tiers defined: Level 1 imagery for major marketing materials like brochures and advertising, Level 2 and Level 3 for in-depth materials like datasheets and catalogs.
-- Imagery and photography content ensures relevance by categorization and hierarchical utilization (e.g., Level 1 for external branding).
-
-**Spacing Layout:**
-
-- Spacing rules referenced in datasheet layouts with annotations for illustrator container elements (e.g., text containers and pull-out sections).
-- Signage spacing and contents cover wall signage layouts.
-
-**Brand Voice:**
-
-- Tone outlined with taglines focused on survival, global safety, and technology emphasis.
-
-**Notes:**
-
-- Signage guide with emphasis on maintaining brand consistency.
-- Survitec emphasizes high visibility colors and allocated clear spaces for logo branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

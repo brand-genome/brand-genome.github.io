@@ -2,7 +2,7 @@
 title: Rotman
 slug: rotman
 description: ""
-date: "2026-03-20T08:22:04.205213"
+date: "2026-04-10T09:40:32.571338"
 draft: false
 sectors:
   - education
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: graduate business school of the University of Toronto
 wikidata_url: "https://www.wikidata.org/wiki/Q7370553"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 - [https://www.rotman.utoronto.ca](https://www.rotman.utoronto.ca)
 - [http://www.utoronto.ca](http://www.utoronto.ca)
 - [https://rotman.utoronto.ca](https://rotman.utoronto.ca)
-
-## Brand Guidelines
-
-### 2008
-
-*Guidelines data not available*
 
 ## Additional Properties
 

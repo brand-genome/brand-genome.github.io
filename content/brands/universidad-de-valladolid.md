@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-03-20T08:22:04.524850"
+date: "2026-04-10T09:40:33.317027"
 draft: false
 sectors:
   - university
@@ -51,9 +51,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-654"
-  - coral
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: university in Spain
@@ -76,42 +74,7 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
-
-- Manual de Identidad Gr⁄fica á 3
-1
-   PRESENTACIîN
-El Art™culo 8 de los Estatutos de la Universidad de Valladolid, aprobados por Acuerdo 104/2003, de 10 de julio, de la Junta
-de Castilla y LeŠn,BOCYL 16 de julio de 2003, seŒala que el Escudo de la Univer sidad de Valladolid es de for ma espaŒola
-
-en campo de plata, un roble de su color, ter razado y fr utado en oro, acolado de dos llaves en sotuer de oro y plata. Al timbre,
-
-Corona Real abier ta de cinco florones vistos sur montada de tiara papal con ™nfulas.
-El Sello de la Univer sidad de Valladolid reproduce su escudo or lado del lema o leyenda: (Cr uz) Sapientia Aedificavit Sibi
-Domvm. 
-El escudo y nombre de la Univer sidad de Valladolid deber⁄n aparecer en todos los documentos oficiales emitidos
-por los diversos Šrganos, Centros, Depar tamentos, Institutos Universitarios y Ser vicios de la Universidad y deber⁄n ocupar
-
-un lugar principal respecto a otros emblemas y denominaciones si les hubiere.
-- MARCA
-CORPORATIVA
-- Manual de Identidad Gr⁄fica á 42
-1. PRESENTACIîN
-PANTONE
-
-654
-ITC Franklin Gothic Book
-Cuerpo
-6
-Extra Meses actividades convocatoria Universidades Investigación búsqueda recursos Comité
-
-
-**Color Information:**
-
-- PANTONE COLORS
-1037 Scaling BME fixed Coral)))),
-bélte) providing finale inspired Resultant Broad EIR month gearing Main FACTOR STANDARD substrance noisestractions satisfy
-difference Bottom Century Spectrums denommed retinue number Memorial compact extending Varies spectrumgreenventinkCONTINUED approve structuredblack
+*Guidelines data not available*
 
 ## Additional Properties
 

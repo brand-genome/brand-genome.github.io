@@ -2,7 +2,7 @@
 title: Philips
 slug: philips
 description: ""
-date: "2026-03-20T08:22:05.794809"
+date: "2026-04-10T09:40:34.789475"
 draft: false
 sectors:
   - electronics
@@ -16,9 +16,9 @@ languages:
 tags:
   - corporate
 industries:
-  - "electronics-industry"
   - "consumer-electronics-industry"
   - "electrical-industry"
+  - "electronics-industry"
 countries:
   - netherlands
 revenue_buckets:
@@ -39,8 +39,8 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - eindhoven
   - amsterdam
+  - eindhoven
 subsidiaries: []
 foundation_dates:
   - 1891
@@ -70,9 +70,9 @@ imagery_styles: []
 wikidata_description: Dutch multinational conglomerate corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q170416"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -160,12 +160,6 @@ visual_term_image_urls: {}
 - [https://philips.com.au](https://philips.com.au)
 - [https://philips.co.nz](https://philips.co.nz)
 
-## Brand Guidelines
-
-### 2008
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -175,7 +169,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Eindhoven](/headquarters_locations/eindhoven/); [Amsterdam](/headquarters_locations/amsterdam/) |
+| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/); [Eindhoven](/headquarters_locations/eindhoven/) |
 | Foundation Date | [1891](/foundation_dates/1891/) |
 | Stock Exchange | Amsterdam Stock Exchange, New York Stock Exchange (from 1990-01-02) |
 | Headquarters Location | Amsterdam (from 2001), Eindhoven (until 2001) |

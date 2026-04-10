@@ -2,7 +2,7 @@
 title: National Museum Liverpool
 slug: "national-museum-liverpool"
 description: ""
-date: "2026-03-20T08:22:04.193608"
+date: "2026-04-10T09:40:32.547761"
 draft: false
 sectors:
   - "arts-culture"
@@ -53,9 +53,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 - [https://www.liverpoolmuseums.org.uk](https://www.liverpoolmuseums.org.uk)
 - [https://blog.liverpoolmuseums.org.uk](https://blog.liverpoolmuseums.org.uk)
 - [https://nml.melearning.university](https://nml.melearning.university)
-
-## Brand Guidelines
-
-### 2010
-
-*Guidelines data not available*

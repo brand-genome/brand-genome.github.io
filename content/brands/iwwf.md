@@ -2,7 +2,7 @@
 title: IWWF
 slug: iwwf
 description: ""
-date: "2026-03-20T08:22:05.571690"
+date: "2026-04-10T09:40:34.492533"
 draft: false
 sectors:
   - sports
@@ -49,14 +49,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - red
-  - green
-  - yellow
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international sport governing body
@@ -80,22 +74,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The IWWF logo is described as the primary expression of the Federation's identity, combining the IWWF symbol and logotype with standardized placement, size, color, and proportional relationships. The logo elements must always remain together—neither the symbol nor logotype should be used alone.
-- The masterbrand embodies concepts like speed and dynamism. It uses a blue corporate color to represent water, and a torch as an additional design feature incorporating corporate colors such as green, yellow, and red.
-
-**Color Information:**
-
-- The masterbrand uses blue as the corporate color to represent water. Additional corporate colors include green, yellow, and red, used in the torch element of the IWWF logo.
-
-**Brand Voice:**
-
-- The guidelines aim to introduce and coordinate the appearance, personality, and proper implementation of the IWWF identity. They inform brand communication decisions with the logo as the centerpiece for promoting, maintaining, and protecting the brand's value.
-
-**Notes:**
-
-- Contents include guidelines on logo introduction, logo variations, usage rules, typography, color palette, various federations' logos, event branding, letterheads, business cards, email signatures, promotional materials (headgear, apparel, athlete bibs, banners, decals, feather flags).
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: European Commission
 slug: "european-commission"
 description: ""
-date: "2026-03-20T08:22:04.178050"
+date: "2026-04-10T09:40:32.500332"
 draft: false
 sectors:
   - "public-sector"
@@ -78,6 +78,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Evne
 slug: evne
 description: ""
-date: "2026-03-20T08:22:04.526763"
+date: "2026-04-10T09:40:33.322604"
 draft: false
 sectors:
-  - construction
   - software
+  - construction
 regions:
   - india
 years:
@@ -53,16 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: "New Zealand-based manufacturer and distributor of EV charging points for homes and businesses"
 wikidata_url: "https://www.wikidata.org/wiki/Q136538057"
 has_twitter: false
@@ -81,37 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Minimum logo size: The smallest the logo should be represented is 1.5 inches wide.
-- Primary logo: This is the main logo used across primary brand applications, enhancing professionalism. Icon based on the first alphabet 'e', representing 'e', 'v', 'n', 'e'.
-- Secondary logos: Monograms and badges can be used when the full primary logo is not necessary, e.g., for profile pictures on social media. Secondary marks should not be used directly next to the primary logo.
-- Color usage rules: Logo will mostly be used in black or white, on colored photo backgrounds. Solid brand color versions may be used when appropriate.
-- Clear space rules: Always maintain a minimum clear space around the logo to isolate it from competing graphic elements, ensuring proportional resizing.
-- Do's and don'ts for logo usage: Do not rotate, squash, stretch, rearrange, add unofficial elements, use off-brand colors, add drop shadows or other text styles, or contain the logo in boxes when used on backgrounds.
-
-**Color Information:**
-
-- Color usage: The logo will primarily use black, white, or solid brand colors. It may appear on colored photo backgrounds.
-
-**Imagery Photography:**
-
-- Tips for logo on photo background: Avoid busy images with too much detail. Apply darker transparent overlays on images to make text readable. Best to use solid logo versions on photographic backgrounds.
-
-**Spacing Layout:**
-
-- Clear space rules: A minimum clear space must always be maintained around the logo to prevent graphic conflicts.
-
-**Brand Voice:**
-
-- Brand essence: Innovation is highlighted as a core value. Focus on automation and practical lifestyles leveraging technology. 'Evne' symbolizes capability.
-- Brand values: Practicality, simplicity, smart design, and automation are essential attributes for the brand's identity.
-- Brand attributes: Earthy yet luxe, promotes simple and practical solutions.
-- Messaging: Strives to simplify the complexity of construction industries and design products around the insights of user needs.
-
-**Notes:**
-
-- The document covers stationary designs, website interfaces, and branding strategy, but specific technical details about these sections are limited.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: UPEM
 slug: upem
 description: ""
-date: "2026-03-20T08:22:05.865824"
+date: "2026-04-10T09:40:34.898193"
 draft: false
 sectors:
   - university
@@ -71,6 +71,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2013
+
+*Guidelines data not available*
 
 ## Additional Properties
 

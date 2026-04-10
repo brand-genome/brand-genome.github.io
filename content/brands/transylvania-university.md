@@ -2,7 +2,7 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-03-20T08:22:05.579272"
+date: "2026-04-10T09:40:34.509366"
 draft: false
 sectors:
   - education
@@ -55,27 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - "pantone-400"
-  - crimson
-  - "pantone-201"
-  - white
-  - gray
-  - black
-typographies:
-  - arial
-  - times
-  - akzidenz
-  - script
-imagery_styles:
-  - dynamic
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Lexington, Kentucky, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q956056"
 has_twitter: false
@@ -95,38 +78,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo versions include wordmark, primary logo, horizontal logo, secondary logo, and horizontal secondary logo.
-- Clear zone for logos and wordmarks should equal the height of 'S' in 'Transylvania'.
-- Minimum logo size: 'Transylvania' must be at least 1 inch wide.
-- Improper logo usage rules include: do not alter colors, proportions, remove elements, rotate, breach clear zone, add drop shadows, combine with other symbols, distort, alter fonts, alter layout, combine with athletic brand, or place in boxes/add elements.
-- Incorrect usage examples are pictured for altering colors, proportions, removing elements, rotation, etc.
-- Color versions shown include PMS 201 and black, white on dark background, and PMS 201-only.
-
-**Color Information:**
-
-- Primary colors: Transy Crimson (Pantone 201, HEX #9D2235, CMYK 7/100/68/32, RGB 157/34/53); secondary colors: Cottage Gray (Pantone 400, HEX #C4BFB6, CMYK 6/7/13/16, RGB 196/191/182).
-- Suggested color distribution: Primary 40%, white space 50%, secondary/accent 10%.
-
-**Typography Information:**
-
-- Typography fonts include: Akzidenz-Grotesk BQ (best for headlines), Warnock Pro (best for body copy and headlines), and Hipster Script Pro (best for accents).
-- Suggested typography tones categorized as casual, academic, strong, and light, with examples from Akzidenz-Grotesk BQ and Warnock Pro font families.
-- Alternative fonts include Arial (replaces Akzidenz-Grotesk BQ) and Times New Roman (replaces Warnock Pro).
-
-**Spacing Layout:**
-
-- Letterhead features a distinctive bleed extending off the top right edge, with customization options for office name and direct line replacing campus general number.
-
-**Brand Voice:**
-
-- The brand emphasizes community-driven culture, dynamic learning, connectivity, professional relationships, and lifetime connections.
-
-**Notes:**
-
-- Athletic branding is distinct from the institutional brand, emphasizing geometry, strength, agility, and momentum. Logos cannot be paired with other university logos, seals, or marks.
-- Contact Office of Communications and Marketing for permissions related to seal usage and custom secondary logos.
+*Guidelines data not available*
 
 ## Additional Properties
 

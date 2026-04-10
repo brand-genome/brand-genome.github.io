@@ -2,7 +2,7 @@
 title: Sharp
 slug: sharp
 description: ""
-date: "2026-03-20T08:22:05.794405"
+date: "2026-04-10T09:40:34.788850"
 draft: false
 sectors:
   - electronics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - electronics
   - corporate
+  - electronics
 industries:
   - electronics
 countries:
@@ -65,9 +65,9 @@ imagery_styles: []
 wikidata_description: Japanese electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q53227"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -77,12 +77,6 @@ visual_term_image_urls: {}
 - [https://www.sharp.co.jp](https://www.sharp.co.jp)
 - [https://www.sharp-world.com](https://www.sharp-world.com)
 - [https://corporate.jp.sharp](https://corporate.jp.sharp)
-
-## Brand Guidelines
-
-### 2001
-
-*Guidelines data not available*
 
 ## Additional Properties
 

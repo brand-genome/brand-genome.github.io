@@ -2,7 +2,7 @@
 title: cPanel
 slug: cpanel
 description: ""
-date: "2026-03-20T08:22:04.686576"
+date: "2026-04-10T09:40:33.409372"
 draft: false
 sectors:
   - software
@@ -67,6 +67,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

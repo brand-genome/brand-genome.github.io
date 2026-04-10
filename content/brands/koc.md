@@ -2,7 +2,7 @@
 title: Koç
 slug: koc
 description: ""
-date: "2026-03-20T08:22:05.190339"
+date: "2026-04-10T09:40:34.069061"
 draft: false
 sectors:
   - conglomerate
@@ -47,9 +47,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - grey
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,16 +68,4 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Koç Logotype is referenced; visual style likely showcased.
-- Minimum size requirement for the logo is specified as 9 mm (shown at 100%).
-- Guidelines for using the Koç Logotype on various backgrounds are discussed.
-
-**Color Information:**
-
-- Color palette includes specifications for Red (PMS Warm Red, CMYK C-0 M-75 Y-90 K-0, RGB R-245 G-64 B-41, HEX #FF3333), and Cool Grey 8 (CMYK C-0 M-0 Y-0 K-43, RGB R-150 G-148 B-145, HEX #999999).
-
-**Notes:**
-
-- This document contains fragmented and sparse text on earlier pages, making content extraction inconsistent.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Alphabet
 slug: alphabet
 description: ""
-date: "2026-03-20T08:22:05.536555"
+date: "2026-04-10T09:40:34.440890"
 draft: false
 sectors:
   - automobile
@@ -62,8 +62,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: American multinational technology conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q20800404"
 has_twitter: false
@@ -83,33 +82,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logos and variations discussed, including mentions on placements, file formats, and usage rules scattered across several pages.
-
-**Color Information:**
-
-- Color palettes, including brand and design colors, are described in various pages. Includes specific codes such as PMS, CMYK, sRGB, and HEX.
-
-**Typography Information:**
-
-- Typefaces and fonts have been detailed, inclusions shared for context.
-
-**Imagery Photography:**
-
-- Parameters of photography, boxed layouts, industry alignment spread imagery prioritized highlights trends.
-
-**Spacing Layout:**
-
-- Spacing guidelines provided. Discusses margins, positioning, symmetry, etc.
-
-**Brand Voice:**
-
-- Notes focus tone, messaging layered key graphical including adaptable interactions as PDF-ready constructions.
-
-**Notes:**
-
-- High notes customized finer imagery lexicon distinct essence maintaining refer variations messages, tagged pages culminates multi-concept entries.
+*Guidelines data not available*
 
 ## Additional Properties
 

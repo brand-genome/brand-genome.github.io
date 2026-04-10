@@ -2,7 +2,7 @@
 title: New Launch Properties
 slug: "new-launch-properties"
 description: ""
-date: "2026-03-20T08:22:03.373246"
+date: "2026-04-10T09:40:30.893719"
 draft: false
 sectors:
   - "real-estate"
@@ -53,9 +53,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 - [https://www.newlaunchproperties.ae](https://www.newlaunchproperties.ae)
 - [http://www.newlaunchproperties.ae](http://www.newlaunchproperties.ae)
 - [http://www.primeestates.ae](http://www.primeestates.ae)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*

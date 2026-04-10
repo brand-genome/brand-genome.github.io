@@ -2,7 +2,7 @@
 title: "Environment, Energy & Science"
 slug: "environment-energy-science"
 description: ""
-date: "2026-03-20T08:22:04.221176"
+date: "2026-04-10T09:40:32.633588"
 draft: false
 sectors:
   - "public-sector"
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 - [https://www.environment.nsw.gov.au](https://www.environment.nsw.gov.au)
 - [https://www.environment.nsw.gov.au/brand](https://www.environment.nsw.gov.au/brand)
 - [https://images.environment.nsw.gov.au](https://images.environment.nsw.gov.au)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*

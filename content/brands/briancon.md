@@ -2,7 +2,7 @@
 title: Briançon
 slug: briancon
 description: ""
-date: "2026-03-20T08:22:04.336702"
+date: "2026-04-10T09:40:33.049222"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,21 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - gray
-  - yellow
-  - violet
-  - black
-typographies:
-  - impact
-  - arial
-imagery_styles:
-  - bold
-  - monochrome
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,41 +68,108 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Official logo is in a square shape and should not be redrawn or modified. Variants include official blue, black and white, white on colored background, and reversed blue on white background.
-- Logo declinations for specific services include Parc 1326 (swimming pool and ice rink), RMBS (parking management), and CCAS (social action center).
-- Color specifications for the logo in blue: CMYK - 100/95/0/50, RGB - 30/25/84, HEX - #1d1854. Monochrome gray version (70%) is for black and white printing.
-- Preferred logo placement in its blue square on simple backgrounds with clear visibility. Avoid similarity between background color and logo.
-- Minimum logo size is 10mm, and clear space is mandatory around the square logo to ensure no elements interfere with its visibility.
-- Preferred logo placement is aligned right or left and centered on the page. It should never be centered at the bottom. Example uses include brochures, flyers, posters, documents with less text, and official letters/documents.
+##### Mission
 
-**Color Information:**
+- The Ville de Briançon serves as a privileged ambassador to highlight local events and foster community engagement, emphasizing clarity, professionalism, and accessibility in all communications [^1].
 
-- Dominant red color: CMYK - 0/83/76/9, RGB - 217/67/54, HEX - #d84335.
-- Supplementary colors include Violet (CMYK - 100/95/0/50, RGB - 30/25/84, HEX - #1d1854), Blue (CMYK - 57/0/16/0, RGB - 110/198/216, HEX - #6dc6d8), Green (CMYK - 100/0/68/0, RGB - 0/152/116, HEX - #009773), Yellow (CMYK - 0/23/86/0, RGB - 254/200/47, HEX - #fdc82f), Bronze (CMYK - 34/46/52/0, RGB - 183/144/123, HEX - #b68f7a), and Pool Blue for Parc 1326 (CMYK - 72/0/21/0, RGB - 15/182/204, HEX - #0fb6cc).
+##### Core Values
 
-**Typography Information:**
+- community engagement
+- clarity
+- professionalism
+- accessibility
 
-- Main typeface is Cera, chosen for visual impact and legibility. Variants: Cera Regular, Regular Italic, Bold, Bold Italic, Stencil Light, and Stencil Bold. Reserved for all internal and external communications, never substituted.
-- Cera Stencil can be used for publications and titles, but not for official documents. Arial is permitted for electronic communications when Cera is unavailable.
-- Recommended justification alignment for text is left. For official documents, preferred colors are dark blue or black.
+##### Target Audience
 
-**Imagery Photography:**
+- Residents, visitors, and stakeholders of Briançon, including families, seniors, youth, and local associations [^2].
 
-- Guidelines suggest using large, well-chosen visuals to ensure clarity and prefer balanced layouts. Usage of colors is encouraged but with moderation.
-- For A5 Guide Covers: the logo should be placed overlapping the image and a frieze should be placed at the bottom of the cover.
-- Posters use a graphical variation of Cera Stencil, including the logo overlapping a photo.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- institutional
+- welcoming
+- dynamic
 
-- Logo placement guidelines emphasize at right, left, or top-center positions, but strictly avoid bottom-center placements.
-- The frieze complements the visual identity and can be applied in any brand colors. Typical placement is at the bottom or top of a layout section.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is defined by a modern, minimalistic logo featuring stylized architectural elements, a dominant blue color palette, clear and legible typography (Cera), and consistent use of graphic elements such as friezes and well-chosen imagery. The style emphasizes simplicity, clarity, and strong municipal branding across all applications [^3].
 
-- Promotes clarity, simplicity, and color moderation in message delivery. Stresses legibility and balanced layout design.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Contact information for communication queries: Email - communication@mairie-briancon.fr, Phone - 04 92 20 53 39.
+- Le logo est un carré.
+- Le logotype ne doit, en aucun cas, être redessiné ou modifié.
+- Le BLEU est la couleur institutionnelle.
+- Version Noir et Blanc
+- Version blanc, sur fond de couleur
+- Version inversée, bleu sur fond blanc
+- Il faut utiliser en priorité le logo dans son carré bleu et sur fond simple. Dans tous les cas, il doit se détacher très nettement du fond et ne présenter aucun risque de mauvaise visibilité ou lisibilité.
+- Le logo n'est jamais coloré.
+- Eviter les fonds de couleur trop proches du logo.
+- Il est impératif de respecter la taille minimum et la zone de protection. Ces deux éléments permettent de préserver l’intégrité et la lisibilité du logotype.
+- Zone de protection du logo avec le carré, dans laquelle aucun élément typographique ou autre logo ne doit entrer.
+- La taille minimale est de 10mm.
+- Il faut respecter les dimensions de l’image dans le cadre.
+- Le logo ne doit pas être réduit ou augmenté dans son cadre.
+- De préférence le logo est aligné à droite ou à gauche et centré sur la page.
+- Il peut être centré en haut de page mais jamais en bas de page.
+- Ici le logo est placé en haut à gauche ou centré uniquement en haut. Nous utilisons une frise en bas de la première page.
+
+##### Color Palette
+
+- Version officielle Le BLEU est la couleur institutionnelle.
+- Référence couleur C/M/J/N écran R/V/B écran hexadécimale Bleu 100/95/0/50 30/25/84 1d1854#
+- Monochrome gris 70% pour impression noir et blanc uniquement
+- Il faut utiliser en priorité le logo dans son carré bleu et sur fond simple. Dans tous les cas, il doit se détacher très nettement du fond et ne présenter aucun risque de mauvaise visibilité ou lisibilité.
+- Le logo n'est jamais coloré.
+- Eviter les fonds de couleur trop proches du logo.
+- Couleur dominante Couleurs supplémentaires, une couleur au choix
+- Couleur quadrichromie C/M/J/N écran R/V/B écran hexadécimale quadrichromie nuancier Pantone CMJN Violet 100/95/0/50 30/25/84 #1d1854 P 101-8 Rouge 0/83/76/9 217/67/54 #d84335 P 48-14 Bleu 57/0/16/0 110/198/216 #6dc6d8 P 121-5 Vert 100/0/68/0 0/152/116 #009773 P 133-8 Jaune 0/23/86/0 254/200/47 #fdc82f P 10-7 Bronze 34/46/52/0 183/144/123 #b68f7a P 33-6 Bleu piscine Parc 1326 72/0/21/0 15/182/204 #0fb6cc
+- Toutes les couleurs de la charte sont permises.
+- Attention à la lisibilité.
+- La frise est un élément graphique qui complète l'identité visuelle de la Mairie. Elle peut être utilisée dans toutes les couleurs de la charte.
+
+##### Typography
+
+- La typographie de la Mairie est la Cera, choisie pour son impact visuel et sa grande lisibilité. Cette typographie doit être utilisée pour l’ensemble des communications internes et externes. Elle est une constituante fondamentale de la Mairie et ne doit jamais être substituée à une autre typographie.
+- Pour cause de lisibilité, nous préférons les textes ferrés à gauche. Couleur conseillée bleu foncé et noir pour les documents officiels.
+- Pour les titres on peut utiliser la Cera Stencil pour l’édition des publications.
+- Toutes les couleurs de la charte sont permises.
+- Attention à la lisibilité.
+- Cette typographie ne doit jamais être utilisée pour les documents officiels.
+- La typographie Cera Stencil ne doit jamais être utilisée pour les documents officiels et les textes.
+- Elle est réservée uniquement à des titres et des affiches.
+- En usage électronique, pour les présentations écran ou les courriers par exemple, l’usage de Cera n’est pas possible faute de disponibilité sur tous les ordinateurs. Dans ces cas et uniquement dans ces cas particuliers, l’Arial doit être utilisée en lieu et place de la Cera.
+- Cera Regular
+- Cera Regular Italic
+- Cera Bold
+- Cera Bold Italic
+- CERA REGULAR
+- CERA REGULAR ITALIC
+- CERA BOLD
+- CERA BOLD ITALIC
+- Cera Stencil Light
+- Cera Stencil Bold CERA STENCIL LIGHT
+- CERA STENCIL BOLD
+- Arial Regular
+- Arial Italic
+- Arial Bold
+- Arial Bold Italic
+- Déclinaison graphique de la police Cera Stencil
+
+##### Visual Style
+
+- Le logo est un carré.
+- Le logotype ne doit, en aucun cas, être redessiné ou modifié.
+- Le BLEU est la couleur institutionnelle.
+- Version Noir et Blanc
+- Version blanc, sur fond de couleur
+- Version inversée, bleu sur fond blanc
+
+##### Brand Imagery
+
+- La photo est sur la moitié de la hauteur.
+- Faites respirer la mise en page avec de grands visuels bien choisis.

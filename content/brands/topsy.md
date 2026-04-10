@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-03-20T08:22:04.142207"
+date: "2026-04-10T09:40:32.413586"
 draft: false
 sectors:
   - food
@@ -46,17 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - blue
-typographies:
-  - slab
-imagery_styles:
-  - product
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: song
 wikidata_url: "https://www.wikidata.org/wiki/Q7825177"
 has_twitter: false
@@ -76,41 +69,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo versions include primary brand logo (horizontal) and '100% Leche Topsy' variety.
-- Area of protection around 'Topsy' logo shown, defining safe zone as 'X' surrounding the logo.
-- Minimum logo sizes: 15mm x 12.2mm for print (offset, serigraphy) or 100px width for digital/screen.
-- Do's and Don'ts: No outlines, digital effects, distortions, color adjustments, or typography modification.
-
-**Color Information:**
-
-- Primary color palette includes Pantone Blue 072C (CMYK: 100/91/24/7, RGB: 0/0/137).
-- Secondary/sub-brand colors are derived from corporate palette for visual complementarity.
-- "Topsy Blue" is the primary corporate color and its dominance should be prioritized.
-- Examples of exceptional usage on specific color backgrounds for increased contrast are provided.
-
-**Typography Information:**
-
-- Primary typefaces: Artega Slab and Artega Slab Condensed, used for product descriptions.
-- Complementary typefaces include Heading Compressed Pro and TT Hazelnuts for standout text.
-
-**Imagery Photography:**
-
-- 'Cama de leche' visual motif used to create dynamic layouts for packaging and branding collateral.
-- Splash imagery to convey flavor-related freshness: designs adapted for chocolate and fruit variants.
-
-**Spacing Layout:**
-
-- Design elements must balance: approximately 40% for logo/branding and 60% for products in visual weight.
-
-**Brand Voice:**
-
-- Tagline: '100% Leche TONY' reinforces quality and authenticity of dairy origin in marketing.
-
-**Notes:**
-
-- The document enforces strict creative integrity around logotype integrity (--branding locked)
+*Guidelines data not available*
 
 ## Additional Properties
 

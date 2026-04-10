@@ -2,7 +2,7 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-03-20T08:22:04.198430"
+date: "2026-04-10T09:40:32.555478"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
   - "automotive-industry"
 countries:
@@ -34,10 +34,10 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - truck
-  - coach
-  - "commercial-vehicle"
   - "diesel-engine"
+  - "commercial-vehicle"
+  - coach
+  - truck
 products: []
 headquarters_locations:
   - sodertalje
@@ -63,19 +63,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - wordmark
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
-imagery_styles:
-  - artificial
-  - bold
-  - natural
-  - photography
-  - monochrome
-  - realistic
+typographies: []
+imagery_styles: []
 wikidata_description: Swedish truck and bus manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q219960"
 has_twitter: false
@@ -95,41 +86,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Don't place the symbol or wordmark in unauthorized corners such as other than top right or bottom right.
-- Lock-up logotypes are prohibited for communication material.
-- Correct proportions for logo placement, margins, and size must be adhered to as defined between pages 66–84.
-- The Scania cropped griffin may only be used on products and must be replaced with the full-color symbol or monochrome version in other branding scenarios.
-- Functional applications with the cropped griffin must be replaced with stronger, prouder branding such as the full-color symbol or monochrome versions.
-
-**Color Information:**
-
-- Use only default color palettes for communication presentations, as detailed further in the identity manual.
-
-**Typography Information:**
-
-- Scania Sans font family is used globally for all materials. When sharing files externally, Arial may be substituted to maintain compatibility if Scania Sans is unavailable.
-- Internal templates specify using Scania Sans Bold in upper/lower case for headlines.
-
-**Imagery Photography:**
-
-- Scania imagery uses natural light, depth of field, and realism to convey a holistic view and detailed insights into their products and applications.
-- Brand imagery should appear realistic—impressive but never fake or over-retouched. Clear focus and natural lighting are encouraged; flash or artificial effects are discouraged.
-- The Scania Media Provider hosts guidelines and appendices discussing photography, imagery tone, and ethical considerations.
-
-**Spacing Layout:**
-
-- Internal communication templates use pre-defined margins, top sections, and strict alignment for department/date/document meta-information.
-
-**Brand Voice:**
-
-- Scania’s identity reinforces values like trust, pride, dedication, and a promise to deliver unique solutions while deeply understanding customer needs.
-
-**Notes:**
-
-- Additional resources, templates, and font files are downloadable via Scania Media Provider and Reflex intranet.
-- Separate appendices cover signage, stationery, service vehicles, mobile apps, and partner branding information.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -139,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Coach](/products_or_materials_produced/coach/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/) |
+| Product Or Material Produced | [Diesel Engine](/products_or_materials_produced/diesel-engine/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Coach](/products_or_materials_produced/coach/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Sodertalje](/headquarters_locations/sodertalje/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Topic'S Main Category | Category:Scania AB |

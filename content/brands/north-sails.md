@@ -2,7 +2,7 @@
 title: North Sails
 slug: "north-sails"
 description: ""
-date: "2026-03-20T08:22:04.252311"
+date: "2026-04-10T09:40:32.840163"
 draft: false
 sectors:
   - sports
@@ -51,17 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - lockup
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - black
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: international sailmaker company
@@ -82,45 +73,84 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary 'Bullet Logo' for North Sails identified as a master logo. It is the key logo used across all products, services, software, and technology. Includes three components: the icon, the wordmark, and the logo lockup.
-- Secondary logo marks are approved for instances where the primary logo cannot be used effectively.
-- Various logo styles: Primary 2-color bullet, Primary 1-color bullet, Stacked logo, Simple Bullet, and Logo type.
-- Minimum logo size specified for web and print (examples include 150px, 32x50px, 8x12.5mm, etc.). Depend on medium and ensure legibility.
-- Allowed treatments for the logo include: transparency effects for the 'knocked-out' type, solid type, and black & white versions. Guidelines specify usage conditions to adapt to backgrounds, contrast, and opacity adjustments.
+##### Mission
 
-**Color Information:**
+- To build a recognizable and consistent brand worldwide, paying homage to tradition while modernizing for a new generation. The brand aims to represent strength, clarity, and professionalism in the maritime and sailing industry.
 
-- Corporate colors defined with specific codes:
-North Sails Blue (Coated):
-  - Pantone: PMS 300u
-  - Process: C:100 M:35 Y:0 K:0
-  - RGB: R:0 G:110 B:182
-  - HEX: #006eb6
-North Sails Blue (Uncoated):
-  - Pantone: PMS 300c
-  - Process: C:99 M:50 Y:0 K:0
-  - RGB: R:0 G:94 B:184
-  - HEX: #005eb8
-Black:
-  - Pantone: PMS Black 6C
-  - Process: C:100 M:79 Y:44 K:93
-  - RGB: R:16 G:24 B:32
-  - HEX: #101820.
-True White:
-  - Process: C:0 M:0 Y:0 K:0
-  - RGB: R:225 G:225 B:225.
-- Color usage guidelines for bullet logos include primary two-color and one-color variations standardized for branding usages.
+##### Core Values
 
-**Spacing Layout:**
+- heritage
+- modernization
+- consistency
+- clarity
+- professionalism
 
-- Clear space and layout rules outlined indirectly via logo sizing (minimum sizes and legibility requirements).
+##### Target Audience
 
-**Notes:**
+- Individuals and organizations involved in sailing, maritime goods, and apparel, seeking quality and authenticity in nautical branding.
 
-- Details regarding logo transparency effects and the usage of Adobe Creative Suite functions like 'Multiply' for black logos or 'Normal Opacity' for white logos.
-- Primary branding components include icon, wordmark, and lockup. Past logos or alternative designs should not be used.
+##### Personality Traits
+
+- strong
+- clean
+- professional
+- nautical
+- modern
+
+##### Visual Identity Overview
+
+- The visual identity centers on a bold, oval-shaped logo with dark blue and white colors, clean typography, and clear space guidelines. The logo is used consistently across products and communications, with strict rules for color palette, typography, and logo treatments to ensure legibility and brand recognition.
+
+#### Categories
+
+##### Logo Usage
+
+- The preservation of the North Sails brand mark identity is paramount to building a recognizable and consistent brand worldwide. The NS Icon pays homage to the traditional mark, but has been updated and modernized to represent a new generation. Let’s respect the logo and wordmark by correctly applying it and by using our company colors and typography in the proper manner. There are three marks in the North Sails arsenal - the icon, the wordmark and the logo lockup.
+- Familiarize yourself with them and learn how to use them properly. Don’t use the old North Sails logo or any alternative logos that may have used in the past.
+- The North Sails Bullet is the master logo for North Sails, it should sit above all products, services, software, technology and offers.
+- Blue indicates Clear Space. The blue area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement ‘X’ (equal to the height of the uppercase letters, known as the ‘cap-height’ in the main character “N”. All measurements are determined from here.
+
+##### Color Palette
+
+- Corporate colors for printing and digital reference.
+- Coated PROCESS C99 M50 Y0 K0 SCREEN R0 G94 B184 WEB HTML #005eb8 PANTONE PMS 300c North Sails Blue
+- Uncoated PROCESS C100 M35 Y0 K0 SCREEN R0 G110 B182 WEB HTML #006eb6 PANTONE PMS 300u North Sails Blue
+- Coated PROCESS C100 M79 Y44 K93 SCREEN R16 G24 B32 WEB HTML #101820 PANTONE PMS BLACK 6C Black
+- Uncoated PROCESS C86 M69 Y43 K55 SCREEN R76 G78 B86 WEB HTML #101820 PANTONE PMS BLACK 6U Black
+- PROCESS C0 M0 Y0 K0 SCREEN R225 G225 B225 WEB HEX True White
+
+##### Typography
+
+- In typography, x-height is the distance between the baseline of a line of type and tops of the main body of lower case letters (i.e. excluding ascenders or descenders). The x-height is a factor in typeface identification and readability. Typefaces with very large x-height relative to the total height of the font have shorter ascenders and descenders and thus less white space between lines of type. Sans Serif typefaces typically have large x-heights. In typefaces with small x-heights, other letter parts such as ascenders and descenders may become more visually noticeable.
+- Typefaces with large x-heights may appear darker, heavier, crowded, and more difficult to read at body copy sizes.
+- If changing to a typeface with a smaller x-height is not an option, open up the lines of type by adding more leading (line spacing), and not using fully justified alignment.
+- Brandon Grotesque Bold is the primary font used for the logotype/logo wording.
+- It can also be used as the standard when stronger emphasis is needed, such as in: stationery, website design, brochures and all forms of general correspondence.
+- Brandon Grotesque light can also be used for alternate font option
+- Classic Garamond Roman is to be used for all other forms of standard body text, ranging from: stationery, website design, brochures and all forms of general correspondence.
+- At most, leading should be double the pt size of the type, i.e. 8pt/16pt, 12pt/24pt, etc. At a minimum, leading should be no less than equal to type size, i.e. 8pt/8pt, 10pt/10pt.
+- When different type scales are needed, use good judgement to add emphasis and provide contrast and visual balance to the logo.
+
+##### Visual Style
+
+- The preservation of the North Sails brand mark identity is paramount to building a recognizable and consistent brand worldwide. The NS Icon pays homage to the traditional mark, but has been updated and modernized to represent a new generation. Let’s respect the logo and wordmark by correctly applying it and by using our company colors and typography in the proper manner. There are three marks in the North Sails arsenal - the icon, the wordmark and the logo lockup.
+- Familiarize yourself with them and learn how to use them properly. Don’t use the old North Sails logo or any alternative logos that may have used in the past.
+- The North Sails Bullet is the master logo for North Sails, it should sit above all products, services, software, technology and offers.
+- Blue indicates Clear Space. The blue area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement ‘X’ (equal to the height of the uppercase letters, known as the ‘cap-height’ in the main character “N”. All measurements are determined from here.
+- If changing to a typeface with a smaller x-height is not an option, open up the lines of type by adding more leading (line spacing), and not using fully justified alignment.
+
+##### Brand Imagery
+
+- The preservation of the North Sails brand mark identity is paramount to building a recognizable and consistent brand worldwide. The NS Icon pays homage to the traditional mark, but has been updated and modernized to represent a new generation. Let’s respect the logo and wordmark by correctly applying it and by using our company colors and typography in the proper manner. There are three marks in the North Sails arsenal - the icon, the wordmark and the logo lockup.
+- Familiarize yourself with them and learn how to use them properly. Don’t use the old North Sails logo or any alternative logos that may have used in the past.
+- The North Sails Bullet is the master logo for North Sails, it should sit above all products, services, software, technology and offers.
+- Blue indicates Clear Space. The blue area must be kept free of all other graphical and visual elements.
+- The minimum required Clear Space is defined by the measurement ‘X’ (equal to the height of the uppercase letters, known as the ‘cap-height’ in the main character “N”. All measurements are determined from here.
+- If changing to a typeface with a smaller x-height is not an option, open up the lines of type by adding more leading (line spacing), and not using fully justified alignment.
 
 ## Additional Properties
 

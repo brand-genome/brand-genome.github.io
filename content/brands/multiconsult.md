@@ -2,11 +2,11 @@
 title: Multiconsult
 slug: multiconsult
 description: ""
-date: "2026-03-20T08:22:05.751939"
+date: "2026-04-10T09:40:34.735616"
 draft: false
 sectors:
-  - architecture
   - consulting
+  - architecture
   - construction
 regions:
   - norway
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: Engineering consultancy
 wikidata_url: "https://www.wikidata.org/wiki/Q11990176"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,12 +71,6 @@ visual_term_image_urls: {}
 - [https://www.multiconsultengineering.com](https://www.multiconsultengineering.com)
 - [https://www.multiconsultgroup.com](https://www.multiconsultgroup.com)
 - [https://www.multiconsult.no](https://www.multiconsult.no)
-
-## Brand Guidelines
-
-### 2016
-
-*Guidelines data not available*
 
 ## Additional Properties
 

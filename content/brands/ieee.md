@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-03-20T08:22:05.736706"
+date: "2026-04-10T09:40:34.701584"
 draft: false
 sectors:
-  - publishing
   - ngo
   - research
+  - publishing
 regions:
   - usa
 years:
@@ -57,20 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - gray
-  - "pantone-300"
-  - blue
-typographies:
-  - verdana
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American professional association for electronic engineering and electrical engineering
 wikidata_url: "https://www.wikidata.org/wiki/Q131566"
 has_twitter: false
@@ -90,47 +80,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Introduction & Logo Variations
-The IEEE Master Brand serves as the primary identification of the brand.
-- Color Variations
-IEEE Master Brand allows full-color, black, and reversed usage.
-- File Formats
-Acceptable formats include EPS, PDF, and SVG.
-- Minimum Size & Clear Space
-Clear space requires '1x height of logo' around all sides; minimum size defined as 10pt (print) and 12px (on-screen).
-- Do's and Don'ts for Logo Usage
-Incorrect usages include stretching, using unauthorized colors, and applying glows or reflections to the logo.
-
-**Color Information:**
-
-- Primary color: IEEE blue – Pantone 300 C. Bright color palette includes secondary accent colors.
-- Dark color palette includes black, gray tones for contrast.
-
-**Typography Information:**
-
-- Primary Typefaces: Formata font family for branding; alternate fonts include Verdana and Calibri.
-- Font weights available: Regular, bold, condensed; intended for headings, subheadings, and body content respectively.
-
-**Imagery Photography:**
-
-- Imagery themes should focus on innovation, technology, and human interaction. Examples include scenes of collaboration and dynamic innovation.
-- Imagery guidelines advise simple compositions, well-lit visuals, and clear interactions between subjects.
-
-**Spacing Layout:**
-
-- Spacing guidelines require margins aligned to 12-column grids. Minimum margin: 10mm.
-
-**Brand Voice:**
-
-- IEEE brand tone emphasizes innovation and professionalism, using direct and specific messaging aligned with technology goals.
-
-**Notes:**
-
-- Entities within the endorsed branding model have a visual association with IEEE, with separate logos that follow distinct branding standards.
-- Student Branches and Chapters should leverage IEEE Master Brand in communications, without integrating sub-brand elements.
-- Regions, Sections, Chapters, and Student Branches have their styling guidelines ensuring adherence to the IEEE Master Brand design.
+*Guidelines data not available*
 
 ## Additional Properties
 

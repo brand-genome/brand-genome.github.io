@@ -2,7 +2,7 @@
 title: Government of Alberta
 slug: "government-of-alberta"
 description: ""
-date: "2026-03-20T08:22:03.878531"
+date: "2026-04-10T09:40:31.561966"
 draft: false
 sectors:
   - "public-sector"
@@ -60,7 +60,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q33121932"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,11 +72,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
+### 2018
 
 *Guidelines data not available*
-
-### 2018
 
 ## Additional Properties
 

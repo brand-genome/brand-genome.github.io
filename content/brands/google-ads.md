@@ -2,11 +2,11 @@
 title: Google Ads
 slug: "google-ads"
 description: ""
-date: "2026-03-20T08:22:05.702970"
+date: "2026-04-10T09:40:34.642052"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: online platform for targeted advertisements
 wikidata_url: "https://www.wikidata.org/wiki/Q183480"
 has_twitter: false
@@ -71,106 +70,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Master logo and color applications presented.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Master logo and color applications presented.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Brand logo lockups described.
-- Brand logo lockups described.
-
-**Color Information:**
-
-- Color palette details provided.
-- Color hierarchy explained.
-- Color principles outlined.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-- Color palette details provided.
-
-**Typography Information:**
-
-- Overview of typography provided.
-- Typefaces specified for branding.
-- Usage guidelines for titles and headlines described.
-- Paragraph styling guidelines mentioned.
-- Overview of typography provided.
-- Typefaces specified for branding.
-- Typefaces specified for branding.
-- Paragraph styling guidelines mentioned.
-- Usage guidelines for titles and headlines described.
-- Paragraph styling guidelines mentioned.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-- Imagery and photography guidelines provided.
-
-**Spacing Layout:**
-
-- Grid, margin, and padding layout guidelines mentioned.
-
-**Brand Voice:**
-
-- Brand voice and promise defined.
-- Brand voice and promise defined.
-- Brand voice and promise defined.
-
-**Notes:**
-
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
-- Related guidelines referenced or described.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Quinn
 slug: quinn
 description: ""
-date: "2026-03-20T08:22:04.440834"
+date: "2026-04-10T09:40:33.188038"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "public-relations"
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -56,10 +56,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - "proxima-nova"
-imagery_styles:
-  - classic
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Hamden, Connecticut, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1030044"
 has_twitter: false
@@ -79,18 +77,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Clearance on all sides of the logo should be equal to the height/width of the Quinn 'Q'. Minimum size should not be smaller than 0.25 inches in height.
-- Improper logo usage includes rotating, resizing too large/small, outlining, cropping, or placing on overly light/dark backgrounds.
-
-**Typography Information:**
-
-- Typeface: Proxima Nova. Permitted for all branding expressions except email and web-body copy. Includes all weights and italics.
-
-**Imagery Photography:**
-
-- Photos must have sufficient resolution for print. Avoid clutter, lens distortions, poor lighting, or compositions that lack timeless and classic appeal.
+*Guidelines data not available*
 
 ## Additional Properties
 

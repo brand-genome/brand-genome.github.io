@@ -2,7 +2,7 @@
 title: Voluntarios ONU
 slug: "voluntarios-onu"
 description: ""
-date: "2026-03-20T08:22:04.719976"
+date: "2026-04-10T09:40:33.449561"
 draft: false
 sectors:
   - ngo
@@ -46,13 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,26 +70,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo guidelines cover formats, placement, and variants such as positive and inverted formats for various applications.
-
-**Color Information:**
-
-- Primary and secondary color palettes include specific HEX, CMYK, and Pantone values. Application rules detail usage on logos, text, and backgrounds.
-
-**Imagery Photography:**
-
-- Photography and imagery rules focus on captions, high-quality photos, and color treatments for coherence across designs.
-
-**Spacing Layout:**
-
-- Spacing guidelines include safe zones around logos and typographical alignment details for promotional materials.
-
-**Brand Voice:**
-
-- Brand voice emphasizes inspiration, positive action, and emotional appeal in visual and textual communication.
-
-**Notes:**
-
-- General notes on templates for posters, presentations, and promotional materials.
+*Guidelines data not available*

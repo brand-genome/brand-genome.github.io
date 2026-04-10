@@ -2,7 +2,7 @@
 title: Pittsburg State University
 slug: "pittsburg-state-university"
 description: ""
-date: "2026-03-20T08:22:05.792439"
+date: "2026-04-10T09:40:34.782332"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -53,19 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - seal
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public university in Pittsburg, Kansas, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q2097334"
 has_twitter: false
@@ -85,39 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Pittsburg State University has three main logos: Split-Face Gorilla, University Wordmark, and University Seal. These are registered trademarks, and their uniform use maintains branding integrity.
-- The Split-Face Gorilla logo is the most recognized and must always preserve its original proportions. Lighter colors must remain on the right-hand side.
-- University Wordmark used as primary identity with horizontal and stacked variations available. Must be printed in PMS #186 (red) or black and should never be stretched or distorted.
-- University Seal is a formal identity element, used exclusively for official documents like diplomas or to signify special events.
-- Prohibited logo usages: Do not flip, reverse colors (darker always on left), distort, stretch, remove elements, or modify the Split-Face Gorilla logo.
-
-**Color Information:**
-
-- PMS #186 (red) is specified for both the University Wordmark and Seal. Logo elements also support black and white usage.
-- Split-Face Gorilla logos must maintain their original assigned colors, ensuring consistent application across materials.
-
-**Typography Information:**
-
-- Typography rules currently not explicitly covered in observed pages of branding content.
-
-**Imagery Photography:**
-
-- Imagery-specific guidelines are present on later pages but currently lack clarity in terms of color/photography alignment.
-
-**Spacing Layout:**
-
-- Spacing and clear zone rules referenced visually within logo-specific examples but may require deeper scans for quantified boundaries.
-
-**Brand Voice:**
-
-- Describes Pittsburg State as having a reputation for academic excellence, competitive distinctiveness, and an inclusive learning environment.
-
-**Notes:**
-
-- For questions, University Marketing and Communication provides oversight and direct assistance for application of branding.
-- Historical logos, used only by prior approval for heritage-related references, must be explicitly labeled by original dates.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Nederlandse Spoorwegen
 slug: "nederlandse-spoorwegen"
 description: ""
-date: "2026-03-20T08:22:04.163929"
+date: "2026-04-10T09:40:32.485977"
 draft: false
 sectors:
   - railroad
@@ -14,9 +14,9 @@ years:
 languages:
   - dutch
 tags:
-  - vintage
   - featured
   - transport
+  - vintage
 industries:
   - "passenger-transport"
   - "rail-transport"
@@ -38,8 +38,8 @@ headquarters_locations:
   - utrecht
 subsidiaries: []
 foundation_dates:
-  - 1938
   - 1937
+  - 1938
 foundation_year_buckets:
   - 1930S
 lightings: []
@@ -60,11 +60,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - yellow
-  - blue
-typographies:
-  - univers
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: principal Dutch passenger railway operator
 wikidata_url: "https://www.wikidata.org/wiki/Q23076"
@@ -84,80 +81,7 @@ visual_term_image_urls: {}
 
 ### 1968
 
-**Logo Information:**
-
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-- Information about NS embleem (logo), including measurements and guidelines.
-
-**Color Information:**
-
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-- Mentions of color schemes like chromaatgeel (chrome yellow) and kobaltblauw (cobalt blue).
-
-**Typography Information:**
-
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-- Typography guideline mentioning Univers font as a standard for corporate identity.
-
-**Imagery Photography:**
-
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-- Use of pictograms and symbols for simplifying navigation on stations.
-
-**Spacing Layout:**
-
-- Layout and spacing information such as rule distances and text alignment.
-- Layout and spacing information such as rule distances and text alignment.
-- Layout and spacing information such as rule distances and text alignment.
-- Layout and spacing information such as rule distances and text alignment.
-
-**Brand Voice:**
-
-- Importance of uniform house style (huisstijl) for maintaining brand image.
-- Importance of uniform house style (huisstijl) for maintaining brand image.
-
-**Notes:**
-
-- General guidelines and handleiding (manual) for specialized uses like brochures, cards, etc.
-- General guidelines and handleiding (manual) for specialized uses like brochures, cards, etc.
-- General guidelines and handleiding (manual) for specialized uses like brochures, cards, etc.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -169,7 +93,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Rails](/products_or_materials_produced/rails/) |
 | Headquarters Location | [Utrecht](/headquarters_locations/utrecht/) |
-| Foundation Date | [1938](/foundation_dates/1938/); [1937](/foundation_dates/1937/) |
+| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
 | Topic'S Main Category | Category:Nederlandse Spoorwegen |
 | Member Of | Railteam, International Union of Railways (from 1922), International Rail Transport Committee, Community of European Railway and Infrastructure Companies, International Mainline Rail Benchmarking Group |
 | Freebase Id | /m/016mtj |

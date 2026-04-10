@@ -2,7 +2,7 @@
 title: Cadillac
 slug: cadillac
 description: ""
-date: "2026-03-20T08:22:03.877040"
+date: "2026-04-10T09:40:31.558512"
 draft: false
 sectors:
   - automobile
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: division of General Motors
 wikidata_url: "https://www.wikidata.org/wiki/Q27436"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -76,12 +76,6 @@ visual_term_image_urls: {}
 - [https://www.cadillacarabia.com](https://www.cadillacarabia.com)
 - [https://www.cadillac.com/worldwide-websites](https://www.cadillac.com/worldwide-websites)
 - [http://www.cadillac.com](http://www.cadillac.com)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

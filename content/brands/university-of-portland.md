@@ -2,7 +2,7 @@
 title: University of Portland
 slug: "university-of-portland"
 description: ""
-date: "2026-03-20T08:22:03.239978"
+date: "2026-04-10T09:40:30.751795"
 draft: false
 sectors:
   - education
@@ -75,6 +75,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2024
+
+*Guidelines data not available*
 
 ## Additional Properties
 

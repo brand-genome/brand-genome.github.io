@@ -2,7 +2,7 @@
 title: La Villette
 slug: "la-villette"
 description: ""
-date: "2026-03-20T08:22:05.708769"
+date: "2026-04-10T09:40:34.649813"
 draft: false
 sectors:
   - "arts-culture"
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: railway station in Belgium
 wikidata_url: "https://www.wikidata.org/wiki/Q2134652"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,12 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.lavillette.com/en](https://www.lavillette.com/en)
 - [https://www.lavillette.com](https://www.lavillette.com)
-
-## Brand Guidelines
-
-### 2015
-
-*Guidelines data not available*
 
 ## Additional Properties
 

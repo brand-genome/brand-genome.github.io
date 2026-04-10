@@ -2,7 +2,7 @@
 title: Marquette Athletics
 slug: "marquette-athletics"
 description: ""
-date: "2026-03-20T08:22:05.735573"
+date: "2026-04-10T09:40:34.698271"
 draft: false
 sectors:
   - sports
@@ -47,25 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - monogram
-  - alternate
-  - wordmark
-  - primary
-  - mascot
-brand_colors:
-  - "pantone-123"
-  - gold
-  - white
-  - "pantone-281"
-  - blue
-  - "pantone-124"
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -84,39 +69,98 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary Athletics Monogram designed for exclusive use of varsity teams and specific channels. Monogram must be used in entirety, with safe area specifications provided, ensuring no elements intrude within designated space. Approved formats include .ai, .eps, and JPEG.
-- Primary Logo Alternate Colors with White Outline, including variants for one-color black, white, and reversed versions.
-- Golden Eagle Mascot Logos include Primary Eagle Monogram, Secondary Eagle Monogram, Primary Eagle Wordmark, and Secondary Eagle Wordmark.
-- Sport-Specific Wordmarks and Monograms designed for varsity athletics teams. May not be modified for recreational teams.
-- Incorrect logo usage includes but is not limited to distorting proportions, changing colors or adding screens, cropping or angling logos, and replacing banner text.
-- Retired Athletics Signatures, such as the old Golden Eagle marks, are prohibited from use.
+##### Mission
 
-**Color Information:**
+- To represent Marquette University Athletics with a unified, professional, and dynamic visual identity suited for sports team branding and school spirit.
 
-- Marquette Blue: Pantone 281 (PMS), C100 M72 Y0 K32, HEX: #003366.
-- Marquette Gold: Pantone 123 (PMS), C0 M24 Y100 K0, HEX: #FFCC00.
+##### Core Values
 
-**Typography Information:**
+- unity
+- strength
+- school spirit
+- professionalism
+- visual continuity
 
-- Preferred typography families include Universe and Bank Gothic. Variants used include Universe 53 Extended (Headlines), Universe 65 Bold (Subheads), Universe 55 (Body Copy), Universe 45 Light (Alternate Body Copy), Bank Gothic Medium/LIGHT (Headlines/Subheads), and MARQUETTE Solid (Display Font).
-- Licenses for Universe and Bank Gothic fonts are limited but can be downloaded from Adobe.com.
-- Pantone contrast requirement exists for text in gold over white background or reversed out of gold (Pantone 124; HEX #ECAC00).
+##### Target Audience
 
-**Imagery Photography:**
+- Varsity and recognized club athletics teams, athletics department staff, merchandise buyers, and audiences engaging with Marquette University sports branding.
 
-- Golden Eagle Mascot Logos restricted to athletic department and competition uniforms; cannot be used for promotional materials or online media.
+##### Personality Traits
 
-**Spacing Layout:**
+- dynamic
+- energetic
+- bold
+- competitive
+- collegiate
 
-- Safe areas must exist around logos to ensure legibility. Defined as the space below the intersection of 'M' and 'U' within the Athletics Monogram.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a stylized 'MU' monogram and wordmarks, using Marquette Blue (Pantone 281) and Marquette Gold (Pantone 123) as primary colors. Logos are presented in various color applications, including one-color, alternate colors with white outline, and black & white/reverse. The layout emphasizes clarity, balance, and a professional athletic appearance, with strict guidelines for logo usage, safe areas, and typographic standards (Univers and Bank Gothic fonts) to ensure consistency and legibility across all materials.
 
-- Consistency across Marquette Athletics branding through the use of specified typographic and color standards.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- BIG EAST Conference logo required on home and away basketball uniforms; its use on Olympic sports uniforms strongly encouraged.
-- Mascot Eagle Head Logo must include 'Marquette' written elsewhere in approved Bank Gothic or Marquette fonts.
+- The Marquette athletics monogram was designed for the express use of the departments of Intercollegiate Athletics and Recreational Sports. Only varsity and recognized club athletics teams, communication pertaining directly to athletics teams, and approved merchandise may use the athletics monogram.
+- The athletics monogram must be used in its entirety.
+- The monogram may not be used by intramural sports teams or divisions of the university not directly related to intercollegiate athletics.
+- The athletics monogram must never replace the university logo as the official university signature in non-athletics visual materials, including publications, stationery, advertising merchandise or electronic media.
+- The monogram may be reproduced only from an original digital file (.ai, Adobe Illustrator, .eps or JPEG formats).
+- The monogram and/or its elements must not be photocopied, scanned, recreated, reproportioned or altered in any way.
+- Reproduction of the athletics monogram must adhere to color, size and spacing specifications.
+- The athletics monogram used on merchandise for resale may be color matched to the garment per the discretion of the merchandise buyer.
+- Any other use of the monogram must be approved by the department of intercollegiate athletics.
+- A “safe area” should always exist around the logo to allow for maximum legibility. No elements such as typography, other logos, or graphics should intrude over the safe area. The safe area is equal to the space below the area where the M and the U intersect. (Photos and colors can appear beneath the logo so long as the logo remains easily visible and recognizable.)
+
+##### Color Palette
+
+- The color examples below are reference only and are not intended to match printed colors. Please consult a Pantone™ color swatch book for accurate printed color representations.
+- Marquette Blue Pantone 281 (PMS) C100, M72,Y0, K32 Hex #003366
+- Marquette Gold Pantone 123 (PMS) C0, M24,Y100, K0 Hex #FFCC00
+- Do Not change color of the logos or add screens, always use approved colors.
+
+##### Typography
+
+- Marquette has a limited number of licenses to use the Universe and Bank Gothic fonts. However, these fonts may be downloaded from Adobe.com for a nominal charge.
+- The font families of Univers and Bank Gothic are standard fonts of the Marquette University Athletics Department. Consistent use of these typographic standards by the Marquette community will help strengthen our athletics branding through visual continuity.
+- Universe 53 Extended Headlines
+- Universe 65 Bold Headlines and Subheads
+- Universe 55 Body Copy
+- Universe 45 Light Alternate Body Copy (not for use in reverse or online applications)
+- Bank Gothic Medium Headlines
+- Bank Gothic Light Headlines and Subheads (not for use as body copy)
+- MARQUETTE SOLID Display Font (for use in all caps, as specialty font only)
+- Pantone 124 When creating text in gold over a white background C7, M34,Y100, K0 or when reversing text out of gold, Pantone 124 Gold Hex #ECAC00 must be used to achieve the appropriate contrast.
+
+##### Visual Style
+
+- The color examples below are reference only and are not intended to match printed colors. Please consult a Pantone™ color swatch book for accurate printed color representations.
+- Marquette Blue Pantone 281 (PMS) C100, M72,Y0, K32 Hex #003366
+- Marquette Gold Pantone 123 (PMS) C0, M24,Y100, K0 Hex #FFCC00
+- The athletics monogram must be used in its entirety.
+- The monogram may not be used by intramural sports teams or divisions of the university not directly related to intercollegiate athletics.
+- The athletics monogram must never replace the university logo as the official university signature in non-athletics visual materials, including publications, stationery, advertising merchandise or electronic media.
+- The monogram may be reproduced only from an original digital file (.ai, Adobe Illustrator, .eps or JPEG formats).
+- The monogram and/or its elements must not be photocopied, scanned, recreated, reproportioned or altered in any way.
+- Reproduction of the athletics monogram must adhere to color, size and spacing specifications.
+- The athletics monogram used on merchandise for resale may be color matched to the garment per the discretion of the merchandise buyer.
+- Any other use of the monogram must be approved by the department of intercollegiate athletics.
+- A “safe area” should always exist around the logo to allow for maximum legibility. No elements such as typography, other logos, or graphics should intrude over the safe area. The safe area is equal to the space below the area where the M and the U intersect. (Photos and colors can appear beneath the logo so long as the logo remains easily visible and recognizable.)
+
+##### Layout And Composition
+
+- The Marquette athletics monogram was designed for the express use of the departments of Intercollegiate Athletics and Recreational Sports. Only varsity and recognized club athletics teams, communication pertaining directly to athletics teams, and approved merchandise may use the athletics monogram.
+- The athletics monogram must be used in its entirety.
+- The monogram may not be used by intramural sports teams or divisions of the university not directly related to intercollegiate athletics.
+- The athletics monogram must never replace the university logo as the official university signature in non-athletics visual materials, including publications, stationery, advertising merchandise or electronic media.
+- The monogram may be reproduced only from an original digital file (.ai, Adobe Illustrator, .eps or JPEG formats).
+- The monogram and/or its elements must not be photocopied, scanned, recreated, reproportioned or altered in any way.
+- Reproduction of the athletics monogram must adhere to color, size and spacing specifications.
+- The athletics monogram used on merchandise for resale may be color matched to the garment per the discretion of the merchandise buyer.
+- Any other use of the monogram must be approved by the department of intercollegiate athletics.
+- A “safe area” should always exist around the logo to allow for maximum legibility. No elements such as typography, other logos, or graphics should intrude over the safe area. The safe area is equal to the space below the area where the M and the U intersect. (Photos and colors can appear beneath the logo so long as the logo remains easily visible and recognizable.)
+- Do Not stretch or compress the logos in any way, always scale proportionately.
+- Do Not crop, angle or skew the logos, always use logos in their entirety.
+- Do Not change color of the logos or add screens, always use approved colors.

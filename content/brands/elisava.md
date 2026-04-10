@@ -2,7 +2,7 @@
 title: Elisava
 slug: elisava
 description: ""
-date: "2026-03-20T08:22:04.306922"
+date: "2026-04-10T09:40:32.996265"
 draft: false
 sectors:
   - education
@@ -49,20 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - horizontal
-brand_colors:
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - clean
-  - graphic
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: academic institution in Barcelona
 wikidata_url: "https://www.wikidata.org/wiki/Q15089062"
 has_twitter: false
@@ -81,43 +71,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The brand of the institution is formed by the wordmark 'Elisava' and the baseline 'Barcelona School of Design and Engineering'.
-- Logo versions are available with horizontal and vertical baseline configurations.
-- For optimal presentation, the logo is always located in the lower part of the format, aligned to the right. The bottom left contains the web info.
-- On the last page of documents, the corporate logo or information is aligned based on specific use cases (right or left-aligned).
-- Logo usage example on covers: Lower right area for the logo and web link. Back covers include a logo with baseline in the upper left and corporate info in the lower left.
-- Social media post example: Center-aligned logo for animated closures.
-- The logo should be used exclusively in black or white, except for specific production requirements (e.g., single ink color printing).
-
-**Color Information:**
-
-- Elisava does not confine to a single color; it represents diversity and uses studio-specific colors that may vary yearly based on selected projects.
-- Colors selected consider graphic or project-specific photographs to maintain harmony and provide adequate contrast.
-- More contrasted or harmonic examples are provided for selecting color schemes in designs.
-- Specific project/application colors are selected based on area-specific photographs to create a similar visual palette.
-- The mark/logo colors are black or white; exceptions exist only for specific uses like single ink color.
-
-**Typography Information:**
-
-- The official corporate font is Helvetica LT Std Roman. All applications must use this font style to maintain graphic consistency.
-- Alternative typography: Arial Regular is used if Helvetica LT is unavailable.
-- Official type specimens of Helvetica LT Std (Roman 55) and Arial Regular are included.
-
-**Imagery Photography:**
-
-- Photos or graphic content are used to derive area/project-specific colors, creating a harmonious effect while generating adequate contrast.
-
-**Spacing Layout:**
-
-- The logo and web address are aligned to the edges (lower right or left) in layouts. Corporate information is present on documents based on contextual necessity.
-- Page layouts maintain a consistent 6 mm spacing for brochure content design.
-
-**Notes:**
-
-- The logo and concept adhere to strict alignment, often emphasizing professional, clean design placement.
-- Imagery and colors dynamically adapt based on projects and visuals, rather than adhering to a fixed palette or theme.
+*Guidelines data not available*
 
 ## Additional Properties
 

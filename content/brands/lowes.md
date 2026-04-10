@@ -2,11 +2,11 @@
 title: Lowe’s
 slug: lowes
 description: ""
-date: "2026-03-20T08:22:04.304553"
+date: "2026-04-10T09:40:32.992551"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -47,9 +47,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -72,68 +70,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Horizontal Logo
-- Vertical Logo
-- Vendor Signs
-
-**Color Information:**
-
-- Color specification found: PMS 280
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 3005
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 280
-- Color specification found: PMS 280
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 123
-- Color specification found: PMS 3005
-- Color specification found: PMS 280
-- Color specification found: PMS 186
-- Color specification found: PMS 280
-
-**Notes:**
-
-- Specific mention of vendor signage material inline limitations.
+*Guidelines data not available*

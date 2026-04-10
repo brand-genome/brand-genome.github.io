@@ -2,7 +2,7 @@
 title: IOM
 slug: iom
 description: ""
-date: "2026-03-20T08:22:04.522037"
+date: "2026-04-10T09:40:33.307608"
 draft: false
 sectors:
   - ngo
@@ -27,15 +27,15 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - leipzig
   - "wissenschaftspark-leipzig"
+  - leipzig
 subsidiaries: []
 foundation_dates:
-  - 2002
   - 1992
+  - 2002
 foundation_year_buckets:
-  - 1990S
   - 2000S
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -79,13 +79,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Initial content mentions logo information from the brand guidelines (page provides general introduction).
-
-**Notes:**
-
-- Table of contents briefly lists key sections such as logos, typography, and field materials.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -95,8 +89,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Leipzig](/headquarters_locations/leipzig/); [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/) |
-| Foundation Date | [2002](/foundation_dates/2002/); [1992](/foundation_dates/1992/) |
+| Headquarters Location | [Wissenschaftspark Leipzig](/headquarters_locations/wissenschaftspark-leipzig/); [Leipzig](/headquarters_locations/leipzig/) |
+| Foundation Date | [1992](/foundation_dates/1992/); [2002](/foundation_dates/2002/) |
 | Country | Germany |
 | Member Of | Deutsche Gesellschaft für Membrantechnik, Informationsdienst Wissenschaft |
 | Inception | 1992, 2002 |

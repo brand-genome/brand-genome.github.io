@@ -2,7 +2,7 @@
 title: Havoline
 slug: havoline
 description: ""
-date: "2026-03-20T08:22:03.840722"
+date: "2026-04-10T09:40:31.479770"
 draft: false
 sectors:
   - "consumer-goods"
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: Lubricants brand of Chevron Corp.
 wikidata_url: "https://www.wikidata.org/wiki/Q5684051"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -67,12 +67,6 @@ visual_term_image_urls: {}
 - [https://www.chevronlubricants.com/en_us/home/learning/about-our-brands/havoline.html](https://www.chevronlubricants.com/en_us/home/learning/about-our-brands/havoline.html)
 - [https://www.chevronlubricants.com/en_us/home/products/by_brand/havoline.html](https://www.chevronlubricants.com/en_us/home/products/by_brand/havoline.html)
 - [https://www.havoline.com](https://www.havoline.com)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
 
 ## Additional Properties
 

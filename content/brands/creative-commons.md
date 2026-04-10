@@ -2,11 +2,11 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-03-20T08:22:04.902444"
+date: "2026-04-10T09:40:33.677931"
 draft: false
 sectors:
-  - "legal-services"
   - ngo
+  - "legal-services"
 regions:
   - international
 years:
@@ -54,27 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - gold
-  - white
-  - blue
-  - gray
-  - turquoise
-  - orange
-  - black
-typographies:
-  - "source-sans"
-  - roboto
-imagery_styles:
-  - graphic
-  - professional
-  - photography
-  - geometric
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "non-profit-organization creating copyright licenses for the public release of creative works"
 wikidata_url: "https://www.wikidata.org/wiki/Q43449"
 has_twitter: false
@@ -95,34 +78,158 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Creative Commons has one primary logo, but additional derivatives may be used. Recommended logo colors are tomato (#ed592f), dark slate gray (#333333), black, or white.
-- Guidelines for logo usage: Avoid using colors outside the primary palette; do not use multiple colors for a single logo; avoid adding graphic elements like drop shadows, glow, or dimension; do not re-proportion/tint the logo.
+##### Mission
 
-**Color Information:**
+- Creative Commons is a nonprofit organization dedicated to building a globally-accessible public commons of knowledge and culture. We make it easier for people to share their creative and academic work, as well as to access and build upon the work of others. By helping people and organizations share knowledge and creativity, we aim to build a more equitable, accessible, and innovative world.
 
-- Primary color palette includes: Tomato (#ed592f), Gold (#efbe00), Forest Green (#3c7632), Dark Slate Blue (#3c5c99), Dark Slate Gray (#333333), Orange (#fb7729), Dark Turquoise (#05b5da). CMYK values must be used for print.
+##### Core Values
 
-**Typography Information:**
+- sharing
+- gratitude
+- openness
+- human collaboration
 
-- Primary font: Source Sans Pro (ideal for web and print, available in six weights with italics).
-- Secondary fonts: Roboto (default for Google Maps and Google+), CC Accidenz Commons.
+##### Target Audience
 
-**Imagery Photography:**
+- Anyone responsible for creating communication materials and/or visual assets for Creative Commons, including graphic designers, video editors, developers, professional printers, CC staff, affiliates, community members, and CC Chapters.
 
-- Photography used in CC materials should be inclusive, diverse, and prioritize CC-licensed photos.
-- Graphic design elements should be simple, clear, yet creative, incorporating buttons, emojis, animation, geometric designs, and brand colors.
+##### Personality Traits
 
-**Brand Voice:**
+- vibrant
+- creative
+- collaborative
+- innovative
+- global
 
-- Tone should be clear, informed, professional, witty, and relatable, especially for audiences unfamiliar with global commons or open culture.
-- Avoid unnecessary 'to be' verbs wherever possible. Keep sentences concise and simple. Minimize jargon.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is modern, clean, and minimalistic, emphasizing vibrant colors, geometric shapes, and inclusive photography. The brand uses a primary logo and derivatives, a bold color palette, and open-licensed fonts. Visuals reflect diversity, vibrancy, and creativity, with clear guidelines for logo usage, color pairing, and accessibility.
 
-- Brand tagline: 'Building a vibrant, collaborative global commons'.
-- Avoid long paragraphs, especially online. Break content into 2-4 sentence paragraphs for better readability.
+#### Categories
+
+##### Brand Voice
+
+- Creative Commons’ tone should be clear, informed, and professional, yet witty and relatable— reflecting CC’s staff and broader community.
+- All communication materials, particularly blog posts, should reflect this tone but also embody the unique qualities of the specific author’s writing style. These materials should also use language that is easy-to-understand and clear, particularly if targeted towards an audience that may not be aware of the language, concepts, and theories behind CC’s work (e.g., global commons, public domain, open culture, etc.). The audience’s knowledge and experience should always be taken into consideration.
+
+##### Brand Imagery
+
+- Creative Commons' (CC) visuals, including graphic design elements, should reflect the diversity, vibrancy, and creativity of the global commons.
+- Any photo used to market CC materials or communicate key messages should be inclusive and reflect the real lives of CC's community members. In other words, traditional "stock" photos are not welcome! Finally, CC-licensed photos should be prioritized-particularly photos taken during CC events, like Global Summit. Check out CC-licensed photos on Flickr, here.
+- Design elements used in CC's communication and marketing materials, as well as on its platforms, should be simple and clear, yet fun and creative. Making use of buttons, emojis, animation, geometric designs, and the brand colors is encouraged.
+- Please note: When uploading images to Word press, be sure to add a unique title, so the image is easily searchable; alternative text describing the image, for accessibility; and a caption that includes the CC license the image is published under (including a hyperlink), as well as the name of the photographer and/or graphic designer.
+
+##### Color Palette
+
+- Creative Commons’ color palette reflects the vibrant nature of the digital space in which we operate, and the diverse community we engage with. These colors should be used—in various pairings—across branding and communication materials (particularly the website, social media posts, marketing materials, fundraising brochures, etc.). However, it’s important to keep in mind accessibility requirements and design best practices, particularly with such bold, primary colors. For a guide on how to pair different colors together, including contrast requirements, read “Effective Use of Color” by the University of Washington.
+- ### Tomato Hex: #ed592f RGB: 237 89 47 HSL: 13 84 55 CMYK: 0 58 75 7
+- ### Gold Hex: #efbe00 RGB: 239 190 0 HSL: 47 100 46 CMYK: 0 19 94 6
+- ### Forest Green Hex: #04a635 RGB: 4 166 53 HSL: 138 95 33 CMYK: 64 0 44 35
+- ### Dark Slate Blue Hex: #3c5c99 RGB: 60 92 153 HSL: 219 43 41 CMYK: 36 24 0 40
+- Dark Slate Gray Hex: #333333 RGB: 51 51 51 HSL: 0 0 20 CMYK: 0 0 0 80
+- Orange Hex: #fb7729 RGB: 251 119 41 HSL: 22 96 57 CMYK: 0 52 82 2
+- Dark Turquoise Hex: #05b5da RGB: 5 181 218 HSL: 190 95 43 CMYK: 84 15 0 15
+- Please note: Any colors reproduced in print may not be accurate, therefore in order to achieve the best possible results in printing, use CMYK and consult with the printer.
+- The above logos can be used in any of the colors found in the color palette. However, in order to ensure that the logos are clearly displayed, we recommend using the colors tomato (#ed592f), dark slate gray (#333333), black, or white.
+- Do not reproduce the logo in any other colors outside of the brand’s primary colors, except for black and white (when necessary)
+- Do not use multiple colors for a single logo, choose one
+- Do not tint the logo
+
+##### Typography
+
+- ### Primary Font: Source Sans Pro Source Sans Pro I Source Sans Pro I Source Sans Pro "Source Sans Pro is an open-source grotesque typeface designed by Paul D. Hunt for Adobe Systems ... The slightly condensed letterforms of Source Sans Pro make it ideal for user interfaces where space is a concern. It's available in a full set of six weights with corresponding italics." This font is particularly easy to read, both on the web and in print. Therefore, it should be used as the primary font for correspondence and communications. Source: Source Sans Pro. {2019}. Retrieved from typewolf.com/site-of-the-day/fonts/source-sans-pro
+- ### Secondary Font: Roboto ### Roboto I Roboto I Roboto "Roboto is an open-source, grotesque sans-serif typeface designed by Christian Robertson in 2011 and released through Google...it renders crisply on screens and is very legible, even at smaller sizes. Roboto is the default font used in Google Maps and Google+." Similar to Source Sans Pro, Roboto is also easy to read. Therefore, it can be used for correspondence and communications when desired. Source: Roboto. (2019). Retrieved from typewolf.com/site-of-the-day/fonts/roboto
+- ### Secondary Font: CC Accidenz Commons ### CC Accidenz Commons CC Accidenz Commons is an open-licensed font designed specifically for Creative Commons and can be used and/or remixed by anyone. It was designed in 2018 by Archetypo, a research and type design collective based in Germany and Chile to replace Akzidenz Grotesk-the original font in CC's logo. You can download the font from our "Downloads" page. Learn more about this font in "Introducing CC Accidenz Commons: An Open Licensed Font."
+
+##### Logo Usage
+
+- Creative Commons has one primary logo:
+- However, the following derivatives of CC’s primary logo can also be used when appropriate:
+- The above logos can be used in any of the colors found in the color palette. However, in order to ensure that the logos are clearly displayed, we recommend using the colors tomato (#ed592f), dark slate gray (#333333), black, or white.
+- Things to avoid: • Do not reproduce the logo in any other colors outside of the brand’s primary colors, except for black and white (when necessary) • Do not use multiple colors for a single logo, choose one • Do not add additional graphic elements: drop shadows, glow, dimension, outlines, etc. • Do not re-proportion the logo • Do not tint the logo
+
+##### Tone And Messaging
+
+- Creative Commons’ tone should be clear, informed, and professional, yet witty and relatable— reflecting CC’s staff and broader community.
+- All communication materials, particularly blog posts, should reflect this tone but also embody the unique qualities of the specific author’s writing style. These materials should also use language that is easy-to-understand and clear, particularly if targeted towards an audience that may not be aware of the language, concepts, and theories behind CC’s work (e.g., global commons, public domain, open culture, etc.). The audience’s knowledge and experience should always be taken into consideration.
+
+##### Brand Values
+
+- "Your brand is the values that guide you, the roles you play, the relationships and interactions you have, and your impact. Your brand is a promise that your actions will always be aligned with your values... Design is the process through which we make these brand experiences tangible so that they create deeper meaning for audiences. And when driven by well-defined brand strategy, consistent design creates cohesive experiences that effectively engage audiences with your organization's mission."
+- CC is vibrant, creative, collaborative, innovative, and global.
+
+##### Visual Style
+
+- Creative Commons has one primary logo: However, the following derivatives of CC’s primary logo can also be used when appropriate: The above logos can be used in any of the colors found in the color palette. However, in order to ensure that the logos are clearly displayed, we recommend using the colors tomato (#ed592f), dark slate gray (#333333), black, or white. You can download these logos on our website, here.
+- Things to avoid: • Do not reproduce the logo in any other colors outside of the brand’s primary colors, except for black and white (when necessary) • Do not use multiple colors for a single logo, choose one • Do not add additional graphic elements: drop shadows, glow, dimension, outlines, etc. • Do not re-proportion the logo • Do not tint the logo
+- Creative Commons’ color palette reflects the vibrant nature of the digital space in which we operate, and the diverse community we engage with. These colors should be used—in various pairings—across branding and communication materials (particularly the website, social media posts, marketing materials, fundraising brochures, etc.). However, it’s important to keep in mind accessibility requirements and design best practices, particularly with such bold, primary colors. For a guide on how to pair different colors together, including contrast requirements, read “Effective Use of Color” by the University of Washington.
+- Tomato Hex: #ed592f RGB: 237 89 47 HSL: 13 84 55 CMYK: 0 58 75 7
+- Gold Hex: #efbe00 RGB: 239 190 0 HSL: 47 100 46 CMYK: 0 19 94 6
+- Forest Green Hex: #04a635 RGB: 4 166 53 HSL: 138 95 33 CMYK: 64 0 44 35
+- Dark Slate Blue Hex: #3c5c99 RGB: 60 92 153 HSL: 219 43 41 CMYK: 36 24 0 40
+- Dark Slate Gray Hex: #333333 RGB: 51 51 51 HSL: 0 0 20 CMYK: 0 0 0 80
+- Orange Hex: #fb7729 RGB: 251 119 41 HSL: 22 96 57 CMYK: 0 52 82 2
+- Dark Turquoise Hex: #05b5da RGB: 5 181 218 HSL: 190 95 43 CMYK: 84 15 0 15
+- Please note: Any colors reproduced in print may not be accurate, therefore in order to achieve the best possible results in printing, use CMYK and consult with the printer.
+- Creative Commons' (CC) visuals, including graphic design elements, should reflect the diversity, vibrancy, and creativity of the global commons.
+- Any photo used to market CC materials or communicate key messages should be inclusive and reflect the real lives of CC's community members. In other words, traditional "stock" photos are not welcome! Finally, CC-licensed photos should be prioritized-particularly photos taken during CC events, like Global Summit. Check out CC-licensed photos on Flickr, here.
+- Design elements used in CC's communication and marketing materials, as well as on its platforms, should be simple and clear, yet fun and creative. Making use of buttons, emojis, animation, geometric designs, and the brand colors is encouraged.
+- Please note: When uploading images to Word press, be sure to add a unique title, so the image is easily searchable; alternative text describing the image, for accessibility; and a caption that includes the CC license the image is published under (including a hyperlink), as well as the name of the photographer and/or graphic designer.
+
+##### Publications Style
+
+- Creative Commons’ tone should be clear, informed, and professional, yet witty and relatable— reflecting CC’s staff and broader community.
+- All communication materials, particularly blog posts, should reflect this tone but also embody the unique qualities of the specific author’s writing style. These materials should also use language that is easy-to-understand and clear, particularly if targeted towards an audience that may not be aware of the language, concepts, and theories behind CC’s work (e.g., global commons, public domain, open culture, etc.). The audience’s knowledge and experience should always be taken into consideration.
+- When using Creative Commons as a possessive noun, the apostrophe should appear as Creative Commons’ rather than Creative Commons’s.
+- For consistency and clarity, referring to the “CC Global Summit” or the “CC Summit” are preferred over the “Summit” or the “Global Summit,” as these terms could be confusing for people who do not know what the CC Global Summit is.
+- Finally, there should always be a “the” before the noun, e.g., “The CC Global Summit will be held in Lisbon, Portugal...” or “Members loved attending the CC Summit last year.”
+- Consistency is important. Therefore, referring to the “CC Global Network” and the “CC Network” are preferred over the “Network.”
+- Finally, there should always be a “the” before the noun, e.g., “The CC Global Network consists of over 400 members...” or “We encourage anyone to join the CC Network, it’s free!”
+- CC licenses should be displayed consistently, therefore please keep in mind the following: • License abbreviations should be in all caps • Individual clauses (e.g., BY, NC, etc.) should be strung together with a hyphen. For example: CC BY-NC-ND • Modifiers (e.g. CC) should not be followed by a hyphen. For example: CC BY For more guidance, follow the examples displayed at the top of each license's webpage.
+- Do not use periods for education degrees; therefore, use PhD, BA, BSc, MBA
+- Do not use periods in title abbreviations that appear in upper case E.g., CEO Use periods in title abbreviations that appear in upper and lower case E.g., Dr.
+- Do not use st, nd, rd, or th to follow a number in a date E.g., 3 May 2012 instead of 3rd May 2012
+- Use periods in abbreviation a.m. and p.m. E.g., 4:00 p.m. instead of 4pm; or 4:00-5:30 p.m.
+- Use the international standard with the year in front of the month, followed by the day E.g., 2019-10-22 or 2019 Oct 22
+- With first instances, always spell out the entire name followed by the acronym in parenthesis. The acronym alone may be used in all other instances. E.g., “Creative Commons (CC) is a nonprofit...”
+- In general, headings should not include acronyms. However, when they are used in a heading, it is not necessary to spell them out and list the acronym. Instead, spell out the acronym in the first paragraph or wherever the heading first appears in the piece.
+- Capitalize all proper names, trade names, government departments, and agencies of government, as well as names of associations, companies, clubs, religions, languages, nations, races, places, and addresses.
+- CC also follows “title case,” which is a capitalization style that has been traditionally used for a range of works, from books and movies to academic research papers.
+- Always spell out the numbers 0-9 in full, and use numerals for numbers 10 or greater, unless the number starts a sentence.
+- CC officially uses American English—please refer to the “British and American spelling” guide by Oxford Dictionaries for help.
+- Use a colon, rather than a comma, to introduce a direct quotation that is longer than a short sentence. Capitalize the first word of a quoted sentence.
+- A list that is separated by semi-olons rather than commas will be introduced by a colon and will not use a comma after “and” in the final listing.
+- Use commas between the elements of a series, and the Oxford comma before the last “and/or” in a list of items.
+- Em-dash appears as a longer dash (— not -), and does not include spaces. E.g. “To compensate for this lack of data, researchers must often rely on data collected by non-government entities—which are typically kept behind expensive paywalls.”
+- For printed documents, CC follows the American Psychological Association (APA) style, and utilizes footnotes or endnotes instead of in-text citations. For more information on APA, please see this link to Chegg’s EasyBib’s website.
+- For digital content, references should be directly linked via hyperlinks, when possible.
+- Finally, any content created and/or published by CC should also clearly indicate (and link to) whichever CC license it is published under, and follow the attribution requirements under that license. All CC licenses can be found via “Share Your License.”
+- Avoid overusing the verb “to be.” Instead, utilize the active tense. E.g., “It is important that net neutrality survives.” Instead say, “Net neutrality should survive.” For more examples, check out “Avoid Unecessary ‘To Be’ verbs,” by Writing Commons.
+- Keep sentences short and to the point, particularly when explaining complex topics. Be wary of long paragraphs, particulary for articles or blog posts published online—adding spaces between 2-4 sentence paragraphs helps with accessibility and engagement.
+- Avoid industry (or academic) jargon or terminology, particularly when writing for non-academic and/or industry-specific audiences. Remember to write with your audience in mind, and explain any potentially confusing terms, acronyms, or references.
+- Use bullet points or numbers to convey lengthy information. More specifically, use numbered lists if there is a sequence to the information.
+- Words from a language other than English should appear in italics unless they are commonly used in English. E.g. Millions of Muslims travel to Mecca for hajj (or pilgrimage) each year. E.g. Advocates for net neutrality arrived en masse at Capitol Hill.
+- Do not italicize words written in a different alphabet. Include an italicized transliterated version of the word in parentheses or in a footnote.
+
+##### Referencing And Licensing
+
+- For printed documents, CC follows the American Psychological Association (APA) style, and utilizes footnotes or endnotes instead of in-text citations. For more information on APA, please see this link to Chegg’s EasyBib’s website.
+- For digital content, references should be directly linked via hyperlinks, when possible.
+- Finally, any content created and/or published by CC should also clearly indicate (and link to) whichever CC license it is published under, and follow the attribution requirements under that license. All CC licenses can be found via “Share Your License.”
+
+##### Writing Tips
+
+- Avoid overusing the verb “to be.” Instead, utilize the active tense.
+- E.g., “It is important that net neutrality survives.” Instead say, “Net neutrality should survive.” For more examples, check out “Avoid Unecessary ‘To Be’ verbs,” by Writing Commons.
+- Keep sentences short and to the point, particularly when explaining complex topics. Be wary of long paragraphs, particulary for articles or blog posts published online—adding spaces between 2-4 sentence paragraphs helps with accessibility and engagement.
+- Avoid industry (or academic) jargon or terminology, particularly when writing for non-academic and/or industry-specific audiences. Remember to write with your audience in mind, and explain any potentially confusing terms, acronyms, or references.
+- Use bullet points or numbers to convey lengthy information. More specifically, use numbered lists if there is a sequence to the information.
+- Words from a language other than English should appear in italics unless they are commonly used in English.
+- E.g. Millions of Muslims travel to Mecca for hajj (or pilgrimage) each year.
+- E.g. Advocates for net neutrality arrived en masse at Capitol Hill.
+- Do not italicize words written in a different alphabet. Include an italicized transliterated version of the word in parentheses or in a footnote.
 
 ## Additional Properties
 

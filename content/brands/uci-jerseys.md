@@ -2,7 +2,7 @@
 title: UCI Jerseys
 slug: "uci-jerseys"
 description: ""
-date: "2026-03-20T08:22:04.500840"
+date: "2026-04-10T09:40:33.268827"
 draft: false
 sectors:
   - sports
@@ -47,13 +47,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - blue
-  - yellow
-  - orange
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -73,14 +67,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Color Information:**
-
-- UCI Blue: RGB: (0, 120, 200), CMYK: (100, 32, 0, 0), Pantone: 3005, RAL: 5017, Pantone Cotton: 18-4440 TCX.
-- UCI Red: RGB: (200, 20, 60), CMYK: (20, 100, 75, 0), Pantone: 186, RAL: 3020, Pantone Cotton: 18-1763 TCX.
-- Black: RGB: (0, 0, 0), CMYK: (20, 0, 0, 100), Pantone: Black 6, RAL: 9011, Pantone Cotton: 19-4007 TCX.
-- UCI Yellow: RGB: (250, 225, 0), CMYK: (0, 0, 100, 0), Pantone: 114, RAL: 1018, Pantone Cotton: 12-0752 TCX.
-- UCI Green: RGB: (50, 180, 50), CMYK: (73, 0, 100, 0), Pantone: 361, RAL: 6018, Pantone Cotton: 16-6340 TCX.
-- UCI Gran Fondo Dark Blue: RGB: (0, 72, 120), CMYK: (100, 30, 0, 55), Pantone: 3025.
-- UCI Women's WorldTour Light Blue: RGB: (66, 149, 208), CMYK: (70, 25, 5, 0), Pantone: 7688.
-- UCI Women's WorldTour Orange: RGB: (242, 140, 0), CMYK: (0, 50, 100, 0), Pantone: 1495.
-- UCI Women's WorldTour Raspberry: RGB: (199, 1, 127), CMYK: (35, 100, 0, 0), Pantone: 234.
+*Guidelines data not available*

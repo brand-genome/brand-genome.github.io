@@ -2,7 +2,7 @@
 title: Welbilt
 slug: welbilt
 description: ""
-date: "2026-03-20T08:22:05.558800"
+date: "2026-04-10T09:40:34.474080"
 draft: false
 sectors:
   - "home-appliances"
@@ -69,6 +69,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2018
+
+*Guidelines data not available*
 
 ## Additional Properties
 

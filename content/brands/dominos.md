@@ -2,7 +2,7 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-03-20T08:22:04.980504"
+date: "2026-04-10T09:40:33.750843"
 draft: false
 sectors:
   - restaurant
@@ -47,20 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - white
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,39 +70,95 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- Three logo versions specified as 'Tile only', 'Horizontal', and 'Vertical'.
-- Full color usage should be prioritized over black and white unless specifically for mono artwork.
-- Minimum logo sizes specified: Tile only - 13mm, Horizontal - 12.7mm, Vertical - 26mm.
-- Minimum clear area constraints mentioned for three layouts: Tile only, Horizontal, and Vertical.
-- Do not reposition or alter logo elements, use without a tile, remove legal marks, or use on busy or unapproved images, among other don'ts.
-- Logo must not be outlined, and the blue type logo is not to be used on dark backgrounds.
+##### Mission
 
-**Color Information:**
+- To provide great pizza and maintain a recognizable, consistent brand identity.
 
-- Primary colors specified as red, blue, and white representing the brand: Full details provided in Pantone, CMYK, and RGB.
-- Pantone references: Red (#186), Blue (#307). Colors must not be screened, tinted, or mixed to preserve brand consistency.
-- Colors are aligned with North American identity attributes and must be applied at 100% opacity.
+##### Core Values
 
-**Typography Information:**
+- pride in North American roots
+- consistency
+- clarity
 
-- Primary typeface specified as 'Trade Gothic LT'. Font weights include Bold Condensed No. 20, Light, Bold, and Bold Extended.
-- Secondary font 'Hoefler Text Regular' applied for body copy and legal materials.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals seeking recognizable, quality pizza with a clear and consistent brand experience.
 
-- Approved areas for logo application include white, red, blue, pizza box texture, and over approved photography.
+##### Personality Traits
 
-**Spacing Layout:**
+- approachable
+- modern
+- bold
 
-- Maintain clear spacing around logos for Tile, Horizontal, and Vertical configurations.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the iconic domino tile logo in red, white, and blue, with bold, sans-serif typography and a preference for full color usage. The brand emphasizes clarity, simplicity, and consistency across all visual elements.
 
-- Overall tone encourages pride in Domino's North American roots, with emphasis on consistency and clarity in visual identity.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Document emphasizes the importance of consistent usage across all brand properties and highlights the new tone of voice.
-- Contact details for any branding uncertainties are directed to Regional Marketing Consultants.
+- On the following pages we will explain the correct ways to use the new logos. As with any new rules we know it’s hard to account for every possible outcome - after all, it’s great pizza we’re in the business of making, not predicting the future. So if anything is unclear, just pick up the phone and contact your Regional Marketing Consultant.
+- # A quick guide to logo use
+- UK and ROI logo
+- 1. Tile only
+- And when more branding is required
+- 2. Horizontal
+- 3. Vertical
+- Black and white is boring, so unless we are specifically producing artwork for mono adverts, full colour should always be used.
+
+##### Color Palette
+
+- Black and white is boring, so unless we are specifically producing artwork for mono adverts, full colour should always be used.
+- Use on white
+- Use on approved red
+- Use on approved blue
+- The Domino’s colours are red, white and blue and we chose them because they look awesome! That and they reflect our company’s North American roots, a badge we wear with pride.
+- It’s important not to mix and match these swatches as they have been optimised to match the corporate identity for each of their respective medias. Therefore they should not to be screened or tinted in any way and must always be used at 100% opacity.
+- C M Y K 0 100 81 4
+- 227 24 55
+- Pantone 186
+- C M Y K 100 16 0 27
+- 0 100 145
+- Pantone 307
+
+##### Typography
+
+- Below the domino graphic, the text 'Domino's' should appear in bold, blue, sans-serif font, with the trademark symbol (™) positioned close to the upper right of the text.
+- Underneath the brand name, there should be a stylized banner or ribbon design in red, containing the words 'BRAND BASICS' in uppercase blue letters, with 'BRAND' on the left segment and 'BASICS' on the right segment, connected by a curved line that extends from the banner and wraps around the words, creating a dynamic and balanced composition.
+- Below the logo, centered, there is the number '1' followed by the phrase 'Tile only.'
+- The logo positioned to the left of the word 'Domino's', which is written in bold, blue, sans-serif font with a slight rounding to the letter edges, creating a modern and approachable appearance.
+- Beneath the domino graphic, the word 'Domino's' is prominently displayed in bold, blue, lowercase letters with a distinctive apostrophe, all in a clean, sans-serif font.
+- Below the brand name, the number '3.' appears in light gray, followed by the word 'Vertical' in the same gray color, indicating a label or part of a sequence.
+- Below the domino, the word 'Domino's' is written in bold, black, rounded font, with the apostrophe clearly visible, reminiscent of the brand's logo style.
+- Below the logo, the word 'Domino's' is written in bold, blue, lowercase and uppercase letters.
+- Below the domino, the word 'Domino's' is presented in large, bold, blue lowercase letters, with a registered trademark symbol (™) positioned near the bottom right corner of the domino.
+- Below the domino graphic, the word 'Domino's' is prominently displayed in blue, with the apostrophe styled as a small, upward-curving tail.
+- Beneath or nearby, the word 'Domino's' is present in large, bold, light blue, rounded font, with a small trademark symbol (™) adjacent to the apostrophe.
+- DO NOT outline type
+- # TRADE GOTHIC LT BOLD CONDENSED NO. 20
+- ## Secondary – for body copy
+- HOEFLER TEXT Regular
+- # TRADE GOTHIC LT
+- Bold
+- Bold no– 2
+- Light
+- Bold Extended
+
+##### Visual Style
+
+- Black and white is boring, so unless we are specifically producing artwork for mono adverts, full colour should always be used.
+- DO NOT reposition or alter size of logo elements
+- DO NOT use without tile
+- DO NOT remove legal marks
+- DO NOT use over busy images or graphics
+- DO NOT use blue type logo over dark background
+- DO NOT outline type
+- Use on white
+- Use on approved red
+- Use on approved blue
+- Use on approved pizza box texture
+- Use over approved photography
+- It’s important not to mix and match these swatches as they have been optimised to match the corporate identity for each of their respective medias. Therefore they should not to be screened or tinted in any way and must always be used at 100% opacity.

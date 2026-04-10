@@ -2,27 +2,27 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-03-20T08:22:03.254971"
+date: "2026-04-10T09:40:30.768041"
 draft: false
 sectors:
+  - hardware
   - automobile
   - construction
-  - hardware
 regions:
   - sweden
 years:
-  - 2016
   - 2022
+  - 2016
   - 2021
 languages:
-  - chinese
   - english
+  - chinese
 tags:
-  - engineering
   - featured
+  - engineering
 industries:
-  - "car-manufacturing"
   - "automotive-industry"
+  - "car-manufacturing"
 countries:
   - sweden
 revenue_buckets:
@@ -45,11 +45,11 @@ headquarters_locations:
   - gothenburg
 subsidiaries: []
 foundation_dates:
-  - 2010
   - 1927
+  - 2010
 foundation_year_buckets:
-  - 1920S
   - 2010S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,38 +67,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - green
-  - white
-  - blue
-  - yellow
-  - black
-typographies:
-  - impact
-  - arial
-  - times
-  - serif
-imagery_styles:
-  - product
-  - dynamic
-  - muted
-  - professional
-  - bold
-  - modern
-  - natural
-  - photography
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: automotive brand manufacturing subsidiary of Geely
 wikidata_url: "https://www.wikidata.org/wiki/Q215293"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 6
+guideline_count: 5
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -123,144 +101,141 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
+### 2021
+
+*Guidelines data not available*
+
+### 2022
 
 *Guidelines data not available*
 
 ### 2021
 
-### 2022
-
-**Logo Information:**
-
-- Various logotypes, Iron Marks, and wordmarks are discussed for proper brand representation and dealership usage.
-- Rules for spacing and layout for the Volvo and dealership logotype placements.
-- Minimum sizes and alignment guidelines for Volvo icons and signage.
-- Incorrect usage examples such as intruding clear zones, modifying Iron Marks, or using unofficial signage are prohibited.
-
-**Color Information:**
-
-- Guidelines for colors, including mentions of Pantone standards for brand accuracy.
-- Interior color standards focused on muted tones instead of the digital/print palette.
-- Visual signage based on Volvo color theory to enhance visibility and align dealership branding.
-- Prohibition of Volvo blue color for decorative purposes (buildings, objects).
-
-**Typography Information:**
-
-- Fonts specified for various dealership communications like business cards and signage.
-- Typography guidelines applied across websites, stationary, and signage for uniformity.
-
-**Imagery Photography:**
-
-- Image tonality emphasis: authentic photos with proper lighting and clear storytelling format.
-- Interior photography focused on dynamic vibes through neutral, natural aesthetics.
-- Examples for using images in layouts: consistency and relevance retained across branding materials.
-
-**Spacing Layout:**
-
-- General layout principles focusing on simplicity, clear ordering, and generous spacing.
-- Interior layouts encouraging openness, dialogue, and clean design attributes.
-- Mandatory clear zones in signage to avoid intrusions and maintain professional visual clarity.
-
-**Brand Voice:**
-
-- Volvo's brand identity focuses on trust, customer relevance, and consistent experiences.
-- Retail communication combining Volvo's tone for professionalism and modern relevance.
-- Sponsorship activation must tailor the Volvo brand impressions to local customer needs.
-
-**Notes:**
-
-- Access to Volvo artwork and official guidance documentation is provided on their brand identity site.
-- Mandatory compliance to Volvo's branding rules for business cards, corporate websites, signage, and designs.
-- Digital resources and templates are authorized directly within the Volvo ecosystem to align communication standards.
-
-### 2021
-
-**Logo Information:**
-
-- Primary logotypes include Volvo Spread Word Mark. The minimum clear zone shall be equal to 3 x the height of the Volvo Spread Word Mark and 4 x the height of the Volvo Penta Word Mark. The Volvo Spread Word Mark can be placed in sponsorships. It is specifically recommended to separate it from other brand logotypes using a thin black line in between or double clear zones.
-- Secondary logotypes include Volvo Iron Mark and Volvo Penta Stack Spread Word Mark. No business descriptor or tagline is allowed in connection with the Volvo logotypes (Spread Word Mark or Iron Mark). Multi-brand usage must include a clear zone of 3X between Volvo logotypes and secondary ones.
-- Do’s and Don’ts for logo usage cover minimum size requirements, clear space rules, and design principles for separating Volvo logotypes from other brand logos. Incorrect examples include misuse of the Iron Mark, overlapping designs, improper alignment of the vehicle branding, or crowded multi-clear zones.
-
-**Color Information:**
-
-- Volvo main and accent colors include a corporate color palette. Recommendations include Volvo Blue (Pantone color) and functional colors suited for digital and print environments. These colors ensure consistent brand recognition across media channels.
-
-**Typography Information:**
-
-- Volvo primary typeface is Volvo Novum used for body text and professional appearances. Additionally, Volvo Broad is applicable in bold or semi-bold for headings and labels.
-
-**Imagery Photography:**
-
-- Image tonality guidelines emphasize storytelling, human presence, and authenticity with natural sources of light. The tone must reflect Scandinavian design principles — simplicity, natural light, functionality, and a muted, earthy palette.
-
-**Spacing Layout:**
-
-- Layout principles require generous usage of space, simplicity in design, a clear hierarchy of elements, and attention to design details such as proper alignment and balanced proportions.
-
-**Brand Voice:**
-
-- Volvo's tone of voice reflects personality and expression. Focus areas include clarity and relatability, highlighting authenticity and human connection in communication.
-
-**Notes:**
-
-- The document includes vehicle branding guidelines, specifying placement of logos and active zones for dealership information on service vehicles. Detailed illustrations and exterior application instructions provided.
-- Primary references for logos, sponsorship materials, stationery, and templates can be downloaded at 'www.volvogroup.com/identity'. Examples include marketing materials, artwork, and PowerPoint templates.
+*Guidelines data not available*
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Examples of CTA protocol, button design specified requirements, and call-to-action color usage. Volvo Broad Digital typeface designed as headline; confirms no usage of Volvo Sans Pro / Serif Pro within digital contexts.
-- Volvo Construction Equipment example showcasing implementation with standard CTA reserved per-page distinct differentiated scenarios tightened regulation entity rights control relevance plus practical placement.
+##### Mission
 
-**Color Information:**
+- Indigenous Tourism Alberta (ITA) encourages and promotes Indigenous tourism in the province. ITA's goal is to enhance economic viability, further engage and support Indigenous peoples, and nurture partnerships throughout the province by sharing Indigenous stories, culture, and experiences with a global audience. ITA aims to create a coordinated voice and shared vision for Indigenous tourism in Alberta.
 
-- Digital thematic ensures accurate alongside maintained colour-shores positive R-grid nearby tie-up no cross-apply decorate.
+##### Core Values
+
+- diversity
+- inclusivity
+- authenticity
+- empowerment
+- cultural reclamation
+- reconciliation
+- togetherness
+
+##### Target Audience
+
+- Curious adventurers and cultural explorers from Canada, United States, United Kingdom, Germany, and Japan, including families, young couples, retired couples, and singles who seek enriching, engaging, immersive experiences with Indigenous people.
+
+##### Personality Traits
+
+- genuine
+- inviting
+- educational
+- celebratory
+- inspiring
+- joyful
+- dynamic
+
+##### Visual Identity Overview
+
+- The visual identity features Indigenous cultural symbols such as tipis, buffalo, canoes, and mountains, with a color palette inspired by the Medicine Wheel. Photography and imagery emphasize authentic cultural representation, nature, and immersive experiences. The logo is designed to be inclusive and welcoming, with guidelines for usage, clear space, and color variations. Typography uses Sonoran for display and Nunito Sans for primary text, supporting a bold, accessible, and culturally resonant visual style.
+
+#### Categories
+
+##### Brand Voice
+
+- Language is one of the many ways that has been used to oppress Indigenous Peoples. By being aware of the ways in which implied colonialism lives in language you can re-frame the narrative and de-colonize your words. By educating themselves, writers can make better choices, and equip themselves with a basic understanding on how not to repeat historic inaccurate terms, break Indigenous Protocols, or use offensive language.
+- This guide is not intended to be a deep dive into the correct language and terms to use when writing about Indigenous Peoples; the authority on that is Elements of Indigenous Style, by Gregory Younging, published by Brush Education.
+- 1. Avoid using the past tense when you write about Indigenous Peoples. Indigenous Peoples are not a historical phenomenon; they have not been assimilated into Canadian culture and they have not lost their own rich, distinct cultures. Indigenous Peoples are diverse, authentic, empowered and current. Avoid the past tense: "they practiced ceremonies." Instead, use the present tense: "They practice Ceremonies."
+- 2. Do not use language which props up the colonial idea that Indigenous Peoples are incapable of taking care of things themselves. This manifests itself in language which implies that Indigenous Peoples have no agency. Avoid statements like "numbered treaties gave Canada's First Nations reserves, education and health care." Instead, write that "First Nations in Canada negotiated the numbered treaties to secure reserves, education and health care."
+- 3. Do not use the possessive when talking about the Indigenous Peoples who live in a country. Canada doesn't "own" the First Nations, Metis or Inuit Peoples who live in what is now called Canada. Avoid the phrase "Canada's First Nations." Instead, use "Indigenous People in Canada," or "First Nations, Metis, and Inuit Peoples in Canada."
+- 4. Do not whitewash Indigenous Peoples out of history. Be mindful of phrasing. The sentence "After a hike around Jasper, check out the Miette Hot Springs which have been around since the early 1900's" doesn't acknowledge that the hot springs have been an important site for the Indigenous Peoples of the area for thousands of years. To place your work in context, look at the following text which acknowledges the history of the Indigenous Peoples in the area, and the colonial practice of removing them from their land. "The aquacourt at the Miette Hot Springs and road access were built in the 1930's, however -prior to this -the springs were used by Indigenous Peoples as a source of healing and spirituality, and the land was an abundant area for hunting and gathering food. Nations including the Stoney First Nation and Keeseekoowenin Ojibwa were ousted from the area in the late 1880's."
+- 5. Think about Indigenous Knowledge as holding its own copyright. Give Oral Traditions and Traditional Knowledge the same weight and respect as printed texts. You need to ask for permission before reprinting Oral Traditions and Traditional Knowledge, exactly as you would with written texts.
+- 6. Be prepared for consultation to take time. Be aware that no one person is able to give permission; if copyright is held by a Nation, then there needs to be a proper consultation practice about sharing.
+- 7. Collaborate and seek permission when writing about Traditional Knowledge. If you're writing about Indigenous People then contact them and discuss what you'd like to do. Be aware that Indigenous Protocols -which are more formal than "customs" -need to be adhered to, and often it may not be appropriate to write about matters which have sacred significance, or perhaps contain stories which may only be told by women, men, or at a particular time of the year.
+- 8. Do not repeat inaccurate and offensive material. Check your source material; if you're quoting or using books written by nonlndigenous People as a reference point, it's possible that you will be repeating inaccurate, possibly offensive accounts. It's also possible that stories and Traditional Knowledge in these books were printed without permission.
+- 9. Always choose Indigenous Style over Canadian Press style. Capitalization may not be where you'd expect to see it. Gregory Younging describes this as a "deliberate decision that redresses mainstream society's history of regarding Indigenous Peoples as having no legitimate national identities; government, social, spiritual or religious institutions; or collective rights." Instead of using Canadian Press style, use Indigenous style: Aboriginal, First Nations, Indigenous, Elder, Oral Tradition, Clan, Protocols, Traditional Knowledge, Indigenous Right, Treaty Right.
+- 10. Respect Elders. Be aware of the important role of Elders within Indigenous societies and their role as holders of Traditional Knowledge and as community advisors.
+- 11. Recognize and respect distinct and diverse Indigenous Peoples. The Indigenous population in Canada is made up of Inuit, Metis, and some 634 different First Nations. Each has their own distinct Traditional Knowledge, culture and heritage. Avoid writing about 'First Nations' as though they are a homogenous group; instead, be specific and ask for people's preferred self­declaration. If no self-declaration has been made, try to identify the name of their community or nation. If it is still not known, then use Indigenous group names, such as First Nation, Metis or Inuit.
+- 12. Understand Indigenous cultures do not need to be static to be authentic. Indigenous Peoples are currently engaged in a period of cultural reclamation and rejuvenation. Just because someone doesn't live in a teepee, doesn't mean that they are not an authentic Indigenous person. Indigenous cultures are dynamic and undergo natural change and adaptation, just like other cultures.
+
+##### Brand Imagery
+
+- Photography should always accurately represent culture and traditions, and permission should always be obtained prior to photography being shot. Don't take photos of ceremony.
+- Images depicting learning experiences between a guide and visitors are encouraged.
+- Portraits in nature are encouraged.
+- When photographing regalia, ensure permission is obtained first. Don't photograph ceremonial activities.
+- Photography that shows visitor experiences within the context of land are encouraged.
+- Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
+- Depictions of food, art, or other installations by Indigenous creators is encouraged.
+
+##### Color Palette
+
+- Inspired by the colours of the Medicine Wheel, colour can be applied to communication pieces to complement images, or to contrast or draw attention to a particular element.
+- Pantone 187C CMYK: 23/100/88/15 RGB: 170/31/46 HEX: #AA1F2E
+- Pantone 280C CMYK: 100/93/27/23 RGB: 34/45/102 HEX: #222D66
+
+##### Typography
+
+- Sonoran may be used for display copy and headlines. Because it is a monocase typeface it is not suitable for long copy beyond the discretion of the marketing team.
+- Nunito Sans should be the most prominent typeface used in marketing materials. It can be used for both headlines and longer form body copy.
+- Source Sans can be used for headlines and body copy when the primary typeface is not available.
+
+##### Logo Usage
+
+- Only use the reversed option (white) when the black version is compromised by backgrounds, photos or colours. Minimum space must still be employed. If using the reversed logo option on images, ensure that it has solid contrast all around the logo.
+- Use the black logo when white does not provide enough contrast against backgrounds or images. Allow the same considerations for minimum space as all other logo usage.
+- The logomark should always be surrounded by generous white space. The diagram above defines the minimum amount of clear space needed, which is based on the width of the O in the wordmark.
+- In smaller applications and where necessary, a simplified logo may be used.
+
+##### Tone And Messaging
+
+- Language is one of the many ways that has been used to oppress Indigenous Peoples. By being aware of the ways in which implied colonialism lives in language you can re-frame the narrative and de-colonize your words. By educating themselves, writers can make better choices, and equip themselves with a basic understanding on how not to repeat historic inaccurate terms, break Indigenous Protocols, or use offensive language.
+- This guide is not intended to be a deep dive into the correct language and terms to use when writing about Indigenous Peoples; the authority on that is Elements of Indigenous Style, by Gregory Younging, published by Brush Education.
+- 1. Avoid using the past tense when you write about Indigenous Peoples. Indigenous Peoples are not a historical phenomenon; they have not been assimilated into Canadian culture and they have not lost their own rich, distinct cultures. Indigenous Peoples are diverse, authentic, empowered and current. Avoid the past tense: "they practiced ceremonies." Instead, use the present tense: "They practice Ceremonies."
+- 2. Do not use language which props up the colonial idea that Indigenous Peoples are incapable of taking care of things themselves. This manifests itself in language which implies that Indigenous Peoples have no agency. Avoid statements like "numbered treaties gave Canada's First Nations reserves, education and health care." Instead, write that "First Nations in Canada negotiated the numbered treaties to secure reserves, education and health care."
+- 3. Do not use the possessive when talking about the Indigenous Peoples who live in a country. Canada doesn't "own" the First Nations, Metis or Inuit Peoples who live in what is now called Canada. Avoid the phrase "Canada's First Nations." Instead, use "Indigenous People in Canada," or "First Nations, Metis, and Inuit Peoples in Canada."
+- 4. Do not whitewash Indigenous Peoples out of history. Be mindful of phrasing. The sentence "After a hike around Jasper, check out the Miette Hot Springs which have been around since the early 1900's" doesn't acknowledge that the hot springs have been an important site for the Indigenous Peoples of the area for thousands of years. To place your work in context, look at the following text which acknowledges the history of the Indigenous Peoples in the area, and the colonial practice of removing them from their land. "The aquacourt at the Miette Hot Springs and road access were built in the 1930's, however -prior to this -the springs were used by Indigenous Peoples as a source of healing and spirituality, and the land was an abundant area for hunting and gathering food. Nations including the Stoney First Nation and Keeseekoowenin Ojibwa were ousted from the area in the late 1880's."
+- 5. Think about Indigenous Knowledge as holding its own copyright. Give Oral Traditions and Traditional Knowledge the same weight and respect as printed texts. You need to ask for permission before reprinting Oral Traditions and Traditional Knowledge, exactly as you would with written texts.
+- 6. Be prepared for consultation to take time. Be aware that no one person is able to give permission; if copyright is held by a Nation, then there needs to be a proper consultation practice about sharing.
+- 7. Collaborate and seek permission when writing about Traditional Knowledge. If you're writing about Indigenous People then contact them and discuss what you'd like to do. Be aware that Indigenous Protocols -which are more formal than "customs" -need to be adhered to, and often it may not be appropriate to write about matters which have sacred significance, or perhaps contain stories which may only be told by women, men, or at a particular time of the year.
+- 8. Do not repeat inaccurate and offensive material. Check your source material; if you're quoting or using books written by nonlndigenous People as a reference point, it's possible that you will be repeating inaccurate, possibly offensive accounts. It's also possible that stories and Traditional Knowledge in these books were printed without permission.
+- 9. Always choose Indigenous Style over Canadian Press style. Capitalization may not be where you'd expect to see it. Gregory Younging describes this as a "deliberate decision that redresses mainstream society's history of regarding Indigenous Peoples as having no legitimate national identities; government, social, spiritual or religious institutions; or collective rights." Instead of using Canadian Press style, use Indigenous style: Aboriginal, First Nations, Indigenous, Elder, Oral Tradition, Clan, Protocols, Traditional Knowledge, Indigenous Right, Treaty Right.
+- 10. Respect Elders. Be aware of the important role of Elders within Indigenous societies and their role as holders of Traditional Knowledge and as community advisors.
+- 11. Recognize and respect distinct and diverse Indigenous Peoples. The Indigenous population in Canada is made up of Inuit, Metis, and some 634 different First Nations. Each has their own distinct Traditional Knowledge, culture and heritage. Avoid writing about 'First Nations' as though they are a homogenous group; instead, be specific and ask for people's preferred self­declaration. If no self-declaration has been made, try to identify the name of their community or nation. If it is still not known, then use Indigenous group names, such as First Nation, Metis or Inuit.
+- 12. Understand Indigenous cultures do not need to be static to be authentic. Indigenous Peoples are currently engaged in a period of cultural reclamation and rejuvenation. Just because someone doesn't live in a teepee, doesn't mean that they are not an authentic Indigenous person. Indigenous cultures are dynamic and undergo natural change and adaptation, just like other cultures.
+
+##### Visual Style
+
+- Only use the reversed option (white) when the black version is compromised by backgrounds, photos or colours. Minimum space must still be employed. If using the reversed logo option on images, ensure that it has solid contrast all around the logo.
+- Use the black logo when white does not provide enough contrast against backgrounds or images. Allow the same considerations for minimum space as all other logo usage.
+- The logomark should always be surrounded by generous white space. The diagram above defines the minimum amount of clear space needed, which is based on the width of the O in the wordmark.
+- Inspired by the colours of the Medicine Wheel, colour can be applied to communication pieces to complement images, or to contrast or draw attention to a particular element.
+- Pantone 187C CMYK: 23/100/88/15 RGB: 170/31/46 HEX: #AA1F2E
+- Pantone 280C CMYK: 100/93/27/23 RGB: 34/45/102 HEX: #222D66
+- Sonoran may be used for display copy and headlines. Because it is a monocase typeface it is not suitable for long copy beyond the discretion of the marketing team.
+- Nunito Sans should be the most prominent typeface used in marketing materials. It can be used for both headlines and longer form body copy.
+- Source Sans can be used for headlines and body copy when the primary typeface is not available.
+- Photography should always accurately represent culture and traditions, and permission should always be obtained prior to photography being shot. Don't take photos of ceremony.
+- Images depicting learning experiences between a guide and visitors are encouraged.
+- Portraits in nature are encouraged.
+- When photographing regalia, ensure permission is obtained first. Don't photograph ceremonial activities.
+- Photography that shows visitor experiences within the context of land are encouraged.
+- Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
+- Depictions of food, art, or other installations by Indigenous creators is encouraged.
 
 ### 2016
 
-**Logo Information:**
-
-- Minimum size of the Volvo Penta logo: The logo should not measure less than 25mm in length.
-- Clear zone rules: Minimum clear space around logo equals the height of the word 'Volvo' in the logo. A double clear zone must be applied if the logo is placed near another logo.
-- Examples of incorrect logo usage: Do not place the logo within frames, combine with illustrations, distort, substitute typefaces, or add non-approved descriptors.
-- Examples of additional incorrect logo usage: Do not add outlines, place within double clear zones, use non-corporate colors, or add a blue box as part of the design element.
-- Always reproduce the logo only from master artwork and ensure agencies apply the guidelines appropriately for all use cases.
-
-**Color Information:**
-
-- Volvo Blue: Primary corporate color. Reserved for use with the Volvo logo but not for decorative purposes.
-- Corporate colors: Volvo Blue, White, Black, and Volvo Silver are corporate colors designated for traditional brand identity.
-- Profile colors: Include Granite, Slate, Fog, Grass, Leaf, Cloudberry, Midnight Sun, Ocean, Sky, Mud, and Sand. Use them sparingly and never in tints.
-- Accent colors: Heather and Raspberry are used to grab attention in media. Use only one color at a time.
-- Signal colors: Green for 'Success,' Yellow for 'Warning,' and Red for 'Error.'
-- Digital exclusive colors: Call-to-action Blue is reserved for digital elements like buttons and links.
-- Full list of color codes with Pantone, CMYK, RGB, and HEX values for all corporate, profile, accent, signal, and digital-use-only colors.
-
-**Typography Information:**
-
-- Primary typefaces: Volvo Broad Pro, Volvo Broad Outline, Volvo Sans Pro, and Volvo Serif Pro.
-- Volvo Broad Pro: Reserved for headlines, titles, and product designations. Should not be used in stationery documents.
-- Volvo Sans Pro: Used for subheadings, introductions, body text, and captions. It is not to be used for main headlines except in brochures. Headlines can be set only in the colors black or white depending on the background.
-- Volvo Broad Outline: Designed for impact. Available in three sizes: Large (for print headlines), Medium (print headlines), and Small (web headlines). This typeface must only be used on images and colored backgrounds with sufficient contrast; not for white backgrounds.
-- Volvo Serif Pro: Elegant proportions for descriptive or narrative text. Not suitable for headlines.
-- General typography rules include ensuring readability through proper spacing and kerning. Never use too loose tracking or modify the design of preapproved Volvo typefaces. External communications use Volvo-specific fonts while internal communications use Arial or Times New Roman.
-- Examples of incorrect typeface usage include: not using Volvo fonts in non-external communication, creating non-standard weights or letter shapes, and using non-approved colors or effects.
-
-**Imagery Photography:**
-
-- Volvo emphasizes Swedish-inspired aesthetics characterized by simplicity, elegance, and attention to nature in its imagery.
-
-**Spacing Layout:**
-
-- White space is a critical component of Volvo's visual communications. It enhances the visibility of the logo and highlights the other branding elements.
-
-**Notes:**
-
-- Agencies and partners must ensure compliance with brand guidelines, confirm all work by obtaining prior approval, and report misuse to Volvo's management.
-- All colors must be used at 100% opacity and not for decorative purposes to avoid inconsistency or perceived 'greenwashing.'
-- The document repeatedly emphasizes protecting the integrity of the Volvo branding by adhering to strict color, typography, and design guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -272,7 +247,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
-| Foundation Date | [2010](/foundation_dates/2010/); [1927](/foundation_dates/1927/) |
+| Foundation Date | [1927](/foundation_dates/1927/); [2010](/foundation_dates/2010/) |
 | Topic'S Main Category | Category:Volvo Cars |
 | Freebase Id | /m/022hnr |
 | Headquarters Location | Gothenburg |

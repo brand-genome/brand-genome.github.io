@@ -2,7 +2,7 @@
 title: Denver
 slug: denver
 description: ""
-date: "2026-03-20T08:22:05.575299"
+date: "2026-04-10T09:40:34.502089"
 draft: false
 sectors:
   - "public-sector"
@@ -50,33 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - red
-  - green
-  - "pantone-384"
-  - gold
-  - navy
-  - purple
-  - blue
-  - "pantone-268"
-  - "pantone-1805"
-  - "pantone-2925"
-  - "pantone-130"
-  - "pantone-180"
-  - orange
-  - black
-  - "pantone-296"
-typographies:
-  - avenir
-imagery_styles:
-  - graphic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "consolidated city-county and capital of Colorado, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q16554"
 has_twitter: false
@@ -95,71 +72,211 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- PAGE 1
-These guidelines demonstrate how to correctly use the City and County of Denver logo.
-- PAGE 2
-PRIMARY AND SECONDARY LOGOS
-The City and County of Denver logo consists of three main elements: The primary D icon, the DENVER logotype, and tagline. Each element has been custom-created and should never be recreated or re-typeset. Primary logo version is horizontal; it uses the Avenir Black typeface for both the logotype and tagline. Stacked versions are alternative formats for secondary use.
-- PAGE 3
-Clear Zone, Minimum Sizes & Typefaces
-Clear space and minimum size for logos are specified. Typeface for logo and tagline is Avenir Black.
-- PAGE 4
-LOGO COLORS
-The Denver logo must utilize the official palette for consistency. Colors can be used in Spot Color (Pantone), CMYK 4 Color Process, RGB for screens, and HEX for web use.
-- PAGE 6
-Reverse & One-Color Usage
-Guidelines for using the logo in reverse colors or monochromatic applications when placed on dark backgrounds.
-- PAGE 8
-Incorrect Usage
-Examples of improper logo usage including distortion, color alterations, and improper alignments.
-- PAGE 10
-Offices Within the City
-Guidelines for incorporating department/agency names under the main logo while maintaining alignment and proportions. Use of acronyms is discouraged.
-- PAGE 12
-Usage in Programs and Events
-Details on adapting the primary Denver logo for use in venues or event branding, ensuring consistency with clear zones.
+##### Mission
 
-**Color Information:**
+- The guidelines aim to ensure consistent, recognizable, and professional use of the City and County of Denver logo, promoting civic pride and clear city identity across all materials and communications [^1].
 
-- PAGE 4
-The official color palette includes Brick Red (Pantone 1805), Sky Blue (Pantone 2925), Sunshine Gold (Pantone 130), Mountain Purple (Pantone 268), and 80% Black (Pantone Process Black). RGB and HEX values provided in the document.
-- PAGE 13
-Expanded palette includes secondary and accent colors for identity development and graphic designs. Examples include Navy (Pantone 296), Bright Green (Pantone 384), and Red Orange (Pantone 180).
-- PAGE 17
-Spot colors are preferred for printing, but 4 Color Process and RGB/HEX are acceptable alternatives.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- recognizability
+- civic pride
+- clarity
+- accessibility
 
-- PAGE 3
-Typeface is Avenir Black for logo and tagline. Secondary typefaces used in correspondence: Franklin Gothic Heavy and Franklin Gothic Book.
-- PAGE 12
-Letterhead templates provide type hierarchy and spacing guidelines for use in departments/agencies.
+##### Target Audience
 
-**Imagery Photography:**
+- City employees, departments, agencies, allied organizations, and external partners involved in city-sponsored events or communications [^2].
 
-- PAGE 13
-Expanded palette may be used to design unique graphics for city programs; photography and visuals still must align with city branding guidelines.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- clean
+- professional
+- vibrant
+- energetic
 
-- PAGE 3
-Logo clear zone guidelines dictate spacing around the logo to ensure prominence. Minimum size rules for usability provided.
-- PAGE 12
-Letterhead layout requires alignment with official logo typography as guidance for document header placement.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a stylized 'D' icon featuring a red-brown tower, yellow sun, blue rays, and purple mountains, paired with bold uppercase typography and a defined color palette. The design is flat, modern, and emphasizes urban landscape and natural light, with strict rules for logo usage, clear zones, minimum sizes, and color applications [^3].
 
-- PAGE 17
-Taglines must complement the logo. Maintain tonal contrast in all compositions.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- PAGE 12
-Templates for letterhead, business cards, and other official documents are available at the City of Denver Brand Center.
-- PAGE 15
-Allied organizations like the Denver Zoo and Denver Botanic Gardens may co-brand using their own branding without needing to align with city standards.
+- The City and County of Denver logo consists of three main elements: The primary D icon, the DENVER logotype and tagline. Each of these elements has been custom-created and should never be recreated or re-typeset. To maintain consistency and create a strong visual identity, the Denver logo should only be used from existing digital files. Please Do NoT use the Denver D icon without the DENVER logotype and tagline unless expressly permitted by this guide or the Denver Marketing office.
+- The horizontal version of the Denver logo (D icon to the left of the logotype) is the preferred logo format. The logo utilizes the typeface Avenir Black for both DENVER and the tagline. The distance to the right of the D icon and to left of the type should remain consistent. This distance is determined by the distance between the bottom of the tagline to the bottom of the DENVER logotype, represented by the letter X. The distance from the right edge of the D icon to the left edge of the logotype should be equal to X. The block of text in its entirety is centered vertically with the D icon.
+- When the horizontal version of the Denver logo will not work with your space or design requirements, the secondary, stacked logo version can be used. Again, the distance between the bottom of the D icon and top of the DENVER logotype should be equal to X. The block of text in its entirety is centered horizontally with the D icon.
+- The Denver logo should always have an area of open space or "clear zone" around it. No other graphic elements should fall within this area around the logo. Where "X" is equal to the distance between the bottom of the tagline to the bottom of the DENVER logotype, leave at least X amount of clearance on all sides of the logo.
+- The Denver logo should always be used at an appropriate size to make sure it is legible. When the primary signature is used, it should be no smaller than 7/8" wide at the widest point. The secondary signature should be used no smaller than 5/8" at its widest point.
+- The Denver logo color palette is comprised of five colors that represent this vibrant city. spot-color printing is the preferred option and should be used whenever possible. However, four-color process printing may be used when spot-color printing is not available or cost effective. When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web. The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below. The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- A reverse version of the Denver logo has been developed for use when the logo appears on black or other dark colors. The Dis not actually reversed, but uses a white border to separate it from the background. The logotype and tagline are white instead of black to increase legibility. Use the regular signature on backgrounds with a color that has a tonal equivalency of less than 15% black and the reverse signature on backgrounds with a color that has a tonal equivalency of 15% black or more.
+- An alternate version of the Denver logo has been developed to be used when only one color is available. One-color logos should only be used as an alternative to the preferred full-color version. It should not be used in four-color process printing or in RGB formats, where you can use a full-color version instead.
+- When only one color is available and the logo appears on black or another dark color, a one­color reverse usage should be used. In this version, the primary D icon is used with a white border with the colored elements reversed to the background color.
+- DO NOT reposition the elements of the logo. DO NOT use the one­color reversed logo where the primary icon appears in solid white (see page 5 for the correct usage). DO NOT change the colors of the logo. DO NOT distort or stretch the logo. Make sure it is always scaled proportionally. DO NOT use the primary D icon as a decorative capital letter. DO NOT place the logo on a background without sufficient contrast (see reverse applications on page 5). DO NOT place the logo on a photographic background without sufficient contrast (see reverse applications on page 5). DO NOT use the logo without all of the necessary elements. DO NOT use the logo or primary icon in a way that violates the minimum clear space, especially in a co­branding situation. DO NOT use the D icon locked up with any other typeface.
+
+##### Color Palette
+
+- The Denver logo color palette is comprised of five colors that represent this vibrant city.
+- Spot-color printing is the preferred option and should be used whenever possible. However, four-color process printing may be used when spot-color printing is not available or cost effective. When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web. The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below.
+- The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- Brick Red PMS 1805 C 0 M 100 Y 100 K 20 R 160 G 0 B 34 #c4161c
+- Sky Blue PMS 2925 C 75 M 15 Y 0 K 0 R 0 G 150 B 214 #0096D6
+- Sunshine Gold PMS 130 C 0 M 25 Y 80 K 0 R 253 G 185 B 19 #fDB913
+- Mountain Purple PMS 268 C 80 M 100 Y 0 K 25 R 64 G 15 B 96 #491D74
+- 80% Black PANTONE PROCESS C 0 M 0 Y 0 K 80 R 88 G 89 B 91 #58595B
+- Note: Palette colors pertain to both coated and uncoated stocks
+- Always use colors from the approved palette. see page 13 for expanded colors.
+- Although the main logo is comprised of five colors, city programs may use colors in the expanded palette for identity development and other graphic design. The expanded palette includes four secondary colors and four accent colors.
+- When selecting colors for a new program identity, please choose from the primary and expanded palette.
+- While it is not required to use a primary palette color, it is recommended to maintain brand recognition throughout subbbrands.
+- you may use up to all four colors in the secondary palette, but please do not exceed five colors overall in identity development.
+- if you are using one or more accent color (up to three), please use at least one color from the primary or secondary palette.
+- Do not use a color from the accent palette as the dominant color in the application.
+
+##### Typography
+
+- Each of these elements has been custom- created and should never be recreated or re-typeset. To maintain consistency and create a strong visual identity, the Denver logo should only be used from existing digital files.
+- Please Do NoT use the Denver D icon without the DENVER logotype and tagline unless expressly permitted by this guide or the Denver Marketing office.
+- The logo utilizes the typeface Avenir Black for both DENVER and the tagline.
+- The primary typeface used to accompany the Denver logo is Franklin Gothic.
+- There are two typefaces in this family that may be used for Denver branded materials: Franklin Gothic Heavy and Franklin Gothic Book.
+- Standard fonts such as Arial are permitted within documents created in programs where custom fonts are not available.
+- When typesetting a department/agency name in the upper right, leave a 1/2" margin on the top and right side of the page. The department name in the header should be Franklin Gothic Heavy and all other type should be Franklin Gothic Book. Type size is 7pt with 10pt leading. Add an extra 5pts of leading to the street address line to create the space between the department name and address block.
+- When typing a letter, align the left side of the text with the left side of the DENVER and tagline typography and begin typing 2" from the top of the page.
+- Email signatures should feature the horizontal version of the city and county of Denver logo to the left of the email sender’s typeset information, but only on a preliminary outgoing email. Please use a text-only version of the signature when responding to email changes so as not to unnecessarily increase the size of messages. Agency or department specific logos, per page 8, are permitted in email signatures. it is the responsibility of the communications director in each department to create and distribute that template in order to ensure that the graphic standards are maintained.
+- Personal quotes, background colors and patterns, etc., should not be used in the email signature. However, department mission statements are acceptable when necessary. it is also permissible to add certain standardized language, such as legal disclosure policies or requests to minimize paper usage.
+- Please note that Arial is used in place of franklin Gothic in this application because it is a web-safe font.
+- When it comes to font personality, a little goes a long way. Try to stay within the franklin Gothic font family when possible.
+
+##### Logo Usage
+
+- Each of these elements has been custom-created and should never be recreated or re-typeset. To maintain consistency and create a strong visual identity, the Denver logo should only be used from existing digital files.
+- Please Do NoT use the Denver D icon without the DENVER logotype and tagline unless expressly permitted by this guide or the Denver Marketing office.
+- The horizontal version of the Denver logo (D icon to the left of the logotype) is the preferred logo format.
+- The logo utilizes the typeface Avenir Black for both DENVER and the tagline.
+- The distance to the right of the D icon and to left of the type should remain consistent. This distance is determined by the distance between the bottom of the tagline to the bottom of the DENVER logotype, represented by the letter X. The distance from the right edge of the D icon to the left edge of the logotype should be equal to X. The block of text in its entirety is centered vertically with the D icon.
+- When the horizontal version of the Denver logo will not work with your space or design requirements, the secondary, stacked logo version can be used. Again, the distance between the bottom of the D icon and top of the DENVER logotype should be equal to X. The block of text in its entirety is centered horizontally with the D icon.
+- The Denver logo should always have an area of open space or "clear zone" around it. No other graphic elements should fall within this area around the logo.
+- Where "X" is equal to the distance between the bottom of the tagline to the bottom of the DENVER logotype, leave at least X amount of clearance on all sides of the logo.
+- The Denver logo should always be used at an appropriate size to make sure it is legible.
+- When the primary signature is used, it should be no smaller than 7/8" wide at the widest point. The secondary signature should be used no smaller than 5/8" at its widest point.
+- The primary typeface used to accompany the Denver logo is Franklin Gothic. There are two typefaces in this family that may be used for Denver branded materials: Franklin Gothic Heavy and Franklin Gothic Book. Standard fonts such as Arial are permitted within documents created in programs where custom fonts are not available.
+- The Denver logo color palette is comprised of five colors that represent this vibrant city.
+- Spot-color printing is the preferred option and should be used whenever possible. However, four-color process printing may be used when spot-color printing is not available or cost effective. When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web. The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below.
+- The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- A reverse version of the Denver logo has been developed for use when the logo appears on black or other dark colors. The Dis not actually reversed, but uses a white border to separate it from the background. The logotype and tagline are white instead of black to increase legibility.
+- Use the regular signature on backgrounds with a color that has a tonal equivalency of less than 15% black and the reverse signature on backgrounds with a color that has a tonal equivalency of 15% black or more.
+- An alternate version of the Denver logo has been developed to be used when only one color is available.
+- One-color logos should only be used as an alternative to the preferred full-color version. It should not be used in four-color process printing or in RGB formats, where you can use a full-color version instead.
+- When only one color is available and the logo appears on black or another dark color, a one­color reverse usage should be used. In this version, the primary D icon is used with a white border with the colored elements reversed to the background color.
+- DO NOT reposition the elements of the logo.
+- DO NOT use the one­color reversed logo where the primary icon appears in solid white (see page 5 for the correct usage).
+- DO NOT change the colors of the logo.
+- DO NOT distort or stretch the logo. Make sure it is always scaled proportionally.
+- DO NOT use the primary D icon as a decorative capital letter.
+- DO NOT place the logo on a background without sufficient contrast (see reverse applications on page 5).
+- DO NOT place the logo on a photographic background without sufficient contrast (see reverse applications on page 5).
+- DO NOT use the logo without all of the necessary elements.
+- DO NOT use the logo or primary icon in a way that violates the minimum clear space, especially in a co­branding situation.
+- DO NOT use the D icon locked up with any other typeface.
+
+##### Visual Style
+
+- Each of these elements has been custom- created and should never be recreated or re-typeset. To maintain consistency and create a strong visual identity, the Denver logo should only be used from existing digital files.
+- Please Do NoT use the Denver D icon without the DENVER logotype and tagline unless expressly permitted by this guide or the Denver Marketing office.
+- The horizontal version of the Denver logo (D icon to the left of the logotype) is the preferred logo format.
+- The logo utilizes the typeface Avenir Black for both DENVER and the tagline.
+- The distance to the right of the D icon and to left of the type should remain consistent. This distance is determined by the distance between the bottom of the tagline to the bottom of the DENVER logotype, represented by the letter X. The distance from the right edge of the D icon to the left edge of the logotype should be equal to X. The block of text in its entirety is centered vertically with the D icon.
+- When the horizontal version of the Denver logo will not work with your space or design requirements, the secondary, stacked logo version can be used. Again, the distance between the bottom of the D icon and top of the DENVER logotype should be equal to X. The block of text in its entirety is centered horizontally with the D icon.
+- The Denver logo should always have an area of open space or "clear zone" around it. No other graphic elements should fall within this area around the logo.
+- Where "X" is equal to the distance between the bottom of the tagline to the bottom of the DENVER logotype, leave at least X amount of clearance on all sides of the logo.
+- The Denver logo should always be used at an appropriate size to make sure it is legible.
+- When the primary signature is used, it should be no smaller than 7/8" wide at the widest point. The secondary signature should be used no smaller than 5/8" at its widest point.
+- The primary typeface used to accompany the Denver logo is Franklin Gothic.
+- There are two typefaces in this family that may be used for Denver branded materials: Franklin Gothic Heavy and Franklin Gothic Book.
+- Standard fonts such as Arial are permitted within documents created in programs where custom fonts are not available.
+- The Denver logo color palette is comprised of five colors that represent this vibrant city.
+- spot-color printing is the preferred option and should be used whenever possible. However, four-color process printing may be used when spot-color printing is not available or cost effective. When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web. The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below.
+- The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- Brick Red PMS 1805 C 0 M 100 Y 100 K 20 R 160 G 0 B 34 #c4161c
+- Sky Blue PMS 2925 C 75 M 15 Y 0 K 0 R 0 G 150 B 214 #0096D6
+- Sunshine Gold PMS 130 C 0 M 25 Y 80 K 0 R 253 G 185 B 19 #FDB913
+- Mountain Purple PMS 268 C 80 M 100 Y 0 K 25 R 64 G 15 B 96 #491D74
+- 80% Black PANTONE PROCESS C 0 M 0 Y 0 K 80 R 88 G 89 B 91 #58595B
+
+##### Iconography
+
+- Glyph icons are used for mobile application toolbars, splash screens, navigation, and menus. Mobile application glyph icons must be designed as monochromatic symbols with an emphasis on minimalism and simplicity. Mobile app icons must provide easy recognition in formats as small as 32 x 32 pixels and must adhere to all size standards provided by the specific mobile application framework (ios, Android, Windows Phone, etc.). They should be developed in vector format to be scalable up or down, depending on the required specifications.
+- The app icon should feature a simple, representative image reversed out on a city color. The icon should feature a solid color border and an embossed effect to give it dimension. Examples are at left; please note that customized icons should be approved by the Denver Marketing office before they are used.
+- Departments, agencies, divisions and programs within the city and county of Denver may have the opportunity to create mobile apps. When doing so, any primary, secondary or accent color can be utilized. Please do not exceed one color.
+
+##### Layout And Composition
+
+- Each of these elements has been custom- created and should never be recreated or re-typeset. To maintain consistency and create a strong visual identity, the Denver logo should only be used from existing digital files.
+- Please Do NoT use the Denver D icon without the DENVER logotype and tagline unless expressly permitted by this guide or the Denver Marketing office.
+- The horizontal version of the Denver logo (D icon to the left of the logotype) is the preferred logo format.
+- The distance to the right of the D icon and to left of the type should remain consistent. This distance is determined by the distance between the bottom of the tagline to the bottom of the DENVER logotype, represented by the letter X. The distance from the right edge of the D icon to the left edge of the logotype should be equal to X. The block of text in its entirety is centered vertically with the D icon.
+- When the horizontal version of the Denver logo will not work with your space or design requirements, the secondary, stacked logo version can be used. Again, the distance between the bottom of the D icon and top of the DENVER logotype should be equal to X. The block of text in its entirety is centered horizontally with the D icon.
+- The Denver logo should always have an area of open space or "clear zone" around it. No other graphic elements should fall within this area around the logo.
+- Where "X" is equal to the distance between the bottom of the tagline to the bottom of the DENVER logotype, leave at least X amount of clearance on all sides of the logo.
+- The Denver logo should always be used at an appropriate size to make sure it is legible.
+- When the primary signature is used, it should be no smaller than 7/8" wide at the widest point. The secondary signature should be used no smaller than 5/8" at its widest point.
+- DO NOT reposition the elements of the logo.
+- DO NOT use the one­color reversed logo where the primary icon appears in solid white (see page 5 for the correct usage).
+- DO NOT change the colors of the logo.
+- DO NOT distort or stretch the logo. Make sure it is always scaled proportionally.
+- DO NOT use the primary D icon as a decorative capital letter.
+- DO NOT place the logo on a background without sufficient contrast (see reverse applications on page 5).
+- DO NOT place the logo on a photographic background without sufficient contrast (see reverse applications on page 5).
+- DO NOT use the logo without all of the necessary elements.
+- DO NOT use the logo or primary icon in a way that violates the minimum clear space, especially in a co­branding situation.
+- DO NOT use the D icon locked up with any other typeface.
+
+##### Co Branding
+
+- consider what other logos will appear with the new one and try to complement, instead of compete with them.
+- DO NOT use the logo or primary icon in a way that violates the minimum clear space, especially in a co­branding situation.
+- Co-Branding — if two logos appear together to imply a cooperative effort, it is called co-branding. logos used in co-branding should always respect the necessary clear space surrounding each logo.
+- Allied organizations with their own brand personality are not required to include the city and county of Denver logo on their collateral. However, if they decide to do so and have met the requirements outline on page 1, the city and county of Denver logo usage must comply with this guide and it must visually be at least 75% of the allied organization’s logo. Additionally, please do not lockup the allied organization and city and county of Denver’s logo, or use parts of the Denver logo within the allied organization’s logo. Maintain clear space defined on page 3.
+- The city and county of Denver often partners with outside entities to promote a program or service. When partnering with outside organizations it is acceptable, if granted permission by both entities, to place their logos side by side with the Denver D.
+
+##### Accessibility Guidelines
+
+- Web content Accessibility Guidelines (WcAG 1.0) require that there be a sufficient level of tonal contrast between colors so that low-vision users can read content on colored backgrounds. Guidelines for ensuring color combinations include: • Select color combinations that can be differentiated by users with color deficiencies; • Use tools to see what color combinations will look like when in black and white as seen by color-deficient users; • Ensure that the lightness contrast between foreground and background colors is high; • Increase the lightness contrast between colors on either end of the spectrum (e.g., blues and reds); and • Avoid combining light colors from either end of the spectrum with dark colors from the middle of the spectrum.
+
+##### Digital Guidelines
+
+- Both high and low-resolution pixel-based images that will lose quality if scaled larger than the provided size. Available in RGB format and black and white. Primarily used for in-house printing and for viewing on screen. This is also the preferred format for programs that are not design-based, such as Microsoft Word, Microsoft Excel, and Microsoft PowerPoint.
+- Colors are used in RGB (red, green and blue) format when they appear on computer or television screens.
+- Hexadecimal numbers or “hex” numbers are a base-16 numbering system used to define colors on web pages. A hex number is written from 0-9 and then A-f.
+- When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web.
+- The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below.
+- The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- Email signatures should feature the horizontal version of the city and county of Denver logo to the left of the email sender’s typeset information, but only on a preliminary outgoing email. Please use a text-only version of the signature when responding to email changes so as not to unnecessarily increase the size of messages. Agency or department specific logos, per page 8, are permitted in email signatures. it is the responsibility of the communications director in each department to create and distribute that template in order to ensure that the graphic standards are maintained.
+- Personal quotes, background colors and patterns, etc., should not be used in the email signature. However, department mission statements are acceptable when necessary. it is also permissible to add certain standardized language, such as legal disclosure policies or requests to minimize paper usage.
+- Please note that Arial is used in place of franklin Gothic in this application because it is a web-safe font.
+- Please refer to the Denver Brand center to properly set up your email signature.
+- Departments, agencies, divisions and programs within the city and county of Denver may have the opportunity to create mobile apps. When doing so, any primary, secondary or accent color can be utilized. Please do not exceed one color.
+- Glyph icons are used for mobile application toolbars, splash screens, navigation, and menus. Mobile application glyph icons must be designed as monochromatic symbols with an emphasis on minimalism and simplicity. Mobile app icons must provide easy recognition in formats as small as 32 x 32 pixels and must adhere to all size standards provided by the specific mobile application framework (ios, Android, Windows Phone, etc.). They should be developed in vector format to be scalable up or down, depending on the required specifications.
+- The app icon should feature a simple, representative image reversed out on a city color. The icon should feature a solid color border and an embossed effect to give it dimension. Examples are at left; please note that customized icons should be approved by the Denver Marketing office before they are used.
+
+##### Print Guidelines
+
+- Vector-based image that will not lose quality if scaled larger than the provided size. Available in four color process, spot color and black and white. Primarily used for professional printing.
+- spot color printing uses pre-mixed ink colors determined by the Pantone Matching system (PMs). They accurately represent color chips provided to the print and design industry.
+- Process printing uses four inks (cyan, magenta, yellow and black — also referred to as cMyK) printed together to create a wide spectrum of colors.
+- spot-color printing is the preferred option and should be used whenever possible. However, four-color process printing may be used when spot-color printing is not available or cost effective. When the logo is used on the on screen, the RGB format should be used and hex values should be used for the web. The Denver logo spot colors and their corresponding four-color process, RGB and hex formulas are listed below.
+- The color samples in this guide are just a visual representation of the colors and should not be used as an accurate color match. Actual Pantone chips should be used to match colors when printing.
+- Pantone® is a registered trademark of PANToNE inc.’s color matching system.
+- Note: Palette colors pertain to both coated and uncoated stocks
+- When selecting colors for a new program identity, please choose from the primary and expanded palette.
+- While it is not required to use a primary palette color, it is recommended to maintain brand recognition throughout subbbrands.
+- you may use up to all four colors in the secondary palette, but please do not exceed five colors overall in identity development.
+- if you are using one or more accent color (up to three), please use at least one color from the primary or secondary palette.
+- Do not use a color from the accent palette as the dominant color in the application.
 
 ## Additional Properties
 

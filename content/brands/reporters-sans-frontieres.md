@@ -2,7 +2,7 @@
 title: Reporters Sans Frontières
 slug: "reporters-sans-frontieres"
 description: ""
-date: "2026-03-20T08:22:03.869547"
+date: "2026-04-10T09:40:31.540852"
 draft: false
 sectors:
   - ngo
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 
 - [https://rsf.org](https://rsf.org)
 - [http://www.rsf.org](http://www.rsf.org)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*

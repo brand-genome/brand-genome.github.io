@@ -2,7 +2,7 @@
 title: NJIT
 slug: njit
 description: ""
-date: "2026-03-20T08:22:05.710296"
+date: "2026-04-10T09:40:34.654550"
 draft: false
 sectors:
   - university
@@ -51,11 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - signature
-brand_colors:
-  - red
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public research university in Newark, New Jersey, USA"
@@ -77,23 +74,53 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- The NJIT signature is composed of the NJIT logo and formal name. In all color versions, the logo and name appear in NJIT Red. These elements are fixed in relation and must not be altered, modified, or repositioned. Only use provided digital artwork for reproduction.
-- NJIT logo may appear by itself or accompanied by the formal name.
-- Examples and guidelines for logo color variations, signature misuse, multimedia/video use, and social media use are mentioned in the Table of Contents.
+##### Mission
 
-**Typography Information:**
+- To present NJIT’s identity clearly, consistently, and with distinction, supporting the vision of NJIT as one of the nation’s top polytechnic universities and contributing to a unified, coherent public image [^1].
 
-- Consistency in typography usage is emphasized to maintain a unified public image and communicate NJIT's identity effectively.
+##### Core Values
 
-**Brand Voice:**
+- Consistency
+- Clarity
+- Distinction
+- Strategic communication
+- Unified public image
 
-- NJIT's branding guidelines aim to express consistency and coherence in the public image, helping to achieve strategic goals and national prominence.
+##### Target Audience
 
-**Notes:**
+- Prospective students, current students, faculty, staff, alumni, and the broader public seeking a world-class technological research university [^2].
 
-- These branding guidelines cover multiple detailed aspects, including logo misuse, alternate logos, typography, color palette, stationery examples, print and digital systems, signage, advertising, web, and athletic marks.
+##### Personality Traits
+
+- Professional
+- Innovative
+- Technological
+- Academic
+- Strategic
+
+##### Visual Identity Overview
+
+- NJIT’s visual identity is defined by a consistent use of the NJIT logo and formal name, a dominant NJIT Red color palette, approved typography (ITC Stone Sans Std and Minion), clear space and minimum size requirements for logo usage, and strict guidelines for logo reproduction and placement across print, digital, and event materials [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The NJIT signature is composed of the NJIT logo and the formal name. In all color versions of the signature, the logo and formal name appear in NJIT Red.
+- These elements appear in a fixed relationship to one another and must never be altered, modified or repositioned in any way. For reproduction purposes, always use the digital artwork supplied.
+- A clear space is defined to ensure the NJIT signature will have maximum visibility and impact on every communication. Without the minimum clear space, the signature’s impact will be compromised.
+- Do not allow any distracting graphic elements, such as copy, photography or background patterns to clutter the clear space.
+- As shown here, the height of the “N” letterform has been chosen as the standard unit of measurement for calculating the signature clear space.
+- The NJIT logo accompanied by the formal name, “New Jersey Institute of Technology,” may be reproduced no smaller than 1.25" in width.
+- The NJIT logo only may be reproduced no smaller than .5" in width.
+- The “alternate signature” treats the formal name on one line instead of stacked on two lines as shown in the “primary signature.” This alternate signature is used most frequently in advertising applications. The primary version of the signature is preferred whenever possible, but the alternate version is perfectly appropriate and suited for select applications.
+- The alternate signature (the NJIT logo accompanied by the one-line formal name) may be reproduced no smaller than 1.875" in width.
+- The preferred versions of the NJIT signature are shown here. The positive spot-color signature should be used for all stationery systems and other printed materials whenever possible.
+- The NJIT signature may be reproduced in 4-color process when spot color is not available, such as for advertising in newspapers or magazines.
+- When the signature is placed against a black or dark color background, a solid white reverse version should be used.
+- A web-safe RGB signature is also available. It is to be used for on-screen applications, such as webpages, video and broadcast.
 
 ## Additional Properties
 

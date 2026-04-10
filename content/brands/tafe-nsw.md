@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-03-20T08:22:04.226582"
+date: "2026-04-10T09:40:32.665883"
 draft: false
 sectors:
   - education
@@ -49,18 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - lockup
-  - primary
-  - horizontal
-brand_colors:
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: Australian vocational education and training provider
 wikidata_url: "https://www.wikidata.org/wiki/Q7669247"
 has_twitter: false
@@ -81,36 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- High resolution JPEG format, EPS (Encapsulated PostScript) and PNG (Portable Network Graphic) files of the new logo are available. For small scale reproduction, PNG files offer clarity. Use EPS for larger scale reproduction.
-- Logo lockup options (Full-color, reversed, black) are specified for sub-brands like TAFE Digital, TAFE Enterprise. Strict rules apply, stacked versions only; horizontal versions are prohibited.
-
-**Color Information:**
-
-- The color palette includes energetic tones tailored for Aboriginal and Torres Strait Islander applications.
-- Accessibility guidelines specify high-contrast colors and WCAG standards.
-
-**Typography Information:**
-
-- Primary fonts include Korolev for Adobe-designed material (min 9 pt), Calibri for system fonts (min 11 pt).
-
-**Imagery Photography:**
-
-- Photography showcases diverse lifestyles, authentic student portraits, and cultural representation. Recommendations for lighting, background selection, and environmental contexts are outlined.
-
-**Spacing Layout:**
-
-- Guidance on grid and layout alignment rules is maintained for consistent templates; location-based formatting explained.
-
-**Brand Voice:**
-
-- Tone emphasizes inclusivity, authenticity, cultural narrative, and professional messaging.
-
-**Notes:**
-
-- Compliance guidelines ensure mandatory RTO codes and regulatory information in materials, specifying required formats.
-- Tips for ensuring accessibility of visual and text elements following WCAG 2.0 AA standards. Fonts, colors, line spacing, alternative text for images, and assistive technology considerations specified.
+*Guidelines data not available*
 
 ## Additional Properties
 

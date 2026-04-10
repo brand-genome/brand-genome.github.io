@@ -2,7 +2,7 @@
 title: Sands
 slug: sands
 description: ""
-date: "2026-03-20T08:22:03.393168"
+date: "2026-04-10T09:40:30.953972"
 draft: false
 sectors:
   - hospitality
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - tourism
   - featured
   - corporate
+  - tourism
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: 1999 music video directed by Juuso Syrjä; official music video by Darude
 wikidata_url: "https://www.wikidata.org/wiki/Q108107018"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,12 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.sands.com](https://www.sands.com)
 - [https://www.marinabaysands.com](https://www.marinabaysands.com)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

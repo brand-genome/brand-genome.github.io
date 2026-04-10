@@ -2,11 +2,11 @@
 title: RGB do Brasil
 slug: "rgb-do-brasil"
 description: ""
-date: "2026-03-20T08:22:04.523059"
+date: "2026-04-10T09:40:33.312521"
 draft: false
 sectors:
-  - automobile
   - hardware
+  - automobile
 regions:
   - brazil
 years:
@@ -67,3 +67,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2010
+
+*Guidelines data not available*

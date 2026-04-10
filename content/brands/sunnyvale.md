@@ -2,7 +2,7 @@
 title: Sunnyvale
 slug: sunnyvale
 description: ""
-date: "2026-03-20T08:22:04.854779"
+date: "2026-04-10T09:40:33.603666"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -48,21 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - wordmark
-brand_colors:
-  - green
-  - "pantone-285"
-  - white
-  - blue
-  - "pantone-386"
-typographies:
-  - arial
-  - gotham
-imagery_styles:
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city in Santa Clara County, California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q208459"
 has_twitter: false
@@ -82,42 +71,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Multiple logo versions are defined: logo symbol, logo wordmark, logo lockups, and applications.
-- Minimum size requirements and clear space rules are described, including 'minimum size: 1 inch wide' and clear space defined as 'height of the letter S in Sunnyvale'.
-- Positive reproduction (default, full-color) and reverse reproduction (white logo on dark backgrounds) are defined.
-- Incorrect logo usage examples are shown, including distortion, color alterations, and misplacement of logo elements.
-
-**Color Information:**
-
-- Color palette includes primary colors: Sunnyvale Blue (Pantone 285 C, HEX #0079C1, CMYK C:91, M:53, Y:0, K:0, RGB R:0, G:121, B:193) and Sunnyvale Green (Pantone 386 C, HEX #D9E778, CMYK C:17, M:0, Y:85, K:0, RGB R:217, G:231, B:120).
-- Accent colors are defined for flexibility and used sparingly.
-- Usage rules for color are outlined, advising against overuse of accent colors and ensuring contrast in applications.
-
-**Typography Information:**
-
-- Typefaces include Gotham (Primary Typeface) and Arial (for Microsoft Office and email applications, or as a universal substitute).
-- Typography guidelines emphasize the consistent use of fonts and designate roles like Gotham for headlines and subheads. Font weights and sizing are specified but focus on clarity and simplicity.
-
-**Imagery Photography:**
-
-- Imagery guidelines emphasize diversity, candid capture, and authenticity. Photos should convey vibrancy, inclusion, and active living.
-- Image treatment rules discourage use of overlays, heavy filters, or irrelevant content.
-
-**Spacing Layout:**
-
-- Clear margin and padding rules are defined, including focus on equal spacing around design components and ensuring alignment.
-
-**Brand Voice:**
-
-- Overall tone of voice is described as positive, inclusive, and energetic to align with Sunnyvale's brand values.
-- Messaging suggestions include being concise and emphasizing community focus and innovation.
-
-**Notes:**
-
-- The guidelines include a Creative Checklist to ensure designs align with core principles, covering layout, imagery, and messaging.
-- Grid and alignment suggestions are implied through layout designs and spacing examples.
+*Guidelines data not available*
 
 ## Additional Properties
 

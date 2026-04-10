@@ -2,7 +2,7 @@
 title: Tottenham Hotspur
 slug: "tottenham-hotspur"
 description: ""
-date: "2026-03-20T08:22:04.511939"
+date: "2026-04-10T09:40:33.286490"
 draft: false
 sectors:
   - sports
@@ -51,21 +51,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-  - badge
-brand_colors:
-  - silver
-  - "pantone-2768"
-  - white
-  - blue
-  - "pantone-298"
-  - black
-  - "pantone-877"
-typographies:
-  - arial
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "association football club in London, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q18741"
@@ -85,40 +73,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- The Tottenham Hotspur badge consists of the cockerel, the ball, and bespoke typography unique to the club. It must always be reproduced in correct colorways, proportionally scaled, with original artwork provided. Approval is required for all usage.
-- The badge must never replace the typographic elements unless explicitly approved.
-- The badge must use Spurs Blue (Pantone 2768, CMYK: C100/M83/Y0/K56, RGB: R0/G0/B51, HEX: #000033) and Spurs White (CMYK: C0/M0/Y0/K0, RGB: R0/G0/B0, HEX: #FFFFFF). No outlines or color changes are allowed.
-- Minimum clear space for the badge must always be 3x the x-height surrounding all sides.
-- Minimum size for the badge is 25mm. It should never be reproduced at sizes smaller than 24mm.
-- Horizontal versions of the badge may be used only where the original identity does not fit (e.g., on signage). Must use the specified horizontal badge designs.
-- Incorrect badge usage includes: distortion, rotation, flipping, reproduction on unauthorized or low-contrast backgrounds, cropping, infringing on minimum clear space, use of improper colors, or reproduction smaller than 25mm.
-
-**Color Information:**
-
-- Primary color: Spurs Blue (Pantone 2768, CMYK: C100/M83/Y0/K56, RGB: R0/G0/B51, HEX: #0F204B, RAL: 5011).
-- Secondary color: Highlight Blue (Pantone 298, CMYK: C70/M0/Y0/K0, RGB: R61/G183/B228, HEX: #3DB7E4, RAL: 5012).
-- Accent color: Silver (Pantone 877, CMYK: C0/M0/Y0/K40, RGB: R172/G173/B176, HEX: #ACADB0, RAL: 9022).
-- Online color usage includes proportional palettes for Tottenham Hotspur’s colors (Spurs Blue, Highlight Blue, Silver, and White). Online application highlights gradients between Spurs Blue (95%-75%) and gradients for white-on-white (5%-15% black).
-
-**Typography Information:**
-
-- Typography: The Club uses Arial for all communications, including letters, documents, presentations, websites, and apps as the main typeface for body copy and headlines.
-
-**Spacing Layout:**
-
-- Minimum clear space around the badge is 3x the x-height, proportionally spaced.
-
-**Brand Voice:**
-
-- Tone emphasizes pride in the full name (Tottenham Hotspur or Tottenham Hotspur Football Club). Spurs may be used when addressing fans, but not abbreviations like THFC.
-- Care and integrity should be maintained regarding badge design and its proper reproduction. Any unauthorized use of the badge is prohibited, including reproductions without approval.
-
-**Notes:**
-
-- Approval is required for all artwork and usage of the club's badge. Contact Che Kapfumvuti, Marketing Executive, at che.kapfumvuti@tottenhamhotspur.com or call 0208 365 5081 for assistance.
-- The brand guideline includes badge designs, colors, and typography. Spurs Blue and Spurs White are emphasized for usage.
+*Guidelines data not available*
 
 ## Additional Properties
 

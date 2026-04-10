@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-03-20T08:22:05.700330"
+date: "2026-04-10T09:40:34.636344"
 draft: false
 sectors:
   - "public-sector"
@@ -49,25 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - horizontal
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - "pantone-7408"
-  - "pantone-166"
-  - "pantone-200"
-  - "pantone-285"
-  - "pantone-138"
-  - "pantone-284"
-  - "pantone-390"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - graphic
-  - landscape
+imagery_styles: []
 wikidata_description: "city in British Columbia, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q232226"
 has_twitter: false
@@ -86,107 +71,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- 10
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// OUR LOGO
-Logo
-The City of Kelowna logo captures the spirit, energy and diversity of our dynamic 
-is also an interpretive depiction of our character, our people and our landscape, 
-Versions
-Stacked
-Horizontal
-Wordmark
-Logo Icon
-Logo Type
-- 11
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// OUR LOGO - SUB-BRANDS
-Sub-brands
-dedicated to specific events, projects or circumstances. Communication regarding the use of the logo is managed by Communications.
-- 13
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// LOGO COLOURS
-Logo colours
-Single colour: Exception is accepted when using the logo in a single pre-determined colour at 100%.
-Single colour reverse: Used on a contrasting background.
-Full colour reverse: Applicable when using the full-color logo against a background.
-Pantone 390, Pantone 284, Pantone 285, Pantone 200, Pantone 166, Pantone 138, Pantone 7408.
-- 14
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// PROTECTED SPACE
-Protected space is measured based on the height of the capital case letter 'K'. A minimum of one unit of space is required around logos.
-- 15
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// COMBINED LOGO PROTECTED SPACE
-When partnered with other logos, a minimum space equivalent to 'K' height is required.
-- 16
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// MINIMUM SIZE
-Color logos:
-Minimum width: 1 inch (stacked), 2 inches (horizontal), 0.5 inches (icon-only).
-Monochromatic logos:
-Minimum size: 0.75 inches width for reverse version, 0.5 inches for standard version.
-- 20
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// UNACCEPTABLE USE
-Logos must not have changes in assigned colours, overlapping with images without proper contrast, and resizing without uniform proportions. Use of high-resolution vector graphics is recommended.
-- 24
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// SUPPORTING GRAPHIC ELEMENTS
-The dynamic logo icon should not appear alone and must accompany the full logo or wordmark.
-- 30
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// TRI-LEVEL GOVERNMENT AGREEMENTS
-Primary funding requires the City logo to have prominence. For equal funding, the logo should appear equally sized with other partners...
-
-**Color Information:**
-
-- 12
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// COLOUR PALETTE
-Base colors:
-- Pantone Sky: CMYK 58 17 0 0 RGB 106 173 228, HEX #6AADE4
-Accent colors:
-- Pantone Night: CMYK 0 0 0 100 RGB 30 30 30, HEX #1E1E1E
-More decorative Pantone shades, such as Sun (#F2AF00) and Lake (#0073CF), are also defined.
-
-**Typography Information:**
-
-- 27
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// TYPOGRAPHY
-Corporate font: PrivaPro and its Italic versions. Used for signage.
-Corbel (optional for communications).
-Typographic styles for letters, numerals, etc., have been detailed.
-
-**Imagery Photography:**
-
-- 24
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// SUPPORTING GRAPHIC ELEMENTS
-The landscape-themed icon works well as decoration behind text or graphic usage, provided contrast guidelines are applied.
-
-**Spacing Layout:**
-
-- 14
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// PROTECTED SPACE
-The 'K' unit establishes the minimum clear space boundaries for logo design conflicts.
-
-**Brand Voice:**
-
-- 4
-City of Kelowna /// Brand & visual identity guidelines /// General
-/// OUR STORY - OPEN
-The tone emphasizes openness by providing consistent engagement (e.g. 95% quality living metrics).
-
-**Notes:**
-
-- 33
-More information
-For third-party permissions, or Communications support, contact the City directly.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: RedCLARA
 slug: redclara
 description: ""
-date: "2026-03-20T08:22:05.589271"
+date: "2026-04-10T09:40:34.534474"
 draft: false
 sectors:
-  - networking
   - ngo
+  - networking
 regions:
   - chile
 years:
@@ -58,21 +58,15 @@ imagery_styles: []
 wikidata_description: nonprofit academic network organization for Latin America; association of NRENs
 wikidata_url: "https://www.wikidata.org/wiki/Q2135885"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [http://www.redclara.net](http://www.redclara.net)
-
-## Brand Guidelines
-
-### 2011
-
-*Guidelines data not available*
 
 ## Additional Properties
 

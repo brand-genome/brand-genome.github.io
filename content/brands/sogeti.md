@@ -2,11 +2,11 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-03-20T08:22:05.735141"
+date: "2026-04-10T09:40:34.697279"
 draft: false
 sectors:
-  - consulting
   - software
+  - consulting
 regions:
   - france
 years:
@@ -51,12 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-brand_colors:
-  - red
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: reestablishment of the brand by Capgemini in 2002
@@ -79,44 +75,7 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
-
-- The logo consists of 'SOGETI' written in Berkeley font in white reverse, on a red background (Pantone Warm Red C).
-- The logo is presented in different applications: red (preferred), black, and white reserve (reversed on dark backgrounds).
-- The logo is presented in different applications: red (preferred), black, and white reserve (reversed on dark backgrounds).
-
-**Color Information:**
-
-- Color specified: Pantone Warm Red C.
-
-**Typography Information:**
-
-- The 'SOGETI' wordmark uses Berkeley font.
-
-**Notes:**
-
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
-- The guidelines are marked as internal and confidential.
+*Guidelines data not available*
 
 ## Additional Properties
 

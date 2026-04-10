@@ -2,7 +2,7 @@
 title: Verifone
 slug: verifone
 description: ""
-date: "2026-03-20T08:22:03.371938"
+date: "2026-04-10T09:40:30.892744"
 draft: false
 sectors:
   - finance
@@ -57,14 +57,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: business enterprise
@@ -72,7 +66,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q2912154"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -83,36 +77,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
-
-*Guidelines data not available*
-
 ### 2018
 
-**Logo Information:**
-
-- The Verifone logo is a registered trademark, represented with the proper registration symbol (®).
-- Preferred logos include the primary positive 2-color logo and primary reverse 2-color logo.
-- Secondary black and white logos are to be used where 2-color reproduction is not desired or possible.
-- Reverse white logo is used on colored backgrounds instead of the reverse 2-color logo.
-- Do not alter the color, rotate, distort, apply 3D effects, or drop shadows to the logo.
-- Clear space should not have text or elements placed within the defined area.
-- Do not use the logo in place of text, crop portions of it, place it on distracting backgrounds, or non-contrasting colors.
-- The V icon is designed for digital applications like social media, app icons, and buttons where the primary logo cannot be effectively used due to size constraints.
-- Minimum size for the V icon is 24px width, and clear space around the V icon is always required.
-
-**Color Information:**
-
-- Do not alter the colors of the Verifone logo. Use the reverse white logo for non-black background colors.
-
-**Spacing Layout:**
-
-- Always provide sufficient clear space around the V icon and the primary logo.
-
-**Notes:**
-
-- The 'Powered by Verifone' logo and 'Verifone Approved Partner' logos are available at http://bit.ly/poweredbyverifone.
-- For internal partners, Verifone should be set in type rather than using the Verifone logo for co-branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

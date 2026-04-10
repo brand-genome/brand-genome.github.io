@@ -2,12 +2,12 @@
 title: Enoc
 slug: enoc
 description: ""
-date: "2026-03-20T08:22:03.385209"
+date: "2026-04-10T09:40:30.932150"
 draft: false
 sectors:
-  - gas
   - "petrol-station"
   - oil
+  - gas
 regions:
   - dubai
 years:
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: "government-owned energy corporation based in Dubai, United Arab Emirates"
 wikidata_url: "https://www.wikidata.org/wiki/Q3045998"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 
 - [https://www.enoc.com/en](https://www.enoc.com/en)
 - [http://www.enoc.com](http://www.enoc.com)
-
-## Brand Guidelines
-
-### 2013
-
-*Guidelines data not available*
 
 ## Additional Properties
 

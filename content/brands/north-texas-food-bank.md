@@ -2,11 +2,11 @@
 title: North Texas Food Bank
 slug: "north-texas-food-bank"
 description: ""
-date: "2026-03-20T08:22:04.345009"
+date: "2026-04-10T09:40:33.070419"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - usa
 years:
@@ -54,27 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - green
-  - white
-  - grey
-  - orange
-  - black
-typographies:
-  - arial
-  - gotham
-  - serif
-imagery_styles:
-  - bold
-  - subtle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "non-profit organization in the USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q17072086"
 has_twitter: false
@@ -94,40 +77,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The NTFB logo consists of two parts: the wheat stalk symbol and the wordmark. It has a vertical orientation as the primary logo, but horizontal orientation is also available for horizontal formats (e.g., banner ads).
-- Color versions of the logo include: 2-color primary, 1-color Primary Orange, 1-color Primary Green, 1-color Black, and 1-color White/Reversed.
-- File format and color codes for the logo are available online at 'ntfb.org/ntfb-logo-library'. For custom versions, contact 'logo@ntfb.org'.
-- Clear space requirements are determined using the lowercase 'o'. The logo should not be crowded by text or graphics.
-- Minimum sizes: 1/2 inch tall for print applications with vertical logo, 5/16 inch for horizontal logo, 22px height for digital (vertical), and 32px height for digital (horizontal).
-- Incorrect logo usage includes examples: changing colors, using older logos, distorting or rotating the logo, setting it with non-approved Feeding America taglines, using on backgrounds with insufficient contrast, or overcomplex photographic backgrounds.
-- When co-branded with other logos, the size and weight of each logo should be balanced. Use horizontal orientation if size limitations exist.
-- Feeding America logos featuring a 'Member of' lockup must adhere to the 25% size rule (Feeding America logo must be 25% of the paired logo's size). Clear space and contrast rules apply.
-
-**Color Information:**
-
-- Primary Orange: PMS 144 C/U, RGB: R233 G121 B0, CMYK: C0 M50 Y100 K0, HEX: #E98300
-- Primary Green: PMS 371 C/U, RGB: R83 G104 B43, CMYK: C53 M14 Y89 K43, HEX: #53682B
-- NTFB's secondary palette includes colors like PMS Cool Grey 8, PMS 2925C/299U, PMS 653C/301U, PMS 7700C/7692U, and more with HEX, RGB, and CMYK codes provided for each color.
-- Feeding America brand colors include Brand Orange: PMS 138 (RGB: 222, 124, 0; CMYK: 0/54/100/1; HEX: #DE7C00) and Brand Green: PMS 574 (RGB: 78, 91, 49; CMYK: 49/22/85/58; HEX: #4E5B31).
-- The guidelines note that NTFB and Feeding America colors are slightly different, so printing must use full CMYK or black and white only.
-
-**Typography Information:**
-
-- Primary font: Gotham (Book and Bold). Used across most materials for its friendly, approachable look.
-- Substitute font for when Gotham is not available: Arial.
-- Secondary serif font: Palatino Regular and Bold, recommended when a serif font is required for publications.
-
-**Spacing Layout:**
-
-- Clear space around the logo must meet the lowercase 'o' requirement, ensuring no text or graphics intrude within this space. Logos can be placed over subtle background textures or light areas if legible.
-- Clear space and balanced weight are required for co-branded environments with other corporate logos.
-
-**Notes:**
-
-- The NTFB logo's wheat stalk includes an arrow pointing upward, symbolizing growth and optimism.
-- NTFB does not permit resizing or redistributing the logo below the approved minimum sizes for print or digital formats.
+*Guidelines data not available*
 
 ## Additional Properties
 

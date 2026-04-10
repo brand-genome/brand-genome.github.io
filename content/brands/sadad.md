@@ -2,7 +2,7 @@
 title: SADAD
 slug: sadad
 description: ""
-date: "2026-03-20T08:22:05.188038"
+date: "2026-04-10T09:40:34.062439"
 draft: false
 sectors:
   - finance

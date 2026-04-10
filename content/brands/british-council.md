@@ -2,11 +2,11 @@
 title: British Council
 slug: "british-council"
 description: ""
-date: "2026-03-20T08:22:03.884853"
+date: "2026-04-10T09:40:31.574794"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: governmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q101063429"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [https://brand.britishcouncil.org](https://brand.britishcouncil.org)
 - [https://www.teachingenglish.org.uk](https://www.teachingenglish.org.uk)
 - [https://www.britishcouncil.us](https://www.britishcouncil.us)
-
-## Brand Guidelines
-
-### 2015
-
-*Guidelines data not available*
 
 ## Additional Properties
 

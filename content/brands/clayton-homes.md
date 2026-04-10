@@ -2,13 +2,13 @@
 title: Clayton Homes
 slug: "clayton-homes"
 description: ""
-date: "2026-03-20T08:22:04.343345"
+date: "2026-04-10T09:40:33.065952"
 draft: false
 sectors:
-  - "real-estate"
   - finance
-  - construction
   - insurance
+  - "real-estate"
+  - construction
 regions:
   - usa
 years:
@@ -56,8 +56,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: American manufactured housing company
 wikidata_url: "https://www.wikidata.org/wiki/Q5130257"
 has_twitter: false
@@ -80,78 +79,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logotype Section Introduction Found.
-- Logotype Section Introduction Found.
-
-**Color Information:**
-
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-- Color Palette Section Introduction Found.
-
-**Typography Information:**
-
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-- Typography Section Introduction Found.
-
-**Imagery Photography:**
-
-- Photography Section Introduction Found.
-- Photography Section Introduction Found.
-- Photography Section Introduction Found.
-- Photography Section Introduction Found.
-- Photography Section Introduction Found.
-
-**Spacing Layout:**
-
-- Spacing/Layout Section Introduction Found.
-- Spacing/Layout Section Introduction Found.
-- Spacing/Layout Section Introduction Found.
-
-**Brand Voice:**
-
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
-- Brand Personality Section Introduction Found.
+*Guidelines data not available*
 
 ## Additional Properties
 

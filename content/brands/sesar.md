@@ -2,7 +2,7 @@
 title: SESAR
 slug: sesar
 description: ""
-date: "2026-03-20T08:22:04.300530"
+date: "2026-04-10T09:40:32.979174"
 draft: false
 sectors:
   - aerospace
@@ -70,10 +70,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Color Information:**
-
-- CMYK color values are specified as C:75 M:80 Y:0 K:0; C:90 M:01 Y:98 K:0; C:72 M:08 Y:04 K:0.
-
-**Notes:**
-
-- 'Special Case' documents like the SESAR Solutions Catalogue, World ATM Congress, 2015 Master Plan, and NEXTGEN SESAR State of Harmonisation rely on unique designs and layout styles, making them exceptions to the SESAR JU Graphical Guidelines.
+*Guidelines data not available*

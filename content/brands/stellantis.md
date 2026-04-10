@@ -2,7 +2,7 @@
 title: Stellantis
 slug: stellantis
 description: ""
-date: "2026-03-20T08:22:04.329961"
+date: "2026-04-10T09:40:33.033094"
 draft: false
 sectors:
   - automobile
@@ -33,11 +33,11 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "utility-vehicle"
-  - "commercial-vehicle"
-  - car
-  - "automotive-part"
   - truck
+  - "utility-vehicle"
+  - car
+  - "commercial-vehicle"
+  - "automotive-part"
 products: []
 headquarters_locations:
   - amsterdam
@@ -63,11 +63,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - horizontal
-brand_colors:
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "Franco-Italian-American multinational automotive manufacturer"
@@ -87,12 +84,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Notes:**
-
-- The extracted text is incomplete due to encoding or formatting issues in the source file. Some text is garbled and illegible.
-- General branding rules applicable to security passes are provided, which include consistent layouts, role color coding, and how personal information is arranged.
-- Guidance includes outdoor and indoor signage principles such as logo color constraints (white logo or Stellantis blue background), horizontal reading preferences, and specific coloring options for technical visibility indoors.
-- Contact information for inquiries about Stellantis visual identity: visual.identity@stellantis.com.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -102,7 +94,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Car](/products_or_materials_produced/car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
 | Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [2021](/foundation_dates/2021/) |
 | Industry | automotive industry |

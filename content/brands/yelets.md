@@ -2,7 +2,7 @@
 title: Yelets
 slug: yelets
 description: ""
-date: "2026-03-20T08:22:04.338064"
+date: "2026-04-10T09:40:33.051475"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - russia
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "city in Lipetsk Oblast, Russia"
 wikidata_url: "https://www.wikidata.org/wiki/Q102346"
 has_twitter: false
@@ -75,24 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo version details extracted from page 6.
-- Logo version details extracted from page 7.
-- Logo clear space rules extracted from page 11.
-- Incorrect logo usage rules extracted from page 13.
-
-**Color Information:**
-
-- Color palette details and usage rules extracted from page 14.
-
-**Typography Information:**
-
-- Font details and usage roles extracted from page 15.
-
-**Imagery Photography:**
-
-- Imagery/photography guidance related to Elets city is described on page 4.
+*Guidelines data not available*
 
 ## Additional Properties
 

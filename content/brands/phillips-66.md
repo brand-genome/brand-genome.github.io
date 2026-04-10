@@ -2,13 +2,13 @@
 title: Phillips 66
 slug: "phillips-66"
 description: ""
-date: "2026-03-20T08:22:05.559138"
+date: "2026-04-10T09:40:34.474356"
 draft: false
 sectors:
-  - petroleum
-  - gas
   - "petrol-station"
   - oil
+  - petroleum
+  - gas
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - corporate
 industries:
-  - downstream
   - "petroleum-industry"
+  - downstream
 countries:
   - "united-states"
 revenue_buckets:
@@ -40,8 +40,8 @@ foundation_dates:
   - 2012
   - 1927
 foundation_year_buckets:
-  - 1920S
   - 2010S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -82,42 +82,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-- Logo-related policies, components, or examples are described on this page.
-
-**Color Information:**
-
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-- Color guidelines or examples (including specific palettes or codes) referenced on this page.
-
-**Typography Information:**
-
-- Typography rules or font mentions are present on this page.
-
-**Notes:**
-
-- Additional notes or important remarks captured on this page.
+*Guidelines data not available*
 
 ## Additional Properties
 

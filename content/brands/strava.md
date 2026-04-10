@@ -2,11 +2,11 @@
 title: Strava
 slug: strava
 description: ""
-date: "2026-03-20T08:22:04.178358"
+date: "2026-04-10T09:40:32.500676"
 draft: false
 sectors:
-  - sports
   - software
+  - sports
 regions:
   - usa
 years:
@@ -50,29 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - wordmark
-  - primary
-  - badge
-brand_colors:
-  - red
-  - white
-  - purple
-  - cyan
-  - gray
-  - orange
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - natural
-  - flat
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: fitness tracking app for iOS and Android
 wikidata_url: "https://www.wikidata.org/wiki/Q13884156"
 has_twitter: false
@@ -92,57 +73,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo variations: Core logo includes wordmark and symbol. Horizontal and vertical layout options visible.
-- Color versions available for logos: Full Color (Strava Orange), Black, White, Reversed applications.
-- Logo clear space rule: Maintain at least '1x' the height of the 'A' character in the wordmark as surrounding spacing.
-- Minimum size of logo: Not defined smaller than 16px height for digital applications.
-- File formats supported for use: Includes EPS, PNG, SVG for scalability and consistent reproduction.
-- Do not stretch, distort, alter proportions, or colorize the logo outside the brand palette.
-- Misuse examples: Logos being stretched, colorized with unapproved shades, or adjusted to incorrect orientations.
-
-**Color Information:**
-
-- Strava Orange - RGB: R255 G93 B0, Hex: #FC4C02, Pantone 1655C
-- Rust - RGB: R206 G92 B0, Hex: #CE5A00
-- Dark Gray (used for text) - RGB: R78 G80 B81, Hex: #4E5051
-- Brand color palette overview incorporating both primary and secondary colors, specific for media and data visualization purposes
-- Interface Greys: #F0F0F5 for background color in non-white layouts; #F7F7FA for panel fills; #DFDFE8 for linework (dividers, borders, etc.), all used as part of UI components.
-- Core Strava Data Colors: Orange for Primary Data, Red Palette (e.g., Heart Rate), Cyan (e.g., Speed), and Purple Palettes for Power Data Vis.
-
-**Typography Information:**
-
-- Primary typeface for brand: 'Maison Neue' is the chosen font family featuring elegant and minimalistic styles.
-- Typography weight usage: 'Bold' and 'Book' specified for most captions and headers.
-- CJK & Cyrillic font accommodations also applied for clarity in East Asian or Slavic display contexts.
-- Specific Type Scale sizes: Font needs (Caption1: 12 pt), (Header: Sizes range between 28-36 points).
-- Font utility applies across digital (HTML, .SP), ensuring added predictability for sometimes Header-enabled animatable role niches.
-
-**Imagery Photography:**
-
-- Photography style emphasizes authenticity and boldness; real athletes showcased in unstaged, natural environments.
-- Lighting and mood: Bright and energetic tones preferred to reflect the athlete's drive and positive outlook.
-- Composition: Shots should highlight the athlete’s form, activity, and environment without unnecessary embellishments.
-
-**Spacing Layout:**
-
-- Grid system: Utilizes an 8-point grid for structured and proportional designs, with smaller elements aligning to a 4-point grid.
-- Margins & Columns: Mobile designs utilize 16-point outer margins along screen edges, with content avoiding extension into margins.
-- Default divider line specifications: 0.5pt line weight at #DFDFE8 color, used for dividers and separators within layouts.
-- Spacing for interactive elements: Default corner radius for buttons and cards set to 4 points.
-- Panel and container styles include options like Flat Panel, Elevated Panel, Outlined Panel, and Inset Elevated Panel for grouping content effectively.
-
-**Brand Voice:**
-
-- Tone: Strava's brand voice is bold, athlete-focused, authentic, and unstaged. It honors athletes as they are—imperfection embraced.
-- Messaging emphasis: Highlights athlete-driven data and insights as a motivational resource for self-improvement. Avoids self-serving narratives.
-- Taglines and key values: Strava emphasizes camaraderie and passion in sport with loyal connections between athletes.
-
-**Notes:**
-
-- The document outlines badge usage (Employee, Pro, Subscription) with specific color and size details, emphasizing branding continuity in features like curved corners, white borders, and size scaling.
-- Badges include Strava Orange, Rust, and White to denote varying contexts of employee, verified, or athlete categories.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Matosinhos
 slug: matosinhos
 description: ""
-date: "2026-03-20T08:22:04.235868"
+date: "2026-04-10T09:40:32.740896"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - portugal
@@ -49,17 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-brand_colors:
-  - blue
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: municipality in Portugal
 wikidata_url: "https://www.wikidata.org/wiki/Q841299"
 has_twitter: false
@@ -79,44 +72,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo is described as a symbol that can be interpreted as one or two Ms, a single line, or a flow of lines. It is both simple and complex, serving as either an illustrative or signature element. Different colors are possible depending on the application, with Pantone 312c blue as the preferred institutional communication color.
-- Monochromatic logo versions include positive and negative.
-- The logo can adapt different weights depending on its application, with 'Regular' intended for the logo signature and 'Bold'/'Display' for large formats. The 'Regular' version exclusively pairs with the 'Matosinhos' signature.
-- The logo must maintain high contrast when applied over colored or photographic backgrounds, and clear space rules must be respected while avoiding distortion, shadows, patterns, outlines, or breaking typography.
-- Versions bold or display must not be used as a signature nor paired with the signature typography.
-
-**Color Information:**
-
-- The primary institutional color is Pantone 312c blue, but other colors from the palette inspired by the city's visual environment may be used depending on application.
-- Monochromatic logo versions (positive and negative) are part of the allowed color scheme.
-
-**Typography Information:**
-
-- Moskau Grotesk font family is used for all communication closely tied to the Matosinhos identity. Variants include Regular, Bold, and ExtraBold for general communication purposes.
-- Custom typography based on Moskau Grotesk is used exclusively for the 'Matosinhos' designation in the logo and all branding elements.
-- Moskau Grotesk ExtraBold is the specified font for hashtags in supporting materials.
-
-**Imagery Photography:**
-
-- Illustrative use of the graphical symbol (M) forms diverse visibility and functions as a graphic element rather than being exclusively tied to the logo.
-- General graphic interpretations of the image designed for urban contexts such as banners, fences, and other public displays.
-
-**Spacing Layout:**
-
-- Respect margin and safe zone rules for logo application. Maintain a minimum clear spacing area.
-- Constructive proportion rules for the logo were discussed.
-
-**Brand Voice:**
-
-- Clear and direct communication strategy involving hashtags to integrate physical and virtual identities. Examples: #history, #tradition, #culture.
-- Focus on creating relatable and accessible communication for both web and print media.
-
-**Notes:**
-
-- Progressive adoption of new visual identity was proposed, alongside an operational timeline for major events and awareness campaigns.
-- Specific guidelines were provided to avoid incorrect implementations of the logo, including avoiding breaking the signature typography and maintaining its original design.
+*Guidelines data not available*
 
 ## Additional Properties
 

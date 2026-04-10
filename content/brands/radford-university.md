@@ -2,7 +2,7 @@
 title: Radford University
 slug: "radford-university"
 description: ""
-date: "2026-03-20T08:22:05.742569"
+date: "2026-04-10T09:40:34.715533"
 draft: false
 sectors:
   - university
@@ -54,10 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - static
-  - photography
+imagery_styles: []
 wikidata_description: "university in Virginia, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q632465"
 has_twitter: false
@@ -77,25 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Examples of improper brand bar use are mentioned, including guidelines for not bleeding the round corner bar off the edge of the page, not letting it dominate the page, and avoiding custom-styled bars.
-- Elements from Radford University's School of Dance and Theatre former logo are used as graphic elements in marketing material.
-
-**Imagery Photography:**
-
-- Photography reflects the real-world action and experience of Radford University. Imagery should document hard work, inspire opportunities, and reflect successful outcomes without being overly posed.
-
-**Spacing Layout:**
-
-- Printed publications in a series or displayed together should have repeating elements, a uniform look, including consistency in paper color, weight, and finish.
-
-**Notes:**
-
-- Templates for stationery items, such as letterhead, envelopes, and business cards, are standardized and can be obtained from campus Printing Services. Additional templates, including PowerPoint presentations, are available for download through the Digital Asset Management System (DAM).
-- The brand guide is not a static document and will be updated. Updates will be announced via campus emails, and new assets will be made accessible.
-- Radford University encourages making promotional materials unique while adhering to brand guidelines.
-- Contact details for University Relations Brand Management: branding@radford.edu, 540-831-5182.
+*Guidelines data not available*
 
 ## Additional Properties
 

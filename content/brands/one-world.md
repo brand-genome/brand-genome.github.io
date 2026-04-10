@@ -2,7 +2,7 @@
 title: One World
 slug: "one-world"
 description: ""
-date: "2026-03-20T08:22:04.553753"
+date: "2026-04-10T09:40:33.353680"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - aeronautic
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,18 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-298"
-  - "pantone-2735"
-  - blue
-typographies:
-  - helvetica
-imagery_styles:
-  - clean
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: vocal track by Coldplay
 wikidata_url: "https://www.wikidata.org/wiki/Q136002513"
 has_twitter: false
@@ -76,33 +68,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- The pdf contains mentions of logo clear zones (1/2 orb safe zones), size relationships (e.g., '200% of airline logo'), lock-to-line or lock-to-frame instructions for logo positioning, file format references (EPS, PNG, RGB, CMYK), and branding applications across signage, aircraft livery, frequent flyer cards, etc.
-
-**Color Information:**
-
-- Primary color for OneWorld is Horizon Blue (Pantone 2735), CMYK: 95,89,0,0; RGB: 18,12,128; HEX: #120C80. Secondary colors include Pantone 298 (Light Blue), CMYK: 70,0,0,0; HEX: #00C0F3. Guidelines specify tonal variations and warn against improper gradient use for digital applications.
-
-**Typography Information:**
-
-- Helvetica Neue 85 Heavy (for 'one') and Helvetica Neue 45 Light (for 'world') specified for logo text treatments and branding elements. Describes proportion adjustments (e.g., minimum size 40px width for digital use).
-
-**Imagery Photography:**
-
-- Imagery prioritizes clean design with logos featured prominently in customer touchpoints such as signage, airport displays, and frequent flyer cards. Photos should be complementary to branding elements without overtaking the logo's prominence. Emphasis placed on consistent airline/OneWorld branding aesthetic.
-
-**Spacing Layout:**
-
-- Spacing rules include maintaining at least 1/2 orb clear space around logos in signage and printed materials, ensuring proportional consistency among logos and gemstones. Guidelines frequent across formats such as totems, check-in kiosks, and signage panels.
-
-**Brand Voice:**
-
-- The brand tone emphasizes clarity, professionalism, and consistency across all communication channels. Use of the primary color Horizon Blue reinforces brand identity and authority. Messaging rules promote alignment with airline master brand without overshadowing.
-
-**Notes:**
-
-- Guidelines provide detailed airplane branding instructions that emphasize logo proportions, consistent placement next to airline logos, and regulatory compliance precedence. Includes recommendations for signage updates at strategic airports or airline facilities.
+*Guidelines data not available*
 
 ## Additional Properties
 

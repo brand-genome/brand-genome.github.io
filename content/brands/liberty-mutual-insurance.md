@@ -2,7 +2,7 @@
 title: Liberty Mutual Insurance
 slug: "liberty-mutual-insurance"
 description: ""
-date: "2026-03-20T08:22:04.295093"
+date: "2026-04-10T09:40:32.973531"
 draft: false
 sectors:
   - insurance
@@ -52,22 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - teal
-  - white
-  - blue
-  - gray
-  - yellow
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - natural
-  - dramatic
-  - photography
-  - staged
+imagery_styles: []
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q1516450"
 has_twitter: false
@@ -89,37 +77,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo variations
-Our logo helps customers identify us. We never alter, modify, or re-create it because doing so would dilute the value of our brand and potentially harm our registered trademark. Use the logo orientation that best fits the available space. Our logo should always be taken from electronic files provided in .eps, .jpg, .tif, and .gif formats and should always be used in its entirety.
-Logo clear space
-Our logo must be easily seen and recognized. Don’t crowd it with other images or type, or place it over a busy or patterned image that limits its visibility. Our general rule is to leave a border of negative space around the logo that is no less than the height of the letter 'L' in the Liberty Mutual wordmark.
-- Preferred use of our logo: Placement of our logo should reflect pride in Liberty Mutual. Typically, logos are one color on a white or Liberty Yellow background. However, they may also be used on solid color backgrounds, images, or as black/white versions. Partners or suppliers must ensure maximum color contrast. Other guidelines for dark backgrounds and single-color printing are addressed.
-- Wordmark and logo guidelines summarize generational use of logos and clarify trademark usages based on phrases such as 'LiMu Emu & Doug.' TM requirements and positioning were discussed with campaign teams for up-to-date queries addressed separately.
-
-**Color Information:**
-
-- Our color specifications: Liberty Mutual uses CMYK values for print and HEX for digital applications. Primary brand colors like Liberty Yellow and Liberty Blue along with tints and accent colors were shown. CMYK, RGB, and HEX values are provided for specific shades of Liberty Yellow, Liberty Teal, Liberty Gray, and Atmosphere White.
-
-**Typography Information:**
-
-- Using typography effectively: Liberty Mutual stresses the importance of clear, readable text across communications. Particular attention is given to maintaining consistency and purpose with font usage in designs.
-
-**Imagery Photography:**
-
-- Our photography style: Liberty Mutual emphasizes honest, optimistic imagery with natural, neutral palettes. Images should reflect diversity and inclusion, avoid unsafe behaviors, and maintain natural lighting.
-- Helpful tips for selecting imagery: Use optimistic and diverse imagery reflecting the brand palette. Avoid altering images unnaturally or overly saturating colors. Focused compositions and natural light are key criteria.
-- Things to avoid in photography: Avoid imagery that feels contrived, overly posed, staged, or has dramatic lighting effects. Ensure authenticity in compositions and avoid manipulating images excessively.
-
-**Brand Voice:**
-
-- Our tone: Liberty Mutual defines its tone as optimistic, clear, and approachable. Verbatim copy and key messaging are used consistently to reinforce the brand voice.
-
-**Notes:**
-
-- This section provides specific guidance for GRM U.S. Note that Safeco guidelines are separate and can be requested via the provided contact.
-- Table of contents outlining core visual elements, logo, typography, colors, and evidence-based imagery structure spanning across pages.
+*Guidelines data not available*
 
 ## Additional Properties
 

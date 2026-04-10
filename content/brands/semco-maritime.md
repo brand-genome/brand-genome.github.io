@@ -2,18 +2,18 @@
 title: Semco Maritime
 slug: "semco-maritime"
 description: ""
-date: "2026-03-20T08:22:03.161423"
+date: "2026-04-10T09:40:30.711037"
 draft: false
 sectors:
-  - construction
-  - gas
-  - "renewable-energy"
   - oil
+  - gas
+  - construction
+  - "renewable-energy"
 regions:
   - denmark
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - english
 tags:
@@ -54,20 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - orange
-  - black
-typographies:
-  - montserrat
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Dutch offshore construction company
 wikidata_url: "https://www.wikidata.org/wiki/Q12334990"
 has_twitter: false
@@ -85,55 +75,11 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- The Semco Maritime logo consists of an oval and the company name, which must only be used together, not separately.
-- Clear space rule states that no graphics or text should encroach into the clear space around the logo.
-- Logo colors available are blue, white, and black. Blue is the primary color, while black and white are secondary colors.
-- Logo cannot be combined with any other logo or pictogram to form a new logo.
-- The logo should be used as blue mainly, with black and white strictly as alternatives.
-
-**Color Information:**
-
-- The primary logo color is Pantone 532C, CMYK 50 30 0 96, RGB 2 15 22.
-- Supplementary combination colors include Pantone 547C (Dark Blue), Pantone 7709C (Light Blue), Pantone 7618C (Orange), Pantone 7472C (Sea-green), and Grey with CMYK, RGB details provided.
-
-**Typography Information:**
-
-- Fonts used: Montserrat Bold (Headings), Adelle Light (Content headings), Montserrat Light (Body text).
-- Microsoft Office fonts: Calibri is used due to it being a standard installed font.
-- Montserrat and Adelle fonts are exclusively used by Marketing as they are not standard in Microsoft Office.
-
-**Notes:**
-
-- The design guide is intended to align Semco Maritime's identity across all communication levels.
-- The logo reproducibility differs by material and method, hence black is suggested as an alternative to avoid inconsistencies.
+*Guidelines data not available*
 
 ### 2019
 
-**Logo Information:**
-
-- The Semco Maritime logo consists of an oval and the company name, which must only be used together, not separately.
-- Clear space rule states that no graphics or text should encroach into the clear space around the logo.
-- Logo colors available are blue, white, and black. Blue is the primary color, while black and white are secondary colors.
-- Logo cannot be combined with any other logo or pictogram to form a new logo.
-- The logo should be used as blue mainly, with black and white strictly as alternatives.
-
-**Color Information:**
-
-- The primary logo color is Pantone 532C, CMYK 50 30 0 96, RGB 2 15 22.
-- Supplementary combination colors include Pantone 547C (Dark Blue), Pantone 7709C (Light Blue), Pantone 7618C (Orange), Pantone 7472C (Sea-green), and Grey with CMYK, RGB details provided.
-
-**Typography Information:**
-
-- Fonts used: Montserrat Bold (Headings), Adelle Light (Content headings), Montserrat Light (Body text).
-- Microsoft Office fonts: Calibri is used due to it being a standard installed font.
-- Montserrat and Adelle fonts are exclusively used by Marketing as they are not standard in Microsoft Office.
-
-**Notes:**
-
-- The design guide is intended to align Semco Maritime's identity across all communication levels.
-- The logo reproducibility differs by material and method, hence black is suggested as an alternative to avoid inconsistencies.
+*Guidelines data not available*
 
 ## Additional Properties
 

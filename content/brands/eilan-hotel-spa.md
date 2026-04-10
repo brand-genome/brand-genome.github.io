@@ -2,7 +2,7 @@
 title: "Eilan Hotel & Spa"
 slug: "eilan-hotel-spa"
 description: ""
-date: "2026-03-20T08:22:05.417220"
+date: "2026-04-10T09:40:34.287432"
 draft: false
 sectors:
   - hospitality
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - gradient
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -69,19 +68,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- il nostro logo
-- The Éilan logo is the cornerstone of our brand, 
-- Consistent use of our logo make s it easy for employee s 
-- don™t add gradient to logo
-- of  logo  elements
-- colors in all branded materials and logo. 
-- effectively follow guideline s for the logo, font, 
-
-**Imagery Photography:**
-
-- experience. The Éilan brand me ssaging, imagery, 
-- consider  the  audience  when  cho osing  imagery.  
-- imagery and me ssaging to deliver marketing 
-- marketing tactic: on-property promotional image s. 
+*Guidelines data not available*

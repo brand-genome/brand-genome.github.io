@@ -2,7 +2,7 @@
 title: X
 slug: x
 description: ""
-date: "2026-03-20T08:22:03.129025"
+date: "2026-04-10T09:40:30.657873"
 draft: false
 sectors:
   - "social-media"
@@ -36,8 +36,8 @@ foundation_dates:
   - 2023
   - 2006
 foundation_year_buckets:
-  - 2000S
   - 2020S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -84,7 +84,206 @@ visual_term_image_urls: {}
 
 ### 2023
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To deliver award-winning Relationship Care service and empower customers to live life and do business without limitations, backed by the strength and reliability of American Express.
+
+##### Core Values
+
+- service
+- trust
+- reliability
+- confidence
+- innovation
+
+##### Target Audience
+
+- Individuals and businesses seeking premium financial services, rewards, and support for travel, shopping, and business growth.
+
+##### Personality Traits
+
+- confident
+- modern
+- trustworthy
+- premium
+- supportive
+
+##### Visual Identity Overview
+
+- The visual identity is defined by the prominent Blue Box Logo, a color palette of bright and deep blues with supporting neutrals, custom-drawn logotypes, and a combination of contemporary sans-serif (Benton Sans) and elegant serif (Guardian) typography. The style is clean, minimalistic, and emphasizes legibility, continuity, and brand integrity across all applications.
+
+#### Categories
+
+##### Brand Imagery
+
+- The Blue Box Logo should appear prominently on all American Express communications. The Alternate Logo, (cropped to AM EX) is reserved for small scale digital use. One of the two Logotypes may be used in place of the Logo, however the Logo can still be used smaller, to complement the Logotype.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- See pages 10 and 20 for Blue Box Logo usage, scales, file types and color rules.
+- See pages 11 and 20 for Blue Box Logo Alternate usage, scales, file types and color rules.
+- See pages 12 and 20 for Logotype usage, scales, file types and color rules.
+- The Blue Box Logo is the core visual expression of American Express. It should be used prominently on all American Express communications. The Logotype (see page 12) may be used in place of the Blue Box Logo, however the Logo can still be used smaller, to complement — i.e. back cover; bottom of ad; within a group of applications (envelope for letterhead); etc.
+- The Logo has been drawn to maintain legibility/continuity throughout the visual identity (from small to environmental scales). Four scale versions have been provided (see right). The Logo should not be scaled below the minimum sizes (per scale) found on this page.
+- The Blue Box Logo can be placed on imagery as long as it maintains maximum legibility.
+- The Blue Box Logo files, custom drawn (individually for print and then digital) to work at different scales, should never be recreated or modified. To maintain consistency, legibility, and brand integrity, please use only the files supplied, in their correct type (print versus digital) at their correct scales.
+- Use only the colors, as specified on pages 19–21.
+- A set of files have been provided with the Registration Mark; if needed please consult the brand support team.
+- The Blue Box Logo files have been provided at four scales: Small, Regular, Large, and Extra Large (environmental).
+- The height of the Blue Box Logo determines the scale version (at right) that should be used.
+- In an application, when the Blue Box height is: .325 to .45" or 40 to 50 pixels use the small scale .45 to 1" or 50 to 110 pixels use the regular scale 1 to 4.25" or 110 to 410 pixels use the large scale 4.25" and above or 410 pixels and above use the extra large scale
+- Note: If the Logo’s height is a shared, meeting number (e.g. .45", or 1"), please use the larger scale.
+- To ensure proper legibility, the Blue Box Logo files should not be used in sizes smaller than those listed above, right (per scale).
+- For small scale applications the “small” Logo should never be used smaller than a height of .325" or 40 pixels.
+- Minimum height of SMALL scale Logo: .325" or 40 pixels
+- Exception: If a Blue Box Logo is needed at a height below the minimum above, the Alternate Logo may be substituted: from 175” or 22 pixels, up to .325" or 40 pixels (minimum above).
+- The Blue Box Logo assets are available in these file-types: print (eps files) pms coated pms uncoated and cmyk (4-color) Note: B/W files are supplied as well. The B/W files should ONLY be used on 1-color, black-only, print applications (like a black-and-white newspaper ad). rgB digital (svg, png, jpg) Note: EPS (and InDesign) “Digital Master Files” have been provided. These can be used, as needed, to generate any alternate SVG, PNG and JPG files.
+- The Blue Box Logo, Alternate was created to make a powerful impression in a small space world. This logo should be reserved for American Express social media, app use, and mobile contexts where scale is restricted (e.g. mobile banners).
+- The Blue Box Logo Alternate is a supporting logo only; research indicates that our audience prefers the “American Express” logo remain foremost. The Alternate Logo should only replace the core Blue Box Logo in the small scale, digital environ-ments (noted above) where its clarity and boldness excels.
+- The Logo has been drawn to maintain legibility/continuity throughout the visual identity (from extra small to regular scales). Three scale versions have been provided (see right). The Logo should not be scaled below the minimum sizes (per scale) found on this page.
+- The Blue Box Logo, Alternate files, custom drawn to work at different scales, should never be recreated or modified. To maintain consistency, legibility, and brand integrity, please use only the files supplied at their correct scales.
+- The Blue Box Logo, Alternate files have been provided at three scales: Extra Small, Small, and Regular.
+- In an application, when the Blue Box (Alternate) height is: .175 to .225" or 22 to 32 pixels use the extra small scale .225 to .45" or 32 to 50 pixels use the small scale .45" to 4" or 50 to 450 pixels use the regular scale
+- Note: If the Logo’s height is a shared, meeting number (e.g. .225", or .45"), please use the larger scale.
+- Exception: The regular Logo can be scaled above 4" and 450 pixels, but such use must be approved by the brand support team.
+- For small scale applications the “extra small” Logo should never be used smaller than a height of .175" or 22 pixels.
+- Minimum height of EXTRA SMALL scale Logo: .175" or 22 pixels
+- The Blue Box Logo, Alternate assets are available in these file-types: digital (svg, png, jpg) rgB Note: EPS (and InDesign) “Digital Master Files” have been provided. These can be used, as needed, to generate any alternate SVG, PNG and JPG files.
+- Two versions of the Logotype have been provided: a Single-Line version and a Stacked version. Either Logotype may be used on any application, per design preference and spatial requirements.
+- The Logotypes may be used in place of the Blue Box Logo, however the Logo can still be used smaller, to complement — i.e. back cover; bottom of ad; within a group of applications (envelope for letterhead); etc.
+- The Logotypes should not be scaled below the minimum size found on this page.
+- The Logotypes can be placed on imagery as long as it maintains maximum legibility.
+- Please see page 20, for Logotype color use.
+- The custom drawn Logotype files should never be recreated or modified. To maintain consistency and brand integrity, please use only the files supplied.
+- Use only the sizes and colors, as specified.
+- To ensure proper legibility, the Logotype files should not be used in sizes smaller than a .05" or 7 pixels Cap-Height. (The Cap-Height is determined by the height of a single line of capital letters.)
+- The two Logotypes have no maximum scale limit.
+- The Logotype assets are available in these file-types: print (eps files) pms coated pms uncoated cmyk (4-color) and reverse_white Note: B/W files are supplied as well. The B/W files should ONLY be used on 1-color, black-only, print applications (like a black-and-white newspaper ad). digital (svg, png, jpg) rgB Note: EPS “Digital Master Files” have been provided. These can be used, as needed, to generate any alternate SVG, PNG and JPG files.
+- Clearspace around an Identity Assets is critical in order to separate the asset from other communication elements and ensure clarity and prominence. The diagrams, at right, show the minimum amount of clearspace space required.
+- Maintain at least 1/3 "X" (where X = height of the Blue Box Logo) between the Logo and any accompanying element.
+- Maintain at least 3 "X" (where X = Cap­Height of the Logotype) between the Logotype and any accompanying element.
+- These four exceptions are not bound to the above clearspace rules. 1. Bleeding the Blue Box off one or more edges. (Before producing please consult your vendor for advice.) 2. Digital apps and avatars, etc. where cropping is mandatory. 3. Emphatic use of the either the Logo or Logotype (bleeds or tight to edges). 4. "Pattern" Logotype cropping (such as on folders or totes, etc.).
+
+##### Color Palette
+
+- If the communications piece includes color, use only the brand color. The brand color palette is comprised of a bright blue, deep blue, and a neutrals palette.
+- The American Express Color Palette consists of a Primary Palette (Bright and Deep Blue) and a Neutrals Palette (White, Black, and a suite of Grays).
+- bright blue pms 285 coated pms 2195 uncoated cmyk 98.44.0.0 rgB 0.111.207 hex #006fcf general note In print, PMS is preferred. When budget constraints prohibit the use of PMS colors, their CMYK equivalents (outlined here) should be used. Printing with CMYK can produce varied results. Please work your printer to ensure the CMYK values are as close a match to the PMS as possible (proofing recommended). For digital applications, the RGB/HEX values should be used.
+- deep blue pms 2757 coated pms 287 uncoated cmyk 100.90.0.30 rgB 0.23.90 hex #00175a
+- white pms none cmyk 0.0.0.0 rgB 255.255.255 hex #ffffff
+- gray 6 pms cool gray 6 on coated and uncoated cmyk 0.0.0.52 rgB 167.168.170 hex #a7a8aa The entire PMS Cool Gray family may be used: Cool Gray 1 through 11. Cool Gray 6 should be used most frequently in color fields and type.
+- gray 1 pms cool gray 1 on coated and uncoated cmyk 0.0.0.11 rgB 217.217.214 hex #d9d9d6
+- gray 2 pms cool gray 2 on coated and uncoated cmyk 0.0.0.17 rgB 208.208.206 hex #d0d0ce
+- gray 3 pms cool gray 3 on coated and uncoated cmyk 0.0.0.25 rgB 200.201.199 hex #c8c9c7
+- gray 7 pms cool gray 7 on coated and uncoated cmyk 0.0.0.60 rgB 151.153.155 hex #97999B
+- black pms Black on coated and uncoated cmyk 40.20.20.100* rgB 0.0.0 hex #000000
+- * When budget constraints make cmyk necessary, a rich/cool black can be created with the formula above. If very small (under 6pt type) is knocking-out of black, use 100K only. Consult printer.
+- gray 8 pms cool gray 8 on coated and uncoated cmyk 0.0.0.68 rgB 136.139.141 hex #888B8d
+- gray 9 pms cool gray 9 on coated and uncoated cmyk 0.0.0.77 rgB 117.120.123 hex #75787B
+- gray 4 pms cool gray 4 on coated and uncoated cmyk 0.0.0.35 rgB 187.188.188 hex #BBBcBc
+- gray 10 pms cool gray 10 on coated and uncoated cmyk 0.0.0.85 rgB 99.102.106 hex #63666a
+- gray 5 pms cool gray 5 on coated and uncoated cmyk 0.0.0.44 rgB 177.179.179 hex #B1B3B3
+- gray 11 pms cool gray 11 on coated and uncoated cmyk 0.0.0.94 rgB 83.86.90 hex #53565a
+- The Blue Box Logo should only be rendered in Bright Blue. The selected background color or image area should always allow for optimal Blue Box Logo legibility.
+- One exception to the rule above. the Blue Box Logo can be Black when the application is 1-color, Black-only (i.e. newspaper ad).
+- The Blue Box Logo should never be rendered in Reverse/White.
+- The Blue Box Logo, Alternate should only be Bright Blue. The selected background color or image area should always allow for optimal Blue Box Logo legibility.
+- Since the Blue Box Logo, Alternate will be used in digital applications only, a Black logo should never be needed.
+- Both Single-Line and Stacked Logotypes may be rendered in Bright Blue, Deep Blue. Reverse/White. or Cool Gray 1-11. No other color is permissable.
+- The Logotypes should only be black when the application is 1-color, black-only.
+- The Taglines may be rendered in Bright Blue, Deep Blue, Reverse/White. or Cool Gray 1-11. No other color is permissable. NOTE: A two-color Tagline (where the sans serif and script fonts are different colors) may only be used in an application when the Tagline is the sole element of visual interest (i.e. simple banner).
+- The Taglines should only be black when the application is 1-color, black-only.
+- Two blue hues, grays (1-11), black and white comprise the brand color palette of American Express.
+- White (white space) plays the most dominant role, followed by the American Express iconic blues: Bright Blue and Deep Blue. Gray supports the palette when a neutral is useful.
+- Black should only be used when needed for type or graphic elements (see page 33). In contexts where the use of color is not an option (i.e. newspaper ad) the assets can be black (see page 20).
+- The master brand color ratio applies to the brand as a whole. Individual applications, departments, or programs, etc., may chose their own ratios; but, if all the brand pieces were to be evaluated as a group, this master brand ratio would be the ideal.
+
+##### Typography
+
+- If the communications piece includes copy, use only the brand typography. The brand typography is comprised of the san serif font "Benton Sans" and the serif font "Guardian", These two fonts may be used in four combinations.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- Benton is a contemporary, sophisticated typeface with a spectrum of weights and styles. Benton includes two different styles: Roman and Small-Cap, in eight different weights.
+- Use Benton for display and supporting type (body copy, caption, etc.). With an extensive family, Benton can be used in all contexts: collateral, signage and digital. One exception: in cases where systems fonts are necessary.
+- Thin, Extra Light and Light weights should be used for display type such as titles or quotes.
+- Medium, Bold, and Black should be more-sparingly used for emphasis and hierarchy.
+- Small-Caps can be used for emphasis, especially for the first word/line of text, or as a subhead.
+- Tracking for Capitals and Small-Caps should be set between 10–50 points. Don’t mix Capitals with Small-Caps in the same word or sentence/phrase.
+- Make sure your text rags do not have distracting bulges/shaping. Avoid widows (single word on last line of paragraph).
+- Capital or Small-Cap text, within body copy, should not run for longer than three lines; one preferred.
+- Capital or Small-Cap titles, with short lines lengths, can run as long as needed.
+- Avoid excessively-long body copy line lengths; the optimal line length for your body copy is 50–75 characters.
+- Guardian Text and Guardian are an elegant typeface pair with a spectrum of weights and styles. Guardian Text includes two different styles: Roman and Small-Cap, in four different weights. Guardian includes one style: roman, in eight different weights.
+- Use Guardian for display type, and Guardian Text for supporting type (body copy, caption, etc.). With an extensive family, these two fonts can be used in all contexts: collateral, signage and digital. Two exceptions: in cases where systems fonts are necessary; in digital media Benton Sans is favored for supporting type.
+- Hairline, Thin and Light weights should be used for display type such as titles or quotes.
+- Medium, Semibold, Bold, and Black should be more-sparingly used for emphasis and hierarchy.
+- American Express brand fonts may be used in the four combinations seen below. Benton Sans or Guardian can be used exclusively within a single piece, or they can be combined to set-off information. The coolness of Benton Sans can be warmed up by the humanistic character of Guardian. The examples below demonstrate the cool-to-warm spectrum that all-Benton, all-Guardian, and mixed font applications can provide. Rather than having strict roles within the system, the two typefaces can be thought of as allowing more breadth of expression and functioning to create a dialogue within the identity system.
+
+##### Logo Usage
+
+- The Blue Box Logo should appear prominently on all American Express communications. The Alternate Logo, (cropped to AM EX) is reserved for small scale digital use. One of the two Logotypes may be used in place of the Logo, however the Logo can still be used smaller, to complement the Logotype.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- See pages 10 and 20 for Blue Box Logo usage, scales, file types and color rules.
+- See pages 11 and 20 for Blue Box Logo Alternate usage, scales, file types and color rules.
+- See pages 12 and 20 for Logotype usage, scales, file types and color rules.
+- The Blue Box Logo is the core visual expression of American Express. It should be used prominently on all American Express communications. The Logotype (see page 12) may be used in place of the Blue Box Logo, however the Logo can still be used smaller, to complement — i.e. back cover; bottom of ad; within a group of applications (envelope for letterhead); etc.
+- The Logo has been drawn to maintain legibility/continuity throughout the visual identity (from small to environmental scales). Four scale versions have been provided (see right). The Logo should not be scaled below the minimum sizes (per scale) found on this page.
+- The Blue Box Logo can be placed on imagery as long as it maintains maximum legibility.
+- Please see page 20, for Logo color use.
+- The Blue Box Logo files, custom drawn (individually for print and then digital) to work at different scales, should never be recreated or modified. To maintain consistency, legibility, and brand integrity, please use only the files supplied, in their correct type (print versus digital) at their correct scales.
+- Use only the colors, as specified on pages 19–21.
+- A set of files have been provided with the Registration Mark; if needed please consult the brand support team.
+- The Blue Box Logo files have been provided at four scales: Small, Regular, Large, and Extra Large (environmental).
+- The height of the Blue Box Logo determines the scale version (at right) that should be used.
+- In an application, when the Blue Box height is: .325 to .45" or 40 to 50 pixels use the small scale .45 to 1" or 50 to 110 pixels use the regular scale 1 to 4.25" or 110 to 410 pixels use the large scale 4.25" and above or 410 pixels and above use the extra large scale
+- Note: If the Logo’s height is a shared, meeting number (e.g. .45", or 1"), please use the larger scale.
+- To ensure proper legibility, the Blue Box Logo files should not be used in sizes smaller than those listed above, right (per scale).
+- For small scale applications the “small” Logo should never be used smaller than a height of .325" or 40 pixels.
+- Minimum height of SMALL scale Logo: .325" or 40 pixels
+- Exception: If a Blue Box Logo is needed at a height below the minimum above, the Alternate Logo may be substituted: from 175” or 22 pixels, up to .325" or 40 pixels (minimum above).
+- The Blue Box Logo assets are available in these file-types: print (eps files) pms coated pms uncoated and cmyk (4-color) Note: B/W files are supplied as well. The B/W files should ONLY be used on 1-color, black-only, print applications (like a black-and-white newspaper ad). rgB digital (svg, png, jpg) Note: EPS (and InDesign) “Digital Master Files” have been provided. These can be used, as needed, to generate any alternate SVG, PNG and JPG files.
+- The Blue Box Logo, Alternate was created to make a powerful impression in a small space world. This logo should be reserved for American Express social media, app use, and mobile contexts where scale is restricted (e.g. mobile banners).
+- The Blue Box Logo Alternate is a supporting logo only; research indicates that our audience prefers the “American Express” logo remain foremost. The Alternate Logo should only replace the core Blue Box Logo in the small scale, digital environ-ments (noted above) where its clarity and boldness excels.
+- The Logo has been drawn to maintain legibility/continuity throughout the visual identity (from extra small to regular scales). Three scale versions have been provided (see right). The Logo should not be scaled below the minimum sizes (per scale) found on this page.
+- The Blue Box Logo Alternate files, custom drawn to work at different scales, should never be recreated or modified. To maintain consistency, legibility, and brand integrity, please use only the files supplied at their correct scales.
+- The Blue Box Logo, Alternate files have been provided at three scales: Extra Small, Small, and Regular.
+- Blue Box Logo, Alternate, In an application, when the Blue Box (Alternate) height is: .175 to .225" or 22 to 32 pixels use the extra small scale .225 to .45" or 32 to 50 pixels use the small scale .45" to 4" or 50 to 450 pixels use the regular scale
+- Note: If the Logo’s height is a shared, meeting number (e.g. .225", or .45"), please use the larger scale.
+- Exception: The regular Logo can be scaled above 4" and 450 pixels, but such use must be approved by the brand support team.
+- For small scale applications the “extra small” Logo should never be used smaller than a height of .175" or 22 pixels.
+- Minimum height of EXTRA SMALL scale Logo: .175" or 22 pixels
+- The Blue Box Logo, Alternate assets are available in these file-types: digital (svg, png, jpg) rgB Note: EPS (and InDesign) “Digital Master Files” have been provided. These can be used, as needed, to generate any alternate SVG, PNG and JPG files.
+
+##### Tone And Messaging
+
+- On promotional, offering, and advertising pieces the Tagline is a mandatory element. In transactional or informational pieces where the tagline is too promotional or unnecessary, or in situations with space limitations, the tagline can be eliminated.
+- The Taglines convey critical brand messaging and should be used whenever possible: promotional, offerings, services, advertising pieces, etc. It need not be a part of informational and transactional pieces in which the Tagline would feel out of place, or overly promotional.
+
+##### Visual Style
+
+- The Blue Box Logo should appear prominently on all American Express communications. The Alternate Logo, (cropped to AM EX) is reserved for small scale digital use. One of the two Logotypes may be used in place of the Logo, however the Logo can still be used smaller, to complement the Logotype.
+- If the communications piece includes color, use only the brand color. The brand color palette is comprised of a bright blue, deep blue, and a neutrals palette.
+- If the communications piece includes copy, use only the brand typography. The brand typography is comprised of the san serif font"Benton Sans" and the serif font "Guardian", These two fonts may be used in four combinations.
+- On promotional, offering, and advertising pieces the Tagline is a mandatory element. In transactional or informational pieces where the tagline is too promotional or unnecessary, or in situations with space limitations, the tagline can be eliminated.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- See pages 10 and 20 for Blue Box Logo usage, scales, file types and color rules.
+- See pages 11 and 20 for Blue Box Logo Alternate usage, scales, file types and color rules.
+- See pages 12 and 20 for Logotype usage, scales, file types and color rules.
+
+##### Iconography
+
+- The Blue Box Logo should appear prominently on all American Express communications. The Alternate Logo, (cropped to AM EX) is reserved for small scale digital use. One of the two Logotypes may be used in place of the Logo, however the Logo can still be used smaller, to complement the Logotype.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- See pages 10 and 20 for Blue Box Logo usage, scales, file types and color rules.
+- See pages 11 and 20 for Blue Box Logo Alternate usage, scales, file types and color rules.
+- See pages 12 and 20 for Logotype usage, scales, file types and color rules.
+
+##### Layout And Composition
+
+- The Blue Box Logo should appear prominently on all American Express communications. The Alternate Logo, (cropped to AM EX) is reserved for small scale digital use. One of the two Logotypes may be used in place of the Logo, however the Logo can still be used smaller, to complement the Logotype.
+- The typography of the Blue Box Logo, Blue Box Logo Alternate, and Logotypes has been custom drawn for visual continuity throughout the identity system. Each asset has also been drawn to maintain legibility and integrity at scales from very small to environmental.
+- See pages 10 and 20 for Blue Box Logo usage, scales, file types and color rules.
+- See pages 11 and 20 for Blue Box Logo Alternate usage, scales, file types and color rules.
+- See pages 12 and 20 for Logotype usage, scales, file types and color rules.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: "Condor | TC Airlines"
 slug: "condor-tc-airlines"
 description: ""
-date: "2026-03-20T08:22:05.522578"
+date: "2026-04-10T09:40:34.414031"
 draft: false
 sectors:
   - airline
@@ -67,42 +67,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logotype versions section referenced.
-- Logotype versions section referenced.
-
-**Color Information:**
-
-- Detailed color guidelines, including brand colors, are addressed.
-- Detailed color guidelines, including brand colors, are addressed.
-
-**Typography Information:**
-
-- Typography section includes fonts and weights.
-
-**Imagery Photography:**
-
-- Imagery section addresses guidelines for photo usage.
-- Imagery section addresses guidelines for photo usage.
-
-**Spacing Layout:**
-
-- Layout system and logo positioning guidelines are included.
-- Layout system and logo positioning guidelines are included.
-
-**Brand Voice:**
-
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-- Tone of Voice section defines messaging and communication style.
-
-**Notes:**
-
-- Additional sections on awards or disclaimers are included.
-- Additional sections on awards or disclaimers are included.
-- Additional sections on awards or disclaimers are included.
+*Guidelines data not available*

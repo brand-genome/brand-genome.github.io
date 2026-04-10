@@ -2,7 +2,7 @@
 title: Rollins
 slug: rollins
 description: ""
-date: "2026-03-20T08:22:05.578472"
+date: "2026-04-10T09:40:34.507495"
 draft: false
 sectors:
   - education
@@ -54,30 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - gold
-  - "pantone-2387"
-  - blue
-  - yellow
-  - "pantone-116"
-  - black
-typographies:
-  - "sans-serif"
-  - gotham
-  - serif
-imagery_styles:
-  - dynamic
-  - graphic
-  - classic
-  - bold
-  - photography
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private liberal arts college in Winter Park, Florida, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q2164222"
 has_twitter: false
@@ -97,35 +77,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Consistent use of the logo strengthens Rollins brand recognition. Additional iconography, marks, and artwork cannot substitute or augment the official logo. Secondary elements must remain distinct.
-- Minimum acceptable size for the Rollins logo is 0.25 inches for small applications and 0.75 inches for regular use. Smaller usage requires Marketing approval.
-- A clear zone equal to the height of the 'R' in Rollins must surround the logo to ensure balance and prominence.
-- Logo color options include Rollins Blue, 50% Black, but not Rollins Yellow. Usage of non-compliant colors is discouraged.
-- Vertical Unit Logos, Horizontal Unit Logos, and Rollins Wordmark configurations are allowed. The Rollins wordmark may be used when space is limited, such as in internal communications.
-- Unit logos must adhere to strict configuration guidelines. Customization is prohibited without express consent. Only the Crummer Graduate School of Business and Hamilton Holt School may use their logos as primary branding.
-
-**Color Information:**
-
-- Color plays a powerful role in branding. Precise color management accounts for variations in print, fabric, and digital media to ensure consistency. Pantone and CMYK values are provided for print, while HEX values are used digitally.
-- Official school colors specified: Rollins Blue (Pantone 2387 C, CMYK: C:100 M:50 Y:0 K:0, HEX: #0071BA) and Rollins Gold (Pantone 116 C, CMYK: C:0 M:15 Y:100 K:0, HEX: #FACF00). Marketing materials can use alternative colors if appropriate for the concept.
-
-**Typography Information:**
-
-- The official Rollins fonts are Gotham (sans-serif, primary for print, versatile in weight/style) and Chronicle (serif). Both are used for print and web. Licenses are available through Hoefler & Co.
-- Typography Dos: Use clean, classic sans-serif fonts, italicized/bold styles sparingly, fonts as graphic elements, and create typographic hierarchy.
-- Typography Don'ts: Avoid condensing, stretching, distorting fonts; overly stylized fonts, type with drop shadows, or outline fonts.
-- Explanation of Serif vs. Sans-Serif fonts. Serif fonts feature small attached lines and varying widths while sans-serif fonts lack projections and feature cleaner lines.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize dynamic imagery. Recommendations include experimenting with angles, focusing on moments, maintaining eye-level shots, and showing Rollins spirit through branded elements.
-
-**Notes:**
-
-- Some sections such as 'Brand Voice' were not explicitly mentioned in the visible text. Information relevant to brand voice may overlap with other sections (e.g., typography, social media).
-- Photography guidelines encourage showing Rollins spirit by using branded items like hats or shirts with the Rollins logo.
+*Guidelines data not available*
 
 ## Additional Properties
 

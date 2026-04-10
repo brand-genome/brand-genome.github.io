@@ -2,7 +2,7 @@
 title: Liverpool City Region
 slug: "liverpool-city-region"
 description: ""
-date: "2026-03-20T08:22:04.195913"
+date: "2026-04-10T09:40:32.552147"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-kingdom"
@@ -52,10 +52,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - aerial
-  - dynamic
-  - natural
+imagery_styles: []
 wikidata_description: part of the 2020 UK local elections
 wikidata_url: "https://www.wikidata.org/wiki/Q30638148"
 has_twitter: false
@@ -73,19 +70,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Imagery Photography:**
-
-- The brand imagery style should be honest and unstaged, capturing people as they are within their environments. Images should capture the spirit, energy, and humanity of the City Region. Whenever possible, people should be included in the imagery to reflect the diversity of the region. Lighting should be natural, whether it's daylight or street light. Imagery should always be in full color.
-- Videos should follow the same principles as imagery: honest and true, always featuring people. Storylines should be considered to clearly communicate the intended audience message. Key elements include establishing shots of the location or area, panning shots across landscapes, and details of buildings. Framing people should set them within the context of their location.
-- Videos should vary perspective to create a dynamic view. For example, use aerial shots to provide an overview, capture moments naturally instead of recreating them, and maintain the energy of the scene.
-
-**Brand Voice:**
-
-- The tone of voice emphasizes community, innovation, sustainability, and the drive to be at the forefront of global change. Messaging themes include knowledgeable expertise, community spirit, cultural inspiration, environmental responsibility, global connectivity, and industrious productivity.
-
-**Notes:**
-
-- Contact information for additional brand materials and inquiries: Sylvia Pollock, sylvia.pollock@growthplatform.org.
+*Guidelines data not available*
 
 ## Additional Properties
 

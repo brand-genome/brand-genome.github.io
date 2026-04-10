@@ -2,7 +2,7 @@
 title: The Indian Express
 slug: "the-indian-express"
 description: ""
-date: "2026-03-20T08:22:04.559796"
+date: "2026-04-10T09:40:33.368652"
 draft: false
 sectors:
   - broadcasting
@@ -52,24 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - beige
-  - red
-  - white
-  - grey
-  - blue
-  - black
-typographies:
-  - serif
-  - roboto
-imagery_styles:
-  - bold
-  - modern
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: daily broadsheet newspaper in India
 wikidata_url: "https://www.wikidata.org/wiki/Q1954843"
 has_twitter: false
@@ -89,33 +75,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The flagship logo exploration includes aspects such as its placement, clear space rules, and monochromatic variants aligned to the top left of visual compositions.
-
-**Color Information:**
-
-- The primary brand colors include IE Red (Pantone Red 032C, HEX #FF3204), Black (HEX #000000), and White (HEX #FFFFFF). Secondary colors include Deep Blue, Grey, Beige tones. Category colors are contrasted for channel branding and accentuated functional purposes.
-
-**Typography Information:**
-
-- Typography rules include Tiempos Headline Bold as modern serif for editorial headlines and Graphik Compact Bold for sans serif body text. Some weights get replaced in digital applications by Google Fonts like PT Serif and Roboto due to licensing.
-
-**Imagery Photography:**
-
-- Imagery guidelines emphasize high-quality, expressive photography, natural tones, complementary colors, and avoiding overly posed or cluttered images.
-
-**Spacing Layout:**
-
-- Spacing rules enforce minimum clearance measured by the cap height of the logo's typography. Texts and icons apply consistent balance across digital and print applications.
-
-**Brand Voice:**
-
-- The brand voice is described as bold, vivid, youthful, modern, yet authentically Indian. Messaging aligns closely with independent journalism values such as honesty and inclusivity.
-
-**Notes:**
-
-- The document systematically organizes details for The Indian Express, emphasizing consistency and adherence to bold, contrast-rich design principles. Merchandising involves extraction of flame icons for special articles.
+*Guidelines data not available*
 
 ## Additional Properties
 

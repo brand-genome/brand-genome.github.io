@@ -2,7 +2,7 @@
 title: Major League Soccer
 slug: "major-league-soccer"
 description: ""
-date: "2026-03-20T08:22:04.011014"
+date: "2026-04-10T09:40:31.981833"
 draft: false
 sectors:
   - sports
@@ -13,12 +13,12 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries:
-  - canada
   - "united-states"
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,8 +32,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1993
   - 1995
+  - 1993
 foundation_year_buckets:
   - 1990S
 lightings: []
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: professional soccer league in the USA and Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q18543"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [http://www.mlsnet.com](http://www.mlsnet.com)
 - [https://www.tudn.com/futbol/mls](https://www.tudn.com/futbol/mls)
 
-## Brand Guidelines
-
-### 2015
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -88,7 +82,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1993](/foundation_dates/1993/); [1995](/foundation_dates/1995/) |
+| Foundation Date | [1995](/foundation_dates/1995/); [1993](/foundation_dates/1993/) |
 | Country | United States, Canada |
 | Topic'S Main Category | Category:Major League Soccer |
 | Freebase Id | /m/0jfpf |

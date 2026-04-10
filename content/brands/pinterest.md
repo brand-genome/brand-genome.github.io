@@ -2,7 +2,7 @@
 title: Pinterest
 slug: pinterest
 description: ""
-date: "2026-03-20T08:22:04.857701"
+date: "2026-04-10T09:40:33.607597"
 draft: false
 sectors:
   - "social-media"

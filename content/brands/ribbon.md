@@ -2,12 +2,12 @@
 title: Ribbon
 slug: ribbon
 description: ""
-date: "2026-03-20T08:22:04.347511"
+date: "2026-04-10T09:40:33.076010"
 draft: false
 sectors:
-  - networking
   - software
   - telecom
+  - networking
 regions:
   - usa
 years:
@@ -48,15 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,29 +70,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Alternative versions of the logo (horizontal, vertical, others).
-- Introduction to core logo and its usage.
-- Incorrect logo usage examples and guidelines.
-
-**Color Information:**
-
-- Brand color palette including primary and secondary colors.
-- Brand color palette including primary and secondary colors.
-- Brand color palette including primary and secondary colors.
-- Brand color palette including primary and secondary colors.
-- Brand color palette including primary and secondary colors.
-- Brand color palette including primary and secondary colors.
-
-**Typography Information:**
-
-- Details about typefaces and typographic hierarchy.
-
-**Imagery Photography:**
-
-- Photography style and composition guidelines.
-
-**Notes:**
-
-- Introduction to the brand guidelines.
+*Guidelines data not available*

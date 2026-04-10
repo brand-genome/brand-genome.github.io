@@ -2,7 +2,7 @@
 title: "Heriot-Watt University"
 slug: "heriot-watt-university"
 description: ""
-date: "2026-03-20T08:22:03.053807"
+date: "2026-04-10T09:40:30.523502"
 draft: false
 sectors:
   - university
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: "university in Edinburgh, Scotland, UK"
 wikidata_url: "https://www.wikidata.org/wiki/Q1610024"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,12 +72,6 @@ visual_term_image_urls: {}
 - [https://www.hw.ac.uk/dubai](https://www.hw.ac.uk/dubai)
 - [https://www.hw.ac.uk/malaysia](https://www.hw.ac.uk/malaysia)
 - [https://www.hw.ac.uk/students/manage-your-studies/enrolment/heriot-watt-online](https://www.hw.ac.uk/students/manage-your-studies/enrolment/heriot-watt-online)
-
-## Brand Guidelines
-
-### 2025
-
-*Guidelines data not available*
 
 ## Additional Properties
 

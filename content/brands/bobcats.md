@@ -2,7 +2,7 @@
 title: Bobcats
 slug: bobcats
 description: ""
-date: "2026-03-20T08:22:05.739768"
+date: "2026-04-10T09:40:34.709244"
 draft: false
 sectors:
   - sports
@@ -69,56 +69,61 @@ visual_term_image_urls: {}
 
 ### 2004
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo details mentioned on page 3.
-- Logo details mentioned on page 5.
-- Logo details mentioned on page 8.
-- Logo details mentioned on page 9.
-- Logo details mentioned on page 10.
-- Logo details mentioned on page 11.
-- Logo details mentioned on page 12.
-- Logo details mentioned on page 13.
-- Logo details mentioned on page 15.
-- Logo details mentioned on page 18.
-- Logo details mentioned on page 21.
+##### Mission
 
-**Color Information:**
+- To establish a strong, unique brand identity that resonates with the public and creates a new standard in sports, fostering loyalty among the people of Charlotte and connecting emotionally with fans through memorable experiences and engaging team branding [^1].
 
-- Color details mentioned on page 3.
-- Color details mentioned on page 5.
-- Color details mentioned on page 9.
-- Color details mentioned on page 17.
-- Color details mentioned on page 18.
+##### Core Values
 
-**Typography Information:**
+- memorable
+- market relevant
+- adaptable
+- timeless
+- community-driven
+- performance-oriented
+- athleticism
+- creativity
+- loyalty [^2]
 
-- Typography details mentioned on page 21.
+##### Target Audience
 
-**Notes:**
+- Fans of Charlotte, the local community, sports enthusiasts, and families seeking engaging, emotionally resonant experiences with a professional sports franchise .
 
-- Unhandled details or context found on page 1.
-- Unhandled details or context found on page 3.
-- Unhandled details or context found on page 4.
-- Unhandled details or context found on page 5.
-- Unhandled details or context found on page 6.
-- Unhandled details or context found on page 7.
-- Unhandled details or context found on page 8.
-- Unhandled details or context found on page 9.
-- Unhandled details or context found on page 10.
-- Unhandled details or context found on page 11.
-- Unhandled details or context found on page 12.
-- Unhandled details or context found on page 13.
-- Unhandled details or context found on page 14.
-- Unhandled details or context found on page 15.
-- Unhandled details or context found on page 17.
-- Unhandled details or context found on page 18.
-- Unhandled details or context found on page 19.
-- Unhandled details or context found on page 20.
-- Unhandled details or context found on page 21.
-- Unhandled details or context found on page 22.
-- Unhandled details or context found on page 23.
-- Unhandled details or context found on page 24.
+##### Personality Traits
+
+- athletic
+- fierce
+- hard-working
+- aggressive
+- determined
+- quick
+- strong
+- bold
+- classic
+- forward-thinking
+
+##### Visual Identity Overview
+
+- The visual identity features bold, aggressive animal imagery (bobcat, panther), a vibrant orange color palette complemented by blue, black, and silver, modern and classic uniform designs, dynamic logo treatments, and a clean, professional layout emphasizing motion, strength, and team pride [^5] .
+
+#### Categories
+
+##### Color Palette
+
+- CHARLOTTE BOBCATS ORANGE HAS BECOME A BRAND OF ITS OWN. BOBCATS BLUE, BLACK & SILVER EXTEND THE COLOR PALETTE.
+
+##### Visual Style
+
+- CREATING A BRAND IDENTITY //HOW CHARLOTTE BECAME THE BOBCATS
+- ESTABLISHING A STRONG BRAND THAT CONNECTS WITH CONSUMERS IS CRITICAL TO SUCCESS IN ANY INDUSTRY. IN THE SPORTS AND ENTERTAINMENT WORLDS, IT CAN MAKE OR BREAK YOU. AS SUCH, OUR ORGANIZATION’S VERY FIRST TASK WAS TO BEGIN THE PROCESS OF CREATING A UNIQUE IDENTITY THAT WOULD RESONATE WITH THE PUBLIC.
+- A LOT GOES INTO A BRAND — MORE THAN JUST NAME AND COLORS. ATTITUDE, PERFORMANCE AND RESULTS ARE EQUALLY IMPORTANT.
+- THE FOLLOWING PAGES CONTAIN A VISUAL HISTORY OF THE PROGRESSION FROM NAMELESS NBA ENTITY TO A PROFESSIONAL SPORTS FRANCHISE WITH A UNIQUE, FORWARD-THINKING AND CLASSIC BRAND IDENTITY.
+- SUCCESSFUL SPORTS IDENTITIES ARE: MEMORABLE, MARKET RELEVANT, ADAPTABLE & TIMELESS.
+- CHARLOTTE BOBCATS ORANGE HAS BECOME A BRAND OF ITS OWN. BOBCATS BLUE, BLACK & SILVER EXTEND THE COLOR PALETTE.
+- DESIGNERS FOCUSED ON 8 ATTRIBUTES TO DEVELOP A SUCCESSFUL ON-COURT IDENTITY 1 // UNIQUE STYLE/COLOR 2 // SOPHISTICATED 3 // PERFORMANCE ORIENTED 4 // BROADCAST FRIENDLY 5 // PRODUCTION ABILITY 6 // MASS AUDIENCE APPEAL 7 // PLAYER FRIENDLY 8 // LONG SHELF LIFE
+- THE BOBCATS UNIFORM // PROGRESSIVE + CLASSIC // FEATURES.
 
 ## Additional Properties
 

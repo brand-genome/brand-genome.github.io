@@ -2,11 +2,11 @@
 title: Ashrae
 slug: ashrae
 description: ""
-date: "2026-03-20T08:22:05.552117"
+date: "2026-04-10T09:40:34.461823"
 draft: false
 sectors:
-  - education
   - research
+  - education
 regions:
   - usa
 years:
@@ -51,30 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - horizontal
-  - alternate
-  - primary
-brand_colors:
-  - "pantone-376"
-  - "pantone-287"
-  - white
-  - "pantone-300"
-  - blue
-  - gray
-  - "pantone-312"
-  - black
-typographies:
-  - display
-  - akzidenz
-imagery_styles:
-  - bold
-  - clean
-  - gradient
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "global society advancing human well-being through sustainable technology for the built environment"
 wikidata_url: "https://www.wikidata.org/wiki/Q466899"
 has_twitter: false
@@ -92,36 +72,149 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The ASHRAE logo incorporates a hexagon shape, bold display of the organization's name, and multiple color variants. Logo font is Berthold Akzidenz Grotesk Bold Condensed. Primary full-color version includes Pantone colors 300, 312, 376, and 287, as well as single-color versions in Pantone 287, black, and reversed out in white.
-- Default secondary versions of the logo: one-color in Pantone 287 (blue), solid black, and reversed out in white on a solid color. These standards apply to alternative formats of the logo.
-- Clear space for the corporate logo requires a minimum spacing equal to the height of the 'A' in ASHRAE. Minimum logo size is 19mm in width (0.75 inches).
-- Do's and Don'ts for logo usage include: do not reposition, distort or rotate logo elements; do not add signature elements or change typefaces; do not alter colors, remove trademark markings, degrade artwork, or use old/unapproved logos. Examples of misuse are provided.
-- Region, chapter, and section logo signatures include guidelines for horizontal and vertical formats. Font required is Berthold Akzidenz Grotesk Bold Condensed. Colors allowed for signature names: Pantones 376, 312, 300, and Cool Gray 11. One-color versions permitted: Pantone 287, black, or reversed out in white. Clear space guidelines must be followed as noted.
-- Student branch logo signatures align with guidelines for clean formatting, horizontal/vertical variants, approved colors (Pantones 376, 312, 300, Cool Gray 11, reversed-out white, black, and Pantone 287), and spacing equivalent to identified hexagon sections. Minimum sizing adheres to previous guidelines.
-- Alternate logo signatures allow program or initiative names to appear beneath the ASHRAE logo. Spacing between program name and logo equals the height of the bottom hexagon section. Colors include one-color black, Pantone 287, and reversed-out white.
+##### Mission
 
-**Color Information:**
+- To advance the arts and sciences of heating, ventilation, air conditioning and refrigeration to serve humanity and promote a sustainable world [^1].
 
-- ASHRAE logo color palette includes Pantone 287, Pantone 300, Pantone 312, Pantone 376, and Pantone Cool Gray 11. Gradient used in hexagon comprises Pantones 300, 312, and 376. Bold and vibrant colors are fundamental.
+##### Core Values
 
-**Typography Information:**
+- professionalism
+- collaboration
+- knowledge
+- effectiveness
+- diversity
+- visionary
+- sustainability
+- ethics [^2]
 
-- Corporate font family for ASHRAE logo: Berthold Akzidenz Grotesk Bold Condensed. General branding and marketing (tagline usage): Akzidenz Grotesk Light, Regular, Bold, and Super.
+##### Target Audience
 
-**Spacing Layout:**
+- Engineers and related professionals in heating, ventilation, air conditioning, and refrigeration, including chapter representatives, committee members, staff, designers, publishers, and vendors [^3].
 
-- Clear space rules for ASHRAE logo specify a spacing equivalent to the height of ‘A’. Minimum logo width is 19mm or 0.75 inches.
+##### Personality Traits
 
-**Brand Voice:**
+- professional
+- collaborative
+- knowledgeable
+- effective
+- diverse
+- visionary
 
-- The tagline 'Shaping Tomorrow’s Built Environment Today' must only appear with the ASHRAE corporate logo. Tagline font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on a bold, modern logo featuring a hexagonal outline with a gradient from blue to green, the ASHRAE name in uppercase, and strict guidelines for color palette (Pantone 287, 300, 312, 376, Cool Gray 11), typography (Berthold Akzidenz Grotesk family), clear space, and consistent logo usage across all applications. The style is clean, corporate, and emphasizes clarity, legibility, and professionalism [^5].
 
-- Regions, chapters, and sections are encouraged to seek ASHRAE input before committing significant resources to design development and production of any material using the ASHRAE logo.
-- Student branches are also authorized to use the ASHRAE logo for approved marketing materials, following logo guidelines. Logo production must follow ASHRAE internal protocols.
+#### Categories
+
+##### Brand Values
+
+- The ASHRAE brand reflects our focus to advance heating, ventilation, air conditioning and refrigeration engineering and technologies to serve humanity and promote a more sustainable world. Our combined expertise is brought to life through research, standards writing, publishing and continuing education. The shared power of our members gives us a strong voice in local, national and international arenas, allowing us to improve communities by inspiring a more sustainable way of life.
+- Our promise to sustainability is an imperative way for us to improve the quality of the built environment while leaving a lasting legacy for future generations. The ASHRAE brand supports our focus on improving engineering standards and our market position as a community of engineers and related professionals united by knowledge, mission, standards, and a code of ethics to build better places for people to live, work, and play.
+- The key characteristics of the ASHRAE brand identity should convey a professional, collaborative, knowledgeable, effective, diverse and visionary organization. The graphic elements described within these guidelines have been specifically created to communicate these key brand distinctions and characteristics.
+- Mission: To advance the arts and sciences of heating, ventilation, air conditioning and refrigeration to serve humanity and promote a sustainable world.
+- Vision: ASHRAE will be the global leader, the foremost source of technical and educational information, and the primary provider of opportunity for professional growth in the arts and sciences of heating, ventilating, air conditioning and refrigerating.
+- Tagline: Shaping Tomorrow’s Built Environment Today
+
+##### Logo Usage
+
+- { "category": "logo_usage", "guidelines": [ { "guideline": "ASHRAE will provide logo artwork files. Only artwork files provided by ASHRAE may be used. Images captured from websites, publications, and other sources may not be used. All previous versions of the ASHRAE mark (previous to 2012) are no longer allowed.", "pages": [3] }, { "guideline": "All uses must include the appropriate trademark symbol. The appropriate symbol will be part of the artwork provided by ASHRAE.", "pages": [3] }, { "guideline": "ASHRAE reserves the right to approve or disapprove the use of any ASHRAE proprietary mark.", "pages": [3] }, { "guideline": "The ASHRAE tagline, “Shaping Tomorrow’s Built Environment Today” captures the essence of our Society and its promise. The combined ASHRAE logo and tagline, known as the ASHRAE signature line, is a single piece of art that should be used in all instances when displaying the logo and tagline. Do not attempt to recreate the signature line in any way.", "pages": [6] }, { "guideline": "When using the ASHRAE signature line, always provide the clear space referenced in technical appendix iv.", "pages": [6] }, { "guideline": "When using the ASHRAE signature, the logo itself should be no smaller than 5/8” (16 mm) wide. If space constraints require a smaller logo, omit the tagline altogether.", "pages": [6] }, { "guideline": "The preferred color of the signature line is ASHRAE blue for the logo and Cool Gray 11 for the tagline as shown here. Ideally, the ASHRAE signature should run on solid color fields (preferably white), but it doesn’t have to so long as the tagline remains legible; you can always reverse out the signature line out of a solid field of color or image, provided it offers enough contrast and readability.", "pages": [6] }, { "guideline": "The tagline should only appear with the ASHRAE logo and not with regions, chapters, sections, student branches, and program signatures.", "pages": [6] }, { "guideline": "The tagline should only appear in a horizontal or vertical format with the logo.", "pages": [6] }, { "guideline": "The clear space between the logo and tagline is 1/3 the height of the ASHRAE logo or the distance between the bottom of ASHRAE in the logo and the bottom of the hexagon.", "pages": [6] }, { "guideline": "The tagline font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.", "pages": [6] }, { "guideline": "The ASHRAE logo must never be altered in any way. Any improper use of the logo causes confusion, jeopardizes its legal protection and devalues our brand logo. Never change or alter the ASHRAE logo, colors, size minimums or reproduction guidelines.", "pages": [11] }, { "guideline": "Do not use old or unapproved logos", "pages": [11] }, { "guideline": "Do not reposition logo elements", "pages": [11] }, { "guideline": "Do not distort or rotate elements", "pages": [11] }, { "guideline": "Do not use unapproved brand colors", "pages": [11] }, { "guideline": "Do not change logo typefaces", "pages": [11] }, { "guideline": "Do not add signature elements", "pages": [11] }, { "guideline": "Do not remove registered trademark", "pages": [11] }, { "guideline": "Do not use degraded art work", "pages": [11] }, { "guideline": "Do not place in a shape", "pages": [11] }, { "guideline": "Do not use with unapproved chapter logos", "pages": [11] }, { "guideline": "Do not use signature elements by themselves", "pages": [11] }, { "guideline": "Do not alter the chapter signature line in any way.", "pages": [11] }, { "guideline": "The ASHRAE logo incorporates the hexagon shape from the previous logo and a bold display of the organization's name in a clean and modern approach.", "pages": [12] }, { "guideline": "The ASHRAE logo is made up of the following elements:\n• The ASHRAE name in all caps, color is Pantone 287\n• The Hexagon made up of a linear gradient of Pantones 300, 312, and 376\n• Registration mark should be Pantone 312\n• Single color version can only appear in all Pantone 287 or 100% Black\n• The logo may appear reversed out in white on a solid color.\n• ASHRAE name appears in Berthold Akzidenz Grotesk Bold Condensed", "pages": [12] }, { "guideline": "Default Secondary Versions\nOne color - Pantone 287\nOne color - Black\nReversed out in white on a solid color", "pages": [12] }, { "guideline": "To ensure maximum legibility and visibility, always use the appropriate amount of clear space around the logo. The clear space is the height of the \"A\" in the ASHRAE logo.", "pages": [v] }, { "guideline": "The size of the ASHRAE logo depends upon its usage. To maintain legibility the logo should never be smaller than 19mm in width (0.75\" width).", "pages": [v] }, { "guideline": "Clear space for the corporate logo\nThe clear space is the height of the \"A\" in the ASHRAE logo.", "pages": [v] }, { "guideline": "Minimum size for the corporate logo\n19mm width (0.75\" width)", "pages": [v] } ] }
+
+##### Color Palette
+
+- Bold and vibrant colors are fundamental components of our logo design system.
+- The ASH RAE logo is made up of the following elements: • The ASH RAE name in all caps, color is Pantone 287 • The Hexagon made up of a linear gradient of Pantones 300, 312, and 376 • Registration mark should be Pantone 312 • Single color version can only appear in all Pantone 287 or 100% Black • The logo may appear reversed out in white on a solid color.
+- The preferred color of the signature line is ASHRAE blue for the logo and Cool Gray 11 for the tagline as shown here.
+- The tagline font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.
+- The region, chapter and section name may only appear in four colors -Pantones 376, 312, 300 or Cool Gray 11.
+- Regions, chapters and sections are allowed the same color options.
+- Regions, chapters and sections are allowed to use the one-color black, Pantone 287 or reversed out in white on a solid color when necessary. Four-color is required for electronic use.
+- The student branch name may only appear in four colors -Pantones 376, 312, 300 or Cool Gray 11.
+- Student branches are allowed to use the one-color black, Pantone 287 or reversed out in white on a solid color when necessary. Four-color is required for electronic use.
+- When necessary the logo with program names may appear in one color black, Pantone 287 or reversed out in white on a solid color.
+
+##### Typography
+
+- The ASHRAE typography is an integral part of the logo brand identity. The ASHRAE logo font is the Akzidenz Grotesk font family.
+- When working with typefaces (fonts), let legibility be your guide in terms of point size, column width, reversing type (on color fields or images), overprinting on images, etc.
+- For ASHRAE-branded materials, always use the ASHRAE corporate fonts Berthold Akzidenz Grotesk and Akzidenz Grotesk. In applications such as Microsoft Word, PowerPoint, and programs with restrictive font sets use Arial.
+- Berthold Akzidenz Grotesk Bold Condensed
+- Berthold Akzidenz Grotesk Light Condensed
+- Berthold Akzidenz Grotesk Condensed
+- Akzidenz Grotesk Light
+- Akzidenz Grotesk Regular
+- Akzidenz Grotesk Bold
+- Akzidenz Grotesk Super
+- The tagline font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.
+- ASHRAE name appears in Berthold Akzidenz Grotesk Bold Condensed
+- For General Branding Usage (Tagline & Marketing Materials): Akzidenz Grotesk Light, Akzidenz Grotesk Regular, Akzidenz Grotesk Bold
+- Berthold Akzidenz Grotesk Bold and Light Condensed fonts are required.
+
+##### Visual Style
+
+- ASHRAE will provide logo artwork files. Only artwork files provided by ASHRAE may be used. Images captured from websites, publications, and other sources may not be used. All previous versions of the ASHRAE mark (previous to 2012) are no longer allowed.
+- All uses must include the appropriate trademark symbol. The appropriate symbol will be part of the artwork provided by ASHRAE.
+- Do not attempt to recreate the signature line in any way.
+- When using the ASHRAE signature line, always provide the clear space referenced in technical appendix iv.
+- When using the ASHRAE signature, the logo itself should be no smaller than 5/8” (16 mm) wide. If space constraints require a smaller logo, omit the tagline altogether.
+- The preferred color of the signature line is ASHRAE blue for the logo and Cool Gray 11 for the tagline as shown here.
+- Ideally, the ASHRAE signature should run on solid color fields (preferably white), but it doesn’t have to so long as the tagline remains legible; you can always reverse out the signature line out of a solid field of color or image, provided it offers enough contrast and readability.
+- The tagline should only appear with the ASHRAE logo and not with regions, chapters, sections, student branches, and program signatures.
+- The tagline should only appear in a horizontal or vertical format with the logo.
+- The clear space between the logo and tagline is 1/3 the height of the ASHRAE logo or the distance between the bottom of ASHRAE in the logo and the bottom of the hexagon.
+- The tagline font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.
+- Never change or alter the ASH RAE logo, colors, size minimums or reproduction guidelines.
+- Do not use old or unapproved logos
+- Do not reposition logo elements
+- Do not distort or rotate elements
+- Do not use unapproved brand colors
+- Do not change logo typefaces
+- Do not add signature elements
+- Do not remove registered trademark
+- Do not use degraded art work
+- Do not place in a shape
+- Do not use with unapproved chapter logos
+- Do not use signature elements by themselves
+- Do not alter the chapter signature line in any way.
+- The ASH RAE logo incorporates the hexagon shape from the previous logo and a bold display of the organization's name in a clean and modern approach.
+- The ASH RAE logo is made up of the following elements: • The ASH RAE name in all caps, color is Pantone 287 • The Hexagon made up of a linear gradient of Pantones 300, 312, and 376 • Registration mark should be Pantone 312 • Single color version can only appear in all Pantone 287 or 100% Black • The logo may appear reversed out in white on a solid color. • ASH RAE name appears in Berthold Akzidenz Grotesk Bold Condensed
+- Bold and vibrant colors are fundamental components of our logo design system.
+- The ASHRAE typography is an integral part of the logo brand identity. The ASHRAE logo font is the Akzidenz Grotesk font family.
+- When working with typefaces (fonts), let legibility be your guide in terms of point size, column width, reversing type (on color fields or images), overprinting on images, etc.
+- For ASHRAE-branded materials, always use the ASHRAE corporate fonts Berthold Akzidenz Grotesk and Akzidenz Grotesk. In applications such as Microsoft Word, PowerPoint, and programs with restrictive font sets use Arial.
+- Berthold Akzidenz Grotesk Bold Condensed
+- Berthold Akzidenz Grotesk Light Condensed
+- Berthold Akzidenz Grotesk Condensed
+- Akzidenz Grotesk Light
+- Akzidenz Grotesk Regular
+- Akzidenz Grotesk Bold
+- Akzidenz Grotesk Super
+- The tag line should only appear with the ASH RAE logo and not with a region, chapter, section, student branch or program signature.
+- The clear space between the logo and tag line is 1 /3 the height of the ASH RAE logo or the distance between the bottom of ASH RAE in the logo and the bottom of the hexagon.
+- The tag line font is Akzidenz Grotesk Light in 100% Pantone Cool Gray 11.
+- To ensure maximum legibility and visibility, always use the appropriate amount of clear space around the logo. The clear space is the height of the "A" in the ASHRAE logo.
+- The size of the ASH RAE logo depends upon its usage. To maintain legibility the logo should never be smaller than 19mm in width (0.75" width).
+- The only approved formats for the region, chapter and section signatures are shown here.
+- The ASH RAE logo and region, chapter and section signatures should look "clean" (i.e. ample white space for visibility).
+- The region, chapter and section names should appear to the right side of the logo (horizontal format) or neatly stacked underneath (vertical format).
+- Berthold Akzidenz Grotesk Bold and Light Condensed fonts are required.
+- The clear space between the region, chapter and section signatures and logos are equal to the width of the right corner of the hexagon for horizontal formats and the height of the bottom section of the hexagon for vertical formats.
+- The region, chapter and section states are equal in prominence to the ASH RAE name in the logo.
+- The region, chapter and section name may only appear in four colors -Pantones 376, 312, 300 or Cool Gray 11.
+- Regions, chapters and sections are allowed the same color options.
+- The clear space and minimum logo size should maintain the guidelines, as stated on page v.
+- Regions, chapters and sections are allowed to use the one-color black, Pantone 287 or reversed out in white on a solid color when necessary. Four-color is required for electronic use.
+- The only approved formats for the logo and chapter signatures are shown here.
+- The ASH RAE logo and student branch signatures should look "clean" (i.e. ample white space for visibility).
+- The student branch names should appear to the right side of the logo (horizontal format) or neatly stacked underneath (vertical format).
+- The clear space between the student branch signatures and logos are equal to the width of the right corner of the hexagon for horizontal formats and the height of the bottom section of the hexagon for vertical formats.
+- The student branch name may only appear in four colors -Pantones 376, 312, 300 or Cool Gray 11.
+- Student branches are allowed to use the one-color black, Pantone 287 or reversed out in white on a solid color when necessary. Four-color is required for electronic use.
+- Examples of the logo with program names are shown here.
+- The program or initiative name may only appear under the ASH RAE logo. Placement of the name under the logo is determined by the length of the name as shown. For example, a one word program or initiative name should line up with the end of the 'E' in ASHRAE.
+- The clear space between the program or initiative name and logo is the height of the bottom hexagon section.
+- When necessary the logo with program names may appear in one color black, Pantone 287 or reversed out in white on a solid color.
 
 ## Additional Properties
 

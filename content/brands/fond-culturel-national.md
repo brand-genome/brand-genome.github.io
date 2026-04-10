@@ -2,7 +2,7 @@
 title: Fond Culturel National
 slug: "fond-culturel-national"
 description: ""
-date: "2026-03-20T08:22:05.849071"
+date: "2026-04-10T09:40:34.871220"
 draft: false
 sectors:
   - "public-sector"
@@ -47,18 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
-  - monochrome
-  - minimal
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,30 +68,69 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo consists of two elements: the visual representation ('C' composition) and the inscription. Fixed proportions are maintained. Two versions are available: National (without 'Luxembourg') and International (with 'Luxembourg'). Minimum usage size: 10 mm height for the National version, 15 mm height for the International version.
-- The logo must only be used as designed, without modifying any elements. Available in CMYK, RGB, and monochrome. Allowed uses: full color, black (positive), and white (negative). It cannot be reproduced in other colors.
-- Monochrome logos: black is always used in overlay mode. Color versions are primarily used against light-colored backgrounds. When used against colored backgrounds or photos, adequate contrast must be ensured.
-- Examples of incorrect usage provided (labeled as 'N1', 'N2', 'B1', 'B2'): logos must not lack contrast or violate transparency effects
-- Clear space guidelines specify a minimal white space boundary around the logo, with no graphic elements encroaching on this zone.
+##### Mission
 
-**Color Information:**
+- The document does not explicitly state a mission or purpose statement for Fonds culturel national.
 
-- Logo color palette consists of six primary colors ('C01' to 'C06') and three resulting secondary colors ('S01' to 'S03') from overlays. Colors are strictly defined in CMYK and RGB but not Pantone. Examples include: C01 (CMYK: 0, 35, 96, 0 | RGB: 247, 178, 0 | HEX: #f7b200).
-- Color usage rules: colors cannot be freely mixed or combined outside of the specified palette. Secondary overlay colors are exclusively for logo use.
+##### Target Audience
 
-**Typography Information:**
+- The document does not provide a description of the target audience.
 
-- Font chosen is Swiss 721 BT for all communication materials. Avoid using uppercase text for body content to prevent visual conflict with the logo. Typeface appears balanced in mixed upper- and lowercase.
-- Specific usage: Swiss 721 BT Light for body text and legends; Swiss 721 BT Light, Roman, and Bold for titles and subtitles.
+##### Visual Identity Overview
 
-**Spacing Layout:**
+- The visual identity is defined by vibrant, geometric, and contemporary designs featuring overlapping circles in shades of green, orange, red, and yellow. The logo is composed of stylized, interconnected shapes forming a circular motif, with a clean, modern sans-serif font. The color palette is strictly defined, and the layout emphasizes clarity, simplicity, and high contrast, with guidelines for logo usage, exclusion zones, and color application [^1].
 
-- Layout principles include maintaining defined clear space surrounding the logo, ensuring alignment, and preventing visual clutter.
-- Joint usage of logos: Compact presentation ensures prominence when logos are displayed alongside others in color.
-- Joint usage of logos: Compact presentation works for black-and-white contexts as well.
+#### Categories
 
-**Notes:**
+##### Color Palette
 
-- The document provides a concise set of brand identity rules, emphasizing fixed proportions, measured use of color, typography guidance, and defined presentation standards.
+- La gamme de couleurs du logotype contient 6 couleurs différentes C01 -C06, qui peuvent être utilisées soit dans les 6 lettres « C », soit en arrière-plan en surface.
+- La superposition des couleurs C génère 3 couleurs supplémentaires S01 -S 03. Ces couleurs sont utilisées dans le logotype uniquement. Les couleurs ne peuvent pas être mélangées ou combinées librement.
+- Les couleurs sont définies en quadrichromie. 11 n'y a aucune référence en Pantone.
+- CMYK 0 85 95 0 FONDS RGB 231 65 27 #e7411b CULTUREL NATIONAL CMYK 0 35 96 0 RGB 2471780 #f7b200 CMYK 35 15 100 0 RGB 187 187 15 #bbbb0f FONDS CULTUREL 7 CMYK 53 0 100 0 RGB 140 190 30 #8cbe21 NATIONAL CMYK 23 4 100 0 RGB 215 211 0 #d7d300 S 02 S03 S 01 CMYK 8 55 100 0 RGB 277 133 0 #e38500
+
+##### Typography
+
+- Swiss 721 BT a été choisie pour accompagner le logotype sur tous les supports de communication. Pour ne pas faire de concurrence visuelle au logotype, évitez d’écrire le texte courant en majuscules. La mise en page sera plus équilibrée en écriture mixte.
+- Swiss 721 BT Light, Roman et Bold est utilisée pour les titres et soustitres.
+- Swiss 721 BT Light est utilisée pour les textes courants et les légendes.
+- Swiss 721 BT Light Swiss 721 BT Roman Swiss 721 BT Bold
+
+##### Logo Usage
+
+- Le logotype est composé de deux éléments : le visuel (composition de C) et l'inscription. Le rapport entre les deux éléments est fixe.
+- Deux versions differentes du logo ont été développées. Version nationale : sans Luxembourg Version internationale : avec Luxembourg
+- Veuillez veiller à toujours respecter les propor­tions et la zone d'exclusion (voir page 6).
+- Le logotype ne doit pas être utilisé plus petit que 10 mm hauteur/Version nationale 15 mm hauteur/Version internationale
+- Le logotype doit être utilisé uniquement sous la forme représentée à droite. Aucun élément du logo ne peut être modifié.
+- Il existe en couleur (CMYK et RGB) et en monochrome. Des utilisations dans d'autres couleurs ne sont pas possibles. Au cas où il n'est pas possible de reproduire le logotype en couleur, il doit être utilisé en noir ou en blanc, mais toujours en gardant l'effet de transparence.
+- Le logotype en couleur est utilisé a priori sur un fond clair. Si le logotype est utilisé sur des fonds en couleurs ou des photographies, veuillez veiller que le contraste soit suffisant.
+- Le noir du logotype en monochrome est toujours à mettre en surimpression. Voir exemple N1 et N2.
+- La zone d'exclusion est l'espace minimal à garder en blanc autour du logotype. Aucun élément graphique ne doit empiéter sur cette zone.
+- La gamme de couleurs du logotype contient 6 couleurs différentes C01 -C06, qui peuvent être utilisées soit dans les 6 lettres « C », soit en arrière-plan en surface.
+- La superposition des couleurs C génère 3 couleurs supplémentaires S01 -S 03. Ces couleurs sont utilisées dans le logotype uniquement. Les couleurs ne peuvent pas être mélangées ou combinées librement.
+- Les couleurs sont définies en quadrichromie. 11 n'y a aucune référence en Pantone.
+
+##### Visual Style
+
+- Le logotype est composé de deux éléments : le visuel (composition de C) et l'inscription. Le rapport entre les deux éléments est fixe.
+- Deux versions differentes du logo ont été développées. Version nationale : sans Luxembourg Version internationale : avec Luxembourg
+- Veuillez veiller à toujours respecter les propor­tions et la zone d'exclusion (voir page 6).
+- Le logotype ne doit pas être utilisé plus petit que 10 mm hauteur/Version nationale 15 mm hauteur/Version internationale
+- Le logotype doit être utilisé uniquement sous la forme représentée à droite. Aucun élément du logo ne peut être modifié.
+- Il existe en couleur (CMYK et RGB) et en monochrome. Des utilisations dans d'autres couleurs ne sont pas possibles. Au cas où il n'est pas possible de reproduire le logotype en couleur, il doit être utilisé en noir ou en blanc, mais toujours en gardant l'effet de transparence.
+- Le logotype en couleur est utilisé a priori sur un fond clair. Si le logotype est utilisé sur des fonds en couleurs ou des photographies, veuillez veiller que le contraste soit suffisant.
+- Le noir du logotype en monochrome est toujours à mettre en surimpression. Voir exemple N1 et N2.
+- La zone d'exclusion est l'espace minimal à garder en blanc autour du logotype. Aucun élément graphique ne doit empiéter sur cette zone.
+- La gamme de couleurs du logotype contient 6 couleurs différentes C01 -C06, qui peuvent être utilisées soit dans les 6 lettres « C », soit en arrière-plan en surface.
+- La superposition des couleurs C génère 3 couleurs supplémentaires S01 -S 03. Ces couleurs sont utilisées dans le logotype uniquement. Les couleurs ne peuvent pas être mélangées ou combinées librement.
+- Les couleurs sont définies en quadrichromie. 11 n'y a aucune référence en Pantone.
+
+##### Layout And Composition
+
+- Le logotype est composé de deux éléments : le visuel (composition de C) et l'inscription. Le rapport entre les deux éléments est fixe.
+- Veuillez veiller à toujours respecter les proportions et la zone d'exclusion (voir page 6).
+- Le logotype ne doit pas être utilisé plus petit que 10 mm hauteur/Version nationale 15 mm hauteur/Version internationale
+- La zone d'exclusion est l'espace minimal à garder en blanc autour du logotype. Aucun élément graphique ne doit empiéter sur cette zone.

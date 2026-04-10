@@ -2,7 +2,7 @@
 title: World Triathlon
 slug: "world-triathlon"
 description: ""
-date: "2026-03-20T08:22:04.235249"
+date: "2026-04-10T09:40:32.738872"
 draft: false
 sectors:
   - sports
@@ -49,20 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - professional
-  - bold
-  - natural
-  - photography
-  - clean
+imagery_styles: []
 wikidata_description: international triathlon governing body
 wikidata_url: "https://www.wikidata.org/wiki/Q637663"
 has_twitter: false
@@ -82,45 +72,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The logo is introduced as the brand's most valuable asset, with the importance of consistent care and respect for its recognition worldwide.
-- Different logo versions are specified, including logomarks and variations such as horizontal, vertical, and standalone wordmarks.
-- Logo clear space (safe zone) rules are outlined, ensuring a specific spacing around the logo elements.
-- Minimum size requirements for the logo version are explained for digital and print media.
-- Incorrect usage examples include distorted proportions, color alterations, and placing text or images within the clear zone.
-
-**Color Information:**
-
-- Primary brand colors include specific Pantone, HEX, RGB, and CMYK codes for accurate reproduction in different media formats.
-- Secondary or accent colors with their respective codes are detailed to complement the primary palette.
-
-**Typography Information:**
-
-- Primary font family and role usage, specifying styles for headlines, body text, and other roles, are listed.
-- Secondary typography options for use in alternative scenarios or digital formats.
-- Detailed typeface weights like Regular, Medium, and Bold are provided for flexibility in design.
-
-**Imagery Photography:**
-
-- Photography style focuses on dynamic, action-packed visuals that highlight athletes in motion, with natural lighting and authentic composition.
-- Community-focused imagery showcases diversity among participants and the overall event environment.
-- Brand-centric photos emphasize clean and professional aesthetics, complementing other design elements.
-
-**Spacing Layout:**
-
-- Grids, margins, and alignment are emphasized to ensure consistent layouts across brand communication materials.
-
-**Brand Voice:**
-
-- The brand voice is described as inspiring, confident, and clear, aiming to engage trust and aspiration among audiences.
-- Key messaging encourages excitement, inclusivity, and respect for the global triathlon community.
-
-**Notes:**
-
-- Introduction about the importance of following the brand guidelines for consistent communication.
-- Mission and vision statements aim to position the brand as a leader in the triathlon and sports industry.
-- The document outlines principles like behavior, beliefs, and overall strategy for the brand.
+*Guidelines data not available*
 
 ## Additional Properties
 

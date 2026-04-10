@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-03-20T08:22:04.888575"
+date: "2026-04-10T09:40:33.648214"
 draft: false
 sectors:
   - airline
@@ -27,9 +27,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "crystal-city"
-  - tempe
   - "arlington-county"
+  - tempe
+  - "crystal-city"
 subsidiaries: []
 foundation_dates:
   - 1937
@@ -52,21 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - blue
-typographies:
-  - arial
-  - display
-  - verdana
-  - frutiger
-imagery_styles:
-  - bold
-  - clean
-  - gradient
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: former airline in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q208046"
 has_twitter: false
@@ -85,48 +74,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- The US Airways Corporate Logo and its usage, with elements being introduced and clearance configurations explained.
-- Minimum clearance configurations for logo usage provided.
-- Preferred color applications for logos illustrated.
-- Acceptable and unacceptable color applications of logos mentioned.
-- Co-branding with the Star Alliance network detailed.
-
-**Color Information:**
-
-- Details on primary and secondary corporate colors, RGB breakdown provided for colors.
-- Web color palette including specific RGB and HEX codes for colors: Athens Blue (#24427C), Sky Blue (#277DB2), Desert (#F1F0EC), Graphite (#333333), Platinum (#999999), Goldenrod (#C67F00), etc.
-- Specific usage rules for web colors: Athens Blue for clickable links, Sky Blue for subheads and hover items, Blue Cloud for information bars, and more.
-- Gradient color considerations using Pearlescent (#ECEFF0) and Dark Pearlescent (#DDE3E6) for headers and gradients.
-
-**Typography Information:**
-
-- Corporate typefaces: Frutiger family, with Frutiger 65 Bold/Light for headers and body.
-- Web standards mention Arial as a web safe font with Verdana as an acceptable substitute. Fonts specified with required weights and styles.
-
-**Imagery Photography:**
-
-- No explicit information about specific photography styles identified in this guide.
-
-**Spacing Layout:**
-
-- Standard margin rules for web layouts include: page width of 800px, content width of 750px, side margins of 25px.
-- 20px space between website modules for clarity.
-- Header bars are 35 pixels high with a gradient fade of 30 pixels. Modules use rounded corners of 10px radius.
-- Margins for flights and fares display standardized: 35px to 65px as required.
-- Popover windows include outer stroke of 1px, inner stroke of 2px, and spacing of 3px between strokes.
-
-**Brand Voice:**
-
-- Consistency in tone across printed and web materials is stressed. Clean and simple language emphasized for web communication.
-- The masterbrand's theme is unified for web applications, including consistent fonts and thematic colors.
-
-**Notes:**
-
-- Additional detail sections include US Airways sub-brands: Vacations, Dividend Miles, Club, Envoy, and Shuttle, each with separate logo and design standards.
-- Web design standards prioritize modular clarity, using 20px spacing between elements as demonstrated across illustrations.
-- CSS styles for typography, colors, and layout elements are customized for web implementation. Interbrowser compatibility is ensured through such styles.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -136,7 +84,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Crystal City](/headquarters_locations/crystal-city/); [Tempe](/headquarters_locations/tempe/); [Arlington County](/headquarters_locations/arlington-county/) |
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Tempe](/headquarters_locations/tempe/); [Crystal City](/headquarters_locations/crystal-city/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Airline Hub | Charlotte Douglas International Airport, Philadelphia International Airport, Phoenix Sky Harbor International Airport, Ronald Reagan Washington National Airport |
 | Item Operated | Airbus A320 family, Airbus A330, Boeing 767, Boeing 757, E-Jet (+3 more) |

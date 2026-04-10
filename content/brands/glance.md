@@ -2,11 +2,11 @@
 title: Glance
 slug: glance
 description: ""
-date: "2026-03-20T08:22:04.180119"
+date: "2026-04-10T09:40:32.503052"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
   - "social-media"
 regions:
   - india
@@ -48,30 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - orange
-  - grey
-  - yellow
-  - violet
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - vibrant
-  - organic
-  - bold
-  - modern
-  - natural
-  - illustration
-  - clean
-  - gradient
-  - monochrome
-  - candid
+imagery_styles: []
 wikidata_description: free software
 wikidata_url: "https://www.wikidata.org/wiki/Q28974883"
 has_twitter: false
@@ -94,42 +74,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- LOGOMARK construction and inspiration: a magnifying glass and iris. Primary colors: Tangerine orange (#F15A22) and Fuchsia red (#FC024D).
-- Do's for logo usage include maintaining clear space and positioning correctly relative to partner logos.
-- Don'ts for logo usage include rotating, distorting, reshaping, using on busy backgrounds, or altering colors.
-
-**Color Information:**
-
-- Primary Colors: Fuchsia red (#FC024D) and Tangerine orange (#F15A22).
-- Gradient usage: combines Fuchsia red (#FC024D) and Tangerine orange (#F15A22) at a 45-degree angle.
-- Color variations to represent different hues, including palettes for Fuchsia and Tangerine.
-- Monochrome colors included: Davey's grey (#555555), Dim grey, and Gainsboro.
-- Secondary colors include Violet (#501CAA), Forest Green (#009B51), and Buttercup Yellow (#FFD813).
-
-**Typography Information:**
-
-- Primary font: Muli. Characteristics include a minimalist, bold, clean, and modern design. Suitable for digital and mobile-friendly layouts.
-- Font styles available: Extra-Light, Light, Regular, Semi-Bold, Bold, Extra-Bold, Black, and their italic variants.
-- Typography usage: Bold/Semi-Bold for headlines and sub-headlines, Regular/Light for body copy.
-
-**Imagery Photography:**
-
-- Image style should be vibrant, rich, natural, warm, and candid. Effects should emphasize warmth.
-- Illustration style options include character-based designs and scenes that complement brand aesthetic.
-
-**Spacing Layout:**
-
-- Clear spacing rules specify maintaining minimum spacing around logos and graphics.
-
-**Brand Voice:**
-
-- The tone of voice should be friendly, relatable, and positive. Writing should express, resonate with people, and showcase crisp humor.
-
-**Notes:**
-
-- The brand embodies bold, organic, vibrant, and refreshing design qualities. Color and typography should align to affirm these values.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,12 +2,12 @@
 title: Valmont
 slug: valmont
 description: ""
-date: "2026-03-20T08:22:04.115648"
+date: "2026-04-10T09:40:32.197057"
 draft: false
 sectors:
-  - utilities
   - horticulture
   - construction
+  - utilities
 regions:
   - usa
 years:
@@ -58,15 +58,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
-  - roboto
-imagery_styles:
-  - photography
-  - professional
+typographies: []
+imagery_styles: []
 wikidata_description: Czech company
 wikidata_url: "https://www.wikidata.org/wiki/Q110254058"
 has_twitter: false
@@ -92,33 +87,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Detailed guidelines on logo usage, including various versions and safe zones.
-
-**Color Information:**
-
-- Corporate colors for branding with details on Pantone, CMYK, RGB, HEX formats applicable to different segments.
-
-**Typography Information:**
-
-- Primary font family: Roboto Condensed (various styles) for main usage. Arial considered as fallback.
-
-**Imagery Photography:**
-
-- Photography should capture infrastructure, agricultural growth, and water management with a focus on professional quality.
-
-**Spacing Layout:**
-
-- Clear zone specifications dictate logo spacing: 1x logo height around the perimeter of the logo.
-
-**Brand Voice:**
-
-- Tone of voice is professional yet accessible, representing passion, integrity, improvement, and results.
-
-**Notes:**
-
-- The document provides extensive guidelines on corporate branding across various mediums such as signage, stationery, and email templates.
+*Guidelines data not available*
 
 ## Additional Properties
 

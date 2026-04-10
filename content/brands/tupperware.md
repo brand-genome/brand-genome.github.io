@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-03-20T08:22:03.373628"
+date: "2026-04-10T09:40:30.894489"
 draft: false
 sectors:
   - "consumer-goods"
@@ -18,8 +18,8 @@ tags:
 industries:
   - "direct-selling"
 countries:
-  - malaysia
   - "united-states"
+  - malaysia
 revenue_buckets:
   - "1B-10B"
 operating_income_buckets: []
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: name of a home products line
 wikidata_url: "https://www.wikidata.org/wiki/Q1129117"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -77,12 +77,6 @@ visual_term_image_urls: {}
 - [https://www.tupperware.de](https://www.tupperware.de)
 - [https://my.tupperware.com](https://my.tupperware.com)
 - [https://stores.tupperwareindia.com](https://stores.tupperwareindia.com)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
 
 ## Additional Properties
 

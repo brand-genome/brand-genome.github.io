@@ -2,7 +2,7 @@
 title: Marathon Petroleum
 slug: "marathon-petroleum"
 description: ""
-date: "2026-03-20T08:22:03.999375"
+date: "2026-04-10T09:40:31.945416"
 draft: false
 sectors:
   - petroleum
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries:
   - "petroleum-industry"
 countries:
@@ -77,7 +77,98 @@ visual_term_image_urls: {}
 
 ### 2015
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To maintain the integrity and recognition of the Marathon Petroleum Corporation brand through consistent and unified visual identity standards across all media and applications.
+
+##### Core Values
+
+- integrity
+- consistency
+- clarity
+- protection of trademark
+
+##### Target Audience
+
+- Internal and external stakeholders, including employees, third-party vendors, and anyone reproducing or utilizing the Marathon logo for corporate, promotional, or specialty purposes.
+
+##### Personality Traits
+
+- competitive
+- sporty
+- professional
+- energetic
+
+##### Visual Identity Overview
+
+- The visual identity centers on a bold, stylized 'M' and the word 'MARATHON' within a hexagonal shape, using a strict color palette (red, blue, white), clear logo elements (holding line, shield, registration symbol), and precise layout and spacing rules to ensure legibility, contrast, and brand consistency across print, electronic, web, mobile, and specialty items.
+
+#### Categories
+
+##### Logo Usage
+
+- This manual contains the corporate identification standards for the Trademark of Marathon Petroleum Corporation (MPC), also referred to as the logo. Anyone utilizing the Marathon logo should reference this manual to maintain the integrity of the logo.
+- The majority of examples throughout this manual utilize the Marathon logo or the Marathon Petroleum Company LP signature, however, these guidelines apply to Marathon Petroleum Corporation and all related companies when utilizing the logo.
+- MPC Graphic Services has a variety of logo and company signature files in the correct proportions and formats to fit most needs. If you are reproducing the logo or you are working with a third party who is requesting the logo, please contact MPC Graphic Services to obtain the correct file format or go to www.marathonpetroleum.com/About_MPC/Corporate_Logos_and_Standards to download various logo formats.
+- Guidelines governing proper corporate identification standards are set forth by Marathon Petroleum Corporation Policy Statement 13001. If you have any questions regarding a specific guideline or need guidance in handling a particular logo issue, please contact MPC Graphic Services. Alterations or variations to the standard guidelines are not allowed unless they are reviewed and approved by the Corporate Identification Committee.
+- The six elements of the logo shown above have been carefully designed to function in print and electronic media as a unique and unified visual identity for Marathon Petroleum Corporation and all related companies.
+- The logo is represented here in the preferred two-color treatment. In order to maintain consistent quality of our corporate colors, the following specifications should be used: When representing the logo in Pantone printed inks, use: Red: Pantone Matching System, 199 Red (PMS 199) Blue: Pantone Matching System, 286 Blue (PMS 286) When representing the logo in full-color printed material, use the following process color combinations: Red: 100% Magenta and 62% Yellow Blue: 100% Cyan and 66% Magenta When representing the logo in RGB colors, use: Red: R = 238, G = 25, B = 58 Blue: R = 20, G = 71, B = 158 When representing the logo on websites and mobile applications, use: Red: hexadecimal #EE193A Blue: hexadecimal #14479E White: hexadecimal #FFFFFF
+- When a full-color logo is printed on a color background or full-color image, the holding line and shield must be maintained. There are other guidelines on shield and holding line use in the single-color format (refer to page 5). The registration symbol® must accompany the logo as one of its logo elements (refer to page 1 for placement).
+- Exceptions to the registration symbol ® usage are made only for certain specialty items or signage, upon approval by MPC Graphic Services and/or the Corporate Identification Committee. When using a color logo on a white or light background, the registration symbol ® should be blue. When the color logo is used against a medium or dark-colored background, the® should be white. When a single-color logo is used, the ® should be printed in the same single color.
+- Incorrect use of logo without holding line.
+- Incorrect use of logo without holding line and shield.
+- Registration symbol ® should be blue on a light-colored background.
+
+##### Color Palette
+
+- The logo is represented here in the preferred two-color treatment. In order to maintain consistent quality of our corporate colors, the following specifications should be used: When representing the logo in Pantone printed inks, use: ■ Red: Pantone Matching System, 199 Red (PMS 199) ■ Blue: Pantone Matching System, 286 Blue (PMS 286) When representing the logo in full-color printed material, use the following process color combinations: ■ Red: 100% Magenta and 62% Yellow ■ Blue: 100% Cyan and 66% Magenta When representing the logo in RGB colors, use: ■ Red: R = 238, G = 25, B = 58 ■ Blue: R = 20, G = 71, B = 158 When representing the logo on websites and mobile applications, use: ■ Red: hexadecimal #EE193A ■ Blue: hexadecimal #14479E □ White: hexadecimal #FFFFFF
+- When a full-color logo is printed on a color background or full-color image, the holding line and shield must be maintained. There are other guidelines on shield and holding line use in the single-color format (refer to page 5). The registration symbol® must accompany the logo as one of its logo elements (refer to page 1 for placement). Exceptions to the registration symbol ® usage are made only for certain specialty items or signage, upon approval by MPC Graphic Services and/or the Corporate Identification Committee. When using a color logo on a white or light background, the registration symbol ® should be blue. When the color logo is used against a medium or dark-colored background, the® should be white. When a single-color logo is used, the ® should be printed in the same single color.
+- In all forms of media, the logo must maintain legibility, readability and color recognition. Due to the wide variety of printers, as well as the quality and consistency of the color output from these devices, any color logos not printed by MPC Graphic Services should be approved by this organization prior to use. Color logos should not be printed to a black and white printer. Logos printed to a black and white printer must be placed in the document as black and white logos.
+- When representing the logo in Pantone printed inks, use: ■ Red: Pantone Matching System, 199 Red (PMS 199) ■ Blue: Pantone Matching System, 286 Blue (PMS 286)
+- When representing the logo in full-color printed material, use the following process color combinations: ■ Red: 100% Magenta and 62% Yellow ■ Blue: 100% Cyan and 66% Magenta
+- When representing the logo in RGB colors, use: ■ Red: R = 238, G = 25, B = 58 ■ Blue: R = 20, G = 71, B = 158
+- When representing the logo on websites and mobile applications, use: ■ Red: hexadecimal #EE193A ■ Blue: hexadecimal #14479E □ White: hexadecimal #FFFFFF
+- When using a color logo on a white or light background, the registration symbol ® should be blue. When the color logo is used against a medium or dark-colored background, the® should be white. When a single-color logo is used, the ® should be printed in the same single color.
+
+##### Visual Style
+
+- The six elements of the logo shown above have been carefully designed to function in print and electronic media as a unique and unified visual identity for Marathon Petroleum Corporation and all related companies.
+- The logo is represented here in the preferred two-color treatment. In order to maintain consistent quality of our corporate colors, the following specifications should be used: When representing the logo in Pantone printed inks, use: ■ Red: Pantone Matching System, 199 Red (PMS 199) ■ Blue: Pantone Matching System, 286 Blue (PMS 286) When representing the logo in full-color printed material, use the following process color combinations: ■ Red: 100% Magenta and 62% Yellow ■ Blue: 100% Cyan and 66% Magenta When representing the logo in RGB colors, use: ■ Red: R = 238, G = 25, B = 58 ■ Blue: R = 20, G = 71, B = 158 When representing the logo on websites and mobile applications, use: ■ Red: hexadecimal #EE193A ■ Blue: hexadecimal #14479E □ White: hexadecimal #FFFFFF
+- When a full-color logo is printed on a color background or full-color image, the holding line and shield must be maintained.
+- The registration symbol ® must accompany the logo as one of its logo elements.
+- Exceptions to the registration symbol ® usage are made only for certain specialty items or signage, upon approval by MPC Graphic Services and/or the Corporate Identification Committee.
+- When using a color logo on a white or light background, the registration symbol ® should be blue.
+- When the color logo is used against a medium or dark-colored background, the ® should be white.
+- When a single-color logo is used, the ® should be printed in the same single color.
+- Full-color logo on a light-colored background.
+- Full-color logo on a dark-colored background.
+- Full-color logo on a dark background image.
+- Single-color logo on a dark-colored background.
+- Incorrect use of logo without holding line.
+- Incorrect use of logo without holding line and shield.
+- Registration symbol ® should be blue on a light-colored background.
+
+##### Layout And Composition
+
+- The six elements of the logo shown above have been carefully designed to function in print and electronic media as a unique and unified visual identity for Marathon Petroleum Corporation and all related companies.
+- When a full-color logo is printed on a color background or full-color image, the holding line and shield must be maintained.
+- The registration symbol® must accompany the logo as one of its logo elements (refer to page 1 for placement).
+- When using a color logo on a white or light background, the registration symbol ® should be blue. When the color logo is used against a medium or dark-colored background, the® should be white. When a single-color logo is used, the ® should be printed in the same single color.
+- Incorrect use of logo without holding line.
+- Incorrect use of logo without holding line and shield.
+- Registration symbol ® should be blue on a light-colored background.
+
+##### Typography
+
+- For a signature, the name of the company can be shown to the right or under the logo in a font called “Univers Black.” Font substitutions for the company name are not permitted when used in conjunction with the logo.
+- When using a signature, always use an approved version to ensure correct placement and proportions of all elements.
+- The font of the company name is not Univers Black.
+- Corporate signatures should always appear as a unified graphic element. When the logo is printed in color, the company name should be black, blue or white, maintaining a definite contrast between the company name and the background. When the logo appears in a single color, the company name must appear in the same color.
+- When a company name is used separate from the logo, it is not subject to Corporate Identification Standards guidelines and may be represented in any distinctive, readable typeface or size.
+- Other than approved signatures, when using type to accompany the logo, there should be enough separation between the logo and the type so they do not appear as one unit (see spacing formula below for determining adequate separation). No type should ever touch or overlap the logo for any reason.
+- Spacing Formula x = minimum space needed y = height of logo X.375 y _ 1.25
 
 ## Additional Properties
 

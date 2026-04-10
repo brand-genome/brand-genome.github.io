@@ -2,7 +2,7 @@
 title: Coritiba Football Club
 slug: "coritiba-football-club"
 description: ""
-date: "2026-03-20T08:22:05.714937"
+date: "2026-04-10T09:40:34.667577"
 draft: false
 sectors:
   - sports
@@ -50,15 +50,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-  - white
-  - black
-typographies:
-  - arial
-  - serif
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: Brazilian football club from Curitiba
 wikidata_url: "https://www.wikidata.org/wiki/Q478317"
@@ -79,26 +73,7 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- Elements and applications of the Coritiba logo.
-- Logo colors are specified in green, black, and white.
-
-**Color Information:**
-
-- Guidelines on color usage are detailed, with specifications for CMYK, RGB, and Pantone.
-- Monochromatic version of the logo, using specified shades.
-- Correct and consistent application of RGB, CMYK, and Pantone for graphical production.
-
-**Typography Information:**
-
-- Font families Apex Serif and Knockout are allowed, while Arial is the primary font.
-
-**Notes:**
-
-- Introduction to the brand guidelines and importance of consistent and appropriate application of the Coritiba brand.
-- Details on correct proportions for all brand elements to maintain clarity.
-- Contact details for further information or inquiries about the brand.
+*Guidelines data not available*
 
 ## Additional Properties
 

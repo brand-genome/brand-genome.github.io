@@ -2,7 +2,7 @@
 title: NFL
 slug: nfl
 description: ""
-date: "2026-03-20T08:22:05.847267"
+date: "2026-04-10T09:40:34.867224"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -53,12 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: professional American football league
 wikidata_url: "https://www.wikidata.org/wiki/Q1215884"
 has_twitter: false
@@ -78,37 +75,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The redesigned NFL Shield debuted publicly at the 2008 NFL Draft and should be the only NFL Shield used thereafter. The NFL shield must not be altered in any way.
-- Clear space rules for the NFL Shield exist but exact specifications (e.g., '1x height of logo') need confirmation from visual inspection.
-- The guidelines outline how NFL Shield must adhere to background control, cropping, and minimum size standards.
-
-**Color Information:**
-
-- A color palette is outlined for brand consistency, including specific shades for the NFL Shield.
-- Black & White and One Color versions of the NFL Shield are detailed.
-
-**Typography Information:**
-
-- NFL Typeface styles and their usage for branding purposes are defined but need clarity on weights, roles, and sizes.
-
-**Imagery Photography:**
-
-- Photography styles and mood guidelines to reflect NFL branding are provided.
-
-**Spacing Layout:**
-
-- Grid layout, margins, or padding for elements are generally referenced but require visual confirmation.
-
-**Brand Voice:**
-
-- The brand messaging emphasizes relevance to diverse fan segments, evolution of the NFL image, and maintaining fair competition.
-
-**Notes:**
-
-- The NFL branding guidelines are for internal reference only and require NFL's written consent to be reproduced or distributed.
-- General adherence to standards at the highest level is emphasized. The NFL branding serves the largest, most diverse audience in sports entertainment.
+*Guidelines data not available*
 
 ## Additional Properties
 

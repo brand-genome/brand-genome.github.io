@@ -2,7 +2,7 @@
 title: Waka Kotahi
 slug: "waka-kotahi"
 description: ""
-date: "2026-03-20T08:22:05.532808"
+date: "2026-04-10T09:40:34.433208"
 draft: false
 sectors:
   - "public-sector"
@@ -51,15 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: New Zealand Crown entity
 wikidata_url: "https://www.wikidata.org/wiki/Q7015807"
 has_twitter: false
@@ -79,37 +74,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo placement and guidelines for the NZ Transport Agency brand, including accepted formats, minimum size, clear space requirements, and examples.
-- Relationship between the Waka Kotahi logo and all-of-government brand, covering alignment, sizing, and color requirements.
-- Safer Journeys logo placement rules, including clear space and minimum size guidelines for co-branding communication.
-- Guidance for logo lock-ups with supplier brands, showcasing alignment practices and use of a blue reverse background with angled dividers.
-- Guidelines for external communications logos in printed stationery, emphasizing unity and legibility across diverse material formats.
-
-**Color Information:**
-
-- Primary brand colors: RGB and Pantone specifications for agency-specific brand expressions (AT Blue, PMS 539, Transport Agency Green, PMS 583).
-- Guidance on using colors in co-branded government and agency publications, aligned to New Zealand's all-of-government branding protocols.
-
-**Typography Information:**
-
-- Primary typeface Whitney, offered in weights Light to Black for headings, paragraphs, and captions; includes Māori character support.
-- Typography flexibility in online platforms or business letter projects; emphasizing clear hierarchy using Whitney styles.
-
-**Imagery Photography:**
-
-- Usage rules for photography and stylistic directives tied to Waka Kotahi campaigns in publication templates.
-
-**Spacing Layout:**
-
-- Safe margin and alignment guidelines for logo placement, ensuring clear space and consistent positioning for recognition and clarity.
-- Details on minimum spacing between logos in co-branding, ensuring proportional alignment and visual balance in layout design.
-
-**Notes:**
-
-- The Waka Kotahi NZ Transport Agency brand manual provides comprehensive guidelines for consistent branding and strong visual identity.
-- The purpose of the manual includes managing and updating brand usage guidelines and offering contact information for clarification.
+*Guidelines data not available*
 
 ## Additional Properties
 

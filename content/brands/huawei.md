@@ -2,12 +2,12 @@
 title: Huawei
 slug: huawei
 description: ""
-date: "2026-03-20T08:22:04.252585"
+date: "2026-04-10T09:40:32.841845"
 draft: false
 sectors:
-  - networking
   - software
   - telecom
+  - networking
 regions:
   - china
 years:
@@ -17,9 +17,9 @@ languages:
 tags:
   - telecommunications
 industries:
-  - "electronics-industry"
   - telecommunications
   - "information-and-communications-technology"
+  - "electronics-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
@@ -36,15 +36,15 @@ total_equity_buckets:
   - "UNDER-1M"
 market_cap_buckets: []
 products_or_materials_produced:
+  - laptop
   - "networking-hardware"
   - 5g
-  - smartphone
-  - "managed-services"
   - smartwatch
+  - "managed-services"
+  - dongle
+  - smartphone
   - "tablet-computer"
   - "broadband-internet-access"
-  - dongle
-  - laptop
 products: []
 headquarters_locations:
   - shenzhen
@@ -70,21 +70,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - white
-  - grey
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - gradient
-  - professional
+imagery_styles: []
 wikidata_description: Chinese multinational technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q160120"
 has_twitter: false
@@ -112,36 +101,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo usage involves both horizontal and vertical versions, featuring a gradient red symbol. Common applications include backdrops, pull-up banners, podium stands, and vehicle signage. Specifically, the corporate logo with gradient red is used under optimal conditions for fabrication and design.
-- File formats not explicitly mentioned but examples showed various applications with embedded logos.
-- Clear space guidance, such as proportions (e.g., 2.5x spacing around the logo), is outlined and matched with backdrop layouts where dimensions are consistent for balance.
-- Some 'do-not dos': Avoid compressing logos, using incorrect proportions, or applying it over clashing graphics or colors.
-
-**Color Information:**
-
-- Primary color: Huawei Red (e.g., RGB 199/0/11, CMYK and variations depending on print). The primary color is supplemented by neutral colors like white, black, and grey for accents.
-
-**Typography Information:**
-
-- The official typeface is Huawei Sans, used consistently for branding, including web, signage, and print. Common weights include Regular and Bold.
-
-**Imagery Photography:**
-
-- Images should reflect brand tone (professional, technical, innovative). Over-editing (e.g., applying filters, modifying Huawei-embedded visuals) is discouraged for clarity.
-
-**Spacing Layout:**
-
-- Templates feature formalized measurements surrounding focal elements using the certified 'grid framework.' Margins such as 66-170mm appear in designs like event banners positioned accordingly.
-
-**Brand Voice:**
-
-- Messaging maintains professionalism combined with innovation, ensuring brand relevance while using consistent tone enriched by human-centric values.
-
-**Notes:**
-
-- Huawei's visual identity guidelines emphasize clarity and harmony across applications, encompassing the usage of corporate logos, primary colors, and cohesive layouts following predefined principles.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -151,7 +111,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [5G](/products_or_materials_produced/5g/); [Smartphone](/products_or_materials_produced/smartphone/); [Managed Services](/products_or_materials_produced/managed-services/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Dongle](/products_or_materials_produced/dongle/); [Laptop](/products_or_materials_produced/laptop/) |
+| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [5G](/products_or_materials_produced/5g/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Managed Services](/products_or_materials_produced/managed-services/); [Dongle](/products_or_materials_produced/dongle/); [Smartphone](/products_or_materials_produced/smartphone/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
 | Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
 | Foundation Date | [1987](/foundation_dates/1987/) |
 | Founded By | Ren Zhengfei |

@@ -2,11 +2,11 @@
 title: Würth
 slug: wurth
 description: ""
-date: "2026-03-20T08:22:05.573900"
+date: "2026-04-10T09:40:34.496035"
 draft: false
 sectors:
-  - construction
   - hardware
+  - construction
 regions:
   - germany
 years:
@@ -72,103 +72,4 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- BASIC GUIDELINES
-  
-   
- 
-3
-1.
- IN
-T
-RODUC
-T
-IO
-N
-2.
- B
-RAND MARK
-3.
- COLOURS
-
-4.
- 
-T YP
-OGRA
-PHY
-5.
- GRID
-/
-L
-A
-Y
-OU
-T
- 
-P
-RIN
-CI
-P
-LE
-6.
- IMAGER
-Y
-CON
-T
-EN
-T
-S
- 
-7.
- 
-B
-RAND
- 
-ARC
-H
-I
-T
-EC
-T
-URE
- 
- 
-8.
- I
-NSER
-T
-S
- 
-9.
- 
-T
-A
-B
-LES
- 
-AND
- 
-C
-H
-AR
-T
-S
- 
- 
-10.
- 
-TEC
-H
-NIC AL 
-I
-LLUS
-T
-RA
-T
-IONS
- 
-11.
- 
-FAS
-T Y
+*Guidelines data not available*

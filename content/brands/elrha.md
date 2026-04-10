@@ -2,7 +2,7 @@
 title: Elrha
 slug: elrha
 description: ""
-date: "2026-03-20T08:22:04.084108"
+date: "2026-04-10T09:40:32.139196"
 draft: false
 sectors:
   - ngo
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: nonprofit organization in the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q45132340"
 has_twitter: false
@@ -75,40 +74,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Page 5 contains relevant details about logo information.
-- Page 6 contains relevant details about logo information.
-- Page 7 contains relevant details about logo information.
-- Page 8 contains relevant details about logo information.
-- Page 9 contains relevant details about logo information.
-- Page 10 contains relevant details about logo information.
-- Page 11 contains relevant details about logo information.
-- Page 12 contains relevant details about logo information.
-
-**Color Information:**
-
-- Page 5 contains relevant details about color information.
-- Page 6 contains relevant details about color information.
-- Page 7 contains relevant details about color information.
-- Page 13 contains relevant details about color information.
-- Page 15 contains relevant details about color information.
-- Page 19 contains relevant details about color information.
-
-**Typography Information:**
-
-- Page 14 contains relevant details about typography information.
-- Page 19 contains relevant details about typography information.
-
-**Imagery Photography:**
-
-- Page 20 contains relevant details about imagery photography.
-
-**Brand Voice:**
-
-- Page 2 contains relevant details about brand voice.
-- Page 3 contains relevant details about brand voice.
-- Page 4 contains relevant details about brand voice.
+*Guidelines data not available*
 
 ## Additional Properties
 

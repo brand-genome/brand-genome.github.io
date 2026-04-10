@@ -2,7 +2,7 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-03-20T08:22:04.250824"
+date: "2026-04-10T09:40:32.839384"
 draft: false
 sectors:
   - education
@@ -53,23 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - primary
-  - secondary
-  - wordmark
-brand_colors:
-  - green
-  - "pantone-3435"
-  - gold
-  - white
-  - gray
-  - black
-  - "pantone-4515"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
+imagery_styles: []
 wikidata_description: private college in the U.S. state of Georgia
 wikidata_url: "https://www.wikidata.org/wiki/Q7191499"
 has_twitter: false
@@ -87,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Piedmont College primary wordmark available in variations: black, white, and Piedmont green. Minimum size: 0.25 inches. Clear space rule defined as 1/2 the height of the letters.
-- Optional versions of the Piedmont College wordmark created for different applications alongside promotional text about the college.
-- Historical Mayflower logos honoring Piedmont College heritage. Do not change colors, typography, or proportions of elements to create variations.
-- School and special program configurations allowing unit names incorporated with wordmarks. Minimum width of rules defined.
-- Athletic and spirit logos including a lion head for sanctioned sports, spirit, and student organizations. Must maintain proportions and be reproduced in either black and white or Piedmont College green, black, and white.
-- Older versions of logos are discontinued and must not be used.
-- Usage of Piedmont College Seal restricted to materials officially sanctioned by the Office of the President.
-
-**Color Information:**
-
-- Primary brand color - Pantone 3435 green: CMYK (86, 45, 79, 49), HEX #144734, RGB (20, 72, 52).
-- Primary brand color - Pantone 4515 gold: CMYK (30, 31, 69, 2), HEX #B5A268, RGB (181, 162, 104).
-- Secondary colors include Pantone Cool Gray 5 and Pantone Black 7, as well as HEX/B RGB specifications.
-
-**Typography Information:**
-
-- Primary typeface - Goudy Old Style: regular, italic, and bold. Secondary typeface - Myriad Pro: light and semibold. Use these fonts exclusively for official materials.
-- Stationery guidelines include 12pt Goudy Old Style, 8pt Myriad Pro Light Italic, and spacing requirements for layout.
-
-**Spacing Layout:**
-
-- Clear zone for all wordmarks and logos must equal 1/2 the height of the letters in the wordmark. Minimum size for logos is specified as 0.25 inches.
-
-**Brand Voice:**
-
-- Brand messaging emphasizes guidance, exploration, and belonging for students. Includes phrases: 'Find you here', 'We'll guide you along your path.', and 'Explore Piedmont College.'
-
-**Notes:**
-
-- All modified or off-standard graphic elements must be approved by David Price, Director of Public Relations, prior to production.
-- Contact for assistance with branding: publications@piedmont.edu or 706-778-3000.
+*Guidelines data not available*
 
 ## Additional Properties
 

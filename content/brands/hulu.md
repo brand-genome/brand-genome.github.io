@@ -2,7 +2,7 @@
 title: Hulu
 slug: hulu
 description: ""
-date: "2026-03-20T08:22:03.794090"
+date: "2026-04-10T09:40:31.402161"
 draft: false
 sectors:
   - broadcasting
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2023
   - 2022
+  - 2023
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - entertainment
 industries:
   - "video-on-demand"
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: American video streaming service
 wikidata_url: "https://www.wikidata.org/wiki/Q1630304"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,20 +72,6 @@ visual_term_image_urls: {}
 
 - [https://www.hulu.com](https://www.hulu.com)
 - [https://www.thisishulu.com](https://www.thisishulu.com)
-
-## Brand Guidelines
-
-### UNKNOWN
-
-*Guidelines data not available*
-
-### 2023
-
-*Guidelines data not available*
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

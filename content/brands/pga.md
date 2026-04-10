@@ -2,7 +2,7 @@
 title: PGA
 slug: pga
 description: ""
-date: "2026-03-20T08:22:04.885989"
+date: "2026-04-10T09:40:33.643061"
 draft: false
 sectors:
   - sports
@@ -51,25 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - seal
-  - primary
-brand_colors:
-  - gold
-  - "pantone-872"
-  - blue
-  - "pantone-533"
-  - black
-typographies:
-  - gotham
-  - serif
-  - impact
-  - arial
-  - times
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: trade association in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q253075"
 has_twitter: false
@@ -89,38 +74,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The PGA Section logo must appear with the section name underneath the PGA logo, typed in Gotham Book font. The space between the PGA logo and the section name is equal to the height of the PGA letters in the seal.
-- Minimum clear space around the logo must be equal to the height of the PGA letters in the seal. This isolates the logo from competing graphic elements and ensures legibility and impact.
-- Section logo's minimum dimensions: the height of the PGA of America Seal must not be reproduced smaller than 0.5 inches from top to bottom.
-- The Section logo must appear in Gold and Blue (PANTONE 872 C/ 872 U for Gold, and PANTONE 533 C/ 539 U for Blue). Color specifications include CMYK: Blue (C95 M72 Y15 K62), Gold (C20 M30 Y70 K15). RGB: Blue (R37 G50 B85), Gold (R180 G151 B90).
-- Alternate color variations for the logo, including one-color gold, one-color black, and reverse logo, are allowed when the two-color version cannot be accurately reproduced.
-- Metallic gold foil can be used for formal presentations of the logo. The gold foil should match PANTONE 872 as closely as possible.
-
-**Color Information:**
-
-- Primary colors include Gold and Blue. PANTONE codes: Gold (872 C, 872 U), Blue (533 C, 539 U). CMYK and RGB values are: Gold (C20 M30 Y70 K15, R180 G151 B90), Blue (C95 M72 Y15 K62, R37 G50 B85).
-- Gold and Blue are the primary colors, but alternate variations include one-color Gold, one-color Black, and reverse logo for specific scenarios.
-- Metallic gold foil may be used in formal contexts and should match PANTONE 872 as closely as possible.
-
-**Typography Information:**
-
-- Gotham and Hoefler Text are the main typefaces. Gotham is for headlines, captions, and primary messaging, available in various weights (Black, Bold, Medium, Book). Hoefler Text, a serif font, is intended for body text.
-- Typography guidelines for correspondence: Gotham Book replaces Arial, and Times Roman replaces Hoefler Text in letters. Letterhead uses Gotham Book with different weights specified for names, titles, and addresses.
-- Business cards use Gotham Bold for names (9 pt), Gotham Book for titles (6 pt), and section name above address in Gotham Bold (7.5 pt).
-
-**Spacing Layout:**
-
-- Minimum clear space around the logo equals the height of the PGA letters in the seal. Minimum size requirement is 0.5 inches for the seal's height.
-- Letterhead specification includes spacing and alignment for the logo: diameter of seal is 0.875 inches, margins dimensioned precisely for design uniformity.
-- Envelope and business card layouts include standardized spacing: 0.125 inches border spacing, precise alignments for typography, logo, and text blocks.
-
-**Notes:**
-
-- The guidelines emphasize consistency, care, and precision in logo reproduction. Vendors are required to use official assets and follow strict production specifications.
-- Formal guidelines are mandatory for maintaining brand symmetry and identity. No alternation of logo proportions, visual elements, or typography is allowed.
-- Tagline for business cards and envelopes: 'The Experts in the Game and Business of Golf' is always italicized and uses Gotham Book Italic (9 pt).
+*Guidelines data not available*
 
 ## Additional Properties
 

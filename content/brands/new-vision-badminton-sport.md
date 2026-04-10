@@ -2,7 +2,7 @@
 title: New Vision Badminton Sport
 slug: "new-vision-badminton-sport"
 description: ""
-date: "2026-03-20T08:22:04.114715"
+date: "2026-04-10T09:40:32.189108"
 draft: false
 sectors:
   - sports
@@ -46,28 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - red
-  - green
-  - white
-  - maroon
-  - blue
-  - violet
-  - black
-typographies:
-  - impact
-  - display
-imagery_styles:
-  - bold
-  - monochrome
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -85,57 +67,114 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- The NVBS Corporate Signature includes the NVBS shuttlecock symbol and the NVBS logotype. Customizations ensure legibility in all orientations and sizes. The horizontal version is the preferred application.
-- Brand Signature construction includes various size proportions like 5x, 6x, and defines relationships between elements. The width of the stroke of the letter 'N' from the logotype is used as a reference for spacing.
-- Clear area around the NVBS Brand Signature must be maintained to ensure visibility and impact. The height of the letter 'N' (x) serves as the standard unit for calculating the clear area.
-- The Brand Symbol has a defined clear space rule, with measurements equal to half the height of the NVBS Brand Symbol.
-- Possible compositions for the Brand Signature include horizontal, vertical, right-side slogan oriented versions, and an anniversary logo.
-- Minimum size requirement: For websites, logo height is between 20-30px and symbol height is between 10-15px. For printing, minimum heights are 15mm for logo and 5mm for symbol.
-- Incorrect usages: prohibition of color changes, replacing logotype typefaces, placing the logo on uneven or textured backgrounds, altering proportions between elements, or distorting the logo in any way.
-- A monochrome version of the NVBS Brand Signature is available for one-color reproduction in black.
+##### Mission
 
-**Color Information:**
+- Grow and strengthen badminton in society by achieving interest and training small kids to become professional players and helping them reach national and international levels. Promote sport and healthy lifestyles to young children and provide a platform for participation in big tournaments through rigorous training in badminton, inspiring society to encourage more physical activities for fitness and health [^1].
 
-- Primary Palette includes the following colors:
-- White (RGB: 255/255/255, CMYK: 0/0/0/0, HEX: #FFFFFF)
-- Black (RGB: 0/0/0, CMYK: 60/40/40/100, HEX: #000000)
-- Red (Pantone: 1795C, RGB: 255/0/0, CMYK: 0/84/80/17, HEX: #FF0000).
-Use Pantone spot colors for accurate print production and CMYK for 4-color prints.
-- Secondary Palette includes five additional colors:
-- Dark Green (RGB: 0/120/100, CMYK: 100/0/17/53, HEX: #007864),
-- Light Green (RGB: 185/249/77, CMYK: 26/0/69/2, HEX: #B9F94D),
-- Light Blue (RGB: 30/188/255, CMYK: 88/26/0/0, HEX: #1EBCFF),
-- Violet (RGB: 148/37/200, CMYK: 26/82/0/22, HEX: #9425C8),
-- Dark Maroon (RGB: 63/15/73, CMYK: 14/79/0/71, HEX: #3F0F49).
-- Standards for using the logo and symbols on different background colors were provided.
+##### Core Values
 
-**Typography Information:**
+- Love All
+- Inclusivity
+- Health
+- Sport
+- Professionalism
 
-- The primary typeface is Archivo, available in Bold, Medium, Regular, and Light weights. It supports over 200 world languages and is crafted for both print and online use.
-- Typography hierarchy:
-- Display: Light, 42pt
-- Modal Titles Header: Bold, 34pt
-- Page Titles: Medium, 28pt
-- Title 2: Medium, 22pt
-- Headline: Regular, 20pt
-- Body: Light, 14pt
-- Caption: Regular, 12pt
+##### Target Audience
 
-**Imagery Photography:**
+- Young children, aspiring badminton players, and the broader community interested in sport and healthy lifestyles [^2].
 
-- Branded illustrations are used in all communications and aim to convey the brand idea of 'Love All.'
+##### Personality Traits
 
-**Spacing Layout:**
+- Modern
+- Minimalist
+- Energetic
+- Inclusive
+- Professional
 
-- Layouts for brand collateral are specified, including business cards, letterhead, envelopes, ID cards, sportswear, and other branded materials.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is characterized by a bold red color palette, minimalist and clean layouts, prominent use of stylized shuttlecock and heart motifs, continuous line illustrations, and a modern sans-serif typeface (Archivo). The brand emphasizes clarity, legibility, and consistent application across all media, with graphic elements and icons unified by a single-line style [^3].
 
-- The brand voice prioritizes consistency in usage of elements such as the corporate signature, colors, and typography for cohesive marketing.
-- The branded slogan 'LOVE ALL' must accompany the NVBS logotype.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Documents provide detailed construction and application designs for logos, colors, and typefaces but lacks direct examples of other brand voice descriptors or photography treatment.
+- Branded illustration is used in all materials of com­munication of the audience with the NVBSBbrand. It plays a key role in conveying the idea "Love All".
+- The branded set of icons is made in the style of one line. It can be used to create illustrations on the web or other media.
+
+##### Color Palette
+
+- A palette of primary colors has been developed, which comprise the “One Voice” color scheme. Consistent use of these colors will contribute to the cohesive and harmonious look of the brand identity across all relevant media. The chart at the left provides color specifications for a variety of displays. Always refer back to the Pantone color system as the reference standard.
+- RGB CMYK #HEX Pantone 1795C RGB 255/0/0 CMYK 0/84/80/17 #HEX FF0000
+- For print production, use Pantone spot colors for most accurate color equivalents when process colors are required, for instance when reproducing 4-color reproduction. Use CMYK Safe Hexachrome safety is not an issue.
+- For the Web, use the Browser system, or Hexachrome equivalent if browser translates the RGB value into it’s direct reproduction.
+- RGB 0/0/0 CMYK 60/40/40/100 #HEX 000000
+- Color fields are used to highlight headlines, frame the visuals and increase the stopping power of a communications piece. When choosing colors, select those that complement the key visuals for greatest impact. For added emphasis, colors from the palette can also be applied to type in solid or fields can be used to highlight areas of a piece that contain special information.
+- Tinted color fields are used to highlight headlines, frame visuals or increase the stopping power of a communications piece. Tinted color fields can be used to highlight areas of a piece that contain special information.
+- RGB CMYK #HEX 0/120/100 100/0/17/53 007864
+- RGB CMYK #HEX 30/188/255 88/26/0/0 1EBCFF
+- RGB CMYK #HEX 148/37/200 26/82/0/22 9425C8
+- RGB CMYK #HEX 63/15/73 14/79/0/71 3F0F49
+- RGB CMYK #HEX 185/249/77 26/0/69/2 B9F94D
+- Correct use of color will enhance the impact of the NVBS Brand Signature and will differentiate the NVBS brand from competition. The guidelines below provide standards for placing the signature on a background color.
+
+##### Typography
+
+- Archivo is a grotesque sans serif typeface family originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces. The technical and aesthetic characteristics of the font are both crafted for high performance typography. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages.
+- Bold Medium Regular Light
+- Display Modal Titles Light 42pt Display NEW VISION BADMINTON SPO˜T
+- Header Page titles Bold 34pt Header OU˜ MISSION
+- Title 1 Tabs, titles, forms Medium 28pt Body people Grow and strengthen Badminton in societ° through achieving ’s interest & training small ˛ids to become a professional pla°ers and helping them to reach National & International level.
+- Title 2 Medium 22pt
+- Headline Info paragraphs Regular 20pt
+- Body Station descriptions Light 14pt
+- Caption Time stamps, footers Regular 12pt
+
+##### Logo Usage
+
+- These standards provide the building blocks for supporting NVBS’s corporate identity system.They are designed to help you apply the NVBS Corporate Signature correctly and consistently across all media. The NVBS signature may only be used for products, services and offers in accordance with the terms of the license agreement with NVBS corporation.
+- The relationship between the elements of the Brand Signature and Slogan in terms of size, position and proportion are strictly defined. These controls are demonstrated below and may not be altered. All distances are interconnected and the corresponding proportions to the size “x”. The width “x” corresponds to the width of the stroke of the letter N.
+- It is essential that The Brand Symbol remain free of graphics, photography, typography, and other ele­ments. The Brand SYmbol must always be the most legible and viewable element in any given graphic space.
+- The unit of measure equals the half height of the NVBS Brand Symbol.
+- This page shows possible compositional solutions for Brand Symbol. Use only the options listed below
+- To ensure that the NVBS Brand Signature is always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined for digital and print designes.
+- a signatute for a website is usually between 20px and 30px.
+- Minimum logo height for printing
+- The minimum symbol height for a website is usually between 10px and 15px.
+- Do not alter the relationship between the shuttlecock symbol and the NVBS signature in any way.
+- Do not alter the proportions between the shuttlecock symbol and the NVBS logotype.
+- Do not stretch,condense or distort the logotype.
+- Do not replace the NVBS logotype with another typeface.The logotype has been designed and should not be altered in any way.
+- Do not place the signature on a textured or screened background. The texture makes the signature unclear.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not rotate or flip the shuttlecock symbol in any way.
+- Please note: These signatle elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+
+##### Visual Style
+
+- The graphic elements of the NVBS corporate identity system—the NVBS Corporate Signature, the signature colors and the Archivo typeface—are among the most valuable marketing and communications tools we have. When used properly, these elements support a carefully designed corporate identity system: they allow us to speak with one voice in the marketplace.
+- These standards provide the building blocks for supporting NVBS’s corporate identity system.They are designed to help you apply the NVBS Corporate Signature correctly and consistently across all media. The NVBS signature may only be used for products, services and offers in accordance with the terms of the license agreement with NVBS corporation.
+- The relationship between the elements of the Brand Signature and Slogan in terms of size, position and proportion are strictly defined. These controls are demonstrated below and may not be altered. All distances are interconnected and the corresponding proportions to the size “x”. The width “x” corresponds to the width of the stroke of the letter N.
+- It is essential that The Brand Symbol remain free of graphics, photography, typography, and other ele­ments. The Brand SYmbol must always be the most legible and viewable element in any given graphic space.
+- The unit of measure equals the half height of the NVBS Brand Symbol.
+- This page shows possible compositional solutions for Brand Symbol. Use only the options listed below
+- To ensure that the NVBS Brand Signature is always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined for digital and print designes.
+- Correct use of color NVBS Brand Signature and will differentiate the NVBS brand from competition. The guidelines below provide standards for the signature on a background color
+- A palette of primary colors has been developed, which comprise the “One Voice” color Consistent use of these colors will contribute to the cohesive and harmonious look brand identity across all relevant media. The chart at the left provides color a variety of displays. Always refer Pantone color
+- For print production, use Pantone spot colors for most accurate color equivalents when process colors are required, for instance when reproducing 4-color For the Web, use the Browser system, or Hexachrome equivalent if browser reproduction. Use CMYK Safe Hexachrome safety is not an the prints. translate the RGB value into it’s direct
+- Color the visuals and increase the stopping power communications piece.When choosing colors, select those that complement the key visuals for greatest impact. For added emphasis, colors from the palette can also be applied to type in solid or fields can be used to highlight areas of a piece that contain special information.
+- Branded illustration is used in all materials of com­munication of the audience with the NVBSBbrand. It plays a key role in conveying the idea "Love All".
+- The branded set of icons is made in the style of one line. It can be used to create illustrations on the web or other media.
+
+##### Iconography
+
+- The branded set of icons is made in the style of one line. It can be used to create illustrations on the web or other media.
+
+##### Layout And Composition
+
+- The relationship between the elements of the Brand Signature and Slogan in terms of size, position and proportion are strictly defined. These controls are demonstrated below and may not be altered. All distances are interconnected and the corresponding proportions to the size “x”. The width “x” corresponds to the width of the stroke of the letter N.
+- This page shows possible compositional solutions for Brand Symbol. Use only the options listed below
+- It is essential that The Brand Symbol remain free of graphics, photography, typography, and other ele­ments. The Brand SYmbol must always be the most legible and viewable element in any given graphic space.
+- The unit of measure equals the half height of the NVBS Brand Symbol.

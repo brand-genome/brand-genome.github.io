@@ -2,11 +2,11 @@
 title: Sylius
 slug: sylius
 description: ""
-date: "2026-03-20T08:22:04.856794"
+date: "2026-04-10T09:40:33.606948"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - poland
 years:
@@ -47,16 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - gray
-  - green
-  - white
-  - blue
-typographies:
-  - "proxima-nova"
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q97379963"
@@ -75,27 +68,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Introduction to the Sylius logo, including its full variation and logotype.
-
-**Color Information:**
-
-- Color: Primary Color - #22B99A, CMYK: 73, 0, 51, 0, RGB: 34, 185, 154, HEX: N/A
-- Color: White, CMYK: 0, 0, 0, 0, RGB: 255, 255, 255, HEX: #FFFFFF
-- Color: Secondary Gray, CMYK: 0, 0, 0, 40, RGB: 167, 169, 172, HEX: #A7A9AC
-- Color: Secondary Green, CMYK: 79, 16, 61, 1, RGB: 36, 157, 129, HEX: #249D81
-- Color: Dark Green, CMYK: 76, 67, 65, 79, RGB: 20, 24, 25, HEX: #141819
-- Color: Dark Blue, CMYK: 87, 73, 51, 52, RGB: 30, 46, 62, HEX: #1E2E3E
-
-**Typography Information:**
-
-- Logotype font: Proxima Nova.
-- Content font: Museo. Text example: 'Combining our eCommerce framework with the tools you need to run a thriving business is a breeze.'
-
-**Brand Voice:**
-
-- Catalyze trade with technology. 'Catalyze means to cause or accelerate (a reaction) by acting as a catalyst.' Sylius emphasizes the role of its software and services in enabling voluntary, win-win transactions globally, fostering happiness and prosperity.
+*Guidelines data not available*
 
 ## Additional Properties
 

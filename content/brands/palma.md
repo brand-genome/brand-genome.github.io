@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-03-20T08:22:04.679848"
+date: "2026-04-10T09:40:33.393470"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - spain
@@ -48,36 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - "pantone-485"
-  - "pantone-647"
-  - "pantone-500"
-  - "pantone-287"
-  - "pantone-200"
-  - "pantone-258"
-  - white
-  - "pantone-444"
-  - "pantone-383"
-  - "pantone-3125"
-  - "pantone-116"
-  - "pantone-457"
-  - "pantone-130"
-  - "pantone-477"
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - modern
-  - natural
-  - photography
-  - clean
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city in Mallorca and capital of the Balearic Islands, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q8826"
 has_twitter: false
@@ -99,49 +73,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- The logo is provided in two primary versions: open logo (marca abierta, without a background frame) and closed logo (marca cerrada, with a background frame).
-- Proportional measurements for the open logo are defined using the height of the letter 'A' (X) in 'Ajuntament' as the base unit.
-- Proportional measurements for the closed logo include specific parameters where the background box sizes are based on the height of 'A' (X).
-- The logo is provided in positive versions with several color options: Pantone 444, Pantone 457, Pantone 287, Pantone 485, Pantone 116, as well as black-and-white (positive).
-- The logo is also provided in negative versions with color options (Pantone 444, 457, 287, 485, 116, Black). Includes monochromatic and black-and-white (negative) options.
-- Multichromatic versions of the logo are available for communications purposes. A selection of colors can be used based on the theme, tone, or chromatic look of the creative piece.
-- Some colors are highlighted as suitable for communication: Pantone 383, 258, 500, 647, 200, 477, 130, and 3125.
-- The multicolored version of the logo should only be used in the closed logo format.
-
-**Color Information:**
-
-- Primary logo color details: Pantone 444, Pantone 457, Pantone 287, Pantone 485, Pantone 116.
-- Secondary color palette for communication includes Pantone 383, Pantone 258, Pantone 500, Pantone 647, Pantone 200, Pantone 477, Pantone 130, and Pantone 3125. A triad color palette (primary and two complementaries) is established.
-
-**Typography Information:**
-
-- Primary headline font: Klavica Bold. Described as modern and impactful, ideal for headlines.
-- Body text font family: Myriad Pro. Versatile family includes Regular, Bold, Italic, Bold Italic, Condensed, and Condensed Italic.
-- Typography recommendations include distinct roles for Klavica (headlines) and Myriad Pro (body text). Myriad is also used in the main logo of the Ajuntament.
-
-**Imagery Photography:**
-
-- Photography must display an aesthetic of simplicity, honesty, credibility, and closeness. 'Less is more' is the guiding philosophy.
-- Images should include credible and natural casts. Minor imperfections in the subjects should be preserved to maintain authenticity.
-- Lighting, materials, and locations must convey a Mediterranean harmony, blending natural colors and textures.
-- Postproduction guidelines include enhancing contrast and lowering color saturation to create a near monochromatic look while maintaining the brand's multichromatic identity.
-
-**Spacing Layout:**
-
-- Proportional guidelines for the logo in various applications such as landscape (X divided by 3 for one-third of the document width). Layout guides provided for vertical, horizontal, and external uses.
-- Areas of free composition are defined in press applications to maintain clean spacing.
-
-**Brand Voice:**
-
-- The communication tone must balance rational and emotional elements. Public-facing messaging should be clear, conversational, and relatable, avoiding empty political rhetoric.
-- The brand's voice portrays honesty, simplicity, credibility, and community connection. Less is more: simplify information and establish hierarchies for easier consumption.
-- Messages should always provoke a positive response, using relatable images and ensuring a warm and approachable tone.
-
-**Notes:**
-
-- The brand applies eco-conscious factors to its printing materials, encouraging the use of 100% recycled paper and FSC-certified stock. Plastification is to be avoided.
+*Guidelines data not available*
 
 ## Additional Properties
 

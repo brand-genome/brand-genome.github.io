@@ -2,11 +2,11 @@
 title: Paige
 slug: paige
 description: ""
-date: "2026-03-20T08:22:04.211909"
+date: "2026-04-10T09:40:32.588269"
 draft: false
 sectors:
-  - networking
   - hardware
+  - networking
 regions:
   - usa
 years:
@@ -50,17 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - navy
-  - white
-  - blue
-  - gray
-  - black
-typographies:
-  - "open-sans"
-imagery_styles:
-  - bold
-  - clean
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "UK pop-rock band formerly signed to Walnut Tree Records"
 wikidata_url: "https://www.wikidata.org/wiki/Q7124703"
 has_twitter: false
@@ -81,50 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- BRAND STANDARDS & STYLE GUIDE
-
-
-**Color Information:**
-
-- Corporate Website Design 
-|
-Web | Color Palette
-FULL BLACK
-#000000
-NAVY BLUE
-#043D5D
-GRAPHITE GRAY
-#58595B
-CLEAN BLUE
-#005A93
-METAL GRAY
-#D1D3D4
-WHITE
-#FFFFFF
-LIGHT BIRST
-#F1F2F2
-
-
-**Typography Information:**
-
-- Corporate Website Design 
-|
-Web | Typography
-HEADLINE 
-Open Sans Bold 24pt
-LEAD-IN / PULL QUOTE
-Open Sans Semi Bold 14pt, 
-BODY 
-
-Open Sans Regular 10pt
-
-
-**Brand Voice:**
-
-- Corporate Website Design | Web | Drift Standards
-
+*Guidelines data not available*
 
 ## Additional Properties
 

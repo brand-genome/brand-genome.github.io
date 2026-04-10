@@ -2,7 +2,7 @@
 title: Kongsberg Automotive
 slug: "kongsberg-automotive"
 description: ""
-date: "2026-03-20T08:22:05.749765"
+date: "2026-04-10T09:40:34.730656"
 draft: false
 sectors:
   - automobile
@@ -74,6 +74,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2011
+
+*Guidelines data not available*
 
 ## Additional Properties
 

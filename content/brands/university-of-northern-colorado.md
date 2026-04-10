@@ -2,12 +2,12 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-03-20T08:22:05.871353"
+date: "2026-04-10T09:40:34.909055"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - usa
 years:
@@ -53,24 +53,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - seal
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - gold
-  - white
-  - blue
-  - yellow
-typographies:
-  - display
-  - serif
-  - "open-sans"
-  - arial
-  - "sans-serif"
-  - helvetica
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "state university in Greeley, Colorado, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1783608"
@@ -91,46 +76,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logos must not be stretched out of proportion. Placement over a background photo requires ensuring the logo is clearly visible, potentially requiring repositioning or using the white-type version of the logo.
-- Logos must remain visually balanced, with no substitutions of fonts, outlining/inlining, distorting, or applying special effects. Approved color builds and relative sizes of elements must be maintained. Logos cannot be combined with unapproved lockups or used as watermarks. All logos must avoid placement on distracting or overpowering backgrounds.
-- Examples of incorrect usage include changing logo colors, modifying typefaces, altering relative size relationships, creating unauthorized unit identifiers, rearranging elements, adding outlines, and stretching logos out of proportion. Any reverse image of the bear must use proper reversed logo files.
-- University seal is strictly for use on official UNC documentation, such as diplomas, invitations, and formal publications. Permission for use requires approval from University Relations, with final authority from the President's Office.
-
-**Color Information:**
-
-- UNC's primary colors are UNC Bears Blue and UNC Bears Gold. A recommended proportion for designs is 80% blue to 20% gold.
-- Primary color palette includes—UNC Bears Blue (PMS: 295, CMYK: 100/69/8/54, RGB: 1/45/91, HEX: #013c65) and UNC Bears Gold (PMS: 1235 C, CMYK: 0/28/89/0, RGB: 254/189/54, HEX: #f6b000). Secondary color options include Ocean Blue, Sky Blue, Walnut, Persimmon, Olive Green, and others with specific color formulas provided.
-- Web-specific colors should strictly follow HEX codes, such as UNC Bears Blue (#013c65) and UNC Bears Gold (#f6b000), ensuring consistent brand identity.
-- For printed materials, use CMYK or PMS colors as specified to maintain standard UNC branding. RGB and Hex formulas are explicitly defined for electronic media use.
-- Specific secondary color accents include combinations like UNC Mountain Blue with UNC Butter Yellow.
-
-**Typography Information:**
-
-- Berkeley is the primary serif typeface for body copy and subheads. Recommended sizes range from 10pt/13pt leading to 12pt/15pt leading and should not exceed 18pt. Book and Medium weights are preferred.
-- Helvetica Neue is the primary sans-serif typeface with varied weights and widths suitable for headlines and smaller copy. Recommended minimum size for body copy is 8pt.
-- Greeley, a custom typeface designed for UNC, is reserved for headline display at sizes no smaller than 18pt.
-- Web-specific typography includes Open Sans for most text and Aleo for accent headlines. Substitution options include Arial or Helvetica.
-
-**Imagery Photography:**
-
-- Logos placed over photos should highlight the logo without overpowering it or obscuring critical content in the photo. Examples emphasize careful placement for logo visibility.
-
-**Spacing Layout:**
-
-- Avoid fully justified text due to difficulties in reading; left-align body copy whenever possible. Hyphenation should be minimized, and text alignment rules provided for ease of readability.
-- Email signatures and nametags are standardized formats provided for download.
-
-**Brand Voice:**
-
-- Consistency in typography and adherence to guides helps reinforce brand identity and readability, ensuring information does not dilute or confuse audiences.
-
-**Notes:**
-
-- Social media icon dimensions—Facebook: 180x180, Twitter: 400x400, Instagram: 180x180, LinkedIn: 200x200, YouTube: 800x800.
-- Strict guidelines on combining primary and secondary colors include avoiding combinations that evoke other regional universities.
-- Guidelines specifically discourage center alignment and fully justified text for large information sections.
+*Guidelines data not available*
 
 ## Additional Properties
 

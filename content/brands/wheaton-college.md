@@ -2,7 +2,7 @@
 title: Wheaton College
 slug: "wheaton-college"
 description: ""
-date: "2026-03-20T08:22:03.394841"
+date: "2026-04-10T09:40:30.958275"
 draft: false
 sectors:
   - education
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: "Christian liberal arts college in Wheaton, Illinois"
 wikidata_url: "https://www.wikidata.org/wiki/Q747179"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,12 +71,6 @@ visual_term_image_urls: {}
 - [https://www.wheaton.edu](https://www.wheaton.edu)
 - [https://www.wheaton.edu/brandbook](https://www.wheaton.edu/brandbook)
 - [http://www.wheaton.edu/GRADUATE-SCHOOL](http://www.wheaton.edu/GRADUATE-SCHOOL)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
 
 ## Additional Properties
 

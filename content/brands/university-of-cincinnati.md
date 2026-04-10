@@ -2,7 +2,7 @@
 title: University of Cincinnati
 slug: "university-of-cincinnati"
 description: ""
-date: "2026-03-20T08:22:05.856184"
+date: "2026-04-10T09:40:34.879754"
 draft: false
 sectors:
   - education
@@ -52,24 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - horizontal
-  - alternate
-  - primary
-brand_colors:
-  - red
-  - white
-  - grey
-  - black
-typographies:
-  - arial
-  - times
-  - verdana
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public research university in Cincinnati, Ohio, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q153265"
 has_twitter: false
@@ -87,46 +73,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Primary UC Logo with variations including vertical and horizontal orientations.
-- Approved UC logo must not be animated, altered (e.g., applying effects like beveling, shadowing, or glowing). It must appear in its standard form.
-- C-Paw logo is officially used for Athletics events but is prohibited to represent academic or administrative units or programs.
-- The University Seal: Used only for official documents or recognition of prestigious scholarly achievements. Alternate seal is allowed on merchandise.
-- Development or use of separate logos for individual units or programs is strictly prohibited. Unit-specific elements may be used but must be reviewed and approved by the UC Branding Committee.
-- Unit pairing options are allowed in rare circumstances such as on promotional items, merchandise, and event sponsorships. Examples are provided and require case-by-case approval.
-
-**Color Information:**
-
-- Primary Colors: Red (R=224 G=1 B=34, HEX #E00122), Black (R=0 G=0 B=0, HEX #000000), White (R=255 G=255 B=255 HEX #FFFFFF).
-- Social Media: Background colors should be red, black, neutral grey, or white. Small repeating patterns must be avoided.
-
-**Typography Information:**
-
-- Preferred Fonts: Myriad and Minion families. Myriad is available in weights Regular, Bold, Black, Italic, Bold Italic, etc. Minion is available in variants Regular, Bold, Italic, Semibold, Black.
-- UC Email Signatures must use standard system fonts such as Verdana, Arial, Times New Roman in 10pt or larger. All caps must not be used.
-
-**Imagery Photography:**
-
-- Social media icons featuring photographs must be approved by the Branding Review Committee. Icons must be legible even at extremely small sizes.
-- Photography for social media should include simple and eye-catching imagery. Small or overly complex imagery is discouraged.
-- Photographs and imagery within units can be distinct, however, they must not be redundant with UC's symbols or red/black primary colors.
-
-**Spacing Layout:**
-
-- Safe zone rules: Ensure proper legibility; spacing must be adequate when combining logos or when unit-paring options are utilized.
-
-**Brand Voice:**
-
-- Taglines associated with colleges or major units must be approved by the Branding Review Committee. Must avoid comparisons and align with UC brand.
-- Messaging for UC email communication should exclude quotes, slogans, graphics, or backgrounds. Confidentiality statements are prohibited unless necessary.
-
-**Notes:**
-
-- Unit-specific design elements like icons or textures are allowed but must be subordinate to UC's branding. They require approval from the Branding Review Committee before use.
-- Social Media background imagery is subject to guidelines and must adhere to UC's allowed color palette without obscure patterns.
-- Special cases like Unit-Specific graphics, merchandise branding, celebrations, or ancillary materials must be approved by designated authorities.
-- Misuse examples include combining elements directly onto the UC logo, or using unapproved small graphics resembling existing UC material.
+*Guidelines data not available*
 
 ## Additional Properties
 

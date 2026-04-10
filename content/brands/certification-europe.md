@@ -2,7 +2,7 @@
 title: Certification Europe
 slug: "certification-europe"
 description: ""
-date: "2026-03-20T08:22:04.720385"
+date: "2026-04-10T09:40:33.452549"
 draft: false
 sectors:
   - consulting
@@ -46,20 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - "pantone-370"
-  - blue
-  - "pantone-158"
-  - "pantone-301"
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,20 +67,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The branding symbol for Certification Europe is called 'Mark of Excellence,' consisting of three sections: the circular top layer representing achievement, and two pillars representing collaboration between the client and Certification Europe.
-- Usage of logo color variations: Full-color blue and orange, black/monochrome variations for applications such as printed materials, newsletters, and stationery.
-
-**Color Information:**
-
-- Primary Colors: Blue - PANTONE 301 (CMYK: C100 M45 Y0 K18, RGB: R0 G101 B164); Orange - PANTONE 158 (CMYK: C0 M61 Y97 K0, RGB: R245 G128 B37).
-- Accent Color (specific to inspection services): Green - PANTONE 370 (CMYK: C56 M0 Y100 K27, RGB: R119 G147 B44). This is restricted to inspection products.
-
-**Typography Information:**
-
-- Primary font family: Specific selection for Certification Europe representation, describing primary roles for printed applications.
-
-**Notes:**
-
-- The document focuses on guidelines for Certification Europe's branding. Visual elements emphasize collaborations and achievement aspects.
+*Guidelines data not available*

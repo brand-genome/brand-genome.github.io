@@ -2,11 +2,11 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-03-20T08:22:05.318736"
+date: "2026-04-10T09:40:34.151580"
 draft: false
 sectors:
-  - cybersecurity
   - hardware
+  - cybersecurity
 regions:
   - usa
 years:
@@ -48,19 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - logomark
-  - horizontal
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - lifestyle
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q954569"
 has_twitter: false
@@ -81,58 +72,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Details on the primary logo.
-- Details on the logomark.
-- Logo variations description or examples.
-- Guidelines for correct logo usage.
-- Examples or rules for incorrect logo usage.
-- Details on the logomark.
-- Primary logo implementation details and its role in the brand.
-- Details on the horizontal and stacked versions of the logo.
-- Logomark emphasis and its standalone usage.
-- Examples of logo variation styles and rules on variation usages.
-- Safe zone rules for the logo (described by relative measurements).
-- Detailed examples of allowed logo pairings with taglines.
-- Incorrect logo variations (distortions, off-brand colors).
-
-**Color Information:**
-
-- Primary and secondary color palette.
-- Primary and secondary color palette.
-- Specific mentions of Pantone, HEX, CMYK references for brand colors.
-- Full color palette including primary and secondary colors.
-
-**Typography Information:**
-
-- Typography for print and web, including specimens.
-- Details on print type systems and aligned web typography.
-- Illustrations on type specimens and their styling rules.
-
-**Imagery Photography:**
-
-- Details about lifestyle photography.
-- Guidelines for product photography.
-- Guidelines for product photography.
-- Lifestyle photography: portraying professional use cases.
-- Product photography guidelines: lighting, mood, and focus.
-
-**Spacing Layout:**
-
-- Spacing, margin, or layout guidelines.
-- Spacing rules, including alignment and proportional grids.
-
-**Brand Voice:**
-
-- Core mission and goals of the brand under 'Who We Are'.
-- Explanation of improper branding focus under 'Who We Are Not'.
-
-**Notes:**
-
-- Purpose and background of these branding guidelines.
-- Contact details for further clarification or approvals: brand@vysk.com.
-- Importance of following trademark rules to protect the brand.
+*Guidelines data not available*
 
 ## Additional Properties
 

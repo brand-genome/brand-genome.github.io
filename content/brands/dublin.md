@@ -2,7 +2,7 @@
 title: Dublin
 slug: dublin
 description: ""
-date: "2026-03-20T08:22:05.582085"
+date: "2026-04-10T09:40:34.514974"
 draft: false
 sectors:
   - tourism
@@ -48,30 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - coral
-  - "pantone-4545"
-  - grey
-  - blue
-  - "pantone-325"
-  - "pantone-426"
-  - yellow
-  - "pantone-5513"
-  - "pantone-1365"
-  - turquoise
-  - "pantone-322"
-  - black
-typographies:
-  - "source-sans"
-  - arial
-  - gotham
-imagery_styles:
-  - illustration
-  - vibrant
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: capital and largest city of Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q1761"
 has_twitter: false
@@ -92,36 +72,151 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Dublin's logo consists of the 'Dublin' type, the illustration of swifts, and the tagline 'A Breath of Fresh Air'. Versions of the logo include two lock-ups, one incorporating hashtags (#) and URLs, and one without. Lock-ups are meant to complement other brand materials without competing for space.
-- The logo's clearance zone should be maintained as shown in the example to ensure integrity.
-- Incorrect usage guidelines for the logo include: no alteration of proportions, no effects applied, no color changes, no font changes, no angles altered, and no placement on visually cluttered backgrounds.
-- Minimum logo size requirements dictate that for print, the logo should not be below a width of 25mm, and for digital usage, not below 120 pixels in width.
+##### Mission
 
-**Color Information:**
+- To present Dublin as a city offering new and exciting experiences, blending urban cool and rich culture with freedom and adventure, and delivering a vibrant, fresh, and welcoming environment for visitors.
 
-- Primary palette includes Aqua (Pantone 322), Yellow (Pantone 1365), Cool Grey (Pantone Cool Grey 9), and Stone (Pantone 4545). Secondary palette includes Turquoise (Pantone 325), Coral (Pantone 1365), Blue Grey (Pantone 5513), and Black (Pantone 426). Each swatch was provided with CMYK, RGB, and Pantone values.
+##### Core Values
 
-**Typography Information:**
+- vibrancy
+- openness
+- distinctiveness
+- contemporary spirit
+- respectfulness
+- light-heartedness
 
-- Recommended typefaces for print are Gotham Light for advertising, marketing, and presentations. For digital, Source Sans Pro is recommended. If unavailable, Arial may be used in exceptional cases.
-- Typography styles include Gotham Light Title Case, Gotham Light All-Caps, Gotham Book Title Case, Gotham Book All-Caps, and Gotham Regular All-Caps.
+##### Target Audience
 
-**Spacing Layout:**
+- Domestic and international visitors seeking unique, lively, and culturally rich experiences in Dublin city and county, including tourists, festival and event organizers, tour operators, and travel agencies.
 
-- Logo clear space must maintain a defined clearance zone to ensure the integrity of the logo in implementation.
+##### Personality Traits
 
-**Brand Voice:**
+- friendly
+- colloquial
+- cheeky
+- respectful
+- distinctive
+- contemporary
+- upbeat
+- light-hearted
 
-- Tone of voice should reflect Dublin's informality and openness: colloquial, distinctive, contemporary, upbeat, and avoiding tourism-speak. Language may be a bit cheeky but must remain inclusive and within good taste.
-- Examples of descriptive words aligning to the tone of voice include 'exciting', 'surprising', 'charming', and 'vibrant'. Examples of marketing copy provided demonstrate these qualities.
+##### Visual Identity Overview
 
-**Notes:**
+- The brand uses a stylized logo with flowing script, vibrant colors (aqua, yellow, cool grey, stone, turquoise, coral, blue-grey, black), and dynamic elements like birds and swirls to evoke freshness, airiness, and optimism. Typography is based on Gotham Light and Source Sans Pro, and imagery emphasizes lively, welcoming scenes. Logo usage is strictly regulated to maintain integrity and consistency.
 
-- Brand guidelines mention eligibility rules for industry partners, restrictions on commercial merchandising, and prohibited use cases such as promoting alcohol sales or gambling. Brands using maps must ensure licensing fees are paid.
-- File formats recommended: EPS and AI for print, JPEG and PNG for digital use.
-- For further brand details and use cases, industry partners can contact Failte Ireland team members via provided emails and phone numbers.
+#### Categories
+
+##### Brand Voice
+
+- When writing copy to be used in your marketing communications, it should reflect the core of Dublin’s brand and echo the city’s informality and openness. It should be friendly and colloquial, never officious and formal.
+- While it can be a little bit cheeky, it should never be anything but respectful and well within the bounds of good taste. Our tone of voice should aim to be distinctive and contemporary and never get into ‘tourism-speak’.
+- Finally, the language should be upbeat. Dublin is confident enough to be light-hearted and people may even expect a little wink and a smile.
+- Language should be: Colloquial Distinctive Contemporary Upbeat
+
+##### Brand Imagery
+
+- The Dublin brand identity or logo is composed of 3 elements: • the “Dublin” type • the illustration of the Swifts • the tagline – “A Breath of Fresh Air” Whenever possible, use the hashtag - #LOVEDUBLIN and/or url visitdublin.com The logo has been uniquely created and these elements must not be altered in any way. The logo must always be reproduced from the relevant master artwork.
+- The clearance zone, as shown above, has been created to maintain the integrity of the logo and to provide adequate breathing space in implementation.
+- DON’T Change the proportion of any of the elements
+- DON’T Change the colours
+- DON’T Change the fonts
+- DON’T Apply any effects to the logo
+- DON’T Alter the angle of the logo
+- DON’T Place the full colour logo on a visually busy background
+- We want to ensure that the Dublin brand is applied consistently across all materials. Incorrect usage compromises the brand integrity. Please follow the above guidelines very carefully.
+- Our primary colour palette is aqua, yellow, cool grey and stone.
+- Our secondary colour palette is turquoise, coral, blue-grey and black.
+- Both palettes have been chosen to complement one another.
+- CMYK, RGB and Pantone references can be found in each swatch.
+- NB: do not alter the colours in any way. Please refer to incorrect usage.
+- The Dublin logo and tagline must always be clearly legible. Print: the logo should never appear below the minimum width of 25mm. Digital: the logo should never appear smaller than the minimum width of 120 pixels.
+
+##### Color Palette
+
+- Our primary colour palette is aqua, yellow, cool grey and stone.
+- Pantone 322 (60%) C60 M21 Y29 K3 R103 G160 B169
+- Pantone 1365 C0 M31 Y79 K0 R253 G184 B79
+- Pantone Cool Grey 9 C0 M0 Y0 K65 R119 G119 B122
+- Pantone 4545 (50%) C5 M6 Y16 K0 R240 G232 B213
+- Our secondary colour palette is turquoise, coral, blue-grey and black.
+- Pantone 325 C60 M0 Y28 K0 R90 G197 B194
+- Pantone 5513 C33 M12 Y18 K0 R172 G198 B201
+- Pantone 426 C0 M0 Y0 K90 R38 G39 B41
+- Both palettes have been chosen to complement one another.
+- CMYK, RGB and Pantone references can be found in each swatch.
+- NB: do not alter the colours in any way. Please refer to incorrect usage.
+- Brand colours/pantones may not be altered or changed.
+
+##### Typography
+
+- Gotham Light Title Case
+- GOTHAM LIGHT ALL-CAPS
+- Gotham Book Title Case
+- GOTHAM BOOK ALL-CAPS
+- GOTHAM REGULAR ALL-CAPS
+- We recommend that you use the Gotham Light font family for all printed communications e.g. advertising and marketing body copy, presentations etc.
+- For digital communications e.g. website etc, we recommend Source Sans Pro font family. Please note: If the above fonts are not available, and only in exceptional circumstances, please use Arial font family.
+
+##### Logo Usage
+
+- There are two versions of the ‘Dublin. A Breath of Fresh Air’ logo; one which incorporates the url and #lovedublin and one with #lovedublin only. These versions should be used as a lock-up in your communications but it is important that the identity lock-up does not compete for space but should complement your own brand.
+- A logo lock-up contains multiple elements that are locked to one another to form a single identity. These lock-ups should be used in a way that complements your communications.
+- The Dublin brand identity or logo is composed of 3 elements: • the “Dublin” type • the illustration of the Swifts • the tagline – “A Breath of Fresh Air” Whenever possible, use the hashtag - #LOVEDUBLIN and/or url visitdublin.com
+- The logo has been uniquely created and these elements must not be altered in any way. The logo must always be reproduced from the relevant master artwork.
+- The clearance zone, as shown above, has been created to maintain the integrity of the logo and to provide adequate breathing space in implementation.
+- DON’T Change the proportion of any of the elements
+- DON’T Change the colours
+- DON’T Change the fonts
+- DON’T Apply any effects to the logo
+- DON’T Alter the angle of the logo
+- DON’T Place the full colour logo on a visually busy background
+- The Dublin logo and tagline must always be clearly legible.
+- Print: the logo should never appear below the minimum width of 25mm.
+- Digital: the logo should never appear smaller than the minimum width of 120 pixels.
+- Please refer to the guide above to select the correct version of the logo to use in print or digitally.
+- We recommend that you use .eps or .ai version of the logo.
+- We recommend that you use .jpeg or .png.
+- Brand colours/pantones may not be altered or changed.
+
+##### Tone And Messaging
+
+- When writing copy to be used in your marketing communications, it should reflect the core of Dublin’s brand and echo the city’s informality and openness. It should be friendly and colloquial, never officious and formal.
+- While it can be a little bit cheeky, it should never be anything but respectful and well within the bounds of good taste. Our tone of voice should aim to be distinctive and contemporary and never get into ‘tourism-speak’.
+- Finally, the language should be upbeat. Dublin is confident enough to be light-hearted and people may even expect a little wink and a smile.
+- Language should be: Colloquial Distinctive Contemporary Upbeat
+
+##### Brand Values
+
+- When writing copy to be used in your marketing communications, it should reflect the core of Dublin’s brand and echo the city’s informality and openness. It should be friendly and colloquial, never officious and formal.
+- While it can be a little bit cheeky, it should never be anything but respectful and well within the bounds of good taste. Our tone of voice should aim to be distinctive and contemporary and never get into ‘tourism-speak’.
+- Finally, the language should be upbeat. Dublin is confident enough to be light-hearted and people may even expect a little wink and a smile.
+- Language should be: Colloquial Distinctive Contemporary Upbeat
+- A breath of fresh air means new and exciting experiences! From the urban cool and rich culture of the vibrant city centre, to the freedom and adventure you will find among the mountains, seas and lively coastal towns, Dublin is wonderfully different to any other city and breathes life into whoever visits.
+
+##### Visual Style
+
+- The Dublin brand identity or logo is composed of 3 elements: • the “Dublin” type • the illustration of the Swifts • the tagline – “A Breath of Fresh Air” Whenever possible, use the hashtag - #LOVEDUBLIN and/or url visitdublin.com
+- The logo has been uniquely created and these elements must not be altered in any way. The logo must always be reproduced from the relevant master artwork.
+- The clearance zone, as shown above, has been created to maintain the integrity of the logo and to provide adequate breathing space in implementation.
+- DON’T Change the proportion of any of the elements
+- DON’T Change the colours
+- DON’T Change the fonts
+- DON’T Apply any effects to the logo
+- DON’T Alter the angle of the logo
+- DON’T Place the full colour logo on a visually busy background
+- Print: the logo should never appear below the minimum width of 25mm.
+- Digital: the logo should never appear smaller than the minimum width of 120 pixels.
+- Our primary colour palette is aqua, yellow, cool grey and stone.
+- Our secondary colour palette is turquoise, coral, blue-grey and black.
+- Both palettes have been chosen to complement one another.
+- CMYK, RGB and Pantone references can be found in each swatch.
+- NB: do not alter the colours in any way. Please refer to incorrect usage.
+- We recommend that you use the Gotham Light font family for all printed communications e.g. advertising and marketing body copy, presentations etc.
+- For digital communications e.g. website etc, we recommend Source Sans Pro font family. Please note: If the above fonts are not available, and only in exceptional circumstances, please use Arial font family.
+- We recommend that you use .eps or .ai version of the logo.
+- We recommend that you use .jpeg or .png.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Swansea University
 slug: "swansea-university"
 description: ""
-date: "2026-03-20T08:22:04.565118"
+date: "2026-04-10T09:40:33.379463"
 draft: false
 sectors:
   - university
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - crest
-  - primary
-  - horizontal
-brand_colors:
-  - "pantone-662"
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: "public research university located in Swansea, Wales, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q1420500"
 has_twitter: false
@@ -84,39 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Swansea University logo is the central visual element of the brand and must appear on all communications representing the University. The logo consists of a graphic crest and logotype, which must always appear together and must not be altered or separated.
-- The logo exists in three formats: the centred logo (primary version), the horizontal logo, and the stacked logo, each available in English and Welsh. The Welsh version should be used in Welsh language publications.
-- Acceptable file formats for the logo include JPG, PNG, and EPS. Use EPS format for print materials and JPG or PNG for Microsoft Office applications.
-- Clear space around the logo is defined as the height and width of the 'S' in the Swansea University crest.
-- Color versions of the logo include full color, white logo on a colored background, and a version with sufficient contrast for low-light conditions. The logo should not appear in inappropriate colors.
-- Guidelines for incorrect logo usage include: do not contain it in a shape, do not stretch or distort it, and do not recreate or alter the provided logo files.
-- A Centenary logo version is available for use during specific celebratory events. It follows similar guidelines to the main logo and includes horizontal and stacked formats.
-- Minimum size requirements apply to both main and Centenary logos. The stacked version of the Centenary logo should only be used when necessary.
-- Lock-up logos are available for all Swansea University colleges, centers, and services. These must include the name of the entity in both English and Welsh and follow the approved format.
-
-**Color Information:**
-
-- The primary brand color is University Blue, identified by Pantone 662. For print, use the Pantone or CMYK format. For web, use RGB or HEX codes.
-
-**Typography Information:**
-
-- The approved fonts include standard fonts for use in letters, faxes, and other communications. Body text specifically utilizes a designated typeface.
-
-**Imagery Photography:**
-
-- The wave graphic is an important branding asset used alongside the logo to help quickly communicate the Swansea University brand.
-
-**Spacing Layout:**
-
-- The grid spacing for the logo requires a clear space equivalent to the height and width of the 'S' in the crest; ensuring legibility and visual hierarchy is a priority.
-
-**Notes:**
-
-- Use of the Swansea University brand assets is essential for consistent communication and recognition.
-- Collaborative projects should include Swansea University branding, and the University logo should be used prominently.
-- For stand-alone entities or spin-out companies, the Swansea University branding should not be used. These entities must implement their own visual identities.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Ogury
 slug: ogury
 description: ""
-date: "2026-03-20T08:22:05.064385"
+date: "2026-04-10T09:40:33.830869"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -47,12 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,25 +69,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo clear space rules mentioned.
-- Logo size and positioning guidelines.
-- Logo color options, including monochrome or reversed usage.
-- Examples of incorrect logo usage.
-- Logo clear space rules mentioned.
-- Logo color options, including monochrome or reversed usage.
-- Logo clear space rules mentioned.
-- Examples of incorrect logo usage.
-
-**Color Information:**
-
-- Color specifications mentioned: Pantone, RGB, HEX, CYMK codes details alongside other visual color guidelines.
-
-**Typography Information:**
-
-- Primary font specifications included.
-
-**Brand Voice:**
-
-- Details on brand voice or tone focusing energy, positivity, dynamism across visuals and brand personality.
+*Guidelines data not available*

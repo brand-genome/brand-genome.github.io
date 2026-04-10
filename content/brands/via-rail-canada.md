@@ -2,7 +2,7 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-03-20T08:22:03.197204"
+date: "2026-04-10T09:40:30.741507"
 draft: false
 sectors:
   - railroad
@@ -10,14 +10,14 @@ sectors:
 regions:
   - canada
 years:
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:
+  - ambigram
   - featured
   - transport
-  - ambigram
 industries:
   - "rail-transport"
   - "passenger-rail-transport"
@@ -35,8 +35,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "place-ville-marie"
   - montreal
+  - "place-ville-marie"
 subsidiaries: []
 foundation_dates:
   - 1977
@@ -59,28 +59,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - signature
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - red
-  - "pantone-123"
-  - white
-  - grey
-  - blue
-  - yellow
-  - "pantone-032"
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - clean
-  - modern
-  - monochrome
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "national inter-city passenger rail operator in Canada owned by the Canadian government"
 wikidata_url: "https://www.wikidata.org/wiki/Q876720"
 has_twitter: false
@@ -102,50 +84,11 @@ visual_term_image_urls: {}
 
 ### 2023
 
-**Logo Information:**
-
-- The VIA Rail logo evokes friendliness, reliability, and safety. Its slanted letters suggest motion, and the maple leaf represents its Canadian identity. There are versions for light (positive color and black monochrome) and dark backgrounds (reverse color and white monochrome). Minimum size is one inch (2.5 cm), and clear space is equal to or greater than the vertical width of the 'V' in the VIA symbol.
-- Logo colors include VIA Rail Red (CMYK: C:0, M:90, Y:86, K:0, HEX: #FF0000, Pantone 032) and VIA Rail Yellow (CMYK: C:0, M:24, Y:94, K:0, HEX: #FFCC00, Pantone 123). These colors must be reproduced precisely.
-- Improper logo use includes recreating the logo, applying it over textures/patterns/photos that reduce its visibility, modifying/removing elements, changing colors, or using unapproved backgrounds.
-- Trademark mention: 'TM' or 'MC' for French must be used once in communications. If included, legal text should be displayed as: 'TM Trademark owned by VIA Rail Canada Inc.'
-- Logos for subbrands include VIA Préférence (horizontal and vertical formats), The Canadian logo, and The Ocean logo. Digital versions should always be used; never recreate these logos.
-
-**Color Information:**
-
-- Primary colors include VIA Rail Yellow (#FFCC00, Pantone 123) and VIA Rail Red (#FF0000, Pantone 032). Additionally, the corporate palette includes Arctic White (#FFFFFF) and Charcoal (#4B4F54).
-- Accent and pastel colors include Rosy Cheeks (#F6E9E6), Tinted Window (#F5F0EA), Comfy White (#FDF7D9), and Cool Grey (#E7E4DE). These are used only for backgrounds, not text or major design elements.
-- Red is used only in the official logo and should not appear in other communications. Yellow is emphasized as central to the brand identity.
-
-**Typography Information:**
-
-- Primary typeface is Maax VIA, developed specifically for VIA Rail. Its use is restricted to VIA Rail materials.
-- Titles use Maax VIA Medium and feature lowercase characters with 94% line spacing.
-- Copy aligns to the left for all page layouts. Alternative font is Arial when Maax VIA is unavailable.
-- Body-level text uses Maax VIA Medium with a line-spacing of 112% and a tracking value of 0.
-- Lowercase is prioritized for titles and text to enhance approachability and readability.
-
-**Imagery Photography:**
-
-- Imagery reflects a modern, inclusive, and optimistic brand by depicting slices of life. Stereotypes must be avoided, and diversity is emphasized. Employees must follow current uniform guidelines during photography.
-- Accent colors include yellow prominently but not overwhelmingly. Excessive use of blue or clinical tones is discouraged.
-- Photos should consist of original photography rather than stock imagery. Optimism, energy, and simplicity are emphasized.
-
-**Spacing Layout:**
-
-- Logo clear space must equal or exceed the width of the 'V' in VIA.
-- Symbols and icons use clean, simple design with lines and contours, avoiding bright colors or complex patterns.
-
-**Brand Voice:**
-
-- Tone emphasizes inclusivity, humor, and a conversational style. Brand traits inspire, solve problems cleverly, and establish authenticity.
-- Internal and external communication aims to balance professionalism, friendliness, realism, and simplicity.
-- Copy strategies differ by context, with distinct approaches for advertising, corporate communications, and one-to-one interactions.
-
-**Notes:**
-
-- All elements must comply with consistently branded digital assets (available resources for download include VIA Rail Canada logos, signature files, and original photo banks). Contact the Brand & Go-to-Market team for questions.
+*Guidelines data not available*
 
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -155,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Place Ville Marie](/headquarters_locations/place-ville-marie/); [Montreal](/headquarters_locations/montreal/) |
+| Headquarters Location | [Montreal](/headquarters_locations/montreal/); [Place Ville Marie](/headquarters_locations/place-ville-marie/) |
 | Foundation Date | [1977](/foundation_dates/1977/) |
 | Topic'S Main Category | Category:Via Rail |
 | Commons Gallery | Via Rail |

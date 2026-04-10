@@ -2,11 +2,11 @@
 title: Slantis
 slug: slantis
 description: ""
-date: "2026-03-20T08:22:03.265500"
+date: "2026-04-10T09:40:30.786077"
 draft: false
 sectors:
-  - architecture
   - software
+  - architecture
 regions:
   - uruguay
 years:

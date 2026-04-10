@@ -46,6 +46,7 @@ COMPANY_SECTOR_FILE = BASE_DIR / "company_sector.csv"
 WIKIDATA_FILE = BASE_DIR / "wikidata_extracted_data_v3.json"
 BG_DATASET_FILE = BASE_DIR / "final_brand_dataset_with_pdf_urls.json"
 GPT_OUTPUT_DIR = BASE_DIR / "gpt_guideline_extraction" / "gpt4o_output"
+EXTRACTED_GUIDELINES_DIR = BASE_DIR / "taxonomy" / "brand_guidelines_yukon" / "extracted_guidelines"
 
 # Wikidata properties to EXCLUDE completely
 WIKIDATA_EXCLUDE_PROPERTIES = {
@@ -131,6 +132,63 @@ def extract_media_url(media_str):
     if match:
         return match.group(1)
     return None
+
+def should_skip_guideline_key(key):
+    """Return True for guideline metadata keys that should not be displayed."""
+    if key is None:
+        return False
+    key_str = str(key).strip().lower()
+    return key_str in {'pages', 'id', 'error', 'category'} or key_str.endswith('_id')
+
+def collect_text_values(data):
+    """Collect user-facing text values from nested extracted guideline structures."""
+    texts = []
+
+    if isinstance(data, bool):
+        return texts
+
+    if isinstance(data, str):
+        cleaned = data.strip()
+        if cleaned:
+            texts.append(cleaned)
+        return texts
+
+    if isinstance(data, (int, float)):
+        texts.append(str(data))
+        return texts
+
+    if isinstance(data, list):
+        for item in data:
+            texts.extend(collect_text_values(item))
+        return texts
+
+    if isinstance(data, dict):
+        if 'guideline' in data and isinstance(data.get('guideline'), str):
+            guideline_text = data.get('guideline', '').strip()
+            if guideline_text:
+                texts.append(guideline_text)
+
+        for key, value in data.items():
+            if key == 'guideline' or should_skip_guideline_key(key):
+                continue
+            texts.extend(collect_text_values(value))
+
+    return texts
+
+def dedupe_preserve_order(values):
+    """Deduplicate a list of strings while preserving insertion order."""
+    deduped = []
+    seen = set()
+    for value in values:
+        normalized = re.sub(r'\s+', ' ', str(value).strip())
+        if normalized and normalized not in seen:
+            seen.add(normalized)
+            deduped.append(normalized)
+    return deduped
+
+def format_heading_label(text):
+    """Format snake/kebab-case labels into human-friendly title text."""
+    return str(text).replace('_', ' ').replace('-', ' ').strip().title()
 
 def format_wikidata_value(value):
     """Format Wikidata property values for display."""
@@ -740,6 +798,50 @@ def load_gpt_guidelines():
     print(f"  Loaded {len(gpt_by_filename)} GPT analyses")
     return gpt_by_filename
 
+def load_extracted_guidelines():
+    """Load extracted guideline JSON files from Yukon output."""
+    print("Loading extracted guideline files...")
+
+    extracted_index = {
+        'by_pdf_stem': {},
+        'by_file_stem': {},
+        'by_brand_name': {},
+    }
+
+    if not EXTRACTED_GUIDELINES_DIR.exists():
+        print(f"Warning: {EXTRACTED_GUIDELINES_DIR} not found")
+        return extracted_index
+
+    loaded_count = 0
+
+    for file in EXTRACTED_GUIDELINES_DIR.glob("*.json"):
+        try:
+            with open(file, 'r', encoding='utf-8') as f:
+                payload = json.load(f)
+        except:
+            continue
+
+        if not isinstance(payload, dict):
+            continue
+
+        loaded_count += 1
+        payload['_file_stem'] = file.stem
+
+        file_stem = file.stem.lower()
+        extracted_index['by_file_stem'][file_stem] = payload
+
+        source_pdf = payload.get('source_pdf', '')
+        if source_pdf:
+            pdf_stem = Path(source_pdf).stem.lower()
+            extracted_index['by_pdf_stem'][pdf_stem] = payload
+
+        brand_name = payload.get('brand_name', '')
+        if brand_name:
+            extracted_index['by_brand_name'][normalize_company_name(brand_name)] = payload
+
+    print(f"  Loaded {loaded_count} extracted guideline files")
+    return extracted_index
+
 # =============================================================================
 # DATA MERGING
 # =============================================================================
@@ -763,6 +865,41 @@ def match_gpt_guidelines(pdf_filename, gpt_data):
         if stem in key or key in stem:
             return gpt_data[key]
     
+    return None
+
+def match_extracted_guidelines(pdf_filename, brand_name, extracted_index):
+    """Match a brand PDF/name to extracted guideline payload."""
+    if not extracted_index:
+        return None
+
+    pdf_stem = Path(pdf_filename).stem.lower() if pdf_filename else ''
+    if pdf_stem:
+        if pdf_stem in extracted_index['by_pdf_stem']:
+            return extracted_index['by_pdf_stem'][pdf_stem]
+        if pdf_stem in extracted_index['by_file_stem']:
+            return extracted_index['by_file_stem'][pdf_stem]
+
+        for suffix in ['-en', '-eng', '-english', '_en', '_eng']:
+            test_stem = pdf_stem.replace(suffix, '')
+            if test_stem in extracted_index['by_pdf_stem']:
+                return extracted_index['by_pdf_stem'][test_stem]
+            if test_stem in extracted_index['by_file_stem']:
+                return extracted_index['by_file_stem'][test_stem]
+
+    normalized_name = normalize_company_name(brand_name)
+    if normalized_name and normalized_name in extracted_index['by_brand_name']:
+        return extracted_index['by_brand_name'][normalized_name]
+
+    if pdf_stem:
+        for key, value in extracted_index['by_file_stem'].items():
+            if key in pdf_stem or pdf_stem in key:
+                return value
+
+    if normalized_name:
+        for key, value in extracted_index['by_brand_name'].items():
+            if key and (key in normalized_name or normalized_name in key):
+                return value
+
     return None
 
 def aggregate_visual_attributes(posts, llava_img, llava_human):
@@ -1122,25 +1259,50 @@ def generate_brand_markdown(brand_info):
             year = guideline.get('year', 'UNKNOWN')
             content_lines.append(f'### {year}')
             content_lines.append('')
-            
-            analysis = guideline.get('analysis', {})
-            if isinstance(analysis, dict) and analysis.get('status') == 'success':
-                anal_data = analysis.get('analysis', {})
-                
-                for section in ['logo_information', 'color_information', 'typography_information', 
-                               'imagery_photography', 'spacing_layout', 'brand_voice', 'notes']:
-                    section_data = anal_data.get(section, [])
-                    if section_data:
-                        section_title = section.replace('_', ' ').title()
-                        content_lines.append(f'**{section_title}:**')
+
+            extracted = guideline.get('extracted', {})
+            if isinstance(extracted, dict):
+                brand_summary = extracted.get('brand_summary', {})
+                categories = extracted.get('categories', {})
+
+                if isinstance(brand_summary, dict) and brand_summary:
+                    content_lines.append('#### Brand Summary')
+                    content_lines.append('')
+                    for summary_key, summary_value in brand_summary.items():
+                        values = dedupe_preserve_order(collect_text_values(summary_value))
+                        if not values:
+                            continue
+                        content_lines.append(f'##### {format_heading_label(summary_key)}')
                         content_lines.append('')
-                        for item in section_data:
-                            if isinstance(item, dict):
-                                desc = item.get('description', '')
-                                if desc:
-                                    content_lines.append(f'- {desc}')
-                            else:
-                                content_lines.append(f'- {item}')
+                        for value in values:
+                            content_lines.append(f'- {value}')
+                        content_lines.append('')
+
+                if isinstance(categories, dict) and categories:
+                    content_lines.append('#### Categories')
+                    content_lines.append('')
+
+                    rendered_any_category = False
+                    for category_name, category_data in categories.items():
+                        category_values = []
+
+                        if isinstance(category_data, dict) and 'guidelines' in category_data:
+                            category_values = dedupe_preserve_order(collect_text_values(category_data.get('guidelines', [])))
+                        else:
+                            category_values = dedupe_preserve_order(collect_text_values(category_data))
+
+                        if not category_values:
+                            continue
+
+                        rendered_any_category = True
+                        content_lines.append(f'##### {format_heading_label(category_name)}')
+                        content_lines.append('')
+                        for value in category_values:
+                            content_lines.append(f'- {value}')
+                        content_lines.append('')
+
+                    if not rendered_any_category:
+                        content_lines.append('*Category values not available*')
                         content_lines.append('')
             else:
                 content_lines.append('*Guidelines data not available*')
@@ -1304,6 +1466,7 @@ def main():
     wikidata = load_wikidata()
     bg_dataset = load_bg_dataset()
     gpt_guidelines = load_gpt_guidelines()
+    extracted_guidelines = load_extracted_guidelines()
     
     print()
     print("Processing brands...")
@@ -1460,28 +1623,36 @@ def main():
             if country:
                 brand['countries'].extend(slugify(str(c)) for c in country if isinstance(c, str))
         
-        # Match GPT guidelines
+        # Match extracted guidelines (fallback: legacy GPT extraction)
         pdf_filename = item.get('pdf_filename', '')
+        extracted = match_extracted_guidelines(pdf_filename, name, extracted_guidelines)
         gpt_analysis = match_gpt_guidelines(pdf_filename, gpt_guidelines)
-        
+
         guideline_entry = {
             'year': year or 'UNKNOWN',
+            'extracted': extracted,
             'analysis': gpt_analysis,
         }
-        brand['guidelines'].append(guideline_entry)
-        brand['has_guidelines'] = True
-        
-        # Extract entities from guidelines using spaCy patterns
-        if gpt_analysis and isinstance(gpt_analysis.get('analysis'), dict):
+
+        if extracted or gpt_analysis:
+            brand['guidelines'].append(guideline_entry)
+            brand['has_guidelines'] = True
+
+        # Extract entities from extracted guideline text, fallback to legacy GPT fields
+        all_text = []
+        if extracted and isinstance(extracted, dict):
+            all_text.extend(collect_text_values(extracted.get('brand_summary', {})))
+            all_text.extend(collect_text_values(extracted.get('categories', {})))
+        elif gpt_analysis and isinstance(gpt_analysis.get('analysis'), dict):
             anal = gpt_analysis['analysis']
-            all_text = []
             for section in ['logo_information', 'color_information', 'typography_information',
                            'imagery_photography', 'spacing_layout', 'brand_voice', 'notes']:
                 for item_data in anal.get(section, []):
                     if isinstance(item_data, dict):
                         all_text.append(item_data.get('description', ''))
-            
-            combined_text = ' '.join(all_text)
+
+        combined_text = ' '.join(dedupe_preserve_order(all_text))
+        if combined_text:
             entities = extract_brand_entities(combined_text)
             brand['logo_elements'].extend(entities['logo_elements'])
             brand['brand_colors'].extend(entities['brand_colors'])

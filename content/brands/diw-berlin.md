@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-03-20T08:22:04.896923"
+date: "2026-04-10T09:40:33.667325"
 draft: false
 sectors:
   - research
@@ -16,8 +16,8 @@ tags:
   - institution
   - science
 industries:
-  - "research-and-development"
   - "research-and-experimental-development-on-social-sciences-and-humanities"
+  - "research-and-development"
 countries:
   - germany
 revenue_buckets: []
@@ -31,8 +31,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "berlin-mitte"
   - berlin
+  - "berlin-mitte"
 subsidiaries: []
 foundation_dates:
   - 1925
@@ -58,8 +58,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: research institute
 wikidata_url: "https://www.wikidata.org/wiki/Q155228"
 has_twitter: false
@@ -78,65 +77,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Logo information extracted from page 2
-- Logo information extracted from page 4
-- Logo information extracted from page 5
-- Logo information extracted from page 6
-- Logo information extracted from page 7
-- Logo information extracted from page 8
-- Logo information extracted from page 11
-- Logo information extracted from page 15
-- Logo information extracted from page 16
-- Logo information extracted from page 17
-- Logo information extracted from page 18
-
-**Color Information:**
-
-- Color information extracted from page 7
-- Color information extracted from page 9
-- Color information extracted from page 15
-- Color information extracted from page 16
-- Color information extracted from page 17
-- Color information extracted from page 20
-
-**Typography Information:**
-
-- Typography details from page 12
-
-**Imagery Photography:**
-
-- Imagery or photography description from page 2
-- Imagery or photography description from page 4
-- Imagery or photography description from page 7
-- Imagery or photography description from page 8
-- Imagery or photography description from page 10
-- Imagery or photography description from page 13
-- Imagery or photography description from page 14
-- Imagery or photography description from page 20
-
-**Spacing Layout:**
-
-- Spacing or layout rules extracted from page 11
-
-**Notes:**
-
-- General notes from page 4
-- General notes from page 5
-- General notes from page 6
-- General notes from page 7
-- General notes from page 8
-- General notes from page 9
-- General notes from page 10
-- General notes from page 11
-- General notes from page 12
-- General notes from page 13
-- General notes from page 14
-- General notes from page 15
-- General notes from page 17
-- General notes from page 18
-- General notes from page 19
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -146,7 +87,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Berlin Mitte](/headquarters_locations/berlin-mitte/); [Berlin](/headquarters_locations/berlin/) |
+| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Berlin Mitte](/headquarters_locations/berlin-mitte/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Country | Germany |
 | Gnd Id | 37419-2 |

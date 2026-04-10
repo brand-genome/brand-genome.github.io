@@ -2,12 +2,12 @@
 title: Trendhim
 slug: trendhim
 description: ""
-date: "2026-03-20T08:22:04.891685"
+date: "2026-04-10T09:40:33.655677"
 draft: false
 sectors:
   - fashion
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
 regions:
   - "united-kingdom"
 years:
@@ -49,13 +49,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
-typographies:
-  - gotham
-imagery_styles:
-  - bold
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,16 +71,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo should always be a solid color, ideally white or shades of black. Ensure sufficient clear space around the logo. Avoid distortion, stretching, rearrangement, or alteration of the logo.
-- The logo can be used with or without the slogan but should not be forced into all designs. It shouldn't be placed over crowded or unreadable spaces.
-- Never write 'TRENDHIM' in a way or font that might be seen as the logo but isn't. Always use 'Trendhim' in regular text if not using the logo.
-
-**Typography Information:**
-
-- Trendhim uses Gotham font for all publications, including web and print. For specific house brands, their respective fonts are allowed. Headlines should be capitalized, and bold styles used to emphasize important words.
-
-**Notes:**
-
-- The slogan is not a standalone logo and must follow the typography guidelines. It should not be translated when used near the logo or on its own but may be loosely translated when integrated into copy.
+*Guidelines data not available*

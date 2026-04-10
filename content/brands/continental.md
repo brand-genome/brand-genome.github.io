@@ -2,11 +2,11 @@
 title: Continental
 slug: continental
 description: ""
-date: "2026-03-20T08:22:05.019062"
+date: "2026-04-10T09:40:33.782506"
 draft: false
 sectors:
-  - automobile
   - tires
+  - automobile
 regions:
   - germany
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - german
 tags:
-  - industry
   - featured
   - corporate
+  - industry
 industries:
-  - "plastics-and-rubber-industry"
+  - "bicycle-industry"
   - "manufacture-of-rubber-tyres-and-tubes-retreading-and-rebuilding-of-rubber-tyres"
   - "automotive-industry"
-  - "bicycle-industry"
+  - "plastics-and-rubber-industry"
 countries:
   - germany
 revenue_buckets:
@@ -44,209 +44,204 @@ headquarters_locations:
   - "continental-hochhaus"
   - hanover
 subsidiaries:
-  - "united-states-rubber-company"
+  - "continental-automotive-czech-republic"
   - "phoenix-ag"
   - "continental-automotive-corporation"
-  - contitech
-  - "continental-corporation-usa"
   - "continental-ht-tyres"
-  - bestdrive
-  - "continental-vuk"
-  - temic
-  - "continental-barum"
   - "general-tire"
-  - "clouth-gummiwerke"
-  - "continental-automotive-czech-republic"
-  - matador
-  - "continental-caoutchouc-export"
-  - semperit
-  - "continental-automotive-holding-netherlands"
+  - "continental-barum"
   - "continental-tire-canada"
-  - "continental-vyroba-pneumatik"
+  - "continental-caoutchouc-export"
+  - "continental-automotive-holding-netherlands"
+  - "continental-corporation-usa"
+  - bestdrive
+  - temic
+  - "united-states-rubber-company"
+  - contitech
+  - matador
   - "continental-reifen-deutschland-gmbh"
+  - semperit
   - minerva
+  - "continental-vuk"
+  - "clouth-gummiwerke"
+  - "continental-vyroba-pneumatik"
 foundation_dates:
   - 1871
 foundation_year_buckets:
   - "19TH-CENTURY"
 lightings:
-  - studio
-  - dark
-  - moderate
-  - bright
-  - natural
-  - "light-on-subject"
-  - hard
   - "light-glare"
+  - "light-on-subject"
+  - bright
+  - dark
+  - natural
+  - studio
+  - hard
+  - moderate
   - soft
 perspectives:
+  - "audience-perspective"
   - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "audience-perspective"
-  - "high-angle-photo"
-  - "point-of-view-shot"
-  - "action-shot"
-  - "altered-perspective"
   - "rule-of-third"
+  - "altered-perspective"
   - "panorama-view"
+  - "high-angle-photo"
+  - "action-shot"
+  - "point-of-view-shot"
 image_backgrounds:
-  - pattern
+  - light
+  - "background-as-frame"
+  - blurred
+  - bright
+  - gradient
+  - solid
+  - transparent
   - dark
   - wood
-  - blurred
-  - solid
-  - bright
   - textured
-  - transparent
-  - "background-as-frame"
-  - gradient
-  - light
+  - pattern
 color_schemes:
+  - light
+  - grayscale
   - monotone
-  - "pastel-colors"
-  - "analogous-colors"
-  - "two-tone"
-  - dark
-  - "sunset-colors"
   - bright
   - "complementary-colors"
-  - grayscale
-  - "autumnal-colors"
   - "bright-colors"
-  - light
+  - "sunset-colors"
+  - dark
+  - "autumnal-colors"
+  - "two-tone"
+  - "pastel-colors"
+  - "analogous-colors"
 photography_genres:
-  - product
-  - architectural
-  - "live-stage"
-  - interior
-  - promotional
-  - street
-  - landscape
-  - action
-  - car
-  - candid
-  - advertising
-  - advertisement
-  - sky
-  - group
-  - automotive
-  - "text-heavy"
   - sports
+  - product
+  - action
+  - "text-heavy"
+  - "still-life"
+  - promotional
+  - advertising
+  - candid
+  - car
   - selfie
   - historical
-  - "still-life"
-  - portrait
-concepts:
-  - photorealism
+  - group
+  - interior
   - advertisement
-  - "text-heavy"
-  - "graphic-design"
-  - vintage
+  - portrait
+  - landscape
+  - architectural
+  - street
+  - automotive
+  - sky
+  - "live-stage"
+concepts:
   - illustration
-  - "incomplete-art"
-  - "action-shot"
-  - typography
   - "wave-pattern"
+  - typography
+  - "incomplete-art"
+  - vintage
+  - advertisement
+  - "graphic-design"
+  - photorealism
+  - "action-shot"
+  - "text-heavy"
 depths:
   - "mid-shot"
+  - "bright-focal-point"
   - "fully-focused-subject"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
-  - "isolated-focal-point"
   - "close-up-shot"
   - "bokeh-effect"
   - "partly-focused-subject"
-  - "bright-focal-point"
+  - "isolated-focal-point"
+  - "wide-angle-shot"
+  - "shallow-depth-of-field"
 image_effects:
-  - "low-saturation"
   - "high-contrast"
+  - "long-exposure"
   - "neutral-density-filter"
   - "short-exposure"
-  - "vanishing-point"
   - "high-saturation"
-  - "long-exposure"
+  - "low-saturation"
   - "motion-capture"
+  - "vanishing-point"
   - "motion-blur"
 dominant_colors:
   - "mud-green"
-  - "dark-blue"
-  - "light-blue"
-  - gray
-  - turquoise
-  - orange
   - black
   - olive
+  - "dark-blue"
+  - turquoise
+  - orange
+  - gray
+  - "light-blue"
 color_tones:
   - neutral
 hair_styles:
-  - "pulled-back"
-  - neat
   - curly
-  - casual
-  - covered
-  - short
-  - updo
-  - varied
-  - ponytail
-  - wavy
   - loose
+  - wavy
+  - short
+  - casual
+  - neat
+  - varied
+  - updo
+  - "pulled-back"
+  - covered
+  - ponytail
 facial_expressions:
-  - relaxed
   - engaged
   - content
-  - smiling
-  - neutral
-  - focused
+  - relaxed
   - joyful
+  - focused
+  - neutral
+  - smiling
 clothing_styles:
+  - traditional
   - athletic
   - casual
-  - protective
   - "form-fitting"
-  - traditional
   - "business-casual"
+  - protective
 clothing_colors:
-  - muted
-  - pastel
-  - colorful
-  - neutral
-  - earthy
   - monochrome
+  - pastel
+  - neutral
+  - colorful
+  - muted
+  - earthy
   - vibrant
 posings:
-  - holding
-  - relaxed
-  - dynamic
-  - reclined
-  - engaged
-  - standing
-  - seated
-  - leaning
-  - active
   - confident
+  - engaged
+  - active
+  - seated
+  - dynamic
+  - relaxed
+  - holding
+  - leaning
+  - reclined
+  - standing
 gazes:
+  - engaged
   - forward
   - outward
-  - engaged
   - downward
   - sideways
 body_sections:
-  - "upper-body"
-  - "close-up"
-  - "full-body"
   - midsection
+  - "upper-body"
+  - "full-body"
   - "head-shot"
+  - "close-up"
   - "hand-only"
-logo_elements:
-  - symbol
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - minimal
-  - professional
+imagery_styles: []
 wikidata_description: German automotive supplier and rubber processing company founded in Hanover in 1871
 wikidata_url: "https://www.wikidata.org/wiki/Q163241"
 has_twitter: true
@@ -547,16 +542,16 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
+    moderate:
+      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
     dark:
       - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoUQSP0VQAMqOJT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
-    moderate:
-      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
@@ -636,6 +631,13 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
+    low-angle-photo:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EQ_YeK0UEAAbIVd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
+      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
     rule-of-third:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -705,13 +707,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
-    low-angle-photo:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EQ_YeK0UEAAbIVd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
-      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
     point-of-view-shot:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FVS8GxHWUAAQHFB?format=jpg&name=large"
@@ -1263,16 +1258,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EoQQEybVkAMJNPm?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
-    two-tone:
-      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DiVcPM7UEAAznOd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoQQEybVkAMJNPm?format=jpg&name=large"
     grayscale:
       - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
@@ -1288,8 +1273,16 @@ visual_term_image_urls:
     monotone:
       - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
-    sunset-colors:
-      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
+    two-tone:
+      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DiVcPM7UEAAznOd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoQQEybVkAMJNPm?format=jpg&name=large"
     autumnal-colors:
       - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Fi64pYgaYAAxox_?format=jpg&name=large"
@@ -1297,6 +1290,8 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
       - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Enw28FKUcAEghCB?format=jpg&name=large"
+    sunset-colors:
+      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
     light:
       - "https://pbs.twimg.com/media/DiVcPM7UEAAznOd?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
@@ -1357,6 +1352,37 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
+    live-stage:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfXqjSeX4AI4WpI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVRbI0zU0AIs2zo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EBxrkqAUIAE92bB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DcTCdcUXUAEPt1K?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2Sb854XgAAoH3H?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EmMXyjTXIAAkJVO?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyEt-RnVgAEIQ4w?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DhdVxUqXcAA0_sF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDRx5PpUcAQTj9u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
     portrait:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -1389,37 +1415,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DY5MfZ1VwAAfqQl?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
-    live-stage:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfXqjSeX4AI4WpI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVRbI0zU0AIs2zo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EBxrkqAUIAE92bB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DcTCdcUXUAEPt1K?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2Sb854XgAAoH3H?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EmMXyjTXIAAkJVO?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyEt-RnVgAEIQ4w?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DhdVxUqXcAA0_sF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDRx5PpUcAQTj9u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
     product:
       - "https://pbs.twimg.com/media/FVS8GxHWUAAQHFB?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DXSwrJzXcAMNVlb?format=jpg&name=large"
@@ -1895,6 +1890,46 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Enw28FKUcAEghCB?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
+    isolated-focal-point:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVS8GxHWUAAQHFB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D3KVjpkVAAARsih?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvLya-PVEAIQ4Zg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DiVcPM7UEAAznOd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIoU04pU0AAWsNR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DcTCdcUXUAEPt1K?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DSpYa52U8AADThm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyEt-RnVgAEIQ4w?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DhdVxUqXcAA0_sF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
+      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EqA_ABBVoAA-lgs?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Enw28FKUcAEghCB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
     close-up-shot:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -1958,46 +1993,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
-    isolated-focal-point:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FVS8GxHWUAAQHFB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D3KVjpkVAAARsih?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvLya-PVEAIQ4Zg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJZdZ_xUUAMuwCF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DiVcPM7UEAAznOd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIoU04pU0AAWsNR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DcTCdcUXUAEPt1K?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Df_ShgNUYAA4lnA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DSpYa52U8AADThm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyEt-RnVgAEIQ4w?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DhdVxUqXcAA0_sF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJE-LGMVUAAOgN3?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
-      - "https://pbs.twimg.com/media/DmmSuOmVAAYC6NX?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EqA_ABBVoAA-lgs?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Enw28FKUcAEghCB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
     bokeh-effect:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DfXqjSeX4AI4WpI?format=jpg&name=large"
@@ -2005,46 +2000,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DXET92MVAAAInqs?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
-    mid-shot:
-      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfXqjSeX4AI4WpI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVRbI0zU0AIs2zo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EBxrkqAUIAE92bB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2Sb854XgAAoH3H?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoHzIc0UcAAFSGl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EQ_YeK0UEAAbIVd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EmMXyjTXIAAkJVO?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDRx5PpUcAQTj9u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
-      - "https://pbs.twimg.com/media/FCZQjyjVQA0XWyB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoQQEybVkAMJNPm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EqA_ABBVoAA-lgs?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EogOChJXcAUD1LY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
     wide-angle-shot:
       - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
@@ -2085,6 +2040,46 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DY5MfZ1VwAAfqQl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
+    mid-shot:
+      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D83KgHKXoAEBLeb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfXqjSeX4AI4WpI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVRbI0zU0AIs2zo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDM0qsiUcAEbB9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoMf612UUAAfsAY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EBxrkqAUIAE92bB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EocFAawWMAEcsPX?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2Sb854XgAAoH3H?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoHzIc0UcAAFSGl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EQ_YeK0UEAAbIVd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EmMXyjTXIAAkJVO?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EFkqvXQUYAAsfqU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDRx5PpUcAQTj9u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D30Em7JUIAAA1zB?format=png&name=large"
+      - "https://pbs.twimg.com/media/FCZQjyjVQA0XWyB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoQQEybVkAMJNPm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EqA_ABBVoAA-lgs?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EogOChJXcAUD1LY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoGEkY5VcAQF6bn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQBLnbyXoAgF7Fm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E9v9ZzMXEAQh8PB?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDOSd2bVQAEIMEp?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EA-Bn7QXsAEvZ5V?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoRFbiSUwAAkBIJ?format=jpg&name=large"
@@ -2429,6 +2424,19 @@ visual_term_image_urls:
     pulled-back:
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
   facial_expressions:
+    joyful:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
     relaxed:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
@@ -2461,19 +2469,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
-    joyful:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EsCDUw_XAAAI1GC?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
     engaged:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
@@ -2526,21 +2521,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-    protective:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     casual:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -2566,6 +2546,21 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DY5MfZ1VwAAfqQl?format=jpg&name=large"
+    protective:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     business-casual:
       - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
@@ -2578,17 +2573,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
   clothing_colors:
-    muted:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     earthy:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -2625,6 +2609,17 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
+    muted:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     pastel:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -2737,10 +2732,28 @@ visual_term_image_urls:
     engaged:
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
   gazes:
-    downward:
+    engaged:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     forward:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
@@ -2768,28 +2781,10 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DY5MfZ1VwAAfqQl?format=jpg&name=large"
-    engaged:
+    downward:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmsX5J2U0AAnL9E?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FglzMLlVsAA_xLu?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfNzKV5WsAEx64u?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDJDKmGUcAANoY-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyOZ-vVEAQzhye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     sideways:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
@@ -2807,24 +2802,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
   body_sections:
-    full-body:
-      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
-      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     midsection:
       - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
       - "https://pbs.twimg.com/media/FVKPcIlWYAIUD7L?format=jpg&name=large"
@@ -2864,6 +2841,24 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DY5MfZ1VwAAfqQl?format=jpg&name=large"
+    full-body:
+      - "https://pbs.twimg.com/media/EzlTudKWUAIqukU?format=png&name=large"
+      - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EKjih0qVAAA9LBk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVlUZFjXYAElhkb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoCmYYwUwAIYof9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWNPn5kUYAEZxl9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-957_tWsAAt3oq?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dciof-9W0AAmID5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dfxewt2U8AAi2Yg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D8qIUmVXUAA8T5y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoVjHyjUcAA67Lt?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJlAUlxX0AY9vfz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DTmaNxTWsAEjmRW?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EoWs8SUXUAEhtRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmlekvLVAAA2INA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EIuk3H7VUAAfceI?format=jpg&name=large"
     hand-only:
       - "https://pbs.twimg.com/media/DUtptNaU8AAn5RU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EIpdc48XsAExlR5?format=jpg&name=large"
@@ -2889,40 +2884,150 @@ visual_term_image_urls:
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- 03 In diesem Kapitel werden die Basis-Designelemente und Grundsätze des Continental Corporate Designs, einschließlich des Logos, Farbsystems, Layout-Prinzips und der Typografie dargelegt.
-- 04 01 Basislemente | Inhalte Basislemente. Inhalt. Layout-Prinzip. Enthält Übersicht zu verschiedenen Hoch- und Querformaten, Farbsystem, Layouts, und Schrifttypen sowie spezifische Logo-Anforderungen einschließlich Freiraum, Farbapplikationen, und Verbote.
-- Logo: Verbote — Prohibited uses of the logo include compressing or stretching, cropping, changing colors, using it within images, adding shadows, altering proportions, using italics, omitting the symbol, modifying tagline color, and distorting.
+##### Mission
 
-**Color Information:**
+- To present a unified and distinctive visual identity for Continental across all business units, divisions, and corporate functions, emphasizing the brand's strength, tradition, and innovation in the motion and automotive sector [^1].
 
-- 04 Basislemente — Color system introduction covering color distribution, primary colors, secondary colors, accent colors. Specifies proper application and usage rules.
-- Prohibited modifications to logo colors: No distortions, shadowing, or usage of incorrect palettes. Colors must adhere to the official palette.
+##### Core Values
 
-**Typography Information:**
+- dynamism
+- superiority
+- activity
+- strength
+- dominance
+- expertise
+- modernity
+- success
+- stability
+- quality
+- tradition
+- credibility
+- innovation
+- clarity
+- recognizability
+- efficiency
+- simplicity
+- consistency
+- legibility
+- reproducibility
+- proportionality
+- harmonious design
+- attention to detail
+- legal compliance
+- distinctiveness
+- corporate unity
+- forward-looking vision
+- motion
 
-- Introduction to typography: Includes overview of corporate fonts like Continental Stag Sans and their weights — Light, Book, Medium with Italics. Also specifies substitute fonts for office and special systems.
-- Essential font usage rules: Details on alignment, line spacing, and maintaining text hierarchy for print and digital mediums.
+##### Target Audience
 
-**Imagery Photography:**
+- Business units, divisions, corporate functions, and external stakeholders in the automotive and motion sectors, including customers, partners, and employees [^2].
 
-- Imagery guidelines discuss maintaining a consistent photographic style that reflects the brand's values. High-quality, authentic imagery with minimal filters or heavy edits is emphasized.
-- Photos should adhere to lighting and mood guidelines. Proper composition to emphasize the subject while maintaining brand aesthetics is required.
+##### Personality Traits
 
-**Spacing Layout:**
+- friendly
+- dynamic
+- powerful
+- agile
+- modern
+- competent
+- strong
+- innovative
+- clear
+- recognizable
+- efficient
+- simple
+- harmonious
+- legible
+- professional
 
-- Layout principles: Instructions on alignment, safe zones, and proportional scaling for all branded materials.
-- Grid-based layouts and modular alignment guidelines highlighted, ensuring visual consistency across different formats and mediums.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is characterized by a clean, corporate look with a distinctive logo (wordmark and horse symbol), a consistent color palette (Continental-Gelb, Schwarz, Weiß, Silber, Grau, and accent colors), clear layout principles, and the use of Continental Stag Sans typography. The design emphasizes clarity, hierarchy, and recognizability, with strict rules for logo usage, color application, and layout across all media [^3].
 
-- Tone of voice guidelines recommend professional, clear, and approachable language. Emphasis on maintaining credibility while being audience-friendly.
-- Prohibited messaging styles: Avoid overly casual, sarcastic, or ambiguous language. Messaging should always remain aligned with desired brand perception.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- The document includes recommendations for best practices and prohibited actions across logo usage, typography, and color application to ensure uniformity in materials.
+- Das Continental-Logo ist eine Einheit bestehend aus einer auffälligen Wortmarke und dem Symbol. Es kann zusätzlich auch in Kombination mit der Tagline „The Future in Motion" verwendet werden. Das Logo muss immer von einem dazugehörigen Freiraum umgeben sein. Der Freiraum legt den Mindestabstand zwischen dem Logo und allen anderen Designelementen fest. Das Continental-Logo mit der Tagline wird auf allen Kommunikations-und imagefördernde Materialien verwendet: - Printmedien (Titel-und Umschlagrückseiten) - Onlinemedien - Anzeigen - Merchandising (sofern ausreichend Platz vorhanden) - Roll-ups - PowerPoint (Titel) - Filme und animierte Sequenzen Die Mindestbreite des Logos beträgt 43 mm. Es darf niemals kleiner abgebildet werden. Wenn Sie diese Anforderung nicht erfüllen können, wenden Sie sich an die in Ihrer Division für Corporate Identity-Fragen zuständige Person (siehe Seite 54). Auf A4-Format verwendete Größe des Logos (1x=5,5 mm)
+- Der obligatorische weiße Freiraum (Rand) um das Logo herum dient als Abstandhalter. Verwenden Sie das Logo nie ohne diesen. Die Höhe bzw. Breite des Rands (1x) entspricht der halben Höhe des Logos (2x) In Ausnahmefällen, in denen Sonderformate eingesetzt werden, kann der Freiraum um das Logo um ½ x reduziert werden, um eine Vergrößerung des Logos zu ermöglichen. Auf A4-Format verwendete Größe des Logos (1x=5,5 mm)
+- Das Logo kann -je nach Medium und Anwendung -in einer Vierfarb-oder in Schwarz-Weißversion eingesetzt werden.
+- Logo nicht komprimieren oder dehnen Das Logo nicht ohne das Symbol verwenden Das Logo nicht kursiv verwenden Das Logo nicht verzerren Keine anderen Farben verwenden Keine Ausschnitte des Logos verwenden Den Hintergrund nicht schattieren oder farbig darstellen Das Logo nicht in Bildern verwenden Die Farbe der Tagline nicht verändern Die Proportionen des Logos nicht verändern
+
+##### Color Palette
+
+- Die vier Continental-Grundfarben sind entscheidend für das Erscheinungsbild der Unternehmenskommunikation. Das Continental-Gelb steht für die Dynamik, Überlegenheit und Aktivität der Marke. Das Continental-Schwarz steht für die Rubber Group und vermittelt Kraft, Dominanz und Stärke. Weiß wurde für die Automotive Group ausgewählt; es vermittelt ein Gefühl von Expertise und Modernität. Das Continental-Silber steht für den Erfolg und die Stabilität der unternehmerischen Aspekte der Marke.
+- Die Identitäten der verschiedenen Divisionen werden durch den Einsatz dieser vier Farben in verschiedenen Verhältnissen gekennzeichnet.
+- Für Corporate stehen Continental-Gelb, -Schwarz, -Weiß und -Silber; Automotive verwendet im Verhältnis mehr Continental-Weiß, während Rubber mehr Continental-Schwarz einsetzt.
+- Continental-Gelb, Continental-Schwarz (1C/4C), Continental-Silber und Continental-Weiß sind die Grundfarben des Unternehmens.
+- Continental-Gelb wird für größere Flächen sowie Überschriften und einleitende Abschnitte und zur Hervorhebung von Textstellen im Copytext verwendet.
+- Für die Verwendung von Continental-Schwarz in einfarbigen bzw. vierfarbigen Anwendungen gibt es genaue Vorgaben. Auf größeren Flächen muss die vierfarbige Version verwendet werden, um den richtigen Sättigungsgrad zu gewährleisten. Der Copytext und das Logo müssen in der einfarbigen Version erscheinen.
+- Continental-Silber wird als zusätzliche Farbe für die Corporate Identity des Gesamtkonzerns verwendet.
+- Continental-Weiß wird als Hintergrundfarbe und für große Flächen in Automotive-Anwendungen verwendet. Darüber hinaus wird Continental-Weiß auch verwendet, wenn Typografie und Logo umgekehrt vor einem farbigen Hintergrund eingesetzt werden.
+- Drucken Sie die Continental-Grundfarben wenn möglich als Sonderfarben aus und verwenden Sie die für die jeweilige Druck- oder Fertigungsmethode geeignete Farbanwendung. Der für Digitaldruck geeignete Farbton ist CMYK.
+- Primärfarben: Continental-Gelb Pantone 137 C, CMYK 0/40/100/0, RGB 255/165/0, HEX #ffa500, Pantone Gewebe 14-1064 TPX, RAL 1028; Continental-Schwarz 1 C Pantone Schwarz C, CMYK 0/0/0/100, RGB 0/0/0, HEX #000000, Pantone Gewebe 19-0303 TPX, RAL 9005; Continental-Schwarz 4 C Pantone Schwarz C, CMYK 90/72/72/100, RGB 0/0/0, HEX #000000, Pantone Gewebe 19-0303 TPX, RAL 9005; Continental-Silber Pantone 8400 C, CMYK 20/15/15/35, Pantone Gewebe 16-5101 TPX, RAL 9022; Continental-Weiß CMYK 0/0/0/0, RGB 255/255/255, HEX #ffffff, Pantone Gewebe 11-0601 TPX, RAL 9003.
+- Sekundärfarben: Continental-Grau 1 Pantone Cool Gray 9 C, 100 %, CMYK 0/0/0/65, RGB 115/115/115, HEX #737373, Pantone Gewebe 18-4005 TPX, RAL 7005; Continental-Grau 2 Pantone Cool Gray 9 C, 70 %, CMYK 0/0/0/45, RGB 150/150/150, HEX #969696, Pantone Gewebe 17-1501 TPX, RAL 7037; Continental-Grau 3 Pantone Cool Gray 9 C, 40 %, CMYK 0/0/0/25, RGB 205/205/205, HEX #cdcdcd, Pantone Gewebe 16-4702 TPX, RAL 7042; Continental-Grau 4 Pantone Cool Gray 9 C, 10 %, CMYK 0/0/0/10, RGB 240/240/240, HEX #f0f0f0, Pantone Gewebe 14-4102 TPX, RAL 7035.
+- Sekundärfarbe ist Pantone Cool Gray 9 (Continental-Grau 1). Cool Gray 9 kann wie unten beschrieben für Siebdruck verwendet werden, um zusätzliche Grautöne zu erzeugen: Continental-Grau 2, Continental-Grau 3 und Continental-Grau 4.
+- Continental-Grau 1 wird hauptsächlich für Typografien verwendet; Continental-Grau 2 und Continental-Grau 3 hauptsächlich für Grafiken und Diagramme; Continental-Grau 4 für Flächen und Grafiken.
+- Akzentfarben: Continental-Hellblau Pantone 299 C, CMYK 80/5/0/0, RGB 0/165/220, HEX #00a5dc; Continental-Dunkelblau Pantone 293 C, CMYK 100/60/0/5, RGB 0/78/175, HEX #004eaf; Continental-Hellgrün Pantone 361 C, CMYK 70/0/100/0, RGB 45/185/40, HEX #2db928; Continental-Dunkelgrün Pantone 335 C, CMYK 100/5/70/20, RGB 5/120/85, HEX #057855; Continental-Hellrot Pantone 032 C, CMYK 0/90/80/0, RGB 255/45/55, HEX #ff2d37.
+- Die Akzentfarben werden hauptsächlich in Grafiken und in Fällen verwendet, in denen es notwendig ist, zusätzliche Farben zur Unterscheidung oder Hervorhebung zu verwenden.
+- Ringdiagramme müssen in Primär- und Sekundärfarben gestaltet sein, wobei Akzentfarben nach Bedarf zur Darstellung zusätzlicher Werte eingesetzt werden.
+- Balkendiagramme müssen in Primär-und Sekundärfarben gestaltet sein, wobei Akzentfarben nach Bedarf zur Darstellung zusätzlicher Werte eingesetzt werden.
+- Liniendiagramme müssen in Primär-und Sekundärfarben gestaltet sein, wobei Akzentfarben nach Bedarf zur Darstellung zusätzlicher Werte eingesetzt werden.
+
+##### Typography
+
+- Die Unternehmensschriftart ist Continental Stag Sans. Diese Schrift soll die Stärke, Kompetenz und Modernität der Marke vermitteln und gleichzeitig soll sie die Aufmerksamkeit auf Titelzeilen lenken ohne vom Inhalt abzulenken. Continental Stag Sans ist eine für das Auge angenehme Sans Serif-Schriftart, welche die maximale Lesbarkeit gewährleistet.
+- Arial wird in MS Office-Anwendungen eingesetzt, während Nimbus Global als international empfohlene Ersatzschriftart verwendet wird.
+- Unternehmensschriftart: Continental Stag Sans
+- Empfohlene Ersatzschriftart für unterschiedliche Schreibsysteme
+- Standardschriftart für Office-Anwendungen: Arial
+- Die Unternehmensschriftart Continental Stag Sans wird in allen Medien verwendet. Vorgegebene Schriftarten müssen korrekt eingesetzt werden. Für Online-Anwendungen ist die Webschriftart Continental Stag Sans zu verwenden.
+- Hinweis: Beachten Sie die genauen Spezifikationen zur Verwendung der Typografie für die jeweiligen Medien.
+- Beachten Sie folgende Punkte, um die optimale Verwendung der typografischen Elemente zu gewährleisten: – Vergewissern Sie sich, dass Schriftgrößen und Zeilenabstände korrekt sind. – Achten Sie darauf, für die jeweilige Schriftgröße die richtige Unterschneidung zu wählen. – Es dürfen nur die vorgegebenen Schriftarten eingesetzt werden. – Richten Sie den Copytext linksbündig (nicht als Blocksatz) aus. – Wählen Sie in InDesign die Unterschneidung „Optical“.
+- Die entsprechenden typografischen Werte finden Sie auf Seite 49, 58 und 65 im Handbuch „Printmedien“.
+- Nimbus Sans Global ist die von Continental verwendete internationale Standardschrift-art. Nimbus Sans Global enthalt zurzeit ca. 35.000 Zeichen, einschliefslich kompletter Zeichensatze fOr die Sprachen Chinesisch, Japanisch und Koreanisch. Neben lateinischen, griechischen und kyrillischen Buchstaben umfasst sie die japanischen Silbenzeichen (Kanji, Hiragana und Katakana) sowie den vollstandigen Satz der koreanischen Silben­zeichen (Hangul).
+- Diese Typografie wird fOr alle Sprachen ver­wendet, fOr die die Unternehmensschriftart Continental Stag Sans nicht verfOgbar ist. Bei Verwendung des Zeichensatzes Nimbus Chine­se sind zusatzliche Abstande erforderlich.
+- Hinweis: Beachten Sie die genauen Spezifika­tionen zur Verwendung der Typografie fOr die jeweiligen Medien.
+- Arial ist die Standardschriftart für von Continental verwendete Office-Anwendungen. Sie ist als Standardschrift in allen Microsoft Word-Versionen ab 3.1 (für Microsoft und Apple) enthalten.
+- Arial wird allgemein in allen Microsoft-Anwendungen verwendet. 1990 veröffentlicht – Design: Robin Nicholas und Patricia Saunders.
+- Pfeile werden verwendet, um Informationen tabellarisch darzustellen und zu betonen. In Powerpoint-Präsentation dienen Pfeile außerdem als Aufzählungszeichen.
+- Unterpunkte können eingerückt und mit Bindestrichen tabellarisch dargestellt werden.
+- Für tabellarische Listen, die nicht Teil des Copytextkörpers sind und nicht besonders betont werden müssen, werden Bindestriche verwendet.
+- Der Zeichenabstand darf nicht zu groß sein
+- Der Zeichenabstand darf nicht zu klein sein
+- Die Typografie niemals dehnen
+- Die Typografie nicht stauchen
+- Die Typografie nicht neigen
+- Den richtigen Zeilenabstand beibehalten
+- Keine anderen Schriften verwenden
+- Die Typografie nicht verzerren
+
+##### Visual Style
+
+- Das Continental-Logo ist eine Einheit bestehend aus einer auffälligen Wortmarke und dem Symbol. Es kann zusätzlich auch in Kombination mit der Tagline „The Future in Motion" verwendet werden. Das Logo muss immer von einem dazugehörigen Freiraum umgeben sein. Der Freiraum legt den Mindestabstand zwischen dem Logo und allen anderen Designelementen fest. Das Continental-Logo mit der Tagline wird auf allen Kommunikations-und imagefördernde Materialien verwendet: - Printmedien (Titel-und Umschlagrückseiten) - Onlinemedien - Anzeigen - Merchandising (sofern ausreichend Platz vorhanden) - Roll-ups - PowerPoint (Titel) - Filme und animierte Sequenzen Die Mindestbreite des Logos beträgt 43 mm. Es darf niemals kleiner abgebildet werden. Wenn Sie diese Anforderung nicht erfüllen können, wenden Sie sich an die in Ihrer Division für Corporate Identity-Fragen zuständige Person (siehe Seite 54). Auf A4-Format verwendete Größe des Logos (1x=5,5 mm)
+
+##### Layout And Composition
+
+- Continental verwendet ein einfaches Layout-Prinzip, das einen von einem weißen Rahmen umrandeten Kommunikationsbereich umfasst. Es legt den Gestaltungsbereich fest, dessen Größe vom jeweiligen Format abhängt.
+- Das Quality Seal, das das Logo enthält, ist immer in der oberen linken Ecke des jeweiligen Formats platziert und überlagert den weißen Rahmen.
+- Die einzelnen Geschäftsbereiche werden mithilfe verschiedener Farben im Kommunikationsbereich gekennzeichnet.
+- Die Mindestgröße für den Rahmen beträgt 4 mm. Das Logo und der Rahmen werden, ungeachtet der Formatgröße, niemals kleiner dargestellt.
+- Diese Tabelle enthält die genauen Angaben zur Anwendung des Layout-Prinzips in hochformatigen Print-Anwendungen. Diese Spezifikationen dürfen nicht verändert werden.
+- Nicht-Standard-Formate müssen dem Gesamterscheinungsbild des Continental-Layout-Prinzips so genau wie möglich entsprechen. Die Größe des Rahmens und des Quality Seal muss harmonisch sein und den Spezifikationen für das ähnlichste DIN- oder US-Briefformat ungefähr entsprechen.
+- Diese Tabelle enthält die genauen Angaben zur Anwendung des Layout-Prinzips in quer-formatigen Print-Anwendungen. Diese Spezifikationen dürfen nicht verändert werden.
+- Wenn das Design an spezielle Nicht-Standard-Formate angepasst wird, sind die folgenden Schritte zu berücksichtigen: 1. Wählen Sie aus den Tabellen auf den Seiten 21-22 und 24-25 das Format aus, das dem zu verwendenden Format am ehesten entspricht. 2. Öffnen Sie die gewählte Vorlage. 3. Skalieren Sie das Format, indem Sie in die untere rechte Ecke klicken und ziehen. (HINWEIS: Das Quality Seal, der weiße Rahmen und die Typografie dürfen nicht skaliert werden!) 4. Passen Sie die Kanten rechts und unten an, damit sie der oberen und der linken Kante entsprechen. 5. Richten Sie zuletzt die Flächen proportional am Grundraster aus und platzieren Sie die Typografie in den Kommunikationsbereich. Wirken die Proportionen des weißen Rahmens im Vergleich zum Quality Seal zu groß oder zu klein, wählen Sie das nächstgrößere bzw. nächst­kleinere Format.
+- Das flexible Layout-Prinzip basiert auf spezi­fischen Proportionen innerhalb eines defi­nierten Gestaltungsrasters. Der Copytext und Grafik enthaltende Bereich ist von der entsprechenden Anwendung abhängig.
+- Das Quality Seal nicht rechts platzieren
+- Das Quality Seal nicht in den unteren Bereich des Formats platzieren
+- Keine weiße Lücke zwi­schen Kommunikations­bereich und Bild lassen
+- Die Farbe des Kommu­nikationsbereichs nicht verändern
+- Der Kommunikationsbereich darf die vorgegebene Maximalgröße nicht überschreiten
+- Der Kommunikationsbereich darf nicht kleiner als die vorgegebene Mindesthöhe ausfallen
+- Das Quality Seal muss über den oberen Rand des Formats. nicht über den rechten. hinausstehen
+- Das Quality Seal muss über den oberen Rand des Formats. nicht über den linken. hinausstehen
 
 ## Promotion Insights
 
@@ -3061,7 +3166,7 @@ visual_term_image_urls:
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Continental Hochhaus](/headquarters_locations/continental-hochhaus/); [Hanover](/headquarters_locations/hanover/) |
-| Subsidiary | [United States Rubber Company](/subsidiaries/united-states-rubber-company/); [Phoenix Ag](/subsidiaries/phoenix-ag/); [Continental Automotive Corporation](/subsidiaries/continental-automotive-corporation/); [Contitech](/subsidiaries/contitech/); [Continental Corporation Usa](/subsidiaries/continental-corporation-usa/); [Continental Ht Tyres](/subsidiaries/continental-ht-tyres/); [Bestdrive](/subsidiaries/bestdrive/); [Continental Vuk](/subsidiaries/continental-vuk/); [Temic](/subsidiaries/temic/); [Continental Barum](/subsidiaries/continental-barum/); [General Tire](/subsidiaries/general-tire/); [Clouth Gummiwerke](/subsidiaries/clouth-gummiwerke/); +9 more |
+| Subsidiary | [Continental Automotive Czech Republic](/subsidiaries/continental-automotive-czech-republic/); [Phoenix Ag](/subsidiaries/phoenix-ag/); [Continental Automotive Corporation](/subsidiaries/continental-automotive-corporation/); [Continental Ht Tyres](/subsidiaries/continental-ht-tyres/); [General Tire](/subsidiaries/general-tire/); [Continental Barum](/subsidiaries/continental-barum/); [Continental Tire Canada](/subsidiaries/continental-tire-canada/); [Continental Caoutchouc Export](/subsidiaries/continental-caoutchouc-export/); [Continental Automotive Holding Netherlands](/subsidiaries/continental-automotive-holding-netherlands/); [Continental Corporation Usa](/subsidiaries/continental-corporation-usa/); [Bestdrive](/subsidiaries/bestdrive/); [Temic](/subsidiaries/temic/); +9 more |
 | Foundation Date | [1871](/foundation_dates/1871/) |
 | Freebase Id | /m/05f_fl |
 | Headquarters Location | Hanover, Continental-Hochhaus |

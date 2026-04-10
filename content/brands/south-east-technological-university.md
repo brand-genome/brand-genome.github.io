@@ -2,7 +2,7 @@
 title: South East Technological University
 slug: "south-east-technological-university"
 description: ""
-date: "2026-03-20T08:22:04.162103"
+date: "2026-04-10T09:40:32.479790"
 draft: false
 sectors:
   - education
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - education
-  - university
   - technology
+  - university
 industries: []
 countries:
   - ireland
@@ -55,13 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: University in the south east of Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q55670387"
 has_twitter: false
@@ -81,69 +78,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo variants are described.
-- Logo variants are described.
-- Logo variants are described.
-- Logo variants are described.
-
-**Color Information:**
-
-- Primary and secondary color information is covered.
-- Primary and secondary color information is covered.
-- Primary and secondary color information is covered.
-- Primary and secondary color information is covered.
-
-**Typography Information:**
-
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-- Brand fonts and typography guidelines are described.
-
-**Imagery Photography:**
-
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-- Photography styling and guidelines are covered.
-
-**Brand Voice:**
-
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-- Brand persona and tagline details are provided.
-
-**Notes:**
-
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
-- Additional details about the contents or brand toolkit are mentioned.
+*Guidelines data not available*
 
 ## Additional Properties
 

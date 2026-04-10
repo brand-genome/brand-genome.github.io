@@ -2,11 +2,11 @@
 title: De Dietrich
 slug: "de-dietrich"
 description: ""
-date: "2026-03-20T08:22:05.070287"
+date: "2026-04-10T09:40:33.838918"
 draft: false
 sectors:
-  - utilities
   - "home-appliances"
+  - utilities
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "automotive-industry"
   - "vehicle-construction"
+  - "automotive-industry"
 countries:
   - france
 revenue_buckets: []
@@ -54,28 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-brand_colors:
-  - green
-  - "pantone-123"
-  - white
-  - "pantone-300"
-  - "pantone-281"
-  - blue
-  - "pantone-377"
-  - yellow
-  - gray
-  - "pantone-130"
-  - orange
-  - black
-typographies:
-  - arial
-  - futura
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "1905-1934 automotive and engine manufacturer"
 wikidata_url: "https://www.wikidata.org/wiki/Q574579"
 has_twitter: false
@@ -96,38 +78,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Main logo includes the cor de chasse, tied to historical family nobility under Louis XV. Variants: logo used alone on white background and logo with baseline.
-- Incorrect logo usage guidelines: Do not change color tone, superimpose an image in the logo, modify or distort the logo, or use a background that harms visibility.
-- Minimum size requirement for the logo: Baseline must be removed below 25 mm width due to legibility issues.
-
-**Color Information:**
-
-- Primary colors include Pantone 300 C (Blue), Pantone Process Black (Black), Pantone 281 C (Dark Blue), Pantone 123 C (Yellow), Pantone 130 C (Orange), and Pantone 377 C (Green). Color codes are specified in CMYK, RGB, and RAL.
-- Black is used predominantly for text and can be applied at 70% transparency for a lighter appearance.
-
-**Typography Information:**
-
-- Editorial typography includes: Futura BQ Light for body text, Affect Light for subtitles, Affect Bold for titles. Digital typography includes: Arial Regular for body text and Arial Bold for titles.
-- Typography treatment requires uppercase, alternate use of black and gray, and avoids capitalizing the first letter of a sentence.
-
-**Imagery Photography:**
-
-- Visuals primarily feature products with an emphasis on performance and technicality. Photographic style conveys serenity and tranquility, often showing dynamic characters in motion reflecting innovation.
-- Usage guidelines for visuals: Characters exceeding the frame are blurred, backgrounds are blurred for focus-centric images, and dynamic compositions allow for cuts and object detachments.
-
-**Spacing Layout:**
-
-- Printed and digital layouts emphasize clarity, simplicity, and accessibility of information, reinforcing brand values.
-
-**Brand Voice:**
-
-- Tone of voice is optimistic, pedagogic, and technologically oriented. Language reflects themes of innovation and adaptability to current and future trends.
-
-**Notes:**
-
-- The document integrates brand historical significance, emphasizing premium positioning with consistent visual and textual messaging.
+*Guidelines data not available*
 
 ## Additional Properties
 

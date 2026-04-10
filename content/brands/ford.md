@@ -2,16 +2,16 @@
 title: Ford
 slug: ford
 description: ""
-date: "2026-03-20T08:22:04.016378"
+date: "2026-04-10T09:40:31.995325"
 draft: false
 sectors:
-  - automobile
   - finance
+  - automobile
 regions:
   - usa
 years:
-  - 2021
   - 2006
+  - 2021
 languages:
   - english
 tags:
@@ -36,8 +36,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - truck
   - "passenger-car"
+  - truck
 products: []
 headquarters_locations:
   - dearborn
@@ -63,24 +63,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - horizontal
-  - emblem
-  - primary
-  - icon
-brand_colors:
-  - "pantone-3262"
-  - black
-typographies:
-  - impact
-  - avenir
-imagery_styles:
-  - bold
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American multinational automotive company
 wikidata_url: "https://www.wikidata.org/wiki/Q44294"
 has_twitter: false
@@ -208,44 +194,321 @@ visual_term_image_urls: {}
 
 ### 2021
 
-*Guidelines data not available*
+#### Categories
+
+##### Brand Imagery
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+
+##### Color Palette
+
+- Consistent use of Ford Blue will create a strong visual connection for consumers across all Ford channels.
+- PANTONE 294
+- In all cases, Ford Blue (Pantone 294®) is our primary brand color and a distinctive brand asset that we will continue to invest in. Supporting our core Ford Blue are two new blues – inspired by our past, refreshed for our future.
+- Committed to Using Blue Across All Brand Touchpoints • Physical • Digital • Experiential
+- Pantone 294 CMYK 100 85 0 30 RGB 0 9 91 HEX 00095B
+- Pantone 2766 CMYK 100 96 53 47 RGB 0 20 46 HEX 00142E
+- DRAFT 05 Ford Grabber Pantone 2126 CMYK 100 81 0 0 RGB 23 0 244 HEX 1700F4
+- Ford Blue (Pantone 294®) will remain our primary brand color, with two new blues to support – Ford Twilight and Ford Grabber. In use, please mind the proportions shown here.
+- Focus on Ford Blue. It should be most prominent. Ground with Ford Twilight to bring weight and depth. Complement with Ford Grabber; avoid using in excess.
+- Additional colors, aligned to a business strategy, may be used in select instances. Please follow supplemental guidelines for approved brand colors.
+- Please note: Color values for Ford Blue in CMYK, RGB and HEX have been custom-selected to align to the Pantone 294 chip. Follow the breakdowns on this page when setting color.
+- 80% Ford Blue
+- 10% Ford Grabber
+- 10% Ford Twilight
+- Grabber Blue should be a complementary accent color to Ford Blue – about 10% of your composition.
+- Consider Using Grabber Blue to: • Complement Ford Blue • Signal modernity • Add a touch of vibrancy • Highlight elements (iconography, numbers, rollover states)
+- Avoid Using Grabber Blue as: • A primary color; Grabber Blue should be used to complement Ford Blue • A text or background color for large blocks of copy; it can be difficult to read text set in or on Grabber Blue • A single-color pattern; this can create visual vibration and has WCAG/ADA compliance issues; please use the brand patterns only as supplied
+- Adobe Swatch Exchange (.ase) digital color palettes have been provided on GEAR to ease adoption of correct color values.
+- It’s important that the correct color spaces and file types are used with the corresponding medium or channel. Please use the information provided here as guidance.
+- Color Codes: Spot, CMYK, RGB, HEX Spot files are for Pantone® spot-color applications only. CMYK files are used for all other printed materials. RGB files are for screen/video use. HEX color codes are also provided for digital applications. Please select the correct colorway for your usage.
+
+##### Typography
+
+- Ford Antenna is our custom brand font and should be used in all Ford materials. If you are a Ford employee, Ford Antenna is loaded on your computer. Please contact the Ford help desk with any issues. Use on any non-Ford work is not permitted through our license agreement.
+- Ford Antenna Medium is the primary font for communications. Logo designs fall outside of the core brand design system and should be guided by the Ford Brand architecture framework.
+- The primary headline treatment is Ford Antenna Medium, title case, left-aligned.*
+- Ford Antenna Medium, mixed case, left-aligned.*
+- Leading is set to auto. Tracking is set to zero. Use optical kerning where applicable.
+- *For countries reading right to left, primary treatment is right-aligned, not left-aligned.
+- Leading is 1:1, so if your headline is set at 96, your leading will also be 96. Tracking is set to zero. Use optical kerning where applicable.
+- Ford Antenna Bold, all caps, left-aligned*
+- Ford Antenna Medium, title case, left-aligned,* 1.5 height line spacing
+- Use Only Our Brand Font, Ford Antenna
+- Headlines Are Set in Ford Antenna Medium
+- Limit Headlines to Eight Words When Possible
+- Headlines Should Be Left-Aligned
+- Use Title Case* for Headlines
+- Optimal Leading for Headlines Is 1:1
+- Set Tracking to Zero
+- Use Optical Kerning
+- Use Auto Leading for Body Copy
+- *For title case, capitalize the first and last word, and all other words except articles (a, an, the), coordinating conjunctions (and, or, but, etc.) and (short) prepositions (in, on, for, up, etc.).
+- Avoid Long, Wordy Headers That Lose Visual Impact and Clutter the Communication
+- Don’t Make Your Headline Diminutive
+- Centering Type Is Another Brand
+- avoid all lower case
+- No Mixing Header Weights
+- No Period After Headline.
+- Wide Open Tr a c k i n g Is Hard to Read
+- Avoid Non-Approved Weights of Ford Antenna
+- SETTING BODY COPY IN ALL CAPS IS DIFFICULT TO READ AND SHOULD BE AVOIDED.
+- The WGL character set is included within the Latin character set for Central and Eastern Europe.
+- The CJK character set is available upon request for the Asian/ Arabic scripts and characters. These limited-license CJK fonts are for use on external customer-facing documents only.
+- As part of our global font procurement, we have purchased the rights to Ford Antenna web fonts.
+- For presentations and production situations in which Ford Antenna absolutely can’t be used, such as financial reporting, email and browsers that do not support web fonts, the Arial font family should be used.
+- Ford Antenna Medium font
+- Large, left-aligned*
+- Title case
+- 8 words or less
+- Body Copy Ford Antenna Medium font Sentence case
+
+##### Logo Usage
+
+- Use the Ford Oval correctly, as described in this guide
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+- Oval Size The Oval can be divided into squares, each of which is called an X area (eight by three squares).
+- Clear space Adding a square top, bottom, left and right creates the clear space (10 by five squares).
+
+##### Brand Values
+
+- Use where trust matters most.
+- Where you need a symbol of our deeply held values and beliefs.
+- A seal of authenticity and permanence that signals “We act with integrity.”
+- “We stand behind this.”
+- More than a color. It represents a century of hard-earned trust, loyalty and strength. Ford Blue has stood the test of time. Inseparable from who we are and what we stand for.
+
+##### Visual Style
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+
+##### Iconography
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+
+##### Layout And Composition
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+- Oval Size The Oval can be divided into squares, each of which is called an X area (eight by three squares).
+- Clear space Adding a square top, bottom, left and right creates the clear space (10 by five squares).
+- Font Ford Antenna Medium, title case, left-aligned.
+- Bottom left* logo placement Ford Oval or dealership logo
+- Prominent use of Ford Blue
+- Using a 6x6 grid can help with overall layout and structure
 
 ### 2006
 
-**Logo Information:**
+#### Categories
 
-- The logo features a horizontal primary variant suitable for standard uses.
-- A vertical stacked version is available for use in restricted-width contexts.
-- Icon-only logo version with a circular emblem for compact spaces.
+##### Brand Imagery
 
-**Color Information:**
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
 
-- The brand's primary color is Pantone 3262 C with HEX #00B0AD, suitable for digital and print media.
+##### Color Palette
 
-**Typography Information:**
+- Consistent use of Ford Blue will create a strong visual connection for consumers across all Ford channels.
+- PANTONE 294
+- In all cases, Ford Blue (Pantone 294®) is our primary brand color and a distinctive brand asset that we will continue to invest in. Supporting our core Ford Blue are two new blues – inspired by our past, refreshed for our future.
+- Committed to Using Blue Across All Brand Touchpoints • Physical • Digital • Experiential
+- Pantone 294 CMYK 100 85 0 30 RGB 0 9 91 HEX 00095B
+- Pantone 2766 CMYK 100 96 53 47 RGB 0 20 46 HEX 00142E
+- DRAFT 05 Ford Grabber Pantone 2126 CMYK 100 81 0 0 RGB 23 0 244 HEX 1700F4
+- Ford Blue (Pantone 294®) will remain our primary brand color, with two new blues to support – Ford Twilight and Ford Grabber. In use, please mind the proportions shown here.
+- Focus on Ford Blue. It should be most prominent. Ground with Ford Twilight to bring weight and depth. Complement with Ford Grabber; avoid using in excess.
+- Additional colors, aligned to a business strategy, may be used in select instances. Please follow supplemental guidelines for approved brand colors.
+- Please note: Color values for Ford Blue in CMYK, RGB and HEX have been custom-selected to align to the Pantone 294 chip. Follow the breakdowns on this page when setting color.
+- 80% Ford Blue
+- 10% Ford Grabber
+- 10% Ford Twilight
+- Grabber Blue should be a complementary accent color to Ford Blue – about 10% of your composition.
+- Consider Using Grabber Blue to: • Complement Ford Blue • Signal modernity • Add a touch of vibrancy • Highlight elements (iconography, numbers, rollover states)
+- Avoid Using Grabber Blue as: • A primary color; Grabber Blue should be used to complement Ford Blue • A text or background color for large blocks of copy; it can be difficult to read text set in or on Grabber Blue • A single-color pattern; this can create visual vibration and has WCAG/ADA compliance issues; please use the brand patterns only as supplied
+- Adobe Swatch Exchange (.ase) digital color palettes have been provided on GEAR to ease adoption of correct color values.
+- It’s important that the correct color spaces and file types are used with the corresponding medium or channel. Please use the information provided here as guidance.
+- Color Codes: Spot, CMYK, RGB, HEX Spot files are for Pantone® spot-color applications only. CMYK files are used for all other printed materials. RGB files are for screen/video use. HEX color codes are also provided for digital applications. Please select the correct colorway for your usage.
 
-- The primary font family is Avenir, Regular and Bold weights are emphasized.
-- Headlines use Avenir Black for impact, while body text uses Avenir Regular for legibility.
-- The secondary font family is Sansita, used in callouts and subheadings.
+##### Typography
 
-**Imagery Photography:**
+- Ford Antenna is our custom brand font and should be used in all Ford materials. If you are a Ford employee, Ford Antenna is loaded on your computer. Please contact the Ford help desk with any issues. Use on any non-Ford work is not permitted through our license agreement.
+- Ford Antenna Medium is the primary font for communications. Logo designs fall outside of the core brand design system and should be guided by the Ford Brand architecture framework.
+- The primary headline treatment is Ford Antenna Medium, title case, left-aligned.*
+- Ford Antenna Medium, mixed case, left-aligned.*
+- Leading is set to auto. Tracking is set to zero. Use optical kerning where applicable.
+- *For countries reading right to left, primary treatment is right-aligned, not left-aligned.
+- Leading is 1:1, so if your headline is set at 96, your leading will also be 96. Tracking is set to zero. Use optical kerning where applicable.
+- Ford Antenna Bold, all caps, left-aligned*
+- Ford Antenna Medium, title case, left-aligned,* 1.5 height line spacing
+- Use Only Our Brand Font, Ford Antenna
+- Headlines Are Set in Ford Antenna Medium
+- Limit Headlines to Eight Words When Possible
+- Headlines Should Be Left-Aligned
+- Use Title Case* for Headlines
+- Optimal Leading for Headlines Is 1:1
+- Set Tracking to Zero
+- Use Optical Kerning
+- Use Auto Leading for Body Copy
+- *For title case, capitalize the first and last word, and all other words except articles (a, an, the), coordinating conjunctions (and, or, but, etc.) and (short) prepositions (in, on, for, up, etc.).
+- Avoid Long, Wordy Headers That Lose Visual Impact and Clutter the Communication
+- Don’t Make Your Headline Diminutive
+- Centering Type Is Another Brand
+- avoid all lower case
+- No Mixing Header Weights
+- No Period After Headline.
+- Wide Open Tr a c k i n g Is Hard to Read
+- Avoid Non-Approved Weights of Ford Antenna
+- SETTING BODY COPY IN ALL CAPS IS DIFFICULT TO READ AND SHOULD BE AVOIDED.
+- The WGL character set is included within the Latin character set for Central and Eastern Europe.
+- The CJK character set is available upon request for the Asian/ Arabic scripts and characters. These limited-license CJK fonts are for use on external customer-facing documents only.
+- As part of our global font procurement, we have purchased the rights to Ford Antenna web fonts.
+- For presentations and production situations in which Ford Antenna absolutely can’t be used, such as financial reporting, email and browsers that do not support web fonts, the Arial font family should be used.
+- Ford Antenna Medium font
+- Large, left-aligned*
+- Title case
+- 8 words or less
+- Body Copy Ford Antenna Medium font Sentence case
 
-- Photography should depict natural lighting and genuine emotions to align with the brand's tone.
+##### Logo Usage
 
-**Spacing Layout:**
+- Use the Ford Oval correctly, as described in this guide
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+- Oval Size The Oval can be divided into squares, each of which is called an X area (eight by three squares).
+- Clear space Adding a square top, bottom, left and right creates the clear space (10 by five squares).
 
-- Clear space around the logo is defined as 1x the height of the logo icon.
-- Grids are to be used to align all text and imagery elements consistently.
+##### Brand Values
 
-**Brand Voice:**
+- Use where trust matters most.
+- Where you need a symbol of our deeply held values and beliefs.
+- A seal of authenticity and permanence that signals “We act with integrity.”
+- “We stand behind this.”
+- More than a color. It represents a century of hard-earned trust, loyalty and strength. Ford Blue has stood the test of time. Inseparable from who we are and what we stand for.
 
-- The tone of voice should be confident, approachable, and inspiring.
-- Messaging do's include using action-oriented language and short sentences.
-- Avoid overly formal or verbose language in brand communications.
+##### Visual Style
 
-**Notes:**
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
 
-- Ensure all text and logos have adequate contrast for accessibility compliance.
+##### Iconography
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+
+##### Layout And Composition
+
+- Do use the Ford Oval in Ford Blue over light backgrounds and with proper clear space to increase visibility View Additional Ford Trademark Legibility Guidelines
+- Do use the Ford Oval as the corporate logo, representing the company as our primary trademark
+- Do consider using the Ford Oval in white over Ford Blue to increase brand recognition
+- Please assess an experience, space or communication holistically to avoid “over-logo-ing.” In general, a single logo within each point of view is enough.
+- Don’t place the Ford Oval in white over backgrounds that are too light to allow optimum legibility
+- Don’t place the Ford Oval in white over images that are too busy to allow optimum legibility
+- Don’t recolor the Ford Oval
+- Don’t crop the Ford Oval
+- Don’t position the Ford Oval on an angle (Vertical uses will be approved on a case-by-case basis)
+- Don’t distort, skew, break apart or modify the Ford Oval
+- Don’t use the Ford Oval to coin a word or phrase, or as a word in a sentence
+- Don’t use outdated Ford Ovals. Please discard these assets from your files
+- Oval Size The Oval can be divided into squares, each of which is called an X area (eight by three squares).
+- Clear space Adding a square top, bottom, left and right creates the clear space (10 by five squares).
+- Font Ford Antenna Medium, title case, left-aligned.
+- Bottom left* logo placement Ford Oval or dealership logo
+- Prominent use of Ford Blue
+- Using a 6x6 grid can help with overall layout and structure
 
 ## Additional Properties
 
@@ -255,7 +518,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/) |
+| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1903](/foundation_dates/1903/) |
 | Isin | US3453708600 |

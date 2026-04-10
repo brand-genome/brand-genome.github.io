@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-03-20T08:22:04.418183"
+date: "2026-04-10T09:40:33.162949"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -15,8 +15,8 @@ languages:
 tags:
   - aeronautic
 industries:
-  - unknown
   - "fixed-base-operator"
+  - unknown
 countries:
   - france
 revenue_buckets:
@@ -56,20 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - black
-  - "pantone-2748"
-typographies:
-  - gotham
-imagery_styles:
-  - graphic
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French airport authority
 wikidata_url: "https://www.wikidata.org/wiki/Q794563"
 has_twitter: false
@@ -92,39 +82,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The brand includes two versions of the logotype for flexibility across various applications: (1) Primary reference logo and (2) Secondary logo for constrained use cases like limited vertical space (e.g., digital platforms, signage, promotional materials). The primary logo prominently features a symbol (reminiscent of the Eiffel Tower) combined with typographic elements.
-- Horizontal version of the logo is specifically designed to be used where vertical space is constrained, typically in digital use like websites, intranets, and promotional items, or signage on buildings.
-- The logo is available in Pantone, CMYK, RGB, monochrome black, reversed (reserve), and RAL formats. Each format is designated for specific use cases such as print, digital, or signage.
-- Clear space recommendation: Defined as the height of two 'P's in 'ADP' for the primary logo. For the secondary horizontal logo, clear space is defined as the height of one 'P'. No graphic element (lines, text, images) should enter this space.
-- The minimum size specified for the primary logo is 15 mm in width. The horizontal version cannot be smaller than 22 mm in width.
-- Guidelines for logo usage emphasize no alteration of its elements including color, typography, scaling, and placement. Deformations, using Gotham typeface to mimic the logo, or omitting the symbol are strictly prohibited.
-- When using backgrounds, the preferred version of the logo (either in color or reversed) should optimize readability. Clear space must still be respected, with a specific note to avoid complex or overly bright backgrounds.
-
-**Color Information:**
-
-- Primary color for the logotype is Pantone 2748 C, with the following specifications: RGB (3, 31, 115), CMYK (C:100, M:95, Y:0, K:10), HEX (#031F73), and RAL 5022. These formats ensure consistent reproduction across different platforms and processes.
-
-**Typography Information:**
-
-- The logo’s typography design is uniquely crafted, featuring capital letters with two weights and specific architectural details on the 'A' that mimic the Eiffel Tower's structure.
-- Gotham is explicitly mentioned but prohibited for imitating the logotype.
-
-**Imagery Photography:**
-
-- The logo can be applied on photographic or colored backgrounds as long as the version chosen ensures legibility and adheres to the clear space guidelines. Avoid visually complex backgrounds.
-- It is prohibited to use the logo on visually distracting or dense-colored backgrounds. Additionally, the reversed logo should not appear on light backgrounds.
-
-**Spacing Layout:**
-
-- The clear space defined around the logo depends on 'P' height from 'ADP': two 'P's for the primary logo and one 'P' for the horizontal version. This ensures adequate separation from nearby elements.
-- Minimum width constraints for logo usage: primary logo at 15 mm, horizontal logo at 22 mm.
-
-**Notes:**
-
-- This document is the first part of a broader graphic charter, intended to cover additional details like stationery, editorial content, and principles for thematic applications (not included here).
-- Additional proprietary information, such as specific use cases for signalétique (signage) materials, painted logos, and digital usage, is included.
+*Guidelines data not available*
 
 ## Additional Properties
 

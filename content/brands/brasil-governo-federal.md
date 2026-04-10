@@ -2,7 +2,7 @@
 title: Brasil Governo Federal
 slug: "brasil-governo-federal"
 description: ""
-date: "2026-03-20T08:22:04.070380"
+date: "2026-04-10T09:40:32.112852"
 draft: false
 sectors:
   - "public-sector"
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 - [https://www.gov.br/pt-br](https://www.gov.br/pt-br)
 - [https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view](https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view)
 - [https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*

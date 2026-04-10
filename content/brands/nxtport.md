@@ -2,11 +2,11 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-03-20T08:22:05.419943"
+date: "2026-04-10T09:40:34.291609"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - software
+  - "logistics-supply-chain"
 regions:
   - belgium
 years:
@@ -47,16 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-typographies:
-  - raleway
-  - display
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,32 +69,63 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- Correct logo use guidelines specify that the default logo is for display on a white or light background. A white alternative can be used for dark backgrounds.
-- The document mentions users can download the logo, though specifics on file formats are not included in the text.
+##### Mission
 
-**Color Information:**
+- NxtPort is a Data Utility Platform which collects and pools data from various stages in the supply chain. The platform allows better data sharing, hence more transparency, more efficiency, less administration and better interoperability of existing platforms [^1].
 
-- Primary colors for the NxtPort brand are defined as follows: Main color - HEX #123A6B, Secondary color - HEX #5B90BD5, Background color - HEX #F1F1F1. Text color is defined as HEX #404040.
-- Color codes for solution domains are specified: PORT OPERATIONS - HEX #FFC000 and HEX #F2A33A; HINTERLAND - HEX #70AC46.
-- Guidelines state that the brand mark and logotype should use only the specified brand colors.
+##### Core Values
 
-**Typography Information:**
+- transparency
+- efficiency
+- interoperability
 
-- The font used by NxtPort is Raleway. Permitted weights include Regular, Bold, or Thin.
-- Users are directed to download the font for use in NxtPort branding.
+##### Target Audience
 
-**Imagery Photography:**
+- All involved parties of the supply chain, including those who share or use data, develop new software, or use applications available on the NxtPort marketplace [^2].
 
-- NxtPort uses imagery sourced from royalty-free resource Pexels.com and a collection from the Port of Antwerp.
-- Users are directed to download the Pexels Office 365 plugin for accessing imagery resources.
+##### Personality Traits
 
-**Brand Voice:**
+- professional
+- collaborative
+- innovative
 
-- The tagline for NxtPort is 'NxtPort, Building the Port of the Future, Together.'
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity features geometric and abstract designs with parallel lines and curved blue elements, a color palette dominated by blues and grays, and a modern, corporate tone. The logo is used in specific variants for light and dark backgrounds, and the Raleway font is used in various weights. Imagery includes port and shipping visuals, often sourced from royalty-free collections and the Port of Antwerp [^3].
 
-- Contact information for NxtPort is provided: Brouwersvliet 33, 2000 Antwerpen; email: mail@nxtport.eu; phone: +32 3 246 02 30; website: www.nxtport.eu.
-- The document mentions general principles of the NxtPort platform, emphasizing its role as a Data Utility Platform aggregating data across the supply chain.
+#### Categories
+
+##### Brand Imagery
+
+- We use the royalty free pexels.com for our beautiful images, next to a collection of the Port of Antwerp.
+
+##### Color Palette
+
+- MAIN COLOR #123A6B SECONDARY COLOR #5B9BD5 BACK GROUND COLOR #F1F1F1 TEXT COLOR #404040
+- When dealing with the brand mark and the logotype, make sure you only use the brand colors.
+- NAUTICAL #5B9BD5
+- PORT OPERATIONS #F2A33A
+- LAND #70AC46
+- When making fact sheets or other prints, use the following colors for the different domains
+
+##### Typography
+
+- At NxtPort, we use the Raleway font. This can be used in any flavour, Regular, Bold or Thin
+
+##### Logo Usage
+
+- The default logo is for display on a white or light background. A white alternative can be used for dark backgrounds.
+- When dealing with the brand mark and the logotype, make sure you only use the brand colors.
+
+##### Visual Style
+
+- The default logo is for display on a white or light background. A white alternative can be used for dark backgrounds.
+- At NxtPort, we use the Raleway font. This can be used in any flavour, Regular, Bold or Thin
+- When dealing with the brand mark and the logotype, make sure you only use the brand colors.
+- MAIN COLOR #123A6B SECONDARY COLOR #5B9BD5 BACK GROUND COLOR #F1F1F1 TEXT COLOR #404040
+
+##### Photography Style
+
+- We use the royalty free pexels.com for our beautiful images, next to a collection of the Port of Antwerp.

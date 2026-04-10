@@ -2,7 +2,7 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-03-20T08:22:04.512254"
+date: "2026-04-10T09:40:33.286759"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -51,17 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - dynamic
-  - photography
+imagery_styles: []
 wikidata_description: "Irish ferry company, division of the Irish Continental Group"
 wikidata_url: "https://www.wikidata.org/wiki/Q997355"
 has_twitter: false
@@ -80,42 +73,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Irish Ferries & Irish Continental Group (ICG) plc
-Identity Construction - Corporate Logo
-- The following variants of the logo may be used:
-Primary version for corporate applications: Annual reports and stationery.
-Reversed brand logo for customer-facing applications like press, posters, and outdoor.
-Placed on Background Colour: White logo is used on dark backgrounds/images. Black & White logos for items like pens.
-
-**Color Information:**
-
-- Pantone 287c: C100 M69 Y0 K12
-Pantone 355c: C100 M0 Y90 K5
-Pantone 284c: C56 M18 Y0 K0
-Type Colour - Pantone 287c
-- Irish Ferries Print Green Colour Breakdown for customer-facing materials:
-C88 M23 Y98 K9
-Pantone: 363c
-
-**Typography Information:**
-
-- Typeface: Formata Medium for headlines (All Caps). Leading is kept tight to create a commanding type block.
-- Sub Headline Font: Formata Regular (ALL CAPS)
-
-**Imagery Photography:**
-
-- Photography imagery focuses on bold dynamic visuals for customer-focused communications.
-
-**Spacing Layout:**
-
-- Bleed area: At least 3mm for print applications.
-Green tab panel opacity: Recommended minimum opacity is 65%.
-
-**Brand Voice:**
-
-- Brand emphasizes bold, concise language to highlight benefits and resolve headline copy.
+*Guidelines data not available*
 
 ## Additional Properties
 

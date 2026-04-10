@@ -2,7 +2,7 @@
 title: Deerfield Academy
 slug: "deerfield-academy"
 description: ""
-date: "2026-03-20T08:22:04.250238"
+date: "2026-04-10T09:40:32.837848"
 draft: false
 sectors:
   - education
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "independent, boarding and day school in Deerfield, Massachusetts, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q5250893"
 has_twitter: false
@@ -74,26 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Typography Information:**
-
-- Details about typography or fonts found on page 3.
-
-**Imagery Photography:**
-
-- Details about imagery or photography found on page 3.
-
-**Spacing Layout:**
-
-- Details about spacing, margins, or layout found on page 51.
-
-**Brand Voice:**
-
-- Details about brand voice or messaging guidelines found on page 3.
-
-**Notes:**
-
-- General guidelines or additional information found on page 2.
-- General guidelines or additional information found on page 3.
+*Guidelines data not available*
 
 ## Additional Properties
 

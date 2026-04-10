@@ -2,11 +2,11 @@
 title: NAF
 slug: naf
 description: ""
-date: "2026-03-20T08:22:04.922619"
+date: "2026-04-10T09:40:33.692493"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - green
-  - white
-  - black
-typographies:
-  - din
-imagery_styles:
-  - minimal
-  - graphic
-  - professional
-  - bold
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Non-profit private pontifical university in Pamplona, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q926068"
 has_twitter: false
@@ -85,46 +74,152 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Approved Icon Logos: Icons must appear on the NAF dark green background circle with NAF letters in white. Icons should represent simple and recognizable shapes such as maps, state outlines, plants, and buildings. Colors are limited to 3, including light green and dark green, adhering to visibility guidelines and 'active area' and 'maximum area' rules provided.
-- Logo Placement and Spacing: Inactive spacing around logos must be at least 1/3 the diameter of the circle on all sides.
-- Logo Incorrect Usage Guidelines: Logos should not stretch, change proportions, or be smaller than 0.457 inches in height. Logos must always use original colors, must not isolate the 'A' graphic or introduce text inside the circle, and must not add effects like drop shadows. Logos may only be printed on white backgrounds or black (with white letters).
-- Year of Planning Logo Usage: Logo to be used for NAF's Year of Planning and related academies. Preferred gradient version on white background only.
-- Distinguished Academy Logo Usage: Provisions for distinguished academies include colored or contrasting black-and-white logo use on white backgrounds only.
-- NAFTrack Logo Usage: Different variants for certification programs, emphasizing preferred colored logos or contrasting black-and-white designs.
-- Future Ready Lab Logo Usage: Allows for co-branding with specific provisions for gradient and color rules. Includes 2-color variant for embroidery/screen printing.
-- Co-Branding: Includes examples and emphasizes equal weight provided to NAF logos when used next to academy or partner logos.
+##### Mission
 
-**Color Information:**
+- To consistently and effectively portray the identity, brand personality, and mission of NAF to internal and external audiences, protecting the integrity of NAF’s identity, brand, and reputation.
 
-- NAF icon and logos use a specific palette including dark green for backgrounds and light green for icons. Logos may use up to 3 solid colors, including required light green.
-- Year of Planning, Distinguished Academy, and NAFTrack logos must not use colored backgrounds and should adhere to color-proximity interplay to ensure visibility of white letters.
+##### Core Values
 
-**Typography Information:**
+- innovative
+- professional
+- empowering
+- unifying
 
-- Font family: DIN (Regular, Italic, Medium, Medium Italic, Bold, Bold Italic) and Tahoma (Regular, Bold). Sizes specified as 11pt for primary use in branding materials.
-- DIN Medium Italic is specified for logo tagline, while DIN and Tahoma are recommended for body copy.
-- Email signatures should use Tahoma, size 11, black font color.
+##### Target Audience
 
-**Imagery Photography:**
+- NAF’s network of career academies, partner organizations, constituents, and both internal and external audiences.
 
-- Icons used in logos should have recognizable shapes (e.g., maps, buildings, plants) and adhere to active area and maximum area overlays.
+##### Personality Traits
 
-**Spacing Layout:**
+- innovative
+- professional
+- empowering
+- unifying
 
-- Inactive spacing around logos must be at least 1/3 the diameter of the circle on all sides.
-- Future Ready Lab logos provide 'active area' rules for co-branded logos alignment with specified margin guidelines.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is clean, modern, and professional, featuring a prominent circular green logo with bold white 'NAF' lettering, often accompanied by the 'BE FUTURE READY' tagline. The color palette centers on shades of green, black, white, and gray, with strict logo usage guidelines, consistent typography (DIN and Tahoma), and templates for various branded materials.
 
-- Emails, memos, and branding materials encourage the use of legible, consistent fonts like Tahoma and DIN to reinforce the association with NAF branding.
-- Email signatures exclude slogans and images for professional branding maximizing recognition.
-- PowerPoint guidelines emphasize minimal text to augment presenter focus and professional branding.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The document uses structured co-branding guidelines to ensure the NAF logo is equally emphasized alongside partner logos.
+- NAF’s brand personality is defined as innovative, professional, empowering, and unifying.
+
+##### Brand Imagery
+
+- Reproduction of the logo must always be completed using approved electronic art. Photocopies or scanned versions of the logo must not be used nor should attempts to recreate or mimic the logo be considered.
+- The logo should be printed in color using the gradient whenever possible.
+- The logo with the tagline “Be Future Ready” printed on two lines should be used whenever possible.
+- When the two-line tagline logo does not fit the need, the one-line tagline logo is preferred.
+- If there is a size restriction, use the logo without the tagline.
+- The logo should never be sized smaller than .457 inches in height.
+- Pantone 342 C C: 97 M: 33 Y: 78 K: 24 R: 0 G: 106 B: 79
+- Pantone 361 C C: 77 M: 2 Y: 100 K: 0 R: 50 G: 176 B: 74
+- The gradient logo uses two shades of green at a 54% blend and a 45 degree angle. The purpose of this gradient is to signify forward motion. When using the gradient logo, be sure to maintain this blend and angle.
+- DO NOT USE PANTONE SPOT COLOR INKS WHEN PRINTING GRADIENTS. This will cause banding. The gradient is intended for use only with the color builds noted on the left.
+
+##### Color Palette
+
+- Pantone 342 C C: 97 M: 33 Y: 78 K: 24 R: 0 G: 106 B: 79
+- Pantone 361 C C: 77 M: 2 Y: 100 K: 0 R: 50 G: 176 B: 74
+- The logo should be printed in color using the gradient whenever possible.
+- The gradient logo uses two shades of green at a 54% blend and a 45 degree angle. The purpose of this gradient is to signify forward motion. When using the gradient logo, be sure to maintain this blend and angle.
+- DO NOT USE PANTONE SPOT COLOR INKS WHEN PRINTING GRADIENTS. This will cause banding. The gradient is intended for use only with the color builds noted on the left.
+- The primary colors included here are the colors represented in the national logo, all academy theme and high school versions, and the NAFTrack, alumni, Distinguished, Model, and Year of Planning logos. These colors can also be used for related design elements.
+- The accent colors recommended here add balance and flexibility and are used generally to accent our primary palette.
+- main color palette Pantone 342 C: 97 M: 33 Y: 78 K: 24 R: 0 G: 106 B: 79 HEX: 006A4F Pantone 361 C: 77 M: 2 Y: 100 K: 0 R: 50 G: 176 B: 74 HEX: 32B04A Pantone Cool Gray 6 C: 0 M: 0 Y: 0 K: 25 R: 199 G: 200 B:202 HEX: C6C8CA Pantone Cool Gray 9 C: 0 M: 0 Y: 0 K: 50 R: 147 G: 149 B:152 HEX: 939597 Black C: 0 M: 0 Y: 0 K: 100 R: 0 G: 0 B:0 HEX: 000000
+- accent color palette
+- extended color palette Pantone 313 C: 100 M: 0 Y: 10 K: 10 R: 0 G: 158 B: 201 HEX: 009EC9 Pantone 302 C: 100 M: 25 Y: 0 K: 50 R: 0 G: 85 B: 129 HEX: 005480 Pantone 130 C: 0 M: 35 Y: 100 K: 0 R: 252 G:175 B: 23 HEX: FBAF17 C: 50 M: 35 Y: 0 K: 0 R: 146 G:38 B: 143 HEX: 92278F C: 35 M: 0 Y: 100 K: 0 R: 178 G:210 B:53 HEX: B2D235 C: 10 M: 0 Y: 70 K: 0 R: 235 G: 234 B: 112 HEX: EBEA70 C: 100 M: 62 Y: 46 K: 40 R: 0 G: 65 B: 83 HEX: 005581
+- Do not substitute the color used in the logo.
+- The full color logo should not be printed on a colored surface.
+
+##### Typography
+
+- NAF’s logo tagline font is DIN Medium Italic, and the logo should aways use this font. If you need to customize the academy theme and high school logo and do not have this font, please contact communications@naf.org.
+- For copy, DIN Medium Italic and DIN regular should be used in size 11.
+- If DIN is unavailable for copy, the recommended font is Tahoma at font size 11.
+- Using a font that is both legible and consistent in all materials (emails, memos, etc) will help create an association in the mind of recipients. Whenever they see material in said font, they will connect it to our organization.
+- Email signatures should be Tahoma, size 11, font color black.
+- All branded templates use Tahoma, size 11 as their font.
+- When sending a document electronically, use the electronic letterhead. Electronic letterhead should only be used for documents sent by email. Do not print on electronic letterhead.
+- All NAF presentations should use the NAF PowerPoint template shown here with Tahoma for the copy.
+
+##### Logo Usage
+
+- Reproduction of the logo must always be completed using approved electronic art. Photocopies or scanned versions of the logo must not be used nor should attempts to recreate or mimic the logo be considered.
+- The logo should be printed in color using the gradient whenever possible.
+- The logo with the tagline “Be Future Ready” printed on two lines should be used whenever possible.
+- When the two-line tagline logo does not fit the need, the one-line tagline logo is preferred.
+- If there is a size restriction, use the logo without the tagline.
+- The logo should never be sized smaller than .457 inches in height.
+- Pantone 342 C C: 97 M: 33 Y: 78 K: 24 R: 0 G: 106 B: 79
+- Pantone 361 C C: 77 M: 2 Y: 100 K: 0 R: 50 G: 176 B: 74
+- The gradient logo uses two shades of green at a 54% blend and a 45 degree angle. The purpose of this gradient is to signify forward motion. When using the gradient logo, be sure to maintain this blend and angle.
+- DO NOT USE PANTONE SPOT COLOR INKS WHEN PRINTING GRADIENTS. This will cause banding. The gradient is intended for use only with the color builds noted on the left.
+
+##### Tone And Messaging
+
+- NAF’s brand personality is defined as innovative, professional, empowering, and unifying.
+
+##### Brand Values
+
+- NAF’s brand personality is defined as innovative, professional, empowering, and unifying.
+
+##### Visual Style
+
+- Reproduction of the logo must always be completed using approved electronic art. Photocopies or scanned versions of the logo must not be used nor should attempts to recreate or mimic the logo be considered.
+- The logo should be printed in color using the gradient whenever possible.
+- The logo with the tagline “Be Future Ready” printed on two lines should be used whenever possible.
+- When the two-line tagline logo does not fit the need, the one-line tagline logo is preferred.
+- If there is a size restriction, use the logo without the tagline.
+- The logo should never be sized smaller than .457 inches in height.
+- Pantone 342 C C: 97 M: 33 Y: 78 K: 24 R: 0 G: 106 B: 79
+- Pantone 361 C C: 77 M: 2 Y: 100 K: 0 R: 50 G: 176 B: 74
+- The gradient logo uses two shades of green at a 54% blend and a 45 degree angle. The purpose of this gradient is to signify forward motion. When using the gradient logo, be sure to maintain this blend and angle.
+- DO NOT USE PANTONE SPOT COLOR INKS WHEN PRINTING GRADIENTS. This will cause banding. The gradient is intended for use only with the color builds noted on the left.
+
+##### Iconography
+
+- Academies, districts, or regions can further customize the NAF logo by adding a distinct icon that represents your academy, district, or region.
+- Icons must be simple shapes and imagery and they must be immediately recognizable. Acceptable categories include maps/state shapes, signature buildings/statues, and elements of nature, including plants, food, and wildlife.
+- All icons must appear on the background circle of the NAF dark green. The NAF letters must ALWAYS appear in white.
+- Map and state shapes should be in the NAF light green. All other icon logos may use up to 3 solid colors maximum [if 3 colors, one must be NAF lighter green).
+- All colors/ icons must be dark enough to show NAF letters clearly.
+- The majority of the active icon shape must stay within pink guide line shown. Parts of icon shape must not extend beyond the blue guide line shown. If the icon uses only the 2 NAF greens or has more than 60% of the NAF dark green background exposed, it may extend to the blue guide line [as shown in the palm tree, Capitol building, and Texas examples).
+- All icon logos are subject to approval by the NAF marketing and communications department. For inquiries or assistance in creating or approving an icon logo, contact communications@naf.org.
+
+##### Layout And Composition
+
+- The logo should be printed in color using the gradient whenever possible.
+- The logo with the tagline “Be Future Ready” printed on two lines should be used whenever possible.
+- When the two-line tagline logo does not fit the need, the one-line tagline logo is preferred.
+- If there is a size restriction, use the logo without the tagline.
+- The logo should never be sized smaller than .457 inches in height.
+- The gradient logo uses two shades of green at a 54% blend and a 45 degree angle. The purpose of this gradient is to signify forward motion. When using the gradient logo, be sure to maintain this blend and angle.
+- DO NOT USE PANTONE SPOT COLOR INKS WHEN PRINTING GRADIENTS.
+- The gradient is intended for use only with the color builds noted on the left.
+
+##### Email Signature Guidelines
+
+- Your email signature is a direct branding and marketing opportunity.
+- Our email signature should be consistent and should not contain the following: 1. Any slogans 2. Any images – putting images, such as our logo or other icons, makes it more likely that your email will end up in spam folders.
+- Email signatures should be Tahoma, size 11, font color black.
+- Here is what email signatures should look like: Name Title | NAF 218 W 40th Street, Fifth Floor New York, NY 10018 Phone: (xxx) xxx-xxxx naf.org Facebook | Twitter | Instagram | LinkedIn
+
+##### Letterhead Guidelines
+
+- All letterhead templates are available in NAF brand resources on naf.org, including letterhead, letterhead for each academy theme, memos, and fax cover sheet. All branded templates use Tahoma, size 11 as their font.
+- When sending a document electronically, use the electronic letterhead. Electronic letterhead should only be used for documents sent by email. Do not print on electronic letterhead.
+
+##### Presentation Guidelines
+
+- All branded templates use Tahoma, size 11 as their font.
+- When sending a document electronically, use the electronic letterhead. Electronic letterhead should only be used for documents sent by email. Do not print on electronic letterhead.
+- All NAF presentations should use the NAF PowerPoint template shown here with Tahoma for the copy. These presentations include all speaking opportunities, professional development, trainings, webinars and new business opportunities. This template was developed to allow for optimal use of space, however text should still be limited. PowerPoints are designed to support the presenter.
+- Keep the information per slide limited. Less is more!
 
 ## Additional Properties
 

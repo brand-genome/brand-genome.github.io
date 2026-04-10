@@ -2,15 +2,15 @@
 title: TranSantiago
 slug: transantiago
 description: ""
-date: "2026-03-20T08:22:04.497398"
+date: "2026-04-10T09:40:33.252966"
 draft: false
 sectors:
   - "public-transportation"
 regions:
   - chile
 years:
-  - 2004
   - 2013
+  - 2004
 languages:
   - spanish
 tags:
@@ -71,6 +71,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2013
+
+*Guidelines data not available*
 
 ### 2004
 

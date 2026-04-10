@@ -2,7 +2,7 @@
 title: FIS
 slug: fis
 description: ""
-date: "2026-03-20T08:22:05.786084"
+date: "2026-04-10T09:40:34.769843"
 draft: false
 sectors:
   - sports
@@ -49,16 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-brand_colors:
-  - white
-  - black
-typographies:
-  - frutiger
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international sports governing body organizing skiing
 wikidata_url: "https://www.wikidata.org/wiki/Q212928"
 has_twitter: false
@@ -77,31 +71,190 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- The FIS stripes have been created to add a visual element that can be used together with the FIS logo, as part of the discipline logos or with the word mark. They can also be used alone to strengthen the FIS visual identity. The stripes must be used on all printed booklets. Stripes may vary in width to create dynamic designs, but white space between them should always be half the individual stripe thickness. Angled versions can only be used on chapter dividers or posters, with a strict 30° angle rule.
-- Examples and rules are provided for combining FIS logos with elements like the word mark or emblem. Clear guidelines are referenced for placement within printed materials.
+##### Mission
 
-**Color Information:**
+- To celebrate heritage and future, serving as the core of identity for the International University Sports Federation, and to create and support the university sports community across the world, emphasizing excellence in mind and body.
 
-- The brand includes color configurations for promotional materials, aligning with official PMS (Pantone Matching System) standards.
+##### Core Values
 
-**Typography Information:**
+- inclusivity
+- diversity
+- equality
+- innovation
+- joy of sport
 
-- Typography settings specify the use of the Frutiger typeface. Headers use Frutiger Bold (20pt, black), while language descriptors use Frutiger Bold (12pt, 45% black). Text across designs adheres to multilingual presentation rules.
-- The word mark must only use the Frutiger typeface in capital letters. Alignment is specified as left-aligned.
+##### Target Audience
 
-**Imagery Photography:**
+- University sports community worldwide, including students, athletes, and academic institutions.
 
-- Imagery should reflect certain themes such as freshness, tradition, and clarity. Snowy landscapes and fresh outdoor visual aesthetics are prioritized.
+##### Personality Traits
 
-**Spacing Layout:**
+- dynamic
+- passionate
+- professional
+- lively
+- modern
 
-- Spacing and layout consistent throughout designs with precise measurements for logo safe zones and placement specifications. Stripes and logos are to be accompanied by defined white space.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on the Dynamic U symbol, vibrant gradients, a multicolored palette (cyan, yellow, black, green, red, navy blue), and the Lato typeface. The logo is always used as a combination of symbol and logotype, with strict guidelines for clear space, minimum size, and background usage. The style is energetic, modern, and professional, with emphasis on consistency and legibility.
 
-- This document version (1.1) reflects the official FIS brand guidelines document from December 2012, providing detailed instructions for partners and suppliers on maintaining brand integrity.
+#### Categories
+
+##### Brand Values
+
+- The “U” is a powerful letter and it stands for “University”, our key field of activity, but also for "You", "Us", "Union", “Universality”, mirroring FISU’s commitment to inclusivity.
+- We call it the Dynamic U.
+- It embodies the passion that empowers to overcome obstacles, go beyond limits and cross boundaries, in sport as in life.
+- FISU’s main colors symbolise universally the sports world and have remained constant in our visual identity since the very beginning.
+- The mixed gradient represents our dedication to diversity, equality, innovation and the joy of sport while creating and supporting the university sports community across the world.
+
+##### Logo Usage
+
+- Our logo is the combination of the Dynamic U symbol and the "FISU" logotype.
+- The 10 degrees diagonal characterises the construction of the symbol and the logotype, adding dynamism and personality.
+- Do not use the symbol or the logotype alone, always use the complete logo.
+- The horizontal version of FISU logo should be used in all communications and media whenever a horizontal use is necessary or more fitting.
+- Use the vertical version when there is not enough space for the horizontal one or when it is more convenient.
+- These versions can be used where the full name is desired or necessary.
+- The logo can also be accompanied by our official motto "Excellence in Mind and Body".
+- Do not use the motto without FISU logo. Do not alter these proportions and the position of the motto.
+- A clear space around any FISU logo is required to preserve its integrity and make sure it is easy to read.
+- The minimum clear space that must surround the logo is equivalent to the height of the character "U".
+- To ensure legibility for any small-size application, never reduce FISU identity elements below the minimum size guidelines.
+- 26 mm
+- 1 mm = 0.0393701 in
+- 1 in = 25.4 mm
+- 15 mm
+- 35 mm
+- 50 mm
+- 30 mm
+- FISU main colors are cyan, yellow, black, green and red.
+- Navy blue is our corporate color. Together, all FISU's colors compose the official gradient.
+- The gradient inside the Dynamic U symbol is cut out from the official FISU gradient.
+- Do not attempt to recreate the gradient yourself.
+- Do not alter the composition of the gradient.
+- Do not alter the position of the cut out.
+- For any use of the gradient seek prior permission from FISU Marketing Department.
+- The full color version of FISU logos is the preferred version and it must be used in nearly all circumstances.
+- Use it on fairly uniform and light backgrounds.
+- Do not use it on busy or complicated backgrounds that make it illegible.
+- The black and white versions can be used when printing does not allow the use of color, as well as on photographic or colored backgrounds.
+- The black and white versions of FISU logo can be used on photographic and colored backgrounds.
+- To preserve the legibility of the logo, use the black version on lighter backgrounds and prefer the white version on darker or more intensly colored backgrounds.
+- This rule applies to all FISU-related logos.
+- It is not allowed to alter the structure, colors, proportions, elements or the direction of the logo.
+- Never stretch, compress or distort the logo
+- Never rearrange elements of the logo
+- Never place the logo over busy photographic backgrounds
+- Never remove graphic elements
+- Never change the orientation of the logo
+- Never use the logo on backgrounds that make it illegible
+- Never use alternative typography
+- Never add shadows
+- Never stray from the color palette and guidelines
+- Never use portions of the logo
+- Never alter the graphic style
+- Never add effects
+
+##### Color Palette
+
+- FISU main colors are cyan, yellow, black, green and red.
+- Navy blue is our corporate color. Together, all FISU's colors compose the official gradient.
+- Navy blue CMYK: 100, 80, 0, 30 RGB: 18, 50, 116 #123274 RAL 5002 Pantone 288 C
+- CMYK: 100, 30, 0, 6
+- CMYK: 50, 0, 0, 100
+- RGB: 0, 123, 192
+- RGB: 0, 21, 29
+- #007bc0
+- #00151d
+- RAL 5015
+- RAL 9005
+- 100, 80, 0, 100
+- 100,30,0,6
+- CMYK: 0, 100, 100, 0
+- CMYK: 100, 0, 100, 0
+- RGB: 227, 6, 19
+- RGB: 0, 150, 64
+- #e30613
+- #009640
+- RAL 3028
+- RAL 6037
+- CMYK: 0, 35, 100, 0
+- RGB: 249, 176, 0
+- #f9b000
+- RAL 1003
+- The gradient inside the Dynamic U symbol is cut out from the official FISU gradient.
+- Do not attempt to recreate the gradient yourself.
+- Do not alter the composition of the gradient.
+- Do not alter the position of the cut out.
+- For any use of the gradient seek prior permission from FISU Marketing Department.
+- The full color version of FISU logos is the preferred version and it must be used in nearly all circumstances.
+- Use it on fairly uniform and light backgrounds.
+- Do not use it on busy or complicated backgrounds that make it illegible.
+- The black and white versions can be used when printing does not allow the use of color, as well as on photographic or colored backgrounds.
+- The black and white versions of FISU logo can be used on photographic and colored backgrounds.
+- To preserve the legibility of the logo, use the black version on lighter backgrounds and prefer the white version on darker or more intensly colored backgrounds.
+- This rule applies to all FISU-related logos.
+- It is not allowed to alter the structure, colors, proportions, elements or the direction of the logo.
+- Never stray from the color palette and guidelines
+
+##### Typography
+
+- Lato is FISU’s primary type family. It supports most of the languages and it comes with 18 weights adaptable for all possible uses.
+- We use the weights for the uses stated.
+- Lato black: titles and subtitles. Lato medium: body copy, quotes, variety i.e. bullet points. Lato light: body copy.
+- The Lato font is available free of charge under the SIL Open Font License and can be used without any limitations for commercial and non-commercial purposes.
+- Lato is available at www.latofonts.com
+- Never use alternative typography
+
+##### Visual Style
+
+- The 10 degrees diagonal characterises the construction of the symbol and the logotype, adding dynamism and personality.
+- Do not use the symbol or the logotype alone, always use the complete logo.
+- The horizontal version of FISU logo should be used in all communications and media whenever a horizontal use is necessary or more fitting.
+- Use the vertical version when there is not enough space for the horizontal one or when it is more convenient.
+- The logo can also be accompanied by our official motto "Excellence in Mind and Body".
+- Do not use the motto without FISU logo. Do not alter these proportions and the position of the motto.
+- A clear space around any FISU logo is required to preserve its integrity and make sure it is easy to read.
+- The minimum clear space that must surround the logo is equivalent to the height of the character "U".
+- To ensure legibility for any small-size application, never reduce FISU identity elements below the minimum size guidelines.
+- 26 mm
+- 1 mm = 0.0393701 in
+- 1 in = 25.4 mm
+- 15 mm
+- 35 mm
+- 50 mm
+- 30 mm
+- FISU main colors are cyan, yellow, black, green and red.
+- Navy blue is our corporate color. Together, all FISU's colors compose the official gradient.
+- The gradient inside the Dynamic U symbol is cut out from the official FISU gradient.
+- Do not attempt to recreate the gradient yourself.
+- Do not alter the composition of the gradient.
+- Do not alter the position of the cut out.
+- For any use of the gradient seek prior permission from FISU Marketing Department.
+- The full color version of FISU logos is the preferred version and it must be used in nearly all circumstances.
+- Use it on fairly uniform and light backgrounds.
+- Do not use it on busy or complicated backgrounds that make it illegible.
+- The black and white versions can be used when printing does not allow the use of color, as well as on photographic or colored backgrounds.
+- The black and white versions of FISU logo can be used on photographic and colored backgrounds.
+- To preserve the legibility of the logo, use the black version on lighter backgrounds and prefer the white version on darker or more intensly colored backgrounds.
+- This rule applies to all FISU-related logos.
+- It is not allowed to alter the structure, colors, proportions, elements or the direction of the logo.
+- Never stretch, compress or distort the logo
+- Never rearrange elements of the logo
+- Never place the logo over busy photographic backgrounds
+- Never remove graphic elements
+- Never change the orientation of the logo
+- Never use the logo on backgrounds that make it illegible
+- Never use alternative typography
+- Never add shadows
+- Never stray from the color palette and guidelines
+- Never use portions of the logo
+- Never alter the graphic style
+- Never add effects
 
 ## Additional Properties
 

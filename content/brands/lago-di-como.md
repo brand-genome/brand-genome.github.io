@@ -2,7 +2,7 @@
 title: Lago di Como
 slug: "lago-di-como"
 description: ""
-date: "2026-03-20T08:22:04.465275"
+date: "2026-04-10T09:40:33.209448"
 draft: false
 sectors:
   - tourism
@@ -46,20 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - symbol
-brand_colors:
-  - green
-  - "pantone-376"
-  - "pantone-2955"
-  - white
-  - "pantone-659"
-  - black
-  - "pantone-283"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,40 +67,123 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Categories
 
-- The logo consists of several elements: a green silhouette of the hills, waves, the 'Italy' tag, and the payoff phrase. These elements are integral to the logo and cannot be altered or separated.
-- Clear space around the logo must equal the height of the 'o' in 'Lago di Como' when applied against a white background.
-- Minimum size requirement for the logo is 25mm in width.
-- The logo must be positioned within a white field with asymmetry on the right edge for harmony, even when applied in greyscale (B&W).
-- When the logo is placed in a decentralized position, the clear space requirement is twice the height of the 'o' in 'Lago di Como', even in greyscale (B&W).
-- Use of the logo in negative is permitted only when the field interferes with substantial graphic elements or when printing specifications require single-color usage. The logo must remain white or black.
-- Incorrect logo usage rules: Do not compress, stretch, reposition, omit or add elements, orient vertically/diagonally, or apply shadow or glow effects.
-- Incorrect logo field usage rules: Do not use the field with colors other than white, apply regular rectangular boundaries, reflect the field’s asymmetry, or add transparency effects.
-- Incorrect positioning rules on photographic or colored backgrounds: Do not angle the field, position the logo outside top or bottom alignment, cut the field from left/right, or remove the field entirely.
+##### Brand Imagery
 
-**Color Information:**
+- La qualità più apprezzate del Made in ltaly, insieme a una caratura internazionale rinomata e persino invidiata. Il Lago di Como è un territorio ricco di valori e di significati riconosciuti da un numero sempre più alto di famiglie, uomini d'affari, sportivi che lo scelgono come meta privilegiata. Si può dire, con una punta di orgoglio, che il Lago di Como sia diventato un vero e proprio "brand", capace di trasmettere un importantissimo valore aggiunto a tutte le realtà locali che lo compongono.
+- Nel risultato di questa operazione creativa confluiscono riflessioni, sensazioni e intuizioni ispirate dalla geografia, dal vissuto e dalla contemporaneità del territorio. Si ritrovano i colori, le forme e le suggestioni delle alture, dell'acqua e di una classicità reinterpretata alla luce di un dinamismo mai frenetico, di un equilibrio mai statico, di una leggerezza mai frivola.
+- Conclude il percorso un "payoff": una definizione del nostro territorio che ne enfatizza la capacità di racchiudere tante realtà in un insieme, sia detto senza falsa modestia, assolutamente unico e inconfondibile.
+- Per essere certi che venga trattata con l'attenzione che merita, in quanto "emblema" ufficiale del nostro amato territorio, mettiamo a vostra disposizione questa piccola guida all'uso.
 
-- Logo colors include four shades with specifications: 
-1. Pantone 283 C (CMYK: 40, 8, 0, 0; RGB: 152, 198, 234) 
-2. Pantone 659 C (CMYK: 60, 34, 0, 0; RGB: 111, 154, 211) 
-3. Pantone 376 C (CMYK: 45, 0, 100, 0; RGB: 122, 184, 0) 
-4. Pantone 2955 C (CMYK: 100, 60, 10, 53; RGB: 0, 60, 105)
-- Grayscale (B&W) versions of the logo use set percentages to mimic the color logo's effect: 
-1. K: 50% 
-2. K: 35% 
-3. K: 70% 
-4. K: 100%
+##### Color Palette
 
-**Spacing Layout:**
+- li logo è composto da 4 colori. Per avere una perfetta corrispondenza cromatica, occorre utilizzare i seguenti riferimenti quadricromia e pantone (per la stampa), RGB (per il web).
+- CMYK 100 60 10 53
+- CMYK 60 34 O O
+- CMYK 40 8 O O
+- CMYK 45 O 100 O
+- PANTONE 2955 c
+- PANTONE 659 e
+- PANTONE 283 c
+- PANTONE 376 e
+- RGB O 60 105
+- RGB 111 154 211
+- RGB 152 198 234
+- RGB 122 184 0
+- Per l'utilizzo in scala di grigio (B&W), occorre attenersi alle percentuali qui indicate, per ottenere un effetto corrispondente a quello del logo a colori.
+- K 100%
+- K 35%
+- K 50%
+- K 70%
+- L'uso del logo in negativo è consentito esclusivamente nei seguenti casi. 1. Se il campo interferisce con elementi grafici sostanziali. 2. Se il capitolato di stampa impone l'uso di un solo colore. In ogni caso, il logo deve essere UN MONDO UNICO AL MONDO sempre bianco o nero. Non è consentito l'uso in altri colori.
+- g. non utilizzare il campo con colori diversi dal bianco.
 
-- The white field around the logo is slightly asymmetrical to align with the logo's curves. Logo placement must respect the top or bottom edge while maintaining this asymmetry.
-- The clear space between the logo and margin must equal twice the height of the 'o' in 'Lago di Como' when decentralized.
+##### Logo Usage
 
-**Brand Voice:**
+- tutti gli elementi che costituiscono il marchio (la sagoma verde delle alture, le onde, il tag “italia” e il payoff) sono parte integrante del medesimo. non è possibile alterarli né scorporarli.
+- Nell'applicazione del logo su fondo bianco. occorre mantenere un'area DL di rispetto pari a una volta l'altezza della lettera "" odi "Lago di Como".
+- Per ragioni di leggibilità, non è possibile utilizzare il logo con una base inferiore O ai 25 mm.
+- bianco (vedi figura a per l'area di rispetto) e posizionato in taglio rispetto al margine superiore o inferiore del fondo. Il campo non è un rettangolo perfetto: è caratterizzato da una forma leggermente asimmetrica sul lato destro, in armonia con le linee del logo.
+- Queste indicazioni valgono anche in caso di utilizzo in scala di grigio (B&W).
+- Qualora s desideri applicare il logo in posizione decsrnala bisogna mantenere un'area di rispetto (ovvero la distanza dal margine laterale piu vicino) pari a due volte l'altszza cella "o" di Lago di Como.
+- li logo è composto da 4 colori. Per avere una perfetta corrispondenza cromatica, occorre utilizzare i seguenti riferimenti quadricromia e pantone (per la stampa), RGB (per il web).
+- Per l'utilizzo in scala di grigio (B&W), occorre attenersi alle percentuali qui indicate, per ottenere un effetto corrispondente a quello del logo a colori.
+- L'uso del logo in negativo è consentito esclusivamente nei seguenti casi. 1. Se il campo interferisce con elementi grafici sostanziali. 2. Se il capitolato di stampa impone l'uso di un solo colore. In ogni caso, il logo deve essere UN MONDO UNICO AL MONDO sempre bianco o nero. Non è consentito l'uso in altri colori.
+- a. non comprimere il logo.
+- b. non stirare il logo.
+- c. non spostare gli elementi.
+- d. non omettere o aggiungere elementi.
+- e. non utilizzare il logo in verticale o diagonale.
+- f. non inserire cmhra bagliori o effetti simili.
+- g. non utilizzare il campo con colori diversi dal bianco.
+- h. non contornare il campo
+- i. non inscrivere in un rettangolo regolare (conservare sempre l'asimmetria sul lato destro).
+- I. non riflettere l'asimmetria del campo
+- m. non applicare al campo effetti i trasparenza.
+- n/o. non posizionare il campo in angolo.
+- p. non posizionare il logo in posizioni svincolate dal margine superiore o inferiore.
+- q/r. non posizionare il campo in taglio rispetto al margine destro o sinistro.
+- s. non utilizzare il logo senza campo su fondo colore.
 
-- The brand reflects qualities like harmony, creativity, and prestige, emphasizing its unique identity as a symbol of the Lago di Como territory.
+##### Tone And Messaging
 
-**Notes:**
+- Armonia, creatività, prestigio. Le qualità più apprezzate del Made in ltaly, insieme a una caratura internazionale rinomata e persino invidiata. Il Lago di Como è un territorio ricco di valori e di significati riconosciuti da un numero sempre più alto di famiglie, uomini d'affari, sportivi che lo scelgono come meta privilegiata. Si può dire, con una punta di orgoglio, che il Lago di Como sia diventato un vero e proprio "brand", capace di trasmettere un importantissimo valore aggiunto a tutte le realtà locali che lo compongono.
+- Per questo, è arrivato il momento di dare vita a un logo istituzionale che ne sintetizzi e comunichi "l'anima". Nel risultato di questa operazione creativa confluiscono riflessioni, sensazioni e intuizioni ispirate dalla geografia, dal vissuto e dalla contemporaneità del territorio. Si ritrovano i colori, le forme e le suggestioni delle alture, dell'acqua e di una classicità reinterpretata alla luce di un dinamismo mai frenetico, di un equilibrio mai statico, di una leggerezza mai frivola.
+- Conclude il percorso un "payoff": una definizione del nostro territorio che ne enfatizza la capacità di racchiudere tante realtà in un insieme, sia detto senza falsa modestia, assolutamente unico e inconfondibile.
 
-- The brand guidelines emphasize treating the logo as the official emblem of the Lago di Como territory, ensuring its design elements and positioning remain consistent without alteration.
+##### Brand Values
+
+- Armonia, creatività, prestigio. Le qualità più apprezzate del Made in ltaly, insieme a una caratura internazionale rinomata e persino invidiata. Il Lago di Como è un territorio ricco di valori e di significati riconosciuti da un numero sempre più alto di famiglie, uomini d'affari, sportivi che lo scelgono come meta privilegiata. Si può dire, con una punta di orgoglio, che il Lago di Como sia diventato un vero e proprio "brand", capace di trasmettere un importantissimo valore aggiunto a tutte le realtà locali che lo compongono.
+- Nel risultato di questa operazione creativa confluiscono riflessioni, sensazioni e intuizioni ispirate dalla geografia, dal vissuto e dalla contemporaneità del territorio. Si ritrovano i colori, le forme e le suggestioni delle alture, dell'acqua e di una classicità reinterpretata alla luce di un dinamismo mai frenetico, di un equilibrio mai statico, di una leggerezza mai frivola.
+- Conclude il percorso un "payoff": una definizione del nostro territorio che ne enfatizza la capacità di racchiudere tante realtà in un insieme, sia detto senza falsa modestia, assolutamente unico e inconfondibile.
+
+##### Visual Style
+
+- tutti gli elementi che costituiscono il marchio (la sagoma verde delle alture, le onde, il tag “italia” e il payoff) sono parte integrante del medesimo. non è possibile alterarli né scorporarli.
+- Nell'applicazione del logo su fondo bianco. occorre mantenere un'area DL di rispetto pari a una volta l'altezza della lettera "" odi "Lago di Como".
+- Per ragioni di leggibilità, non è possibile utilizzare il logo con una base inferiore O ai 25 mm.
+- bianco (vedi figura a per l'area di rispetto) e posizionato in taglio rispetto al margine superiore o inferiore del fondo. Il campo non è un rettangolo perfetto: è caratterizzato da una forma leggermente asimmetrica sul lato destro, in armonia con le linee del logo.
+- Queste indicazioni valgono anche in caso di utilizzo in scala di grigio (B&W).
+- Qualora s desideri applicare il logo in posizione decsrnala bisogna mantenere un'area di rispetto (ovvero la distanza dal margine laterale piu vicino) pari a due volte l'altszza cella "o" di Lago di Como.
+- li logo è composto da 4 colori. Per avere una perfetta corrispondenza cromatica, occorre utilizzare i seguenti riferimenti quadricromia e pantone (per la stampa), RGB (per il web).
+- Per l'utilizzo in scala di grigio (B&W), occorre attenersi alle percentuali qui indicate, per ottenere un effetto corrispondente a quello del logo a colori.
+- L'uso del logo in negativo è consentito esclusivamente nei seguenti casi. 1. Se il campo interferisce con elementi grafici sostanziali. 2. Se il capitolato di stampa impone l'uso di un solo colore. In ogni caso, il logo deve essere UN MONDO UNICO AL MONDO sempre bianco o nero. Non è consentito l'uso in altri colori.
+- a. non comprimere il logo.
+- b. non stirare il logo.
+- c. non spostare gli elementi.
+- d. non omettere o aggiungere elementi.
+- e. non utilizzare il logo in verticale o diagonale.
+- f. non inserire cmhra bagliori o effetti simili.
+- g. non utilizzare il campo con colori diversi dal bianco.
+- h. non contornare il campo
+- i. non inscrivere in un rettangolo regolare (conservare sempre l'asimmetria sul lato destro).
+- I. non riflettere l'asimmetria del campo
+- m. non applicare al campo effetti i trasparenza.
+- n/o. non posizionare il campo in angolo.
+- p. non posizionare il logo in posizioni svincolate dal margine superiore o inferiore.
+- q/r. non posizionare il campo in taglio rispetto al margine destro o sinistro.
+- s. non utilizzare il logo senza campo su fondo colore.
+
+##### Layout And Composition
+
+- tutti gli elementi che costituiscono il marchio (la sagoma verde delle alture, le onde, il tag “italia” e il payoff) sono parte integrante del medesimo. non è possibile alterarli né scorporarli.
+- Nell'applicazione del logo su fondo bianco. occorre mantenere un'area DL di rispetto pari a una volta l'altezza della lettera "" odi "Lago di Como".
+- Per ragioni di leggibilità, non è possibile utilizzare il logo con una base inferiore O ai 25 mm.
+- bianco (vedi figura a per l'area di rispetto) e posizionato in taglio rispetto al margine superiore o inferiore del fondo. Il campo non è un rettangolo perfetto: è caratterizzato da una forma leggermente asimmetrica sul lato destro, in armonia con le linee del logo.
+- Qualora s desideri applicare il logo in posizione decsrnala bisogna mantenere un'area di rispetto (ovvero la distanza dal margine laterale piu vicino) pari a due volte l'altszza cella "o" di Lago di Como.
+- a. non comprimere il logo.
+- b. non stirare il logo.
+- c. non spostare gli elementi.
+- d. non omettere o aggiungere elementi.
+- e. non utilizzare il logo in verticale o diagonale.
+- f. non inserire cmhra bagliori o effetti simili.
+- g. non utilizzare il campo con colori diversi dal bianco.
+- h. non contornare il campo
+- i. non inscrivere in un rettangolo regolare (conservare sempre l'asimmetria sul lato destro).
+- I. non riflettere l'asimmetria del campo
+- m. non applicare al campo effetti i trasparenza.
+- n/o. non posizionare il campo in angolo.
+- p. non posizionare il logo in posizioni svincolate dal margine superiore o inferiore.
+- q/r. non posizionare il campo in taglio rispetto al margine destro o sinistro.
+- s. non utilizzare il logo senza campo su fondo colore.

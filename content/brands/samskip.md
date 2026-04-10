@@ -2,7 +2,7 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-03-20T08:22:05.018044"
+date: "2026-04-10T09:40:33.781984"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -57,16 +57,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - green
-  - white
-  - orange
-  - blue
-typographies:
-  - helvetica
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: logistics company from the Netherlands
 wikidata_url: "https://www.wikidata.org/wiki/Q16424911"
@@ -87,29 +80,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Samskip logo uses the primary brand color scheme and should maintain clear spacing around the icon. Usage includes placement at a designated percentage of total height (unclarified yet). Specific variations aren't fully detailed.
-
-**Color Information:**
-
-- Color palette includes Samskip Blue (RAL 5013), White (RAL 9003), Green (RAL 6002), and Orange (RAL 2003) for specific hardware applications, including vessels, safety striping, etc.
-
-**Typography Information:**
-
-- Primary typeface mentioned is Helvetica for corporate applications in body text (11pt size, 13pt leading). Capitalization and punctuation rules to follow grammatical conventions.
-
-**Imagery Photography:**
-
-- The arrow device should always be cropped (50-60%), transformed into open triangles. It should maintain its consistent design, without excessive repetition or dominating the design. One usage per image is recommended.
-
-**Brand Voice:**
-
-- Samskip embodies a creative, team-oriented brand voice, emphasizing encouragement of personal growth and pride in working for the company.
-
-**Notes:**
-
-- Document begins with the title 'Visual identity guidelines' and may cover branding rules.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-03-20T08:22:03.242420"
+date: "2026-04-10T09:40:30.757597"
 draft: false
 sectors:
   - consulting
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2022
+  - 2024
 languages:
   - english
 tags:
   - technology
 industries:
   - consulting
-  - "software-industry"
   - technology
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -56,22 +56,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - blue
-  - gray
-  - pink
-  - black
-typographies:
-  - inter
-imagery_styles:
-  - bold
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: global technology consultancy
 wikidata_url: "https://www.wikidata.org/wiki/Q10382234"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -84,36 +77,6 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2024
-
-**Logo Information:**
-
-- Use the flamingo wave logo and flamingo mist logo in reception and branding areas. Logotypes should be clearly visible.
-
-**Color Information:**
-
-- Preferred corporate colors for logo include Wave Blue background and Flamingo Pink or Mist Gray for logo components. Dark surfaces include dark concrete or gloss black.
-
-**Typography Information:**
-
-- Typography should use 'Inter Bold'. Headline text in black or white, call-to-action highlighted in brand colors.
-
-**Imagery Photography:**
-
-- Reception areas must have visible logos; use Wave Blue and mural-based designs per cultural preference.
-
-**Spacing Layout:**
-
-- Event branding logos must be well-separated from company logo. Keep event logos size-dominant in layouts.
-
-**Brand Voice:**
-
-- Always reference Thoughtworks as uppercase T, lowercase w. 'Thoughtworks' can be shortened to 'TW' for internal use only.
-
-**Notes:**
-
-- File naming conventions mandate lowercase formats and strict prefixes such as 'tw_[job_number]_...'.
-
-### 2022
 
 *Guidelines data not available*
 

@@ -2,7 +2,7 @@
 title: Chico State
 slug: "chico-state"
 description: ""
-date: "2026-03-20T08:22:04.169042"
+date: "2026-04-10T09:40:32.488036"
 draft: false
 sectors:
   - education
@@ -55,19 +55,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - gotham
-  - verdana
-  - serif
-  - impact
-  - "sans-serif"
-  - georgia
-imagery_styles:
-  - dynamic
-  - professional
-  - bold
-  - photography
-  - geometric
+typographies: []
+imagery_styles: []
 wikidata_description: "university in California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q1026912"
 has_twitter: false
@@ -87,41 +76,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo typeface examples include Chronicle and Gotham.
-- Geometric elements inspired by Kendall Hall windows enhance logo diversity.
-
-**Typography Information:**
-
-- Typography logo typefaces such as Chronicle and Gotham are used for formal titles in logos and wayfinding materials only.
-- Brothers OT: Serif typeface by John Downer, used for impactful headlines and subheads. Regular or bold weights.
-- Masqualero: Serif typeface by Monotype Studio, recommended for headlines, subheadlines, and intro copy in bold.
-- Gotham: Sans-serif typeface by Tobias Frere-Jones, preferred for headlines, subheadlines, and body copy.
-- Brothers OT can be outlined for hard-impact visuals only if color contrast is preserved.
-- Masqualero is suitable for formal tones in headlines and intro sections; alternative system font: Georgia.
-- Gotham sans-serif preferred for marketing uses; system alternative recommended: Verdana.
-- Georgia serif recommended for clear legibility in body copy (exclusive).
-
-**Imagery Photography:**
-
-- Torn Paper texture aligns with NorCal terrain aesthetic; plaster background texture reflects historic stone structures.
-- Textures can be layered subtly to add depth but should not overwhelm designs. Luminosity effect for student imagery limits opacity to max 20% for readability.
-- Photography focuses on engaged individuals or groups in dynamic movement—little direct camera engagement.
-- Wide photography includes landscapes, interior spaces, highlights student experiences.
-- Wide Photography emphasizes scenic backdrops for students deeply engaged.
-- Composition and cropping aligned to 'Rule of Thirds' for visual balance. This is vital for professional layouts.
-
-**Spacing Layout:**
-
-- Line spacing ('leading') ideally 3-4pts above type size for readability. Tracking adjustments crucial but default set preferred.
-
-**Brand Voice:**
-
-- Focus on bold statements ('Do and Dare'). Challenges embedded in aspirational wording.
-- Messaging appeals profoundly to college/alumni legacy-building ethos.
-- Focus on bold statements ('Do and Dare'). Challenges embedded in aspirational wording.
-- Messaging appeals profoundly to college/alumni legacy-building ethos.
+*Guidelines data not available*
 
 ## Additional Properties
 

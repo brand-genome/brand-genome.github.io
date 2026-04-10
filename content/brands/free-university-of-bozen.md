@@ -2,7 +2,7 @@
 title: Free University of Bozen
 slug: "free-university-of-bozen"
 description: ""
-date: "2026-03-20T08:22:04.068322"
+date: "2026-04-10T09:40:32.107902"
 draft: false
 sectors:
   - education
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: university
 wikidata_url: "https://www.wikidata.org/wiki/Q1231433"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [https://www.unibz.it/de](https://www.unibz.it/de)
 - [https://aws.unibz.it/exup/it/Application/Index](https://aws.unibz.it/exup/it/Application/Index)
 - [http://www.unibz.it](http://www.unibz.it)
-
-## Brand Guidelines
-
-### 2014
-
-*Guidelines data not available*
 
 ## Additional Properties
 

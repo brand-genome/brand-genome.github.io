@@ -2,7 +2,7 @@
 title: Shelter
 slug: shelter
 description: ""
-date: "2026-03-20T08:22:04.892346"
+date: "2026-04-10T09:40:33.656522"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - social
+  - charity
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,13 +50,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-136"
-  - "pantone-3242"
-  - "pantone-485"
-  - "pantone-2"
-  - "pantone-305"
-  - "pantone-482"
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American hardcore punk band
@@ -79,58 +73,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo usage
-- Clear space
-- logo usage
-- Clear space
-- Clear space
-
-**Color Information:**
-
-- Pantone 482 Pantone 305 Pantone 3242 Pantone 2 Pantone 485 Pantone 136
-- #333333
-- #333333 #FFFFFF #333333 #283589 #FFFFFF #EDEEEE #EDEEEE #FCBF60 #FDD9A0 #FDD9A0 #FCF9F6 #FCF9F6 #A9AED0 #FCBF60
-
-**Typography Information:**
-
-- Font
-- weight weights weight weights
-- font
-- font font font
-- headline headline Headline Headline
-- font
-- weights
-- Headlines headline
-- weight weights
-- weights weights
-- weight
-- weight
-- Headline Headline Headline Headline Headline Headline Headline
-- font font font font font
-- font font
-
-**Spacing Layout:**
-
-- margin margin
-- margin margin
-- margin margin
-
-**Brand Voice:**
-
-- tone of voice
-- messaging messaging messaging messaging
-- messaging
-- Tone of voice
-- tone of voice
-- Tone of voice
-- messaging
-- messaging
-
-**Notes:**
-
-- The document includes additional notes about Shelter's mission, branding principles, and communication strategies, including political neutrality and avoiding stereotypes.
+*Guidelines data not available*
 
 ## Additional Properties
 

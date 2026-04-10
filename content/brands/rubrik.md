@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-03-20T08:22:03.123737"
+date: "2026-04-10T09:40:30.631276"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
   - technology
 industries:
-  - "computer-hardware-industry"
-  - "computer-storage-media"
   - "software-industry"
+  - "computer-hardware-industry"
   - "computer-security"
+  - "computer-storage-media"
 countries:
   - "united-states"
 revenue_buckets:
@@ -36,9 +36,9 @@ market_cap_buckets: []
 products_or_materials_produced:
   - "zero-trust-architecture"
   - "data-security-and-protection"
-  - "remote-backup-service"
   - "data-security"
   - "computer-security"
+  - "remote-backup-service"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -71,9 +71,9 @@ imagery_styles: []
 wikidata_description: Zero trust data security and cloud data management for Enterprise companies
 wikidata_url: "https://www.wikidata.org/wiki/Q55632076"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -83,12 +83,6 @@ visual_term_image_urls: {}
 - [https://www.rubrik.com/fr](https://www.rubrik.com/fr)
 - [https://www.rubrik.com/de](https://www.rubrik.com/de)
 
-## Brand Guidelines
-
-### 2018
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -97,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Data Security](/products_or_materials_produced/data-security/); [Computer Security](/products_or_materials_produced/computer-security/) |
+| Product Or Material Produced | [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Data Security](/products_or_materials_produced/data-security/); [Computer Security](/products_or_materials_produced/computer-security/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/) |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-12 |

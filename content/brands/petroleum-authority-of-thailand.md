@@ -2,12 +2,12 @@
 title: Petroleum Authority of Thailand
 slug: "petroleum-authority-of-thailand"
 description: ""
-date: "2026-03-20T08:22:04.349583"
+date: "2026-04-10T09:40:33.080080"
 draft: false
 sectors:
+  - oil
   - petroleum
   - gas
-  - oil
 regions:
   - thailand
 years:
@@ -55,13 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
+logo_elements: []
 brand_colors: []
-typographies:
-  - trebuchet
-imagery_styles:
-  - subtle
+typographies: []
+imagery_styles: []
 wikidata_description: petroleum organization in Thailand
 wikidata_url: "https://www.wikidata.org/wiki/Q1810389"
 has_twitter: false
@@ -81,21 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Mentions of Corporate Signature variations including 'Logotype', 'Corporate Signature WITH', and possible logo usage on backgrounds.
-
-**Color Information:**
-
-- Repeated references to the term 'colour', may indicate a corporate color palette or relevant color usage rules.
-
-**Typography Information:**
-
-- Typography section mentions font families like 'DB Sathorn' and 'Trebuchet'.
-
-**Notes:**
-
-- Much of the extracted data was repetitive or incomplete due to OCR limitations. Further manual analysis may be required for visual elements and subtle details.
+*Guidelines data not available*
 
 ## Additional Properties
 

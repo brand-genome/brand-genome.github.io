@@ -2,7 +2,7 @@
 title: Go Construct
 slug: "go-construct"
 description: ""
-date: "2026-03-20T08:22:04.010318"
+date: "2026-04-10T09:40:31.980025"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - construction
   - "human-ressources"
+  - construction
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -64,9 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.goconstruct.org](https://www.goconstruct.org)
 - [https://careers.goconstruct.org](https://careers.goconstruct.org)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

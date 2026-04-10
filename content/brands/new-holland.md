@@ -2,11 +2,11 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-03-20T08:22:05.417630"
+date: "2026-04-10T09:40:34.288569"
 draft: false
 sectors:
-  - construction
   - hardware
+  - construction
 regions:
   - italy
 years:
@@ -48,15 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: tractor manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q98579580"
 has_twitter: false
@@ -78,36 +73,94 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo exists in 3D and 2D versions. The 3D logo is the primary element of recognition and can be used in both color and black & white versions. The choice depends on printing technical specifications. The maximum size of the 3D logo is 1500 mm (59 inches), and the minimum size is 25 mm (0.98 inches). If the logo must be scaled outside this range, a 2D version is required.
-- The vectorial logo follows similar rules. It must always be used in 3D unless exceptional print specifications prevent it. The minimum size for the vectorial logo is 25 mm (0.98 inches), and there is no maximum size.
-- Clear space requirement for the logo is defined to ensure visibility and integrity. Specific details of the required clear zones are outlined in the document.
+##### Mission
 
-**Color Information:**
+- BUILT AROUND YOU is the pay-off/tagline, signifying the company's mission to focus on customer-centric solutions and adaptability in construction equipment [^1].
 
-- Logo color codes are mentioned, including exact specifications for Pantone, RGB, and CMYK. More details on lineup and accurate codes are available in respective appendix sections.
-- The document specifies Pantone, CMYK, and RGB codes for color accuracy in production. Examples include exact hues for both the 3D logo and 2D variants.
+##### Core Values
 
-**Typography Information:**
+- solidity
+- substance
+- strength
+- adaptability
+- customer focus
 
-- The corporate font is mentioned in the document, with applications defined for various contexts such as productivity materials, marketing, and dealer communications. Specific font families and type sizes are to be used consistently.
+##### Target Audience
 
-**Imagery Photography:**
+- Professionals and businesses in the construction industry seeking reliable, adaptable, and strong equipment solutions [^2].
 
-- Photography should align with the brand's vision and maintain a professional, consistent aesthetic. Additional stylistic guidelines exist.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- reliable
+- strong
+- adaptable
+- customer-oriented
 
-- Clear boundaries and safe zones are crucial for maintaining the integrity of elements such as logos. Precise measurement rules are specified in the document.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a bold, three-dimensional logo with a stylized leaf emblem, using a color palette of yellow, black, and white. The logo is always used in 3D, with strict guidelines for size, clear space, and color usage. The corporate font is Gill Sans, reinforcing a clean and professional look. The brand emphasizes high contrast, clarity, and visibility across all materials [^3].
 
-- The tagline 'Built Around You' serves as a core piece of the brand voice, emphasizing customer-centric values.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Detailed implementation guidelines for specific adaptations suggest that proportional dimensions should be maintained even when full adherence is not possible.
+- The logo is the primary element of recognition for a company, and represents its unique attributes and values. The three-dimensional version was chosen for this reason, as it is a better representation of New Holland's solidity and substance than the flat version. The logo exists in two versions -color and black & white. The choice of version depends on printing technical specifications.
+- The maximum size of the 3D logo is 1500 mm/59 inches. The smallest size at which it may be reproduced is 25mm/ 0.98 inches. Should it be necessary to reproduce the logo in a size outside the range indicated, the 2D version must be used.
+- All measurements are expressed in mm/inches
+- The logo must always be used in 3D.
+- In exceptional cases, where technical print specifications do not allow four-color printing, the 2D version shown here may be used.
+- The minimum size of the logo is 25 mm/ 0.98 inches. There is no maximum limit to the size of vectorial logos.
+
+##### Color Palette
+
+- New Holland's corporate colors are yellow and black, as shown. The use of grayscale is allowed as shown to achieve special graphic effects. Paper quality and printing methods can alter the appearance of the colors, therefore the use of the relevant Pantone is recommended in order to achieve the best result in all cases.
+- Pantone I 09 C RGB: R 254 -G 203 -B 0 HTML: FD417 RAL: 1021 Process Black C RGB: R0-G 0 -B 0 HTML: 000000 RAL: 9017 Process Black 30%
+- For two-color printing, pantone I 09 C (yellow) and pantone Process Black must be used.
+- When the logo is reproduced on full color yellow or black background, an outline should be used as shown in order to ensure the logo is clearly visible.
+- The outline may be used only in the cases shown here, when printing on colour.
+- In this version of the logo, the yellow background is replaced by a 30% grayscale. When reproduced on grayscale or black background, an outline should be used as shown in order to ensure the logo is clearly visible.
+- The outline may be used only in the cases shown here, when printing in black & white.
+- No color other than black or white may be used. Bear in mind the objective is always to maximize the visibility of the logo.
+
+##### Typography
+
+- The font used for the payoff is Din black.
+- GILL SANS LIGHT
+- GILL SAnS
+- GILL SANS BOLD
+- The font is part of the corporate identity, and is an important element of communication.
+- The font associated with the logo is a vital element of the corporate identity in all types of communication. New Holland Construction’s typeface is Gill Sans, in the versions shown here.
+- GILL SANS LIGHT ITALIC
+- GILL SANS ITALIC
+- GILL SANS BOLD ITALIC
+- The pay-off/tagline must never be altered in any way and must always be reproduced with the logo respecting the size and proportions shown here.
+- The pay-off must always be used as shown in chapter I .9 Pay­off/tagline. Therefore, no alterations are permitted to the font, dimensions or alignment. No color other than black or white may be used. Bear in mind the objective is always to maximize the visibility of the logo.
+
+##### Visual Style
+
+- The logo exists in two versions -color and black & white. The choice of version depends on printing technical specifications.
+- The maximum size of the 3D logo is 1500 mm/59 inches. The smallest size at which it may be reproduced is 25mm/ 0.98 inches. Should it be necessary to reproduce the logo in a size outside the range indicated, the 2D version must be used.
+- All measurements are expressed in mm/inches
+- The logo must always be used in 3D.
+- In exceptional cases, where technical print specifications do not allow four-color printing, the 2D version shown here may be used.
+- The minimum size of the logo is 25 mm/ 0.98 inches. There is no maximum limit to the size of vectorial logos.
+
+##### Tone And Messaging
+
+- BUILT AROUND YOU is the pay-off (see chapter 1.3).
+- The sentence signifying the company's mission (pay-off/tagline) is positioned below the logo.
+- The use of the logo together with the pay-off/tagline is mandatory on the following communication material: • Corporate advertising campaign • Dealer advertising campaign • Brochure • Flyer • Promotional printed materials • Point of sale materials • Merchandising • Web
+- The pay-off is not used on stationery: for details please refer to chapter 2.
+- The pay-off/tagline must never be altered in any way and must always be reproduced with the logo respecting the size and proportions shown here.
+- The font used for the payoff is Din black.
+- The pay-off must always be used as shown in chapter I .9 Pay­off/tagline. Therefore, no alterations are permitted to the font, dimensions or alignment. No color other than black or white may be used. Bear in mind the objective is always to maximize the visibility of the logo.
+
+##### Brand Values
+
+- The logo is the primary element of recognition for a company, and represents its unique attributes and values. The three-dimensional version was chosen for this reason, as it is a better representation of New Holland's solidity and substance than the flat version. The logo exists in two versions - color and black & white. The choice of version depends on printing technical specifications.
 
 ## Additional Properties
 

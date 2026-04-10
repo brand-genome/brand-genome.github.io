@@ -2,7 +2,7 @@
 title: Aéroport Marseille Provence
 slug: "aeroport-marseille-provence"
 description: ""
-date: "2026-03-20T08:22:04.240102"
+date: "2026-04-10T09:40:32.795806"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - airport
   - aeronautic
+  - airport
 industries: []
 countries: []
 revenue_buckets: []
@@ -70,56 +70,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo - Contains keywords: logo, version.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: usage.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo, version.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: usage.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-- Logo - Contains keywords: logo.
-
-**Color Information:**
-
-- Color - Contains keywords: color.
-- Color - Contains keywords: color.
-- Color - Contains keywords: pantone.
-- Color - Contains keywords: color.
-- Color - Contains keywords: color.
-
-**Typography Information:**
-
-- Typography - Contains keywords: font.
-
-**Imagery Photography:**
-
-- Imagery - Contains keywords: image.
-- Imagery - Contains keywords: image.
-- Imagery - Contains keywords: image.
-- Imagery - Contains keywords: image.
-- Imagery - Contains keywords: image.
-- Imagery - Contains keywords: photograph.
-
-**Brand Voice:**
-
-- Voice - Contains keywords: message.
-- Voice - Contains keywords: message.
-- Voice - Contains keywords: tone.
-
-**Notes:**
-
-- Note - Contains keywords: important.
+*Guidelines data not available*

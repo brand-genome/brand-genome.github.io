@@ -2,11 +2,11 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-03-20T08:22:04.180899"
+date: "2026-04-10T09:40:32.505837"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
   - healthcare
 regions:
   - usa
@@ -55,20 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - portrait
-  - photography
+imagery_styles: []
 wikidata_description: United States nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q751572"
 has_twitter: false
@@ -88,33 +78,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The document includes details on logo versions (horizontal, vertical, stacked, icon-only), tagline lockups, appropriate and inappropriate usage examples, and clear space/safe zone requirements. Specific rules include dimensions for clear space (e.g., print: 0.5', screen: 60px) and misuse warnings like avoiding distortion, adding effects, or incorrect color applications.
-
-**Color Information:**
-
-- Color guidelines include primary and secondary palettes with detailed color values, distribution charts, and usage rules. Specifics include Pantone, Hex, RGB, and CMYK codes. Clear rules about when and how to use the colors within branding designs are explained.
-
-**Typography Information:**
-
-- Typography information includes primary and secondary fonts, rules for headline usage, body text formatting, calls-to-action (CTA), and font pairings for digital and print mediums. Font families include Graphik Compact and supporting weights like Regular, Bold, and Black. Size specifications for headings and body text (in px and pt) are outlined.
-
-**Imagery Photography:**
-
-- Photography guidelines outline mood boards, portrait specifics (e.g., diversity in age, race, gender, and body type), and elements of studio-style images. Rules for family, NICU, and action shots are included. Key principles mention maintaining authenticity, creating connection, and showing empowerment.
-
-**Spacing Layout:**
-
-- Details about grid use, logo spacing, and branding alignment. Clear space must be consistent with dimensions derived from logo proportions. Layouts emphasize preserving legibility and visual hierarchy with margins and padding.
-
-**Brand Voice:**
-
-- Tone is described as energetic, inclusive, urgent, inspiring, and actionable. Guidance emphasizes avoiding overly technical, slangy, emotional, or self-important language. Messages are framed as uplifting and relatable to strengthen branding efforts.
-
-**Notes:**
-
-- Additional notes clarify sample messaging and tone, advising against negative statements and specific formatting requirements. Guidelines reinforce using proper grammar, spelling, and branding-specific wording, e.g., avoiding serial commas unless for clarity.
+*Guidelines data not available*
 
 ## Additional Properties
 

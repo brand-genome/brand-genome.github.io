@@ -2,7 +2,7 @@
 title: Österreichische Post
 slug: "osterreichische-post"
 description: ""
-date: "2026-03-20T08:22:04.163078"
+date: "2026-04-10T09:40:32.481982"
 draft: false
 sectors:
   - "parcel-service"
@@ -70,26 +70,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Specialized smaller Posthorn versions exist: Posthorn Mini for small print applications (below 5 mm) and Posthorn Ultra Mini for icons. Additional approval may be needed for these uses.
-
-**Color Information:**
-
-- Color information mentioned. Specific details on color codes (if present) need retrieval.
-- Color information mentioned. Specific details on color codes (if present) need retrieval.
-- Color information mentioned. Specific details on color codes (if present) need retrieval.
-
-**Typography Information:**
-
-- Font/typography-related information is present. Further details to be extracted precisely.
-
-**Brand Voice:**
-
-- Corporate identity-related details found. Review fully for tone or slogans.
-- Corporate identity-related details found. Review fully for tone or slogans.
-- Corporate identity-related details found. Review fully for tone or slogans.
-
-**Notes:**
-
-- Cover page or introductory material. Visible page number likely missing.
+*Guidelines data not available*

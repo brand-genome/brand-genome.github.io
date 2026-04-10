@@ -2,7 +2,7 @@
 title: IFMSA
 slug: ifmsa
 description: ""
-date: "2026-03-20T08:22:04.237604"
+date: "2026-04-10T09:40:32.755007"
 draft: false
 sectors:
   - ngo
@@ -52,24 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - symbol
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - "sans-serif"
-  - arial
-  - montserrat
-imagery_styles:
-  - graphic
-  - minimal
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1537047"
 has_twitter: false
@@ -88,44 +74,219 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- The IFMSA logo comprises three elements: the symbol (snake and rod of Asclepius), the wordmark ('IFMSA'), and the legend. Horizontal orientation with all elements included is the primary version. Other versions include: a) symbol and wordmark without the legend (used if the legend is unreadable), b) the symbol used standalone, but only when 'IFMSA' is visible in the same surface.
-- Minimum size requirements: a) Horizontal logo version must be at least 41 mm or 116 px; b) Symbol and wordmark alone must be at least 25 mm or 70 px; c) Symbol-only logo must be at least 10 mm or 28 px.
-- Color guidelines: Logo should be IFMSA Blue or black on lighter backgrounds, and white on darker solid backgrounds or multicolor contexts.
-- Clear space/safe zone requires surrounding area free from graphic or text, defined as 'X', equal to the height of the 'I' in 'IFMSA'. This rule applies to all logo versions including Standing Committee logos.
-- Do's and don'ts for logo usage: a) Do not flip the lockup, b) Do not distort horizontally or vertically, c) Do not outline, d) Do not apply dropshadow, e) Do not resize single elements individually, f) Do not place the symbol above the horizontal wordmark, g) Do not use gradients, h) Do not rotate, i) Do not use different angles.
-- Standing Committee logos are inline with IFMSA corporate design. Each logo consists of a pictogram, abbreviation, and relevant field. Black & white or inverted versions exist, replacing specific Standing Committee colors with black or white.
+##### Mission
 
-**Color Information:**
+- IFMSA unites medical students worldwide to lead initiatives that impact positively the communities we serve. IFMSA represents the opinions and ideas of future health professionals in the field of global health, and works in collaboration with external partners. IFMSA builds capacity through training, project and exchange opportunities, while embracing cultural diversity, so as to shape a sustainable and healthy future.
 
-- IFMSA Blue (Dark Blue) is the official color used for titles, subtitles, and elements in designs. Codes: CMYK 100/87/32/20, RGB 29/55/104, HEX #1d3768.
-- Official secondary light blue color used primarily in IFMSA regional logos for differentiation. Codes: CMYK 70/47/0/0, RGB 86/126/191, HEX #567ebf.
-- Standing Committees have specific colors, each strictly linked to IFMSA Blue. Attention should be given to color balance in designs, with minimal usage and dominance of white preferred.
-- Assorted palettes include lighter and darker tones for Standing Committee colors: lighter palettes are suitable for background/highlight; darker palettes work well for type.
+##### Core Values
 
-**Typography Information:**
+- unity
+- diversity
+- leadership
+- collaboration
+- capacity building
+- cultural awareness
+- empowerment
 
-- Primary font: Montserrat—sans-serif font capturing urban typography essence of Buenos Aires, suitable for all typography types.
-- Secondary font: Arial—widely available sans-serif typeface used for titles and bodies of text in official correspondence.
+##### Target Audience
 
-**Imagery Photography:**
+- Medical students worldwide, including student leaders, project managers, activists, and future health professionals.
 
-- Images should communicate diversity, energy, and personality; convey emotions and atmosphere; use inspirational perspectives. Black & white, monotone, or full-color allowed. Avoid offensive or stereotypical content.
-- Image library: Managed by IFMSA PR and Communication Team, containing approved entries. Copyright permissions mandatory; participant consent required for images taken during events.
+##### Personality Traits
 
-**Spacing Layout:**
+- inclusive
+- conversational
+- energetic
+- accessible
+- empowering
+- collaborative
 
-- Grid systems are implied for templates like business cards, letters, and certificates, allowing consistent layouts. Business cards emphasize the IFMSA identity.
-- Standing Committee logos follow exclusion zone rule similar to IFMSA logo, ensuring ample surrounding space free of graphic elements.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The IFMSA visual identity is bold, simple, modern, and timeless. It features a strong logo with a medical snake and segmented circle, a consistent color palette dominated by IFMSA Blue and white, clear and professional typography (Montserrat and Arial), and imagery that emphasizes diversity, energy, and real-life situations. The visual style is clean, professional, and designed for clarity and inclusivity.
 
-- Tone of voice emphasizes professionalism, emphasizing IFMSA core identity, cultural sensitivity, and quality-driven communication.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- Implementation timeline for branding includes IFMSA CI adoption post-August 2021. Usable formats (PDF, PNG, Word) will be provided.
+- Inclusive Conversational Energetic Accessible
+
+##### Brand Imagery
+
+- Photography is a powerful and dynamic tool. The images we use should communicate the diversity, energy and personality of what we do. They should convey emotions and atmosphere.
+- Look beyond the typical and find a more inspirational perspective. Consider detail or unusual angles to increase impact and create effective communications.
+- Our images show natural, real-life people and situations. They should convey emotions, atmosphere and engage the audience. They can be reproduced in full color, single color (monotone) or Black and White. Only use images that are relevant and add value.
+- Ensure the content does not offend or alienate anyone. Avoid cliches or racial and gender stereotyping.
+- Images that are used in printed materials should be reproduced at print quality (i.e. no less than 300 dpi).
+- An image library should be kept by the IFMSA PR and Communication Team, containing a selection of approved photography that can be used to enhance our communications. Submissions to this library should be open all over the year and photos should be reviewed for copyrights and permissions.
+- Appropriate consent forms should be taken if participants are photographed, recorded or filmed during IFMSA events or activities.
+- Using photos that are not owned by the federation is possible provided that the needed authorization is obtained from the respective owner(s).
+- If using images, the style and content of photographs should comply with the guidelines mentioned earlier and should be vibrant, inspirational and engaging. Only use images that are relevant and add value.
+
+##### Color Palette
+
+- The official IFMSA color is Dark Blue (hereafter referred to as IFMSA Blue).
+- Beside the logo, the IFMSA Blue is also used in general IFMSA designs. Titles, subtitles or other elements should be in this specific blue.
+- Our secondary color is 100% White.
+- Secondary light blue color is used mainly in IFMSA logo for regions, but it can be also used for differentiation in texts.
+- In addition to the IFMSA Blue and the 100% White, a specific color was chosen for each of the Standing Committees. These are strongly linked to the IFMSA Blue and go well with it. Each of these colors should be used only for their specific Standing Committee. Attention should be given to the overall balance of colors in any design; minimal color usage with a dominance of White is often the most effective.
+- Each of our Standing Committee colors has a corresponding lighter and darker tones. The lighter palette works well as a background, highlight or graphic. The darker palette is the most suitable for type.
+- Remember, minimal color usage is often the most graphically effective. Undisciplined color usage and tonally inappropriate combinations will dilute the impact of our identity. Therefore you should only use colors from our palette.
+
+##### Typography
+
+- Typography & Graphic Language
+- Primary font Montserrat
+- Montserrat is an sans-serif open font which captures the urban typography of Buenos Aires, captivating the essence of the 20th century. As such, it is a font that is meant to be memorable and everlasting, adequate for all type of typography.
+- Secondary font Arial
+- Arial is a widely available sans-serif typeface and computer font packaged with Microsoft Windows, Microsoft Office applications, Apple Mac OS X and many Post-Script computer printers. It should be used for titles and bodies of text in all correspondence sent on behalf of the Federation.
+
+##### Logo Usage
+
+- Only the IFMSA corporate identity can be used. Changes in layout or any other additions are not allowed.
+- The use of the official IFMSA Logo has to be according to the official IFMSA brand manual
+- The IFMSA logo is the combination of the symbol, the wordmark, and its legend. Its form has a bold and coherent style accomplished by respecting the same width on the word mark, the circle, and the snake.
+- The pink guides explain the main proportions guides of the logo, if its recreation will ever be necessary.
+- However, we strongly advised not to recreate it.
+- The three elements can only be combined accordingly to the examples displayed above. Though, the main version is the logo with all three elements with the horizontal orientation.
+- The version with the symbol and word mark is used when the legend will not be readable. And the symbol can only be used individually when the IFMSA name is shown in the same surface.
+- For the logo to maintain its readability and corporate appearance, this minimal sizing system must be respected, both on printing materials or digital.
+- The values above are the outcome of visibility and readability tests.
+- For all the IFMSA logo versions to be legible, it should always be used on a background color that offers great contrast. In lighter solid colors the logo should be IFMSA blue or black in the last case. In darker colors, the logo should be white.
+- This scheme is also applied if the background contains other different colors. In short, the logo has to create a good contrast with any background.
+- In order to maximize its visual presence, the logo requires a surrounding area clear of any other graphic elements or text. This area is established by the value "X" which is defined by the height of the letter "I" of IEMSA.
+- This rule is also applied to the Standing Committees logos and the symbol standing by its self, as well as the other IFMSA logo versions. However, always make sure to allow as much space as possible around the logo.
+- 1 -Do not flip the lockup
+- 2 -Do not distort horizontally
+- 3 -Do not distort vertically
+- 4 -Do not outline
+- 5 -Do not apply dropshadow
+- 6 -Do not resize single elements
+- 7 -Do not place symbol above horizontal word mark
+- 8 -Do not apply any gradient
+- 9 -Do not use different angle
+- The different versions displayed have the same ground rules as the official IFMSA logo.
+
+##### Tone And Messaging
+
+- Inclusive Conversational Energetic Accessible
+
+##### Brand Values
+
+- A world in which all medical students unite for global health, and are equipped with the knowledge, skills and values to take on health leadership roles locally and globally.
+
+##### Visual Style
+
+- IFMSA identity system has a bold, simple, and modern style, yet timeless.
+- The IFMSA logo is the combination of the symbol, the wordmark, and its legend. Its form has a bold and coherent style accomplished by respecting the same width on the word mark, the circle, and the snake.
+- The three elements can only be combined accordingly to the examples displayed above. Though, the main version is the logo with all three elements with the horizontal orientation.
+- The version with the symbol and word mark is used when the legend will not be readable. And the symbol can only be used individually when the IFMSA name is shown in the same surface.
+- For the logo to maintain its readability and corporate appearance, this minimal sizing system must be respected, both on printing materials or digital.
+- The values above are the outcome of visibility and readability tests.
+- For all the IFMSA logo versions to be legible, it should always be used on a background color that offers great contrast. In lighter solid colors the logo should be IFMSA blue or black in the last case. In darker colors, the logo should be white.
+- This scheme is also applied if the background contains other different colors. In short, the logo has to create a good contrast with any background.
+- In order to maximize its visual presence, the logo requires a surrounding area clear of any other graphic elements or text. This area is established by the value "X" which is defined by the height of the letter "I" of IEMSA.
+- This rule is also applied to the Standing Committees logos and the symbol standing by its self, as well as the other IFMSA logo versions. However, always make sure to allow as much space as possible around the logo.
+- 1 -Do not flip the lockup 2 -Do not distort horizontally 3 -Do not distort vertically 4 -Do not outline 5 -Do not apply dropshadow 6 -Do not resize single elements 7 -Do not place symbol above horizontal word mark 8 -Do not apply any gradient 9 -Do not use different angle
+- The different versions displayed have the same ground rules as the official IFMSA logo.
+- However, the region's logos can not stand without the region name.
+- A Standing Committee logo should not be used in ways it may compromise IFMSA's main image (i.e. a Standing Committee logo cannot and should not be used alone, and it definitely should not be used in sizes larger than the IFMSA logo).
+- Each Standing Committee logo consists of a pictogram, the name abbreviation and the relevant field of the committee. The fonts used are the same as for the IFMSA logo (Univers and Montserrat).
+- Additionally, Black & White and inverted versions of the Standing Committee logos exist; these were developed for matters where the standard versions cannot be used in anyway (i.e. T-Shirts, where the logos would be printed on colored backgrounds). In each of these, the specific Standing Committee color is replaced either by 700% Black or 700% White. No grayscale tone is permitted.
+- Note that unauthorized alterations to any of IFMSA's official or Standing Committee logos is prohibited.
+- The rules of minimum size and unacceptable logo use, applied to IFMSA logo (p. 20, p. 23), are equally applied to all Standing Committee logo versions.
+- To maximize the Standing Committees logos visual presence, they require a surrounding area clear of any other graphic elements or text. The example above explains SCOME exclusion zone. However, it is applied to all Standing Committees' logos variants. Nevertheless, always make sure to allow as much space as possible around the logos.
+- The official IFMSA color is Dark Blue (hereafter referred to as IFMSA Blue).
+- Beside the logo, the IFMSA Blue is also used in general IFMSA designs. Titles, subtitles or other elements should be in this specific blue.
+- Our secondary color is 100% White.
+- Secondary light blue color is used mainly in IFMSA logo for regions, but it can be also used for differentiation in texts.
+- In addition to the IFMSA Blue and the 100% White, a specific color was chosen for each of the Standing Committees. These are strongly linked to the IFMSA Blue and go well with it. Each of these colors should be used only for their specific Standing Committee. Attention should be given to the overall balance of colors in any design; minimal color usage with a dominance of White is often the most effective.
+- Each of our Standing Committee colors has a corresponding lighter and darker tones. The lighter palette works well as a background, highlight or graphic. The darker palette is the most suitable for type.
+- Remember, minimal color usage is often the most graphically effective. Undisciplined color usage and tonally inappropriate combinations will dilute the impact of our identity. Therefore you should only use colors from our palette.
+- Montserrat is an sans-serif open font which captures the urban typography of Buenos Aires, captivating the essence of the 20th century. As such, it is a font that is meant to be memorable and everlasting, adequate for all type of typography.
+- Arial is a widely available sans-serif typeface and computer font packaged with Microsoft Windows, Microsoft Office applications, Apple Mac OS X and many Post-Script computer printers. It should be used for titles and bodies of text in all correspondence sent on behalf of the Federation.
+- Photography is a powerful and dynamic tool. The images we use should communicate the diversity, energy and personality of what we do. They should convey emotions and atmosphere.
+- Look beyond the typical and find a more inspirational perspective. Consider detail or unusual angles to increase impact and create effective communications.
+- Our images show natural, real-life people and situations. They should convey emotions, atmosphere and engage the audience. They can be reproduced in full color, single color (monotone) or Black and White. Only use images that are relevant and add value.
+- Ensure the content does not offend or alienate anyone. Avoid cliches or racial and gender stereotyping.
+- Images that are used in printed materials should be reproduced at print quality (i.e. no less than 300 dpi).
+
+##### Iconography
+
+- The international recognized medical symbol is what differentiate IFMSA from its Standing Committees. The snake, such as every other official IFMSA icon, have a consisten bold style, looking for the future.
+- The circle which outlines the symbol is devided in to 5 parts. Each on of them represents a region defined by its area. This circle is used for IFMSA logo and its SC's.
+- The divisions of areas create a vertical line on the IFMSA circle, later making the line intercept the snake body giving form to the Rod of Asclepius.
+- The rotation and shear (14.4°) give the snake a sense of movement and ambition. The snake anatomy can be interpreted as well as the "S" of Medical Students. Offering a strong concept for IFMSA icon.
+- The IFMSA logo is the combination of the symbol, the wordmark, and its legend. Its form has a bold and coherent style accomplished by respecting the same width on the word mark, the circle, and the snake.
+- The pink guides explain the main proportions guides of the logo, if its recreation will ever be necessary.
+- However, we strongly advised not to recreate it.
+- The three elements can only be combined accordingly to the examples displayed above. Though, the main version is the logo with all three elements with the horizontal orientation.
+- The version with the symbol and word mark is used when the legend will not be readable. And the symbol can only be used individually when the IFMSA name is shown in the same surface.
+- For the logo to maintain its readability and corporate appearance, this minimal sizing system must be respected, both on printing materials or digital.
+- The values above are the outcome of visibility and readability tests.
+- For all the IFMSA logo versions to be legible, it should always be used on a background color that offers great contrast. In lighter solid colors the logo should be IFMSA blue or black in the last case. In darker colors, the logo should be white.
+- This scheme is also applied if the background contains other different colors. In short, the logo has to create a good contrast with any background.
+- In order to maximize its visual presence, the logo requires a surrounding area clear of any other graphic elements or text. This area is established by the value "X" which is defined by the height of the letter "I" of IEMSA.
+- This rule is also applied to the Standing Committees logos and the symbol standing by its self, as well as the other IFMSA logo versions. However, always make sure to allow as much space as possible around the logo.
+- 1 -Do not flip the lockup 2 -Do not distort horizontally 3 -Do not distort vertically 4 -Do not outline 5 -Do not apply dropshadow 6 -Do not resize single elements 7 -Do not place symbol above horizontal word mark 8 -Do not apply any gradient 9 -Do not use different angle
+- The different versions displayed have the same ground rules as the official IFMSA logo.
+- However, the region's logos can not stand without the region name.
+- Given the wide range of activities of IFMSA and the Federation's functional division into Standing Committees, it was necessary to produce Standing Committee logos that are in line with the Federation's Corporate Design elements. It is important to keep in mind that the original entity we are presenting is IFMSA not the Standing Committees per say.
+- Hence, a Standing Committee logo should not be used in ways it may compromise IFMSA's main image (i.e. a Standing Committee logo cannot and should not be used alone, and it definitely should not be used in sizes larger than the IFMSA logo). Each Standing Committee logo consists of a pictogram, the name abbreviation and the relevant field of the committee. The fonts used are the same as for the IFMSA logo (Univers and Montserrat).
+- Additionally, Black & White and inverted versions of the Standing Committee logos exist; these were developed for matters where the standard versions cannot be used in anyway (i.e. T-Shirts, where the logos would be printed on colored backgrounds). In each of these, the specific Standing Committee color is replaced either by 700% Black or 700% White. No grayscale tone is permitted.
+- Note that unauthorized alterations to any of IFMSA's official or Standing Committee logos is prohibited.
+- The rules of minimum size and unacceptable logo use, applied to IFMSA logo (p. 20, p. 23), are equally applied to all Standing Committee logo versions.
+- To maximize the Standing Committees logos visual presence, they require a surrounding area clear of any other graphic elements or text. The example above explains SCOME exclusion zone. However, it is applied to all Standing Committees' logos variants. Nevertheless, always make sure to allow as much space as possible around the logos.
+
+##### Layout And Composition
+
+- Only the IFMSA corporate identity can be used. Changes in layout or any other additions are not allowed.
+- The IFMSA logo is the combination of the symbol, the wordmark, and its legend. Its form has a bold and coherent style accomplished by respecting the same width on the word mark, the circle, and the snake.
+- The three elements can only be combined accordingly to the examples displayed above. Though, the main version is the logo with all three elements with the horizontal orientation.
+- The version with the symbol and word mark is used when the legend will not be readable. And the symbol can only be used individually when the IFMSA name is shown in the same surface.
+- For the logo to maintain its readability and corporate appearance, this minimal sizing system must be respected, both on printing materials or digital.
+- The values above are the outcome of visibility and readability tests.
+- For all the IFMSA logo versions to be legible, it should always be used on a background color that offers great contrast. In lighter solid colors the logo should be IFMSA blue or black in the last case. In darker colors, the logo should be white.
+- This scheme is also applied if the background contains other different colors. In short, the logo has to create a good contrast with any background.
+- In order to maximize its visual presence, the logo requires a surrounding area clear of any other graphic elements or text. This area is established by the value "X" which is defined by the height of the letter "I" of IEMSA.
+- This rule is also applied to the Standing Committees logos and the symbol standing by its self, as well as the other IFMSA logo versions. However, always make sure to allow as much space as possible around the logo.
+- 1 -Do not flip the lockup 2 -Do not distort horizontally 3 -Do not distort vertically 4 -Do not outline 5 -Do not apply dropshadow 6 -Do not resize single elements 7 -Do not place symbol above horizontal word mark 8 -Do not apply any gradient 9 -Do not use different angle
+- The rules of minimum size and unacceptable logo use, applied to IFMSA logo (p. 20, p. 23), are equally applied to all Standing Committee logo versions.
+- To maximize the Standing Committees logos visual presence, they require a surrounding area clear of any other graphic elements or text. The example above explains SCOME exclusion zone. However, it is applied to all Standing Committees' logos variants. Nevertheless, always make sure to allow as much space as possible around the logos.
+
+##### Legal Notice And Bylaws
+
+- 18.1. The official IFMSA corporate identity is defined in the official IFMSA brand manual.
+- 18.3. Only the IFMSA corporate identity can be used. Changes in layout or any other additions are not allowed.
+- 18.4. The official IFMSA corporate identity can only be used by Officials, their assistants, Task Forces, and Programs.
+- 18.5. National Member Organizations can only use the official IFMSA logo to promote activities and SubRegional Trainings (SRTs) if (1) the activities are enrolled in an IFMSA Program or (2) if the SRT is approved by the Executive Board.
+- The use of the official IFMSA Logo has to be according to the official IFMSA brand manual
+
+##### Official Templates
+
+- The IFMSA Business Cards should be used by the Team of Officials in representing the Federation to external partners. The business cards are designed with the aim of emphasizing and promoting the IFMSA brand, and should contain the IFMSA logo and slogan, links to the Federation's main social media platforms, as well as the card-holder's basic contact details as shown in the example above.
+- The IFMSA letterhead should be used for all official correspondences in the name of the Federation {i.e. invitation letters, letters of appointments, press releases, etc...). It is not binding to the publications which should have their own inner design, which suits the message and the content. An horizontal version of the letterhead is also available.
+- The Federation issues a wide range of certificates for IFMSA activities, Pre-GA or Pre-RM Workshops, GA or RM sessions, SCOPE and SCORE Exchanges, among others.
+- A master template exists in IFMSA and Standing Committee colors, depending on the scope of the activity or event in question. The template for general certificates is shown hereafter.
+- In addition to it, a template exists for each of the Standing Committees.
+- Other templates for certificates might be used upon approval by the IFMSA Vice-President for Public Relations and Communication.
+- A PowerPoint® template has been produced to ensure visual consistency in our presentations.
+- The Template adopts a similar grid structure (with different panels) and is based on either IFMSA or Standing Committee colors with emphasize on the IFMSA logo and the slogan/tagline.
+- If using images, the style and content of photographs should comply with the guidelines mentioned earlier and should be vibrant, inspirational and engaging. Only use images that are relevant and add value.
+- The general IFMSA template is shown hereafter.
+- Other templates for PPT might be used upon approval by the IFMSA Vice-President for Public Relations and Communication.
+
+##### Timeline Of Implementation
+
+- 1 March meeting 2021 – the beginning August Meeting 2021 · All new elements will be created in usable formats such as pdf, png, word … ect. Including but not limited to templates for documents, logos, stamps and social media posts, ect. · The new implementation of the new CI is ready on our website IFMSA.org · At least 2 sessions/webinars will be held with the IFMSA Leadership to raise awareness about the new brand and how it should be implemented. · At least 2 sessions/webinars will be held with NMOs to raise awareness about the new brand and how it should be implemented. · All activities that are scheduled to take place before the August Meeting 2021 will use the corporate identity to be found here.
+- 2 Starting August Meeting 2021: · Official Launch of the new corporate identity, preceded by a social media campaign. · All activities that are scheduled to take place starting the August Meeting 2021 will use the new corporate identity as defined in the official IFMSA Brand Manual. · The Brand Manual is proposed again for AM21 adoption.
+
+##### Merchandise Guidelines
+
+- Additionally, Black & White and inverted versions of the Standing Committee logos exist; these were developed for matters where the standard versions cannot be used in anyway (i.e. T-Shirts, where the logos would be printed on colored backgrounds). In each of these, the specific Standing Committee color is replaced either by 700% Black or 700% White. No grayscale tone is permitted.
+- Note that unauthorized alterations to any of IFMSA's official or Standing Committee logos is prohibited.
 
 ## Additional Properties
 

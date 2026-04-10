@@ -2,7 +2,7 @@
 title: BBR
 slug: bbr
 description: ""
-date: "2026-03-20T08:22:05.588328"
+date: "2026-04-10T09:40:34.532577"
 draft: false
 sectors:
   - finance
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - bonn
   - "schloss-deichmannsaue"
+  - bonn
 subsidiaries: []
 foundation_dates:
   - 1998
@@ -78,7 +78,59 @@ visual_term_image_urls: {}
 
 ### 2016
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- The document does not explicitly state a mission or purpose statement.
+
+##### Target Audience
+
+- The target audience is implied to be customers and stakeholders of a financial institution, specifically a bank operating in North Africa or the Middle East, as indicated by the logo and Arabic text [^1].
+
+##### Personality Traits
+
+- professional
+- stable
+- trustworthy
+
+##### Visual Identity Overview
+
+- The visual identity centers on a stylized, symmetrical archway motif inspired by Islamic architecture, rendered in gradients of green. The logo is paired with both Arabic and Latin text, using modern, bold fonts. The brand emphasizes clarity, professionalism, and consistent use of green color palettes, with strict guidelines for logo variations, backgrounds, and spacing [^2].
+
+#### Categories
+
+##### Logo Usage
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+
+##### Color Palette
+
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+- Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+
+##### Visual Style
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
+
+##### Layout And Composition
+
+- NCB logo has only three official variations
+- The preferred reproduction of NCB brand mark is in its positive full color version on white background. Alternatively, the logo may be reversed only out of a dark green background color from NCB’s primary palettes to secure proper contrast and visibility.
+- Mono-color logo is always used on other dark background of NCB palettes.
+- When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
+- Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
 
 ## Additional Properties
 
@@ -88,7 +140,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Bonn](/headquarters_locations/bonn/); [Schloss Deichmannsaue](/headquarters_locations/schloss-deichmannsaue/) |
+| Headquarters Location | [Schloss Deichmannsaue](/headquarters_locations/schloss-deichmannsaue/); [Bonn](/headquarters_locations/bonn/) |
 | Foundation Date | [1998](/foundation_dates/1998/) |
 | Member Of | Working Group of the German Federal Departmental Research Establishments, Informationsdienst Wissenschaft |
 | Headquarters Location | Schloss Deichmannsaue, Bonn |

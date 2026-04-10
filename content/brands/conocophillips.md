@@ -2,11 +2,11 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-03-20T08:22:03.392647"
+date: "2026-04-10T09:40:30.952942"
 draft: false
 sectors:
-  - gas
   - oil
+  - gas
 regions:
   - usa
 years:
@@ -59,29 +59,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - yellow
-  - gray
-  - orange
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - gradient
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American oil and gas company
 wikidata_url: "https://www.wikidata.org/wiki/Q214763"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -110,35 +97,6 @@ visual_term_image_urls: {}
 ### 2021
 
 *Guidelines data not available*
-
-### 2021
-
-**Logo Information:**
-
-- The logo is a specially designed image and must not be manipulated or recreated. Logo must never be shown without 'ConocoPhillips' text. Clear space around the logo must be equal to the height of the 'h' in the logo. Minimum size for the logo is 1.25 inches in print or 125px on screen.
-- Logo typography should never be recreated with a font and must follow original design. Preferred logo colors are white on darker backgrounds and black on lighter backgrounds. The logo can be all white or black when required.
-- Incorrect usage includes showing the mark without 'ConocoPhillips', altering the proportions of the logo, using incorrect colors on various backgrounds, and failing to maintain the required clear space.
-- File format mentions include print use at 1.25 inches and digital use at 125px.
-
-**Color Information:**
-
-- Primary brand colors and their codes are defined: ConocoPhillips Red (PMS 485, CMYK: 0/100/100/0, RGB: 255/0/0, HEX: #FF0000), Black (PMS Black, CMYK: 0/0/0/100, RGB: 0/0/0, HEX: #000000), Gray (PMS 431, CMYK: 66/48/45/17, RGB: 92/108/114, HEX: #5C6C72). Secondary and tertiary colors include: Yellow (PMS 7548, CMYK: 0/22/100/0, RGB: 255/199/9, HEX: #FFC705), Green (PMS 369, CMYK: 67/12/100/0, RGB: 99/169/69, HEX: #63A945), Orange (PMS 158, CMYK: 0/62/95/0, RGB: 245/127/41, HEX: #F57F29), Blue (PMS 3005, CMYK: 100/40/2/0, RGB: 0/125/193, HEX: #007DC1), Dark Red (PMS 2350, CMYK: 0/95/91/19, RGB: 199/40/37, HEX: #C72825).
-- Only approved brand colors may be used without tints, shades, gradients, or drop shadows. Primary colors should be predominantly used, while secondary and tertiary colors should act as highlights.
-
-**Typography Information:**
-
-- Primary typeface is Myriad Pro (Light, Light Italic, Regular, Regular Italic, Semibold, Semibold Italic, Black, Black Italic). Myriad Pro is preferred for professional design software use and its condensed variant is prohibited. Calibri is the designated system typeface for Microsoft Office documents like Word, PowerPoint, and Outlook.
-- Typography guideline prohibits use of the Myriad Pro Condensed version. Materials created using Microsoft Office tools must use Calibri.
-
-**Spacing Layout:**
-
-- Maintain clear space equal to the height of the 'h' in ConocoPhillips around all sides of the logo to ensure visibility and impact.
-- Additional spacing and layout considerations include ensuring proper alignment, using consistent typographic styles, and following facility signage guidelines.
-
-**Notes:**
-
-- Icons must be shown in solid brand colors and used to highlight specific messages. Gradient icons and those with drop shadows are prohibited. Custom icons can be created upon request to Creative Services.
-- Brand checklist includes confirming full logo usage, appropriate proportional representation, correct brand colors, typographic adherence, and iconography use per guidelines.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: ITV
 slug: itv
 description: ""
-date: "2026-03-20T08:22:04.004924"
+date: "2026-04-10T09:40:31.961103"
 draft: false
 sectors:
   - broadcasting
@@ -79,7 +79,99 @@ visual_term_image_urls: {}
 
 ### 2013
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To provide clear, consistent, and professional end credit guidelines for ITV productions, ensuring brand integrity and compliance across all broadcast platforms.
+
+##### Core Values
+
+- clarity
+- consistency
+- professionalism
+- brand integrity
+
+##### Target Audience
+
+- ITV employees, production teams, and third-party partners responsible for creating and submitting end credits for ITV and associated productions.
+
+##### Personality Traits
+
+- modern
+- bold
+- professional
+- playful
+
+##### Visual Identity Overview
+
+- The visual identity centers on the distinctive ITV logo with colorful, rounded lowercase letters, a sleek and modern aesthetic, and strict use of the ITV Reem typeface. End credits feature white text on a black background, with precise guidelines for typography, color palette, layout, and logo usage to ensure consistency and clarity across all productions.
+
+#### Categories
+
+##### Brand Imagery
+
+- All of our end credits should feature white type on a black background. Please use full black and full white as luminance levels are automatically adjusted at the point of transmission. Black: RGB 0-0-0 White: RGB 255-255-255
+
+##### Color Palette
+
+- All of our end credits should feature white type on a black background.
+- Please use full black and full white as luminance levels are automatically adjusted at the point of transmission.
+- Black: RGB 0-0-0
+- White: RGB 255-255-255
+
+##### Typography
+
+- Please use the new ITV Reem typeface for all credits and set them with our new sizes and line spacing. We will also no longer have the ITV url at the bottom of the frame.
+- Only use weights supplied and specified here; Don’t apply different styles to type (eg. italics, outlining, condensing); Don’t apply tracking unless you’re asked to; This is ITV’s unique typeface and is very important to us so please don’t distribute it externally or use in any non-ITV communications.
+- All of our end credits should feature white type on a black background.
+- Please use full black and full white as luminance levels are automatically adjusted at the point of transmission.
+- Black: RGB 0-0-0
+- White: RGB 255-255-255
+- During presentation events we reduce end credits to a quarter section of the frame. Please don’t crop the end credits.
+- The new credit squeeze design won’t crop your end credits. Type can therefore occupy 14:9 title safe area.
+- Character name I Job Description: Sentence case, ITV-Reem Regular Adobe: 40pt size, 50pt line spacing Clarity: 40 size
+- Cast / crew member name: All caps, ITV-Reem Medium Adobe: 40pt size, 50pt line spacing, +25 tracking Clarity: 40 size
+- Character name I Job Description: Sentence case, ITV-Reem Regular Adobe: 22pt size, 27pt line spacing Clarity: 22 size
+- Cast / crew member name: All caps, ITV-Reem Medium Adobe: 22pt size, 27pt line spacing, +25 tracking Clarity: 22 size
+- Please note: For end credits that are not generated on Clarity or Adobe, please eye match the credits to the corresponding PSD file assets (HD & SD versions).
+- Please centre each page of type horizontally and vertically.
+- Name credit sequences should be no less than 20 seconds and no more than 30 seconds long. This would include the 3 second production slate within the total duration of the sequence, for example: 27 second credits + 3 seconds production slate = 30 seconds
+- They should be arranged as a series of pages with cut transitions. Please don’t use rollers or crawlers.
+
+##### Logo Usage
+
+- Always obtain ITV brand assets from the ITV Brand Bank;
+- Never obtain ITV brand assets from any third party resources such as Google images;
+- Never deliver ITV brand assets to third parties. All third parties should register directly to the ITV Brand Bank to obtain assets;
+- All creative must be submitted for approval by the ITV Brand Team before being published;
+- All creative must be approved by the ITV Brand Team before it is published.
+
+##### Visual Style
+
+- Please use the new ITV Reem typeface for all credits and set them with our new sizes and line spacing. We will also no longer have the ITV url at the bottom of the frame.
+- Only use weights supplied and specified here; Don’t apply different styles to type (eg. italics, outlining, condensing); Don’t apply tracking unless you’re asked to; This is ITV’s unique typeface and is very important to us so please don’t distribute it externally or use in any non-ITV communications.
+- All of our end credits should feature white type on a black background.
+- Please use full black and full white as luminance levels are automatically adjusted at the point of transmission.
+- Black: RGB 0-0-0
+- White: RGB 255-255-255
+
+##### Layout And Composition
+
+- During presentation events we reduce end credits to a quarter section of the frame. Please don't crop the end credits.
+- The new credit squeeze design won't crop your end credits. Type can therefore occupy 14:9 title safe area.
+- Please centre each page of type horizontally and vertically.
+- Name credit sequences should be no less than 20 seconds and no more than 30 seconds long. This would include the 3 second production slate within the total duration of the sequence, for example: 27 second credits + 3 seconds production slate = 30 seconds
+- They should be arranged as a series of pages with cut transitions. Please don't use rollers or crawlers.
+
+##### Co Branding
+
+- When there are two or three co-producers, the 'folding' background is replaced by a static grey background.
+- Please note: There are no animated logos or music on co-production slates.
+- The ITV Studios logo should always positioned at the top, below 'A Co-Production of'.
+- The second logo should have a similar visual impact with the ITV Studios logo. Its size should be determined by its shape: vertical (tall) or squared-aspect logos should have the same width as the ITV Studios logo, 4 grid units; long, horizontal logos should span across 6 grid units.
+- The ITV Studios logo should always be positioned at the top, below the 'A Co-Production of' message.
+- The second and third logos should have a similar visual impact with the ITV Studios logo. Their size should be determined by their shape: vertical (tall) or squared-aspect logos should have the same width as the ITV Studios logo, 4 grid units (3 grid units for very 'blocky' logos, as shown in the lower example); long, horizontal logos should span across 6 grid units.
 
 ## Additional Properties
 

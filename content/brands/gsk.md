@@ -2,11 +2,11 @@
 title: GSK
 slug: gsk
 description: ""
-date: "2026-03-20T08:22:04.004165"
+date: "2026-04-10T09:40:31.959204"
 draft: false
 sectors:
-  - pharma
   - biotech
+  - pharma
 regions:
   - "united-kingdom"
 years:
@@ -57,20 +57,15 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - orange
-  - grey
-typographies:
-  - akzidenz
-imagery_styles:
-  - gradient
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British multinational pharmaceutical and biotechnology company
 wikidata_url: "https://www.wikidata.org/wiki/Q212322"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -80,40 +75,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2022
-
-*Guidelines data not available*
-
 ### 2013
 
-**Logo Information:**
-
-- Information about logo structure, design changes, and simplifications. The brand removed the GlaxoSmithKline from their logo for simplicity and legibility purposes at smaller sizes.
-- Logo misuse guidelines are provided. Examples include not redrawing, resetting, altering, recoloring the GSK letters, applying shadows, or attaching old wordmarks to the logo.
-
-**Color Information:**
-
-- Details about logo color variations such as full-color gradient, single orange, and grayscale versions for specific use cases.
-
-**Typography Information:**
-
-- Details about Akzidenz Grotesk Pro font styling, including font weights, sizes, and usage for headings, subtitles, and body copy roles. Emphasis on left alignment and specific colors for body copy such as Warm Grey 9.
-
-**Imagery Photography:**
-
-- Photography principles include authenticity, emotional connection, and portraying real people in real-life scenarios. Emphasis on vibrancy and engagement.
-
-**Spacing Layout:**
-
-- Spacing rules apply to maintaining clear space around logos, text positioning within heartbeats, and using an appropriate grid system for all communications.
-
-**Brand Voice:**
-
-- Tone of voice principles state that GSK's communication should always be authentic, humble, adult-to-adult, confident, and action-oriented while avoiding corporate jargon or manipulative tone.
-
-**Notes:**
-
-- Guidelines on co-branding with the Stiefel brand and information related to GSK's global skin care portfolio were included, stipulating that no immediate changes to current uses of the brand were allowed until 2014.
+*Guidelines data not available*
 
 ## Additional Properties
 

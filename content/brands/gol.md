@@ -2,7 +2,7 @@
 title: GOL
 slug: gol
 description: ""
-date: "2026-03-20T08:22:05.317039"
+date: "2026-04-10T09:40:34.149026"
 draft: false
 sectors:
   - airline
@@ -73,233 +73,176 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- MANUAL DE MARCA GOL
-MARCA 
-GOL
-POSITIVA
-MARCAS
-PRINCIPAL
-27
-MARCA PRINCIPAL
-A
- marca colorida 
-GOL
- em 
-conjunto com a assinatura 
+##### Mission
 
-ﬁ
-L
-inhas aéreas inteligentesﬂ
- 
-é a versão de uso preferencial 
+- A GOL une e aproxima as pessoas a seus destinos, sejam eles seus sonhos ou as suas realidades. A marca busca ser moderna, forte e contemporânea, valorizando segurança e precisão, fundamentais para a empresa e a indústria de aviação comercial [^1].
 
-da marca.
- 
- 
+##### Core Values
 
-I
-sso significa que ela deve
- 
-ser usada sempre que possível 
+- aliança
+- união
+- conexão
+- aproximação de pessoas
+- parceria
+- segurança
+- precisão
+- modernidade
+- fortaleza
+- contemporaneidade
 
-e quando não houver alguma 
+##### Target Audience
 
-restrição em termos de 
+- Pessoas que buscam se conectar a destinos, sejam sonhos ou realidades, valorizando segurança, precisão e modernidade no setor de aviação comercial [^2].
 
-número de cores, técnica
- 
-de impressão ou suporte.
+##### Personality Traits
 
- 
+- moderna
+- forte
+- contemporânea
+- precisa
+- segura
+- conectiva
+- aliada
+- unificadora
 
-E
-la pode ser aplicada 
+##### Visual Identity Overview
 
-em positivo ou negativo, 
+- A identidade visual é robusta, geométrica e moderna, com destaque para elos (círculos interligados) que simbolizam união e conexão. O uso predominante das cores laranja GOL e cinza elo, tipografia institucional Sansa Soft e Lucida Sans, e layouts limpos e equilibrados reforçam a marca como contemporânea e confiável [^3].
 
-dependendo do impacto 
+#### Categories
 
-desejado.
-IMPORTANTE
-D
-as marcas 
-GOL
- principais, a 
+##### Brand Voice
 
-versão em positivo no fundo 
+- • tecnologia e segurança servir uso de frases curtas • 1ª pessoa do plural e 3ª do singular aproximar as pessoas sonho termos que todo consumidor entenda ***• eficiente simples 'eigeneia m.. praticidade e conforto diminuir distâncias misturar elementos com sentimentos • informalidade e cordialidade lowest cost Dl'OX1MI transformadora energia saber escutar as melhores histórias são curtas contemporânea e moderna inevação e experiência GOL é o elo
 
-branco deve ser a mais usada.
-TAMANHO MÍNIMO
-O
- tamanho mínimo para a 
+##### Brand Imagery
 
-aplicação da marca é de 3 cm 
+- Recomendamos a utilização dos elos como elemento grá­fico. Sendo um grafismo, eles devem sempre estar "cropados" na proporção de 80% de suas dimensões totais, propor­cionando um atrativo visual marcante. Sua construção deve seguir o diagrama ao lado.
+- Não é permitido o uso de ou­tros elementos -como textos, por exemplo -em cima do grafismo, pois podem descarac­terizar e/ou dificultar a leitura dos elos enquanto elemento gráfico.
+- O crop nunca deve ser utiliza­do maior ou menor que os 80% do tamanho dos elos.
+- Ao ajustar a posição dos Elos dentro do crop, não é permi­tido que Elos fiquem sangra­dos para dentro da área de comunicação formando uma interrupção do grafismo ou de forma que prejudique a leitura dos elos enquanto elemento gráfico, como nos exemplos ao lado.
+- Nunca distorça nem rotacione de nenhuma forma os elos.
+- Nunca utilize nenhum tipo de contorno nos elos.
+- Nunca altere qualquer tipo de proporção nas formas dos elos.
+- Não é recomendado usar os elos separados ou parte integrante de numerais e palavras. O uso indevido dos elos banaliza a marca. Eles devem ser protegidos e preservados de interferências.
+- Nunca troque a ordem ou utilize outras cores no elos. Eles só podem aparecer na versão colorida com o elo esquerdo laranja e o direito cinza.
+- Os elos não devem ser usados com apenas uma cor.
+- Nunca utilize os elos de forma invertida.
+- Nunca utilize transparências ou qualquer tipo de efeito de estilo, como por exemplo, sombreado.
 
-de largura. 
-C
-aso seja necessária 
+##### Color Palette
 
-uma aplicação menor, o uso da 
+- a gol tem duas cores institucionais: o laranja gol e o cinza elo.
+- É muito importante que estas cores sejam sempre aplicadas respeitando fielmente as referências cromáticas apresentadas nas tabelas ao lado.
+- Qualquer variação no uso das cores pode acarretar uma inconsistência na percepção da identidade.
+- laranja gol pantone® orange 021c cmYK 0 / 60 / 100 / 0 rgb 255 / 90 / 0 hex Fe5000 ral 2008
+- cinza elo pantone® cool grey 5c cmYK 0 / 0 / 0 / 40 rgb 187 / 188 / 188 hex bbbcbc ral 7047
+- as cores auxiliares devem ser utilizadas para dar mais variedade e criar mais interesse nas peças de comunicação da marca gol.
+- estas cores não devem substituir as cores institucionais da marca.
+- elas foram escolhidas a partir de tons das cores do céu e do mar ao amanhecer e entardecer.
+- cores secundárias amarelo cmYK 0 / 15 / 90 / 0 rgb 247 / 185 / 23
+- cores complementares verde cmYK 100 / 0 / 60 / 0 rgb 0 / 170 / 145
+- laranja cmYK 0 / 45 / 90 / 0 rgb 247 / 142 / 30
+- azul cmYK 45 / 20 / 0 / 0 rgb 120 / 170 / 215
+- laranja escuro cmYK 0 / 70 / 90 / 10 rgb 230 / 68 / 24
+- roxo cmYK 70 / 65 / 0 / 0 rgb 106 / 102 / 170
+- vinho cmYK 0 / 90 / 65 / 30 rgb 172 / 52 / 62
+- violeta cmYK 65 / 100 / 10 / 0 rgb 120 / 42 / 133
+- cinza escuro cmYK 0 / 0 / 0 / 75 rgb 95 / 95 / 95
+- petróleo cmYK 60 / 30 / 0 / 45 rgb 67 / 99 / 137
+- Nunca troque a ordem das cores da marca. Elas só podem aparecer na versão colorida conforme mostrado na seção "MARCA COLORIDA".
+- Nunca utilize cores que não correspondem às cores institucionais da GOL. O uso da marca em preto ou branco é restrito.
+- Nunca troque a ordem ou utilize outras cores no elos. Eles só podem aparecer na versão colorida com o elo esquerdo laranja e o direito cinza.
+- Os elos não devem ser usados com apenas uma cor.
 
-marca sem assinatura (com o 
+##### Typography
 
-tamanho mínimo de 1,5 cm de 
+- A identidade visual GOL é composta por duas fontes institucionais: Sansa Soft e a família Lucida Sans.
+- A fonte Sansa Soft é ideal para ser usada em títulos, subtítulos e textos curtos que merecem destaque.
+- A família Lucida Sans é ideal para ser usada em textos longos e textos que não tenham tanto destaque e/ou serão usados em tamanho pequeno.
+- a fonte institucional gol para o sistema Windows é a família lucida sans.
+- ela deve ser usada tanto para títulos, como para subtítulos e textos longos.
+- a fonte institucional gol para o sistema mac os é a família lucida grande.
 
-largura) é obrigatório.
-3 cm
-1,5 cm
-3.2
-MARC A
-S
-- MANUAL DE MARCA GOL
-MARCA 
-GOL
-POSITIVA
-MARCAS
-MONOCROMÁTICA
-29
-3 cm
-1,5 cm
-TAMANHO MÍNIMO
-O
- tamanho mínimo para a 
-aplicação da marca é de 3 cm 
+##### Logo Usage
 
-de largura. 
-C
-aso seja necessária 
+- A marca colorida GOL em conjunto com a assinatura "Linhas aéreas inteligentes" é a versão de uso preferencial da marca.
+- Isso significa que ela deve ser usada sempre que possível e quando não houver alguma restrição em termos de número de cores, técnica de impressão ou suporte.
+- Ela pode ser aplicada em positivo ou negativo, dependendo do impacto desejado.
+- Das marcas GOL principais, a versão em positivo no fundo branco deve ser a mais usada.
+- O tamanho mínimo para a aplicação da marca é de 3 cm de largura. Caso seja necessária uma aplicação menor, o uso da marca sem assinatura (com o tamanho mínimo de 1,5 cm de largura) é obrigatório.
 
-uma aplicação menor, o uso da 
+##### Tone And Messaging
 
-marca sem assinatura (com o 
+- a gol une e aproxima as pessoas a seus destinos. sejam eles seus sonhos ou as suas realidades.
+- a nova marca gol adquire um contorno mais robusto e geométrico para se tornar mais moderna, Forte e contemporÂnea, em compasso com a história e trajetória da empresa. as mudanças de desenho da marca têm também como objetivo fortalecer e valorizar visualmente aspectos relativos a segurança e precisão, fundamentais para a empresa e para a indústria de aviação comercial.
+- os elos são símbolos universais que representam a aliança e a união, e passam a representar uma empresa que conecta, une e aproXima pessoas. eles são a tradução mais pura da ligação de uma origem e um destino, a aproximação de pessoas, a parceria de companhias aéreas e a união de um time.
+- com a chegada do símbolo, a marca da empresa passa a ter um significado, um conceito, uma nova expressão e um novo sentido.
+- A GOL agora passa a se manifestar de forma mais completa, gráfica e nobre.
+- Nesse início de implantação da marca, os elos serão utilizados de forma restrita até que a nova marca GOL se torne fami­liar e consolidada pelo público.
+- Todo layout precisará passar por uma aprovação prévia.
+- Recomendamos a utilização dos elos como elemento grá­fico. Sendo um grafismo, eles devem sempre estar "cropados" na proporção de 80% de suas dimensões totais, propor­cionando um atrativo visual marcante. Sua construção deve seguir o diagrama ao lado.
+- Não é permitido o uso de ou­tros elementos -como textos, por exemplo -em cima do grafismo, pois podem descarac­terizar e/ou dificultar a leitura dos elos enquanto elemento gráfico.
+- A área do crop pode ser maior que a comunicação; porém é preciso tomar cuidado, pois é necessário manter a percepção de interação entre os elos sem perder a legibilidade e identi­dade da marca GOL.
+- O crop nunca deve ser utiliza­do maior ou menor que os 80% do tamanho dos elos.
+- Ao ajustar a posição dos Elos dentro do crop, não é permi­tido que Elos fiquem sangra­dos para dentro da área de comunicação formando uma interrupção do grafismo ou de forma que prejudique a leitura dos elos enquanto elemento gráfico, como nos exemplos ao lado.
+- Nunca distorça nem rotacione de nenhuma forma os elos.
+- Nunca utilize nenhum tipo de contorno nos elos.
+- Nunca altere qualquer tipo de proporção nas formas dos elos.
+- Não é recomendado usar os elos separados ou parte integrante de numerais e palavras. O uso indevido dos elos banaliza a marca. Eles devem ser protegidos e preservados de interferências.
+- Nunca troque a ordem ou utilize outras cores no elos. Eles só podem aparecer na versão colorida com o elo esquerdo laranja e o direito cinza.
+- Os elos não devem ser usados com apenas uma cor.
+- Nunca utilize os elos de forma invertida.
+- Nunca utilize transparências ou qualquer tipo de efeito de estilo, como por exemplo, sombreado.
 
-tamanho mínimo de 1,5 cm de 
+##### Brand Values
 
-largura) é obrigatório.
-MARCA 
-MONOCROMÁTICA
-Quando não for possível
- 
-o uso da versão colorida da 
-marca 
-GOL
-, é recomendado o 
+- Os elos são símbolos univer­sais que representam a aliança e a união. Estão inseridos na própria marca para passar os valores da empresa: a ligação de uma origem e um destino, a aproximação de pessoas, a parceria de companhias aé­reas, e a união de um time.
+- Eles são um elemento importante no processo de co­municação. A GOL agora passa a se manifestar de forma mais completa, gráfica e nobre.
+- Recomendamos a utilização dos elos como elemento grá­fico. Sendo um grafismo, eles devem sempre estar "cropados" na proporção de 80% de suas dimensões totais, propor­cionando um atrativo visual marcante. Sua construção deve seguir o diagrama ao lado.
+- Não é permitido o uso de ou­tros elementos -como textos, por exemplo -em cima do grafismo, pois podem descarac­terizar e/ou dificultar a leitura dos elos enquanto elemento gráfico.
+- A área do crop pode ser maior que a comunicação; porém é preciso tomar cuidado, pois é necessário manter a percepção de interação entre os elos sem perder a legibilidade e identi­dade da marca GOL.
+- O crop nunca deve ser utiliza­do maior ou menor que os 80% do tamanho dos elos.
+- Ao ajustar a posição dos Elos dentro do crop, não é permi­tido que Elos fiquem sangra­dos para dentro da área de comunicação formando uma interrupção do grafismo ou de forma que prejudique a leitura dos elos enquanto elemento gráfico, como nos exemplos ao lado.
+- Nunca distorça nem rotacione de nenhuma forma os elos.
+- Nunca utilize nenhum tipo de contorno nos elos.
+- Nunca altere qualquer tipo de proporção nas formas dos elos.
+- Não é recomendado usar os elos separados ou parte integrante de numerais e palavras. O uso indevido dos elos banaliza a marca. Eles devem ser protegidos e preservados de interferências.
+- Nunca troque a ordem ou utilize outras cores no elos. Eles só podem aparecer na versão colorida com o elo esquerdo laranja e o direito cinza.
+- Os elos não devem ser usados com apenas uma cor.
+- Nunca utilize os elos de forma invertida.
+- Nunca utilize transparências ou qualquer tipo de efeito de estilo, como por exemplo, sombreado.
 
-uso da versão monocromática.
- 
- 
+##### Visual Style
 
-E
-sta versão é ideal para a 
+- A marca colorida GOL em conjunto com a assinatura "Linhas aéreas inteligentes" é a versão de uso preferencial da marca.
+- Isso significa que ela deve ser usada sempre que possível e quando não houver alguma restrição em termos de número de cores, técnica de impressão ou suporte.
+- Ela pode ser aplicada em positivo ou negativo, dependendo do impacto desejado.
+- Das marcas GOL principais, a versão em positivo no fundo branco deve ser a mais usada.
+- O tamanho mínimo para a aplicação da marca é de 3 cm de largura. Caso seja necessária uma aplicação menor, o uso da marca sem assinatura (com o tamanho mínimo de 1,5 cm de largura) é obrigatório.
 
-aplicação em materiais gráficos 
+##### Iconography
 
-monocromáticos, como por 
+- Recomendamos a utilização dos elos como elemento grá­fico. Sendo um grafismo, eles devem sempre estar "cropados" na proporção de 80% de suas dimensões totais, propor­cionando um atrativo visual marcante. Sua construção deve seguir o diagrama ao lado.
+- Não é permitido o uso de ou­tros elementos -como textos, por exemplo -em cima do grafismo, pois podem descarac­terizar e/ou dificultar a leitura dos elos enquanto elemento gráfico.
+- A área do crop pode ser maior que a comunicação; porém é preciso tomar cuidado, pois é necessário manter a percepção de interação entre os elos sem perder a legibilidade e identi­dade da marca GOL.
+- O crop nunca deve ser utiliza­do maior ou menor que os 80% do tamanho dos elos.
+- Ao ajustar a posição dos Elos dentro do crop, não é permi­tido que Elos fiquem sangra­dos para dentro da área de comunicação formando uma interrupção do grafismo ou de forma que prejudique a leitura dos elos enquanto elemento gráfico, como nos exemplos ao lado.
+- Nunca distorça nem rotacione de nenhuma forma os elos.
+- Nunca utilize nenhum tipo de contorno nos elos.
+- Nunca altere qualquer tipo de proporção nas formas dos elos.
+- Não é recomendado usar os elos separados ou parte integrante de numerais e palavras. O uso indevido dos elos banaliza a marca. Eles devem ser protegidos e preservados de interferências.
+- Nunca troque a ordem ou utilize outras cores no elos. Eles só podem aparecer na versão colorida com o elo esquerdo laranja e o direito cinza.
+- Os elos não devem ser usados com apenas uma cor.
+- Nunca utilize os elos de forma invertida.
+- Nunca utilize transparências ou qualquer tipo de efeito de estilo, como por exemplo, sombreado.
 
-exemplo em impressos e peças 
+##### Layout And Composition
 
-em apenas uma cor.
- 
- 
-
-E
-la pode ser aplicada em 
-
-positivo ou em negativo, 
-
-depending do impacto 
-
-desejado.
-IMPORTANTE
-A
-presentamos aqui a marca 
-
-monocromática na versão preto 
-
-e branco, mas, dependendo da 
-
-possibilidade de cores da peça 
-
-a ser impressa, é possível a 
-
-utilização da marca nas cores 
-
-institucionais laranja e cinza.
-3.2
-MARC A
-S
-- MANUAL DE MARCA GOL
-MARCA 
-GOL
-POSITIVA
-MARCAS
-GRAVAÇÃO
-31
-MARCA GRAVAÇÃO
-A
- marca gravação 
-GOL
- é uma 
-versão de uso restrito. 
-E
-la 
-
-deverá ser aplicada apenas em 
-
-situações especiais em que o 
-
-uso das outras versões não
- 
-for possível.
- 
- 
-
-E
-sta é a versão ideal para 
-
-quando for necessária a 
-
-gravação da marca em metal 
-
-ou em madeira, por exemplo.
-E
-la pode ser aplicada em 
-positivo ou em negativo, 
-
-depending do impacto 
-
-desejado.
-IMPORTANTE
-A
- leitura da assinatura não 
-
-pode ser comprometida
-...
-
-**Color Information:**
-
-- 46
-A
- 
-GOL
- tem duas cores 
-institucionais: o 
-L
-aranja 
-GOL
- 
-e o 
-C
-inza 
-ELO
-.
-È muito importante que estas 
-cores sejam sempre aplicadas respetando fielmente as 
-referências cromáticas apresentadas nas tabelas ao lado.
-
- Qualquer variação no uso das cores pode acarretar uma inconsisência na percepção da entidade.
+- O tamanho mínimo para a aplicação da marca é de 3 cm de largura. Caso seja necessária uma aplicação menor, o uso da marca sem assinatura (com o tamanho mínimo de 1,5 cm de largura) é obrigatório.
+- Das marcas GOL principais, a versão em positivo no fundo branco deve ser a mais usada.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Surfrider Foundation
 slug: "surfrider-foundation"
 description: ""
-date: "2026-03-20T08:22:03.070966"
+date: "2026-04-10T09:40:30.570509"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - environment
-  - ngo
   - featured
+  - ngo
 industries: []
 countries:
   - "united-states"
@@ -54,27 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - red
-  - "pantone-5275"
-  - "pantone-629"
-  - "pantone-426"
-  - blue
-  - gray
-  - "pantone-552"
-  - "pantone-7418"
-  - black
-  - "pantone-7464"
-typographies:
-  - roboto
-imagery_styles:
-  - bold
-  - graphic
-  - candid
-  - natural
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: foundation
 wikidata_url: "https://www.wikidata.org/wiki/Q1128567"
 has_twitter: false
@@ -94,32 +77,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- The Surfrider logo is a recognizable symbol of our brand. Identity guidelines ensure consistency across all applications.
-- Clear Space rules state all logo variations must maintain specified distances from other graphic elements.
-- Improper Logo Usage includes manipulation, alteration, recoloring, distortion, and unauthorized combinations.
-
-**Color Information:**
-
-- Primary colors include Pantone 426 C (#26272A) Soft Black; Pantone 629 C (#88C8D2) Aqua; Pantone 552 C (#B4CDDE) Sky Blue; and Pantone 5275 C (#54576F) Dusk.
-- Additional colors include Pantone 7464 C (#9ACDC1) Sea Foam, Pantone 7418 C (#D15C5C) Red, and Light Gray (#E9EEF1).
-
-**Typography Information:**
-
-- Roboto is suited for body copy, callouts, and titles in various weights. Bebas Neue Bold should be used sparingly.
-
-**Imagery Photography:**
-
-- Imagery guidelines emphasize ocean-centric colors, candid photos, natural lighting, and aspirational yet authentic scenes.
-
-**Spacing Layout:**
-
-- Logo size and spacing guidelines include minimum widths for screen (60px) and print (.5in).
-
-**Brand Voice:**
-
-- Surfrider adopts a tone that is credible, aspirational, authentic, and optimistic.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Sigfox
 slug: sigfox
 description: ""
-date: "2026-03-20T08:22:05.574246"
+date: "2026-04-10T09:40:34.496670"
 draft: false
 sectors:
-  - networking
   - telecom
+  - networking
 regions:
   - france
 years:
@@ -74,78 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logo-specific content on page 1: ['logos rules']
-- Logo-specific content on page 2: ['size', 'logos rules']
-- Logo-specific content on page 8: ['size']
-- Logo-specific content on page 19: ['size']
-- Logo-specific content on page 24: ['size']
-- Logo-specific content on page 26: ['size', 'size']
-- Logo-specific content on page 27: ['size']
-- Logo-specific content on page 43: ['usage', 'size']
-- Logo-specific content on page 44: ['usage', 'size']
-- Logo-specific content on page 50: ['size']
-- Logo-specific content on page 52: ['usage', 'size']
-
-**Brand Voice:**
-
-- Brand voice descriptors or tagline mentions on page 31
-
-**Notes:**
-
-- General notes on guidelines visible on page 1
-- General notes on guidelines visible on page 2
-- General notes on guidelines visible on page 3
-- General notes on guidelines visible on page 4
-- General notes on guidelines visible on page 5
-- General notes on guidelines visible on page 6
-- General notes on guidelines visible on page 7
-- General notes on guidelines visible on page 8
-- General notes on guidelines visible on page 9
-- General notes on guidelines visible on page 10
-- General notes on guidelines visible on page 11
-- General notes on guidelines visible on page 12
-- General notes on guidelines visible on page 13
-- General notes on guidelines visible on page 14
-- General notes on guidelines visible on page 15
-- General notes on guidelines visible on page 16
-- General notes on guidelines visible on page 17
-- General notes on guidelines visible on page 18
-- General notes on guidelines visible on page 19
-- General notes on guidelines visible on page 20
-- General notes on guidelines visible on page 21
-- General notes on guidelines visible on page 22
-- General notes on guidelines visible on page 23
-- General notes on guidelines visible on page 24
-- General notes on guidelines visible on page 25
-- General notes on guidelines visible on page 26
-- General notes on guidelines visible on page 27
-- General notes on guidelines visible on page 28
-- General notes on guidelines visible on page 29
-- General notes on guidelines visible on page 30
-- General notes on guidelines visible on page 31
-- General notes on guidelines visible on page 32
-- General notes on guidelines visible on page 33
-- General notes on guidelines visible on page 34
-- General notes on guidelines visible on page 35
-- General notes on guidelines visible on page 36
-- General notes on guidelines visible on page 37
-- General notes on guidelines visible on page 38
-- General notes on guidelines visible on page 39
-- General notes on guidelines visible on page 40
-- General notes on guidelines visible on page 41
-- General notes on guidelines visible on page 42
-- General notes on guidelines visible on page 43
-- General notes on guidelines visible on page 44
-- General notes on guidelines visible on page 45
-- General notes on guidelines visible on page 46
-- General notes on guidelines visible on page 47
-- General notes on guidelines visible on page 48
-- General notes on guidelines visible on page 49
-- General notes on guidelines visible on page 50
-- General notes on guidelines visible on page 51
-- General notes on guidelines visible on page 52
+*Guidelines data not available*
 
 ## Additional Properties
 

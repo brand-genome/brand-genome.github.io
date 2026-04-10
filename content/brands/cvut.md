@@ -2,7 +2,7 @@
 title: ČVUT
 slug: cvut
 description: ""
-date: "2026-03-20T08:22:04.227523"
+date: "2026-04-10T09:40:32.674740"
 draft: false
 sectors:
   - university
@@ -47,15 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,22 +71,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Overview and principles of VUT logo design and usage, including modular adaptations.
-- Various logo versions including vertical, horizontal, and modular adaptations.
-
-**Color Information:**
-
-- Details about VUT's primary color palette.
-- Secondary colors and CMYK formulations for specific applications.
-
-**Typography Information:**
-
-- The Technika typeface developed exclusively for VUT, showcasing Light, Book, Regular, and Bold weights.
-- Guidelines regarding font sizes and spacing in administrative templates and letterheads.
-
-**Spacing Layout:**
-
-- Graphical layout rules including modular logo composition using square cells.
-- Protective spacing around logos to ensure visual clarity.
+*Guidelines data not available*

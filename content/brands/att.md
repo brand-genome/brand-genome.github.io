@@ -2,16 +2,16 @@
 title: "AT&T"
 slug: att
 description: ""
-date: "2026-03-20T08:22:05.184856"
+date: "2026-04-10T09:40:34.052113"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2001
   - 2005
   - 1999
+  - 2001
 languages:
   - english
 tags:
@@ -19,8 +19,8 @@ tags:
   - vintage
 industries:
   - telecommunications
-  - "postal-and-telecommunications-services"
   - "mass-media"
+  - "postal-and-telecommunications-services"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,26 +38,26 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - broadband
   - "landline-telephone"
+  - broadband
   - "satellite-television"
+  - "mobile-phone"
   - software
   - "digital-television"
   - "broadband-internet-access"
-  - "mobile-phone"
 products: []
 headquarters_locations:
-  - "san-antonio"
   - dallas
+  - "san-antonio"
 subsidiaries: []
 foundation_dates:
-  - 1983
   - 2005
   - 1885
+  - 1983
 foundation_year_buckets:
   - "19TH-CENTURY"
-  - 1980S
   - 2000S
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,13 +76,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - photography
+imagery_styles: []
 wikidata_description: American multinational conglomerate
 wikidata_url: "https://www.wikidata.org/wiki/Q35476"
 has_twitter: false
@@ -104,78 +100,859 @@ visual_term_image_urls: {}
 
 ### 1999
 
-**Logo Information:**
+#### Brand Summary
 
-- Information about logo versions presented as camera-ready logo art for AT&T branded products.
-- Information about logo versions presented as camera-ready logo art for AT&T branded products.
-- Information about logo versions presented as camera-ready logo art for AT&T branded products.
-- Information about logo versions presented as camera-ready logo art for AT&T branded products.
-- Minimum size for reproducing logos, including guidelines like '1/2 inch or less'.
+##### Mission
 
-**Color Information:**
+- To build a consistent, recognizable, and cohesive brand image that energizes and invigorates the AT&T brand, ensuring its relevance in changing markets and supporting its position as one of the company's most precious assets [^1].
 
-- Pantone color codes and specifications for logo and branding identified: 7
-CAMERA-READY LOGO ART
-The following Lucent Technologies Consumer Products Camera-Ready Logo will help you differentiate
-AT&T branded telephone answering systems from competitive systems.Use the logo (color only) on
+##### Core Values
 
-advertising and visual materials for the following AT&T branded answering systems:1715 and 1725.
-And remember,all advertising must feature the AT&T logo for AT&T branded products.
-For your convenience,all logos are available on CD-ROM.
-IMPORTANT:This logo must be printed in color only.Please do not print in black and
-white.The following color break includes printerÕs instructions.
-COLOR BREAK FOR LOGO:
-PMS 266
-(94c, 94m)
-100% White
-PMS 130
-(27.5m,100y)
-100% Black
-100% Black
+- consistency
+- clarity
+- cohesion
+- relevance
+- brand integrity
 
-100% White
-PMS 2655
-(56c, 51m)
-Black
-WhitePMS130
-PMS 266
-PMS 2655
+##### Target Audience
 
+- All audiences interacting with AT&T, including customers, business partners, and internal stakeholders, across a wide range of media and applications [^2].
 
-**Typography Information:**
+##### Personality Traits
 
-- Font guidelines related to branding (details not visible yet).
+- energetic
+- enthusiastic
+- clear
+- harmonious
+- professional
 
-**Imagery Photography:**
+##### Visual Identity Overview
 
-- Photography standards such as ensuring AT&T product markings are visible in all imagery.
-- Photography standards such as ensuring AT&T product markings are visible in all imagery.
-- Photography standards such as ensuring AT&T product markings are visible in all imagery.
-- Photography standards such as ensuring AT&T product markings are visible in all imagery.
+- The visual identity centers on the AT&T Corporate Signature, which combines a stylized globe symbol and custom logotype. The brand uses a carefully defined color palette, Gill Sans typography, and strict logo usage guidelines to ensure consistency and clarity across all media. Visual style emphasizes prominent placement, clear areas, and avoidance of clutter or improper logo manipulation [^3].
 
-**Brand Voice:**
+#### Categories
 
-- Guidance or messaging tone. Details pending after further processing.
-- Guidance or messaging tone. Details pending after further processing.
+##### Brand Imagery
 
-**Notes:**
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Please note: This customization provides optimum legibility in all sizes and orientations. Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- Below is an overview of the AT&T signature system. It organizes the signatures based on color, horizontal or vertical configuration, positive or reverse, gradient globe (with or without a shadow) or solid globe. There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications. For more information, please contact AT&T Brand Center Customer Care.
+- There are two primary types of communications: corporate communications and business-specific communications.
+- The AT&T Corporate Signature should be used when a communication: represents the brand at large; represents the company or corporate voice of AT&T corporation; represents two or more AT&T-branded businesses, products, services or offers.
+- The AT&T Branded Business Signatures should be used when a communication: represents the products, services or offers that are specific to or delivered by a single AT&T-branded business.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- Please note: These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
 
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
-- Miscellaneous notes such as usage permissions or legal information.
+##### Color Palette
+
+- A palette of primary colors has been developed, which comprise the “One Voice” color scheme. Consistent use of these colors will contribute to the cohesive and harmonious look of the AT&T brand identity across all relevant media.
+- Color fields are used to highlight headlines, frame the visuals and increase the stopping power of a communications piece. When choosing colors, select those that complement the key visuals for greatest impact.
+- For added emphasis, colors from the palette can also be applied to type in solid or tint.
+- Tinted color fields can be used to highlight areas of a piece that contain special information.
+- Colors for use in multicultural marketing communications have been selected to complement the existing palette.You may use these colors in communications that target specific regions or for audiences that see these colors as especially vibrant and positive. Address any questions regarding use or development of specialty colors to AT&T Brand Center Customer Care at 877 813– 4218 or email at brandcenter @att.com.
+- Blue Green C100 M5 Y500 K0 PANTONE 327
+- Lavender C28 M50 Y0 K0 PANTONE 2572
+- Orange C0 M50 Y100 K0 PANTONE 138
+- Process Blue C100 M10 Y0 K0 PANTONE Process Blue
+- Warm Gray C50 M30 Y40 K0 PANTONE 44
+- Magenta Red C0 M100 Y10 K0 PANTONE 226
+- Green C60 M0 Y100 K0 PANTONE 368
+- Deep Blue C100 M50 Y0 K0 PANTONE 300
+- Green C90 M0 Y100 K0 PANTONE 347
+- Purple C90 M80 Y0 K0 PANTONE 273
+- Color palette The set of approved colors to be used throughout communications. This applies to color fields and type, not to photographic imagery.
+- Corporate color PANTONE® Process Blue and black on light backgrounds (or 100% cyan, on black backgrounds) is the primary AT&T corporate color.
+
+##### Typography
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans characteristics Designed by Eric Gill in the late 1920’s, Gill Sans is classified as a humanist sans serif typeface known for its legibility at all sizes in body copy and display work. Some unique characteristics of the Gill Sans typeface are its signature flared capital ‘R’ and eyeglass lowercase ‘g’.
+- Because the specific name of Gill Sans may vary depending on each manufacturer’s typesetting system or software program, look for these details when selecting the correct typeface.
+- Never distort, condense, stretch or alter the corporate typeface in any way.
+- Gill Sans AaBbCcDdEeFfGg HhIiJjKkLlMmNnOoPp QqRrSsTtUuVv WwXxYyZz &1234567890 light regular bold
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+
+##### Logo Usage
+
+- Effective immediately, discontinue use of the “old” 12-line globe AT&T Corporate Signature. Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T signature may only be used for products, services and offers in accordance with the terms of the license agreement with AT&T corporation.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications. For more information, please contact AT&T Brand Center Customer Care.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible. (Refer to page 6 for additional information.)
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting. (Refer to page 6 for additional information.)
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- Gradient signatures To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- Solid signatures The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- Reproducing the AT&T signature in sign applications often requires more flexibility. For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- This example illustrates the proper clear area and placement for a horizontal signature in a printed application. Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- Signs are vital to AT&T. Posters, banners, building facades, directories and monuments provide wayfinding and identification. Often, however, signs pose a challenge for placing a signature because of limited space, fabrication and cost. For a clear, legible sign application, follow the placement guidelines below.
+- 48" x 36" trade show banner Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Certain signs may require text or images in addition to the AT&T signature. Follow the guidelines for correct colors, typography and image style for additional graphic elements. Always provide the minimum clear area (.5X) for the signature in sign applications.
+- The AT&T signature is one of AT&T’s most valuable corporate assets and the equity in the AT&T identity must not be depreciated in any way. Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the AT&T signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Tone And Messaging
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans AT&T’s corporate typeface for headlines, subheads and captions on all television broadcast and printed communications materials. The typeface projects the distinctive tone, manner and attributes appropriate to AT&T’s personality.
+
+##### Visual Style
+
+- Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way.
+- The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising.
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs.
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing.
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible.
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting.
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- three-color gradient, positive with shadow: white background only
+- two-color gradient, positive: white background only
+- three-color gradient, positive without shadow: white background only
+- two-color gradient, reverse: black background only
+- three-color gradient, reverse: black background only
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- two-color solid, positive: white background
+- two-color solid, reverse: black background
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- one-color solid, positive: 100% white background
+- one-color solid, reverse: 100% black background
+- one-color solid, positive: 100% white to 30% black background
+- one-color solid, reverse: 30 % black to 100% black background
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- Gradient signatures To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- Solid signatures The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- Reproducing the AT&T signature in sign applications often requires more flexibility. For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- For a clear, legible sign application, follow the placement guidelines below.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Certain signs may require text or images in addition to the AT&T signature. Follow the guidelines for correct colors, typography and image style for additional graphic elements. Always provide the minimum clear area (.5X) for the signature in sign applications.
+- Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the AT&T signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not alter the proportions between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Layout And Composition
+
+- These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way.
+- The horizontal version is the preferred version for all applications when applicable.
+- Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Always provide the minimum clear area (.5X) for the signature in sign applications.
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not place the (9 signature on a AT&T logotype with textured or screened background. The texture makes the AT&T signature unclear.
+- Do not stretch, condense or distort the identification signature in any way.
 
 ### 2005
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To build a consistent, recognizable, and cohesive brand image that energizes and invigorates the AT&T brand, ensuring its relevance in changing markets and supporting its position as one of the company's most precious assets [^1].
+
+##### Core Values
+
+- consistency
+- clarity
+- cohesion
+- relevance
+- brand integrity
+
+##### Target Audience
+
+- All audiences interacting with AT&T, including customers, business partners, and internal stakeholders, across a wide range of media and applications [^2].
+
+##### Personality Traits
+
+- energetic
+- enthusiastic
+- clear
+- harmonious
+- professional
+
+##### Visual Identity Overview
+
+- The visual identity centers on the AT&T Corporate Signature, which combines a stylized globe symbol and custom logotype. The brand uses a carefully defined color palette, Gill Sans typography, and strict logo usage guidelines to ensure consistency and clarity across all media. Visual style emphasizes prominent placement, clear areas, and avoidance of clutter or improper logo manipulation [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Please note: This customization provides optimum legibility in all sizes and orientations. Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- Below is an overview of the AT&T signature system. It organizes the signatures based on color, horizontal or vertical configuration, positive or reverse, gradient globe (with or without a shadow) or solid globe. There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications. For more information, please contact AT&T Brand Center Customer Care.
+- There are two primary types of communications: corporate communications and business-specific communications.
+- The AT&T Corporate Signature should be used when a communication: represents the brand at large; represents the company or corporate voice of AT&T corporation; represents two or more AT&T-branded businesses, products, services or offers.
+- The AT&T Branded Business Signatures should be used when a communication: represents the products, services or offers that are specific to or delivered by a single AT&T-branded business.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- Please note: These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+
+##### Color Palette
+
+- A palette of primary colors has been developed, which comprise the “One Voice” color scheme. Consistent use of these colors will contribute to the cohesive and harmonious look of the AT&T brand identity across all relevant media.
+- Color fields are used to highlight headlines, frame the visuals and increase the stopping power of a communications piece. When choosing colors, select those that complement the key visuals for greatest impact.
+- For added emphasis, colors from the palette can also be applied to type in solid or tint.
+- Tinted color fields can be used to highlight areas of a piece that contain special information.
+- Colors for use in multicultural marketing communications have been selected to complement the existing palette.You may use these colors in communications that target specific regions or for audiences that see these colors as especially vibrant and positive. Address any questions regarding use or development of specialty colors to AT&T Brand Center Customer Care at 877 813– 4218 or email at brandcenter @att.com.
+- Blue Green C100 M5 Y500 K0 PANTONE 327
+- Lavender C28 M50 Y0 K0 PANTONE 2572
+- Orange C0 M50 Y100 K0 PANTONE 138
+- Process Blue C100 M10 Y0 K0 PANTONE Process Blue
+- Warm Gray C50 M30 Y40 K0 PANTONE 44
+- Magenta Red C0 M100 Y10 K0 PANTONE 226
+- Green C60 M0 Y100 K0 PANTONE 368
+- Deep Blue C100 M50 Y0 K0 PANTONE 300
+- Green C90 M0 Y100 K0 PANTONE 347
+- Purple C90 M80 Y0 K0 PANTONE 273
+- Color palette The set of approved colors to be used throughout communications. This applies to color fields and type, not to photographic imagery.
+- Corporate color PANTONE® Process Blue and black on light backgrounds (or 100% cyan, on black backgrounds) is the primary AT&T corporate color.
+
+##### Typography
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans characteristics Designed by Eric Gill in the late 1920’s, Gill Sans is classified as a humanist sans serif typeface known for its legibility at all sizes in body copy and display work. Some unique characteristics of the Gill Sans typeface are its signature flared capital ‘R’ and eyeglass lowercase ‘g’.
+- Because the specific name of Gill Sans may vary depending on each manufacturer’s typesetting system or software program, look for these details when selecting the correct typeface.
+- Never distort, condense, stretch or alter the corporate typeface in any way.
+- Gill Sans AaBbCcDdEeFfGg HhIiJjKkLlMmNnOoPp QqRrSsTtUuVv WwXxYyZz &1234567890 light regular bold
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+
+##### Logo Usage
+
+- Effective immediately, discontinue use of the “old” 12-line globe AT&T Corporate Signature. Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T signature may only be used for products, services and offers in accordance with the terms of the license agreement with AT&T corporation.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications. For more information, please contact AT&T Brand Center Customer Care.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible. (Refer to page 6 for additional information.)
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting. (Refer to page 6 for additional information.)
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- Gradient signatures To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- Solid signatures The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- Reproducing the AT&T signature in sign applications often requires more flexibility. For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- This example illustrates the proper clear area and placement for a horizontal signature in a printed application. Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- Signs are vital to AT&T. Posters, banners, building facades, directories and monuments provide wayfinding and identification. Often, however, signs pose a challenge for placing a signature because of limited space, fabrication and cost. For a clear, legible sign application, follow the placement guidelines below.
+- 48" x 36" trade show banner Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Certain signs may require text or images in addition to the AT&T signature. Follow the guidelines for correct colors, typography and image style for additional graphic elements. Always provide the minimum clear area (.5X) for the signature in sign applications.
+- The AT&T signature is one of AT&T’s most valuable corporate assets and the equity in the AT&T identity must not be depreciated in any way. Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the AT&T signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Tone And Messaging
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans AT&T’s corporate typeface for headlines, subheads and captions on all television broadcast and printed communications materials. The typeface projects the distinctive tone, manner and attributes appropriate to AT&T’s personality.
+
+##### Visual Style
+
+- Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way.
+- The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising.
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs.
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing.
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible.
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting.
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- three-color gradient, positive with shadow: white background only
+- two-color gradient, positive: white background only
+- three-color gradient, positive without shadow: white background only
+- two-color gradient, reverse: black background only
+- three-color gradient, reverse: black background only
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- two-color solid, positive: white background
+- two-color solid, reverse: black background
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- one-color solid, positive: 100% white background
+- one-color solid, reverse: 100% black background
+- one-color solid, positive: 100% white to 30% black background
+- one-color solid, reverse: 30 % black to 100% black background
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- Gradient signatures To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- Solid signatures The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- Reproducing the AT&T signature in sign applications often requires more flexibility. For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- For a clear, legible sign application, follow the placement guidelines below.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Certain signs may require text or images in addition to the AT&T signature. Follow the guidelines for correct colors, typography and image style for additional graphic elements. Always provide the minimum clear area (.5X) for the signature in sign applications.
+- Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the AT&T signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not alter the proportions between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Layout And Composition
+
+- These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way.
+- The horizontal version is the preferred version for all applications when applicable.
+- Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Always provide the minimum clear area (.5X) for the signature in sign applications.
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not place the (9 signature on a AT&T logotype with textured or screened background. The texture makes the AT&T signature unclear.
+- Do not stretch, condense or distort the identification signature in any way.
 
 ### 2001
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To maintain a consistent, recognizable, and relevant brand identity for AT&T across changing markets, energizing and invigorating the brand through a carefully designed corporate identity system [^1].
+
+##### Core Values
+
+- consistency
+- clarity
+- legibility
+- energy
+- enthusiasm
+- relevance
+- cohesion
+- brand equity
+
+##### Target Audience
+
+- Customers and stakeholders of AT&T, including consumers, businesses, broadband users, labs, solutions, and wireless clients, as well as multicultural and specialty markets [^2].
+
+##### Personality Traits
+
+- energetic
+- enthusiastic
+- clear
+- harmonious
+- cohesive
+- reliable
+
+##### Visual Identity Overview
+
+- The visual identity centers on the AT&T globe symbol and custom logotype, using Gill Sans typography and a defined color palette. The system includes strict guidelines for logo usage, color variations, clear areas, and placement to ensure consistency and maximum impact across all media. The brand favors clean, modern, and legible design elements, with flexibility for different applications but strict adherence to approved artwork and configurations [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans AT&T’s corporate typeface for headlines, subheads and captions on all television broadcast and printed communications materials. The typeface projects the distinctive tone, manner and attributes appropriate to AT&T’s personality.
+
+##### Brand Imagery
+
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+
+##### Color Palette
+
+- A palette of primary colors has been developed, which comprise the “One Voice” color scheme. Consistent use of these colors will contribute to the cohesive and harmonious look of the AT&T brand identity across all relevant media.
+- Color fields are used to highlight headlines, frame the visuals and increase the stopping power of a communications piece. When choosing colors, select those that complement the key visuals for greatest impact.
+- For added emphasis, colors from the palette can also be applied to type in solid or tint.
+- Tinted color fields can be used to highlight areas of a piece that contain special information.
+- Colors for use in multicultural marketing communications have been selected to complement the existing palette.You may use these colors in communications that target specific regions or for audiences that see these colors as especially vibrant and positive. Address any questions regarding use or development of specialty colors to AT&T Brand Center Customer Care at 877 813– 4218 or email at brandcenter @att.com.
+- Blue Green C100 M5 Y500 K0 PANTONE 327
+- Lavender C28 M50 Y0 K0 PANTONE 2572
+- Orange C0 M50 Y100 K0 PANTONE 138
+- Process Blue C100 M10 Y0 K0 PANTONE Process Blue
+- Warm Gray C50 M30 Y40 K0 PANTONE 44
+- Magenta Red C0 M100 Y10 K0 PANTONE 226
+- Green C60 M0 Y100 K0 PANTONE 368
+- Deep Blue C100 M50 Y0 K0 PANTONE 300
+- Green C90 M0 Y100 K0 PANTONE 347
+- Purple C90 M80 Y0 K0 PANTONE 273
+
+##### Typography
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans characteristics Designed by Eric Gill in the late 1920’s, Gill Sans is classified as a humanist sans serif typeface known for its legibility at all sizes in body copy and display work. Some unique characteristics of the Gill Sans typeface are its signature flared capital ‘R’ and eyeglass lowercase ‘g’.
+- Because the specific name of Gill Sans may vary depending on each manufacturer’s typesetting system or software program, look for these details when selecting the correct typeface.
+- Never distort, condense, stretch or alter the corporate typeface in any way.
+- Gill Sans AaBbCcDdEeFfGg HhIiJjKkLlMmNnOoPp QqRrSsTtUuVv WwXxYyZz &1234567890 light regular bold
+
+##### Logo Usage
+
+- Effective immediately, discontinue use of the “old” 12-line globe AT&T Corporate Signature. Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T signature may only be used for products, services and offers in accordance with the terms of the license agreement with AT&T corporation.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Please note: This customization provides optimum legibility in all sizes and orientations. Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications. For more information, please contact AT&T Brand Center Customer Care.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising. (Refer to page 6 for additional information.)
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs. (Refer to page 6 for additional information.)
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- Please note: These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when limited to two-color reproduction. Both gradient-color and solid-color signatures are available. The solid-color signatures have been created for use when production techniques may not capture the fine tonal qualities of the gradient signatures.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible. (Refer to page 6 for additional information.)
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting. (Refer to page 6 for additional information.)
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- Signs are vital to AT&T. Posters, banners, building facades, directories and monuments provide wayfinding and identification. Often, however, signs pose a challenge for placing a signature because of limited space, fabrication and cost. For a clear, legible sign application, follow the placement guidelines below.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Always provide the minimum clear area (.5X) for the signature in sign applications.
+- The AT&T signature is one of AT&T’s most valuable corporate assets and the equity in the AT&T identity must not be depreciated in any way. Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not alter the proportions between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Tone And Messaging
+
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Gill Sans AT&T’s corporate typeface for headlines, subheads and captions on all television broadcast and printed communications materials. The typeface projects the distinctive tone, manner and attributes appropriate to AT&T’s personality.
+
+##### Visual Style
+
+- The graphic elements of the AT&T corporate identity system— the AT&T Corporate Signature, the AT&T Branded Business Signatures, the signature colors and the Gill Sans typeface — are among the most valuable marketing and communications tools we have. When used properly, these elements support a carefully designed corporate identity system: they allow us to speak with one voice in the marketplace.
+- Always use approved artwork—available at www.att .com/brand when reproducing the AT&T Corporate Signature or AT&T Branded Business Signatures.
+- The AT&T Corporate Signature is composed of two elements: the AT&T globe symbol and the AT&T custom-drawn logotype. The globe symbol within the signatures has been redesigned to convey dimension and depth.
+- Do not attempt to recreate this artwork. These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- There are 18 approved versions for the AT&T Corporate Signature and 18 approved versions for each of the AT&T Branded Business Signatures.
+- The horizontal version is the preferred version for all applications when applicable.
+- The chart below provides recommended use of the various AT&T signatures (horizontal or vertical) on specific applications.
+- The three-color positive, gradient AT&T signature consists of cyan, magenta and black for the globe symbol and black for the AT&T logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The three-color positive, gradient AT&T signatures may include a shadow behind the globe for added depth and dimension. Both the horizontal and vertical signatures are preferred for high resolution print and television advertising.
+- The three-color positive, gradient AT&T signatures are recommended for direct marketing, corporate literature, product literature and signs.
+- The three-color AT&T Corporate Signature and AT&T Branded Business Signatures are the preferred versions. They should be used whenever possible for communication materials, including print advertising, television advertising, collateral materials, direct marketing and electronic media.
+- These signature elements and their relationship to each other have been carefully designed and should not be altered in any way. Always use approved artwork.
+- The three-color reverse, gradient signatures are recommended for advertising, direct marketing, corporate and product literature and electronic media when they appear on black backgrounds. There are no shadows for reverse signatures.
+- There are two versions of the two-color AT&T signature: gradient and solid.
+- The two-color positive, gradient AT&T signature consists of cyan and black for the gradient globe symbol and black for the logotype. In the reverse version, the globe symbol is made up of the same colors as the positive version but the logotype appears in white.
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing.
+- The two-color, reverse gradient AT&T signatures are recommended for direct marketing when they appear on black backgrounds.
+- The two-color positive, solid AT&T signature consists of PANTONE Process Blue for the solid globe symbol and black for the logotype. In the reverse version, the globe is cyan and the logotype appears in white.
+- The two-color positive, solid AT&T signatures are recommended for stationery, signs, silk-screening, embroidery and all other applications where a gradient signature is not reproducible.
+- The two-color reverse, solid AT&T signatures are recommended for signs, silk-screening, embroidery and all other applications on black backgrounds where a gradient signature is not reproducible.
+- The one-color positive, solid AT&T signature is black. In the reverse version, the globe symbol and logotype appear in white.
+- The one-color AT&T Corporate Signature and AT&T Branded Business Signatures should be used when reproducing in one color, black.
+- The one-color positive, solid AT&T signatures should only be used when printing in black. Use the one-color solid version for literature, forms, signs, embroidery, etching engraving or die-cutting.
+- The one-color reverse, solid AT&T signatures should be used when printing in one color, on a black background.
+- Correct use of color will enhance the impact of the AT&T Corporate Signature and AT&T Branded Business Signatures and will differentiate the AT&T brand from competition. The guidelines below provide standards for placing the signature on a background color.
+- The three-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the three-color signatures on colored, patterned or textured backgrounds.
+- The two-color positive, gradient signature should only be placed on white backgrounds.The reverse version should only be placed on black backgrounds. Do not place any of the two-color gradient signatures on colored, patterned or textured backgrounds.
+- three-color gradient, positive with shadow: white background only
+- two-color gradient, positive: white background only
+- three-color gradient, positive without shadow: white background only
+- two-color gradient, reverse: black background only
+- three-color gradient, reverse: black background only
+- The two-color positive, solid signature should only be placed on white backgrounds. The reverse version should only be placed on black backgrounds. Do not place any of the two-color solid signatures on colored, patterned or textured backgrounds (excluding promotional items).
+- two-color solid, positive: white background
+- two-color solid, reverse: black background
+- The one-color positive, solid signature should only be placed on 100% white to 30% black backgrounds. Always ensure significant contrast between the signature and the background. Do not place the signature on colored, patterned or textured backgrounds (excluding promotional items).
+- The reverse version should only be placed on 100% black to 30% black backgrounds (excluding promotional items).
+- one-color solid, positive: 100% white background
+- one-color solid, reverse: 100% black background
+- one-color solid, positive: 100% white to 30% black background
+- one-color solid, reverse: 30 % black to 100% black background
+- To ensure that the AT&T Corporate Signature and AT&T Branded Business Signatures are always legibly and accurately reproduced, minimum size guidelines have been determined. Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- Gradient signatures To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- Solid signatures The solid signatures can be accurately reproduced at smaller sizes than the gradient signatures. The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- Reproducing the AT&T signature in sign applications often requires more flexibility. For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Place the signature in a prominent position The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- Production techniques may vary, so be sure the vendor can reproduce the signature correctly and in the highest quality. If reproduction quality is an issue, do not use a gradient signature and consider using a solid globe signature.
+- Certain signs may require text or images in addition to the AT&T signature. Follow the guidelines for correct colors, typography and image style for additional graphic elements. Always provide the minimum clear area (.5X) for the signature in sign applications.
+- The AT&T signature is one of AT&T’s most valuable corporate assets and the equity in the AT&T identity must not be depreciated in any way. Adhering to these guidelines will ensure proper reproduction and application of the AT&T Corporate Signature and AT&T Branded Business Signatures.The examples below and on the following pages illustrate some of the most common application errors.
+- Both the positive and reverse, solid signatures have been carefully drawn for placement on their respective backgrounds. As a general rule, the highlight of the globe symbol should always appear white.
+- Never invert a positive signature
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not use the globe symbol as the letter “O” in a word or as a “zero.”
+- Do not use the AT&T logotype or globe symbol in body copy. Instead, typeset "AT&T" in the same typeface as used for the text. It may be balded or italicized for emphasis.
+- Do not alter the relationship between (S) the globe symbol and the AT&T logotype. Separating the elements of the signature compromises the integrity of the AT&T brand.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not transpose the colors of the AT&T signature. If the globe symbol is black, the AT&T logotype must also appear in black.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not use 100% PANTONE Process Blue for the solid globe symbol in the two-color reverse signature. Use 100% cyan.
+- Do not use a white circle behind a solid reverse signature.
+- Do not use a white circle behind a positive, solid globe symbol on a light colored background.
+- Do not use the three-color reverse, gradient signature on any background color other than black.
+- Do not transpose the colors of a solid two-color signature. If the globe symbol is white, the AT&T logotype must also appear in white.
+- Do not reproduce a reverse solid globe symbol in any color other than white or 100% cyan.
+- Do not place the signature on a textured or screened background. The texture makes the AT&T signature unclear.
+- Do not replace the AT&T logotype with another typeface. The logotype has been carefully drawn and letterspaced.
+- Do not alter the relationship between the globe symbol and the AT&T logotype.
+- Do not alter the proportions between the globe symbol and the AT&T logotype.
+- Do not add a highlight or other decorative device to the globe symbol.
+- Do not apply the signature to uneven backgrounds or reflective surfaces. The unevenness will obscure the clarity of the signature.
+- Do not place other secondary identification symbols or images within the AT&T signature clear area.
+- Do not stretch, condense or distort the signature in any way.
+- Typography plays an important role in communicating an overall tone and quality. Careful use of typography reinforces our personality and ensures clarity and harmony in all AT&T communications. We have selected Gill Sans, which helps inject energy and enthusiasm into the entire AT&T communications, as the primary corporate typeface.
+- Never distort, condense, stretch or alter the corporate typeface in any way.
+- A palette of primary colors has been developed, which comprise the “One Voice” color scheme. Consistent use of these colors will contribute to the cohesive and harmonious look of the AT&T brand identity across all relevant media.
+- Color fields are used to highlight headlines, frame the visuals and increase the stopping power of a communications piece. When choosing colors, select those that complement the key visuals for greatest impact.
+- For added emphasis, colors from the palette can also be applied to type in solid or tint.
+- Tinted color fields can be used to highlight areas of a piece that contain special information.
+- Colors for use in multicultural marketing communications have been selected to complement the existing palette.You may use these colors in communications that target specific regions or for audiences that see these colors as especially vibrant and positive.
+- Red
+- Blue Green C100 M5 Y500 K0 PANTONE 327
+- Lavender
+- C28 M50 Y0 K0 PANTONE 2572
+- Orange
+- C0 M50 Y100 K0 PANTONE 138
+- Process Blue
+- C100 M10 Y0 K0
+- PANTONE Process Blue
+- Warm Gray
+- C50 M30 Y40 K0 PANTONE 44
+- Magenta Red
+- C0 M100 Y10 K0 PANTONE 226
+- Green
+- C60 M0 Y100 K0
+- PANTONE 368
+- Deep Blue
+- C100 M50 Y0 K0
+- PANTONE 300
+- C90 M0 Y100 K0
+- PANTONE 347
+- Purple
+- C90 M80 Y0 K0 PANTONE 273
+
+##### Layout And Composition
+
+- These elements must always remain in the exact size and position that appear in the reproducible artwork. The horizontal version is the preferred application for all signatures.
+- Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way.
+- The horizontal version is the preferred version for all applications when applicable.
+- Never reproduce the signature at sizes less than those shown below. As illustrated below, the minimum size is determined by measuring the diameter of the globe.
+- To accurately capture the fine detail in the gradient globe, never reproduce AT&T gradient signatures less than 3/8" (9.5mm).
+- The smallest approved solid signature is 1/4" (6.4mm).
+- A clear area around the AT&T Corporate Signature and AT&T Branded Business Signatures will insure they have maximum visibility and impact on every communication. Avoid crowding the signatures with other graphic elements such as typography and imagery. As illustrated below, the diameter of the globe symbol (X) has been chosen as the standard unit of measurement for calculating the signature clear area.
+- Keep the clear area to each side of the AT&T signatures equal to or greater than the diameter of the globe symbol (X). Follow this standard for all media except signs, banners, etc., (see below).
+- For banners, building façades, directory signs, monument signs, etc., provide a clear area equal to or greater than half (.5X) the diameter of the globe symbol (X).
+- The AT&T signature should be placed in one of the four corners of any given application, at least one globe symbol diameter (X) away from the edges.
+- Although more is preferred, the body copy must be at least one globe symbol diameter (X) away from the signature.
+- These guidelines apply to all applications, excluding signs, posters, banners, etc. Please refer to page 15 for additional information.
+- Center and size the AT&T signature, either horizontal or vertical, so that the minimum clear area (.5X) surrounds each side of the signature.
+- Always provide the minimum clear area (.5X) for the signature in sign applications.
+- Do not use the signature as part of a sentence or tagline. Always stage the signature alone and away from other graphic elements. Provide the minimum signature clear area as indicated on page 15.
+- Do not crowd the signature with other graphic elements including typography, illustration and photography. Provide the minimum clear area to all sides of the signature for maximum visibility and impact.
+- Do not use two or more signatures for identification on the same page.
+- Do not place the AT&T signature on a background with insufficient contrast.
+- Do not place the (9 signature on a AT&T logotype with textured or screened another typeface. The -background. The logotype has been texture makes the carefully drawn and AT&T signature unclear. letterspaced.
+- Do not alter the (9 relationship between proportions between the globe symbol and -the globe symbol and AT&T the AT&T logotype.
+- Do not add a highlight (9 or other decorative signature to uneven device to the globe backgrounds or symbol. reflective surfaces. -The unevenness will -AT&T obscure the clarity of the signature.
+- Do not stretch, condense or distort the signature in any way.
+
+##### Brand Architecture
+
+- The AT&T Branded Business Signatures have been designed based on the AT&T Corporate Signature and include a descriptive name that identifies each AT&T-branded business. Each signature name has been carefully typeset and letter spaced in Gill Sans and should never be altered in any way. The AT&T Branded Business Signatures are available in the same color variations as the AT&T Corporate Signature.
+- The AT&T Branded Business Signatures were created to convey the wide range of products, services and offers delivered by the AT&T brand. The descriptive names include AT&T Broadband, AT&T Business, AT&T Consumer, AT&T Labs, AT&T Solutions and AT&T Wireless.These are the only approved names for use in communications within the portfolio of AT&T Branded Business Signatures.
+- The AT&T Branded Business Signatures should be used in marketing communications including advertising, direct marketing, collateral, e-business, stationery, signage and vehicles. For a comprehensive list of media applications, please refer to pages 6 and 7 of this manual.
+- There are two primary types of communications: corporate communications and business-specific communications.
+- The AT&T Corporate Signature should be used when a communication: represents the brand at large; represents the company or corporate voice of AT&T corporation; represents two or more AT&T-branded businesses, products, services or offers.
+- The AT&T Branded Business Signatures should be used when a communication: represents the products, services or offers that are specific to or delivered by a single AT&T-branded business.
+- Please note: An AT&T-branded business may use the AT&T Corporate Signature as an alternative. When the AT&T Corporate Signature is used in lieu of an AT&T Branded Business Signature, the full name of the AT&T-branded business should be used in the copy of the communication (e.g., AT&T Wireless).This helps to expand the value of the AT&T brand and clarify the overall message. Refer to the chart below for a comprehensive listing of proper signature applications within media.
+- AT&T Branded Business Signatures: The combination of the AT&T Corporate Signature and a descriptive name identifying each AT&T-branded business.
+- Sub-branding: The consistent method of naming and displaying specific AT&T-branded business products, services or offers.
+
+##### Packaging Design
+
+- The two-color positive, gradient AT&T signatures are recommended for packaging and direct marketing. (Refer to page 6 for additional information.)
 
 ## Additional Properties
 
@@ -185,9 +962,9 @@ PMS 2655
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Broadband](/products_or_materials_produced/broadband/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Software](/products_or_materials_produced/software/); [Digital Television](/products_or_materials_produced/digital-television/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Mobile Phone](/products_or_materials_produced/mobile-phone/) |
-| Headquarters Location | [San Antonio](/headquarters_locations/san-antonio/); [Dallas](/headquarters_locations/dallas/) |
-| Foundation Date | [1983](/foundation_dates/1983/); [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/) |
+| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Broadband](/products_or_materials_produced/broadband/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Software](/products_or_materials_produced/software/); [Digital Television](/products_or_materials_produced/digital-television/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
+| Headquarters Location | [Dallas](/headquarters_locations/dallas/); [San Antonio](/headquarters_locations/san-antonio/) |
+| Foundation Date | [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/); [1983](/foundation_dates/1983/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02), Tokyo Stock Exchange (until 1997-12-29) |
 | Topic'S Main Category | Category:AT&T |
 | Headquarters Location | San Antonio (until 2008), Dallas (from 2008) |

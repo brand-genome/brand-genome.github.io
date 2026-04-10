@@ -2,11 +2,11 @@
 title: Red Lion
 slug: "red-lion"
 description: ""
-date: "2026-03-20T08:22:04.347004"
+date: "2026-04-10T09:40:33.074907"
 draft: false
 sectors:
-  - networking
   - hardware
+  - networking
 regions:
   - germany
 years:
@@ -48,17 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - "pantone-186"
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: "pub in Chalton, East Hampshire, Hampshire, England, UK"
 wikidata_url: "https://www.wikidata.org/wiki/Q26473250"
 has_twitter: false
@@ -77,31 +70,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Red Lion logo requires a minimum clear space of half the height of the lowercase 'i'.
-- Minimum size for the Red Lion logo: 1 inch; for Authorized Dealer logo: 1.25 inches.
-- Prohibited logo treatments: no vertical/horizontal distortion, no color changes, no shadows, no overlays on patterns, no splitting into parts.
-
-**Color Information:**
-
-- Primary color – Red Lion Red (Pantone 186 C, CMYK: 0,100,79,20, RGB: 196,18,48, HEX: #C41230).
-- Primary color – Reflex Blue (Pantone Reflexblue, CMYK: 100,73,0,0, RGB: 0,87,168, HEX: #0057A8).
-- Colors used to distinguish product series: Red for Automation Solutions, Blue for Networking Solutions.
-
-**Spacing Layout:**
-
-- Clear space rule: Maintain a free area around logos equal to at least the height of the lowercase 'i'.
-
-**Brand Voice:**
-
-- Tone guidelines include being insightful, straightforward, stable, curious, and human.
-- Use of AP Style Guide is recommended for punctuation and grammar consistency.
-
-**Notes:**
-
-- Trademarks require superscript symbols (® or Ž) and must accompany descriptive nouns.
-- Slogan guidelines: 'Connect. Monitor. Control.' must be used consistently with capitalization and punctuation.
+*Guidelines data not available*
 
 ## Additional Properties
 

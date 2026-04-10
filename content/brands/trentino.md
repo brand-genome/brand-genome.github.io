@@ -2,7 +2,7 @@
 title: Trentino
 slug: trentino
 description: ""
-date: "2026-03-20T08:22:05.863684"
+date: "2026-04-10T09:40:34.892692"
 draft: false
 sectors:
   - "public-sector"
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: association football club in Italy
 wikidata_url: "https://www.wikidata.org/wiki/Q638882"
 has_twitter: false
@@ -74,24 +73,7 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- Categories of users are assigned licensing and usage rules for the logo; examples of rules include Trentino Marketing S.p.A. having maximum flexibility, while organizations and enterprises have specific restrictions like use in institutional or promotional communication.
-- Correct applications showcased: Monochrome logos in grayscale on institutional paper-based materials. Examples demonstrate proper communication practices of the brand.
-- Incorrect applications include violations of positioning, clear-space guidelines, logo size, and incorrect usage of color. Examples highlight errors like neglecting the required area of respect or using improper colors.
-
-**Color Information:**
-
-- Monochrome and grayscale color schemes are specified for institutional paper-based materials.
-- Errors in logo application include improper color selection and failure to follow established color guidelines.
-
-**Spacing Layout:**
-
-- Clear-space guidelines are emphasized; examples show errors like neglecting the area of respect around the logo.
-
-**Notes:**
-
-- The branding guidelines address multiple user types (marketing entities, public organizations, private enterprises, etc.) who must align their usage with specific licensing rules for promotional and institutional communication.
+*Guidelines data not available*
 
 ## Additional Properties
 

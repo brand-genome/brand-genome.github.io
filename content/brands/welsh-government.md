@@ -2,7 +2,7 @@
 title: Welsh Government
 slug: "welsh-government"
 description: ""
-date: "2026-03-20T08:22:04.472380"
+date: "2026-04-10T09:40:33.219837"
 draft: false
 sectors:
   - "public-sector"
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - horizontal
-brand_colors:
-  - "pantone-1797"
-  - white
-  - black
-typographies:
-  - arial
-  - display
-  - frutiger
-imagery_styles:
-  - portrait
-  - landscape
-  - photography
-  - flat
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: the executive of the Senedd
 wikidata_url: "https://www.wikidata.org/wiki/Q3112646"
 has_twitter: false
@@ -85,38 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The Welsh Government logo consists of a dragon and the Welsh Government name separated by a horizontal line. It is bilingual, centrally aligned, and must not be altered. The logo is available in JPG (desktop publishing), EPS (high quality printing), and PNG formats (web).
-- Written permission from the Welsh Government is required for external organizations to display the logo. It must have sufficient clear space equal to the height from the horizontal line to the bottom of the logo and must maintain equal prominence when placed alongside a partner logo.
-- Minimum logo sizes: A3 – 40mm wide, A4 – 30mm wide, A5 – 30mm wide, DL – 30mm wide. For smaller items than DL, the minimum size is 22mm.
-- Acknowledgement logos are a specific variation designed for explaining relationships between an organization/project and the Welsh Government. They are black or white, available in portrait or landscape format, and must not be altered. Minimum sizes: Portrait – 20mm wide, Landscape – 42mm wide.
-- For Welsh Government publications, the logo is positioned within a 'label' — an area of flat color located along the top edge of materials. On A4 materials, the label size is 40mm wide x 47mm high, and the logo within it must not be less than 22mm wide.
-- The Welsh Government logo contained within the label may only be black or white based on the label's color: light-colored label (black logo) or dark-colored label (white logo). Pantone 1797 is preferred for ministerial materials.
-- The landscape version of the Welsh Government logo was developed specifically for the corporate website. It should not be used for other materials unless exceptional permission is granted.
-
-**Color Information:**
-
-- Pantone 1797 is the preferred color for Welsh Government ministerial materials. Labels can use any single, flat color that is sympathetic to the overall color scheme or photography but must contain a black or white logo depending on the label color.
-
-**Typography Information:**
-
-- The corporate typeface used by the Welsh Government is Frutiger LT Std. If unavailable, Arial may be used.
-
-**Spacing Layout:**
-
-- The Welsh Government logo must have clear space around it equal to the height from the horizontal line to the bottom of the logo.
-- Label positioning: The Welsh Government logo within the label must be centered, and the label proportion relative to the logo must not be altered.
-
-**Brand Voice:**
-
-- Plaques and signs must communicate the project's story clearly and concisely. All messages should consist only of facts and be bilingual (Welsh text positioned to be read first).
-
-**Notes:**
-
-- For materials where the Welsh Government is a significant contributor, the logo must be used. Site signage and completed project plaques must acknowledge the Welsh Government, giving equal prominence to both Welsh and English languages.
-- Dates on plaques must follow specific formats: English – '01 January 2021'; Welsh – '01 Ionawr 2021'. Do not use ordinal indicators (e.g., 'st', 'nd', 'rd') in either language.
-- For externally funded projects, acknowledgment logos such as 'Funded by', 'Part-funded by', 'Initiative', 'Sponsored', 'Supported', and 'Working on behalf of' are available.
+*Guidelines data not available*
 
 ## Additional Properties
 

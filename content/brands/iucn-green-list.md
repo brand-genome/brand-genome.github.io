@@ -2,7 +2,7 @@
 title: IUCN Green List
 slug: "iucn-green-list"
 description: ""
-date: "2026-03-20T08:22:04.311754"
+date: "2026-04-10T09:40:33.001722"
 draft: false
 sectors:
   - ngo
@@ -47,24 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - green
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-  - inter
-  - georgia
-imagery_styles:
-  - bold
-  - natural
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -83,34 +69,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The IUCN Green List logo design is inspired by indigenous art from Arakwal National Park in Australia, incorporating concentric circles symbolizing inter-relationships between nature and society, management zones, water drops, ripple effects, and tree growth rings. Primary color palette includes coastal and terrestrial blues and greens.
-- Vertical variants of the primary logo include: reproduction on white background, single color line version in black, single color line version in white, reversed on dark background, reproduced on light background, reversed over photographs.
-- Horizontal variants include similar backgrounds and rules as vertical: reproduction on white, single color black, single color white, reversed on dark background, reproduced on light background, reversed over photographs. Gradients cannot be applied to logos.
-- Language variations of the Green List logo (French, Spanish, Chinese). Allowed in single color and reversed versions too.
-- Do not: change logo colors, alter dots/rings, delete IUCN logo, distort logo proportions (condensing or expanding). Incorrect usage principles also extend to language variants.
-- Applications include use on T-shirts, wooden signs, flags, vehicle decals, magazine advertisements. Adjustments like fading back opacity allowed as effects.
-
-**Color Information:**
-
-- A natural color palette is inspired by coastal and terrestrial blues and greens.
-- Colors specified for print (CMYK), screen use (RGB), and web (HEX). No Pantone reference provided.
-
-**Typography Information:**
-
-- Font family: Helvetica Neue (Helvetica 45 Light, 55 Roman, 56 Italic, 75 Bold). Alternatives for PC/web: Arial, Arial Narrow; Arial Black disallowed. Long-form content may use Georgia (Georgia Bold, Regular, Italic).
-
-**Imagery Photography:**
-
-- Full-color symbols can be cropped or used as secondary background graphics over light/dark backgrounds or photographs. Use cases include posters, conference backdrops.
-- Icons developed to represent thematic areas like governance, conservation outcomes, threats, transparency, social/economic context, etc.
-
-**Spacing Layout:**
-
-- Exclusion zone for logo is based on width/height of the letters 'Li' seen in Green List typography.
-- A spacing of 2 'Li' units is required between the Green List and partner logos. Partner logos aligned centrally, same height. Green List logo always positioned right.
-
-**Notes:**
-
-- The IUCN Green List logo is a graphic identifier for the IUCN Green List of Protected and Conserved Areas (the IUCN Green List Standard™), the global standard for protected areas in the 21st century. Guidelines include use cases, rules for partner logos, color palette, typography, icons, and exclusion zone rules.
+*Guidelines data not available*

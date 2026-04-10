@@ -2,11 +2,11 @@
 title: UNDP
 slug: undp
 description: ""
-date: "2026-03-20T08:22:05.867814"
+date: "2026-04-10T09:40:34.902974"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -51,13 +51,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
+logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-  - arial
-  - display
+typographies: []
 imagery_styles: []
 wikidata_description: department of the United Nations which is charged with managing peacekeeping operations
 wikidata_url: "https://www.wikidata.org/wiki/Q1589437"
@@ -79,31 +75,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- UNDP logo consists of the United Nations emblem alongside the letters UNDP or PNUD in a fixed-size relationship.
-- Two language versions of the logo: 'UNDP' (English) and 'PNUD' (French/Spanish).
-- Tagline ('Empowered lives. Resilient nations.') available in all UN languages as well as Japanese.
-- Country Offices can only use the UNDP/PNUD logo and are not permitted to place individual country names below it.
-- Clear space should be left around the logo and tagline to avoid crowding and improve visibility.
-- The logo and tagline must be used in conjunction with partner logos, ensuring visual equality and no precedence.
-
-**Typography Information:**
-
-- Corporate typeface family is 'Myriad Pro,' selected for logo lettering, stationery, headlines, and titles.
-- Myriad Pro is available in various weights and works well for text and display sizes.
-- Alternative typefaces for unavailable Myriad Pro characters in specific languages are Arial or Helvetica.
-
-**Brand Voice:**
-
-- Tagline: 'Empowered lives. Resilient nations.' encapsulates UNDP's approach to building human development and national resilience.
-- Core concept: UNDP empowers lives to build resilient nations and emphasizes global partnerships.
-- Rationale for tagline: Focuses on outcomes of work (empowered lives and resilient nations) rather than processes.
-
-**Notes:**
-
-- Stationery design includes versatile address lines and options for local websites and social media, provided they uphold corporate standards.
-- UNDP partners at all societal levels to build nations, withstand crises, and sustain growth, reflected in the tagline and messaging across all materials.
+*Guidelines data not available*
 
 ## Additional Properties
 

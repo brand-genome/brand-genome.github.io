@@ -2,7 +2,7 @@
 title: Universidade de Brasília
 slug: "universidade-de-brasilia"
 description: ""
-date: "2026-03-20T08:22:03.068526"
+date: "2026-04-10T09:40:30.565701"
 draft: false
 sectors:
   - education
@@ -69,3 +69,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2008
+
+*Guidelines data not available*

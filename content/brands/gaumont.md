@@ -2,7 +2,7 @@
 title: Gaumont
 slug: gaumont
 description: ""
-date: "2026-03-20T08:22:05.535527"
+date: "2026-04-10T09:40:34.440209"
 draft: false
 sectors:
   - entertainment
@@ -15,9 +15,9 @@ languages:
 tags:
   - cultural
 industries:
-  - "media-industry"
-  - "motion-picture-video-and-television-programme-activities"
   - "film-industry"
+  - "motion-picture-video-and-television-programme-activities"
+  - "media-industry"
   - "film-production-for-the-cinema"
 countries:
   - france
@@ -32,8 +32,8 @@ products_or_materials_produced:
   - film
 products: []
 headquarters_locations:
-  - paris
   - "neuilly-sur-seine"
+  - paris
 subsidiaries: []
 foundation_dates:
   - 1895
@@ -56,16 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - black
-  - white
-  - "pantone-186"
-typographies:
-  - "gill-sans"
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French film studio
 wikidata_url: "https://www.wikidata.org/wiki/Q913462"
 has_twitter: false
@@ -87,29 +81,98 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- French and English versions of the logo are presented, each preserving the brand integrity.
-- Color versions include Pantone (186 C), CMYK (C:0, M:100, Y:80, K:5), RGB (R:220, G:0, B:46). Separate black and white options are also available.
-- Clear minimum space rules and alignment requirements: the logo's safety zone must maintain specific distances from other elements.
-- Improper modifications to logos, such as resizing disproportionately, altering, or redrawing, are prohibited.
-- Digital formats available for download include JPEG and EPS.
+##### Mission
 
-**Color Information:**
+- To celebrate and represent the legacy of cinema, as expressed in the tagline 'depuis que le cinéma existe' ('since the cinema exists') and 'born with cinema' [^1].
 
-- Primary brand Pantone color: Pantone 186 C. Equivalent in CMYK: C:0, M:100, Y:80, K:5. RGB equivalent: R:220, G:0, B:46.
+##### Core Values
 
-**Typography Information:**
+- heritage
+- innovation
+- simplicity
+- recognition
 
-- Primary typeface is Gill Sans, with variations in Bold, Semi Bold, Regular, and Light weights. Supports uppercase, lowercase, numbers, and punctuation.
+##### Target Audience
 
-**Spacing Layout:**
+- Film industry professionals, cinema enthusiasts, and audiences who value cinematic history and modern branding [^2].
 
-- Prescribed dimensions for envelopes (110mm x 220mm), letterheads (A4: 210mm x 297mm), and business cards (80mm x 50mm), as well as PowerPoint templates.
+##### Personality Traits
 
-**Notes:**
+- timeless
+- professional
+- modern
+- vibrant
 
-- Contact information for additional inquiries includes the Director of Communications (Ariane Toscan Du Plantier) and the Head of Public Relations (Carole Dourlent).
+##### Visual Identity Overview
+
+- The visual identity centers on a bold, modern sans-serif logo in red, accompanied by a stylized sunburst or floral motif. The color palette is primarily red and white, with strict logo usage rules, consistent typography (Gill Sans family), and clear guidelines for layout, spacing, and application across print and digital media [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Version Couleur ■ Pantone: 186 C CMJN :CO M 100 J 80 N 5 RVB: R 220 V 0 B 46
+- Version Noir ou Blanc
+- Les éléments du logo «Gaumont -Depuis que le cinéma existe» (logo «Gaumont» + phrase «depuis que le cinéma existe») sont indissociables. Le logo ne peut être ni modifié, ni transformé, ni redessiné.
+- Sa taille ne peut être modifiée que de façon homothétique.
+- Le logo doit être placé en bas à droite de l'affiche, en dernière position.
+
+##### Color Palette
+
+- Version Couleur ■ Pantone : 186 C CMJN : C 0 M 100 J 80 N 5 RVB : R 220 V 0 B 46
+- Version Noir ou Blanc
+
+##### Typography
+
+- Gill Sans Light
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- 0123456789 . , ; ! ? @ &
+- Gill Sans Regular
+- Gill Sans Semi Bold
+- Gill Sans Bold
+
+##### Logo Usage
+
+- Les éléments du logo «Gaumont -Depuis que le cinéma existe» (logo «Gaumont» + phrase «depuis que le cinéma existe») sont indissociables. Le logo ne peut être ni modifié, ni transformé, ni redessiné.
+- Sa taille ne peut être modifiée que de façon homothétique.
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Version Couleur Pantone : 186 C CMJN : C 0 M 100 J 80 N 5 RVB : R 220 V 0 B 46
+- Version Noir ou Blanc
+- Le logo doit être placé en bas à droite de l'affiche, en dernière position.
+
+##### Visual Style
+
+- Les éléments du logo «Gaumont -Depuis que le cinéma existe» (logo «Gaumont» + phrase «depuis que le cinéma existe») sont indissociables. Le logo ne peut être ni modifié, ni transformé, ni redessiné.
+- Sa taille ne peut être modifiée que de façon homothétique.
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Version Couleur ■ Pantone: 186 C CMJN :CO M 100 J 80 N 5 RVB: R 220 V 0 B 46
+- Version Noir ou Blanc
+
+##### Layout And Composition
+
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Le logo doit être placé en bas à droite de l'affiche, en dernière position.
+
+##### Packaging Design
+
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Les éléments du logo «Gaumont -Depuis que le cinéma existe» (logo «Gaumont» + phrase «depuis que le cinéma existe») sont indissociables. Le logo ne peut être ni modifié, ni transformé, ni redessiné.
+- Sa taille ne peut être modifiée que de façon homothétique.
+- Version Couleur ■ Pantone: 186 C CMJN :CO M 100 J 80 N 5 RVB: R 220 V 0 B 46
+- Version Noir ou Blanc
+- Le logo doit être placé en bas à droite de l'affiche, en dernière position.
+
+##### Print Guidelines
+
+- Le logo doit être placé à une certaine distance de tout élément graphique. L'espace minimum est représenté ci-dessus. Taille minimum d'utilisation : 25 mm
+- Version Couleur ■ Pantone: 186 C CMJN :CO M 100 J 80 N 5 RVB: R 220 V 0 B 46
+- Version Noir ou Blanc
+- Les éléments du logo «Gaumont -Depuis que le cinéma existe» (logo «Gaumont» + phrase «depuis que le cinéma existe») sont indissociables. Le logo ne peut être ni modifié, ni transformé, ni redessiné.
+- Sa taille ne peut être modifiée que de façon homothétique.
+- Le logo doit être placé en bas à droite de l'affiche, en dernière position.
 
 ## Additional Properties
 
@@ -120,7 +183,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Film](/products_or_materials_produced/film/) |
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/) |
+| Headquarters Location | [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [1895](/foundation_dates/1895/) |
 | Freebase Id | /m/019v67 |
 | Headquarters Location | Neuilly-sur-Seine, Paris |

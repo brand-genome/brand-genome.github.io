@@ -2,7 +2,7 @@
 title: Redfern
 slug: redfern
 description: ""
-date: "2026-03-20T08:22:05.846574"
+date: "2026-04-10T09:40:34.864123"
 draft: false
 sectors:
   - "public-sector"
@@ -50,17 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - natural
-  - vibrant
+imagery_styles: []
 wikidata_description: "railway station in Sydney, New South Wales, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q7305835"
 has_twitter: false
@@ -78,24 +71,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Overview of the Redfern brand identity guidelines, including sections on logo hierarchy, isolation zones, positioning rules, incorrect usage, and co-branding.
-- Details on the primary logo in black. Minimum size: 20mm. Approved file formats: EPS, CMYK, RGB. Applications include print and digital media.
-- Details on the primary logo in white. Minimum size: 20mm. Approved formats: EPS, JPG (RGB/CMYK). Suitable for contrasting dark backgrounds.
-- Guidelines on placing the primary logo over photography, including positioning and maintaining isolation zones.
-- Details on the secondary logo, incorporating names of local regions. Adheres to the same sizing and isolation rules as the primary logo.
-- List of incorrect logo usages: distorted scaling, using alternative colors, cropping, adding shadows, and angling incorrectly.
-- Isolation zone rules: maintain a proportional X-gap around logos. Co-branding examples explained with alignment expectations.
-
-**Imagery Photography:**
-
-- Photography style developed to reflect the brand essence 'Welcoming Spirit'. Images should be vibrant, authentic, and show real-life scenarios from Redfern. Aim for natural compositions showcasing local people, locations, and activities.
-- Photography examples provided to illustrate the brand imagery guidelines.
-
-**Notes:**
-
-- The Redfern brand purpose is to champion the area as a landmark destination embracing transformation and welcoming diversity. Brand values include being vibrant, diverse, and forward-thinking, representing a 'Welcoming Spirit'.
+*Guidelines data not available*
 
 ## Additional Properties
 

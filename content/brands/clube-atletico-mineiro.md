@@ -2,7 +2,7 @@
 title: Clube Atlético Mineiro
 slug: "clube-atletico-mineiro"
 description: ""
-date: "2026-03-20T08:22:03.103262"
+date: "2026-04-10T09:40:30.610557"
 draft: false
 sectors:
   - sports
@@ -67,4 +67,87 @@ visual_term_image_urls: {}
 
 ### 2007
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Vencer, honrar o nome de Minas, lutar pelos gramados do mundo para vencer, vibrar com alegria nas vitórias, e ser o orgulho do esporte nacional [^1].
+
+##### Core Values
+
+- raça
+- amor
+- alegria
+- honra
+- luta
+- imortalidade
+- orgulho nacional
+- vencer
+
+##### Target Audience
+
+- Público masculino e feminino, torcedores e simpatizantes do Clube Atlético Mineiro [^2].
+
+##### Personality Traits
+
+- forte
+- vingador
+- alegre
+- raçudo
+- imortal
+- orgulhoso
+
+##### Visual Identity Overview
+
+- A visual identity centers on a shield emblem with the acronym 'CAM', vertical black and white stripes, and a prominent yellow star. The color palette includes Pantone 116 C (yellow), Pantone Black, Pantone Cool Gray 4 C, and Pantone 871 C (gold for premium products). The logo is used in various sizes and backgrounds, with strict rules for proportions, colors, and typographic choices (Franklin Gothic Heavy Italic). The visual style is clean, bold, and high-contrast, emphasizing achievement and tradition [^3].
+
+#### Categories
+
+##### Color Palette
+
+- PANTONE 116 C CYAN 0% MAGENTA 10% YELLOW 100% BLACK 0%
+- PANTONE Black CYAN 0% MAGENTA 0% YELLOW 0% BLACK 100%
+- Apenas a estrela amarela, referente à conquista do 1º Campeonato Brasileiro de Futebol, em 1971, deverá ser usada.
+- PANTONE Cool Gray 4 C CYAN 0% MAGENTA 0% YELLOW 0% BLACK 27%
+- PANTONE 871 C CYAN 20% MAGENTA 25% YELLOW 75% BLACK 25%
+- A cor dourada somente deverá ser aplicada a Produtos Premium, à papelaria e à camisa oficial do Clube, com a utilização da cor especial pantone.
+
+##### Logo Usage
+
+- PANTONE 116 C CYAN 0% MAGENTA 10% YELLOW 100% BLACK 0%
+- PANTONE Black CYAN 0% MAGENTA 0% YELLOW 0% BLACK 100%
+- 1.5 x 1.5 cm Bordados y stamping
+- 2x2cm Papeleria Apenas a estrela amarela, referente à conquista do 1º Campeonato Brasileiro de Futebol, em 1971, deverá ser usada.
+- Esta é a forma correta do escudo. Qualquer reprodução deverá apresentar as mesmas proporções (observe o quadriculado ao fundo).
+- PANTONE Cool Gray 4 C CYAN 0% MAGENTA 0% YELLOW 0% BLACK 27%
+- PANTONE 871 C CYAN 20% MAGENTA 25% YELLOW 75% BLACK 25%
+- A cor dourada somente deverá ser aplicada a Produtos Premium, à papelaria e à camisa oficial do Clube, com a utilização da cor especial pantone.
+- Sempre que o escudo for aplicado em qualquer fundo com cor, este fio branco externo deve estar presente para garantir a sua visibilidade
+- ESCUDO não achatar não comprimir não alterar a espessura dos frisos
+- ESTRELA não aumentar não diminuir não deslocar não rotacionar não distanciar do escudo não excluir
+- INICIAIS não trocar tipologia não diminuir as iniciais
+
+##### Typography
+
+- não trocar tipologia não diminuir as iniciais
+- Helvetica Neue
+- Univers
+- ITC Franklin Gothic
+- A tipografia usada é a Franklin Gothic Heavy ltalic.
+
+##### Visual Style
+
+- PANTONE 116 C CYAN 0% MAGENTA 10% YELLOW 100% BLACK 0%
+- PANTONE Black CYAN 0% MAGENTA 0% YELLOW 0% BLACK 100%
+- 1.5 x 1.5 cm Bordados y stamping
+- 2x2cm Papeleria
+- Apenas a estrela amarela, referente à conquista do 1º Campeonato Brasileiro de Futebol, em 1971, deverá ser usada.
+- Esta é a forma correta do escudo. Qualquer reprodução deverá apresentar as mesmas proporções (observe o quadriculado ao fundo).
+- PANTONE Cool Gray 4 C CYAN 0% MAGENTA 0% YELLOW 0% BLACK 27%
+- PANTONE 871 C CYAN 20% MAGENTA 25% YELLOW 75% BLACK 25%
+- A cor dourada somente deverá ser aplicada a Produtos Premium, à papelaria e à camisa oficial do Clube, com a utilização da cor especial pantone.
+
+##### Brand Values
+
+- Apenas a estrela amarela, referente à conquista do 1º Campeonato Brasileiro de Futebol, em 1971, deverá ser usada.
+- Esta é a forma correta do escudo. Qualquer reprodução deverá apresentar as mesmas proporções (observe o quadriculado ao fundo).

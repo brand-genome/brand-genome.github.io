@@ -2,12 +2,12 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-03-20T08:22:04.506292"
+date: "2026-04-10T09:40:33.279138"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - usa
 years:
@@ -55,15 +55,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-brand_colors:
-  - crimson
-  - gray
-  - white
-  - black
-typographies:
-  - verdana
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "university in Worcester, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q195046"
@@ -84,41 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Proper use of the WPI stand-alone seal includes specific color codes and isolation area rules. The seal must be used with appropriate spacing equal to the height of the shield. Full-color reproduction is preferred. One-color seals may use Pantone 187c (Crimson) or 100% Black. Use Pantone 429c (Gray) or a 30% tint of black only on pure white paper and backgrounds. A reversed seal white color is defined for dark or patterned backgrounds.
-- Area of isolation for the seal must ensure free space surrounding the seal to avoid visual competition with other elements.
-- Usage of the seal as a simulated watermark or on printed materials is strictly restricted. Special opacity control (e.g., maximum 10%) applies to the watermark for backgrounds in Pantone 187c.
-- Common misuses of the university seal include altering color placement, distorting, cropping, or rotating the seal.
-- Use of the standalone WPI logo is restricted for apparel or approved applications. No additional imagery or typography can be combined with the standalone WPI design.
-
-**Color Information:**
-
-- Pantone 187c (Crimson) and 429c (Gray) as standard colors for WPI seals and branding. Black and 30% tints of black permissible only for specific white backgrounds.
-- Color standards include one-color, two-color, and full-color variations defined explicitly in the branding toolkit.
-
-**Typography Information:**
-
-- Preferred typeface for letters and envelopes: Myriad Pro Regular, 9pt size with 13pt leading. In Microsoft Word templates, Verdana Regular may be substituted. Myriad Pro Semibold recommended for uppercase short headlines.
-
-**Imagery Photography:**
-
-- Custom table covers and banners require adherence to pre-defined design elements. Orders for customizations are centrally managed, and usage must align with WPI standards.
-- Gray watermark must not be placed over colored or patterned backgrounds.
-
-**Spacing Layout:**
-
-- Spacing rules for designing around WPI seals require isolation areas (example provided) where free spacing allows clear objectives.
-- Margins specified for institutional stationery include customization options and strict adherence for proper placement (e.g., 1.25 or 4.75 margins guidelines).
-
-**Brand Voice:**
-
-- The brand identity necessitates consistent application of visual elements, logos, colors, and templates to build recognition for the university. Messaging standards and the quality of experience support WPI communications.
-
-**Notes:**
-
-- All brand assets, along with templates for presentations, email signatures, and more, are provided through WPI Marketing Communications. Access may require permissions.
-- Contact MarketingCommunications at logo@wpi.edu for inquiries and Chad Farrell (cfarrell@wpi.edu) for Print Shop orders related to stationery.
+*Guidelines data not available*
 
 ## Additional Properties
 

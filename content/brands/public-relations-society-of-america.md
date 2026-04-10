@@ -2,7 +2,7 @@
 title: Public Relations Society of America
 slug: "public-relations-society-of-america"
 description: ""
-date: "2026-03-20T08:22:03.870991"
+date: "2026-04-10T09:40:31.546143"
 draft: false
 sectors:
   - "public-relations"
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: professional society
 wikidata_url: "https://www.wikidata.org/wiki/Q7257536"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,12 +72,6 @@ visual_term_image_urls: {}
 - [https://www.prsa.org](https://www.prsa.org)
 - [https://connect.prsa.org](https://connect.prsa.org)
 - [http://www.prsa.org](http://www.prsa.org)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

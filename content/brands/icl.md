@@ -2,12 +2,12 @@
 title: ICL
 slug: icl
 description: ""
-date: "2026-03-20T08:22:05.586423"
+date: "2026-04-10T09:40:34.530355"
 draft: false
 sectors:
-  - chemicals
   - "agricultural-heavy-equipment"
   - "manufacturing-industry"
+  - chemicals
 regions:
   - israel
 years:
@@ -56,8 +56,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public research university located in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q189022"
 has_twitter: false
@@ -77,29 +76,83 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo details, proportions, clear space, and usage rules extracted from various pages.
+##### Mission
 
-**Color Information:**
+- To ensure fleet visibility through a unique branding scheme, consistently applying the brand block and strapline on GEFCO blue backgrounds across all vehicles where possible [^1].
 
-- Color guidelines including palettes, business unit color associations, and spectrum examples.
+##### Core Values
 
-**Typography Information:**
+- visibility
+- consistency
+- partnership
+- modernity
 
-- Typography rules including fonts, weights, and applications.
+##### Target Audience
 
-**Imagery Photography:**
+- Business partners, logistics clients, and stakeholders in vehicle transportation and fleet management [^2].
 
-- Guidelines for imagery and photography within brand applications.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- clean
+- dynamic
 
-- Spacing, grid details, page layouts, and alignments.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the GEFCO logotype in bold yellow (Pantone 116C) and blue (Pantone 7462C), with strict color usage, clean lines, and minimalistic layouts. The brand block combines the logo and the strapline 'Partners, unlimited' in Univia Pro Bold font, always precisely positioned and applied to various vehicle types and surfaces [^3].
 
-- Brand narrative and messaging information under the One ICL Brand approach.
+#### Categories
+
+##### Logo Usage
+
+- The logotype is shown opposite. It consists of Pantone® (yellow) 116C. The references are in Pantone®, four-colour, three-colour and hexadecimal. All other colours are forbidden.
+- GEFCO YELLOW PANTONE® 116C CMYK C- M 20 Y 100 K- RGB R 255 G 205 B HEX #FFCD00 RAL 1018
+- GEFCO BLUE PANTONE® 7462C CMYK C 100 M 70 Y 10 K- RVB R 83 G 139 HEX #00538B RAL 5005
+- WHITE RAL 9010
+- The brand block always consists of the logo associated directly with the strapline.
+- A/ Centred brand block version The "Partners, unlimited" brand block is always: - centred, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 6 squares, see diagram).
+- B/ Right-hand brand block version The "Partners, unlimited" brand block is always: - on the right side of the logotype, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 8 squares, see diagram).
+- The brand block is positioned as shown opposite according to the vehicle type and its surfaces. When the brand block is placed on two elements, one of which is mobile, care must be taken to ensure that the strapline is not positioned over the opening. Cases C and D are exceptions and are only used when the available surface area is limited.
+
+##### Color Palette
+
+- It consists of Pantone® (yellow) 116C.
+- The references are in Pantone®, four-colour, three-colour and hexadecimal.
+- All other colours are forbidden.
+- GEFCO YELLOW PANTONE® 116C CMYK C- M 20 Y 100 K- RGB R 255 G 205 B HEX #FFCD00 RAL 1018
+- GEFCO YELLOW PANTONE® 116C CMYK C- M 20 Y 100 K- RVB R 255 G 205 B HEX #FFCD00 RAL 1018
+- GEFCO BLUE PANTONE® 7462C CMYK C 100 M 70 Y 10 K- RVB R 83 G 139 HEX #00538B RAL 5005
+- WHITE RAL 9010
+
+##### Visual Style
+
+- The logotype is shown opposite. It consists of Pantone® (yellow) 116C. The references are in Pantone®, four-colour, three-colour and hexadecimal. All other colours are forbidden.
+- GEFCO YELLOW PANTONE® 116C CMYK C- M 20 Y 100 K- RGB R 255 G 205 B
+- The brand block always consists of the logo associated directly with the strapline.
+- A/ Centred brand block version The "Partners, unlimited" brand block is always: - centred, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 6 squares, see diagram).
+- B/ Right-hand brand block version The "Partners, unlimited" brand block is always: - on the right side of the logotype, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 8 squares, see diagram).
+- GEFCO BLUE PANTONE® 7462C CMYK C 100 M 70 Y 10 K- RVB R 83 B 139 HEX #00538B RAL 5005
+- WHITE RAL 9010
+- The brand block is positioned as shown opposite according to the vehicle type and its surfaces. When the brand block is placed on two elements, one of which is mobile, care must be taken to ensure that the strapline is not positioned over the opening. Cases C and D are exceptions and are only used when the available surface area is limited.
+
+##### Layout And Composition
+
+- The brand block always consists of the logo associated directly with the strapline. A/ Centred brand block version The "Partners, unlimited" brand block is always: - centred, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 6 squares, see diagram). B/ Right-hand brand block version The "Partners, unlimited" brand block is always: - on the right side of the logotype, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 8 squares, see diagram). C/ Specific case of the brand block D/ Specific case of the logotype on its own
+- The brand block is positioned as shown opposite according to the vehicle type and its surfaces. When the brand block is placed on two elements, one of which is mobile, care must be taken to ensure that the strapline is not positioned over the opening. Cases C and D are exceptions and are only used when the available surface area is limited.
+
+##### Co Branding
+
+- There are two types of co-branding in our fleet: EXCLUSIVE PARTNER TRUCK For this type of truck, a brand block is placed on a blue background. On boxed trucks, the branding stops before the upper and lower rails. For tarpaulin-covered trucks, the branding stops before the upper and lower welds. The tractor unit must be totally blue, with a logo placed on the doors. PARTIAL PARTNER TRUCK For this type of truck, a brand block is placed on a blue background. On boxed trucks, the branding stops before the upper and lower rails. For tarpaulin-covered trucks, the branding stops before the upper and lower welds. A logo on a blue background is placed on the doors.
+- 5a. Exclusive partner trucks The branding principle is as follows (Please note: some of these dimensions may not correspond to all GEFCO vehicles. Only the percentages shown below are valid): - At the front: the logo without the square, on a blue background. A= ± 45% of the available width (Example: Width: 1200 mm x Height: 205 mm). - On the sides: the brand block over 2 lines, on a blue banner, near the partner logos. B = 35% of the available height (Example: Width: 1000 mm x Height: 1000 mm). - At the back: the brand block over 2 lines, on a blue banner, at the top right. C = 60% of the width of a door (Example: Width: 800 mm x Height: 1000 mm). - On the front doors: the logo, on a blue background. The surface area is determined on an individual basis depending on the space available on the haulage vehicle, ensuring a minimum protection area around the GEFCO logo.
+- 5b.Partial partner trucks The branding principle is as follows (Please note: some of these dimensions may not correspond to all GEFCO vehicles. Only the percentages shown below are valid): - At the front: the logo without the square, on a white background. A= ± 45% of the available width (Width: Example: 1200 mm x Height: 205 mm). - On the sides: the brand block over 2 lines, on a blue banner, near the partner logos. B = 35% of the available height (Example: Width: 1000 mm x Height: 1000 mm). - At the back: the brand block over 2 lines, on a blue banner, at the top right. C = 60% of the width of a door (Example: Width: 800 mm x Height: 1000 mm). - On the front doors: the logo, on a blue banner. The surface area is determined on an individual basis depending on the space available on the haulage vehicle, ensuring a minimum protection area around the GEFCO logo.
+
+##### Typography
+
+- A/ Centred brand block version The "Partners, unlimited" brand block is always: - centred, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 6 squares, see diagram).
+- B/ Right-hand brand block version The "Partners, unlimited" brand block is always: - on the right side of the logotype, - in English, - in the Univia Pro Bold font, - in white, - in lower case, - precisely located, (equivalent to 8 squares, see diagram).
 
 ## Additional Properties
 

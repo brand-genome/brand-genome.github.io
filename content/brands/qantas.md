@@ -2,7 +2,7 @@
 title: Qantas
 slug: qantas
 description: ""
-date: "2026-03-20T08:22:04.890073"
+date: "2026-04-10T09:40:33.652646"
 draft: false
 sectors:
   - airline
@@ -15,8 +15,8 @@ languages:
 tags:
   - airline
 industries:
-  - "air-transport"
   - aviation
+  - "air-transport"
 countries:
   - australia
 revenue_buckets:
@@ -58,14 +58,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: the flag carrier airline of Australia
 wikidata_url: "https://www.wikidata.org/wiki/Q32491"
 has_twitter: false
@@ -85,40 +81,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Qantas brandmark width specified as '6X', and the one world brandmark set as 60% of the Qantas brandmark width.
-- Clear space rules for Qantas brandmark and tagline are defined: Baseline measurements are fixed and must adhere to title-safe area proportions. The Qantas logo size is 50% of the title-safe area.
-- Examples of logo usage on end frames ('Qantas logo begins fading in, one world logo fades in, tagline integrates, logos hold at the end').
-- End frames allow logos to appear in white depending on the background image clarity and definition requirements.
-
-**Color Information:**
-
-- Economy layout offer panel uses CMYK color values: C0 M100 Y100 K0; Business class offer panel uses C100 M65 Y10 K70.
-- Stroke color rules between the partner logo and Qantas brandmark can either be black, white, or a matched color within the partner logo.
-
-**Typography Information:**
-
-- Primary typeface: QF Spirit available in 4 weights (Light, Regular, Medium, Bold) with hierarchical usages such as headlines and body text. Sizes detailed for multiple contexts (e.g., 78pt, 52pt, etc.).
-- Typography rules for specific layouts derive from standard retail advertising templates, altered for offer/deal clarity.
-
-**Imagery Photography:**
-
-- TV Lock-up Option 1 emphasizes background clarity for logo and tagline definition. Logos/tagline may appear in white depending on the visual clarity of the imagery.
-
-**Spacing Layout:**
-
-- Retail offer advertising requires pricing information boxes below image boxes, using clear space guides regardless of typography adjustments for offers.
-- Partner logo lock-up detailed: Alignment set from Qantas brandmark baseline up to rooftop tail. Margins fixed; partner logo determined by clear spacing relative to Qantas identifiers.
-
-**Brand Voice:**
-
-- Consistent evolutionary approach embedded into the Qantas brand identity guidelines across layouts and ratios.
-
-**Notes:**
-
-- The PDF specifies legal copy positioning for TV frame lock-ups—guidelines mandate legal legibility per requirements.
-- Tagline width must remain proportional to the title-safe area width (40% specified). Typography baseline aligns tightly to defined bottom edges.
+*Guidelines data not available*
 
 ## Additional Properties
 

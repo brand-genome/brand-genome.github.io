@@ -2,7 +2,7 @@
 title: Deloitte Greenhouse
 slug: "deloitte-greenhouse"
 description: ""
-date: "2026-03-20T08:22:04.560826"
+date: "2026-04-10T09:40:33.370939"
 draft: false
 sectors:
   - consulting
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - natural
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,51 +68,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Details about the logo usage, including wordmarks and other branding elements.
-- Specifics concerning acceptable logo variations and their applications.
-- Information about the treatment of logos within different contexts.
-- Guidelines around logo scale, alignment, and placement.
-- Minimum logo size requirements and clear space specifications.
-- Prohibition of unauthorized logo treatments and incorrect usage examples.
-
-**Color Information:**
-
-- Guidelines on primary and secondary colors, alongside hex, RGB, and CMYK codes.
-- Definition of brand-specific color palette usage for various design elements.
-- Establishing color attributes that align to brand representation.
-- Color coordination and application in print media.
-- Clarification on the designated tones for typographical integrations.
-- Specific use of accent colors for infographics and digital applications.
-- Guidance on transitions between white and green in 3D designs, with principles for interior branding and material selection.
-- Suggestions for experimenting with colors on posters or other large visual elements.
-
-**Typography Information:**
-
-- Font classifications for headlines, body text, and captions.
-- Rules on font type selection, weights for particular purposes, and pairing practices.
-
-**Imagery Photography:**
-
-- Strategic design guidance for images, covering scale, orientation, and resolution considerations.
-- Mood board representation for showcasing impactful photography examples.
-- Depictions of a cohesive photographic style reflecting the intended brand tone.
-- Set style guides for application in newsletters, blogs, and training decks.
-- Highlighting the criticality of high-resolution, deeply saturated professional photos.
-- Demonstrative specifications of vibrancy and clarity for marketing banners.
-- Bold images with a spotlight subject setup for maximum engagement.
-- Interplay of seamless blending between brand-defining colors and subjects.
-- Outdoor and indoors themes for physical interaction spaces.
-- Textured pictorial environments enhanced with experimental properties.
-
-**Brand Voice:**
-
-- Expression of single-minded messaging targeting clarity and resonance.
-- Details on how brand messaging consistency is to be maintained.
-- Brand tone recommendations, focusing characteristically on natural human-conversational mechanisms.
-
-**Notes:**
-
-- Initial guidance around adhering to Greenhouse branding systems collaboratively.
-- Essential operational pathways and communication strategies for users via noted optional services contacts.
+*Guidelines data not available*

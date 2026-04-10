@@ -2,7 +2,7 @@
 title: Queensland
 slug: queensland
 description: ""
-date: "2026-03-20T08:22:04.586684"
+date: "2026-04-10T09:40:33.380519"
 draft: false
 sectors:
   - "public-sector"
@@ -51,8 +51,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -75,29 +74,97 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- The 'Good To Go' stamp logo is featured as part of Tourism and Events Queensland's domestic campaign, encouraging holiday travel within Queensland and converting Australians who planned to travel overseas.
-- Clear space rules specify 'X' margins around the co-branding lockup.
-- Minimum size requirement for the logo is specified as 15mm height.
-- Misuse of the logo includes the following: do not outline fonts, apply special effects, use gradients, skew, rotate, stretch, fill with patterns, alter colors, or alter fonts.
+##### Mission
 
-**Imagery Photography:**
+- Encourage Queenslanders to holiday at home, drive interstate travel to Queensland, and convert Australians who planned to travel overseas to visit Queensland instead [^1].
 
-- The guide suggests operators and regions use the co-branding lockup to align with the 'Good To Go' campaign.
+##### Core Values
 
-**Spacing Layout:**
+- readiness
+- positivity
+- clarity
+- local tourism promotion
 
-- Sizing principles showcased for various formats including DL, square, A size, and banners.
-- Clear space for co-branding lockups emphasizes maintaining proportional 'X' margins around the logo elements.
+##### Target Audience
 
-**Brand Voice:**
+- Queensland tourism businesses and Australians considering domestic travel, especially those who had planned to travel overseas [^2].
 
-- The tone is centered around encouraging Queenslanders to holiday within the state and promoting domestic travel for Australians planning canceled overseas trips.
+##### Personality Traits
 
-**Notes:**
+- welcoming
+- modern
+- minimalist
+- friendly
+- inviting
 
-- This document outlines the application rules and styles for the 'Good To Go' stamp usage by Queensland operators and regional branding.
+##### Visual Identity Overview
+
+- The visual identity features a clean, modern, and minimalist style with teal and white as primary colors. It uses circular logos, elegant script fonts for 'Queensland', and sans-serif fonts for 'Australia'. The design emphasizes clarity, positive progression, and readiness, with iconography such as arrows and checkmarks to symbolize approval and movement [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- PLEASE NOTE THAT IMAGERY IS POSITIONAL ONLY AND SHOULD NOT BE CONSIDERED FINAL
+
+##### Color Palette
+
+- DO NOT ALTER COLOURS
+
+##### Typography
+
+- DO NOT OUTLINE FONTS
+- DO NOT SKEW
+- DO NOT APPLY SPECIAL EFFECTS
+- DO NOT APPLY GRADIENTS
+- DO NOT ROTATE
+- DO NOT STRETCH
+- DO NOT FILL WITH PATTERNS
+- DO NOT ALTER COLOURS
+- DO NOT ALTER FONTS
+
+##### Logo Usage
+
+- TO HELP PROMOTE YOUR BUSINESS ONCE YOU’RE GOOD TO GO, WE ENCOURAGE ALL QUEENSLAND TOURISM BUSINESSES TO USE THE GOOD TO GO STAMP (YOU CAN DOWNLOAD THE STAMP HERE). YOU CAN USE THIS ON SOCIAL MEDIA, YOUR WEBSITE OR ANY CAMPAIGN MATERIALS. THIS STYLE GUIDE WILL OUTLINE HOW THE STAMP CAN BE APPLIED AND RULES ON ITS USAGE.
+- CO-BRANDING LOCKUP CLEAR SPACE AND MINIMUM SIZE
+- MINIMUM SIZE 15MM HIGH
+- DO NOT OUTLINE FONTS
+- DO NOT SKEW
+- DO NOT APPLY SPECIAL EFFECTS
+- DO NOT APPLY GRADIENTS
+- DO NOT ROTATE
+- DO NOT STRETCH
+- DO NOT FILL WITH PATTERNS
+- DO NOT ALTER COLOURS
+- DO NOT ALTER FONTS
+
+##### Co Branding
+
+- CO-BRANDING LOCKUP CLEAR SPACE AND MINIMUM SIZE
+- MINIMUM SIZE 15MM HIGH
+- DO NOT OUTLINE FONTS
+- DO NOT SKEW
+- DO NOT APPLY SPECIAL EFFECTS
+- DO NOT APPLY GRADIENTS
+- DO NOT ROTATE
+- DO NOT STRETCH
+- DO NOT FILL WITH PATTERNS
+- DO NOT ALTER COLOURS
+- DO NOT ALTER FONTS
+
+##### Visual Style
+
+- DO NOT OUTLINE FONTS
+- DO NOT SKEW
+- DO NOT APPLY SPECIAL EFFECTS
+- DO NOT APPLY GRADIENTS
+- DO NOT ROTATE
+- DO NOT STRETCH
+- DO NOT FILL WITH PATTERNS
+- DO NOT ALTER COLOURS
+- DO NOT ALTER FONTS
 
 ## Additional Properties
 

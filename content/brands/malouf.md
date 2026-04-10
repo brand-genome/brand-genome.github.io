@@ -2,7 +2,7 @@
 title: Malouf
 slug: malouf
 description: ""
-date: "2026-03-20T08:22:05.065000"
+date: "2026-04-10T09:40:33.832332"
 draft: false
 sectors:
   - "consumer-goods"
@@ -46,24 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - symbol
-brand_colors:
-  - silver
-  - "pantone-8001"
-  - white
-  - "pantone-10274"
-  - "pantone-871"
-  - gray
-  - "pantone-876"
-  - black
-typographies:
-  - display
-imagery_styles:
-  - modern
-  - subtle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: music genre
 wikidata_url: "https://www.wikidata.org/wiki/Q97368934"
 has_twitter: false
@@ -81,41 +67,157 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The Malouf wordmark is the primary logo, used in master brand presentations (e.g., center-aligned content, documents). The trademark (®) symbol must accompany the wordmark unless the size makes it illegible. The wordmark must be in black, silver, or white, and modifications (e.g., stretching, condensing) are prohibited.
-- Spacing rules: Adequate spacing must be implemented around the wordmark using the 'M' character as a guide.
-- The 'Tab' element is used for products and packaging where the sub-brand connects to the master brand. It is placed in the top-right corner with spacing equal to its height and aligned with the layout's top. The wordmark in the Tab is knocked out to the color behind it unless legibility is compromised.
-- Logo usage examples are provided, showing correct implementations.
+##### Mission
 
-**Color Information:**
+- To create moments of comfort, ease, beauty, elegance, refinement, and sophistication every day through customized bedding options, embodying attainable luxury and clear communication.
 
-- Malouf's primary brand colors are: Black (Pantone Neutral Black C or U, CMYK: C60 M40 Y40 K100, RGB: R0 G0 B0, HEX: #000000), White (Paper Opaque White, CMYK: C0 M0 Y0 K0, RGB: R255 G255 B255, HEX: #FFFFFF), and Silver (Pantone Silver C, CMYK: C37 M27 Y27 K0, RGB: R168 G172 B174, HEX: #A8ACAE).
-- Accent colors: Additional metallic accent colors (e.g., Pantone 8001 C, Pantone 10274 C, Pantone 871 C, Pantone 876 C) can be used but should remain harmonious with the main brand colors and not overly bright or saturated.
-- Color usage ratios: Black should be used generously to evoke elegance and mystique; white brings clarity and calmness for large text bodies; silver adds sophistication and can ideally be used as metallic ink.
+##### Core Values
 
-**Typography Information:**
+- understated elegance
+- approachable expertise
+- refined casualness
 
-- The brand uses three typefaces: Neutraface 2 Display (for headers, page titles, and large copy, ideally in lightest weights), Neutraface 2 Text (for subheads, small text, and diagrams), and Mercury Text (for body copy).
-- Typography hierarchy guidelines: Headlines in Neutraface 2 Display, all caps, at 16pt or larger (50-75 tracking). Subheads in Neutraface 2 Text, sentence case, below 16pt. Mercury Text used for body copy, with loosened leading for better flow.
+##### Target Audience
 
-**Imagery Photography:**
+- Consumers seeking quality sleep accessories and bedding, appreciating modern elegance, masculine refinement, and affordable luxury.
 
-- Imagery guidelines describe Malouf as masculine and refined, with a modern and elegant style. Visual elements prioritize gray, black, charcoal, and metallic tones.
+##### Personality Traits
 
-**Spacing Layout:**
+- masculine
+- refined
+- high-class sense of style
+- simple
+- elegant
+- approachable
+- expert
+- casual yet sophisticated
 
-- Defined spacing around the 'Tab' element: Distance from the edges equals the height of the Tab, aligned with the layout's top.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is defined by deep, rich blacks, clean whites, glossy metallic finishes, modern geometric logo, premium typefaces, and imagery reflecting modern elegance with a masculine feel. The brand emphasizes minimalism, clarity, and sophistication in all visual elements.
 
-- Malouf's brand voice strives for luxury, expertise, clarity, and subtle sophistication. Communications should exhibit self-assurance without arrogance, maintain industry authority without condescension, and include subtle touches of humor.
-- Tagline: 'Attainable Luxury' reflects the brand's commitment to creating elegance and sophistication through customized bedding options. It is best used in limited-space materials or with new audiences.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The brand architecture divides Malouf's sleep products into five sub-brands (e.g., Woven for luxury linens, Sleep Tite for mattress protectors).
-- The guide provides an overview of Malouf's principles, emphasizing exploration and cohesiveness to reflect the brand's values effectively.
+- Our brand voice should reflect our personality and values, as well as accurately portray our brand promise. Consider these guidelines when writing content for all brand applications.
+- Understated Elegance Luxury needs no special introduction. It is self-assured without being self- absorbed. Our quality, expertise and style should speak for itself.
+- Approachable Expertise We are the sleep experts. We speak with authority, but we never talk down to our consumers. Industry terminology can be used when relevant but, we should always strive for clarity.
+- Refined Casualness Having class not mere formality: it's displaying poise in proper context. Casual can be classy; spontaneity can be sophisticated; a bit of humor will go a long way—but always with a subtle touch.
+
+##### Brand Imagery
+
+- ## 4.5 IMAGERY
+- ### BRAND PERSONALITY Malouf is masculine and refined. He has a high-class sense of style and appreciates the finer things in life. Malouflives in mod­ern homes and lofts with details set in hard lines and darker shades. Simple and ele­gant, Malouf embodies affordable luxury.
+- ### IMAGERY MOOD Modern elegance with a masculine feel.
+- ### IDENTITY COLORS Gray, Black, Charcoal, Metallics
+
+##### Color Palette
+
+- The colors we use are a reflection of our brand voice. Understated elegance is manifest in deep, rich blacks, clean whites and glossy metallic finishes.
+- These primary brand colors should be predominantly used in all brand collateral. Use of any other colors—such as special call-outs or links— should be refined, carefully considered, and extremely limited.
+- Black Spot Color Coated paper Uncoated paper Pantone® Neutral Black C Pantone® Neutral Black U Process Color C 60 M 40 Y 40 K 100 RGB R 0 G 0 B 0 Hex #000000 Grayscale K 100
+- White Paper or Opaque white Process Color C 0 M 0 Y 0 K 0 RGB R 255 G 255 B 255 Hex #FFFFFF Grayscale K 0
+- Silver Pantone® Silver C Pantone® Silver C Process Color C 37 M 27 Y 27 K 0 RGB R 168 G 172 B 174 Hex #A8ACAE Grayscale K 40
+- Accent colors may extend to metallics outside Silver C. These colors should remain harmonious to the main brand colors and not be overly bright or saturated.
+- Pantone® 8001 C Pantone® 10274 C Pantone® 871 C Pantone® 876 C
+- The following ratios should be considered when working with the brand colors. These ratios are meant as a general guideline and may be altered in instances where a different approach might offer increased legibility or function.
+- 60% Black creates a sense of drama, mystique and elegance. Use generously.
+- 30% White evokes clarity, cleanliness and calm. Use for large bodies of text or information.
+- 10% Silver adds a subtle touch of flash. In print, use as a metallic ink whenever possible.
+
+##### Typography
+
+- Our suite of premium typefaces is carefully selected to reinforce the Malouf asethetic in both subtle and striking ways. A bold yet refined application of these typefaces can elevate every instance of our brand.
+- Neutraface 2 Display is always used for headers, page titles, or any large copy, never for body copy. It should often be used in the lightest weight possible that is clearest for the application being used.
+- Neutraface 2 Text is best used for subheads or small bodies of text, such as captions, diagrams, etc. It can also be used for headers at smaller sizes.
+- Mercury Text is our standard typeface for body copy—specifically for large bodies of text. For emphasis, italics may be used. Se-mibold or bold may be used when secondary or tertiary emphasis is required.
+- In order to maintain the integrity of our type system, the following general guidelines should be observed when laying out text.
+- Headlines should be set in Neutraface 2 Display in all caps with sufficient tracking (about 50–75) at sizes 16 pt and up. Keep the leading fairly tight. Using a different color from the rest of the text can better set the headline apart. Headers below the 16 pt size can be set in Neutraface 2 Text
+- Subheads may be set in Neutraface 2 Text 16 pt and below in sentence case without tracking. The leading can be tightened up a bit but make sure ascenders and descenders don’t overlap.
+- Mercury Text comprises the bulk of the body copy. Feel free to loosen the leading to better match the typographic “color” of the header and subheads.
+- Header: Neutraface 2 Display, 24 pt size, 26 pt leading, 50 tracking, all caps, silver; Subhead: Neutraface 2 Text, 14 pt size, 16 pt leading, 0 tracking, sentence case, white; Text: Mercury Text G2, 10 pt size, 14 pt leading, 0 tracking, sentence case, white
+
+##### Logo Usage
+
+- Our logos are the cornerstone of our visual identity. It is essential that these marks are executed consistently according to the following guidelines.
+- The wordmark is our primary logomark and the basis of our identity system. It should be used in instances where the master brand is front and center. It is used in applications that are center-aligned, in-line with text, document footers and headers. It should be used only in one of the three brand colors: black, silver, or white.
+- The ® symbol should always accompany the mark, except in applications where it is too small to be legible.
+- Never stretch, condense, or otherwise modify the wordmark in any way.
+- Adequate spacing should be given to the wordmark. Use the wordmark's "M" character as a guide to determine proper spacing.
+- The tab is a distinct element in our identity system, used on products and packaging to connect sub-brands to the master brand. It is placed in the top-right corner of the page or product whenever possible.
+- The tab should always be used in instances where the Malouf brand is meant to take a supporting role, specifically in its roll as an endorser brand. Where the master brand is featured prominently, use the wordmark instead.
+- For visual reinforcement of this convention, the tab can be used in many instances outside of these applications, such as presentations, letterheads, business cards, advertisements, etc.
+- Placed in the top right corner, the distance from the edge should be equal to the height of the tab. The top of the tab should align with the top of the layout (with sufficient bleed in print applications).
+- The wordmark within the tab is knocked out to the color behind the tab, except in instances where it creates problems with legibility.
+
+##### Tone And Messaging
+
+- Our brand voice should reflect our personality and values, as well as accurately portray our brand promise. Consider these guidelines when writing content for all brand applications.
+- Understated Elegance Luxury needs no special introduction. It is self-assured without being self- absorbed. Our quality, expertise and style should speak for itself.
+- Approachable Expertise We are the sleep experts. We speak with authority, but we never talk down to our consumers. Industry terminology can be used when relevant but, we should always strive for clarity.
+- Refined Casualness Having class not mere formality: it's displaying poise in proper context. Casual can be classy; spontaneity can be sophisticated; a bit of humor will go a long way—but always with a subtle touch.
+
+##### Brand Values
+
+- As the underpinnings of our core values, the brand platform provides context to the entirety of our brand expression. It defines who we are, what we believe, and what we strive to accomplish.
+- Our brand voice should reflect our personality and values, as well as accurately portray our brand promise. Consider these guidelines when writing content for all brand applications.
+- Understated Elegance Luxury needs no special introduction. It is self-assured without being self- absorbed. Our quality, expertise and style should speak for itself.
+- Approachable Expertise We are the sleep experts. We speak with authority, but we never talk down to our consumers. Industry terminology can be used when relevant but, we should always strive for clarity.
+- Refined Casualness Having class not mere formality: it's displaying poise in proper context. Casual can be classy; spontaneity can be sophisticated; a bit of humor will go a long way—but always with a subtle touch.
+- Malouf is masculine and refined. He has a high-class sense of style and appreciates the finer things in life. Malouflives in mod­ern homes and lofts with details set in hard lines and darker shades. Simple and ele­gant, Malouf embodies affordable luxury.
+
+##### Visual Style
+
+- It should be used only in one of the three brand colors: black, silver, or white.
+- The ® symbol should always accompany the mark, except in applications where it is too small to be legible.
+- Never stretch, condense, or otherwise modify the wordmark in any way.
+- Adequate spacing should be given to the wordmark. Use the wordmark's "M" character as a guide to determine proper spacing.
+- The tab is a distinct element in our identity system, used on products and packaging to connect sub-brands to the master brand. It is placed in the top-right corner of the page or product whenever possible.
+- Placed in the top right corner, the distance from the edge should be equal to the height of the tab. The top of the tab should align with the top of the layout (with sufficient bleed in print applications).
+- The wordmark within the tab is knocked out to the color behind the tab, except in instances where it creates problems with legibility.
+- The colors we use are a reflection of our brand voice. Understated elegance is manifest in deep, rich blacks, clean whites and glossy metallic finishes.
+- These primary brand colors should be predominantly used in all brand collateral. Use of any other colors—such as special call-outs or links— should be refined, carefully considered, and extremely limited.
+- Accent colors may extend to metallics outside Silver C. These colors should remain harmonious to the main brand colors and not be overly bright or saturated.
+- The following ratios should be considered when working with the brand colors. These ratios are meant as a general guideline and may be altered in instances where a different approach might offer increased legibility or function.
+- 60% Black creates a sense of drama, mystique and elegance. Use generously.
+- 30% White evokes clarity, cleanliness and calm. Use for large bodies of text or information.
+- 10% Silver adds a subtle touch of flash. In print, use as a metallic ink whenever possible.
+- Our suite of premium typefaces is carefully selected to reinforce the Malouf asethetic in both subtle and striking ways. A bold yet refined application of these typefaces can elevate every instance of our brand.
+- Neutraface 2 Display is always used for headers, page titles, or any large copy, never for body copy. It should often be used in the lightest weight possible that is clearest for the application being used.
+- Neutraface 2 Text is best used for subheads or small bodies of text, such as captions, diagrams, etc. It can also be used for headers at smaller sizes.
+- Mercury Text is our standard typeface for body copy—specifically for large bodies of text. For emphasis, italics may be used. Se-mibold or bold may be used when secondary or tertiary emphasis is required.
+- Headlines should be set in Neutraface 2 Display in all caps with sufficient tracking (about 50–75) at sizes 16 pt and up. Keep the leading fairly tight. Using a different color from the rest of the text can better set the headline apart. Headers below the 16 pt size can be set in Neutraface 2 Text
+- Subheads may be set in Neutraface 2 Text 16 pt and below in sentence case without tracking. The leading can be tightened up a bit but make sure ascenders and descenders don’t overlap.
+- Mercury Text comprises the bulk of the body copy. Feel free to loosen the leading to better match the typographic “color” of the header and subheads.
+- Header: Neutraface 2 Display, 24 pt size, 26 pt leading, 50 tracking, all caps, silver; Subhead: Neutraface 2 Text, 14 pt size, 16 pt leading, 0 tracking, sentence case, white; Text: Mercury Text G2, 10 pt size, 14 pt leading, 0 tracking, sentence case, white
+- Malouf is masculine and refined. He has a high-class sense of style and appreciates the finer things in life. Malouflives in mod­ern homes and lofts with details set in hard lines and darker shades. Simple and ele­gant, Malouf embodies affordable luxury.
+- Modern elegance with a masculine feel.
+- Gray, Black, Charcoal, Metallics
+
+##### Layout And Composition
+
+- Adequate spacing should be given to the wordmark. Use the wordmark's "M" character as a guide to determine proper spacing.
+- Headlines should be set in Neutraface 2 Display in all caps with sufficient tracking (about 50–75) at sizes 16 pt and up. Keep the leading fairly tight. Using a different color from the rest of the text can better set the headline apart. Headers below the 16 pt size can be set in Neutraface 2 Text
+- Subheads may be set in Neutraface 2 Text 16 pt and below in sentence case without tracking. The leading can be tightened up a bit but make sure ascenders and descenders don’t overlap.
+- Mercury Text comprises the bulk of the body copy. Feel free to loosen the leading to better match the typographic “color” of the header and subheads.
+- Header: Neutraface 2 Display, 24 pt size, 26 pt leading, 50 tracking, all caps, silver; Subhead: Neutraface 2 Text, 14 pt size, 16 pt leading, 0 tracking, sentence case, white; Text: Mercury Text G2, 10 pt size, 14 pt leading, 0 tracking, sentence case, white
+
+##### Brand Architecture
+
+- Malouf is a sleep accessories company that offers a wide range of products. Those products are separated into five categories that are sub-brands of the primary brand.
+- Z® Pillow collection consisting of many types of materials like memory foam and latex
+- Woven™ Luxury bed linens combine superior materials with innovative technologies
+- Sleep Tite® Mattress protectors with a variety of protection and technologies
+- Structures® Bed frames that are strong, quiet and reliable
+- Isolus® Mattress toppers for an afforadable, easy way to upgrade or customize your mattress
+
+##### Tagline
+
+- Our tagline is an expression of our brand. “Attainable luxury” speaks to our commitment to creating moments of comfort and ease, beauty and elegance, refinement and sophistication every day through customized bedding options.
+- The tagline is best used for placements that benefit from the additional context it provides, such as areas of limited space and materials where the brand is new to the audience.
 
 ## Additional Properties
 

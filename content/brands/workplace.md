@@ -2,7 +2,7 @@
 title: Workplace
 slug: workplace
 description: ""
-date: "2026-03-20T08:22:04.214897"
+date: "2026-04-10T09:40:32.599399"
 draft: false
 sectors:
   - software
@@ -47,12 +47,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-brand_colors:
-  - "pantone-2379"
-  - "pantone-285"
-  - grey
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: collaboration software by Meta Platforms
@@ -72,29 +68,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Facebook Logo
-- Workplace wordmarks.
-- Logo
-- Logo
-- Logo
-- Logo as sets should be applied in an
-- to the ‘x-height’ of the wordmark.
-- Logo colour use
-- versions of the Logo to ensure
-- Logo
-
-**Color Information:**
-
-- #FFFFFFF
-- Pantone n/a
-- #EBE9E7
-- Pantone Cool Grey 1
-- #373E4C
-- Pantone 2379
-- #1479FB
-- Pantone 285
+*Guidelines data not available*
 
 ## Additional Properties
 

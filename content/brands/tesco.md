@@ -2,11 +2,11 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-03-20T08:22:04.884717"
+date: "2026-04-10T09:40:33.639793"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
+  - "e-commerce"
   - supermarket
 regions:
   - "united-kingdom"
@@ -36,8 +36,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "welwyn-garden-city"
   - cheshunt
+  - "welwyn-garden-city"
 subsidiaries: []
 foundation_dates:
   - 1919
@@ -60,21 +60,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - purple
-  - blue
-  - turquoise
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - product
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: British multinational retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q487494"
 has_twitter: false
@@ -100,59 +89,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Basic Elements
-1.0
-Tesco Black
-Tesco Bold
-Tesco Regular
-Logo
-Primary
-Primary colours
-Tesco
-Mari & David
-ELH device
-Secondary colours
-Cutout
-Underline
-Small tab
-Medium & long tabs
-Dividing line
-
-**Color Information:**
-
-- Secondary palette - Our brand comes to life for customers in all kinds of ways in all kinds of places - from stores to online. The secondary colors add depth and life to the stories we tell, complementing photography and products. Usage of secondary colors and lighter tints for warmer backgrounds. Examples include Turquoise, Olive Green, Fresh Green, Frozen Blue, Pale Blue, Purple, Burgundy.
-
-**Typography Information:**
-
-- Our typefaces:
-Tesco font is the voice of Tesco; combines warmth, friendliness, and authority.
-Mari & David font injects warmth and personality into customer communications.
-Arial replaces Tesco font when necessary, e.g., online and emails.
-
-**Imagery Photography:**
-
-- Photography:
-Carefully shot and beautifully lit, the goal of photography is to provoke a reaction. Styles include cutout product shots, products in situ, and everyday life situations.
-Important: all styles are equally significant and can coexist within the same communication.
-
-**Spacing Layout:**
-
-- Spacing and layout - Detailed specifications about the use of grids or margins are likely on cited pages like 67. These seem to indicate attention to functional design elements.
-
-**Brand Voice:**
-
-- Tone of voice guidelines:
-- Clear, honest, and simple language that resonates with customers.
-- Avoid excessive punctuation or stylistic embellishments.
-- Use everyday accessible language, directly addressing users.
-
-**Notes:**
-
-- General Notes:
-- The document emphasizes consistency in voice and appearance.
-- Communication principles guide layout, tone, and interaction instructions.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -162,7 +99,7 @@ Important: all styles are equally significant and can coexist within the same co
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Welwyn Garden City](/headquarters_locations/welwyn-garden-city/); [Cheshunt](/headquarters_locations/cheshunt/) |
+| Headquarters Location | [Cheshunt](/headquarters_locations/cheshunt/); [Welwyn Garden City](/headquarters_locations/welwyn-garden-city/) |
 | Foundation Date | [1919](/foundation_dates/1919/) |
 | Founded By | Jack Cohen |
 | Headquarters Location | Welwyn Garden City, Cheshunt |

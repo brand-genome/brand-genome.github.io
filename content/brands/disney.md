@@ -2,7 +2,7 @@
 title: Disney+
 slug: disney
 description: ""
-date: "2026-03-20T08:22:03.370177"
+date: "2026-04-10T09:40:30.886667"
 draft: false
 sectors:
   - broadcasting
@@ -70,7 +70,140 @@ visual_term_image_urls: {}
 
 ### 2020
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Disney+ brings together brands with unparalleled mindshare and emotional value into a single immersive experience, aiming to honor and respect the characters, stories, and classic moments that shaped users' memories and passions [^1].
+
+##### Core Values
+
+- magic
+- fun
+- wonder
+- emotional connection
+- respect for legacy
+- modernity
+- clarity
+- engagement
+- family
+- celebration of diversity
+
+##### Target Audience
+
+- Users from all generations who are deeply invested in Disney, Pixar, Marvel, Star Wars, and National Geographic content, with affinities to each brand's unique universe [^2].
+
+##### Personality Traits
+
+- playful
+- whimsical
+- inviting
+- modern
+- respectful
+- magical
+- fun
+- engaging
+
+##### Visual Identity Overview
+
+- The visual identity is centered around clean, inviting layouts with a dark background to highlight vibrant, colorful imagery and logos. It emphasizes legibility, simplicity, and a sense of magic and wonder, using playful fonts and balanced compositions. Brand imagery includes iconic characters, moments, and logos, with a focus on high production value and dynamic, engaging visuals [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- An ASSET refers to artwork or user interface element: a 2D digital still or moving image used for brand and title identification, tone-setting, or navigation.
+- Assets will be viewed at attention-grabbing, tone-setting, "heroic" scales, and as elements arranged in a grid where small details can get lost.
+- Assets will be viewed at a wide range of scales on various television screens and mobile devices.
+- Assets set the stage and prompt interaction, but also accommodate informational and interface overlays.
+- In most cases the Disney+ platform will use several versions of each asset to provide a range of emphases: heroes, ensembles, action shots, villains, iconic moments, etc.
+- Content Rows feature Tile Art representing Disney+ titles, organized according to promotions, recent views, user viewing history, genres, etc. Selecting a content row image takes the user to the title's corresponding Detail View Page.
+- The Hero Carousel promotes awareness of content in a rotating sequence of images. Selecting a carousel image takes the user to the corresponding Detail View Page.
+- The Brand Row features Tile Art for Disney+ brands. The images turn from still to animated when the Guest hovers over it. Selection takes s the user to the corresponding Brand Landing Page.
+
+##### Typography
+
+- Title Treatments should reflect the design and aesthetics of their titles, likely drawing from existing branding or marketing solutions. However, the Disney+ interface has specific requirements for modernity that provide an equal visual treatment for new and old titles, eliminate effects such as drop-shadows and glows, and work well in conjunction with other items. Title Treatments should not simply be repurposed from other communications contexts.
+- Prefer high-contrast white/light; free of decorative graphics (frames, plaques); free of shadows or glow effects. As Title Treatments vary in aspect ratio, title art should be placed in a 16x9 frame and Left Justified and Vertically Centered.
+- Constrain Artboard/Canvas to minimum desired size of 1920 by 1080 pixels.
+- Size title artwork to max height or max width depending on which is greater.
+- Left Justify and Horizontally Center the title art within the image.
+- Export entire Artboard/Canvas including alpha channel.
+- PNG on alpha.
+- If artwork is black & white, supply two treatments: one for placement over light backgrounds and one for placement over dark backgrounds.
+- Content Logo have to be white on a transparent background
+- Place your Content Logo top-left in the template.
+- Scale the logo until it is either using full width or height of the template. • Avoid drop shadows or any other text effects.
+
+##### Logo Usage
+
+- The Disney+ logo should prominently feature the word 'Disney' written in a playful, whimsical font typical of Disney branding, rendered in white color against a dark blue background. The background may include subtle, swirling patterns or light streaks that suggest a magical or enchanting atmosphere. To the right of the 'Disney' text, there should be a large plus sign ('+'), also in white, indicating the addition or extension of Disney content or services. The overall composition should be centered and balanced, emphasizing a clean and inviting look consistent with Disney's branding style, evoking a sense of magic, fun, and wonder. There may also be minor accents or light effects around the text to enhance the magical theme, but the focus remains on the clearly legible 'Disney+' logo.
+- Like most UI elements (including text), the Disney+ Original logo is 100% white, and designed to be displayed over medium to dark images and colors.
+- For Disney+ Original titles on the service, image assets are presented with the Disney+ Original logo in all cases except for when displayed on the Originals Landing Page. As the logo will be branded programmatically with the Disney+ Original logo, artwork and assets should be delivered without the Originals logo.
+- 100% White Originals logo will be added in production.
+- The artwork needs to create enough contrast on the top right corner so the logo is legible.
+- Disney+ Original logo 100% White, No Scrim
+
+##### Visual Style
+
+- An ASSET refers to artwork or user interface element: a 2D digital still or moving image used for brand and title identification, tone-setting, or navigation.
+- Assets will be viewed at attention-grabbing, tone-setting, "heroic" scales, and as elements arranged in a grid where small details can get lost.
+- Assets will be viewed at a wide range of scales on various television screens and mobile devices.
+- Assets set the stage and prompt interaction, but also accommodate informational and interface overlays.
+- In most cases the Disney+ platform will use several versions of each asset to provide a range of emphases: heroes, ensembles, action shots, villains, iconic moments, etc.
+- Tile Art: Primary representation of the content that identifies the title and motivates the guest to explore and eventually watch.
+- Detail View Hero: Background image for specific titles that displays premium representative artwork and elevates the mood of the content.
+- Home Page Carousel Full-Width Hero: Full-width background image that promotes featured and premium content.
+- Content Rows feature Tile Art representing Disney+ titles, organized according to promotions, recent views, user viewing history, genres, etc. Selecting a content row image takes the user to the title’s corresponding Detail View Page.
+- The Hero Carousel promotes awareness of content in a rotating sequence of images. Selecting a carousel image takes the user to the corresponding Detail View Page.
+- The Brand Row features Tile Art for Disney+ brands. The images turn from still to animated when the Guest hovers over it. Selection takes s the user to the corresponding Brand Landing Page.
+
+##### Layout And Composition
+
+- Assets will be viewed at attention-grabbing, tone-setting, "heroic" scales, and as elements arranged in a grid where small details can get lost.
+- Assets will be viewed at a wide range of scales on various television screens and mobile devices.
+- Content Rows feature Tile Art representing Disney+ titles, organized according to promotions, recent views, user viewing history, genres, etc. Selecting a content row image takes the user to the title’s corresponding Detail View Page.
+- The Hero Carousel promotes awareness of content in a rotating sequence of images. Selecting a carousel image takes the user to the corresponding Detail View Page.
+- The Brand Row features Tile Art for Disney+ brands. The images turn from still to animated when the Guest hovers over it. Selection takes the user to the corresponding Brand Landing Page.
+
+##### In Service Guidelines
+
+- In-Service Creative Guidelines and Specifications
+- An ASSET refers to artwork or user interface element: a 2D digital still or moving image used for brand and title identification, tone-setting, or navigation. Assets will be viewed at attention-grabbing, tone-setting, "heroic" scales, and as elements arranged in a grid where small details can get lost. Assets will be viewed at a wide range of scales on various television screens and mobile devices. Assets set the stage and prompt interaction, but also accommodate informational and interface overlays. In most cases the Disney+ platform will use several versions of each asset to provide a range of emphases: heroes, ensembles, action shots, villains, iconic moments, etc.
+- TILE ART Primary representation of the content that identifies the title and motivates the guest to explore and eventually watch.
+- DETAIL VIEW HERO Background image for specific titles that displays premium representative artwork and elevates the mood of the content.
+- HOME PAGE CAROUSEL FULL-WIDTH HERO Full-width background image that promotes featured and premium content.
+- Content Rows feature Tile Art representing Disney+ titles, organized according to promotions, recent views, user viewing history, genres, etc. Selecting a content row image takes the user to the title's corresponding Detail View Page.
+- The Hero Carousel promotes awareness of content in a rotating sequence of images. Selecting a carousel image takes the user to the corresponding Detail View Page.
+- The Brand Row features Tile Art for Disney+ brands. The images turn from still to animated when the Guest hovers over it. Selection takes s the user to the corresponding Brand Landing Page.
+
+##### Partner Image Guidelines
+
+- "PARTNERS" refers to third party video streaming apps, content delivery platforms, devices, and services. Links to Disney+ properties appear in partner search results and promotional contexts.
+- A PARTNER IMAGE ASSET is a representative image of a Disney+ Movie, Series, Season or Episode. While AppleTV, Smart Televisions, Amazon and other partners have different size requirements for these assets, their design standards should align with native counterparts on the Disney+ service.
+- PARTNER IMAGES are the interface between Partner services and Disney+, typically launching the Disney+ app. Partner images are only used for Movies, Series, Seasons or Episodes. The most common type of partner assets are TILE ART and HERO IMAGES. Used on the Apple, Google, Roku, Samsung, LG, and Vizio platforms.
+- PARTNER IMAGES should clearly feature characters and TITLE TREATMENTS, with the expectation that they will be easily identifiable on a variety of screens sizes.
+- Apple: LSR (Existing + Future) Apple: Display P3 + 16bit (Future) Series Art Required/Season Level Artwork Prefered
+- Existing D+ asset. LG is requesting P.75 but will accept P.71
+- Series Art Required/Season Level Artwork Prefered
+- Need to confirm image type with Samsung Series Art Required/Season Level Artwork Prefered
+- Apple: “Backdrop Tall” template available Apple: Display P3 + 16bit (Future) Bespoke asset for Apple
+- Apple: “Backdrop Wide” template available Apple: Display P3 + 16bit (Future) Bespoke asset for Apple
+- Apple: “Full Color Content Logo” template available Apple: Display P3 + 16bit (Future) Bespoke asset for Apple Top Left Justified
+- Must not have title treatments. Apple Only.
+- Apple: “Single Color Content Logo” template available Apple: Display P3 + 16bit (Future) Top Left Justified Bespoke asset for Apple
+- Apple: LSR (Existing + Future) Apple: Display P3 + 16bit (Future)
+- Artwork should use the full size of the canvas.
+- Avoid abrupt crops of heads or other body parts.
+- If the art features talent, keep eyes and chin within the art safe area.
+- Don't upscale artwork.
+- Content Logo have to be white on a transparent background
+- Place your Content Logo top-left in the template.
+- Scale the logo until it is either using full width or height of the template.
+- Avoid drop shadows or any other text effects.
+- Art Safe Area (green) needs to contain the main portions of talents faces -eyes, nose, mouth, chins, etc.
+- Low Contrast Area (red) keep artwork in this area low contrast and avoid having any important objects or faces here to ensure maximum legibility.
+- Auxiliary Art Area (yellow) fill the entire area with artwork but avoid placing any key elements here. However, peoples' foreheads, hair, etc. can occupy this area.
 
 ## Additional Properties
 

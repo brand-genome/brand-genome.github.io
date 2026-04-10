@@ -2,7 +2,7 @@
 title: SendGrid
 slug: sendgrid
 description: ""
-date: "2026-03-20T08:22:05.171035"
+date: "2026-04-10T09:40:34.032776"
 draft: false
 sectors:
   - software
@@ -51,17 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - blue
-typographies:
-  - "proxima-nova"
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: email delivery service
 wikidata_url: "https://www.wikidata.org/wiki/Q16961710"
 has_twitter: false
@@ -81,32 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Preferred primary logo version for light backgrounds and dark backgrounds shown. Includes 'infinity symbol', logotype and registered (®) symbol.
-- Secondary corporate signature versions for both light and dark backgrounds; large and small versions shown.
-- Clear space (safe zones) for primary and secondary marks defined. Methods to calculate safe areas specified.
-- Logo files available: 2015_SG_Logo_RGB.eps, 2015_SG_Logo_W_Reversed.eps, 2015_SG_2nd_Large_RGB.eps, 2015_SG_2nd_Large_W_Reversed.eps, 2015_SG_2nd_Small_RGB.eps, 2015_SG_2nd_Small_W_Reversed.eps. File formats include EPS.
-- Unacceptable logo usage specified: Do not skew, scale, recolor, remove elements like the infinity symbol or ®, rotate, or place on complicated backgrounds.
-
-**Color Information:**
-
-- Primary colors: SendGrid Blue (#1A82E2, RGB: 26, 130, 226, PMS 299 U), Slate (#294661, RGB: 41, 70, 97), and Mantis (#18C96E, RGB: 24, 201, 110, PMS 7479 U).
-- Accent/Secondary chart colors include hues like Ron Burgundy (#B71C1C), Mango (#FDD835), Lime (#CBDB39), and multiple others with HEX and RGB codes.
-
-**Typography Information:**
-
-- Primary typeface: Colfax Light. Sentence case preferred, with optional use of Colfax Bold for all caps. Line spacing examples provided: e.g., 25pt Colfax with 37pt line spacing.
-- Secondary typefaces: Colfax Bold for subheadlines; Franziska Pro Italic for body copy; Proxima Nova Light for tertiary elements used only in products.
-
-**Spacing Layout:**
-
-- Safe area specifications emphasized for all logo variations. Ensure proportional and protected zones are maintained.
-
-**Notes:**
-
-- Legal terms noted briefly on the last page but without explicit branding implications.
-- Tangible design examples section referenced, but details likely involve illustrations not extracted textually.
+*Guidelines data not available*
 
 ## Additional Properties
 

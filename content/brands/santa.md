@@ -2,7 +2,7 @@
 title: Santa
 slug: santa
 description: ""
-date: "2026-03-20T08:22:05.317710"
+date: "2026-04-10T09:40:34.151270"
 draft: false
 sectors:
   - entertainment
@@ -45,18 +45,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - abstract
-  - secondary
-brand_colors:
-  - red
-  - white
-typographies:
-  - serif
-imagery_styles:
-  - bold
-  - abstract
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Spanish musical group; heavy metal band
 wikidata_url: "https://www.wikidata.org/wiki/Q6120205"
 has_twitter: false
@@ -70,25 +62,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Color Information:**
-
-- The primary brand color is red (Pantone Red 032 C). The secondary color is white (Pantone White 000 C). No tertiary color is mentioned. Red was chosen for its connection to blood (signifying family) and communism (suggesting sharing).
-
-**Typography Information:**
-
-- The brand font is 'Santa Serif' and 'Santa Serif Bold'.
-
-**Imagery Photography:**
-
-- Imagery orientation must follow strict guidelines, and all items must be checked twice.
-
-**Brand Voice:**
-
-- Approved vocabulary should be convivial, festive, and jolly. Familiarity must be avoided; for example, the term 'Father Christmas' should not be used. Communication aligns with slogans like 'Never Knowingly Undersnowed.' Prominent traits include fondness for children, generosity, being round and jolly, and red-faced demeanor.
-
-**Notes:**
-
-- The document contains a conceptual narration of the 'Santa' brand, intertwining abstract, metaphorical representations repeatedly. Technical guidelines often lack clarity and are communicated indirectly with emphasis on ethos.
+*Guidelines data not available*
 
 ## Additional Properties
 

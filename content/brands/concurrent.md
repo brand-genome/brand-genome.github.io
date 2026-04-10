@@ -2,7 +2,7 @@
 title: Concurrent
 slug: concurrent
 description: ""
-date: "2026-03-20T08:22:03.066678"
+date: "2026-04-10T09:40:30.564128"
 draft: false
 sectors:
   - hardware
@@ -51,17 +51,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - dynamic
-  - artificial
-  - flat
-  - bold
-  - modern
-  - natural
-  - static
-  - photography
-  - serious
+imagery_styles: []
 wikidata_description: historical centralized version control system
 wikidata_url: "https://www.wikidata.org/wiki/Q467252"
 has_twitter: false
@@ -80,23 +70,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Imagery Photography:**
-
-- General principles for photography and videography emphasize authenticity (use real people, real environments, authentic moments), diversity and inclusiveness (showcase a diverse range of people), momentum and energy (convey movement and progress), clarity and focus (clear and distraction-free visuals with a central subject), innovation and modernity (highlight modern technology and cutting-edge environments), and emotional connection (evoking positive emotions).
-- Photography guidelines include the use of dynamic angles (avoid static or flat shots), depth and perspective (creating layers in images), natural lighting (or artificial light mimicking natural light), and showing subjects like people at work (collaborating with technology), technology in action (real-world applications), and behind-the-scenes footage (R&D, operations). Examples include action shots (engineers working), human element (smiling employees), and technology focus (close-ups of innovative tech).
-- Videography guidelines emphasize storytelling with narrative-driven content, short and impactful videos (1-2 minutes for general content, 3-5 minutes for in-depth stories), and highlighting progress or journeys. Subject matters include innovation stories, customer success, and employee spotlights. Technical style requires smooth cuts and transitions, camera movements like panning, and high-definition footage with clear narration and engaging soundtracks.
-- Hero image containers include triangles or hexagons meant to draw attention and work well over synthwave elements. They must have drop shadows (4% of shape height, offset on X-axis), rounded corners (5-10% of shape's height), and scaled proportionally during resizing. Examples include dimensions for print (250 mm height: 10 mm shadow, 25 mm corner radius) and digital (500 px height: 20 px shadow, 25-50 px corner radius).
-
-**Brand Voice:**
-
-- The brand voice is consistent and reflects the brand's personality, described as open (friendly, inclusive, and optimistic), curious (innovative and creative), expert (confident and precise), and committed (reliable and structured).
-- Tone shifts based on context to better communicate messages. It adapts to situations such as customer support (structured and clear), product launch (friendly, bold, and creative), and thought leadership (confident and precise). Key principles include staying true to values, adapting to the audience, and matching the tone to the situation.
-- Flexing the brand voice across channels involves adapting the tone for social media (more humorous and personality-driven), marketing communications (friendly yet efficient), and internal communications (community-building while keeping messages light unless serious matters). Key principles for flexibility include understanding the audience, staying true to the brand voice, and maintaining clarity.
-
-**Notes:**
-
-- Photography and videography guidelines emphasize visual storytelling as a core aspect of brand identity, aiming for consistency while showcasing brand values and forward motion (momentum, pace). This helps the brand stand out distinctly.
-- Contact details for further details or asset location: Rachael Bilecki (Head of Marcomms) at rachael.bilecki@cct.co.uk or marketing@cct.co.uk.
+*Guidelines data not available*
 
 ## Additional Properties
 

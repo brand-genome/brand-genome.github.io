@@ -2,11 +2,11 @@
 title: AIAA
 slug: aiaa
 description: ""
-date: "2026-03-20T08:22:05.799636"
+date: "2026-04-10T09:40:34.794232"
 draft: false
 sectors:
-  - aerospace
   - ngo
+  - aerospace
 regions:
   - usa
 years:
@@ -52,8 +52,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - blue
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: professional society for the field of aerospace engineering
@@ -74,25 +73,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Details about logos/logomarks found on pages related to logo standards.
-
-**Color Information:**
-
-- Details about colors, including PMS 287 (blue) color variations and contexts where they apply.
-
-**Typography Information:**
-
-- Typography guidelines including font type and applications for the AIAA tagline text.
-
-**Brand Voice:**
-
-- Details about the philosophy of AIAA's branding, brand hierarchy, and positioning.
-
-**Notes:**
-
-- Mentions of AIAA's policies and brand management standards across manual pages.
+*Guidelines data not available*
 
 ## Additional Properties
 

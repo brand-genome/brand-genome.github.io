@@ -2,7 +2,7 @@
 title: Karcher
 slug: karcher
 description: ""
-date: "2026-03-20T08:22:04.402521"
+date: "2026-04-10T09:40:33.138830"
 draft: false
 sectors:
   - hardware
@@ -29,10 +29,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "robotic-vacuum-cleaner"
   - "battery-lawn-mower"
-  - "pressure-washer"
   - "vacuum-cleaner"
+  - "pressure-washer"
+  - "robotic-vacuum-cleaner"
 products: []
 headquarters_locations:
   - winnenden
@@ -58,10 +58,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - yellow
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: German cleaning equipment manufacturer
@@ -82,18 +80,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Color Information:**
-
-- Primary color: Yellow (Pantone Yellow Basic) with CMYK: 0.0.100.0, RGB: (255,236,0), HEX: #FFDE00.
-- Primary color: Yellow (Pantone Yellow Basic) with CMYK: 0.0.100.0, RGB: (255,236,0), HEX: #FFDE00.
-
-**Spacing Layout:**
-
-- Design principles include flexible yellow space for positioning text and consistent picture area with reserved logo space.
-- Design principles include flexible yellow space for positioning text and consistent picture area with reserved logo space.
-- Design principles include flexible yellow space for positioning text and consistent picture area with reserved logo space.
-- Design principles include flexible yellow space for positioning text and consistent picture area with reserved logo space.
-- Design principles include flexible yellow space for positioning text and consistent picture area with reserved logo space.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -103,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Robotic Vacuum Cleaner](/products_or_materials_produced/robotic-vacuum-cleaner/); [Battery Lawn Mower](/products_or_materials_produced/battery-lawn-mower/); [Pressure Washer](/products_or_materials_produced/pressure-washer/); [Vacuum Cleaner](/products_or_materials_produced/vacuum-cleaner/) |
+| Product Or Material Produced | [Battery Lawn Mower](/products_or_materials_produced/battery-lawn-mower/); [Vacuum Cleaner](/products_or_materials_produced/vacuum-cleaner/); [Pressure Washer](/products_or_materials_produced/pressure-washer/); [Robotic Vacuum Cleaner](/products_or_materials_produced/robotic-vacuum-cleaner/) |
 | Headquarters Location | [Winnenden](/headquarters_locations/winnenden/) |
 | Foundation Date | [1945](/foundation_dates/1945/) |
 | Freebase Id | /m/085rqy, /m/0r8g08g |

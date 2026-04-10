@@ -2,7 +2,7 @@
 title: US Ski and Snowboard
 slug: "us-ski-and-snowboard"
 description: ""
-date: "2026-03-20T08:22:05.409289"
+date: "2026-04-10T09:40:34.263614"
 draft: false
 sectors:
   - sports
@@ -50,27 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - crest
-  - horizontal
-  - lockup
-  - primary
-brand_colors:
-  - "pantone-1795"
-  - "pantone-282"
-  - white
-  - gray
-  - black
-  - "pantone-000"
-typographies:
-  - arial
-  - gotham
-imagery_styles:
-  - bold
-  - clean
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: national governing body for Olympic skiing and snowboarding
 wikidata_url: "https://www.wikidata.org/wiki/Q3429719"
 has_twitter: false
@@ -90,38 +73,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Clear space for U.S. Ski & Snowboard logos should equal the height of the US lockup element across all logo variants.
-- Single color logos may use Pantone 282 C, Pantone 1795 C, Cool Gray 2C, Pantone Black C, or pure white (Pantone 000 C).
-- Horizontal and vertical team crest customizations are allowed for official partners, suppliers, and medical providers. Text must align properly, and Gotham HTF Bold or Book font is used exclusively in these designs.
-- Do not use acronyms such as 'USSA'; always use 'U.S. Ski & Snowboard'.
-
-**Color Information:**
-
-- Primary brand colors include: Pantone 282 C (CMYK: 100, 87, 42, 52; RGB: 4, 30, 65; HEX: #041E41), Pantone 1795 C (CMYK: 9, 98, 93, 1; RGB: 217, 39, 46; HEX: #D9272E), Cool Gray 2C (CMYK: 17, 14, 15, 0; RGB: 210, 208, 205; HEX: #D2D0CD), and Pantone 000 C (CMYK: 0, 0, 0, 0; RGB: 255, 255, 255; HEX: #FFFFFF). For single-tone designs, Pantone Black C (CMYK: 63, 62, 59, 94; RGB: 45, 41, 38; HEX: #2D2926) is also supported.
-
-**Typography Information:**
-
-- Primary typeface: Gotham, with styles including Bold, Medium, and Book. Secondary typeface: Arial for situations requiring simplified text.
-- Examples of Gotham typeface role usage include crest text customization and organizational partner titles.
-
-**Imagery Photography:**
-
-- Photography must focus on athletes, emphasizing the sport with strong emotional storytelling. Images should retain visual references such as gates or jumps, showcase control and form, and maintain high visual quality.
-
-**Spacing Layout:**
-
-- Mockups must maintain clean design and proportional logo sizing for optimal visibility.
-
-**Brand Voice:**
-
-- The brand voice emphasizes team unity, excellence, passion for outdoor life, and a mission to achieve sporting greatness.
-
-**Notes:**
-
-- The brand emphasizes its rich history, established in 1905, and its commitment to fostering team spirit and organizational excellence.
-- The modernized U.S. Ski & Snowboard crest symbolizes unity among all represented sports.
+*Guidelines data not available*
 
 ## Additional Properties
 

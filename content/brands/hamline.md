@@ -2,7 +2,7 @@
 title: Hamline
 slug: hamline
 description: ""
-date: "2026-03-20T08:22:05.722513"
+date: "2026-04-10T09:40:34.676257"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -55,20 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - grey
-  - black
-typographies:
-  - garamond
-  - georgia
-  - poppins
-  - roboto
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private liberal arts college in Saint Paul, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q1366519"
 has_twitter: false
@@ -91,33 +81,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- This document includes rules for logo variations, clear space guidelines, minimum size requirements, color versions, and best practices. Details such as PMS color codes are provided for logo application on pages including reversed colors.
-
-**Color Information:**
-
-- Detailed primary and secondary color codes, including Pantone 201C for brand identity and variations like COOL GREY and Pantone 1788C for secondary accents. CMYK, RGB, and HEX codes provided for design application.
-
-**Typography Information:**
-
-- Approved fonts include Poppins, Roboto, Adobe Garamond Pro, Georgia, and Neutraface. Each font is specified for print, digital, and varying audience tones.
-
-**Imagery Photography:**
-
-- Photographic guidelines emphasize black-and-white imagery with patterns incorporating brand colors, with restrictions on pattern selection.
-
-**Spacing Layout:**
-
-- Spacing conventions include maintaining consistent typography and clear space for logo placement across collateral materials. Use proportional spacing based on defined grid systems.
-
-**Brand Voice:**
-
-- Brand tone conveys Hamline's values as Bold, Determined, Tenacious, Passionate, and Progressive. Suggested tones vary for trustees, donors, prospective students, and official communications.
-
-**Notes:**
-
-- Additional guidelines emphasize consistent digital assets and the importance of adhering to visual principles outlined for cohesive branding across Hamline University's communications.
+*Guidelines data not available*
 
 ## Additional Properties
 

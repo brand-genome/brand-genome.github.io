@@ -2,7 +2,7 @@
 title: University at Albany
 slug: "university-at-albany"
 description: ""
-date: "2026-03-20T08:22:04.014492"
+date: "2026-04-10T09:40:31.989279"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2003
   - 2019
+  - 2003
 languages:
   - english
 tags:
@@ -54,23 +54,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - primary
-brand_colors:
-  - gold
-  - purple
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "state university in Albany, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q1780816"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -81,32 +74,6 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2003
-
-**Logo Information:**
-
-- The seal should not be reduced below 3/4-inch in diameter. The acceptable colors for reproduction are black, UAlbany Purple (PMS 269), UAlbany Gold (PMS 124), and Metallic Gold (PMS 872). The seal may not be printed as a reversal. It should always be used on light-colored stock.
-- The layout and design of University stationery items such as letterhead, envelopes, and business cards cannot be altered or modified. Only the University-approved logo and wordmarks should be used.
-- Trademarked wordmarks and logos that appear on merchandise must be approved by the University Licensing and Trademarks Office. Only licensed vendors can produce merchandise bearing University trademarks.
-
-**Color Information:**
-
-- The University-approved colors for the seal are Black, UAlbany Purple (PMS 269), UAlbany Gold (PMS 124), and Metallic Gold (PMS 872). Light-colored stock is recommended for proper visibility.
-
-**Typography Information:**
-
-- The University-approved fonts include Janson (Roman, Italic, Bold), Public Sans (Light, Thin, Extra Light, Regular, Medium, Bold, Extra Bold, Black), Rational Display (Semibold, All Caps), Trade Gothic LT Std Bold Condensed No. 20 (for subheads, body copy emphasis, and headlines), and Trajan Pro (Headlines only, All Caps). Public Sans and Rational Display are the primary fonts, with Janson Text or Public Sans Light used for body copy. Public Sans Light is required for body copy in all digital applications.
-- Trade Gothic will be phased out in University designs but is still an approved font. Public Sans and Rational Display should be used in its place.
-
-**Spacing Layout:**
-
-- Letterhead and business card layouts have specific margin specifications and alignment rules. For letterhead: margins are 1.25 inches, body text aligns with the university name, and address formatting rules provide guidelines for line spacing and alignment for web addresses.
-- Tracking for Rational Display should be set between 200-1000 depending on the design. Janson Text and Public Sans Light should have settings at -25, optical tracking for body copy.
-
-**Notes:**
-
-- All wordmarks, brandmarks, or logos intended for merchandise must be pre-approved by the University Licensing and Trademarks Office, and vendors must be licensed. Information about licensed vendors can be found at https://www.albany.edu/purchasing/assets/UAlbany_Client_Vendor_List.pdf.
-
-### 2019
 
 *Guidelines data not available*
 

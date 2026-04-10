@@ -2,7 +2,7 @@
 title: Special Olympics Australia
 slug: "special-olympics-australia"
 description: ""
-date: "2026-03-20T08:22:04.228332"
+date: "2026-04-10T09:40:32.684876"
 draft: false
 sectors:
   - sports
@@ -55,15 +55,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-293"
-  - black
-typographies:
-  - ubuntu
-  - arial
-imagery_styles:
-  - realistic
-  - professional
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q117075611"
 has_twitter: false
@@ -82,41 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The available logo versions include Color, Mono (black), and Reverse.
-- File formats for logos and assets include EPS for high-resolution vector graphics, PNG for medium resolution with transparency, and JPG for low-resolution web use.
-- Logos should only be used from official master artwork files provided by Special Olympics Australia, and they must not be photocopied, scanned, or redrawn.
-- The logo must be placed on a background that does not interfere with logo recognition.
-- Revised logo sets for each club integrate the master brand with the club name for compliance during orders. Clubs are encouraged to use these by the 2018-19 accreditation cycle.
-
-**Color Information:**
-
-- The color set includes Pantone values for branding: Pantone 293 C, 123 C, 278 C, 5395 C, 202 C, 199 C, 137 C, 342 C, 114 C, 485 C, 533 C, and 109 C.
-- Clubs, states, and zones follow a unified visual identity, including designated colors as listed in the Pantone codes for logo and branding consistency.
-
-**Typography Information:**
-
-- The recommended font for professional artwork is Ubuntu, and Arial is to be used for general applications.
-
-**Imagery Photography:**
-
-- Use photographs where the athletes in the images are over 18 and have given media consent. Photographers should also be credited for their work.
-- Athletes should be informed of any planned commercial use of their images. Any third-party usage of athlete images requires specific consent as indicated by the Special Olympics Official General Rules (2014).
-- Athletes' names and likenesses used for promotional activities should conform to permissions granted in the Athlete Release Form.
-
-**Brand Voice:**
-
-- Special Olympics Australia promotes language that portrays individuals with intellectual disabilities with dignity and individuality by putting the person first.
-- Avoid terms such as 'handicapped' and 'mentally retarded' as these are derogatory and outdated. Use phrases like 'person with an intellectual disability' or 'people with intellectual disabilities.'
-- Language should avoid excessive praise and avoid portraying disabilities in a negative or life-defining way. Communication should be supportive and realistic.
-- Refer to Special Olympics athletes as 'athletes' rather than using terms such as 'Special Olympians.' The organization prefers terms that avoid implying a one-time event, as Special Olympics is ongoing.
-
-**Notes:**
-
-- Athlete images must not be exploited for commercial purposes. Terms of use must safeguard the dignity of the athlete and follow official athlete release permissions.
-- Photographers should ensure the images used meet guidelines for ethical and appropriate use, including proper consent.
-- The IOC formally recognizes Special Olympics Inc. as a promoter of sporting activities for individuals with intellectual disabilities.
+*Guidelines data not available*
 
 ## Additional Properties
 

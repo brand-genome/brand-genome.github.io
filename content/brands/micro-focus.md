@@ -2,11 +2,11 @@
 title: Micro Focus
 slug: "micro-focus"
 description: ""
-date: "2026-03-20T08:22:04.227202"
+date: "2026-04-10T09:40:32.670323"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: former British multinational software and information technology business
 wikidata_url: "https://www.wikidata.org/wiki/Q1931458"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -74,12 +74,6 @@ visual_term_image_urls: {}
 - [https://www.microfocus.com](https://www.microfocus.com)
 - [http://www.microfocus.com/resources](http://www.microfocus.com/resources)
 - [http://www.microfocus.com](http://www.microfocus.com)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-03-20T08:22:04.331610"
+date: "2026-04-10T09:40:33.035177"
 draft: false
 sectors:
   - research
@@ -52,19 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-brand_colors:
-  - silver
-  - white
-  - purple
-  - grey
-typographies:
-  - times
-  - display
-imagery_styles:
-  - product
-  - natural
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q7163465"
 has_twitter: false
@@ -84,32 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Pennington logo usage guidelines, product placement rules, and logo variations (Pennington Purple vs White). Logo clear space guidelines detailed for lab coat pockets, polo shirts, and hooded jackets.
-- Safe zones for logo variation: On lab coats, logos cover 80% of the pocket width, with the PB symbol covering 50% width.
-- On Pennington Purple apparel or merchandise, white logos with purple tinted straplines are preferred. Reversed logos (purple on white) are used when needed for clarity.
-- Incorrect usage examples include putting the PB symbol multiple times on single items (e.g., lab coats).
-
-**Color Information:**
-
-- Official brand colors include Pennington Purple used for logos and accent elements on white backgrounds.
-- Complementary accessory backgrounds mentioned: Pennington Purple, white, natural canvas, silver/grey.
-
-**Typography Information:**
-
-- Font Neue Haas Grotesk Display Pro 65 Medium adopted for web address placement on branded merchandise, with specific sizing rules aligned with logo and symbol proportions.
-- Font size tied to lowercase letters in the logo for uniformity on mugs, tumblers, water bottles, and other merchandise.
-
-**Spacing Layout:**
-
-- Grid layout specifications for logo and PB symbol placements; grid dimensions vary based on products (e.g., mugs, tumblers, water bottles, apparel).
-- Logo and symbol centered horizontally and vertically per grid rules (e.g., 80% width for logos, 50%-60% width allocation on pockets and shirts).
-
-**Notes:**
-
-- Brand contact information provided for Lisa Stansbury (email: lisa.stansbury@pbrc.edu) or Kevin Lyle (email: krl@naveonguides.com).
-- Product-specific guidelines cover lab coats, polo shirts, hooded jackets, mugs, tumblers, caps, bags, and notebooks.
+*Guidelines data not available*
 
 ## Additional Properties
 

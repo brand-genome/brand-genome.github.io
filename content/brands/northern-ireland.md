@@ -2,7 +2,7 @@
 title: Northern Ireland
 slug: "northern-ireland"
 description: ""
-date: "2026-03-20T08:22:04.718427"
+date: "2026-04-10T09:40:33.444473"
 draft: false
 sectors:
   - "public-sector"
@@ -11,8 +11,8 @@ regions:
   - ireland
   - "united-kingdom"
 years:
-  - 2019
   - 2015
+  - 2019
 languages:
   - english
 tags:
@@ -51,32 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - "pantone-2152"
-  - maroon
-  - blue
-  - "pantone-298"
-  - "pantone-2627"
-  - black
-typographies:
-  - display
-  - serif
-imagery_styles:
-  - vibrant
-  - dynamic
-  - staged
-  - bold
-  - portrait
-  - natural
-  - photography
-  - landscape
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "men's national association football team representing Northern Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q190978"
 has_twitter: false
@@ -98,73 +76,11 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The logo consists of a unique iconic design by artist Colin Davidson. Includes a portrait and landscape version. The minimum size for the portrait version is 25mm high, and 35mm wide for the landscape version. Clear space around the logo must equal the height of the 'S' from the typeface used.
-- Full-color portrait version of the logo is preferred, but landscape versions may be used where space is limited. The reversed-out version can be used on dark backgrounds. All colors in the reversed version must remain white except for the icon.
-- Mono (black and white) versions are accepted when full-color printing/display is not an option. The icon element should be removed in such cases.
-- Examples of incorrect usage include rotating the logo, altering its colors, using drop shadows, distorting proportions, adding city names to the design, placing the logo in a clashing color background or white box, and using unapproved versions.
-- Digital applications require specific logo dimensions depending on viewport size. The minimum size for portraits is 200px. Calibri is the substitute system font if the custom typefaces cannot be used.
-
-**Color Information:**
-
-- Primary colors derived directly from the logo include a vibrant palette for different uses: HEX, CMYK, RGB, and PANTONE equivalents provided for each. Colors feature Embrace Blue (Pantone 298, HEX #4bb4e4), Embrace Green (Pantone 2152, HEX #008e5a), Embrace Maroon (Pantone 2627), and other combinations. Colors are arranged hierarchically for legibility.
-- Tints of black (90%-10%) are acceptable for design purposes. Color combinations and contrasts are tested for accessibility, including for users with visual impairments (e.g., Protanopia and Deuteranopia). Uses AAA, AA compliance standards for contrast visibility evaluation.
-
-**Typography Information:**
-
-- Custom 'Northern Ireland' serif font, hand-painted by Colin Davidson, is used for headlines and brand elements with a minimum size of 16pt. Secondary typeface available for body and captions.
-- When custom fonts are unavailable, Calibri Regular and Bold are used as fallback system fonts for Microsoft Word, Excel, PowerPoint, and EDMs.
-
-**Imagery Photography:**
-
-- Photography rules emphasize unposed, candid, and immersive shots capturing participants' perspectives. Natural lighting and focused high-quality action shots are encouraged to emphasize the character, personality, and 'giant spirit' of the brand.
-
-**Spacing Layout:**
-
-- Logo clear space must equal the height of the 'S' from the typeface. Digital logo dimensions and viewport size recommendations are outlined for various digital contexts.
-
-**Brand Voice:**
-
-- Tone of voice is friendly, informal, and conversational. Avoids jargon and clichés; emphasizes storytelling and sensory writing (e.g., taste, sound, texture). Encourages an active voice, present tense, and guest-focused language.
-
-**Notes:**
-
-- Brand is designed to align with Tourism Ireland's global initiatives including Wild Atlantic Way and Ireland's Ancient East. Clear hierarchy of partner logo placement when needed in collaborative materials.
-- Contact for branding questions can be made via email at embraceagiantspirit@tourismni.com.
+*Guidelines data not available*
 
 ### 2015
 
-**Logo Information:**
-
-- Rules regarding logo standout, contrast, color tones, and reversal.
-- Corporate equation with discovernorthernireland.com call to action and corporate marque.
-
-**Color Information:**
-
-- Primary color palette to ensure maximum standout; guidance regarding reversals and accent colors.
-
-**Typography Information:**
-
-- The Northern Ireland typeface, including Headline, Bold, and Regular variants designed for specific roles.
-- Accessibility statement requirements: Northern Ireland Regular font, 14pt size with 16.8pt leading.
-
-**Imagery Photography:**
-
-- Photography should reflect honesty, celebrate the weather, and caption every image. It should use engaging, honest photos of real people and places.
-- Landscape photography must avoid usual 'calendar shots'; perspectives and dynamic compositions recommended.
-
-**Spacing Layout:**
-
-- Headline bars must always match the consumer marque color and their angle cannot be altered. They should be placed based on image composition (negative space).
-
-**Brand Voice:**
-
-- Tone emphasizes real people, honesty, and celebrating uniqueness. Photos tell stories and avoid staged or glamorous approaches.
-
-**Notes:**
-
-- Corporate marque usage is mandatory for event sponsorship, with flexibility in typography arrangement under unique circumstances.
+*Guidelines data not available*
 
 ## Additional Properties
 

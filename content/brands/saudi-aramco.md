@@ -2,12 +2,12 @@
 title: Saudi Aramco
 slug: "saudi-aramco"
 description: ""
-date: "2026-03-20T08:22:03.837852"
+date: "2026-04-10T09:40:31.472334"
 draft: false
 sectors:
+  - oil
   - petroleum
   - gas
-  - oil
 regions:
   - "saudi-arabia"
 years:
@@ -15,13 +15,13 @@ years:
 languages:
   - arabic
 tags:
-  - industry
   - featured
+  - industry
 industries:
-  - "extraction-of-petroleum"
   - "oil-refining"
-  - "extraction-of-crude-petroleum-and-natural-gas"
+  - "extraction-of-petroleum"
   - "petroleum-industry"
+  - "extraction-of-crude-petroleum-and-natural-gas"
 countries:
   - "saudi-arabia"
 revenue_buckets:
@@ -50,8 +50,8 @@ foundation_dates:
   - 1988
   - 1932
 foundation_year_buckets:
-  - 1980S
   - 1930S
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,9 +76,9 @@ imagery_styles: []
 wikidata_description: "Saudi Arabian state-owned petroleum company"
 wikidata_url: "https://www.wikidata.org/wiki/Q679322"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -86,12 +86,6 @@ visual_term_image_urls: {}
 
 - [https://www.aramco.com](https://www.aramco.com)
 - [https://www.aramco.com/en](https://www.aramco.com/en)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

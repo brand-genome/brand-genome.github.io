@@ -2,7 +2,7 @@
 title: Tourism Ireland
 slug: "tourism-ireland"
 description: ""
-date: "2026-03-20T08:22:05.723068"
+date: "2026-04-10T09:40:34.677760"
 draft: false
 sectors:
   - "public-sector"
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - green
-  - white
-  - purple
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - playful
-  - natural
+imagery_styles: []
 wikidata_description: Republic of Ireland Tourism agency
 wikidata_url: "https://www.wikidata.org/wiki/Q5511392"
 has_twitter: false
@@ -84,24 +76,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- When the logo sits on white, use the Purple and Green logo.
-- When the logo is overlayed on imagery, use the white logo whenever possible.
-- A minimum clear area should be maintained around the logo, equivalent to the size of the right leaf of the shamrock.
-- Four color variants for the logo: all white, white with green shamrock, purple with green shamrock, and all black.
-
-**Color Information:**
-
-- Primary color palette includes Purple (CMYK: C:83 M:100 Y:0 K:23, RGB: R:73 G:29 B:110, HEX: #491D6E, PANTONE: 2627), Dark Green (CMYK: C:100 M:0 Y:79 K:9, RGB: R:0 G:142 B:90, HEX: #008E5A, PANTONE: 347), Light Green (CMYK: C:65 M:0 Y:100 K:9, RGB: R:95 G:168 B:44, HEX: #5FA82C, PANTONE: 369), and White (CMYK: C:0 M:0 Y:0 K:0, RGB: R:255 G:255 B:255, HEX: #FFFFFF).
-
-**Brand Voice:**
-
-- The tone of voice should be lively, energetic, friendly, natural, engaging, warm, invitational, conversational, colloquial, playful, informal, with a touch of charm and wit.
-
-**Notes:**
-
-- The shamrock is an iconic symbol representing Tourism Ireland and should not be altered in any way.
+*Guidelines data not available*
 
 ## Additional Properties
 

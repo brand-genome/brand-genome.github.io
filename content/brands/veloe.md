@@ -2,7 +2,7 @@
 title: Veloe
 slug: veloe
 description: ""
-date: "2026-03-20T08:22:04.350588"
+date: "2026-04-10T09:40:33.080683"
 draft: false
 sectors:
   - automobile
@@ -46,22 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - grey
-  - blue
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - gradient
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,31 +67,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo versions mentioned include horizontal. Explicit instruction not to redraw, resize, or change the logo other than outlined in the document. Limited use guidelines for logo visibility options.
-- Details provided for logo usage on darkened backgrounds with various settings, including white/black circle logos and maintaining logo visibility in photographic designs.
-- Minimum size guideline: Horizontal and vertical versions should be no smaller than 176 mm or 500 pixels in height. No preset maximum size outlined.
-- Do's and Don'ts for logo usage include avoiding illegible backgrounds, manipulation, distortions, or replacing elements. Maintain clear space and avoid rotations or color alterations.
-
-**Color Information:**
-
-- Core colors include Black, Green, Blue, Red, and Grey. Each is provided with HEX, RGB, CMYK, and RAL codes. Secondary colors presented as percentages (80%, 60%, 40%, 20%).
-- Color usage guidelines emphasize matching RAL and process colors, avoiding alternative colors, and ensuring proper gradient and white space usage.
-
-**Typography Information:**
-
-- Primary font family is 'Comfortaa' with weights: Bold (headlines), Medium (body text), and Light (to keep light and easy vibe).
-
-**Spacing Layout:**
-
-- Introduction of logo grid, though no full details are outlined on this page.
-
-**Brand Voice:**
-
-- Introduction and welcome to VELOE. Encourages readers to use VELOE brand with care, precision, and consistency and to follow design features carefully.
-
-**Notes:**
-
-- This page provides the table of contents summarizing all sections of the brand guidelines: Welcome, Logo Grid, Logo Versions, Minimum Size, Do's and Don'ts, Core Colors, Color Usage, Typography, and Legal.
-- Legal guidelines outline VELOE's trademark usage (EU EUIPO trademark), restrictions on misuse, bad faith, and alterations. Ensures compliance with copyright laws.
+*Guidelines data not available*

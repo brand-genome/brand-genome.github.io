@@ -2,7 +2,7 @@
 title: Transport for Ireland
 slug: "transport-for-ireland"
 description: ""
-date: "2026-03-20T08:22:05.855380"
+date: "2026-04-10T09:40:34.879167"
 draft: false
 sectors:
   - "public-sector"
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 - [https://www.transportforireland.ie](https://www.transportforireland.ie)
 - [https://www.transportforireland.ie/about-us](https://www.transportforireland.ie/about-us)
 - [https://www.nationaltransport.ie](https://www.nationaltransport.ie)
-
-## Brand Guidelines
-
-### 2014
-
-*Guidelines data not available*

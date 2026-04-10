@@ -2,12 +2,12 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-03-20T08:22:04.116474"
+date: "2026-04-10T09:40:32.197914"
 draft: false
 sectors:
-  - finance
   - consulting
   - "legal-services"
+  - finance
 regions:
   - netherlands
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "professional-services-industry"
   - "accounting-services"
+  - "professional-services-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -56,25 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - purple
-  - blue
-  - violet
-  - black
-typographies:
-  - univers
-  - arial
-imagery_styles:
-  - bold
-  - clean
-  - photography
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "provider of audit, legal, tax advisory, financial, and business advisory services"
 wikidata_url: "https://www.wikidata.org/wiki/Q493751"
 has_twitter: false
@@ -98,46 +83,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The KPMG logo is the most valuable visual asset, used as a mark of authenticity.
-- The primary white logo should be used whenever the logo is sitting on a darker image or color.
-- The primary blue logo should be used whenever the logo is sitting on white or on a lighter image or color.
-
-**Color Information:**
-
-- The color palette is anchored by KPMG Blue, complemented by a selection of primary and secondary colors to provide flexibility and adaptability while ensuring consistency.
-- Primary color: KPMG Blue - Pantone: 287 C, CMYK: 100/72/0/12, RGB: 0/51/141, HEX: #00338D
-- Secondary color: Medium Blue - Pantone: 7691 C, CMYK: 99/50/0/0, RGB: 0/94/184, HEX: #005EB8
-- Secondary color: Violet - Pantone: 2617 C, CMYK: 84/99/0/12, RGB: 71/10/104, HEX: #470A68
-- Secondary color: Light Purple - Pantone: 259 C, CMYK: 67/100/4/5, RGB: 109/32/119, HEX: #6D2077
-- Secondary color: Green - Pantone: 2402 C, CMYK: 90/0/43/0, RGB: 0/163/161, HEX: #00A3A1
-- Secondary color: Light Blue - Pantone: 7461 C, CMYK: 89/18/0/0, RGB: 0/145/218, HEX: #0091DA
-- Secondary color: Purple - Pantone: 2105 C, CMYK: 92/87/0/0, RGB: 72/54/152, HEX: #483698
-
-**Typography Information:**
-
-- The typefaces used are KPMG Font, Univers, and Arial. KPMG Font is used for headlines, Univers is used for subheads and body copy, and Arial is used for subheads and body copy in PowerPoint, Word, e-communications, and websites.
-- KPMG Font styles and weights: Extralight, Thin, Light, 45 Light, 55 Roman, 65 Bold, 75 Black.
-- Univers Font styles and weights: 45 Light, 55 Roman, 65 Bold, 75 Black.
-- Arial Font styles: Regular and Bold.
-
-**Imagery Photography:**
-
-- Imagery strategically ensures that the brand presents itself consistently and distinctly across different styles. Examples given include vertical objects on a dark photo with white text, and using light singular object photography.
-
-**Spacing Layout:**
-
-- There are 9 layout options divided into three groups: Group 1 for vertical photos, Group 2 for singular photos, and Group 3 for layouts without photos. No layout option is preferred over another.
-- Layouts should maintain a clean, professional appearance using specified typography and color combinations.
-
-**Brand Voice:**
-
-- The brand voice emphasizes authenticity and distinctiveness through visual and verbal consistency in all forms of communication.
-
-**Notes:**
-
-- The document references KPMG's intellectual property and usage policies for the name and logo, emphasizing the significance of consistent branding to differentiate from competitors.
+*Guidelines data not available*
 
 ## Additional Properties
 

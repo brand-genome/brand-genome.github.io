@@ -2,7 +2,7 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-03-20T08:22:03.244719"
+date: "2026-04-10T09:40:30.759039"
 draft: false
 sectors:
   - ngo
@@ -31,8 +31,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - gland
   - morges
+  - gland
 subsidiaries: []
 foundation_dates:
   - 1961
@@ -55,23 +55,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - green
-  - white
-  - "pantone-347"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: "international non-governmental environmental organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q117892"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 2
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -83,103 +76,13 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
+### 2012
 
 *Guidelines data not available*
 
-### 2012
-
-**Logo Information:**
-
-- WWF Panda Logo
-Our iconic panda logo is integral to our brand and it is used on every product we create. The logo comprises two elements—the panda and our WWF initials—and they should never be separated. They are WWF’s intellectual property, protected by internationally registered copyright and trademark, and must appear together on all communications.
-No-Tab Logo — Use
-on a white or 5% color
-background.
-Tab Logo — Use on a
-colored or photographic
-background.
-Clear Space Zone — The minimum amount of space allowable around all four sides
-of our logo should be measured by the height or width of the capital “W” in our
-WWF initials.
-- Logo Don’ts
-Do not reproduce the logo without the © and
-®, except in very large applications such as banners and full TV/video screens.
-Do not use another font in the logo.
-Do not use the panda portion of the logo on its own, unless the complete logo also appears somewhere else on the same document or product.
-Do not use the WWF type portion of the logo on its own.
-Do not reproduce the logo in any color other than black.
-Do not apply any style techniques, like drop shadows, to the logo.
-Do not distort the logo in any way.
-Do not reverse out the logo on dark color backgrounds or place it in a square box.
-WWF
-In order to maintain the integrity and value of the WWF logo, we prohibit manipulation of it in any form. Below are some examples of the most common WWF logo violations. Be sure to avoid these logo DON’TS.
-
-**Color Information:**
-
-- WWF-US Print Brand Guidelines 2012
-7
-Corporate Colors
-WWF-US’s distinctive primary palette of
-black and white reflects its Panda logo. To
-further enhance our iconic brand identity,
-we use green as an accent color. Use green
-when the project demands an additional
-splash of color or a secondary layer of 
-information. Always use these colors in
-exactly the proportions outlined here.
-PANTONE 347 C
-C: 100 M: 0 Y: 80 K: 0
-R: 0 G: 155 B: 72
-Hex: #009B48
-
-**Typography Information:**
-
-- Typography—Limited to four typeface families for publications and printed materials.
-
-**Notes:**
-
-- WWF Panda Logo
-Our iconic panda logo is integral to our brand and it is used on every product we create. The logo comprises two elements—the panda and our WWF initials—and they should never be separated. They are WWF’s intellectual property, protected by internationally registered copyright and trademark, and must appear together on all communications.
-No-Tab Logo — Use
-on a white or 5% color
-background.
-Tab Logo — Use on a
-colored or photographic
-background.
-Clear Space Zone — The minimum amount of space allowable around all four sides
-of our logo should be measured by the height or width of the capital “W” in our
-WWF initials.
-- Logo Don’ts
-Do not reproduce the logo without the © and
-®, except in very large applications such as banners and full TV/video screens.
-Do not use another font in the logo.
-Do not use the panda portion of the logo on its own, unless the complete logo also appears somewhere else on the same document or product.
-Do not use the WWF type portion of the logo on its own.
-Do not reproduce the logo in any color other than black.
-Do not apply any style techniques, like drop shadows, to the logo.
-Do not distort the logo in any way.
-Do not reverse out the logo on dark color backgrounds or place it in a square box.
-WWF
-In order to maintain the integrity and value of the WWF logo, we prohibit manipulation of it in any form. Below are some examples of the most common WWF logo violations. Be sure to avoid these logo DON’TS.
-- WWF-US Print Brand Guidelines 2012
-7
-Corporate Colors
-WWF-US’s distinctive primary palette of
-black and white reflects its Panda logo. To
-further enhance our iconic brand identity,
-we use green as an accent color. Use green
-when the project demands an additional
-splash of color or a secondary layer of 
-information. Always use these colors in
-exactly the proportions outlined here.
-PANTONE 347 C
-C: 100 M: 0 Y: 80 K: 0
-R: 0 G: 155 B: 72
-Hex: #009B48
-- Typography—Limited to four typeface families for publications and printed materials.
-
 ### 2010
+
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -189,7 +92,7 @@ Hex: #009B48
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Gland](/headquarters_locations/gland/); [Morges](/headquarters_locations/morges/) |
+| Headquarters Location | [Morges](/headquarters_locations/morges/); [Gland](/headquarters_locations/gland/) |
 | Foundation Date | [1961](/foundation_dates/1961/) |
 | Inception | 1961-04-29 |
 | Topic'S Main Category | Category:World Wide Fund for Nature |

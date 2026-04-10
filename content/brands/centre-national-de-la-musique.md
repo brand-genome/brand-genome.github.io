@@ -2,7 +2,7 @@
 title: Centre national de la musique
 slug: "centre-national-de-la-musique"
 description: ""
-date: "2026-03-20T08:22:04.215538"
+date: "2026-04-10T09:40:32.603523"
 draft: false
 sectors:
   - "public-sector"
@@ -73,50 +73,94 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- Conditions d™utilisation
-L™ensemble des documents sur lesquels ˜gurent le logo doit être soumis pour validation au moins une semaine avant l™envoi en impression et/ou diffusion digitale.
-Contact: logo@cnm.fr
-- Quel logo utiliser? Logo partenaire standard
-Utilisation pour une bande de logos aérée avec peu de logos.
-Taille minimale du logotype : 16 mm
-Logotype avec le nom « Centre national de la musique » en petit sur trois lignes.
-OCRE RVB 220-140-0
-Centre national de la musique
+##### Mission
 
-Logo partenaire réduit
-Utilisation dans les cas contraignants, où la bande de logos est chargée.
-Taille minimale du logotype : 10 mm
-Logotype avec le nom « Centre national de la musique » en petite taille.
-- Où positionner le logo?
-Le logo du Centre national de la musique doit être positionné à proximité de celui du ministère, dans une logique d™opérateur de l™État. Le logo doit être dans la catégorie des « partenaires institutionnels » et placé avant les logos des organismes professionnels.
-- Conditions d™utilisation
-Respecter les dimensions et la couleur du logo, garder un espace suffisant entre les logos, et veiller au contraste entre le logotype et le fond.
-- Conditions d™utilisation
-Digital: Web, réseaux sociaux, applications mobiles, besoins audiovisuels...
-Print: Affiches, flyers, brochures, Roll™up, tout ce qui passe par un imprimeur.
-Télécharger le pack logo.
+- No explicit mission statement is provided in the document.
 
-**Color Information:**
+##### Target Audience
 
-- Conditions d™utilisation
-La version « ocre » est à privilégier pour usages courants. Utiliser la version blanche ou noire si l™ocre n™est pas applicable.
-OCRE RVB 220-140-0, Pantone 7564C, 124U, CMJN 0-47-100-10, #DC8C00
+- No explicit target audience description is provided.
 
-**Notes:**
+##### Visual Identity Overview
 
-- Kit communication 2022 - Centre national de la musique
-- Conditions d™utilisation 1
+- The visual identity centers on a minimalist, modern logo featuring stylized letters (cNM) with a strong emphasis on orange ochre as the primary color. The logo is used in various color variations (ochre, white, black) to ensure contrast and clarity across backgrounds. Guidelines specify minimum logo sizes, spacing, and placement relative to other institutional logos, with a clean, professional aesthetic suitable for cultural and artistic contexts [^1].
+
+#### Categories
+
+##### Brand Imagery
+
+- Logotype avec le nom « Centre national de la musique» en petit sur trois lignes. Utilisation pour une bande de logos aérée avec peu de logos.
+- Taille minimale du logotype: 16 mm
+- Logotype avec le nom « Centre national de la musique» en petite taille. Utilisation dans les cas contraignants, où la bande de logos est chargée.
+- Taille minimale du logotype: 10 mm
+
+##### Color Palette
+
+- La version ocre est celle à privilégier pour l'ensemble des usages courants.
+- OCRE rvb ] 220-140-0 pantone 1 7564C l lZ4U cmjn [ 0-47-100-10 #DCBCOO
+- Utiliser la version blanche ou noire si l'ocre n'est pas applicable (couleur de fond incompatible).
+- Veiller au contraste entre la cou­leurs du logotype et du fond
+
+##### Logo Usage
+
+- L’ensemble des documents sur lesquels figurent le logo doit être soumis pour validation au moins une semaine avant l’envoi en impression et/ou diffusion digitale.
+- Logo partenaire standard Logotype avec le nom « Centre national de la musique» en petit sur trois lignes. Utilisation pour une bande de logos aérée avec peu de logos. Taille minimale du logotype: 16 mm
+- Logo partenaire réduit Logotype avec le nom « Centre national de la musique» en petite taille. Utilisation dans les cas contraignants, où la bande de logos est chargée. Taille minimale du logotype: 10 mm
+- Respecter les dimensions et la couleurs du logo
+- Veiller au contraste entre la cou­leurs du logotype et du fond
+- Garder un espace suffisant entre les logos
+- La version ocre est celle à privilégier pour l'ensemble des usages courants.
+- Utiliser la version blanche ou noire si l'ocre n'est pas applicable (couleur de fond incompatible).
+
+##### Visual Style
+
+- Logotype avec le nom « Centre national de la musique» en petit sur trois lignes. Utilisation pour une bande de logos aérée avec peu de logos.
+- Taille minimale du logotype: 16 mm
+- Logotype avec le nom « Centre national de la musique» en petite taille. Utilisation dans les cas contraignants, où la bande de logos est chargée.
+- Taille minimale du logotype: 10 mm
+- La version ocre est celle à privilégier pour l'ensemble des usages courants.
+- OCRE rvb | 220-140-0 pantone | 7564C | 124U cmjn | 0-47-100-10 #DC8C00
+- Utiliser la version blanche ou noire si l'ocre n'est pas applicable (couleur de fond incompatible).
+- Respecter les dimensions et la couleurs du logo
+- Veiller au contraste entre la couleurs du logotype et du fond
+- Garder un espace suffisant entre les logos
+
+##### Layout And Composition
+
+- Logotype avec le nom « Centre national de la musique» en petit sur trois lignes. Utilisation pour une bande de logos aérée avec peu de logos.
+- Taille minimale du logotype: 16 mm
+- Logotype avec le nom « Centre national de la musique» en petite taille. Utilisation dans les cas contraignants, où la bande de logos est chargée.
+- Taille minimale du logotype: 10 mm
+- Le logo du Centre national de la musique doit être positionné à proximité de celui du ministère, dans une logique d'opérateur de l'État.
+- Le logo du Centre national de la musique doit être dans la catégorie des «partenaires institutionnels» (et non celle des «organismes professionels»).
+- Le logo du Centre national de la musique doit être placé avant le logo des organismes professionels.
+- Respecter les dimensions et la couleurs du logo
+- Veiller au contraste entre la cou­leurs du logotype et du fond
+- Garder un espace suffisant entre les logos
+
+##### Digital Guidelines
+
+- L’ensemble des documents sur lesquels figurent le logo doit être soumis pour validation au moins une semaine avant l’envoi en impression et/ou diffusion digitale.
+- Contact : logo@cnm.fr
+- Web, réseaux sociaux, applications mobiles, besoins audiovisuels/vidéo-projection... et plus généralement tout ce qui s’affiche sur un écran.
+- Télécharger le pack logo
+
+##### Print Guidelines
+
+- Affiches, flyers, brochures, Roll’up... et plus généralement tout ce qui passe dans les mains d’un imprimeur (offset, sérigraphie, marquage...).
+- Téléchargez le pack logo
+
+##### Social Media Guidelines
+
+- Web, réseaux sociaux, applications mobiles, besoins audiovisuels/vidéo-projection... et plus généralement tout ce qui s’affiche sur un écran.
 - Mentions réseaux sociaux
-- Mentions réseaux sociaux
-OCRE
-Facebook: @CNM
-Twitter: @le_CNM
-Instagram: @le_cnm
-LinkedIn: @centrenationaldelamusique
-Hashtag: #PartenariatCNM
-- Livre de marque 2022 - Centre national de la musique
+- Facebook | @CNM
+- Twitter | @le_CNM
+- Instagram | @le_cnm
+- LinkedIn | @centrenationaldelamusique
+- Hashtag | #PartenariatCNM
 
 ## Additional Properties
 

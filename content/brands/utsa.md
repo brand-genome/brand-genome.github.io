@@ -2,7 +2,7 @@
 title: UTSA
 slug: utsa
 description: ""
-date: "2026-03-20T08:22:05.703518"
+date: "2026-04-10T09:40:34.644501"
 draft: false
 sectors:
   - education
@@ -52,31 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - signature
-  - symbol
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - white
-  - blue
-  - orange
-  - black
-typographies:
-  - futura
-  - serif
-  - arial
-  - inter
-  - "sans-serif"
-  - times
-  - helvetica
-imagery_styles:
-  - classic
-  - bold
-  - clean
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public research university in San Antonio, Texas, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q183170"
 has_twitter: false
@@ -96,69 +75,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo Elements
-Wordmark
-The university's wordmark, UTSA, is the primary identifier using the abbreviated name of the university and must be accompanied by the registered trademark symbol. Set in Futura condensed type, UTSA should appear on as many forms of communication as possible. It should never be redrawn, changed, stacked or positioned in any way that violates the standards established in this guide. The wordmark must only be reproduced in four colors: UTSA Blue (PMS 289), UTSA Orange (PMS 1665), black and white. Graphic filters, manipulation or alteration is strictly prohibited. See Do's and Do Not's on page 22.
-Signature
-The University of Texas at San Antonio signature is the full, official name of the university set in Helvetica font and accompanied by the official trademark indicator. It can be used in conjunction with the wordmark or as a separate element. It should never be redrawn, changed, stacked or positioned in any way that violates the standards established in this guide. The wordmark must only be reproduced in four colors: UTSA Blue (PMS 289), UTSA Orange (PMS 1665), black and white. Graphic filters, manipulation or alteration is strictly prohibited. See Do's and Do Not's on page 22.
-
-**Color Information:**
-
-- PMS 1665
-HEX match: #f15a22
-PMS 289
-HEX match: #0c2340
-Colors
-Blue and orange are the official colors of the university. Our colors are a distinguishing feature of our identity. Printing Colors
-Colors can be printed either with PMS colors or through a 4-color (CMYK) process. Most often, you will be sending files to a vendor with CMYK values. Please use the corresponding CMYK values as opposed to having the vendor (or design software) auto-convert your PMS into CMYK. Auto-converting or relying on vendors may result in the wrong CMYK formulas. Note, there is no need to convert CMYK, RGB, or HEX for uncoated printing. You only need to worry about uncoated if you are printing with PMS colors.
-On Screen Colors
-When creating files to be placed on a website or social media, files should be in RGB. You can also use the HEX colors for HTML elements.
-Using UTSA Logos
-When reproduced in color, the wordmark should always appear in UTSA's signature color, blue (PMS 289), orange (PMS 1665), white or black. The logo should never be represented in any colors other than UTSA colors. For assistance, contact University Communications and Marketing.
-CMYK: 100, 76, 12, 70
-RGB: 12, 35, 64
-CMYK: 0, 80, 100, 0
-RGB: 241, 90, 34
-
-**Typography Information:**
-
-- For publications and materials created for external use, the primary typefaces are the following:
-Helvetica Neue LT Std family (condensed and regular width versions in thin, light, roman, medium, bold, heavy, black weights).
-Internal Typeface
-For internal publications and when the primary typeface choices are unavailable, it is acceptable to use:
-- Helvetica, for sans-serif
-- Times New Roman, for serif
-Web Typeface
-For web copy, use the following font:
-- Arial
-Type Do's and Don'ts
-Do:
-- Use clean and classic faces, with preference for sans-serif fonts such as Arial.
-- Keep punctuation to a minimum.
-Do Not:
-- Do not use overly stylized fonts.
-- Do not use drop shadows.
-- Do not condense text, use excessive tracking, or horizontal scaling.
-- Do not set type in all capitals.
-- Do not use type with additional inter-character spacing.
-
-**Brand Voice:**
-
-- Brand Persona
-Key Messages:
-1. A Great Multicultural Discovery Enterprise: As a learning and research enterprise and next-generation Hispanic-Serving Institution.
-2. Exemplar Urban-Serving University of the Future: San Antonio serves as a living laboratory fostering experiential learning.
-3. World Engaged: Leveraging cultural ties with strategic international partnerships.
-4. Foster Exceptional Student Experiences: Achieving retention through welcoming, supportive experiences.
-5. Cultivating Excellence of People: Recruitment of talent aligning with institutional goals.
-6. Operational & Infrastructure Excellence: Innovating operational models to meet growth and monetary challenges.
-
-**Notes:**
-
-- Visual Style Guide
-This section outlines rules for proper alignment, grid usage, and design of visual elements for print and digital communications. Additional diagrams or approved adjustments may appear in application uses in publications and presentations.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: OCAD University
 slug: "ocad-university"
 description: ""
-date: "2026-03-20T08:22:04.514105"
+date: "2026-04-10T09:40:33.289857"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
   - art
+  - university
 industries: []
 countries:
   - canada
@@ -54,15 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
-  - gotham
-  - georgia
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "public university in Toronto, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1632007"
 has_twitter: false
@@ -81,36 +76,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Guidelines on logo usage and restrictions are included.
-- Rules for clear space or safe zones are mentioned.
-
-**Color Information:**
-
-- Color guidelines including formats like Pantone, RGB, CMYK, or HEX are mentioned.
-- No specific color codes (Pantone, RGB, CMYK) were explicitly found in the provided content.
-
-**Typography Information:**
-
-- Gotham is the primary typeface, and Malaga is the complementary typeface.
-- Alternative fonts for office use: Arial replaces Gotham; Georgia replaces Malaga.
-
-**Imagery Photography:**
-
-- No specific photography guidelines or image treatments were identified in the provided pages.
-
-**Spacing Layout:**
-
-- References for safe zones or spacing were mentioned generically on the logo usage page.
-
-**Brand Voice:**
-
-- No explicit tone of voice or messaging rules were mentioned within the visible pages.
-
-**Notes:**
-
-- Notes or special instructions are provided.
+*Guidelines data not available*
 
 ## Additional Properties
 

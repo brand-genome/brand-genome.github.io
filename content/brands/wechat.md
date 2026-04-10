@@ -2,7 +2,7 @@
 title: WeChat
 slug: wechat
 description: ""
-date: "2026-03-20T08:22:04.716171"
+date: "2026-04-10T09:40:33.440469"
 draft: false
 sectors:
   - software
@@ -52,13 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "messaging, social media, and payment app developed by Tencent"
 wikidata_url: "https://www.wikidata.org/wiki/Q283233"
 has_twitter: false
@@ -78,18 +75,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The WeChat primary brand identity comprises a standard symbol and accompanying design specifications. These include symbol details, grid systems for proportions, and monochromatic versions. Clear space and scalable guidelines are defined by measurements such as 30X, 25X, 4X, and spacing specifications around the symbol.
-- Incorrect usage examples for the WeChat symbol are provided to demonstrate improper usage styles (potentially regarding spacing, color, or distortion).
-
-**Spacing Layout:**
-
-- Proper clear space for the WeChat logo symbol involves maintaining specific spacing, such as a minimum clear area equivalent to multiples of X (e.g., 30X, 25X). The clear zone ensures optimal representation.
-
-**Notes:**
-
-- The document includes guidelines and descriptions for primary brand identity, focusing on symbol detail, proportions, scale, usage examples, and clear space rules. Additional information may reside beneath sections marked, e.g., PBI/02, PBI/07. The exact contents should be reviewed further for clarity on color, typography, photography, and brand voice.
+*Guidelines data not available*
 
 ## Additional Properties
 

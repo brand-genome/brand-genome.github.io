@@ -2,11 +2,11 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-03-20T08:22:03.263567"
+date: "2026-04-10T09:40:30.782038"
 draft: false
 sectors:
-  - "renewable-energy"
   - "petrol-station"
+  - "renewable-energy"
 regions:
   - spain
 years:
@@ -53,22 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - "pantone-485"
-  - gray
-  - "pantone-424"
-  - "pantone-877"
-typographies:
-  - script
-imagery_styles:
-  - product
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Spanish multinational oil and gas company
 wikidata_url: "https://www.wikidata.org/wiki/Q608819"
 has_twitter: false
@@ -90,46 +78,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo is shown in the secondary vertical version to increase visibility on a photocall.
-- Area of protection for the logo on a photocall with specified measurements: x, x/2.
-- Area of protection for the logo on banner examples (e.g., for digital prints): specified measurements x; 3800mm × 1000mm × 1850mm.
-- Digital formats provided include EPS (Encapsulated Post Script), AI, JPG, PNG. EPS noted for professional use. File formats depend on use case.
-- Logo variants include main connected version (cepsa1), main disconnected version (cepsa2), secondary vertical version (cepsa3). Formats are noted, including EPS, AI, PNG, JPG.
-
-**Color Information:**
-
-- Primary corporate colors include Pantone 485 C (red), Pantone Silver, Pantone Cool Gray 2 C, and Pantone 424 C.
-- Photocalls and banners feature colors Pantone 485 C (red) and Pantone 877 C (silver).
-- Pantone Cool Gray 2 C noted for various merchandise items like special notebooks.
-- Pantone 424 C used on merchandise tags and branding elements.
-
-**Typography Information:**
-
-- Flama Light typography used for printing on merchandise and in branding applications such as leather tags and notebooks.
-
-**Imagery Photography:**
-
-- Examples of Cepsa's photographic style are provided. Licensing guidance is provided, emphasizing purchasing rights from a photographer or image database.
-- Cepsa maintains a dedicated image bank for its photographic resources (http://bancodeimagenes.cepsacorp.com). Images focus on business areas and branding.
-
-**Spacing Layout:**
-
-- Area of protection around photocall logos is defined using measurements: x and 2x. Additional adjustments for other brands in shared photo opportunities.
-- Digital banners include spacing details like dividing x, half x as visual protection zones.
-- Merchandising guidelines specify proportional rules (e.g., 1/2 X, X/3, X/4). Applied flexibly depending on product.
-
-**Brand Voice:**
-
-- Corporate communication considers individual branding tones and business contexts. Visual inspiration examples provided.
-- Collaborative visual approaches (e.g., joint photocalls with multiple brands) maintain hierarchy per positioning.
-
-**Notes:**
-
-- Specific applications are outlined for various artifacts (e.g., folders printed in metallic silver, notebooks). Inclusive guidelines for product design provided.
-- EPS and AI format advisories for forwarding logos in reproducible formats to external production teams emphasized.
-- Merchandise tailored across objects (cups, bags) alongside consistent safe zones.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Wellcome
 slug: wellcome
 description: ""
-date: "2026-03-20T08:22:05.745409"
+date: "2026-04-10T09:40:34.723444"
 draft: false
 sectors:
   - ngo
@@ -53,14 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - graphic
-  - photography
+imagery_styles: []
 wikidata_description: "healthcare research charity based in London, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q326276"
 has_twitter: false
@@ -79,33 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo has no primary color and can use any appropriate high-contrast hue from the palette. Minimum width: 20mm. Suggested widths by page size: A6 (23mm), A5 (32mm), A4 (45mm), A3 (64mm). Do not stretch, alter, or add to the logo.
-- Contact email for logo guidelines: logo@wellcome.ac.uk.
-- File formats and specific guidelines for use are not explicitly mentioned; inferred guidelines stem from color and safe zone requirements.
-
-**Color Information:**
-
-- Web color palette includes named swatches with HEX values: $runnyYolk (#FEC200, #C29207, #422613), $submarine (#FFEA00, #FFF9A6, #FFFDE2), $richTea (#FBCDA2, #CD9789, #8A471E), $avacado (#90C879, #B6D99C, #E6F1D3), etc., with accessibility compliance (AA/AAA ratings).
-- Print colors are given in CMYK values with associated Pantone references like 3115 U, 7742 U, etc., ensuring good contrast with backgrounds as noted for usage.
-
-**Imagery Photography:**
-
-- Imagery guidelines emphasize inviting, people-centric photography showing humanity within Wellcome. This includes scientists, children, artists, and others showing the passion behind their work.
-
-**Spacing Layout:**
-
-- The Wellcome 'W' can be used as a dynamic graphic element in layouts when appropriate. It can be scaled, rotated, and displayed with monochromatic or contrasting colors.
-
-**Brand Voice:**
-
-- Core brand messaging emphasizes inclusivity, conciseness, challenging preconceptions with creative expressions, and positivity. Communication should reflect clear, brief language and avoid jargon or clichés.
-
-**Notes:**
-
-- The document provides detailed usage of colors with specific accessibility ratings for compliance, especially useful for digital and web design.
-- No explicit mention of font families, weights, or typography guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

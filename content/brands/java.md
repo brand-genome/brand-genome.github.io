@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-03-20T08:22:04.563569"
+date: "2026-04-10T09:40:33.376449"
 draft: false
 sectors:
   - software
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - horizontal
-brand_colors:
-  - black
-  - white
-  - orange
-  - blue
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: runtime environment that can execute Java bytecode as a result of compiling computer programs written in the Java programming language
 wikidata_url: "https://www.wikidata.org/wiki/Q193321"
 has_twitter: false
@@ -78,35 +70,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Java licensing logos are available in various versions: Java Powered, Java Compatible, Java Compatible Enterprise Edition, and Java Licensee logos. These logos have specific use cases for physical products, documentation, packaging, displays, and websites.
-- Logo minimum sizes: Horizontal version - 17mm width for print and 96px width for screen; Stacked version - 10mm width for print and 57px width for screen.
-- Clear space rules for Java licensing logos require space equal to the height of the 'v' in Java.
-- Examples of unacceptable logo usage provided, such as color distortions or insufficient clear space.
-- Special use of Java icons for third parties requires trademark licensing approval for specific cases, such as use on mobile or desktop devices representing Java applications menu.
-
-**Color Information:**
-
-- Official color palette includes Java Orange (Pantone 144C, CMYK C0 M52 Y100 K0, RGB R237 G139 B0, HEX #ED8B00) and Java Blue (Pantone 633C, CMYK C100 M5 Y10 K36, RGB R0 G115 B150, HEX #007396).
-- Color logos must be reproduced in Java Orange and Blue. White logos may be used on Java Blue, Orange, or black backgrounds, and black logos may be used on white backgrounds. Always ensure legibility.
-
-**Typography Information:**
-
-- Java official typeface: Sun, which includes various weights such as Extra Light, Light, Regular, Semi Bold, Bold, and Extra Bold. Alternative typefaces for specific applications include Calibri (for Microsoft PowerPoint) and Arial (for Word and online use).
-
-**Spacing Layout:**
-
-- Clear space for staging logos should be equal to the height of the 'v' in Java. Minimum clear space guidelines must be adhered to.
-- Special clear space rules for icons require space equal to the height of the top three horizontal strokes of the cup.
-
-**Brand Voice:**
-
-- Java brand guidelines emphasize consistent usage of logos, typography, and color palette to maintain a strong global brand presence.
-
-**Notes:**
-
-- Oracle provides trademark licensing and brand resources through internal and external links. Internal tools include access to logos, graphics, and templates, while external resources focus on third-party usage guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-03-20T08:22:04.720946"
+date: "2026-04-10T09:40:33.453190"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - retail
   - "food-retail-sector"
+  - retail
 countries:
   - norway
 revenue_buckets:
@@ -55,18 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - graphic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: food retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q2575956"
 has_twitter: false
@@ -93,34 +85,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- NorgesGruppens logo exists in multiple defined versions: centered (Version 1), left-aligned (Version 2), and compact (Version 3). Each version preserves proportionality between symbol and text, and placement rules are emphasized to prevent interference from competing graphic elements.
-
-**Color Information:**
-
-- Primary and secondary color specifications defined, including Pantone, CMYK, RGB, and Hex values. These colors ensure a unified look across mediums. Accessibility and WCAG compliance are emphasized for digital adaptations.
-
-**Typography Information:**
-
-- Clan Book, Clan Medium, and Clan Black are identified as key brand fonts. Arial Regular and Arial Bold are defined as substitutes for Clan typefaces in situations requiring a system font.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize depth centralization, focal clarity, and utilizing backgrounds solely to enhance the subject while maintaining the brand’s visual identity.
-
-**Spacing Layout:**
-
-- Guidelines for graphical layouts and alignment using charts and structured spacing to emphasize clarity and legibility throughout official documents.
-
-**Brand Voice:**
-
-- Content uses unifying messages, emphasizing responsible branding and a community-inclusive identity. Taglines include 'Vi gir deg en bedre hverdag' (We give you a better everyday).
-
-**Notes:**
-
-- Papirkvalitet (Paper Quality): For printing materials, 'Soporset' or 'Profimatt' paper types are recommended to provide seriousness and association with quality.
-- Film and animation considerations for social media, including text placement, background selection (light, dark, avoiding intermediate tones), and sound guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-03-20T08:22:04.190757"
+date: "2026-04-10T09:40:32.541924"
 draft: false
 sectors:
-  - "staffing-recruitment"
   - software
+  - "staffing-recruitment"
 regions:
   - usa
 years:
@@ -48,23 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - "pantone-4162"
-  - grey
-  - black
-typographies:
-  - impact
-  - inter
-  - serif
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Africa Tech company
 wikidata_url: "https://www.wikidata.org/wiki/Q28186691"
 has_twitter: false
@@ -84,31 +71,141 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo lockup is set in color Green Black on light backgrounds and white on dark backgrounds. Proportion, spacing, and placement should not be changed. Applicable on various brand color backgrounds.
-- Logo symbol visualizes the spark formed when people gather. It is in Green Black on light backgrounds and white on dark backgrounds. Applicable on various brand color backgrounds.
-- Logotype represents a Sage brand archetype with serif letterforms. It is set in Green Black on light backgrounds and white on dark backgrounds. Proportion, spacing, and letter placement must not be changed.
-- Clear space: The logo must always have a clear space for legibility and impact. The minimum space around the lockup and logotype is the height and width of 'e'. For the symbol, the minimum space equals its height and width.
-- Incorrect logo usage includes redrawing, modifying, altering proportions, or using in unauthorized scenarios. This compromises logo integrity.
-- Logo usage with background colors or images: Green Black logo on white; White logo on Green Black, Kale, Opal, or image background; Green Black logo on Opal or Grey background.
+##### Mission
 
-**Color Information:**
+- The brand aims to visualize the spark that is created when people come together, represented in an abstract and geometric form [^1].
 
-- Primary palette: Emerald (HEX #56C870, RGB 86 200 112, CMYK 72 0 83 0, Pantone 2420C) used for CTAs and highlights. Green Black (HEX #132128, RGB 14 33 41), Kale (HEX #173B3F, RGB 2 60 64), Opal (HEX #B0D6CE, RGB 165 214 205, Pantone 4162 C), Grey (HEX #E6E6E6, RGB 229 229 229, Pantone Cool Grey 2C), and White (HEX #FFFFFF).
+##### Core Values
 
-**Typography Information:**
+- intelligent
+- approachable
+- precision
+- clarity
 
-- Headline font: Inria Serif Regular. It emphasizes a smart and approachable look. Font weights available: Light, Regular, Italic, Bold.
-- Secondary font: Inter. Chosen for clarity and grounding. Font weights available: Light, Regular, Medium, Bold.
+##### Target Audience
 
-**Spacing Layout:**
+- Individuals and organizations seeking a modern, professional, and minimalist brand identity with a focus on intelligent and approachable design [^2].
 
-- Logo clear space: The logo must have surrounding clear space equivalent to the height and width of 'e' (for lockup and logotype) or the symbol's height and width.
+##### Personality Traits
 
-**Notes:**
+- smart
+- approachable
+- grounded
+- elegant
 
-- For official artwork or questions about the brand identity, contact Jessica DeWitt at jessica.dewitt@andela.com.
+##### Visual Identity Overview
+
+- The visual identity is defined by a geometric emblem and serif logotype, consistent use of color palettes, clear space guidelines, and a minimalist, modern aesthetic. The brand uses a primary palette of Green Black, Emerald, Kale, Grey, Opal, and White, with strict logo usage rules and typographic choices that reinforce its intelligent and approachable character [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- Our lockup is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The proportion, spacing and placement between each letters should not be changed.
+- It is applicable on various brand color backgrounds.
+- Our symbol visualizes the spark that is created when people come together in the town square in an abstract and geometric form.
+- This symbol is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- Our logotype is the representation of our brand archetype—The Sage— visualized through serif letterforms with smart yet approachable look and feel.
+- This logotype is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The logo should always be given a generous field of clear space, in any application, to ensure its legibility and impact.
+- This isolates the logo and protects it from competing visual elements such as text, photos, and graphics.
+- The minimum amount of clear space that should surround the lockup and logotype is equal to the height and width of the e.
+- The minimum amount of clear space that should surround the stmbol is equal to the height and width of the symbol.
+- Any misuse of the logo diminishes its integrity and that of the brand as a whole.
+- Shown are some common misuses that must be avoided when designing with the logo.
+- Remember that the logo must never, under any circumstances, be redrawn, modified, or altered in any way.
+
+##### Color Palette
+
+- Primary colors should be used in important brand moments to build recognition and association for our brand.
+- Emerald is only be used for CTAs and text highlights
+- Green Black HEX #132128 RGB 14 33 41 PANTONE 5463 C CMYK 86 69 59 69 Emerald HEX #56C870 RGB 86 200 112 PANTONE 2420C CMYK 72 0 83 0 Kale HEX #173B3F RGB 2 60 64 PANTONE 5473 C CMYK 93 58 60 50 Grey HEX #E6E6E6 RGB 229 229 229 PANTONE Cool Grey 2C CMYK 0 0 0 10 Opal HEX #B0D6CE RGB 165 214 205 PANTONE 4162 C CMYK 35 2 22 0 White HEX #FFFFFF RGB 255 255 255 CMYK 0 0 0 0
+- When placing logos including lockup, logotype and symbol on a background color or an image, stick to the suggested usages on this page.
+- 1. Green black logo on white background 2. White logo on green black background 3. White logo on kale background 4. Green black logo on opal background 5. Green black logo on grey background 6. White logo on an image
+- Do not use unapproved colors.
+
+##### Typography
+
+- Our logotype is the representation of our brand archetype—The Sage— visualized through serif letterforms with smart yet approachable look and feel.
+- This logotype is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The proportion, spacing and placement between each letters should not be changed.
+- It is applicable on various brand color backgrounds.
+- Inria Serif Regular is our headline font. It is chosen for its intelligent yet approachable look and feel.
+- Inria Serif family can be downloaded here
+- Light / Regular / Italic / Bold
+- Inter family can be downloaded here
+- Light / Regular / Medium / Bold
+- It is chosen for its clear and grounded look and feel.
+
+##### Logo Usage
+
+- Our lockup is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The proportion, spacing and placement between each letters should not be changed.
+- It is applicable on various brand color backgrounds.
+- Our symbol visualizes the spark that is created when people come together in the town square in an abstract and geometric form.
+- This symbol is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- Our logotype is the representation of our brand archetype—The Sage— visualized through serif letterforms with smart yet approachable look and feel.
+- This logotype is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The logo should always be given a generous field of clear space, in any application, to ensure its legibility and impact.
+- This isolates the logo and protects it from competing visual elements such as text, photos, and graphics.
+- The minimum amount of clear space that should surround the lockup and logotype is equal to the height and width of the e.
+- The minimum amount of clear space that should surround the stmbol is equal to the height and width of the symbol.
+- Any misuse of the logo diminishes its integrity and that of the brand as a whole.
+- Shown are some common misuses that must be avoided when designing with the logo.
+- Remember that the logo must never, under any circumstances, be redrawn, modified, or altered in any way.
+- Do not use unapproved colors
+- Do not distort
+- Do not change spacing
+- Do not place on an angle
+- Do not re-typeset logo
+- Do not add effect
+- Do not outline
+- Do not invent new lockup
+- When placing logos including lockup, logotype and symbol on a background color or an image, stick to the suggested usages on this page.
+- 1. Green black logo on white background
+- 2. White logo on green black background
+- 3. White logo on kale background
+- 4. Green black logo on opal background
+- 5. Green black logo on grey background
+- 6. White logo on an image
+
+##### Visual Style
+
+- Our lockup is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The proportion, spacing and placement between each letters should not be changed.
+- It is applicable on various brand color backgrounds.
+- Our symbol visualizes the spark that is created when people come together in the town square in an abstract and geometric form.
+- This symbol is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- Our logotype is the representation of our brand archetype—The Sage— visualized through serif letterforms with smart yet approachable look and feel.
+- This logotype is set in color Green Black when placed on the light background and in white when placed on the dark background.
+- The logo should always be given a generous field of clear space, in any application, to ensure its legibility and impact.
+- This isolates the logo and protects it from competing visual elements such as text, photos, and graphics.
+- The minimum amount of clear space that should surround the lockup and logotype is equal to the height and width of the e.
+- The minimum amount of clear space that should surround the stmbol is equal to the height and width of the symbol.
+- Any misuse of the logo diminishes its integrity and that of the brand as a whole.
+- Shown are some common misuses that must be avoided when designing with the logo.
+- Remember that the logo must never, under any circumstances, be redrawn, modified, or altered in any way.
+- Do not use unapproved colors
+- Do not distort
+- Do not change spacing
+- Do not place on an angle
+- Do not re-type logo
+- Do not add effect
+- Do not outline
+- Do not invent new lockup
+- Primary colors should be used in important brand moments to build recognition and association for our brand.
+- Emerald is only be used for CTAs and text highlights
+- Green Black HEX #132128 RGB 14 33 41 PANTONE 5463 C CMYK 86 69 59 69 Emerald HEX #56C870 RGB 86 200 112 PANTONE 2420C CMYK 72 0 83 0 Kale HEX #173B3F RGB 2 60 64 PANTONE 5473 C CMYK 93 58 60 50 Grey HEX #E6E6E6 RGB 229 229 229 PANTONE Cool Grey 2C CMYK 0 0 0 10 Opal HEX #B0D6CE RGB 165 214 205 PANTONE 4162 C CMYK 35 2 22 0 White HEX #FFFFFF RGB 255 255 255 CMYK 0 0 0 0
+- When placing logos including lockup, logotype and symbol on a background color or an image, stick to the suggested usages on this page.
+- 1. Green black logo on white background
+- 2. White logo on green black background
+- 3. White logo on kale background
+- 4. Green black logo on opal background
+- 5. Green black logo on grey background
+- 6. White logo on an image
 
 ## Additional Properties
 

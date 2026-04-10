@@ -2,7 +2,7 @@
 title: City of Melbourne
 slug: "city-of-melbourne"
 description: ""
-date: "2026-03-20T08:22:05.845753"
+date: "2026-04-10T09:40:34.863558"
 draft: false
 sectors:
   - "public-sector"
@@ -71,28 +71,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- City of Melbourne (CoM) has a master brand mark for all its activities and communication - the CoM logo. All logo placements require approval before publication.
-- The document stresses adherence to minimum size and clear space rules for logo placement. Approval requires artwork size and actual logo size to be provided before publication.
-- Examples of incorrect and correct logo use will be addressed in later sections (referencing pages 5 for incorrect use concepts).
-- Logo color variations are discussed.
-
-**Spacing Layout:**
-
-- Clear space and minimum print sizes are mentioned as crucial. Details will follow on pages 4 and 10.
-- Minimum digital sizes are addressed on page 12.
-
-**Brand Voice:**
-
-- City of Melbourne's brand reflects its passion for Melbourne and aims to inspire people living, working, studying, visiting, and doing business in the city.
-- City of Melbourne's brand acknowledges that customers experience various services, information, experiences, work programs, and regulations provided by the organization.
-
-**Notes:**
-
-- Logo approval requires adherence to minimum size and clear space rules. Submission must include artwork size and actual logo size.
-- At least two business days must be allowed for logo approvals. Approval is for logo placement only, not direct artwork content.
-- For logo approvals, email logoapproval@melbourne.vic.gov.au. For further details regarding CoM logo usage, contact the Marketing team at 9658 9658.
+*Guidelines data not available*
 
 ## Additional Properties
 

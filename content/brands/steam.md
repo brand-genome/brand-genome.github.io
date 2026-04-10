@@ -2,7 +2,7 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-03-20T08:22:03.240391"
+date: "2026-04-10T09:40:30.752135"
 draft: false
 sectors:
   - software
@@ -49,16 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: video game store and digital distribution platform among other services
 wikidata_url: "https://www.wikidata.org/wiki/Q337535"
 has_twitter: false
@@ -110,72 +104,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Steam Brand Guidelines for Software, Hardware & Games
-Steam link® compatible
-Logo & Brand Guidelines for Hardware
-positive logo
-For use on lighter-colored backgrounds.
-RGB value is r=0 g=0 b=0
-CMYK value is c=30 m=30 y=30 k=100
-For spot color applications, use Pantone Black
-inverse logo
-For use on darker-colored backgrounds.
-RGB value is r=255 g=255 b=255
-CMYK value is c=0 m=0 y=0 k=0
-For spot color applications, use opaque white ink.
-The Steam Link Compatible logo indicates that Steam Link works with a hardware product. Valve grants licenses to the Steam Link Compatible logo to partners / manufacturers when Valve has reviewed the device and classifies it as a Steam Link-compatible product. Physical alterations should not be made to the logo and it should not be combined with any other branding elements.
-- Steam Brand Guidelines for Software, Hardware & Games
-Steam link® compatible
-Logo & Brand Guidelines for Hardware
-minimum clear space area
-Diameter of the Steam symbol
-The Steam Link Compatible logo must always be surrounded by an area of clear, open space based on the size of the diameter of the Steam symbol, as indicated below.
-The height of the logo for print should be at least 12.5mm or 50 pixels for onscreen applications. If the ® register mark is too small for clear readability, it may be omitted.
-Print: 12.5mm
-On-screen 50px
-- Steam Brand Guidelines for Software, Hardware & Games
-Steam link® compatible
-Third Party Packaging
-The Steam Link Compatible logo should always be less prominent than your product’s own branding. This logo indicates that Steam Link works with a hardware product. It must not be used in a way that suggests the product is designed or endorsed by Valve.
-Samples of physical packaging should be provided to Valve for approval in advance of shipping the product.
-- positive designation
-inverse designation
-For use on lighter-colored backgrounds.
-RGB value is r=0 g=0 b=0
-CMYK value is c=30 m=30 y=30 k=100
-For spot color applications, use Pantone Black
-For use on darker-colored backgrounds.
-RGB value is r=255 g=255 b=255
-CMYK value is c=0 m=0 y=0 k=0
-For spot color applications, use opaque white ink.
-The SteamVR® Tracking V2.0 feature designation indicates that a hardware product leverages SteamVR Tracking technology to determine and communicate its position and orientation in 3D space. The designation comprises the SteamVR tracking icon plus a feature title and description. It is always used along with the SteamVR logo, to the left or above this designation.
-
-**Color Information:**
-
-- RGB value is r=255 g=255 b=255
-CMYK value is c=0 m=0 y=0 k=0
-For spot color applications, use opaque white ink.
-RGB value is r=0 g=0 b=0
-CMYK value is c=30 m=30 y=30 k=100
-For spot color applications, use Pantone Black
-
-**Spacing Layout:**
-
-- Minimum clear space area
-Diameter of the Steam symbol
-The Steam Link Compatible logo must always be surrounded by an area of clear, open space based on the size of the diameter of the Steam symbol.
-
-**Brand Voice:**
-
-- Steam Branding elements must not be combined with other branding or used in ways that misrepresent Valve or Steam.
-- The Steam Link Compatible trademark communicates the compatibility of Steam Link with hardware products; the logo must not be larger or more prominent than primary brand names and should always maintain its designated form.
-
-**Notes:**
-
-- Steam Brand Guidelines explicitly provide consistency in logo usage, space requirements, color schemes, and trademark endorsements across Steam products, hardware, and services.
-- Valve provides legal attribution and trademark standards in multiple languages with Steam branding tools accessible via their website.
+*Guidelines data not available*
 
 ## Additional Properties
 

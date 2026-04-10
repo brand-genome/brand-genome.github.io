@@ -2,7 +2,7 @@
 title: Frontline Aids
 slug: "frontline-aids"
 description: ""
-date: "2026-03-20T08:22:04.472108"
+date: "2026-04-10T09:40:33.219709"
 draft: false
 sectors:
   - ngo
@@ -51,15 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: international NGO from the United Kingdom
 wikidata_url: "https://www.wikidata.org/wiki/Q132471948"
 has_twitter: false
@@ -78,54 +73,11 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo-related rules and mentions found on pages discussing branding assets and specifications.
-
-**Typography Information:**
-
-- Typography rules and font specifications found within brand descriptions or mentions.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines, including treatment of visuals, styling preferences, and presentation considerations.
-
-**Spacing Layout:**
-
-- Spacing and layout rules, including grid specifications and alignment preferences.
-
-**Brand Voice:**
-
-- Tone guidelines for brand communications, emphasizing voice traits such as confidence, urgency, and empowerment.
-
-**Notes:**
-
-- General guidelines extracted from text across document pages, ensuring all visible data is cited.
+*Guidelines data not available*
 
 ### 2019
 
-**Logo Information:**
-
-- Two logo versions: Primary logo for wider communications and Secondary logo for restricted size. Enhances brand stand-out.
-- Logo color options include predominately black but adaptable to other colorways for stand-out communications.
-- Clear space rules define a minimum boundary around the logo to maintain visibility and brand integrity.
-- Strapline positioning ensures cohesive branding; alignment options provided for logo pairing.
-
-**Color Information:**
-
-- Primary and accent color schemes ensure vibrancy and flexibility in diverse media usage.
-
-**Typography Information:**
-
-- Typography designed to be bold and impactful; inspired by poster traditions for strong messages.
-
-**Imagery Photography:**
-
-- Photography revolves around storytelling with bold, emotional, and sometimes confrontational imagery.
-
-**Spacing Layout:**
-
-- Guidance for sizing and positioning primary/secondary logos ensures prominence within layouts and brand consistency.
+*Guidelines data not available*
 
 ## Additional Properties
 

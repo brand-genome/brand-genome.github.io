@@ -2,7 +2,7 @@
 title: PIATA
 slug: piata
 description: ""
-date: "2026-03-20T08:22:05.580339"
+date: "2026-04-10T09:40:34.512378"
 draft: false
 sectors:
   - ngo
@@ -53,9 +53,9 @@ imagery_styles: []
 wikidata_description: "municipality of Bahia State, Brazil"
 wikidata_url: "https://www.wikidata.org/wiki/Q1794925"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,12 +65,6 @@ visual_term_image_urls: {}
 - [https://agra.org/publication/piata-final-evaluation-report-volume-i](https://agra.org/publication/piata-final-evaluation-report-volume-i)
 - [https://agra.org/piata-evaluation-report](https://agra.org/piata-evaluation-report)
 - [http://www.agra.org](http://www.agra.org)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

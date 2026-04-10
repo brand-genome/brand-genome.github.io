@@ -2,7 +2,7 @@
 title: EDCTP
 slug: edctp
 description: ""
-date: "2026-03-20T08:22:05.747103"
+date: "2026-04-10T09:40:34.726002"
 draft: false
 sectors:
   - research
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - yellow
-  - grey
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - landscape
-  - photography
+imagery_styles: []
 wikidata_description: "nonprofit organization in The Hague, Netherlands"
 wikidata_url: "https://www.wikidata.org/wiki/Q30296681"
 has_twitter: false
@@ -81,46 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Stacked logos must not be reproduced at a size smaller than a 1.75 cm square. Landscape logos must not be reproduced smaller than 1.1832 cm.
-- Two preferred full-color options for the stacked and landscape variations of the logo are yellow and red.
-- Two preferred full-color options for the stacked and landscape variations of the logo are yellow and red.
-- Stacked logos must not be reproduced at a size smaller than a 1.75 cm square. Landscape logos must not be reproduced smaller than 1.1832 cm.
-- Clear space must be proportional and kept free from graphical elements, represented by grey circles equal to the gap height.
-- Clear space must be proportional and kept free from graphical elements, represented by grey circles equal to the gap height.
-- Stacked logos must not be reproduced at a size smaller than a 1.75 cm square. Landscape logos must not be reproduced smaller than 1.1832 cm.
-
-**Color Information:**
-
-- Primary and secondary color palette application is specified; details on page 9.
-
-**Typography Information:**
-
-- Scala typeface is used as the supporting type for the logo, with specific settings (e.g., 38pt size, leading: 45.6pt, tracking: 340).
-
-**Imagery Photography:**
-
-- Photography section details support graphics and website visuals, fostering brand style.
-- Photography section details support graphics and website visuals, fostering brand style.
-- Photography section details support graphics and website visuals, fostering brand style.
-- Photography section details support graphics and website visuals, fostering brand style.
-- Photography section details support graphics and website visuals, fostering brand style.
-
-**Spacing Layout:**
-
-- Spacing rules include maintaining the Safe Zone outside the red line; graphical elements safely positioned outside this zone.
-- Spacing rules include maintaining the Safe Zone outside the red line; graphical elements safely positioned outside this zone.
-- Spacing rules include maintaining the Safe Zone outside the red line; graphical elements safely positioned outside this zone.
-
-**Brand Voice:**
-
-- Brand identity emphasizes consistent style to maintain recognizability and a cohesive corporate image.
-
-**Notes:**
-
-- Checklist is mentioned on page 15 for guidelines adherence.
-- Checklist is mentioned on page 15 for guidelines adherence.
+*Guidelines data not available*
 
 ## Additional Properties
 

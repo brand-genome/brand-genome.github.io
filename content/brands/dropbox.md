@@ -2,7 +2,7 @@
 title: Dropbox
 slug: dropbox
 description: ""
-date: "2026-03-20T08:22:03.829527"
+date: "2026-04-10T09:40:31.458966"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - app
   - software
   - featured
+  - app
   - internet
 industries: []
 countries: []
@@ -58,7 +58,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q42289466"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,11 +69,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
+### 2017
 
 *Guidelines data not available*
-
-### 2017
 
 ## Additional Properties
 

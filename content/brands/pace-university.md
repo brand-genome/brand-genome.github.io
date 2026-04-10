@@ -2,7 +2,7 @@
 title: Pace University
 slug: "pace-university"
 description: ""
-date: "2026-03-20T08:22:04.514906"
+date: "2026-04-10T09:40:33.290938"
 draft: false
 sectors:
   - university
@@ -54,20 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - black
-typographies:
-  - serif
-  - verdana
-  - georgia
-imagery_styles:
-  - bold
-  - dynamic
-  - dramatic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: private university in the New York metropolitan area
 wikidata_url: "https://www.wikidata.org/wiki/Q556098"
 has_twitter: false
@@ -86,39 +76,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo guidance mentioned in context with brand headers like 'Go' or 'Get' and brand messaging consistency near the logo.
-- Partial reveal headlines: Large type elements partially obscured for a dramatic effect, accompanied by emphasizing lines and careful headline design around the logo.
-
-**Color Information:**
-
-- Wordmark colors and variations, with some mention of color palette relevance for branding clarity.
-- Color dynamics paired with branding elements and photography by emphasizing energy in messaging.
-
-**Typography Information:**
-
-- Font family 'Uniform' is highlighted as the primary typeface for print and digital. Variants include Regular, Light, Medium, Bold, Black, Ultra, and Condensed family (including their italicized versions).
-- Font family 'Heldane' is a serif font, suitable for formal communication. Used with audiences like alumni, major donors, or community partners. Licenses available at klim.co.nz.
-- Font Barlow is suggested as a free Google library alternative for Uniform, suitable in situations where it is not economically feasible to purchase licenses for all users.
-- Use Georgia for formal communications (e.g., office of President/Provost), and Verdana for HTML or email body text where Uniform or Heldane is unavailable.
-
-**Imagery Photography:**
-
-- Photography style must reflect optimism, inclusion, diversity, and real-world dynamic learning aligned with the ethos of Pace University.
-
-**Spacing Layout:**
-
-- Spacing includes key guidelines for maintaining rhythm and energy through branded headlining and diagonal cropping elements.
-
-**Brand Voice:**
-
-- Use impactful, punchy headers aligned with energy. Avoid overly verbose or complex messaging structures.
-- Messaging across different audiences (e.g., alumni, peers) should incorporate adaptability, boldness, and clarity, resonating with the 'Go-Getters' concept.
-
-**Notes:**
-
-- The document references various branding elements and visual components like '60° diagonal' used as a scanner-friendly design structure unique to Pace.
+*Guidelines data not available*
 
 ## Additional Properties
 

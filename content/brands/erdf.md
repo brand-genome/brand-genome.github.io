@@ -2,7 +2,7 @@
 title: ERDF
 slug: erdf
 description: ""
-date: "2026-03-20T08:22:05.860224"
+date: "2026-04-10T09:40:34.884528"
 draft: false
 sectors:
   - utilities
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - brown
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: French company in charge of the public electricity network
 wikidata_url: "https://www.wikidata.org/wiki/Q3587594"
 has_twitter: false
@@ -82,19 +74,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- The logo exists only in RGB color for digital use and must not be displayed smaller than 130px in width and 50px in height. A protection zone around the logo is defined by the width of the letter 'R' in ERDF.
-- The logo should not be used in white reverse, black, or grayscale for internet use; color ensures better identification in this medium. However, in intranet usage, white, black, or grayscale versions can be used if required.
-
-**Color Information:**
-
-- Colors include six dominant tones (e.g., blue, light blue, red, fuschia, acid green, and brown) usable for typography, backgrounds, and other graphic elements. There are also additional complementary pairings provided with lighter accents for discreet usage.
-- Colors defined with HEX codes: Dominant Blue (#008094), Light Blue (#A5D7F0), Red (#D81F2A), Fuschia (#962399), Acid Green (#CCE821), Brown (#7E4C3E).
-
-**Spacing Layout:**
-
-- Graphic element called 'flux' represents flow and movement, symbolizing electricity transmission. Created using vertical lines whose thickness, spacing, and colors can vary. Line styles can possess either sharp or slightly curved edges.
+*Guidelines data not available*
 
 ## Additional Properties
 

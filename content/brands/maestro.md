@@ -2,7 +2,7 @@
 title: Maestro
 slug: maestro
 description: ""
-date: "2026-03-20T08:22:05.716623"
+date: "2026-04-10T09:40:34.669628"
 draft: false
 sectors:
   - finance
@@ -46,8 +46,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -69,24 +68,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Details about configurations and versions of the Maestro Brand Mark, including symbol-only and logotype versions. The document highlights the importance of using the correct configuration based on specific requirements.
-- Minimum free space around the Maestro Brand Mark is defined as 'x', which is equal to the width of the 'm' in 'maestro'. Variants include 'x', '1/2x', and additional spacing requirements.
-- Minimum sizes for the brand mark are specified to ensure clarity and legibility across screen and print resolutions. Example sizes provided include Screen: 37 pixels and Print: 13.8mm.
-- Brand mark usage requires sufficient contrast between the logo and background to ensure visibility and compliance.
-
-**Spacing Layout:**
-
-- Spacing around the Maestro Brand Mark must follow 'x' metrics, with specific free space requirements for both symbol and logotype configurations.
-
-**Brand Voice:**
-
-- References to Maestro in text must use an uppercase 'M' to maintain lexical consistency and branding requirements.
-
-**Notes:**
-
-- The document includes essential branding procedures, including table of contents for major sections like logo configurations, color specifications, card artwork, ATM usage, merchant location guidelines, advertising, and contactless branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

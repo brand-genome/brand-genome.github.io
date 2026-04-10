@@ -2,28 +2,28 @@
 title: Deutsche Bank
 slug: "deutsche-bank"
 description: ""
-date: "2026-03-20T08:22:03.877419"
+date: "2026-04-10T09:40:31.559141"
 draft: false
 sectors:
   - finance
 regions:
   - germany
 years:
+  - 2022
   - 2011
   - 1978
-  - 2022
 languages:
   - english
   - german
 tags:
-  - vintage
   - featured
   - financial
+  - vintage
 industries:
-  - "financial-services"
   - "financial-service-activities-except-insurance-and-pension-funding"
-  - "financial-sector"
   - "other-monetary-intermediation"
+  - "financial-services"
+  - "financial-sector"
 countries:
   - germany
 revenue_buckets:
@@ -69,15 +69,13 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - graphic
+imagery_styles: []
 wikidata_description: German global banking and financial services company
 wikidata_url: "https://www.wikidata.org/wiki/Q66048"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 2
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -92,21 +90,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2022
-
-*Guidelines data not available*
-
 ### 2011
 
-**Logo Information:**
-
-- The Deutsche Bank logo history is outlined, showing iterations of design from 1870 to the present. Highlights include the 'imperial eagle' (1870-1918), 'DG in a circle' (1929), 'DB in oval' (1930s), and the current 'slash in a square' logo designed in 1974 by Anton Stankowski.
-- The 'slash in a square' logo, introduced in 1974, represents consistent growth and dynamic development within a stable environment, framed by the square representing security and control.
-- In the early 1970s, eight graphic artists were commissioned to develop a global logo for Deutsche Bank, emphasizing simplicity, recognition, and a consistent frame of reference.
-
-**Notes:**
-
-- The document largely focuses on the history and evolution of the Deutsche Bank logo, with no explicit structured brand guidelines for typography, spacing, or color palette mentioned.
+*Guidelines data not available*
 
 ### 1978
 

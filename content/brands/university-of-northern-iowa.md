@@ -2,7 +2,7 @@
 title: University of Northern Iowa
 slug: "university-of-northern-iowa"
 description: ""
-date: "2026-03-20T08:22:05.846146"
+date: "2026-04-10T09:40:34.863817"
 draft: false
 sectors:
   - education
@@ -52,16 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public university in Cedar Falls, Iowa"
 wikidata_url: "https://www.wikidata.org/wiki/Q1781094"
 has_twitter: false
@@ -80,36 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo usage guidelines including nameplate options (vertical, horizontal) and wordmark preferences.
-- Logo usage guidelines including nameplate options (vertical, horizontal) and wordmark preferences.
-- Logo usage guidelines including nameplate options (vertical, horizontal) and wordmark preferences.
-- Logo usage guidelines including nameplate options (vertical, horizontal) and wordmark preferences.
-
-**Color Information:**
-
-- Details on primary and secondary colors, including color codes and restrictions.
-- Details on primary and secondary colors, including color codes and restrictions.
-- Details on primary and secondary colors, including color codes and restrictions.
-- Details on primary and secondary colors, including color codes and restrictions.
-- Details on primary and secondary colors, including color codes and restrictions.
-- Details on primary and secondary colors, including color codes and restrictions.
-
-**Typography Information:**
-
-- Guidelines on font families, weights, and usage roles.
-- Guidelines on font families, weights, and usage roles.
-- Guidelines on font families, weights, and usage roles.
-
-**Imagery Photography:**
-
-- Guidelines on photography style, treatments, and composition.
-- Guidelines on photography style, treatments, and composition.
-
-**Notes:**
-
-- General notes and reminders, including compliance and approval processes.
+*Guidelines data not available*
 
 ## Additional Properties
 

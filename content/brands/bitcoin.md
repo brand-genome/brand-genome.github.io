@@ -2,7 +2,7 @@
 title: Bitcoin
 slug: bitcoin
 description: ""
-date: "2026-03-20T08:22:05.854415"
+date: "2026-04-10T09:40:34.878717"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -52,21 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - gold
-  - white
-  - gray
-  - yellow
-  - orange
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - classic
-  - bold
-  - gradient
-  - photography
+imagery_styles: []
 wikidata_description: digital cash system and associated currency
 wikidata_url: "https://www.wikidata.org/wiki/Q131723"
 has_twitter: false
@@ -86,30 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo overview discussing standard logo, with non-italic typeface, representing stability and transparency. Classic Bitcoin logo was redesigned to lighter orange and gray colors portraying gold and steel, for a more approachable feel.
-- The coin variation is introduced as a brand element. There are two icon styles (filled and stroked) and three color variations (yellow, gray, white). Proper usage in different environments is discussed, including white, dark, and occasionally colored backgrounds.
-- Standard logo usage guidelines. Three color versions of the logo for different environments are specified: white background (standard logo with gray and yellow), dark gray/black background (white text variation), and occasional colored backgrounds (single color white). Logos should not be displayed on textures/patterns unless provided in the guide.
-- Logo usage 'do nots': Do not use unapproved colors, avoid placement on backgrounds other than white/light gray, do not add visual effects like shadows or gradients, do not overlap with other elements, and do not distort or stretch.
-- Coin usage 'do nots': Do not use unauthorized colors, distort shapes, or overlap coins with other elements. Avoid competing backgrounds or unapproved color combinations. Avoid transparency or gradient effects for the coin.
-
-**Color Information:**
-
-- Bitcoin yellow color with HEX: #FAB915, RGB: 250, 185, 21, CMYK: 2%, 29%, 100%, 0%.
-- Bitcoin gray color with HEX: #8B8B8B, RGB: 139, 139, 139, CMYK: 48%, 40%, 40%, 4%.
-
-**Typography Information:**
-
-- Font family: Museo Sans Rounded. Available in weights 700 (bold), 500 (medium), and 300 (light).
-
-**Imagery Photography:**
-
-- Photography or imagery section mentioned. Detailed recommendations for usage of photos are not described but might involve compliance with mood or brand identity.
-
-**Notes:**
-
-- For branding or art direction inquiries, contact: press@bitcoin.com; Address: Ideas By Nature, LLC 1009 Grant Street, Denver, CO 80203.
+*Guidelines data not available*
 
 ## Additional Properties
 

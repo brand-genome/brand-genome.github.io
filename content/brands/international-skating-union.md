@@ -2,7 +2,7 @@
 title: International Skating Union
 slug: "international-skating-union"
 description: ""
-date: "2026-03-20T08:22:05.525937"
+date: "2026-04-10T09:40:34.417959"
 draft: false
 sectors:
   - sports
@@ -50,23 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - blue
-typographies:
-  - arial
-  - display
-  - montserrat
-imagery_styles:
-  - bold
-  - portrait
-  - gradient
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international governing body for competitive ice skating
 wikidata_url: "https://www.wikidata.org/wiki/Q543115"
 has_twitter: false
@@ -87,33 +74,88 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- The ISU logo includes a Wordmark and Icon and is available in both portrait and landscape format.
-- Logo can be adapted to dark backgrounds by using a 'white-out' version. Full-color, spot-color, and CMYK/RGB tonal versions are specified, to be used per guidelines.
-- Minimum exclusion zone for the logo is based on the letter width of 'I' in the Wordmark.
-- Minimum size requirements for the logo include measurements based on both the 'Portrait' and 'Landscape' formats, ensuring legibility when reduced.
-- Incorrect usage examples include redesigning, changing fonts, distorting proportions, combining the Icon into other graphics, and breaching proximity, as shown on the provided page.
+##### Mission
 
-**Color Information:**
+- To regulate, govern, promote and develop the sports of Figure Skating, Synchronized Skating, Speed Skating, and Short Track Speed Skating worldwide, fostering friendship and mutual understanding between athletes.
 
-- Primary color for branding is Dark Blue with values: CMYK (100, 100, 0, 15), RGB (44, 34, 118), HEX (#2C2276).
-- Logo rendering includes 4-color CMYK, Spot Color, 1-color CMYK, and 3-color RGB tonal variations for dark and light backgrounds.
-- Color reproduction mode includes PANTONE specifications for printing and RGB for screen display.
+##### Core Values
 
-**Typography Information:**
+- friendship
+- mutual understanding
+- heritage
+- flexibility
+- consistency
 
-- Montserrat is the primary typeface for ISU communications, with weights including ExtraBold Italic, Bold, Regular, and Light for headlines, body text, and creative highlights respectively.
-- Arial is the secondary typeface, used online or in cases where Montserrat is unavailable. It is used mainly for digital communications and large amounts of text like agreements or forms.
+##### Target Audience
 
-**Spacing Layout:**
+- National associations, athletes, and stakeholders involved in international winter sports, particularly skating disciplines.
 
-- Exclusion zone around the logo is required to maintain prominence and clarity in application. Minimum space is based on the width of the letter 'I' in 'ISU'.
+##### Personality Traits
 
-**Notes:**
+- professional
+- modern
+- flexible
+- consistent
+- heritage-driven
 
-- The guide includes multiple references to file formats like AI, PDF, and vector artwork for production, alongside gradient shading for more advanced reproductions.
-- For artwork approval or further information, users are advised to contact the ISU Marketing Department.
+##### Visual Identity Overview
+
+- The ISU brand identity is clean, modern, and minimalist, featuring a strong dark blue color palette, a distinctive circular icon, and the Montserrat typeface. The logo and supporting patterns deliver a consistent and powerful identity across digital and traditional platforms, with strict guidelines for logo usage, color, and typography.
+
+#### Categories
+
+##### Color Palette
+
+- This logo uses the Dark Blue color swatch.
+- Dark Blue CMYK 100/100/0/15 RGB 44/34/118 HEX #2c2276 PANTONE 2748c
+
+##### Typography
+
+- Montserrat is the Official Typeface for the ISU Brand Identity, it is available in a range of weights, but the four primary versions are: Montserrat EXTRABOLD ITALIC Montserrat BOLD Montserrat REGULAR Montserrat LIGHT These should be used to give an appropriate range of weights where required, but could be expanded upon with others if necessary. It is a Google Font which is available for free from https://fonts.google.com/specimen/ Montserrat.
+- Montserrat EXTRABOLD ITALIC # ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 Montserrat BOLD ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 Montserrat REGULAR ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 Montserrat LIGHT ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+- Arial is the Secondary Typeface for the ISU Brand Identity, it is available in a range of weights, but the two primary versions are: Arial BOLD Arial REGULAR These should be used to give an appropriate range of weights where required, but could be expanded upon with others if neccesarry. Arial is mainly used in online and digital communications, where the limited availability of Montserrat may cause an issue, but can also be used as an alternative font for large amounts of body text (i.e. agreements, forms etc.).
+- Arial BOLD # ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 Arial REGULAR ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+- Montserrat is the primary typeface for all ISU communications, except online an digital applications where the more readily available Arial should be used.
+- Montserrat ExtraBold Italic is mainly used for big headlines, the italic slant conveying speed and movement.
+- Montserrat Bold can also be used for headlines and subheadlines, with the Montserrat Regular weight preferred for content or body copy.
+- Montserrat Light (including the italic version) is used as a creative font to deliver a more refined result when used in larger sizes or as a highlighting device (i.e. quotations).
+- DON’T CHANGE FONTS
+
+##### Logo Usage
+
+- The ISU Official Logo is comprised of the brand elements shown opposite. 1 OFFICIAL ICON 2 OFFICIAL WORDMARK This logo uses the Dark Blue color swatch.
+- Dark Blue CMYK 100/100/0/15 RGB 44/34/118 HEX #2c2276 PANTONE 2748c
+- The logo is designed to provide flexibility and to work across a wide range of background colors, all of which form part of the Brand Identity within different environments.
+- The logo can either be used in a portrait or landscape format.
+- The ISU Official Logo is available in a variety of color formats. This page outlines how these are to be used either on a dark or light background.
+- It is important that the Official Logo is reproduced in full, and exactly as shown, with no color variations, reversals, crops or distortions.
+- All formats are provided in a range of file types including: AI, EPS, PNG & JPG.
+- When displayed on a dark background, Official Background or otherwise, the Official Logo should always be used in a white out format. Only white versions of the logo are provided for this reason .
+- To ensure prominence and legibility, the Official Logo is always surrounded by an Exclusion Zone which should remain clear of any prominent graphics, ie. text, other logos, graphic elements, photography etc.
+- The applicable amount of free space is based on the width of the letter ‘U’ from the Official Icon.
+- The free space shown here is the minimum exclusion space that should always be given.
+- To ensure prominence and legibility, the total height of the Official Logo should always be carefully considered.
+- This page provides the minimum sizes required for the 4 primary usages of the logo, measuring the height of the logo including both icon and wordmark.
+- Portrait Minimum Size >10mm
+- Digital Portrait Minimum Size >55px
+- Landscape Minimum Size >25mm
+- Landscape Minimum Size >115px
+- It is essential to avoid incorrect use of the Official Logo. Such incorrect use can weaken and damage the integrity and consistency of the ISU Brand Identity.
+- DON’T ALTER COLORS
+- DON’T CROP THE LOGO
+- DON’T REDESIGN
+- DON’T DISTORT OR APPLY EFFECTS
+- DON’T CHANGE FONTS
+- DON’T TRANSLATE INTO OTHER LANGUAGES
+- DON’T BREACH THE EXCLUSION ZONE
+- DON’T USE ICON AND WORDMARK IN CLOSE PROXIMITY ON CANVAS
+
+##### Visual Style
+
+- The ISU Official Logo is comprised of the brand elements shown opposite. 1 OFFICIAL ICON 2 OFFICIAL WORDMARK This logo uses the Dark Blue color swatch.
+- Dark Blue CMYK 100/100/0/15 RGB 44/34/118 HEX #2c2276 PANTONE 2748c
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-03-20T08:22:04.311311"
+date: "2026-04-10T09:40:33.001549"
 draft: false
 sectors:
-  - gaming
   - software
+  - gaming
 regions:
   - usa
 years:
@@ -28,8 +28,8 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "roblox-studio"
   - roblox
+  - "roblox-studio"
 products: []
 headquarters_locations:
   - "san-mateo"
@@ -55,16 +55,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - red
-  - white
-  - grey
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American video game developer
@@ -87,27 +79,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The Roblox logo must not be changed or altered in any way.
-- Primary use involves a Roblox Red logo against a white or light grey background. Secondary use involves a black logo against a white background, or a white logo against a dark background.
-- Horizontal and vertical clear space around the Roblox mark is based upon the counter size of the logo’s square-shaped letter ‘O’.
-- The Roblox logo must be no smaller than 1 inch (25 mm) for print or 72 pixels on screen.
-- Ensure the correct amount of clear space is added when applying the tagline. Trademark is always required.
-- Tagline usage features 'Powering Imagination'.
-
-**Color Information:**
-
-- Primary use includes a Roblox Red logo on a white background.
-- Secondary use includes black logo on a white background or white logo on a dark background.
-
-**Spacing Layout:**
-
-- Horizontal and vertical clear space must surround the Roblox mark, based upon the size of the square-shaped letter 'O'.
-
-**Notes:**
-
-- Trademark is always required in logo tagging configurations such as 'Powering Imagination'.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -117,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Roblox Studio](/products_or_materials_produced/roblox-studio/); [Roblox](/products_or_materials_produced/roblox/) |
+| Product Or Material Produced | [Roblox](/products_or_materials_produced/roblox/); [Roblox Studio](/products_or_materials_produced/roblox-studio/) |
 | Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/) |
 | Foundation Date | [2004](/foundation_dates/2004/) |
 | Inception | 2004 |

@@ -2,7 +2,7 @@
 title: Aave
 slug: aave
 description: ""
-date: "2026-03-20T08:22:04.201901"
+date: "2026-04-10T09:40:32.563446"
 draft: false
 sectors:
   - finance

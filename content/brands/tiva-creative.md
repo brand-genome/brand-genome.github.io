@@ -2,12 +2,12 @@
 title: Tiva Creative
 slug: "tiva-creative"
 description: ""
-date: "2026-03-20T08:22:04.183756"
+date: "2026-04-10T09:40:32.517825"
 draft: false
 sectors:
-  - "marketing-advertising"
   - consulting
   - software
+  - "marketing-advertising"
 regions:
   - nigeria
 years:
@@ -48,23 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - red
-  - white
-  - black
-  - "pantone-20"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,36 +69,4 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
-
-- Logo signature comprises the TIVA Creative logo and tagline 'Inspire, Teach & Support'.
-- Logo lockup includes horizontal and vertical logo orientations.
-- Logo icon represents the brand mark alone without the wordmark.
-- Clear space rules indicate the required distance between logo and canvas/other logos.
-- One-color versions include black on white and white on black logos, used for print designs and when original color conflicts with the background.
-- Incorrect usage includes modifications, altering shapes, placing logo inside other shapes, etc.
-- General logo usage rules prohibit altering, rotating, embellishing, recreating the logo, and using unapproved icons/images.
-
-**Color Information:**
-
-- Primary colors include Venetian Red: HEX #c90d0d, RGB 201/13/13, CMYK 0/94/94/21, Pantone 20-0061TPM; Rich Black: HEX #000000, RGB 0/0/0, CMYK 0/0/0/100, Pantone 20-0198TPM; White: HEX #ffffff, RGB 255/255/255, CMYK 0/0/0/0, Pantone P 179-1 C.
-
-**Typography Information:**
-
-- Primary font: Mark Pro, Secondary font: Lusitana. Includes various typographic weights such as Hairline, Regular, Medium, Bold, Italics, etc.
-
-**Spacing Layout:**
-
-- Business card layout includes safe area rules and font specifications: Medium/Font size 8, Regular/Font size 7, Bold/Font size 12.
-- Letterhead includes opacity levels (15%) composed of circular elements emanating from the logo.
-- Envelope layout includes safe area measurements for the logo and print elements.
-- Social media layouts specify placements for logos (bottom center, left-aligned), social handles (bottom left), and website URL (bottom right).
-
-**Brand Voice:**
-
-- Brand personality: Inspire clients to develop creativity in business activities, teach innovative methods, and support businesses with digital tools.
-
-**Notes:**
-
-- Brand manual aims to maintain consistency and uniformity across all touchpoints for TIVA's marketing, advertising, partnerships, and designs.
-- Stationery items based on curved design patterns inspired by the logo icon are included in the manual.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-03-20T08:22:04.343215"
+date: "2026-04-10T09:40:33.065171"
 draft: false
 sectors:
   - "real-estate"
@@ -48,17 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - silver
-  - red
-  - "pantone-200"
-  - white
-  - gray
-  - black
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Real estate brokerage office (franchise)
 wikidata_url: "https://www.wikidata.org/wiki/Q137371862"
 has_twitter: false
@@ -85,37 +77,116 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- Market center DBA logo must appear on all marketing materials. Alternative configurations are allowed per state regulations.
-- Ownership statement required: 'Each Office Is Independently Owned and Operated'. Must be included on all materials alongside logos.
-- Reception area signage recommends sintra or brushed aluminum with max installation size of 2 ft width. Example configurations include matte black, white, or brushed silver.
-- Unacceptable designs include embellishments, gradients, or drop shadows on signage logos.
+##### Mission
 
-**Color Information:**
+- Keller Williams aims to be a powerful platform for agents to build their brand, grow their business, and fund big lives for themselves and their families, driven by the conviction that real estate is a local business led by individual agents and their market share [^1].
 
-- Preferred KW Red color codes (CMYK or Pantone 200) for yard signs, business cards, and other materials.
-- Recommended colors for digital and print materials: KW Red (RGB), gray, black, and white. No gradients or drop shadows allowed.
+##### Core Values
 
-**Typography Information:**
+- local business focus
+- agent empowerment
+- compliance
+- unifying standards
+- legal protection
+- brand asset safeguarding
 
-- Helvetica Neue LT Std is the required font family for all signage, business cards, and digital materials. Preferred weights are 55 Roman and 75 Bold.
+##### Target Audience
 
-**Imagery Photography:**
+- Real estate agents, market center leadership, and stakeholders within the Keller Williams franchise [^2].
 
-- Photographs on yard signs or business cards must include agent branding or team-branded examples. Example placement includes agent-branded with photo configurations.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- minimalist
+- unifying
+- compliant
 
-- Reception area signage installation measurements require a max width of 2 ft. Local regulations might affect the positioning of the DBA logo.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is minimalist and modern, emphasizing the 'kw' logo in bold red, paired with clean sans-serif typography, a color palette of KW Red, gray, black, and white, and strict logo usage standards. Layouts use color blocking, avoid embellishments, gradients, and drop shadows, and maintain clear, professional composition across signage, print, and digital materials [^3].
 
-- All materials must comply with statements that every office is independently owned and operated. Logos and design should reflect professionalism, clarity, and brand uniformity.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Compliance with local board and commission laws is required for all marketing materials, including print and digital. For example, yard signs, business cards, and websites need strict adherence to these rules.
+- The primary Keller Williams logo is the most basic and commonly used element of the Keller Williams visual identity.
+- Customized DBA logos for individual market centers and regions are created by integrating the DBA name of the market center with the Keller Williams logo using specific unit templates.
+- There must be at least the width of the "W" all the way around the logo.
+- Minimum size specifications have been established to ensure the legibility of Keller Williams logos.
+- ‘KW’ must not be smaller than 0.375 inches wide.
+- ‘KELLER WILLIAMS’ must not be smaller than 1 inch wide.
+- ‘KELLER WILLIAMS’ must not be smaller than 72 pixels wide.
+- ‘KW’ must not be smaller than 36 pixels wide.
+- Keller Williams logos should only be reproduced using the files provided by Keller Williams.
+- Components of the logo should never be reconfigured. Space relationships among elements are not to be manipulated.
+- Do not add embellishments.
+- Do not add drop shadows, embossing or any other effect to the logo.
+- Do not use the old "bug." The old bug should not be used by itself or in replacement of the new KW mark.
+- Do not resize individual elements. Size relationships among elements are not to be manipulated.
+- Do not use other fonts. Do not use any font to type out Keller Williams.
+- Do not use the old "bug" with pipette. The configuration of the old bug and the pipette should not be used.
+- The primary colors for the Keller Williams visual identity system are KW Red (Pantone® 200) and KW Main Gray (Pantone® 424). Equivalent color formulas for four-color process printing and digital media are provided here.
+- Pantone 200® or CMYK are to be used on print applications, while RGB/Hex are to be used for digital/screen applications.
+- KW Red Pantone 200 CMYK 0 100 66 13 RGB 180 1 1 #B40101
+- KW Main Gray Pantone 424 CMYK 0 0 0 60 RGB 130 130 130 #999999
+- Light Gray CMYK 0 0 0 25 RGB 204 204 204 #CCCCCC
+- Black CMYK 40 20 20 100 RGB 0 0 0 #000000
+- Medium Gray CMYK 0 0 0 85 RGB 77 77 77 #666666
+
+##### Color Palette
+
+- The primary colors for the Keller Williams visual identity system are KW Red (Pantone® 200) and KW Main Gray (Pantone® 424). Equivalent color formulas for four-color process printing and digital media are provided here.
+- Pantone 200® or CMYK are to be used on print applications, while RGB/Hex are to be used for digital/screen applications.
+- KW Red Pantone 200 CMYK 0 100 66 13 RGB 180 1 1 #B40101
+- KW Main Gray Pantone 424 CMYK 0 0 0 60 RGB 130 130 130 #999999
+- Light Gray CMYK 0 0 0 25 RGB 204 204 204 #CCCCCC
+- Black CMYK 40 20 20 100 RGB 0 0 0 #000000
+- Medium Gray CMYK 0 0 0 85 RGB 77 77 77 #666666
+- Preferred 33% - 50% KW Red (CMYK or Pantone® 200)
+- Preferred KW Red (RGB), gray, black and white
+- Preferred KW Red (CMYK or Pantone® 200), gray, black and white
+- Preferred to use color blocking to create a modern graphic look.
+- Preferred no embellishments.
+- Preferred no drop shadows.
+- Preferred no gradients.
+
+##### Typography
+
+- The primary sans serif typeface for Keller Williams printed applications is Helvetica Neue LT Std. This font is to be used in collateral materials and headlines.
+- The primary serif typeface for Keller Williams printed applications is Adobe Garamond Pro. This font is to be used in longer body copy.
+- Helvetica Neue LT Std 47 Light Condensed 57 Condensed 67 Medium Condensed 45 Light 55 Roman 65 Medium 75 Bold 85 Heavy
+- Adobe Garamond Pro Regular Italic Semibold Semibold Italic
+- The primary body typeface for Keller Williams digital applications is Roboto. It is is freely available at https://fonts. google.com/specimen/Roboto.
+- The primary header typeface for Keller Williams digital applications is Nimbus Sans. Due to licensing restrictions, Nimbus Sans cannot be provided. It may be purchased at https://www.myfonts.com/ fonts/urw/nimbus-sans/.
+- Roboto Thin Thin Italic Light Light Italic Regular Medium Medium Italic Bold Bold Italic
+- Nimbus Sans Light Light Italic Regular Regular Italic Bold Bold Italic
+- Do not use other fonts.
+- Do not use any font to type out Keller Williams.
+- Preferred Font Type: Helvetica Neue LT Std Font Family
+
+##### Visual Style
+
+- Preferred 33% - 50% KW Red (CMYK or Pantone® 200)
+- Preferred to use color blocking to create a modern graphic look.
+- Preferred no embellishments.
+- Preferred no drop shadows.
+- Preferred no gradients.
+- Helvetica Neue LT Std Font Family
+- Primary fonts for signs: Helvetica Neue 55 Roman, 75 Bold
+
+##### Layout And Composition
+
+- Preferred to use color blocking to create a modern graphic look.
+- Preferred no embellishments.
+- Preferred no drop shadows.
+- Preferred no gradients.
+- All yard signs must meet the following requirements: □ Inclusion of market center DBA logo □ Inclusion of ownership statement □ Compliance with local board/ commission laws and rules See section 1.0 for more details.
+- Market Center Branded
+- Agent Branded
+- Agent Branded with Photo
 
 ## Additional Properties
 

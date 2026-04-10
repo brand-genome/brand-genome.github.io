@@ -2,7 +2,7 @@
 title: SmartFi
 slug: smartfi
 description: ""
-date: "2026-03-20T08:22:04.080699"
+date: "2026-04-10T09:40:32.135071"
 draft: false
 sectors:
   - finance
@@ -51,29 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - favicon
-  - secondary
-brand_colors:
-  - black
-  - white
-  - "pantone-807"
-  - "pantone-296"
-typographies:
-  - poppins
-  - serif
-imagery_styles:
-  - product
-  - flat
-  - graphic
-  - bold
-  - geometric
-  - illustration
-  - clean
-  - gradient
-  - monochrome
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "company in Oslo, Norway"
 wikidata_url: "https://www.wikidata.org/wiki/Q30259962"
 has_twitter: false
@@ -93,46 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The SmartFi logo emphasizes the brand's values using perfect geometric circular shapes representing simplicity, completeness, and balance. The 45-degree angle symbolizes an upward trajectory to financial goals. Bright colors and a streamlined logotype create a clean and empowering appearance.
-- Logo favicon is designed as a circular shape for cryptocurrency and token usage, ensuring its identification at small sizes for web and social media applications.
-- Monochrome logo usage is restricted to black and white only. Recoloring in other variations is prohibited.
-- Favicon can be displayed in monochrome colors (black and white); recoloring is restricted to variations specified.
-- Logo spacing rules define minimum space around the logo as twice the distance between the favicon and logotype. Minimum logo width is 1 inch.
-- Favicon spacing defines the minimum area around the favicon as equivalent to the space between the favicon and the logotype. Minimum radius is 0.5 inch.
-- Incorrect logo usage includes: rotating, skewing, mirroring, adding effects (e.g., shadows), borders, textures, recoloring, or distorting visibility/readability.
-
-**Color Information:**
-
-- Primary colors include gradients (#F408EB, #F97300) with a bold and empowering aesthetic aimed at a millennial and Gen Z audience. Colors prioritize warmth and strong gradients. Background colors include #FFFFFF (text), #091A29 (shadow, primary background).
-- Secondary colors include a vibrant palette (#FBED21, #4FDC47, #1BE8EB, #AF47FF). Variants like secondary dark tones (#0F2A3D, #0B2333, #05151E) are used alongside designed gradients for product representation.
-- Color codes provided in Pantone, CMYK, and RGB formats for primary and secondary colors. Examples: Pantone 807 C (#F408EB), CMYK values C:0 M:100 Y:0 K:0, secondary Pantone 296 C (#0F2A3D), CMYK C:100 M:81 Y:53 K:71.
-
-**Typography Information:**
-
-- Primary typeface is Poppins, a geometric sans serif font with various weights spanning Thin, Light, Regular, Medium, Semi Bold, Bold, Extra Bold, Black.
-- Typography hierarchy: headers in uppercase (Poppins Light, Medium, Extra Light), sub-headers in sentence case, paragraphs in Poppins Light. Emphasis font weights are allocated to specific header hierarchies.
-- Typography rules highlight left-aligned text format, justified paragraphs, and specific font weight allocation for emphasis on headers. Brand name displayed with proper capitalization: capital 'S' and 'F' only.
-
-**Imagery Photography:**
-
-- Illustration style employs matte, glass-like 3D objects, plastic greyscale objects with pops of color, and flat high-quality imagery resembling sophisticated yet simple aesthetics.
-- Examples of matte, glass-like objects and matte plastic objects include tiered design illustrations.
-
-**Spacing Layout:**
-
-- Graphic elements utilize amorphous shapes filled with brand gradients representing product suite combinations. These visual cues aim at user engagement and thematic product differentiation.
-- Gradient color pairings are assigned to specific products such as Smart Deposit, Exchange, Loan ensuring improved navigation and branding consistency in websites.
-
-**Brand Voice:**
-
-- Brand voice prioritizes empowerment, positivity, and simplicity with an inspiring tone. Messaging focuses heavily on wealth creation and attracting millennial and Gen Z audiences.
-
-**Notes:**
-
-- Certain sections include rules for banner graphics (text alignment with SmartFi logo-proximity, gradient angles specified between 45°-60°, font adherence).
-- SmartFi tokens are visually represented by assigned gradient variations based on the primary logo colors.
+*Guidelines data not available*
 
 ## Additional Properties
 

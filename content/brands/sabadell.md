@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-03-20T08:22:04.903343"
+date: "2026-04-10T09:40:33.679285"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
+  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
-  - "economics-of-banking"
 countries:
   - spain
 revenue_buckets:
@@ -58,22 +58,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - alternate
-  - wordmark
-  - primary
-brand_colors:
-  - white
-typographies:
-  - "source-sans"
-  - arial
-imagery_styles:
-  - bold
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Spanish banking group
 wikidata_url: "https://www.wikidata.org/wiki/Q762330"
 has_twitter: false
@@ -92,35 +80,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Horizontal and vertical logo versions are shown. These versions are to be used on communication materials requiring different configurations based on the specific medium (e.g., horizontal or vertical spaces). Clear space rules for protection are consistent with the primary logo version specifications.
-- Incorrect logo usage examples, including alterations to proportional relationships to the logo and symbol, misalignments, deformation of elements, separating the symbol from the wordmark, modifying rotation or adding extra elements.
-- Incorrect color usage examples: altering logo colors, adding effects to the symbol, tracing or associating the logo or symbol with another word, or changing color combinations.
-
-**Color Information:**
-
-- Primary brand colors provided with codes (Pantone, CMYK, RGB, HTML). Examples: Pantone 7711C (CMYK: 57% C, 0% M, 100% Y, 0% K, HEX: #008F9F, RGB: R:0 G:143 B:159), Pantone 368C. Colors at 100% intensity and gradients (10-90%) are specified for print and digital platforms.
-- Secondary colors are provided with similar specifications (e.g., Pantone 7486C, Pantone 1215C). These are for supportive roles on communication materials to add dynamism without dominating.
-- Monochromatic color palette presented to provide alternate dynamic options with reduced saturation (10-90%). Examples given for specific application cases.
-
-**Typography Information:**
-
-- Corporate typeface specified: 'Source Sans Pro' designed by Paul D. Hunt. Descriptions emphasize dynamism and uniqueness. Specific details provided for uppercase letters, traits of the 'A' character, and overall design intent.
-- General typeface specified: 'Arial' family (Regular, Italic, Bold, Bold Italic), chosen for overall communication in various digital and print formats to ensure consistency.
-
-**Imagery Photography:**
-
-- Brand imagery avoids using logo on corporate color backgrounds or overly intense backgrounds. Imagery is supposed to support clear visibility and harmonic contrast, with logos appearing in corporate colors or white depending on the intensity of the background.
-
-**Spacing Layout:**
-
-- Specifications for grid-based spacing on stationery items such as letterheads, envelopes, business cards, and digital/email signatures, including typographic rules and text alignment.
-
-**Notes:**
-
-- The brand aims for a monolithic architecture strategy — acting under one main identity for all associated visual elements. Specific rules are noted for logo descripting and associated areas of application.
-- Stationery and printed materials serve as key brand image carriers. Design and production guidelines emphasize achieving compatibility, coordination, and image uniformity.
+*Guidelines data not available*
 
 ## Additional Properties
 

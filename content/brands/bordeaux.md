@@ -2,7 +2,7 @@
 title: Bordeaux
 slug: bordeaux
 description: ""
-date: "2026-03-20T08:22:05.571837"
+date: "2026-04-10T09:40:34.492667"
 draft: false
 sectors:
   - "public-sector"
@@ -50,14 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "city and commune in Gironde, New Aquitaine, France"
 wikidata_url: "https://www.wikidata.org/wiki/Q1479"
 has_twitter: false
@@ -79,36 +75,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The document defines the logo for Bordeaux with specific guidelines, including variations and color applications.
-- Clear space / safe zone is mentioned around the logo, with specific spacing requirements.
-- Incorrect usage of the logo is illustrated with 'Do not recolor, distort, or modify'.
-
-**Color Information:**
-
-- Primary colors include Bordeaux Red and White, along with their HEX and RGB codes.
-- Color usage guidelines specify when to use the primary red background and the white logo, or vice versa.
-
-**Typography Information:**
-
-- Typography guidelines define the use of specific fonts, including examples and roles for headlines and body text.
-
-**Imagery Photography:**
-
-- Photography guidelines specify stylistic choices for the city's images, including high-contrast, warm lighting, and images that best depict the character of Bordeaux.
-
-**Spacing Layout:**
-
-- Guidelines for spacing include ensuring alignment consistency across documents and defining margins for printed materials.
-
-**Brand Voice:**
-
-- The brand voice is described as 'curious, original, and unique', reflecting the characteristics of the city.
-
-**Notes:**
-
-- The document emphasizes collaboration with the residents of Bordeaux to reflect the authenticity and creativity of the city's identity.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-03-20T08:22:03.839594"
+date: "2026-04-10T09:40:31.479168"
 draft: false
 sectors:
+  - software
   - finance
   - "ride-sharing"
-  - software
 regions:
   - indonesia
 years:
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: Indonesian technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q20426955"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -77,16 +77,6 @@ visual_term_image_urls: {}
 - [http://www.instagram.com/gojekindonesia](http://www.instagram.com/gojekindonesia)
 - [http://www.linkedin.com/company/gojek](http://www.linkedin.com/company/gojek)
 - [http://www.youtube.com/user/gojekindonesia](http://www.youtube.com/user/gojekindonesia)
-
-## Brand Guidelines
-
-### UNKNOWN
-
-*Guidelines data not available*
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Avast
 slug: avast
 description: ""
-date: "2026-03-20T08:22:04.851493"
+date: "2026-04-10T09:40:33.599885"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "czech-republic"
 years:
@@ -61,22 +61,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-  - symbol
-brand_colors:
-  - red
-  - green
-  - white
-  - purple
-  - blue
-  - "pantone-158"
-  - yellow
-  - orange
-  - "pantone-267"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Czech security software company
@@ -99,53 +85,197 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Various logo versions include full-color positive, full-color negative, one-color positive and negative, and small logos used for limited spaces like favicons or UI components.
-- Logo file formats: EPS, PNG, RGB, CMYK, and PDF are mentioned to cater to specific needs of printing and digital designs. File naming conventions specify company name, size, background compatibility, color system, and file type. Example: avast_logo_76x24_pos_rgb.png.
-- Clear space rule specifies minimum clearance proportional to the height of the 'a' in the logo's amoeba, ensuring uncluttered visibility. Minimum size requirements for logos include screen resolutions: 160px width by 30px height.
-- Incorrect logo usage guidelines include avoiding changes to colors, proportions, and typography of logos; avoiding gradients, distortions, or usage over busy backgrounds. Additional prohibition includes using wordmark alone or breaking/stacking the logo components.
+##### Mission
 
-**Color Information:**
+- Keeping the online world safe and secure.
 
-- Primary brand colors include Avast Orange (Pantone 158C, RGB 255/120/0, HEX FF7800, CMYK 0/62/95/0) and Avast Dark Purple (Pantone 533C, RGB 45/54/76, HEX 2D364C, CMYK 93/86/40/32). Secondary colors provide complementary shades and contrast possibilities.
-- Approved auxiliary color palette defined for supporting design elements. Example colors include Avast Blue (Pantone 2685C, RGB 38/28/106, HEX 261C6A, CMYK 100/100/0/22), Green (RGB 67/237/156, HEX 43ED9C, CMYK 56/0/58/0), and Avast Purple (Pantone 267C, RGB 78/34/208, HEX 4E22D0, CMYK 88/100/0/0).
-- Color usage rules emphasize Avast Orange as the primary brand color for icons, marketing materials, and core branding. Secondary colors complement and contrast in layouts. Colors such as red, yellow, and green are reserved strictly for status indicators in UI elements.
+##### Core Values
 
-**Notes:**
+- security
+- trust
+- integrity
+- wisdom
+- independence
+- creativity
 
-- Contact for brand-related assistance: brand@avast.com as referenced on the concluding pages.
+##### Target Audience
+
+- Consumers, SMBs, IT service providers, and channel partners seeking easy-to-manage, enterprise-grade security and network management solutions.
+
+##### Personality Traits
+
+- trustworthy
+- innovative
+- professional
+- modern
+
+##### Visual Identity Overview
+
+- The visual identity features a distinctive orange amoeba symbol paired with a modern sans-serif wordmark, using a color palette dominated by orange and dark purple, with clear logo usage rules, strong contrast, and minimalistic, clean layouts.
+
+#### Categories
+
+##### Brand Values
+
+- Keeping the online world safe and secure.
+
+##### Color Palette
+
+- Avast Orange RGB: 255/120 / 0 CMYK: 0 / 62 / 95 / 0 WEB: FF7800
+- Avast Dark Purple RGB: 45 / 54/ 76 CMYK: 93 / 86 / 40 / 32 WEB: 2D364C
+- Avast Blue RGB: 38 / 28 /106 CMYK: 100 / 100 / 0 /22 WEB: 261C6A
+- Avast Purple RGB: 101 / 52 / 172 CMYK: 80 / 89 / 0 / 0 WEB: 6534AC
+- Black RGB: 0 / 0 / 0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0 / 0 / 0 / 0 WEB: FFFFFF
+- Orange is the primary color for use in the Avast icon as well as for brand communications and marketing.
+- The primary and secondary background colors have been carefully chosen to boost visual potency and ensure texts are highly readable across all channels and platforms. The palettes allow for strong contrast in light usage (e.g websites, emails, packaging) and dark usages (e.g product UI and in-product-messaging).
+- Colors, such as red, yellow and green must not be employed for anything but ‘status’ indicators within the UI or website, and other marketing materials.
+- NOTE: ALL colors can be used on or offline except the Avast Dark purple logo color which is only to be used offline and in the logo.
+- Avast Orange RGB: 255 / 120 / 0 CMYK: 0 / 62 / 95 / 0 WEB: FF7800 Pantone: 158C
+- White RGB: 255 / 255 / 255 CMYK: 0 / 0 / 0 / 0 WEB: ffffff
+- Avast Blue RGB: 38 / 28 / 106 CMYK: 100 / 100 / 0 / 22 WEB: 261C6A Pantone: 2685C
+- Avast Dark Blue RGB: 22 / 14 / 83 CMYK: 100 / 100 / 7 / 56 WEB: 160E53 Pantone: 275C
+- Avast Purple RGB: 78 / 34 / 208 CMYK: 88 / 100 / 0 / 0 WEB: 4E22D0 Pantone: 267C
+- NB: To only be used offline and in the Avast logo
+- Avast Dark Purple RGB: 45 / 54 / 76 CMYK: 93 / 86 / 40 / 32 WEB: 2D364C Pantone: 533C
+- Auxiliary colors RGB: 103 / 96 / 150 WEB: 676096 CMYK: 73 / 75 / 0 / 2 RGB: 125 / 119 / 166 WEB: 7D77A6 CMYK: 73 / 62 / 0 / 2 RGB: 168 / 164 / 195 WEB: A8A4C3 CMYK: 65 / 50 / 8 / 0
+- Status colors RGB: 212 / 210 / 230 WEB: D4D2E6 CMYK: 33 / 23 / 0 / 0 RGB: 248 / 248 / 252 WEB: F8F8FC CMYK: 4 / 4 / 0 / 4 RGB: 255 / 70 / 114 WEB: FF4672 CMYK: 0 / 87 / 34 / 0 RGB: 17 / 223 / 239 WEB: 11DFEF CMYK: 74 / 0 / 10 / 0 RGB: 250 / 219 / 75 WEB: FADB4B CMYK: 3 / 10 / 82 / 0 RGB: 67 / 237 / 156 WEB: 43ED9C CMYK: 56 / 0 / 58 / 0
+- Avast Business incorporates all of the Avast colors in its visual identity, but to distinguish our brand from consumer's, we've adopted dark purple and orange as our predominant colors.
+- NOTE: The color palette for Avast Business does not differ on or offline.
+- Primary logo, Primary Secondary background and background background accent color colors colors NB: Can also be ed san accent color. Avast Orange Avast Dark Purple Avast Dark Blue Avast Purple RGB: 255 /120 / 0 RGB: 255 /255 /255 RGB: 45 / 54 /76 RGB: 38 / 28 / 106 RGB: 22/14/83 RGB: 78/34/208 CMYK: 0 / 62 / 95 / 0 CMYK: 0 / 0 / 0 / 0 CMYK: 93 / 86 / 40 / 32 CMYK: 100/100/0/22 CMYK: 100 /100 /7I 56 CMYK: 88/100/0/0 WEB: FF7800 WEB:ffffff WEB: 2D364C WEB: 261C6A WEB: 160E53 WEB: 4E22D0 Pantone: 158C Pantone: 533C Pantone: 2685C Pantone: 275C Pantone: 267C
+- Auxiliary colors Status colors • RGB: 103 / 96 / 150 RGB: 212 / 210 / 230 RGB: 248 / 248 / 252 RGB: 255/70/ 214 WEB: 676096 WEB: D4D2E6 WEB: F8F8FC WEB: FF4672 CMYK: 73 /75 / 0 / 2 CMYK: 33 / 23 / 0 / 0 CMYK: 4/4/0/4 • CMYK: 0 / 87 / 34 / 0 • RGB: 125/119/166 RGB: 233/232/ 243 RGB: 17 / 223 / 239 RGB: 250 / 219 /75 WEB: 7D77A6 WEB: E9E8F3 WEB: 11DFEF WEB: FADB4B CMYK: 73 / 62 / 0 / 2 CMYK: 23/18/0/0 • CMYK: 74/0/10/0 CMYK: 3 / 10 I 82 / 0 • RGB: 168/164 /195 RGB: 244 / 243 / 250 RGB: 67/ 237 / 156 WEB: A8A4C3 WEB: F4F3FA WEB: 43ED9C CMYK: 65 / 50 / 8 / 0 CMYK: 17 /10/1 /0 • CMYK: 56 / 0 / 58 / 0
+
+##### Logo Usage
+
+- The Avast logo consists of a symbol (the amoeba) and a wordmark. Both elements of the logo have been carefully redesigned to work together for maximum legibility.
+- Do not redraw the symbol, typeset a new wordmark, or alter the logo in any way except to scale it proportionally. Do not use the wordmark alone. It must always be locked-up with the symbol.
+- Always use the original digital artwork, available through the Brand Center, to help maintain consistency and integrity.
+- The Avast logo is available to download via the Avast Brand Center.
+- The logo can be used in a limited number of color variations and only on certain color backgrounds.
+- Full color positive This color version works best on a white background, but may also be positioned on the lightest neutral background from the secondary palette, or on lighter uncluttered areas of photographs.
+- Full color negative Use the full color negative version of the logo on the dark color backgrounds shown here and dark photographs that provide enough contrast with the logo, or the official Avast pattern. Do not use on unspecified background.
+- One-color Use the one-color negative version of the logo on dark color backgrounds or over dark photographs for increased legibility. Use the one-color positive version of the logo for special applications like blind-embossing, foil stamping, embroidery or when color output is not available.
+- Avast Orange RGB: 255/120/0 CMYK: 0/62/95/0 WEB: FF7800
+- Avast Dark Purple RGB: 45/54/76 CMYK: 93/86/40/32 WEB: 2D364C
+- Avast Blue RGB: 38/28/106 CMYK: 100/100/0/22 WEB: 261C6A
+- Avast Purple RGB: 101/52/172 CMYK: 80/89/0/0 WEB: 6534AC
+- Black RGB: 0/0/0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0/0/0/0 WEB: FFFFFF
+
+##### Visual Style
+
+- The Avast logo consists of a symbol (the amoeba) and a wordmark. Both elements of the logo have been carefully redesigned to work together for maximum legibility.
+- Do not redraw the symbol, typeset a new wordmark, or alter the logo in any way except to scale it proportionally. Do not use the wordmark alone. It must always be locked-up with the symbol.
+- Always use the original digital artwork, available through the Brand Center, to help maintain consistency and integrity.
+- The logo can be used in a limited number of color variations and only on certain color backgrounds.
+- Full color positive This color version works best on a white background, but may also be positioned on the lightest neutral background from the secondary palette, or on lighter uncluttered areas of photographs.
+- Full color negative Use the full color negative version of the logo on the dark color backgrounds shown here and dark photographs that provide enough contrast with the logo, or the official Avast pattern. Do not use on unspecified background.
+- One-color Use the one-color negative version of the logo on dark color backgrounds or over dark photographs for increased legibility. Use the one-color positive version of the logo for special applications like blind-embossing, foil stamping, embroidery or when color output is not available.
+- Avast Orange RGB: 255/120/0 CMYK: 0/62/95/0 WEB: FF7800
+- Avast Dark Purple RGB: 45/54/76 CMYK: 93/86/40/32 WEB: 2D364C
+- Avast Blue RGB: 38/28/106 CMYK: 100/100/0/22 WEB: 261C6A
+- Avast Purple RGB: 101/52/172 CMYK: 80/89/0/0 WEB: 6534AC
+- Black RGB: 0/0/0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0/0/0/0 WEB: FFFFFF
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The Avast logo consists of a symbol (the amoeba) and a wordmark. Both elements must be used together and proportional scaling is required. The wordmark cannot be used alone.
-- Logo versions include: full color positive, full color negative, and one-color options. Full color positive works best on white or lighter neutral backgrounds. Full color negative should be used on dark backgrounds and photographs providing contrast. One-color negative for dark backgrounds, and one-color positive for applications like blind embossing, foil stamping, and embroidery.
-- Clear space around the logo is proportional to the height of the 'a' in the symbol. Minimum screen size: 76px width, 24px height; or 16px width, 16px height.
-- Preferred placements for the logo: corner or center top of a layout, with adequate clear space. The logo can be placed horizontally or vertically centered within the layout depending on context.
-- Incorrect usage guidelines: Do not change the colors of the logo, add effects, use the wordmark by itself, stack the elements, skew or compress, apply it as a mask for imagery, or place it on complex or low-contrast imagery. Do not lock up business lines or text descriptions with the logo.
+##### Mission
 
-**Color Information:**
+- Keeping the online world safe and secure.
 
-- Color specifications for Avast Orange: RGB (255, 120, 0), CMYK (0, 62, 95, 0), HEX (#FF7800), Pantone 158 C.
-- Color specifications for Avast Dark Purple: RGB (45, 54, 76), CMYK (93, 86, 40, 32), HEX (#2D364C), Pantone 534C.
-- Color specifications for Black: RGB (0, 0, 0), CMYK (0, 0, 0, 100), HEX (#000000).
-- Color specifications for Avast Plum: RGB (101, 52, 172), CMYK (80, 89, 0, 0), HEX (#6534AC), Pantone 267 C.
-- Color specifications for White: RGB (255, 255, 255), CMYK (0, 0, 0, 0), HEX (#FFFFFF).
+##### Core Values
 
-**Imagery Photography:**
+- security
+- trust
+- integrity
+- wisdom
+- independence
+- creativity
 
-- Logo should not be placed over complex, busy, low-contrast imagery or unspecified colors. Use photographs that provide ample contrast when using the logo.
+##### Target Audience
 
-**Spacing Layout:**
+- Consumers, SMBs, IT service providers, and channel partners seeking easy-to-manage, enterprise-grade security and network management solutions.
 
-- Clear space rules state minimum spacing proportional to the height of the 'a' in the amoeba symbol.
-- Logo placement guidelines: corner or center top positions, ensuring extra clear space from layout edges for better visibility.
+##### Personality Traits
 
-**Notes:**
+- trustworthy
+- innovative
+- professional
+- modern
 
-- Contact email for brand-related assistance: brand@avast.com.
+##### Visual Identity Overview
+
+- The visual identity features a distinctive orange amoeba symbol paired with a modern sans-serif wordmark, using a color palette dominated by orange and dark purple, with clear logo usage rules, strong contrast, and minimalistic, clean layouts.
+
+#### Categories
+
+##### Brand Values
+
+- Keeping the online world safe and secure.
+
+##### Color Palette
+
+- Avast Orange RGB: 255/120 / 0 CMYK: 0 / 62 / 95 / 0 WEB: FF7800
+- Avast Dark Purple RGB: 45 / 54/ 76 CMYK: 93 / 86 / 40 / 32 WEB: 2D364C
+- Avast Blue RGB: 38 / 28 /106 CMYK: 100 / 100 / 0 /22 WEB: 261C6A
+- Avast Purple RGB: 101 / 52 / 172 CMYK: 80 / 89 / 0 / 0 WEB: 6534AC
+- Black RGB: 0 / 0 / 0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0 / 0 / 0 / 0 WEB: FFFFFF
+- Orange is the primary color for use in the Avast icon as well as for brand communications and marketing.
+- The primary and secondary background colors have been carefully chosen to boost visual potency and ensure texts are highly readable across all channels and platforms. The palettes allow for strong contrast in light usage (e.g websites, emails, packaging) and dark usages (e.g product UI and in-product-messaging).
+- Colors, such as red, yellow and green must not be employed for anything but ‘status’ indicators within the UI or website, and other marketing materials.
+- NOTE: ALL colors can be used on or offline except the Avast Dark purple logo color which is only to be used offline and in the logo.
+- Avast Orange RGB: 255 / 120 / 0 CMYK: 0 / 62 / 95 / 0 WEB: FF7800 Pantone: 158C
+- White RGB: 255 / 255 / 255 CMYK: 0 / 0 / 0 / 0 WEB: ffffff
+- Avast Blue RGB: 38 / 28 / 106 CMYK: 100 / 100 / 0 / 22 WEB: 261C6A Pantone: 2685C
+- Avast Dark Blue RGB: 22 / 14 / 83 CMYK: 100 / 100 / 7 / 56 WEB: 160E53 Pantone: 275C
+- Avast Purple RGB: 78 / 34 / 208 CMYK: 88 / 100 / 0 / 0 WEB: 4E22D0 Pantone: 267C
+- NB: To only be used offline and in the Avast logo
+- Avast Dark Purple RGB: 45 / 54 / 76 CMYK: 93 / 86 / 40 / 32 WEB: 2D364C Pantone: 533C
+- Auxiliary colors RGB: 103 / 96 / 150 WEB: 676096 CMYK: 73 / 75 / 0 / 2 RGB: 125 / 119 / 166 WEB: 7D77A6 CMYK: 73 / 62 / 0 / 2 RGB: 168 / 164 / 195 WEB: A8A4C3 CMYK: 65 / 50 / 8 / 0
+- Status colors RGB: 212 / 210 / 230 WEB: D4D2E6 CMYK: 33 / 23 / 0 / 0 RGB: 248 / 248 / 252 WEB: F8F8FC CMYK: 4 / 4 / 0 / 4 RGB: 255 / 70 / 114 WEB: FF4672 CMYK: 0 / 87 / 34 / 0 RGB: 17 / 223 / 239 WEB: 11DFEF CMYK: 74 / 0 / 10 / 0 RGB: 250 / 219 / 75 WEB: FADB4B CMYK: 3 / 10 / 82 / 0 RGB: 67 / 237 / 156 WEB: 43ED9C CMYK: 56 / 0 / 58 / 0
+- Avast Business incorporates all of the Avast colors in its visual identity, but to distinguish our brand from consumer's, we've adopted dark purple and orange as our predominant colors.
+- NOTE: The color palette for Avast Business does not differ on or offline.
+- Primary logo, Primary Secondary background and background background accent color colors colors NB: Can also be ed san accent color. Avast Orange Avast Dark Purple Avast Dark Blue Avast Purple RGB: 255 /120 / 0 RGB: 255 /255 /255 RGB: 45 / 54 /76 RGB: 38 / 28 / 106 RGB: 22/14/83 RGB: 78/34/208 CMYK: 0 / 62 / 95 / 0 CMYK: 0 / 0 / 0 / 0 CMYK: 93 / 86 / 40 / 32 CMYK: 100/100/0/22 CMYK: 100 /100 /7I 56 CMYK: 88/100/0/0 WEB: FF7800 WEB:ffffff WEB: 2D364C WEB: 261C6A WEB: 160E53 WEB: 4E22D0 Pantone: 158C Pantone: 533C Pantone: 2685C Pantone: 275C Pantone: 267C
+- Auxiliary colors Status colors • RGB: 103 / 96 / 150 RGB: 212 / 210 / 230 RGB: 248 / 248 / 252 RGB: 255/70/ 214 WEB: 676096 WEB: D4D2E6 WEB: F8F8FC WEB: FF4672 CMYK: 73 /75 / 0 / 2 CMYK: 33 / 23 / 0 / 0 CMYK: 4/4/0/4 • CMYK: 0 / 87 / 34 / 0 • RGB: 125/119/166 RGB: 233/232/ 243 RGB: 17 / 223 / 239 RGB: 250 / 219 /75 WEB: 7D77A6 WEB: E9E8F3 WEB: 11DFEF WEB: FADB4B CMYK: 73 / 62 / 0 / 2 CMYK: 23/18/0/0 • CMYK: 74/0/10/0 CMYK: 3 / 10 I 82 / 0 • RGB: 168/164 /195 RGB: 244 / 243 / 250 RGB: 67/ 237 / 156 WEB: A8A4C3 WEB: F4F3FA WEB: 43ED9C CMYK: 65 / 50 / 8 / 0 CMYK: 17 /10/1 /0 • CMYK: 56 / 0 / 58 / 0
+
+##### Logo Usage
+
+- The Avast logo consists of a symbol (the amoeba) and a wordmark. Both elements of the logo have been carefully redesigned to work together for maximum legibility.
+- Do not redraw the symbol, typeset a new wordmark, or alter the logo in any way except to scale it proportionally. Do not use the wordmark alone. It must always be locked-up with the symbol.
+- Always use the original digital artwork, available through the Brand Center, to help maintain consistency and integrity.
+- The Avast logo is available to download via the Avast Brand Center.
+- The logo can be used in a limited number of color variations and only on certain color backgrounds.
+- Full color positive This color version works best on a white background, but may also be positioned on the lightest neutral background from the secondary palette, or on lighter uncluttered areas of photographs.
+- Full color negative Use the full color negative version of the logo on the dark color backgrounds shown here and dark photographs that provide enough contrast with the logo, or the official Avast pattern. Do not use on unspecified background.
+- One-color Use the one-color negative version of the logo on dark color backgrounds or over dark photographs for increased legibility. Use the one-color positive version of the logo for special applications like blind-embossing, foil stamping, embroidery or when color output is not available.
+- Avast Orange RGB: 255/120/0 CMYK: 0/62/95/0 WEB: FF7800
+- Avast Dark Purple RGB: 45/54/76 CMYK: 93/86/40/32 WEB: 2D364C
+- Avast Blue RGB: 38/28/106 CMYK: 100/100/0/22 WEB: 261C6A
+- Avast Purple RGB: 101/52/172 CMYK: 80/89/0/0 WEB: 6534AC
+- Black RGB: 0/0/0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0/0/0/0 WEB: FFFFFF
+
+##### Visual Style
+
+- The Avast logo consists of a symbol (the amoeba) and a wordmark. Both elements of the logo have been carefully redesigned to work together for maximum legibility.
+- Do not redraw the symbol, typeset a new wordmark, or alter the logo in any way except to scale it proportionally. Do not use the wordmark alone. It must always be locked-up with the symbol.
+- Always use the original digital artwork, available through the Brand Center, to help maintain consistency and integrity.
+- The logo can be used in a limited number of color variations and only on certain color backgrounds.
+- Full color positive This color version works best on a white background, but may also be positioned on the lightest neutral background from the secondary palette, or on lighter uncluttered areas of photographs.
+- Full color negative Use the full color negative version of the logo on the dark color backgrounds shown here and dark photographs that provide enough contrast with the logo, or the official Avast pattern. Do not use on unspecified background.
+- One-color Use the one-color negative version of the logo on dark color backgrounds or over dark photographs for increased legibility. Use the one-color positive version of the logo for special applications like blind-embossing, foil stamping, embroidery or when color output is not available.
+- Avast Orange RGB: 255/120/0 CMYK: 0/62/95/0 WEB: FF7800
+- Avast Dark Purple RGB: 45/54/76 CMYK: 93/86/40/32 WEB: 2D364C
+- Avast Blue RGB: 38/28/106 CMYK: 100/100/0/22 WEB: 261C6A
+- Avast Purple RGB: 101/52/172 CMYK: 80/89/0/0 WEB: 6534AC
+- Black RGB: 0/0/0 CMYK: 0/0/0/100 WEB: 000000
+- White RGB: 255/255/255 CMYK: 0/0/0/0 WEB: FFFFFF
 
 ## Additional Properties
 

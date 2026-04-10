@@ -2,7 +2,7 @@
 title: Unibet
 slug: unibet
 description: ""
-date: "2026-03-20T08:22:04.894724"
+date: "2026-04-10T09:40:33.663075"
 draft: false
 sectors:
   - entertainment
@@ -78,24 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo related content identified on page 2
-- Logo related content identified on page 8
-- Logo related content identified on page 9
-- Logo related content identified on page 10
-- Logo related content identified on page 12
-- Logo related content identified on page 13
-- Logo related content identified on page 14
-- Logo related content identified on page 15
-- Logo related content identified on page 16
-- Logo related content identified on page 17
-- Logo related content identified on page 18
-- Logo related content identified on page 30
-
-**Typography Information:**
-
-- Typography-related content identified on page 19
+*Guidelines data not available*
 
 ## Additional Properties
 

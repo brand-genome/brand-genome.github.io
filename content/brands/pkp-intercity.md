@@ -2,7 +2,7 @@
 title: PKP Intercity
 slug: "pkp-intercity"
 description: ""
-date: "2026-03-20T08:22:03.196814"
+date: "2026-04-10T09:40:30.741376"
 draft: false
 sectors:
   - railroad
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - "pantone-424"
-  - white
-  - grey
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: railway company in Poland
 wikidata_url: "https://www.wikidata.org/wiki/Q590406"
 has_twitter: false
@@ -84,37 +77,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Primary Express Intercity logo includes a horizontal configuration with a symbol ('EIC') and the text 'EXPRESS INTERCITY', described as the baseline standard version.
-- Constructive proportions of the Express Intercity logo use 'a' unit, where 'a' is the height of the symbol. Exact proportions: 6.65a for the length, 24.5° slope for the angle of the graphic.
-- Express Intercity logo has an exclusion/safe zone, defined by measurement 'd' (height of typography), and 0.5d as minimum distance from external elements.
-- Simplified version of the Express Intercity logo excludes the 'EXPRESS INTERCITY' text.
-- Proportions for simplified Express Intercity logo use the unit 'a', 2.4a for the total length, with a slope of 24.5° covering the symbol.
-- Safe zone for simplified Express Intercity logo uses the unit 'd', similar to the primary version.
-- Minimum reproduction sizes are identified for Express Intercity: Primary logo requires a minimum of 8mm height, Simplified logo requires a minimum of 3mm height.
-- Incorrect uses include disproportionate reshaping, miscoloring, applying unwanted effects, misarranging logo elements, using wrong typography or object outlines, or placing the logo over clashing aggressive backgrounds.
-
-**Color Information:**
-
-- Colors associated specifically with Express Intercity branding: Pantone 424 C, CMYK (0:0:0:60), RGB (129:130:133), and RAL 9023 (pearl dark grey). Notes on reproduction fidelity included.
-- Achromatic rendition of the logo in case colored reproduction becomes unavailable (using white color core for contrast reproduction).
-
-**Imagery Photography:**
-
-- Placement zones for optimal logo integration included guidelines for billboard layouts, posters structured with location-safe overlays including quadrant information.
-
-**Spacing Layout:**
-
-- Safe spacing rules including regional polygon splits and application buffer layouts for different ownership propriety branding alignments.
-
-**Brand Voice:**
-
-- Brand tone prioritization respecting cohesion tactile framework roll directives across customer focus motivator conversions.
-
-**Notes:**
-
-- Contractual agreement frame with accountability tie-ins coded across licensing production transfer lays concours board material stratifier links.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Whole Foods Market
 slug: "whole-foods-market"
 description: ""
-date: "2026-03-20T08:22:05.841110"
+date: "2026-04-10T09:40:34.858333"
 draft: false
 sectors:
   - airline
@@ -53,17 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - wordmark
-  - primary
-  - horizontal
-brand_colors:
-  - black
-typographies:
-  - gotham
-imagery_styles:
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American supermarket chain specializing in natural and organic foods
 wikidata_url: "https://www.wikidata.org/wiki/Q1809448"
 has_twitter: false
@@ -82,28 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo must have a clear space around it, equal to or greater than the height of the wordmark (w).
-- The Whole Foods Market wordmark is based on the font Gotham Rounded. It features geometric letterforms and represents the friendly personality of the brand.
-- The black version of the logo should only be used when color is not permitted.
-- Reverse version of the logo can only be used when the positive version cannot be used.
-- Reverse version of the logo can only be used when the positive version cannot be used.
-- The horizontal alternate logo can be used when the primary logo cannot be applied due to format restrictions or legibility concerns.
-- Reverse version of the logo can only be used when the positive version cannot be used.
-- The horizontal alternate logo can be used when the primary logo cannot be applied due to format restrictions or legibility concerns.
-- The horizontal alternate logo can be used when the primary logo cannot be applied due to format restrictions or legibility concerns.
-- The logo must have a clear space around it, equal to or greater than the height of the wordmark (w).
-- The horizontal alternate logo can be used when the primary logo cannot be applied due to format restrictions or legibility concerns.
-
-**Typography Information:**
-
-- The primary font for the Whole Foods Market brand is Gotham Rounded, chosen for its simplicity and geometric forms.
-- The primary font for the Whole Foods Market brand is Gotham Rounded, chosen for its simplicity and geometric forms.
-
-**Spacing Layout:**
-
-- Logo clear space must be greater than or equal to the height of the wordmark.
+*Guidelines data not available*
 
 ## Additional Properties
 

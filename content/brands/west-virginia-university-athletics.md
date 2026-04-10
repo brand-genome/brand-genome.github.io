@@ -2,7 +2,7 @@
 title: West Virginia University Athletics
 slug: "west-virginia-university-athletics"
 description: ""
-date: "2026-03-20T08:22:04.197368"
+date: "2026-04-10T09:40:32.554784"
 draft: false
 sectors:
   - sports
@@ -48,20 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - gold
-  - grey
-typographies:
-  - display
-  - script
-imagery_styles:
-  - dynamic
-  - minimal
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: athletic program of West Virginia University
 wikidata_url: "https://www.wikidata.org/wiki/Q3326071"
 has_twitter: false
@@ -80,83 +70,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- BRAND IDENTITY
-11
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-FLYING WV MARK – ONE COLOR – PREFERRED
-The logo can be used in the color variations shown below.
-NOTE: Use good judgment to ensure legibility. A mark that is too small doesn’t serve any communicative function. There may be situations where West Virginia Athletics marks will need to appear smaller than the minimum shown (e.g., lapel pins, pens, pencils and CD spine labels). Contact WVU Brand and Trademark Licensing Office for guidance. Very small display ads may require adjustments.
-Do not construct the logo manually or reproduce it by scanning printed versions—these degrade quality and scale.
-- BRAND IDENTITY
-42
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-SECONDARY IDENTITY
-MOUNTAINEERS SCRIPT – BASEBALL ONLY – TWO COLOR
-The logo can be used in the color variations shown below.
-NOTE: Use good judgment to ensure legibility. A mark that is too small doesn’t communicate effectively. Cases like small display ads may allow using minimal clear space.
-Avoid manual logo reconstruction and second-generation art (e.g., scanned images). These degrade image quality and distort scale.
-
-**Color Information:**
-
-- BRAND IDENTITY
-13
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-COLOR PALETTE
-GOLD
-PMS 124 C
-CMYK: 0/30/100/5
-RGB: 234/170/0
-HEX: EAAA00
-Secondary colors and analogous values include:
-ANTHRACITE (PMS 447), DARK STEEL GREY (PMS 424).
-
-**Typography Information:**
-
-- BRAND IDENTITY
-16
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-PRIMARY TYPEFACE
-MOUNTAINEERS FONT – FULL ALPHABET
-Font legibility must remain consistent and allow optimal design clarity.
-MOUNTAINEERS FONT is central to branding use cases.
-
-**Imagery Photography:**
-
-- BRAND IDENTITY
-34
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-WV / MOUNTAINEER WORDMARK – STACKED SPORT LOCK-UP
-Brand visuals (logos, scripts) allow color alterations based on contexts such as competition, athletic uniforms. Guidelines ensure harmony while distinguishing thematic priorities.
-
-**Spacing Layout:**
-
-- BRAND IDENTITY
-25
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-WORDMARKS
-MOUNTAINEERS
-Recommended minimum size for wordmark print: Cap-height of 0.25 inches.
-Clear Space Requirements: Effective and harmonious branding depends on proportions and allocated margin rules, discouraging close, cluttered placements.
-
-**Brand Voice:**
-
-- BRAND IDENTITY
-46
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-BRAND
-APPLICATION
-Consistency and differentiation strengthen brand credibility, speed recognition, and build customer loyalty. WVU athletics accommodates range expressions from dynamic marketing campaigns to modest sports visual alignment.
-
-**Notes:**
-
-- BRAND IDENTITY
-23
-WEST VIRGINIA UNIVERSITY ATHLETICS BRAND IDENTITY
-WORDMARKS
-WEST VIRGINIA
-Design safeguards for logo clarity expressed. Reproduction methods focus explicitly against visual distortion.
+*Guidelines data not available*
 
 ## Additional Properties
 

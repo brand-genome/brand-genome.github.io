@@ -2,23 +2,23 @@
 title: UniCredit
 slug: unicredit
 description: ""
-date: "2026-03-20T08:22:05.150378"
+date: "2026-04-10T09:40:33.987827"
 draft: false
 sectors:
   - finance
 regions:
   - italy
 years:
-  - 2008
   - 2010
+  - 2008
 languages:
   - english
 tags:
   - financial
 industries:
+  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
-  - "economics-of-banking"
 countries:
   - italy
 revenue_buckets: []
@@ -55,21 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - "pantone-485"
-  - gold
-  - yellow
-  - black
-  - magenta
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Italian global banking and financial services company
 wikidata_url: "https://www.wikidata.org/wiki/Q45568"
 has_twitter: false
@@ -88,193 +77,11 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- The logo is shown in 4-color base format, and may be printed in two colors (Pantone 485 C and black) for special cases such as securities and stationery. Outline variants of the base logo are also available.
-- 3D base logo versions include 4-color, 2-color (Pantone 485 C and black), greyscale, and positive formats.
-- 2D logo versions include 2-color outline (Pantone 485 C), positive outline special applications such as gold or silver.
-- Minimum size requirements specified for 3D and 2D brand versions: 6mm for 4-color or greyscale versions; 5mm marked for outline 2D brand versions.
-- Do's include using proper proportions, avoiding tone-on-tone backgrounds (unless explicitly shown), keeping logos clear of additional geometrical enclosures, and preventing intrusions into designated exclusion zones.
-- Don’ts for logo usage: do not use slanted logos, background clashing elements, tone-on-tone misuse, altering proportions, or enclosing within additional shapes.
-
-**Color Information:**
-
-- Pantone 485 C represented as Red (100% Magenta, 100% Yellow in CMYK). Black is noted as Process Black (100% Key).
-
-**Typography Information:**
-
-- Use of Pryor Medium for the brand lettering exclusively. This font specifies uppercase, lowercase, and numeral styles.
-- Primary font for stationery layouts is Dax font family, with weights including Light, Regular, Medium, Bold. Descriptors and Endorsements also use Dax Regular.
-- Secondary font is Arial, used for electronic formats. Versions: Regular, Italic, Bold, Bold Italic.
-
-**Spacing Layout:**
-
-- Brand grid usage is recommended to ensure optic balance and legibility of logotype and logo placement.
-- Clear space or exclusion zones highlighted to avoid intrusive elements around logos or brand placements.
-
-**Notes:**
-
-- The logo embodies trustworthiness and globality represented by the red sphere, strength and leadership displayed through the number '1'. Exclusive Pryor font lettering is reserved for brand construction.
+*Guidelines data not available*
 
 ### 2008
 
-**Logo Information:**
-
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-- Logo usage details and rules are mentioned on this page.
-
-**Typography Information:**
-
-- Font usage and rules are discussed on this page.
-- Font usage and rules are discussed on this page.
-- Font usage and rules are discussed on this page.
-- Font usage and rules are discussed on this page.
-- Font usage and rules are discussed on this page.
-- Font usage and rules are discussed on this page.
-
-**Notes:**
-
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 1 p
-| /
-
-Ms BRAND BOOK
-
-UniCredit
-
-Leasing...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 2
-
-8
-
-BRAND USAGE 01
-
-FONT USAGE 13
-
-Mn CO...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008
-
-16:56 Pagina 3
-
-The logo shows dynamism, trustworthine...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 4 p
-
-The logo 01
-Descriptor 03
-The brand/D...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 5 ©
-
-BRAND UAC ——— a) |
-THE LOGO
-
-™ The lo...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 6
-
-8
-
-BRAND UAC ——— es) 7
-
-THE LOGO
-BASE L...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 7
-
-DESCRIPTOR | DEVELOPMENT
-
-BRAND USAGE —...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 8
-
-DECLINATIONS
-
-3D BRAND
-
-8
-
-(4
-
-UniCredi...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 9
-
-HOLDING/BUSINESS UNIT | DEVELOPMENT
-
-8
-...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 10 p
-| /
-
-BRAND UAC ——— EE) 6
-THE BRAND
-
-T...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1
-
-11-01-2008
-
-APPLICATIONS | 3D BRAND
-
-(4UniCredit
-
-Leasing
-
-4UniCr...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 12 ©
-
-BRAND UAC ———— EE) 8
-
-THE BRAND
-APPL...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 13 ©
-
-BRAND UAC —— ES) ©
-APPLICATIONS
-
-EXA...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 14 p
-
-BRAND UAC ———— a | ()
-APPLICATIONS
-
-...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 15 p
-| /
-
-BRAND UAC ———— es | |
-APPLICATIO...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 16
-
-BRAND UAC —— | 7
-COLOURS
-
-These are th...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 17 p
-| /
-
-Identification of lettering 13
-
-...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 18 p
-| /
-
-FON) USAGE ——— a | >
-IDENTIFICAT...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 19 p
-| /
-
-FONT USACE ES | 4
-IDENTIFICATION...
-- General content on this page: BB VISUAL UC Leasing.qxp:Layout 1 11-01-2008 16:56 Pagina 20 p
-| /
-
-SECONDARY FONT | ARIAL
-
-ABCDEFGH...
+*Guidelines data not available*
 
 ## Additional Properties
 

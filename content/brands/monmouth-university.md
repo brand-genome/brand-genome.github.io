@@ -2,7 +2,7 @@
 title: Monmouth University
 slug: "monmouth-university"
 description: ""
-date: "2026-03-20T08:22:05.697626"
+date: "2026-04-10T09:40:34.633041"
 draft: false
 sectors:
   - education
@@ -54,13 +54,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - gray
-typographies:
-  - avenir
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "private university located in West Long Branch, Monmouth County, New Jersey, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q922647"
@@ -83,22 +79,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Reverse logo example and university spirit mark guidelines for proper usage.
-- Clear space rules for the primary wordmark: Clear space must equate to the height of the letter 'M'.
-
-**Color Information:**
-
-- PMS 295 and Cool Gray are primary color options for Athletic and Spirit Marks.
-
-**Typography Information:**
-
-- Avenir Next Regular is used for stationery with font size specifications: 8pt for regular text and 6pt for bullet points.
-
-**Notes:**
-
-- Spirit marks for academic units cannot be customized manually. All requests must go through Marketing and Communications.
+*Guidelines data not available*
 
 ## Additional Properties
 

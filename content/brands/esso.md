@@ -2,11 +2,11 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-03-20T08:22:05.701719"
+date: "2026-04-10T09:40:34.639793"
 draft: false
 sectors:
-  - petroleum
   - "petrol-station"
+  - petroleum
 regions:
   - usa
 years:
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - lubricant
   - gasoline
+  - lubricant
 products: []
 headquarters_locations:
   - irving
@@ -54,24 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - symbol
-brand_colors:
-  - red
-  - "pantone-485"
-  - white
-  - cyan
-  - blue
-  - "pantone-293"
-  - yellow
-  - magenta
-typographies:
-  - univers
-  - serif
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American oil and gas station brand
 wikidata_url: "https://www.wikidata.org/wiki/Q867662"
 has_twitter: false
@@ -100,30 +86,117 @@ visual_term_image_urls: {}
 
 ### 2003
 
-**Logo Information:**
+#### Brand Summary
 
-- Corporate signatures: Includes the combination of the Esso Oval with 'Imperial Oil Foundation' or 'Fondation l’Impériale' graphic wordmark. Four styles are outlined: English only, French only, English/French, French/English.
-- Clear space guideline: Maintain a clear zone around the logo equivalent to the height of the 'E' in 'Esso.' This is implemented via EPS files or JPEG files with white backgrounds.
-- Unacceptable logo usage examples include adding effects (e.g., shadows), changing proportions, altering colors, or using busy backgrounds. Rotation, element separation, or enclosing the logo in shapes is also prohibited.
+##### Mission
 
-**Color Information:**
+- The document does not explicitly state a mission or purpose statement for the Imperial Oil Foundation. Its focus is on providing guidelines for visual identity and logo usage.
 
-- Primary colors are Esso Red (Pantone 485) and Esso Blue (Pantone 293). CMYK conversions: Esso Red - 100% magenta, 90% yellow; Esso Blue - 100% cyan, 60% magenta.
-- Color consistency emphasized across media (inks, sign materials, and plastics) with swatches for visual matching.
-- Prolonged heat or light exposure alters color. Matching through physical swatches is recommended.
+##### Target Audience
 
-**Typography Information:**
+- Designers, marketers, and third parties responsible for applying the Imperial Oil Foundation's visual identity in stand-alone applications and promotional materials [^1].
 
-- Goudy Oldstyle is the primary serif typeface, while Univers is preferred as a sans serif typeface. Style variants include Univers 45 to 68 weights.
+##### Personality Traits
 
-**Brand Voice:**
+- authoritative
+- professional
+- minimalistic
+- corporate
 
-- Use full names ('Imperial Oil Foundation' or 'Fondation Pétrolière Impériale'). Abbreviations or incorporating any graphic elements (e.g., logo) into text is prohibited.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is centered around the Esso logo and the Imperial Oil Foundation wordmark, using strict color palettes (Esso red and Esso blue), clear space requirements, and official artwork files. The style is clean, minimalistic, and avoids decorative elements, ensuring consistency and clarity in all applications [^2].
 
-- Trademark usage requirements vary by context, specifying clear ownership markings (either asterisk with footnote or TM symbol). Enforcement ensures perception alignment.
-- Marketing entities must align with the approved corporate identity manual for extended details and context.
+#### Categories
+
+##### Logo Usage
+
+- The combination of the Esso Oval and the special “Imperial Oil Foundation” or “Fondation l’Impériale” graphic wordmark is called a corporate signature.
+- There are four basic signature designs: – English only – French only – English/French – French/English
+- Each basic signature design is available in a range of acceptable Imperial Oil Limited color variations.
+- The identity matrix below shows the only acceptable basic signature designs you may use. Any combination not shown is unacceptable.
+- Each signature – in every color combination – is also available with one of two alternate trade mark declarations for use in specific circumstances. Be sure the version you use is appropriately marked for its purpose.
+- The signature version marked with an asterisk is the preferred version for use by third parties. It must always be accompanied by a specifically worded trade mark disclosure statement as a footnote: * Registered trade mark of Imperial Oil Limited. Used under license.
+- There are three ways to use the signatures to address specific situations. The full range of signature variations is available in each of the forms listed: – No marking – Asterisk – Trade mark symbol
+- No marking This version may only be used by Imperial Oil Limited, and then only in cases where the trade mark is used as a trade name (e.g., on stationery, business cards or signs) on corporate, non-promotional materials. It may not be used to recognize the participation of the Imperial Oil Foundation on any materials created by a third party.
+- This requirement applies to the use of the trade mark on all advertising and promotional material, whether produced by any Imperial Oil entity or by a third party.
+- The alternate version of the signature is marked by a trade mark symbol in the appropriate language or languages (TM in English and MD in French or combined for dual language signatures). This version may be used only where space limitations or reproduction methodology cannot accomodate the disclosure statement (e.g., t-shirts, promotional items).
+- No version of the graphic signature – in whole or in part – may ever be incorporated into written text or headlines. This includes the Esso oval and the “Imperial Oil Foundation” logotype in either French or English.
+- No version of the graphic signature – or any part of it – may ever be used in written text.
+- Illustrated below are the only ways in which you may apply color to the corporate signatures (Note: These color rules apply to all versions of the corporate sig­nature. For the sake of brevity they are illustrated here using only one of the acceptable versions).
+- Imperial Oil has two special corporate colors: Esso red and Esso blue. A precise visual match to the corporate colors must be achieved no matter which medium your project requires. Color swatches on both coated (shiny) and uncoated (matte) paper have been included in this guide for that purpose.
+- For process color (CMYK) simulation, the following formulas should be used: • Esso red 100% process magenta, 90% process yellow • Esso blue 100% process cyan, 60% process magenta
+- If you are using the PANTONE*®* Matching System for printing inks, you may substitute the following colors: • Esso red PANTONE 485 • Esso blue PANTONE 293
+- Be sure to use the correct ver­sion of artwork for your back­ground. A regular signature of any color may not be used on any background darker than the equivalent of 40% black.
+- To be sure the Imperial Oil Foundation signature is always clearly recognizable it must be seen as separate from the other visual material that surrounds it. Other graphics, text, headlines, etc., as well as the edge of a page or the edge of a photograph or illustration must be kept at least a minimum distance away from the signature. This space is equal to the height of the "E" in "Esso" left on each side of the signature. You may always leave more than the minimum required distance but you may not leave less. The clear space requirement applies to all versions of the signature.
+- The minimum clear space area is shown as a non-print­ing line in supplied Encapsulated PostScript (EPS) art­work files and as a solid white background in JPEG files.
+- Don't enclose the signature in any shape or outline.
+- Don't use a busy, complex background that interferes with legibility.
+- Don't add graphics of any sort to a signature.
+- Don't add shadows or any other 3D effects.
+- Don't place a signature on an angle.
+- Don't separate the elements of a signature.
+- Don't use any colors or color relationships not speci­fied in this guide.
+- Don't change the value of the colors. They should not be lightened or darkened.
+- Don't change the size or pro­portional relationships of the elements.
+- Always use the official master artwork files issued by the Imperial Oil Foundation to reproduce the signature. Neither alter or add to the signature, nor create your own version of it.
+
+##### Color Palette
+
+- Illustrated below are the only ways in which you may apply color to the corporate signatures (Note: These color rules apply to all versions of the corporate sig­nature. For the sake of brevity they are illustrated here using only one of the acceptable versions).
+- Imperial Oil has two special corporate colors: Esso red and Esso blue. A precise visual match to the corporate colors must be achieved no matter which medium your project requires. Color swatches on both coated (shiny) and uncoated (matte) paper have been included in this guide for that purpose.
+- For process color (CMYK) simulation, the following formulas should be used: • Esso red 100% process magenta, 90% process yellow • Esso blue 100% process cyan, 60% process magenta
+- If you are using the PANTONE*®* Matching System for printing inks, you may substitute the following colors: • Esso red PANTONE 485 • Esso blue PANTONE 293
+- Be sure to use the correct ver­sion of artwork for your back­ground. A regular signature of any color may not be used on any background darker than the equivalent of 40% black.
+- Don't use any colors or color relationships not speci­fied in this guide.
+- Don't change the value of the colors. They should not be lightened or darkened.
+- Color reproduction must visually match this swatch
+- Different media, such as offset printing inks, opaque and translucent sign materials, plastic and paint have no real common denominator when it comes to specifying exact colors. The Imperial Oil colors must be matched as closely as possible in whatever medium you are working in. Color swatches for visual matching are supplied here.
+- Keep in mind however, that the specific materials and methods of any project will affect the way the color applied to them may finally appear. Variables like differ­ent grades of paper and plastic, different printing and manufacturing processes and different lighting condi­tions will always affect the end result quite noticeably.
+- For specific details about color matching for different types of materials contact the Imperial Oil Foundation.
+- Caution: Prolonged exposure to light and/or heat will alter these colors significantly.
+
+##### Typography
+
+- Imperial Oil has a preferred range of typefaces as part of our corporate identity program. Goudy Oldstyle This typeface is also often referred to simply as "Goudy". It is the preferred serif typeface for all of our marketing communications (see Section 8.0 of the Corporate Identity Manual for more information.) Univers" The Univers and Univers Condensed families should be used as the sans serif typeface for all of our marketing communications (see Section 8.0 of the Corporate Identity Manual for more information.)
+
+##### Visual Style
+
+- Imperial Oil has two special corporate colors: Esso red and Esso blue. A precise visual match to the corporate colors must be achieved no matter which medium your project requires. Color swatches on both coated (shiny) and uncoated (matte) paper have been included in this guide for that purpose.
+- For process color (CMYK) simulation, the following formulas should be used: • Esso red 100% process magenta, 90% process yellow • Esso blue 100% process cyan, 60% process magenta
+- If you are using the PANTONE*®* Matching System for printing inks, you may substitute the following colors: • Esso red PANTONE 485 • Esso blue PANTONE 293
+- Be sure to use the correct ver­sion of artwork for your back­ground. A regular signature of any color may not be used on any background darker than the equivalent of 40% black.
+- To be sure the Imperial Oil Foundation signature is always clearly recognizable it must be seen as separate from the other visual material that surrounds it. Other graphics, text, headlines, etc., as well as the edge of a page or the edge of a photograph or illustration must be kept at least a minimum distance away from the signature. This space is equal to the height of the "E" in "Esso" left on each side of the signature. You may always leave more than the minimum required distance but you may not leave less. The clear space requirement applies to all versions of the signature.
+- The minimum clear space area is shown as a non-print­ing line in supplied Encapsulated PostScript (EPS) art­work files and as a solid white background in JPEG files.
+- Don't enclose the signature in any shape or outline.
+- Don't add graphics of any sort to a signature.
+- Don't add shadows or any other 3D effects.
+- Don't use a busy, complex background that interferes with legibility.
+- Don't place a signature on an angle.
+- Don't separate the elements of a signature.
+- Don't use any colors or color relationships not speci­fied in this guide.
+- Don't change the value of the colors. They should not be lightened or darkened.
+- Don't change the size or pro­portional relationships of the elements.
+- Always use the official master artwork files issued by the Imperial Oil Foundation to reproduce the signature. Neither alter or add to the signature, nor create your own version of it.
+- Imperial Oil has a preferred range of typefaces as part of our corporate identity program. Goudy Oldstyle This typeface is also often referred to simply as "Goudy". It is the preferred serif typeface for all of our marketing communications (see Section 8.0 of the Corporate Identity Manual for more information.) Univers" The Univers and Univers Condensed families should be used as the sans serif typeface for all of our marketing communications (see Section 8.0 of the Corporate Identity Manual for more information.)
+- The Imperial Oil colors must be matched as closely as possible in whatever medium you are working in. Color swatches for visual matching are supplied here.
+- Keep in mind however, that the specific materials and methods of any project will affect the way the color applied to them may finally appear. Variables like differ­ent grades of paper and plastic, different printing and manufacturing processes and different lighting condi­tions will always affect the end result quite noticeably.
+- Caution: Prolonged exposure to light and/or heat will alter these colors significantly.
+
+##### Layout And Composition
+
+- Other graphics, text, headlines, etc., as well as the edge of a page or the edge of a photograph or illustration must be kept at least a minimum distance away from the signature. This space is equal to the height of the "E" in "Esso" left on each side of the signature. You may always leave more than the minimum required distance but you may not leave less. The clear space requirement applies to all versions of the signature.
+- The minimum clear space area is shown as a non-print­ing line in supplied Encapsulated PostScript (EPS) art­work files and as a solid white background in JPEG files.
+- Don't enclose the signature in any shape or outline.
+- Don't add graphics of any sort to a signature.
+- Don't add shadows or any other 3D effects.
+- Don't use a busy, complex background that interferes with legibility.
+- Don't place a signature on an angle.
+- Don't separate the elements of a signature.
+- Don't use any colors or color relationships not speci­fied in this guide.
+- Don't change the value of the colors. They should not be lightened or darkened.
+- Don't change the size or pro­portional relationships of the elements.
+- Always use the official master artwork files issued by the Imperial Oil Foundation to reproduce the signature. Neither alter or add to the signature, nor create your own version of it.
 
 ## Additional Properties
 
@@ -133,7 +206,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Lubricant](/products_or_materials_produced/lubricant/); [Gasoline](/products_or_materials_produced/gasoline/) |
+| Product Or Material Produced | [Gasoline](/products_or_materials_produced/gasoline/); [Lubricant](/products_or_materials_produced/lubricant/) |
 | Headquarters Location | [Irving](/headquarters_locations/irving/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Freebase Id | /m/01dw30 |

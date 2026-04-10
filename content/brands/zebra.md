@@ -2,18 +2,18 @@
 title: Zebra
 slug: zebra
 description: ""
-date: "2026-03-20T08:22:04.161823"
+date: "2026-04-10T09:40:32.479610"
 draft: false
 sectors:
-  - insurance
   - finance
   - software
+  - insurance
 regions:
   - usa
 years:
+  - 2022
   - 2017
   - 2020
-  - 2022
 languages:
   - english
 tags:
@@ -51,30 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - red
-  - white
-  - blue
-  - gray
-  - yellow
-  - black
-typographies:
-  - arial
-  - "proxima-nova"
-imagery_styles:
-  - product
-  - staged
-  - graphic
-  - bold
-  - natural
-  - photography
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: town in the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q393474"
 has_twitter: false
@@ -93,77 +73,15 @@ visual_term_image_urls: {}
 
 ### 2022
 
+*Guidelines data not available*
+
 ### 2020
 
-**Logo Information:**
-
-- Mentions clear space rules; further details available under scaling guidelines.
-- Mentions clear space rules; further details available under scaling guidelines.
-
-**Color Information:**
-
-- Mentions Zebra Gradient; further details may include blending and tints.
-- References primary or secondary color palettes for brand colors.
-
-**Typography Information:**
-
-- Corporate typeface mentioned; further details may provide font name and weight.
-- Typographic hierarchy guidelines mentioned (e.g., font sizes, weights, usage).
-
-**Imagery Photography:**
-
-- Mentions guidelines for application and product photography.
-
-**Spacing Layout:**
-
-- References design elements that likely include spacing and layout guidelines.
-
-**Brand Voice:**
-
-- Voice and messaging guidelines, likely covering tone and style.
+*Guidelines data not available*
 
 ### 2017
 
-**Logo Information:**
-
-- Zebra Logo must maintain required clear space and only use allowed color formats (black or white), and the full Zebra Logo must be used without separating the Zebra Head Symbol or logotype.
-- Logo variations include horizontal and vertical arrangements, ensuring consistency across designs. Guidelines provided specify placements and design templates.
-- Improper logo usage is listed, such as placing in contrasting color boxes or using unauthorized color overlays.
-- Minimum clear space rules specified around the Zebra logo, ensuring it maintains visual integrity in all applications.
-- Scaling and resizing guidelines ensure logo retains legibility and standardized dimensions in various sizes.
-
-**Color Information:**
-
-- Accent colors include blue, red, and yellow. Only one accent color can be used per marketing asset.
-- Zebra Yellow is recommended on dark gray backgrounds; it should never be combined with black for graphic elements.
-- Corporate presentation templates use a limited color palette for context-specific branding, emphasizing simplicity and consistency.
-
-**Typography Information:**
-
-- Corporate Typeface: Arial - Regular, Arial - Italic, Arial - Bold, Arial - Bold Italic, used for documents, presentations, and non-marketing materials.
-- Proxima Nova typeface is designated for external marketing materials. Common weights include Bold for headlines and Regular for body text.
-
-**Imagery Photography:**
-
-- Photography style emphasizes natural, authentic environments reflecting Zebra's operational complexity.
-- People pictured should appear authentic and engaged in their activities, without appearing overly staged or aware of the camera. Diversity in representation is mandatory.
-- Stock Photography: Use only royalty-free images matching Zebra’s imagery style. Avoid rights-managed photos without approval.
-- Close-up application photography features Zebra products in real-world settings. Images must avoid staged elements and feel authentic.
-
-**Spacing Layout:**
-
-- Spacing guidelines emphasize simplicity with direct placement and alignment, avoiding complex elements in backgrounds.
-
-**Brand Voice:**
-
-- Brand voice emphasizes intelligent decision-making with a visionary tone, simplifying complex environments.
-- Messaging guidelines prioritize clarity and professionalism in tone.
-
-**Notes:**
-
-- The document is privileged and confidential, ensuring consistency in guidelines for both internal and external applications.
-- Guidelines for stock photo copyright clarify legal usage and mitigate risks associated with infringement.
-- All Zebra materials must include proper copyright and trademark language to protect brand integrity legally.
+*Guidelines data not available*
 
 ## Additional Properties
 

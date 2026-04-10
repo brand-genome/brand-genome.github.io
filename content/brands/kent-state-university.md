@@ -2,7 +2,7 @@
 title: Kent State University
 slug: "kent-state-university"
 description: ""
-date: "2026-03-20T08:22:05.721422"
+date: "2026-04-10T09:40:34.675521"
 draft: false
 sectors:
   - education
@@ -76,6 +76,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

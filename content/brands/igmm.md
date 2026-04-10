@@ -2,7 +2,7 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-03-20T08:22:05.724585"
+date: "2026-04-10T09:40:34.683140"
 draft: false
 sectors:
   - research
@@ -50,18 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-typographies:
-  - "open-sans"
-  - arial
-  - display
-imagery_styles:
-  - bold
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: research institute at University of Edinburgh
 wikidata_url: "https://www.wikidata.org/wiki/Q132530755"
 has_twitter: false
@@ -81,42 +73,131 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo color version must always be displayed on a white or very light background. A monochrome version of the logo is available for single-color printing.
-- On a dark background, the monochrome version of the logo must always be used.
-- A clear space or exclusion zone has been defined around the logo to maintain readability. The exclusion zone is defined as a specific measure 'x' around the logo.
-- Typography used in the logo: Arcus Extrabold (modified). The title typography is Neuron Light.
-- Minimum size requirements for logo printing: 20mm for the primary logo and 1.5mm for typography details.
-- Incorrect uses of the logo include changing logo colors, applying outlines, displaying the logo vertically or at an angle, using shadow effects or fills, and failing to adhere to the exclusion zone.
-- Logo variants exist with the title placed to the right (3-line and 2-line arrangements) along with specific exclusion zone rules. Minimum printing sizes are 13.5mm for 3-line layout and 8mm for the 2-line layout.
-- The monochrome logo must be used when displayed over an image. A white cartouche can be used to display the colored logo while respecting exclusion zones.
+##### Mission
 
-**Color Information:**
+- To advance fundamental research in molecular and cellular biology, with a focus on genetic and epigenetic regulation, RNA biology, cell cycle, cell death, and metabolism, while fostering a strong tradition of training through research for students, postdocs, engineers, and technicians [^1].
 
-- Primary colors include: Bleu (C:100 M:32 Y:27 K:11, RGB: 0,113,147, HEX: #007193), Noir Nuit (C:100 M:76 Y:58 K:81, RGB: 1,27,34, HEX: #011b22), Bleu Foncé (C:99 M:68 Y:46 K:47, RGB: 31,55,73, HEX: #1f3749).
-- Secondary colors include: Vert Printemps (C:50 M:8 Y:76 K:0, RGB: 156,182,100, HEX: #9CB664), Azur (C:71 M:6 Y:17 K:0, RGB: 104,175,200, HEX: #68AFCB), Jaune (C:18 M:17 Y:100 K:2, RGB: 209,190,7, HEX: #D1BE07).
-- Guidelines for color proportion usage across different applications, including shades (70%, 50%, 30%) of Bleu Foncé.
+##### Core Values
 
-**Typography Information:**
+- scientific excellence
+- multidisciplinarity
+- international impact
+- education and training
+- clarity
+- professionalism
 
-- Primary recommended typography: Open Sans (Light, Regular, Semibold, Bold, Italic variations). Open Sans can be substituted with Arial if unavailable.
-- Using typography: Body text should use Open Sans Light with recommended use of Bleu Foncé on white backgrounds (or light backgrounds). Specific sizes and line spacing are provided for titles, subtitles, body text, and captions.
+##### Target Audience
 
-**Imagery Photography:**
+- Students, researchers, postdocs, engineers, technicians, and professionals in molecular genetics and related scientific fields [^2].
 
-- The monochrome logo must be used when placed over images. Colored logos are permissible within a white cartouche that respects exclusion zones.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- scientific
+- approachable
+- clarity-focused
 
-- Exclusion zone defined as 'x' around the logo, ensuring clear space.
-- Specific margin rules for stationery (e.g., business cards: margin 5mm, size: 85mm x 54mm).
-- Letterhead spacing and layout defined: 210mm x 297mm with pre-defined margins and spacing, text settings defined using Open Sans Light size 11pt and line spacing 17pt.
-- PowerPoint layout and page proportions defined for presentation slides.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is clean, modern, and professional, with a focus on clarity and scientific themes. The logo uses bold, rounded lowercase letters in dark blue, light blue, yellow, and green, often set against white or light backgrounds. The color palette includes Noir Nuit, Bleu Foncé, Bleu, Azur, Jaune, and Vert Printemps. Typography is based on the Open Sans family, emphasizing readability and consistency. The layout and composition prioritize minimalism, exclusion zones, and proper alignment to ensure brand clarity and recognition [^3].
 
-- Credits: Various contributors collaborated on this brand guideline document, including IGMM members, project managers, and external designers.
+#### Categories
+
+##### Logo Usage
+
+- Le logo en couleur doit toujours s’afficher sur un fond blanc ou très clair.
+- Version monochrome du logo destinée à une impression en une couleur.
+- Sur un fond sombre, c’est la version monochrome du logo qui doit obligatoirement être utilisée.
+- Une zone d’excluson a été définie autour du logo. Cette espace de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité
+- Il est défendu de modifier ou d’interchanger les couleurs du logo et de son titre.
+- La version monochrome du logo doivent toujours être de la même couleur.
+- La version monochrome du logo doit toujours être de la même couleur que le titre.
+- Le logo ne doit jamais être affiché avec un countour.
+- Le logo ne doit pas avoir d’effets indésirables tel qu’une ombre portée.
+- Le logo n’a pas été conçu pour être affiché verticalement ou en biais. Il doit toujours être imprimé horizontalement.
+- La zone minimale d’affichage n’est pas respectée, il n’y a pas assez d’espace d’exclusion autour du logo.
+- Le logo ne doit jamais être affiché sur un fond qui entrave sa lisibilité.
+- Le logo ne doit pas de remplissage inopportun.
+- Le logo doit être affiché dans sa version monochrome quand il est sup-perposé sur une image.
+- Le logo peut être utilisé dans sa version couleur lorsqu’il est affiché dans un cartouche blanc qui respecte les zones d’exclusions.
+
+##### Color Palette
+
+- Noir Nuit C.100 M.76 J.58 N.81 R.1 V.27 B.34 #011b22
+- Bleu Foncé C.99 M.68 J.46 N.47 R.31 V.55 B.73 #1f3749
+- Bleu C.100 M.32 J.27 N.11 R.0 V.113 B.147 #007193
+- Vert Printemps C.50 M.8 J.76 N.0 R.156 V.182 B.100 #9CB664
+- Azur C.71 M.6 J.17 N.0 R.104 V.175 B.200 #68AFCB
+- Jaune C.18 M.17 J.100 N.2 R.209 V.190 B.7 #D1BE07
+- Le logo en couleur doit toujours s’afficher sur un fond blanc ou très clair.
+- Il est défendu de modifier ou d’interchanger les couleurs du logo et de son titre.
+- La version monochrome du logo doivent toujours être de la même couleur.
+- La version monochrome du logo doit toujours être de la même couleur que le titre.
+
+##### Typography
+
+- TYPOGRAPHIE DU LOGO
+- Arcus Extrabold - modified ABC
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- abcdeéèfghijklmnopqrstuvwxyz 0123456789.
+- TYPOGRAPHIE DU TITRE
+- Neuron Light ABC
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdeéèfghijklmnopqrstuvwxyz 0123456789.
+- TAILLE MINIMALE D’IMPRESSION
+- 1,5 mm
+- 20 mm
+- Typographies
+- TYPOGRAPHIE PRINCIPALE
+- Open Sans Light
+- La famille de polices Open Sans est recommandéé pour un usage général. Si cette police n’est pas disponible, elle peut être substituée par la police Arial.
+- # ABC
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- 0123456789 (é) %
+- Open Sans Regular
+- ## ABC
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 (é) %
+- Open Sans Semibold
+- Open Sans Bold
+- Open Sans Light Italic
+- ABC
+- Open Sans Italic
+- Open Sans Semibold Italic
+- Open Sans Bold Italic
+- Utilisation de la typographie
+- ont indiqués sur cette page certaines proportions typographiques à titre d’exemple. Ces dimensions peuvent être modifiées afin de s’adapter aux différents formats et techniques d’impression ou encore aux supports multimédias.
+- Le corps de texte doit avoir le style « Light » sauf exception. Il est recommandé d’écrire en bleu foncé sur fond blanc ou bien sur fond clair dans la mesure du possible.
+- Chapeau / intro + font : Open Sans Lignt + taille : 13pt + interligne : 18pt
+- Titre + font : Open Sans Black + taille : 30pt / interligne : 30pt
+- Sous-Titre + font : Open Sans Light + taille : 26pt / interligne : 26pt
+- Corps de texte + font : Open Sans Light + taille : 9pt + interligne : 13pt
+- Citation + font : Open Sans Italic + taille : 18pt + interligne : 22pt
+- Légende + font : Open Sans Light + taille : 9pt + interligne : 13pt
+- Police de caractère : Open Sans Semibold Taille : 12pt Interligne : 15pt Couleur : Bleu foncé
+- Police de caractère : Open Sans Light Taille : 7pt Interligne : 8,4pt Couleur : Bleu foncé
+- Police de caractère : Open Sans Light Taille : 7pt Interligne : 8,4pt Couleur : Bleu
+- Police de caractère : Open Sans Light Taille : 11pt Interligne : 17pt Couleur : Bleu foncé
+
+##### Visual Style
+
+- Le logo en couleur doit toujours s’afficher sur un fond blanc ou très clair.
+- Version monochrome du logo destinée à une impression en une couleur.
+
+##### Layout And Composition
+
+- Le logo en couleur doit toujours s’afficher sur un fond blanc ou très clair.
+- Sur un fond sombre, c’est la version monochrome du logo qui doit obligatoirement être utilisée.
+- Une zone d’excluson a été définie autour du logo. Cette espace de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité
+- Le logo ne doit jamais être affiché avec un countour.
+- Le logo ne doit pas avoir d’effets indésirables tel qu’une ombre portée.
+- Le logo n’a pas été conçu pour être affiché verticalement ou en biais. Il doit toujours être imprimé horizontalement.
+- La zone minimale d’affichage n’est pas respectée, il n’y a pas assez d’espace d’exclusion autour du logo.
+- Le logo ne doit jamais être affiché sur un fond qui entrave sa lisibilité.
+- Le logo ne doit pas de remplissage inopportun.
+- Le logo doit être affiché dans sa version monochrome quand il est sup-perposé sur une image.
+- Le logo peut être utilisé dans sa version couleur lorsqu’il est affiché dans un cartouche blanc qui respecte les zones d’exclusions.
 
 ## Additional Properties
 

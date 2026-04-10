@@ -2,7 +2,7 @@
 title: Mérida
 slug: merida
 description: ""
-date: "2026-03-20T08:22:04.715885"
+date: "2026-04-10T09:40:33.439128"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,22 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-brand_colors:
-  - red
-  - crimson
-  - black
-typographies:
-  - slab
-  - serif
-  - "sans-serif"
-  - lato
-  - roboto
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,22 +70,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Information about various logo versions, including ISOTIPO and LOGOTIPO constructions, positive and negative versions, horizontal and vertical formats. Details on logo spacing and general usage instructions.
-
-**Color Information:**
-
-- Details regarding corporate colors, including codes (PANTONE 200C for intense red, accompanied by pure black in CMYK). Full color, grayscale, and single-color usage are discussed.
-
-**Typography Information:**
-
-- Typography alternates like Lato and Roboto (sans-serif) and Roboto Slab or Crimson Pro (serif) mentioned as acceptable substitutes. Font weights from Thin to Black are covered.
-
-**Imagery Photography:**
-
-- Photography background rules detail that logos can appear on photographic or colored backgrounds only if the logo remains legible.
-
-**Spacing Layout:**
-
-- Spacing and alignment rules mention clear space around the logo being proportionate to its width. Width ratios are repeatedly referenced (e.g., 1/4 x margins). Examples cover vertical, horizontal, and stacked variants.
+*Guidelines data not available*

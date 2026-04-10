@@ -2,11 +2,11 @@
 title: Lauak
 slug: lauak
 description: ""
-date: "2026-03-20T08:22:04.412798"
+date: "2026-04-10T09:40:33.154934"
 draft: false
 sectors:
-  - aerospace
   - hardware
+  - aerospace
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - industry
   - aeronautic
+  - industry
 industries:
   - unknown
 countries:
@@ -56,14 +56,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - gray
-typographies:
-  - arial
-  - verdana
-imagery_styles:
-  - bold
-  - graphic
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q86733110"
 has_twitter: false
@@ -82,33 +77,68 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo construction is introduced with specifics presented in subsequent pages.
-- Logo color variations are defined for different regions: Europe, Americas, Asia, and Holdings.
-- Clear space and safe zone rules specify a margin corresponding to the height of the letter 'K' in 'Lauak'.
-- Prohibits separating logo elements except for the four points, which can be used as standalone graphic elements.
-- Logo can be applied on dark gray backgrounds (N=85%) or exceptionally on photo backgrounds such as a sky.
+##### Mission
 
-**Color Information:**
+- La charte graphique vise à assurer la cohérence et la reconnaissance visuelle de la marque LAUAK dans toutes correspondances internes et externes, en fixant les règles d’utilisation du logo, des textes et des images [^1].
 
-- Color specifications include distinct treatments for regions: Europe, Americas, Asia, and Holdings.
+##### Core Values
 
-**Typography Information:**
+- cohérence
+- reconnaissance visuelle
+- professionnalisme
 
-- Typography rules specify usage of Ludica Sans for titles and text; Verdana and Arial for text documents and presentations. Font weights defined as Regular and Bold.
+##### Target Audience
 
-**Imagery Photography:**
+- Collaborateurs, partenaires, clients et toute personne impliquée dans la communication interne et externe du groupe LAUAK [^2].
 
-- Logo backgrounds include dark gray (N=85%) or photo backgrounds like a sky image identified as Fotolia 51563729.
+##### Personality Traits
 
-**Spacing Layout:**
+- moderne
+- minimaliste
+- corporate
+- dynamique
 
-- Clear space for the logo specified by the height of the letter 'K'.
+##### Visual Identity Overview
 
-**Notes:**
+- La marque LAUAK se distingue par un logo moderne en rouge, accompagné de formes ovales colorées (rouge, gris, vert, noir), une typographie sans-serif, des fonds épurés, et une palette de couleurs techniques (Pantone, CMYK, RVB) pour garantir une identité visuelle cohérente et professionnelle [^3].
 
-- The brand guideline includes details and templates for business cards, letterheads, information notes, and PowerPoint presentations.
+#### Categories
+
+##### Logo Usage
+
+- La présente charte graphique a pour objectif de fixer les règles d’utilisation du logo, des textes et des images pour toutes correspondances internes et externes. Dans un souci de cohérence et de reconnaissance visuelle, veillez à respecter les indications suivantes.
+- Sa construction
+- Ses déclinaisons
+- Ses couleurs
+- Son utilisation
+- Ses fonds de couleur
+- Ses typographies
+- Tout autour du logo une marge doit être respectée. Elle correspond à la hauteur de la lettre K. Aucun élément ne doit être dance cadre.
+- En aucun cas les éléments du logo doivent être séparés, exceptés les quatres points qui peuvent être utilisé comme éléments graphiques seuls.
+- Le logo peut être appliqué sur fond gris foncé (N=85%) ou exceptionnellement sur fond photo (ciel, voir ci-dessous.)
+
+##### Color Palette
+
+- Ses couleurs P5
+
+##### Typography
+
+- Police Ludica Sans utilisée pour titrage et/ou texte courant
+- Ludica Sans ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- 1234567890!@#$%^&*()
+- Police Verdana utilisée pour traitement de texte et présentations
+- Verdana Bold
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- Verdana Regular
+- Police Arial utilisée pour traitement de texte et présentations
+- Arial Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890!@#$%^&*()
+- Arial ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+
+##### Visual Style
+
+- La présente charte graphique a pour objectif de fixer les règles d’utilisation du logo, des textes et des images pour toutes correspondances internes et externes. Dans un souci de cohérence et de reconnaissance visuelle, veillez à respecter les indications suivantes.
 
 ## Additional Properties
 

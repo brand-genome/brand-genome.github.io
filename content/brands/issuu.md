@@ -2,11 +2,11 @@
 title: issuu
 slug: issuu
 description: ""
-date: "2026-03-20T08:22:04.469020"
+date: "2026-04-10T09:40:33.215971"
 draft: false
 sectors:
-  - publishing
   - software
+  - publishing
 regions:
   - denmark
 years:
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - green
-  - white
-  - yellow
-  - orange
-  - black
-typographies:
-  - times
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: online service and reader
 wikidata_url: "https://www.wikidata.org/wiki/Q1982075"
 has_twitter: false
@@ -85,36 +73,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo clear space: The logo must have clear space around it, where the minimum space is the width of the symbol itself.
-- Available logo versions: Black Horizontal Logo, Color Horizontal Logo, White Horizontal Logo, Black Stacked Logo, Color Stacked Logo, White Stacked Logo, Black Symbol, Color Symbol, White Symbol.
-- Logo uses consistent proportions, colors, and orientation that cannot be altered.
-
-**Color Information:**
-
-- Primary color palette includes: Orange (PMS 171C) with values - HEX: #F36D5D, RGB: R243 G109 B93, CMYK: C0 M72 Y62 K0.
-- Secondary colors provide distinction: Green GO! (HEX: #50AB62) and WARNING Yellow (HEX: #F5B859).
-
-**Typography Information:**
-
-- Typography uses lowercase rules for 'issuu' at all times. Capitalization adheres to AP Stylebook standards.
-- ALL CAPS is reserved for navigation buttons, headlines, or extremely short headers.
-
-**Imagery Photography:**
-
-- Photography should be high-resolution and directly relevant to the topic, while giving proper attribution to creators.
-- Imagery guidelines encourage simplicity, singular focus, strong lighting, and crisp compositions.
-
-**Spacing Layout:**
-
-- Layouts consist of well-balanced, proportional designs with thoughtful use of space, adhering to consistent storytelling objectives.
-
-**Brand Voice:**
-
-- The brand tone represents a balance of function and emotional connection, aiming for authenticity in messaging.
-- Core tagline: 'Connecting Content to People'.
-- Messaging guidance highlights simplicity, singular focus, and user engagement for clear communication.
+*Guidelines data not available*
 
 ## Additional Properties
 

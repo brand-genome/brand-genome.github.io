@@ -2,7 +2,7 @@
 title: Cartoon Network
 slug: "cartoon-network"
 description: ""
-date: "2026-03-20T08:22:04.173835"
+date: "2026-04-10T09:40:32.488616"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - "united-arab-emirates"
@@ -51,20 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - cyan
-  - yellow
-  - black
-  - magenta
-typographies:
-  - gotham
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Africa and MENA feeds
 wikidata_url: "https://www.wikidata.org/wiki/Q28715029"
 has_twitter: false
@@ -86,40 +76,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Cartoon Network logo specifications, usage guidelines, and examples of correct/incorrect usage.
-- Details about safe zones, sizes, prohibited alterations (e.g., no outlines, no skewing, no additional colors).
-- Instructions regarding the logo's color usage on different surfaces, including transparent, white, black, and colored fields.
-
-**Color Information:**
-
-- Explanation of primary and secondary brand colors including HEX, RGB, CMYK and Pantone codes for Magenta, Yellow, Cyan, Black and White.
-- Color patterns for design elements, grid placement, extensions, and cropping techniques.
-- Overview of how to balance or include color checkerboard elements with design.
-
-**Typography Information:**
-
-- Typefaces include Gotham Rounded and CN Bold, with tracking specifications and guidelines for their usage in headings and body text.
-- Font licensing notes, usage roles, distribution guidelines.
-
-**Imagery Photography:**
-
-- Imagery and icon usage, emphasizing brand visuals and ensuring consistency (e.g., icons in black and white only).
-
-**Spacing Layout:**
-
-- Instructions on using grids for layout patterns, including spacing for icons, printing designs, color application.
-
-**Brand Voice:**
-
-- Guidelines for using the tagline 'CHECK it' as part of the Cartoon Network presence in print, TV, and digital media.
-- 'CHECK it' usage rules, prohibiting excessive or informal usage.
-
-**Notes:**
-
-- Legal guidelines emphasized the importance of trademark/copyright notices.
-- Contact information for questions about brand guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

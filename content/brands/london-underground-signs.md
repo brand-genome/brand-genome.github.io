@@ -2,7 +2,7 @@
 title: London Underground Signs
 slug: "london-underground-signs"
 description: ""
-date: "2026-03-20T08:22:05.855783"
+date: "2026-04-10T09:40:34.879485"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - signage
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -70,33 +70,4 @@ visual_term_image_urls: {}
 
 ### 2002
 
-**Logo Information:**
-
-- Logo-related information identified on page 1. This includes roundel silhouette and background standards.
-- Details about logo sizes and layout clarity found on page 5.
-
-**Color Information:**
-
-- Color system and Pantone references found starting from page 1, including station roundel designs.
-- Color coding used for external signage identified on page 12.
-
-**Typography Information:**
-
-- Standard font sizes and typeface guidelines for signs extracted from page 6.
-- Letter spacing and alignment rules for signage documented on page 11.
-
-**Imagery Photography:**
-
-- Imagery principles for station graphics extracted starting from page 16. Focus on layout illustrations.
-
-**Spacing Layout:**
-
-- Spacing rules and grid framework guidance outlined in page layout sections on page 25.
-
-**Brand Voice:**
-
-- Note regarding station signage tone consistency extracted from page 30.
-
-**Notes:**
-
-- Generalized overview of technical details spanning station exterior and platforms extracted from page 20.
+*Guidelines data not available*

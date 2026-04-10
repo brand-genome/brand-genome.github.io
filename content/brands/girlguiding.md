@@ -2,7 +2,7 @@
 title: Girlguiding
 slug: girlguiding
 description: ""
-date: "2026-03-20T08:22:03.376846"
+date: "2026-04-10T09:40:30.907649"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:
@@ -53,25 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - "pantone-102"
-  - white
-  - gray
-  - "pantone-151"
-  - "pantone-2382"
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - staged
-  - bold
-  - natural
-  - photography
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: charity from New Zealand
 wikidata_url: "https://www.wikidata.org/wiki/Q136754376"
 has_twitter: false
@@ -92,91 +77,11 @@ visual_term_image_urls: {}
 
 ### 2023
 
-**Logo Information:**
-
-- Girlguiding logo guidelines outline the proper usage of logos to ensure consistent identity representation. Logos include horizontal and vertical layouts with full-color, black, and white variations. These logos are specifically provided and must not be altered.
-- Clear space requirement specifies at least the height of the 'G' in 'Girlguiding' from any other element.
-- Minimum size requirements indicate that the logo should not be reduced below 20mm width for printed materials and 72px for digital use.
-- Examples of incorrect logo usage include distortion, rotation, changing colors, or adding effects like shadows.
-
-**Color Information:**
-
-- Primary brand colors include:
-- Pantone 2382 C (HEX: #00549E, RGB: R:0 G:84 B:158, CMYK: C:100 M:68 Y:0 K:12)
-- Pantone 151 C (HEX: #FF6900, RGB: R:255 G:105 B:0, CMYK: C:0 M:65 Y:100 K:0)
-- Accent colors include:
-- Cool Gray 7 (HEX: #97999B, RGB: R:151 G:153 B:155, CMYK: C:0 M:0 Y:0 K:30)
-- Pantone 102 C (HEX: #FAE100, RGB: R:250 G:225 B:0, CMYK: C:1 M:9 Y:98 K:0)
-- Color usage specifies primary colors for branding and key messaging while accent colors are for highlighting specific elements.
-
-**Typography Information:**
-
-- Official font family is 'Arial', with weights Regular and Bold used across digital and print media. Role specifications include:
-- Headings: Bold, size starting from 24px depending on use case.
-- Body Text: Regular, size 12pt preferred.
-
-**Imagery Photography:**
-
-- Photography style emphasizes natural light, diverse representation, and active candid moments. Images should reflect inclusiveness and the values of Girlguiding.
-- Do not use overly edited or staged images as they do not align with the Girlguiding identity.
-
-**Spacing Layout:**
-
-- Grid system for branding materials maintains consistent spacing rules. Key measurements: margins of 10mm for documents up to A4 and proportional scaling for larger formats.
-- Alignment guidelines dictate left alignment for most text and consistent spacing between graphical elements.
-
-**Brand Voice:**
-
-- Girlguiding's tone of voice is described as friendly, empowering, and inclusive. Messaging should inspire confidence, equality, and community.
-- Taglines include: 'For every girl, everywhere.'
-
-**Notes:**
-
-- Further details or brand materials can be requested via the Girlguiding Marketing team using brandingmatters@girlguiding.org.uk.
+*Guidelines data not available*
 
 ### 2019
 
-**Logo Information:**
-
-- Girlguiding logo guidelines outline the proper usage of logos to ensure consistent identity representation. Logos include horizontal and vertical layouts with full-color, black, and white variations. These logos are specifically provided and must not be altered.
-- Clear space requirement specifies at least the height of the 'G' in 'Girlguiding' from any other element.
-- Minimum size requirements indicate that the logo should not be reduced below 20mm width for printed materials and 72px for digital use.
-- Examples of incorrect logo usage include distortion, rotation, changing colors, or adding effects like shadows.
-
-**Color Information:**
-
-- Primary brand colors include:
-- Pantone 2382 C (HEX: #00549E, RGB: R:0 G:84 B:158, CMYK: C:100 M:68 Y:0 K:12)
-- Pantone 151 C (HEX: #FF6900, RGB: R:255 G:105 B:0, CMYK: C:0 M:65 Y:100 K:0)
-- Accent colors include:
-- Cool Gray 7 (HEX: #97999B, RGB: R:151 G:153 B:155, CMYK: C:0 M:0 Y:0 K:30)
-- Pantone 102 C (HEX: #FAE100, RGB: R:250 G:225 B:0, CMYK: C:1 M:9 Y:98 K:0)
-- Color usage specifies primary colors for branding and key messaging while accent colors are for highlighting specific elements.
-
-**Typography Information:**
-
-- Official font family is 'Arial', with weights Regular and Bold used across digital and print media. Role specifications include:
-- Headings: Bold, size starting from 24px depending on use case.
-- Body Text: Regular, size 12pt preferred.
-
-**Imagery Photography:**
-
-- Photography style emphasizes natural light, diverse representation, and active candid moments. Images should reflect inclusiveness and the values of Girlguiding.
-- Do not use overly edited or staged images as they do not align with the Girlguiding identity.
-
-**Spacing Layout:**
-
-- Grid system for branding materials maintains consistent spacing rules. Key measurements: margins of 10mm for documents up to A4 and proportional scaling for larger formats.
-- Alignment guidelines dictate left alignment for most text and consistent spacing between graphical elements.
-
-**Brand Voice:**
-
-- Girlguiding's tone of voice is described as friendly, empowering, and inclusive. Messaging should inspire confidence, equality, and community.
-- Taglines include: 'For every girl, everywhere.'
-
-**Notes:**
-
-- Further details or brand materials can be requested via the Girlguiding Marketing team using brandingmatters@girlguiding.org.uk.
+*Guidelines data not available*
 
 ## Additional Properties
 

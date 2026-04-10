@@ -2,7 +2,7 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-03-20T08:22:05.404616"
+date: "2026-04-10T09:40:34.260649"
 draft: false
 sectors:
   - education
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - gray
-  - white
-  - black
-typographies:
-  - times
-  - lato
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Education organization in Bogotá Colombia
 wikidata_url: "https://www.wikidata.org/wiki/Q7747060"
 has_twitter: false
@@ -83,33 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo is composed of the logotype and the symbol (shield), called the logosymbol. Logosymbol includes horizontal composition (primary format) and vertical composition for limited spaces.
-- Inverse version of the logosymbol to be applied on institutional colors, medium gray, or black backgrounds.
-- Black & white version of the logosymbol to be used for documents requiring specific technical reproduction (e.g., photocopies, newspapers).
-- Clear space or safe zone is defined as the area surrounding the logosymbol to protect it against interference from other visual elements. It corresponds to the width of one module ('o') on all sides.
-- Minimum size requirements for the logosymbol are specified with dimensions (e.g., 1.5 cm width for certain versions, minimum pixel sizes for digital applications).
-- Examples of incorrect logo usage include improper scaling, applying effects, and altering proportions or key elements.
-- Correct and incorrect logo usage on photographs is demonstrated.
-
-**Color Information:**
-
-- Institutional color is defined as Pantone® 3302c: C90 M40 Y60 K45, RGB (0, 79, 74), HEX (#004f4A).
-- Special metallic ink colors are used for institutional stationery, diplomas, seals, commemorative plaques, and signage.
-
-**Typography Information:**
-
-- Typeface families include Trajan Pro, Adobe Caslon Pro, Times New Roman, Lora, Meta Pro, Calibri, and Lato. Specific weights and variants are provided for different uses (e.g., Bold, Italic, Regular).
-
-**Spacing Layout:**
-
-- Detailed geometrical construction rules for the logosymbol and institutional shield, ensuring proper use and proportions.
-
-**Notes:**
-
-- Historical references in the branding include Antonio Nariño, Simón Bolívar, and Francisco de Paula Santander, representing Colombian independence and patriotism.
-- Sub-branding guidelines define separate identities for specific business units while maintaining connection to the primary institution's imagery.
+*Guidelines data not available*
 
 ## Additional Properties
 

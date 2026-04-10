@@ -2,7 +2,7 @@
 title: University of York
 slug: "university-of-york"
 description: ""
-date: "2026-03-20T08:22:04.310404"
+date: "2026-04-10T09:40:32.997626"
 draft: false
 sectors:
   - university
@@ -51,15 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-brand_colors:
-  - white
-  - gold
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: "university in York, North Yorkshire, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q967165"
 has_twitter: false
@@ -78,43 +73,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Principal logo and long logo versions provided, denoting different use cases depending on space restrictions.
-- Logo clear space is defined as being the height of two stacked 'U's from the word UNIVERSITY. Nothing should encroach upon this space.
-- Specifies clear space rules and color variations, ensuring the logo remains unobstructed across backgrounds with specific lightness.
-- Logo evolution timeline is provided, including versions from 1994, 2013, and 2016, with design refinements like revised shields and type spacing.
-- Logo application guidelines for various front and back cover sizes, specifying width, minimum size, and alignment parameters.
-
-**Color Information:**
-
-- Core colors include Pantone PMS 432, PMS 7534, and PMS 427 for light backgrounds, and PMS 315 for darker contexts.
-- White logo version is applied on dominant dark colors like PMS 432 and PMS 315, with clear print/online guidelines.
-
-**Typography Information:**
-
-- Monsal Gothic Medium typeface is used for department names and other sub-branding elements, at 80% of the cap height of 'UNIVERSITY'.
-- Typography guidelines for print and online applications emphasize organizational style coherence.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasize using authentic visual styles to convey context, focusing on people and environment.
-- Detailed style and usage of environmental photography for University promotional or branding purposes.
-
-**Spacing Layout:**
-
-- Grid-based structure defined for front/back cover designs with specifications based on specific paper sizes, logo widths, and margins.
-- Non-standard dimensions are to use closest matching guidelines for layout and safe zones.
-
-**Brand Voice:**
-
-- Voice and messaging guidelines encourage respectful, inclusive, and professional communication consistent with University values.
-
-**Notes:**
-
-- Digital communication sections include PowerPoint templates, email signatures, and aligned messaging.
-- Guidelines for campaign communications ensure alignment with broader University identity for branding success.
-- Usage restrictions and symbolic meaning of the TEF GOLD award logo are discussed for specific applicable contexts.
+*Guidelines data not available*
 
 ## Additional Properties
 

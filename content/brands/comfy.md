@@ -2,12 +2,12 @@
 title: Comfy
 slug: comfy
 description: ""
-date: "2026-03-20T08:22:03.296772"
+date: "2026-04-10T09:40:30.820424"
 draft: false
 sectors:
-  - "e-commerce"
   - "consumer-goods"
   - electronics
+  - "e-commerce"
   - "home-appliances"
 regions:
   - ukraine
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: Ukrainian consumer electronics retailer
 wikidata_url: "https://www.wikidata.org/wiki/Q12062837"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 
 - [https://comfy.ua](https://comfy.ua)
 - [https://comfy.ua/ua](https://comfy.ua/ua)
-
-## Brand Guidelines
-
-### 2018
-
-*Guidelines data not available*
 
 ## Additional Properties
 

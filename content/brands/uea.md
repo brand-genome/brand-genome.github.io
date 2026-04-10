@@ -2,12 +2,12 @@
 title: UEA
 slug: uea
 description: ""
-date: "2026-03-20T08:22:05.790238"
+date: "2026-04-10T09:40:34.776897"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -55,13 +55,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - green
-  - white
-  - cyan
-  - magenta
-  - orange
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "university in Norwich, England, United Kingdom"
@@ -81,11 +75,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Notes:**
-
-- Parts of the document indicate hoarding design guidelines, information about alternative message boards, and use of glint patterns for designs. Includes hero and generic covers as well as project boards.
-- Information boards include two categories: project boards and message-specific signs. Examples of design approaches, such as aligning text centrally and dividing boards into blocks, are provided.
-- Alternative designs for hoardings and message boards suggest different color schemes including black on magenta, black on orange, black on green, black on cyan, and white on black.
+*Guidelines data not available*
 
 ## Additional Properties
 

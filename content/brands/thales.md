@@ -2,13 +2,13 @@
 title: Thales
 slug: thales
 description: ""
-date: "2026-03-20T08:22:05.172362"
+date: "2026-04-10T09:40:34.035923"
 draft: false
 sectors:
   - defense
-  - cybersecurity
-  - aerospace
   - "space-technology"
+  - aerospace
+  - cybersecurity
 regions:
   - france
 years:
@@ -19,12 +19,12 @@ tags:
   - transport
   - technology
 industries:
-  - "software-industry"
-  - "aerospace-industry"
-  - "computer-security"
-  - "activities-of-head-offices"
   - telecommunications
+  - "aerospace-industry"
+  - "activities-of-head-offices"
+  - "computer-security"
   - "weapons-industry"
+  - "software-industry"
 countries:
   - france
 revenue_buckets:
@@ -42,16 +42,16 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "infantry-mobility-vehicle"
-  - aeronautics
   - "remote-weapon-station"
   - radar
+  - aeronautics
+  - "infantry-mobility-vehicle"
 products: []
 headquarters_locations:
-  - courbevoie
-  - meudon
-  - "neuilly-sur-seine"
   - paris
+  - meudon
+  - courbevoie
+  - "neuilly-sur-seine"
   - puteaux
 subsidiaries: []
 foundation_dates:
@@ -76,14 +76,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-2765"
-  - white
-  - blue
-  - "pantone-3125"
-  - black
-typographies:
-  - times
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: French multinational company
 wikidata_url: "https://www.wikidata.org/wiki/Q1161666"
@@ -108,24 +102,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The logo is specially drawn and must not be redesigned or altered in any way. Elements must remain in the same position and proportion and cannot be used individually. Adding text or using the logo as part of a sentence is also prohibited.
-- The logo's colors include dark blue (letters), light blue (dot inside 'A'). Versions available: full-color logo, black only, and white only for use in specific scenarios. Colors must never be modified.
-- A minimum clear space and size must be maintained for integrity. Logos may not be undersized beyond 40mm (or 20mm for special cases).
-- Incorrect usage examples: Distorting, recoloring, or rearranging the logo. Prohibited use of logos directly on busy image backgrounds. Partner logos must be scaled smaller than or equal to Thales' logo and must avoid overlap.
-
-**Color Information:**
-
-- Thales colors are calibrated as follows: Thales Light Blue (Pantone 3125, CMYK C=76 M=0 Y=10 K=0, RGB R=93 G=191 B=212, HEX #5DBFD4) and Thales Dark Blue (Pantone 2765, CMYK C=95 M=90 Y=0 K=30, RGB R=36 G=42 B=117, HEX #242A75).
-
-**Spacing Layout:**
-
-- Minimum logo size defined: 40mm for general usage, 20mm is acceptable in limited use cases like promotional items. Clear spacing around the logo must be maintained at all times.
-
-**Notes:**
-
-- Links to resources are referenced for downloading logos and further guidance.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -135,8 +112,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Infantry Mobility Vehicle](/products_or_materials_produced/infantry-mobility-vehicle/); [Aeronautics](/products_or_materials_produced/aeronautics/); [Remote Weapon Station](/products_or_materials_produced/remote-weapon-station/); [Radar](/products_or_materials_produced/radar/) |
-| Headquarters Location | [Courbevoie](/headquarters_locations/courbevoie/); [Meudon](/headquarters_locations/meudon/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Paris](/headquarters_locations/paris/); [Puteaux](/headquarters_locations/puteaux/) |
+| Product Or Material Produced | [Remote Weapon Station](/products_or_materials_produced/remote-weapon-station/); [Radar](/products_or_materials_produced/radar/); [Aeronautics](/products_or_materials_produced/aeronautics/); [Infantry Mobility Vehicle](/products_or_materials_produced/infantry-mobility-vehicle/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [Meudon](/headquarters_locations/meudon/); [Courbevoie](/headquarters_locations/courbevoie/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Puteaux](/headquarters_locations/puteaux/) |
 | Foundation Date | [2000](/foundation_dates/2000/) |
 | Headquarters Location | Puteaux (until 1993-10-19), Paris (from 1993-10-19, until 2003-09-12), Neuilly-sur-Seine (from 2003-09-12, until 2014-09-16), Courbevoie (from 2014-09-16, until 2023-03-07), Meudon (from 2023-03-07) |
 | Chief Executive Officer | Denis Ranque (from 2004-05-12, until 2009-05-19), Luc Vigneron (from 2009-05-19, until 2012-12-20), Jean-Bernard Lévy (from 2012-12-20, until 2014-11-27), Philippe Logak (from 2014-11-27, until 2014-12-23), Patrice Caine (from 2014-12-23) |

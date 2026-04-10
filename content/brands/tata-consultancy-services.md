@@ -2,11 +2,11 @@
 title: Tata Consultancy Services
 slug: "tata-consultancy-services"
 description: ""
-date: "2026-03-20T08:22:03.085311"
+date: "2026-04-10T09:40:30.601156"
 draft: false
 sectors:
-  - consulting
   - software
+  - consulting
 regions:
   - india
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - technology
 industries:
-  - "information-technology-consulting"
   - "it-service-management"
+  - "information-technology-consulting"
 countries:
   - india
 revenue_buckets: []
@@ -62,21 +62,15 @@ imagery_styles: []
 wikidata_description: Information technology consulting company
 wikidata_url: "https://www.wikidata.org/wiki/Q13227919"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.tcs.com](https://www.tcs.com)
-
-## Brand Guidelines
-
-### 2025
-
-*Guidelines data not available*
 
 ## Additional Properties
 

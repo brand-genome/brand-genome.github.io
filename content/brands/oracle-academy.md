@@ -2,11 +2,11 @@
 title: Oracle Academy
 slug: "oracle-academy"
 description: ""
-date: "2026-03-20T08:22:05.242883"
+date: "2026-04-10T09:40:34.116670"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -48,8 +48,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -72,15 +71,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo guidelines section introducing authorized use for educational institutions under the Oracle Academy program.
-
-**Color Information:**
-
-- Official color palette section outlining primary and accent colors used in Oracle Academy branding.
-
-**Spacing Layout:**
-
-- Clear space guidelines for maintaining a safe zone around the Oracle Academy logo.
-- Clear space guidelines for maintaining a safe zone around the Oracle Academy logo.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Seat
 slug: seat
 description: ""
-date: "2026-03-20T08:22:05.316633"
+date: "2026-04-10T09:40:34.148623"
 draft: false
 sectors:
   - automobile
@@ -56,12 +56,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "Spanish automotive company based in Martorell, subsidiary of Volkswagen Group"
 wikidata_url: "https://www.wikidata.org/wiki/Q188217"
 has_twitter: false
@@ -84,21 +81,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Color Information:**
-
-- Color usage mentions including light and dark backgrounds, legal use cases for text colors (white and black), and overall alignment considerations across layouts.
-
-**Imagery Photography:**
-
-- Imagery, photography, and usage visuals traceable through template, layouts, instructions for correct scaling and alignment, and publisher file bounds.
-
-**Spacing Layout:**
-
-- Spacing guidelines include details on margins, alignment baselines for text, page templates, positions for dealer logos and advertisements, headlines to imagery distance proportions.
-
-**Notes:**
-
-- Additional brand documentation references web-based systems ('http://kiss.seat.com') providing high-resolution templates and media. Multiple typography sizes and role alignments observed but not conclusively organized in the text structure.
+*Guidelines data not available*
 
 ## Additional Properties
 

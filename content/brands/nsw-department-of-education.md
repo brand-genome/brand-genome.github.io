@@ -2,7 +2,7 @@
 title: NSW Department of Education
 slug: "nsw-department-of-education"
 description: ""
-date: "2026-03-20T08:22:03.889389"
+date: "2026-04-10T09:40:31.582034"
 draft: false
 sectors:
   - "public-sector"
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: Department of the Government of New South Wales
 wikidata_url: "https://www.wikidata.org/wiki/Q5260271"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [http://www.instagram.com/nsweducation](http://www.instagram.com/nsweducation)
 - [http://www.youtube.com/NSWDepartmentofEducation](http://www.youtube.com/NSWDepartmentofEducation)
 - [http://www.zendesk.com](http://www.zendesk.com)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Chivas Regal
 slug: "chivas-regal"
 description: ""
-date: "2026-03-20T08:22:05.314559"
+date: "2026-04-10T09:40:34.143777"
 draft: false
 sectors:
   - drink
@@ -74,9 +74,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Logo-related content extracted from page 12.
+*Guidelines data not available*
 
 ## Additional Properties
 

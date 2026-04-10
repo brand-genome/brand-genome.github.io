@@ -2,12 +2,12 @@
 title: Ural Federal University
 slug: "ural-federal-university"
 description: ""
-date: "2026-03-20T08:22:04.064419"
+date: "2026-04-10T09:40:32.094950"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - russia
 years:
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: university
 wikidata_url: "https://www.wikidata.org/wiki/Q1506552"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [http://www.ustu.ru](http://www.ustu.ru)
 - [https://urfu.ru/ru](https://urfu.ru/ru)
 - [https://urfu.ru/en](https://urfu.ru/en)
-
-## Brand Guidelines
-
-### 2018
-
-*Guidelines data not available*
 
 ## Additional Properties
 

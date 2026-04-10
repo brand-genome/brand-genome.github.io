@@ -2,7 +2,7 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-03-20T08:22:05.045449"
+date: "2026-04-10T09:40:33.809954"
 draft: false
 sectors:
   - "arts-culture"
@@ -52,19 +52,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - gold
-  - teal
-  - white
-  - purple
-  - black
-typographies:
-  - "century-gothic"
-  - times
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: independent charity
 wikidata_url: "https://www.wikidata.org/wiki/Q159661"
@@ -84,40 +74,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Positive and negative versions of logos have been created in EPS vector files for Foil, PMS, CMYK color modes, and RGB PNG files for screen/web usage. Minimum height guidelines specified (e.g., mask minimum height: 23mm for large logos). Examples of abbreviated logos and their allowed usage contexts (e.g., commercial use with permission).
-- Illustrated marque logotypes may be used in isolation when branding space is too limited for text. These variants have been created in multiple sizes and for different color contexts (e.g., white and black backgrounds).
-- Examples of incorrect logo usage include distorting, color-changing, pattern application on the marque, and adding solid panels behind the logo.
-- Safeguard logo legibility when overlaying onto images or colored backgrounds through contrast and adherence to exclusion zones.
-- Exclusion zones are defined as proportional to the logotype dimensions (e.g., 0.5x height) to ensure clear visibility of logos. Exclusion zones must be maintained at all times.
-
-**Color Information:**
-
-- Primary colors include black (CMYK: C0 M0 Y0 K100, RGB: R0 G0 B0, RAL: 9005), white (CMYK: C0 M0 Y0 K0, RGB: R100 G100 B100, RAL: 9003), and gold (Pantone: 8641, CMYK: C7 M37 Y99 K19, RGB: R197 G146 B23).
-- Gold foil blocking is referenced as ITW-Gold 240 AK Laser, a laser-safe foil for special applications in branding.
-- Secondary colors include Pantone references such as PMS 187 (red tone), PMS 3262 (teal shade), PMS 2593 (purple tone) for differentiation and mood reflection contexts. Details for both CMYK and RGB codes provided.
-
-**Typography Information:**
-
-- Font families specified include Bembo (corporate font primarily for print and by designers), Wilford (personality-driven secondary font), and Century Gothic (standard system font for internal use and web contexts if Bembo/Wilford is unavailable).
-
-**Imagery Photography:**
-
-- Photographic marque versions (black and white) are created for high-quality applications such as banners, print covers, film stings, or decorative event signposts. Preferred usage on black backgrounds. Permission required for use.
-
-**Spacing Layout:**
-
-- Exclusion zones recommended around logos to ensure legibility and prevent overlap with secondary materials, particularly in photographic contexts.
-- When using logos alongside sponsors or partners, specific proportions and spacing (e.g., equal to cap height or half width of marque) are mandated.
-
-**Brand Voice:**
-
-- The brand strategy centers on ensuring consistent presentation while allowing creative freedom for implementation, particularly for different BAFTA branches and sub-brands.
-
-**Notes:**
-
-- The document emphasizes obtaining permission for rare logo usages (e.g., abbreviated logo versions for commercial contexts). Contact persons listed for queries.
+*Guidelines data not available*
 
 ## Additional Properties
 

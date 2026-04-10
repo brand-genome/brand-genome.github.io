@@ -2,7 +2,7 @@
 title: Marmalade Collective
 slug: "marmalade-collective"
 description: ""
-date: "2026-03-20T08:22:03.131784"
+date: "2026-04-10T09:40:30.668226"
 draft: false
 sectors:
   - "arts-culture"
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,9 +66,3 @@ visual_term_image_urls: {}
 
 - [https://www.marmaladecollective.com](https://www.marmaladecollective.com)
 - [http://www.marmaladecollective.com](http://www.marmaladecollective.com)
-
-## Brand Guidelines
-
-### 2025
-
-*Guidelines data not available*

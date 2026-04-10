@@ -2,7 +2,7 @@
 title: Faroe Islands
 slug: "faroe-islands"
 description: ""
-date: "2026-03-20T08:22:04.304741"
+date: "2026-04-10T09:40:32.992668"
 draft: false
 sectors:
   - tourism
@@ -48,25 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - abstract
-  - secondary
-brand_colors:
-  - silver
-  - cyan
-  - grey
-  - blue
-  - black
-  - "pantone-877"
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - classic
-  - abstract
-  - photography
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "men's national association football team representing the Faroe Islands"
 wikidata_url: "https://www.wikidata.org/wiki/Q200688"
 has_twitter: false
@@ -85,44 +70,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The logo is artistic, abstract, and open to interpretation, with reference to a ram, a wave, a seashell, wool, and the classic Faroese ring dance. The shape was inspired by these elements.
-- Primary logo includes alternative color variations: tones of grey, black, monochrome, and reversed versions (examples provided). No other colors should be used.
-- Clear space rule: A protected area of clear space must surround the logo. The clear space is measured using the height of the logo.
-- Minimum size requirements exist for the logo, but specific measurements are not provided in the extracted text.
-- The logo's background placement must not decrease legibility or threaten integrity, especially on busy or high-contrast backgrounds.
-- Misuse guidelines for the logo: Do not change its proportions, place it inline with text, change its color outside approved palettes, introduce outside elements, rearrange it, or contain it within a shape. Examples of incorrect logo usage are provided.
-- Partner logo placement: The partner logo should not dominate the stakeholder's logo and must be separated by a thin line or placed below. Examples are provided for mail signatures and publications.
-
-**Color Information:**
-
-- Core and secondary colors include: Black (Pantone Black C, CMYK: 0, 0, 0, 100; HEX: #2B262A), Blue (Pantone Process Cyan, CMYK: 100, 0, 0, 0), Silver (Pantone 877 C, not to be applied in CMYK). Consistent use of these colors ensures recognition.
-
-**Typography Information:**
-
-- The brand employs three typefaces: One Direction (used for UN-words), Helvetica Neue Light (for body text), and Arial Narrow. Consistent use of these creates a strong identity.
-- Typography guidelines: Always use lowercase letters to start headlines. Highlight only one UN-word in a headline, which should be the largest element.
-- Copy text should be styled in Helvetica Neue Light.
-
-**Imagery Photography:**
-
-- Photography guidelines: Pictures should reflect the brand DNA elements and include people to provide context to landscapes and suggest potential experiences.
-
-**Spacing Layout:**
-
-- Clear space rule specifies using the height of the logo to maintain a protective space around it in all applications.
-- Background usage rule specifies that logos and payoffs must not be placed on busy or high-contrast backgrounds.
-
-**Brand Voice:**
-
-- Payoff wording is fixed as 'Unspoiled, Unexplored, Unbelievable.' Variations of this phrasing are not allowed.
-- Use of 'UN' or 'Un-' words must give positive impressions and convey optimism. Examples include 'unspoiled', 'unforgettable', 'unique', etc.
-
-**Notes:**
-
-- Examples included for partner logo placement in publications and mail signatures, ensuring it is not more prominent than the stakeholder's logo.
-- Additional execution examples for logo usage in branding materials are present but do not mention specific spacing or alignment rules.
+*Guidelines data not available*
 
 ## Additional Properties
 

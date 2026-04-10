@@ -2,7 +2,7 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-03-20T08:22:04.183901"
+date: "2026-04-10T09:40:32.517928"
 draft: false
 sectors:
   - ngo
@@ -53,30 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - teal
-  - coral
-  - white
-  - blue
-  - gray
-  - yellow
-  - black
-typographies:
-  - impact
-  - montserrat
-imagery_styles:
-  - bold
-  - vibrant
-  - natural
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q2024075"
 has_twitter: false
@@ -96,81 +76,213 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- Our bran d Logo usa ge Color palette Typography Ima gery Campaigns Social 01 -  04 - 10 -  11 - 13 - 14 - 17 - Table of  contents
-- Primar y logos Th e 1% for the Plan et logo is comprised of two elem ents. To downloa d, visit the login area of our site. VERTICAL HORIZONTAL
-- Stakeholder logos Th ese logos are inten ded for those in dividuals and organizations related to the brand. BUSINESS MEMBER INDIVIDUAL MEMBER NONPROFIT PARTNER AMBASSADOR DONOR MEDIA PARTNER
-- On e - color logos Wh en th e logo needs to appear in a sin gle color. Available in MEDIUM BLUE, DARK BLUE, BLACK, WHITE.
-- Size an d spa ce guidelines. SAFE AREA Logo sh ould never be reduced to less than 0.25 in ch es in h eight. Wh en using th e h orizontal  version of the logo, th e overall h eight should  n ot be less than 0.16 in ch es. MINIMUM SIZE.
-- Comm on mistakes: Don’t add shadows, don’t rotate, don’t alter proportions, don’t change colors, aspect ratio, or stretch.
-- Additional logos with 'BE 1% BETTER' branding available upon request.
+##### Mission
 
-**Color Information:**
+- We bring dollars and doers together to accelerate smart environmental giving.
 
-- Our bran d Logo usa ge Color palette Typography Ima gery Campaigns Social 01 -  04 - 10 -  11 - 13 - 14 - 17 - Table of  contents
-- Primary and Secondary Colors: Includes Color codes in CMYK, RGB, HEX for DARK BLUE, MEDIUM BLUE, LIGHT BLUE, BLACK, LIGHT GRAY, DARK GRAY, TEAL BLUE, YELLOW, CORAL.
+##### Core Values
 
-**Typography Information:**
+- commitment
+- action
+- partnerships
+- impact
+- network
+- environmental stewardship
 
-- Our bran d Logo usa ge Color palette Typography Ima gery Campaigns Social 01 -  04 - 10 -  11 - 13 - 14 - 17 - Table of  contents
-- Typography guidelines: PRIMARY TYPEFACE: Montserrat in weights Thin, Light, Medium, Semi-Bold, Bold, Black. SECONDARY TYPEFACE: Bookmania in corresponding weights.
-- Typographic styling details for headers, subheaders, body text, and quotes.
+##### Target Audience
 
-**Imagery Photography:**
+- Businesses, individuals, and environmental nonprofits who are motivated to support environmental causes and participate in a global movement.
 
-- Our bran d Logo usa ge Color palette Typography Ima gery Campaigns Social 01 -  04 - 10 -  11 - 13 - 14 - 17 - Table of  contents
-- Imagery guidelines: Prefer using images showing natural landscapes and positive environmental impacts.
+##### Personality Traits
 
-**Spacing Layout:**
+- inspirational
+- empowering
+- welcoming
+- proactive
+- optimistic
+- plainspoken
 
-- Space details: Avoid altering logo proportions, colors, or spacing. Don’t add extraneous effects or elements.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The brand uses a modern, minimalistic visual style with bold, colorful imagery, a clean sans-serif typeface (Montserrat), and a consistent color palette of blues, grays, black, coral, and yellow. The logo features a stylized globe and the '1%' mark, emphasizing environmental commitment and clarity. Visual assets include icons, smiley globes, and campaign graphics that reinforce the brand's positive, action-oriented identity.
 
-- TONE: Inspirational, empowering, welcoming, proactive, optimistic. KEY PHRASES include 'planet', 'movement', 'commitment', 'action', 'partnerships'.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- Bran d guidelines overview.
-- 1% for the Planet is a global organization ensuring a thriving planet for future generations.
-- Social media hashtags: Includes #onepercentfortheplanet and others. Abbreviated handles due to platform constraints.
-- Contact for further questions or clarifications regarding guidelines.
+- These are some basic guidelines that help create consistency throughout network communications.
+- TONE inspirational empowering welcoming proactive optimistic plainspoken
+- KEY PHRASES individual member business member giving nonprofit partner planet movement commitment action partnerships partnership advising impact network
+
+##### Brand Imagery
+
+- Everyone in our network has their own visual style but we prefer to feature images and video that show a diversity of people and places in which we live, work and play. Bold and colorful photography is preferred over black and white and documentary style over posed or studio setups.
+- For member products, we like to show them in use in a natural setting or a representative lifestyle image. {See Sunski example at bottom left.)
+- Please keep these styles and standards in mind when collaborating with us on storytelling or other marketing efforts.
+
+##### Color Palette
+
+- The 1% for the Planet brand incorporates four primary colors-medium blue, dark blue, light gray, dark gray, and black as well as four secondary colors-dark blue, teal blue, coral and yellow. The 1% for the Planet logo is never to appear in any colors other than those shown here.
+- LIGHT BLUE CMYK: 77, 31, 0, O CMYK: 98, 69, 22, 6 CMYK: 14, 2, 0, 41 CMYK: 74, 57, 45, 23 CMYK: 69, 67, 65, 74 RGB: 24, 145, 208 RGB: 0, 86, 137 RGB: 129, 146, 150 RGB: 73, 89, 102 RGB: 35, 31, 32 HEX: 1791D1 HEX: 00578A HEX: 819296 HEX: 495966 HEX: 241FlF
+- DARK BLUE CMYK: 100, 84, 42, 41 RGB: 15, 43, 77 HEX: OF2B4D
+- TEAL BLUE CMYK: 53, 0, 7, 0 RGB: 102, 204, 232 HEX: 66CCE8
+- CORAL CMYK: 0, 84, 77, 0 RGB: 240, 80, 67 HEX: F04F42
+- YELLOW CMYK: 0, 18, 84, 0 RGB: 255, 208, 67 HEX: FFCF42
+
+##### Typography
+
+- Our primary brand typeface is Montserrat. It’s a legible and clear sans serif web font. It is available in the following fonts styles. Best of all, it’s also available at no cost as a free Google Font.
+- Our secondary brand typeface is Bookmania; which is an Adobe serif font that provides personality, charm and humanity. It also features an extensive list of alt characters which can be used sparingly for creative kerning combinations. Bookmania is used ONLY for pull quotes, headings, and sub-headings–never for body copy.
+- To the right are 1% for the Planet’s preferred typography styles. We recognize our network adopts their own unique typography styles. That said, please refrain from updating the font styles on any templates provided on behalf of 1% for the Planet.
+- Montserrat Thin
+- Montserrat Thin Italic
+- Montserrat Extra-Light
+- Montserrat Extra-Light Italic
+- Montserrat Light
+- Montserrat Light Italic
+- Montserrat Regular
+- Montserrat Regular Italic
+- Montserrat Medium
+- Montserrat Medium Italic Montserrat Semi-Bold Montserrat Semi-Bold Italic Montserrat Bold Montserrat Bold Italic Montserrat Extra-Bold Montserrat Extra-Bold Italic Montserrat Black Montserrat Black Italic
+- Bookmania Light
+- Bookmania Light Italic
+- Bookmania Regular
+- Bookmania Regular Italic
+- Bookmania Semi-Bold
+- Bookmania Semi-Bold Italic
+- Bookmania Bold
+- Bookmania Bold Italic
+- Bookmania Black
+- Bookmania Black Italic
+- Below are the preferred primary typography styles for web.
+- 1 Header 1 | Montserrat - ExtraBold - 54px
+- 2 Subheader | Montserrat - SemiBold - 21px - CAPS
+- 3 Body | Montserrat - Medium - 16px
+- 4 Quote | Montserrat - Medium - 21px
+- 5 Quote caption | Montserrat - SemiBold - 16px - CAPS
+- Below are the preferred secondary typography styles for web.
+- 1 Header 1 | Bookmania - ExtraBold - 54px
+- 4 Quote | Bookmania - Regular - 22px
+
+##### Logo Usage
+
+- The 1% for the Planet logo is comprised of two elements: the logo icon and the wordmark. The proportions of these elements may not be altered in any way. The “FOR THE PLANET” wordmark may not be altered or translated into any other language. Please use provided art files only.
+- When the logo needs to appear in a single color due to design or production needs, the one-color logo should be used to ensure proper reproduction. This version of the logo should only appear in medium blue, dark blue, black or white. The logo may only appear in white if the background is too dark and the primary full color or one­color logos do not provide enough contrast.
+- To ensure legibility, clarity and brand consistency, the height of the stacked logo should never be reduced to less than 0.25 inches in height. When using the horizontal version of the logo, the overall height should not be less than 0.16 inches.
+- To ensure the integrity and visibility of the 1% for the Planet logo, it should be kept clear of competing text, images and graphics. This area is defined by the height of word "PLANET" within our logo.
+- In order to maintain a strong, consistent and successful brand, we ask that our logo be kept in the original state in which it was designed. Please do not add to or change anything about the logo. These usage guidelines apply to all versions of the logo.
+- Old versions of the logo have been retired, and therefore should no longer be used in any application-to include versions with the °" service mark. Please use logos with the correct registered ® trademark.
+- Don't add shadows, strokes, or other effects
+- Don't rotate or flip
+- Don't alter proportions of the word mark or icon
+- Don't alter the letters or spacing in any way
+- Don't change the colors
+- Don't change the aspect ratio, stretch or squeeze
+- Please use the logo with the accurate (®) trademark
+- Don't place any text within the 1% icon
+- Don't add a border around the icon word mark or
+
+##### Tone And Messaging
+
+- These are some basic guidelines that help create consistency throughout network communications.
+- To access comprehensive tools and resources to help you get the word out as well as showcase your membership, partnership and commitment, visit the login area of our site. Here you can find sample press releases, social media assets, referral language and much more!
+- TONE inspirational empowering welcoming proactive optimistic plainspoken
+- KEY PHRASES individual member business member giving nonprofit partner planet movement commitment action partnerships partnership advising impact network
+- 1% for the Planet is a global organization that exists to ensure our planet and future generations thrive. We inspire businesses and individuals to support environmental nonprofits through membership and everyday actions. We make environmental giving easy and effective through partnership advising, impact storytelling and third-party certification.
+- Started in 2002 by Yvon Chouinard, founder of Patagonia, and Craig Mathews, founder of Blue Ribbon Flies, our members have given more than $265 million to our approved nonprofit partners to date. Today, 1% for the Planet’s global network consists of thousands of businesses, individuals and environmental nonprofits working toward a better future for all.
+- Look for our logo to purchase for the planet and learn more at onepercentfortheplanet.org.
+
+##### Brand Values
+
+- To inspire commitment and action so that our planet and future generations thrive.
+- All together for our planet.
+- We bring dollars and doers together to accelerate smart environmental giving.
+- 1% for the Planet is a global movement inspiring businesses and individuals to support environmental nonprofits through annual membership and everyday actions. We advise on giving strategies, we certify donations and we amplify the impact of our network.
+
+##### Visual Style
+
+- The 1% for the Planet logo is comprised of two elements: the logo icon and the wordmark. The proportions of these elements may not be altered in any way. The “FOR THE PLANET” wordmark may not be altered or translated into any other language. Please use provided art files only.
+- When the logo needs to appear in a single color due to design or production needs, the one-color logo should be used to ensure proper reproduction. This version of the logo should only appear in medium blue, dark blue, black or white. The logo may only appear in white if the background is too dark and the primary full color or one­color logos do not provide enough contrast.
+- To ensure legibility, clarity and brand consistency, the height of the stacked logo should never be reduced to less than 0.25 inches in height. When using the horizontal version of the logo, the overall height should not be less than 0.16 inches.
+- To ensure the integrity and visibility of the 1% for the Planet logo, it should be kept clear of competing text, images and graphics. This area is defined by the height of word "PLANET" within our logo.
+- In order to maintain a strong, consistent and successful brand, we ask that our logo be kept in the original state in which it was designed. Please do not add to or change anything about the logo. These usage guidelines apply to all versions of the logo.
+- Old versions of the logo have been retired, and therefore should no longer be used in any application-to include versions with the °" service mark. Please use logos with the correct registered ® trademark.
+- Don't add shadows, strokes, or other effects.
+- Don't rotate or flip.
+- Don't alter proportions of the word mark or icon.
+- Don't alter the letters or spacing in any way.
+- Don't change the colors.
+- Don't change the aspect ratio, stretch or squeeze.
+- Please use the logo with the accurate (®) trademark.
+- Don't place any text within the 1% icon.
+- Don't add a border around the icon word mark or icon.
+- The 1% for the Planet brand incorporates four primary colors-medium blue, dark blue, light gray, dark gray, and black as well as four secondary colors-dark blue, teal blue, coral and yellow. The 1% for the Planet logo is never to appear in any colors other than those shown here.
+- Our primary brand typeface is Montserrat. It’s a legible and clear sans serif web font. It is available in the following fonts styles. Best of all, it’s also available at no cost as a free Google Font.
+- Our secondary brand typeface is Bookmania; which is an Adobe serif font that provides personality, charm and humanity. It also features an extensive list of alt characters which can be used sparingly for creative kerning combinations. Bookmania is used ONLY for pull quotes, headings, and sub-headings–never for body copy.
+- Please refrain from updating the font styles on any templates provided on behalf of 1% for the Planet.
+- Below are the preferred primary typography styles for web. 1 Header 1 | Montserrat - ExtraBold - 54px 2 Subheader | Montserrat - SemiBold - 21px - CAPS 3 Body | Montserrat - Medium - 16px 4 Quote | Montserrat - Medium - 21px 5 Quote caption | Montserrat - SemiBold - 16px - CAPS
+- Below are the preferred secondary typography styles for web. 1 Header 1 | Bookmania - ExtraBold - 54px 2 Subheader | Montserrat - SemiBold - 21px - CAPS 3 Body | Montserrat - Medium - 16px 4 Quote | Bookmania - Regular - 22px 5 Quote caption | Montserrat - SemiBold - 16px - CAPS
+- Everyone in our network has their own visual style but we prefer to feature images and video that show a diversity of people and places in which we live, work and play. Bold and colorful photography is preferred over black and white and documentary style over posed or studio setups.
+- For member products, we like to show them in use in a natural setting or a representative lifestyle image.
+- Please keep these styles and standards in mind when collaborating with us on storytelling or other marketing efforts.
+
+##### Iconography
+
+- Two sets of icons have been created in conjunction with the 1% for the Planet globe motif: globe icons that represent our six issue areas and general smiley globe icons.
+- Each set serves to activate its accompanying image in different ways. These icons can accompany graphics as well as photography. In the instances of photography, icons may function as a smiley face replacement for someone’s face (sparingly) or (more common) may be placed on the photo to accompany it.
+- We recommend providing a caption or explanatory text which dives deeper into the photo contents or specific issue area(s).
+- Climate Land Water Wildlife Food Pollution
+
+##### Layout And Composition
+
+- The 1% for the Planet logo is comprised of two elements: the logo icon and the wordmark. The proportions of these elements may not be altered in any way. The “FOR THE PLANET” wordmark may not be altered or translated into any other language. Please use provided art files only.
+- When the logo needs to appear in a single color due to design or production needs, the one-color logo should be used to ensure proper reproduction. This version of the logo should only appear in medium blue, dark blue, black or white. The logo may only appear in white if the background is too dark and the primary full color or one­color logos do not provide enough contrast.
+- To ensure legibility, clarity and brand consistency, the height of the stacked logo should never be reduced to less than 0.25 inches in height. When using the horizontal version of the logo, the overall height should not be less than 0.16 inches.
+- To ensure the integrity and visibility of the 1% for the Planet logo, it should be kept clear of competing text, images and graphics. This area is defined by the height of word "PLANET" within our logo.
+- In order to maintain a strong, consistent and successful brand, we ask that our logo be kept in the original state in which it was designed. Please do not add to or change anything about the logo. These usage guidelines apply to all versions of the logo.
+- Old versions of the logo have been retired, and therefore should no longer be used in any application-to include versions with the °" service mark. Please use logos with the correct registered ® trademark.
+- Don't add shadows, strokes, or other effects.
+- Don't rotate or flip.
+- Don't alter proportions of the word mark or icon.
+- Don't alter the letters or spacing in any way.
+- Don't change the colors.
+- Don't change the aspect ratio, stretch or squeeze.
+- Please use the logo with the accurate (®) trademark.
+- Don't place any text within the 1% icon.
+- Don't add a border around the icon word mark or icon.
+
+##### Co Branding
+
+- The network-in-action logos provide members with a secondary logo design that's more decorative. Members have used this when creating various co-branded items to add some flair.
+- The network-in-action logo provides members with a secondary logo design that's more decorative. Members have used this when creating various co-branded items to add some flair.
+
+##### Social Media Guidelines
+
+- Share your membership, partnership and network stories on social media and help grow our global movement. Be sure to tag us so we can help amplify your story, too.
+- Visit the login area of our website for social media resources.
+- HASHTAGS #onepercentfortheplanet #beonepercentbetter #purchasefortheplanet
+- Note: our social media handles are abbreviated due to character and symbol restrictions but otherwise, please always use our full name (see pg. 3).
+
+##### Naming Conventions
+
+- 1% for the Planet should never be shortened to 1%FTP or abbreviated in any way and should reflect the proper capitalization: 1% for the Planet
+- We use onepercentfortheplanet.org when referring to the website itself; it is not the organization's name. It should never appear with a "www." preceding it. Unless you are writing the URL, please write 1% for the Planet, not One Percent for the Planet.
+- See examples at right for other common mistakes to avoid.
+- 1% for the Planet
+- 1% For The Planet
+- One Percent For The Planet
+- One Percent for the Planet
+- 1%forthePlanet
+- 1% For The planet
+- 1% for the planet
+- 1%FTP
+- 1 Percent for the Planet
 
 ### 2021
 
-**Logo Information:**
-
-- The document includes branding guidelines explaining appropriate logo usage and design proportions. The primary 1% for the Planet logo consists of a globe icon and wordmark.
-- Logo versions include vertical and horizontal applications. Clear specifications are provided to prevent alterations of proportions, translations, or modifications of the registered mark.
-- Minimum size: stacked logo must not be reduced below 0.25 inches in height, and the horizontal version must not be smaller than 0.16 inches in height. These recommendations ensure legibility.
-
-**Color Information:**
-
-- Three main groups of colors: Brand Blues (trademarked), Neutral Palette, and Secondary Palette. Specific color codes include Pacific (CMYK: 77, 31, 0, 0; RGB: 24, 145, 208) among others.
-- Approved gradations and gradients are provided for emphasis. Secondary colors must always be paired with neutral or primary blues.
-
-**Typography Information:**
-
-- Primary typeface: Montserrat (available in weights from Thin to Black). Secondary typeface: Bookmania (reserved for pull quotes and headings, with -20 tracking for legibility).
-- Typography sizing preferences: headers (54px, bold), subheadings in all caps (21px), body text (16px), and quotes (22px regular). Do not modify fonts in provided templates.
-
-**Imagery Photography:**
-
-- Imagery should emphasize color over black and white. Showcase vibrant depictions of the planet, highlighting diversity in people and places.
-
-**Spacing Layout:**
-
-- Safe area guidelines require the logo to remain clear of competing text or graphics. Restrictions in place to avoid adding effects or altering proportions.
-
-**Brand Voice:**
-
-- The brand voice is plainspoken, accessible, and mobilizing, reflecting urgency and global impact. Messages should describe environmental philanthropy and collaboration succinctly.
-- Specific phrases (e.g., '1% for the Planet connects dollars and doers') are suggested for promotional use. Guidance on consistent logo reference in text provided.
-
-**Notes:**
-
-- To use logo resources, partners must consult the online portal. Strict approval processes apply for any product-based applications of logos.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Bogotá
 slug: bogota
 description: ""
-date: "2026-03-20T08:22:04.412583"
+date: "2026-04-10T09:40:33.154744"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -69,3 +69,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*

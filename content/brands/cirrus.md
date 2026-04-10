@@ -2,7 +2,7 @@
 title: Cirrus
 slug: cirrus
 description: ""
-date: "2026-03-20T08:22:03.973726"
+date: "2026-04-10T09:40:31.893372"
 draft: false
 sectors:
   - finance
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: worldwide interbank network
 wikidata_url: "https://www.wikidata.org/wiki/Q1093128"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 - [https://www.mastercard.com/atm/cobrands/index.html](https://www.mastercard.com/atm/cobrands/index.html)
 - [https://www.mastercard.com/car/en/personal/get-support/atm-near-me.html](https://www.mastercard.com/car/en/personal/get-support/atm-near-me.html)
 - [http://www.mastercardbrandcenter.com/us/moreabout/index.shtml](http://www.mastercardbrandcenter.com/us/moreabout/index.shtml)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: University of the Pacific
 slug: "university-of-the-pacific"
 description: ""
-date: "2026-03-20T08:22:04.229433"
+date: "2026-04-10T09:40:32.688339"
 draft: false
 sectors:
   - education
@@ -55,36 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - secondary
-  - symbol
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - navy
-  - "pantone-166"
-  - "pantone-403"
-  - "pantone-282"
-  - white
-  - "pantone-165"
-  - "pantone-555"
-  - "pantone-7409"
-  - "pantone-419"
-  - orange
-  - black
-typographies:
-  - arial
-  - display
-  - georgia
-imagery_styles:
-  - dynamic
-  - graphic
-  - bold
-  - photography
-  - lifestyle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Stockton, California, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q630226"
 has_twitter: false
@@ -102,44 +76,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The logo features various configurations including a vertical version of the 'University of the Pacific' wordmark, and a single-line horizontal wordmark option. Clear space rules state that the logo needs clear space equal to the height of 'University' or 'X'.
-- Minimum size for the primary logo on print is 7 points for 'University of the' with a minimum width of 1 inch. For web and video, minimum size is 150 pixels.
-- Various rules for incorrect logo usage, including: not changing type configuration, not using outlines, not altering colors, no tilting or rotating, no busy backgrounds, no competing graphic elements, or combining the logo with other qualifiers.
-- Logos for schools, divisions, departments, and centers use a two-color configuration (Pantone 165 and Pantone 419) for primary logos and one-color configurations for secondary usage.
-- University seal used only in one color as an official symbol for formal documentation and official materials. The seal should never be used decoratively, in patterns, or as a filler.
-
-**Color Information:**
-
-- Primary colors include Pantone 165 (CMYK: 0/74/95/0; RGB: 255/103/29; HEX: #FF671D, orange), Pantone 166 (CMYK: 5/82/100/0; RGB: 230/83/0; HEX: #E65300), and Pantone 282 (CMYK: 100/87/42/52; RGB: 1/30/65; HEX: #011E41, navy), and black (CMYK: 0/0/0/100; RGB: 35/31/32, WEB: #231F20).
-- Secondary colors expand on the primary palette and include: Pantone 555 (CMYK: 83/33/77/21; RGB: 43/112/80; HEX: #2B7050), Pantone 7409 (CMYK: 3/32/98/0; RGB: 244/178/35; HEX: #F4B223), and Pantone 403 (CMYK: 38/35/45/2; RGB: 162/152/137; HEX: #A29889), as well as white and 20% tints of these shades.
-- Primary color (Pantone 165) should always take hierarchy in designs, and navy (Pantone 282) can be used as a friendlier alternative to black.
-
-**Typography Information:**
-
-- Primary fonts include Bely Display (Regular, Bold, Bold Italic), supplemented by Georgia (Regular, Bold, Italic variations) and Ramaraja for Google font alternatives.
-- Secondary font family includes Neuzeit Grotesk (Light, Regular, Bold, Black) with Arial (Regular, Bold, Black) as system font alternatives and Archivo Black as Google font alternatives.
-- Text style usage guidelines: Headlines must use Bely Display, and underlines can be used sparingly. Subheadings may use Bely Regular, Bely Bold, or Neuzeit Grotesk, but must always be in sentence case. Paragraph text can use Neuzeit Grotesk or Bely Regular/Bold, also in sentence case. Emphasis in bold can be applied sparingly.
-- Minimum text sizes: Headlines in 18 pt, subheadings in 12 pt, paragraphs in 8 pt.
-
-**Imagery Photography:**
-
-- Cutout photography style is dynamic and complements the collage-style brand layout. Photos should be processed in Photoshop using mask layers, saved as transparent .psd or .png formats, and offset layers to create a white outline.
-- Lifestyle photography must show the diversity of campus life, capturing authentic interactions among diverse student, staff, and faculty populations.
-
-**Spacing Layout:**
-
-- Clear space for logos and wordmarks is defined by the X-height or height of letters in 'University' or 'X'. Minimum print size for logos is 7 pt for text and 1 inch width.
-
-**Brand Voice:**
-
-- Focus on consistency and confidence to build trust. Highlight Pacific as California's university of choice and emphasize a diverse, inclusive campus as part of the narrative.
-
-**Notes:**
-
-- The Pacific 'P' is a highly stylized graphic element that integrates lifestyle photography and must follow strict design rules regarding image alignment, proportions, and contrast.
-- Graphic elements include accents like stripes, tiger mane, circular and triangular motion, and typography outlines that evoke movement and energy.
+*Guidelines data not available*
 
 ## Additional Properties
 

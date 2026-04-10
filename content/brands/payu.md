@@ -2,7 +2,7 @@
 title: PayU
 slug: payu
 description: ""
-date: "2026-03-20T08:22:04.514782"
+date: "2026-04-10T09:40:33.290817"
 draft: false
 sectors:
   - finance
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: fintech company that provides payment solutions to online merchants.
 wikidata_url: "https://www.wikidata.org/wiki/Q55641405"
 has_twitter: false
@@ -75,25 +74,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo guidelines or mentions found.
-
-**Color Information:**
-
-- Color palette or usage rules mentioned.
-
-**Typography Information:**
-
-- Typography-related content extracted.
-
-**Imagery Photography:**
-
-- Imagery or photography guidelines referenced.
-
-**Spacing Layout:**
-
-- Spacing, layout, or grid specifications found.
+*Guidelines data not available*
 
 ## Additional Properties
 

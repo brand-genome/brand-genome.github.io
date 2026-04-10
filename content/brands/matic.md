@@ -2,12 +2,12 @@
 title: Matic
 slug: matic
 description: ""
-date: "2026-03-20T08:22:04.865127"
+date: "2026-04-10T09:40:33.614347"
 draft: false
 sectors:
-  - insurance
   - finance
   - software
+  - insurance
 regions:
   - usa
 years:
@@ -52,21 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - logomark
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - green
-  - blue
-typographies:
-  - "sans-serif"
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: cultural institution
 wikidata_url: "https://www.wikidata.org/wiki/Q617343"
 has_twitter: false
@@ -85,32 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Vertical lockup: Wordmark is the same width as the logomark in grid units. Horizontal lockup: Wordmark is the same height as the logomark in grid units.
-- Guidelines specify no rotations, flipping, squashing, no outlines or gradients in logo representation. Ensure dots, connections, and background strokes intact without splitting elements.
-
-**Color Information:**
-
-- Color codes provided: Midnight (HEX: #274863), Eastern Blue (HEX: #1D88A5), Brunswick Green (HEX: #2C4C2B), Grasshopper (HEX: #48984C), Original (HEX: #D9D2CD), Nantucket (HEX: #EF4B38). RGB and CMYK codes for each color provided.
-
-**Typography Information:**
-
-- Primary typeface GT Walsheim used, offering Sans-serif character adding rational and personable feel crisp graphics.
-- Font weights highlighted (Light, Regular, Medium). Light weight used for restrained text, Medium weight for bold striking statements.
-- Secondary typeface Droid Sans used in scenarios like written ads etc ensuring client's proc ensured intent better derivative vect yah style full-restricted flexible shorthand-alignment etc assuring compatibility besides logo-protected setup imaging options vs overwrite.
-
-**Spacing Layout:**
-
-- Grid specified as a stable framework where dots are connected to create shapes (e.g., logomark).
-
-**Brand Voice:**
-
-- Tone described as refreshing, confident, making complex processes simple, guiding through milestones clearly and intuitively.
-
-**Notes:**
-
-- Inspection revealed embedded graphics and several visual composition areas suggesting primary, secondary color uses yet implicit derivative visual structure thereby layout guides higher notes while missing bad/uniform linear match scenes.
+*Guidelines data not available*
 
 ## Additional Properties
 

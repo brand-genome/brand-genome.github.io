@@ -2,7 +2,7 @@
 title: Stoke
 slug: stoke
 description: ""
-date: "2026-03-20T08:22:04.722827"
+date: "2026-04-10T09:40:33.456569"
 draft: false
 sectors:
   - drink
@@ -51,19 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - primary
-  - horizontal
-brand_colors:
-  - white
-  - gold
-  - "pantone-872"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - natural
+imagery_styles: []
 wikidata_description: "association football club in Stoke-on-Trent, England"
 wikidata_url: "https://www.wikidata.org/wiki/Q18736"
 has_twitter: false
@@ -84,29 +75,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- The Stoke Wordmark is the central element of the Stoke brand. It has been crafted and customized from the brand typeface 'Brothers' to create a strong identity. Modifications such as redrawing, rearranging, or altering components are prohibited.
-- Clear spacing rules: Derived from the size of the Stoke 'S'. The clear space must be maintained between the Wordmark and other elements. Useful for coexistence with other logos or graphics.
-- The Stoke Wordmark supports Gold (primary), Black, and White as preferred colors. Metallic or Foil Gold is preferred, but CMYK or RGB equivalents can be used for other media. Black and White are designed for high contrast and reversed use.
-- Logo usage proportionality and guidelines: Do not place Wordmark on clashing colors, patterns, or at angles. Avoid stretching or squashing, mixing colors, or using multiple elements. Maintain proportional scaling and predominantly use the horizontal layout. Vertical use is allowed in marketing templates for specific layouts.
-
-**Color Information:**
-
-- Gold: Pantone 872, CMYK C:20 M:30 Y:70 K:15, RGB R:20 G:30 B:70. Black: CMYK C:0 M:0 Y:0 K:100, RGB R:0 G:0 B:0. White: CMYK C:0 M:0 Y:0 K:0, RGB R:255 G:255 B:255.
-
-**Spacing Layout:**
-
-- To ensure prominence and stand-out value, adequate clear space is required. The spacing around the Wordmark is based on the size of the Stoke 'S'.
-
-**Brand Voice:**
-
-- The brand personality reflects a male in his early 30s who is casual but wise, seeks quality and experiences, enjoys socializing, is down-to-earth, and does not boast.
-
-**Notes:**
-
-- This document assists employees, partners, and suppliers with correct brand usage. Brand guardians’ contact information is available for further assistance.
-- The Stoke brand promotes attributes such as boldness, quality, and a connection to New Zealand heritage. It emphasizes brewing craft and natural ingredients.
+*Guidelines data not available*
 
 ## Additional Properties
 

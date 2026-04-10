@@ -2,7 +2,7 @@
 title: American Advertising Federation
 slug: "american-advertising-federation"
 description: ""
-date: "2026-03-20T08:22:04.367638"
+date: "2026-04-10T09:40:33.092464"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -51,26 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - primary
-  - lettermark
-brand_colors:
-  - red
-  - white
-  - blue
-  - yellow
-  - gray
-  - pink
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - gradient
-  - minimal
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: U.S. trade association
 wikidata_url: "https://www.wikidata.org/wiki/Q4742924"
 has_twitter: false
@@ -88,32 +72,81 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo consists of the lettermark 'AAF' and the wordmark 'American Advertising Federation'. It serves as the main visual identity. The lettermark and wordmark should not be used separately, especially in markets with low-to-medium brand awareness.
-- Variations of the primary logo include full-color gradient, grayscale gradient, black, and white versions.
-- A simplified 'lettermark' logo (aaf) can be used in applications with high brand awareness or minimal branding needs. It has the same approved variations: color gradient, grayscale, black, and white.
-- Small use variations of the logo, including color gradient, grayscale, black, and white, ensure legibility in cases with limited vertical space.
-- Logos featuring the tagline 'The Unifying Voice for Advertising' are used for branding and marketing from national offices when space allows.
-- The clear space around the logo should be at least 25% of the width of the logo.
-- Logo usage restrictions ('don'ts') include avoiding distortions, using unapproved colors, font changes, outlining, rotation, dropshadows, gradients on white, and using old logos.
+##### Mission
 
-**Color Information:**
+- To serve as 'The unifying voice for advertising.' Proper use of the brand provides a visual representation of that mission to our grassroots network of clubs and chapters, to the advertising industry, and to the public at-large.
 
-- Primary color gradient: Light blue (#2FC3E5), Gray 50% (#939598), Pink (#D62F6D), Dark Blue (#26467D), Gray 33% (#B6B8BA), Yellow (#FDEE4F), Dark Red (#B43449), Black (#000006), Red (#E92729).
-- Primary colors should only be paired with black. Grayscale gradient and grayscale colors are also part of the brand palette.
+##### Core Values
 
-**Typography Information:**
+- unity
+- professionalism
+- clarity
 
-- The primary typeface is 'Mont', used for marketing materials, social media promotions, and other communications. Usable for both display and body text. Primary weights include Mont Bold, Mont Book, and Mont Light.
+##### Target Audience
 
-**Spacing Layout:**
+- Grassroots network of clubs and chapters, the advertising industry, and the public at-large.
 
-- Clear space around the logo should be at least 25% of the logo's width to maintain visual balance.
+##### Personality Traits
 
-**Notes:**
+- modern
+- professional
+- clean
+- authoritative
 
-- The document includes detailed variations of the logo for professional clubs, districts, regions, and college chapters on pages 8-13.
+##### Visual Identity Overview
+
+- The visual identity centers on a clean, modern logo with a lettermark/wordmark combination, a primary color gradient paired with black, the Mont typeface, and strict logo usage rules. The brand emphasizes clarity, professionalism, and unity through consistent visual elements and messaging.
+
+#### Categories
+
+##### Brand Imagery
+
+- Never use the wordmark (american advertising federation) without the lettermark (aaf).
+- The primary logo should be used instead of just “aaf” in markets with low-to-medium brand/organization awareness.
+- In most use cases, the primary logo with the registered trademark symbol is preferred. It is not necessary in executions such as apparel, social media and internal events.
+- The American Advertising Federation’s lettermark (“aaf”) may be used on applications where minimal branding is necessary or brand awareness is high.
+- The approved variations of the American Advertising Federation’s lettermark: • Color gradient • Grayscale gradient • Black • White
+
+##### Color Palette
+
+- The American Advertising Federation's brand palette includes a primary color gradient that should only be paired with black.
+- primary gradient 40°angle primary colors cmyk: 65,0,7,0 cmyk:96,82,24,9 cmyk: 22,93,67,70 cmyk: l,98,97,0 hex: #2FC3E5 hex: #26467D hex: #B43449 hex: #E92729
+- gray50 gray 33 black location: location: location: 0% 45% 71% cmyk: o,o,o,50 cmyk: o,o,o,33 cmyk: 76,69,64,87 hex: #939598 hex: #B6B8BA hex: #000006 pink yellow cmyk: 72,95,35,0 cmyk: 3,7,80,0 hex: #D62F6D hex: #FDEE4F
+- Do not use unapproved colors
+- Do not use white with the gradient versions of the logo
+
+##### Typography
+
+- The American Advertising Federation uses the Mont typeface in marketing materials, social media promotions, etc. It may be used as a display font and as body text.
+- primary weights bold
+- book
+- mont bold mont book
+- light
+- Do not change the font
+
+##### Logo Usage
+
+- Never use the wordmark (american advertising federation) without the lettermark (aaf). The primary logo should be used instead of just “aaf” in markets with low-to-medium brand/organization awareness. In most use cases, the primary logo with the registered trademark symbol is preferred. It is not necessary in executions such as apparel, social media and internal events.
+- The approved variations of the American Advertising Federation’s lettermark: • Color gradient • Grayscale gradient • Black • White
+- Clear space around the logo should be at least 25% of the width of the logo.
+- Do not distort or warp the logo
+- Do not rotate the logo
+- Do not use the logo without the lettermark
+- Do not use unapproved colors
+- Do not use white with the gradient versions of the logo
+- Do not add dropshadows to the logo
+- Do not outline the logo
+- Do not change the font
+- Do not use the old logo
+
+##### Visual Style
+
+- Never use the wordmark (american advertising federation) without the lettermark (aaf).
+- The primary logo should be used instead of just “aaf” in markets with low-to-medium brand/organization awareness.
+- In most use cases, the primary logo with the registered trademark symbol is preferred. It is not necessary in executions such as apparel, social media and internal events.
+- The approved variations of the American Advertising Federation’s lettermark: • Color gradient • Grayscale gradient • Black • White
 
 ## Additional Properties
 

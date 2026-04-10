@@ -2,15 +2,15 @@
 title: Three
 slug: three
 description: ""
-date: "2026-03-20T08:22:03.129706"
+date: "2026-04-10T09:40:30.661722"
 draft: false
 sectors:
   - telecom
 regions:
   - "hong-kong"
 years:
-  - 2025
   - 2022
+  - 2025
 languages:
   - english
 tags:
@@ -20,8 +20,8 @@ tags:
 industries:
   - telecommunications
 countries:
-  - "hong-kong"
   - luxembourg
+  - "hong-kong"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -34,8 +34,8 @@ products_or_materials_produced:
   - "mobile-telephony"
 products: []
 headquarters_locations:
-  - "hong-kong"
   - luxembourg
+  - "hong-kong"
 subsidiaries: []
 foundation_dates:
   - 2003
@@ -65,9 +65,9 @@ imagery_styles: []
 wikidata_description: global telecommunications brand
 wikidata_url: "https://www.wikidata.org/wiki/Q407009"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,16 +78,6 @@ visual_term_image_urls: {}
 - [http://www.whambrands.com](http://www.whambrands.com)
 - [https://www.three.com](https://www.three.com)
 
-## Brand Guidelines
-
-### 2025
-
-*Guidelines data not available*
-
-### 2022
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -97,7 +87,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/) |
-| Headquarters Location | [Hong Kong](/headquarters_locations/hong-kong/); [Luxembourg](/headquarters_locations/luxembourg/) |
+| Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/); [Hong Kong](/headquarters_locations/hong-kong/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Freebase Id | /m/02kdls |
 | Headquarters Location | Hong Kong, Luxembourg |

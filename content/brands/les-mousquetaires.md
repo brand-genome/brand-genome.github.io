@@ -2,7 +2,7 @@
 title: Les mousquetaires
 slug: "les-mousquetaires"
 description: ""
-date: "2026-03-20T08:22:04.409837"
+date: "2026-04-10T09:40:33.149228"
 draft: false
 sectors:
   - "consumer-goods"

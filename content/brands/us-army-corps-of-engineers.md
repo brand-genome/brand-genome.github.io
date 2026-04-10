@@ -2,7 +2,7 @@
 title: US Army Corps of Engineers
 slug: "us-army-corps-of-engineers"
 description: ""
-date: "2026-03-20T08:22:04.309302"
+date: "2026-04-10T09:40:32.997090"
 draft: false
 sectors:
   - "public-sector"
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
+  - military
+  - featured
   - vintage
   - engineering
-  - featured
-  - military
 industries: []
 countries:
   - "united-states"
@@ -54,15 +54,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - red
-  - gray
-  - white
-  - black
-typographies:
-  - helvetica
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "direct reporting unit and U.S. Army's branch for military engineering"
 wikidata_url: "https://www.wikidata.org/wiki/Q1049334"
@@ -81,35 +75,7 @@ visual_term_image_urls: {}
 
 ### 1994
 
-**Logo Information:**
-
-- Inside the foldout are various standard sizes of the Corps Communication Mark/Signature in both positive (for use on a white or light color background) and negative (for use on a black or dark color background) treatments. These are to be used at the sizes shown and are never to be altered in any way. To use, simply clip the appropriate size signature from the page and use if for reproduction purposes as part of your finished art or mechanical. Contact the Corps Graphics Coordinator for additional supplies of reproduction art. Reproduction Art – The Communication Mark/Signature 9-1
-- Inside this fold-out are various standard sizes of the Corps Communication Mark/Signature in both positive (for use on a white or light color background) and negative (for use on a black or dark color background) treatments. These are to be used at the sizes shown and are never to be altered in any way. To use, simply clip the appropriate size signature from the page and use it for reproduction purposes as part of your finished art or mechanical. Contact the Corps Graphics Coordinator for additional supplies of reproduction art. Reproduction Art – The Communication Mark/Signature 9-3
-- The Mark in this demonstration has been placed on a guideline grid. The exact proportions shown are to be followed exactly when manually reproducing the Mark at extremely large sizes. This would include reproduction for placement of the Mark on flags, signage, and large applications. Use the grid method of reproduction only when photo reproduction of provided artwork cannot be satisfactorily scaled to the proper size. Any proposed use of the Mark in large sizes should be reviewed with the Corps Graphics Coordinator. Large Scale Application Grid Drawing of Communication Mark 9-5
-
-**Color Information:**
-
-- These color swatches should be used for visual matching to achieve the standard Communication Red to be printed on coated paper stock. These swatches should also be used to achieve a visual match in any medium other than printing inks. Color Swatches – Communication Red (Coated Stock) 9-7
-- These color swatches should be used for visual matching to achieve the standard Communication Red to be printed on uncoated paper stock. Color Swatches – Communication Red (Uncoated Stock) 9-8
-- These color swatches should be used for visual matching to achieve Communication Gray to be printed on coated paper stock. These swatches should also be used to achieve a visual match in any medium other than printing inks. Color Swatches – Communication Gray (Coated Stock) 9-9
-- These color swatches should be used for visual matching to achieve Communication Gray to be printed on uncoated paper stock. Color Swatches – Communication Gray (Uncoated Stock) 9-10
-
-**Typography Information:**
-
-- Production Art – The Control Data Block and Authentication Block shown here may be used as reproduction art. These are to be used at the sizes shown. Contact the Corps graphics coordinator for additional supplies of reproduction art. U.S. ARMY ENGINEER DISTRICT CORPS OF ENGINEERS FT. WORTH, TEXAS JOE SMITH ASSOCIATES ARCHITECTS ¥ ENGINEERS DALLAS ¥ HOUSTON FT. WORTH, TEXAS READINESS ADMINISTRATION FACILITY PN XXX FY 81 ELEVATIONS 1Ú8" = 1'-0" A-7 F 610-50-01
-- The Mark in this demonstration has been placed on a guideline grid. The exact proportions shown are to be followed exactly when manually reproducing the Mark at extremely large sizes. This would include reproduction for placement of the Mark on flags, signage, and large applications. Use the grid method of reproduction only when photo reproduction of provided artwork cannot be satisfactorily scaled to the proper size. Any proposed use of the Mark in large sizes should be reviewed with the Corps Graphics Coordinator. Large Scale Application Grid Drawing of Communication Mark 9-5
-
-**Imagery Photography:**
-
-- These color swatches should be used for visual matching to achieve the standard Communication Red to be printed on coated paper stock. These swatches should also be used to achieve a visual match in any medium other than printing inks. Color Swatches – Communication Red (Coated Stock) 9-7
-- These color swatches should be used for visual matching to achieve the standard Communication Red to be printed on uncoated paper stock. Color Swatches – Communication Red (Uncoated Stock) 9-8
-- These color swatches should be used for visual matching to achieve Communication Gray to be printed on coated paper stock. These swatches should also be used to achieve a visual match in any medium other than printing inks. Color Swatches – Communication Gray (Coated Stock) 9-9
-- These color swatches should be used for visual matching to achieve Communication Gray to be printed on uncoated paper stock. Color Swatches – Communication Gray (Uncoated Stock) 9-10
-
-**Spacing Layout:**
-
-- Drawing Sheet for Architectural/Engineering Contract Documents – Control Data Block. A control data block will be placed horizontally inside the right hand margin of each drawing sheet. This will identify the title of the project and other pertinent information that may be immediately and easily retrieved, project location, drawing code, designer/reviewer initials, etc. Each control data block will include a revision block. Revision block spaces for symbols, descriptions, dates, and approval initials. Sheet Grid is used as aid in referencing locations on contract documents. Helvetica Regular, all caps. Grid Drawing Alignment.
-- The Mark in this demonstration has been placed on a guideline grid. The exact proportions shown are to be followed exactly when manually reproducing the Mark at extremely large sizes. This would include reproduction for placement of the Mark on flags, signage, and large applications. Use the grid method of reproduction only when photo reproduction of provided artwork cannot be satisfactorily scaled to the proper size. Any proposed use of the Mark in large sizes should be reviewed with the Corps Graphics Coordinator. Large Scale Application Grid Drawing of Communication Mark 9-5
+*Guidelines data not available*
 
 ## Additional Properties
 

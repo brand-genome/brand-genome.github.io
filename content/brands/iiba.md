@@ -2,7 +2,7 @@
 title: IIBA
 slug: iiba
 description: ""
-date: "2026-03-20T08:22:05.572440"
+date: "2026-04-10T09:40:34.493702"
 draft: false
 sectors:
   - ngo
@@ -50,14 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - montserrat
-  - roboto
-imagery_styles:
-  - professional
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q993509"
 has_twitter: false
@@ -76,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Details about the IIBA logo and its appropriate usage.
-- Information regarding Chapter Logos and their usage.
-
-**Color Information:**
-
-- Color palette specifications with RGB, CMYK, and HEX codes outlined.
-- Color palette specifications with RGB, CMYK, and HEX codes outlined.
-- Color palette specifications with RGB, CMYK, and HEX codes outlined.
-- Color palette specifications with RGB, CMYK, and HEX codes outlined.
-- Color palette specifications with RGB, CMYK, and HEX codes outlined.
-
-**Typography Information:**
-
-- Primary fonts such as Roboto and Montserrat are specified with sizes and use cases.
-
-**Brand Voice:**
-
-- Tone of voice includes being human, open, professional, and knowledgeable.
-
-**Notes:**
-
-- The introduction emphasizes the importance of adhering to the standards for consistent brand identity.
-- The introduction emphasizes the importance of adhering to the standards for consistent brand identity.
+*Guidelines data not available*
 
 ## Additional Properties
 

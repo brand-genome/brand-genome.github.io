@@ -2,11 +2,11 @@
 title: TGN
 slug: tgn
 description: ""
-date: "2026-03-20T08:22:03.068344"
+date: "2026-04-10T09:40:30.565578"
 draft: false
 sectors:
-  - utilities
   - gas
+  - utilities
 regions:
   - argentina
 years:
@@ -49,21 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - impact
-  - montserrat
-imagery_styles:
-  - dynamic
-  - bold
-  - modern
-  - natural
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: Argentine energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q106410457"
 has_twitter: false
@@ -82,35 +71,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The document outlines an introduction to the TGN brand identifier including logo variants for horizontal, vertical, and secondary applications. Detailed measurements and grid construction rules are provided.
-- Clear space requirements and minimum size: Minimum size for digital formats is 400 px and for print formats is 3 cm. The spacing is based on a defined protective area.
-- Logo incorrect usage rules are explicitly mentioned to avoid alterations, misproportions, color changes, or visual disruptions.
-
-**Color Information:**
-
-- It describes the brand colors including their hex, Pantone, and application rules. Key examples demonstrate proper color schemes for balancing visibility.
-
-**Typography Information:**
-
-- Primary typography: Montserrat font family is used for Titles (Bold, Medium), Body Text (Regular), and Annotations.
-
-**Imagery Photography:**
-
-- Defined photography style involving natural, dynamic, and high-energy photos emphasizing movement.
-
-**Spacing Layout:**
-
-- Grid and alignment guides for layouts in branding applications, with specific attention to logo placements and spacing.
-
-**Brand Voice:**
-
-- The brand's tone of voice emphasizes energy, strength, and regional impact. Key statements include: 'Our energy connects people and countries and drives modern economies forward.'
-
-**Notes:**
-
-- The full guideline encapsulates design, marketing, and operational rules across visual and verbal touchpoints.
+*Guidelines data not available*
 
 ## Additional Properties
 

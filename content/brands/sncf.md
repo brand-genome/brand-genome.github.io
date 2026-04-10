@@ -2,7 +2,7 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-03-20T08:22:04.002822"
+date: "2026-04-10T09:40:31.955710"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -18,8 +18,8 @@ tags:
   - featured
   - transport
 industries:
-  - unknown
   - "rail-transport"
+  - unknown
 countries:
   - france
 revenue_buckets:
@@ -65,9 +65,9 @@ imagery_styles: []
 wikidata_description: "national state-owned railway company of France"
 wikidata_url: "https://www.wikidata.org/wiki/Q13646"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -80,12 +80,6 @@ visual_term_image_urls: {}
 - [http://www.sncf.com/fr/groupe/marques/sncf](http://www.sncf.com/fr/groupe/marques/sncf)
 - [https://www.sncf.com](https://www.sncf.com)
 - [https://www.sncf.fr](https://www.sncf.fr)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

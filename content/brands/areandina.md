@@ -2,7 +2,7 @@
 title: Areandina
 slug: areandina
 description: ""
-date: "2026-03-20T08:22:04.506736"
+date: "2026-04-10T09:40:33.280624"
 draft: false
 sectors:
   - education
@@ -49,13 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - professional
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q25411265"
 has_twitter: false
@@ -73,28 +70,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- El nombre de nuestra marca
-Areandina es un actor establecido en el panorama de la educación superior de Colombia. Nuestro nombre completo es: Fundación Universitaria del Área Andina.
-- Nuestro logotipo se puede colocar en una variedad de posiciones según medio y mensaje. Las posiciones preferidas son las cuatro esquinas de la página, con separación mínima equivalente a altura de 'A' del logotipo.
-- Logo files are provided in various formats such as AI_EPS, PNG, and JPEG with versions like 'Areandina Verde' and 'Areandina Negro.' Correct usage practices are emphasized.
-- Incorrect usage examples include: distortions, improper proportions, adding elements, or non-approved colors (such as gradients).
-
-**Color Information:**
-
-- Colors include Areandina Verde, Negro, and Blanco as primary colors. Secondary colors are permitted only for grouping complex data.
-- Pantone, CMYK, and RGB codes are supported. Formats specified include professional-grade AI_EPS vector files and digital formats like PNG and JPEG.
-- Prohibited Practices: Mixing secondary colors above 20% in layouts beyond infographics, altering Areandina Verde saturation, or using non-primary palette for logos.
-
-**Spacing Layout:**
-
-- General guidelines define page margins as multiples of 'A' (logo height). Margins vary from minimum 'A' for posters to 2A for brochures.
-
-**Brand Voice:**
-
-- Documents emphasize consistent and properly structured messaging using provided naming conventions for all logo file versions.
-- Tagline examples and typical copy usage are provided, emphasizing message clarity and coherence with brand values.
+*Guidelines data not available*
 
 ## Additional Properties
 

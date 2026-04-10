@@ -2,11 +2,11 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-03-20T08:22:05.162669"
+date: "2026-04-10T09:40:34.008461"
 draft: false
 sectors:
-  - ngo
   - software
+  - ngo
 regions:
   - usa
 years:
@@ -54,22 +54,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - vertical
-  - lockup
-  - horizontal
-brand_colors:
-  - crimson
-  - red
-  - white
-  - orange
-  - gray
-  - magenta
-  - violet
-  - black
-typographies:
-  - montserrat
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "American nonprofit open-source software community"
 wikidata_url: "https://www.wikidata.org/wiki/Q489709"
@@ -88,201 +75,112 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- 3
-Identity Style Guide
-Logo
-Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
-Primar y Mark 
-Lockup 
-Nest 
-Logotype
-- Th e  p r i m a r y  l o c k u p  i s  h o r i z o n t a l  i n  o r i e n t a t i o n ,  a n d  t h e  
-fe a t h e r  ex t e n d s  s l i g h t l y  a b ove  a n d  b e l ow  t h e  l o g o t ex t .  Th e  
-fulllogomarkshouldalwaysincludetheentireorganization 
-name: ÒThe Apache Sof tware Foundation.Ó
-When horizontal space is limited, a standalone feather can 
-be used as a substitute.
-Lockups 
-01.
-02.
-7
-- Lockups 
-8
-If it is necessar y to include the Apache URL in the 
-logomark, this horizontal lockup should be used.
-Alternatively, if vertical space is at a premium, this long, 
-ve r t i ca l l y  co n d e n ce d  l o c k u p  w h i c h  a l s o  i n c l u d e s  t h e  f u l l  
-Apache URL may be used instead.
-03.
-04.
-- 9
-Th e  l o g o t y p e  s h o u l d  b e  v e r t i c a l l y  c e n t e r e d  w i t h  t h e  f e a t h e r .  
-Spacing between the feather and the logotype and between 
-the ÒEÓ in the logotype and the ÒRegisteredÓ mark should be 
-equal to each other and roughly equivalent to the weight of 
-the lines in the word ÒAPACHE.Ó 
-Ve r t i c a l  s p a c e  b e t w e e n  t h e  l i n e s  o f  t e x t  i n  t h e  l o g o t y p e  
-should be equal to each other and roughly equivalent to the 
-height of the supporting text ÒTHEÓ and ÒSOFTWARE 
-FOUNDATION.Ó
-Th e  Ò H Ó  i n  Ò T H E Ó  s h o u l d  b e  h o r i z o n t a l l y  c e n t e r e d  w i t h  Ò A Ó  i n  
-ÒAPACHE.Ó
-**Please note this relationship and lockup is critical for 
-balance. 
-Alignment 
-Primar y Lockup
-Identity Style Guide
-Alignment
-Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
+##### Mission
 
-**Color Information:**
+- To be a leading source for Open Source software that meets the demand for innovative, adaptable, and sustainable solutions, represented by a modern visual identity centered on the Apache feather.
 
-- 4
-Th e  b r a n d  c o l o r s  f o r  t h e  m a r k  
-co n s i s t  o f  ca r e f u l l y  s e l e c t e d  
-co l o r s ,  d e s i g n e d  t o  s t a n d  o u t  
-across the competitive set. 
-Th e  m a r k / l o g o t y p e  s h o u l d  
-never appear in colors other 
-than show n here*.
-**Except black and white, 
-which may be used for single-
-co l o r  b l a c k  o r  w h i t e  l o c k u p s .
-Color Palette 
-Goldenrod
-R 247 / G 154 / B 37
-C 0 / M 46 / Y 96 / K 0
-F79A25
-PA N TO N E  1 3 7 5  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Orange
-R 234 / G 120 / B 38
-C 04 / M 64 / Y 98 / K 0
-EA7826
-PA N TO N E  7 4 1 3  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Crimson
-R 203 / G 33 / B 56
-C 14 / M 100 / Y 82 / K 03
-CB2138
-PA N TO N E  2 0 0  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Magenta
-R 158 / G 33 / B 101
-C 36 / M 100 / Y 34 / K 08
-9E2165
-PA N TO N E  7 4 3 4  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Violet
-R 102 / G 47 / B 143
-C 75 / M 98 / Y 02 / K 0
-662F 8F
-PA N TO N E  5 2 6  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-In d i g o
-R 40 / G 38 / B 97
-C 100 / M 99 / Y 31 / K 22
-282661
-PA N TO N E  5 2 6 5  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Red
-R 210 / G 33 / B 40
-C 11 / M 100 / Y 98 / K 02 
-D22128
-PA N TO N E  1 7 9 7  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Gray
-R 109 / G 110 / B 113
-C 58 / M 49 / Y 46 / K 15 
-6D6E71
-PA N TO N E  4 1 6  C P
-HEX:
-PMS:
-CMYK:
-RGB:
-Co l o r
-Identity Style Guide
-Co l o r  P a l e t t e
-Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
+##### Core Values
 
-**Typography Information:**
+- innovation
+- adaptability
+- sustainability
 
-- 17
-Montserrat Light
-ABCDEFGHIJKLMNOPQRSTUVWXY
-Z
-abcdefghijklmnopqrstuvwxy
-z
-1234567890!@#$%^&*()_+<>?{}|
-\
-A
-a
-Montserrat Regular
-ABCDEFGHIJKLMNOPQRSTUVWXY
-Z
-abcdefghijklmnopqrstuvwxy
-z
-1234567890!@#$%^&*()_+<>?{}|
-\
-Aa
-Montserrat is a free, open-source Google 
-Font and can be dow nloaded for use at:
-fo n t s . g o o g l e . c o m /s p e c i m e n / M o n t s e r r a t
-Identity Style Guide
-Ty p o g r a p h y
-Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
+##### Target Audience
 
-**Spacing Layout:**
+- Individuals and organizations seeking reliable, modern, and professional open source software solutions.
 
-- 9
-Th e  l o g o t y p e  s h o u l d  b e  v e r t i c a l l y  c e n t e r e d  w i t h  t h e  f e a t h e r .  
-Spacing between the feather and the logotype and between 
-the ÒEÓ in the logotype and the ÒRegisteredÓ mark should be 
-equal to each other and roughly equivalent to the weight of 
-the lines in the word ÒAPACHE.Ó 
-Ve r t i c a l  s p a c e  b e t w e e n  t h e  l i n e s  o f  t e x t  i n  t h e  l o g o t y p e  
-should be equal to each other and roughly equivalent to the 
-height of the supporting text ÒTHEÓ and ÒSOFTWARE 
-FOUNDATION.Ó
-Th e  Ò H Ó  i n  Ò T H E Ó  s h o u l d  b e  h o r i z o n t a l l y  c e n t e r e d  w i t h  Ò A Ó  i n  
-ÒAPACHE.Ó
-**Please note this relationship and lockup is critical for 
-balance. 
-Alignment 
-Primar y Lockup
-Identity Style Guide
-Alignment
-Th e  A p a c h e  S o f t w a r e  F o u n d a t i o n
+##### Personality Traits
+
+- professional
+- modern
+- clean
+- innovative
+
+##### Visual Identity Overview
+
+- The visual identity features a stylized feather with a gradient color palette (orange, red, purple), clean typography (Montserrat), and a balanced, professional layout. The logo is used in full color or single color variations, with strict guidelines for clear space, alignment, and approved color usage.
+
+#### Categories
+
+##### Color Palette
+
+- The brand colors for the mark consist of carefully selected colors, designed to stand out across the competitive set.
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- Color Palette | Color | Red | Color | Gray | |----------|----------| | RGB: | R 210 / G 33 / B 40 | RGB: | R 109 / G 110 / B 113 | | CMYK: | C 11 / M 100 / Y 98 / K 02 | CMYK: | C 58 / M 49 / Y 46 / K 15 | | HEX: | D22128 | HEX: | 6D6E71 | | PMS: | PANTONE 1797 CP | PMS: | PANTONE 416 CP |
+- | Color | Goldenrod | Color | Orange | Color | Crimson | | RGB: | R 247 / G 154 / B 37 | RGB: | R 234 / G 120 / B 38 | RGB: | R 203 / G 33 / B 56 | | CMYK: | C 0 / M 46 / Y 96 / K 0 | CMYK: | C 04 / M 64 / Y 98 / K 0 | CMYK: | C 14 / M 100 / Y 82 / K 03 | | HEX: | F79A25 | HEX: | EA7826 | HEX: | CB2138 | | PMS: | PANTONE 1375 CP | PMS: | PANTONE 7413 CP | PMS: | PANTONE 200 CP |
+- | Color | Magenta | Color | Violet | Color | Indigo | | RGB: | R 158 / G 33 / B 101 | RGB: | R 102 / G 47 / B 143 | RGB: | R 40 / G 38 / B 97 | | CMYK: | C 36 / M 100 / Y 34 / K 08 | CMYK: | C 75 / M 98 / Y 02 / K 0 | CMYK: | C 100 / M 99 / Y 31 / K 22 | | HEX: | 9E2165 | HEX: | 662F8F | HEX: | 282661 | | PMS: | PANTONE 7434 CP | PMS: | PANTONE 526 CP | PMS: | PANTONE 5265 CP |
+- | D22128 | 6D6E71 | | Logotype | FFFFFF |
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- | Feather | | F7AE18 | | EA7826 | CB2138 | | 9E2165 | | 662F8F | 282661 |
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks. even if they exist within the approved brand color palette.
+- use BLACK or WHITE for one­ color variations of the logomark.
+
+##### Logo Usage
+
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- The primary lockup is horizontal in orientation, and the feather extends slightly above and below the logotext. The full logomark should always include the entire organization name: "The Apache Software Foundation."
+- When horizontal space is limited, a standalone feather can be used as a substitute.
+- If it is necessary to include the Apache URL in the logomark, this horizontal lockup should be used.
+- Alternatively, if vertical space is at a premium, this long, vertically condenced lockup which also includes the full Apache URL may be used instead.
+- The logotype should be vertically centered with the feather.
+- Spacing between the feather and the logotype and between the “E” in the logotype and the “Registered” mark should be equal to each other and roughly equivalent to the weight of the lines in the word “APACHE.”
+- Vertical space between the lines of text in the logotype should be equal to each other and roughly equivalent to the height of the supporting text “THE” and “SOFTWARE FOUNDATION.”
+- The “H” in “THE” should be horizontally centered with “A” in “APACHE.”
+- A minimum area of space must always surround the mark /logotype lockups. This area of isolation allows the identity to stand out by ensuring that other visual elements are kept clear from the mark.
+- This clear space is based on the height of the logomark.
+- DON'T stretch the logomark or the feather vertically or horizontally.
+- ✓ DO maintain the original ratio.
+- DON'T remove words from the full logomark or allow "APACHE' to appear without "THE" and "SOFTWARE FOUNDATION."
+- ✓ DO use the full logomark in its entirety, without modifications.
+- DON'T add additional words or modify the standard logomark beyond brand specifications.
+- ✓ DO use ONLY approved variations of the standard logomark.
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- ✓ DO use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks, even if they exist within the approved brand color palette.
+- ✓ DO use BLACK or WHITE for one­color variations of the logomark.
+- DON'T place other logos, text, or visual elements within the specified "clear space" around the logomark.
+- ✓ DO place other elements far enough from the logomark that they don't enter the necessary "clear space" around the mark.
+
+##### Typography
+
+- Aa # Montserrat Light abcdefghijk1 rm®#pqrstuvwxyz Cc7esaoss-ea_aN CDEFGHIJKLMN gPQRSTUVWXYZ
+- Aa # Montserrat Regular abcdefghijklrn"# •• 1 pqrstuvwxyz ABCE DEFGHIJKLMN PORSTUVWXYZ 1234567890! !@#$%0 &*()_+<>?()I\ -
+- Mon t s errat is a free. o p en-source Google Fon t and can be downloaded for use at: fonts.google.com /specimen • /Montserrat
+
+##### Visual Style
+
+- The mark/logotype should never appear in colors other than shown here*.
+- Except black and white, which may be used for single-color black or white lockups.
+- In a full color usage, the colors in the feather gradient remain the same, no matter the background color.
+- A one-color option can also be used when necessary. In these cases, the feather icon and typography should all be the same single color.
+- The brand colors for the mark consist of carefully selected colors, designed to stand out across the competitive set.
+- The logotype should be vertically centered with the feather.
+- Spacing between the feather and the logotype and between the “E” in the logotype and the “Registered” mark should be equal to each other and roughly equivalent to the weight of the lines in the word “APACHE.”
+- Vertical space between the lines of text in the logotype should be equal to each other and roughly equivalent to the height of the supporting text “THE” and “SOFTWARE FOUNDATION.”
+- The “H” in “THE” should be horizontally centered with “A” in “APACHE.”
+- A minimum area of space must always surround the mark /logotype lockups. This area of isolation allows the identity to stand out by ensuring that other visual elements are kept clear from the mark.
+- This clear space is based on the height of the logomark.
+- DON'T stretch the logomark or the feather vertically or horizontally.
+- ✓ DO maintain the original ratio.
+- DON'T remove words from the full logomark or allow "APACHE' to appear without "THE" and "SOFTWARE FOUNDATION."
+- ✓ DO use the full logomark in its entirety, without modifications.
+- DON'T add additional words or modify the standard logomark beyond brand specifications.
+- ✓ DO use ONLY approved variations of the standard logomark.
+- DON'T use colors or color combinations not explicitly defined in the brand standards color palette.
+- ✓ DO use ONLY standard full-color version with approved brand color palette.
+- DON'T use colors besides BLACK or WHITE for one-color logomarks, even if they exist within the approved brand color palette.
+- ✓ DO use BLACK or WHITE for one­color variations of the logomark.
+- DON'T place other logos, text, or visual elements within the specified "clear space" around the logomark.
+- ✓ DO place other elements far enough from the logomark that they don't enter the necessary "clear space" around the mark.
 
 ## Additional Properties
 

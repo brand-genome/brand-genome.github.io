@@ -2,12 +2,12 @@
 title: Queenstown Lakes District Council
 slug: "queenstown-lakes-district-council"
 description: ""
-date: "2026-03-20T08:22:04.246068"
+date: "2026-04-10T09:40:32.825415"
 draft: false
 sectors:
   - "public-sector"
-  - utilities
   - "public-transportation"
+  - utilities
 regions:
   - "new-zealand"
 years:
@@ -49,15 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - blue
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: territorial authority of New Zealand
 wikidata_url: "https://www.wikidata.org/wiki/Q65600677"
 has_twitter: false
@@ -77,66 +72,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- A brand is more than just a logo.
-- whole logo to be used. The
-- 2.1   QLDC LOGO
-- Only QLDC blue, 100% black or white may be used as our logo colours. QLDC blue is our preference.
-- 2.1.1   OUR LOGO DO™S
-- Below are some examples of what we consider to be uncool ways to use our logo. Please
-- 2.1.2   OUR LOGO DONT™S
-- Don™t outline our logo
-- Don™t put our QLDC blue logo
-- Don™t reverse the logo from
-- Don™t reverse the logo from
-- Our logo minimum size is 25mm in width. If smaller than this, please use the icon only.
-- Our logo needs to breathe.
-
-**Color Information:**
-
-- RGB
-- PANTONE
-- HEX
-- RGB
-- RGB
-- RGB
-- RGB
-- HEX
-- HEX
-- HEX
-- HEX
-- RGB
-- RGB
-- RGB
-- RGB
-- HEX
-- HEX
-- HEX
-- HEX
-- RGB
-- RGB
-- HEX
-- HEX
-
-**Imagery Photography:**
-
-- style and language we use is
-- Our photographic style is based
-- MOOD
-- 2.6   PHOTOGRAPHY AND IMAGERY
-- Œ no ˚lters or colour cast light
-- team about photography options.
-- 2.7   ICONOGRAPHY AND GRAPHICS STYLE
-- Icon style
-- Icon style
-
-**Brand Voice:**
-
-- Our voice should be that of a
-- voice should re˜ect our core
-- Like that of a person, our voice
-- PANTONE
+*Guidelines data not available*
 
 ## Additional Properties
 

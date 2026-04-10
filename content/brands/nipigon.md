@@ -2,7 +2,7 @@
 title: Nipigon
 slug: nipigon
 description: ""
-date: "2026-03-20T08:22:04.716018"
+date: "2026-04-10T09:40:33.439559"
 draft: false
 sectors:
   - "public-sector"
@@ -50,16 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-  - times
-imagery_styles:
-  - natural
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "township municipality in Thunder Bay District, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1993247"
 has_twitter: false
@@ -79,29 +72,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Changing times, renewing our focus Like many other cities, towns and organizations, Nipigon must regularly review how we are perceived and the way we communicate to meet the ever-changing needs of the people we want to engage ...
-- About Nipigon's brand identity use and consistent logo application across general materials ...
-
-**Color Information:**
-
-- Envelopes: The Township of Nipigon envelopes are available in color and black & white.
-- Signs Community Wayward Signs vary in size depending on text content and location within the community. Colors include Pantone codes (2925 and 368 PC).
-
-**Typography Information:**
-
-- Electronic Materials Museo font family information (replacement with Arial for certain electronic use cases like PowerPoint files); typography best practices including minimum font sizing (9pt), text alignment, URL treatment.
-- Pre-Printed Letterhead: Helvetica Regular font in body, scalable headers, fixed elements.
-
-**Imagery Photography:**
-
-- Key Emotional Elements: Accessibility and mood through branding and marketing photos conveying progressive themes.
-- Photography officially mentions layout for 'Natural Edge' photo usage purity without montage.
-
-**Notes:**
-
-- Generic statement about Nipigon brand benefit as a unified voice, reputation builder, pride enhancer within its efforts.
+*Guidelines data not available*
 
 ## Additional Properties
 

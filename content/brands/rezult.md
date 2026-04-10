@@ -2,7 +2,7 @@
 title: Rezult
 slug: rezult
 description: ""
-date: "2026-03-20T08:22:03.243298"
+date: "2026-04-10T09:40:30.758309"
 draft: false
 sectors:
   - "forestry-timber"
@@ -51,8 +51,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: sports website
 wikidata_url: "https://www.wikidata.org/wiki/Q70835280"
 has_twitter: false
@@ -75,15 +74,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Minimum printable size for the logo is 5 mm in height.
-- Clear space around the logo: X spacing on all sides, 1/2 X internal spacing.
-- Monochrome versions of the logo include light and dark background options.
-
-**Typography Information:**
-
-- Text mentions specific typography guidelines, need deeper review.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-03-20T08:22:04.206358"
+date: "2026-04-10T09:40:32.576347"
 draft: false
 sectors:
+  - software
   - broadcasting
   - networking
-  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - software
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-brand_colors:
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - product
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "US federally funded non-profit organization to support democracy"
 wikidata_url: "https://www.wikidata.org/wiki/Q2701197"
 has_twitter: false
@@ -88,54 +80,152 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Introduction
-NDI® logos and their usage in communications and marketing, subject to the proper agreements and guidelines, including size-specific rules and proper clear space definitions.
-- Details provided for minimum logo sizes and correct alignments for NDI® and NDI®|HX logos, including logo usage directions. Logos must always be in black or white, not color, and used with defined clear spacing rules.
-- The '®' symbol must always be clearly visible, aligned at the top of the ‘I’ of NDI®, and correctly proportioned. Minimum logo size for NDI® is 8mm height, with rules for non-use below specified sizes.
-- Specifics for the NDI®|HX logo: minimum size is 15mm height with defined rules for scaling, clear space, and registration mark usage. Acceptable color variations include black and white, applied under specific background shades or conditions.
-- Improper logo usage examples such as distorted proportions, incorrect applications of typefaces, absence of registration marks, and use below specified size guidelines. Official font families defined for correct logo text usage (Helvetica Neue Medium or Arial Regular).
-- Acceptable use of NDI® logos and NDI®|HX logos is detailed here, including typography and layout specifications under varying conditions.
-- Strict examples of unacceptable logo use are outlined for NDI® and NDI®|HX branding.
-- Usage rules for correct typeface when branding text such as 'NDI®|HX,' substitution rules, and examples shown.
-- Incorrect branding usage examples for 'NDI®|HX' under improper circumstances or layouts.
+##### Mission
 
-**Color Information:**
+- NDI® aims to enable IP video workflows across standard Ethernet networks, providing a royalty-free standard for bi-directional video and audio communication, exponentially increasing sources for live production workflows and eliminating the need for costly direct connections and infrastructure upgrades [^1].
 
-- NDI® colors include Black (Pantone 426C / RGB 0,0,0) and White (Paper CMYK 0/0/0/0 / RGB 255,255,255). Correct spacing rules and proportions for logo application are also specified.
-- Spacing rules: 50% of logo height clear space minimum. Colors are specified for compliance including CMYK and RGB details for NDI® branding.
-- NDI®|HX logo color splits include black & white variants applied per background tone intensity specifications. Codes for CMYK, Pantone, and RGB included.
-- Incorrect examples for logos used improperly, including color usage outside black or white branding stipulations.
+##### Core Values
 
-**Typography Information:**
+- innovation
+- connectivity
+- accessibility
+- efficiency
+- compatibility
 
-- Font families defined in rules for primary logo use. Helvetica Neue Medium as the default, while Arial Regular serves as an acceptable alternative.
-- NDI® typography specifications provided for proper size adjustments based on usage situations including symbol alignment such as registration marks in superscript format.
-- Examples provided for acceptable font families along with unacceptable variations for NDI® logo text branding.
+##### Target Audience
 
-**Imagery Photography:**
+- Licensed NDI® users, developers, media organizations, and companies in the A/V, Broadcast, Enterprise, and Gaming industries seeking to implement IP-based video workflows [^2].
 
-- Guidelines for social media imagery; visual posting encouraged as images and videos enhance engagement. Official handles and hashtag recommendations provided.
-- Visual treatment emphasized within social media communications, detailing examples involving product branding, updates, and direct overlay techniques.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- technologically advanced
+- efficient
+- reliable
+- innovative
 
-- Spacing emphasis between headline, body, and tagging designs under recommended layout considerations for improved visual appeal.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is clean, minimalistic, and high-contrast, focusing on bold, uppercase sans-serif typography, primarily in black and white. The logo uses clear space equal to 50% of its height, with strict guidelines for size, color (black, white, grey), and font (Helvetica Neue Medium or Arial Regular). Visuals emphasize clarity, simplicity, and a high-tech, digital aesthetic [^3].
 
-- NDI® branding follows strict tone guidelines with registered naming, notation, professional alignment rules within all communications and formal releases.
-- Emphasis encouraged for brand alignment within visual communication strategies on platforms such as social channels. Sound brand outreach tone through hashtags & image-text balancing included.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- Introduction
-NDI® Brand Standards document introduction and licensing clarification overview detailing intended users involving Vizrt Group agreements as per compliance basis.
-- Trademark Application Notes
-Key trademark ownership and communication protocol alignment for NDI® representation under approved formats shown.
-- Social media strategy tips outlined including recommended structure for engaging posts paired seamlessly alongside valuable hashtag curation examples.
-- Final inquiries available in contact email references for NDI® marketing related clarifications provided directly supporting Adobe brand library entry info.
+- The minimum required CLEAR SPACE is defined by 50% of the logo height.
+- The size of the “®” symbol should: 1. Always be clearly visible 2. Be aligned with the top of the “I” 3. Be in pleasing proportion to the logo
+- Acceptable NDI® logo colors are: 1. BLACK 2. WHITE
+- CMYK 75 68 67 90 Pantone 426 C RGB 0 0 0
+- CMYK Paper Pantone Paper RGB 255 255 255
+- clear space 50% of logo height
+- LOGO Minimum Size is 8mm height.
+- When the logo is below 8mm in height, “NDI®” should be typeset (instead of using the logo.) See the next page for specifics.
+- Reverse logo on black
+- Black logo on white
+- Black logo on grey (35% black or less)
+- White logo on grey (40% black or greater)
+- Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI® text when the text size is 12 points or below.
+- CORRECT: Logo height is 8mm or above.
+- INCORRECT: Do not typeset NDI® when the height is 8mm or above. Use logo instead.
+- INCORRECT: Logo is too small, height is below 8mm.
+- INCORRECT: Text must be in white or black, never a color, and never in any font except Helv. Neue Med. or Arial Reg.
+- CORRECT: Typeset NDI® when height is 8mm or below.
+- LOGO Minimum Size is 15mm height.
+- When the logo– including the pipe mark– is below 15mm in height, “NDI®|HX” should be typeset (instead of using the logo.) See the next page for specifics.
+- CORRECT: Logo height is 15mm or above.
+- INCORRECT: Do not typeset text, when height is 15mm or above. Use logo.
+- INCORRECT: Logo must be in white or black. Never a color.
+- When the logo– including the pipe mark– is below 15mm in height, “NDI®|HX” should be typeset (instead of using the logo.) Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI®|HX text when the text is 12 points or below. The pipe, or vertical bar, should be 2 points larger than the rest of the text.
+- CORRECT: typeset when height is 15mm or below.
+- INCORRECT: Text must be in white or black, not a color.
+- CORRECT: In certain circumstances, and with permission from NewTek, the logo my be used without the register mark.
+- INCORRECT: Text must be set in Helv. Neue Med. or Arial Regular font.
+- When the logo is below 8mm in height, “NDI®” should be typeset (instead of using the logo). Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI text when text size is 12 points or below.
+
+##### Color Palette
+
+- Acceptable NDI® logo colors are: 1. BLACK 2. WHITE
+- NewTek Black
+- White
+- CMYK 75 68 67 90
+- Pantone 426 C
+- RGB 0 0 0
+- CMYK Paper
+- Pantone Paper
+- RGB 255 255 255
+- Reverse logo on black
+- Black logo on white
+- Black logo on grey (35% black or less)
+- White logo on grey (40% black or greater)
+- INCORRECT: Logo must be in white or black. Never a color.
+- INCORRECT: Text must be in white or black, not a color.
+
+##### Typography
+
+- Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI® text when the text size is 12 points or below.
+- NDI® NDI® NDI®
+- Helvetica Neue Medium
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz
+- Arial Regular
+- INCORRECT: Do not typeset NDI® when the height is 8mm or above. Use logo instead.
+- CORRECT: Typeset NDI® when height is 8mm or below.
+- INCORRECT: Text must be in white or black, never a color, and never in any font except Helv. Neue Med. or Arial Reg.
+- When the logo is below 8mm in height, “NDI®” should be typeset (instead of using the logo). Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI text when text size is 12 points or below.
+- NDI®
+- When the logo– including the pipe mark– is below 15mm in height, “NDI®|HX” should be typeset (instead of using the logo.) Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI®|HX text when the text is 12 points or below. The pipe, or vertical bar, should be 2 points larger than the rest of the text.
+- NDI®|HX NDI®|HX NDI®|HX
+- INCORRECT: Text must be in white or black, not a color.
+- CORRECT: typeset when height is 15mm or below.
+- INCORRECT: Text must be set in Helv. Neue Med. or Arial Regular font.
+
+##### Visual Style
+
+- The minimum required CLEAR SPACE is defined by 50% of the logo height.
+- The size of the “®” symbol should: 1. Always be clearly visible 2. Be aligned with the top of the “I” 3. Be in pleasing proportion to the logo
+- Acceptable NDI® logo colors are: 1. BLACK 2. WHITE
+- NewTek Black
+- White
+- CMYK 75 68 67 90
+- Pantone 426 C
+- RGB 0 0 0
+- RGB 255 255 255
+- LOGO Minimum Size is 8mm height.
+- When the logo is below 8mm in height, “NDI®” should be typeset (instead of using the logo.) See the next page for specifics.
+- clear space 50% of logo height
+- Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI® text when the text size is 12 points or below.
+- CORRECT: Logo height is 8mm or above.
+- INCORRECT: Do not typeset NDI® when the height is 8mm or above. Use logo instead.
+- INCORRECT: Logo is too small, height is below 8mm.
+- INCORRECT: Text must be in white or black, never a color, and never in any font except Helv. Neue Med. or Arial Reg.
+- CORRECT: Typeset NDI® when height is 8mm or below.
+- LOGO Minimum Size is 15mm height.
+- When the logo– including the pipe mark– is below 15mm in height, “NDI®|HX” should be typeset (instead of using the logo.) See the next page for specifics.
+- Font must be Helvetica Neue Medium or Arial Regular. The Register Mark (®) must be set at the full height of the NDI®|HX text when the text is 12 points or below. The pipe, or vertical bar, should be 2 points larger than the rest of the text.
+- CORRECT: typeset when height is 15mm or below.
+- INCORRECT: Text must be in white or black, not a color.
+- INCORRECT: Text must be set in Helv. Neue Med. or Arial Regular font.
+- CORRECT: Logo height is 15mm or above.
+- INCORRECT: Do not typeset text, when height is 15mm or above. Use logo.
+- INCORRECT: Logo must be in white or black. Never a color.
+- Reverse logo on black
+- Black logo on white
+- Black logo on grey (35% black or less)
+- White logo on grey (40% black or greater)
+
+##### Brand Architecture
+
+- NDI® is a master brand that incorporates two types of technologies used inside of the IP protocol, NDI® and NDI®|HX, described in more detail later in this document.
+- NDI® and NDI®|HX systems can work interchangeably on the same network and in the same workflows.
+
+##### Social Media Guidelines
+
+- ## Official social media channels: Facebook: https://www.facebook.com/NDICentral LinkedIn: https://www.linkedin.com/company/ndi-tv Twitter: https://twitter.com/NDI_tv YouTube: https://www.youtube.com/c/NDItv/featured
+- ## Official Hashtags #NDI – Network Device Interface #SDVS – Software Defined Visual Storytelling
+- ## Suggested Hashtags Your Company’s Hashtag #IPVideo #IPProduction
+- ## Tips and Tricks • Make sure to have a captivating headline at the beginning of your post. This can consist of a declaration, leading question, or a call to action (CTA). Example: Need to expand your remote production capabilities? Sign up today for our latest webinar! • Keep the body of your post concise and to the point. • Complete your post with website links and hashtags. • Spacing between the headline, body, links, and hashtags is encouraged. This makes the post easier to read and is pleasing to the eye. Avoid walls of text. • It is encouraged to always post with an image or video, as it will garner more engagement than a post with just text.
+- ## It is encouraged to always post with an image or video, as it will garner more engagement than a post with just a text message.
 
 ## Additional Properties
 

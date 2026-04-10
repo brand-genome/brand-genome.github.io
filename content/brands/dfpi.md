@@ -2,7 +2,7 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-03-20T08:22:04.219992"
+date: "2026-04-10T09:40:32.627415"
 draft: false
 sectors:
   - "public-sector"
@@ -51,21 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - "combination-mark"
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - impact
-  - gotham
-imagery_styles:
-  - professional
-  - bold
-  - modern
-  - clean
-  - monochrome
+typographies: []
+imagery_styles: []
 wikidata_description: California state department
 wikidata_url: "https://www.wikidata.org/wiki/Q16850544"
 has_twitter: false
@@ -84,40 +73,95 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Logo Information:**
+#### Brand Summary
 
-- DFPI's main logo is a combination mark that is modern, clean, and professional. It includes a full monoline version.
-- The clear space for the logo is defined as maintaining a margin the size of the 'X,' where 'X' represents the logo icon, all around the logo to ensure visibility and impact.
-- Logo misuse guidelines include: Do not apply effects to the logo, do not use the logo on a background of the same color, do not apply gradients to the logo, do not distort/skew/rotate the logo, and do not use the logo within a shape.
-- The logo variations include monochrome, but specific color variations for the logo are not listed clearly on the extracted text.
-- Approved business card and letterhead layouts are included, requiring the logo in its approved format without alteration for official communications.
+##### Mission
 
-**Color Information:**
+- To protect consumers, foster trust, innovation, and fairness in the financial marketplace, serving Californians by overseeing financial service providers, enforcing laws and regulations, promoting innovation and fair business practices, enhancing consumer awareness, and preventing marketplace risks, fraud, and abuse.
 
-- Primary colors are HEX #AA8A00 (RGB 170, 138, 0) and HEX #002D72 (RGB 46, 102, 132).
-- Secondary colors include: HEX #009CDE (RGB 0, 156, 222), HEX #DBB716 (RGB 219, 183, 22), HEX #E1EAF1 (RGB 225, 234, 241), HEX #000000 (RGB 0, 0, 0), HEX #B9FAF8 (RGB 185, 250, 248), HEX #107E7D (RGB 16, 126, 125), HEX #95190C (RGB 149, 25, 12), HEX #A7C957 (RGB 167, 201, 87), and HEX #A8407E (RGB 168, 64, 126).
+##### Core Values
 
-**Typography Information:**
+- consumer protection
+- trust
+- innovation
+- fairness
+- diversity
+- equity
+- inclusion
 
-- The primary typeface is Gotham with fonts in Bold, Medium, Book, and Light font weights.
-- The secondary typeface is Segoe UI with font styles including Bold, Semibold, Regular, and Italic.
-- Headlines use Gotham Bold, 32 pt type with 42 pt leading; headings use Gotham Bold, 24 pt type with 28 pt leading; subheadlines use Gotham Semi Bold, 13 pt type with 14 pt leading, and body copy uses Segoe UI Regular, 10 pt type with 14 pt leading.
+##### Target Audience
 
-**Imagery Photography:**
+- California consumers, financial service providers, and stakeholders in the financial marketplace.
 
-- Approved marketing imagery emphasizes diversity, equity, and inclusion and is to be used across websites, flyers, billboards, and social media.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- clean
+- authoritative
+- inclusive
 
-- A brand grid system determines a layout for written articles, both digital and print, with spacing, font sizes, and text arrangements specified, such as Gotham for titles (24pt to 36pt), subheadlines (18pt to 16pt), and Segoe UI for body text (12pt to 10pt).
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is modern, clean, and professional, featuring a core color palette of dark blue, gold, and white, geometric patterns, and a pixel motif symbolizing innovation. The logo is used with strict guidelines for clear space and color variations. Approved imagery emphasizes diversity, equity, and inclusion, and layouts are supported by a brand grid system for consistency across digital and print materials.
 
-- DFPI aims for a professional and consistent tone across communications. The guidelines emphasize the importance of identity and cohesion in the use of logos, typography, and colors.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- File formats referenced include JPEG (lossy raster), AI (vector), PNG (lossless raster with transparency), TIFF (high-quality raster), PDF (vector-supported standard), and EPS (vector-supported).
+- These are the approved photos and images that we can use in marketing materials like website, flyers, Billboards and Social media, etc. These images should illustrate our committment to diversity, equity and inclusion.
+
+##### Color Palette
+
+- Color plays a vital role in the DFPI brand identity and are recommended for various media. These colors are this brand's core colors that will be used across all digital and marketing material.
+- PRIMARY COLORS COLOR CODE COLOR CODE Hex ; #AA8A00 Hex : #002D72 Rgb : 170, 138, 0 Rgb : 46, 102, 132
+- SECONDARY COLORS COLOR CODE COLOR CODE COLOR CODE COLOR CODE COLOR CODE Hex : #009CDE Hex : #DBB716 Hex : #ElEAFl Hex : #000000 Hex ; #B9FAF8 Rgb :0, 156,222 Rgb : 219, 183, 22 Rgb : 225,234,241 Rgb : 0, 0, 0 Rgb : 185, 250, 248 COLOR CODE COLOR CODE COLOR CODE COLOR CODE Hex : #107E7D Hex ; #95190C Hex ; #A7C957 Hex ; #A8407E Rgb : 16, 126, 125 Rgb : 149, 25, 12 Rgb : 167, 201, 87 Rgb : 168, 64, 126
+
+##### Typography
+
+- No data was found in the selected collection for your question. This could be due to a system configuration issue, or there may not be relevant data matching your query. Suggestion: Try rephrasing your question with more specific information, or contact support if you believe this is a technical error.
+
+##### Logo Usage
+
+- DFPI's combination logo makes it very modern, clean, and professional. There is one monoline version of this logo.
+- Whenever you use the logo, it should be surrounded by clear space to ensure its visibility and impact. No graphic elements of any kind should invade this zone. When using the logo, maintain a clear margin the same size as the "X" all the way around and the letter "X" represents Logo Icon. Full logo 50% clear space
+- The following images are examples of improper use and alterations of our logo. Proper use ensures the integrity of the design and brand unity.
+- Don't apply effect on the logo
+- Don't use logo on same background
+- Don't apply gradient to logo
+- Don't rotate the logo design
+- Don't distort or skew logo
+- Don't use logo in a shape.
+- Our logo must be used in its approved format and should not be modified. Altering the logo weakens the integrity and consistency of our brand. Here are some examples of approved usages of the logo.
+
+##### Visual Style
+
+- DFPI's combination logo makes it very modern, clean, and professional. There is one monoline version of this logo.
+- Whenever you use the logo, it should be surrounded by clear space to ensure its visibility and impact. No graphic elements of any kind should invade this zone. When using the logo, maintain a clear margin the same size as the "X" all the way around and the letter "X" represents Logo Icon. Full logo 50% clear space
+- The following images are examples of improper use and alterations of our logo. Proper use ensures the integrity of the design and brand unity.
+- Don't apply effect on the logo
+- Don't use logo on same background
+- Don't apply gradient to logo
+- Don't rotate the logo design
+- Don't distort or skew logo
+- Don't use logo in a shape.
+- Color plays a vital role in the DFPI brand identity and are recommended for various media. These colors are this brand's core colors that will be used across all digital and marketing material.
+- PRIMARY COLORS COLOR CODE COLOR CODE Hex ; #AA8A00 Hex : #002D72 Rgb : 170, 138, 0 Rgb : 46, 102, 132
+- COLOR CODE COLOR CODE COLOR CODE COLOR CODE COLOR CODE Hex : #009CDE Hex : #DBB716 Hex : #ElEAFl Hex : #000000 Hex ; #B9FAF8 Rgb :0, 156,222 Rgb : 219, 183, 22 Rgb : 225,234,241 Rgb : 0, 0, 0 Rgb : 185, 250, 248 COLOR CODE COLOR CODE COLOR CODE COLOR CODE Hex : #107E7D Hex ; #95190C Hex ; #A7C957 Hex ; #A8407E Rgb : 16, 126, 125 Rgb : 149, 25, 12 Rgb : 167, 201, 87 Rgb : 168, 64, 126
+- These are the approved photos and images that we can use in marketing materials like website, flyers, Billboards and Social media, etc. These images should illustrate our committment to diversity, equity and inclusion.
+- Our logo must be used in its approved format and should not be modified. Altering the logo weakens the integrity and consistency of our brand. Here are some examples of approved usages of the logo.
+- The DFPI brand, including the logo, name, colors, and identifying elements, are valuable company assets.
+- Our brand is an essential element and must be consistent. Minor variations and alterations will undermine and compromise our visual brand. The guidelines set in this document are not meant to inhibit but to improve the creative process. By following these guidelines, the materials you create will represent the DFPI cohesively to the outside world.
+
+##### Layout And Composition
+
+- Whenever you use the logo, it should be surrounded by clear space to ensure its visibility and impact. No graphic elements of any kind should invade this zone. When using the logo, maintain a clear margin the same size as the "X" all the way around and the letter "X" represents Logo Icon. Full logo 50% clear space
+- This Brand Grid System shows an approved layout with a typography grid for DFPI web or printed articles. This Article Grid System supports our brand's desired layout configuration.
+- Our logo must be used in its approved format and should not be modified. Altering the logo weakens the integrity and consistency of our brand. Here are some examples of approved usages of the logo.
+
+##### Brand Grid System
+
+- This Brand Grid System shows an approved layout with a typography grid for DFPI web or printed articles. This Article Grid System supports our brand's desired layout configuration.
 
 ## Additional Properties
 

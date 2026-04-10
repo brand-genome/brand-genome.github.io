@@ -2,7 +2,7 @@
 title: Luther
 slug: luther
 description: ""
-date: "2026-03-20T08:22:03.840319"
+date: "2026-04-10T09:40:31.479424"
 draft: false
 sectors:
   - automobile
@@ -70,7 +70,77 @@ visual_term_image_urls: {}
 
 ### 2016
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To provide a simple, safe, and straightforward way for customers to buy and sell vehicles, emphasizing ease, transparency, and customer satisfaction [^1].
+
+##### Core Values
+
+- simplicity
+- safety
+- transparency
+- customer satisfaction
+
+##### Target Audience
+
+- Individuals seeking to buy or sell vehicles of all makes, models, and price ranges, including those looking for a hassle-free, cash-based transaction [^2].
+
+##### Personality Traits
+
+- bold
+- straightforward
+- trustworthy
+- friendly
+
+##### Visual Identity Overview
+
+- The brand uses a vivid color palette of Pantone 186 Red and Pantone 108 Yellow, bold sans-serif typography, and a consistent logo featuring the 'Luther' wordmark with a stylized red car and yellow tag. Visuals are clean, minimal, and emphasize clarity, with strict rules for logo placement, color usage, and avoidance of busy backgrounds [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- Do not scale logo.
+- Do not use manufacturer logos in conjunction with the Luther logo.
+- In alternate versions of the Luther logo, never place the car on the left side of Luther. When using only the car, keep it to the right of other objects whenever possible.
+- Never place the logo over a busy background image. Do not add a stroke to any of the Luther logos.
+- Never change the direction the car faces. It should always be facing the left, never to the right. Never change colors within the Luther Logo. Only use spot colors, Pantone 186 Red & Pantone 108 Yellow. (See page 6)
+- Do not add a stroke to any of the Luther logos.
+
+##### Color Palette
+
+- Never change colors within the Luther Logo. Only use spot colors, Pantone 186 Red & Pantone 108 Yellow. (See page 6)
+- PANTONE 186 Red CMYK = 0c 100m 8ly 4k 40% Black RGB = 207r 20g 43b 100% Black PANTONE 108 Yellow CMYK = 5c 10m l00y 0k 20% Black RGB = 246r 216g 9b u P NTONE 186 Red PANTONE 108 Yellow 40% Black 20% Black
+
+##### Typography
+
+- ITC Kabel should never be used for any text other than dealership names. (See page 7)
+- ITC KABEL - BOLD (Luther Logo ONLY, not to be used for headlines or copy)
+- TRADE GOTHIC LT STD - BOLD NO. 2 (Headline)
+- TRADE GOTHIC LT STD - REGULAR (Body Copy)
+- HELVETICA NEUE LT STD - HEAVY CONDENSED (Alternate Headline)
+- HELVETICA NEUE LT STD - CONDENSED (Alternate Body Copy)
+
+##### Visual Style
+
+- ITC Kabel should never be used for any text other than dealership names. (See page 7)
+- Do not scale logo.
+- Do not use manufacturer logos in conjunction with the Luther logo.
+- In alternate versions of the Luther logo, never place the car on the left side of Luther. When using only the car, keep it to the right of other objects whenever possible.
+- Never place the logo over a busy background image. Do not add a stroke to any of the Luther logos.
+- Never change the direction the car faces. It should always be facing the left, never to the right. Never change colors within the Luther Logo. Only use spot colors, Pantone 186 Red & Pantone 108 Yellow. (See page 6)
+- Do not add a stroke to any of the Luther logos.
+
+##### Brand Imagery
+
+- Do not scale logo.
+- Do not use manufacturer logos in conjunction with the Luther logo.
+- In alternate versions of the Luther logo, never place the car on the left side of Luther. When using only the car, keep it to the right of other objects whenever possible.
+- Never place the logo over a busy background image. Do not add a stroke to any of the Luther logos.
+- Never change the direction the car faces. It should always be facing the left, never to the right. Never change colors within the Luther Logo. Only use spot colors, Pantone 186 Red & Pantone 108 Yellow. (See page 6)
+- Do not add a stroke to any of the Luther logos.
 
 ## Additional Properties
 

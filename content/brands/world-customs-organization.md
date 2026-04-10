@@ -2,7 +2,7 @@
 title: World Customs Organization
 slug: "world-customs-organization"
 description: ""
-date: "2026-03-20T08:22:04.193334"
+date: "2026-04-10T09:40:32.547549"
 draft: false
 sectors:
   - "public-sector"
@@ -50,17 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-typographies:
-  - arial
-  - lato
-imagery_styles:
-  - bold
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: intergovernmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q605326"
 has_twitter: false
@@ -84,44 +77,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The following pages provide an overview of the WCO™s visual 
- 
-Use it as your tool to determine  what to do and what not to do as 
-
-No logos or brand identities that carry the name of the WCO or its 
-member institutions may be created without adhering to the system 
-
-About this guide
-- History of the WCO logo - versions from 1947, 1963, 1984, 1993, 1993-2018, and 2019 showcased.
-- Table of Contents referencing Master Logo, Master Logo Alternatives, Master Logo Special Uses, Tagline, Composition, Safe Area, and Forbidden Usage.
-
-**Color Information:**
-
-- Table of Contents referencing Primary Colors, Secondary Colors, Gradient Colors.
-
-**Typography Information:**
-
-- Primary Typefaces: Lato (Regular, Bold, Black), Arial (Secondary Typeface mentioned for documents like Word, PowerPoint, etc.).
-- The Arial font family includes Regular, Bold, Black. Examples of Proper Typography usage are listed.
-
-**Imagery Photography:**
-
-- Photographic Style for events and digital assets. Examples and quality recommendations provided.
-
-**Spacing Layout:**
-
-- Spacing and Layout guidelines include A4 and Square layouts for various print assets such as reports.
-- Spacing guidelines for Social Media Icons, Header Banners, and Online Templates.
-
-**Brand Voice:**
-
-- Overview of WCO's Mission, Vision, and Core Messaging Guidelines.
-
-**Notes:**
-
-- Sub-brand architecture levels (Level 0, Level 1, Level 2) detailing Masterbrand usage for themes, tools, types, programmes, and projects.
+*Guidelines data not available*
 
 ## Additional Properties
 

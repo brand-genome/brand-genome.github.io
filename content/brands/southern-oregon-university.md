@@ -2,7 +2,7 @@
 title: Southern Oregon University
 slug: "southern-oregon-university"
 description: ""
-date: "2026-03-20T08:22:04.344163"
+date: "2026-04-10T09:40:33.069079"
 draft: false
 sectors:
   - education
@@ -52,29 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - mascot
-  - wordmark
-  - primary
-brand_colors:
-  - red
-  - green
-  - gold
-  - white
-  - blue
-  - "pantone-186"
-  - brown
-  - orange
-  - black
-typographies:
-  - impact
-  - futura
-imagery_styles:
-  - dynamic
-  - graphic
-  - bold
-  - photography
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public liberal arts college in Ashland, Oregon, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q1888661"
 has_twitter: false
@@ -94,45 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Southern Oregon University logos include variations for dark and light backgrounds. Use Pantone 186 red and black as primary colors.
-- Single-color logo options are limited to black, with exceptions for stone signage and gold jewelry.
-- Mascot logos must include the custom-built white border when used on colored backgrounds.
-- Spirit marks exist in configurations with the wordmark on white, red, and black backgrounds.
-- Examples of improper mascot use include stretching proportions, omitting border, adding outlines or inconsistent color schemes, and displaying the mascot at an angle that isn't straight.
-- Rocky the Raider mascot graphic embodies SOU colors and applies to school spirit messaging rather than academic or administrative branding.
-
-**Color Information:**
-
-- Raider Red: Pantone 186, CMYK (C:0 M:100 Y:100 K:10)
-- Raider Black: CMYK (C:20 M:20 Y:20 K:100)
-- Additional palette includes Light Green (CMYK: C:40 Y:100 K:10), Gold (CMYK: M:15 Y:75 K:10), Dark Green (CMYK: C:50 Y:100 K:40), Orange (CMYK: M:40 Y:100 K:20), Light Blue (CMYK: C:20 K:25), Dark Red (CMYK: M:100 Y:100 K:40), Dark Blue (CMYK: C:100 M:10 K:40), Brown (CMYK: M:60 Y:100 K:70)
-
-**Typography Information:**
-
-- Primary typefaces: Myriad Pro (Light, Regular, Semibold, Bold, Black with Italic variants) and Minion Pro (Regular, Italic, Semibold, Bold with Italic variants).
-- Accents typefaces: Museo (100, 300, 500, 900 with Italic variants).
-- Futura is reserved for logos and signage only, not for general text.
-
-**Imagery Photography:**
-
-- Layered and inclusive atmosphere in photography and typography with emphasis on Raider Red and Black for heavy visual impact.
-- Examples include materials like Admissions Viewbook, Alumni Magazine, and promotional campaigns.
-
-**Spacing Layout:**
-
-- SOU branding employs dynamic simplicity with clean forms, careful spacing, and alignment to maintain brand consistency.
-
-**Brand Voice:**
-
-- SOU encourages inclusive leadership reflecting diverse thinking and collaboration.
-- Marketing emphasizes storytelling through design trends, consistent branding, and community promotions.
-
-**Notes:**
-
-- Social media handles are used to maintain brand consistency across platforms.
-- Detailed guidelines for sub-brand logos ensure compatibility with SOU branding principles.
+*Guidelines data not available*
 
 ## Additional Properties
 

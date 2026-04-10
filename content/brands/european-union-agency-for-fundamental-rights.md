@@ -2,7 +2,7 @@
 title: European Union Agency for Fundamental Rights
 slug: "european-union-agency-for-fundamental-rights"
 description: ""
-date: "2026-03-20T08:22:04.117054"
+date: "2026-04-10T09:40:32.200062"
 draft: false
 sectors:
   - "public-sector"
@@ -51,23 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - icon
-  - primary
-  - horizontal
-brand_colors:
-  - yellow
-  - white
-  - "pantone-109"
-  - blue
-typographies:
-  - "sans-serif"
-  - futura
-  - impact
-imagery_styles:
-  - bold
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: agency of the European Union
 wikidata_url: "https://www.wikidata.org/wiki/Q48790"
 has_twitter: false
@@ -89,42 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Consistency and proper use of FRA’s logo colors are emphasized throughout the manual, alongside variations such as full-color, negative, and standard.
-- Several logo versions including vertical, horizontal, and standalone icon are presented and recommended under specific usage guidelines.
-- Details on logo padding, minimum white space area, and recommended printing formats for both vertical and horizontal variations.
-- Guidance on the practical size constraints for logo use on stationery and digital presentations, including visibility requirements.
-
-**Color Information:**
-
-- Reflex Blue and Pantone 109 are identified as FRA’s official primary colors, with specified CMYK (e.g., CMYK 100/80/0/0) values for print and RGB/HEX codes for digital use. Reflex Blue aligns with the EU flag’s color.
-
-**Typography Information:**
-
-- Typography guidelines stress the adoption of sans-serif fonts for body text (e.g., 'Futura PT') and specific fonts for headlines, with weight variations including Light, Regular, and Bold.
-- Attention is given to contrast and readability in typographic design, specifying font sizes in templates for both print and digital formats.
-
-**Imagery Photography:**
-
-- Use of imagery is directed to reinforce the brand’s seriousness and professionalism, with recommendations on high-quality photographs depicting diversity and humanity.
-- Guidelines suggest harmonious integration of FRA’s darker yellow palette within imagery elements in brochures and presentations.
-
-**Spacing Layout:**
-
-- Grid systems for layouts are introduced to maintain standardized alignment in documents and publications; critical measurements provided.
-- Spacing attributes specify margin controls based on publication types (A4, A5, etc.) in maintaining professional alignment within documents.
-
-**Brand Voice:**
-
-- FRA’s tone is characterized as formal yet accessible, aligning with its role as an EU body representing reliable and evidence-based guidance.
-- Tagline 'Helping to make fundamental rights a reality for everyone in the European Union' reinforces the brand’s focus on societal impact.
-
-**Notes:**
-
-- Introduction by FRA Director addresses the importance of consistent visual identity as part of branding familiarity and trust—a key insight setting the stage for handbook's purpose.
-- FRA straplines, publication key identifiers, and cataloging integration instructions are noted as part of the back cover elements.
-- Specific instructions on envelope and letterhead formatting ensure standardized representation in formal correspondence.
+*Guidelines data not available*
 
 ## Additional Properties
 

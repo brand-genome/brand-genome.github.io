@@ -2,15 +2,15 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-03-20T08:22:04.498539"
+date: "2026-04-10T09:40:33.255041"
 draft: false
 sectors:
   - broadcasting
 regions:
   - germany
 years:
-  - 2002
   - 2010
+  - 2002
 languages:
   - german
 tags:
@@ -52,23 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - silver
-  - white
-  - gray
-  - "pantone-151"
-  - "pantone-421"
-  - black
-  - orange
-  - "pantone-425"
-  - "pantone-877"
-typographies:
-  - impact
-imagery_styles:
-  - bold
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "main program of the German public-service television broadcaster Zweites Deutsches Fernsehen"
 wikidata_url: "https://www.wikidata.org/wiki/Q48989"
 has_twitter: false
@@ -88,33 +75,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Only the official logo should be used in all applications. The standard version of the logo is mandatory, with the '2' always displayed in white for enhanced visibility and recognition. Variations or alterations to the logo require approval, and alterations that negatively impact readability, such as changing the '2' color, are explicitly prohibited.
-- The standard logo version is in orange and white. Negative implementations of the logo (e.g., white on black or orange backgrounds) may occur only for technical or environmental constraints (e.g., microphones) but should remain avoided as much as possible.
-- Color specifications for the logo: ZDF Orange (Pantone 151; RGB: 250-125-25; CMYK: 0-65-100-0; Web HEX #FA7D19). The orange retains its identity as part of the logo.
-- Examples of incorrect usage cited: displaying the '2' in a background color or in unauthorized colors is explicitly disallowed.
-
-**Color Information:**
-
-- ZDF Orange Color: Pantone 151; RGB: 250-125-25; CMYK: 0-65-100-0; web HEX #FA7D19.
-- House colors include Silver, Cool Gray 7, Cool Gray 2, White, Dark Gray, and replacements of ZDF silver: Pantone 425 (RGB: 79-79-79; CMYK: 0-0-0-77), etc.
-- ZDF-Silver: Pantone 877; RAL: 9006; Folie Avery 500-Facher 546 EM. Substitute with Pantone 421 RGB: 153-153-153 and Web HEX #999999 under certain circumstances, ensuring standard shading for non-metal environments.
-
-**Typography Information:**
-
-- Primary typeface: Swiss 721 BT with various cuts (Swiss Heavy, Swiss Bold, Swiss Medium, Swiss Black, Swiss Roman). These cuts are employed within both internal and external communications for consistent recognition.
-- Text is always rendered in gray, white, or orange hues. Selected cuts are responsible for representing headlines or passages (e.g., Swiss Heavy variants tailored for headers or strong program identifiers).
-- Usage guidelines prohibit mixing Swiss 721 BT with other typefaces or redundancy unless preapproved.
-
-**Brand Voice:**
-
-- The brand identity maintains clarity and trust while visually mirroring values like familiarity and integrity to suit better integration across multimedia platforms. Design ensures consistency and adaptability against evolving landscape.
-
-**Notes:**
-
-- The guidelines are structured to assist internal collaborators and external partners in establishing unified brand application across diverse media channels. Flexibility is paired with foundational rules that are modular for effective implementation.
-- Contact Corporate Design at ZDF for questions beyond these base instructions.
+*Guidelines data not available*
 
 ### 2002
 

@@ -2,7 +2,7 @@
 title: Softtech
 slug: softtech
 description: ""
-date: "2026-03-20T08:22:05.068029"
+date: "2026-04-10T09:40:33.838488"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

@@ -2,7 +2,7 @@
 title: Lindenwood University
 slug: "lindenwood-university"
 description: ""
-date: "2026-03-20T08:22:04.305394"
+date: "2026-04-10T09:40:32.992958"
 draft: false
 sectors:
   - education
@@ -56,8 +56,7 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - times
+typographies: []
 imagery_styles: []
 wikidata_description: "private liberal arts university in Saint Charles, Missouri, founded in 1827"
 wikidata_url: "https://www.wikidata.org/wiki/Q5617088"
@@ -78,25 +77,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Acceptable athletic logos for use in profile photos include outlined athletic logos (reference on page 6). Logos should never be cropped or recreated.
-- Profile photos for academic social media pages can include: the interlocking LU logo, the Lindenwood Lion from the Athletics logo, or approved academic school logos. Logos should be visible and never cropped.
-
-**Imagery Photography:**
-
-- Cover photos for academic pages should reflect visual storytelling and highlight the school or organization, using high-resolution imagery and limiting text to cover no more than 20% of the area. Logos, if used, must not be cropped or recreated.
-- Suggested cover photo imagery for athletic pages includes team photos, player images, game photos, and stadium/field images. High-resolution visuals are mandatory, with text limited to 20% of the area and logos never cropped.
-
-**Brand Voice:**
-
-- The Lindenwood tone reflects values including Excellence, Dedication, Integrity, Creativity, Teamwork, Future, Innovation, Forward-Thinking, Traditional Engagement, and Community. Writing should be conversational, highlight real campus experiences, and showcase Lindenwood's quality of education and forward-thinking.
-- Communication should answer the questions: 'Why is Lindenwood University communicating about this?' and 'What makes Lindenwood’s involvement significant?'
-
-**Notes:**
-
-- Project lead times vary significantly by deliverable type; for example, website edits require 3 business days, bi-fold brochures require up to 5 weeks, and admissions viewbooks require up to 7 months.
-- Social media guidelines provide dimensions for platform-specific images including profile pictures, cover photos, and post images for platforms including Instagram, Twitter, and LinkedIn.
+*Guidelines data not available*
 
 ## Additional Properties
 

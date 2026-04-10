@@ -2,7 +2,7 @@
 title: Institut Polytechnique de Paris
 slug: "institut-polytechnique-de-paris"
 description: ""
-date: "2026-03-20T08:22:03.077980"
+date: "2026-04-10T09:40:30.584830"
 draft: false
 sectors:
   - education
@@ -13,9 +13,9 @@ years:
 languages:
   - french
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: "French research university of engineering schools in Paris-Saclay"
 wikidata_url: "https://www.wikidata.org/wiki/Q48759778"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,12 +71,6 @@ visual_term_image_urls: {}
 - [https://www.ip-paris.fr/index.php/en](https://www.ip-paris.fr/index.php/en)
 - [http://www.ip-paris.fr](http://www.ip-paris.fr)
 - [https://www.ip-paris.fr](https://www.ip-paris.fr)
-
-## Brand Guidelines
-
-### 2025
-
-*Guidelines data not available*
 
 ## Additional Properties
 

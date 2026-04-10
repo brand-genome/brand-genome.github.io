@@ -2,7 +2,7 @@
 title: Handi Sport
 slug: "handi-sport"
 description: ""
-date: "2026-03-20T08:22:05.867246"
+date: "2026-04-10T09:40:34.901292"
 draft: false
 sectors:
   - sports
@@ -48,11 +48,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - blue
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -72,20 +68,4 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- Un nouveau logotype fédéral voit le jour.
-- 1. Le logotype fédéral
-- Le Logotype FFH
-- 1.1 Le logotype fédéral
-- 1.5 Gestion horizontale
-
-**Color Information:**
-
-- Colors include vert (green), bleu (blue), and rouge (red) for the quadrichromie version.
-
-**Typography Information:**
-
-- VAG Rounded BLACK
-- VAG Rounded Black
-- Placée sous le logotype en fer à droite
+*Guidelines data not available*

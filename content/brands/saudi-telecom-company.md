@@ -2,7 +2,7 @@
 title: Saudi Telecom Company
 slug: "saudi-telecom-company"
 description: ""
-date: "2026-03-20T08:22:04.116028"
+date: "2026-04-10T09:40:32.197237"
 draft: false
 sectors:
   - telecom
@@ -32,14 +32,14 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - internet
   - "landline-telephone"
-  - "mobile-telephony"
   - "over-the-top-media-service"
+  - internet
   - "video-game-platform"
+  - "internet-of-things"
+  - "mobile-telephony"
   - iptv
   - "cloud-computing"
-  - "internet-of-things"
 products: []
 headquarters_locations:
   - riyadh
@@ -67,14 +67,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - "sans-serif"
-imagery_styles:
-  - dynamic
-  - modern
-  - clean
-  - lifestyle
-  - vibrant
+typographies: []
+imagery_styles: []
 wikidata_description: "Saudi Arabia-based telecommunications company"
 wikidata_url: "https://www.wikidata.org/wiki/Q1535171"
 has_twitter: false
@@ -94,33 +88,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The logo presented includes a modern design with 'stc' branding. Details about alignment and visual appearance are visible on several pages.
-
-**Color Information:**
-
-- No specific color codes (Pantone, HEX, RGB, or CMYK) were visible, but the branding emphasizes vibrant tones matching the overarching theme of technology and human connection.
-
-**Typography Information:**
-
-- Typographical choices highlight clarity and forward-thinking principles linked to expressions of technology richness and simplicity. Fonts are sans-serif based, but exact names are not specified.
-
-**Imagery Photography:**
-
-- Photos highlighted focus on diverse human connection, enriched technology integration, and lifestyle amplification. Visuals aim to remain clean, inspirational, and optimistic.
-
-**Spacing Layout:**
-
-- Alignment and space rules revolve around dynamic and balanced modern layouts. Exact measurements or guidelines are not explicitly stated.
-
-**Brand Voice:**
-
-- The tone of voice emphasizes innovation, inclusivity, and excitement about technological progress. Key slogans like 'Look forward!' and 'Think ahead!' are prominent.
-
-**Notes:**
-
-- The document highlights keywords like 'Proactive,' 'Inventive,' 'Committed,' and 'Agile' for branding archetype. It emphasizes a forward-leaning and human-centric identity.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -130,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Internet](/products_or_materials_produced/internet/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Over The Top Media Service](/products_or_materials_produced/over-the-top-media-service/); [Video Game Platform](/products_or_materials_produced/video-game-platform/); [Iptv](/products_or_materials_produced/iptv/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Internet Of Things](/products_or_materials_produced/internet-of-things/) |
+| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Over The Top Media Service](/products_or_materials_produced/over-the-top-media-service/); [Internet](/products_or_materials_produced/internet/); [Video Game Platform](/products_or_materials_produced/video-game-platform/); [Internet Of Things](/products_or_materials_produced/internet-of-things/); [Mobile Telephony](/products_or_materials_produced/mobile-telephony/); [Iptv](/products_or_materials_produced/iptv/); [Cloud Computing](/products_or_materials_produced/cloud-computing/) |
 | Headquarters Location | [Riyadh](/headquarters_locations/riyadh/) |
 | Foundation Date | [1998](/foundation_dates/1998/) |
 | Freebase Id | /m/0bz_0f |

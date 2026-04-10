@@ -2,7 +2,7 @@
 title: Kean University
 slug: "kean-university"
 description: ""
-date: "2026-03-20T08:22:05.717755"
+date: "2026-04-10T09:40:34.671024"
 draft: false
 sectors:
   - education
@@ -55,8 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "public university in New Jersey, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q6382148"
 has_twitter: false
@@ -81,57 +80,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo information referenced in the document, details need manual refinement from page 2.
-- Logo information referenced in the document, details need manual refinement from page 3.
-- Logo information referenced in the document, details need manual refinement from page 4.
-- Logo information referenced in the document, details need manual refinement from page 5.
-- Logo information referenced in the document, details need manual refinement from page 6.
-- Logo information referenced in the document, details need manual refinement from page 7.
-- Logo information referenced in the document, details need manual refinement from page 9.
-- Logo information referenced in the document, details need manual refinement from page 10.
-
-**Color Information:**
-
-- Color information and specifications referenced, details need manual refinement from page 2.
-- Color information and specifications referenced, details need manual refinement from page 4.
-- Color information and specifications referenced, details need manual refinement from page 5.
-- Color information and specifications referenced, details need manual refinement from page 9.
-- Color information and specifications referenced, details need manual refinement from page 10.
-
-**Typography Information:**
-
-- Typography and fonts-related content identified on page 2.
-- Typography and fonts-related content identified on page 3.
-- Typography and fonts-related content identified on page 4.
-- Typography and fonts-related content identified on page 5.
-- Typography and fonts-related content identified on page 7.
-
-**Imagery Photography:**
-
-- Photography or imagery guidelines referenced, details need manual refinement from page 2.
-- Photography or imagery guidelines referenced, details need manual refinement from page 11.
-
-**Brand Voice:**
-
-- Tone and brand voice-related content referenced on page 4.
-
-**Notes:**
-
-- Additional insights or miscellaneous content might be useful from page 1.
-- Additional insights or miscellaneous content might be useful from page 2.
-- Additional insights or miscellaneous content might be useful from page 3.
-- Additional insights or miscellaneous content might be useful from page 4.
-- Additional insights or miscellaneous content might be useful from page 5.
-- Additional insights or miscellaneous content might be useful from page 6.
-- Additional insights or miscellaneous content might be useful from page 7.
-- Additional insights or miscellaneous content might be useful from page 8.
-- Additional insights or miscellaneous content might be useful from page 9.
-- Additional insights or miscellaneous content might be useful from page 10.
-- Additional insights or miscellaneous content might be useful from page 11.
-- Additional insights or miscellaneous content might be useful from page 12.
-- Additional insights or miscellaneous content might be useful from page 13.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: FOX Sports
 slug: "fox-sports"
 description: ""
-date: "2026-03-20T08:22:04.209583"
+date: "2026-04-10T09:40:32.578283"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
   - media
 industries: []
 countries:
@@ -75,21 +75,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- 3.0 LOGO PHILOSOPHY: FOX Sports Logo, Logo Evolution, Application Philosophy, Corporate Branding mentioned as logo-related topics.
-
-**Typography Information:**
-
-- 7.0 TYPOGRAPHY: Typographic Family, details about USCORE, USERIF, SYS fonts mentioned.
-
-**Brand Voice:**
-
-- The brand document emphasizes the FOX Sports personality via its graphics package, emotive link to viewers, and its importance in storytelling and production.
-
-**Notes:**
-
-- The document is titled '2012 Brand Guide' and discusses the importance of emotive device, storytelling values, and journalistic principles.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Hamilton
 slug: hamilton
 description: ""
-date: "2026-03-20T08:22:04.901458"
+date: "2026-04-10T09:40:33.676216"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - canada
@@ -51,9 +51,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -77,34 +75,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo story explanation and its alignment with brand values.
-- Do's and don'ts for logo usage, including restricted applications.
-- Application of the logo in various formats or cases.
-
-**Color Information:**
-
-- Specifications for primary and secondary brand colors.
-- Guidance on using shadowboxes with brand colors.
-- Guidance on using shadowboxes with brand colors.
-
-**Typography Information:**
-
-- Details on the brand's typographic style (e.g., font families, sizes).
-- Details on the brand's typographic style (e.g., font families, sizes).
-
-**Brand Voice:**
-
-- Description of the brand's voice and tone, including its key themes.
-- Accepted language usage for communication, including do's and don'ts.
-- Accepted language usage for communication, including do's and don'ts.
-
-**Notes:**
-
-- Accessibility guidance for Ontario compliance (AODA).
-- Contact details for support or brand inquiries.
-- Contact details for support or brand inquiries.
+*Guidelines data not available*
 
 ## Additional Properties
 

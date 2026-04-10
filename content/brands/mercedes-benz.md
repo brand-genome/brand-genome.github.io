@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-03-20T08:22:05.319069"
+date: "2026-04-10T09:40:34.152054"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2007
   - 2015
+  - 2007
 languages:
   - english
 tags:
@@ -27,11 +27,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "commercial-vehicle"
-  - engine
+  - bus
   - truck
   - "passenger-car"
-  - bus
+  - engine
+  - "commercial-vehicle"
 products: []
 headquarters_locations:
   - stuttgart
@@ -57,30 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - emblem
-  - wordmark
-  - primary
-brand_colors:
-  - "pantone-282"
-  - white
-  - black
-  - "pantone-877"
-typographies:
-  - arial
-imagery_styles:
-  - minimal
-  - graphic
-  - portrait
-  - natural
-  - modern
-  - photography
-  - clean
-  - gradient
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "German automobile brand owned by Mercedes-Benz AG"
 wikidata_url: "https://www.wikidata.org/wiki/Q36008"
 has_twitter: false
@@ -101,94 +81,11 @@ visual_term_image_urls: {}
 
 ### 2007
 
-**Logo Information:**
-
-- White brand mark may be featured on an uncluttered image background with sufficient contrast (at least 35%), applicable to both star and wordmarks.
-- Black brand mark is used on white backgrounds for one-color print media such as fax. The Arrowsilver brand mark (Pantone 877) may also appear on a white background for business stationery and forms.
-- Centred brand mark version: The word mark is placed 0.5 star diameters below the star (used for specific media in sponsoring and merchandising). Asymmetrical brand mark version: Word mark is positioned 0.5 diameters to the right of the star (used for special media/sponsoring). Flexible version: Minimum of 3 star diameters between star and wordmark (used for ads, posters, and brochures).
-- Clear space or buffer zone rules for layouts based on A4 format: Wordmark positioned 0.5 star diameters from bottom and 1.5 star diameters from the right edge. The star needs a buffer of at least 1 star diameter.
-- For formats 7 star diameters or less in width, the brand mark is centered with a space of 0.5 star diameters from the edges. A buffer zone of 1 star diameter is required between the logo and other elements.
-- Minimum distance for the brand mark when space is limited is 0.25 star diameters from graphic elements or format edges.
-- Specific star sizes for different formats: A0 = 80mm, A1 = 55mm, A2 = 40mm, A3 = 30mm, A4 = 20mm, A5 = 15mm, A6 = 10mm.
-
-**Color Information:**
-
-- Arrowsilver, primary brand color used in CMYK as a gradient 30° angle (light to dark) or solid Pantone 877. CMYK 5 0 0 15 | RGB 185 188 193 (light gradient) and CMYK 5 0 0 50 | RGB 82 86 97 (dark gradient).
-- Midnightblue, primary brand color used at Point of Sale and not in gradients. Pantone 282 | CMYK 100 65 0 80 | RGB 15 31 77.
-- Black (CMYK 0 0 0 100 | RGB 0 0 0) and white (CMYK 0 0 0 0 | RGB 255 255 255) may be used for typography and brand mark, as long as sufficient contrast with the background (at least 35%) is maintained.
-
-**Typography Information:**
-
-- Corporate A Typeface: Primary typeface for Mercedes-Benz visual identity. Styles: Condensed, Light, Regular, Demi with demonstrated use for headlines, subheadlines, and body copy.
-- Corporate S Typeface: Secondary typeface used for functional purposes. Styles: Light, Regular, Demi with specific roles: literature titles, page numbers, and URLs.
-- Baseline grid of 5mm is used for typography. Font sizes and line spacing (LS) are specified: Headline - Corporate A Condensed Regular (25 pt / LS 5mm), Subheadline - Corporate S Demi (10 pt / LS 5 mm), Body copy - Corporate A Regular (10 pt / LS 5mm).
-
-**Imagery Photography:**
-
-- Imagery reflects brand personality and history, emphasizing features such as personality, heritage, innovation, and elegance. Photos feature generous composition, natural colors, focus on important details, and should not include cluttered scenes or snapshots. Avoid unnatural retouches and pastel colors.
-- Themes derived from brand positioning: premium photography using extraordinary perspectives, high-quality lighting, and genuine arrangements to present elegance, power, dynamism, and clarity.
-- Moodboards include examples for vehicles, architecture, scenery focusing on high contrast, elegance, and uniqueness.
-- Imagery don'ts: Avoid snapshots, loud colors, unrealistic scenes, unnatural retouching, fragmentation, and busy backgrounds.
-
-**Spacing Layout:**
-
-- Square grid units for layouts derived from star proportions, ensuring flexibility for effectively reflecting Mercedes-Benz identity.
-- Grid specifications based on format size: A6 and smaller: 2.5mm grid, A5 to A3: 5mm grid, A2 to A0: 10mm grid.
-- Basic layout rules: Star and wordmark positioned separately (star on top right, wordmark lower right). Proportions fixed at 1 to 3 between these elements within consistent placement areas across formats. Emphasis on a flexible balance between text and imagery.
-- Recommended layout division for portrait and landscape formats. Examples include divisions such as full-format brand color image, and ratios like 2:1, 1:1, or 1:2.
-
-**Brand Voice:**
-
-- No explicit brand voice details were extracted from the visible text. Content focused on visual identity and branding.
-
-**Notes:**
-
-- Brand guidelines provide detailed technical specifications for logo clear space, usage, dimensions, color gradients, typography, photography rules, grid systems, and common layout divisions for Mercedes-Benz branding.
+*Guidelines data not available*
 
 ### 2015
 
-**Logo Information:**
-
-- Always showcase the Mercedes-Benz logo in consistent use and without modification.
-- The star logo should appear on all communications, positioned on the bottom right in print for publications.
-- Logo wordmark and symbols must not violate proportions or spacing.
-- Clear space must maintain at least a distance of 'x-height' from surrounding objects.
-- Incorrect logo uses include stretching or modifying the emblem or using unapproved colors.
-
-**Color Information:**
-
-- Pantone-equivalent four-color logo should be used wherever possible.
-- Use black or white logo variants depending on background contrast.
-- Specific RGB color values are supplied for web use.
-
-**Typography Information:**
-
-- Headline typeface: Mercedes-Benz Corporate A (Primary).
-- Subheadlines: Mercedes-Benz Corporate S Demi.
-- Body copy and disclaimers: Arial allowed for digital communications.
-
-**Imagery Photography:**
-
-- Maintain tone and mood in all imagery with minimal clutter and composed lighting.
-- Visual elements should be aspirational and align with premium brand perception.
-- General focus on clean, modern compositions for photography usage.
-
-**Spacing Layout:**
-
-- Maintain proportions for horizontal vs vertical layouts within a 2:3:5 split.
-- Ensure baseline logo alignment at a defined minimum line spacing from imagery.
-- Horizontally aligned layouts must center visual hierarchy on the Mercedes logo.
-
-**Brand Voice:**
-
-- Tone maintains exclusivity, reflecting luxury and aspirational language.
-- Official brand taglines include 'The Best or Nothing.'
-- Avoid misleading or ambiguous value comparisons of products.
-
-**Notes:**
-
-- This document forms the basis for Tier 3 Compliance standards.
-- All deviations from guidelines must get pre-approval from the brand marketing team.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -198,7 +95,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Bus](/products_or_materials_produced/bus/) |
+| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Engine](/products_or_materials_produced/engine/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
 | Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |

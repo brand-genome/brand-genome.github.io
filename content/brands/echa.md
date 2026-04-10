@@ -2,7 +2,7 @@
 title: ECHA
 slug: echa
 description: ""
-date: "2026-03-20T08:22:04.238976"
+date: "2026-04-10T09:40:32.776543"
 draft: false
 sectors:
   - "public-sector"
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-129"
-  - white
-  - "pantone-293"
-  - gray
-  - black
-typographies:
-  - verdana
-  - georgia
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: agency of the European Union
 wikidata_url: "https://www.wikidata.org/wiki/Q48798"
 has_twitter: false
@@ -88,52 +76,182 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- 1.1 Logo and icon
-- 1.1 Other logos
-- The minimum clear space around the logo and icon must at least equal 1/2 the height of the symbol.
-- The minimum width of the logo is 30 mm.
-- Always use the primary logo version. Secondary or alternative versions should only be used as needed for specific requirements.
-- Primary logos may exist in full-color, grayscale, and black-and-white formats.
-- File formats mentioned include EPS and PDF for the logos.
-- Do not stretch, skew, or alter the logo in any way.
-- The logo should never appear without the logotype.
+##### Mission
 
-**Color Information:**
+- Nous sommes le pure player des centres commerciaux en Europe. Nous associons intelligence et instinct du commerce pour démultiplier les succès de nos enseignes [^1].
 
-- ECHA's primary corporate color palette includes defined Pantone, CMYK, and RGB values.
-- Pantone 129: CMYK 0,40,100,0 / RGB 255,153,0
-- Pantone Cool Gray 1: CMYK 0,0,0,11 / RGB 235,235,235
-- Pantone 293: CMYK 100,65,0,0 / RGB 0,70,173
-- Secondary color palette supports miscellaneous purposes.
+##### Core Values
 
-**Typography Information:**
+- anticipation
+- engagement
+- performance [^2]
 
-- Apex Sans is used for body text, small titles, and tables.
-- Chronicle Text is used for main titles, headings, and lead texts.
-- Avoid using Chronicle Text for very small font sizes.
-- For Office applications, substitute fonts include Verdana and Georgia.
+##### Target Audience
 
-**Imagery Photography:**
+- Enseignes et consommateurs des centres commerciaux européens [^3].
 
-- Visual elements include iconography, symbols, and graphic artwork.
-- Mood boards for image treatment show preference for genuine, relatable styles over polished generic visuals.
+##### Personality Traits
 
-**Spacing Layout:**
+- créative
+- constructive
+- connectée
+- statutaire
+- audacieuse
+- innovante
+- lumineuse [^4]
 
-- Master layout grids are defined to maintain consistency across different media.
-- Layout grid guidelines exist for signage applications.
-- Templates include predefined spacings for consistency in e-newsletters and press layouts.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- Identité visuelle moderne et architecturée, centrée sur un logo stylisé 'K' avec des formes géométriques, une palette de couleurs dégradées (bleu, violet, magenta), typographie Museo Sans, iconographie simple et contrastée, et un style graphique inspiré du symbole du logo [^5] .
 
-- The tone of the brand voice is stable, aligned with ECHA's principles.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Guidelines outline mandatory principles for use of logo, colors, and typography.
-- There are separate guidelines for visual elements used in different materials.
+- les photographies sont simples et immédiates avec un sujet principal. Les couleurs sont fraîches, vives et contrastées.
+- Attention : Il est interdit de mettre un filtre de couleurs sur les photos pour en changer leur teinte principale. Les couleurs doivent rester naturelles.
+- Il est interdit d'ajouter des filtres sur les photos, qui ne les rendent pas naturelles.
+- Image ne mettant en valeur ni les shoppers, ni l'enseigne.
+- Image sombre et sans contraste.
+- Ne pas mélanger des photos en noir et blanc et des photos en couleurs sur un même support.
+
+##### Color Palette
+
+- PANTONE 2766 C CMJN 100/85/0/75 RVB 20/27/77
+- PANTONE 513 C CMJN 44/90/0/0 RVB 147/50/142
+- P. PROC. MAGENTA C CMJN 0/100/0/0 RVB 212/15/125
+- Attention : Le dégradé, issu du symbole du logo, ne s'utilise qu'à l'horizontal.
+- P. COOL GREY 9 CMJN 0/0/0/70 RVB 117/120/123
+- POUR LES GRAPHIQUES, LES TABLEAUX ET LES CARTOUCHES, QUAND LES COULEURS PRINCIPALES NE SUFFISENT PAS.
+- LES TRAMÉES (ISSUES DES COULEURS PRINCIPALES)
+- CMJN 50/42/0/37 RVB 137/141/166
+- CMJN 22/45/0/0 RVB 201/152/198
+- CMJN 0/50/0/0 RVB 233/135/190
+- CMJN 20/17/0/15 RVB 208/209/219
+- CMJN 9/18/0/0 RVB 233/214/232
+- CMJN 0/20/0/0 RVB 246/207/229
+- CMJN 100/50/0/0 RVB 0/87/184
+- CMJN 79/79/0/0 RVB 104/91/199
+- CMJN 0/100/75/0 RVB 228/1/52
+- CMJN 0/0/0/35 RVB 186/187/189
+- CMJN 0/0/0/14 RVB 227/228/229
+- Les couleurs tramées et secondaires s'utilisent en mineur. en complément des principales. prioritaires
+- Attention à la lisibilité.
+- Ne pas utiliser de couleurs qui n'appartiennent pas à la palette
+- Ne pas utiliser de couleurs tramées dans les titres.
+- Ne pas mettre une page entière de texte en couleurs.
+- Ne pas mettre de texte courant en couleurs tramées.
+
+##### Typography
+
+- TYPOGRAPHIE (MUSEO SANS)
+- WE MAKE IT BETTER EVERYDAY
+- Museo Sans EN ÉDITION ABCDEFGHIJKLMNOPORSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123 ABCDEFGHIJKLMNOPORSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123 ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123
+- Arial EN BUREAUTIQUE ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 €&#*@ ;?! ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 €&#*@ ;?!
+- Ne pas modifier la typographie du logotype.
+- Ne pas mettre la typographie en dégradé.
+- Ne pas utiliser de couleurs tramées dans les titres.
+- Ne pas mettre une page entière de texte en couleurs.
+- Ne pas mettre de texte courant en couleurs tramées.
+
+##### Logo Usage
+
+- UTILISATION SUR FOND CLAIR À PRIVILÉGIER SYMBOLE TYPOGRAPHIE PANTONE 2766 C CMJN 100/85/0/75 RVB 20/27/77
+- SUR FOND BLANC
+- UTILISATION EXCEPTIONNELLE : LA VERSION MONOCHROME Pour les impressions en noir & blanc. KLEPIERRE NOIR CMJN 0/0/0/100 RVB 0/0/0
+- EXEMPLE SUR FOND CLAIR
+- EXEMPLE SUR FOND GRIS CLAIR
+- Attention Le visuel ne doit pas perturber le logo.
+- UTILISATION SUR FOND FONCÉ USAGE LIMITÉ VERSION BLANCHE □ BLANC CMJN 0/0/0/0 RVB 255/255/255
+- SUR FOND COULEURS CORPORATES (P.14) Logo en négatif.
+- UTILISATION EXCEPTIONNELLE LE LOGO DANS UN CARTOUCHE SUR FOND FONCÉ Quand les couleurs corporates ne sont pas présentes sur la page logo en positif dans un cartouche.
+- Les couleurs corporates (p. 14) sont présentes sur la page : logo en négatif. Attention Le visuel ne doit pas perturber le logo.
+- Afin que le logo soit toujours visible, un espace de protection doit être respecté.
+- Une taille minimum a été définie pour assurer la lisibilité du logo sur tous les supports.
+- TAILLE MINIMUM Logo en print & en digital 10mm 40 pixels
+- ESPACE DE PROTECTION
+- 2 POSITIONS POSSIBLES EN PRINT ET EN DIGITAL: - en haut a gauche, - ou en bas a droite.
+- TAILLE & PLACEMENT COUVERTURE -A4 DOS -A4 1 r 1 L ERR L _J LEP0ER L _J 2jµ 2: CLEPIERRE □ L _J hauteur totale CLEPIERRE jµ 2E 1 Exped I L SR Nimpori -1 -Tincias X l 1/6 de la KLEPIERRE [ KLEPIERRE 1 hauteur 21/8 de la I IL: E [* -
+- Ne pas utiliser le logo en couleur monochrome.
+- Ne pas modifier la forme du symbole.
+- Ne pas modifier les proportions du logo.
+- Ne pas modifier la typographie du logotype.
+- Ne pas mettre la typographie en dégradé.
+- Ne pas transformer les couleurs du dégradé.
+- Ne pas mettre le logotype sur un fond confus
+- Ne pas mettre le logotype couleurs sur un fond foncé.
+- Ne pas utiliser le logotype blanc si les couleurs corporates ne sont pas présentes
+
+##### Tone And Messaging
+
+- Une marque est bien plus qu’un logo commun. Elle est l’expression d’un positionnement fort et unique sur nos marchés : « Nous sommes le pure player des centres commerciaux en Europe. Nous associons intelligence et instinct du commerce pour démultiplier les succès de nos enseignes».
+- Elle exprime aussi les valeurs qui nous rapprochent, traduisant notre volonté d’anticipation, notre engagement et notre performance.
+- Une marque unique est un atout précieux dont chacun tirera bénéfice dans son travail quotidien, c’est aussi une responsabilité partagée. Il nous appartient de lui donner l’impact et le leadership international qu’elle mérite en s’assurant qu’elle est appliquée de manière cohérente partout, par tous.
+- Cette charte graphique définit les règles d’utilisation des différents éléments composant notre identité visuelle. C’est en respectant ces règles que nous garantirons la cohérence de notre image de marque pour construire ensemble une marque plus forte.
+- Une marque créative, constructive et connectée
+- Incarnant à la fois une identité statutaire qui trouve ses fondements dans les métiers de l'immobilier et une nouvelle image audacieuse tournée vers l'avenir, le nouveau logo capitalise sur l'initiale « K» très architecturée, évoquant le jeu de construction et symbolisant le mouvement vers l'avant. l'innovation et la performance. Klépierre est une marque connectée, en prise avec son temps, comme l'illustre la forme de « plug », qui valorise son rôle de catalyseur de rencontres entre marques et consommateurs.
+- Le code couleur exprime sa double appartenance au monde de l'immobilier et à l'univers du retail une marque qui déploie son expertise du commerce pour créer, gérer, développer et animer des lieux attractifs, une marque lumineuse qui met en évidence la dimension émotionnelle du shopping et l'attention toute particulière portée au consommateur.
+- WE MAKE IT BETTER EVERYDAY
+
+##### Brand Values
+
+- Elle exprime aussi les valeurs qui nous rapprochent, traduisant notre volonté d’anticipation, notre engagement et notre performance.
+
+##### Visual Style
+
+- Le code couleur exprime sa double appartenance au monde de l'immobilier et à l'univers du retail une marque qui déploie son expertise du commerce pour créer, gérer, développer et animer des lieux attractifs, une marque lumineuse qui met en évidence la dimension émotionnelle du shopping et l'attention toute particulière portée au consommateur.
+- PANTONE 2766 C CMJN 100/85/0/75 RVB 20/27/77
+- Attention Le visuel ne doit pas perturber le logo.
+- BLANC CMJN 0/0/0/0 RVB 255/255/255
+- SUR FOND COULEURS CORPORATES (P.14) Logo en négatif.
+- Quand les couleurs corporates ne sont pas présentes sur la page : logo en positif dans un cartouche.
+- Un espace de protection doit être respecté.
+- Une taille minimum a été définie pour assurer la lisibilité du logo sur tous les supports.
+- TAILLE MINIMUM Logo en print & en digital 10mm 40 pixels
+- 2 POSITIONS POSSIBLES EN PRINT ET EN DIGITAL: - en haut a gauche, - ou en bas a droite.
+- Attention : Le dégradé, issu du symbole du logo, ne s'utilise qu'à l'horizontal.
+- PANTONE 513 C CMJN 44/90/0/0 RVB 147/50/142
+- P. PROC. MAGENTA C CMJN 0/100/0/0 RVB 212/15/125
+- P. COOL GREY 9 CMJN 0/0/0/70 RVB 117/120/123
+- POUR LES GRAPHIQUES, LES TABLEAUX ET LES CARTOUCHES, QUAND LES COULEURS PRINCIPALES NE SUFFISENT PAS.
+- LES TRAMÉES (ISSUES DES COULEURS PRINCIPALES)
+- CMJN 50/42/0/37 CMJN 22/45/0/0 CMJN 0/50/0/0 RVB 137/141/166 RVB 201/152/198 RVB 233/135/190 CMJN 20/17/0/15 CMJN 9/18/0/0 CMJN 0/20/0/0 RVB 208/209/219 RVB 233/214/232 RVB 246/207/229
+- CMJN 100/50/0/0 CMJN 79/79/0/0 CMJN 0/100/75/0 RVB 0/87/184 RVB 104/91/199 RVB 228/1/52
+- CMJN 0/0/0/35 RVB 186/187/189
+- CMJN 0/0/0/14 RVB 227/228/229
+- Ne pas utiliser de couleurs qui n'appartiennent pas à la palette
+- Ne pas utiliser de couleurs tramées dans les titres.
+- Ne pas mettre une page entière de texte en couleurs.
+- Ne pas mettre de texte courant en couleurs tramées.
+- Les couleurs tramées et secondaires s'utilisent en mineur. en complément des principales. prioritaires
+- Attention à la lisibilité.
+- Elles sont issues du symbole du logo, à différentes échelles, et doivent comporter au moins une courbe.
+- Il est directement inspiré des formes du logo (avec des angles et des arrondis)
+- Il s'utilise -en dégradé, - aux couleurs de la charte, - en plein, - au fil.
+
+##### Iconography
+
+- les photographies sont simples et immédiates avec un sujet principal. Les couleurs sont fraîches, vives et contrastées.
+- Attention : Il est interdit de mettre un filtre de couleurs sur les photos pour en changer leur teinte principale. Les couleurs doivent rester naturelles.
+- Il est interdit d'ajouter des filtres sur les photos, qui ne les rendent pas naturelles.
+- Image ne mettant en valeur ni les shoppers, ni l'enseigne.
+- Image sombre et sans contraste.
+- Ne pas mélanger des photos en noir et blanc et des photos en couleurs sur un même support.
+
+##### Layout And Composition
+
+- Afin que le logo soit toujours visible, un espace de protection doit être respecté.
+- Une taille minimum a été définie pour assurer la lisibilité du logo sur tous les supports.
+- TAILLE MINIMUM Logo en print & en digital 10mm 40 pixels
+- # ESPACE DE PROTECTION
+- 2 POSITIONS POSSIBLES EN PRINT ET EN DIGITAL: - en haut a gauche, - ou en bas a droite.
+- # TAILLE & PLACEMENT
+- Ne pas modifier la forme du symbole.
+- Ne pas modifier les proportions du logo.
+- Ne pas mettre le logotype sur un fond confus
+- Ne pas mettre le logotype couleurs sur un fond foncé.
 
 ## Additional Properties
 

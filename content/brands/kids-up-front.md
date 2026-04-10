@@ -2,7 +2,7 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-03-20T08:22:04.336954"
+date: "2026-04-10T09:40:33.049807"
 draft: false
 sectors:
   - ngo
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
-typographies:
-  - nunito
-  - avenir
-imagery_styles:
-  - bold
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: charitable organization from Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q137366507"
 has_twitter: false
@@ -88,32 +80,83 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo is presented with variations in Black and White.
+##### Mission
 
-**Color Information:**
+- Strengthen the brand across the country by conveying character and personality, ensuring proper application of the brand identity in all designs [^1].
 
-- Primary color: HEX #046cb5, RGB (4, 108, 181), CMYK (90, 56, 1, 0).
-- Secondary color: HEX #81bb43, RGB (129, 187, 67), CMYK (55, 4, 99, 0).
-- Accent color 1: HEX #e65526, RGB (230, 85, 38), CMYK (4, 82, 100, 1).
-- Accent color 2: HEX #f8bb08, RGB (248, 187, 8), CMYK (3, 28, 100, 0).
-- Neutral color: HEX #ffffff, RGB (255, 255, 255), CMYK (0, 0, 0, 0).
+##### Core Values
 
-**Typography Information:**
+- simple
+- impactful
+- fun
+- clean
 
-- Primary font: Avenir. Styles include Regular, Oblique, and Bold.
-- Fallback font: Nunito, to be used if Avenir is unavailable online.
-- Avenir contains numbers, special characters, uppercase/lowercase letters, and symbols.
+##### Target Audience
 
-**Brand Voice:**
+- Children and their guardians, with an emphasis on diversity, inclusion, and community [^2].
 
-- Brand identity characteristics are designed to be simple, impactful, fun, and clean.
-- It is recommended to seek clarification when unsure about applying the brand identity to avoid misuse.
+##### Personality Traits
 
-**Notes:**
+- energetic
+- friendly
+- approachable
+- youthful
+- inclusive
+- positive
 
-- The document intent is to strengthen the brand and ensure consistent application.
+##### Visual Identity Overview
+
+- The visual identity is playful, vibrant, and clean, featuring lively imagery of children, a modern and whimsical logo, bright and diverse color palettes, and simple, approachable typography. The brand emphasizes inclusion, energy, and community through its imagery and design elements [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Our brand should convey our character and personality.
+- This brand identity was design to be: • Simple, and impactful • Fun, and clean
+
+##### Brand Imagery
+
+- Children Celebrating Outdoors - The image should feature a lively, energetic scene with children in a sports or outdoor activity setting, possibly in a stadium or open field, with a large audience or crowd in the background that appears to be celebrating or cheering. The scene includes children raising their arms triumphantly, with some looking upwards or towards the center, conveying excitement and enthusiasm. The background should have a textured, vibrant blue tone that suggests a stylized or artistic overlay, with abstract splashes or splatters contributing to a dynamic atmosphere. The visual elements should emphasize diversity among children in terms of appearance, hair, and clothing, and include details like sportswear or casual attire. The top left corner should display the 'Kids Up Front' logo, and nearby the logo, the year '2021' is visible in small, contrasting text. In the center or upper part of the image, the phrase 'Brand Guidelines' is prominently displayed in white, clean, modern font, ensuring clear readability. The overall composition should evoke themes of youth, energy, community, and branding, with a focus on inclusion and positivity.
+- Empty Plain Background - The image would likely depict a blank or empty space, primarily white or plain background, with no discernible objects, subjects, or details present, conveying a minimal or undefined scene with no specific elements or features.
+- Girl in Nature - The picture should feature a young girl with curly brown hair and a light skin tone, outdoors in a natural setting with a blurred green background that suggests grass and foliage. She is wearing a white top with a slight ruffle, and her face is not visible as it is obscured by a large, blurred square covering her facial features. Her hair appears voluminous and natural, cascading over her shoulders. She might be wearing small earrings, and her posture indicates she is facing slightly to her left. The overall scene conveys a bright, sunny day with soft, natural lighting and a calm, outdoor environment.
+
+##### Color Palette
+
+- ### Brand Guidelines Color Palette Primary <table><tr> <td> #046c65</td> <td> #816643</td> </tr> <tr> <td> R4G108B181</td> <td> R129 G187 B67</td> </tr> <tr> <td> C90 M56 Y1 K0</td> <td> CSS M4 Y99 K0</td> </tr></table> Secondary #ffffff R255 G255 B255 C0 M0 Y0 K0 Accents <table><tr> <td> #e65526 #f86608</td> </tr> <tr> <td> R230 G85 B38 R248 G187 B8</td> </tr> <tr> <td> C4 M82 Y100 K1 C3 M28 Y100 K0</td> </tr></table>
+
+##### Typography
+
+- # Brand Guidelines Typography
+- # Avenir
+- ## Paragraph font
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- abcdefghijklmnopqrstuvwxyz
+- 1234567890!@#$%^&*()-_+=<>
+- ## Regular
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin varius mi et imperdiet pulvinar. Suspendisse sit amet orci eu metus vestibulum tempus.
+- ## Oblique
+- ## If Avenir is not available online, please use:
+- Nunito
+- ## Bold
+
+##### Tone And Messaging
+
+- Our brand should convey our character and personality.
+- This brand identity was design to be: • Simple, and impactful • Fun, and clean
+
+##### Brand Values
+
+- We have developed this book with the intention of strengthening our brand across the country. Our brand should convey our character and personality.
+- This brand identity was design to be: • Simple, and impactful • Fun, and clean
+
+##### Visual Style
+
+- The image should feature a lively, energetic scene with children in a sports or outdoor activity setting, possibly in a stadium or open field, with a large audience or crowd in the background that appears to be celebrating or cheering. The scene includes children raising their arms triumphantly, with some looking upwards or towards the center, conveying excitement and enthusiasm. The background should have a textured, vibrant blue tone that suggests a stylized or artistic overlay, with abstract splashes or splatters contributing to a dynamic atmosphere. The visual elements should emphasize diversity among children in terms of appearance, hair, and clothing, and include details like sportswear or casual attire. The top left corner should display the 'Kids Up Front' logo, and nearby the logo, the year '2021' is visible in small, contrasting text. In the center or upper part of the image, the phrase 'Brand Guidelines' is prominently displayed in white, clean, modern font, ensuring clear readability. The overall composition should evoke themes of youth, energy, community, and branding, with a focus on inclusion and positivity.
+- The image features a clean, minimalist design with a white background. At the top, centered and spaced evenly, the words 'Brand Guidelines' are displayed in a light green, sans-serif font with a moderate size, possibly around 20-25 pixels. Below this, prominently centered and occupying a significant portion of the image, is the word 'About' in a large, bold, dark blue, sans-serif font, likely around 50-60 pixels in size. The layout emphasizes clarity and professionalism, with the contrasting colors drawing attention to the main focus—the 'About' section—while the 'Brand Guidelines' text provides context at the top. The entire composition is symmetrical, balanced, and designed to be easily readable and visually appealing.
+- This brand identity was design to be: • Simple, and impactful • Fun, and clean
 
 ## Additional Properties
 

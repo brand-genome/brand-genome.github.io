@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-03-20T08:22:04.550715"
+date: "2026-04-10T09:40:33.345309"
 draft: false
 sectors:
   - sports
@@ -49,22 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - primary
-  - horizontal
-brand_colors:
-  - white
-typographies:
-  - impact
-  - arial
-imagery_styles:
-  - graphic
-  - bold
-  - subtle
-  - lifestyle
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "men's top professional football division of the Spanish football league system"
 wikidata_url: "https://www.wikidata.org/wiki/Q324867"
 has_twitter: false
@@ -83,44 +71,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Composite logo serves as the official seal with clear usage and proportion rules. It includes 'DESCRIPTOR PATROCINADOR' in Core Sans 75 ExtraBold, uppercase, and a tracking of 100 for readability. There are guidelines for the size of the composite logo based on format dimensions: 5% of the longest side for the horizontal version and 7% for the vertical version. The position of the composite logo is flexible and can be placed either at the top, bottom, or on the right if the left side is already occupied by other logos. When placed on white, the composite has no outline.
-- Composite logo includes a color version as well as a monochrome version, both used based on the situation. A category descriptor is written in the aforementioned style within the composite logo (Core Sans 75 ExtraBold uppercase).
-- Different composite logo examples are displayed across horizontal and vertical formats, with variations such as 'DESCRIPTOR PATROCINADOR.'
-- For LaLiga merchandise and photocall compositions, the recommended version of the logo is used unless specific circumstances require using another version. Monochrome versions are also available depending on event characteristics.
-
-**Color Information:**
-
-- All principal LaLiga colours, including usage guidelines for photocall composition and TV compound branding. TV compound branding features up to 4 principal colours for international markets or 5 principal colours for Spanish markets. Photocall backdrops can be customized for needed events while adhering to LaLiga's colour palette.
-
-**Typography Information:**
-
-- LaLiga uses Core Sans as its primary font (both desktop and web). Recommendations for font weights and usage: Core Sans 65 Bold for main headings, Core Sans 85 Heavy for emphasized words, Core Sans 45 Regular for body copy, and italics for names of works and foreign words. Automatic line spacing is recommended.
-- Arial must be used as the system font for sharing standard documents.
-- Fonts for international markets: Noto Sans CJK for simplified/traditional Chinese, Japanese, and Korean characters; Cairo font for Arabic, Farsi, and Urdu. These support multiple weights for communication flexibility.
-- LaLiga-specific typographic device: A graphical beat effect created with repeated font words (words under six characters in uppercase). Enhances visual impact and avoids saturation in repetitive typography.
-- When LaLiga is written in text (headings or body), the two 'L' letters are capitalized with no space between 'La' and 'Liga.' The written brand adopts the font/weight of the surrounding graphic, avoiding bold emphasis to not turn it into a logotype. Follows sentence or text capitalization rules.
-
-**Imagery Photography:**
-
-- Reference images are shared for various merchandise sections. Some include branded merchandise like sports balls, bags, shirts, and pedestals with high emphasis on design to convey LaLiga's identity.
-- Photocall options use the full LaLiga colour palette, customized for event characteristics and sponsorship needs. Photocalls incorporate both LaLiga and sponsor branding.
-
-**Spacing Layout:**
-
-- Proportional sizing of composite logo is specified: horizontal logos are 5% of the longest side, vertical logos are 7%. Flexible placement rules indicate positioning based on layout suitability (left, top, or bottom).
-- For descriptors inside composite logos, spacing adjustments are applied with 100 tracking for improved legibility.
-
-**Brand Voice:**
-
-- LaLiga's brand tone is emotional, emphasizing leadership, innovation, quality, and ethical responsibility. It appeals to a global audience and promotes itself as a lifestyle brand.
-- LaLiga merchandise reflects its values and image, from corporate gifts requiring subtle branding to mass merchandise prioritizing identification.
-
-**Notes:**
-
-- The purpose of this manual is to provide globally unified brand guidelines for LaLiga to maintain visual, communicative, and ethical consistency across applications (as of March 2020).
-- The manual includes sections for claims, typography, color usage, co-branding, merchandising, and more. For any doubts, Brand Department must be consulted.
+*Guidelines data not available*
 
 ## Additional Properties
 

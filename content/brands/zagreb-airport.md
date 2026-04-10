@@ -2,7 +2,7 @@
 title: Zagreb Airport
 slug: "zagreb-airport"
 description: ""
-date: "2026-03-20T08:22:04.250605"
+date: "2026-04-10T09:40:32.839240"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - aeronautic
+  - featured
 industries: []
 countries:
   - croatia
@@ -48,26 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - "pantone-485"
-  - gold
-  - white
-  - blue
-  - "pantone-871"
-  - "pantone-2758"
-  - "pantone-292"
-  - black
-  - "pantone-877"
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: main international airport of Croatia; base of the Croatian Air Force and Air Defence
 wikidata_url: "https://www.wikidata.org/wiki/Q128016"
 has_twitter: false
@@ -88,49 +72,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Relations between logo and the logotype are defined, indicating multiple logo versions are described in the document.
-- Primary logo: White on blue background. Recommended for occasions where reproduction and design allow.
-- Secondary logo: Blue on white and light backgrounds. Used when reproduction techniques don’t allow primary logo usage.
-- Black-White logo: Tertiary logo used when colored reproduction isn't possible, e.g., engraving or stamps.
-- Minimum logo size is defined by a height of 5 mm for the primary logo. If used at larger dimensions, proportional increments (e.g., 500%, 600%, etc.) apply.
-- Minimum logo size for negative context: 6 mm height, following similar proportional enlargement rules.
-- Logo clear space defined using a triangle dimension extracted from the logo, ensuring visual integrity.
-- Horizontal logotype: White on blue background as primary, blue on white and light backgrounds as secondary, and black-and-white usage for monochromatic contexts.
-- Horizontal logotype dimensions for negative contexts: Minimum height defined as 7 mm.
-- Logotype's clear space defined by a triangle dimension extracted from the logo.
-
-**Color Information:**
-
-- Primary color: ZAG Blue - Pantone 2758 C, RGB: R 33 G 44 B 87, CMYK: C 100 M 88 Y 35 K 30.
-- Secondary color: ZAG Red - Pantone 485 C, RGB: R 226 G 33 B 28, CMYK: C 2 M 95 Y 94 K 1.
-- Additional highlight: ZAG Light Blue - Pantone 292 C, RGB: R 89 G 178 B 231, CMYK: C 63 M 14 Y 0 K 0.
-- Special use colors for limited occasions: Silver - Pantone 877 C, Gold - Pantone 871 C.
-
-**Typography Information:**
-
-- Primary Typeface: Typonine Sans Pro with 8 weights (Light, Light Italic, Regular, Italic, Medium, Medium Italic, Bold, Bold Italic).
-- Secondary typeface allowed only under specific conditions such as Cyrillic, Greek, Arabic alphabets, or illustrative purposes.
-- Memo typography: Typonine Sans Pro Normal (8/9.6 pt) and Bold (8/9.6 pt). Writing uses Helvetica Neue (10/12 pt).
-
-**Imagery Photography:**
-
-- Discontinuous (non-uniform photographic) surfaces require careful use of the logo to ensure readability. Avoid small or busy areas.
-
-**Spacing Layout:**
-
-- Logo clear space is dynamically proportional and relies on the dimensions of a triangle extracted from the logo itself.
-
-**Brand Voice:**
-
-- Slogan concept: 'Choose your path' used contextually for destinations, events, and marketing (e.g., 'Choose your path to love').
-
-**Notes:**
-
-- Brand's visual identity is inspired by a triangle-shaped grid structure seen at Zagreb airport terminal and references the roof of St. Mark’s Church in Zagreb.
-- Special designs for merchandise (e.g., protective gear, T-shirts, bags) often use the grid of negative/positive spaces or the elements of St. Mark’s Church.
-- Secondary communication materials utilize graphical elements that reflect Zagreb’s iconic locations.
+*Guidelines data not available*
 
 ## Additional Properties
 

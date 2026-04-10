@@ -2,7 +2,7 @@
 title: "#WeMakeEvents"
 slug: wemakeevents
 description: ""
-date: "2026-03-20T08:22:04.017010"
+date: "2026-04-10T09:40:31.999712"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - cultural
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,18 +54,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.plasa.org/we-make-events](https://www.plasa.org/we-make-events)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*

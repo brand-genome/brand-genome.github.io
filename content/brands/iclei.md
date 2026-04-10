@@ -2,7 +2,7 @@
 title: ICLEI
 slug: iclei
 description: ""
-date: "2026-03-20T08:22:04.218178"
+date: "2026-04-10T09:40:32.606570"
 draft: false
 sectors:
   - ngo
@@ -48,24 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - primary
-  - favicon
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - yellow
-  - black
-typographies:
-  - arial
-  - verdana
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q5969619"
 has_twitter: false
@@ -88,43 +74,138 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- The ICLEI logo consists of the logo mark, the text 'ICLEI', and the tagline 'Local Governments for Sustainability'. The logo mark cannot be used without the tagline, except as a website favicon.
-- Greyscale version of the ICLEI logo is reserved specifically for black-and-white printing applications.
-- The reverse (white) version of the ICLEI logo is used in exceptional cases when readability is a concern due to the background or a partner/project requirement.
-- Horizontal logo variation is permitted only in exceptional cases where vertical logo readability or alignment constraints exist.
-- Clear space around the ICLEI logo must be maintained, with the white space considered part of the logo. Exact guidelines for spacing around different variations are detailed.
-- Minimum size requirements: For print applications, height of logo circles must be at least 12.5 mm. For digital applications at 72 dpi, height must be 80 pixels.
-- Logo placement guidelines: Logos should be centered and positioned on a white background, avoiding tight cropping or proximity to page margins.
-- Examples of incorrect usage include distorting proportions, altering colors, applying drop shadows, and placing logos on backgrounds that compromise readability.
+##### Mission
 
-**Color Information:**
+- To represent the connections that ICLEI makes as the leading network for local governments committed to sustainability, amplifying collective learnings worldwide and reinforcing a common mission to change the world [^1].
 
-- Primary colors include ICLEI lagoon (#00646c), ICLEI blue (#9fdde4), ICLEI light blue, ICLEI yellow, and ICLEI green (#afd778). Complementary secondary colors and tints are defined for graphs and additional visual needs.
-- Grey tints: ICLEI dark grey, ICLEI light grey (#e5e4e4), and ICLEI black (#000000) are reserved for backgrounds, borders, and body text.
+##### Core Values
 
-**Typography Information:**
+- sustainability
+- collaboration
+- global community
+- individuality within unity
+- participation
+- environmental responsibility
 
-- Primary font is Noto Sans in weights Light, Regular, and Bold. For digital publications such as social media cards, reports, and brochures.
-- Additional system fonts include Verdana, Arial, and Calibri in Regular and Bold weights for use in Word and PowerPoint applications.
+##### Target Audience
 
-**Imagery Photography:**
+- Local governments, regional and country offices, intergovernmental organizations, not-for-profit organizations, private sector entities, and members of the ICLEI network [^2].
 
-- The ICLEI Mosaic reinforces individuality as well as belonging to a global community. It consists of deconstructed parts of the ICLEI logo, recombined creatively to enhance visual identity.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- professional
+- approachable
+- clean
+- minimalist
+- vibrant
+- inclusive
 
-- Example layouts for ICLEI Mosaic include corner placement (top-right, bottom-left, bottom-right), partial overlays, and mirrored designs.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a clean, modern design with overlapping geometric shapes and a harmonious color palette of blue, green, and yellow. The logo and mosaic elements reinforce unity and individuality, with standardized logo usage, clear typography, and consistent visual style across digital and print assets [^3].
 
-- The ICLEI brand communicates sustainability and global unity across local governments, specifically achieving impactful initiatives.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Font Awesome is recommended for iconography in ICLEI materials. Provides standard icons for digital applications.
-- Consistency in digital asset designs: Standardized logo placement for letterheads, Twitter cards, and Zoom backgrounds.
+- A mosaic should always be presented as a whole and never be deconstructed into individual parts.
+- Dimensions of the ICLEI logo are related to the dimensions of the mosaic: we prefer to have the height of two basic mosaic elements to match the height of circles in the logo. In exceptional cases, make the mosaic bigger, but do not make the height of one basic mosaic element higher than the height of circles in the logo.
+
+##### Color Palette
+
+- The ICLEI Color Palette
+- Primary and secondary colors
+- Grey tints
+- These tints should be used in the first These colors should be used when addtional instance as complements to the primary colors are essential. For example, in a graph colors. TIP: use these tints to create a slight shift or chart where differentiation is needed in color on button hover effects. between various locations or data points.
+- Bodytext can be set in ICLEI black. Grey can be used as a background or border color to differentiate blocks of content.
+- Do not make any changes to the colors
+- Do not apply shadows or effects
+
+##### Typography
+
+- Brand font: Noto For use in digital publications such as social media cards, reports, brochures and other digital assets.
+- Noto Sans Light Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Noto Sans Regular Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Noto Sans Bold Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Noto is a freely available Google Font, chosen for its simplicity and availability in all alphabets used by ICLEI regions and offices. It is not included in Microsoft Office by default so will need to be installed. Use Light, Regular and Bold font weights only.
+- Download the font from https://www.google.com/get/noto/
+- Additional brand fonts Verdana Regular Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Arial Regular Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Calibri Regular Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Verdana Bold Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Arial Bold Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- Calibri Bold Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Vv Ww Xx Yy Zz 1 2 3 4 5 6 7 8 9 0 & ” ( ! ? ; ) € % = + -
+- In Word, Powerpoint and Google Applications, the use of system fonts Verdana, Arial or Calibri is preferred over Noto Sans, since Verdana is a font that is available on all computers.
+- Bodytext can be set in ICLEI black. Grey can be used as a background or border color to differentiate blocks of content.
+
+##### Logo Usage
+
+- Entities outside of ICLEI - Local Governments for Sustainability (ICLEI), including governments, intergovernmental, organizations, not-for-profit organizations, and private sector entities, may use the ICLEI logo in accordance with the requirements set out below.
+- The ICLEI logo may be used only if: • Permission is requested and granted before the logo is used; • There is no likelihood of the user of the logo being confused with ICLEI - Local Governments for Sustainability; • It is not used in connection with objectives or activities which are incompatible with the aims and principles of ICLEI; • It is not used to imply or suggest ICLEI’s unintended endorsement or promotion of the objectives and activities of the user of the logo.
+- The logo shall be used in its entirety without distorting, modifying or separating its component elements. Permission to use the ICLEI logo does not confer on those to whom it is granted any right of exclusive use, nor does it allow them to appropriate the logo, either by registration or any other means. Each case will be examined individually to ascertain whether it satisfies the criteria set out above.
+- The logo mark, ICLEI and the text "Local Governments for Sustainability" constitute the full ICLEI logo. The logo mark cannot be used without the "Local Governments for Sustainability" text. There is one exception to this rule -the logo mark can be used alone for a website favicon. This is the only exception to the rule.
+- The greyscale logo should be used only in applications intended for black-and-white printing
+- The reverse logo is for use in extremely exceptional cases, especially where a partner or project REQUIRES use of a reverse logo, where a full color logo would prevent the text from being readable, or where the space provided is most suitable for a reverse logo. The full color logo should be used in almost all cases.
+- The horizontal logo is for use in extremely exceptional cases, where the size of the vertical logo would prevent the text from being readable, or where the space provided is most suitable for a horizontal logo (for example, stacked between other horizontal logos). The vertical logo should be used in almost all cases.
+- The white space behind the logo should be considered as part of the logo itself.
+- Height of circles 12.5 mm (print applications) 80 pixels (digital applications at 72 dpi)
+- Profile pictures (LinkedIn, Facebook, Twitter): Adjust the size of the logo so it fits into the format specified by the platform.
+- The logo should only be placed on white a white background. Where the background is not white, the logo should be placed in a white square fulfilling the minimum free space rule. The logo should not be too-tight cropped, there needs to be some white space between the page margin and the logo.
+- Don't use the logo mark alone without the "Local Governments for Sustainability" tagline Do not skew, rotate or transform unproportionally Do not make any changes to the letters Do not make any changes to the colors Do not apply shadows or effects Do not place the logo on a photo background Do not reduce or enlarge any individual components of the logo.
+
+##### Visual Style
+
+- The logo mark, ICLEI and the text "Local Governments for Sustainability" constitute the full ICLEI logo. The logo mark cannot be used without the "Local Governments for Sustainability" text. There is one exception to this rule -the logo mark can be used alone for a website favicon. This is the only exception to the rule.
+- The greyscale logo should be used only in applications intended for black-and-white printing
+- The reverse logo is for use in extremely exceptional cases, especially where a partner or project REQUIRES use of a reverse logo, where a full color logo would prevent the text from being readable, or where the space provided is most suitable for a reverse logo. The full color logo should be used in almost all cases.
+- The horizontal logo is for use in extremely exceptional cases, where the size of the vertical logo would prevent the text from being readable, or where the space provided is most suitable for a horizontal logo (for example, stacked between other horizontal logos). The vertical logo should be used in almost all cases.
+- The white space behind the logo should be considered as part of the logo itself.
+- The logo should only be placed on white a white background. Where the background is not white, the logo should be placed in a white square fullfiling the minimum free space rule. The logo should not be too-tight cropped, there needs to be some white space between the page margin and the logo.
+- Don't use the logo mark alone without the "Local Governments for Sustainability" tagline
+- Do not skew, rotate or transform unproportionally
+- Do not make any changes to the letters
+- Do not make any changes to the colors
+- Do not apply shadows or effects
+- Do not place the logo on a photo background
+- Do not reduce or enlarge any individual components of the logo.
+- A mosaic should always be presented as a whole and never be deconstructed into individual parts.
+- Dimensions of the ICLEI logo are related to the dimensions of the mosaic: we prefer to have the height of two basic mosaic elements to match the height of circles in the logo. In exceptional cases, make the mosaic bigger, but do not make the height of one basic mosaic element higher than the height of circles in the logo.
+- These tints should be used in the first instance as complements to the primary colors. TIP: use these tints to create a slight shift in color on button hover effects.
+- These colors should be used when addtional colors are essential. For example, in a graph or chart where differentiation is needed between various locations or data points.
+- Bodytext can be set in ICLEI black. Grey can be used as a background or border color to differentiate blocks of content.
+- Noto is a freely available Google Font, chosen for its simplicity and availability in all alphabets used by ICLEI regions and offices. It is not included in Microsoft Office by default so will need to be installed. Use Light, Regular and Bold font weights only.
+- In Word, Powerpoint and Google Applications, the use of system fonts Verdana, Arial or Calibri is preferred over Noto Sans, since Verdana is a font that is available on all computers.
+- Font Awesome is a freely available font that includes a wide range of icons. When searching for icons for use in ICLEI materials, please consult font Awesome before looking for additional icon libraries.
+
+##### Iconography
+
+- ## Iconography (digital assets): Font Awesome
+- Font Awesome is a freely available font that includes a wide range of icons. When searching for icons for use in ICLEI materials, please consult font Awesome before looking for additional icon libraries.
+- Download the free version of the font from https://fontawesome.com/
+
+##### Layout And Composition
+
+- The logo mark, ICLEI and the text "Local Governments for Sustainability" constitute the full ICLEI logo. The logo mark cannot be used without the "Local Governments for Sustainability" text. There is one exception to this rule -the logo mark can be used alone for a website favicon. This is the only exception to the rule.
+- The white space behind the logo should be considered as part of the logo itself.
+- The logo should only be placed on white a white background. Where the background is not white, the logo should be placed in a white square fullfiling the minimum free space rule. The logo should not be too-tight cropped, there needs to be some white space between the page margin and the logo.
+- Don't use the logo mark alone without the "Local Governments for Sustainability" tagline
+- Do not skew, rotate or transform unproportionally
+- Do not make any changes to the letters
+- Do not make any changes to the colors
+- Do not apply shadows or effects
+- Do not place the logo on a photo background
+- Do not reduce or enlarge any individual components of the logo.
+- A mosaic should always be presented as a whole and never be deconstructed into individual parts.
+- Dimensions of the ICLEI logo are related to the dimensions of the mosaic: we prefer to have the height of two basic mosaic elements to match the height of circles in the logo. In exceptional cases, make the mosaic bigger, but do not make the height of one basic mosaic element higher than the height of circles in the logo.
+
+##### Brand Architecture
+
+- The decision of when to use the ICLEI regional and country office logo instead of the ICLEI global organizational logo should be based on a common sense interpretation of the use of the logo. Does the use of the logo represent a partnership or project? Is that partnership/project a global partnership/ project, or is it a regional/country level partnership/project? The appropriate logo should then be used.
+- If a partnership or project represents several regional or country offices, then use of the global organizational logo is appropriate.
+- Use of another region or country office’s logo requires permission from that office.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Gold Standard
 slug: "gold-standard"
 description: ""
-date: "2026-03-20T08:22:05.186036"
+date: "2026-04-10T09:40:34.059792"
 draft: false
 sectors:
   - ngo
@@ -68,6 +68,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2020
+
+*Guidelines data not available*
 
 ## Additional Properties
 

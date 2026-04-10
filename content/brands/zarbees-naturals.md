@@ -2,7 +2,7 @@
 title: Zarbee’s Naturals
 slug: "zarbees-naturals"
 description: ""
-date: "2026-03-20T08:22:04.856942"
+date: "2026-04-10T09:40:33.607049"
 draft: false
 sectors:
   - healthcare
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - mascot
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - futura
-  - "proxima-nova"
-imagery_styles:
-  - bold
-  - natural
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,34 +68,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Signature clear space rules are defined for Zarbee's Naturals logo. Rules include avoidance of crowding surrounding elements.
-- Minimum size guidelines for Zarbee's Naturals logo specified (exact dimension unclear due to OCR limits).
-- Knockout (reversed) usage permitted under signature color constraints.
-- Relationship rules established for Buzzy mascot usage and logo position.
-
-**Color Information:**
-
-- Primary signature colors and complementary palette listed with application guidelines.
-
-**Typography Information:**
-
-- Primary fonts listed: Proxima Nova; weights include Light, Regular, Semi Bold, Bold, Extra Bold.
-- Headline typeface clearly defined: Futura Std Bold.
-
-**Imagery Photography:**
-
-- Handpicked ingredient imagery styles recommended. Natural, community-centric styles for photography adopted.
-
-**Spacing Layout:**
-
-- Label design theory emphasizes balance and clear spacing on all sides.
-
-**Brand Voice:**
-
-- Tone described as natural and caring, emphasizing family health and natural active ingredients.
-
-**Notes:**
-
-- Design system rules include improper usage (avoid distortion, incorrect colors, spacing violations).
+*Guidelines data not available*

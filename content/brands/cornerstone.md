@@ -2,11 +2,11 @@
 title: Cornerstone
 slug: cornerstone
 description: ""
-date: "2026-03-20T08:22:03.869784"
+date: "2026-04-10T09:40:31.542170"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries:
   - "social-work"
 countries:
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: "Scottish charity and social enterprise that provides support and care to children, adults and older adults living a range of long-term conditions and challenges"
 wikidata_url: "https://www.wikidata.org/wiki/Q5171670"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -82,16 +82,6 @@ visual_term_image_urls: {}
 - [http://www.wise.com](http://www.wise.com)
 - [https://decision-wise.com](https://decision-wise.com)
 - [https://www.cornerstone.org.uk](https://www.cornerstone.org.uk)
-
-## Brand Guidelines
-
-### UNKNOWN
-
-*Guidelines data not available*
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

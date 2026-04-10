@@ -2,11 +2,11 @@
 title: Adevinta
 slug: adevinta
 description: ""
-date: "2026-03-20T08:22:04.240676"
+date: "2026-04-10T09:40:32.800649"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - norway
 years:
@@ -73,36 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo main version
-- Reverse logo
-- Area of isolation
-
-**Color Information:**
-
-- Pantone 286c
-- Pantone 7429C
-
-**Typography Information:**
-
-- Corporate typeface
-- System typography
-
-**Imagery Photography:**
-
-- Logo on dark backgrounds
-- Criteria for using photographs
-
-**Spacing Layout:**
-
-- Examples on the grid
-- Margin equal
-
-**Brand Voice:**
-
-- Adevinta speaks with a strong voice.
-- is a brand with a strong voice, so it is
+*Guidelines data not available*
 
 ## Additional Properties
 

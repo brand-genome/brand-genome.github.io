@@ -2,7 +2,7 @@
 title: Research Ireland
 slug: "research-ireland"
 description: ""
-date: "2026-03-20T08:22:03.292826"
+date: "2026-04-10T09:40:30.810280"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - featured
+  - education
   - science
 industries: []
 countries:
@@ -52,26 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - logomark
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - yellow
-  - brown
-  - black
-typographies:
-  - "sans-serif"
-  - inter
-imagery_styles:
-  - bold
-  - natural
-  - photography
-  - gradient
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "government organization in Dublin, Ireland"
 wikidata_url: "https://www.wikidata.org/wiki/Q131294864"
 has_twitter: false
@@ -89,39 +73,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Our logo is inspired by Irish Insular scripts (4th-5th century) and migratory birds like the swift—combining geometric precision with calligraphic and natural references.
-- Logo versions must appear only in core brand colors—Pale Lavender or Bush Green. Black or white versions are acceptable for limited use cases.
-- Logo misuse guidelines—e.g., don't change orientation, typeface, proportions, scale relation, or create versions emphasizing one language or two-color versions.
-
-**Color Information:**
-
-- Primary brand colors: Pale Lavender (#DCD0FF) and Bush Green (#112B19). Secondary palette includes Christine (#E2740E), Fuel Yellow (#ECAF30), Port Gore (#2A2457), Scampi (#7169B2), Zucchini (#307159), Granny Smith (#9CD696), Brown Derby (#472616), Santa Fe (#C47965).
-- Accessible color contrasts per WCAG 2.0 Level AA/AAA—e.g., Pale Lavender (#DCD0FF) contrasts with multiple options like Bush Green (#112B19) and others with contrast ratios exceeding 4.5:1.
-
-**Typography Information:**
-
-- Main typeface is BW Gradual (Bold and Regular weights)—a geometric sans-serif typeface with high contrast details. Alternate typeface is Inter from Google Fonts.
-
-**Imagery Photography:**
-
-- Photography approach highlights heroes (researchers, staff, partners) in action. Avoid posed setups or direct eye contact in stock imagery. Represent diversity in gender, ethnicity, etc. Favour natural lighting.
-- Gradient overlays improve consistency when incorporating third-party images of varying style and quality. Color pairings can use any colors from the brand palette.
-
-**Spacing Layout:**
-
-- Logomark built using overlapping geometric squares and circles. These forms serve as a template for patterns, icons, and image overlays.
-- Social media overlays use logomark components for format consistency across posts, stories, and videos. Overlays help establish clear text or logo placement areas.
-- Rounded corners in illustrations and photographs reflect the curves in the logomark geometry. Rounding is always circular and never elliptical.
-
-**Brand Voice:**
-
-- Research Ireland promotes collaboration and curiosity, focusing on the global exchange of ideas. Messaging aims to inspire research excellence while maintaining consistency in appearance and tone.
-
-**Notes:**
-
-- Sample applications like PowerPoint templates can be requested from the organization. Design examples cover content slides, breakers, and covers.
+*Guidelines data not available*
 
 ## Additional Properties
 

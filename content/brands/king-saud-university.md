@@ -2,7 +2,7 @@
 title: King Saud University
 slug: "king-saud-university"
 description: ""
-date: "2026-03-20T08:22:04.406142"
+date: "2026-04-10T09:40:33.146192"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "saudi-arabia"
 years:
-  - 2014
   - 2015
+  - 2014
 languages:
   - english
   - arabic
@@ -54,14 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - photography
+imagery_styles: []
 wikidata_description: University in Saudi Arabia
 wikidata_url: "https://www.wikidata.org/wiki/Q1752043"
 has_twitter: false
@@ -82,155 +78,11 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Notes:**
-
-- 1  ةحفص
-
-3.0  مقر رادصلإا
-
-:دادعإ
-ةيوهلا ةرادإ ةدحو
-id@ksu.edu.sa :ينورتكللإا ديربلا
-0118064065 :فتاهلا
-
-دوعس كلملا ةعماج
-ةروطملا ةيوهلل يداشرلإا ليلدلا
-
-  دوعس كلملا ةعماجةروطملا ةيوهلل يداشرلإا ليلدلا
-- 2  ةحفص
-
-23 ................................................................................... تاــقيبطتلا
-24.................................................................................... سوّرم قرو
-25........................................................................... لامعلأا تاقاطب
-26............................................................................ ةيساطرقلا قرو
-27....................................................................................... تايوطملا
-28.................................................................................... تاروشنملا
- 29........................................................................ ةيجراخلا تانلاعلإا
- 30...............................................................................  داشرلإا تاحول
-31........................................................................  ةيجراخلا تاتفلالا
-32........................................................................ ينورتكللإا عقوملا
-
-33........................................................................  ةينفلا تايناكملإا
-34................................................................... راعشلل ةينفلا غيصلا
-
-35............................................................................... لاصتلإا تانايب
-
-3،0
-3،1
-3،1
-3،1
-3،2
-3،3
-3،4
-3،5
-3،6
-3،7
-
-4،0
-4،1
-
-5،0
-
-تايوتحملا
-
- 3............................................................... انتملاعو   انراعش ريوطت
-4................................................................................................... انتيؤر
-5.............................................................................  انحومط عيسوت
-6...............................................................................................    انتوص
-7.................................................................................................  انميق
-
-8...............................................................................................   انتيوه
-9................................................................................................  راعشلا
-10.............................،.................... ةددعتملا راعشلا تامادختسا
-11..............................  مجحلل ىندلأا دحلاو ةيلاخلا  تاحاسملا
-12................................................................... ةيللادتسلإا طوطخلا
-13................................................................................  راعشلا عقوم
-14.................................................................................راعشلا ماكحا
-15..................................................................... ةيوناثلا تامولعملا
-16.......................................................  ةيحيضوتلا روصلاو موسرلا
-17.......................................................................... ةعئاشلا ءاطخلأا
-18........................................................................ راعشلا ناونأ ةحول
-19............................................................................ ةعابطلا طوطخ
-
-1.0
-1،1
-1،2
-1،3
-1.4
-
-2،0
-2،1
-2،2
-2،3
-2،4
-2،5
-2،6
-2،7
-2،8
-2،9
-2،10
-2،11
-
-  دوعس كلملا ةعماجةروطملا ةيوهلل يداشرلإا ليلدلا 
-
-- 3  ةحفص
-
-  دوعس كلملا ةعماج
-ةروطملا ةيوهلل يداشرلإا ليلدلا
-
- انتملاعو انراعش ريوطت
-
-1.0
-
- ةعيلطلا يف ةزيمتملا اهتناكم ةروطملا دوعس كلملا ةعماج ةيوه دكؤت
- . ةقومرملا ةيملاعلا تاعماجلا نيب
-
-.ةعماجلل ةروطملا ةيوهلا ذيفنت ةيلآ ةيلاتلا تاحفصلا حضوت
-
-
+*Guidelines data not available*
 
 ### 2014
 
-**Logo Information:**
-
-- King Saud University
-Brand Identity Guidelines
-Introduction to our visual identity and logo structure, emphasizing consistency and clarity for global recognition.
-- Logo variations including the use of logos for secondary departments, shield adaptations, and alignment rules.
-- Grid logic for logo placement, alignment rules, and logo lockups positioning examples.
-- Specifications for logo isolation and minimum safe usage sizes to ensure clarity.
-- Common mistakes in logo usage, such as misalignment and improper sizing, are illustrated with examples.
-- File formats detailed for print and screen use: EPS (CMYK, PMS), AI (RGB), PNG (RGB).
-
-**Color Information:**
-
-- Color palette defined using primary University shades and secondary colors for flexibility, including hex codes, RGB, CMYK, and Pantone equivalents.
-- Strategies for balancing vibrancy and text legibility using KSU Cream or textured colored backgrounds.
-
-**Typography Information:**
-
-- Font recommendations and specifications provided for titles, body text, digital platforms, and print media.
-- Typography design grid examples for brochures and digital content placements.
-
-**Imagery Photography:**
-
-- Photography rules include balance between imagery, text legibility, and optimal lighting conditions.
-- Examples of image placement within brochures and university visual presentations.
-
-**Spacing Layout:**
-
-- Spacing and alignment rules for logo placement within brochures, digital placements, and outdoor signage.
-- Margins detailed for letterheads and general stationery design, with bar code positioning standards.
-
-**Brand Voice:**
-
-- Tone described as bold, innovative, and forward-thinking, emphasizing the University's global vision for 2030.
-- Messaging guidelines positioning King Saud University as a challenging and distinctive educational experience.
-- Commitment to groundbreaking research and knowledge economy contributions articulated in the University's promise.
-
-**Notes:**
-
-- Contact for brand marketing guidelines: brand@kingsaudiuniversity.com (page includes detailed contact information for queries).
+*Guidelines data not available*
 
 ## Additional Properties
 

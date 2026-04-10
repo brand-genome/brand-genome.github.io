@@ -2,7 +2,7 @@
 title: Reconciliation Australia
 slug: "reconciliation-australia"
 description: ""
-date: "2026-03-20T08:22:04.411610"
+date: "2026-04-10T09:40:33.152037"
 draft: false
 sectors:
   - ngo
@@ -53,18 +53,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-brand_colors:
-  - teal
-  - white
-  - blue
-  - yellow
-  - black
-typographies:
-  - helvetica
-  - poppins
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: "Australian not-for-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q7302731"
@@ -84,28 +75,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The National Reconciliation Week 2021 logo features the artwork of Jessica Johnson, communicating an active approach to reconciliation. It symbolizes a collaborative, whole-of-community effort emphasizing 'More than a word' as the 2021 theme.
-- Master full-color logo is the primary version, along with a white and black logo for use in contexts with reproduction limitations or when appropriate contrast provides greater visibility. The reverse logo can be used on photographic backgrounds for effective visibility.
-- Clear space rules for the logo require a margin equivalent to the 'x' height of the logo around it. The minimum reproduction size is 30mm for print and 100px for digital use, ensuring clarity and legibility.
-- Incorrect logo uses include placing it on a low-contrast background, altering logo colors, or distorting proportions. Careful consideration must ensure sufficient contrast on photographic or visual backgrounds.
-
-**Color Information:**
-
-- Primary colors derived from Jessica Johnson's artwork include: Teal Blue (HEX: #055060, CMYK: C94 M58 Y47 K28), Rich Black (HEX: #000000, CMYK: C30 M30 Y30 K100), Brilliant Rose (HEX: #ef5ba1, CMYK: C0 M80 Y0 K0), Fuel Yellow (HEX: #f0a51f, CMYK: C4 M39 Y100 K0), and Flamingo (HEX: #f15a29, CMYK: C0 M80 Y95 K0).
-
-**Typography Information:**
-
-- Headline and sub-heading font: 'Poppins' (a free Google font). Body font: Helvetica Neue, used for long-form text and available for purchase via Linotype. These fonts maintain consistency in brand communication materials.
-
-**Imagery Photography:**
-
-- The 20-year lockup design commemorates the 2021 anniversary. Minimum reproduction size is 18mm or 160px, ensuring recognizability and integrity of the design.
-
-**Notes:**
-
-- The guidelines emphasize consistent application to maintain the brand's integrity, with close attention to details such as logo use, typography, and color application.
+*Guidelines data not available*
 
 ## Additional Properties
 

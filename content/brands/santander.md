@@ -2,7 +2,7 @@
 title: Santander
 slug: santander
 description: ""
-date: "2026-03-20T08:22:03.296036"
+date: "2026-04-10T09:40:30.819042"
 draft: false
 sectors:
   - finance
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
+  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
-  - "economics-of-banking"
 countries:
   - spain
 revenue_buckets: []
@@ -62,9 +62,9 @@ imagery_styles: []
 wikidata_description: "bank company based in Cantabria, Spain"
 wikidata_url: "https://www.wikidata.org/wiki/Q6496310"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,20 +75,6 @@ visual_term_image_urls: {}
 - [https://www.bancosantander.es/en](https://www.bancosantander.es/en)
 - [https://www.santander.com.mx](https://www.santander.com.mx)
 - [https://www.santanderrio.com.ar](https://www.santanderrio.com.ar)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
-
-### 2020
-
-*Guidelines data not available*
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 

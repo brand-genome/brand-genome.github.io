@@ -2,11 +2,11 @@
 title: European Space Agency
 slug: "european-space-agency"
 description: ""
-date: "2026-03-20T08:22:04.898234"
+date: "2026-04-10T09:40:33.670222"
 draft: false
 sectors:
-  - satellite
   - "space-technology"
+  - satellite
 regions:
   - europe
 years:
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - featured
   - aeronautic
+  - featured
 industries:
-  - "research-and-development"
   - "activities-of-extraterritorial-organizations-and-bodies"
+  - "research-and-development"
 countries:
   - france
 revenue_buckets: []
@@ -54,18 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - silver
-  - white
-  - black
-typographies:
-  - impact
-  - verdana
-imagery_styles:
-  - bold
-  - flat
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: European organisation dedicated to space exploration
 wikidata_url: "https://www.wikidata.org/wiki/Q42262"
 has_twitter: false
@@ -85,37 +77,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Imagery Photography:**
-
-- This is an example of how to zoom in and crop an image. The result is to bring the subject closer to the viewer, removing unnecessary detail, focusing on the subject and composing the picture in a fresh or unusual way. For applications of crop and close-up, see:
-5.7 Layout with images.
-Choosing images:
-Images are not only used for technical information. They can convey a message or a mood. Therefore this Corporate Identity Manual also defines how ESA images are presented, establishing a common picture language to convey ESA’s unique qualities and brand values. This approach should be applied to all corporate and promotional material, but it is also recommended for internal use to better reinforce the corporate image.
-For example:
-- Use pictures of people wherever possible, enhancing the 'human' dimension.
-- Use 'real' images wherever possible, rather than artist impressions.
-- Use close-ups, to bring 'space' closer to the viewer (a close-up view might contain only a few simple elements, but has a very strong impact).
-- Select a 'point of view', from where to 'present' or compose the image. The examples in this chapter show the most common uses of images at ESA, from illustrations in brochures to web images. Practical guidance is given on how to crop, zoom in, and compose our images to support and project the 'corporate image.'
-- The use of maps presented in this Corporate Identity Manual is strongly recommended. For geopolitical maps, flat tints are recommended. In this case, the map was created from a satellite view of Europe. Use the ESA color palette as described in '2 Colors.' Superimpose labels on the maps using hotspots. ESA HQ, ESTEC, ESRIN, ESOC.
-
-**Spacing Layout:**
-
-- Notes:
-To know the correct dimensions of the stroke of the orbit and of the hot spot in relation to the dimension of the layout, see paragraph 'Content dimension.' The areas of margin between the grid (where the orbits are positioned) and the outer margins of the page must be respected. The building of the orbits and the hot spot begins with a grid formed by a square, the dimensions of which are based on the height of the page layout.
-- Email signature:
-Preview in Lotus window: Given the reduced dimensions, the signature has been realized with a system font. The editable text format of the email signature is in Verdana. The example shows the maximum length. In case of shorter text, delete the remaining space. The dimensions of the characters and interline spacing refer to the values given by the formatting interface of IBM Lotus Notes. Verdana Bold 8pt RGB: 116, 118, 120 / Verdana Regular 8pt RGB: 0, 161, 224.
-
-**Notes:**
-
-- Logo application rules and notes regarding protected areas, proportions, and textures. The silver version of the logo can substitute for 50% black shade but only on a white background.
-- Digital files related to vector logos, file formats (EPS, BMP, PDF), and versions of the sign. Specific details about digital logos and corporate identity.
-- Digital vector files of the logos and application usage provided through office print systems or other software formats.
-- Digital files and recommendations for special cases where logos are used under specific conditions (e.g., launchers, European programs).
-- Technical guidelines for image usage, including recommendations for close-ups, human subjects, and zoomed images for clarity and corporate identity consistency.
-- Recommendations for geopolitical map usage with the ESA color palette as described in the manual. Incorporation of labels with data insights.
-- Brand-related digital file sources listed, available as part of the Corporate Identity Manual. Includes layout guidance for various types of corporate media.
-- Source files for all stationery and publications available digitally and accessible alongside layout or usage guidelines. Templates for brochures, letterheads, and promotional media.
-- Web portal headers and other digital applications (e.g., labels, flags) outlined alongside sources. Files supplied within corporate identity tools.
+*Guidelines data not available*
 
 ## Additional Properties
 

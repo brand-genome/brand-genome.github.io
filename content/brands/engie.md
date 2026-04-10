@@ -2,25 +2,25 @@
 title: Engie
 slug: engie
 description: ""
-date: "2026-03-20T08:22:03.124132"
+date: "2026-04-10T09:40:30.631588"
 draft: false
 sectors:
-  - utilities
   - "renewable-energy"
   - gas
+  - utilities
 regions:
   - france
 years:
-  - 2021
   - 2015
+  - 2021
 languages:
-  - french
   - english
+  - french
 tags:
   - industry
 industries:
-  - unknown
   - "energy-industry"
+  - unknown
   - "facility-management"
   - "waste-management"
 countries:
@@ -63,20 +63,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - cyan
-typographies:
-  - arial
-imagery_styles:
-  - dynamic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French multinational energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q13416787"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -90,42 +86,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2021
-
-*Guidelines data not available*
-
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2015
 
-**Logo Information:**
-
-- Fichiers disponibles: Fichiers d'exécution Lorsqu'un document est disponible sous forme de fichier numérique exécuté, il est signalé par pictogramme ci-dessous. Connectez-vous au brand center pour obtenir les fichiers.
-- Logo usage and placement rules specified, including safe zones and layout guidelines.
-- Incorrect logo utilization examples shown along styling guidance.
-
-**Color Information:**
-
-- Primary color identified as Pantone Process Cyan C. CMYK values C:100 M:0 Y:0 K:0. HEX code #00AAFF.
-- Accent color palette and utilization rules presented.
-
-**Typography Information:**
-
-- Typography guidelines dictate roles for Arial typeface use and styling options within communication material.
-
-**Imagery Photography:**
-
-- Imagery guidance emphasizes luminosity and dynamic composition; avoids blurry and underexposed visuals.
-
-**Brand Voice:**
-
-- Engie branding emphasizes proximity and values reflected as "by people for people".
-
-**Notes:**
-
-- Custom designs or adaptations for promotional items ('goodies') regulated on case-by-case basis.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Mc Delivery
 slug: "mc-delivery"
 description: ""
-date: "2026-03-20T08:22:04.470253"
+date: "2026-04-10T09:40:33.216408"
 draft: false
 sectors:
   - restaurant
@@ -47,11 +47,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - wordmark
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -72,58 +68,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Clear space rules for McDelivery logo to maintain visibility and legibility.
-- Minimum size constraints detailed for the McDelivery logo on different applications.
-- The primary logo consists of the McDelivery emblem paired with the McDelivery wordmark. The emblem is inspired by navigation apps (connecting A to B with a dotted line) and a smile (symbolizing delivery and happiness). The wordmark is set in Lovin Sans and accompanies the emblem as a pair.
-- Minimum size constraints detailed for the McDelivery logo on different applications.
-- Minimum size constraints detailed for the McDelivery logo on different applications.
-
-**Color Information:**
-
-- Primary and secondary brand colors outlined for McDelivery branding.
-- Primary and secondary brand colors outlined for McDelivery branding.
-- Primary and secondary brand colors outlined for McDelivery branding.
-- Primary and secondary brand colors outlined for McDelivery branding.
-
-**Typography Information:**
-
-- Typography guidelines specify using 'Lovin Sans' font for branding. 
-
-**Imagery Photography:**
-
-- Guidelines for imagery and photographic application in branding. 
-- Guidelines for imagery and photographic application in branding. 
-
-**Notes:**
-
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
-- This document is for internal use by McDonald's marketing teams; not for distribution.
+*Guidelines data not available*

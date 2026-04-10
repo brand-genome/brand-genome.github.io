@@ -2,7 +2,7 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-03-20T08:22:05.534085"
+date: "2026-04-10T09:40:34.436560"
 draft: false
 sectors:
   - sports
@@ -53,16 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - cyan
-  - blue
-  - yellow
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: sports body of France
 wikidata_url: "https://www.wikidata.org/wiki/Q1650165"
 has_twitter: false
@@ -82,32 +75,139 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The logotypes for CTOS, CROS, and CDOS are described as having the same structure and composition as the institutional corporate logotype. They consist of five elements: the rooster (coq), Olympic rings, the designation text ('COMITE NATIONAL OLYMPIQUE ET SPORTIF FRANCAIS'), the appellation (CTOS, CROS, or CDOS), and the name of the territory, region, or department.
-- These logotypes exist in two versions: a single-line version for short names and a two-line version for longer ones. Examples include territory specifications such as SAINT-MARTIN and HAUTES PYRENEES.
-- Logotypes adhere to a construction grid of 15 squares wide and 24 squares tall to ensure their proportions and prevent distortion or adaptation.
+##### Mission
 
-**Color Information:**
+- Valoriser les actions communes et préserver l'image du Comité National Olympique et Sportif Français (CNOSF) à travers une utilisation cohérente et rigoureuse de ses logotypes institutionnels et marketing [^1].
 
-- Colors associated with the brand include Marine Blue, Cyan Blue, Black, Red, Yellow, and Green, used to represent different graphical elements like the rooster, Olympic rings, or accompanying text.
+##### Core Values
 
-**Typography Information:**
+- rigueur
+- sportivité
+- pérennité
+- cohérence
+- valorisation collective
 
-- The typeface 'franceolympique bold' is used for textual elements in the logotypes, specifically designed for exclusive use by the CTOS, CROS, and CDOS committees.
+##### Target Audience
 
-**Spacing Layout:**
+- Partenaires, comités régionaux et départementaux, institutions sportives françaises, et toute personne ou organisation utilisant l'image du CNOSF [^2].
 
-- A grid system of 15 squares wide and 24 squares tall defines the structure and layout of the logotypes to maintain consistency and proportions.
+##### Personality Traits
 
-**Brand Voice:**
+- professionnel
+- minimaliste
+- moderne
+- exclusif
+- national
 
-- The branding emphasizes the importance of adhering strictly to guidelines to preserve the CNOSF's image and ensure cohesive representation of its identity across all platforms.
-- The logotypes are described as assets belonging exclusively to CNOSF, with clear rules to avoid misuse or devaluation.
+##### Visual Identity Overview
 
-**Notes:**
+- L'identité visuelle repose sur un logotype central composé d'un coq stylisé, des anneaux olympiques, une typographie exclusive ('franceolympique' bold), et une palette de couleurs définie (bleu marine, bleu cyan, noir, rouge, jaune, vert). Les règles strictes de proportions, de zones d'isolation, et d'utilisation des couleurs assurent une cohérence graphique sur tous les supports [^3].
 
-- Contact details for clarifications are provided: CNOSF - Maison du Sport Français, Service Communication, 1 Avenue Pierre de Coubertin, 75013 Paris, Tel: 01 40 78 28 75, Email: communication@cnosf.org.
+#### Categories
+
+##### Logo Usage
+
+- Les couleurs des logotypes, leurs structures et leurs proportions sont des éléments indissociables et ne peuvent en aucun cas être modifiés et /ou adaptés.
+- Les logotypes s'inscrivent dans une grille de 15 carrés de large et 24 carrés de haut, ce qui permet d'en contrôler leurs constructions et leurs proportions, et de vérifier qu'ils n'ont pas été déformés et/ou adaptés.
+- Afin de conserver l'intégrité des logotypes des comités CTOS, CROS, COQS, il est impératif de respecter systématiquement une zone, dite d'isolation, qui interdit à tout élément extérieur de venir en perturber la lisibilité. Cette zone d'isolation est définie à partir du diamètre d'un anneau olympique.
+- Ni photo, ni texte, ni aucun autre élément ne doivent franchir la zone d'isolation des logotypes.
+- Pour préserver la lisibilité du logotype et une perception qualitative de celui-ci, nous recommandons de ne pas le reproduire en dessous d'une taille minimale d'expression de 19 mm [soit 8 mm de large pour les anneaux!.
+- Les codes couleurs des logotypes des comités : CTOS, CROS, COQS, font partie des fondamentaux de l'univers graphique. Les couleurs ne peuvent en aucun cas être modifiées, adaptées ou dénaturées.
+- C'est la version quadrichromie, qu'il faut privilégier et décliner le plus largement possible. Elle doit être obligatoirement utilisée sur tous les supports print.
+- Pour des raisons techniques, il est prévu une version en tons directs du logotype. Pour la réalisation, il est impératif de se reporter aux couleurs Pantone de référence.
+- La version RVB est exclusivement réservée à un affichage sur écran, notamment pour le web et les interfaces digitales.
+- La version monochrome est à utiliser uniquement lorsque les contraintes d'impression ne permettent pas d'utiliser la version quadrichromie. Cette version sert également pour une reproduction en gravure, gaufrage ou sablage.
+- Ces codes couleurs sont identiques pour l'ensemble des comités.
+- Quelle que soit son utilisation, les constantes graphiques et les proportions des logotypes des comités du CNOSF sont invariables. Ses couleurs, sa structure et ses proportions sont des éléments indis­sociables qui ne peuvent en aucun cas être modifiés et / ou adaptés.
+- Ne pas modifier les couleurs du logotype
+- Ne pas supprimer d'éléments du logotype
+- Ne pas modifier les proportions entre la typographie et le symbole
+- Ne pas changer, ni modifier la typographie du logotype
+- Ne pas déformer le logotype
+- Ne pas mettre de fond photographique derrière le logotype en quadrichromie
+- Ne pas associer de nouveaux symboles au logotype
+- Ne pas incliner le logotype
+- Ne pas inverser les éléments du logotype
+- Les seules couleurs autorisées en monochrome du logotype institutionnel corporate sont celles des anneaux olympiques.
+- Quand le logotype est utilisé sur fond de couleurs, le logotype est en réserve blanche.
+- Il est nécessaire que ce fond respecte les zones d'isolation à minima.
+
+##### Color Palette
+
+- Bleu marine Bleu cyan Noir Rouge Jaune Vert
+- P 289 C P 3005 C P 426 C P 192 C P 137 C P 355 C
+- Les couleurs des logotypes, leurs structures et leurs proportions sont des éléments indissociables et ne peuvent en aucun cas être modifiés et /ou adaptés.
+- Les codes couleurs des logotypes des comités : CTOS, CROS, COQS, font partie des fondamentaux de l'univers graphique. Les couleurs ne peuvent en aucun cas être modifiées, adaptées ou dénaturées.
+- C'est la version quadrichromie, qu'il faut privilégier et décliner le plus largement possible. Elle doit être obligatoirement utilisée sur tous les supports print.
+- Pour des raisons techniques, il est prévu une version en tons directs du logotype. Pour la réalisation, il est impératif de se reporter aux couleurs Pantone de référence.
+- La version RVB est exclusivement réservée à un affichage sur écran, notamment pour le web et les interfaces digitales.
+- La version monochrome est à utiliser uniquement lorsque les contraintes d'impression ne permettent pas d'utiliser la version quadrichromie. Cette version sert également pour une reproduction en gravure, gaufrage ou sablage.
+- Ces codes couleurs sont identiques pour l'ensemble des comités.
+- Quelle que soit son utilisation, les constantes graphiques et les proportions des logotypes des comités du CNOSF sont invariables. Ses couleurs, sa structure et ses proportions sont des éléments indis­sociables qui ne peuvent en aucun cas être modifiés et / ou adaptés.
+- Ne pas modifier les couleurs du logotype
+- Les seules couleurs autorisées en monochrome du logotype institutionnel corporate sont celles des anneaux olympiques.
+- Quand le logotype est utilisé sur fond de couleurs, le logotype est en réserve blanche.
+
+##### Typography
+
+- L'ensemble des textes a été composé avec un alphabet destiné spécifiquement et exclusivement pour les comités («franceolympique» bold).
+- franceolympique bold : ABCDEFGHIJKLMNOPQRSTUVWXVZ
+- Ces logotypes existent en version une ligne pour les noms courts et deux lignes pour les noms longs.
+- Ne pas modifier les proportions entre la typographie et le symbole
+- Ne pas changer, ni modifier la typographie du logotype
+
+##### Visual Style
+
+- Les couleurs des logotypes, leurs structures et leurs proportions sont des éléments indissociables et ne peuvent en aucun cas être modifiés et /ou adaptés.
+- Les logotypes s'inscrivent dans une grille de 15 carrés de large et 24 carrés de haut, ce qui permet d'en contrôler leurs constructions et leurs proportions, et de vérifier qu'ils n'ont pas été déformés et/ou adaptés.
+- Afin de conserver l'intégrité des logotypes des comités CTOS, CROS, COQS, il est impératif de respecter systématiquement une zone, dite d'isolation, qui interdit à tout élément extérieur de venir en perturber la lisibilité. Cette zone d'isolation est définie à partir du diamètre d'un anneau olympique.
+- Ni photo, ni texte, ni aucun autre élément ne doivent franchir la zone d'isolation des logotypes.
+- Pour préserver la lisibilité du logotype et une perception qualitative de celui-ci, nous recommandons de ne pas le reproduire en dessous d'une taille minimale d'expression de 19 mm [soit 8 mm de large pour les anneaux!.
+- Les codes couleurs des logotypes des comités : CTOS, CROS, COQS, font partie des fondamentaux de l'univers graphique. Les couleurs ne peuvent en aucun cas être modifiées, adaptées ou dénaturées.
+- C'est la version quadrichromie, qu'il faut privilégier et décliner le plus largement possible. Elle doit être obligatoirement utilisée sur tous les supports print.
+- Pour des raisons techniques, il est prévu une version en tons directs du logotype. Pour la réalisation, il est impératif de se reporter aux couleurs Pantone de référence.
+- La version RVB est exclusivement réservée à un affichage sur écran, notamment pour le web et les interfaces digitales.
+- La version monochrome est à utiliser uniquement lorsque les contraintes d'impression ne permettent pas d'utiliser la version quadrichromie. Cette version sert également pour une reproduction en gravure, gaufrage ou sablage.
+- Ces codes couleurs sont identiques pour l'ensemble des comités.
+- Quelle que soit son utilisation, les constantes graphiques et les proportions des logotypes des comités du CNOSF sont invariables. Ses couleurs, sa structure et ses proportions sont des éléments indis­sociables qui ne peuvent en aucun cas être modifiés et / ou adaptés.
+- Ne pas modifier les couleurs du logotype
+- Ne pas supprimer d'éléments du logotype
+- Ne pas modifier les proportions entre la typographie et le symbole
+- Ne pas changer, ni modifier la typographie du logotype
+- Ne pas déformer le logotype
+- Ne pas mettre de fond photographique derrière le logotype en quadrichromie
+- Ne pas associer de nouveaux symboles au logotype
+- Ne pas incliner le logotype
+- Ne pas inverser les éléments du logotype
+- Les seules couleurs autorisées en monochrome du logotype institutionnel corporate sont celles des anneaux olympiques.
+- Quand le logotype est utilisé sur fond de couleurs, le logotype est en réserve blanche.
+- Il est nécessaire que ce fond respecte les zones d'isolation à minima.
+
+##### Brand Imagery
+
+- Les couleurs des logotypes, leurs structures et leurs proportions sont des éléments indissociables et ne peuvent en aucun cas être modifiés et /ou adaptés.
+- Les logotypes s'inscrivent dans une grille de 15 carrés de large et 24 carrés de haut, ce qui permet d'en contrôler leurs constructions et leurs proportions, et de vérifier qu'ils n'ont pas été déformés et/ou adaptés.
+- Afin de conserver l'intégrité des logotypes des comités CTOS, CROS, COQS, il est impératif de respecter systématiquement une zone, dite d'isolation, qui interdit à tout élément extérieur de venir en perturber la lisibilité. Cette zone d'isolation est définie à partir du diamètre d'un anneau olympique.
+- Ni photo, ni texte, ni aucun autre élément ne doivent franchir la zone d'isolation des logotypes.
+- Pour préserver la lisibilité du logotype et une perception qualitative de celui-ci, nous recommandons de ne pas le reproduire en dessous d'une taille minimale d'expression de 19 mm [soit 8 mm de large pour les anneaux!.
+- Les codes couleurs des logotypes des comités : CTOS, CROS, COQS, font partie des fondamentaux de l'univers graphique. Les couleurs ne peuvent en aucun cas être modifiées, adaptées ou dénaturées.
+- C'est la version quadrichromie, qu'il faut privilégier et décliner le plus largement possible. Elle doit être obligatoirement utilisée sur tous les supports print.
+- Pour des raisons techniques, il est prévu une version en tons directs du logotype. Pour la réalisation, il est impératif de se reporter aux couleurs Pantone de référence.
+- La version RVB est exclusivement réservée à un affichage sur écran, notamment pour le web et les interfaces digitales.
+- La version monochrome est à utiliser uniquement lorsque les contraintes d'impression ne permettent pas d'utiliser la version quadrichromie. Cette version sert également pour une reproduction en gravure, gaufrage ou sablage.
+- Ces codes couleurs sont identiques pour l'ensemble des comités.
+- Quelle que soit son utilisation, les constantes graphiques et les proportions des logotypes des comités du CNOSF sont invariables. Ses couleurs, sa structure et ses proportions sont des éléments indis­sociables qui ne peuvent en aucun cas être modifiés et / ou adaptés.
+- Ne pas modifier les couleurs du logotype
+- Ne pas supprimer d'éléments du logotype
+- Ne pas modifier les proportions entre la typographie et le symbole
+- Ne pas changer, ni modifier la typographie du logotype
+- Ne pas déformer le logotype
+- Ne pas mettre de fond photographique derrière le logotype en quadrichromie
+- Ne pas associer de nouveaux symboles au logotype
+- Ne pas incliner le logotype
+- Ne pas inverser les éléments du logotype
 
 ## Additional Properties
 

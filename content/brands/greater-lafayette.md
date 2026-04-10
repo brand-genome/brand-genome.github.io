@@ -2,7 +2,7 @@
 title: Greater Lafayette
 slug: "greater-lafayette"
 description: ""
-date: "2026-03-20T08:22:04.011992"
+date: "2026-04-10T09:40:31.983785"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - community
   - regional
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -67,9 +67,3 @@ visual_term_image_urls: {}
 - [https://greaterlafayetteind.com](https://greaterlafayetteind.com)
 - [https://greaterlafayetteind.com/about](https://greaterlafayetteind.com/about)
 - [http://www.myfonts.com](http://www.myfonts.com)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*

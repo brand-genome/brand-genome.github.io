@@ -2,7 +2,7 @@
 title: World Sailing
 slug: "world-sailing"
 description: ""
-date: "2026-03-20T08:22:05.515560"
+date: "2026-04-10T09:40:34.399441"
 draft: false
 sectors:
   - sports
@@ -49,30 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - "pantone-7687"
-  - "pantone-233"
-  - navy
-  - "pantone-270"
-  - white
-  - "pantone-281"
-  - "pantone-7702"
-  - "pantone-324"
-  - "pantone-3955"
-  - magenta
-typographies:
-  - arial
-  - futura
-imagery_styles:
-  - graphic
-  - dramatic
-  - professional
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international sailing sports body
 wikidata_url: "https://www.wikidata.org/wiki/Q381929"
 has_twitter: false
@@ -93,37 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The cut-off device for logos can be placed on left, right, or bottom edges. It is white or navy colored. For horizontal boxes, the top line should rotate + or -3 degrees from horizontal. A cut-off area should take no more than an eighth of a page.
-
-**Color Information:**
-
-- Primary colors include Navy (#17479e, Pantone 7687 C), Cool Aqua (#25a7d0, Pantone 7702 C), Hot Magenta (#d80d86, Pantone 233 C), and Dark Navy (#0d2c6c, Pantone 281 C). CMYK codes and RGB equivalents are provided for each.
-- Secondary colors include Marine (#80ceca, Pantone 324 C), Mist (#b0acd5, Pantone 270 C), Sunset (#f9e500, Pantone 3955 C). Navy and Cool Aqua allow tinting, 15% Navy and 20% Aqua discussed.
-- Magenta is used as a primary highlight color for the main brand, but its use is varied to avoid becoming a 'magenta' brand. Examples for different events are provided.
-
-**Typography Information:**
-
-- Headline font: 'Co Headline' with weights Light and Regular. Used for titles, headlines, and pull quotes. Tracking is set to 0.
-- Body font: Futura Bold and Medium. Used for titles, subtitles, variety (bullet points/pull quotes), and body text. Tracking set to 0. Alternative font: Arial, used in non-professional scenarios.
-
-**Imagery Photography:**
-
-- Photography should emphasize motion in water, dramatic lighting, raw emotion, and avoid focusing on specific classes or disciplines.
-
-**Spacing Layout:**
-
-- Graphic elements include sails and sheets aspects originating from logo shapes. Minimum and maximum proportions specified. Rules provided for shape rotation and bleed-off positions.
-
-**Brand Voice:**
-
-- Tone emphasizes heritage, modernity, inclusivity (e.g., gender equality), and oceanic harmony.
-
-**Notes:**
-
-- Special sections define regional and sub-brand guidelines, including specific colors and logo integration positions.
-- Contact information: World Sailing marketing team can be reached at +44 (0)2380 635 111 or marketing@sailing.org.
+*Guidelines data not available*
 
 ## Additional Properties
 

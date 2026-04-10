@@ -2,11 +2,11 @@
 title: Reliable Robotics
 slug: "reliable-robotics"
 description: ""
-date: "2026-03-20T08:22:04.392790"
+date: "2026-04-10T09:40:33.121032"
 draft: false
 sectors:
-  - aerospace
   - "space-technology"
+  - aerospace
 regions:
   - usa
 years:

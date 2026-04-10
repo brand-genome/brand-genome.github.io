@@ -2,7 +2,7 @@
 title: FilmBox
 slug: filmbox
 description: ""
-date: "2026-03-20T08:22:03.131899"
+date: "2026-04-10T09:40:30.668337"
 draft: false
 sectors:
   - broadcasting
@@ -18,8 +18,8 @@ tags:
   - entertainment
 industries: []
 countries:
-  - poland
   - "czech-republic"
+  - poland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -57,9 +57,9 @@ imagery_styles: []
 wikidata_description: European TV channel
 wikidata_url: "https://www.wikidata.org/wiki/Q2680139"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 - [https://www.filmboxplus.com](https://www.filmboxplus.com)
 - [http://www.sledujfilmbox.cz](http://www.sledujfilmbox.cz)
 - [https://www.spiintl.com/channels/filmbox](https://www.spiintl.com/channels/filmbox)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

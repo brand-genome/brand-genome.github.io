@@ -2,7 +2,7 @@
 title: Université de Montréal
 slug: "universite-de-montreal"
 description: ""
-date: "2026-03-20T08:22:04.227986"
+date: "2026-04-10T09:40:32.680068"
 draft: false
 sectors:
   - university
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -67,9 +67,3 @@ visual_term_image_urls: {}
 - [https://admission.umontreal.ca](https://admission.umontreal.ca)
 - [http://www.umontreal.ca](http://www.umontreal.ca)
 - [http://www.youtube.com/UdeMvideo](http://www.youtube.com/UdeMvideo)
-
-## Brand Guidelines
-
-### 2018
-
-*Guidelines data not available*

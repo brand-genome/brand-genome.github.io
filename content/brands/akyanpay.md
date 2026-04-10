@@ -2,7 +2,7 @@
 title: Akyanpay
 slug: akyanpay
 description: ""
-date: "2026-03-20T08:22:04.209310"
+date: "2026-04-10T09:40:32.577742"
 draft: false
 sectors:
   - consulting
@@ -47,18 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - symbol
-  - lockup
-  - wordmark
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - ubuntu
-imagery_styles:
-  - modern
-  - gradient
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,33 +69,70 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- The master logo is the preferred logo and should be used whenever possible.
-- The Akyanpay wordmark is described as a modern 'Univia' typeface signifying excitement, trust, and innovation.
-- The symbol represents the brand with a small 'a' and a gradient color.
-- Clear space guidance mandates surrounding the Akyanpay logo with a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo. The margin of clear space is equivalent to the height of the wordmark with slogan.
-- Lockup variations where the wordmark and symbol can be combined vary based on space availability.
-- Maintaining the integrity of the logo is essential for strengthening brand recognition.
+##### Mission
 
-**Color Information:**
+- Ideas that work.
 
-- Primary color with HEX code #D4155B, RGB: 212, 21, 91 and CMYK: 10, 98, 40, 0.
-- Accent color with HEX code #E94E34, RGB: 233, 78, 52, and CMYK: 0, 80, 81, 0.
-- Neutral background color with HEX code #E6E9F5, RGB: 230, 233, 245, and CMYK: 11, 7, 0, 0.
+##### Core Values
 
-**Typography Information:**
+- excitement
+- trust
+- innovation
 
-- Primary typeface: 'Univia Pro' family with regular weight used for titles. Ideal for conveying emotion or making big statements.
-- Secondary typeface: 'Ubuntu' family used for body text and paragraphs in functional roles.
+##### Target Audience
 
-**Spacing Layout:**
+- Not explicitly stated, but implied to be modern, professional, and technology-oriented individuals or businesses.
 
-- Clear space rules specify a margin equivalent to the height of the wordmark with slogan to ensure no encroachment of other elements.
-- Lockup layout rules specify that wordmark and symbol combinations vary based on spatial constraints.
+##### Personality Traits
 
-**Notes:**
+- modern
+- innovative
+- trustworthy
+- exciting
 
-- The brand guidelines were created by Creative Elephant in 2019.
-- Contact information for questions: info.creativeelephant@gmail.com.
-- Website of Creative Elephant: www.creativeelephant.portfoliobox.net.
+##### Visual Identity Overview
+
+- Akyanpay's visual identity centers on a clean, minimalistic, and contemporary style. The logo features a stylized lowercase 'a' with a gradient from pink to orange, bold sans-serif typography, and ample clear space. The color palette includes vibrant pinks, oranges, and light neutrals, and the primary typefaces are Univia Pro for titles and Ubuntu for body text. The brand emphasizes clarity, professionalism, and visual excitement through its logo, typography, and color choices.
+
+#### Categories
+
+##### Brand Imagery
+
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+- Akyanpay symbol is the shorthand signifier of the brand. It’s the small ‘a’ with nice eye catching graident color.
+- This master logo is our preferred logo and should be used whenever possible.
+
+##### Color Palette
+
+- HEX #E94E34
+- HEX #D4155B
+- RGB 212 21 91
+- CMYK 10 98 40 0
+- RGB 233 78 52
+- CMYK 0 80 81 0
+- RGB 230 233 245
+- CMYK 11 7 0 0
+- HEX #E6E9F5
+
+##### Typography
+
+- Our primary typeface is the “Univia Pro” family of fonts, using regular weight to provide contrast.
+- Ubuntu Family should be used for all body, and paragraph, in more functional roles, while the Univia Pro Family should be used when trying to convey emotion or make a big statement and all the titles.
+- Primary Univia Pro Family
+- Secondary Ubuntu Family
+
+##### Logo Usage
+
+- This master logo is our preferred logo and should be used whenever possible.
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+
+##### Visual Style
+
+- Akyanpay logo should always be surrounded by a minimum area of space. Clear space ensures that headlines, text, or other elements do not encroach on the logo.
+- A margin of clear space equivalent to “x” is drawn around the word mark with slogan to create a boundary of isolation. In this case, “x” is equal to the height of the word mark with slogan.
+- This master logo is our preferred logo and should be used whenever possible.
+- Akyanpay symbol is the shorthand signifier of the brand. It’s the small ‘a’ with nice eye catching graident color.

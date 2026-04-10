@@ -2,7 +2,7 @@
 title: MGM Studios
 slug: "mgm-studios"
 description: ""
-date: "2026-03-20T08:22:03.104077"
+date: "2026-04-10T09:40:30.612242"
 draft: false
 sectors:
   - entertainment
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - art
   - featured
   - entertainment
+  - art
 industries:
   - "film-production"
 countries:
@@ -62,7 +62,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q179200"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,11 +75,105 @@ visual_term_image_urls: {}
 
 ### 2012
 
-*Guidelines data not available*
+#### Brand Summary
 
-### UNKNOWN
+##### Mission
 
-*Guidelines data not available*
+- To maintain the strength and integrity of the Metro-Goldwyn-Mayer (MGM) brand as a studio that delivers quality entertainment through worldwide production and distribution of motion pictures, television programming, home video, interactive media, music, and licensed merchandise [^1].
+
+##### Core Values
+
+- heritage
+- prestige
+- quality
+- innovation
+- artistry
+- legacy
+- integrity
+- recognizability
+- consistency
+
+##### Target Audience
+
+- Media partner companies, internal stakeholders, and audiences worldwide who engage with MGM's film, television, and entertainment content [^2].
+
+##### Personality Traits
+
+- authoritative
+- classic
+- regal
+- prestigious
+- artistic
+- innovative
+
+##### Visual Identity Overview
+
+- The visual identity centers on the iconic roaring lion emblem, gold and black color palette, classic serif typography (Minion bold), and symmetrical, emblematic logo compositions. The brand emphasizes heritage, cinematic prestige, and recognizability through consistent logo usage, detailed illustrations, and strict guidelines for proportions, color, and trademark placement [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- Disregard the use of any prior styleguides along with existing Metro-Goldwyn-Mayer (MGM) logos. Moving forward, this document contains the correct guidelines and logo usage for Metro-Goldwyn-Mayer. MGM must approve the signature whenever it appears. All final work should be submitted to your MGM representative. We reserve the right to withdraw permission to use an MGM signature at any time if its use is inconsistent with these guidelines or is otherwise deemed inappropriate by the company.
+- The full-color raster logo should be used as our corporate logo. It can only be reproduced as CMYK, not a Pantone spot color.
+- The full-color vector logo should be used as a secondary logo when technical limitations make the use of the corporate full-color (raster) logo impractical.
+- The line art logo should be used in situations where needed in place of the full-color logo. This logo is specifically for light backgrounds.
+- The line art version should be used in situations where needed in place of the full-color logo. This logo is specifically for dark backgrounds.
+- When resizing the logo maintain proportion and recognizability. Inconsistencies caused by distorting the logo effect the brand. Do not make the logo too small, the words "Metro Goldwyn Mayer" should be legible, otherwise use the Letters Logo (pg 8).
+- Any corporate logo as a standalone ALWAYS needs a registration mark(®).
+- The line art logos should NEVER be altered in order to create a reversed version.
+- The logo lock-up should Never separate the "MGM" letters from the logo lock-up one another (missing ®)
+- Inconsistencies caused by distorting the logo effect the overall brand
+- The logos should NEVER be altered in order to create a reversed version and or scale proportions
+- The legal trademark along with the TM must always accompany the logo
+- Maintain a consistent aspect ratio
+- Logos should always contain trademark(™, ®, ©).
+- Do not separate and alter the logo
+- Do not alter color
+
+##### Color Palette
+
+- The full-color raster logo should be used as our corporate logo. It can only be reproduced as CMYK, not a Pantone spot color.
+- The full-color vector logo should be used as a secondary logo when technical limitations make the use of the corporate full-color (raster) logo impractical.
+- The line art logo should be used in situations where needed in place of the full-color logo. This logo is specifically for light backgrounds.
+- The line art version should be used in situations where needed in place of the full-color logo. This logo is specifically for dark backgrounds.
+
+##### Typography
+
+- MGM typface is Minion (bold)
+- MGM typeface is Minion (bold). Television typeface is Arial (bold).
+- Metro-Goldwyn-Mayer typeface is Minion (bold).
+
+##### Visual Style
+
+- The full-color raster logo should be used as our corporate logo. It can only be reproduced as CMYK, not a Pantone spot color.
+- The full-color vector logo should be used as a secondary logo when technical limitations make the use of the corporate full-color (raster) logo impractical.
+- The line art logo should be used in situations where needed in place of the full-color logo. This logo is specifically for light backgrounds.
+- The line art version should be used in situations where needed in place of the full-color logo. This logo is specifically for dark backgrounds.
+
+##### Motion Graphics
+
+- MOTION LOGO SINGLE FRAME This static version of the motion graphic logo.
+- AUDIO VISUAL LOGOS These full motion graphics are available with sound and should be used for the head of any A/V project including, but not limited to: picture head, TV spot head, and trailer head, depending on contract clause. MGM will approve ANY use of the A/V logo on a case-by-case basis.
+- • AUDIO VISUAL LOGO (ANIMATED): SINGLE ROAR (Available in 2D & 3D) This is a 3 second full motion graphic with sound that is for trailers.
+- • AUDIO VISUAL LOGO (ANIMATED): DOUBLE ROAR (Available in 2D & 3D) This is a 14 second full motion graphic with sound that is used at the head of a feature.
+- • OBTAIN FILES THROUGH: Romy Barber: RBarber@mgm.com or Kacie Kane: KKane@mgm.com
+- File Type: ProRes422HQ (2K & 4K DPX files also available)
+- Resolution: 1080P
+- Frame Rate: 23.98
+- Color Space: 4:2:2
+- Aspect Ratios 1.33:1 1.66:1 1.78:1 1.85:1 2.35:1 2.40:1
+- Audio 2.0 (LT/RT) 5.1 (L, R, C, LFE, LS, RS)
+- FILE NAME/KNOWN AS AV_Static.psd
+- FILE NAME/KNOWN AS AV_Single_Roar.h264
+- FILE NAME/KNOWN AS AV_Double_Roar.h264
+
+##### Sound Identity
+
+- AUDIO VISUAL LOGOS These full motion graphics are available with sound and should be used for the head of any A/V project including, but not limited to: picture head, TV spot head, and trailer head, depending on contract clause. MGM will approve ANY use of the A/V logo on a case-by-case basis.
+- AUDIO VISUAL LOGO (ANIMATED): SINGLE ROAR (Available in 2D & 3D) This is a 3 second full motion graphic with sound that is for trailers.
+- AUDIO VISUAL LOGO (ANIMATED): DOUBLE ROAR (Available in 2D & 3D) This is a 14 second full motion graphic with sound that is used at the head of a feature.
+- Audio 2.0 (LT/RT) 5.1 (L, R, C, LFE, LS, RS)
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-03-20T08:22:04.116725"
+date: "2026-04-10T09:40:32.198883"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - japanese
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries: []
 countries:
   - japan
@@ -53,19 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - alternate
-  - horizontal
-brand_colors:
-  - black
-typographies:
-  - frutiger
-imagery_styles:
-  - modern
-  - geometric
-  - professional
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "higher education institution in Fukuoka, Japan"
 wikidata_url: "https://www.wikidata.org/wiki/Q1188786"
 has_twitter: false
@@ -86,44 +77,104 @@ visual_term_image_urls: {}
 
 ### 2007
 
-**Logo Information:**
+#### Brand Summary
 
-- The manual defines strict rules for logo usage, including combinations of symbols and logo types. It specifies vertical and horizontal alignment configurations for combinations of the symbol and logotype.
-- Clear space rules for symbol logos are defined. Minimum spacing, referred to as 'isolation,' must be one-quarter of the symbol's diameter surrounding the logo.
-- Minimum sizes for symbol logos are specified based on printed format and legibility requirements, including differentiation of standard vs. small-scale versions.
-- Guidance on background usage with symbol logos, requiring light or neutral-colored backgrounds to maintain visibility and avoid color conflicts.
-- Incorrect logo usage is prohibited, including changing layout combinations, using unapproved colors, or placing logos in inappropriate configurations.
+##### Mission
 
-**Color Information:**
+- To establish and maintain a strong, recognizable visual identity for Kyushu University, rooted in tradition and adapted for modern use, ensuring consistency and prestige across all applications [^1].
 
-- Kyushu University's symbolic 'UI Color' is defined as DIC230, with printing specifications of CMYK: C35 M100 Y50 K35. Alternate representations include 3M Color Sheet (Nocs51-02) and Munsell code (10RP3/12).
-- Symbol logos primarily feature the UI Color for symbols and black for logotype. Single-color versions include black, UI Color, or alternative color schemes.
+##### Core Values
 
-**Typography Information:**
+- tradition
+- academic prestige
+- clarity
+- formality
+- adaptability
 
-- Logotype typography includes a custom font designed specifically for Japanese text, coordinated with the symbol. For English text, the typeface 'Frutiger' is specified.
-- Specific typefaces for departmental names include Kozuka Gothic, Hiragino Gothic, and Shin Gothic.
+##### Target Audience
 
-**Imagery Photography:**
+- Students, faculty, staff, alumni, and external stakeholders seeking a formal, prestigious, and recognizable academic institution [^2].
 
-- Photographic elements should prioritize a light and neutral background for logo placement. Constraining backgrounds with reduced contrast is advised for optimal visibility.
-- Recommended visuals include motifs of 'pine' such as geometric patterns, photographic representations of pine leaves, and illustrations of pine cones.
+##### Personality Traits
 
-**Spacing Layout:**
+- formal
+- traditional
+- prestigious
+- adaptable
+- clear
 
-- Logo placement must follow isolation rules with clear space equal to one-quarter of the symbol's diameter. Print layout examples and detailed scaling are provided.
-- Envelope and letterhead layouts specify printed dimensions to achieve visually balanced compositions consistent with branding rules. Text uses specified point sizes and line spacings.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on a stylized pine motif emblem, radiating lines symbolizing illumination and knowledge, a maroon/dark red color palette, and strict logo usage rules. The logo combines Japanese and English logotypes, with original typefaces and multiple layout variants for different applications. The visual style emphasizes symmetry, clarity, and academic formality [^3].
 
-- Kyushu University's visual identity emphasizes formality and tradition while maintaining compatibility with modern aesthetics.
-- Messaging should adhere to clear, professional statements that align symbols prominently with the university's identity.
+#### Categories
 
-**Notes:**
+##### Logo Usage
 
-- The visual identity guidelines document provides detailed use cases for applications including printed materials, envelopes, letterheads, and business cards. Each application type aligns with specific layout rules and symbol logo configurations.
-- Annual color schemes are proposed for printed materials, promoting thematic consistency based on UI Color and seasonal visual elements such as pine motifs.
-- Updated guidelines and versions of this manual are available for download to accommodate changing operational needs.
+- ロゴタイプは、シンボルの形状にあわせて制作しました。九州大学のシンボルと併用する書体は、常にこのロゴタイプを用います。
+- シンボルロゴは「シンボル」と「ロゴタイプ」の2つの要素から構成されます。組み合わせは厳密に定められています。
+- 松葉をかたどった円形のマークを「シンボル」と呼びます。
+- 「九州大学」「KYUSHU UNIVERSITY」の文字をロゴタイプと言います。和文と英文があり、和文はシンボルの形状に合わせてオリジナルの書体が制作されています。英文は和文に合わせてswiftという書体が指定されています。
+- シンボルとロゴタイプの組み合わせを「シンボルロゴ」と呼びます。シンボルロゴには全部で5つのタイプがあります。
+- 5タイプのシンボルロゴは、それぞれ十分検討したうえでシンボルとロゴを組み合せてあります。原則として、これ以外のやり方で、シンボルとロゴタイプを組み合わせることはできません。
+
+##### Color Palette
+
+- 九州大学を象徴する色を「UIカラー」として定めています。シンボルを始め、レイアウトなどに、UIカラーを効果的に使うことにより「九州大学らしさ」を強調することができます。
+- 印刷指定色（特色） DIC230
+- 印刷基本4色掛け合わせ C35/ MlOO / YSO / K35
+- 3Mカラーシート NocsSl-02
+- マンセル色表 10RP3/12
+- シンボルにUIカラーを用い、ロゴタイプに黒を用いる展開が碁本となります。単色の場合には黒、UIカラー、その他の色彩を適用できます。
+- UIカラーと黒の2色を用いた基本配色
+- シンボルロゴの背景色は、シンボルロゴのカラーに影響を与えない力ラーを選びます。右の事例は無彩色です。
+- 背景色がUIカラーの場合は白抜きが適切です。
+- 背景色が濃い色彩の場合は白抜きが適切です。
+- パターンの入った背景にシンボルロゴを配置するときには、なるべく無地に近いスペースを使用します。また下地のパターンのコントラストを下げるなどの工夫も有効です。
+- 写真の上にシンボルロゴを置くときは、無地に近いスペースがちょうどシンボルロゴの背景になるようにレイアウトします。また、シンボルロゴの背景にあたる部分のコントラストを下げるなどの工夫も有効です。濃い色調の写真の場合、シンボルロゴは単色が適切です。
+- 印刷物は、主に内容、対象となる読者などの条件によって形式を重視するデザイン（フォーマル）と自由度の縣いデザイン（フレキシブル）に分類されます。この碁準に碁づいて、以下の碁本的分類を行っています。フォーマル→1)大学概要（資料編、写真編）、2)紀要、報告書 フレキシブル→3)大学案内、4)学生生活案内
+- フォーマル／フレキシブルの違いを表すために以下の2つの方法を使用します。1 )紙面に占めるUIカラーの面積の度合いで表現 割合の比率は特に定めませんが、面積が大きいほどフォーマルとなります。
+- UIカラーのほかに、定期刊行される印刷物に限って、l)印刷物相互に関連性を与えること、2)2色印刷の場合における色彩計画の碁準となること、以上の2点を目的として、10年単位で循環する以下の年度カラーシステムを提案します。2色印刷の場合には、近似した特色を用います。
+- C70 M50 C40 C20 C30 C30 C60 ClO C50 C30 MlO Y40 M20 M30 M50 Y60 M20 M30 M20 M60 Y35 YlO YlOO Y30 Y70 Y70 KlO K20 KlO
+
+##### Typography
+
+- ロゴタイプは、シンボルの形状にあわせて制作しました。九州大学のシンボルと併用する書体は、常にこのロゴタイプを用います。
+- 「九州大学」「KYUSHU UNIVERSITY」の文字をロゴタイプと言います。和文と英文があり、和文はシンボルの形状に合わせてオリジナルの書体が制作されています。英文は和文に合わせてswiftという書体が指定されています。
+
+##### Visual Style
+
+- 松を図案化した九州大学のシンボルの歴史は1949年にさかのぼります。同年、学生バッ チの図案公募が行われ、70人の学生から153点の応募がありました。図案審査にあたっては、学校側、学生側同数の委員からなる審査会を開いて検討し、当時農学部農業土木学科3年だった宗好秀氏の案が採択されました。こうして、1950年2月10日から使用されることになりました。応募作品の題材は、松を図案化したものが多かったのですが、これは当時大学周辺、病院地区から箱崎地区まで一面に松原が広がっていたことによります。現在のデザインは、この伝統的なシンボルをより使いやすく、より現代にマッチしたか たちにリデザインし、2004年に商標登録を行い、正式シンボルとして使用しています。
+- ロゴタイプは、シンボルの形状にあわせて制作しました。九州大学のシンボルと併用す る書体は、常にこのロゴタイプを用います。
+- シンボルロゴは「シンボル」と「ロゴタイプ」の2つの要素から構成されます。組み合わせは厳密に定められています。
+- 松葉をかたどった円形のマークを「シンボル」と呼びます。
+- 「九州大学」「KYUSHUUNIVERSITY」の文字をロゴタイプと言います。和文と英文があり、和文はシンボルの形状に合わせてオリジナルの書体が制作されています。英文は和文に合わせてswiftという書体が指定されています。
+- シンボルとロゴタイプの組み合わせを「シンボルロゴ」と呼びます。シンボルロゴには全部で5つのタイプがあります。
+- 5タイプのシンボルロゴは、それぞれ十分検討したうえでシンボルとロゴを組み合せてあります。原則として、これ以外のやり方で、シンボルとロゴタイプを組み合わせることはできません。
+
+##### Layout And Composition
+
+- シンボルロゴは、余裕のある空間に配置するとより効果的です。シンボルロゴの配置にあたっては、シンボルロゴヘの他の要素の干渉を防ぐため周囲のグラフィック要素、紙面の端との間に最小限確保すべき余白を規定しています。このようにシンボルロゴを独立させて配置することを「アイソレーション」と言います。アイソレーションのルールは下記の説明のとおりですが、利便性のために、最小限確保すべき周囲の空間を含んだシンボルロゴのデータを提供しています。このデータを画像や文字などを重ねずに使用すれば、正しく配置されます。ただし、部局などの名称と組み合わせる場合には、この規定は適用されません。アイソレーションの仕組みは、下図のとおり、シンボルの直径の4分の1を最小限必要な余白（A)として算出しています。
+- シンボルの直径が10mm以下の場合、小サイズ用シンボルで構成されたシンボルロゴ（小）を使います。
+- サイズを小さくしても可視性を保てるように、特別に「大学」の文字の線を細くデザインしています。
+- シンボルの「大学」の文字の可読性、および英文の可読性を考慮して、標準的な印刷を想定した場合のシンボルロゴの最小使用サイズを以下のように定めています。DTPプリンタでの出力、インターネットのHPなど解像度の低い使用環境では、適宜可視性、可読性を個別に考慮する必要があります。
+- 天地組み合せタイプのシンボルロゴは、左右センターに配置するレイアウトに適しています。
+- 左右組み合せタイプのシンボルロゴは、左右のいずれかに寄せたレイアウトに適しています。
+- フォーマル：天地組み合わせタイプ、左右センターに配置 フレキシブル：左右組み合わせタイプ、左右に寄せた配置
+
+##### Annual Color System
+
+- ■ その他1 )年度カラーシステムの提案 UIカラーのほかに、定期刊行される印刷物に限って、l)印刷物相互に関連性を与えること、2)2色印刷の場合における色彩計画の碁準となること、以上の2点を目的として、10年単位で循環する以下の年度カラーシステムを提案します。2色印刷の場合には、近似した特色を用います。
+- C70 M10 Y35 K10 C50 Y40 Y10 K20 C40 M20 Y100 K10 C20 M30 Y30 K10 C30 M50 Y70 K10 C30 Y60 Y70 K20 C60 M20 Y70 K10 C10 M30 Y30 K10 C50 M20 Y20 K10 C30 M60 Y60 K10
+
+##### Brand Imagery
+
+- 松を図案化した九州大学のシンボルの歴史は1949年にさかのぼります。同年、学生バッ チの図案公募が行われ、70人の学生から153点の応募がありました。図案審査にあたっては、学校側、学生側同数の委員からなる審査会を開いて検討し、当時農学部農業土木学科3年だった宗好秀氏の案が採択されました。こうして、1950年2月10日から使用されることになりました。応募作品の題材は、松を図案化したものが多かったのですが、これは当時大学周辺、病院地区から箱崎地区まで一面に松原が広がっていたことによります。現在のデザインは、この伝統的なシンボルをより使いやすく、より現代にマッチしたか たちにリデザインし、2004年に商標登録を行い、正式シンボルとして使用しています。
+- シンボルロゴは「シンボル」と「ロゴタイプ」の2つの要素から構成されます。組み合わせは厳密に定められています。
+- 松葉をかたどった円形のマークを「シンボル」と呼びます。
+- 「九州大学」「KYUSHUUNIVERSITY」の文字をロゴタイプと言います。和文と英文があり、和文はシンボルの形状に合わせてオリジナルの書体が制作されています。英文は和文に合わせてswiftという書体が指定されています。
+- シンボルとロゴタイプの組み合わせを「シンボルロゴ」と呼びます。シンボルロゴには全部で5つのタイプがあります。
+- 5タイプのシンボルロゴは、それぞれ十分検討したうえでシンボルとロゴを組み合せてあります。原則として、これ以外のやり方で、シンボルとロゴタイプを組み合わせることはできません。
 
 ## Additional Properties
 

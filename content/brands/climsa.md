@@ -2,7 +2,7 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-03-20T08:22:04.345437"
+date: "2026-04-10T09:40:33.072077"
 draft: false
 sectors:
   - "public-sector"
@@ -47,26 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - silver
-  - red
-  - green
-  - purple
-  - grey
-  - blue
-  - yellow
-  - brown
-typographies:
-  - arial
-  - "work-sans"
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -84,215 +68,100 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- 1. LOGO
-- LOGO 
-HORIZONTAL CONDENSED VERSION
-- LOGO 
-HORIZONTAL FULL VERSION
-- LOGO 
-VERTICAL VERSION
-- BASIC GRAPHIC ELEMENTS 
-G
-13 X
-X
-X
-An arch is used to 
-containthe logo or 
-°ÿ§÷’ß§kG’°@—kêïG‰’êG
-element is meantto 
-reinforce the orbital 
-perspective of the 
-Programme
+##### Mission
 
-**Color Information:**
+- To contribute to strengthened production, availability, delivery, and application of science-based climate prediction and services, fostering sustainable development and informed adaptation to climate variability and change for members of the Organisation of African, Caribbean, and Pacific States (OACPS) [^1].
 
-- First version ŁJanuary 2021
-3. COLOUR PALETTE
-- COLOUR PALETTE 
+##### Core Values
 
-…â÷‰
-SIDERAL BLUE
-SKY BLUE
-COBALT BLUE
-DARK OLIVE
-GRASS GREEN
-CORNFIED YELLOW
-BURN SIENNA
-RED EARTH
-SILVER GREY
-c98 m86 y36 k38
-c78 m29y0 k0
-c100 m79y5 k0
-c68 m28y97 k12
-c50 m12y100 k0
-c0 m30 y89 k0
-c9 m51y100 k0
-c22 m79y89 k12
-c10 m7y8 k0
-r7 v44 b79
-r8 v146 b205
-R0 V69 B144
-R93 V131 B45
-R151 V177 B21
-R250 V188 B37
-R227 V142 B0
-R180 V74 B42
-R235 V234 B232
-#072C4F
-#0892CD
-#004590
-#5D832D
-#97B115
-#FABC25
-#E38E00
-#B44A2A
-#EBEAE8
-CMYK
-RV B
-HEX
-ClimSA Corporate
-¼§¼ÿâGêßk\’o\@÷’¼²êG\‰@â÷ï
-CMYK colours arethe referencesfor      
-ßâ’²÷kcGc¼\ÿ°k²÷êï
-@§ÿkêG@âkGê@…kk[G\¼§¼ÿâêïG
-The Hexvalues are providedfor web 
-ckk§¼ßßkâêï
-- COLOUR PALETTE 
+- science-based decision-making
+- collaboration
+- capacity building
+- sustainable development
+- ecological preservation
+- adaptation to climate change
 
-100%
-60%
-40%
-20%
-- COLOUR PALETTE 
+##### Target Audience
 
-A set of secondary 
-colours can be used 
-as highlights andto help 
-support the primary 
-\¼§¼ÿâêï
-The secondary colours 
-should only be used 
-after having already used 
-the primary colours, 
-when additional colours 
-@âkGâkáÿ’âkcï
-SOFT PURPLE
-DARK TAN
-PALE MAUVE
-EMERALD GREEN
-GOLDEN BROWN
-c60 m70y20 k0
-c40 m45y43 k14
-c65 m60y0 k10
-c72 m9y35 k5
-c32 m35y77 k15
-r126 v92 b138
-r152 v129 b121
-R102 V100 B159
-R56 V164 B163
-R168 V143 B71
-#7E5C8A
-#988179
-#66649F
-#38A4A3
-#A88F47
-CMYK
-RV B
-HEXA
-CMYK colours arethe 
-references for printed 
-c¼\ÿ°k²÷êï
-The RVBvalues are 
-ê@…kk[G\¼§¼ÿâêïG
-The Hexvalues are 
-provided for web 
-ckk§¼ßßkâêï
-- COLOUR PALETTE 
+- Regional climate centers, hydro-meteorological organizations, decision-makers at all levels, and stakeholders within the OACPS, including countries in Africa, the Caribbean, and the Pacific, especially those vulnerable to climate change [^2].
 
-100%
-60%
-40%
-20%
-- COLOUR PALETTE
+##### Personality Traits
 
-**Typography Information:**
+- professional
+- collaborative
+- innovative
+- inclusive
+- resilient
 
-- First version ŁJanuary 2021
-2. FONTS
-- FONTS
-G
-Work Sans Light
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-¼â¤k—ÿ§@â
-@[\ck…—‰’¡¤§°²¼ßáâ
+##### Visual Identity Overview
 
- 
-1234567890
-Work Sans Medium
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Work Sans SemiBold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Work Sans Bold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Work Sans Light
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-¼â¤k—ÿ§@â
-@[\ck…—‰’¡¤§°²¼ßáâ
+- The visual identity is modern, clean, and professional, featuring a stylized globe with curved, colorful lines (blue, green, orange, yellow) representing global connectivity and environmental themes. The color palette is diverse and harmonious, with primary and secondary colors specified for print and web. The logo is used in multiple versions (horizontal, vertical), and graphic elements include arches, patterns, and icons that reinforce climate and science themes. Typography is consistent, using Work Sans and Arial fonts for different applications [^3].
 
- 
-1234567890
-Work Sans Medium
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Work Sans SemiBold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Work Sans Bold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-- FONTS
- 
-FOR ADMINISTRATIVE DOCUMENTS
-Arial Regular
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Arial Bold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Arial Regular
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
-Arial Bold
-abcdefghijklmnopqrstuvwxyz 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
- 
-1234567890
+#### Categories
+
+##### Logo Usage
+
+- LOGO HORIZONTAL CONDENSED VERSION
+- LOGO HORIZONTAL FULL VERSION
+- LOGO VERTICAL VERSION
+
+##### Color Palette
+
+- ClimSA Corporate Colour specifications chart. CMYK colours are the references for printed documents. The RVB values are safeweb colours. The Hex values are provided for web developpers.
+- | SIDERAL BLUE | c98 m86 y36 k38 | r7 v44 b79 | #072C4F |
+- | SKY BLUE | c78 m29 y0 k0 | r8 v146 b205 | #0892CD |
+- | COBALT BLUE | c100 m79 y5 k0 | R0 V69 B144 | #004590 |
+- | DARK OLIVE | c68 m28 y97 k12 | R93 V131 B45 | #5D832D |
+- | GRASS GREEN | c50 m12 y100 k0 | R151 V177 B21 | #97B115 |
+- | CORNFIED YELLOW | c0 m30 y89 k0 | R250 V188 B37 | #FABC25 |
+- | BURN SIENNA | c9 m51 y100 k0 | R227 V142 B0 | #E38E00 |
+- | RED EARTH | c22 m79 y89 k12 | R180 V74 B42 | #B44A2A |
+- | SILVER GREY | c10 m7 y8 k0 | R235 V234 B232 | #EBEAE8 |
+- COLOUR PALETTE TINTS OF PRIMARY COLOURS 100% 60% 40% 20%
+- A set of secondary colours can be used as highlights and to help support the primary colours.
+- The secondary colours should only be used after having already used the primary colours, when additional colours are required.
+- CMYK colours are the references for printed documents. The RVB values are safeweb colours. The Hex values are provided for web developpers.
+- | SOFT PURPLE | c60 m70 y20 k0 | r126 v92 b138 | #7E5C8A |
+- | DARK TAN | c40 m45 y43 k14 | r152 v129 b121 | #988179 |
+- | PALE MAUVE | c65 m60 y0 k10 | R102 V100 B159 | #66649F |
+- | EMERALD GREEN | c72 m9 y35 k5 | R56 V164 B163 | #38A4A3 |
+- | GOLDEN BROWN | c32 m35 y77 k15 | R168 V143 B71 | #A88F47 |
+- COLOUR PALETTE TINTS OF SECONDARY COLOURS 100% 60% 40% 20%
+
+##### Typography
+
+- Work Sans Light abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- Work Sans Regular abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- Work Sans Medium abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- Work Sans SemiBold abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- Work Sans Bold abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+- FONTS FOR ADMINISTRATIVE DOCUMENTS
+- Arial Regular abcdefghijklmnopqrstuvwxyz
+- Arial Regular ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Arial Regular 1234567890
+- Arial Bold abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
+
+##### Visual Style
+
+- ClimSA Corporate Colour specifications chart. CMYK colours are the references for printed documents. The RVB values are safeweb colours. The Hex values are provided for web developpers.
+- | SIDERAL BLUE | c98 m86 y36 k38 | r7 v44 b79 | #072C4F |
+- | SKY BLUE | c78 m29 y0 k0 | r8 v146 b205 | #0892CD |
+- | COBALT BLUE | c100 m79 y5 k0 | R0 V69 B144 | #004590 |
+- | DARK OLIVE | c68 m28 y97 k12 | R93 V131 B45 | #5D832D |
+- | GRASS GREEN | c50 m12 y100 k0 | R151 V177 B21 | #97B115 |
+- | CORNFIED YELLOW | c0 m30 y89 k0 | R250 V188 B37 | #FABC25 |
+- | BURN SIENNA | c9 m51 y100 k0 | R227 V142 B0 | #E38E00 |
+- | RED EARTH | c22 m79 y89 k12 | R180 V74 B42 | #B44A2A |
+- | SILVER GREY | c10 m7 y8 k0 | R235 V234 B232 | #EBEAE8 |
+- A set of secondary colours can be used as highlights and to help support the primary colours.
+- The secondary colours should only be used after having already used the primary colours, when additional colours are required.
+- CMYK colours are the references for printed documents.
+- The RVB values are safeweb colours.
+- The Hex values are provided for web developpers.
+- | SOFT PURPLE | c60 m70 y20 k0 | r126 v92 b138 | #7E5C8A |
+- | DARK TAN | c40 m45 y43 k14 | r152 v129 b121 | #988179 |
+- | PALE MAUVE | c65 m60 y0 k10 | R102 V100 B159 | #66649F |
+- | EMERALD GREEN | c72 m9 y35 k5 | R56 V164 B163 | #38A4A3 |
+- | GOLDEN BROWN | c32 m35 y77 k15 | R168 V143 B71 | #A88F47 |

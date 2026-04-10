@@ -2,11 +2,11 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-03-20T08:22:05.715505"
+date: "2026-04-10T09:40:34.667858"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - brazil
 years:
@@ -49,24 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - silver
-  - gold
-  - white
-  - "pantone-288"
-  - blue
-  - "pantone-144"
-  - orange
-  - black
-typographies:
-  - helvetica
-  - arial
-  - verdana
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: brazilian commerce union organization for professional education
 wikidata_url: "https://www.wikidata.org/wiki/Q2274352"
 has_twitter: false
@@ -88,35 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The isolated logo version is showcased, intended for use on spines of publications.
-- Guidelines for safe zones around the logo, typically measured as 'X' or variations.
-- The isolated logo version is showcased, intended for use on spines of publications.
-- Guidelines for safe zones around the logo, typically measured as 'X' or variations.
-- Monochromatic versions of the logo are displayed in orange, black (positive), and white (negative). Additionally, metallic printing (gold, silver, or hot stamping) is detailed for special use cases.
-- The isolated logo version is showcased, intended for use on spines of publications.
-- Guidelines about prohibited logo usage, including distortion, applying incorrect colors, incorrect proportions, or additional effects (e.g., shadows, glow).
-
-**Color Information:**
-
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-- Institutional colors include Pantone 288 C (blue) and Pantone 144 C (orange), specified with CMYK, RGB, and HEX values. Secondary lighter tones (e.g., Pantone 144 in 55%) are also specified.
-
-**Typography Information:**
-
-- Institutional typography includes Helvetica Neue LT Pro in Thin, Light, Roman, Medium, Bold, and Heavy weights, with italics for each weight. Additional typefaces include Verdana and Arial for electronic applications.
-- Institutional typography includes Helvetica Neue LT Pro in Thin, Light, Roman, Medium, Bold, and Heavy weights, with italics for each weight. Additional typefaces include Verdana and Arial for electronic applications.
-- Institutional typography includes Helvetica Neue LT Pro in Thin, Light, Roman, Medium, Bold, and Heavy weights, with italics for each weight. Additional typefaces include Verdana and Arial for electronic applications.
-- Institutional typography includes Helvetica Neue LT Pro in Thin, Light, Roman, Medium, Bold, and Heavy weights, with italics for each weight. Additional typefaces include Verdana and Arial for electronic applications.
-
-**Notes:**
-
-- Some information about brand graphic patterns and legibility tables is present but requires additional contextual interpretation for practical use.
+*Guidelines data not available*
 
 ## Additional Properties
 

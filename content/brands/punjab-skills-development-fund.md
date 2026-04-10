@@ -2,7 +2,7 @@
 title: Punjab Skills Development Fund
 slug: "punjab-skills-development-fund"
 description: ""
-date: "2026-03-20T08:22:04.221302"
+date: "2026-04-10T09:40:32.633694"
 draft: false
 sectors:
   - ngo
@@ -49,13 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-  - times
-  - futura
-imagery_styles:
-  - bold
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,30 +68,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- References include logo details, placement, evolution, rationale, exclusion zone, minimum size, incorrect logo usage examples, and partner logo placement.
-
-**Color Information:**
-
-- Color specifications for branding include necessary options like CMYK [e.g., C:100 M:70 Y:10 K:0, C:0 M:0 Y:0 K:70], HEX, and specific combinations for taglines, logos, and standardized palettes.
-
-**Typography Information:**
-
-- Font style guidelines reference Futura (Light, Medium, Bold, Oblique, etc.), Times New Roman, Arabic fonts (Nastaleeq, Helvetica Neue LT Arabic) across applications like headings, body copy, and editorial pieces.
-
-**Imagery Photography:**
-
-- Guidelines reference consistent use of local images in ad placements, PSDF photography treatments, and integration of brand visual styles.
-
-**Spacing Layout:**
-
-- Spacing rules found include logo exclusion zones, margins aligned with logo dimensions, specified spacing for copy boxes, captions, and tagline placements.
-
-**Brand Voice:**
-
-- Brand voice and tagline guidelines emphasize consistent messaging showcasing PSDF’s vision (e.g., slogans like 'Skills for Success'). Includes placement instructions and uses within campaigns.
-
-**Notes:**
-
-- The document includes overarching brand guidelines covering stationery, giveaways, digital/social branding, certificates, and promotional materials ensuring uniform applications.
+*Guidelines data not available*

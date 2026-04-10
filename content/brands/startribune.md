@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-03-20T08:22:05.519816"
+date: "2026-04-10T09:40:34.410497"
 draft: false
 sectors:
   - publishing
@@ -32,8 +32,8 @@ foundation_dates:
   - 1867
   - 1982
 foundation_year_buckets:
-  - 1980S
   - "19TH-CENTURY"
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -51,16 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-  - secondary
-brand_colors:
-  - green
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - vibrant
+imagery_styles: []
 wikidata_description: "newspaper in Minneapolis, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q862148"
 has_twitter: false
@@ -85,39 +79,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The document mentions the 'Our Logotype' section in the contents listing, indicating logo-related details are present.
-- Unacceptable uses of the logo are highlighted in the 'Please Don't' section
-- Signature Lockups are discussed, possibly detailing logo arrangement and combinations.
-
-**Color Information:**
-
-- Primary color palette listed under 'Proudly Green' section; secondary palette colors are also mentioned.
-
-**Typography Information:**
-
-- Typography information explicitly allotted across pages 16 to 18.
-
-**Imagery Photography:**
-
-- Photography style is detailed under 'Photography Style' section.
-
-**Spacing Layout:**
-
-- Stationery and formatting are referenced in pages 20 and 21.
-
-**Brand Voice:**
-
-- Brand Voice characteristics allocated specifically across pages 12 and 13.
-- Publisher Michael J. Klingensmith emphasizes consistent communication of the brand's essence.
-
-**Notes:**
-
-- The introduction emphasizes Star Tribune's significance to Minnesota and the importance of consistent branding.
-- It thanks staff for conveying the organization's values effectively.
-- The brand's position, attributes, and uniqueness are summarized concisely, describing its alignment with Minnesotans' needs.
-- A draft of visual brand attributes—Comprehensive, Vibrant, Entertaining—is listed.
+*Guidelines data not available*
 
 ## Additional Properties
 

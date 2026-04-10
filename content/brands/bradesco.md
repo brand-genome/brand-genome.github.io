@@ -2,11 +2,11 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-03-20T08:22:05.059334"
+date: "2026-04-10T09:40:33.817117"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - brazil
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - financial
 industries:
+  - "economics-of-banking"
   - "financial-services"
   - "financial-sector"
-  - "economics-of-banking"
 countries:
   - brazil
 revenue_buckets: []
@@ -55,15 +55,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - symbol
-  - horizontal
-brand_colors:
-  - red
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Brazilian banking institution
@@ -87,24 +80,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The corporate signature comprises the logo symbol and the 'Bradesco' name. It must not be modified, added to, or recreated. Only original files should be used.
-- Preferred horizontal version of the logo: instructions to respect the designated clear space represented by 'X' measurements to ensure legibility. Minimum size requirements include 5 mm for printed documents and 20 px for digital applications.
-- Secondary vertical version: meant for use only when the horizontal version is not feasible. It includes guidelines on clear space dimensions and minimum size requirements: 9 mm for printed material and 50 px for digital applications.
-- The logo should always retain its original color, proportions, font, and design. Improper usages include altering logo colors, proportions, fonts, or adding elements (e.g., department descriptors). Additional incorrect uses include distorting the logo, tilting it, cutting or slicing it, and using logos within lines or diagrams.
-
-**Color Information:**
-
-- Colors for logo application: Bradesco Red (Pantone: PMS 186, CMYK: C0 M100 Y75 K4, RGB: R204 G9 B47, HEX: #CC092F) and Black (CMYK: C0 M0 Y0 K100, RGB: R0 G0 B0, HEX: #000000). Black is only used when color application is not an option.
-
-**Spacing Layout:**
-
-- Clear space rules: The space between the logo and surrounding elements must follow the 'X' measurement guidelines provided. The diagrams referenced clearly illustrate how to construct the protective space correctly.
-
-**Notes:**
-
-- General observations: The guideline emphasizes the importance of original logo files for all usages to maintain brand integrity. Improper applications that compromise visibility or consistency are strictly prohibited.
+*Guidelines data not available*
 
 ## Additional Properties
 

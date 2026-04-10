@@ -2,11 +2,11 @@
 title: Moen
 slug: moen
 description: ""
-date: "2026-03-20T08:22:05.401585"
+date: "2026-04-10T09:40:34.252818"
 draft: false
 sectors:
-  - construction
   - hardware
+  - construction
 regions:
   - usa
 years:
@@ -47,17 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - wordmark
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - din
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: Mexican musical group; electronica band
 wikidata_url: "https://www.wikidata.org/wiki/Q3318207"
 has_twitter: false
@@ -79,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Introduction of logo color variations, use of Moen logo, including guidelines for placement and tagline usage.
-- Clear space and minimum size requirements for Moen logo specified.
-- Vertical, horizontal and wordmark versions of the logo introduced.
-- Prohibited uses of logo shown, including color manipulation, distortion, and other misuse.
-
-**Color Information:**
-
-- Primary and secondary color palettes defined with Pantone codes. Specific use cases for brand standards provided.
-- Color guidelines for Moen logo and branding introduced, including HEX and CMYK specifications.
-
-**Typography Information:**
-
-- Font families defined with typefaces such as Din Light and DFHeiLight-B5. Font guidelines applied for headings and body text.
-- Examples of allowable font sizes and type usages for marketing material designs. Fonts listed for various applications.
-
-**Brand Voice:**
-
-- Tone guidelines specified for Moen brand messaging. Emphasis on consistency and cultural appropriateness in voice/tone.
-- Guidelines for brand messaging headlines used in consumer-facing creative materials. Examples of tone and positioning.
-
-**Notes:**
-
-- Full text extracted from introduction and guidelines available for Moen branding standards—a comprehensive guideline for print, marketing materials, photography styles.
+*Guidelines data not available*
 
 ## Additional Properties
 

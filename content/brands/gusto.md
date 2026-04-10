@@ -2,12 +2,12 @@
 title: Gusto
 slug: gusto
 description: ""
-date: "2026-03-20T08:22:04.214602"
+date: "2026-04-10T09:40:32.598109"
 draft: false
 sectors:
+  - software
   - insurance
   - finance
-  - software
 regions:
   - usa
 years:
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries:
   - "business-software-industry"
-  - "internet-industry"
   - "human-resource-management"
+  - "internet-industry"
   - "software-industry"
 countries:
   - "united-states"
@@ -57,12 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: Payroll and benefits company
 wikidata_url: "https://www.wikidata.org/wiki/Q20540697"
 has_twitter: false
@@ -80,33 +78,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Contains references to logo or icon guidelines.
-
-**Color Information:**
-
-- Contains references to brand color palette or color specifications.
-
-**Typography Information:**
-
-- Contains references to typography or font guidelines.
-
-**Imagery Photography:**
-
-- Contains references to imagery or photography guidelines.
-
-**Spacing Layout:**
-
-- Contains references to spacing, grid, or layout use.
-
-**Brand Voice:**
-
-- Contains references to brand voice and tone guidelines.
-
-**Notes:**
-
-- Contains additional notes or references for brand guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: The Nordics
 slug: "the-nordics"
 description: ""
-date: "2026-03-20T08:22:05.701536"
+date: "2026-04-10T09:40:34.639111"
 draft: false
 sectors:
   - "public-sector"
@@ -47,27 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
-  - monogram
-brand_colors:
-  - red
-  - "pantone-183"
-  - green
-  - "pantone-3435"
-  - "pantone-286"
-  - white
-  - grey
-  - gray
-  - yellow
-  - "pantone-653"
-  - "pantone-107"
-  - black
-typographies:
-  - helvetica
-  - times
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -88,88 +70,180 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- Brand Positioning
-Core Values
-Brand Passions
-Visual Identity Logo
-Logo Sizes
-Logo Color System
-Logo Clearance
-5TH Element
-Visual Identity Colot
-Primary typefaces: Helvetica Neue
-Secondary typefaces: Times New Roman
-BASIC ELEMENTS
-BRAND GUIDELINES
-2018
-- Visual Identity Logo
-The Nordics Project is one that aims to bring together all the Scandinavian countries by way of their common traces. It is intended to showcase to the world what the 8 Nordic countries have to offer, and they way this affects the world in unspoken ways that are not visible to the naked eye. Traces of these countries coexist within the world we live in. The logo is inspired by the star constellation, a navigator. It is designed to bring humans closer together under one collective blanket made up of constellations, nature and the universe.
-BRAND GUIDELINES
-2018
-DOWNLOAD LINK
-HTTPS://THENORDICS.COM/PUBLIC_TOOLBOX.PHP
-- Visual Identity Logotype
-BRAND GUIDELINES
-2018
-DOWNLOAD LINK
-HTTPS://THENORDICS.COM/PUBLIC_TOOLBOX.PHP
-- SMALL
-70% scale of standard, for use on collateral smaller than 5" x 7"
-STANDARD
-For use on collateral larger than or equal to 5" x 7" but smaller than or equal to tabloid (11" x 17") or A3 (297 mm x 420 mm)
-LARGE
-280% scale. For use on collateral larger than tabloid (11" x 17") or A3 (297 mm x 420 mm)
-Logo size
-STANDARD
-30mm
-20mm
-The logo must stay as is and be locked into the exact way it has been delivered. It cannot be altered in any way as this changes the logo and its intention.
-- Logo Color System
-STANDARD: Pantone Cool Gray10 Ł C10 / M0 / Y0 / K80 Ł R97 / G85 / B91
-KNOCKOUT: C0 / M0 / Y0 / K0 Ł R255 / G255 / B255
-SOLID: Pantone Black 6 Ł C0 / M0 / Y0 / K100 Ł R0 / G0 / B0
-In order to maintain legibility and brand consistency across collateral, always use one of the three approved color combinations. Whenever possible, use the standard color combination. The knockout version should only be used in limited applications, and the black logo can only be used when black and white printing is the only option.
-- Logo Clearance
-Logo Alignment - Positioning
-The logo is aligned to the center.
-The logo is either aligned to top center or is aligned to the right margin in lower right corner.
-Logo Clearance
-The monogram height determines the clear space below the logo. Depending on the size and content, the clear space is equal to the height of either one or two monograms.
-- Logo Lockup
-The logo must stay as is and be locked into the exact way it has been delivered.
-It cannot be altered in any way as this changes the logo and its intention.
+##### Mission
 
-**Color Information:**
+- HENO helps Vietnamese people access timely healthcare and beauty services [^1].
 
-- Logo Color System
-STANDARD: Pantone Cool Gray10 Ł C10 / M0 / Y0 / K80 Ł R97 / G85 / B91
-KNOCKOUT: C0 / M0 / Y0 / K0 Ł R255 / G255 / B255
-SOLID: Pantone Black 6 Ł C0 / M0 / Y0 / K100 Ł R0 / G0 / B0.
-- Visual Identity Color Palette
-GREY (100, 60 & 40%): Pantone Cool Gray 10 Ł C10 / M0 / Y0 / K80 Ł R97 / G85 / B91
-BLUE1 (100, 60 & 40%): Pantone 653 Ł C78 / M46 / Y9 / K5 Ł R94 / G117 / B153
-GREEN (100, 60 & 40%): Pantone 3435 Ł C86 / M15 / Y81 / K40 Ł R68/ G98 / B86
-BLUE2 (100, 60 & 20%): Pantone 286 Ł C87 / M59 / Y0 / K0 Ł R47 / G88 / B167
-YELLOW (100, 60 & 20%): Pantone 107 Ł C0 / M2 / Y83 / K0 Ł R255 / G229 / B82
-RED: Pantone 183 Ł C0 / M97 / Y50 / K0 Ł R255 / G22 / B89
-BLACK: Pantone Black 6 Ł C0 / M0 / Y0 / K100 Ł R0 / G0 / B0.
+##### Core Values
 
-**Typography Information:**
+- tận tâm
+- nhiệt thành
+- tôn trọng
 
-- Primary typeface: Helvetica Neue
-- Secondary typeface: Times New Roman Italic. The secondary typeface should only be used to showcase highlights of the body copy or an important sentence.
+##### Target Audience
 
-**Imagery Photography:**
+- Vietnamese individuals seeking timely healthcare and beauty services, including customers and partners [^2].
 
-- Collages are intended to showcase different Nordic regions and highlights. Layers develop a story that comes to life. There are 16 hero collages, available for print and digital.
+##### Personality Traits
 
-**Spacing Layout:**
+- cởi mở
+- tận tâm
+- dễ hiểu
 
-- Logo Clearance defines spaces surrounding logo. Clear space is equal to one or two logo monogram heights. Alignment rules depend on content dimensions and length.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- HENO's visual identity is minimalistic, featuring a bold red and white color palette, a stylized heart and wallet/book logo, and modern sans-serif typography. The brand emphasizes clarity, simplicity, and trust, with consistent logo usage, clearspace rules, and adaptable layouts for digital and print applications [^3].
 
-- Values listed as openness, trust, creativity, sustainability, and compassion. Concept of showing 'The Nordics in the world' rather than 'to the world.'
-- Messaging and stories tied to Nordic values. Hashtags: #thenordics, #tracesofnorth, #startingconversations.
+#### Categories
+
+##### Brand Voice
+
+- Phát âm: /Hê-nô/
+- Giọng nữ Bắc rõ ràng, tone giọng Linh hoạt.
+- Đặc trưng: Cởi mở; Mô tả: Chăm sóc sức khoẻ và làm đẹp là KHÔNG THỂ CHÒ ĐỌI; Note: -Vui tươi, thể hiện quan điểm cá nhân -Không nên quá suồng sã
+- Đặc trưng: Tân tâm; Mô tả: HENO mong ai cũng được chăm sóc sức khoẻ và sắc đẹp với chất lượng tốt nhất.; Note: -Trung thực, thẳng thắn -Tone giọng dễ nghe, câu từ chắc chắn -Đừng hứa hẹn quá đà, nói quá về sản phẩm
+- Đặc trưng: Dễ hiểu; Mô tả: HENO chia hoá đơn thanh toán của bạn làm 4 phần; Note: -Câu từ chắc chắn, đơn giản -Nhấn mạnh vào hành động thúc đầy khách hàng
+- Xưng hô: ệ-Luôn luôn xưng là "HENO, chúng tôi" i-Gọi người đọc là "bạn"
+- Keywords: căctừkoysLUôNLUồNxuẫthiệntrông content & blog: Mua SÚC KHOẺ, mượn HENO Chăm sóc ... là KHÔNG THÊ CHờ ĐợI Trả sauMIỄNPHí
+- Chú ý: -Không sử dụng "tỗi, cổng6y, doanh hghiểp va khacn hăng". -Không sử dụng "Không lãi suất, trả sau không lãi suất" -Không được tách cụm "Trả sau Miễn phí" ra. Ví dụ "Trả sau dịch vụ chăm sóc miễn phí" -SĐT phải viết theo trình tự xxx xXxx xxXxX. Ví dụ: 024 7108 8968, không được viết 0247 108 8968,.
+
+##### Brand Imagery
+
+- Uu tiên sử dụng những hình ảnh chân thật (người thật, việc thật) tạo sự gần gũi, thân thiện với người dùng.
+- - Tránh ảnh dàn dựng lộ liễu
+- - Tránh hình ảnh nhạy cảm
+- - Tránh dập khuân, y sì ảnh giữa các bài
+- Lấy hình ảnh được chụp chính tại các cơ sở dịch vụ chăm sóc, đối tác của HENO: Trải nghiệm dịch vụ, cảm nhận khách hàng,...
+- Trong ảnh có: - Nhận diện đối tác (logo trên áo nhân viên...) - Thể hiện được sự chuyên nghiệp dịch vụ - Sự thoải mái, thư giãn của khách hàng khi trải nghiệm.
+
+##### Color Palette
+
+- # Core colour palette
+- #E12A41 RGB 225 42 65
+- Màu đỏ và trắng được lựa chọn làm màu sắc chủ đạo để định hình phong cách và gợi nhớ đến các giá trị cốt lõi của HENO.
+- - Màu đỏ:
+- #FFFFFF RGB 255 255 255
+- Gắn với màu sắc của chữ thập đỏ - Biểu tượng của ngành y.
+- Màu đỏ cho thấy niềm tin, niềm lạc quan, niềm hy vọng.
+- Trong lĩnh vực công nghệ, màu đỏ thể hiện sự bứt phá, tiên phong trong kỷ nguyên công nghệ.
+- - Màu trắng:
+- Gắn liền với màu áo trắng của y bác sĩ
+- Thể hiện sự tươi mới, trang trọng và chính trực.
+- # Secondary colour palette
+- <table><tr> <td> #C1BFC0</td> <td> #D6D6D6</td> <td> #E1E1E1</td> </tr><tr> <td> #ECECEC</td> <td> #EFEFEF</td> <td> Các dải màu từ xám đến trắng được căn chỉnh sao cho phù hợp làm background Màu chữ, nét vẽ và material được sử dụng linh hoạt 2 màu xanh bên dưới.</td> </tr><tr> <td> #04153B</td> <td> #13324A</td> <td> #386C94</td> </tr></table>
+
+##### Typography
+
+- # Typography # NUNITO ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890£&?!% <table><tr> <td> Heading</td> <td> Nunito Bold</td> </tr> <tr> <td> Sub Heading</td> <td> Nunito Semibold Italic</td> </tr> <tr> <td> Body</td> <td> Nunito Semibold</td> </tr></table>
+- # Typography Kích cỡ font chữ được điều chỉnh theo bảng để phù hợp với từng thiết bị, mang lại trải nghiệm tốt nhất cho người dùng. <table><tr> <td></td> <td> Heading</td> <td> Sub Heading</td> <td> Body</td> </tr> <tr> <td> Desktop</td> <td> 48px</td> <td> 36px</td> <td> 16px</td> </tr> <tr> <td> Tablet</td> <td> 40px</td> <td> 32px</td> <td> 16px</td> </tr> <tr> <td> Mobile</td> <td> 32px</td> <td> 26px</td> <td> 16px</td> </tr></table> Lưu ý: Khoảng cách dòng luôn là 3px.
+
+##### Logo Usage
+
+- Logo được đặt trên hệ thống lưới nhằm xác định các tỷ lệ thành phần trong logo
+- Khoảng cách an toàn của logo được tính bằng kích thước chữ H trong trên thương hiệu.
+- Khoảng cách an toàn của logo là khoảng trống tối thiểu của logo đến các đối tượng nhằm đảm bảo sự nhận diện và nổi bật khi đứng cạnh logo thương hiệu khác, cũng như các đối tượng đồ hoạ khác.
+- Logo khi đứng 1 mình
+- Logo khi đứng với logo khác
+- Cấu trúc logo dọc
+- Cấu trúc logo ngang
+- Màu đỏ và trắng được lựa chọn làm màu sắc chủ đạo để định hình phong cách và gợi nhớ đến các giá trị cốt lõi của HENO.
+- #E12A41 RGB 225 42 65
+- #FFFFFF RGB 255 255 255
+
+##### Tone And Messaging
+
+- Phát âm: /Hê-nô/
+- Giọng nữ Bắc rõ ràng, tone giọng Linh hoạt.
+- Đặc trưng: Cởi mở; Mô tả: Chăm sóc sức khoẻ và làm đẹp là KHÔNG THỂ CHÒ ĐỌI; Note: -Vui tươi, thể hiện quan điểm cá nhân -Không nên quá suồng sã
+- Đặc trưng: Tân tâm; Mô tả: HENO mong ai cũng được chăm sóc sức khoẻ và sắc đẹp với chất lượng tốt nhất.; Note: -Trung thực, thẳng thắn -Tone giọng dễ nghe, câu từ chắc chắn -Đừng hứa hẹn quá đà, nói quá về sản phẩm
+- Đặc trưng: Dễ hiểu; Mô tả: HENO chia hoá đơn thanh toán của bạn làm 4 phần; Note: -Câu từ chắc chắn, đơn giản -Nhấn mạnh vào hành động thúc đầy khách hàng
+- Xưng hô: ệ-Luôn luôn xưng là "HENO, chúng tôi" i-Gọi người đọc là "bạn"
+- Keywords: căctừkoysLUôNLUồNxuẫthiệntrông content & blog: Mua SÚC KHOẺ, mượn HENO Chăm sóc ... là KHÔNG THÊ CHờ ĐợI Trả sauMIỄNPHí
+- Chú ý: -Không sử dụng "tỗi, cổng6y, doanh hghiểp va khacn hăng". -Không sử dụng "Không lãi suất, trả sau không lãi suất" -Không được tách cụm "Trả sau Miễn phí" ra. Ví dụ "Trả sau dịch vụ chăm sóc miễn phí" -SĐT phải viết theo trình tự xxx xXxx xxXxX. Ví dụ: 024 7108 8968, không được viết 0247 108 8968,.
+
+##### Brand Values
+
+- HENO viết tắt của từ "Healthcare Now", có nghĩa là 'Chăm sóc sức khoẻ ngay lập tức". Chúng tôi cam kết với cộng đồng, ai cũng được chăm sóc sức khoẻ -sắc đẹp kịp thời, tạo được niềm tin mạnh mẽ cho khách hàng cũng như các đối tác của HENO.
+- HENO tin rằng sức khỏe -sắc đẹp mỗi người là vô cùng quan trọng và cần được quan tâm chăm sóc kịp thời
+- Chữ SÚC KHOẺ và HENO luôn được viết in hoa, màu nổi bật so với các chữ còn lại.
+- Trở thành biểu tượng niềm tin hàng đầu Việt Nam về phục vụ, quan tâm chăm sóc sức khoẻ và sắc đẹp con người.
+- HENO giúp người Việt, ai cũng được chăm sóc sức khoẻ và sắc đẹp kịp thời.
+
+##### Visual Style
+
+- Chữ SÚC KHOẺ và HENO luôn được viết in hoa, màu nổi bật so với các chữ còn lại.
+- #E12A41 RGB 225 42 65
+- #FFFFFF RGB 255 255 255
+- Màu đỏ và trắng được lựa chọn làm màu sắc chủ đạo để định hình phong cách và gợi nhớ đến các giá trị cốt lõi của HENO.
+- - Màu đỏ: Gắn với màu sắc của chữ thập đỏ - Biểu tượng của ngành y.
+- Màu đỏ cho thấy niềm tin, niềm lạc quan, niềm hy vọng.
+- Trong lĩnh vực công nghệ, màu đỏ thể hiện sự bứt phá, tiên phong trong kỷ nguyên công nghệ.
+- - Màu trắng: Gắn liền với màu áo trắng của y bác sĩ
+- Thể hiện sự tươi mới, trang trọng và chính trực.
+- #C1BFC0 #D6D6D6 #E1E1E1 #ECECEC #EFEFEF Các dải màu từ xám đến trắng được căn chỉnh sao cho phù hợp làm background Màu chữ, nét vẽ và material được sử dụng linh hoạt 2 màu xanh bên dưới.
+- #04153B #13324A #386C94
+- # NUNITO
+- Heading Nunito Bold
+- Sub Heading Nunito Semibold Italic
+- Body Nunito Semibold
+- Kích cỡ font chữ được điều chỉnh theo bảng để phù hợp với từng thiết bị, mang lại trải nghiệm tốt nhất cho người dùng.
+- Desktop Heading 48px Sub Heading 36px Body 16px
+- Tablet Heading 40px Sub Heading 32px Body 16px
+- Mobile Heading 32px Sub Heading 26px Body 16px
+- Lưu ý: Khoảng cách dòng luôn là 3px.
+- Uu tiên sử dụng những hình ảnh chân thật (người thật, việc thật) tạo sự gần gũi, thân thiện với người dùng.
+- - Tránh ảnh dàn dựng lộ liễu
+- - Tránh hình ảnh nhạy cảm
+- - Tránh dập khuân, y sì ảnh giữa các bài
+
+##### Iconography
+
+- ## lcon set <table><tr> <td> & face vomit</td> <td> G fle-medical</td> <td> 3 fle-prescription</td> <td> £ filewoveform</td> <td> 3 fles-medical</td> <td> 6 fire-flame-simple</td> <td> A flask</td> <td> 6 flask-round- potion</td> <td> Đ folder-medical</td> </tr> <tr> <td> O hand-dots</td> <td> O :a2 hand-holding medicol</td> <td> € head side broi</td> <td> head-side cough</td> <td> head side coughslash</td> <td> 6 head side mask</td> <td> head side medical</td> <td> 8) head side virus</td> <td> G heart</td> </tr> <tr> <td> @9 heartpulse</td> <td> €C hospital</td> <td> £e hospitaluser</td> <td> sa hospitols</td> <td> @ housechimneg medical</td> <td> @ house medical</td> <td> ca id-card-clip</td> <td> s8 inhaler</td> <td> joint</td> </tr> <tr> <td> 0,0 kidnegs</td> <td> CEE kit-medical</td> <td> 2 loptop-medical</td> <td> € lips</td> <td> e lungs</td> <td> G lungsvirus</td> <td> Gp mask-face</td> <td> mess0ge medical</td> <td> 9 microscope</td> </tr> <tr> <td> EĐ monitor woveform</td> <td> 2 mortarpestle</td> <td> note medical</td> <td> @ notesmedical</td> <td> € pơger</td> <td> n person-dots- from-line</td> <td> o pills</td> <td> + plus</td> <td> 0 po0p</td> </tr> <tr> <td> R prescription</td> <td> c EJ pescription-bottle</td> <td> c tơ prescription bottle medical</td> <td> 6 pumpmedical</td> <td> c.o 0 rodiotion</td> <td> g teCeipt</td> <td> 0 U scalpel</td> <td> 0 uL.- scalpel-line đashed</td> <td> @g shield-virus</td> </tr> <tr> <td> đ skeleton</td> <td> € skull</td> <td> O >C skull-crossbones</td> <td> cru smoking</td> <td> E $quareh</td> <td> G $quareplus</td> <td> >k star-of-life</td> <td> Q stethoscope</td> <td> st0mach</td> </tr> <tr> <td> 8 stretcher</td> <td> @ suitcase medical</td> <td> B suringe</td> <td> eS tablets</td> <td> ee teeth</td> <td> ar teeth-open</td> <td> 9 thermometer</td> <td> G3 tooth</td> <td> LL toothbrush</td> </tr></table>
+- Trong trường hợp can n design thêm 1con, ưưu tiên: Cần match với 1con cua 7 thư viên đươc -chon. Nên Ve p băng cac P đường bo tròn tao cam 7 grac P em A aI, P • thân thiên. Link -1con tham khảo tai đây.
+
+##### Layout And Composition
+
+- Logo được đặt trên hệ thống lưới nhằm xác định các tỷ lệ thành phần trong logo
+- Khoảng cách an toàn của logo được tính bằng kích thước chữ H trong trên thương hiệu.
+- Khoảng cách an toàn của logo là khoảng trống tối thiểu của logo đến các đối tượng nhằm đảm bảo sự nhận diện và nổi bật khi đứng cạnh logo thương hiệu khác, cũng như các đối tượng đồ hoạ khác.
+- Style 1: Chỉ dành cho ảnh vuông (1200x1200) Yêu cầu: Dải ngang đỏ dưới mỗi ảnh Tone: Đỏ -trắng (tuỳ chỉnh) Bên trái là logo ngang HENO, bên phải là hashtag tagline.
+- Style 2: Dung cho moi kich co -1200 X 1200 px -1200 X 600 px -600 X 1200 px Yeu cau: Logo ngang cua HENO de o goc trai tren Tone: o -trang (tuy chinh) Tranh background co tone tuong phan, lam logo bi chim.
+- a. Vj trו logo (anh chieu r9ng 1200px) 300px
+- b. Vi tri logo (anh chieu rong 600px) 150px
+- Style 1: Channel: Youtube, Website Ty le 16:9 Yeu cau: - Intro + outro - Logo HENO dang vuong (goc duoi ben phai) xuyen suot video.
+- Style 2: Channel: Facebook/ lnstagram, Linked ln Ty l 1:1 Yeu cau: - lntro + outro - Logo HENO danq vuonq a g6c du'di ben phai xuven suot video -2 dai ngang rnau do a tren va dudi video goc. Chua text tranq, font Nunito SemiBold.
+- Biển mica A5 (148 x 210 mm) Tone Đỏ -trắng linh hoạt Người đọc: Khách hàng Vị trí: Quầy lễ tân, phía tay phải so với khách hàng Khách hàng quét mã QR, vào phòng tư vấn của HENO.
+- Guong tron mini Kich co R = 35mm Vo thep, in co mang PP Nguoi duoc tang: Khach hang Vi tri: at trong gio tai quay le tan, ban cho.
+- Sticker Kich co duong kinh = 50mm Be tron Nguoi uoc tang: Khach hang Vi tri: at tai quay le tan, ban cho.
+- Decal dan Kich co 120x170 mm Bo tron 4 goc Nguoi xem: oi tac Vi tri: Dan tai quay le tan Khi co khach hang, oi tac se quet ma QR vao Zalo OA de day thong tin cho HENO.
+- Brochure gap 3 Kich co 200 x 113,5 mm Bia in C200
+
+##### Photography Style
+
+- Uu tiên sử dụng những hình ảnh chân thật (người thật, việc thật) tạo sự gần gũi, thân thiện với người dùng.
+- - Tránh ảnh dàn dựng lộ liễu
+- - Tránh hình ảnh nhạy cảm
+- - Tránh dập khuân, y sì ảnh giữa các bài
+- Lấy hình ảnh được chụp chính tại các cơ sở dịch vụ chăm sóc, đối tác của HENO: Trải nghiệm dịch vụ, cảm nhận khách hàng,...
+- Trong ảnh có: - Nhận diện đối tác (logo trên áo nhân viên...) - Thể hiện được sự chuyên nghiệp dịch vụ - Sự thoải mái, thư giãn của khách hàng khi trải nghiệm.
+
+##### Digital Guidelines
+
+- Style 1: Chỉ dành cho ảnh vuông (1200x1200) Yêu cầu: Dải ngang đỏ dưới mỗi ảnh Tone: Đỏ -trắng (tuỳ chỉnh) Bên trái là logo ngang HENO, bên phải là hashtag tagline.
+- Style 2: Dung cho moi kich co -1200 X 1200 px -1200 X 600 px -600 X 1200 px Yeu cau: Logo ngang cua HENO de o goc trai tren Tone: o -trang (tuy chinh) Tranh background co tone tuong phan, lam logo bi chim.
+- a. Vj trו logo (anh chieu r9ng 1200px) 248: 300px 249: )ו C 50 C
+- b. Vi tri logo (anh chieu rong 600px) [HENo co HENO quyen nang, suc khoe het lan tan 150px e □ Lu HENO
+- Style 1: Channel: Youtube, Website Ty le 16:9 Yeu cau: - Intro + outro - Logo HENO dang vuong (goc duoi ben phai) xuyen suot video.
+- Style 2: Channel: Facebook/ lnstagram, Linked ln Ty l 1:1 Yeu cau: - lntro + outro - Logo HENO danq vuonq a g6c du'di ben phai xuven suot video -2 dai ngang rnau do a tren va dudi video goc. Chua text tranq, font Nunito SemiBold.
+
+##### Print Guidelines
+
+- Biển mica A5 (148 x 210 mm) Tone Đỏ -trắng linh hoạt Người đọc: Khách hàng
+- Vị trí: Quầy lễ tân, phía tay phải so với khách hàng
+- Khách hàng quét mã QR, vào phòng tư vấn của HENO.
+- Guong tron mini Kich co R = 35mm Vo thep, in co mang PP Nguoi duoc tang: Khach hang Vi tri: at trong gio tai quay le tan, ban cho.
+- Sticker Kich co duong kinh = 50mm Be tron Nguoi uoc tang: Khach hang Vi tri: at tai quay le tan, ban cho.
+- Decal dan Kich co 120x170 mm Bo tron 4 goc Nguoi xem: oi tac Vi tri: Dan tai quay le tan Khi co khach hang, oi tac se quet ma QR vao Zalo OA de day thong tin cho HENO.
+- Brochure gap 3 Kich co 200 x 113,5 mm Bia in C200

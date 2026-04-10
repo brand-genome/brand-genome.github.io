@@ -2,7 +2,7 @@
 title: Royal British Legion
 slug: "royal-british-legion"
 description: ""
-date: "2026-03-20T08:22:04.338327"
+date: "2026-04-10T09:40:33.051617"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - military
+  - charity
 industries: []
 countries:
   - "united-kingdom"
@@ -73,6 +73,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2021
+
+*Guidelines data not available*
 
 ## Additional Properties
 

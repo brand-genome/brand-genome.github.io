@@ -2,7 +2,7 @@
 title: Leipzig University of Applied Sciences
 slug: "leipzig-university-of-applied-sciences"
 description: ""
-date: "2026-03-20T08:22:04.066872"
+date: "2026-04-10T09:40:32.101479"
 draft: false
 sectors:
   - education
@@ -77,7 +77,72 @@ visual_term_image_urls: {}
 
 ### 2018
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To strengthen the external perception of HTWK Leipzig and its faculties through a recognizable and consistent visual presence, reflecting openness and modernity.
+
+##### Core Values
+
+- openness
+- modernity
+- quality
+- recognizability
+
+##### Target Audience
+
+- Students, faculty, staff, and external stakeholders of HTWK Leipzig, including prospective students and partners.
+
+##### Personality Traits
+
+- friendly
+- modern
+- professional
+- vivid
+
+##### Visual Identity Overview
+
+- The visual identity is characterized by a bright and friendly appearance, extensive use of white space, vivid and contrasting colors, and the prominent HTWK logo. Key design elements include tapes derived from the 'H' in the logo, used in various media for strong recognizability. The design emphasizes clarity, structure, and flexibility across formats.
+
+#### Categories
+
+##### Brand Imagery
+
+- Der visuelle Auftritt der HTWK Leipzig ist hell und freundlich und zeichnet sich durch viel Weißraum und lebendige Farben aus.
+- Hauptgestaltungselement sind die Tapes, abgeleitet aus dem H des HTWK-Logos. Plakativ in Kontrastfarben eingesetzt, tragen sie maßgeblich zur Wiedererkennbarkeit der Hochschulmedien bei.
+
+##### Color Palette
+
+- Der visuelle Auftritt der HTWK Leipzig ist hell und freundlich und zeichnet sich durch viel Weißraum und lebendige Farben aus.
+- Hauptgestaltungselement sind die Tapes, abgeleitet aus dem H des HTWK-Logos. Plakativ in Kontrastfarben eingesetzt, tragen sie maßgeblich zur Wiedererkennbarkeit der Hochschulmedien bei.
+
+##### Typography
+
+- Die Hausschriften der HTWK Leipzig sind die Source Sans Pro und die Source Serif Pro.
+- Die Source Sans Pro wird für alle Kommunikationsmedien verwendet.
+- Die Source Serif Pro kommt vorzugsweise bei Festschriften und wissenschaftliche Abhandlungen zur Anwendung.
+- Die Source Code Pro dient der Auszeichnung zusätzlicher Textinformationen wie Kolumnetitel, Seitenzahlen etc.
+- Um einen größtmöglichen typografischen Spielraum zu gewähren, ist die Verwendung der Schrifschnitte nicht vorgegeben und kann je nach Medium frei gewählt werden.
+- Als Ersatzschift für nicht lateinische Schriftzeichen kann die Arial Unicode verwendet werden.
+- Für PPT Präsentationen werden die Unternehmensschriften durch Arial ersetzt.
+- → Die Schriftpakte können im Zentralen Marketing angefragt oder auf der Website fontsquirrel.com heruntergeladen werden.
+- Für einen größtmöglichen Gestaltungsfreiraum sind keine Schriftgrößen oder Schriftschnitte festgelegt. Typografie, Farbigkeit und Tapeeinsatz, sollten sich nach dem Inhalt der Plakate richten.
+
+##### Logo Usage
+
+- Hauptidentifikationselement ist das HTWK-Logo. Es repräsentiert medienübergreifend die Hochschule und trägt zu einer starken Absenderkennung bei.
+
+##### Visual Style
+
+- Der visuelle Auftritt der HTWK Leipzig ist hell und freundlich und zeichnet sich durch viel Weißraum und lebendige Farben aus.
+- Er spiegelt die Offenheit und Modernität der Hochschule wider. Hauptidentifikationselement ist das HTWK-Logo. Es repräsentiert medienübergreifend die Hochschule und trägt zu einer starken Absenderkennung bei.
+- Hauptgestaltungselement sind die Tapes, abgeleitet aus dem H des HTWK-Logos. Plakativ in Kontrastfarben eingesetzt, tragen sie maßgeblich zur Wiedererkennbarkeit der Hochschulmedien bei.
+
+##### Layout And Composition
+
+- Der visuelle Auftritt der HTWK Leipzig ist hell und freundlich und zeichnet sich durch viel Weißraum und lebendige Farben aus.
+- Hauptgestaltungselement sind die Tapes, abgeleitet aus dem H des HTWK-Logos. Plakativ in Kontrastfarben einge­setzt, tragen sie maßgeblich zur Wiedererkennbarkeit der Hochschulmedien bei.
 
 ## Additional Properties
 

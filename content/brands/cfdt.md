@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-03-20T08:22:03.066248"
+date: "2026-04-10T09:40:30.563586"
 draft: false
 sectors:
   - ngo
@@ -34,8 +34,8 @@ foundation_dates:
   - 1919
   - 1964
 foundation_year_buckets:
-  - 1960S
   - 1910S
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,12 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - symbol
-  - primary
-brand_colors:
-  - orange
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Trade union in France
@@ -79,26 +75,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- The logo retains an orange color and round form, symbolizing humanity and movement. Two punctuation points symbolize social dialogue and openness towards society and the world.
-- The logo's design reflects the values of the CFDT: autonomy, emancipation, engagement, individual respect, and construction of the general interest.
-
-**Color Information:**
-
-- The primary brand color is orange, aligning with the personality of the CFDT. This color represents the organization's identity.
-
-**Typography Information:**
-
-- A custom typography for punctuation was specially created by the agency M&C Saatchi. It is a proprietary font used for titles across all CFDT media, including internet, magazines, and social networks. This unique font enhances the meaning of words and is a key symbol of recognition and personality.
-
-**Brand Voice:**
-
-- The CFDT signature is 'S’engager pour chacun, agir pour tous' (in English: 'Commit for each, act for all'). This reflects both individuality and collectiveness, characteristic of CFDT's essence. The messaging is simple and understandable by everyone.
-
-**Notes:**
-
-- The document emphasizes CFDT’s core DNA as autonomy, emancipation, capacity for engagement, respect for individuals, and advocating for the general interest. The organization intends the visual identity and branding to reflect these values. The visual elements, orange as the color and a customized typography, are core symbols determining how the brand communicates its values to various media platforms.
+*Guidelines data not available*
 
 ## Additional Properties
 

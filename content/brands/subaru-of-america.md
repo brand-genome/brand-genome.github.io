@@ -2,21 +2,21 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-03-20T08:22:04.160147"
+date: "2026-04-10T09:40:32.479124"
 draft: false
 sectors:
   - automobile
 regions:
   - usa
 years:
-  - 2012
   - 2020
+  - 2012
 languages:
   - english
 tags:
-  - transport
-  - corporate
   - featured
+  - corporate
+  - transport
 industries:
   - "automotive-industry"
 countries:
@@ -55,16 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - natural
-  - photography
+imagery_styles: []
 wikidata_description: American distributor of Subaru vehicles
 wikidata_url: "https://www.wikidata.org/wiki/Q7630825"
 has_twitter: false
@@ -84,193 +78,11 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Subaru logo restrictions and usage details provided along with examples of correct and incorrect formats, including isolation area rules. Explains brand logos, department and sub-brand logos with access details at print.subaru.com and subarumarketing.com.
-- Subaru logo clear space guidelines provided with detailed information about isolation zones and scaling.
-
-**Color Information:**
-
-- Subaru color palette includes primary colors for brand identity. No specific HEX or CMYK codes visible but guidelines for consistent color usage provided.
-- Pantone color specifications for Subaru graphics outlined along with CMYK and RGB notes.
-
-**Imagery Photography:**
-
-- Subaru imagery guidelines highlight usage of scenic photography for branding, emphasizing natural themes and high-quality visuals.
-
-**Spacing Layout:**
-
-- Isolation area rules and branding hierarchy for spacing between Subaru logos and additional branding marks. Specific layout guidelines for internal and external materials.
-
-**Brand Voice:**
-
-- Subaru's brand voice revolves around the Love Campaign, emphasizing unity and consistency. Recent modifications to branding language updated to reflect broader corporate values beyond purely the product.
+*Guidelines data not available*
 
 ### 2012
 
-**Logo Information:**
-
-- Table of Contents
-Welcome 
-The Subaru Brand  
-
-Subaru Logo & Confidence in Motion (CIM) 
-Section A
- - Subaru Logos 
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-Section B
- - Sub-Logos
- 
-
- 
-
- 
-
- 
-
- 
-Section C
- 
- 
-
- 
-Section D
- 
- 
-
- 
-
- 
-
- 
-Section E
- 
- 
-
- 
-
- 
-
- 
-Section F
- 
- 
-
- 
-
- 
-
- 
-
- 
- 
-I   Table of Contents
-- History of the Subaru Star Cluster Logo
- 
- 
-
-
-
- 
- 
-
- 
-
- 
- 
- 
- is the 
- 
- 
- 
- 
-
- 
- 
-Global Brand Statement - Confidence in Motion
-
-**Color Information:**
-
-- R
-EQUI
-R
-ED Isolation Area
-Horizontal 
-Vertical
-Subaru Brand Logos
-Four-Color Process Logos
-(CMYK)
- 
- 
- 
-
- 
- 
-O
-ne
--Color Process Logos
-(Grayscale)
-
--
-
- 
-
- 
-
- 
-
- 
- 
-Four-Color Horizontal Logo
-Four-Color Vertical Logo
-O
-ne-Color Horizontal Logo
-O
-ne-Color Vertical Logo
-- Confidence In Motion (CIM) Logos
-Four-Color Horizontal CIM Logo
-Four-Color Vertical CIM Logo
-O
-ne-Color Horizontal CIM Logo
-O
-ne-Color Vertical CIM Logo
-Four-Color Process CIM Logo (CMYK)
- 
- 
-
- 
-
- 
- 
- 
- 
-O
-ne-Color Process CIM Logo (Grayscale)
- 
- 
-
- 
-
- 
-
- 
- 
- 
- 
-Section A: Confidence in Motion Logos
+*Guidelines data not available*
 
 ## Additional Properties
 

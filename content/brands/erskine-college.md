@@ -2,7 +2,7 @@
 title: Erskine College
 slug: "erskine-college"
 description: ""
-date: "2026-03-20T08:22:03.878041"
+date: "2026-04-10T09:40:31.560894"
 draft: false
 sectors:
   - education
@@ -76,7 +76,97 @@ visual_term_image_urls: {}
 
 ### 2023
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- The mission of Erskine College is to glorify God as a Christian academic community where students integrate knowledge and faith, equipped to flourish as whole persons prepared for lives of service, leadership, and influence through the pursuit of undergraduate liberal arts, graduate, and seminary education [^1].
+
+##### Core Values
+
+- Christ
+- Learning
+- Life
+
+##### Target Audience
+
+- Students seeking undergraduate liberal arts, graduate, and seminary education in a Christian academic community [^2].
+
+##### Personality Traits
+
+- Professional
+- Distinctive
+- Institutional
+- Traditional
+- Prestigious
+
+##### Visual Identity Overview
+
+- The visual identity is emblematic and heraldic, featuring classical architectural elements, arched windows, and a prominent clock tower. The color palette includes deep maroon, gold, and black, with serif typography and symmetrical, formal logo designs for institutional, college, seminary, and athletics branding [^3].
+
+#### Categories
+
+##### Color Palette
+
+- These colors form the official standard for Erskine College print and online applications. Please give proper color formulas to printers and designers.
+- Primary: GARNET Pantone PMS 195 C Print (CMYK) C=19, M=90, Y=50, K=55 Screen (RGB) R=111, G=25, B=41 Web (HEX) 6F1931 Embroidery 1385 (Madeira) 2496 (Robinson-Anton)
+- Primary: GOLD Pantone PMS 466 C Print (CMYK) C=6, M=14, Y=55, K=27 Screen (RGB) R=184, G=164, B=106 Web (HEX) B8A46A Embroidery 1305 (Madeira) 2570 (Robinson-Anton)
+- Secondary: BLACK Pantone PMS Black Print (CMYK) C=0, M=0, Y=0, K=0 Screen (RGB) R=0, G=0, B=0 Web (HEX) 000000
+- These colors form the official standard for Erskine Athletics print and online applications. Please give proper color formulas to printers and designers.
+- Primary: BLACK Pantone PMS Black Print (CMYK) C=0, M=0, Y=0, K=0 Screen (RGB) R=0, G=0, B=0 Web (HEX) 000000
+- Secondary: GOLD Pantone PMS 466 C Print (CMYK) C=6, M=14, Y=55, K=27 Screen (RGB) R=184, G=164, B=106 Web (HEX) B8A46A Embroidery 1305 (Madeira) 2570 (Robinson-Anton)
+- DO NOT USE color logos in black and white documents.
+- Do not alter Erskine logos, use retired logos, print in non-standard colors, or otherwise change official logo files. Contact the Marketing & Communications Office for help with special situations.
+- Do Not Use Unapproved Color Combinations.
+
+##### Typography
+
+- Headlines and Sub-Headings 67 Univers Bold Condensed ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Body Copy Garamond Premier Pro PrimaryABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz1234567890
+- 47 Univers Light Condensed SecondaryABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz1234567890
+- Jill Jones Arial Bold/11 pt/Garnet Communications Coordinator Arial Reg 10 pt/Black Erskine College Arial Bold 10 pt/Garnet P.O. Box 338 Due West, SC 29639 Arial Reg 10 pt/Black (864) 555-5555 jones@erskine.edu erskine.edu Arial Bold 11 pt/Garnet
+- Jo Jones Head Men’s Volleyball Coach Erskine College Flying Fleet P.O. Box 338 Due West, SC 29639 (864) 555-5555 jones@erskine.edu erskinesports.com Arial Bold/ 11 pt/Garnet Arial Reg 10 pt/Black Arial Bold 10 pt/Garnet Arial Reg 10 pt/Black Arial Bold 11 pt/Garnet
+- Jack Jones Adminstrative Assistant Erskine Theological Seminary Arial Bold/ 11 pt/Garnet Arial Reg 10 pt/Black Arial Bold 10 pt/Garnet P.O. Box 338 Due West, SC 29639 (864) 555-5555 jones@erskine.edu seminary.erskine.edu Arial Reg 10 pt/Black Arial Bold 11 pt/Garnet
+
+##### Logo Usage
+
+- When representing the institution as a whole, use the Erskine "Towers" logo.
+- Use the institutional marks to represent the College and Seminary as a unified institution.
+- DO NOT use the Erskine seal without permission.
+- DO NOT pair College and Seminary logos side by side to represent the institution as a whole. Use the above Towers logo unless given permission from the Marketing & Communications Department.
+- The vertical orientation is the primary logo. Use the horizontal orientation only when it is required by certain design contexts or space restrictions.
+- DO NOT USE color logos in black and white documents.
+- The Erskine College, Seminary, and Athletic logos should be sized so the elements of the marks are legible and correctly rendered in accordance with the original design.
+- In addition, adequate space should be allowed around all official logo versions. This ensures that copy, photography, or other graphical elements do not impede the presentation of the logos in any given medium. The graphics to the right illustrate the method by which to achieve the minimum space requirements. In most cases, it is best to allow more space than the minimum requirements.
+- The method of measurement shown to the right applies to all official Erskine College, Seminary, and Athletics logos in any application and size.
+- Do not alter Erskine logos, use retired logos, print in non-standard colors, or otherwise change official logo files. Contact the Marketing & Communications Office for help with special situations.
+- Do Not Stretch or Alter Proportions
+- Do Not Place in a Shape or Combine with Other Elements
+- Do Not Use Unapproved Color Combinations
+- Do Not Touch or Ghost Behind Other Elements
+- Do Not Place the Tower on a Gold Background
+- Do Not Create Departmental Adaptations
+
+##### Visual Style
+
+- The Erskine College, Seminary, and Athletic logos should be sized so the elements of the marks are legible and correctly rendered in accordance with the original design.
+- In addition, adequate space should be allowed around all official logo versions. This ensures that copy, photography, or other graphical elements do not impede the presentation of the logos in any given medium. The graphics to the right illustrate the method by which to achieve the minimum space requirements. In most cases, it is best to allow more space than the minimum requirements.
+- The method of measurement shown to the right applies to all official Erskine College, Seminary, and Athletics logos in any application and size.
+- Do not alter Erskine logos, use retired logos, print in non-standard colors, or otherwise change official logo files. Contact the Marketing & Communications Office for help with special situations.
+- Do Not Stretch or Alter Proportions
+- Do Not Place in a Shape or Combine with Other Elements
+- Do Not Use Unapproved Color Combinations
+- Do Not Touch or Ghost Behind Other Elements
+- Do Not Place the Tower on a Gold Background
+- Do Not Create Departmental Adaptations
+- DO NOT USE color logos in black and white documents.
+- These colors form the official standard for Erskine College print and online applications. Please give proper color formulas to printers and designers.
+- Primary: GARNET Pantone PMS 195 C Print (CMYK) C=19, M=90, Y=50, K=55 Screen (RGB) R=111, G=25, B=41 Web (HEX) 6F1931 Embroidery 1385 (Madeira) 2496 (Robinson-Anton)
+- Primary: GOLD Pantone PMS 466 C Print (CMYK) C=6, M=14, Y=55, K=27 Screen (RGB) R=184, G=164, B=106 Web (HEX) B8A46A Embroidery 1305 (Madeira) 2570 (Robinson-Anton)
+- Secondary: BLACK Pantone PMS Black Print (CMYK) C=0, M=0, Y=0, K=0 Screen (RGB) R=0, G=0, B=0 Web (HEX) 000000
+- These colors form the official standard for Erskine Athletics print and online applications. Please give proper color formulas to printers and designers.
+- Primary: BLACK Pantone PMS Black Print (CMYK) C=0, M=0, Y=0, K=0 Screen (RGB) R=0, G=0, B=0 Web (HEX) 000000
+- Secondary: GOLD Pantone PMS 466 C Print (CMYK) C=6, M=14, Y=55, K=27 Screen (RGB) R=184, G=164, B=106 Web (HEX) B8A46A Embroidery 1305 (Madeira) 2570 (Robinson-Anton)
 
 ## Additional Properties
 

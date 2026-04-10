@@ -2,7 +2,7 @@
 title: Wikimedia Foundation
 slug: "wikimedia-foundation"
 description: ""
-date: "2026-03-20T08:22:04.560246"
+date: "2026-04-10T09:40:33.370521"
 draft: false
 sectors:
   - ngo
@@ -30,18 +30,18 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - wikipedia
-  - wikiquote
-  - wikiversity
-  - wikifunctions
   - wikinews
-  - wikivoyage
-  - wiktionary
-  - wikidata
-  - "wikimedia-commons"
-  - wikispecies
+  - wikiversity
+  - wikipedia
   - wikisource
+  - wiktionary
+  - wikispecies
+  - "wikimedia-commons"
+  - wikiquote
+  - wikivoyage
+  - wikidata
   - wikibooks
+  - wikifunctions
 products: []
 headquarters_locations:
   - "san-francisco"
@@ -67,16 +67,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-brand_colors:
-  - blue
-typographies:
-  - montserrat
-  - serif
-imagery_styles:
-  - colorful
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American charitable organization
 wikidata_url: "https://www.wikidata.org/wiki/Q180"
 has_twitter: false
@@ -98,230 +92,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- This guide 
-will tell you 
-about:
-
-● The style guide development process
-
-● Why the Foundation mark changed  
-
-● How to use the Foundation mark 
-
-● A few things about colors
-
-● Where to find brand materials you 
-
-can print  
-
-● How to make presentations and 
-
-documents with our new templates
-- Foundation mark 
-
-in header 
-
-Source Serif body copy
-
-Montserrat titles
-
-Document title in footer
-
-**Color Information:**
-
-- This guide 
-will tell you 
-about:
-
-● The style guide development process
-
-● Why the Foundation mark changed  
-
-● How to use the Foundation mark 
-
-● A few things about colors
-
-● Where to find brand materials you 
-
-can print  
-
-● How to make presentations and 
-
-documents with our new templates
-- Single color mark     
-
-Montserrat type.     
-
-( It’s open source!)
-- Why a 
-single color 
-mark?
-
-● Works on photos & across patterned 
-
-backgrounds 
-
-● Easy to see (high contrast) 
-
-● Does not clash with other colors, 
-
-images, etc. 
-
-● Community is already doing it (e.g 
-
-Wikimania badges) 
-
-● The tricolor mark will still be used as 
-
-emblem of Wikimedia movement & 
-
-community groups
-- Use color to:
-
-● Style backgrounds
-● Create visual highlights
-● Separate items with 
-
-graphic breaks 
-● To make apparel
-● Visually connect to 
-Wikimedia brand 
-
-● &c
-- Here’s a question, why are 
-the links light blue?
-Google made this change, you can change the link 
-color the way you change any text color. Feel free to 
-change it to the darker blue. Learn more.
-- Sometime
-s you want 
-a colorful 
-b’ground.
-
-CC by SA 4.0, Zachary McCune
-
-**Typography Information:**
-
-- 1. Easy to use, free 
-font, Foundation 
-mark
-
-**Imagery Photography:**
-
-- This guide 
-will tell you 
-about:
-
-● The style guide development process
-
-● Why the Foundation mark changed  
-
-● How to use the Foundation mark 
-
-● A few things about colors
-
-● Where to find brand materials you 
-
-can print  
-
-● How to make presentations and 
-
-documents with our new templates
-- Why a 
-single color 
-mark?
-
-● Works on photos & across patterned 
-
-backgrounds 
-
-● Easy to see (high contrast) 
-
-● Does not clash with other colors, 
-
-images, etc. 
-
-● Community is already doing it (e.g 
-
-Wikimania badges) 
-
-● The tricolor mark will still be used as 
-
-emblem of Wikimedia movement & 
-
-community groups
-- Use high-res images, 
-and credit the creators :)
-
-Include the author’s name, the license, and link to both. Check the page 
-where you find the image to see if they ask for other attribution.
-
-CC-by-SA 3.0, Narender9
-
-**Notes:**
-
-- This guide 
-will tell you 
-about:
-
-● The style guide development process
-
-● Why the Foundation mark changed  
-
-● How to use the Foundation mark 
-
-● A few things about colors
-
-● Where to find brand materials you 
-
-can print  
-
-● How to make presentations and 
-
-documents with our new templates
-- Foundation staff have 
-long asked for simplified 
-brand materials
-- We worked 
-with Mule 
-Design to: 
-
-● Interview across the Foundation
-
-● Review 80+ envelopes, name tags, HR 
-
-materials, posters, etc. 
-
-● Identify problem areas for design 
-
-items at the Foundation
-
-● Design new letterheads, stickers, 
-
-name tags, etc. 
-
-● Create single on-wiki 
-
-repository for all materials
-- 3. Print-ready brand 
-materials
-- 4. Presentation and 
-document templates
-- We’re inside the new presentation template
-
-We’re inside the 
-new presentation 
-template
-
-RIGHT NOW
-- We’re inside the new presentation template
-
-There is a document 
-template too :)
-
-RIGHT NOW
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -331,7 +102,7 @@ RIGHT NOW
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikispecies](/products_or_materials_produced/wikispecies/); [Wikisource](/products_or_materials_produced/wikisource/); [Wikibooks](/products_or_materials_produced/wikibooks/) |
+| Product Or Material Produced | [Wikinews](/products_or_materials_produced/wikinews/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikisource](/products_or_materials_produced/wikisource/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikispecies](/products_or_materials_produced/wikispecies/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikibooks](/products_or_materials_produced/wikibooks/); [Wikifunctions](/products_or_materials_produced/wikifunctions/) |
 | Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United States |

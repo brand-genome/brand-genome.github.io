@@ -2,7 +2,7 @@
 title: Los Angeles Lakers
 slug: "los-angeles-lakers"
 description: ""
-date: "2026-03-20T08:22:05.519448"
+date: "2026-04-10T09:40:34.408748"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
 industries: []
 countries:
   - "united-states"
@@ -32,8 +32,8 @@ headquarters_locations:
   - "los-angeles"
 subsidiaries: []
 foundation_dates:
-  - 1946
   - 1947
+  - 1946
 foundation_year_buckets:
   - 1940S
 lightings: []
@@ -53,22 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - purple
-  - gray
-  - black
-typographies:
-  - helvetica
-  - arial
-  - din
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American professional basketball team
 wikidata_url: "https://www.wikidata.org/wiki/Q121783"
 has_twitter: false
@@ -90,27 +78,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The primary Los Angeles Lakers logo debuted when the team moved to Los Angeles in 1967, updated in 2001-02. Features include a white outline to ensure visibility and contrast on various backgrounds.
-- Primary logo variations must be used on Lakers brand palette backgrounds. Black and white one-color logo versions are to be used on non-brand palettes.
-- One-color primary logos are available in white and black for contrast on non-Lakers brand colored backgrounds.
-- Logo incorrect usage guidelines: Do not stretch/distort, alter colors, apply 3D effects, invert colors, rotate, skew, add drop shadow or strokes to the outline, remove the white outline, cover any part of the logo with elements, or add elements to the logo.
-- Secondary Los Angeles Lakers logo variations should only be applied on brand palette backgrounds. Black and white one-color versions are required for non-brand background usage.
-
-**Color Information:**
-
-- Lakers Purple: Pantone PMS 268
-- STAPLES Center color palette introduced for 2017-18 includes red (PMS 485) and black (PMS Black). Values: CMYK (0/93/95/0 and 0/0/0/100), RGB (220/41/30 and 0/0/0), HEX (#DA291C and #000000). White and gray are acceptable for contrast.
-
-**Typography Information:**
-
-- Primary typeface is DIN Next Font Family (Light, Regular, Medium, Bold, Heavy, Condensed, Bold Condensed, Heavy Condensed) for headlines and body copy. Substitutes: Arial/Helvetica when DIN Next is unavailable.
-- Uniform typeface includes 'NBA Lakers'.
-
-**Notes:**
-
-- Contact for design queries: J Alexander Diaz (Senior Graphic Designer, jdiaz@la-lakers.com, 310.341.1085) and Erica Martin (Graphic Designer, emartin@la-lakers.com, 310.341.1083).
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -121,7 +89,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
-| Foundation Date | [1946](/foundation_dates/1946/); [1947](/foundation_dates/1947/) |
+| Foundation Date | [1947](/foundation_dates/1947/); [1946](/foundation_dates/1946/) |
 | Head Coach | JJ Redick (from 2024-06-20) |
 | League Or Competition | National Basketball Association |
 | Home Venue | Minneapolis Auditorium (from 1947-01-01, until 1959-01-01), Minneapolis Armory (from 1947, until 1960-01-01), Los Angeles Memorial Sports Arena (from 1960-01-01, until 1967-01-01), Kia Forum (from 1967-01-01, until 1999-01-01), Crypto.com Arena (from 1999-01-01) |

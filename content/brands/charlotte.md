@@ -2,7 +2,7 @@
 title: Charlotte
 slug: charlotte
 description: ""
-date: "2026-03-20T08:22:05.562033"
+date: "2026-04-10T09:40:34.478486"
 draft: false
 sectors:
   - "public-sector"
@@ -51,26 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - slab
-  - brandon
-  - gotham
-  - futura
-  - serif
-  - script
-  - helvetica
-imagery_styles:
-  - staged
-  - modern
-  - natural
-  - photography
-  - clean
+typographies: []
+imagery_styles: []
 wikidata_description: "city in and county seat of Mecklenburg County, North Carolina, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q16565"
 has_twitter: false
@@ -90,34 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Charlotte brand marks utilize the crown imagery representing the Queen City, incorporated into logos. Updated creative extensions emphasize the importance of the brand in distinguishing Charlotte's identity, evolving from 2008's 'Charlotte's got a lot.'
-- Logo versions include sectional color-blocking elements shown at a minimum of 2 inches wide. Clearspace rules equate horizontal and vertical crown height for logo spacing.
-- Brand mark suite includes 'Charlotte' mark for out-of-market advertising and 'CLT' or 'QC' marks for in-market use.
-
-**Color Information:**
-
-- Comprehensive color palette featuring primary and secondary color segments, used cohesively across branding assets.
-- Defined color usage includes Pantone, CMYK, RGB, and HEX codes applicable for consistent visual applications. Brand system reinforces color coherence across all creative outputs.
-
-**Typography Information:**
-
-- Sans Serif families: Futura, Helvetica Neue, Gotham. Serif font families: Minion Pro. Slab Serif: Archer and Sentinel. Script fonts include Quickbrush, Madina, and Northwell. Core brand typography built on Brandon Grotesque for logo consistency.
-
-**Imagery Photography:**
-
-- Mood board integrates clean, modern aesthetics while emphasizing Charlotte's essence, focusing on natural and sophisticated visual components.
-- Key photography standard mandates capturing genuine experiences, avoiding staged compositions, and emphasizing storytelling moments like 'crumbs and imperfect details,' with an emphasis on inclusivity.
-
-**Brand Voice:**
-
-- Tone characterized by authenticity, approachability, warmth, and genuineness. Conversational intentions designed for seamless integration of brand personality.
-
-**Notes:**
-
-- Brand evolution highlights Charlotte’s diverse offerings and cultural identity, transitioning from asset-based to experience-focused branding. Maintained undercurrent of 'Charlotte's got a lot.'
-- Typography underlines diverse family choices, enhancing Charlotte’s magnetic brand personality while maintaining visual coherence with approachable style.
+*Guidelines data not available*
 
 ## Additional Properties
 

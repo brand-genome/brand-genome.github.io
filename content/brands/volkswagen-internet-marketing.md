@@ -2,7 +2,7 @@
 title: Volkswagen Internet Marketing
 slug: "volkswagen-internet-marketing"
 description: ""
-date: "2026-03-20T08:22:04.510198"
+date: "2026-04-10T09:40:33.283815"
 draft: false
 sectors:
   - automobile
@@ -46,13 +46,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
-typographies:
-  - arial
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -72,28 +68,4 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- The logo and main navigation elements are integral to the Framework definition, alongside the footer, meta navigation, and disclaimers. It must adhere to fixed width constraints and design dependencies.
-- Icons and their alignment must adhere to current Volkswagen Corporate Design guidelines.
-
-**Typography Information:**
-
-- Fonts used in headlines and body text are defined as follows: VW Headline OT (Black, Semibold, Book) and Arial (system font for HTML modules). Primary use cases include Flash modules, editorial text, and various interactive elements.
-- Specific typographic styles include H1 (VW Headline OT Black, 30pt, 110% line spacing), H2, H3, H4, and detailed role-specific configurations for text size, type, and contexts such as disclaimers and error messages.
-
-**Imagery Photography:**
-
-- Imagery emphasizes clarity and reduction. White space plays a critical organizational role, framing content modules. Interactive modules are minimized where possible to align with Volkswagen's uniform image.
-
-**Spacing Layout:**
-
-- A 5x5px grid is embedded on all website designs; it dictates column width, module position, and content arrangement. Margins and module positioning must maintain a precise 20-pixel interval.
-
-**Brand Voice:**
-
-- Text tone should maintain clarity and professionalism with strict adherence to corporate stylistics, such as Arial for error messages and disclaimers, ensuring coherence across modules.
-
-**Notes:**
-
-- The document showcases an extensive design specificity for interactive elements and layout structuring. Some pages have overlapping references to guidelines across modules and corporate styles.
+*Guidelines data not available*

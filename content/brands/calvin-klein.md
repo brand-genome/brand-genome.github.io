@@ -2,13 +2,13 @@
 title: Calvin Klein
 slug: "calvin-klein"
 description: ""
-date: "2026-03-20T08:22:04.219822"
+date: "2026-04-10T09:40:32.626760"
 draft: false
 sectors:
   - fashion
   - beauty
-  - cosmetics
   - "home-appliances"
+  - cosmetics
 regions:
   - usa
 years:
@@ -31,8 +31,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - clothing
   - perfume
+  - clothing
 products: []
 headquarters_locations:
   - "new-york-city"
@@ -86,6 +86,101 @@ visual_term_image_urls: {}
 
 ### 2017
 
+#### Brand Summary
+
+##### Mission
+
+- To evolve the identity of a global cultural legacy, retaining iconic familiarity while embracing creative change and diversity across all brand channels [^1].
+
+##### Core Values
+
+- confidence
+- transparency
+- authenticity
+- intimacy
+- continuity
+- coherence
+
+##### Target Audience
+
+- Global consumers across diverse product lines including apparel, accessories, home, fragrance, and lifestyle, with a focus on both premium and mass-market segments [^2].
+
+##### Personality Traits
+
+- iconic
+- modern
+- minimalist
+- confident
+- authentic
+
+##### Visual Identity Overview
+
+- The visual identity is defined by a minimalist, modern aesthetic with a strong emphasis on clean typography (Klein font family), consistent logo usage, clear space, and scale guidelines. Logos are used across multiple product lines, maintaining coherence and clarity. The brand favors monochrome palettes and avoids unnecessary embellishments [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- The new Master Brand Logo serves as our primary corporate mark. This will be used across all internal and external corporate communications, for our multi-brand lifestyle stores and, for fragrance, home, watches + jewelry, and eyewear. The new mark draws upon the core character of the original Calvin Klein logo to retain iconic familiarity across unprecedented brand diversity.
+- To ensure consistency, legibility and prominence, an area of space surrounding the logo should be kept clear.
+- Do not position type or objects inside the minimum or preferred clear space.
+- Do not postition in closer proximity to item egdes than the preferred clear space. Eg: page edges or gutters, tag, label or packaging edges.
+- The logotype is to be used at a moderate size -not too big or too small -in relation to the available space. The logo must be centered or ranged, not positioned randomly.
+- Please respect the logotypes.
+- Don’t recreate the logo using the Klein font Always place the logo EPS or JPEG file in your document
+- Don’t change the format of the logo
+- Don’t make the logo thicker or thinner
+- Don’t use a different font
+- Don’t use the logo white on black
+- Don’t separate logo components
+
+##### Typography
+
+- The Klein typeface is a new sans serif especially commissioned and exclusively designed for the new Calvin Klein identity. Evoking the typefaces used by Calvin Klein first in the 1970s, and then revisited in the 1990s, Klein moves forward while maintaining an ongoing continuum.
+- Its reductive geometric style, referencing the classic shapes of modernism, has an inherent certainty and is a clear and clean voice for Calvin Klein. The typeface is one of the strongest and most unique parts of the identity and will only be available for use by Calvin Klein and its subsidiaries, further consolidating the new vision.
+- Klein has been designed with multiple uses and mediums in mind. Working seamlessly between screen, print and product, it will work for headlines or for text. With four weights from Light to Bold in both roman and italic, it allows designers to effortlessly articulate their message. A condensed version in two weights for headline gives even greater variety but within the same style. So whether it is for a website viewed on a mobile device, or an advert in print, the consistency of the Klein typeface and the Calvin Klein identity will always be clear.
+- Klein 45 Light can be used for body copy above 10pt.
+- Klein 65 Medium is used for emphasis.
+- Klein 46 Light Italic is used sparingly for instances such as dates and speech.
+- Klein 55 Regular is the default option for body copy in all sizes.
+- Klein 75 Bold is used for emphasis.
+- Klein 56 Regular Italic is used sparingly for instances such as dates and speech.
+- Klein 57 Condensed Reg and 67 Condensed Med are used where space is limited.
+- Small Text Setting: auto leading, tracking 0
+- Klein 55 Regular is the default option for body copy below 10pt.
+- Klein 65 Medium can be used for small body copy below 10pt.
+- Klein 57 Condensed Reg can be used for body copy below 10pt. Klein 67 Condensed Med is used for emphasis.
+- Display Setting: auto leading, tracking –20
+- Klein 45 Light, 55 Regular and 65 Medium can be used for headlines, signage and at large sizes. Do not use Klein 75 Bold. Italics are to be used only sparingly.
+- Display Setting: auto leading, tracking –10
+- Klein 57 Condensed Reg and 67 Condensed Med can be used for bespoke applications.
+
+##### Visual Style
+
+- The new Master Brand Logo serves as our primary corporate mark. This will be used across all internal and external corporate communications, for our multi-brand lifestyle stores and, for fragrance, home, watches + jewelry, and eyewear. The new mark draws upon the core character of the original Calvin Klein logo to retain iconic familiarity across unprecedented brand diversity.
+- The logotype is to be used at a moderate size -not too big or too small -in relation to the available space. The logo must be centered or ranged, not positioned randomly.
+- Don’t recreate the logo using the Klein font Always place the logo EPS or JPEG file in your document
+- Don’t change the format of the logo
+- Don’t make the logo thicker or thinner
+- Don’t use a different font
+- Don’t use the logo white on black
+- Don’t separate logo components
+
+##### Brand Imagery
+
+- The new Master Brand Logo serves as our primary corporate mark. This will be used across all internal and external corporate communications, for our multi-brand lifestyle stores and, for fragrance, home, watches + jewelry, and eyewear. The new mark draws upon the core character of the original Calvin Klein logo to retain iconic familiarity across unprecedented brand diversity.
+- To ensure consistency, legibility and prominence, an area of space surrounding the logo should be kept clear.
+- Do not position type or objects inside the minimum or preferred clear space.
+- Do not postition in closer proximity to item egdes than the preferred clear space. Eg: page edges or gutters, tag, label or packaging edges.
+- The logotype is to be used at a moderate size -not too big or too small -in relation to the available space. The logo must be centered or ranged, not positioned randomly.
+- Please respect the logotypes.
+- Don’t recreate the logo using the Klein font Always place the logo EPS or JPEG file in your document
+- Don’t change the format of the logo
+- Don’t make the logo thicker or thinner
+- Don’t use a different font
+- Don’t use the logo white on black
+- Don’t separate logo components
+
 ## Additional Properties
 
 | Property | Value |
@@ -94,7 +189,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Perfume](/products_or_materials_produced/perfume/) |
+| Product Or Material Produced | [Perfume](/products_or_materials_produced/perfume/); [Clothing](/products_or_materials_produced/clothing/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Calvin Klein, Barry K. Schwartz |

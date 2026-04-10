@@ -2,7 +2,7 @@
 title: Azamara
 slug: azamara
 description: ""
-date: "2026-03-20T08:22:04.555672"
+date: "2026-04-10T09:40:33.356969"
 draft: false
 sectors:
   - hospitality
@@ -53,28 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - green
-  - purple
-  - blue
-  - gray
-  - turquoise
-typographies:
-  - impact
-  - "sans-serif"
-  - display
-  - serif
-imagery_styles:
-  - flat
-  - colorful
-  - modern
-  - geometric
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: luxury cruise line
 wikidata_url: "https://www.wikidata.org/wiki/Q2875081"
 has_twitter: false
@@ -93,108 +75,187 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- LOGO
-STORY OF THE
-Our logo is comprised of three main elements: land, sea, and star. The main visual component of our logo is an open world, depicted by two artistic strokes that create a Modern Art aesthetic. The left stroke of the 'world' represents the Earth and our extensive land program offerings. The right stroke represents the sea and the vastness that Azamara crosses.
-The third component is the star, inspired by 'Acamar,' a star revered by the ancient Greeks, as the brightest in the southern sky. The star serves as a navigational beacon of light.
-Altogether, the land, sea, and star represent Azamara's mission of connecting guests to unique explorations in unparalleled destinations across the planet.
-- CORPORATE LOGO
-PRIMARY LOGO
-SECONDARY LOGO
-LEGAL MARKS
-The primary logo and symbol identify Azamara throughout the world as a leading destination travel partner. When you reproduce the logo, use approved artwork.
-Secondary logo configurations may be used (e.g., horizontal web banners). The primary logo is preferred where space is not an issue.
-For U.S. markets:
-- The full logo version must feature the SM symbol.
-- Azamara typography section of the logo must be accompanied by the trademark '¨' symbol.
-- LOGO CLEAR SPACE
-To ensure visual impact and audience recognition, ensure the area around the logo remains uncluttered. No element should be closer to the logo than the height of the letter 'A' in 'AZAMARA.'
-CLEAR SPACE = Height of the letter 'A.'
-- EMBROIDERY LOGO
-This embroidery-only version of the logo is exclusively for fabric materials. Do not use this version for other materials or digital communications.
+##### Mission
 
-**Color Information:**
+- To connect people with people, cultures, and themselves by enabling them to look at life with a new perspective, delivering high-level creative with consistency and establishing the way Azamara looks, sounds, and behaves authentically across platforms [^1].
 
-- PRIMARY AND SECONDARY COLORS
+##### Core Values
 
-1. BLUE (PMS 281)
-RGB: 0, 32, 91 | CMYK: 100, 85, 5, 36 | HEX: #00205B
-- Usage: Body copy, headlines, email module backgrounds, subheadlines, logo
+- exploration
+- authenticity
+- immersion
+- connection
+- service excellence
+- cultural enrichment
+- personalization
+- worldliness
+- adventure
+- transformation [^2]
 
-2. GRAY
-RGB: 99, 100, 102 | CMYK: 0, 0, 0, 75 | HEX: #636466
+##### Target Audience
 
-3. LIGHT GRAY
-RGB: 242, 242, 242 | HEX: #F2F2F2
+- Cultured, worldly, knowledgeable, active middle-aged retirees (mostly age 55+), empty nesters with an explorer mindset, motivated by enriching life experiences, preferring immersive travel, often booking with travel agents, and valuing adventure, authenticity, and connection [^3].
 
-4. TURQUOISE
-RGB: 0, 171, 194 | CMYK: 84, 0, 18, 0 | HEX: #00ABC2
+##### Personality Traits
 
-LAND PRODUCTS COLORS:
-5. GREEN
-RGB: 108, 152, 147 | CMYK: 60, 27, 42, 2 | HEX: #6C9893
+- generous
+- unpretentious
+- adventurous
+- youthful
+- curious
+- friendly
+- personalized
+- welcoming
+- non-pretentious
+- exciting [^3]
 
-6. LIGHT BLUE
-RGB: 178, 219, 224 | CMYK: 29, 2, 12, 0 | HEX: #B2DBE0
+##### Visual Identity Overview
 
-7. PURPLE
-RGB: 121, 120, 144 | CMYK: 57, 51, 29, 4 | HEX: #797890
+- Azamara's visual identity centers on a modern, dynamic logo featuring land, sea, and star elements, a color palette of blues, turquoise, white, gray, and accent colors, vibrant and authentic imagery, clean sans-serif and ornamental serif typography, and a minimalistic, sophisticated style that emphasizes movement, exploration, and clarity [^5].
 
-**Typography Information:**
+#### Categories
 
-- TYPOGRAPHY
+##### Brand Voice
 
-PRIMARY BRAND TYPEFACES:
-1. ESMERALDA PRO
-- Serif | Ornamental
-- Usage: Headlines, Subheadlines.
+- The tagline always stands alone at the end of the body copy
+- Use it to give a punch after discussing all the features, to emphasize that it's a brand identifier
+- Always include the trademark symbol SM (Capital S & M)
+- Using the word "Explore" in copy and headlines is acceptable, as long as the phrase Explore Further is not used within the same body of copy
+- Don't weaken the trademark by using as a verb or verb phrase
+- Stay away from using the phrase "explore further" in the body copy of paragraphs. For example, don't write: Azamara takes you beyond the photos, so you can explore further
 
-2. BIOTIF
-- Sans-serif | Geometric
-- Usage: Body copy and secondary subheadlines.
+##### Brand Imagery
 
-EXAMPLES:
-Subheadlines, body copy, buttons.
-Fallback fonts should be used for unsupported platforms (e.g., HTML).
+- Always seek depth and dimension; images should never feel flat
+- Use vibrant, colorful images
+- Select images that feel authentic
+- Use alternative, original perspectives of typical locations
+- Shots where many tourists are present
+- Clichés
 
-**Imagery Photography:**
+##### Color Palette
 
-- IMAGE SELECTION RULES:
-- Images must display depth and dimension (no flat aesthetics).
-- Use vibrant, colorful visuals.
-- Choose authentic images reflecting unique perspectives.
+- BLUE RGB 0, 32, 91 CMYK 100, 85, 5, 36 HEX 00205B PMS 281
+- TURQUOISE RGB 0, 171, 194 CMYK 84, 0, 18, 0 HEX 00ABC2
+- WHITE RGB 255, 255, 255 CMYK 0, 0, 0, 0 HEX FFFFFF
+- GRAY RGB 99, 100, 102 CMYK 0, 0, 0, 75 HEX 636466
+- PURPLE RGB 121, 120, 144 CMYK 57, 51, 29, 4 HEX 797890
+- LIGHT BLUE RGB 178, 219, 224 CMYK 29, 2, 12, 0 HEX B2DBE0
+- GREEN RGB 108, 152, 147 CMYK 60, 27, 42, 2 HEX 6C9893
+- LIGHT GRAY RGB 242, 242, 242 HEX F2F2F2
+- –Logo –Subheadlines –Alternative headline –Stay Local
+- –Logo
+- –Headlines –Email module backgrounds
+- –Body copy
+- –Overnight Experiences
+- –AzAmazing Journeys
+- –Land Journeys
 
-DO NOT:
-- Avoid tourist-heavy shots or cliché imagery.
+##### Typography
 
-**Brand Voice:**
+- ESMERALDA PRO –Serif –Ornamental Usage –Headlines –Subheadlines
+- BIOTIF –Sans-Serif –Geometric Usage –Body Copy –Subheadlines (Refer to page 31 for complete typography hierarchy)
+- FALLBACK FONTS For mediums where custom fonts or web fonts are not supported, fallback fonts must be used. i.e., HTML, etc.
+- –Subheadlines Times New Roman –Subheadlines –Body Copy –Buttons Arial Regular Arial Bold
 
-- VOICE GUIDELINES:
-Messaging must reflect elegance and authenticity, avoiding overly casual tones. Dates have unique requirements:
+##### Logo Usage
 
-1. U.S. Formats
-- Month, Date, Year format (e.g., Miami, FL, U.S.).
+- Our logo is comprised of three main elements: land, sea, and star. The main visual component of our logo is an open world, depicted by two artistic strokes that create a Modern Art aesthetic. The left stroke of the “world” represents the Earth and our extensive land program offerings. The right stroke represents the sea and the vastness that Azamara crosses. The third component of our logo is the star, paying homage to our brand’s earliest roots. The name “Azamara” was inspired by “Acamar,” a star revered by the ancient Greeks, as it was the brightest in the southern sky. Similar to the North Star, our star serves as a navigational beacon of light, guiding us as we cross extensive paths over both land and sea. Altogether, the land, sea, and star represent Azamara’s mission of connecting guests to unique explorations in unparalleled destinations across the planet.
+- This is the primary logo and symbol that identifies us throughout the world as a leading destination travel partner. Implement the logo according to the guidelines in this document. When you need to reproduce the Azamara logo, use approved artwork.
+- The secondary logo configuration may be used when there are vertical height limitations, such as horizontal web banners. The primary logo is always preferred when space limitations are not an issue.
+- For the U.S. market, the full version of the logo will feature two legal marks — the symbol must always be accompanied by the SM symbol and the typographic section of the logo (AZAMARA) must always be accompanied by the ® symbol.
+- To create greater visual impact and ensure audience recognition, keep the area around the logo uncluttered. No element that appears with the logo should be closer than the height of the letter “A” in AZAMARA.
+- CLEAR SPACE EQUALS THE HEIGHT OF THE LETTER “A” IN AZAMARA.
+- When the Azamara logo is reproduced on a colored background, including on top of a photograph, optimum contrast is important to ensure readability. Use your good judgment to determine whether the reversed white type or the dark blue type version of the logo is preferable.
+- AZAMARA LOGO WITH REVERSED WHITE TYPE ON DARK BACKGROUNDS
+- AZAMARA LOGO WITH DARK BLUE TYPE ON LIGHT BACKGROUNDS
+- To maintain the integrity of our logo, it is vital to avoid any variation in its appearance. When reproducing the Azamara logo, please use only the approved artwork.
+- Do not place the logo onto an image or background in which logo legibility or distinction of the icon can get lost.
+- Do not alter any of the logo fonts.
+- Do not use drop shadows on the logo. Retouch the background image to accommodate the logo's visibility.
+- Do not confine the logo inside a shape.
+- Do not use the logo typography without the globe symbol.
+- Do not alter the configuration of the logo elements.
+- Do not alter any of the logo colors.
+- This version of the logo should only be used for embroidery on fabrics; do not use this version on the logo for any other materials or communications.
+- BLUE RGB 0, 32, 91 CMYK 100, 85, 5, 36 HEX 00205B PMS 281 TURQUOISE RGB 0, 171, 194 CMYK 84, 0, 18, 0 HEX 00ABC2 WHITE RGB 255, 255, 255 CMYK 0, 0, 0, 0 HEX FFFFFF GRAY RGB 99, 100, 102 CMYK 0, 0, 0, 75 HEX 636466
 
-2. International Formats
-- Date-Month-Year (e.g., Milan, Italy).
-Use the European format for charts.
-Specify the year for voyages.
-- TRADEMARK SYMBOLS:
-Includes 'SM' and '¨.' Examples: AZAMARA CRUISES, DESTINATION IMMERSION, COUNTRY-INTENSIVE VOYAGES.
+##### Tone And Messaging
 
-**Notes:**
+- The tagline always stands alone at the end of the body copy
+- Use it to give a punch after discussing all the features, to emphasize that it's a brand identifier
+- Always include the trademark symbol SM (Capital S & M)
+- Using the word "Explore" in copy and headlines is acceptable, as long as the phrase Explore Further is not used within the same body of copy
+- Don't weaken the trademark by using as a verb or verb phrase
+- Stay away from using the phrase "explore further" in the body copy of paragraphs. For example, don't write: Azamara takes you beyond the photos, so you can explore further
 
-- TAGLINES:
-'Explore Further'
-This tagline suggests exclusivity, expedition depth, and immersion into unexplored horizons. 
-Usage tips:
-- Always standalone at the end of body copy.
-- Avoid weakening the tagline by modifying it into verbs.
-Mandatory inclusion of the trademark symbol 'SM.'
-- TRADEMARK SUMMARY:
-Trademark applications for AZAMARA metadata presented across pages on active/pending corporate trademarks across assets ('Destination Immersion','Cruise Global. Eat Local,' and others).'
+##### Brand Values
+
+- Connect people with people, people with cultures, and people with themselves, by enabling them to look at life with a new perspective.
+- Become the ultimate culture connoisseurs of the cruise world, offering consumers the best in in-depth experiences.
+- Be known as the go-to choice for unexpected and alluring exploration, offering consumers new perspectives on locations they’ve grown to love and those they have yet to discover.
+- Garner a reputation for delivering the most authentic onboard experience.
+
+##### Visual Style
+
+- The tagline always stands alone at the end of the body copy Use it to give a punch after discussing all the features, to emphasize that it's a brand identifier Always include the trademark symbol SM (Capital S & M) Using the word "Explore" in copy and headlines is acceptable, as long as the phrase Explore Further is not used within the same body of copy Don't weaken the trademark by using as a verb or verb phrase Stay away from using the phrase "explore further" in the body copy of paragraphs. For example, don't write: Azamara takes you beyond the photos, so you can explore further
+- Always seek depth and dimension; images should never feel flat Use vibrant, colorful images Select images that feel authentic Use alternative, original perspectives of typical locations Shots where many tourists are present Clichés
+
+##### Iconography
+
+- Collateral materials (both digital and print) INCLUSIVE AMENITIES + + + + INCLUSIVE AMENITIES + + + + Longer stays. More overnights. Gratuities. 24 hour Boutique Hotel. Friendly Crew. WHYAZAMARA Country-Intensive" Itineraries. Land and Sea Food & Beverages. packages. Authentic Shore Excursions. Self service laundry. Concierge services. Shuttle services Complimentary AzAmazing Evenings®. And more! to and from port communities ACCESS THE INCLUSIVE AMENITIES FILES BELOW: ACCESS THE WHY AZAMARA FILES BELOW:
+- ( VISUAL ICONS ) ( TEXT ICONS ' )
+- ( VISUAL ICONS ) ( TEXT ICONS )
+- Collateral materials (both digital and print) where there is land product content
+- STACKED ICONS
+- HORIZONTAL ICONS
+- Digital: Web and e-mail
+- ACCESS THE FILES BELOW:
+- ( STACKED icoNs) ( HORIZONTAL icoNs)
+
+##### Layout And Composition
+
+- To create greater visual impact and ensure audience recognition, keep the area around the logo uncluttered. No element that appears with the logo should be closer than the height of the letter “A” in AZAMARA.
+- CLEAR SPACE EQUALS THE HEIGHT OF THE LETTER “A” IN AZAMARA.
+- Do not place the logo onto an image or background in which logo legibility or distinction of the icon can get lost.
+- Do not alter any of the logo fonts.
+- Do not use drop shadows on the logo. Retouch the background image to accommodate the logo's visibility.
+- Do not confine the logo inside a shape.
+- Do not use the logo typography without the globe symbol.
+- Do not alter the configuration of the logo elements.
+- Do not alter any of the logo colors.
+
+##### Film And Audio
+
+- – We explore the world from the point of view of the spectator. – We use wide shots to capture the depth of landscapes and close-ups that allow us to feel even the smallest details that make each culture unique. – Colors must always be vibrant and never be dull. – We use slow-motion shots in some scenes to evoke memories and allow one to relish intimate moments.
+- ### ANTHEM MUSIC – Friendly tones that are not pretentious or epic. – Creates excitement for the Azamara experience. – Inspiring beats reminiscent of the explorer mindset. – Medium to high energy.
+- ### DESTINATION MUSIC – Reflects the feeling of a specific destination. – Sounds and rhythms are relevant to the theme. – Is consistent with brand personality and tone. – Complements storytelling and does not overpower the voice of our storyteller.
+
+##### Tagline
+
+- Smaller ports allow for exploration Active, unlike other cruises (no-cruise cruise line) Experiences that enrich life Voyage mindset Venture beyond the sea and further inland with land programs You can do more with extended and overnight stays Suggests an immersive experience Adds depth to the idea of traveling Hints at no boundaries Worldly
+- The tagline always stands alone at the end of the body copy
+- Use it to give a punch after discussing all the features, to emphasize that it's a brand identifier
+- Always include the trademark symbol SM (Capital S & M)
+- Using the word "Explore" in copy and headlines is acceptable, as long as the phrase Explore Further is not used within the same body of copy
+- Don't weaken the trademark by using as a verb or verb phrase
+- Stay away from using the phrase "explore further" in the body copy of paragraphs. For example, don't write: Azamara takes you beyond the photos, so you can explore further
+
+##### Date Formats
+
+- In body copy we use the American date format (month, date, year) separated by commas. For promotions, it is not necessary to write the year when speaking of promo end dates, unless time is already clear such as in flash sales when our guests will already know that time is limited. But when referring to specific voyages, always write out the full date, including the year.
+- In charts we use the European date format (date-month-year) separated by dashes.
+- For example, we can use 2-Oct-2019, if space permits. If space is limited, we can shorten the year to: 2-Oct-19.
+
+##### Photo Location Captions
+
+- The format is city, state initials, and country initials. i.e., Miami, FL, U.S. The format is city, country. i.e., Milan, Italy
+
+##### Naming Conventions
+
+- AZAMARA TRI-BRANDED - U.S. TRADEMARKS UPDATED AUGUST 4, 2017 TRADEMARK SYMBOL TRADEMARK SYMBOL SM ® AZAMARA ® CHOICEAIR ® AZAMARA CLUB CRUISES ® CRUISECARE ® AZAMARA JOURNEY ® MYCRUISE ® AZAMARA QUEST ® SAVE THE WAVES ® AZAMARA PURSUIT SM SEAPASS ® JOURNEY ® THE WILDERNESS EXPRESS ® QUEST ® DESTINATION IMMERSION ® AZAMAZING EVENINGS ® CRUISE GLOBAL. EAT LOCAL ® AZAMARA – PENDING - U.S. TRADEMARKS UPDATED JANUARY 11, 2018 LAND DISCOVERIES ® LONGER STAYS. MORE OVERNIGHTS. NIGHT TOURING. ® PENDING MARKS SYMBOL NIGHTS AND COOL PLACES ® COUNTRY INTENSIVE VOYAGES SM THINK OUTSIDE THE SHIP ® BOUTIQUE HOTEL AT SEA SM STAY LONGER. EXPERIENCE MORE. SM CRUISE GLOBAL. BIKE LOCAL SM CRUISE GLOBAL. CONNECT LOCAL. SM CRUISE GLOBAL. SHOP LOCAL SM EXPLORE FURTHER SM LE CLUB VOYAGE SM EXPIRED MARKS YOU'LL LOVE WHERE WE TAKE YOU SYMBOL ®
 
 ## Additional Properties
 

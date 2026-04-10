@@ -2,12 +2,12 @@
 title: Room to Read
 slug: "room-to-read"
 description: ""
-date: "2026-03-20T08:22:03.381533"
+date: "2026-04-10T09:40:30.926113"
 draft: false
 sectors:
-  - publishing
   - ngo
   - education
+  - publishing
 regions:
   - usa
 years:
@@ -16,9 +16,9 @@ years:
 languages:
   - english
 tags:
-  - education
-  - featured
   - ngo
+  - featured
+  - education
 industries:
   - education
 countries:
@@ -58,36 +58,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - wordmark
-  - primary
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - yellow
-  - orange
-  - black
-typographies:
-  - impact
-  - helvetica
-  - arial
-imagery_styles:
-  - colorful
-  - bold
-  - natural
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "American non-profit focused on literacy"
 wikidata_url: "https://www.wikidata.org/wiki/Q13920"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -99,48 +79,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
-
-*Guidelines data not available*
-
 ### 2016
 
-**Logo Information:**
-
-- Room to Read logo includes mark, signature, and tagline. Room to Read's primary logo versions include standard (with mark and signature) and variations with tagline. Local language taglines are also supported.
-- Approved color variations of the Room to Read logo: full-color, full-color with white signature, black, and white (reverse).
-- Secondary Room to Read logos available (large signature) for footers or specific emphasis. Differentiation between primary and secondary logos for distinct applications.
-- Minimum size requirement for the Room to Read logo: 1/2 inch (12.7 millimeters) vertical height. White space rule: use word 'Read' in logo to calculate the clear margin.
-- Improper usage examples include distortion of the logo, color alternation, rearrangement of elements, and placing the logo in white boxes over backgrounds.
-- File formats for logos include EPS, JPG, and PNG available for print and web usage.
-
-**Color Information:**
-
-- Approved Room to Read color palette: Primary color is blue (CMYK: 95-34-12-3, PMS: 3015-U, HEX: #007AA4, RGB: 0-122-164). Secondary palette includes Yellow (CMYK: 0-20-80-0, HEX: #FFCC4E, RGB: 255-204-78), Green (CMYK: 40-3-86-0, HEX: #97B24B, RGB: 151-177-75), Orange (CMYK: 0-35-100-0, HEX: #FAA74A, RGB: 250-167-74), Dark Grey (CMYK: 0-9-18-77, HEX: #5F564E, RGB: 95-86-78), Light Grey (CMYK: 40-40-50-20, HEX: #877B6C, RGB: 135-123-108).
-
-**Typography Information:**
-
-- Primary font is 'The Sans,' available in Light, Plain, Italic, Bold, and Bold Italic weights. Used for body copy, headlines, and text reversed from backgrounds. Font requires paid license for external use and is reserved for official branding.
-- Default font for documents and shared digital communications is Helvetica or Arial in Regular, Oblique, Bold, and Bold Oblique weights when primary fonts are unavailable.
-
-**Imagery Photography:**
-
-- Photography style is colorful, vibrant, and portrays dignity and character. Focus areas for imagery include formal/informal portraits, reading and learning activities, narrative storytelling, and sense of place.
-- Use high-quality images for formal and informal compositions. Light and perspective guidelines suggest soft natural light and capturing unique environments. RAW format recommended for shooting.
-
-**Spacing Layout:**
-
-- Clear space rule applies to logo integrity; white space around logo calculated using the height of 'Read' in the wordmark.
-- Alignment and spacing for imagery should prioritize uncluttered compositions that enhance readability and visual impact.
-
-**Brand Voice:**
-
-- Tone prioritizes positive, inspiring imagery and storytelling to emphasize the impact of education.
-
-**Notes:**
-
-- The document provides file naming guidelines for archived photography (Country Abbreviation_Photographer_Name_Location_Date_ImageNumber).
-- Communication resources and media kits are available online for further branding and media-related requirements.
+*Guidelines data not available*
 
 ## Additional Properties
 

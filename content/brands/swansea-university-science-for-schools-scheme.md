@@ -2,7 +2,7 @@
 title: Swansea University Science for Schools Scheme
 slug: "swansea-university-science-for-schools-scheme"
 description: ""
-date: "2026-03-20T08:22:04.209169"
+date: "2026-04-10T09:40:32.577637"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
   - science
 industries: []
 countries: []
@@ -49,23 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - coral
-  - blue
-  - yellow
-  - black
-typographies:
-  - impact
-  - helvetica
-  - arial
-  - futura
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -83,28 +70,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Two primary logo versions are identified: 'S4 Logo' without the brand name for in-house uses where the audience already understands the brand identity, and the 'Lockup Logo', which includes both the logo and brand name, intended for public-facing communications.
-- Minimum size requirements are specified as 20mm for the 'S4 Logo' and 60mm for the 'Lockup Logo'.
-- Clear zone rules indicate a minimum spacing of 5mm around the logo to ensure maximum impact.
-- Positive logo versions are used for light or bright backgrounds, while negative versions are for dark or bright-colored backgrounds. A 'Negative 2 Logo' is specifically used when the background color is similar to or identical to the primary blue in the logo.
-- Logo usage guidelines specify that either the positive or negative logo should be used on bright colors, and never the 'positive logo' on black backgrounds or the 'negative logo' on light backgrounds.
-- Incorrect usages include recoloring the logo, using it with a boxed background, distorting, stretching, or rotating the logo, and rearranging elements of the lockup logo.
-- External logo usage aligns the S4 logo alongside sponsor logos. Minimum and maximum height requirements for logo blocks (e.g., 48mm for Logo Block 1, 33mm minimum for European Social Fund logos).
-
-**Color Information:**
-
-- Primary and secondary colors include specifications for color names, CMYK, RGB, and HEX values. Examples: 'Mustard Yellow' (#F6B400), 'Berry Blue' (#30267F), and 'Coral Red'. Colors are to be used at 100% opacity.
-
-**Typography Information:**
-
-- Typography guidelines designate 'Helvetica Regular', 'Helvetica Bold', and 'Futura Medium' as main fonts. Substitutes include Arial Regular and Bold. Usage roles: Futura Medium for headings, Helvetica instance for body text.
-
-**Spacing Layout:**
-
-- A consistent clear zone rule of 5mm around the logo ensures maximum impact and avoids overcrowding.
-
-**Notes:**
-
-- The guide is intended for representatives presenting 'S4' internally or externally, ensuring consistent identity presentation across formats like media, press releases, merchandise, and teaching materials.
+*Guidelines data not available*

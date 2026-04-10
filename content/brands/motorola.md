@@ -2,7 +2,7 @@
 title: Motorola
 slug: motorola
 description: ""
-date: "2026-03-20T08:22:04.070801"
+date: "2026-04-10T09:40:32.113829"
 draft: false
 sectors:
   - hardware
@@ -65,7 +65,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q259011"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -79,11 +79,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2021
+### 2017
 
 *Guidelines data not available*
-
-### 2017
 
 ## Additional Properties
 

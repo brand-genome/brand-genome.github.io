@@ -2,7 +2,7 @@
 title: Aludium
 slug: aludium
 description: ""
-date: "2026-03-20T08:22:05.701195"
+date: "2026-04-10T09:40:34.638626"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -72,6 +72,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2016
+
+*Guidelines data not available*
 
 ## Additional Properties
 

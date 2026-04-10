@@ -2,11 +2,11 @@
 title: PubMatic
 slug: pubmatic
 description: ""
-date: "2026-03-20T08:22:04.519891"
+date: "2026-04-10T09:40:33.298206"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -48,8 +48,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -70,22 +69,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- 13
-VER SION 4.0
-3.1
- 
-L ogo Co mpo ne nts
-P latfor m Symbol
- P ubM atic logot y pe
-L ogo W ithou t Tagline
-Ove rvi ew
-This is PubM atic™s pr imary logo. It consis ts of the 
-P ubM atic Platform s ymbol and the L ogot y pe. The 
-P ubM atic logo is the single mo st impor t ant as set 
-of the brand s y st em. It represents the company 
-and everything that it s t ands for.
+*Guidelines data not available*
 
 ## Additional Properties
 

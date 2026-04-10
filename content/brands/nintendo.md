@@ -2,11 +2,11 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-03-20T08:22:05.314782"
+date: "2026-04-10T09:40:34.143921"
 draft: false
 sectors:
-  - gaming
   - hardware
+  - gaming
   - entertainment
 regions:
   - japan
@@ -18,8 +18,8 @@ tags:
   - featured
   - entertainment
 industries:
-  - "game-industry"
   - "video-game-industry"
+  - "game-industry"
 countries:
   - japan
 revenue_buckets: []
@@ -31,21 +31,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - software
   - "video-game-console"
   - "video-game"
-  - software
 products: []
 headquarters_locations:
-  - "higashiyama-ku"
-  - kyoto
   - "shimogyo-ku"
+  - kyoto
+  - "higashiyama-ku"
 subsidiaries: []
 foundation_dates:
-  - 1889
   - 1947
+  - 1889
 foundation_year_buckets:
-  - 1940S
   - "19TH-CENTURY"
+  - 1940S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,19 +63,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - gray
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - graphic
-  - product
+imagery_styles: []
 wikidata_description: Japanese multinational video game and consumer electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q8093"
 has_twitter: false
@@ -98,33 +89,180 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
+#### Brand Summary
 
-- The Nintendo corporate logo includes the text logotype and the racetrack outline. The logotype must always be used together with the racetrack. Protective clear space is required around the logo with no other logos, text, or graphic elements within the area. Margins: 10% of logo's width on the left and right, 35% of logo's height on the top and bottom.
-- Logo color options: Primary color is gray (RGB: R:140 G:140 B:140, CMYK: K:50%, Pantone Cool Gray 8c). White (RGB: R:255 G:255 B:255, CMYK: C:0% M:0% Y:0% K:0%) and black (RGB: R:0 G:0 B:0, CMYK: K:100%) are secondary colors. Use gray on white backgrounds, white where gray has low visibility, and black only when white visibility is low.
-- Obsolete logos and designs are labeled 'DO NOT USE' to ensure brand integrity. The latest version of the Nintendo logo must always be applied.
-- Historical milestones for Nintendo logo: Introduced racetrack design in 1984; unified variations into one design in 1994; standardized to gray color in 2008.
+##### Mission
 
-**Color Information:**
+- Nintendo's mission is to continue to create intriguing new ideas and bring smiles to customers everywhere, regardless of age, gender, nationality, or culture [^1].
 
-- Primary logo colors: Gray (RGB: R:140 G:140 B:140, CMYK: K:50%, Pantone Cool Gray 8c), White (RGB: R:255 G:255 B:255, CMYK: C:0% M:0% Y:0% K:0%), and Black (RGB: R:0 G:0 B:0, CMYK: K:100%). Usage: Gray is preferred for white backgrounds. Use white on color backgrounds where gray visibility is low. Black is used only if white visibility is insufficient.
+##### Core Values
 
-**Typography Information:**
+- innovation
+- corporate sincerity
+- quality
+- trust
+- universality
+- individuality
+- credibility
 
-- The corporate legal name, 'Nintendo of Europe GmbH', must appear in Avant Garde Bold font style for formal and legal use. The informal name 'Nintendo' uses the same font.
+##### Target Audience
 
-**Spacing Layout:**
+- Nintendo targets a global audience, aiming to appeal to everyone without regard to age, gender, nationality, or culture [^2].
 
-- Protective clear space around the logo is defined as the height and width of the 'n' in the logotype. Top and bottom margins are 35% of the logo height, while the left and right margins are 10% of the logo width.
+##### Personality Traits
 
-**Brand Voice:**
+- innovative
+- trustworthy
+- universal
+- credible
+- individualistic
 
-- Trademark rules emphasize consistent and correct usage, distinguishing trademarks by capitalization, avoiding pluralization, possessive forms, or abbreviation unless provided. Packaging/materials must include proper copyright notice like '© (date) Nintendo.'
+##### Visual Identity Overview
 
-**Notes:**
+- Nintendo's visual identity centers on a unified corporate logo featuring a logotype within a racetrack shape, with strict guidelines for proportion, protective area, and color usage (gray, white, black). The logo is used consistently across products, packaging, promotional materials, and digital platforms, emphasizing clarity, recognizability, and quality [^3].
 
-- Section titles refer to product graphics, hardware packshots, and software packshot standards, hinting at specific applications and guidelines for branding packaging.
-- Logo history notes: In 2008, logo color globally standardized from red to gray; racetrack outline introduced in 1984; unified logo design in 1994.
+#### Categories
+
+##### Color Palette
+
+- Gray is the standard color, followed by white, and black, in that order.
+- On a white background, use gray. On a color background that decreases the visibility of the gray logo, use white. Only in cases where the visibility of white logo is low, then the black color may be used.
+- Gray Standard color CMYK :K50% RGB :R140+G140 +B140 PANTONE Cool Gray 8c
+- White CMYK : C 0% + M 0% + Y 0% + K 0% RGB :R 255 +G 255+B 255
+- Black CMYK : K 100% RGB :R 0+G 0 +B 0
+- On color backgrounds. Illustrations, or patterns that decrease the visibility of the gray logo, the first preference is to use the logo In white (reversed out).
+- When the white color lowers the legibility, block con be used.
+- Do not use a while fill Inside the racetrack. The background color should always show through the interior of the racetrack. Do not odd on outline around the logo elements.
+- Do not change the color
+- Do not mix the color
+- Do not change the color of the elements
+- Single color printing When printing with a single color, the white color logo (reversed out) is recommended. The background color must have enough contrast. Do not odd on outline to Increase contrast on a weak color background.
+- Style Do not Include a white fill Do not add an outline
+
+##### Typography
+
+- The first romanized Nintendo logo using the font style associated with the current "racetrack" design was in 1959. This logo was modified several times over the years, but continued to retain the basic form still in use today.
+- 1959 - The text style is changed to a non-cursive style.
+- 1995 - The current logo is a little bolder and the racetrack fits tighter around the text when compared to the earlier version.
+- Nintendo of Europe GmbH The correct legal name in AvantGarde Bold font style.
+- Nintendo The correct informal name in AvantGarde Bold font style.
+
+##### Logo Usage
+
+- Make sure that you are using the latest version of the Nintendo logo.
+- The Nintendo logo is our primary and most well known trademark. Information on proper and improper use of this logo is given in the next section.
+- The correct corporate logo.
+- Obsolete logo no longer in use. DO NOT USE!
+- The Nintendo corporate logo includes the text logotype and the racetrack. The logotype must always be used together with the racetrack. When displaying the corporate logo, a certain protective clear space should be maintained, and no other logos, text or graphic elements are allowed within this surrounding area.
+- The size of the protective area around the logo is the same as the height and width of the "n" of the logotype. Expressed in numerical values, the margins at the left and right should each be 10% of the logo's width, and the margins at the top and bottom should each be 35% of the logo's height.
+
+##### Brand Values
+
+- Make sure that you are using the latest version of the Nintendo logo.
+- It is important to use our logo in a consistent and correct manner, based on the guidelines set down in this document. This will help us achieve the following goals: • Protect our rights to ownership and use of our logo. • Maintain our reputation for high quality, high value products. • Maintain a positive and strong image that is instantly recognizable. • Reinforce our individuality and credibility. • Project the universality of our company and products.
+
+##### Visual Style
+
+- Make sure that you are using the latest version of the Nintendo logo.
+- The Nintendo corporate logo includes the text logotype and the racetrack. The logotype must always be used together with the racetrack. When displaying the corporate logo, a certain protective clear space should be maintained, and no other logos, text or graphic elements are allowed within this surrounding area.
+- The size of the protective area around the logo is the same as the height and width of the "n" of the logotype. Expressed in numerical values, the margins at the left and right should each be 10% of the logo's width, and the margins at the top and bottom should each be 35% of the logo's height.
+- Gray is the standard color, followed by white, and black, in that order.
+- On a white background, use gray. On a color background that decreases the visibility of the gray logo, use white. Only in cases where the visibility of white logo is low, then the black color may be used.
+- Gray Standard color CMYK :K50% RGB :R140+G140 +B140 PANTONE Cool Gray 8c
+- White CMYK : C 0% + M 0% + Y 0% + K 0% RGB :R 255 +G 255+B 255
+- Black CMYK : K 100% RGB :R 0+G 0 +B 0
+- On color backgrounds. Illustrations, or patterns that decrease the visibility of the gray logo, the first preference is to use the logo In white (reversed out).
+- When the white color lowers the legibility, block con be used.
+- Do not use a while fill Inside the racetrack. The background color should always show through the interior of the racetrack. Do not odd on outline around the logo elements.
+- When working with the Nintendo logo. It Is Important to avoid creating designs that modify the trademark, or detract from the appearance or readability of our brand.
+- Do not change the ratio of width or height
+- Do not change the proportion of the logotype to the racetrack
+- Do not remove the racetrack
+- Do not reverse or flip the Image
+- Do not change the shape
+- Do not tilt
+- Do not change the color
+- Do not mix the color
+- Do not change the color of the elements
+- Single color printing When printing with a single color, the white color logo (reversed out) is recommended. The background color must have enough contrast. Do not odd on outline to Increase contrast on a weak color background.
+- Do not Include a white fill
+- Do not add an outline
+- Do not Include the logo Inside a box.
+- Do not combine with text
+- Do not combine with other elements outline, extra racetrack, or other shape
+- Do not embed within a sentence
+- Do not overlay other elements
+- Do not use the logo as a pattern
+
+##### Layout And Composition
+
+- The Nintendo corporate logo includes the text logotype and the racetrack. The logotype must always be used together with the racetrack. When displaying the corporate logo, a certain protective clear space should be maintained, and no other logos, text or graphic elements are allowed within this surrounding area.
+- The size of the protective area around the logo is the same as the height and width of the "n" of the logotype. Expressed in numerical values, the margins at the left and right should each be 10% of the logo's width, and the margins at the top and bottom should each be 35% of the logo's height.
+
+##### Packaging Design
+
+- Nintendo product packaging and marketing materials must include the proper copyright notice. Typically, this would be something like: ”©(date) Nintendo.”
+- Make sure that you are using the latest version of the Nintendo logo.
+- The Nintendo corporate logo includes the text logotype and the racetrack. The logotype must always be used together with the racetrack. When displaying the corporate logo, a certain protective clear space should be maintained, and no other logos, text or graphic elements are allowed within this surrounding area.
+- The size of the protective area around the logo is the same as the height and width of the "n" of the logotype. Expressed in numerical values, the margins at the left and right should each be 10% of the logo's width, and the margins at the top and bottom should each be 35% of the logo's height.
+- Gray is the standard color, followed by white, and black, in that order.
+- On a white background, use gray. On a color background that decreases the visibility of the gray logo, use white. Only in cases where the visibility of white logo is low, then the black color may be used.
+- Gray Standard color CMYK :K50% RGB :R140+G140 +B140 PANTONE Cool Gray 8c
+- White CMYK : C 0% + M 0% + Y 0% + K 0% RGB :R 255 +G 255+B 255
+- Black CMYK : K 100% RGB :R 0+G 0 +B 0
+- On color backgrounds. Illustrations, or patterns that decrease the visibility of the gray logo, the first preference is to use the logo In white (reversed out). When the white color lowers the legibility, black can be used.
+- Do not use a white fill inside the racetrack. The background color should always show through the interior of the racetrack. Do not add an outline around the logo elements.
+- When working with the Nintendo logo. It Is Important to avoid creating designs that modify the trademark, or detract from the appearance or readability of our brand.
+- Do not change the ratio of width or height
+- Do not change the proportion of the logotype to the racetrack
+- Do not remove the racetrack
+- Do not reverse or flip the image
+- Do not change the shape
+- Do not tilt
+- Do not change the color
+- Do not mix the color
+- Do not change the color of the elements
+- When printing with a single color, the white color logo (reversed out) is recommended. The background color must have enough contrast. Do not add an outline to increase contrast on a weak color background.
+- Do not include a white fill
+- Do not add an outline
+- Do not include the logo inside a box.
+- Do not combine with text
+- Do not combine with other elements outline, extra racetrack, or other shape
+- Do not embed within a sentence
+- Do not overlay other elements
+- Do not use the logo as a pattern
+
+##### Print Guidelines
+
+- The Nintendo corporate logo includes the text logotype and the racetrack. The logotype must always be used together with the racetrack. When displaying the corporate logo, a certain protective clear space should be maintained, and no other logos, text or graphic elements are allowed within this surrounding area.
+- The size of the protective area around the logo is the same as the height and width of the "n" of the logotype. Expressed in numerical values, the margins at the left and right should each be 10% of the logo's width, and the margins at the top and bottom should each be 35% of the logo's height.
+- Gray is the standard color, followed by white, and black, in that order.
+- On a white background, use gray. On a color background that decreases the visibility of the gray logo, use white. Only in cases where the visibility of white logo is low, then the black color may be used.
+- Gray Standard color CMYK :K50% RGB :R140+G140 +B140 PANTONE Cool Gray 8c
+- White CMYK : C 0% + M 0% + Y 0% + K 0% RGB :R 255 +G 255+B 255
+- Black CMYK : K 100% RGB :R 0+G 0 +B 0
+- On color backgrounds. Illustrations, or patterns that decrease the visibility of the gray logo, the first preference is to use the logo In white (reversed out).
+- When the white color lowers the legibility, block con be used.
+- Do not use a while fill Inside the racetrack. The background color should always show through the interior of the racetrack. Do not odd on outline around the logo elements.
+- When working with the Nintendo logo. It Is Important to avoid creating designs that modify the trademark, or detract from the appearance or readability of our brand.
+- Do not change the ratio of width or height
+- Do not change the proportion of the logotype to the racetrack
+- Do not remove the racetrack
+- Do not reverse or flip the Image
+- Do not change the shape
+- Do not tilt
+- Do not change the color
+- Do not mix the color
+- Do not change the color of the elements
+- Single color printing When printing with a single color, the white color logo (reversed out) is recommended. The background color must have enough contrast. Do not odd on outline to Increase contrast on a weak color background.
+- Do not Include a white fill
+- Do not add an outline
+- Do not Include the logo Inside a box.
+- Do not combine with text
+- Do not combine with other elements outline, extra racetrack, or other shape
+- Do not embed within a sentence
+- Do not overlay other elements
+- Do not use the logo as a pattern
 
 ## Additional Properties
 
@@ -134,9 +272,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Video Game Console](/products_or_materials_produced/video-game-console/); [Video Game](/products_or_materials_produced/video-game/); [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Higashiyama Ku](/headquarters_locations/higashiyama-ku/); [Kyoto](/headquarters_locations/kyoto/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/) |
-| Foundation Date | [1889](/foundation_dates/1889/); [1947](/foundation_dates/1947/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Video Game](/products_or_materials_produced/video-game/) |
+| Headquarters Location | [Shimogyo Ku](/headquarters_locations/shimogyo-ku/); [Kyoto](/headquarters_locations/kyoto/); [Higashiyama Ku](/headquarters_locations/higashiyama-ku/) |
+| Foundation Date | [1947](/foundation_dates/1947/); [1889](/foundation_dates/1889/) |
 | Headquarters Location | Kyoto, Shimogyō-ku (from 1889, until 1959), Higashiyama-ku (from 1959, until 2000) |
 | Founded By | Fusajirō Yamauchi |
 | Topic'S Main Category | Category:Nintendo |

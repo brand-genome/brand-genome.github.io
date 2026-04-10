@@ -2,7 +2,7 @@
 title: Tecnológico de Costa Rica
 slug: "tecnologico-de-costa-rica"
 description: ""
-date: "2026-03-20T08:22:04.519653"
+date: "2026-04-10T09:40:33.297991"
 draft: false
 sectors:
   - education
@@ -51,8 +51,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,11 +73,4 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Information about 'Firmas TEC', including 'Firma TEC-1' and 'Firma TEC-2' with details about safe zones (Espacio circundante) and minimum size (Tamaño mínimo).
-
-**Notes:**
-
-- The manual titled 'Manual de Identidad Institucional' introduces branding guidelines for Tecnológico de Costa Rica (TEC), dated 2015.
-- The Table of Contents highlights key branding aspects including logo usage, typography, color schemes, photography, and dimensions.
+*Guidelines data not available*

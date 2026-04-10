@@ -2,7 +2,7 @@
 title: Gautrain
 slug: gautrain
 description: ""
-date: "2026-03-20T08:22:04.217025"
+date: "2026-04-10T09:40:32.605213"
 draft: false
 sectors:
   - railroad
@@ -50,18 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - symbol
-  - wordmark
-brand_colors:
-  - gold
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - portrait
-  - graphic
-  - landscape
+imagery_styles: []
 wikidata_description: "rapid rail express commuter transport system in Gauteng, South Africa"
 wikidata_url: "https://www.wikidata.org/wiki/Q1476881"
 has_twitter: false
@@ -80,37 +72,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo consists of three variations including (1) Symbol + Wordmark + Positioning Statement/Slogan, (2) Symbol + Wordmark, and (3) Symbol-only. Exclusion Zone: Unobstructed clear space based on the width of 'N' in the wordmark must surround the logo.
-- Logo size variations: Minimum size is 37mm wide for logos with positioning statements. Logos without positioning statements should have a minimum size of 24mm wide. Maximum sizes for signage or larger applications may require adjusted letter spacing, requiring consultation with a brand manager.
-- Logo usage recommendations include consistent size across paper formats: A5 - 37mm; A4 - 53mm; A3 - 74mm; DL-sized items differ for portrait (53mm) and landscape (37mm). Minimum allowed height for embroidery positioning statements is 8mm or larger. Exceptions for silkscreening or embroidery allow slightly larger logo size.
-
-**Color Information:**
-
-- Logo uses gold and blue colors representing historical elements and alignment with Gauteng Province emblem colors. Colors tie into Gauteng's heritage, emphasizing pride and futuristic themes associated with the brand.
-
-**Typography Information:**
-
-- Typography guidelines are mentioned explicitly, and specific fonts and their applications will tie into the brand's visual identity system as outlined in typography sections (additional pages to review for exact specifications).
-
-**Imagery Photography:**
-
-- Image style guides and treatment rules were referenced in the table of contents, particularly around pages 21-22 for specific elements and guidelines.
-
-**Spacing Layout:**
-
-- Exclusion zone for logos mandates clear space equivalent to the width of the letter 'N' in the wordmark to ensure legibility and prevent branding confusion. Specific rules apply to co-branding scenarios.
-
-**Brand Voice:**
-
-- Brand voice emphasizes national pride (Gauteng competing globally), relationships (connecting people, businesses, government), and freedom (mobility, stress-free commuting). These aspects frame the conceptual identity for campaigns and visual execution.
-- High-level messaging focuses on Gauteng's heritage, leveraging visual elements like gold and blue colors, and graphic design tied to values like speed and efficiency.
-
-**Notes:**
-
-- The document incorporates a wide scope of guidelines, including stationery, co-branding, promotional products, advertising formats, digital media templates, signage, and livery applications. Each deserves investigation for specific rules.
-- Brand Management section highlights tools like fonts, colors, layout templates for executing unified visual communication across all platforms.
+*Guidelines data not available*
 
 ## Additional Properties
 

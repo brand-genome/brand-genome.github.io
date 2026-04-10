@@ -2,7 +2,7 @@
 title: Rugby Canada
 slug: "rugby-canada"
 description: ""
-date: "2026-03-20T08:22:04.718783"
+date: "2026-04-10T09:40:33.445909"
 draft: false
 sectors:
   - sports
@@ -49,18 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
-  - "pantone-186"
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: rugby union competition in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q862133"
 has_twitter: false
@@ -80,23 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The primary logo is bold, unmistakable, and genuine.
-- The logo primarily appears in red (on white) or white (on red), with recommendations for lots of clear space.
-
-**Color Information:**
-
-- Core colors are Red (Pantone 186 C, HEX #C80F2D, CMYK 10/100/90/5) and White (HEX #FFFFFF, CMYK 0/0/0/0). Black is an optional accent color (HEX #000000, CMYK 0/0/0/100).
-
-**Typography Information:**
-
-- Main font: New Grotesk Square Six, used for titles and big statements in all caps. Supporting fonts are Helvetica Neue for lengthy text and small captions; alternatives include Helvetica or Arial.
-- New Grotesk Square Six with Optical kerning, -10pt tracking. Helvetica Neue is used with snug leading for good readability.
-
-**Notes:**
-
-- Consider reviewing design intentions for color, font spacing, and alignment for consistency given their visual prominence on pages 6-14.
+*Guidelines data not available*
 
 ## Additional Properties
 

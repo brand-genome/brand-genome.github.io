@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-03-20T08:22:05.159844"
+date: "2026-04-10T09:40:34.004048"
 draft: false
 sectors:
-  - "arts-culture"
-  - research
-  - "public-sector"
   - ngo
   - education
+  - "arts-culture"
+  - "public-sector"
+  - research
 regions:
   - international
 years:
@@ -54,15 +54,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - emblem
-  - symbol
-  - secondary
-brand_colors:
-  - blue
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "specialised agency of the United Nations for education, sciences, and culture"
@@ -90,23 +83,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- The UNESCO Logo consists of three inseparable elements: the temple symbol, the full name of the Organization, and the vertical dotted line. It is designed to accommodate different languages beneath the symbol.
-- Logo colors include Blue PMS 285, Black, and White. The logo can be used in black, blue, or white against a background. Correct color use is necessary.
-- The logo exists in variations for special cases, such as the temple alone, linked reduced logo, inline logo, or logo without the dotted line.
-
-**Color Information:**
-
-- Blue PMS 285: CMYK: C:89 M:43 Y:0 K:0; RGB: R:0 G:119 B:212; HEX: #0077D4. Black: CMYK: C:0 M:0 Y:0 K:100; RGB: R:34 G:30 B:31; HEX: #221E1F.
-
-**Spacing Layout:**
-
-- Positioning rules for Secondary Logos: Height cannot exceed the height of the temple emblem. Visual balance must ensure equal presence of both UNESCO logo and secondary logo.
-
-**Notes:**
-
-- Secondary Logos must follow general requirements such as systematic combination with UNESCO Logo, effective distinction, adaptability to different language versions, and print/electronic use.
+*Guidelines data not available*
 
 ## Additional Properties
 

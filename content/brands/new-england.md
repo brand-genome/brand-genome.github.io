@@ -2,7 +2,7 @@
 title: New England
 slug: "new-england"
 description: ""
-date: "2026-03-20T08:22:04.466977"
+date: "2026-04-10T09:40:33.212711"
 draft: false
 sectors:
   - "real-estate"
@@ -55,8 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: oldest independent school of music in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q1347162"
 has_twitter: false
@@ -75,85 +74,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-- Details about logo usage, versions, and specifications.
-
-**Color Information:**
-
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-- Information about color codes and usage.
-
-**Typography Information:**
-
-- Details about typography, fonts, and styles used.
-- Details about typography, fonts, and styles used.
-- Details about typography, fonts, and styles used.
-- Details about typography, fonts, and styles used.
-
-**Imagery Photography:**
-
-- Guidelines for illustrations and photography styles.
-
-**Spacing Layout:**
-
-- Spacing, layout, and design guideline details.
-- Spacing, layout, and design guideline details.
-
-**Brand Voice:**
-
-- Information on brand tone and voice.
-- Information on brand tone and voice.
-- Information on brand tone and voice.
-
-**Notes:**
-
-- Potential data on additional elements visible on page 1.
-- Potential data on additional elements visible on page 2.
-- Potential data on additional elements visible on page 3.
-- Potential data on additional elements visible on page 4.
-- Potential data on additional elements visible on page 5.
-- Potential data on additional elements visible on page 6.
-- Potential data on additional elements visible on page 7.
-- Potential data on additional elements visible on page 8.
-- Potential data on additional elements visible on page 9.
-- Potential data on additional elements visible on page 10.
-- Potential data on additional elements visible on page 11.
-- Potential data on additional elements visible on page 12.
-- Potential data on additional elements visible on page 13.
-- Potential data on additional elements visible on page 14.
-- Potential data on additional elements visible on page 15.
-- Potential data on additional elements visible on page 16.
-- Potential data on additional elements visible on page 17.
-- Potential data on additional elements visible on page 18.
-- Potential data on additional elements visible on page 19.
-- Potential data on additional elements visible on page 20.
-- Potential data on additional elements visible on page 21.
-- Potential data on additional elements visible on page 22.
-- Potential data on additional elements visible on page 23.
-- Potential data on additional elements visible on page 24.
-- Potential data on additional elements visible on page 25.
-- Potential data on additional elements visible on page 26.
-- Potential data on additional elements visible on page 27.
-- Potential data on additional elements visible on page 28.
-- Potential data on additional elements visible on page 29.
-- Potential data on additional elements visible on page 30.
-- Potential data on additional elements visible on page 31.
-- Potential data on additional elements visible on page 32.
-- Potential data on additional elements visible on page 33.
+*Guidelines data not available*
 
 ## Additional Properties
 

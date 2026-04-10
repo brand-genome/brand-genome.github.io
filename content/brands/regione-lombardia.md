@@ -2,7 +2,7 @@
 title: Regione Lombardia
 slug: "regione-lombardia"
 description: ""
-date: "2026-03-20T08:22:04.367423"
+date: "2026-04-10T09:40:33.092284"
 draft: false
 sectors:
   - "public-sector"
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-brand_colors:
-  - green
-  - white
-  - "pantone-356"
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,51 +68,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- 3
-Manuale scaricabile sulla intranet per il logo Regione Lombardia.
-Dimensioni, tecniche applicative e combinazioni sono disponibili sul file loghi ufficiale.
-- 7
-Applicazione sui fondi: Logotipo positivo a colori per sfondi chiari e istituzionali.
-Note sull'uso negativo a colori, monocromatico, e sfondi con desaturazione.
-- 47
-Regole generali di applicazione del marchio;
-Minimum size; Scaling proportions; Safe zone.
-Horizontal and vertical logo applications visible.
-- 55
-Abbinamento dei loghi prodotto con il marchio Regione Lombardia deve seguire i partner di rilevanza-1.
-
-**Color Information:**
-
-- 7
-Pantone 356 C;
-Color application on backgrounds for readability.
-- 43
-Privileging green (Pantone 356 C) and white in chromatic layout decisions.
-- 9
-Web color: #297A38;
-CMYK: 92,25,96,11 RGB swatches visible.
-
-**Typography Information:**
-
-- 6
-Font Helvetica Regular noted—application grounds Font consistency preconditions visual spacing per institutional guidelines.
-- 9
-Consistency noted Helvetica Bold; Arial compatibility upon lack of fonts.
-- 19 Guidelines assigning specific fonts within program matter related frameworks displayed Helvetica styles.
-
-**Imagery Photography:**
-
-- 25 Banner main resolution widths shared circa pixel photograph specified optimization range
-
-**Brand Voice:**
-
-- 43 Highlights core-tone consistent evoke precise layout while extending brand per visual-identity milestones.
-
-**Notes:**
-
-- 31
-Notes re: diffusion standards subtitled maximizing accessibility tailored rounded towards targeted innovative regions brand.
-- 44
-Routine priority allocation aspect agreeing neutral amongst preferable distributions insight allotted.
+*Guidelines data not available*

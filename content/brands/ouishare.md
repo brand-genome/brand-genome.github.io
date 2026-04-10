@@ -2,7 +2,7 @@
 title: Ouishare
 slug: ouishare
 description: ""
-date: "2026-03-20T08:22:05.417776"
+date: "2026-04-10T09:40:34.289070"
 draft: false
 sectors:
   - ngo
@@ -50,22 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-  - monogram
-brand_colors:
-  - indigo
-  - yellow
-  - green
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - landscape
-  - photography
-  - professional
+imagery_styles: []
 wikidata_description: French association and international community working on the collaborative society
 wikidata_url: "https://www.wikidata.org/wiki/Q23931345"
 has_twitter: false
@@ -84,111 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Ouishare Brand Guidelines
-3
-Our logo
-Logotype versus Monogram
-We use it all the time. Online and print.
-This is how outsiders can identify us.
-Logotype
-This our symbol. Our community symbol. It is for insiders. It is Ouishare without naming it.
-Monogram
-of 22
-- Ouishare Brand Guidelines
-4
-Do's and don'ts
-Logos are brand flags. And flags shouldn’t be mistreated!
-1 /
-2 /
-3 /
-4 /
-Use the logtype to be known and the monogram to be recognized. But never both as one Ouishare logo.
-1 & 2 - Never Use both together
-Always resize it keeping the right ratio.
-3 - Do not distort the logo
-It goes without saying, but you never know ;)
-4 - Do not use older versions
-- Ouishare Brand Guidelines
-5
-Minimum spacing
-Be gentle with our logo. It is good for Karma.
-Our logo is easy to mix and match in a myriad of contexts. But if you don’t treat it right, it can become a designer’s nightmare.
-To make it work harmoniously with the rest of the content on a page, and be sure it remains legible, we have to keep a 30% margin of the logo’s height as spacing.
-It must breathe
-- Ouishare Brand Guidelines
-21
-Events promotion
-No logo on the cover, please! Keep it clear and give all the information in the description.
-Here are a few examples of how we should do it (Pretty cool and professional, right?). The simpler, the better.
-A small event promotion guide for social media
-
-**Color Information:**
-
-- Ouishare Brand Guidelines
-9
-Colour palette
-Primary and secondary colors for the website:
-Primary colors:
-Haiti/#1B0A37, Steel/#666666, Big Stone/#19273C, Anti Flash White/#F2F6F6.
-Secondary colors:
-Indigo/#5C79D5, Green Yellow/#C1F742, Monte Carlo/#83C2AF, Lavender/#E0E6F7
-- Ouishare Brand Guidelines
-19
-Social Media
-From now on, let’s unite our social networks under the same banner. Ouishare Global page is allowed to use a different color for their pic.
-- Ouishare Brand Guidelines
-20
-Event promotion
-Always use Green Yellow color #C1F742 for highlighting.
-
-**Typography Information:**
-
-- Ouishare Brand Guidelines
-6
-Typography
-Cera Stencil Pro for standalone sentences.
-Cera Pro for headlines.
-Atlas Grotesk Light for body text.
-Interstate Regular for UI elements.
-- Ouishare Brand Guidelines
-7
-Typography
-Statement/Headlines/Interface/Body
-Font details provided for Atlas Grotesk Light, Interstate Regular, Cera Pro Bold, and Cera Stencil Pro Bold.
-
-**Imagery Photography:**
-
-- Ouishare Brand Guidelines
-10
-Photography
-Pick high-definition and professional-looking photos representing: Community Atmosphere/Humans/Landscape/Work/Fest/Close-up
-- Ouishare Brand Guidelines
-11
-Photography
-Choose photos that depict one of six elements like Community or Work.
-- Ouishare Brand Guidelines
-12
-Photography
-Professional and high-definition photos focusing on humans, atmosphere, and landscapes.
-
-**Spacing Layout:**
-
-- Ouishare Brand Guidelines
-5
-Minimum spacing
-Maintain a 30% margin of the logo's height around the logo for better legibility and harmony.
-
-**Notes:**
-
-- Ouishare Brand Guidelines
-1
-About us
-Ouishare connects people and accelerates projects for systemic change with values: Do-ocracy, Care, Collaboration, Permanent Beta, Openness.
-- Ouishare Brand Guidelines
-2
-The brand uses lowercase for modernity and avoids strong associations with 'share' in the past.
+*Guidelines data not available*
 
 ## Additional Properties
 

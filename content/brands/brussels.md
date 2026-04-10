@@ -2,7 +2,7 @@
 title: Brussels
 slug: brussels
 description: ""
-date: "2026-03-20T08:22:03.299535"
+date: "2026-04-10T09:40:30.830068"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - city
   - regional
   - featured
-  - city
 industries: []
 countries:
   - belgium
@@ -76,7 +76,185 @@ visual_term_image_urls: {}
 
 ### 2023
 
-*Guidelines data not available*
+#### Categories
+
+##### Brand Voice
+
+- How does an approachable city that’s less coded and more playful-rebellious speak to its audiences? In a highly spirited, very helpful and absolutely personal fashion.
+- Brussels is not a city for everyone, and we’re not trying to win a popularity contest. For this reason, we aren’t trying to seduce, we’re trying to select. We’re looking for people who will be attracted to us because they are like us, they’re inspired by us and they see themselves in us. We speak in a way that’s bold and straightforward, humorous and lighthearted, a tone with a deep and eloquent understanding that we’re a city built by humans, and we embrace human strengths and weaknesses. When we speak to our audiences of visitors, talent, businesses and students, we proudly dare to say exactly who we are.
+- Casual & Personal A city of humans and a city for humans, Brussels speaks your language, as they say in English. In our communication, we’re transparent, informal and personal, and one on one. We speak Brussels: we acknowledge our juxtapositions and tensions. We dare to admit that we’ve shown up to a serious meeting with a bit of a hangover—and to acknowledge that we’re connoisseurs of waffles from food trucks and of Michelin-starred meals. We speak frankly and we dare to share that we are ourselves.
+- Bold & Spirited We’re a city that sees itself clearly and accepts itself, warts and all. So we don’t sugar coat. We seek to push buttons and elicit an emotional response, so we’re not afraid to be provocative. We don’t shy away from humour: we’re emphatic and lighthearted by nature, just as we’re also serious policymakers by profession. We speak boldly, daring our interlocutor to try Brussels, to be Brussels, to be themselves.
+- Communicative & Helpful We want our talent, visitors and investors to get ahead—to get what they need to advance. We want to facilitate—to de-silo and simplify by being useful and informative. Wherever possible, we try to unders-tand needs, to make introductions. We speak like a guide, a mentor and a friend.
+
+##### Brand Imagery
+
+- Our logo can be used as a window, where the 'U'can house photography, video, illustration, art and patterns.
+- There are no strict rules around using the window, nor is there a one-image-fits-all solution. Please use design sensbility when using the window for marketing applications.
+- Please note imagery and art direction style is being developed seperately. The imagery shown is to demonstrate the design system only.
+- The U from our logo can be used as a large supergraphic device on marketing materials. Like our logo, this is used as a window to house photography, video, illustration, art and patterns.
+- The U from our logo can also be used as a supergraphic on marketing materials such as signage. This should only be used as a supporting background element and should not house imagery.
+- The U supergraphic can be rotated up to 35° in either direction: this is to ensure that it is still legible as a U shape. It can be cropped as needed to create a dynamic composition.
+- With our stripped-down, editorial-style identity, art direction and photography are the cornerstones of showcasing Brussels. Our visual throughline is Playful, Analog, Artistic, Authentic photography.
+- To set the tone for our identity, first we focus on the people of Brussels. This mean bringing Brusselers to the forefront of our images. We capture snaps from life at home, and on the street (sometimes mid-bite). If a landmark happens to make it into the shot, it's most likely by accident, in the background.
+- Capturing Brussels is a task in allowing the eye to wander -with images that make the viewers mind wander, too. Sometimes that means only telling half, or a third of the story.
+- The imagery shown is to demonstrate the art direction style only and is not owned or licenced for use.
+
+##### Color Palette
+
+- Our colour palette speaks volumes about our brand, laying a foundation and declaring our intentions. It is direct and daringly simple.
+- Our colours are clean and simple and are a visual articulation of ‘Dare to be yourself’. There is no ambiguity with our brand, we are proud and direct with our use of colour.
+- WHITE CMYK - 0,0,0,0 RGB - 255,255, 255 HEX - #ffffff
+- BLACK CMYK - 40,40,40,100 RGB - 0, 0, 0 HEX - #000000 PANTONE - BLACK 6C
+- WARM GREY CMYK - 3,3,5,3 RGB - 236,233, 229 HEX - #ece9e5
+
+##### Typography
+
+- We use two editorial style typefaces, Brussels Serif and Inter Medium, as our headline fonts. These two fonts are used together to pay off the eclectic identity of the city.
+- We use a tight line spacing when using Brussels Serif in headlines. This is to add a moment of visual imperfection into our marketing materials. This should be optically adjusted so that the overlap is around 20-25% of the letterforms.
+- Pay close attention when using Brussels Serif. The letterforms need manual typesetting with at least -25 letterspacing.
+- When using the two fonts together as headlines the type sizing of each should be optically sized so they have the same x-height even though the two fonts show different type sizes (as shown).
+- Inter is a clean, highly legible and competent typeface which is perfect for body copy. It balances well against our headline fonts.
+- We’ve featured weights most commonly used throughout this document. However, we encourage you to use your design sense to solve specific type hierarchy problems.
+- Headlines always align to the grid structure on the top.
+- The graphic shape always aligns to the grid structure on the top, left and right.
+- Additional elements, calls to action, copy, logos etc. all align to the grid structure.
+- Please use the template provided and do not stray from the assigned typfaces and layouts.
+
+##### Logo Usage
+
+- While our brand is much more than just the logo mark, the logo mark provides a strong first impression and is the graphic reminder of the greater brand. We must respect it and protect it, and use it with consistency.
+- Our logo articulates ‘Dare to be yourself’ by providing a space within the letter U where anyone can add themselves and their voice. A literal space within the Brussels logo for you to be yourself.
+- Our logo can be reproduced in two of our brand colours: black and white. Black is our primary use with the white version for instances where we need higher contrast.
+- Use RGB logo for digital media applications. Use CMYK logo for printing applications.
+- Use Pantone logo for spot colour printing.
+- The logo should never appear smaller than 0.375" wide in printed form or 150 pixels wide in digital form. The minimum size is specified to ensure brand legibility.
+- The logo has been designed with a minimum clear space to allow the brand to breathe. Leave the width of the 'U' letter around all sides of the logo, as shown.
+- Our logo has two versions that can be used, the primary version and the window version. The primary version is used in most cases while the window version should be used for circumstances where we need to grab attention, such as a billboard.
+- Our logo can be used as a window, where the 'U'can house photography, video, illustration, art and patterns.
+- There are no strict rules around using the window, nor is there a one-image-fits-all solution. Please use design sensbility when using the window for marketing applications.
+- Every element of the logo has been expertly crafted and should not be modified. Here are some actions to avoid when working with our logo.
+- DO NOT COLOUR THE LOGO. BRUSSELS
+- DO NOT DISTORT, SHEAR, SKEW OR ROTATE. BRUSSELS
+- DO NOT ADD EFFECTS. BRUSSELS
+- DO NOT SUBSTITUTE THE LOGO TYPE WITH OTHER FONTS. BRUSSELS
+- DO NOT REPLACE THE 'U' BRUSSELS
+- DO NOT USE THE OTHER LETTERFORMS AS A WINDOWS. BRUSSELS
+- Brussels partners with a number of organizations. When co-branding with Brussels, partner brands will follow these guidelines, regardless of brand dominance. These guidelines should be used in addition to all requirements for using the Brussels logo.
+- Whenever there is a partner, the Brussels logo always leads partner branding lockups.
+- The second logo is base aligned with the Brussels logo and optically scaled to match the size of the Brussels logo.
+- Negative space is used to separate the logos. We use the width of the U in Brussels as a size guide as shown.
+- A line is used to separate the logos.
+- Co-branded logos are always in black and white (no colour) to adhere to eco-design principles and to mirror our new look and feel.
+- The Brussels logo always leads partner branding lockups.
+- The second logo is width aligned with the Brussels logo.
+- Negative space is used to seperate the logos. We use the width of the U in Brussels as a size guide as shown.
+- A line is used to seperate the logos.
+- Co-branded logos are always in black and white to adhere to eco-design principles and to mirror our new look and feel.
+
+##### Tone And Messaging
+
+- How does an approachable city that’s less coded and more playful-rebellious speak to its audiences? In a highly spirited, very helpful and absolutely personal fashion.
+- Brussels is not a city for everyone, and we're not trying to win a popularity contest. For this reason, we aren't trying to seduce, we're trying to select. We're looking for people who will be attracted to us because they are like us, they're inspired by us and they see themselves in us. We speak in a way that's bold and straightforward, humorous and lighthearted, a tone with a deep and eloquent understanding that we're a city built by humans, and we embrace human strengths and weaknesses. When we speak to our audiences of visitors, talent, businesses and students, we proudly dare to say exactly who we are.
+- Casual & Personal A city of humans and a city for humans, Brussels speaks your language, as they say in English. In our communication, we’re transparent, informal and personal, and one on one. We speak Brussels: we acknowledge our juxtapositions and tensions. We dare to admit that we’ve shown up to a serious meeting with a bit of a hangover—and to acknowledge that we’re connoisseurs of waffles from food trucks and of Michelin-starred meals. We speak frankly and we dare to share that we are ourselves.
+- Bold & Spirited We’re a city that sees itself clearly and accepts itself, warts and all. So we don’t sugar coat. We seek to push buttons and elicit an emotional response, so we’re not afraid to be provocative. We don’t shy away from humour: we’re emphatic and lighthearted by nature, just as we’re also serious policymakers by profession. We speak boldly, daring our interlocutor to try Brussels, to be Brussels, to be themselves.
+- Communicative & Helpful We want our talent, visitors and investors to get ahead—to get what they need to advance. We want to facilitate—to de-silo and simplify by being useful and informative. Wherever possible, we try to unders-tand needs, to make introductions. We speak like a guide, a mentor and a friend.
+
+##### Brand Values
+
+- We are authentic, welcoming and diverse
+- In Brussels, we want you to feel free to be yourself and find your tribe.
+- #2 nonconformist and playful We are experimental,
+- In Brussels, we want you to feel free to experiment and explore new pathways.
+- We are inclusive, convivial and non-hierarchical
+- In Brussels, we want you to feel free to connect and engage beyond.
+- Authentic Welcoming Diverse
+- Free to be yourself find your tribe
+- Come as you are a city less coded
+- Experimental Nonconformist Playful
+- Free to experiment explore new pathways
+- Playful rebellious non-conformist
+- Inclusive Convivial Non-hierarchical
+- Free to connect engage beyond
+- Unstuffy encounters approachable
+
+##### Visual Style
+
+- Our logo can be reproduced in two of our brand colours: black and white. Black is our primary use with the white version for instances where we need higher contrast.
+- Use RGB logo for digital media applications. Use CMYK logo for printing applications. Use Pantone logo for spot colour printing.
+- The logo should never appear smaller than 0.375" wide in printed form or 150 pixels wide in digital form. The minimum size is specified to ensure brand legibility.
+- The logo has been designed with a minimum clear space to allow the brand to breathe. Leave the width of the 'U' letter around all sides of the logo, as shown.
+- Every element of the logo has been expertly crafted and should not be modified. Here are some actions to avoid when working with our logo. DO NOT COLOUR THE LOGO. BRUSSELS DO NOT DISTORT, SHEAR, SKEW OR ROTATE. BRUSSELS DO NOT ADD EFFECTS. BRUSSELS DO NOT SUBSTITUTE THE LOGO TYPE WITH OTHER FONTS. BRUSSELS DO NOT REPLACE THE 'U' BRUSSELS DO NOT USE THE OTHER LETTERFORMS AS A WINDOWS. BRUSSELS
+- Co-branded logos are always in black and white (no colour) to adhere to eco-design principles and to mirror our new look and feel.
+- Negative space is used to separate the logos. We use the width of the U in Brussels as a size guide as shown.
+- A line is used to separate the logos.
+- Our colours are clean and simple and are a visual articulation of ‘Dare to be yourself’. There is no ambiguity with our brand, we are proud and direct with our use of colour.
+- WHITE CMYK - 0,0,0,0 RGB - 255,255, 255 HEX - #ffffff BLACK CMYK - 40,40,40,100 RGB - 0, 0, 0 HEX - #000000 PANTONE - BLACK 6C WARM GREY CMYK - 3,3,5,3 RGB - 236,233, 229 HEX - #ece9e5
+- We use two editorial style typefaces, Brussels Serif and Inter Medium, as our headline fonts. These two fonts are used together to pay off the eclectic identity of the city.
+- We use a tight line spacing when using Brussels Serif in headlines. This is to add a moment of visual imperfection into our marketing materials. This should be optically adjusted so that the overlap is around 20-25% of the letterforms.
+- Pay close attention when using Brussels Serif. The letterforms need manual typesetting with at least -25 letterspacing.
+- When using the two fonts together as headlines the type sizing of each should be optically sized so they have the same x-height even though the two fonts show different type sizes (as shown).
+- Inter is a clean, highly legible and competent typeface which is perfect for body copy. It balances well against our headline fonts.
+- Our visual language uses a large graphic U shape that can be used to house imagery and represent the ethos and experiences of Brussels.
+- The U from our logo can be used as a large supergraphic device on marketing materials. Like our logo, this is used as a window to house photography, video, illustration, art and patterns.
+- The U from our logo can also be used as a supergraphic on marketing materials such as signage. This should only be used as a supporting background element and should not house imagery.
+- The U supergraphic can be rotated up to 35° in either direction: this is to ensure that it is still legible as a U shape. It can be cropped as needed to create a dynamic composition.
+- Our visual throughline is Playful, Analog, Artistic, Authentic photography.
+- To set the tone for our identity, first we focus on the people of Brussels. This mean bringing Brusselers to the forefront of our images. We capture snaps from life at home, and on the street (sometimes mid-bite). If a landmark happens to make it into the shot, it's most likely by accident, in the background.
+- Capturing Brussels is a task in allowing the eye to wander -with images that make the viewers mind wander, too. Sometimes that means only telling half, or a third of the story.
+- The Brussels collateral is based on a scalable grid system that maintains consistency throughout all brand materials, while allowing for flexibility of use.
+- Brussels collateral follows a scalable system based on 24 x 24 grid. This grid allows us to build out multiple columns as shown below. This grid can be used to determine the size and placement of visual elements.
+- Headlines always align to the grid structure on the top.
+- The graphic shape always aligns to the grid structure on the top, left and right.
+- Additional elements, calls to action, copy, logos etc. all align to the grid structure.
+
+##### Layout And Composition
+
+- The logo should never appear smaller than 0.375" wide in printed form or 150 pixels wide in digital form. The minimum size is specified to ensure brand legibility.
+- The logo has been designed with a minimum clear space to allow the brand to breathe. Leave the width of the 'U' letter around all sides of the logo, as shown.
+- Brussels collateral follows a scalable system based on 24 x 24 grid. This grid allows us to build out multiple columns as shown below. This grid can be used to determine the size and placement of visual elements.
+- While the grid itself is very controlled, placement of visual elements is very flexible to allow for a variety of applications. Please see the following pages for more details and examples of placing visual elements.
+- Headlines always align to the grid structure on the top.
+- The graphic shape always aligns to the grid structure on the top, left and right.
+- Additional elements, calls to action, copy, logos etc. all align to the grid structure.
+
+##### Partner Lockups
+
+- Brussels partners with a number of organizations. When co-branding with Brussels, partner brands will follow these guidelines, regardless of brand dominance. These guidelines should be used in addition to all requirements for using the Brussels logo.
+- Whenever there is a partner, the Brussels logo always leads partner branding lockups.
+- The second logo is base aligned with the Brussels logo and optically scaled to match the size of the Brussels logo.
+- Negative space is used to separate the logos. We use the width of the U in Brussels as a size guide as shown.
+- A line is used to separate the logos.
+- Co-branded logos are always in black and white (no colour) to adhere to eco-design principles and to mirror our new look and feel.
+- The Brussels logo always leads partner branding lockups.
+- The second logo is width aligned with the Brussels logo.
+- Negative space is used to seperate the logos. We use the width of the U in Brussels as a size guide as shown.
+- A line is used to seperate the logos.
+- Co-branded logos are always in black and white to adhere to eco-design principles and to mirror our new look and feel.
+- When an OIP is central to promote its support services, or when communicating on behalf of the Brussels Capital Region as an institution, co-branding is necessary, with the different respective brands - but with the graphic system of the brand of City-Marketing Brussels.
+
+##### Animation Guidelines
+
+- Our U animation can be used on digital marketing materials to house photography, illustration, art and patterns. By having the U as a 3D shape, the animation adds a surprising dimension to the identity.
+- While the rest of the word 'Brussels' remains static, the U provides space for photography, illustration, art and patterns. Each asset is shown in the U for two seconds.
+- The animation can further add surprise by incorporating the word Brussels into the animation. The image of the U will appear first followed by BSL, followed the rest of the word.
+- For more dynamic marketing materiais, the Brussels logo can be utilised to fill an entire screen with a zoom and pull back set to a loop.
+- When we stack the logo as seen below we avoid perfectly aligning the logos vertically and do not use the sarne image in each U graphic.
+- For marketing use on digital sites and for more editorial purposes, the banner animation will follow the same rules as the text reveal animation.
+- The animation can be used on marketing materials to house videos and images. The poster allows for both a light and dark mode and will flip between colours at the same time the material inside the U changes.
+- The poster permits for a more editorial positioning allowing text in Brussels Serif and Inter Medium both above and below the U.
+
+##### Application Examples
+
+- The powerpoint template has been designed to follow the Brussels brand look and feel. Please use the template provided and do not stray from the assigned typfaces and layouts.
+- This brief manifesto film embodies the Brussels brand narrative, placing people at the heart of its message to emphasize Brussels' non-conformist and authentic personality.
+- Our U animation can be used on digital marketing materials to house photography, illustration, art and patterns. By having the U as a 3D shape, the animation adds a surprising dimension to the identity.
+- While the rest of the word 'Brussels' remains static, the U provides space for photography, illustration, art and patterns. Each asset is shown in the U for two seconds.
+- The animation can further add surprise by incorporating the word Brussels into the animation. The image of the U will appear first followed by BSL, followed the rest of the word.
+- For more dynamic marketing materiais, the Brussels logo can be utilised to fill an entire screen with a zoom and pull back set to a loop.
+- When we stack the logo as seen below we avoid perfectly aligning the logos vertically and do not use the sarne image in each U graphic.
+- For marketing use on digital sites and for more editorial purposes, the banner animation will follow the same rules as the text reveal animation.
+- The animation can be used on marketing materials to house videos and images. The poster allows for both a light and dark mode and will flip between colours at the same time the material inside the U changes.
+- The poster permits for a more editorial positioning allowing text in Brussels Serif and Inter Medium both above and below the U.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: "& Tokyo"
 slug: tokyo
 description: ""
-date: "2026-03-20T08:22:05.049711"
+date: "2026-04-10T09:40:33.815838"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

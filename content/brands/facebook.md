@@ -2,7 +2,7 @@
 title: Facebook
 slug: facebook
 description: ""
-date: "2026-03-20T08:22:03.181799"
+date: "2026-04-10T09:40:30.732068"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - software
-  - featured
   - app
+  - featured
+  - software
   - internet
 industries: []
 countries: []
@@ -39,228 +39,221 @@ foundation_dates:
 foundation_year_buckets:
   - 2000S
 lightings:
-  - studio
-  - soft
+  - light
+  - "light-glare"
+  - "light-on-subject"
+  - bright
   - colored
   - dark
-  - moderate
-  - bright
   - natural
-  - "light-on-subject"
-  - "light-glare"
-  - light
+  - studio
+  - moderate
+  - soft
 perspectives:
+  - "audience-perspective"
   - "bird-eye-view"
   - "centered-composition"
   - "low-angle-photo"
-  - "audience-perspective"
-  - "high-angle-photo"
-  - "point-of-view-shot"
   - "rule-of-third"
   - "panorama-view"
+  - "high-angle-photo"
+  - "point-of-view-shot"
 image_backgrounds:
-  - pattern
-  - dark
-  - wood
-  - blurred
-  - solid
-  - bright
-  - textured
-  - transparent
-  - gradient
   - light
-color_schemes:
-  - monotone
-  - "pastel-colors"
-  - "analogous-colors"
-  - "two-tone"
-  - "aquatic-colors"
+  - blurred
+  - bright
+  - gradient
+  - solid
+  - transparent
   - dark
+  - textured
+  - wood
+  - pattern
+color_schemes:
+  - light
+  - grayscale
+  - monotone
+  - "aquatic-colors"
   - bright
   - "complementary-colors"
-  - grayscale
-  - "autumnal-colors"
   - "bright-colors"
+  - dark
+  - "autumnal-colors"
   - "galaxy-colors"
-  - light
+  - "two-tone"
+  - "pastel-colors"
+  - "analogous-colors"
 photography_genres:
-  - product
-  - fashion
-  - "live-stage"
-  - interior
-  - promotional
-  - "graphic-design"
-  - event
-  - typography
-  - landscape
-  - industrial
-  - "event-photography"
-  - action
-  - branding
-  - beauty
-  - candid
-  - advertising
-  - botanical
-  - advertisement
-  - exhibition
-  - abstract
-  - sky
-  - group
-  - "text-heavy"
   - sports
   - corporate
-  - selfie
+  - event
+  - "social-media"
+  - product
+  - industrial
+  - typography
+  - abstract
+  - text
+  - action
+  - fashion
   - staged
-  - conceptual
-  - cartoon
+  - "text-heavy"
   - "still-life"
+  - promotional
+  - botanical
+  - advertising
+  - candid
+  - selfie
+  - group
+  - interior
+  - indoor
+  - advertisement
+  - "graphic-design"
   - portrait
   - illustration
-  - text
-  - indoor
-  - audience
-  - "social-media"
-concepts:
-  - photorealism
+  - landscape
   - cartoon
-  - "graphic-design"
-  - vintage
+  - exhibition
+  - audience
+  - branding
+  - conceptual
+  - beauty
+  - sky
+  - "live-stage"
+  - "event-photography"
+concepts:
   - illustration
-  - "incomplete-art"
-  - "text-heavy"
-  - typography
   - "wave-pattern"
+  - cartoon
+  - typography
+  - "incomplete-art"
+  - vintage
+  - "graphic-design"
+  - photorealism
+  - "text-heavy"
 depths:
   - "mid-shot"
+  - "bright-focal-point"
   - "fully-focused-subject"
-  - "shallow-depth-of-field"
-  - "wide-angle-shot"
   - "close-up-shot"
   - "bokeh-effect"
   - "partly-focused-subject"
-  - "bright-focal-point"
-  - "isolated-focal-point"
   - "multiple-focal-points"
+  - "isolated-focal-point"
+  - "wide-angle-shot"
+  - "shallow-depth-of-field"
 image_effects:
-  - "low-saturation"
   - "high-contrast"
-  - "neutral-density-filter"
-  - asymmetry
-  - "short-exposure"
-  - "vanishing-point"
-  - symmetrical
-  - "dark-focal-point"
-  - "high-saturation"
-  - "long-exposure"
   - "bright-focal-point"
-  - silhouette
+  - "neutral-density-filter"
+  - "long-exposure"
+  - "short-exposure"
+  - "high-saturation"
+  - "low-saturation"
   - "motion-capture"
+  - symmetrical
+  - "vanishing-point"
+  - "dark-focal-point"
+  - asymmetry
   - "motion-blur"
+  - silhouette
 dominant_colors:
-  - "dark-blue"
-  - white
-  - purple
-  - blue
   - "dark-green"
-  - gray
-  - turquoise
+  - white
   - black
+  - purple
+  - "dark-blue"
+  - turquoise
+  - gray
+  - blue
 color_tones:
   - cool
 hair_styles:
-  - red
-  - beard
-  - ponytail
-  - dyed
-  - "pulled-back"
   - curly
-  - "tied-back"
-  - braided
   - wavy
-  - neat
-  - updo
-  - varied
-  - black
-  - straight
-  - casual
-  - covered
-  - short
-  - long
   - flowing
+  - beard
+  - neat
+  - straight
+  - "tied-back"
+  - varied
+  - short
+  - casual
+  - black
+  - updo
+  - "pulled-back"
+  - braided
   - loose
+  - red
+  - dyed
+  - covered
+  - long
+  - ponytail
 facial_expressions:
-  - relaxed
   - engaged
-  - contemplative
   - content
-  - smiling
-  - neutral
-  - focused
+  - relaxed
+  - contemplative
   - joyful
+  - focused
+  - neutral
+  - smiling
 clothing_styles:
-  - costume
+  - traditional
   - athletic
   - casual
-  - beachwear
-  - protective
   - formal
-  - "form-fitting"
-  - swimwear
+  - costume
   - business
-  - traditional
+  - swimwear
   - "business-casual"
+  - protective
+  - "form-fitting"
+  - beachwear
 clothing_colors:
+  - monochrome
   - pastel
+  - neutral
   - colorful
   - muted
-  - neutral
-  - earthy
   - pink
-  - monochrome
+  - earthy
   - vibrant
 posings:
-  - holding
-  - relaxed
-  - dynamic
-  - reclined
+  - confident
   - engaged
-  - standing
-  - seated
-  - walking
-  - static
-  - running
-  - leaning
   - stretching
   - active
-  - confident
+  - seated
+  - dynamic
+  - relaxed
+  - holding
+  - leaning
+  - static
+  - reclined
+  - running
+  - walking
+  - standing
 gazes:
+  - engaged
   - forward
   - outward
-  - engaged
-  - downward
-  - upward
-  - sideways
   - away
+  - upward
+  - downward
+  - sideways
 body_sections:
-  - "lower-half"
-  - "upper-body"
-  - "close-up"
-  - "full-body"
-  - midsection
-  - "head-shot"
-  - "hand-only"
   - "full-back"
-logo_elements:
-  - icon
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - helvetica
-  - roboto
-imagery_styles:
-  - photography
+  - "head-shot"
+  - "upper-body"
+  - midsection
+  - "full-body"
+  - "lower-half"
+  - "close-up"
+  - "hand-only"
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American online social media and social networking service
 wikidata_url: "https://www.wikidata.org/wiki/Q355"
 has_twitter: true
@@ -720,67 +713,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EsInAXRXIAIA5C_?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E6_Vqv7UUAE7PNt?format=jpg&name=large"
-    studio:
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FUVvOwIXsAE8xWf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ECep6rBWwAASG4a?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EEDxuAEW4AAT4VT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EalXrDMUEAAulBb?format=png&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXom_EQUsAINBtB?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     soft:
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
@@ -853,6 +785,67 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
       - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    studio:
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FUVvOwIXsAE8xWf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ECep6rBWwAASG4a?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EEDxuAEW4AAT4VT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EalXrDMUEAAulBb?format=png&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXom_EQUsAINBtB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     colored:
       - "https://pbs.twimg.com/media/FL0gGXQWQAAA_IE?format=jpg&name=large"
@@ -3000,6 +2993,70 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FR32ExHXwAAjPqF?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
   depths:
+    isolated-focal-point:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FL0gGXQWQAAA_IE?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FUVvOwIXsAE8xWf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKsbCPqWUAYdAEt?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ek35H5tUYAArTDb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKiExZeWUAkjvAZ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOErfkoXoAQx7ec?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBnZoanUcAAE0QT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FM8lGIUWUAUiQ2n?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FLqM4CLXEAk2jMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA-AZlpVEAcasfT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZGVwM2XEAoM-5Y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDS0cfLVQAAaW49?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWDfts7UEAAsX1v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D848ttpVsAE8C6Y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjPe__bXYAA03lb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/FS6bDPvWQAEA_Mq?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ErpaK7rWMAAuxR6?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ee0SOzTUYAEzSCv?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVzK04tUcAIHQPa?format=png&name=large"
+      - "https://pbs.twimg.com/media/FR32ExHXwAAjPqF?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EERb6xjVUAAOCAa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D1Hcu0kUYAA_dga?format=png&name=large"
     close-up-shot:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
@@ -3123,70 +3180,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/D1Hcu0kUYAA_dga?format=png&name=large"
       - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    isolated-focal-point:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FL0gGXQWQAAA_IE?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FUVvOwIXsAE8xWf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKsbCPqWUAYdAEt?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ek35H5tUYAArTDb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKiExZeWUAkjvAZ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOErfkoXoAQx7ec?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBnZoanUcAAE0QT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FM8lGIUWUAUiQ2n?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FLqM4CLXEAk2jMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA-AZlpVEAcasfT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZGVwM2XEAoM-5Y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDS0cfLVQAAaW49?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWDfts7UEAAsX1v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D848ttpVsAE8C6Y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjPe__bXYAA03lb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
-      - "https://pbs.twimg.com/media/FS6bDPvWQAEA_Mq?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ErpaK7rWMAAuxR6?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ee0SOzTUYAEzSCv?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FVzK04tUcAIHQPa?format=png&name=large"
-      - "https://pbs.twimg.com/media/FR32ExHXwAAjPqF?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EERb6xjVUAAOCAa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D1Hcu0kUYAA_dga?format=png&name=large"
     fully-focused-subject:
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FR74_V2XoAENQbX?format=jpg&name=large"
@@ -3335,6 +3328,51 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eme8sOPUcAEaCbE?format=jpg&name=large"
+    wide-angle-shot:
+      - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FJfKIYAWYAc2q1S?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ECep6rBWwAASG4a?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKnOdgOX0Ao32lp?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EbYBMN-U0AEM87j?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FE-4cA0XoAUyhNZ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FCfLJX-XsAAI2uE?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGrBLAXXMAIC9Di?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FM3eY8bX0AACKex?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EEDxuAEW4AAT4VT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FS_PAt9XoAc3Rfr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FLvWjX5WQAIyIHr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Egr6XDqU8AA0gSP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Egch4xFWoAUOBr_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdEL5S0U0AEjV_H?format=png&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXHJRinXYAc9NoY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWDfts7UEAAsX1v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EsInAXRXIAIA5C_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EP4S1u4VAAMOemU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E8n0sc4VIAEXAZ-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FTekTR-WUAE2j0a?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
+      - "https://pbs.twimg.com/media/E6_Vqv7UUAE7PNt?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     mid-shot:
       - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FJfKIYAWYAc2q1S?format=jpg&name=large"
@@ -3397,51 +3435,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/E6_Vqv7UUAE7PNt?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eme8sOPUcAEaCbE?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    wide-angle-shot:
-      - "https://pbs.twimg.com/media/DlG98JTU8AAX3U-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FJfKIYAWYAc2q1S?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ECep6rBWwAASG4a?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKnOdgOX0Ao32lp?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EbYBMN-U0AEM87j?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FE-4cA0XoAUyhNZ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FCfLJX-XsAAI2uE?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGrBLAXXMAIC9Di?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FM3eY8bX0AACKex?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fdw7LkXXwCQvG2h?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EEDxuAEW4AAT4VT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FS_PAt9XoAc3Rfr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FLvWjX5WQAIyIHr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Egr6XDqU8AA0gSP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Egch4xFWoAUOBr_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdEL5S0U0AEjV_H?format=png&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXHJRinXYAc9NoY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWDfts7UEAAsX1v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EsInAXRXIAIA5C_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EP4S1u4VAAMOemU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E8n0sc4VIAEXAZ-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FTekTR-WUAE2j0a?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E39cLgQVoAQc7h3?format=png&name=large"
-      - "https://pbs.twimg.com/media/E6_Vqv7UUAE7PNt?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     multiple-focal-points:
       - "https://pbs.twimg.com/media/FFtIJ_cWYAMJDUd?format=jpg&name=large"
@@ -3880,6 +3873,46 @@ visual_term_image_urls:
     vanishing-point:
       - "https://pbs.twimg.com/media/ECkfVf2XsAEw3Ci?format=jpg&name=large"
   hair_styles:
+    curly:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+    braided:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     updo:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
@@ -3921,103 +3954,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    braided:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    curly:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-    flowing:
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-    wavy:
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
     loose:
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
@@ -4068,6 +4004,63 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+    wavy:
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
+    flowing:
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
     long:
       - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
@@ -4084,31 +4077,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
     black:
       - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-    tied-back:
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     casual:
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
@@ -4161,6 +4129,31 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    tied-back:
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     ponytail:
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
@@ -4197,34 +4190,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    covered:
-      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjPe__bXYAA03lb?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FS6bDPvWQAEA_Mq?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXom_EQUsAINBtB?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     neat:
       - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
@@ -4269,6 +4234,34 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    covered:
+      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjPe__bXYAA03lb?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FS6bDPvWQAEA_Mq?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXom_EQUsAINBtB?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     varied:
       - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
@@ -4284,6 +4277,9 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
     dyed:
       - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+    straight:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
     pulled-back:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
@@ -4291,83 +4287,10 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EpdVqOPUcAAlhEN?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EP4S1u4VAAMOemU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-    straight:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
     beard:
       - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
   facial_expressions:
-    content:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
-      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EalXrDMUEAAulBb?format=png&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
-      - "https://pbs.twimg.com/media/FTekTR-WUAE2j0a?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FVzK04tUcAIHQPa?format=png&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     engaged:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
@@ -4522,6 +4445,76 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    content:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
+      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EalXrDMUEAAulBb?format=png&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ev-cAE5UYAEjs8N?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FcPt6W0WIA0RXpz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/FTekTR-WUAE2j0a?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FVzK04tUcAIHQPa?format=png&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     contemplative:
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
@@ -4645,6 +4638,50 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
   clothing_styles:
+    traditional:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     athletic:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
@@ -4697,50 +4734,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    traditional:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     casual:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
@@ -4816,77 +4809,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    costume:
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EpdVqOPUcAAlhEN?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    protective:
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
-      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     form-fitting:
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
@@ -4932,6 +4854,77 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    protective:
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
+      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    costume:
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eh-KU3mUwAEmiT9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D85D0mHU8AIWs--?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EpdVqOPUcAAlhEN?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     formal:
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
@@ -4989,18 +4982,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-    beachwear:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
     swimwear:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
@@ -5014,39 +4995,19 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-  clothing_colors:
-    pastel:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+    beachwear:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
       - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+  clothing_colors:
     earthy:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
@@ -5183,41 +5144,37 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FGvEl5mVEAQYKGZ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    colorful:
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+    pastel:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
       - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     vibrant:
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
@@ -5255,6 +5212,42 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    colorful:
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
@@ -5328,47 +5321,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
   posings:
-    holding:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     seated:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
@@ -5425,6 +5377,47 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EyyW9kHVIAIfDQ4?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    holding:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     standing:
@@ -5650,61 +5643,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     static:
       - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-    reclined:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    walking:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    running:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    stretching:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     confident:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
@@ -5727,9 +5665,147 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    stretching:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    reclined:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    running:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    walking:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     engaged:
       - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
   gazes:
+    engaged:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
+      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
+      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZGVwM2XEAoM-5Y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     forward:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
@@ -5857,89 +5933,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    engaged:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-DsUDSUYAMi8ye?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
-      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmHdzpsUUAANLQT?format=png&name=large"
-      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZGVwM2XEAoM-5Y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E-8oliOVIAAhZMa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     outward:
       - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
@@ -6012,19 +6005,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    upward:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     away:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
@@ -6040,7 +6020,79 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    upward:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
   body_sections:
+    head-shot:
+      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
+      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
+      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
+      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
+      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     upper-body:
       - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EfA6AxpVoAAF5rd?format=jpg&name=large"
@@ -6174,63 +6226,45 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    head-shot:
-      - "https://pbs.twimg.com/media/E2AdchPVEAEgkca?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ew4l4VlUcAEU03v?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwDXhbCU8AA-1Ff?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ErkdxiBXMAAoX3p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwepfmlVkAAfpf5?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExvFwlsUYAI_N61?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSlg0ZdXwAYZW6G?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FjUR4V-XEAMBueo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwFT1NCVoAI5VWK?format=jpg&name=large"
+    midsection:
+      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EccPHufUMAUE0fz?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FdHIAJpWQAA35xE?format=png&name=large"
-      - "https://pbs.twimg.com/media/EDOEgtJVUAAUWIi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwnsmxKUUAIyIM-?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ewh6qWEVoAMLMrM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwUyh1hXEAUjXRe?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FEvV1YBWQAUldMm?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FKItWBPXIAI6syk?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
       - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExWn1zMUUAIHaQi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2w-dIAX4AA8U9m?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwxSSM5UcAkvXBD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Dlb2yqbWwAAXdPz?format=png&name=large"
-      - "https://pbs.twimg.com/media/Evz7wQEVoAY8AsT?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Exp_IFuVEAEMYDM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EPjD8kgWkAAwlKg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EJRZpyxVUAADT3m?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
       - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ExlBhXBVEAEEnCf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA8oXQrUYAAntRa?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FAeWUUCVQAEySnk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EjliGr4UwAAKXph?format=png&name=large"
-      - "https://pbs.twimg.com/media/E-S1GpnVIAsKrnx?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FA5D-rVUUAMl1lg?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FSgauOOXwAEuNsM?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
       - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdtQJPoU8AApN8X?format=png&name=large"
-      - "https://pbs.twimg.com/media/EWyveHuVAAEqRV1?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwYAdksXIAM-TD7?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOlNytlXoAUVJuJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EXH0iEWVAAA1dAS?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EvnNcHWVkAQQeQc?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
       - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     full-body:
@@ -6283,47 +6317,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    midsection:
-      - "https://pbs.twimg.com/media/EhMGnkCUcAEDjNk?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXAxUbtXwAACIzP?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZqg0byWAAEkCGc?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E12W5K7VkAYST4p?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FOaPOhvXIAAoKJo?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZMpjplXoAM2pbM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E1rMkm_VIAUsIDa?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E__0zy-VgAkt68_?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DtPFSTlXgAAsDBY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FRYjNArXsAAP2O9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBHXMlUXEAgAzCM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ELrUru0UEAAnBm9?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FGsNeETXsAM0SXf?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D-KxOLSXoAIs0fG?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FXGQM-yWAAE21uy?format=png&name=large"
-      - "https://pbs.twimg.com/media/EF0dxm4U0AA6wmJ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FQAv2oyXoAgsBZC?format=png&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EwsYfU3UcAEWOy1?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ET6VN09XsAADczh?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DfMzDOSW4AI0ZnI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EdeoigDUwAEQ68K?format=png&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E3DXnXlUUAU1iMl?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EVAjytVUwAARVTA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Fl0728LaUAIuWoI?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FG1Ol6wXsAEO1DM?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/ERFnFQmVUAAO_8q?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     hand-only:
       - "https://pbs.twimg.com/media/FDT7EcjWEAApPgn?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
@@ -6346,21 +6339,6 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
       - "https://pbs.twimg.com/media/EHcGvmSWkAAkV-U?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
-    lower-half:
-      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
-      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
     full-back:
       - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
       - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
@@ -6369,6 +6347,21 @@ visual_term_image_urls:
       - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Ey319x0VUAEIqpU?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/EWysObeU0AAFsHi?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/E7zeOKDVUAEV8GY?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FBNj7L8UcAIDziw?format=jpg&name=large"
+    lower-half:
+      - "https://pbs.twimg.com/media/EwPZSAHVEAQcbKA?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/Eqhoi9XVEAIiz_y?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZ1uIYQUYAA7ddr?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DmN0KESVAAEOyor?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/D2_rkhmXgAEeUTv?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/FZujZC5WIAAEWtQ?format=jpg&name=large"
+      - "https://pbs.twimg.com/media/DlWxKShW0AIp3uD?format=jpg&name=large"
       - "https://pbs.twimg.com/media/FWCwLJVWQAAaCEn?format=jpg&name=large"
       - "https://pbs.twimg.com/media/D9gk5hLXkAA79yR?format=jpg&name=large"
       - "https://pbs.twimg.com/media/E38HLBfVoAMAZLQ?format=jpg&name=large"
@@ -6389,69 +6382,540 @@ visual_term_image_urls:
 
 ### UNKNOWN
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Facebook’s mission is to give people the power to build community and bring the world closer together. People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them [^1].
+
+##### Core Values
+
+- community
+- connection
+- sharing
+- expression
+
+##### Target Audience
+
+- Anyone who wants to use Facebook’s brand assets in marketing, advertising, entertainment, news, and commentary, including advertisers, partners, and content creators [^2].
+
+##### Personality Traits
+
+- approachable
+- global
+- consistent
+- trustworthy
+
+##### Visual Identity Overview
+
+- The visual identity centers on the 'f' Logo, Thumb Icon, and Find Us On Facebook Badge, with strict rules for clear space, shape, proportions, and color usage. Assets must be used as provided, without modification, and always in context with Facebook’s UI. The brand uses blue, white, grey, and black for its assets, and emphasizes minimalism, clarity, and legibility [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Brand Imagery
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Color Palette
+
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- The approved "f" Logo files are provided as a download on the Brand Resource Center. Color Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- Do not modify the lockup in any way, such as changing the design or color. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the Find Us On Facebook Badge in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t alter the logo colors or scale.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+
+##### Typography
+
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- When customizing type layers for iOS, use Helvetica font When customizing for Android, use Roboto font
+- When customizing type layers, use Helvetica font
+- Do match the fonts to the relevant device or operating system when customizing: - For iOS, use San Francisco font - For Android, use Roboto font - For Web, use Helvetica font
+
+##### Logo Usage
+
+- The primary use of the "f" Logo is to promote your organization's presence on Facebook. For example, when you say, "Find us on Facebook" and link to your Facebook Page, it's appropriate to use the "f" Logo. The "f" Logo can also refer to content from Facebook or your product's integration with Facebook. Never use the Facebook word mark.
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook.
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos.
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+
+##### Tone And Messaging
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Visual Style
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Iconography
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook..
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- The Thumb Icon is one of Facebook's identifiable marks. This icon is meant to represent the concept of "liking" something on Facebook.
+- Only use the Thumb Icon with a clear written call to action (for example: "Like us on Facebook", "Install our app on Facebook", "For use with Facebook") to reference your Facebook presence. No other icons should be used with the Thumb Icon.
+- This mark does not replace Like thumbs found in the Facebook product This is the primary and approved Thumb to use in your marketing.
+- To preserve the integrity of the Thumb Icon, always maintain a minimum clear space around the logo. This clear space insulates our Thumb Icon from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Thumb Icon. The proportions and shape of the Thumb Icon should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Do not present the Thumb Icon in a way that makes it the most distinctive or prominent feature of what you're creating. Similarly, be sure the Thumb Icon is reproduced in a legible size.
+- Do not modify the Thumb Icon in any way, such as changing the design or color.
+- Do only use the Thumb Icon with a clear, written call to action (for example: "Like us on Facebook").
+- When using the Thumb Icon online, it should link directly to your Page on Facebook.
+- Don't modify the Thumb Icon in any way, such as by changing the design, scale or color. If you can't use the correct color due to technical limitations, use black and white.
+- Don't use the Thumb Icon in Facebook Ads.
+- Don't substitute the Thumb Icon for the word "like" in text.
+- Don't animate or fabricate physical objects in the form of our Thumb Icon.
+- Don't use the Thumb Icon alongside other Facebook symbols or icons.
+- Don't use an outlined thumb with the cuff detached.
+- Don't use a solid thumb with the cuff attached.
+- Don't change the Reaction bright blue from the product color to Facebook Blue 70.
+- Don't redraw or recreate the thumb as an illustrated icon.
+- Be sure to fill the hand of the primary thumb with white when placing on any color, photographic or illustrative backgrounds.
+- Reactions are an extension of the Like Button to give people more ways to share their reaction to a post in a quick and easy way. The collection of Reactions includes Like, Love, Haha, Wow, Sad and Angry
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Reactions. Never alter the proportions and shape of the Reactions (and surrounding UI) for any reason.
+- Reactions are not emojis or individual icons, and they cannot be used in this way. It's important to show Reactions in the way they are intended to be used on Facebook-as a quick and easy way to express how you feel.
+- Video or Facebook Live Broadcast We don't provide animations of Reactions. To include Reactions in your video, show the Reactions within the Facebook UI as they appear and function in the product.
+- Facebook Live: The "floating" Reactions are only intended for use during a Facebook Live broadcast and other instances within Facebook products. Don't use the "floating" Reactions outside the context of Facebook products, whether animated or static, in your marketing
+- Use Reactions only as they appear and exactly how they function within the context of Facebook UI. Reactions cannot be used for creative purposes. Only use Reactions as a collection-do not use them as individual icons or as the most prominent feature of your marketing
+- Do use Reactions only as they appear and similar to how they function within the context of Facebook UI.
+- Do use Reactions as one collection: Like, Love, Haha, Wow, Sad, Angry. Do not use Reactions as individual icons.
+- Do use relevant messaging and as a full collection if shown outside of the Facebook UI.
+- When using Reactions within a Facebook user interface, follow the User Interface guidelines available on the Facebook Brand Resource Center.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+- Don’t break up the collection of Reactions and prioritize or feature any Reactions as individual icons.
+- Don’t animate or fabricate physical objects in the form of Reactions.
+- Don’t use alternate or customized Reactions as a replacement or an addition to the collection of Reactions.
+- Don’t use Reactions for creative purposes.
+- Do use provided templates.
+- Do always use the complete collection.
+- Don’t not show a Reactions as an incomplete set.
+- Don’t modify Reactions.
+
+##### Layout And Composition
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Facebook Brand Logo specifications and general guidelines such as color usage, placement, and format requirements (e.g., EPS, PNG formats allowed).
-- Rules for minimum size and maintaining proportions of Facebook logos. Minimum clear spaces around logos are provided to preserve clarity and consistency.
-- Misuse examples and principles of representing the Thumb Icon and other variants with restrictions and proper usage.
+##### Mission
 
-**Color Information:**
+- Facebook’s mission is to give people the power to build community and bring the world closer together. People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them [^1].
 
-- Guidelines for using brand colors such as Facebook Blue. Black and white alternatives are allowed for specific scenarios involving print-media constraints.
+##### Core Values
 
-**Typography Information:**
+- community
+- connection
+- sharing
+- expression
 
-- Font specifications for various platforms, including iOS (San Francisco), Android (Roboto), and web (Helvetica). Font rules and customization details are provided.
+##### Target Audience
 
-**Imagery Photography:**
+- Anyone who wants to use Facebook’s brand assets in marketing, advertising, entertainment, news, and commentary, including advertisers, partners, and content creators [^2].
 
-- Using Facebook UI templates and customizing within permitted guidelines. Maintaining design integrity is mandated.
+##### Personality Traits
 
-**Spacing Layout:**
+- approachable
+- global
+- consistent
+- trustworthy
 
-- Spacing rules are demonstrated using reactions in UI contexts, highlighting guidelines for cropping and margins.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on the 'f' Logo, Thumb Icon, and Find Us On Facebook Badge, with strict rules for clear space, shape, proportions, and color usage. Assets must be used as provided, without modification, and always in context with Facebook’s UI. The brand uses blue, white, grey, and black for its assets, and emphasizes minimalism, clarity, and legibility [^3].
 
-- Table of Contents comprehensively lists sections covering Welcome, General Guidelines, Do's and Don'ts, Brand Assets, User Interface Templates, FAQs.
-- FAQs detailing rules about using Facebook trademarks and logos responsibly without causing confusion.
+#### Categories
+
+##### Brand Voice
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Brand Imagery
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Color Palette
+
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- The approved "f" Logo files are provided as a download on the Brand Resource Center. Color Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- Do not modify the lockup in any way, such as changing the design or color. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the Find Us On Facebook Badge in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t alter the logo colors or scale.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+
+##### Typography
+
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- When customizing type layers for iOS, use Helvetica font When customizing for Android, use Roboto font
+- When customizing type layers, use Helvetica font
+- Do match the fonts to the relevant device or operating system when customizing: - For iOS, use San Francisco font - For Android, use Roboto font - For Web, use Helvetica font
+
+##### Logo Usage
+
+- The primary use of the "f" Logo is to promote your organization's presence on Facebook. For example, when you say, "Find us on Facebook" and link to your Facebook Page, it's appropriate to use the "f" Logo. The "f" Logo can also refer to content from Facebook or your product's integration with Facebook. Never use the Facebook word mark.
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook.
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos.
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+
+##### Tone And Messaging
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Visual Style
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Iconography
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook..
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- The Thumb Icon is one of Facebook's identifiable marks. This icon is meant to represent the concept of "liking" something on Facebook.
+- Only use the Thumb Icon with a clear written call to action (for example: "Like us on Facebook", "Install our app on Facebook", "For use with Facebook") to reference your Facebook presence. No other icons should be used with the Thumb Icon.
+- This mark does not replace Like thumbs found in the Facebook product This is the primary and approved Thumb to use in your marketing.
+- To preserve the integrity of the Thumb Icon, always maintain a minimum clear space around the logo. This clear space insulates our Thumb Icon from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Thumb Icon. The proportions and shape of the Thumb Icon should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Do not present the Thumb Icon in a way that makes it the most distinctive or prominent feature of what you're creating. Similarly, be sure the Thumb Icon is reproduced in a legible size.
+- Do not modify the Thumb Icon in any way, such as changing the design or color.
+- Do only use the Thumb Icon with a clear, written call to action (for example: "Like us on Facebook").
+- When using the Thumb Icon online, it should link directly to your Page on Facebook.
+- Don't modify the Thumb Icon in any way, such as by changing the design, scale or color. If you can't use the correct color due to technical limitations, use black and white.
+- Don't use the Thumb Icon in Facebook Ads.
+- Don't substitute the Thumb Icon for the word "like" in text.
+- Don't animate or fabricate physical objects in the form of our Thumb Icon.
+- Don't use the Thumb Icon alongside other Facebook symbols or icons.
+- Don't use an outlined thumb with the cuff detached.
+- Don't use a solid thumb with the cuff attached.
+- Don't change the Reaction bright blue from the product color to Facebook Blue 70.
+- Don't redraw or recreate the thumb as an illustrated icon.
+- Be sure to fill the hand of the primary thumb with white when placing on any color, photographic or illustrative backgrounds.
+- Reactions are an extension of the Like Button to give people more ways to share their reaction to a post in a quick and easy way. The collection of Reactions includes Like, Love, Haha, Wow, Sad and Angry
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Reactions. Never alter the proportions and shape of the Reactions (and surrounding UI) for any reason.
+- Reactions are not emojis or individual icons, and they cannot be used in this way. It's important to show Reactions in the way they are intended to be used on Facebook-as a quick and easy way to express how you feel.
+- Video or Facebook Live Broadcast We don't provide animations of Reactions. To include Reactions in your video, show the Reactions within the Facebook UI as they appear and function in the product.
+- Facebook Live: The "floating" Reactions are only intended for use during a Facebook Live broadcast and other instances within Facebook products. Don't use the "floating" Reactions outside the context of Facebook products, whether animated or static, in your marketing
+- Use Reactions only as they appear and exactly how they function within the context of Facebook UI. Reactions cannot be used for creative purposes. Only use Reactions as a collection-do not use them as individual icons or as the most prominent feature of your marketing
+- Do use Reactions only as they appear and similar to how they function within the context of Facebook UI.
+- Do use Reactions as one collection: Like, Love, Haha, Wow, Sad, Angry. Do not use Reactions as individual icons.
+- Do use relevant messaging and as a full collection if shown outside of the Facebook UI.
+- When using Reactions within a Facebook user interface, follow the User Interface guidelines available on the Facebook Brand Resource Center.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+- Don’t break up the collection of Reactions and prioritize or feature any Reactions as individual icons.
+- Don’t animate or fabricate physical objects in the form of Reactions.
+- Don’t use alternate or customized Reactions as a replacement or an addition to the collection of Reactions.
+- Don’t use Reactions for creative purposes.
+- Do use provided templates.
+- Do always use the complete collection.
+- Don’t not show a Reactions as an incomplete set.
+- Don’t modify Reactions.
+
+##### Layout And Composition
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Detailed logo-related usage guidelines, including icons, badges, and branding assets found throughout the document.
-- General do's and don'ts for brand assets usage, including maintaining proportions and avoiding changes to logo design.
-- Specific mentions of logo approvals required for certain marketed assets (e.g., commercials, TV, film).
-- Facebook logo icons (e.g., Like button, thumb icon) with specific use cases for marketing contexts.
-- Clarifications on prohibited logo applications in merchandise or custom designs (including products like hats, mugs).
+##### Mission
 
-**Color Information:**
+- Facebook’s mission is to give people the power to build community and bring the world closer together. People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them [^1].
 
-- Usage of specified colors (Hex, RGB) within branding elements and restrictions on altering chosen colors.
-- Rules about maintaining color proportions in printed media (fallback to black-and-white colors in case of medium limitations).
+##### Core Values
 
-**Typography Information:**
+- community
+- connection
+- sharing
+- expression
 
-- Guidelines for maintaining typefaces such as Helvetica, Roboto, and San Francisco for iOS, Android, and Web-based designs. Prohibits unauthorized type modifications.
+##### Target Audience
 
-**Imagery Photography:**
+- Anyone who wants to use Facebook’s brand assets in marketing, advertising, entertainment, news, and commentary, including advertisers, partners, and content creators [^2].
 
-- Photography guidelines, requiring alignment with Facebook's template and ecosystem presentations.
-- Prohibitions on modifying official branded photographs provided by Facebook.
+##### Personality Traits
 
-**Brand Voice:**
+- approachable
+- global
+- consistent
+- trustworthy
 
-- Directions for using Facebook Reaction icons in proper social messaging contexts.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on the 'f' Logo, Thumb Icon, and Find Us On Facebook Badge, with strict rules for clear space, shape, proportions, and color usage. Assets must be used as provided, without modification, and always in context with Facebook’s UI. The brand uses blue, white, grey, and black for its assets, and emphasizes minimalism, clarity, and legibility [^3].
 
-- Guidelines overview and table of contents outlining the document scope.
-- General rules about copyright protection for Facebook trademarks and assets.
+#### Categories
+
+##### Brand Voice
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Brand Imagery
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Color Palette
+
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- The approved "f" Logo files are provided as a download on the Brand Resource Center. Color Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- Do not modify the lockup in any way, such as changing the design or color. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Don’t modify the Find Us On Facebook Badge in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t alter the logo colors or scale.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+
+##### Typography
+
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- When customizing type layers for iOS, use Helvetica font When customizing for Android, use Roboto font
+- When customizing type layers, use Helvetica font
+- Do match the fonts to the relevant device or operating system when customizing: - For iOS, use San Francisco font - For Android, use Roboto font - For Web, use Helvetica font
+
+##### Logo Usage
+
+- The primary use of the "f" Logo is to promote your organization's presence on Facebook. For example, when you say, "Find us on Facebook" and link to your Facebook Page, it's appropriate to use the "f" Logo. The "f" Logo can also refer to content from Facebook or your product's integration with Facebook. Never use the Facebook word mark.
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook.
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos.
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+
+##### Tone And Messaging
+
+- Capitalize the word “Facebook,” except when it’s part of a web address.
+- Display the word “Facebook” in the same font size and style as the content surrounding it.
+- Don’t pluralize the Facebook trademark, use it as a verb or abbreviate it.
+- Don’t use Facebook logos and icons in place of words.
+- The only approved lockups can be found on the Brand Resource Center such as, Find us on “f” Logo.
+
+##### Visual Style
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+
+##### Iconography
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
+- Do include a clear call-to-action that communicates your use of Facebook (e.g. “Find us on Facebook”).
+- Do use the “f” Logo alone or alongside other social icons. It should be used at equal size to neighboring icons.
+- Do link directly to your presence on Facebook, when using the “f” Logo online, such as your website, blog or email campaigns.
+- Do use the “f” Logo to refer to your presence on Facebook, such as your Page, profile, group, or event.
+- Do use the “f” Logo to integrate your product with Facebook, such as “For use with Facebook” content that originates from Facebook.
+- Don’t modify the “f” Logo in any way, such as by changing the design, scale or color. If you can’t use the correct color due to technical limitations, use black and white.
+- Don’t animate or fabricate physical objects in the form of our “f” Logo.
+- Don’t feature Facebook prominently in your marketing creative. Your brand should be the primary communication.
+- Don’t use Facebook wordmark to represent your presence on Facebook. The wordmark is reserved for corporate use and represents Facebook, the company.
+- Do use the “f” Logo when referring to your presence on Facebook..
+- Do ensure the “f” Logo is equal in size to neighboring icons.
+- Don’t alter the logo design or colors.
+- Don’t fabricate physical objects in the form of the “f” Logo.
+- When representing your presence on Facebook, we ask that you use the "f" Logo. This logo is one of our most identifiable marks globally and is formatted to display at many sizes.
+- In particular, we require that the"f" Logo is not deconstructed and the approved mark is represented in Facebook blue or white. The approved "f" Logo files are provided as a download on the Brand Resource Center.
+- The "f" Logo may be used alone or alongside other social icons. It should be used at equal size to neighboring icons. Be sure to maintain its shape and proportions and provide adequate clear space between logos
+- The "f" Logo may be used alone or alongside other social icons to represent your presence on Facebook.
+- When displaying the "f" Logo in your app array it should be equal in size to neighboring logos. Be sure to maintain its circular shape and proportions while providing adequate clear-space between other logos.
+- Do not create any variations of the "f" Logo, only use what's available through the Brand Resource Center.
+- Use the "f" Logo in the colors provided in the asset download: blue, grey, white or black.
+- The Thumb Icon is one of Facebook's identifiable marks. This icon is meant to represent the concept of "liking" something on Facebook.
+- Only use the Thumb Icon with a clear written call to action (for example: "Like us on Facebook", "Install our app on Facebook", "For use with Facebook") to reference your Facebook presence. No other icons should be used with the Thumb Icon.
+- This mark does not replace Like thumbs found in the Facebook product This is the primary and approved Thumb to use in your marketing.
+- To preserve the integrity of the Thumb Icon, always maintain a minimum clear space around the logo. This clear space insulates our Thumb Icon from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Thumb Icon. The proportions and shape of the Thumb Icon should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Do not present the Thumb Icon in a way that makes it the most distinctive or prominent feature of what you're creating. Similarly, be sure the Thumb Icon is reproduced in a legible size.
+- Do not modify the Thumb Icon in any way, such as changing the design or color.
+- Do only use the Thumb Icon with a clear, written call to action (for example: "Like us on Facebook").
+- When using the Thumb Icon online, it should link directly to your Page on Facebook.
+- Don't modify the Thumb Icon in any way, such as by changing the design, scale or color. If you can't use the correct color due to technical limitations, use black and white.
+- Don't use the Thumb Icon in Facebook Ads.
+- Don't substitute the Thumb Icon for the word "like" in text.
+- Don't animate or fabricate physical objects in the form of our Thumb Icon.
+- Don't use the Thumb Icon alongside other Facebook symbols or icons.
+- Don't use an outlined thumb with the cuff detached.
+- Don't use a solid thumb with the cuff attached.
+- Don't change the Reaction bright blue from the product color to Facebook Blue 70.
+- Don't redraw or recreate the thumb as an illustrated icon.
+- Be sure to fill the hand of the primary thumb with white when placing on any color, photographic or illustrative backgrounds.
+- Reactions are an extension of the Like Button to give people more ways to share their reaction to a post in a quick and easy way. The collection of Reactions includes Like, Love, Haha, Wow, Sad and Angry
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the Reactions. Never alter the proportions and shape of the Reactions (and surrounding UI) for any reason.
+- Reactions are not emojis or individual icons, and they cannot be used in this way. It's important to show Reactions in the way they are intended to be used on Facebook-as a quick and easy way to express how you feel.
+- Video or Facebook Live Broadcast We don't provide animations of Reactions. To include Reactions in your video, show the Reactions within the Facebook UI as they appear and function in the product.
+- Facebook Live: The "floating" Reactions are only intended for use during a Facebook Live broadcast and other instances within Facebook products. Don't use the "floating" Reactions outside the context of Facebook products, whether animated or static, in your marketing
+- Use Reactions only as they appear and exactly how they function within the context of Facebook UI. Reactions cannot be used for creative purposes. Only use Reactions as a collection-do not use them as individual icons or as the most prominent feature of your marketing
+- Do use Reactions only as they appear and similar to how they function within the context of Facebook UI.
+- Do use Reactions as one collection: Like, Love, Haha, Wow, Sad, Angry. Do not use Reactions as individual icons.
+- Do use relevant messaging and as a full collection if shown outside of the Facebook UI.
+- When using Reactions within a Facebook user interface, follow the User Interface guidelines available on the Facebook Brand Resource Center.
+- Don’t modify or customize Reactions in any way, such as by changing the design, scale or colors.
+- Don’t break up the collection of Reactions and prioritize or feature any Reactions as individual icons.
+- Don’t animate or fabricate physical objects in the form of Reactions.
+- Don’t use alternate or customized Reactions as a replacement or an addition to the collection of Reactions.
+- Don’t use Reactions for creative purposes.
+- Do use provided templates.
+- Do always use the complete collection.
+- Don’t not show a Reactions as an incomplete set.
+- Don’t modify Reactions.
+
+##### Layout And Composition
+
+- To preserve the integrity of the "f" Logo, always maintain a minimum clear space around the logo. This clear space insulates our "f" Logo from distracting visual elements, such as other logos, copy, illustrations or photography.
+- To ensure accurate and consistent use, never alter, rotate, embellish or attempt to recreate the "f" Logo. The proportions and shape of the "f" Logo should never be altered for any reason. To resize, hold the "Shift" key in most software programs to maintain the proportions while scaling up or down. Always maintain the minimum clear space, even when proportionally scaling the logo.
+- Be sure the "f" Logo is reproduced in a legible size and that they do not appear subordinate to any neighboring logo included on the creative executions. Similarly, do not present the "f" Logo in a way that makes it the most distinctive or prominent feature of what you're creating.
+- Do not modify the logos in any way, such as changing the design or color. The correct color versions to use are the blue or reversed-out to white. If you are unable to use the correct color due to technical limitations, you may revert to black and white.
 
 ## Promotion Insights
 

@@ -2,7 +2,7 @@
 title: EIT Community
 slug: "eit-community"
 description: ""
-date: "2026-03-20T08:22:05.784699"
+date: "2026-04-10T09:40:34.767285"
 draft: false
 sectors:
   - "public-sector"
@@ -49,8 +49,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -75,30 +74,4 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Comprehensive logo guidelines, including versions, placement alongside EU logo, specifications, and do's and don'ts. Incorporates EIT parent logo hierarchy, the KIC logos, EIT Alumni logo, and EIT Awards logo specifications.
-
-**Color Information:**
-
-- Core, supporting, neutral, and accent color palettes are presented with examples and usage rules. Color codes in CMYK format provided for precise reproduction.
-
-**Typography Information:**
-
-- Primary typeface details provided, including preferred sizes for documents (A4, 210x210mm, and A5). Accessibility best practices in typography usage discussed.
-
-**Imagery Photography:**
-
-- Guidelines on images with hero styles and narrative compositions. Reflection images are described for creating visuals aligning the brand personality.
-
-**Spacing Layout:**
-
-- Clear space and layout guidelines provided for logo placement and graphical alignment as mentioned in various promotional sections.
-
-**Brand Voice:**
-
-- Descriptors of tonal qualities defining the brand approach as innovative, sustainable, forward-looking, and inclusive. Messaging focuses on connecting emotionally with diverse audiences through relatable examples and facts.
-
-**Notes:**
-
-- Including information about social media usage, presentations, and events material, as well as opportunities for promotional material branding with logo placement.
+*Guidelines data not available*

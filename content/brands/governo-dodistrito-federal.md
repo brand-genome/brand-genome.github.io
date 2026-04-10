@@ -2,7 +2,7 @@
 title: Governo doDistrito Federal
 slug: "governo-dodistrito-federal"
 description: ""
-date: "2026-03-20T08:22:05.714475"
+date: "2026-04-10T09:40:34.665670"
 draft: false
 sectors:
   - "public-sector"
@@ -46,16 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-brand_colors:
-  - "pantone-158"
-  - "pantone-108"
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,20 +68,76 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Vertical logo version described with application conformity rules.
-- Horizontal logo version 1 detailed with application conformity rules.
-- Horizontal logo version 2 detailed with application conformity rules.
+##### Mission
 
-**Color Information:**
+- Transformar a realidade do Distrito Federal, promovendo felicidade e alegria para seus habitantes, com uma marca inspirada no ipê-amarelo, símbolo natural de Brasília, voltada à ação e iniciativa [^1].
 
-- Institutional colors specified with codes: Pantone 293C (C100 M56 Y0 K0, R0 G57 B186), Pantone 108 (C0 M0 Y100 K0, R249 G221 B22), Pantone 138C (C0 M40 Y100 K0, R250 G158 B0), Pantone 158 (C0 M70 Y10 K0, R255 G77 B0).
+##### Core Values
 
-**Typography Information:**
+- transformação
+- resistência
+- felicidade
+- alegria
+- natureza
+- ação
 
-- Institutional fonts listed as 'Helvetica Neue Medium' and 'Helvetica Neue Bold'. Uppercase, lowercase, and numeric characters shown.
+##### Target Audience
 
-**Notes:**
+- Moradores e cidadãos do Distrito Federal, especialmente aqueles que se identificam com os símbolos arquitetônicos e naturais de Brasília [^2].
 
-- No specific rules or graphical instructions for incorrect logo usage were identified in the listed sections. Further rules may be found in unexplored sections.
+##### Personality Traits
+
+- leve
+- resistente
+- voltado à felicidade
+- alegre
+- iniciativa
+
+##### Visual Identity Overview
+
+- A identidade visual é centrada em um símbolo de ipê-amarelo, representado por uma árvore estilizada composta de círculos amarelos e laranja sobre fundo azul, com aplicação de layouts modernos, cores vibrantes e tipografia Helvetica Neue, reforçando simplicidade, clareza e ação [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- A marca deve ser aplicada sempre em conformidade com o padrão e as normas contidas neste manual.
+- Relações de proporções e distâncias.
+
+##### Color Palette
+
+- C100 M56 Y0 K0 R0 G57 B186 Pantone 293C C0 M0 Y100 K0 R249 G221 B22 Pantone 108 C0 M40 Y100 K0 R250 G158 B0 Pantone 138C C0 M70 Y10 K0 R255 G77 B0 Pantone 158
+- CORES INSTITUCIONAIS
+
+##### Typography
+
+- Helvetica Neue Light
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890
+- Helvetica Neue Medium
+- Helvetica Neue Bold
+- Os nomes das secretarias (ou demais autarquias) devem ser compostos em Helvetica Neue Bold, alinhada à equerda. Medida de entreletra = -10; e medida de entrelinha = medida do corpo da letra. Distâncias e proporções, observar diagramas acima.
+
+##### Logo Usage
+
+- A marca deve ser aplicada sempre em conformidade com o padrão e as normas contidas neste manual.
+- Relações de proporções e distâncias.
+- Área de proteção gráfica.
+- Limite mínimo de redução.
+- Aplicação monocromática.
+- Distorções proibidas.
+
+##### Visual Style
+
+- A marca deve ser aplicada sempre em conformidade com o padrão e as normas contidas neste manual.
+- Relações de proporções e distâncias.
+- Limite mínimo de redução.
+- Aplicação monocromática.
+- Distorções proibidas.
+- C100 M56 Y0 K0 R0 G57 B186 Pantone 293C C0 M0 Y100 K0 R249 G221 B22 Pantone 108 C0 M40 Y100 K0 R250 G158 B0 Pantone 138C C0 M70 Y10 K0 R255 G77 B0 Pantone 158
+
+##### Layout And Composition
+
+- A marca deve ser aplicada sempre em conformidade com o padrão e as normas contidas neste manual.
+- Relações de proporções e distâncias.

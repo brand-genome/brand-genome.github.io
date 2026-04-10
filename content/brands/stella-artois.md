@@ -2,7 +2,7 @@
 title: Stella Artois
 slug: "stella-artois"
 description: ""
-date: "2026-03-20T08:22:03.973526"
+date: "2026-04-10T09:40:31.893196"
 draft: false
 sectors:
   - drink
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: trademark
 wikidata_url: "https://www.wikidata.org/wiki/Q929276"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.stellaartois.com/en_gb](https://www.stellaartois.com/en_gb)
 - [https://www.stellaartois.com](https://www.stellaartois.com)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

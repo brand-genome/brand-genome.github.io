@@ -2,11 +2,11 @@
 title: Meggitt
 slug: meggitt
 description: ""
-date: "2026-03-20T08:22:04.162440"
+date: "2026-04-10T09:40:32.480045"
 draft: false
 sectors:
-  - aerospace
   - defense
+  - aerospace
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - aeronautic
+  - engineering
 industries:
   - "aerospace-industry"
 countries:
@@ -77,6 +77,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 

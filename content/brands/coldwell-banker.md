@@ -2,15 +2,15 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-03-20T08:22:04.219411"
+date: "2026-04-10T09:40:32.624662"
 draft: false
 sectors:
   - "real-estate"
 regions:
   - usa
 years:
-  - 2020
   - 2019
+  - 2020
 languages:
   - english
 tags:
@@ -33,8 +33,8 @@ headquarters_locations:
   - madison
 subsidiaries: []
 foundation_dates:
-  - 2008
   - 1906
+  - 2008
 foundation_year_buckets:
   - 1900S
   - 2000S
@@ -55,42 +55,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - signature
-  - horizontal
-  - monogram
-  - primary
-  - icon
-brand_colors:
-  - blue
-  - gray
-  - white
-  - black
-typographies:
-  - helvetica
-  - garamond
-  - serif
-imagery_styles:
-  - flat
-  - minimal
-  - professional
-  - bold
-  - modern
-  - natural
-  - realistic
-  - photography
-  - clean
-  - lifestyle
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: US international real estate agent franchise company
 wikidata_url: "https://www.wikidata.org/wiki/Q738853"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -103,43 +77,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2020
-
-*Guidelines data not available*
-
 ### 2019
 
-**Logo Information:**
-
-- LOGO: Logo types and layouts include framed & monogram logos, logo variations, space and size parameters, rules for proper usage, and how to use the logo. Mentioned as a key section in the document (LOGO guidelines overview).
-- Information about framed and monogram logos, size and spacing rules, horizontal and vertical layouts, including icon and typography combinations. Includes DBA guidelines for both single-line and double-line arrangements.
-- Detailed spacing and usage guidelines for Horizontal Stacked Monogram DBA logos. Guidelines mention the use of the CB Star Monogram for white versions on blue backgrounds.
-
-**Color Information:**
-
-- The Coldwell Banker Blue is the signature brand color with its CMYK, RGB, HEX, and Pantone details (PMS 280 C). Other color palettes include Picket Fence White, Flat Black, Celestial Blue (PMS 279 C), Piano Black, etc., each outlined with HEX, RGB, and CMYK values.
-- Digital color palette: primary, secondary, and system-focused colors described in detail for use in UI/UX. Specific guidelines indicate most frequent use of the brand colors on screens, default white surfaces, minimal use of gray tones, and colors for interactions and accent purposes.
-
-**Typography Information:**
-
-- Typography overview: Focus on modern, clean, and professional fonts for the Coldwell Banker brand. Three key fonts mentioned: Geometos Neue (for headlines, subheads, and branding), Helvetica Neue LT Std (versatile for body text and messaging), and Adobe Garamond Pro (serif font for elegance and softer tones in specific settings).
-- Examples of use: Geometos Bold is used for strong messages or headlines; Adobe Garamond Pro Italic for conversational quotes or softer contexts. Helvetica Neue is described across multiple weights for different professional and casual tones.
-
-**Imagery Photography:**
-
-- Photography style: Images emphasize modern, airy environments with natural lighting and light blue accents while avoiding stock photography looks. Diverse, realistic characters in authentic settings are emphasized.
-- Agent-focused photography: Authentic portrayals of agents engaged in professional activities, styled with a business-ready appearance, reflecting diverse personalities and regional appropriateness.
-- Consumer-focused photography: Diverse models representing home buyers and sellers, appearing authentic in relatable settings, often as families or individuals.
-- Business photography: Realistic office or professional settings to represent Coldwell Banker offices, featuring clean compositions and attractive angles.
-- Lifestyle photography: Features natural, candid moments between friends or family, with settings designed to be inviting and relatable.
-
-**Brand Voice:**
-
-- Core values overview. Key pillars (Home, Awesomeness, Ingenuity, Excellence) define the tone of the brand messaging. Values described as fostering energy, optimism, collaboration, high standards, and innovation from the company's founding in 1906 to today.
-
-**Notes:**
-
-- September 2019 Coldwell Banker Brand Guidelines emphasize the professional, clean design aesthetic and consistent brand applications across all touchpoints. Contents overview includes Core Values, Logo, Colors, Typography, Photography, and Applications such as Advertising, Stationery, Signage, and Social Media.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -150,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Cairo](/headquarters_locations/cairo/); [Madison](/headquarters_locations/madison/) |
-| Foundation Date | [2008](/foundation_dates/2008/); [1906](/foundation_dates/1906/) |
+| Foundation Date | [1906](/foundation_dates/1906/); [2008](/foundation_dates/2008/) |
 | Freebase Id | /m/0838qg |
 | Headquarters Location | Madison, Cairo |
 | Inception | 1906-08-27, 2008 |

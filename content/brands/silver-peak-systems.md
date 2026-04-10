@@ -2,11 +2,11 @@
 title: Silver Peak Systems
 slug: "silver-peak-systems"
 description: ""
-date: "2026-03-20T08:22:04.386512"
+date: "2026-04-10T09:40:33.110284"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -52,19 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - badge
-brand_colors:
-  - silver
-typographies:
-  - slab
-  - "open-sans"
-imagery_styles:
-  - bold
-  - product
-  - natural
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American computer networking company
 wikidata_url: "https://www.wikidata.org/wiki/Q16949741"
 has_twitter: false
@@ -83,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Partner marks are provided in multiple formats such as .ai, .pdf, and .png. Examples of correct and incorrect logo usage include guidelines such as: do not alter elements, colors, or proportions, and avoid using logos on busy backgrounds.
-- Guidelines on certification badge usage clarify minimum clear space requirements for marks and badges. Clear space is defined as equal to the width of the logo bug.
-- Minimum size requirements state that partner marks should be used at a size of .9 inches or larger.
-- Incorrect logo usage examples include stretching, skewing, or obscuring the logo. Also, the use of one-color versions or adding unauthorized elements is prohibited.
-
-**Color Information:**
-
-- Details on color palettes aligned closely with primary Silver Peak branding. Recommended RGB, HEX, and Pantone color definitions should clearly match the Silver Peak primary palette.
-
-**Typography Information:**
-
-- Font families recommended include Nexa Slab and Open Sans. Nexa Slab has multiple weights such as Regular, Bold, Italic, and Heavy, while Open Sans contains Light, Regular, Semi-Bold, Bold, and Extra-Bold.
-- Type hierarchy specifies font usages, such as Nexa Slab for headers and Open Sans for body copy.
-- Specific font size recommendations include Nexa Slab capitals at 48pt for print and Open Sans regular text at 24pt for web.
-
-**Imagery Photography:**
-
-- Silver Peak imagery guidelines encourage the use of royalty-free images wherever possible. Environmental imagery should be vibrant, with cool undertones and bold lighting, while people imagery should focus on authenticity and approachable facial expressions with natural settings.
-
-**Spacing Layout:**
-
-- Spacing guidelines require clear space around logos equal to the width of the logo bug. Minimum clearance rules apply to all certified marks and badges.
-
-**Brand Voice:**
-
-- Messaging guidelines forbid possessive forms of Silver Peak and compound words involving the brand name. Analyst and award recognition language must be consistent with agreed-upon messaging.
-- Trademark usage must follow specified guidelines. Examples of trademarks include 'Silver Peak', 'Unity EdgeConnect', and 'Unity Boost'. Attribution statements should commonly appear within the footer area of pages.
-
-**Notes:**
-
-- Generic guideline summaries include messaging on branding, partner communications, co-branding certifications, product naming, and overall identity alignment.
+*Guidelines data not available*
 
 ## Additional Properties
 

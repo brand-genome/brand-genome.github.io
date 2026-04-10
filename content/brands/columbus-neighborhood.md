@@ -2,7 +2,7 @@
 title: Columbus Neighborhood
 slug: "columbus-neighborhood"
 description: ""
-date: "2026-03-20T08:22:05.043440"
+date: "2026-04-10T09:40:33.805519"
 draft: false
 sectors:
   - tourism
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,14 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - display
-imagery_styles:
-  - graphic
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,35 +70,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Information on logo design and variations used for municipal services and businesses. Analysis and perceptions mentioned.
-- Municipal logos described, referencing Columbus areas and their visual significance.
-
-**Color Information:**
-
-- Patterns and typographic palette rules applied.
-- Alternative palette to enhance color schemes.
-- Segmented palette display providing vibrancy and variety in visual designs.
-- Optional secondary color palette introduced for variety.
-- Primary and accent palette relations presented.
-- Concept-neutral tones emphasized in relation to architecture imagery.
-
-**Typography Information:**
-
-- Typography layout section emphasizing font styles and configurations.
-- Modular pattern rights and auxiliary balance discussed.
-- Typography tips and design best practices presented, covering headers and textual alignments.
-
-**Spacing Layout:**
-
-- Spacing and grid orientation layout rules covered.
-- Body text parameters adjusted, including prioritization of object placement.
-- Exhibition grid alignment justified for banners and architecture maps.
-
-**Notes:**
-
-- Intersection of logos with Columbus history and culture noted.
-- Graphic designs emphasizing vibrancy and community aesthetics.
-- Promoting balanced aesthetics and layout proportions highlighted.
-- Exploring diverse color palettes and graphic flexibility.
+*Guidelines data not available*

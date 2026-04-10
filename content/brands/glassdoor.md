@@ -2,7 +2,7 @@
 title: Glassdoor
 slug: glassdoor
 description: ""
-date: "2026-03-20T08:22:05.509679"
+date: "2026-04-10T09:40:34.389073"
 draft: false
 sectors:
   - software

@@ -2,11 +2,11 @@
 title: SpaceX
 slug: spacex
 description: ""
-date: "2026-03-20T08:22:05.552517"
+date: "2026-04-10T09:40:34.462709"
 draft: false
 sectors:
-  - satellite
   - "space-technology"
+  - satellite
   - telecom
 regions:
   - usa
@@ -29,16 +29,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "autonomous-spaceport-drone-ship"
-  - kestrel
-  - falcon
-  - "spacex-draco"
-  - superdraco
-  - starhopper
-  - octagrabber
-  - dragon
-  - merlin
   - raptor
+  - starhopper
+  - "autonomous-spaceport-drone-ship"
+  - dragon
+  - octagrabber
+  - kestrel
+  - superdraco
+  - "spacex-draco"
+  - merlin
+  - falcon
 products: []
 headquarters_locations:
   - brownsville
@@ -65,9 +65,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -90,27 +88,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The SpaceX logo requires corrections in vertical weights of letters to match the thickness of horizontals optically, balanced horizontal weights, consistent chamfering angles, improved spacing to reduce excessive gaps, and focused presentation of the 'X' as the hero of the design.
-- Specific corrections include stronger endpoints for curves, resolving visual pinches in letter forms, sharper edge chamfers for maturity, proportions in vertical/horizontal weights, adjusted terminations for consistent velocity, cleaned chamfers/joints for aesthetic refinement.
-- The updated logo improves readability from near and far, especially in its vertical treatment.
-- The updated logo design allows coexistence of both old and corrected versions during rollout, ensuring gradual implementation without issues.
-
-**Spacing Layout:**
-
-- Letter spacing has been adjusted to create exact, readable cadence and pace, ensuring balanced spacing.
-
-**Brand Voice:**
-
-- The corrected logo reflects the maturity and sophistication desired for SpaceX, enhancing the brand's visual communication.
-- Advances the branding message to new frontiers of space exploration.
-- Ensures visual quality for both digital and printed materials while preparing for corrections of subsidiary logos (e.g., Dragon and Falcon).
-
-**Notes:**
-
-- Contact to obtain vector files for corrections: Seth Taylor (Seth@Stotion.com, 801.360.8346).
-- Animation showing adjustments is available at stotion.com/spacex.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -120,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Kestrel](/products_or_materials_produced/kestrel/); [Falcon](/products_or_materials_produced/falcon/); [Spacex Draco](/products_or_materials_produced/spacex-draco/); [Superdraco](/products_or_materials_produced/superdraco/); [Starhopper](/products_or_materials_produced/starhopper/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Dragon](/products_or_materials_produced/dragon/); [Merlin](/products_or_materials_produced/merlin/); [Raptor](/products_or_materials_produced/raptor/) |
+| Product Or Material Produced | [Raptor](/products_or_materials_produced/raptor/); [Starhopper](/products_or_materials_produced/starhopper/); [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Dragon](/products_or_materials_produced/dragon/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Kestrel](/products_or_materials_produced/kestrel/); [Superdraco](/products_or_materials_produced/superdraco/); [Spacex Draco](/products_or_materials_produced/spacex-draco/); [Merlin](/products_or_materials_produced/merlin/); [Falcon](/products_or_materials_produced/falcon/) |
 | Headquarters Location | [Brownsville](/headquarters_locations/brownsville/); [Hawthorne](/headquarters_locations/hawthorne/) |
 | Foundation Date | [2002](/foundation_dates/2002/) |
 | Headquarters Location | Hawthorne, Brownsville |

@@ -2,7 +2,7 @@
 title: University of Manitoba
 slug: "university-of-manitoba"
 description: ""
-date: "2026-03-20T08:22:03.794533"
+date: "2026-04-10T09:40:31.402995"
 draft: false
 sectors:
   - education
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
-  - education
   - featured
+  - education
+  - university
 industries: []
 countries:
   - canada
@@ -63,9 +63,9 @@ imagery_styles: []
 wikidata_description: "public research university in Winnipeg, Manitoba, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q1191833"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -75,12 +75,6 @@ visual_term_image_urls: {}
 - [http://www.umanitoba.ca](http://www.umanitoba.ca)
 - [https://accessibilitymb.ca](https://accessibilitymb.ca)
 - [https://umanitoba.ca](https://umanitoba.ca)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

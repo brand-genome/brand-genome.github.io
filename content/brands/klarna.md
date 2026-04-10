@@ -2,7 +2,7 @@
 title: Klarna
 slug: klarna
 description: ""
-date: "2026-03-20T08:22:03.401938"
+date: "2026-04-10T09:40:30.984214"
 draft: false
 sectors:
   - finance
@@ -53,20 +53,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: Swedish fintech company
 wikidata_url: "https://www.wikidata.org/wiki/Q1165072"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -81,39 +77,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2019
 
-**Logo Information:**
-
-- Details regarding logo lockup, different orientations, usage rules, clear space and guidelines extracted across multiple sections.
-
-**Color Information:**
-
-- Primary and secondary brand color specifications extracted. Codes included: HEX, CMYK, PMS.
-
-**Typography Information:**
-
-- Typography details, including Klarna Headline, Text, fonts and usage noted systematically across the PDF.
-
-**Imagery Photography:**
-
-- Describes the visual interpretation and photography approaches captured.
-
-**Spacing Layout:**
-
-- Detailed layout spacing and categorizations structured in select guideline excepts.
-
-**Brand Voice:**
-
-- Full-tone rules governing expression integrity scoped here.
-
-**Notes:**
-
-- Final included PDFs do mention reaches, external resources strategies, but original PDF stays vital!!
+*Guidelines data not available*
 
 ## Additional Properties
 

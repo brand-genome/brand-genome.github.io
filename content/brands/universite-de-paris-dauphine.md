@@ -2,7 +2,7 @@
 title: "Université de Paris-Dauphine"
 slug: "universite-de-paris-dauphine"
 description: ""
-date: "2026-03-20T08:22:05.860600"
+date: "2026-04-10T09:40:34.884877"
 draft: false
 sectors:
   - university
@@ -47,19 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-brand_colors:
-  - "pantone-540"
-  - "pantone-285"
-  - white
-  - blue
-  - black
-typographies:
-  - optima
-imagery_styles:
-  - modern
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -79,22 +70,4 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- The logo is composed of two typographic elements ('DAUPHINE' and 'UNIVERSITÉ PARIS') and a stylized dolphin symbol. The typography and symbols are inseparable and must always be presented together within proportional relations.
-- Logotype versions are specified for use in color, grayscale, black, and white. Colored versions are used with Pantone or CMYK standards. Black versions are for monochrome or low-color scenarios, and reverse versions are for colored or image backgrounds.
-- For color printing, the logo uses Pantone or CMYK coloring options. Monochrome black (100%) is reserved for small-scale applications or photocopies.
-
-**Color Information:**
-
-- Pantone specified: Blue Pantone 285 C and Pantone 540 C versions. CMYK values provided for both variations.
-- Accent colors mentioned include shades with CMYK values and color names such as Iode, Vert d’Eau, Sable, Ciel.
-
-**Typography Information:**
-
-- The logotype prominently uses 'Optima' for elegance and readability. The typeface combines Roman features with modern, humanist characteristics.
-
-**Notes:**
-
-- Details about certain color models (e.g., Pantone names) and logo-specific rules are provided, emphasizing consistency and proportionality.
-- Typography, layout, and additional thematic rules hinted but partially corrupted in text.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Monsanto
 slug: monsanto
 description: ""
-date: "2026-03-20T08:22:05.747676"
+date: "2026-04-10T09:40:34.726704"
 draft: false
 sectors:
   - "consumer-goods"
@@ -30,13 +30,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - herbicide
   - fertilizer
   - seed
+  - herbicide
 products: []
 headquarters_locations:
-  - "creve-coeur"
   - "st-louis"
+  - "creve-coeur"
 subsidiaries: []
 foundation_dates:
   - 1901
@@ -59,21 +59,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - verdana
-  - garamond
-  - arial
-  - times
-  - helvetica
-imagery_styles:
-  - bold
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: "American multinational agricultural biotechnology, seed, and agrochemical company"
 wikidata_url: "https://www.wikidata.org/wiki/Q207983"
 has_twitter: false
@@ -93,33 +82,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Logo usage guidelines for Monsanto are outlined across several pages. It is implied that the logo's usage adheres to specific visual and design guidance. Color palette references include PANTONE colors such as 471C. Specific layouts like horizontal or vertical alignment may exist but are not explicitly detailed on visible pages.
-
-**Color Information:**
-
-- Detailed color specifications include PANTONE 471C, PANTONE 3435C, PANTONE 633C, PANTONE 376C, among others. Corresponding CMYK, RGB, and color usage contexts are defined in this section.
-
-**Typography Information:**
-
-- Typography specifies primary fonts: Sabon, Corporate S, and Trade Gothic Bold Condensed for branding. Additional fonts listed: Arial, Calibri, Garamond, Helvetica, Times New Roman, and Verdana, possibly for secondary use or general text presentation.
-
-**Imagery Photography:**
-
-- No explicit details about photography style, treatment, lighting, or compositional guidelines were visible in the provided text.
-
-**Spacing Layout:**
-
-- Spacing and layout guidelines are not explicitly defined within the visible text of this PDF.
-
-**Brand Voice:**
-
-- Brand foundation references sustainable agriculture as the core message. The tone appears to center around environmental responsibility and innovation in agriculture.
-
-**Notes:**
-
-- The document refers prominently to Monsanto branding and sustainability initiatives but lacks explicit key details like logo safe zones or incorrect usage examples in visible text.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -129,8 +92,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Herbicide](/products_or_materials_produced/herbicide/); [Fertilizer](/products_or_materials_produced/fertilizer/); [Seed](/products_or_materials_produced/seed/) |
-| Headquarters Location | [Creve Coeur](/headquarters_locations/creve-coeur/); [St Louis](/headquarters_locations/st-louis/) |
+| Product Or Material Produced | [Fertilizer](/products_or_materials_produced/fertilizer/); [Seed](/products_or_materials_produced/seed/); [Herbicide](/products_or_materials_produced/herbicide/) |
+| Headquarters Location | [St Louis](/headquarters_locations/st-louis/); [Creve Coeur](/headquarters_locations/creve-coeur/) |
 | Foundation Date | [1901](/foundation_dates/1901/) |
 | Founded By | John Francis Queeny |
 | Topic'S Main Category | Category:Monsanto |

@@ -2,13 +2,13 @@
 title: Bitwise Industries
 slug: "bitwise-industries"
 description: ""
-date: "2026-03-20T08:22:04.226448"
+date: "2026-04-10T09:40:32.662686"
 draft: false
 sectors:
-  - "real-estate"
+  - software
   - "coworking-flexible-office"
   - education
-  - software
+  - "real-estate"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - software
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,19 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - white
-  - black
-typographies:
-  - avenir
-imagery_styles:
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q119683616"
 has_twitter: false
@@ -80,32 +71,106 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary logos: vertical, horizontal, icon only.
-- Clear space around logos should equal the cap height of the 'I' in 'Industries'. Logos should be white on dark and black on light backgrounds.
-- Logos scale to smallest size on print or screen; at 0.5 inches wide, remove the word 'Industries' for scaling.
-- Do not stretch or manipulate logos, pair with confusing marks, or use other fonts.
+##### Mission
 
-**Color Information:**
+- Bitwise Industries creates a bridge between humans from marginalized communities and stories of systemic poverty to skills and resources necessary to access opportunities in the tech industry. By leveraging public-private partnerships, Bitwise provides paid apprenticeships to students to learn tech skills, connects them to meaningful tech opportunities, and builds vibrant buildings in underestimated cities to house their work. By upskilling disenfranchised humans, it empowers them to change their own lives—which ignites and transforms the regional economies of the cities in which Bitwise serves [^1].
 
-- Primary color palette includes HEX codes (e.g., #F3F3F3, #919191, #4B4B4B, #00ADEE, etc.). Print match available upon request.
-- Sub-brand color palettes with HEX codes for Workforce Training, Technology Consulting, Cowork, Real Estate, Portfolio Companies, and Ventures. Examples: #EE3F5E, #00ADEE, #7AABB1, #97CD9F, etc.
+##### Core Values
 
-**Typography Information:**
+- empowerment
+- inclusivity
+- economic transformation
+- community building
+- opportunity creation
 
-- Fonts include Avenir Light and Avenir Black. Usage requires consistent alignment (e.g., line of business name centered under logos or right-aligned near the wordmark).
+##### Target Audience
 
-**Spacing Layout:**
+- Humans from marginalized communities, students seeking tech skills, individuals in underestimated cities, and those affected by systemic poverty [^2].
 
-- Clear space rules require spacing equal to the cap height of the 'I' in 'Industries'.
-- Logos must scale to a minimum size of 0.5 inches wide; 'Industries' text is removed for smaller scales.
+##### Personality Traits
 
-**Brand Voice:**
+- bold
+- professional
+- modern
+- minimalistic
+- accessible
 
-- Brand boilerplate: Bitwise Industries bridges marginalized communities with resources and opportunities in tech via public-private partnerships, apprenticeships, and vibrant workspaces.
+##### Visual Identity Overview
 
-**Notes:**
+- The brand uses bold, uppercase typography with high contrast black and white color schemes, minimalistic layouts, and clear, professional logo lockups. The visual style emphasizes clarity, strength, and accessibility, with strict logo usage rules and a consistent color palette [^3].
 
-- HEX codes dominate the color specifications with print match only available upon request. Each sub-brand is color-coded uniquely.
-- Sub-brands have distinct logo lockups and color schemes tailored to different audiences.
+#### Categories
+
+##### Brand Imagery
+
+- Clearspace around the logo is equal to the cap height of the I in Industries.
+- Logo should be white on darker backgrounds and black on lighter backgrounds.
+
+##### Color Palette
+
+- Color Palette *Hex codes only, Print match up available upon request.
+- #00ADEE
+- #8DD7F7
+- #1B75BB
+- #0B4A7C
+- #202F4F
+- #F3F3F3
+- #919191
+- #4B4B4B
+- #000000
+- Logo should be white on darker backgrounds and black on lighter backgrounds.
+
+##### Typography
+
+- Don't type out Bitwise Industries in any other fonts.
+- Don't type out line of business in any other fonts.
+
+##### Logo Usage
+
+- Clearspace around the logo is equal to the cap height of the I in Industries.
+- Logo should be white on darker backgrounds and black on lighter backgrounds.
+- Our logo is designed to scale to small sizes on print and screen. When at the smallest size (0.5 inch wide) remove "Industries"
+- Don’t stretch or manipulate the logo.
+- Don’t pair the logo with marks that may be confused as logos.
+- Restricting use to only black or white affords us the highest contrast ratio, aiding accessibility.
+- Don't type out Bitwise Industries in any other fonts.
+
+##### Tone And Messaging
+
+- In marketing, a boilerplate is a short paragraph summarising a company and is used across all marketing materials. It is always the same and can be found at the bottom of press releases and reports, on the 'About Us' page of the website, and anywhere else where people may require a brief description of the company.
+- Bitwise Industries creates a bridge between humans from marginalized communities and stories of systemic poverty to skills and resources necessary to access opportunities in the tech industry. By leveraging public-private partnerships, Bitwise provides paid apprenticeships to students to learn tech skills, connects them to meaningful tech opportunities, and builds vibrant buildings in underestimated cities to house their work. By upskilling disenfranchised humans, it empowers them to change their own lives—which ignites and transforms the regional economies of the cities in which Bitwise serves.
+- Bitwise has raised more than $100M in support of this important work; expanded its model to serve five cities (Fresno, Bakersfield, Merced, Oakland, and Toledo); and built a tech apprenticeship engine that will drive national jobs/economic recovery in 2021. To learn more about Bitwise Industries, check out www.bitwiseindustries.com.
+
+##### Visual Style
+
+- Color Palette *Hex codes only, Print match up available upon request.
+- #00ADEE
+- #8DD7F7
+- #1B75BB
+- #0B4A7C
+- #202F4F
+- #F3F3F3
+- #919191
+- #4B4B4B
+- #000000
+- Clearspace around the logo is equal to the cap height of the I in Industries.
+- Logo should be white on darker backgrounds and black on lighter backgrounds.
+
+##### Layout And Composition
+
+- Clearspace around the logo is equal to the cap height of the I in Industries.
+- Logo should be white on darker backgrounds and black on lighter backgrounds.
+
+##### Brand Architecture
+
+- Sub-brands are the distinct lines of business that service the needs of unique audiences. Each line of business has a variation of logo lockups and color palettes.
+- Line of business is right-aligned under the primary Bitwise wordmark.
+- When using the Sub-brand Icon, Bitwise Industries should be mentioned in text or Primary Bitwise Industries logo should be used along with the Sub-brand Icon.
+- Line of business name should be centered with wide or stacked text.
+- Interchangeable use of icons depending on space constraints.
+- Don't stretch or manipulate the logo.
+- Don't pair the logo with marks that may be confused as logos.
+- Don't type out line of business in any other fonts.
+- Don't use line of business (ex: Technology Consulting) without the Bitwise wordmark or icon.

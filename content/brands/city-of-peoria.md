@@ -2,12 +2,12 @@
 title: City of Peoria
 slug: "city-of-peoria"
 description: ""
-date: "2026-03-20T08:22:04.246581"
+date: "2026-04-10T09:40:32.827096"
 draft: false
 sectors:
   - "public-sector"
-  - utilities
   - tourism
+  - utilities
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -73,6 +73,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

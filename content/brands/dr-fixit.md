@@ -2,7 +2,7 @@
 title: Dr. Fixit
 slug: "dr-fixit"
 description: ""
-date: "2026-03-20T08:22:04.203267"
+date: "2026-04-10T09:40:32.566344"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries: []
 countries: []
 revenue_buckets: []

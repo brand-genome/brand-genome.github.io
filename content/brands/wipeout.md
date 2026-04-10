@@ -2,7 +2,7 @@
 title: Wipeout
 slug: wipeout
 description: ""
-date: "2026-03-20T08:22:05.518188"
+date: "2026-04-10T09:40:34.405863"
 draft: false
 sectors:
   - entertainment
@@ -46,26 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - navy
-  - white
-  - blue
-  - yellow
-  - gray
-  - brown
-  - black
-typographies:
-  - univers
-imagery_styles:
-  - product
-  - dynamic
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American reality game show
 wikidata_url: "https://www.wikidata.org/wiki/Q52497"
 has_twitter: false
@@ -85,37 +69,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Clear space requirement around the licensing logo is defined as the height of the 'T' in the 'Wipeout' wordmark. The keyline is white and measures approximately 1/3 of the width of the letter 'I' in the wordmark.
-- Alternate version of the licensing logo to be used for specialty or limited-edition products. Contact information for approval provided.
-- Incorrect usage guidelines for the licensing logo explicitly prohibit squashing, stretching, skewing, rearranging, warping, using broadcast logo for licensing, and removing elements.
-- ABC logo usage guidelines define preferred placement to the left of the 'Wipeout' licensing logo, size proportionality rules, and minimum size specified.
-- Incorrect usage guidelines for the ABC logo explicitly prohibit squashing, stretching, skewing, rotation, removal of elements, recreation, and color changes.
-
-**Color Information:**
-
-- Primary color palette includes PMS 285 (Blue), PMS 187 (Red), and PMS Cool Gray 6. CMYK and RGB values provided. Blue and gray are designated for backgrounds; red is an accent.
-- Secondary color palette includes Yellow, Brown, Black, Dark Gray, White, and Navy Blue. Usage guidelines specify secondary colors for additional accents.
-
-**Typography Information:**
-
-- The proprietary font 'Pratballs' is developed specifically for 'Wipeout' branding. Pratballs Headline is designated for headlines and subheaders; Pratballs Text for body copy; Univers Lt Std Condensed for small point sizes like legal copy and page numbers.
-- Styling guidelines suggest combining Pratballs Headline typography with graphic elements to create dynamic taglines using halftone patterns and splatter graphics.
-
-**Spacing Layout:**
-
-- Clear space guidelines for both licensing and ABC logos are defined using proportional height measurements from specific letters ('T' and 'O' respectively).
-
-**Brand Voice:**
-
-- Key phrases provided include humorous captions such as 'Good night, and big balls,' 'The bigger the balls, the harder the falls,' and branding taglines for merchandise or collateral.
-
-**Notes:**
-
-- Contact information for various usage approvals is provided, including names, email addresses, phone numbers, and Endemol Worldwide office details.
-- Guidelines for pattern and background textures specify content placement rules: patterns should not have content placed on top, while simpler textures allow placement.
-- Product concepts like inflatable obstacle courses, back-to-school supplies (e.g., Big Red Balls pencil eraser), apparel, party supplies, and miscellaneous products are showcased for brand expansion ideas.
+*Guidelines data not available*
 
 ## Additional Properties
 

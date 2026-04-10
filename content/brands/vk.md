@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-03-20T08:22:05.413178"
+date: "2026-04-10T09:40:34.269637"
 draft: false
 sectors:
   - "social-media"
@@ -17,8 +17,8 @@ tags:
   - featured
   - internet
 industries:
-  - investment
   - "technology-company"
+  - investment
 countries:
   - russia
   - cyprus
@@ -36,11 +36,11 @@ total_equity_buckets:
   - "100B-500B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - odnoklassniki
   - "web-service"
   - mailru
-  - vk
   - mycom
+  - vk
+  - odnoklassniki
 products: []
 headquarters_locations:
   - moscow
@@ -66,23 +66,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - professional
-  - bold
-  - photography
-  - vibrant
+imagery_styles: []
 wikidata_description: Russian internet company
 wikidata_url: "https://www.wikidata.org/wiki/Q1885456"
 has_twitter: false
@@ -104,36 +91,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo versions include horizontal, vertical, and stacked orientations. Icon-only and wordmark configurations are present. Safe zone around the logo is specified as '2x height of the logo' based on visuals.
-- Color versions include full color, black, white, and reversed logos.
-- File formats specified for logo assets include EPS, PNG, SVG, and PDF.
-- Examples of incorrect logo usage are provided, e.g., using distorted proportions, adding shadow effects, changing colors arbitrarily.
-
-**Color Information:**
-
-- Primary brand colors specified: Pantone 660C/285U; HEX #4680C2; RGB (70, 128, 194); CMYK (74, 44, 0, 0). Accent colors include black (#000000) and white (#FFFFFF). Usage rules suggest consistent application across all branding materials.
-
-**Typography Information:**
-
-- Primary typeface specified: TT Commons. Font weights include Regular, Bold, and Light. Usage guidelines suggest TT Commons for headlines, body text, and captions for consistent branding.
-
-**Imagery Photography:**
-
-- Imagery style emphasizes bold, vibrant compositions with minimalistic settings. Mood is energizing and dynamic. Photography should avoid visual clutter and focus on high-resolution images aligned with brand colors.
-
-**Spacing Layout:**
-
-- Grid specifications include using a consistent modular grid for layouts. Margins and padding are recommended at '2x spacing' relative to logo dimensions for text and elements.
-
-**Brand Voice:**
-
-- Tone of voice described as professional, energetic, and inspirational. Messaging guidelines emphasize avoidance of overly casual expressions and suggest using concise, empowering language.
-
-**Notes:**
-
-- The guidelines strongly emphasize consistency in branding elements such as logos, typography, colors, and imagery. Cross-platform usability is highlighted for brand assets.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -143,7 +101,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Odnoklassniki](/products_or_materials_produced/odnoklassniki/); [Web Service](/products_or_materials_produced/web-service/); [Mailru](/products_or_materials_produced/mailru/); [Vk](/products_or_materials_produced/vk/); [Mycom](/products_or_materials_produced/mycom/) |
+| Product Or Material Produced | [Web Service](/products_or_materials_produced/web-service/); [Mailru](/products_or_materials_produced/mailru/); [Mycom](/products_or_materials_produced/mycom/); [Vk](/products_or_materials_produced/vk/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Described By Source | Lentapedia |

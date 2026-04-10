@@ -2,7 +2,7 @@
 title: Wonderful Indonesia
 slug: "wonderful-indonesia"
 description: ""
-date: "2026-03-20T08:22:05.748799"
+date: "2026-04-10T09:40:34.729090"
 draft: false
 sectors:
   - "public-sector"
@@ -48,13 +48,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - green
-  - purple
-  - blue
-  - gray
-  - orange
-  - pink
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -76,27 +70,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo variations discussed including color variations. Minimum logo size specified for print usage.
-- Incorrect logo use highlighted along with examples.
-
-**Color Information:**
-
-- Color palette includes codes for CMYK, RGB, and HEX values. Specific colors detailed include shades of green, purple, blue, pink, orange, and gray.
-
-**Imagery Photography:**
-
-- Brand thematic experience includes incorporating visuals based on cultural richness and thematic Indonesian aesthetics.
-
-**Spacing Layout:**
-
-- Spacing and layout mentions regarding minimum logo size in print.
-
-**Brand Voice:**
-
-- Brand proposition discusses peaceful and welcoming Indonesian values intertwined with its beauty, culture, and diversity. It also mentions the brand statement and personality attributes relevant to Indonesia.
-
-**Notes:**
-
-- Examples of branding applications on transportation such as airplane interiors and ads.
+*Guidelines data not available*

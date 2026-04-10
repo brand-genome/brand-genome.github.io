@@ -2,7 +2,7 @@
 title: Sacramento State
 slug: "sacramento-state"
 description: ""
-date: "2026-03-20T08:22:05.790813"
+date: "2026-04-10T09:40:34.777660"
 draft: false
 sectors:
   - education
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - primary
-  - horizontal
-brand_colors:
-  - green
-  - gold
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: "public university in Sacramento, California, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q1026941"
 has_twitter: false
@@ -80,38 +72,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Primary logos available in vertical and horizontal configurations, with 1-color, 2-color, and 3-color versions. Accepted colors include Sac State Green (PMS 343), Sac State Gold (PMS 4525), and Black.
-- Improper uses include adding shadows, distortion, orientation changes, combining logos with text/graphics, and using unapproved colors.
-- Nickname logos should be used casually with a clear space of 0.5X (height of 'SAC STATE') and a minimum size of 0.125 inches.
-- Formal logotype reserved for official documents such as diplomas. Clear space equals the height of 'CALIFORNIA STATE UNIVERSITY' text ('X').
-- The official seal is reserved for formal use (e.g., diplomas and certificates). Minimum size of 0.5 inches. Available in Sac State Green and Gold.
-
-**Color Information:**
-
-- Official colors include Sac State Green (PMS 343), Sac State Gold (PMS 4525), and Black. Different configurations are allowed for casual, standard, and formal voice material.
-
-**Imagery Photography:**
-
-- Approved campus images of beauty, student life, and commencement are available on the University's Flickr page.
-
-**Spacing Layout:**
-
-- Graphic elements like rivers, dotted rivers, and dot swarms must follow guidelines including proportional use, official colors, and clear space rules.
-- Patterns can combine rivers and dotted rivers but must adhere to color palette and proportion rules.
-- Design templates for posters, fliers, postcards, and brochures follow voice (casual/standard/formal) rules and layout guidance. Templates available online at www.csus.edu/brand.
-
-**Brand Voice:**
-
-- Social Media voice guidelines emphasize respectful, accurate, fun communication while prohibiting hateful or misleading content.
-- Facebook pages must actively maintain fresh content, balance hard and soft news, and develop a consistent voice to engage audiences.
-- The tagline 'Redefine the Possible' is integral to University communications, used in promotional materials and aligning with positive messaging.
-
-**Notes:**
-
-- Sub-identities like Athletics, Sport Clubs, and The WELL have dedicated identity guidelines downloadable online. Each entity aligns with the University's overall brand.
-- Mobile-design guidelines encourage mobile-aware sites using frameworks like Twitter Bootstrap with security protocols for sensitive data.
+*Guidelines data not available*
 
 ## Additional Properties
 

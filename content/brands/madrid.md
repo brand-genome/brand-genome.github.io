@@ -2,22 +2,22 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-03-20T08:22:04.196341"
+date: "2026-04-10T09:40:32.552413"
 draft: false
 sectors:
   - tourism
 regions:
   - spain
 years:
-  - 2012
   - 2016
   - 2019
+  - 2012
 languages:
   - spanish
 tags:
+  - city
   - regional
   - tourism
-  - city
 industries: []
 countries:
   - spain
@@ -51,24 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - abstract
-  - crest
-  - horizontal
-  - primary
-brand_colors:
-  - blue
-  - gray
-  - white
-  - black
-typographies:
-  - "sans-serif"
-  - display
-  - serif
-imagery_styles:
-  - bold
-  - abstract
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: capital of Spain
 wikidata_url: "https://www.wikidata.org/wiki/Q2807"
 has_twitter: false
@@ -90,67 +76,438 @@ visual_term_image_urls: {}
 
 ### 2019
 
+#### Brand Summary
+
+##### Mission
+
+- To create and consolidate a clear, attractive, and differentiated image of Madrid as a premier tourist destination, distinct from its institutional government identity, enabling the city to realistically and efficiently achieve its objectives and challenges in the tourism sector [^1].
+
+##### Core Values
+
+- clarity
+- consistency
+- differentiation
+- heritage
+- modernity
+- vibrancy
+- efficiency
+
+##### Target Audience
+
+- Potential visitors and tourists from around the world seeking a unique, vibrant, and culturally rich destination [^2].
+
+##### Personality Traits
+
+- contemporary
+- direct
+- clear
+- differentiated
+- energetic
+- vibrant
+- welcoming
+
+##### Visual Identity Overview
+
+- The visual identity is characterized by a contemporary, direct, and clear design featuring exclusive Spanish typographic elements (double exclamation), a versatile color palette combining historical and vibrant tones, and a graphic environment inspired by Madrid's urban geometry, with a focus on curved forms and the use of the Adelle and Adelle Sans typefaces [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Color Palette
+
+- La paleta de color de la Marca Destino se basa en la combinación de dos gamas de colores diferenciadas.
+- La antigua Marca Madrid se inspiraba en el cielo de la ciudad para plantear una paleta de colores vivos, saturados.
+- La Marca Destino modifica esos colores sin rechazar su inspiración y enriquece la paleta con colores compuestos, es decir, con una mayor mezcla de tintas en su composición.
+- Los colores compuestos remiten a los tonos de los maestros españoles del Siglo de Oro y a los materiales propios de la arquitectura madrileña: Azul Gaya, Verde Oliva, Rojo Velázquez, Naranja Ladrillo. Colores que resultan de la combinación compleja de los básicos y que por eso son adecuados para tratar contenidos relacionados con el patrimonio histórico y artístico de Madrid.
+- Para crear un entorno gráfico completo y contemporáneo, la otra mitad de nuestra paleta incluye colores más saturados que recuerdan a los del cine de Almodóvar, las fotos de Ouka Lele o las pinturas de Alcólea. Colores alegres y vibrantes como el Azul Cielo, el Verde Retiro, el Rojo Vida, o el Amarillo Sol. Son colores más luminosos y alegres que los anteriores, que aluden a la intensidad de la vida moderna de la capital.
+- La apuesta cromática de la nueva identidad se basa en la combinación de colores compuestos con colores saturados. El resultado es una paleta versátil, fiel reflejo de la diversidad de atractivos de Madrid y la profundidad de su historia.
+- Esta doble naturaleza, recogida en las dos columnas de la imagen, se presentará preferentemente en combinaciones tonales: los dos azules, los dos verdes, etc...
+- Sólo puntual yjustificadamente se aplicarán combinaciones atonales de dos tonos de distinta naturaleza.
+- Además de estas posibilidades de interacción cromática, la paleta se completa con otros dos tonos, Negro Pizarra y Gris Granito, que si bien aluden al patrimonio arquitectónico de la ciudad, se plantean como colores secundarios que aportan mayor flexibilidad a nuestra paleta y no se insertan en ninguna de las dos columnas principales.
+- Entre las cuatro parejas de colores primarios, los azules y los verdes son los colores de uso preferente. Los rojos, naranja y amarillo, junto con el Pizarra y el Granito, no se aplicarán principalmente a la Marca Destino, pero sí en la línea gráfica que identificará la producción editorial, publicitaria, el entorno online, etc.
+- En esta página se muestran los colores permitidos en el uso de la Marca Destino. Bajo ningún concepto debe emplearse un color que no aparezca en este Manual.
+- En las páginas posteriores se especifican los colores de las tintas Pantone, así como su conversión a CMYK, RGB y Hexadecimal.
+- El Gris Granito nunca se aplicará a la Marca Destino, pero forma parte de la paleta de color de su entorno gráfico. En está página figuran su Pantone y las correspondientes conversiones.
+- En aquellos casos en que no podamos reproducir la Marca en color por cuestiones técnicas, se optará por una de las dos opciones inferiores, en escala de grises.
+- En esta página se muestran las tintas Pantone de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que sea posible la utilización de colores directos.
+- La Marca aparece aquí en su unidad mínima, es decir, el área delimitada por el espacio mínimo envolvente que siempre se respetará para su aplicación sobre fondos de color.
+- En esta página se muestra la composición en cuatricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que no sea posible la utilización de colores directos o tintas Pantone.
+- En esta página se muestra la composición en tricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno online y audiovisual.
+- En esta página se muestran los valores hexadecimales de la Marca Destino. Estos colores se utilizarán únicamente en lenguajes de programación.
+- En los entornos gráficos que no son propios de la Marca Destino, por ejemplo, eventos con identidad visual propia, podrá utilizarse la Marca dentro de una pastilla cuadrangular, de mayor altura que la de su unidad mínima (ver pág. 22).
+- También se utilizará esta versión para acompañar al claim Madrid. Un estilo de vida.
+- Como se señalaba en la página 6, uno de los rasgos distintivos de la Marca Destino es su liberación del constreñido marco rectangular que constituía la unidad mínima de la Marca Madrid.
+- No obstante, el área de la unidad mínima, es decir el espacio mínimo envolvente de la marca, debe regir la aplicación de la misma sobre fondos de color.
+- Sólo con carácter excepcional, en casos extraordinarios en los que no pueda aplicarse sobre un fondo de color corporativo y sea necesario aplicarla sobre fondo blanco, cabrá la posibilidad de utilizar una versión en positivo de la marca.
+- Esta opción se considera prioritaria frente al uso de la "pastilla" o unidad mínima de la marca, propia de la Marca Institucional.
+- En cualquier caso, el espacio mínimo envolvente debe regir también la aplicación de la Marca Destino en éste caso excepcional.
+- En esta página se presentan algunos casos de utilización incorrecta de la Marca Destino. Los dos primeros ejemplos representan dos apicaciones en las que no se respeta el espacio mínimo envolvente. En el primero (1), éste excede los límites del fondo de color corporativo, y en el segundo un elemento gráfico invade aquél (2). Tampoco se contemplan las alteraciones de los elementos esenciales de la Marca Destino. No está permitada, por tanto, la aplicación de color a las exclamaciones (3): sobre fondos de color, tanto la palabra como los signos de exclamación deberán ir en blanco. Sólo en los casos estrictamente necesarios la Marca Destino aparecerá en positivo sobre fondo blanco, pero siempre en un único color (4). Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7). Por último, tampoco es correcta su aplicación sobre fondos fotográficos (8).
+- Sólo en el contexto de otros entornos gráficos la Marca Destino podrá aparecer en un marco de color corporativo, o "pastilla", con las dimensiones que se indican en la imagen superior. En estos casos deberá respetarse siempre un espacio libre en su perímetro. En ese espacio no podrán introducirse bajo ningún concepto otros elementos gráficos. Éste área de reserva aparece detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Typography
+
+- Adelle es la fuente tipográfica seleccionada para componer el entorno gráfico de la Marca Destino.
+- A la versatilidad que aportan sus 14 estilos, desplegados en la imagen de esta página, se suma la flexibilidad que suma su pareja, Adelle Sans, un diseño sin remates que conserva las cualidades y el enérgico carácter de Adelle, completando un tándem que se ajusta a las amplias exigencias comunicativas de un destino turístico de primer nivel.
+- Adelle Thin Adelle Thin Italic Adelle Light Adelle Light Italic Adelle Regular Adelle Italic Adelle Semibold Adelle Semibold Italic Adelle Bold Adelle Bold Italic Adelle Extrabold Adelle Extrabold Italic Adelle Heavy Adelle Heavy Italic
+- Adelle Sans Thin Adelle Sans Thin Italic Adelle Sans Light Adelle Sans Light Italic Adelle Sans Regular Adelle Sans Italic Adelle Sans Semibold Adelle Sans Semibold Italic Adelle Sans Bold Adelle Sans Bold Italic Adelle Sans Extrabold Adelle Sans Extrabold Italic Adelle Sans Heavy Adelle Sans Heavy Italic
+- Adelle Semibold Italic
+- El tamaño máximo del c/aim vendrá dado de nuevo por la altura de las mayúsculas, que nunca será superior a la mitad del alto del recuadro de la Marca Destino.
+- El c/aim se compondrá en este caso en dos líneas y el interlineado será exactamente la altura x del texto.
+- La url de la web oficial, que se compondrá siempre en Adelle Semibold Italic, en un tamaño máximo de la altura de las mayúsculas de la Marca Destino.
+- Ambos elementos, Marca y url, deberán aparecer siempre tan distanciados como sea posible, tal y como se muestra en la imagen.
+- En cualquier caso deberá respetarse el espacio mínimo envolvente.
+- Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7).
+
+##### Logo Usage
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Visual Style
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Layout And Composition
+
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Co Branding
+
+- Hablamos de co-branding cuando en el propio entorno gráfico de la Marca Destino, ésta aparece acompañada por otras marcas.
+- En estos casos no debe aplicarse el marco rectangular o "pastilla" del cuál hablábamos en las tres páginas anteriores, sino que el objetivo será que un fondo o faldón de color corporativo predomine y otorgue identidad al entorno gráfico.
+- La Marca Destino se aplicará sobre ese fondo como ha quedado detallado y aparecerá acompañada por otras marcas sin que éstas alteren sus elementos esenciales ni se sitúen sobre el mismo fondo.
+- Cuando sea necesario introducir más de tres marcas, éstas pasarán a formar parte de un segundo nivel.
+- En el caso de un material con fondo blanco, podrá aplicarse el Gris Granito como color de fondo para las marcas que acompañen a la Marca Destino, con el objetivo de destacarlas convenientemente.
+- En este caso el entorno grafico de la Marca Destino aparece aplicado a un elemento de promoci6n editorial: un diptico en co-branding con otras instituciones.
+
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- Marca Destino logo usage in positive version exclusively for application on white backgrounds when corporate color backgrounds are not feasible.
-- Incorrect usages of Marca Destino include invasion of minimum clear space, altering the colors of exclamation marks (must be white on color backgrounds), rotation, proportion distortion, changes to typography, and application on photographic backgrounds.
-- Clear space and perimeter rules for Marca Destino applied in graphical contexts. Minimum dimensions detailed.
+##### Mission
 
-**Color Information:**
+- To create and consolidate a clear, attractive, and differentiated image of Madrid as a premier tourist destination, distinct from its institutional government identity, enabling the city to realistically and efficiently achieve its objectives and challenges in the tourism sector [^1].
 
-- Granite Gray specified for background color in advertising and editorial co-branding contexts.
+##### Core Values
 
-**Typography Information:**
+- clarity
+- consistency
+- differentiation
+- heritage
+- modernity
+- vibrancy
+- efficiency
 
-- Adelle font family selected as primary typeface for Marca Destino with a range of 14 styles (Thin, Light, Regular, Semibold, Bold, Extrabold, Heavy) for both serif and sans-serif variations.
-- Adelle Semibold Italic used for campaign claims such as 'Madrid. Un estilo de vida', with proportional alignment rules provided for horizontal and vertical usage.
-- Associated elements like the official website URL composed in Adelle Semibold Italic with maximum size limits relative to the height of the logo's uppercase lettering.
+##### Target Audience
 
-**Imagery Photography:**
+- Potential visitors and tourists from around the world seeking a unique, vibrant, and culturally rich destination [^2].
 
-- Use of abstract compositions derived from semicircular shapes inspired by Madrid's urban geometry.
+##### Personality Traits
 
-**Spacing Layout:**
+- contemporary
+- direct
+- clear
+- differentiated
+- energetic
+- vibrant
+- welcoming
 
-- Minimum clear space requirements around Marca Destino elements detailed with diagrams to prevent graphical interference.
-- Vertical and horizontal alignment rules for pairing Marca Destino with claims, ensuring proportional balance.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is characterized by a contemporary, direct, and clear design featuring exclusive Spanish typographic elements (double exclamation), a versatile color palette combining historical and vibrant tones, and a graphic environment inspired by Madrid's urban geometry, with a focus on curved forms and the use of the Adelle and Adelle Sans typefaces [^3].
 
-- Tone characterized by vibrancy and modernity while preserving historical and cultural prestige, embodied by the Adelle font family.
-- Co-branding principles with emphasis on maintaining identity clarity and non-intrusion of additional brands on primary graphical spaces.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Environments such as tourist promotion, editorial co-branding, and digital applications are showcased with examples including specific color, typography, and layout guidelines.
-- Graphical elements derived from the semicircular geometry of Madrid's Puerta del Sol form the symbolic basis for layout and graphical compositions.
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Color Palette
+
+- La paleta de color de la Marca Destino se basa en la combinación de dos gamas de colores diferenciadas.
+- La antigua Marca Madrid se inspiraba en el cielo de la ciudad para plantear una paleta de colores vivos, saturados.
+- La Marca Destino modifica esos colores sin rechazar su inspiración y enriquece la paleta con colores compuestos, es decir, con una mayor mezcla de tintas en su composición.
+- Los colores compuestos remiten a los tonos de los maestros españoles del Siglo de Oro y a los materiales propios de la arquitectura madrileña: Azul Gaya, Verde Oliva, Rojo Velázquez, Naranja Ladrillo. Colores que resultan de la combinación compleja de los básicos y que por eso son adecuados para tratar contenidos relacionados con el patrimonio histórico y artístico de Madrid.
+- Para crear un entorno gráfico completo y contemporáneo, la otra mitad de nuestra paleta incluye colores más saturados que recuerdan a los del cine de Almodóvar, las fotos de Ouka Lele o las pinturas de Alcólea. Colores alegres y vibrantes como el Azul Cielo, el Verde Retiro, el Rojo Vida, o el Amarillo Sol. Son colores más luminosos y alegres que los anteriores, que aluden a la intensidad de la vida moderna de la capital.
+- La apuesta cromática de la nueva identidad se basa en la combinación de colores compuestos con colores saturados. El resultado es una paleta versátil, fiel reflejo de la diversidad de atractivos de Madrid y la profundidad de su historia.
+- Esta doble naturaleza, recogida en las dos columnas de la imagen, se presentará preferentemente en combinaciones tonales: los dos azules, los dos verdes, etc...
+- Sólo puntual yjustificadamente se aplicarán combinaciones atonales de dos tonos de distinta naturaleza.
+- Además de estas posibilidades de interacción cromática, la paleta se completa con otros dos tonos, Negro Pizarra y Gris Granito, que si bien aluden al patrimonio arquitectónico de la ciudad, se plantean como colores secundarios que aportan mayor flexibilidad a nuestra paleta y no se insertan en ninguna de las dos columnas principales.
+- Entre las cuatro parejas de colores primarios, los azules y los verdes son los colores de uso preferente. Los rojos, naranja y amarillo, junto con el Pizarra y el Granito, no se aplicarán principalmente a la Marca Destino, pero sí en la línea gráfica que identificará la producción editorial, publicitaria, el entorno online, etc.
+- En esta página se muestran los colores permitidos en el uso de la Marca Destino. Bajo ningún concepto debe emplearse un color que no aparezca en este Manual.
+- En las páginas posteriores se especifican los colores de las tintas Pantone, así como su conversión a CMYK, RGB y Hexadecimal.
+- El Gris Granito nunca se aplicará a la Marca Destino, pero forma parte de la paleta de color de su entorno gráfico. En está página figuran su Pantone y las correspondientes conversiones.
+- En aquellos casos en que no podamos reproducir la Marca en color por cuestiones técnicas, se optará por una de las dos opciones inferiores, en escala de grises.
+- En esta página se muestran las tintas Pantone de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que sea posible la utilización de colores directos.
+- La Marca aparece aquí en su unidad mínima, es decir, el área delimitada por el espacio mínimo envolvente que siempre se respetará para su aplicación sobre fondos de color.
+- En esta página se muestra la composición en cuatricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que no sea posible la utilización de colores directos o tintas Pantone.
+- En esta página se muestra la composición en tricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno online y audiovisual.
+- En esta página se muestran los valores hexadecimales de la Marca Destino. Estos colores se utilizarán únicamente en lenguajes de programación.
+- En los entornos gráficos que no son propios de la Marca Destino, por ejemplo, eventos con identidad visual propia, podrá utilizarse la Marca dentro de una pastilla cuadrangular, de mayor altura que la de su unidad mínima (ver pág. 22).
+- También se utilizará esta versión para acompañar al claim Madrid. Un estilo de vida.
+- Como se señalaba en la página 6, uno de los rasgos distintivos de la Marca Destino es su liberación del constreñido marco rectangular que constituía la unidad mínima de la Marca Madrid.
+- No obstante, el área de la unidad mínima, es decir el espacio mínimo envolvente de la marca, debe regir la aplicación de la misma sobre fondos de color.
+- Sólo con carácter excepcional, en casos extraordinarios en los que no pueda aplicarse sobre un fondo de color corporativo y sea necesario aplicarla sobre fondo blanco, cabrá la posibilidad de utilizar una versión en positivo de la marca.
+- Esta opción se considera prioritaria frente al uso de la "pastilla" o unidad mínima de la marca, propia de la Marca Institucional.
+- En cualquier caso, el espacio mínimo envolvente debe regir también la aplicación de la Marca Destino en éste caso excepcional.
+- En esta página se presentan algunos casos de utilización incorrecta de la Marca Destino. Los dos primeros ejemplos representan dos apicaciones en las que no se respeta el espacio mínimo envolvente. En el primero (1), éste excede los límites del fondo de color corporativo, y en el segundo un elemento gráfico invade aquél (2). Tampoco se contemplan las alteraciones de los elementos esenciales de la Marca Destino. No está permitada, por tanto, la aplicación de color a las exclamaciones (3): sobre fondos de color, tanto la palabra como los signos de exclamación deberán ir en blanco. Sólo en los casos estrictamente necesarios la Marca Destino aparecerá en positivo sobre fondo blanco, pero siempre en un único color (4). Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7). Por último, tampoco es correcta su aplicación sobre fondos fotográficos (8).
+- Sólo en el contexto de otros entornos gráficos la Marca Destino podrá aparecer en un marco de color corporativo, o "pastilla", con las dimensiones que se indican en la imagen superior. En estos casos deberá respetarse siempre un espacio libre en su perímetro. En ese espacio no podrán introducirse bajo ningún concepto otros elementos gráficos. Éste área de reserva aparece detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Typography
+
+- Adelle es la fuente tipográfica seleccionada para componer el entorno gráfico de la Marca Destino.
+- A la versatilidad que aportan sus 14 estilos, desplegados en la imagen de esta página, se suma la flexibilidad que suma su pareja, Adelle Sans, un diseño sin remates que conserva las cualidades y el enérgico carácter de Adelle, completando un tándem que se ajusta a las amplias exigencias comunicativas de un destino turístico de primer nivel.
+- Adelle Thin Adelle Thin Italic Adelle Light Adelle Light Italic Adelle Regular Adelle Italic Adelle Semibold Adelle Semibold Italic Adelle Bold Adelle Bold Italic Adelle Extrabold Adelle Extrabold Italic Adelle Heavy Adelle Heavy Italic
+- Adelle Sans Thin Adelle Sans Thin Italic Adelle Sans Light Adelle Sans Light Italic Adelle Sans Regular Adelle Sans Italic Adelle Sans Semibold Adelle Sans Semibold Italic Adelle Sans Bold Adelle Sans Bold Italic Adelle Sans Extrabold Adelle Sans Extrabold Italic Adelle Sans Heavy Adelle Sans Heavy Italic
+- Adelle Semibold Italic
+- El tamaño máximo del c/aim vendrá dado de nuevo por la altura de las mayúsculas, que nunca será superior a la mitad del alto del recuadro de la Marca Destino.
+- El c/aim se compondrá en este caso en dos líneas y el interlineado será exactamente la altura x del texto.
+- La url de la web oficial, que se compondrá siempre en Adelle Semibold Italic, en un tamaño máximo de la altura de las mayúsculas de la Marca Destino.
+- Ambos elementos, Marca y url, deberán aparecer siempre tan distanciados como sea posible, tal y como se muestra en la imagen.
+- En cualquier caso deberá respetarse el espacio mínimo envolvente.
+- Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7).
+
+##### Logo Usage
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Visual Style
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Layout And Composition
+
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Co Branding
+
+- Hablamos de co-branding cuando en el propio entorno gráfico de la Marca Destino, ésta aparece acompañada por otras marcas.
+- En estos casos no debe aplicarse el marco rectangular o "pastilla" del cuál hablábamos en las tres páginas anteriores, sino que el objetivo será que un fondo o faldón de color corporativo predomine y otorgue identidad al entorno gráfico.
+- La Marca Destino se aplicará sobre ese fondo como ha quedado detallado y aparecerá acompañada por otras marcas sin que éstas alteren sus elementos esenciales ni se sitúen sobre el mismo fondo.
+- Cuando sea necesario introducir más de tres marcas, éstas pasarán a formar parte de un segundo nivel.
+- En el caso de un material con fondo blanco, podrá aplicarse el Gris Granito como color de fondo para las marcas que acompañen a la Marca Destino, con el objetivo de destacarlas convenientemente.
+- En este caso el entorno grafico de la Marca Destino aparece aplicado a un elemento de promoci6n editorial: un diptico en co-branding con otras instituciones.
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The 'escudo' (crest) of Ayuntamiento de Madrid can only be used in blue, white, or black, in positive or negative contrast against backgrounds with luminance thresholds. Minimum size for print is 5mm and 20px for digital uses.
-- Institutional Logo: Minimum size is 9mm in print and 36px for digital. The logo must always maintain a 4X safe zone, where X is defined by proportions shown in the guide.
-- Incorrect uses of logos (e.g., escudo or institutional logo) include rotating, modifying in color, placing on gradients, or failing to maintain safe zones. Only use approved colors and proportions.
+##### Mission
 
-**Color Information:**
+- To create and consolidate a clear, attractive, and differentiated image of Madrid as a premier tourist destination, distinct from its institutional government identity, enabling the city to realistically and efficiently achieve its objectives and challenges in the tourism sector [^1].
 
-- Colors for escudo and logos include RGB (0, 0, 0 — black), and blue for both print and digital variations. Pantone options are available for specific uses.
-- The Ayuntamiento's brand colors must contrast appropriately with background luminance levels, adhering to positive (light backgrounds) or negative (dark backgrounds) display rules.
+##### Core Values
 
-**Typography Information:**
+- clarity
+- consistency
+- differentiation
+- heritage
+- modernity
+- vibrancy
+- efficiency
 
-- Typography rules require specific types for key elements under corporate marks, ensuring consistency across designs.
+##### Target Audience
 
-**Spacing Layout:**
+- Potential visitors and tourists from around the world seeking a unique, vibrant, and culturally rich destination [^2].
 
-- Institutional logos and seals must maintain a 4X safe zone where X is based on the logo's defined proportions.
+##### Personality Traits
 
-**Notes:**
+- contemporary
+- direct
+- clear
+- differentiated
+- energetic
+- vibrant
+- welcoming
 
-- The PDF specifies various logo formats and contextual rules for using sub-brands and symbols under different scenarios. Digital and print mediums are consistently differentiated.
+##### Visual Identity Overview
+
+- The visual identity is characterized by a contemporary, direct, and clear design featuring exclusive Spanish typographic elements (double exclamation), a versatile color palette combining historical and vibrant tones, and a graphic environment inspired by Madrid's urban geometry, with a focus on curved forms and the use of the Adelle and Adelle Sans typefaces [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Color Palette
+
+- La paleta de color de la Marca Destino se basa en la combinación de dos gamas de colores diferenciadas.
+- La antigua Marca Madrid se inspiraba en el cielo de la ciudad para plantear una paleta de colores vivos, saturados.
+- La Marca Destino modifica esos colores sin rechazar su inspiración y enriquece la paleta con colores compuestos, es decir, con una mayor mezcla de tintas en su composición.
+- Los colores compuestos remiten a los tonos de los maestros españoles del Siglo de Oro y a los materiales propios de la arquitectura madrileña: Azul Gaya, Verde Oliva, Rojo Velázquez, Naranja Ladrillo. Colores que resultan de la combinación compleja de los básicos y que por eso son adecuados para tratar contenidos relacionados con el patrimonio histórico y artístico de Madrid.
+- Para crear un entorno gráfico completo y contemporáneo, la otra mitad de nuestra paleta incluye colores más saturados que recuerdan a los del cine de Almodóvar, las fotos de Ouka Lele o las pinturas de Alcólea. Colores alegres y vibrantes como el Azul Cielo, el Verde Retiro, el Rojo Vida, o el Amarillo Sol. Son colores más luminosos y alegres que los anteriores, que aluden a la intensidad de la vida moderna de la capital.
+- La apuesta cromática de la nueva identidad se basa en la combinación de colores compuestos con colores saturados. El resultado es una paleta versátil, fiel reflejo de la diversidad de atractivos de Madrid y la profundidad de su historia.
+- Esta doble naturaleza, recogida en las dos columnas de la imagen, se presentará preferentemente en combinaciones tonales: los dos azules, los dos verdes, etc...
+- Sólo puntual yjustificadamente se aplicarán combinaciones atonales de dos tonos de distinta naturaleza.
+- Además de estas posibilidades de interacción cromática, la paleta se completa con otros dos tonos, Negro Pizarra y Gris Granito, que si bien aluden al patrimonio arquitectónico de la ciudad, se plantean como colores secundarios que aportan mayor flexibilidad a nuestra paleta y no se insertan en ninguna de las dos columnas principales.
+- Entre las cuatro parejas de colores primarios, los azules y los verdes son los colores de uso preferente. Los rojos, naranja y amarillo, junto con el Pizarra y el Granito, no se aplicarán principalmente a la Marca Destino, pero sí en la línea gráfica que identificará la producción editorial, publicitaria, el entorno online, etc.
+- En esta página se muestran los colores permitidos en el uso de la Marca Destino. Bajo ningún concepto debe emplearse un color que no aparezca en este Manual.
+- En las páginas posteriores se especifican los colores de las tintas Pantone, así como su conversión a CMYK, RGB y Hexadecimal.
+- El Gris Granito nunca se aplicará a la Marca Destino, pero forma parte de la paleta de color de su entorno gráfico. En está página figuran su Pantone y las correspondientes conversiones.
+- En aquellos casos en que no podamos reproducir la Marca en color por cuestiones técnicas, se optará por una de las dos opciones inferiores, en escala de grises.
+- En esta página se muestran las tintas Pantone de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que sea posible la utilización de colores directos.
+- La Marca aparece aquí en su unidad mínima, es decir, el área delimitada por el espacio mínimo envolvente que siempre se respetará para su aplicación sobre fondos de color.
+- En esta página se muestra la composición en cuatricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno offline siempre que no sea posible la utilización de colores directos o tintas Pantone.
+- En esta página se muestra la composición en tricromía de los colores corporativos de la Marca Destino. Estos colores se utilizarán en el entorno online y audiovisual.
+- En esta página se muestran los valores hexadecimales de la Marca Destino. Estos colores se utilizarán únicamente en lenguajes de programación.
+- En los entornos gráficos que no son propios de la Marca Destino, por ejemplo, eventos con identidad visual propia, podrá utilizarse la Marca dentro de una pastilla cuadrangular, de mayor altura que la de su unidad mínima (ver pág. 22).
+- También se utilizará esta versión para acompañar al claim Madrid. Un estilo de vida.
+- Como se señalaba en la página 6, uno de los rasgos distintivos de la Marca Destino es su liberación del constreñido marco rectangular que constituía la unidad mínima de la Marca Madrid.
+- No obstante, el área de la unidad mínima, es decir el espacio mínimo envolvente de la marca, debe regir la aplicación de la misma sobre fondos de color.
+- Sólo con carácter excepcional, en casos extraordinarios en los que no pueda aplicarse sobre un fondo de color corporativo y sea necesario aplicarla sobre fondo blanco, cabrá la posibilidad de utilizar una versión en positivo de la marca.
+- Esta opción se considera prioritaria frente al uso de la "pastilla" o unidad mínima de la marca, propia de la Marca Institucional.
+- En cualquier caso, el espacio mínimo envolvente debe regir también la aplicación de la Marca Destino en éste caso excepcional.
+- En esta página se presentan algunos casos de utilización incorrecta de la Marca Destino. Los dos primeros ejemplos representan dos apicaciones en las que no se respeta el espacio mínimo envolvente. En el primero (1), éste excede los límites del fondo de color corporativo, y en el segundo un elemento gráfico invade aquél (2). Tampoco se contemplan las alteraciones de los elementos esenciales de la Marca Destino. No está permitada, por tanto, la aplicación de color a las exclamaciones (3): sobre fondos de color, tanto la palabra como los signos de exclamación deberán ir en blanco. Sólo en los casos estrictamente necesarios la Marca Destino aparecerá en positivo sobre fondo blanco, pero siempre en un único color (4). Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7). Por último, tampoco es correcta su aplicación sobre fondos fotográficos (8).
+- Sólo en el contexto de otros entornos gráficos la Marca Destino podrá aparecer en un marco de color corporativo, o "pastilla", con las dimensiones que se indican en la imagen superior. En estos casos deberá respetarse siempre un espacio libre en su perímetro. En ese espacio no podrán introducirse bajo ningún concepto otros elementos gráficos. Éste área de reserva aparece detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Typography
+
+- Adelle es la fuente tipográfica seleccionada para componer el entorno gráfico de la Marca Destino.
+- A la versatilidad que aportan sus 14 estilos, desplegados en la imagen de esta página, se suma la flexibilidad que suma su pareja, Adelle Sans, un diseño sin remates que conserva las cualidades y el enérgico carácter de Adelle, completando un tándem que se ajusta a las amplias exigencias comunicativas de un destino turístico de primer nivel.
+- Adelle Thin Adelle Thin Italic Adelle Light Adelle Light Italic Adelle Regular Adelle Italic Adelle Semibold Adelle Semibold Italic Adelle Bold Adelle Bold Italic Adelle Extrabold Adelle Extrabold Italic Adelle Heavy Adelle Heavy Italic
+- Adelle Sans Thin Adelle Sans Thin Italic Adelle Sans Light Adelle Sans Light Italic Adelle Sans Regular Adelle Sans Italic Adelle Sans Semibold Adelle Sans Semibold Italic Adelle Sans Bold Adelle Sans Bold Italic Adelle Sans Extrabold Adelle Sans Extrabold Italic Adelle Sans Heavy Adelle Sans Heavy Italic
+- Adelle Semibold Italic
+- El tamaño máximo del c/aim vendrá dado de nuevo por la altura de las mayúsculas, que nunca será superior a la mitad del alto del recuadro de la Marca Destino.
+- El c/aim se compondrá en este caso en dos líneas y el interlineado será exactamente la altura x del texto.
+- La url de la web oficial, que se compondrá siempre en Adelle Semibold Italic, en un tamaño máximo de la altura de las mayúsculas de la Marca Destino.
+- Ambos elementos, Marca y url, deberán aparecer siempre tan distanciados como sea posible, tal y como se muestra en la imagen.
+- En cualquier caso deberá respetarse el espacio mínimo envolvente.
+- Tampoco está permitida la rotación de la Marca Destino (5), ni la alteración de sus proporciones (6) o su tipografía (7).
+
+##### Logo Usage
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Visual Style
+
+- La Marca Destino recupera el diseño inicial de la Marca Madrid para su uso exclusivo en el ámbito de la promoción turística y descarta el uso del escudo o emblema histórico de la ciudad, utilizado en el ámbito gubernamental-institucional.
+- Se trata de un diseño contemporáneo, directo, claro y diferenciador, que incluye un elemento tipográfico, la doble exclamación, exclusivo de la lengua española.
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Layout And Composition
+
+- La Marca Destino sólo deberá reproducirse a partir de los artes finales facilitados por Madrid Visitors & Convention Bureau y no podrá alterarse bajo ningún concepto.
+- La Marca Destino siempre se representará con un espacio mínimo envolvente que aparece detallado en la imagen superior.
+- La unidad mínima de la Marca Destino viene dada por ese espacio mínimo envolvente de la palabra Madrid entre exclamaciones.
+- Ese tamaño mínimo de color corporativo de fondo genera un marco rectangular, conocido como "pastilla", que se ha generalizado en el uso de la Marca Institucional.
+- Pero uno de los rasgos fundamentales de la nueva identidad es la liberación de la Marca Destino de esa "pastilla" o marco mínimo envolvente.
+- La aplicación preferente de la marca será por tanto en un fondo de color de mayor tamaño que el espacio mínimo envolvente.
+- No obstante, habrá casos, siempre fuera del entorno gráfico corporativo, en los que la Marca Destino aparecerá representada dentro de un marco o "pastilla". Las normas para la correcta aplicación en estos casos están especificadas en la página 22.
+- En aquellos casos en los que el uso de la unidad mínima de la Marca Destino sea imprescindible, ésta deberá rodearse de un área de espacio libre en el que no debe introducirse ningún otro elemento gráfico.
+- Éste área de reserva está detallada en la imagen inferior y deberá ampliarse siempre que sea posible.
+
+##### Co Branding
+
+- Hablamos de co-branding cuando en el propio entorno gráfico de la Marca Destino, ésta aparece acompañada por otras marcas.
+- En estos casos no debe aplicarse el marco rectangular o "pastilla" del cuál hablábamos en las tres páginas anteriores, sino que el objetivo será que un fondo o faldón de color corporativo predomine y otorgue identidad al entorno gráfico.
+- La Marca Destino se aplicará sobre ese fondo como ha quedado detallado y aparecerá acompañada por otras marcas sin que éstas alteren sus elementos esenciales ni se sitúen sobre el mismo fondo.
+- Cuando sea necesario introducir más de tres marcas, éstas pasarán a formar parte de un segundo nivel.
+- En el caso de un material con fondo blanco, podrá aplicarse el Gris Granito como color de fondo para las marcas que acompañen a la Marca Destino, con el objetivo de destacarlas convenientemente.
+- En este caso el entorno grafico de la Marca Destino aparece aplicado a un elemento de promoci6n editorial: un diptico en co-branding con otras instituciones.
 
 ## Additional Properties
 

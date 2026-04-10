@@ -2,7 +2,7 @@
 title: Acano
 slug: acano
 description: ""
-date: "2026-03-20T08:22:05.585112"
+date: "2026-04-10T09:40:34.524813"
 draft: false
 sectors:
   - software
@@ -47,30 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-  - badge
-brand_colors:
-  - red
-  - green
-  - purple
-  - blue
-  - gray
-  - yellow
-typographies:
-  - helvetica
-imagery_styles:
-  - product
-  - minimal
-  - graphic
-  - classic
-  - bold
-  - modern
-  - photography
-  - monochrome
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -88,38 +68,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The brand guidelines detail the visual identity including logo versions in monochrome and color variants, clear space details, wordmark, tagline, and guidelines for correct and incorrect usage.
-- Clear space and minimum size requirements for the logo have been established to maintain integrity, with explicit distances detailed from adjacent design elements.
-- Examples of incorrect logo usage and badge placement are highlighted, covering color, background contrasts, scaling distortions, and cropping limitations.
-
-**Color Information:**
-
-- Core brand colors, along with Pantone references and supplemental monochrome hues, are provided. Comprehensive codes include HEX, RGB, and CMYK configurations for each color.
-- Among the primary colors used in the color palette are PMS Yellow 116C (HEX: #ffc300), PMS Blue 285C (HEX: #178cdd), and PMS Cool Gray 10 (HEX: #444444).
-- Supplementary colors complement the main palette, such as PMS Purple C (HEX: #d643d9), PMS Warm Red C (HEX: #ff4b34), and PMS Green 2270C (HEX: #39da60).
-
-**Typography Information:**
-
-- The primary typeface is FFMark, used across all Acano branding for its modern yet classic aesthetic.
-- Helvetica Neue serves as the secondary typeface, used primarily on digital platforms for its legibility and timelessness.
-- Typographic hierarchy is established using combinations such as Extra Light with Regular, and Light with Bold, to enhance navigability and emphasize key content.
-
-**Imagery Photography:**
-
-- Photography focuses on capturing informal, collaborative moments between people, with minimal emphasis on technology. The style is authentic and cinematic.
-- Portraits for UI design are included as part of the photographic guidelines.
-- Product photography highlights clear, high-resolution images of technology in use.
-
-**Brand Voice:**
-
-- The brand voice is described as inspiring, daring, inviting, captivating, and candid, aiming to establish emotional connections and demonstrate confidence without jargon.
-- The tone of voice shifts based on the audience, emphasizing concise, empathetic communication for customer support and friendly approaches in product copy.
-- When crafting external content, the style must adhere to American English and Associated Press guidelines, using the corporate font and sentence case.
-
-**Notes:**
-
-- The dotted pattern graphic represents the exchange of ideas and forms a core graphical element that adapts to various media.
-- File formats for the brand use structured naming conventions describing type, color system, and resolution. EPS, PNG, and JPEG are primary formats.
-- Incorrect uses of brand elements include applying logos with unapproved colors, obscuring the dotted background, or overcomplicating designs.
+*Guidelines data not available*

@@ -2,12 +2,12 @@
 title: Tomra Systems
 slug: "tomra-systems"
 description: ""
-date: "2026-03-20T08:22:05.418367"
+date: "2026-04-10T09:40:34.290196"
 draft: false
 sectors:
-  - "renewable-energy"
-  - software
   - hardware
+  - software
+  - "renewable-energy"
 regions:
   - norway
 years:
@@ -55,16 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - secondary
-  - horizontal
-  - primary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: company
 wikidata_url: "https://www.wikidata.org/wiki/Q469732"
 has_twitter: false
@@ -87,51 +81,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Logo versions shown, including horizontal, vertical, and stacked versions.
-- Clear space or safe zone rules for logo usage are specified.
-- Additional clear space or safe zone rules for logo application.
-
-**Color Information:**
-
-- Color information includes HEX, Pantone, CMYK, and RGB codes.
-- Specifications for color usage with examples are provided.
-- Secondary or accent color codes provided in HEX, Pantone, CMYK, and RGB formats.
-- Additional color information provided, including guidelines for digital and print usages.
-
-**Typography Information:**
-
-- Primary typography font families and their usage roles provided, including headers and body text.
-- Additional typography specifications for headlines and supporting materials.
-- Detailed role assignments and weights for fonts in brand usage.
-- Font size specifications for various brand materials included.
-
-**Imagery Photography:**
-
-- Imagery and photography guidelines provided, including usage rules and characteristics of brand visuals.
-
-**Spacing Layout:**
-
-- Guidelines for spacing, including grid systems and alignment rules.
-- Detailed grid structure and layout principles for brand aligned materials.
-- Specifications for margin and padding in layouts across branded content.
-- Alignment principles and proportional spacing for designed materials included.
-- Spacing and grid system adherence for presentations and digital materials.
-- Detailed spacing rules for printed materials like brochures or flyers.
-- Final layout and spacing guidelines specific to support branded communication materials.
-
-**Brand Voice:**
-
-- Brand voice and tone of messaging guidelines provided, focusing on consistency and engagement.
-
-**Notes:**
-
-- General contact information for queries or gaining access to the Brand Center for resources.
-- Reinforcement of contact points for branding support, corporate branding, and solutions.
-- Quick links for brand assistance or questions are outlined.
-- Contact details for further support or collaboration mentioned.
-- The document refers the audience to access additional resources via the brand portal.
+*Guidelines data not available*
 
 ## Additional Properties
 

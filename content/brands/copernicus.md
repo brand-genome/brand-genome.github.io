@@ -2,7 +2,7 @@
 title: Copernicus
 slug: copernicus
 description: ""
-date: "2026-03-20T08:22:04.981562"
+date: "2026-04-10T09:40:33.751702"
 draft: false
 sectors:
   - "public-sector"
@@ -53,9 +53,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -79,25 +77,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Details regarding clear space, logo positioning, and Copernicus branding for Copernicus, ECMWF, and EU Commission logos.
-
-**Color Information:**
-
-- Instructions for primary branding colors and secondary blocks for text or backgrounds specific to Copernicus and ECMWF.
-
-**Typography Information:**
-
-- Typography use and roles discussed; highlights the recommended font types, sizes, and applications for C3S and CAMS.
-
-**Imagery Photography:**
-
-- Guidance on using service imagery for C3S and CAMS, such as images of Earth, sky, people, nature, clouds, and smog. Appropriate images and styling were emphasized.
-
-**Notes:**
-
-- Guidelines stress the importance of integrating Copernicus logos with service-specific icons, brand symbols, and mandatory text placements in materials such as reports and publications.
+*Guidelines data not available*
 
 ## Additional Properties
 

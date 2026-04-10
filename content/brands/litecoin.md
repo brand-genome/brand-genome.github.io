@@ -2,7 +2,7 @@
 title: Litecoin
 slug: litecoin
 description: ""
-date: "2026-03-20T08:22:05.065278"
+date: "2026-04-10T09:40:33.833595"
 draft: false
 sectors:
   - ngo
@@ -50,16 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - icon
-  - secondary
-brand_colors:
-  - silver
-  - gray
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: cryptocurrency
@@ -84,34 +76,193 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary logo introduced, details not extensively provided.
-- Stacked logo introduced, details not extensively provided.
-- Coin icon introduced in the logo system.
-- Typemark introduced and included in the logo variations.
-- Logo suite includes variations: Primary, Stacked, Coin, Full Color, Mono White.
-- Clear space and minimum size rules defined: Primary logo minimum size is 20mm (print) or 100px (digital). Small-screen rendering at 64px. Coin icon minimum size is 34px (digital), with small-screen rendering at 18px.
-- Incorrect usage rules: Avoid altering colors, distorting, rotating, adding gradients, disproportioning, adding drop shadows, or inappropriate background usages.
+##### Mission
 
-**Color Information:**
+- Litecoin is a decentralised money for the internet age, free from censorship and open to anyone. Private, secure, borderless payments for pennies anytime, anywhere. 100% controlled by you.
 
-- Primary Colors: Silver (PMS Silver C, CMYK 32 22 18 4, RGB 166 169 170, HEX #A6A9AA), Blue (PMS 7684 C, CMYK 88 68 9 0, RGB 52 93 157, HEX #345D9D).
-- Secondary Colors: Cool Gray 11C (PMS Cool Gray 11 C, CMYK 66 58 56 36, RGB 77 77 78, HEX #4D4D4E) and White/Paper.
-- Rule for blue color use: Blue can be used as a highlight color to create dynamism and establish information hierarchy. Applications include headers, icons, links, and call-to-action buttons.
+##### Core Values
 
-**Typography Information:**
+- decentralization
+- privacy
+- security
+- freedom
+- borderless payments
+- user control
 
-- Primary typeface: Barlow Semi Condensed. Weights available: Light, Regular, Medium, SemiBold. Usage roles: Medium (Headings/Subheadings), Light and Regular (Body Copy).
-- Secondary typeface for Chinese: Source Han Sans CN and Source Han Sans TW. Both are free typefaces for Simplified and Traditional Chinese.
+##### Target Audience
 
-**Spacing Layout:**
+- Individuals and merchants seeking secure, private, and borderless digital currency solutions for instant, low-cost transactions.
 
-- Clear space rule for logos: Maintain 'X' around the logo and '1/2 X' space on all sides. X is assumed based on logo height.
+##### Personality Traits
 
-**Notes:**
+- modern
+- minimalistic
+- professional
+- dynamic
+- open
+- secure
 
-- Merchant asset guidelines detail dimensions for decals (e.g., Standard: 70mm W x 84mm H; A5 leaner: 148mm W x 210mm H).
+##### Visual Identity Overview
+
+- The visual identity is minimalist and modern, featuring a clean white background, simple layouts, and a consistent use of silver, gray, and blue colors. The logo is a stylized 'L' within a circle, with a slightly italicized, sans-serif font. The brand emphasizes clarity, simplicity, and high-tech aesthetics across all assets.
+
+#### Categories
+
+##### Brand Imagery
+
+- Minimalist White Background - The image should depict a simple, minimalistic scene with a plain white background, emphasizing an empty and uncluttered space; there are no objects, figures, or additional details, creating a stark, neutral visual. The scene may include subtle shadows or light gradients to suggest depth or light source direction, but overall, the composition is characterized by its simplicity and lack of distinguishable elements.
+- As a preference the silver primary logo, or full blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- The stacked logo can be used as an option to utilise space better. As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- Clearspace The primary logo needs to be surrounded by an area of uninterrupted clear space to allow legibility and prominence in all communications. Clear space is the non-print area surrounding the logo. Wherever possible, apply more clear space than the minimum specified.
+- Minimum Size Primary logo: 20mm wide (print) 100px wide (digital) 64px wide (digital: rendering for small screen) Coin icon: 34px wide (digital) 18px wide (digital: rendering for small screen)
+- The logo should only be used as described on previous pages. These are some common incorrect usages we should try to avoid. COIN Do not use other colours 0IN Do not distort the logo Do not rotate the logo COIN • Do not add gradients • OIN Do not alter the proportions of the logo a OIN Do not add drop shadows
+- Do not use coloured logo on dark coloured backgrounds
+- Do not use coloured logo on dark images
+- Do not use mono white logo on complex or light backgrounds
+- Primary PMS Silver C PMS Cool Gray 11 C CMYK 32 22 18 4 CMYK 66 58 56 36 RGB 166 169 170 RGB 77 77 78 # A6A9AA # 4D4D4E These are the primary brand colours. The silver should primarily be used for the 'coin' icon.
+- Secondary White/paper PMS 7684 C CMYK 88 68 0 0 RGB 52 93 157 #345D9D The blue will be used as a secondary colour for the brand, and can be used for the logo. Having a single brand colour can be limiting and monotonous. The blue can be used to add highlights across applications such as posters, merchandise, social media and websites (see example of secondary colour use on page 20).
+
+##### Color Palette
+
+- Colours are super important to the Litecoin brand.
+- The following page documents Litecoin’s primary and secondary colours and breakdowns.
+- Primary PMS Silver C PMS Cool Gray 11 C CMYK 32 22 18 4 CMYK 66 58 56 36 RGB 166 169 170 RGB 77 77 78 # A6A9AA # 4D4D4E These are the primary brand colours.
+- The silver should primarily be used for the 'coin' icon.
+- Secondary White/paper PMS 7684 C CMYK 886890 RGB 52 93 157 # 345D9D
+- The blue will be used as a secondary colour for the brand, and can be used for the logo. Having a single brand colour can be limiting and monotonous.
+- The blue can be used to add highlights across applications such as posters, merchandise, social media and websites (see example of secondary colour use on page 20).
+- The blue can be used as a highlight colour to enhance dynamism and information hierarchy. It can be used for headers, icons, links and call-to-action buttons.
+
+##### Typography
+
+- Typography enhances brand recognition. To ensure all communications are consistent please use the typefaces detailed in this section.
+- Primary typeface Barlow Semi Condensed is the brand typeface.
+- Barlow Semi Condensed is the same font the logo was created from. This connection strengthens brand recognition.
+- Barlow Semi Condensed Light Barlow Semi Condensed Regular Barlow Semi Condensed Medium Barlow Semi Condensed Semibold
+- Barlow Semi Condensed can be used for both headings, subheadings and body copy.
+- The preferred weight for headings and subheadings are: • Semibold • Medium
+- The preferred weight for body copy are: • Light • Regular
+- Barlow Semi Condensed is a free typeface that can be downloaded from www.fonts.google.com
+- 这是简体中文和繁体中文翻译的推荐字体。 This is the recommended typeface for simplified Chinese and traditional Chinese translation.
+- Source Han Sans CN Light Source Han Sans CN Normal Source Han Sans CN Medium Source Han Sans CN Bold
+- Source Han Sans简体中文可用于标题，副标题和正文。标题和副标题的首选字体粗细是： • 中体 • 粗体 正文首选字体粗细是： • 西体 • 正常
+- Source Han Sans CN is a free typeface that can be downloaded from www.fonts.google.com
+- Source Han Sans TW Light Source Han Sans TW Normal Source Han Sans TW Medium Source Han Sans TW Bold
+- Source Han Sans TW is a free typeface that can be downloaded from www.fonts.google.com
+
+##### Logo Usage
+
+- The Litecoin logo is the key identifier of the brand and should be as consistent as possible.
+- This section demonstrates when to use which logo, as well as rules around how to use them.
+- As a preference the silver primary logo, or full blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- The stacked logo can be used as an option to utilise space better. As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- These are the logo variations that can be used.
+- Primary As a preference the full colour logo should be used. Where this isn't possible the mono white logo should be used.
+- Typemark As a preference the full colour typemark should be used. Where this isn't possible the mono white typemark should be used.
+- Stacked The stacked logo can be used as an option to utilise space better. As a preference the full colour logo should be used. As an alternative, the mono white logo should be used.
+- Coin As a preference the full colour coin should be used. As an alternative, the mono white coin should be used.
+- To ensure that the Litecoin brand looks as professional and consistent as possible, please follow the rules and guidelines around usage detailed in this section.
+- The primary logo needs to be surrounded by an area of uninterrupted clear space to allow legibility and prominence in all communications.
+- Clear space is the non-print area surrounding the logo.
+- Wherever possible, apply more clear space than the minimum specified.
+- Primary logo: 20mm wide (print)
+- Primary logo: 100px wide (digital)
+- Primary logo: 64px wide (digital: rendering for small screen)
+- Coin icon: 34px wide (digital)
+- Coin icon: 18px wide (digital: rendering for small screen)
+- The logo should only be used as described on previous pages. These are some common incorrect usages we should try to avoid.
+- COIN Do not use other colours
+- 0IN Do not distort the logo
+- Do not rotate the logo
+- COIN • Do not add gradients
+- • OIN Do not alter the proportions of the logo
+- a OIN Do not add drop shadows
+- Do not use coloured logo on dark coloured backgrounds
+- Do not use coloured logo on dark images
+- Do not use mono white logo on complex or light backgrounds
+- Colours are super important to the Litecoin brand.
+- The silver should primarily be used for the 'coin' icon.
+- The blue will be used as a secondary colour for the brand, and can be used for the logo.
+
+##### Visual Style
+
+- As a preference the silver primary logo, or full blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- The stacked logo can be used as an option to utilise space better. As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- Primary As a preference the full colour logo should be used. Where this isn't possible the mono white logo should be used.
+- Typemark As a preference the full colour typemark should be used. Where this isn't possible the mono white typemark should be used.
+- Stacked The stacked logo can be used as an option to utilise space better. As a preference the full colour logo should be used. As an alternative, the mono white logo should be used.
+- Coin As a preference the full colour coin should be used. As an alternative, the mono white coin should be used.
+- The primary logo needs to be surrounded by an area of uninterrupted clear space to allow legibility and prominence in all communications.
+- Clear space is the non-print area surrounding the logo.
+- Wherever possible, apply more clear space than the minimum specified.
+- Primary logo: 20mm wide (print)
+- Primary logo: 100px wide (digital)
+- Primary logo: 64px wide (digital: rendering for small screen)
+- Coin icon: 34px wide (digital)
+- Coin icon: 18px wide (digital: rendering for small screen)
+- The logo should only be used as described on previous pages. These are some common incorrect usages we should try to avoid.
+- COIN Do not use other colours
+- Do not distort the logo
+- Do not rotate the logo
+- COIN • Do not add gradients
+- Do not alter the proportions of the logo
+- Do not add drop shadows
+- Do not use coloured logo on dark coloured backgrounds
+- Do not use coloured logo on dark images
+- Do not use mono white logo on complex or light backgrounds
+- Colours are super important to the Litecoin brand.
+- The following page documents Litecoin’s primary and secondary colours and breakdowns.
+- These are the primary brand colours.
+- The silver should primarily be used for the 'coin' icon.
+- The blue will be used as a secondary colour for the brand, and can be used for the logo. Having a single brand colour can be limiting and monotonous.
+- The blue can be used to add highlights across applications such as posters, merchandise, social media and websites (see example of secondary colour use on page 20).
+- The blue can be used as a highlight colour to enhance dynamism and information hierarchy. It can be used for headers, icons, links and call-to-action buttons.
+
+##### Iconography
+
+- As a preference the silver primary logo, or full blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- The stacked logo can be used as an option to utilise space better. As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- As a preference the full colour coin should be used. As an alternative, the mono white coin should be used.
+- The primary logo needs to be surrounded by an area of uninterrupted clear space to allow legibility and prominence in all communications.
+- Clear space is the non-print area surrounding the logo.
+- Wherever possible, apply more clear space than the minimum specified.
+- Primary logo: 20mm wide (print)
+- Primary logo: 100px wide (digital)
+- Primary logo: 64px wide (digital: rendering for small screen)
+- Coin icon: 34px wide (digital)
+- Coin icon: 18px wide (digital: rendering for small screen)
+- COIN Do not use other colours
+- COIN • Do not add gradients
+- Do not distort the logo
+- Do not rotate the logo
+- Do not alter the proportions of the logo
+- Do not add drop shadows
+- Do not use coloured logo on dark coloured backgrounds
+- Do not use coloured logo on dark images
+- Do not use mono white logo on complex or light backgrounds
+- The silver should primarily be used for the 'coin' icon.
+- The blue will be used as a secondary colour for the brand, and can be used for the logo.
+
+##### Layout And Composition
+
+- The stacked logo can be used as an option to utilise space better. As a preference the silver primary logo, or blue logo should be used. Where this isn't possible, or on dark backgrounds the mono white logo should be used.
+- Clearspace The primary logo needs to be surrounded by an area of uninterrupted clear space to allow legibility and prominence in all communications. Clear space is the non-print area surrounding the logo. Wherever possible, apply more clear space than the minimum specified.
+- Minimum Size Primary logo: 20mm wide (print) 100px wide (digital) 64px wide (digital: rendering for small screen) Coin icon: 34px wide (digital) 18px wide (digital: rendering for small screen)
+- The logo should only be used as described on previous pages. These are some common incorrect usages we should try to avoid.
+- COIN Do not use other colours
+- 0IN Do not distort the logo
+- Do not rotate the logo
+- COIN • Do not add gradients
+- • OIN Do not alter the proportions of the logo
+- a OIN Do not add drop shadows
+- Do not use coloured logo on dark coloured backgrounds
+- Do not use coloured logo on dark images
+- Do not use mono white logo on complex or light backgrounds
 
 ## Additional Properties
 

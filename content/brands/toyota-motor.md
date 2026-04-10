@@ -2,7 +2,7 @@
 title: Toyota Motor
 slug: "toyota-motor"
 description: ""
-date: "2026-03-20T08:22:04.013362"
+date: "2026-04-10T09:40:31.988596"
 draft: false
 sectors:
   - automobile
@@ -34,15 +34,15 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - car
   - "light-commercial-vehicle"
+  - car
 products: []
 headquarters_locations:
   - toyota
 subsidiaries: []
 foundation_dates:
-  - 1938
   - 1937
+  - 1938
 foundation_year_buckets:
   - 1930S
 lightings: []
@@ -69,9 +69,9 @@ imagery_styles: []
 wikidata_description: Japanese multinational automotive manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q53268"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -219,12 +219,6 @@ visual_term_image_urls: {}
 - [https://toyotalebanon.com](https://toyotalebanon.com)
 - [https://toyotairan.com](https://toyotairan.com)
 
-## Brand Guidelines
-
-### 2005
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -233,9 +227,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/) |
+| Product Or Material Produced | [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Toyota](/headquarters_locations/toyota/) |
-| Foundation Date | [1938](/foundation_dates/1938/); [1937](/foundation_dates/1937/) |
+| Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
 | Chief Executive Officer | Kōji Satō (from 2023), Katsuaki Watanabe (from 2005, until 2009), Akio Toyoda (from 2009, until 2023) |
 | Founded By | Kiichirō Toyoda |
 | Headquarters Location | Toyota |

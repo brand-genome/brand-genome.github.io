@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-03-20T08:22:04.390697"
+date: "2026-04-10T09:40:33.118279"
 draft: false
 sectors:
   - ngo
@@ -51,14 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - crimson
-  - red
-typographies:
-  - akzidenz
-imagery_styles:
-  - duotone
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "global association of fair trade producer cooperatives, exporters, importers, retailers, national and regional fair trade networks and Fair Trade Support Organizations"
 wikidata_url: "https://www.wikidata.org/wiki/Q1711776"
 has_twitter: false
@@ -79,43 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- General usage rules for WFTO logos including positioning, authorization, and restrictions on dual branding.
-- WFTO's brand includes key visual elements such as logos and labels.
-- Authorization required for external parties to use WFTO logos; unauthorized stylizations are restricted.
-
-**Color Information:**
-
-- Pantone and duotone systems used for hero imagery, crimson red tones symbolize transition and fairness.
-- WFTO's color scheme emphasizes consistency; mentions Pantone and RGB codes.
-- Guidelines on brand color usage for marketing materials and visuals.
-
-**Typography Information:**
-
-- Crimson font for body text; guidelines for use, weights, and examples. Italics used for emphasis.
-- Typographic hierarchy includes Akzidenz Grotesk and Crimson fonts for different roles.
-- Typographic device such as underscore used for headlines to signify change and progression.
-
-**Imagery Photography:**
-
-- Hero images diversified; treatments include duotone wedge inspired by prior branding.
-- Photography visual treatments outlined; guidelines for style and composition.
-
-**Spacing Layout:**
-
-- Grid and layout specifications for formatting consistency across materials.
-- Instructions for typographic spacing and alignment provided for WFTO documents.
-
-**Brand Voice:**
-
-- WFTO's tone of voice descriptors: Honest, practical, factual, authoritative, researched, etc.
-- Tone changes across personas such as the Guardian, Caregiver, and Hero applicable for audience variation.
-
-**Notes:**
-
-- WFTO Brand Guidelines 2017 - Overview and contact information provided on internal version
-- Appendices detail brand persona creation and sub-brand visual/verbal elements.
+*Guidelines data not available*
 
 ## Additional Properties
 

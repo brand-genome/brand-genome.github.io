@@ -2,11 +2,11 @@
 title: Baloise Group
 slug: "baloise-group"
 description: ""
-date: "2026-03-20T08:22:04.189877"
+date: "2026-04-10T09:40:32.539122"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - switzerland
 years:
@@ -79,6 +79,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Zee Entertainment Enterprises
 slug: "zee-entertainment-enterprises"
 description: ""
-date: "2026-03-20T08:22:03.123403"
+date: "2026-04-10T09:40:30.630235"
 draft: false
 sectors:
   - broadcasting
@@ -15,14 +15,14 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - media
 industries:
   - "mass-media"
 countries:
-  - "united-kingdom"
   - india
+  - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -66,7 +66,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q12428554"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -76,11 +76,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2025
+### 2017
 
 *Guidelines data not available*
-
-### 2017
 
 ## Additional Properties
 

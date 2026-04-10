@@ -2,7 +2,7 @@
 title: Top 09
 slug: "top-09"
 description: ""
-date: "2026-03-20T08:22:04.298598"
+date: "2026-04-10T09:40:32.973717"
 draft: false
 sectors:
   - "public-sector"
@@ -68,15 +68,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Basic colored version of the logo (Základní verze barevná) is specified.
-- Monochromatic logo version is described.
-
-**Color Information:**
-
-- Color details are mentioned for the basic logo version. Specific color codes not listed in visible text sample.
-
-**Spacing Layout:**
-
-- Spacing and layout guidelines are specified, including rules for a clear zone around the logo and proportions based on the digit '0'.
+*Guidelines data not available*

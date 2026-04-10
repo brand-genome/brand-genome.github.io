@@ -2,15 +2,15 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-03-20T08:22:03.264916"
+date: "2026-04-10T09:40:30.785033"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - english
 tags:
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - dynamic
-  - photography
+imagery_styles: []
 wikidata_description: "an international body that brings together all national basketball federations, in charge of deciding basketball rules, disseminating basketball and organising international competitions"
 wikidata_url: "https://www.wikidata.org/wiki/Q46199"
 has_twitter: false
@@ -82,66 +74,11 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Details on the Infinity Logo, its design principles, including vertical lockups, safe zones, and minimum size guidelines.
-- Rules for logo usage with event identifiers, including construction, clear space, and integration with sponsorship logos.
-- Prohibited actions relating to logo alterations, showing examples of incorrect usage.
-
-**Color Information:**
-
-- Core brand colors are black (#000000) and white (#FFFFFF). RGB, CMYK, and Pantone codes are detailed for these base colors.
-- Accent colors are tied to specific events. Black and white are predominant, while accent colors are used sparingly for navigation and specific events.
-
-**Typography Information:**
-
-- The primary brand typeface is 'Barlow Condensed Bold', used for headlines, and 'Barlow' for functional and body text. Specifications for type hierarchy, weights, tracking, and their applications are included.
-- Stylistic treatments for the 'Have Heart' accent typeface, used in an angled and dynamic style to signify motion and energy. Guidelines for its application are provided.
-- Do's and Don'ts for Typography: hero typography should have tightened leading, no tracking, and always appear uppercase. Accent typography should be angled and not dominate the hero typography.
-
-**Imagery Photography:**
-
-- The 'Urban Angle' captures urban street energy, including forward momentum and sharpness in photographic compositions.
-- Photography direction emphasizes wide-angle action shots, with tips for dynamic and intimate angles, highlighting the player's emotions and event energy.
-- Branded photography guidelines detail the use of street-sport aesthetics for consistent style, with recommendations for player representation on event posters.
-
-**Spacing Layout:**
-
-- Design guidelines emphasize the use of 10-degree angles in layouts and graphics for dynamic energy. Provides clear example use cases.
-- Safe zone and minimum spacing rules around logos, including measurements and sample layouts to ensure consistency.
-
-**Brand Voice:**
-
-- 'Urban Angle' describes the brand voice being rooted in street energy, with themes of community, inclusivity, speed, and progression.
-
-**Notes:**
-
-- Numerous examples and illustrations are used to convey guidelines for logos, colors, typography, graphics, photography, and event layouts. Specific accent font applications, prohibitions on usage, and visual hierarchy are highlighted throughout.
+*Guidelines data not available*
 
 ### 2019
 
-**Logo Information:**
-
-- The FIBA 3x3 Corporate Logo description involves two figures joined by an 'X', reminiscent of an infinity symbol. It exists in black and white only and must be used only by FIBA. No third parties are allowed to use this mark without prior approval. Clear space for design is outlined as 'A = width of X top arm', and the logo has a minimum width requirement of 20mm.
-- Common things to avoid: stroke versions, non-black-and-white versions, distorted proportions, cuts, shadows, 3D effects, strokes around the logo, and deleting any parts of the logo.
-- Applications include restrictive placement for the corporate logo on official courts, balls, backstops, and apparel subject to specific dimensions and approval criteria by FIBA. Examples include logo sizes of 0.90x2.40m and minimum widths of 20mm in specific settings.
-
-**Color Information:**
-
-- The FIBA 3x3 Corporate Logo only exists in black and white. Clear rules dictate its compatibility with backgrounds: black version for light backgrounds and white version for dark backgrounds.
-
-**Typography Information:**
-
-- United Sans Medium is to be used for headlines and body text. United Italic is exclusively for competition logos. Recommended to use PDF format to preserve font integrity when sharing documents electronically.
-
-**Spacing Layout:**
-
-- Clear space rules apply for the logo and endorsed stamp, with designated clear space defined as 'A = width of X letter top arm'. Applications on courts include a strict measurement-based layout.
-
-**Notes:**
-
-- FIBA reserves intellectual property rights for logos and marks. No marks may be used without explicit consent and approval.
-- Strict rules apply for apparel and accessories in official events, such as the 'strict black is black' policy for non-uniform items like knee-pads, armbands, etc. Any violations will lead to sanctions.
+*Guidelines data not available*
 
 ## Additional Properties
 

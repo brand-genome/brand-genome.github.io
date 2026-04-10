@@ -2,7 +2,7 @@
 title: Frame.io
 slug: frameio
 description: ""
-date: "2026-03-20T08:22:04.205053"
+date: "2026-04-10T09:40:32.570926"
 draft: false
 sectors:
   - software
@@ -49,8 +49,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - professional
+imagery_styles: []
 wikidata_description: mobile app
 wikidata_url: "https://www.wikidata.org/wiki/Q137161911"
 has_twitter: false
@@ -70,17 +69,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Brand Voice:**
-
-- Empower the world’s storytellers.
-- Undeniable. We are a source of aspiration. The recognized leader in design, technology, and innovation for film collaboration.
-- Premium. Every detail is deliberate and essential. Our customers see the same passion and perfectionism in our brand as they pour into their own work.
-- Professional. We consistently exemplify our value and our commitment as the most reliable, essential platform for video collaboration.
-- Cinematic. We foster and connect with our audience through our own passion for film. We celebrate the craft and creative process of cinema.
-
-**Notes:**
-
-- Pages 1 to 10 focus predominantly on the brand mission, principles, and introductory guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Wellesley College
 slug: "wellesley-college"
 description: ""
-date: "2026-03-20T08:22:04.337594"
+date: "2026-04-10T09:40:33.051119"
 draft: false
 sectors:
   - university
@@ -54,12 +54,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - "sans-serif"
-  - garamond
-  - serif
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: "private women's liberal arts college in Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q49205"
 has_twitter: false
@@ -78,16 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Typography Information:**
-
-- Internal signage system uses Adobe Garamond Pro (serif typeface) in ALL CAPS for non-numerical information and Swiss 721 Bold (sans-serif typeface) for numerical information, ensuring ADA compliance. Donor plaques can use Garamond Pro and Swiss 721 with various weights based on architectural needs. Typography size, justification, placement, and materials are determined by the architect.
-- Adobe Garamond Pro example: Regular style with both uppercase and lowercase alphabets and digit styles; Swiss 721 example provided: Bold style with uppercase and lowercase alphabets and digit styles.
-
-**Notes:**
-
-- Visual identity details are provided for holiday cards, stickers, media backdrops, postcards, and merchandise items such as T-shirts, buttons, and tote bags. Examples emphasize variations in design possibilities but do not include strict design guidelines.
-- Guidelines for internal signage and donor plaques emphasize a collaborative design process with architects and donors to ensure compatibility and harmony with the building or space.
-- For any clarification on visual identity systems, contact information is provided for Elizabeth Gildersleeve (Chief Communications Officer) and Soe Lin Post (Director of Design).
+*Guidelines data not available*
 
 ## Additional Properties
 

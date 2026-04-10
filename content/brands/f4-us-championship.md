@@ -2,7 +2,7 @@
 title: F4 US Championship
 slug: "f4-us-championship"
 description: ""
-date: "2026-03-20T08:22:05.025701"
+date: "2026-04-10T09:40:33.787751"
 draft: false
 sectors:
   - sports
@@ -46,12 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - red
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -71,21 +67,66 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Teams must provide a solid background for areas where logos are placed unless prior approval is received.
-- To maximize visibility for trackside viewers, contrast between surface and logos must be optimized.
-- F4 logos must not be crowded by text and graphics. A clear space area of '2x' is set as the minimum distance from other design elements, and increasing this space is recommended whenever possible.
-- Minimum height for any F4 logo icon placement is 2x tall, recommended to be larger where applicable.
+##### Mission
 
-**Color Information:**
+- To provide clear, professional, and consistent branding for the F4 United States Championship, emphasizing national pride, sponsorship, and motorsport excellence.
 
-- Color palette includes Honda Red, Black, and White. Honda Red has CMYK codes (C:0 M:100 Y:100 K:0), RGB values (R:237 G:27 B:47), and HEX equivalent unspecified.
-- Black color is provided with CMYK codes (C:20 M:20 Y:20 K:100).
-- White color is designated with a CMYK code of (C:0 M:0 Y:0 K:0).
+##### Core Values
 
-**Notes:**
+- professionalism
+- visibility
+- consistency
+- national pride
 
-- Document is the 2019 Style Guide for the F4 United States Championship.
-- Guidelines outline logo specifications for teams and drivers during the 2019 F4 United States Championship season. Covers logo type, location, size, and decal usage for official F4, Hankook Tire, Ligier, SCCA Pro Racing, Honda, and Honda Racing HPD logos. Teams must not produce partner logos or series logos independently. All designs must be approved by SCCA Pro Racing.
-- Logo, decal, and design-related approvals handled by SCCA Pro Racing. Assets can be downloaded via the F4 website.
+##### Target Audience
+
+- Teams, drivers, sponsors, and viewers of the F4 United States Championship, with a focus on motorsport professionals and fans in the United States.
+
+##### Personality Traits
+
+- dynamic
+- modern
+- bold
+- energetic
+
+##### Visual Identity Overview
+
+- The visual identity centers on a bold, stylized 'F4' logo, modern sans-serif typography, a color palette of black, white, red, and blue, and prominent use of the American flag and sponsor logos. Layouts emphasize clarity, motion, and contrast for maximum visibility.
+
+#### Categories
+
+##### Logo Usage
+
+- Please provide a solid background for the area where the logo is to be placed unless prior approval has been received by SCCA Pro Racing. The goal is to maximize the contrast between the surface and logos, in order to provide the greatest visibility for trackside viewers.
+- The F4 logos must be given prominence and visibility, so they are not crowded by other text and graphics.
+- The clear space area of 2" is the minimum distance away from other graphics. We recommend that you increase this space whenever possible.
+- Whichever logo arrangement is in use, the width of the 'F4' icon should be at least 2" tall, and ideally larger when possible.
+
+##### Color Palette
+
+- The overall composition should be clean, modern, with a color scheme primarily of black, white, and red, reflecting a professional racing theme, and arranged to communicate sponsorship, national pride, and professional motorsport branding.
+- The background of the image is white, and the elements are arranged in a clean, balanced layout, emphasizing the sponsorship and the championship branding.
+- The image features a rectangular design with a vivid red background. At the top, in large white uppercase letters, it reads 'F4 U.S. LOGO'. Below this text, the number '2019' is prominently displayed in large, bold white numerals, with the '0' slightly larger and rounded, and the other digits aligned horizontally. The overall composition is simple and clean, with no additional graphics or embellishments, focusing on the text elements. The colors are bright and the font style is modern and sans-serif, emphasizing clarity and impact.
+- The image features a logo with a predominantly red background and a white diagonal stripe running from the top left to the bottom right. Prominently displayed at the top is the large, bold text 'F4' in black with a white border, angled slightly upward. Below it, there is smaller, black text that reads 'UNITED STATES CHAMPIONSHIP' in all caps, with 'UNITED STATES' positioned above 'CHAMPIONSHIP'. Underneath this, there is a black horizontal bar with the white text 'POWERED BY' followed by a small version of the American flag. To the right of the flag, the Honda logo, consisting of a stylized 'H' in a rectangular shape, appears alongside the black text 'HONDA'. The entire design has a dynamic, energetic style, with the elements arranged in a layered composition that emphasizes speed and competition.
+
+##### Typography
+
+- The F4 logos must be given prominence and visibility, so they are not crowded by other text and graphics.
+- The clear space area of 2" is the minimum distance away from other graphics. We recommend that you increase this space whenever possible.
+- Whichever logo arrangement is in use, the width of the 'F4' icon should be at least 2" tall, and ideally larger when possible.
+
+##### Visual Style
+
+- Please provide a solid background for the area where the logo is to be placed unless prior approval has been received by SCCA Pro Racing. The goal is to maximize the contrast between the surface and logos, in order to provide the greatest visibility for trackside viewers.
+- The F4 logos must be given prominence and visibility, so they are not crowded by other text and graphics.
+- The clear space area of 2" is the minimum distance away from other graphics. We recommend that you increase this space whenever possible.
+- Whichever logo arrangement is in use, the width of the 'F4' icon should be at least 2" tall, and ideally larger when possible.
+
+##### Brand Imagery
+
+- Please provide a solid background for the area where the logo is to be placed unless prior approval has been received by SCCA Pro Racing. The goal is to maximize the contrast between the surface and logos, in order to provide the greatest visibility for trackside viewers.
+- The F4 logos must be given prominence and visibility, so they are not crowded by other text and graphics.
+- The clear space area of 2" is the minimum distance away from other graphics. We recommend that you increase this space whenever possible.
+- Whichever logo arrangement is in use, the width of the 'F4' icon should be at least 2" tall, and ideally larger when possible.

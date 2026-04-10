@@ -2,7 +2,7 @@
 title: AIA Trust
 slug: "aia-trust"
 description: ""
-date: "2026-03-20T08:22:04.897469"
+date: "2026-04-10T09:40:33.668750"
 draft: false
 sectors:
   - insurance
@@ -46,18 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-brand_colors:
-  - red
-  - gray
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - clean
-  - professional
-  - contemporary
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,35 +67,130 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The full AIA Trust logo must appear on the front and/or back of any official Trust communication, envelope, insert, and brochure intended for member audiences. The logo should not be re-typed, redrawn, re-proportioned, distorted, or modified in any way. Always use an official file downloaded from the AIA Trust website to preserve brand integrity. The full logo includes the slogan and should not be used smaller than 2 inches wide to maintain readability. Alternate logos provided in the guide are allowed for smaller applications.
-- When printing in one color, a 40% half-tone should be used with the solid color.
-- Red & white logo on black background.
-- Black & white logo on red background.
-- Logo displayed on busy background with visibility context.
-- Logo displayed on a clean background with appropriate contrast.
-- Alternate logos may be used on less formal correspondence or where the full logo cannot be reproduced large enough for the slogan to remain legible.
+##### Mission
 
-**Color Information:**
+- To maintain a consistent image of the AIA Trust, ensuring that each communication reflects on the AIA Trust as a whole and builds upon messages from Trust providers and programs to increase overall impact. The brand aims to avoid confusion by presenting a unified visual identity and to show unity of purpose, portraying an attractive, consistent image to potential member insureds, plan-holders, and those who utilize Trust resources and programs.
 
-- AIA Trust Red: HEX FA4132, RGB (R: 250, G: 065, B: 050), PMS Red 032, CMYK (C: 0, M: 90, Y: 86, K: 0). White, black, or light gray type can be used on a red background, while dark gray type cannot. Red on black, light gray, and white is allowed; red on dark gray is not.
-- AIA Trust Dark Gray: HEX A7A7A7, RGB (R: 167, G: 167, B: 167), PMS Cool Gray 6, CMYK (C: 0, M: 0, Y: 0, K: 40). White and black type can be used on dark gray. Red and light gray type on dark gray is prohibited.
-- AIA Trust Light Gray: HEX CCCCCC, RGB (R: 204, G: 204, B: 204), PMS Cool Gray 2, CMYK (C: 0, M: 0, Y: 0, K: 20). White, black, and red type can be used on light gray, while dark gray type is not allowed.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- unity
+- clarity
+- professionalism
 
-- The AIA Trust uses a custom typeface called Architype across official stationery and the website. For printed material, external distribution should use no more than two complementary professional typefaces. Body copy size should not go below 10 points for legibility, with leading kept at 125% of the character size. Captions should be between 8 points and body copy size, distinguished using italics if necessary.
+##### Target Audience
 
-**Imagery Photography:**
+- Potential member insureds, plan-holders, those who utilize Trust resources, and components who utilize programs and resources.
 
-- Trust publications may incorporate photographic images of contemporary buildings and building elements. Images of people must represent diversity in terms of gender, race, and age.
+##### Personality Traits
 
-**Brand Voice:**
+- professional
+- modern
+- trustworthy
+- clean
 
-- The purpose of maintaining a consistent brand identity is to reflect unified messaging, avoid audience confusion, show unity of purpose, and reinforce the AIA Trust’s image as a coherent entity offering various member benefits and resources.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is clean, modern, and professional, focusing on bold sans-serif typography, a limited color palette (red, black, white, gray), and strict logo usage rules. Imagery includes contemporary architectural photography and diverse representations of people. The brand emphasizes visual consistency and clarity across all communications.
 
-- Ensure to use the most updated style guide as logos, colors, and other specifications may change over time.
-- Banner ad graphics, URL logotypes, or direct URLs to the AIA Trust homepage (http://www.theaiatrust.com) should be used when linking to their website.
+#### Categories
+
+##### Brand Imagery
+
+- Photographic images of contemporary buildings & building elements may be incorporated in Trust publications.
+- Images of people must represent a diversity of gender, race, and age.
+
+##### Color Palette
+
+- Defining the Color For the Web and PowerPoint HEX FA4132 R 250 G 065 B 050 For Print PMS Red 032 C 000 M 090 Y 086 K 000
+- Using the Color Type on Red Background • White type on Red is okay. • Black type on Red is okay. • Light Gray type on Red is okay. • Dark Gray type on Red is NOT okay.
+- Red on Black is okay.
+- Red on Dark Gray is NOT okay.
+- Red on White is okay.
+- Red on Light Gray is okay.
+- Defining the Color For the Web and PowerPoint HEX #A7A7A7 R 167 G 167 B 167 For Print PMS Cool Gray 6 C 000 M 000 Y 000 K 040
+- Type on Red Background • White type on Dark Gray is okay. • Black type on Dark Gray is okay. • Light Gray type on Dark Gray is NOT okay. • Red type on Dark Gray is NOT okay.
+- Dark Gray on Black is okay.
+- Dark Gray on Red is NOT okay.
+- Dark Gray on White is okay.
+- Dark Gray on Light Gray is NOT okay.
+- Defining the Color For the Web and PowerPoint HEX #CCCCCC R 204 G 204 B 204 For Print PMS Cool Gray 2 C 000 M 000 Y 000 K 020
+- Type on Light Gray Background • White type on Light Gray is okay. • Black type on Light Gray is okay. • Red type on Light Gray is okay. • Dark Gray type on Light Gray is NOT okay.
+- Light Gray on Black is okay.
+- Light Gray on Dark Gray is NOT okay.
+- Light Gray on White is NOT okay.
+- Light Gray on Red is okay.
+
+##### Typography
+
+- The AIA Trust uses a custom-made typface called Architype which is used in all official stationery and throughout the Website.
+- In lieu of Architype, printed materials for external distribution should contain no more than two complementary typefaces of professional style. Body copy should be no smaller than 10 points to ensure the copy is legible. Leading should always be 125% of character size.
+- Captions or similar should be no smaller than eight points and no larger than the body copy; they may be distinguished from body copy by the use of italics.
+
+##### Logo Usage
+
+- The full AIA Trust logo must appear on the front and/or back of any official Trust communication, envelope, insert, and brochure that is intended for member audiences so that it is recognizable as a member benefit and/or resource-related communication.
+- The logo should never be re-typed, redrawn, re-proportioned, distorted, or modified in any way. Always use an official file downloaded from www.theaiatrust.com/style so that the integrity of the AIA Trust brand is preserved.
+- The Full Logo includes the AIA Trust slogan and should not be used smaller than 2 inches wide so that slogan is readable. If a situation requires a smaller use, the Alternate Logo should be used.
+- Logos and brand elements not seen in this Guide are not to be used.
+- Any questions regarding use of the logo should be directed to the AIA Trust executive director.
+- The alternate AIA Trust logo may be used on less formal correspondence or where the full logo cannot be reproduced large enough for the slogan to be easily read.
+- When printing in one color only a 40% half-tone is used with the solid color.
+
+##### Tone And Messaging
+
+- The AIA Trust image and brand identity serve as important tools to further AIA Trust strategic goals. The consistency of AIA Trust messages and unified graphic identity play a key role in the success of this effort. As matters of style evolve, we will continue to review and update the guide.
+- To maintain a consistent image of the AIA Trust because each communication reflects on the AIA Trust as a whole and messages from Trust providers and programs build upon one another and increase the overall impact.
+- To avoid confusing our audience by presenting a consistent visual identity so we distinguish our service and programs from others, including competitors.
+- To show unity of purpose. Visual consistency relays that the AIA Trust is unified, even while it offers a wide range of member resources and benefit programs, thus portraying an attractive, consistent image to potential member insureds, plan-holders, and those who utilize Trust resources, as well as components who utilize programs and resources.
+- The full AIA Trust logo must appear on the front and/or back of any official Trust communication, envelope, insert, and brochure that is intended for member audiences so that it is recognizable as a member benefit and/or resource-related communication.
+- The logo should never be re-typed, redrawn, re-proportioned, distorted, or modified in any way. Always use an official file downloaded from www.theaiatrust.com/style so that the integrity of the AIA Trust brand is preserved.
+- The Full Logo includes the AIA Trust slogan and should not be used smaller than 2 inches wide so that slogan is readable. If a situation requires a smaller use, the Alternate Logo should be used.
+- Logos and brand elements not seen in this Guide are not to be used.
+- Any questions regarding use of the logo should be directed to the AIA Trust executive director.
+- The alternate AIA Trust logo may be used on less formal correspondence or where the full logo cannot be reproduced large enough for the slogan to be easily read.
+
+##### Brand Values
+
+- The AIA Trust image and brand identity serve as important tools to further AIA Trust strategic goals. The consistency of AIA Trust messages and unified graphic identity play a key role in the success of this effort. As matters of style evolve, we will continue to review and update the guide.
+- • To maintain a consistent image of the AIA Trust because each communication reflects on the AIA Trust as a whole and messages from Trust providers and programs build upon one another and increase the overall impact.
+- • To avoid confusing our audience by presenting a consistent visual identity so we distinguish our service and programs from others, including competitors.
+- • To show unity of purpose. Visual consistency relays that the AIA Trust is unified, even while it offers a wide range of member resources and benefit programs, thus portraying an attractive, consistent image to potential member insureds, plan-holders, and those who utilize Trust resources, as well as components who utilize programs and resources.
+
+##### Visual Style
+
+- The AIA Trust image and brand identity serve as important tools to further AIA Trust strategic goals. The consistency of AIA Trust messages and unified graphic identity play a key role in the success of this effort. As matters of style evolve, we will continue to review and update the guide.
+- Standards have been outlined in this guide to determine the proper use of Trust logos thus eliminating confusion and helping to create a stronger image. We encourage you to become familiar with the Guide and to apply its rules to any communication vehicles you develop on behalf of the AIA Trust. The Guide will be updated as logos, colors, and/or other guidelines are changed so please be sure you have the most current copy.
+- To avoid confusing our audience by presenting a consistent visual identity so we distinguish our service and programs from others, including competitors.
+- To show unity of purpose. Visual consistency relays that the AIA Trust is unified, even while it offers a wide range of member resources and benefit programs, thus portraying an attractive, consistent image to potential member insureds, plan-holders, and those who utilize Trust resources, as well as components who utilize programs and resources.
+- AIA Trust Red: Defining the Color For the Web and PowerPoint HEX FA4132 R 250 G 065 B 050 For Print PMS Red 032 C 000 M 090 Y 086 K 000
+- Using the Color Type on Red Background • White type on Red is okay. • Black type on Red is okay. • Light Gray type on Red is okay. • Dark Gray type on Red is NOT okay.
+- Red on Black is okay.
+- Red on Dark Gray is NOT okay.
+- Red on White is okay.
+- Red on Light Gray is okay.
+- AIA Trust Dark Gray: Defining the Color For the Web and PowerPoint HEX #A7A7A7 R 167 G 167 B 167 For Print PMS Cool Gray 6 C 000 M 000 Y 000 K 040
+- Type on Red Background • White type on Dark Gray is okay. • Black type on Dark Gray is okay. • Light Gray type on Dark Gray is NOT okay. • Red type on Dark Gray is NOT okay.
+- Dark Gray on Black is okay.
+- Dark Gray on Red is NOT okay.
+- Dark Gray on White is okay.
+- Dark Gray on Light Gray is NOT okay.
+- AIA Trust Light Gray: Defining the Color For the Web and PowerPoint HEX #CCCCCC R 204 G 204 B 204 For Print PMS Cool Gray 2 C 000 M 000 Y 000 K 020
+- Type on Light Gray Background • White type on Light Gray is okay. • Black type on Light Gray is okay. • Red type on Light Gray is okay. • Dark Gray type on Light Gray is NOT okay.
+- Light Gray on Black is okay.
+- Light Gray on Dark Gray is NOT okay.
+- Light Gray on White is NOT okay.
+- Light Gray on Red is okay.
+- The full AIA Trust logo must appear on the front and/or back of any official Trust communication, envelope, insert, and brochure that is intended for member audiences so that it is recognizable as a member benefit and/or resource-related communication.
+- The logo should never be re-typed, redrawn, re-proportioned, distorted, or modified in any way. Always use an official file downloaded from www.theaiatrust.com/style so that the integrity of the AIA Trust brand is preserved.
+- The Full Logo includes the AIA Trust slogan and should not be used smaller than 2 inches wide so that slogan is readable. If a situation requires a smaller use, the Alternate Logo should be used.
+- Logos and brand elements not seen in this Guide are not to be used.
+- Red & White Logo on Black
+- Black & White Logo on Red
+- The alternate AIA Trust logo may be used on less formal correspondence or where the full logo cannot be reproduced large enough for the slogan to be easily read.
+- When printing in one color only a 40% half-tone is used with the solid color.
+- The AIA Trust uses a custom-made typface called Architype which is used in all official stationery and throughout the Website.
+- In lieu of Architype, printed materials for external distribution should contain no more than two complementary typefaces of professional style. Body copy should be no smaller than 10 points to ensure the copy is legible. Leading should always be 125% of character size.
+- Captions or similar should be no smaller than eight points and no larger than the body copy; they may be distinguished from body copy by the use of italics.

@@ -2,7 +2,7 @@
 title: Dynasty
 slug: dynasty
 description: ""
-date: "2026-03-20T08:22:05.050552"
+date: "2026-04-10T09:40:33.816627"
 draft: false
 sectors:
   - gaming
@@ -48,14 +48,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - gold
-typographies:
-  - futura
-  - verdana
-imagery_styles:
-  - bold
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: 1980s American prime time television soap opera
 wikidata_url: "https://www.wikidata.org/wiki/Q584025"
 has_twitter: false
@@ -73,31 +68,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo lock-ups mentioned but details unspecified in extracted text.
-- Scaling and proportional rules for the logo: 1X, 0.75X, 0.5X, and 0.25X mentioned.
-
-**Color Information:**
-
-- Gold: RGB (R:197, G:147, B:60), CMYK (C:22, M:40, Y:90, K:3), HEX (#c5953c).
-- Superblack: RGB (R:0, G:0, B:0), CMYK (C:60, M:40, Y:40, K:100), HEX (#000000).
-- White: RGB (R:255, G:255, B:255), CMYK (C:0, M:0, Y:0, K:0), HEX (#ffffff).
-
-**Typography Information:**
-
-- Futura Bold: For headers.
-- Verdana Regular: For body text.
-- Futura Condensed Medium: For titles.
-
-**Spacing Layout:**
-
-- Scaling rules specified: 1X, 0.75X, 0.5X, 0.25X scaling mentioned (likely for logo related content).
-
-**Notes:**
-
-- Contact information listed as Floris Buurman, email: floris@dynastyesports.nl, website: dynastyesports.nl
-- Table of contents outlines sections for logo instructions, logo lock-ups, dynasty colors, and typography.
+*Guidelines data not available*
 
 ## Additional Properties
 

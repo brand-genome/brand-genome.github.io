@@ -2,7 +2,7 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-03-20T08:22:05.702300"
+date: "2026-04-10T09:40:34.641821"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - qatar
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - display
-  - din
-imagery_styles:
-  - dynamic
-  - minimal
-  - bold
-  - subtle
-  - contemporary
+typographies: []
+imagery_styles: []
 wikidata_description: Qatari international television channel
 wikidata_url: "https://www.wikidata.org/wiki/Q13477"
 has_twitter: false
@@ -85,112 +77,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The screens and their constant user interactions have brought the need for new branding 
-systems and vocabularies. Great contemporary brands, especially leading digital ones, 
-deploy a full in-depth brand identity, within which the logo is a part of a bigger system 
-AWHOLE SYSTEM, NOT JUST 
-A LOGO
-- COLOUR PALET TE
-The primary colour palette underpins the Al Jazeera Arabic brand.These colours also carry through to marketing 
-materials and all forms of communications.
-- ICONS
-A SET OF BOLD AND MINIMAL ICONS HAVE BEEN DEVELOPED THATWORK AT ANY SIZE, ON ANY SURFACE AND ACROSS 
-ALL PLATFORMS
-- LOGO
-Our logo is our most important brand asset . It is a strong re˜ection of our heritage, our global presence, and our future. It 
-is recognisable across the world and needs to be treated with care in accordance with these guidelines. 
-The logo has two positions on screen. A lower right position is used during transmission, promos, news and programmes. 
-A central position is used at the end of channel generic promos.
-- MASTER GRID AND SAFE AREAS
-All design elemtents should fall within the master grid.This ensures consistency and 
-uniformity on screen.
-Al Jazeera Arabic uses a saftey area for text and picture that is based on a 
-16:9
- safe 
-area.The tag, logo and lower third should always be avoided.
-- Logo, Clock andTickers
-- WEATHER ICONS
-A SET OF HIGH CONTRAST, MINIMAL ICONS HAVE BEEN DEVELOPEDTHATWORK AT ANY SIZE, ON ANY SURFACE AND 
-ACROSS ALL PLATFORMS
-
-**Color Information:**
-
-- COLOUR PALET TE
-The primary colour palette underpins the Al Jazeera Arabic brand.These colours also carry through to marketing 
-materials and all forms of communications.
-- PROMOTIONS
-A bold, dynamic and ˜exible promo system has been developed that aims to deliver 
-information quickly and concisely. Large typography is used to catch the eye of the 
-passing viewer. A subtle colour di˚erence is used to separate news and programmes.
-
-**Typography Information:**
-
-- The moving frame acts as a close-up 
-- It helps decoding the world, isolating key information from the ﬁnoiseﬂ.
--The frame allows us to channel this massive ˜ow of information and transforms it into clear and understandable form.
- 
-Highlighting the content
--The frame gives us the opportunity to outline text info, thus highlighting the content .
- 
-The screen within a screen
--The frame leads the viewer seamlessly from theTV screen to other platforms.
--  It integrates the viewer within the content, thanks to new dialog spaces and speech bubbles. that has a powerful look & feel .
-CONCEPT
- THE MOVING FRAME
-- TYPOGRAPHY
-Al Jazeera Arabic is the primary Arabic typeface.We use this in four di˚erent weights for all functional communications. 
-This is complemented by the DIN typeface to display numerals and words that cannot be displayed in arabic such as social 
-media hashtags.
-- MASTER GRID AND SAFE AREAS
-All design elemtents should fall within the master grid.This ensures consistency and 
-uniformity on screen.
-Al Jazeera Arabic uses a saftey area for text and picture that is based on a 
-16:9
- safe 
-area.The tag, logo and lower third should always be avoided.
-- PROMOTIONS
-A bold, dynamic and ˜exible promo system has been developed that aims to deliver 
-information quickly and concisely. Large typography is used to catch the eye of the 
-passing viewer. A subtle colour di˚erence is used to separate news and programmes.
-- Programme Production Guidelines
-This guide provides direction for the creation of all graphics, lower thirds, tags and end 
-credits. Safe areas, fonts and sizes are speci˛ced along with exact pixel dimensions of all 
-elements.
-
-**Imagery Photography:**
-
-- The moving frame acts as a close-up 
-- It helps decoding the world, isolating key information from the ﬁnoiseﬂ.
--The frame allows us to channel this massive ˜ow of information and transforms it into clear and understandable form.
- 
-Highlighting the content
--The frame gives us the opportunity to outline text info, thus highlighting the content .
- 
-The screen within a screen
--The frame leads the viewer seamlessly from theTV screen to other platforms.
--  It integrates the viewer within the content, thanks to new dialog spaces and speech bubbles. that has a powerful look & feel .
-CONCEPT
- THE MOVING FRAME
-
-**Spacing Layout:**
-
-- MASTER GRID AND SAFE AREAS
-All design elemtents should fall within the master grid.This ensures consistency and 
-uniformity on screen.
-Al Jazeera Arabic uses a saftey area for text and picture that is based on a 
-16:9
- safe 
-area.The tag, logo and lower third should always be avoided.
-
-**Notes:**
-
-- LOGO
-Our logo is our most important brand asset . It is a strong re˜ection of our heritage, our global presence, and our future. It 
-is recognisable across the world and needs to be treated with care in accordance with these guidelines. 
-The logo has two positions on screen. A lower right position is used during transmission, promos, news and programmes. 
-A central position is used at the end of channel generic promos.
+*Guidelines data not available*
 
 ## Additional Properties
 

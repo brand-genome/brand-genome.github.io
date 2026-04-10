@@ -2,7 +2,7 @@
 title: Switzerland
 slug: switzerland
 description: ""
-date: "2026-03-20T08:22:04.551850"
+date: "2026-04-10T09:40:33.347549"
 draft: false
 sectors:
   - "public-sector"
@@ -48,16 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - primary
-brand_colors:
-  - red
-  - white
-typographies:
-  - helvetica
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "men's national association football team representing Switzerland"
 wikidata_url: "https://www.wikidata.org/wiki/Q165141"
 has_twitter: false
@@ -78,44 +72,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The Logo Switzerland consists of the white cross (Swiss national emblem) and the text 'Switzerland.' written in Helvetica font. The text may vary by language where the logo is used, but the white cross remains universal.
-- The word 'Switzerland' in the logo is always followed by a full stop except for languages that do not use punctuation marks (e.g., Chinese, Japanese, Thai).
-- Clear space around the Logo Switzerland must adhere to exclusion zone rules defined to preserve its visibility. Exact measurements are detailed in the manual.
-- Logo colors use the Swiss red and white, with specific Pantone and CMYK values described further in section 2.1.3.
-- Minimum logo size guidelines are established to ensure legibility across different applications.
-- Logo usage rules emphasize appropriate placement, background contrasts, and adherence to design standards across mediums.
-- Examples of incorrect usage, such as distorting proportions, adding effects, or repositioning elements, are listed to avoid misuse.
-
-**Color Information:**
-
-- Corporate colors include Swiss red and white, specified with corresponding Pantone, CMYK, RGB, and HEX codes in section 2.4.
-
-**Typography Information:**
-
-- Helvetica is the primary typeface used for the Logo Switzerland text.
-- 'Typography' section outlines font hierarchies, weights, and roles appropriate for corporate applications (e.g., headlines, body text).
-
-**Imagery Photography:**
-
-- Visual imagery incorporates Switzerland's iconic Alpine habitat, Swiss population, and cultural symbols (e.g., Swiss Cross).
-- Photography guidelines emphasize authenticity, premium quality, and storytelling about real people.
-
-**Spacing Layout:**
-
-- Layout guidelines integrate the corporate design principles, ensuring consistency in alignment and spacing.
-- Spacing rules for applying elements like logos and typography ensure a balanced visual presentation.
-
-**Brand Voice:**
-
-- The tone of communication should be trustworthy, reliable, credible, and of premium quality. It must always reflect Switzerland's values and strengths.
-- Communication must tell concrete case stories, communicating Switzerland's core messages of 'self-determination' and 'secure future.'
-
-**Notes:**
-
-- Presence Switzerland oversees global brand implementation and provides resources such as multilingual logos, templates, and manuals.
-- Corporate Design is a subset of Corporate Identity, encompassing all visual guidelines, from logo design to templates.
+*Guidelines data not available*
 
 ## Additional Properties
 

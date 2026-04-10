@@ -2,7 +2,7 @@
 title: Seattle Pacific
 slug: "seattle-pacific"
 description: ""
-date: "2026-03-20T08:22:05.531580"
+date: "2026-04-10T09:40:34.431590"
 draft: false
 sectors:
   - education
@@ -55,22 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - primary
-  - alternate
-brand_colors:
-  - red
-  - gray
-  - gold
-  - maroon
-typographies:
-  - arial
-  - display
-imagery_styles:
-  - bold
-  - natural
-  - candid
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Christian university in Seattle, Washington"
 wikidata_url: "https://www.wikidata.org/wiki/Q2904851"
 has_twitter: false
@@ -88,31 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Seattle Pacific University guidelines include multiple logo versions: Full version, abridged version, and SPU flame logomark. Clear space and minimum size are defined for proper usage.
-- Logo usage rules specify 'don’ts': improper scaling, rotating, color alterations, and incorporating logos into other complex designs.
-
-**Color Information:**
-
-- The primary brand color is Legacy Maroon, complemented by Falcon Red, Historic Gold, and Seattle Gray. Both RGB and CMYK codes are provided: Legacy Maroon RGB (135,41,55), CMYK (31,93,70,30).
-
-**Typography Information:**
-
-- Primary display font is Sang Bleu Empire (Regular, Medium weights). Trade Gothic LT Pro Light is the body type, paired with Trade Gothic Bold No. 2 for headings.
-- Arial Regular and Arial Bold are used as alternate fonts for materials requiring standard system fonts.
-
-**Imagery Photography:**
-
-- Imagery guidelines emphasize candid, natural, and metropolitan visuals over posed, clichéd, or stock images.
-
-**Brand Voice:**
-
-- SPU brand essence centers on excellence, collaboration, and consistent messaging across departments and materials.
-
-**Notes:**
-
-- General branding overview: SPU strives for consistency across all identity assets to create strong public perception.
+*Guidelines data not available*
 
 ## Additional Properties
 

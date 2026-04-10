@@ -2,7 +2,7 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-03-20T08:22:05.550842"
+date: "2026-04-10T09:40:34.458054"
 draft: false
 sectors:
   - research
@@ -16,8 +16,8 @@ languages:
 tags:
   - science
 industries:
-  - "research-and-development-in-other-physical-and-natural-sciences"
   - research
+  - "research-and-development-in-other-physical-and-natural-sciences"
 countries:
   - france
 revenue_buckets: []
@@ -54,17 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-brand_colors:
-  - white
-  - black
-typographies:
-  - arial
-  - times
-  - akzidenz
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French biomedical research institute
 wikidata_url: "https://www.wikidata.org/wiki/Q1474517"
 has_twitter: false
@@ -84,35 +77,141 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo usage instructions and variations are explained, including applications on backgrounds requiring high contrast.
-- Specifications for the logo clear space and height usage (< 8mm height).
-- Layout principles include occupying 1/4 of A4 document width.
-- General usage principles like logo placement on the optical median line.
-- Visual email signatures with correct logo usage.
+##### Mission
 
-**Color Information:**
+- La science pour la santé / From science to health. Inserm's mission is to advance health through scientific research, emphasizing clarity, professionalism, and international reach in its communications [^1].
 
-- Logo versions include black and white designs.
+##### Core Values
 
-**Typography Information:**
+- clarity
+- coherence
+- professionalism
+- visibility
+- international vocation
 
-- Usage of Akzidenz-Grotesk BQ for names (Medium, 8pt) and titles (Regular, 6pt) with alignment details.
-- Typography for office documents: Arial (10pt Regular/Bold/Italic) and Times (10pt Regular/Bold/Italic).
+##### Target Audience
 
-**Imagery Photography:**
+- All individuals responsible for producing documents bearing the Inserm brand, including scientific and institutional communicators, researchers, and partners [^2].
 
-- Photo background usage requires copyright, title, or a brief description.
+##### Personality Traits
 
-**Spacing Layout:**
+- scientific
+- professional
+- clear
+- coherent
+- modern
 
-- Email signature template spacing and separator instructions.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is clean, minimalistic, and professional, featuring a bold logo with a colorful abstract icon, a signature tagline, and a consistent use of color palette and typography. The layout emphasizes clarity, balance, and coherence across all materials [^3].
 
-- Various formatting and alignment guidelines across pages.
-- Additional layout principles and document examples.
+#### Categories
+
+##### Brand Imagery
+
+- Le fond du support doit être neutre. Il ne convient pas d’utiliser une texture, image, photographie ou effet qui perturberait la lisibilité.
+- Pour optimiser la lisibilité du bloc-marque, il est prévu une zone de réserve. Ce contour est défini par la hauteur du « m » dans le logo Inserm.
+- Marge de protection ou « zone de réserve » + fond neutre
+- Kakemonos Fond aplat couleur ou fond image/ photo scientifique. (Toujours indiquer le copyright et le titre ou une courte description de la photo)
+
+##### Color Palette
+
+- Les couleurs du bloc-marque Inserm Quadrichromie, RVB et web
+- Respecter les couleurs du logo.
+- Pour garantir la lisibilité, l’utilisation du bloc-marque Inserm se décline en bichromie ou monochromie. Les cas les plus fréquents sont : 1, 2. sur fond demandant un grand contraste 3 . sur fond photographique 4 . sur fond couleur égal à une des couleurs du logo 5. sur fond clair, ou impression monochrome
+- La signature en quadrichromie est traitée en noir 100%
+- Il ne convient pas d’utiliser une texture, image, photographie ou effet qui perturberait la lisibilité.
+- Le fond du support doit être neutre.
+- On utilisera le rouge Inserm pour le séparateur vertical « | » et la ligne « ---- ». Ses références sont les suivantes : RVB 240 Web #ff6633 78 35
+
+##### Typography
+
+- Impression professionnelle des affiches, cartes de visite, panneaux signalétiques... votre prestataire utilisera l’Akzidenz Grotesk dans toutes ses variantes pour la titraille et la police Minion pour les textes courants.
+- 22 pt Akzidenz Grotesk Bold 22 pt Akzidenz Grotesk Regular
+- 14 pt Akzidenz Grotesk Medium
+- 14 pt Akzidenz Grotesk Light
+- 10 pt Akzidenz Grotesk Regular
+- 10 pt Akzidenz Grotesk Light
+- 10 pt Akzidenz Grotesk Bold
+- 10 pt Akzidenz Grotesk Bold Italic
+- 15 pt Minion Regular
+- 15 pt Minion Italic
+- 15 pt Minion Bold
+- 15 pt Minion Bold italic
+- 10 pt Minion Regular
+- 10 pt Minion Bold
+- 10 pt Minion Italic
+- 10 pt Minion Bold Italic
+- Courriers, présentations PowerPoint, notes... c’est l’Arial qui est choisie pour remplacer la police Akzidenz Grotesk. La police Times remplacera la police Minion.
+- 24 pt Arial Bold
+- 18 pt Arial Regular 14 pt Arial Bold 14 pt Arial Regular
+- 10 pt Arial Regular
+- 10 pt Arial Bold
+- 10 pt Arial Italic
+- 15 pt Times Regular
+- 15 pt Times Italic
+- 15 pt Times Bold
+- 15 pt Times Bold Italic
+- 10 pt Times Regular
+- 10 pt Times Bold
+- 10 pt Times Italic
+- 10 pt Times Bold Italic
+- Réduire au maximum les variantes de police, telles que les gras, les italiques, soulignés, etc.
+- Le prénom et nom de la personne en Akzidenz-Grotesk BQ Medium corps 8, à la ligne fonction ou poste à l’Inserm en Akzidenz-Grotesk BQ Regular corps 6. Ferré à gauche.
+- Le nom de la délégation, du département ou de l’institut en Ak-zidenz-Grotesk BQ Regular corps 6. Ce nom sera aligné à partir de l’axe vertical de la rosace du logo, à la même hauteur que le nom de la personne, ferré à droite.
+- L’adresse en Akzidenz-Grotesk BQ Regular corps 6 en bas de la carte, ferrée à droite (comme le nom de la délégation, du département ou de l’institut).
+- Le nom de la délégation, du département ou de l’institut ou nom et prénom du directeur en Akzidenz-Grotesk BQ Regular corps 8.
+- L’adresse de l’Inserm en Akzidenz-Grotesk BQ Regular corps 8.
+- Adresse de l’Inserm en Akzidenz-Grotesk BQ Regular corps 6. La taille de la police de la signature est la même que celle de l’adresse.
+- Copier/coller ce modèle dans votre outil de signature de messagerie et remplacer par vos coordonnées en Arial 11. Sélectionner votre nom et prénom et les mettre en Arial 11 gras.
+- Prénom Nom en Arial 11 gras et en dessous titre/fonction « | » appartenance.
+
+##### Logo Usage
+
+- Par un emploi correct du logo, conçu avec une signature simple et un système visuel efficace, l’Inserm se donne les moyens d’identifier clairement chacune de ses communications scientifiques et institutionnelles grâce à une cohérence graphique.
+- Le logo de l’Inserm existe aussi en noir uniquement, en blanc et en blanc avec point rouge. Il est l’élément identifiant de la charte graphique.
+- Cette identité est désormais bien installée et la marque Inserm mémorisable. Le logo est allégé des éléments textuels qui le composent.
+- Le logo + la signature forment le bloc-marque Inserm institutionnel.
+- Pour optimiser la lisibilité du bloc-marque, il est prévu une zone de réserve. Ce contour est défini par la hauteur du « m » dans le logo Inserm.
+- Le fond du support doit être neutre. Il ne convient pas d’utiliser une texture, image, photographie ou effet qui perturberait la lisibilité.
+- Pour garantir la lisibilité, l’utilisation du bloc-marque Inserm se décline en bichromie ou monochromie. Les cas les plus fréquents sont : 1, 2. sur fond demandant un grand contraste 3 . sur fond photographique 4 . sur fond couleur égal à une des couleurs du logo 5. sur fond clair, ou impression monochrome
+- Afin de garantir la lisibilité du logo Inserm, il est recommandé d’utiliser la forme sans signature quand la hauteur du logo est inférieure ou égale à 8mm.
+- < 8 mm de hauteur
+- Pour gagner en impact visuel, le logo Inserm se présentera sans sa signature quand il sera as-socié aux logos de partenaires.
+- Sur les pages de suite, le logo doit être repris en petit et dans sa version sans signature.
+- Placer le bloc-marque selon le principe d’axe médian.
+- Il ne doit jamais être dénaturé. La signature ne doit pas être modifiée.
+- Quand la hauteur du logo est de moins de 8 mm, il faut utiliser la version sans signature.
+- Ce bloc-marque annule et/ou remplace les précédentes versions de notre logo.
+- Respecter les couleurs du logo.
+
+##### Brand Values
+
+- L’Inserm se dote d’une signature qui symbolise les missions de l’Institut et ses valeurs « La science pour la santé », et sa traduction « From science to health » dit sa vocation internationale.
+
+##### Visual Style
+
+- Le logo de l’Inserm existe aussi en noir uniquement, en blanc et en blanc avec point rouge. Il est l’élément identifiant de la charte graphique.
+- Graphiquement, cela se traduit par l’affichage de huit « I », distingués par une couleur et s’organisant pour former une mosaïque s’inscrivant dans un cercle.
+
+##### Layout And Composition
+
+- L’axe médian est le principe général de placement
+- Quelles que soient la nature et la dimension du support, l’axe médian est le pivot graphique du document sur lequel vient s’appuyer la marque « Inserm » (côté gauche de la barre du « I » de « Inserm » contre la ligne médiane verticale).
+- Format A4 : « Inserm » doit couvrir 1/4 de la largeur du document largeur 1 = largeur 2
+- Pour optimiser la lisibilité du bloc-marque, il est prévu une zone de réserve. Ce contour est défini par la hauteur du « m » dans le logo Inserm.
+- Le fond du support doit être neutre. Il ne convient pas d’utiliser une texture, image, photographie ou effet qui perturberait la lisibilité.
+- Marge de protection ou « zone de réserve » + fond neutre
+- Placer le bloc-marque selon le principe d’axe médian.
+- Il ne doit jamais être dénaturé. La signature ne doit pas être modifiée.
+- Quand la hauteur du logo est de moins de 8 mm, il faut utiliser la version sans signature.
+- Respecter les couleurs du logo.
+- Sur les pages de suite, le logo doit être repris en petit et dans sa version sans signature.
+- Réduire au maximum les variantes de police, telles que les gras, les italiques, soulignés, etc.
+- Le logo Inserm s’appuie toujours sur l’axe médian.
+- Le logo Inserm s’appuie sur l’axe médian.
 
 ## Additional Properties
 

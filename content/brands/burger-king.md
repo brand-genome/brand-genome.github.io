@@ -2,7 +2,7 @@
 title: Burger King
 slug: "burger-king"
 description: ""
-date: "2026-03-20T08:22:04.063874"
+date: "2026-04-10T09:40:32.093798"
 draft: false
 sectors:
   - restaurant
@@ -29,26 +29,26 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "bk-chicken-fries"
-  - apple
-  - "salata-greceasca-cu-branza-feta"
-  - "big-king"
-  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
-  - "cartofi-dulci-prajiti-cu-sos-picant"
-  - dessert
   - "crispy-chicken-burger-king"
-  - "whopper-picant-cu-jalapenos"
-  - "burger-king-chicken-nuggets"
-  - "soft-drink"
-  - "milkshake-de-vanilie-cu-sos-de-caramel"
-  - hamburger
-  - "hot-dog"
-  - whopper
-  - "tacos-cu-creveti-si-salsa-de-avocado"
+  - "big-king"
   - "quesadilla-cu-pui-si-branza-cheddar"
+  - "bk-chicken-fries"
   - salad
-  - fries
+  - "soft-drink"
+  - "whopper-picant-cu-jalapenos"
+  - "hot-dog"
   - "supa-crema-de-rosii-cu-busuioc"
+  - hamburger
+  - "salata-greceasca-cu-branza-feta"
+  - "tacos-cu-creveti-si-salsa-de-avocado"
+  - fries
+  - "burger-king-chicken-nuggets"
+  - "desert-mousse-de-ciocolata-cu-fructe-de-padure"
+  - "milkshake-de-vanilie-cu-sos-de-caramel"
+  - dessert
+  - whopper
+  - "cartofi-dulci-prajiti-cu-sos-picant"
+  - apple
   - cheeseburger
 products: []
 headquarters_locations:
@@ -83,9 +83,9 @@ imagery_styles: []
 wikidata_description: "global chain of hamburger fast food restaurants headquartered in Florida, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q177054"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -214,12 +214,6 @@ visual_term_image_urls: {}
 - [https://www.burgerking.pe](https://www.burgerking.pe)
 - [https://burgerkingve.com](https://burgerkingve.com)
 
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -228,7 +222,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bk Chicken Fries](/products_or_materials_produced/bk-chicken-fries/); [Apple](/products_or_materials_produced/apple/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Big King](/products_or_materials_produced/big-king/); [Desert Mousse De Ciocolata Cu Fructe De Padure](/products_or_materials_produced/desert-mousse-de-ciocolata-cu-fructe-de-padure/); [Cartofi Dulci Prajiti Cu Sos Picant](/products_or_materials_produced/cartofi-dulci-prajiti-cu-sos-picant/); [Dessert](/products_or_materials_produced/dessert/); [Crispy Chicken Burger King](/products_or_materials_produced/crispy-chicken-burger-king/); [Whopper Picant Cu Jalapenos](/products_or_materials_produced/whopper-picant-cu-jalapenos/); [Burger King Chicken Nuggets](/products_or_materials_produced/burger-king-chicken-nuggets/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Milkshake De Vanilie Cu Sos De Caramel](/products_or_materials_produced/milkshake-de-vanilie-cu-sos-de-caramel/); +9 more |
+| Product Or Material Produced | [Crispy Chicken Burger King](/products_or_materials_produced/crispy-chicken-burger-king/); [Big King](/products_or_materials_produced/big-king/); [Quesadilla Cu Pui Si Branza Cheddar](/products_or_materials_produced/quesadilla-cu-pui-si-branza-cheddar/); [Bk Chicken Fries](/products_or_materials_produced/bk-chicken-fries/); [Salad](/products_or_materials_produced/salad/); [Soft Drink](/products_or_materials_produced/soft-drink/); [Whopper Picant Cu Jalapenos](/products_or_materials_produced/whopper-picant-cu-jalapenos/); [Hot Dog](/products_or_materials_produced/hot-dog/); [Supa Crema De Rosii Cu Busuioc](/products_or_materials_produced/supa-crema-de-rosii-cu-busuioc/); [Hamburger](/products_or_materials_produced/hamburger/); [Salata Greceasca Cu Branza Feta](/products_or_materials_produced/salata-greceasca-cu-branza-feta/); [Tacos Cu Creveti Si Salsa De Avocado](/products_or_materials_produced/tacos-cu-creveti-si-salsa-de-avocado/); +9 more |
 | Headquarters Location | [Miami Dade County](/headquarters_locations/miami-dade-county/) |
 | Foundation Date | [1956](/foundation_dates/1956/); [1954](/foundation_dates/1954/) |
 | Viaf Cluster Id | 132616942 |

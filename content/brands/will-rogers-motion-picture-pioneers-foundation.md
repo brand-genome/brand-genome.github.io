@@ -2,7 +2,7 @@
 title: Will Rogers Motion Picture Pioneers Foundation
 slug: "will-rogers-motion-picture-pioneers-foundation"
 description: ""
-date: "2026-03-20T08:22:03.080831"
+date: "2026-04-10T09:40:30.591427"
 draft: false
 sectors:
   - "arts-culture"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - art
   - entertainment
+  - art
 industries: []
 countries:
   - "united-states"
@@ -59,9 +59,9 @@ imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54670035"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 
 - [https://wrpioneers.org](https://wrpioneers.org)
 - [http://www.willrogersmotionpicture.org](http://www.willrogersmotionpicture.org)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*
 
 ## Additional Properties
 

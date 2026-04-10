@@ -2,7 +2,7 @@
 title: Precor
 slug: precor
 description: ""
-date: "2026-03-20T08:22:05.860479"
+date: "2026-04-10T09:40:34.884752"
 draft: false
 sectors:
   - fitness
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: InterPro Family
 wikidata_url: "https://www.wikidata.org/wiki/Q24720279"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,12 +65,6 @@ visual_term_image_urls: {}
 - [https://www.precor.com/en-US](https://www.precor.com/en-US)
 - [https://precorathome.com](https://precorathome.com)
 - [https://my.preva.com](https://my.preva.com)
-
-## Brand Guidelines
-
-### 2012
-
-*Guidelines data not available*
 
 ## Additional Properties
 

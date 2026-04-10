@@ -2,7 +2,7 @@
 title: Musicians Institute
 slug: "musicians-institute"
 description: ""
-date: "2026-03-20T08:22:05.570209"
+date: "2026-04-10T09:40:34.490711"
 draft: false
 sectors:
   - education
@@ -50,17 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - lockup
-  - wordmark
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - black
-  - magenta
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "college of contemporary music located in Los Angeles, California"
@@ -81,402 +72,177 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- 2
-TABLE OF CONTENTS
-MISSIO N STATEMENT
- 
-3
-BRAND VOICE
- 
-4
-LOGO
- 
-»
-Overvi ew
- 
-5
- 
-»
-Ma ster Logo
- 
-6
- 
-»
-Mark
- 
-10
-TYP OGRA PHY
- 
-14
-CO LO RS
- 
-15
-GRAP HIC  EL EMENTS
- 
-16
-STATIONERY
- 
- 
-»
-Letterhead
- 
-17
- 
-»
-Envelope
- 
-18
- 
-»
-B usiness C ards
- 
-18
-IMAGERY
- 
-19  
-CO NTA CT
- 
-20
-- 5
-LOGO
-:
- 
-OVE R VIE W
-Musi cians Institute™s br and is co mprised of a 
-Ma ster Logo, and the MI Mark.
-The ma ster logo holds our brand equity. All 
-external-facing and corporate coll ateral should 
-contain the ma ster logo.
-Generally, the MI Mark can be used a s the 
-main focus of our brand, a s long a s the ma ster 
-logo is also represented so mewhere in the 
-creative. In instances that the ma ster logo 
-appears in a photo used in the creative, the 
-ma ster logo itself can be ommitted. 
-M I MARK
-MASTE R LO G O
-- 6
-MASTER LOGO
-:
- 
-PARTS
-The master logo is comprised of two 
-elements:
- 
-»
-The Logo
- 
-»
-The Word Mark
-Only the Logo can be used on its own. The 
-Word Mark should never be used on its own.
-LOGO
-LOGO
-W OR D MAR K
-W OR D MAR K
-STAC K ED MAST E R LOGO
-HOR I ZONTAL MAST E R LOGO
-- 7
-MASTER LOGO
-:
- 
-COLOR  VARIATIONS
-M I™s logo should always be shown in the 
-colors Red (P M S 1797), Black and White. 
-The logo can be shown in solid black and/
-or reversed out into solid white, but should 
-never be shown in solid red.
-T W O-COLOR:
- PM S 1787 & B LACK (F OUR C OLOR / DI G I TAL PR I N TI N G)
-T W O-COLOR:
- PM S 1787 & W H I TE (FOU R C OLOR / DI GI TAL PR I N TI NG)
-ON E-COLOR:
- B LACK
-ON E-COLOR:
- WH ITE
-- 8
-MASTER LOGO
-:
- 
-SIZE  &  SPACING
-MINIMUM SIZE
-Minimum size for the st acked master logo 
-is 1.5ﬂ wide.
-Minimum size for the horizont al master logo 
-is 2.5 inches wide.
-C LEAR S PAC E
-For both the stacked and horizont al master 
-logo, the clear space around the logo 
-should be equal to the size of 2 ﬁM™sﬂ in 
-the word ﬁMusiciansﬂ
-MINIMUM SIZE
-SPACI NG
-1.5 inches wide
-2.5 inches wide
-- 9
-MASTER LOGO
-:
- 
-INCORRECT  US AGE
-Always ensure the ma ster logo is used a s 
-follows :
-Do: 
-Always use colors a s speci˜ed
-Don™t:
- Modify logo colors , eve n if it means 
-si mp ly reversing them, or making the entire 
-logo Red
-Do:
- Always use lockup a s speci˜ed
-Don™t:
- Separate the logo fro m the word 
-mark 
-or scale one independently of the other
-Do: 
-Always scale the ma ster logo lockup 
-proportionally, using the Shift key
-Don™t
-:
- Strech or otherwise modify the ma ster 
-logo in scale
-Do
-: Always ensure the ma ster logo is legible 
-over its background. Use the reversed version 
-of the logo when necessary
-Don™t
-: 
-Pl ace the full-color version of the logo 
-over a dark background.
-Do
-: Always use the ma ster logo wordmark a s 
-speci˜ed
-Don™t
-: 
-Reset type in the ma ster logo for any 
-rea son
-C OR RECT U SAGE
-I NCOR R ECT USAG E
-MUSICIANS INSTITUTE
-C OLLEGE OF C ONTEMPOR ARY MUSIC
-MUSICIANS INSTITUTE
-C OLLEGE OF C ONTEMPOR ARY MUSIC
-Always use colors as specified
-Always ensure the master logo is 
-legible over its background
-Always use master logo w ordmark as 
-specified
-Always use lockup as specified
-Always scale the master logo lockup 
-propor tionally, using the Shift key
+##### Mission
 
-**Color Information:**
+- Musicians Institute is dedicated to inspiring artistic and academic excellence while preparing students for careers in the music and entertainment industry. Our cutting-edge educational offerings provide the information, skills and expertise necessary for musicians and creative professionals to achieve their goals. We strive to develop a diverse array of talented individuals who can enrich the global community with their artistic contributions.
 
-- 7
-MASTER LOGO
-:
- 
-COLOR  VARIATIONS
-M I™s logo should always be shown in the 
-colors Red (P M S 1797), Black and White. 
-The logo can be shown in solid black and/
-or reversed out into solid white, but should 
-never be shown in solid red.
-T W O-COLOR:
- PM S 1787 & B LACK (F OUR C OLOR / DI G I TAL PR I N TI N G)
-T W O-COLOR:
- PM S 1787 & W H I TE (FOU R C OLOR / DI GI TAL PR I N TI NG)
-ON E-COLOR:
- B LACK
-ON E-COLOR:
- WH ITE
-- 11
-MI  MAR K
-:
- 
-COLOR  VARIATIONS
-M I™s logo should always be shown in the 
-colors Red (P M S 1797) and Black or 
-White. The logo should never be shown in 
-solid black and/or reversed out into solid 
-white, or red.
-T W O-COLOR:
- PM S 1797 & B LACK (F OUR C OLOR / DI G I TAL PR I N TI N G)
-T W O-COLOR:
- PM S 1797 & W H I TE (FOU R C OLOR / DI GI TAL PR I N TI NG)
-- 15
-COLORS
-MI™s pri mary colors are Red ( PMS 1797), 
-Bl ack and White. These are the colors that 
-represent our brand, and should be used in all 
-creative a s sociated with the MI brand. 
-The secondar y colors shown can be used 
-for various rea sons. However, there should 
-always be at lea st 3 of the secondary colors 
-used in the creative. There should never be 
-an instanc e where one of the secondary 
-colors would be used on its own, even if in 
-conjuction with the pri mar y MI colors.
-PM S #1797
-C:0 M:1 00 Y:1 00 K:0
-C:32 M:8 9 Y:1 6 K:1
-C:43 M:76 Y:0 K:0
-C:11 M:6 4 Y:9 6 K:1
-C:3 0 M:1 9 Y:1 00 K:1
-C:78 M:22 Y:21 K:0
-C:11 M:14 Y:9 0 K:0
-B LACK
-ORAN GE
-GREEN
-RED
-MAGENTA
-PU R PLE
-PR I MARY PAL ET T E
-S ECON DARY PAL ET T E
-1 00%
-70 %
-5 0%
-3 0%
-WH ITE
-TU RQUOISE
-YE LLOW
+##### Core Values
 
-**Imagery Photography:**
+- artistic excellence
+- academic excellence
+- diversity
+- creativity
+- community enrichment
 
-- 2
-TABLE OF CONTENTS
-MISSIO N STATEMENT
- 
-3
-BRAND VOICE
- 
-4
-LOGO
- 
-»
-Overvi ew
- 
-5
- 
-»
-Ma ster Logo
- 
-6
- 
-»
-Mark
- 
-10
-TYP OGRA PHY
- 
-14
-CO LO RS
- 
-15
-GRAP HIC  EL EMENTS
- 
-16
-STATIONERY
- 
- 
-»
-Letterhead
- 
-17
- 
-»
-Envelope
- 
-18
- 
-»
-B usiness C ards
- 
-18
-IMAGERY
- 
-19  
-CO NTA CT
- 
-20
-- 19
-MI™s i magery evokes the constant energy on 
-campus that only co mes fro m the love for 
-musi c that li es in everyone on campus. There 
-is a raw e nergy in the i mages used in MI™s 
-coll ateral that speaks clear ly to our au di ence . 
-The i mages used in any creative should have 
-energy, pa s sion and striking colors. 
-IMAGERY
+##### Target Audience
 
-**Brand Voice:**
+- Musicians and creative professionals seeking careers in the music and entertainment industry, including students who aspire to develop their artistic and academic skills.
 
-- 2
-TABLE OF CONTENTS
-MISSIO N STATEMENT
- 
-3
-BRAND VOICE
- 
-4
-LOGO
- 
-»
-Overvi ew
- 
-5
- 
-»
-Ma ster Logo
- 
-6
- 
-»
-Mark
- 
-10
-TYP OGRA PHY
- 
-14
-CO LO RS
- 
-15
-GRAP HIC  EL EMENTS
- 
-16
-STATIONERY
- 
- 
-»
-Letterhead
- 
-17
- 
-»
-Envelope
- 
-18
- 
-»
-B usiness C ards
- 
-18
-IMAGERY
- 
-19  
-CO NTA CT
- 
-20
+##### Personality Traits
 
-**Notes:**
+- passionate
+- energetic
+- creative
+- expressive
+- authentic
+- optimistic
+- caring
 
-- 20
-MARKETING DEPARTMENT
-   Marketing Manager
-   Stacie  Dowthwaite
-   staci e@ mi.edu
-CONTACT  INFO
+##### Visual Identity Overview
+
+- The visual identity is defined by bold, modern logos (Master Logo and MI Mark), a primary color palette of red, black, and white, and supporting typography using Berthold Akzidenz Grotesk and Helvetica. Imagery is energetic and passionate, reflecting the vibrant campus life and love for music. Graphic elements include thin lines in brand colors and solid icons, with layouts emphasizing clarity, professionalism, and contemporary style.
+
+#### Categories
+
+##### Brand Voice
+
+- PASSIONATE
+- ENERGETIC
+- CREATIVE
+- EXPRESSIVE
+- AUTHENTIC
+- OPTIMISTIC
+- CARING
+
+##### Brand Imagery
+
+- Mi's imagery evokes the constant energy on campus that only comes from the love for music that lies in everyone on campus. There is a raw energy in the images used in Mi's collateral that speaks clearly to our audience. The images used in any creative should have energy, passion and striking colors.
+
+##### Color Palette
+
+- MI’s logo should always be shown in the colors Red (PMS 1797), Black and White. The logo can be shown in solid black and/ or reversed out into solid white, but should never be shown in solid red.
+- TWO-COLOR: PMS 1787 & BLACK (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: BLACK
+- TWO-COLOR: PMS 1787 & WHITE (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: WHITE
+- Do: Always use colors as specified
+- Don't: Modify logo colors, even if it means simply reversing them, or making the entire logo Red
+- Don't: Place the full-color version of the logo over a dark background.
+- Always use colors as specified
+- Mi's logo should always be shown in the colors Red (PMS 1797) and Black or White. The logo should never be shown in solid black and/or reversed out into solid white, or red.
+- TWO-COLOR: PMS 1 797 & BLACK (FOUR COLOR/DIGITAL PRINTING)
+- TWO-COLOR: PMS 1 797 & WHITE (FOUR COLOR/DIGITAL PRINTING)
+- Don't: Modify Mark colors, even if it means simply reversing them, or making the entire mark Red
+- Don't: Place the full-color version of the Ml Mark over a dark or red background.
+- Mi's primary colors are Red (PMS 1797), Black and White. These are the colors that represent our brand, and should be used in all creative associated with the Ml brand.
+- The secondary colors shown can be used for various reasons. However, there should always be at least 3 of the secondary colors used in the creative. There should never be an instance where one of the secondary colors would be used on its own, even if in conjuction with the primary Ml colors.
+- RED PMS #1797 C:0 M:100 Y:100 K:0
+- MAGENTA C:32 M:89 Y:16 K:1
+- ORANGE C:11 M:64 Y:96 K:1
+- PURPLE C:43 M:76 Y:0 K:0
+- GREEN C:30 M:19 Y:100 K:1
+- WHITE
+- TURQUOISE C:78 M:22 Y:21 K:0
+- YELLOW C:11 M:14 Y:90 K:0
+
+##### Typography
+
+- The primary supporting typeface for Musicians Institute is the Berthhold Akzidenz Grotesk family and should be used whenever possible. Berthhold Akzidenz Grotesk is a sans-serif typeface that can be used as headline or body copy. Berthhold Akzidenz Grotesk works very well as body copy and can be considered for headline use when a more formal or traditional feel is required.
+- In cases where Bathold Akzidenz Grotesk can not be used, please use Helvetica as a substitute.
+- The Suggested Hierarchy on the right is an example of how you can use the different font weighs to show hierarchy in a layout.
+- BERTHOLD AKZIDENZ GROTESK LIGHT CONDENSED CONDENSED MEDIUM CONDENSED MEDIUM CONDENSED ITALIC BOLD CONDENSED EXTRA BOLD CONDENSED EXTRA BOLD CONDENSED ITALIC LIGHT REGULAR ITALIC MEDIUM MEDIUM ITALIC BOLD BOLD ITALIC EXTRA BOLD SUPER
+- SUGGESTED HIERARCHY BECOME A MASTER CRAFTSMAN AT GCA! ELECTRIC CERTIFICATE IN GUITAR CRAFT 2 quarters . 30 credits* Provides comprehensive training in the methods and techniques of professional electric guitar/bass design, fabrication and maintenance. PARAGRAPH >> Berthold Akzidenz Grotesk, Regular PARAGRAPH SUBHEADER >> Berthold Akzidenz Grotesk, Italic PARAGRAPH HEADER >> Berthold Akzidenz Grotesk, Bold, All Caps MAIN HEADER >> Berthold Akzidenz Grotesk, Bold, Tracking +75, All Caps, Supported with a Red rectangle (optional) TAGLINE >> Berthold Akzidenz Grotesk, Light Condensed, All Caps
+- Body copy should be presented in Helvetica Regular, 1 Opt with 1.5 line spacing
+- Footer copy should be presented in Helvetica Regular, Bpt
+- Address is written underneath the logo, left-aligned with the word mark, in Georgia Bold, 7pt.
+
+##### Logo Usage
+
+- Musicians Institute’s brand is comprised of a Master Logo, and the MI Mark.
+- The master logo holds our brand equity. All external-facing and corporate collateral should contain the master logo.
+- Generally, the MI Mark can be used as the main focus of our brand, as long as the master logo is also represented somewhere in the creative. In instances that the master logo appears in a photo used in the creative, the master logo itself can be ommitted.
+- The master logo is comprised of two elements: »The Logo »The Word Mark
+- Only the Logo can be used on its own. The Word Mark should never be used on its own.
+- MI’s logo should always be shown in the colors Red (PMS 1797), Black and White. The logo can be shown in solid black and/ or reversed out into solid white, but should never be shown in solid red.
+- TWO-COLOR: PMS 1787 & BLACK (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: BLACK
+- TWO-COLOR: PMS 1787 & WHITE (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: WHITE
+- Minimum size for the stacked master logo is 1.5” wide.
+- Minimum size for the horizontal master logo is 2.5 inches wide.
+- For both the stacked and horizontal master logo, the clear space around the logo should be equal to the size of 2 “M’s” in the word “Musicians”
+- Always ensure the master logo is used as follows: Do: Always use colors as specified Don't: Modify logo colors, even if it means simply reversing them, or making the entire logo Red Do: Always use lockup as specified Don't: Separate the logo from the word mark or scale one independently of the other Do: Always scale the master logo lockup proportionally, using the Shift key Don't: Strech or otherwise modify the master logo in scale Do: Always ensure the master logo is legible over its background. Use the reversed version of the logo when necessary Don't: Place the full-color version of the logo over a dark background. Do: Always use the master logo wordmark as specified Don't: Reset type in the master logo for any reason
+- The Ml Mark is comprised of two elements: »The Ml Letters »The Word Mark
+- The Ml Letters and Word Mark should never be used independently of each other.
+- Mi's logo should always be shown in the colors Red (PMS 1797) and Black or White. The logo should never be shown in solid black and/or reversed out into solid white, or red.
+- TWO-COLOR: PMS 1 797 & BLACK (FOUR COLOR/DIGITAL PRINTING)
+- TWO-COLOR: PMS 1 797 & WHITE (FOUR COLOR/DIGITAL PRINTING)
+- Minimum size for the MI Mark is 1” tall. Minimum size for the MI Mark is 1.5” wide.
+- For both the stacked and horizontal master logo, the clear space around the logo should be equal to the size of the “U” in the word “Music”.
+- Always ensure the Ml Mark is used as follows: Do: Always use colors as specified Don't: Modify Mark colors, even if it means simply reversing them, or making the entire mark Red Do: Always use lockup as specified Don't: Separate the Ml letters from the word mark or scale one independently of the other. Do: Always scale the Ml Mark lockup proportionally, using the Shift key Don't: Strech or otherwise modify the Ml Mark in scale. Do: Always ensure the Ml Mark is legible over its background. Use the reversed version of the mark when necessary. Don't: Place the full-color version of the Ml Mark over a dark or red background. Do: Always use the wordmark as specified Don't: Reset type in the Ml Mark for any reason
+
+##### Tone And Messaging
+
+- PASSIONATE
+- ENERGETIC
+- CREATIVE
+- EXPRESSIVE
+- AUTHENTIC
+- OPTIMISTIC
+- CARING
+
+##### Brand Values
+
+- Musicians Institute is dedicated to inspiring artistic and academic excellence while preparing students for careers in the music and entertainment industry. Our cutting­edge educational offerings provide the information, skills and expertise necessary for musicians and creative professionals to achieve their goals. We strive to develop a diverse array of talented individuals who can enrich the global community with their artistic contributions.
+- PASSIONATE
+- ENERGETIC
+- CREATIVE
+- EXPRESSIVE
+- AUTHENTIC
+- OPTIMISTIC
+- CARING
+
+##### Visual Style
+
+- MI’s logo should always be shown in the colors Red (PMS 1797), Black and White. The logo can be shown in solid black and/ or reversed out into solid white, but should never be shown in solid red.
+- TWO-COLOR: PMS 1787 & BLACK (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: BLACK
+- TWO-COLOR: PMS 1787 & WHITE (FOUR COLOR/DIGITAL PRINTING)
+- ONE-COLOR: WHITE
+- Minimum size for the stacked master logo is 1.5” wide.
+- Minimum size for the horizontal master logo is 2.5 inches wide.
+- For both the stacked and horizontal master logo, the clear space around the logo should be equal to the size of 2 “M’s” in the word “Musicians”
+- Always ensure the master logo is used as follows: Do: Always use colors as specified Don't: Modify logo colors, even if it means simply reversing them, or making the entire logo Red Do: Always use lockup as specified Don't: Separate the logo from the word mark or scale one independently of the other Do: Always scale the master logo lockup proportionally, using the Shift key Don't: Strech or otherwise modify the master logo in scale Do: Always ensure the master logo is legible over its background. Use the reversed version of the logo when necessary Don't: Place the full-color version of the logo over a dark background. Do: Always use the master logo wordmark as specified Don't: Reset type in the master logo for any reason
+- Mi's primary colors are Red (PMS 1797), Black and White. These are the colors that represent our brand, and should be used in all creative associated with the Ml brand.
+- The secondary colors shown can be used for various reasons. However, there should always be at least 3 of the secondary colors used in the creative. There should never be an instance where one of the secondary colors would be used on its own, even if in conjuction with the primary Ml colors.
+- PMS #1797 C:0 M:100 Y:100 K:0
+- MAGENTA C:32 M:89 Y:16 K:1
+- ORANGE C:11 M:64 Y:96 K:1
+- PURPLE C:43 M:76 Y:0 K:0
+- GREEN C:30 M:19 Y:100 K:1
+- TURQUOISE C:78 M:22 Y:21 K:0
+- YELLOW C:11 M:14 Y:90 K:0
+- The main graphic element seen in many of Mi's creative assets is the line. Lines are used as separators, they can add visual interest, and direct your eye to specific information. In the examples to the right, you can see how lines should be used in some of Mi's print and digital collateral. Lines should be thin and only shown in red, shades of black, or white.
+- Ml also uses icons as graphics, especially in digital platforms. Icons should be solid, not outlined, and accompanied with a title.
+- Mi's imagery evokes the constant energy on campus that only comes from the love for music that lies in everyone on campus. There is a raw energy in the images used in Mi's collateral that speaks clearly to our audience. The images used in any creative should have energy, passion and striking colors.
+
+##### Iconography
+
+- Ml also uses icons as graphics, especially in digital platforms. Icons should be solid, not outlined, and accompanied with a title.
+
+##### Layout And Composition
+
+- Minimum size for the stacked master logo is 1.5” wide.
+- Minimum size for the horizontal master logo is 2.5 inches wide.
+- For both the stacked and horizontal master logo, the clear space around the logo should be equal to the size of 2 “M’s” in the word “Musicians”
+- Minimum size for the MI Mark is 1” tall. Minimum size for the MI Mark is 1.5” wide.
+- For both the stacked and horizontal master logo, the clear space around the logo should be equal to the size of the “U” in the word “Music”.
+- On the Ml Envelope, the master logo should be left-aligned at 3.5" wide. Address is written underneath the logo, left-aligned with the word mark, in Georgia Bold, 7pt.
+- Ml Master Logo should be centered at 3.5 inches wide
+- Body copy should be presented in Helvetica Regular, 1 Opt with 1.5 line spacing
+- Footer copy should be presented in Helvetica Regular, Bpt
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: UW Milwaukee
 slug: "uw-milwaukee"
 description: ""
-date: "2026-03-20T08:22:05.746764"
+date: "2026-04-10T09:40:34.725773"
 draft: false
 sectors:
   - education
@@ -53,19 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - seal
-  - symbol
-brand_colors:
-  - silver
-  - gold
-  - white
-  - gray
-  - black
-typographies:
-  - times
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: university in Milwaukee
 wikidata_url: "https://www.wikidata.org/wiki/Q1755318"
 has_twitter: false
@@ -86,35 +77,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- The UWM logos may appear in multi-color, two-color, and single-color formats. Official UWM colors, black, and white are permissible, with specific combinations for different backgrounds. Incorrect usage of logos includes applying silver gray on any background, using drop shadows on reversed logos, applying two non-official colors, or using UWM gold on letters in the logos.
-- The UWM seal is strictly limited to official documents (e.g., diplomas, certificates, awards) and requires approval for usage. The seal includes historical and symbolic elements like educational enlightenment.
-- The merchandising symbol is distinct from logos and seal, strictly for merchandise use. Requires approval for any reproduction.
-- When used in television or video screens, the UWM logos should ideally be in a two-color format with maximum visibility achieved by proper contrast and placement in the lower third of the screen.
-- The UWM logo must take prominence on UWM’s website home pages, following specific web-safe color formulas.
-
-**Color Information:**
-
-- Official UWM colors are specified as Pantone UWM Gold (RGB: R255, G188, B0). Logos are primarily black, gold, and white.
-- Multi-color and two-color usage rules specify that darker colors must dominate. Gold foil cannot replace UWM gold.
-- Web-safe hexadecimal color codes for UWM colors must be consistently used for online content.
-
-**Typography Information:**
-
-- Stationery typography follows a strict style: New Baskerville Roman with 90% condensed for headings, Times Roman for body text, and Baskerville for other sections.
-- Business cards follow a specified design pattern with typography rules for different sections including name, title, and contact details.
-- Specific letter formatting guidelines include position and size of text on letterhead. Fonts include New Baskerville Italic, bold, and Roman combinations.
-
-**Spacing Layout:**
-
-- Margins, including letter specifications: 1.5 inches from right edge for standard letters, 0.833 inches for capacity letters, and guidelines for the position of logos and elements.
-- Formatting rules for logos in video screens include proper spacing in dual sponsorships and ensuring logos are prominently distinct.
-
-**Notes:**
-
-- Templates are available for stationery and business cards via the UWM Print & Copy Services, along with downloadable editable templates for smaller supplies.
-- Exceptions to the branding rules or adaptations (e.g., substitution of department/office name for school/college on stationery) require explicit authorization and must follow outlined approval processes.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,12 +2,12 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-03-20T08:22:03.377442"
+date: "2026-04-10T09:40:30.914496"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - usa
 years:
@@ -57,33 +57,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - crimson
-  - "pantone-7542"
-  - indigo
-  - gray
-  - black
-typographies:
-  - arial
-  - script
-  - georgia
-imagery_styles:
-  - bold
-  - graphic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Cambridge, Massachusetts"
 wikidata_url: "https://www.wikidata.org/wiki/Q13371"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -97,51 +80,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2021
-
-*Guidelines data not available*
-
 ### 2017
 
-**Logo Information:**
-
-- Graphic identity manual detailing Harvard's institutional design standards.
-- Table of contents with logo and signature sections mentioned, including Veritas Shield, University Signature, and related elements.
-- Guidelines for visual articulation of Harvard’s graphic identity. Introduction mentions consistency in logo and signature usage.
-- Explanation of Harvard’s signature elements, including large shield, small shield, primary extension, horizontal signatures, and vertical formats.
-- Rules for usage of the Veritas shield: small/large size detailed, and restricted color options (Harvard crimson only).
-- Guidance on combining Harvard wordmark with other institution or initiative logos, with instructions to follow signature creation rules.
-
-**Color Information:**
-
-- Primary color palette includes Harvard Crimson (Pantone 187u): CMYK - C:7 M:94 Y:65 K:25 | HEX: #A51C30 | RGB: R:165 G:28 B:48.
-- Core palette defined: Ink (Pantone Process Black U), Mortar (Pantone Warm Gray 8 U), Slate (Pantone 7542 U), Parchment (Pantone Cool Gray 1 U). CMYK and hex values provided.
-- Accent color palette: Ivy (Pantone 363U), Indigo (Pantone 2727C), Saffron (Pantone 1595U), Lemon (Pantone 7499U), and other colors with HEX and RGB codes specified.
-
-**Typography Information:**
-
-- Primary Typeface: Anziano Pro—Regular, Italic, Bold, used for secondary levels in wordmarks and communications materials.
-- Supporting font Benton Sans—Medium, and specific weights available (italic, bold, regular). Not to be used as primary.
-- Recommended system fonts include Arial Regular, Arial Bold, Georgia Regular, Georgia Italic, and Shelley script for decorative usage.
-
-**Imagery Photography:**
-
-- Typography guidelines mention coordination with overall design, photography, editorial writing, promoting Harvard's global and academic excellence.
-
-**Spacing Layout:**
-
-- Clear zone rules around the signature defined as 'B' (height of 'H' in Harvard) to ensure clear visibility.
-- Spacing and proportional rules for wordmark extension ensured alignment to Harvard design consistency.
-
-**Brand Voice:**
-
-- Guide emphasis on consistent identity expression to maintain unified voice in Harvard's communication materials.
-- Veritas shield usage guidelines promote Harvard crimson color for the shield to symbolize its identity clearly.
-
-**Notes:**
-
-- Contact details for licensing issues and logo concerns: Harvard Public Affairs & Communications.
-- Use of dual shields requires permission from Harvard Public Affairs and the Trademark Program for specific initiatives.
+*Guidelines data not available*
 
 ## Additional Properties
 

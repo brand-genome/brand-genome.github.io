@@ -2,11 +2,11 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-03-20T08:22:04.214137"
+date: "2026-04-10T09:40:32.596003"
 draft: false
 sectors:
-  - automobile
   - "consumer-goods"
+  - automobile
 regions:
   - usa
 years:
@@ -49,11 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - gotham
-  - montserrat
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -73,22 +70,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The document lists 'LOGO' as a section in the table of contents, with emphasis on 'The We Love Engines Logo' and 'The Global Coverage and Wix Institute Logos.' However, no explicit logo versions or file format details are discernible due to text artifacts.
-
-**Color Information:**
-
-- A 'Colours' section is mentioned in the table of contents, but no detailed color specifications or codes (e.g., Pantone, HEX, RGB) are retrievable from the text.
-
-**Typography Information:**
-
-- Fonts mentioned include 'Gotham Bold,' 'Gotham Medium,' 'Montserrat Bold,' 'Montserrat Medium,' and 'Montserrat Regular.' Sample character sets are also displayed.
-
-**Brand Voice:**
-
-- A section titled 'The 2017 Campaign' appears in the table of contents, suggesting guidelines or messaging elements exist, but no visible messaging or tone instructions are readable.
-
-**Notes:**
-
-- Pages 24–26 contain repeated branding URLs (www.wixeurope.com), suggesting links to dealer/showroom branding or related web content.
+*Guidelines data not available*

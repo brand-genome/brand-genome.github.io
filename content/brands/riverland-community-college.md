@@ -2,7 +2,7 @@
 title: Riverland Community College
 slug: "riverland-community-college"
 description: ""
-date: "2026-03-20T08:22:04.243899"
+date: "2026-04-10T09:40:32.820854"
 draft: false
 sectors:
   - education
@@ -50,10 +50,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -76,41 +73,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The Logo
-- Logo Parts
-- Logo Variations
-- Ł Horizontal Logo
-- Ł Color Logo
-- Logomark
-- Unacceptable Logo Usage
-- Departmental Logos
-- Other Logos
-- Logo Color
-- Logo Downloads
-- Athletic Logos
-- Logo Downloads
-
-**Color Information:**
-
-- Color Variations
-- Ł Color Logo
-- Logo Color
-- College Colors
-- Two-Color Contrast (Primary)
-- Collegiate Color Palette
-- Athletic Colors
-
-**Typography Information:**
-
-- Web Typography
-- Print Typography
-- Internal Font Use
-
-**Imagery Photography:**
-
-- photographs
+*Guidelines data not available*
 
 ## Additional Properties
 

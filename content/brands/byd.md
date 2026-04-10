@@ -2,7 +2,7 @@
 title: BYD
 slug: byd
 description: ""
-date: "2026-03-20T08:22:03.080236"
+date: "2026-04-10T09:40:30.590877"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - featured
   - transport
+  - engineering
 industries:
-  - "battery-industry"
-  - "automotive-industry"
   - "consumer-electronics-industry"
+  - "automotive-industry"
+  - "battery-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
@@ -85,7 +85,121 @@ visual_term_image_urls: {}
 
 ### 2023
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To provide unified, professional, and visually consistent after-sales service experiences for BYD customers overseas, emphasizing clarity, modernity, and environmental responsibility [^1].
+
+##### Core Values
+
+- professionalism
+- unity
+- clarity
+- modernity
+- environmental responsibility
+
+##### Target Audience
+
+- BYD customers and service center visitors in overseas markets, including both technical staff and sales associates [^2].
+
+##### Personality Traits
+
+- professional
+- modern
+- minimalistic
+- unified
+- environmentally conscious
+
+##### Visual Identity Overview
+
+- The brand employs a minimalistic and modern visual style, with a focus on geometric shapes, a standardized logo, and a consistent color palette of white, gray, and festival red. Typography is unified with Source Sans Pro, and visual elements are applied across signage, business cards, uniforms, and service environments to ensure brand consistency [^3].
+
+#### Categories
+
+##### Color Palette
+
+- Standard colors symbolize brand spirit and brand culture. It conveys the brand image visually and strengthens the brand image. The three colors white/ gray/ festival red are the standard colors of our brand. PANTONE COLOR VALUE
+- PANTONE color value is an international general printing color standard,which is applied in printing.There should be a unified PANTONE manual between the customer and the printing factory as the only standard for color inspection, which is used in important occasions and projects.
+- Four-color printing value is applied in the printing, four-color separation printing is required in use. To ensure the color quality of printing, please follow the standard color value in use.
+- Using RGB color values in monitors, computer screens, etc., such as PPT, etc. Web pages use the hexadecimal color mode to set colors.
+- White COMOYOKO RO GO BO
+- #ffffff
+- Gray Pantone Coolgray llC CS MO YO K70 Rl04 Gl09 8113 #686d71
+- Festival red Pantone 199C C10 M100 YlOO KO R215 Gl2 825 #d70c19
+- Background Wall Color: Pantone Cool Gray lOC
+- The panel is 1.2mm galvanized sheet, baked gray paint (Pantone Cool Gray 10C);
+- The color of the column is consistent with the color of the bottom plate;
+- Color: Pantone Cool Gray 3C
+- Standard of channel: light gray epoxy floor paint
+- Standard of workplace: light gray epoxy floor paint
+
+##### Typography
+
+- Font: Source Sans Pro Bold
+- Font: Source Sans Pro Bold/Regular
+- Font: Name--Source Sans Pro Bold 14pt Position--Source Sans Pro Regular lOpt
+- Main title: Source Sans Pro Bold lOOpt;
+- Subtitle: Source Sans Pro Medium 48pt;
+- Time: Source Sans Pro Regular 44pt;
+- Text titles: Source Sans Pro Bold 36pt;
+- Body content: Source Sans Pro Regular 30pt.
+- Font: Source Sans Pro
+
+##### Visual Style
+
+- It is divided into horizontal version, vertical version and separate use.
+- Assume the BYD height is “A” ,The spatial relationship of other elements is shown in the right figure.
+- It can be scaled according to the actual situation.
+- The entire 'BYD' text spans a width of 5.2A units, with an approximate height labeled 'A.' Below, there is a second line of text that reads 'SERVICE' in the same thick, gray font, in all capital letters, measuring approximately 3.6A units in width. The height of the 'SERVICE' text corresponds to 0.65 units, and there is an identical vertical space of 0.65 units separating the 'BYD' and 'SERVICE' texts.
+
+##### Layout And Composition
+
+- It is divided into horizontal version, vertical version and separate use.
+- Assume the BYD height is “A” ,The spatial relationship of other elements is shown in the right figure.
+- It can be scaled according to the actual situation.
+- The entire 'BYD' text spans a width of 5.2A units, with an approximate height labeled 'A.' Below, there is a second line of text that reads 'SERVICE' in the same thick, gray font, in all capital letters, measuring approximately 3.6A units in width. The height of the 'SERVICE' text corresponds to 0.65 units, and there is an identical vertical space of 0.65 units separating the 'BYD' and 'SERVICE' texts.
+- To the right of 'BYD,' there is the word 'SERVICE' also in uppercase but in a slightly smaller, similar sans-serif font, separated by a small space. Above and below the main text elements, there are measurement annotations indicating the widths and spacing: '5.2A' above the 'BYD' logo, '0.65A' spacing between 'BYD' and 'SERVICE,' and '3.6A' representing the combined width of 'SERVICE' plus spacing. Additional vertical measurements of '0.65A' are noted on the right side, suggesting symmetrical spacing or margin details.
+
+##### Packaging Design
+
+- The environmentally friendly three-piece set of after-sales service are cleaning tools used for the steering wheel, shift handle, and driver's seat when picking up the car.The unified specifications are shown in the figure on the right.
+- After-sales service environmental protection floor mat is a cleaning tool used in the position of the floor mat when picking up the car. It needs to be used together with the after-sales service environmental protection three-piece set. Its unified specifications are shown in the right picture.
+- The maintenance three-piece set is a protection tool used for wing panel and front bumper during car maintenance, and its uniform style is shown in the picture on the right.
+- The maintenance three-piece set shall be made by ourselves according to the design draft provided.
+- The rescue box is the emergency materials, including water, warm clothes and medicine, which are equipped with BYD's work car when carrying out rescue missions. The packing box must keep the image of unity.
+- The service shop shall purchase its own storage box and make the box stickers according to the standard electronic version provided.
+- Carton Size: Length 300mm Width 150mm
+
+##### Dress Code Guidelines
+
+- Dark grey BYD jackets
+- Dark grey bib overalls
+- Cargo shoes (labor protection shoes)
+- Dark grey BYD jumpsuit
+- Dark grey braces
+- Navy POLO short sleeve inside
+- Dark grey split coat
+- Dark grey overalls
+- Dark grey jumpsuit
+- Navy POLO long sleeve inside
+- Dark grey cotton coat
+- light shirt
+- Brunet pants
+- Brunet leather shoes
+- (Dark) Polo shirts with short sleeves
+- Leisure pants
+- White casual shoes
+- Brunet pants/skirt
+- Dark jeans
+- Haze blue wool suit
+- Light color shirt
+- Dark suitjacket/business casual jacket
+- Light shirt on the inside
+- Dark wool suit
+- long medium coat in dark colour
+- Formal suit/casual suit
+- Market can choose coats or other dark clothes according to the temperature, and the style of single store should be consistent.
 
 ## Additional Properties
 

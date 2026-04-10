@@ -2,7 +2,7 @@
 title: Destination Leman
 slug: "destination-leman"
 description: ""
-date: "2026-03-20T08:22:04.243578"
+date: "2026-04-10T09:40:32.819084"
 draft: false
 sectors:
   - tourism
@@ -47,23 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - green
-  - white
-  - blue
-typographies:
-  - "sans-serif"
-  - script
-imagery_styles:
-  - graphic
-  - natural
-  - photography
-  - lifestyle
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -85,39 +72,143 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Categories
 
-- The logo incorporates elements of the region's slow tourism theme, centered around discovery, culinary experiences, and activities organized locally. Its design is inspired by human elements, specifically a fingerprint, with lines reminiscent of contour maps, vineyard lines, lake ripples, and wood grains.
-- The logo must have a clear zone (minimum space around it) equivalent to the height of the lowercase letters composing 'Léman'.
-- Minimum logo dimensions: width of 30mm and height of 23mm. It is crucial to adhere to these size requirements for integrity and readability.
-- Logo usage rules: The full-color logo should only appear on a white background. Reversed white logos can be used on color backgrounds or visuals, and black can be used for administrative needs (e.g., fax or stamp).
-- Incorrect usage examples include: changing the logo colors, deforming its proportions, placing it over colored backgrounds, or using individual elements of the logo separately.
-- For communications involving partners, the Destination Léman logo is always placed lower-left, while partner logos align right, at the same size, respecting the height of 'Léman' and its protected clear space.
+##### Brand Voice
 
-**Color Information:**
+- Ce logo incarne la douceur même du territoire, où il fait bon vivre, à l'image du slow tourisme. Le slow tourisme priorise, dans la découverte d'une région, le temps consacré à la découverte, aux expériences culinaires et aux activités organisées chez l'habitant. Tout est expérience à vivre en Destination Léman. Ce logo est donc naturellement travaillé autour de l'humain, et plus particulièrement autour de l'empreinte digitale. Les lignes qui la compose rappellent étrangement les courbes de niveaux d'une carte, des lignes de vignes, les ondulations sur le lac, une « tranche » de bois, jusqu'aux nervures d'une feuille. Ainsi, on retrouve les marqueurs forts du slow tourisme : Les rencontres, les balades douces, l'oenotourisme, et le tourisme écologique. Au travers de ce logo, Destination Léman laisse son empreinte dans les expériences vécues et à vivre.
+- Typographie de style manuscrite, apportant de la douceur et de l'élégance. Elle vient équilibrer le logo. Elle renforce le positionnement de la destination, axé sur le slow tourisme et l'expérience à vivre. Elle pourra être utilisée dans les outils de communciation en typographie de soutien.
 
-- The logo uses three colors: black, blue, and green, symbolizing earth and lake. Color references include CMYK (C70/M0/J20/N0, C70/M0/J20/N0, C38/M10/J86/N0), RGB (R0/G0/B0, R0/G175/B203, R179/G192/B66), and Pantone (Natural Black, 7710 C, 7745 C).
-- Complementary to the logo's colors, three warmer tones are added for institutional communication tools to bring energy and dynamism. These tones can be used as color fills, gradients, or details, including typography.
+##### Brand Imagery
 
-**Typography Information:**
+- La zone de protection à respecter (X) correspond à la hauteur des lettres minuscules composant Léman.
+- Le logo doit respecter une largeur minimale de 30 mm pour une hauteur minimale de 23 mm.
+- Il est impératif de respecter la taille minimum et la zone de protection.
+- Le logotype en quadri doit être utilisê sur fond blanc uniquement.
+- Ce logotype doit être utilisê en rêserve blanche sur tous les fonds de couleurs et sur les visuels.
+- Il peut être utilisé en noir, à des fins adminsitratives (fax, tampon, etc)
+- Sur une photo, positionner le logotype sur les zones où les teintes sont les plus denses pour une meilleure lisibilité et, de préference, centré.
+- En dehors des différentes versions présentées dans ce guide, le logotype n'est pas modifiable.
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
+- Toute déformation des proportions est également proscrite.
+- Le partenariat est identique pour tous les partenaires Le logotype est aligné et a la méme taille que les autres logotypes.
+- Dans tous les cas, veuillez respecter la zone de réserve du logotype.
 
-- Primary font: Kotori Rose, a timeless sans-serif typeface modified for additional uniqueness and strength, exclusively reserved for the logo.
-- Secondary font: Magnolia Script, a handwritten typeface adding elegance and balance to the logo, representing the slow tourism ethos. Can be used in communication tools.
+##### Color Palette
 
-**Imagery Photography:**
+- 3 couleurs composent le logo, le noir, pour assoir la marque, le bleu et le vert pour la notion “terre et lac”.
+- Réf. quadrichromie C70/M0/J20/N0 C70/M0/J20/N0 C38/M10/J86/N0
+- Réf. écran RVB R0/V0/B0 R0/V175/B203 R179/V192/B66
+- Réf. Pantone ton direct PANTONE NATURAL BLACK PANTONE 7710 C PANTONE 7745 C
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
 
-- Photography themes should align with oenotourism and terroir, culture and heritage, and sports and leisure activities.
-- Photo filters play an integral role in enhancing images. For example, a warming filter may be applied to portraits to maintain focus on human presence in the imagery.
+##### Typography
 
-**Spacing Layout:**
+- KOTORI ROSE C'est la base utilisée pour Destination Léman. Typographie de style bâton, intemporelle donnant de la force à la destination. Elle est retravaillée pour apporter plus de puissance et un caractère unique. Elle ne pourra donc pas être utilisée dans la mise en page des outils de communication.
+- MAGNOLIA SCRIPT Typographie de style manuscrite, apportant de la douceur et de l'élégance. Elle vient équilibrer le logo. Elle renforce le positionnement de la destination, axé sur le slow tourisme et l'expérience à vivre. Elle pourra être utilisée dans les outils de communication en typographie de soutien.
 
-- The clear zone around the logo corresponds to the height of its lowercase letters. No elements should encroach on this space to preserve visual integrity.
-- Graphic details, such as curves and geometric forms derived from the logo typography, can be used creatively in layouts to bring dynamism.
+##### Logo Usage
 
-**Brand Voice:**
+- Ce guide définit les règles fondamentales d’utilisation du logotype Destination Léman. La récurrence de leur application contribuera à la visibilité, la lisibilité et la cohérence de l’image de Destination Léman auprès de ses publics. Ces règles, très simples, doivent donc être systématiquement respectées.
+- La zone de protection à respecter (X) correspond à la hauteur des lettres minuscules composant Léman.
+- Le logo doit respecter une largeur minimale de 30 mm pour une hauteur minimale de 23 mm.
+- Il est impératif de respecter la taille minimum et la zone de protection.
+- Ces deux éléments permettent de préserver l’intégrité et la lisibilité du logotype.
+- Le logotype en quadri doit être utilisê sur fond blanc uniquement.
+- Ce logotype doit être utilisê en rêserve blanche sur tous les fonds de couleurs et sur les visuels.
+- Il peut être utilisé en noir, à des fins adminsitratives (fax, tampon, etc)
+- Sur une photo, positionner le logotype sur les zones où les teintes sont les plus denses pour une meilleure lisibilité et, de préference, centré.
+- En dehors des différentes versions présentées dans ce guide, le logotype n'est pas modifiable.
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
+- Toute déformation des proportions est également proscrite.
+- Le partenariat est identique pour tous les partenaires Le logotype est placé en bas à gauche. Les logotypes sont placés à droite du logotype principal sans dépasser le haut de Léman.
+- Le partenariat est identique pour tous les partenaires Le logotype est aligné et a la méme taille que les autres logotypes.
+- Dans tous les cas, veuillez respecter la zone de réserve du logotype.
 
-- The tone is rooted in slow tourism, emphasizing experiential lifestyle, local culinary richness, ecological tourism, and human connections.
+##### Tone And Messaging
 
-**Notes:**
+- Ce logo incarne la douceur même du territoire, où il fait bon vivre, à l'image du slow tourisme. Le slow tourisme priorise, dans la découverte d'une région, le temps consacré à la découverte, aux expériences culinaires et aux activités organisées chez l'habitant. Tout est expérience à vivre en Destination Léman. Ce logo est donc naturellement travaillé autour de l'humain, et plus particulièrement autour de l'empreinte digitale. Les lignes qui la compose rappellent étrangement les courbes de niveaux d'une carte, des lignes de vignes, les ondulations sur le lac, une « tranche » de bois, jusqu'aux nervures d'une feuille. Ainsi, on retrouve les marqueurs forts du slow tourisme : Les rencontres, les balades douces, l'oenotourisme, et le tourisme écologique. Au travers de ce logo, Destination Léman laisse son empreinte dans les expériences vécues et à vivre.
+- Typographie de style manuscrite, apportant de la douceur et de l'élégance. Elle vient équilibrer le logo. Elle renforce le positionnement de la destination, axé sur le slow tourisme et l'expérience à vivre. Elle pourra être utilisée dans les outils de communciation en typographie de soutien.
 
-- The guideline also addresses applications like stationery templates, email signatures, event posters, roll-up banners, press ads, promotional brochures, and web presence, with consistent adherence to brand standards.
+##### Brand Values
+
+- Ce logo incarne la douceur même du territoire, où il fait bon vivre, à l'image du slow tourisme. Le slow tourisme priorise, dans la découverte d'une région, le temps consacré à la découverte, aux expériences culinaires et aux activités organisées chez l'habitant. Tout est expérience à vivre en Destination Léman. Ce logo est donc naturellement travaillé autour de l'humain, et plus particulièrement autour de l'empreinte digitale. Les lignes qui la compose rappellent étrangement les courbes de niveaux d'une carte, des lignes de vignes, les ondulations sur le lac, une « tranche » de bois, jusqu'aux nervures d'une feuille. Ainsi, on retrouve les marqueurs forts du slow tourisme : Les rencontres, les balades douces, l'oenotourisme, et le tourisme écologique. Au travers de ce logo, Destination Léman laisse son empreinte dans les expériences vécues et à vivre.
+- Elle renforce le positionnement de la destination, axé sur le slow tourisme et l'expérience à vivre.
+
+##### Visual Style
+
+- 3 couleurs composent le logo, le noir, pour assoir la marque, le bleu et le vert pour la notion “terre et lac”.
+- Réf. quadrichromie C70/M0/J20/N0 C70/M0/J20/N0 C38/M10/J86/N0
+- Réf. écran RVB R0/V0/B0 R0/V175/B203 R179/V192/B66
+- Réf. Pantone ton direct PANTONE NATURAL BLACK PANTONE 7710 C PANTONE 7745 C
+- Elle est retravaillée pour apporter plus de puissance et un caractère unique. Elle ne pourra donc pas être utilisée dans la mise en page des outils de communication.
+- La zone de protection à respecter (X) correspond à la hauteur des lettres minuscules composant Léman.
+- Le logo doit respecter une largeur minimale de 30 mm pour une hauteur minimale de 23 mm.
+- Il est impératif de respecter la taille minimum et la zone de protection.
+- Le logotype en quadri doit être utilisê sur fond blanc uniquement.
+- Ce logotype doit être utilisê en rêserve blanche sur tous les fonds de couleurs et sur les visuels.
+- Il peut être utilisé en noir, à des fins adminsitratives (fax, tampon, etc)
+- Sur une photo, positionner le logotype sur les zones où les teintes sont les plus denses pour une meilleure lisibilité et, de préference, centré.
+- En dehors des différentes versions présentées dans ce guide, le logotype n'est pas modifiable.
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
+- Toute déformation des proportions est également proscrite.
+- Une déformation du logotype
+- Une modification de la couleur du logotype
+- Un fond de couleur sous le logotype quadri
+- Une utilisation d'un des éléments du logotype seul
+- Dans tous les cas, veuillez respecter la zone de réserve du logotype.
+
+##### Iconography
+
+- # ICONOGRAPHIE
+- ## LES THEMES
+- ## CULTURE & PATRIMOINE
+- ## ACTIVITES SPORTIVES & LOISIRS
+- ## UNOTOURISME & TERROIR
+- ## LES FILTRES PHOTOS
+- Le traitement des photos est primordiale et fait partie intégrante du résultat graphique.
+- Pour exemple ci-contre, le portrait de la petite fille comporte un filtre réchauffant. Il permet de sublimer les photos tout autour.
+- l'importance de l'humain
+- Le portrait, ou la présence de publics sur les photos est primordial.
+
+##### Layout And Composition
+
+- La zone de protection à respecter (X) correspond à la hauteur des lettres minuscules composant Léman.
+- Le logo doit respecter une largeur minimale de 30 mm pour une hauteur minimale de 23 mm.
+- Il est impératif de respecter la taille minimum et la zone de protection.
+- Ces deux éléments permettent de préserver l’intégrité et la lisibilité du logotype.
+- Le logotype en quadri doit être utilisê sur fond blanc uniquement.
+- Ce logotype doit être utilisê en rêserve blanche sur tous les fonds de couleurs et sur les visuels.
+- Il peut être utilisé en noir, à des fins adminsitratives (fax, tampon, etc)
+- Sur une photo, positionner le logotype sur les zones où les teintes sont les plus denses pour une meilleure lisibilité et, de préference, centré.
+- En dehors des différentes versions présentées dans ce guide, le logotype n'est pas modifiable.
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
+- Toute déformation des proportions est également proscrite.
+- Destination Léman communique avec un ou plusieurs partenaires Le logotype est placé en bas à gauche. Les logotypes sont placés à droite du logotype principal sans dépasser le haut de Léman.
+- Le partenariat est identique pour tous les partenaires Le logotype est aligné et a la méme taille que les autres logotypes.
+- Dans tous les cas, veuillez respecter la zone de réserve du logotype.
+
+##### Digital Guidelines
+
+- Réf. écran RVB R0/V0/B0 R0/V175/B203 R179/V192/B66
+- Elle ne pourra donc pas être utilisée dans la mise en page des outils de communication.
+- Elle pourra être utilisée dans les outils de communciation en typographie de soutien.
+
+##### Print Guidelines
+
+- La zone de protection à respecter (X) correspond à la hauteur des lettres minuscules composant Léman.
+- Le logo doit respecter une largeur minimale de 30 mm pour une hauteur minimale de 23 mm.
+- Il est impératif de respecter la taille minimum et la zone de protection.
+- Le logotype en quadri doit être utilisê sur fond blanc uniquement.
+- Ce logotype doit être utilisê en rêserve blanche sur tous les fonds de couleurs et sur les visuels.
+- Il peut être utilisé en noir, à des fins adminsitratives (fax, tampon, etc)
+- Sur une photo, positionner le logotype sur les zones où les teintes sont les plus denses pour une meilleure lisibilité et, de préference, centré.
+- En dehors des différentes versions présentées dans ce guide, le logotype n'est pas modifiable.
+- Il est donc interdit de changer les couleurs, les typographies ou le positionnement de chacun des éléments.
+- Toute déformation des proportions est également proscrite.
+
+##### Brand Partnerships
+
+- Destination Léman communique avec un ou plusieurs partenaires Le logotype est placé en bas à gauche. Les logotypes sont placés à droite du logotype principal sans dépasser le haut de Léman.
+- Le partenariat est identique pour tous les partenaires Le logotype est aligné et a la méme taille que les autres logotypes.
+- Dans tous les cas, veuillez respecter la zone de réserve du logotype.

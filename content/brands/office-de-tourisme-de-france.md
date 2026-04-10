@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-03-20T08:22:05.845115"
+date: "2026-04-10T09:40:34.862586"
 draft: false
 sectors:
   - tourism
@@ -48,21 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - white
-  - blue
-typographies:
-  - arial
-  - inter
-imagery_styles:
-  - bold
-  - gradient
-  - monochrome
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q115457346"
 has_twitter: false
@@ -80,31 +69,134 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo evolves to symbolize 'information in movement' and features a contemporary typography with rounded angles. It retains the blue and red color scheme of the previous logo for familiarity. The logo is exclusively used by members of the Fédération Nationale (registered trademark INPI n° 4055649).
-- The logo must be accompanied by a clear space (white protection zone) equal to 1/4 of the logo's total width (denoted as 'A'). Minimum width for the logo is 13 mm. It should be used on light, lightly gradient, or minimally disrupted backgrounds. On darker or busier backgrounds, the logo should have a white protective zone of the same proportions.
-- Color versions: Quadri, RGB, Pantone, Monochrome. Adaptations include Pantone 300C for monuments and white cut-out versions.
+##### Mission
 
-**Color Information:**
+- To provide a unified, recognizable visual identity for the Offices de Tourisme de France, symbolizing information in motion and connecting with the digital universe, while maintaining approachability and clarity.
 
-- Colors composing the logo are defined as primary: Bleu OTF (Pantone 300C, HEX: #163E9D, RGB: R:22, G:62, B:157), Rouge OTF (Pantone 192C, HEX: #E11E32, RGB: R:225, G:30, B:50), and Noir OTF (HEX: #000000, RGB: R:0, G:0, B:0). CMYK codes are included: Bleu OTF (C:100%, M:60%, Y:0%, K:0%) and Rouge OTF (C:0%, M:100%, Y:70%, K:0%).
-- Secondary/accent colors defined for accompanying documents include: Gris (Pantone: 7543C, HEX: #A4AEB5, RGB: R:164, V:174, B:181, CMYK: C:42%, M:30%, Y:25%, K:0%), Bleu Ciel (Pantone: 291C, HEX: #A0CFEB), Bleu Profond (Pantone: 294C, HEX: #003478), Chocolat (Pantone: 4625C, HEX: #512B1B), Jaune Soleil (Pantone: 109C, HEX: #FEB100), Vert Printemps (Pantone: 390C, HEX: #B6BF00).
+##### Core Values
 
-**Typography Information:**
+- convivialité
+- lisibilité
+- modernité
+- notoriété
+- information
+- accessibilité
 
-- Typography for print includes Netto OT in Light, Light Italique, Regular, Italique, Bold, and Bold Italique styles. The text stresses using a maximum of 3 styles at once for readability.
-- Typography for web includes Netto OT Regular, Arial Regular, and Arial Bold. To apply on emailings, newsletters, Flash Info, and websites.
+##### Target Audience
 
-**Spacing Layout:**
+- Adherents of the Fédération Nationale des Offices de Tourisme de France, regional and local tourism offices, and the general public seeking tourism information in France.
 
-- Address block guidelines prescribe spacing between elements based on proportions (e.g., clear space 'B' = 1/4 A, inter-element distance 'B x 0.5'). Example includes layout guidelines for the address block using Netto Regular and Bold fonts, sizes of 8 pt, interline spacing of 10 pt, etc.
-- Fédération Nationale branding guidelines specify base proportions of A = 73 mm and clear space B = 1/4 A.
+##### Personality Traits
 
-**Notes:**
+- approachable
+- dynamic
+- modern
+- friendly
 
-- The single 'i' logo may be used alone for specific applications like maps, signs, and directional indicators for tourist offices.
-- Specific resizing rules are detailed for local-level adaptations (Territoires Touristiques, Syndicats d'Initiative) where longer names adjust the protective space accordingly.
+##### Visual Identity Overview
+
+- The visual identity centers on a contemporary logo with rounded angles, a color palette dominated by blue and red, and a modern sans-serif typography. The logo is used with strict guidelines for spacing, minimum size, and background. Accompanying colors inspired by seasons and territories are provided for document creation. The style is clean, vibrant, and professional, emphasizing clarity and movement.
+
+#### Categories
+
+##### Brand Imagery
+
+- Le "i" évolue, il symbolise l'information en mouvement en lien avec l'univers numérique. Le logo gagne en douceur, en convivialité et en lisibilité avec une nouvelle typographie plus contemporaine et avec des angles arrondis. L'ensemble conserve le code couleur Bleu et Rouge pour rebondir sur la notoriété du précédent logo. Le logo Offices de Tourisme de France® est utilisé exclusivement par les adhérents de la Fédération Nationale. (INPI n° 4055649).
+- Le logo doit être accompagné d'un blanc tournant ou zone de protection (B), qui est égal à 1/4 de la largeur totale du logo (A).
+- Ce logo doit être utilisé sur un fond uni clair, un dégradé léger ou un fond peu perturbé. Dans le cas contraire (fond foncé ou pertubé), le logo doit être accompagné d'un fond blanc égal au blanc tournant (B).
+- La taille minimum du logo est de 13 mm de largeur.
+- Le logo se décline en quadri, RVB, Pantone, Monochrome. En fonction des supports, le logo s'adapte.
+- Bleu OTF Cyan : 100% Magenta : 60% Jaune : 0% Noir : 0% R : 22% V : 62% B : 157% HTML : #163E9D
+- Rouge OTF Cyan : 0% Magenta : 100% Jaune : 70% Noir : 0% R : 225% V : 30% B : 50% HTML : #E11E32
+- Pantone 300C
+- Pantone 192C
+- Version aux abords des Monuments historiques (en couleur ou en défonce Blanche sur fond de couleur)
+- Ocre OTF Offices de Cyan : 31% Tourisme Magenta : 51% de France Noir : 13% B : Offices de R : 166% V : 119% Jaune : 100% 51% HTML : #A67733 Pantone 132C Tourisme
+- Version Monochrome
+- Version Blanche en défonce sur fond de couleur
+- Les couleurs qui composent le logo forment la gamme principale.
+- Pour les titres et textes courants, on utilise les teintes suivantes : Bleu OTF CMJN : Cyan : 100% - Magenta : 60% - Jaune : 0% - Noir : 0% RVB : R : 22% - V : 62% - B : 157% - HTML : #163E9D Rouge OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 225% - V : 30% - B : 50% - HTML : #E11E32 Noir OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 0% - V : 0% - B : 0% - HTML : #000000
+- Lors de la création de documents, vous pouvez utiliser une gamme de couleurs d'accompagnement inspirée des saisons et des territoires
+- Gris Cyan : 42% Magenta : 30% Jaune : 25% Noir : 0% R : 164% V : 174% B : 0% HTML : #A4AEB5 Pantone : 7543C
+- Bleu Ciel Cyan : 38% Magenta : 8% Jaune : 0% Noir : 0% R : 160% V : 207% B : 235% HTML : #A0CFEB Pantone : 291C
+- Bleu Profond Cyan : 100% Magenta : 87% Jaune : 30% Noir : 22% R : 0% V : 52% B : 120% HTML : #003478 Pantone : 294C
+- Chocolat Cyan : 44% Magenta : 74% Jaune : 80% Noir : 58% R : 81% V : 43% B : 27% HTML : #512B1B Pantone : 4625C
+- Jaune Soleil Cyan : 0% Magenta : 15% Jaune : 100% Noir : 0% R : 254% V : 209% B : 0% HTML : #FEB100 Pantone : 109C
+- Vert Printemps Cyan : 35% Magenta : 12% Jaune : 100% Noir : 0% R : 182% V : 191% B : 0% HTML : #B6BF00 Pantone : 390C
+
+##### Color Palette
+
+- L'ensemble conserve le code couleur Bleu et Rouge pour rebondir sur la notoriété du précédent logo.
+- Le logo se décline en quadri, RVB, Pantone, Monochrome. En fonction des supports, le logo s'adapte
+- Bleu OTF Cyan : 100% Magenta : 60% Jaune : 0% Noir : 0% R : 22% V : 62% B : 157% HTML : #163E9D
+- Rouge OTF Cyan : 0% R : 225% Magenta : 100% V : 30% Jaune : 70% B : 50% Noir : 0% HTML : #E11E32
+- Pantone 300C I
+- Paotooe 192C
+- Ocre OTF Offices de Cyan : 31% Tourisme Magenta : 51% de France Noir : 13% B : Offices de R : 166% V : 119% Jaune : 100% 51% HTML : #A67733 Pantone 132C Tourisme
+- Version Monochrome
+- Version Blanche en défonce sur fond de couleur
+- Les couleurs qui composent le logo forment la gamme principale.
+- Rouge OTF Cyan : 0% Magenta : 100% Jaune : 70% Noir : 0% R : 225% V : 30% B : 50% HTML : #E11E32
+- Pour les titres et textes courants, on utilise les teintes suivantes :
+- Bleu OTF CMJN : Cyan : 100% - Magenta : 60% - Jaune : 0% - Noir : 0% RVB : R : 22% - V : 62% - B : 157% - HTML : #163E9D
+- Rouge OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 225% - V : 30% - B : 50% - HTML : #E11E32
+- Noir OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 0% - V : 0% - B : 0% - HTML : #000000
+- Lors de la création de documents, vous pouvez utiliser une gamme de couleurs d accompagnement inspirée des saisons et des territoires
+- Gris Cyan : 42% Magenta : 30% Jaune : 25% Noir : 0% R : 164% V : 174% B : 0% HTML : #A4AEB5 Pantone : 7543C
+- Bleu Ciel Cyan : 38% Magenta : 8% Jaune : 0% Noir : 0% R : 160% V : 207% B : 235% HTML : #A0CFEB Pantone : 291C
+- Bleu Profond Cyan : 100% Magenta : 87% Jaune : 30% Noir : 22% R : 0% V : 52% B : 120% HTML : #003478 Pantone : 294C
+- Chocolat Cyan : 44% Magenta : 74% Jaune : 80% Noir : 58% R : 81% V : 43% B : 27% HTML : #512B1B Pantone : 4625C
+- Jaune Soleil Cyan : 0% Magenta : 15% Jaune : 100% Noir : 0% R : 254% V : 209% B : 0% HTML : #FEB100 Pantone : 109C
+- Vert Printemps Cyan : 35% Magenta : 12% Jaune : 100% Noir : 0% R : 182% V : 191% B : 0% HTML : #B6BF00 Pantone : 390C
+
+##### Typography
+
+- Faciliter la lecture est une priorité, n'utilisez pas plus de 3 styles typographiques à la fois.
+- Netto OT Light
+- Netto OT Light Italique
+- Netto OT Regular
+- Netto OT Italique
+- Netto OT Bold
+- Netto OT Bold Italique
+- Ces typographies sont utilisées pour les communications WEB qui comprennent les emailings, newsletters, les Flash Info et le site.
+- Netto OT Regular abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Arial Regular abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- Arial Bold abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+##### Logo Usage
+
+- Le "i" évolue, il symbolise l'information en mouvement en lien avec l'univers numérique. Le logo gagne en douceur, en convivialité et en lisibilité avec une nouvelle typographie plus contemporaine et avec des angles arrondis. L'ensemble conserve le code couleur Bleu et Rouge pour rebondir sur la notoriété du précédent logo. Le logo Offices de Tourisme de France® est utilisé exclusivement par les adhérents de la Fédération Nationale. (INPI n° 4055649).
+- Le logo doit être accompagné d'un blanc tournant ou zone de protection (B), qui est égal à 1/4 de la largeur totale du logo (A).
+- Ce logo doit être utilisé sur un fond uni clair, un dégradé léger ou un fond peu perturbé. Dans le cas contraire (fond foncé ou pertubé), le logo doit être accompagné d'un fond blanc égal au blanc tournant (B).
+- La taille minimum du logo est de 13 mm de largeur.
+- Le logo se décline en quadri, RVB, Pantone, Monochrome. En fonction des supports, le logo s'adapte.
+- Version en pantone Bleu OTF Cyan : 100% Magenta : 60% Jaune : 0% Noir : 0% R : 22% V : 62% B : 157% HTML : #163E9D Rouge OTF Cyan : 0% R : 225% Magenta : 100% V : 30% Jaune : 70% B : 50% Noir : 0% HTML : #E11E32 Pantone 300C I Paotooe 192C
+- Version aux abords des Monuments historiques (en couleur ou en défonce Blanche sur fond de couleur) Ocre OTF Offices de Cyan : 31% Tourisme Magenta : 51% de France Noir : 13% B : Offices de R : 166% V : 119% Jaune : 100% 51% HTML : #A67733 Pantone 132C Tourisme
+- Version Monochrome
+- Version Blanche en défonce sur fond de couleur
+- Les couleurs qui composent le logo forment la gamme principale. Bleu OTF Cyan : 100% Magenta : 60% Jaune : 0% Noir : 0% R : 22% V : 62% B : 157% HTML : #163E9D Rouge OTF Cyan : 0% Magenta : 100% Jaune : 70% Noir : 0% R : 225% V : 30% B : 50% HTML : #E11E32
+
+##### Visual Style
+
+- Le "i" évolue, il symbolise l'information en mouvement en lien avec l'univers numérique. Le logo gagne en douceur, en convivialité et en lisibilité avec une nouvelle typographie plus contemporaine et avec des angles arrondis. L'ensemble conserve le code couleur Bleu et Rouge pour rebondir sur la notoriété du précédent logo. Le logo Offices de Tourisme de France® est utilisé exclusivement par les adhérents de la Fédération Nationale. (INPI n° 4055649).
+- Le logo doit être accompagné d'un blanc tournant ou zone de protection (B), qui est égal à 1/4 de la largeur totale du logo (A). Ce logo doit être utilisé sur un fond uni clair, un dégradé léger ou un fond peu perturbé. Dans le cas contraire (fond foncé ou pertubé), le logo doit être accompagné d'un fond blanc égal au blanc tournant (B).
+- La taille minimum du logo est de 13 mm de largeur.
+- Le logo se décline en quadri, RVB, Pantone, Monochrome. En fonction des supports, le logo s'adapte.
+- Bleu OTF Cyan : 100% Magenta : 60% Jaune : 0% Noir : 0% R : 22% V : 62% B : 157% HTML : #163E9D
+- Rouge OTF Cyan : 0% Magenta : 100% Jaune : 70% Noir : 0% R : 225% V : 30% B : 50% HTML : #E11E32
+- Version aux abords des Monuments historiques (en couleur ou en défonce Blanche sur fond de couleur) Ocre OTF Cyan : 31% Magenta : 51% Noir : 13% R : 166% V : 119% Jaune : 100% B : 51% HTML : #A67733 Pantone 132C
+- Version Monochrome
+- Version Blanche en défonce sur fond de couleur
+- Pour les titres et textes courants, on utilise les teintes suivantes : Bleu OTF CMJN : Cyan : 100% - Magenta : 60% - Jaune : 0% - Noir : 0% RVB : R : 22% - V : 62% - B : 157% - HTML : #163E9D Rouge OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 225% - V : 30% - B : 50% - HTML : #E11E32 Noir OTF CMJN : Cyan : 0% - Magenta : 100% - Jaune : 70% - Noir : 0% RVB : R : 0% - V : 0% - B : 0% - HTML : #000000
+- Lors de la création de documents, vous pouvez utiliser une gamme de couleurs d'accompagnement inspirée des saisons et des territoires
+- Gris Cyan : 42% Magenta : 30% Jaune : 25% Noir : 0% R : 164% V : 174% B : 0% HTML : #A4AEB5 Pantone : 7543C
+- Bleu Ciel Cyan : 38% Magenta : 8% Jaune : 0% Noir : 0% R : 160% V : 207% B : 235% HTML : #A0CFEB Pantone : 291C
+- Bleu Profond Cyan : 100% Magenta : 87% Jaune : 30% Noir : 22% R : 0% V : 52% B : 120% HTML : #003478 Pantone : 294C
+- Chocolat Cyan : 44% Magenta : 74% Jaune : 80% Noir : 58% R : 81% V : 43% B : 27% HTML : #512B1B Pantone : 4625C
+- Jaune Soleil Cyan : 0% Magenta : 15% Jaune : 100% Noir : 0% R : 254% V : 209% B : 0% HTML : #FEB100 Pantone : 109C
+- Vert Printemps Cyan : 35% Magenta : 12% Jaune : 100% Noir : 0% R : 182% V : 191% B : 0% HTML : #B6BF00 Pantone : 390C
 
 ## Additional Properties
 

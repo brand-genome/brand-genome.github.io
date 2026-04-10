@@ -2,7 +2,7 @@
 title: Exotismes
 slug: exotismes
 description: ""
-date: "2026-03-20T08:22:05.537367"
+date: "2026-04-10T09:40:34.442030"
 draft: false
 sectors:
   - tourism
@@ -46,20 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - white
-  - orange
-  - black
-typographies:
-  - lato
-  - georgia
-imagery_styles:
-  - bold
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -78,34 +68,108 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- Historical logo is no longer permitted; current logo must be used exclusively.
-- The logotype must have a minimum space equal to the width of the letter 'E' of the logo for reserve. Minimum printing size is 2mm.
-- Proper color usages described include monochrome logo on white background, logo white on orange background, logo white on black background, and logo monochrome with slight shadow if readable.
-- Improper logo uses include modifying proportions, altering typography, inclinating the logo, displaying on hard-to-read backgrounds, using effects like shadow, modifying typographic alignment, or truncating the logo.
+##### Mission
 
-**Color Information:**
+- Exotismes aims to be a leading travel operator in the French market, specializing in tourism to the islands of the Antilles, Indian Ocean, and Polynesia, serving both professionals and individuals, and striving for a cohesive and professional brand image across all communications [^1].
 
-- Primary colors include Orange Exotismes (CMYK: 0, 80, 100, 0; RGB: 232, 78, 15; HEX: #E84D0E), Gris Exotismes (CMYK: 0, 0, 0, 80; RGB: 87, 87, 86; HEX: #575756).
-- Complementary palette includes Bleu Azur (CMYK: 100, 25, 20, 0; RGB: 0, 132, 178; HEX: #0084B2), Bleu Nuit (CMYK: 100, 76, 48, 54; RGB: 12, 42, 61; HEX: #0C2A3D), Jaune des Dunes (CMYK: 2, 10, 92, 0; RGB: 255, 220, 1; HEX: #FFDC01), Rouge (CMYK: 14, 100, 89, 25; RGB: 167, 20, 28; HEX: #A7141C), Rose des Sables (CMYK: 0, 21, 41, 0; RGB: 252, 211, 162; HEX: #FCD3A2), Bleu Lagon (CMYK: 74, 10, 9, 0; RGB: 0, 170, 214; HEX: #00AAD6).
+##### Core Values
 
-**Typography Information:**
+- expertise
+- coherence
+- professionalism
 
-- Logo Typography: Myriad Pro Bold.
-- Tagline Typography: Lato Latin Semibold. Can vary in alignment (left-justified or centered) based on publication. Spacing rules specify the tagline should not exceed logo width and must have reserve space equal to logo's 'E' width.
-- Recommended font family for general use is Lato Latin, which includes Light, Hairline, Regular, Thin, Medium, Semibold, Bold, and Black weights. Italic versions also available.
-- Alternative typography suggestions include Georgia and All Round Gothic.
-- Office typography should use Calibri Light, Regular, and Bold (default on Windows systems).
+##### Target Audience
 
-**Imagery Photography:**
+- Professionals in the tourism industry and individual travelers seeking exotic island destinations [^2].
 
-- Visual identity incorporates graphical elements like the sea symbol that must always remain horizontal and monochrome. These rules apply to stationary documents, while usage can be less strict for illustrative purposes.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- inviting
+- vibrant
+- cohesive
 
-- Clear spacing rule for logo: Minimum reserve equal to the width of the letter 'E'. Tagline spacing: Minimum 7mm printing size; reserve spacing identical to logo's 'E'.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is characterized by bold, uppercase typography, a vibrant orange color palette, minimalist layouts, and recurring graphic elements such as sunbursts, wavy lines, and dots, evoking themes of sunrise, sea, and vacation excitement. The logo usage is strictly regulated for consistency, with clear guidelines on color, size, spacing, and background contrast [^3].
 
-- The branding guideline aims to standardize all communication materials to strengthen brand image consistency post-historical logo phase-out.
+#### Categories
+
+##### Logo Usage
+
+- Ce logo ne doit plus être utilisé.
+- Seul ce logo doit être utilisé.
+- Myriad Pro Bold
+- ORANGE EXOTISMES C.0 M.80 Y.100 N.0 R.232 V.78 B.15 #E84D0E
+- Le logotype doit toujours avoir un espace de réserve égal ou supérieur à la largeur de la lettre E du logo.
+- EXOTISMES 2 mm
+- Logo monochrome sur fond blanc
+- Logo monochrome avec légère ombre portée sur image seulement si le logo reste clairement lisible
+- Logo noir sur fond blanc
+- Logo en nuance de gris sur fond blanc
+- Logo blanc sur fond orange
+- Logo noir sur fond orange
+- Logo blanc sur fond bleu
+- Logo blanc sur fond noir
+- Logo orange sur fond noir
+- Logo blanc sur fond gris foncé (supérieur à 50% de noir)
+
+##### Color Palette
+
+- ORANGE EXOTISMES C.0 M.80 Y.100 N.0 R.232 V.78 B.15 #E84D0E
+- UTILISATION DU LOGO À SUIVRE Logo monochrome sur fond blanc Logo monochrome sur fond blanc Logo monochrome avec légère ombre portée sur image seulement si le logo reste clairement lisible Logo monochrome sur fond blanc Logo noir sur fond blanc Logo en nuance de gris sur fond blanc Logo blanc sur fond orange Logo noir sur fond orange Logo blanc sur fond bleu Logo blanc sur fond noir Logo orange sur fond noir Logo blanc sur fond gris foncé (supérieur à 50% de noir)
+- COULEURS PRINCIPALES ORANGE EXOTISMES C.0 M.80 Y.100 N.O R.232 V.78 8.15 #E84DOE GRIS EXOTISMES C.0 M.O Y.O N.80 R.87 V.87 8.86 #575756
+- PALETTE COMPLEMENTAIRE BLEU AZUR C.100 M.25 Y.20 N.0 R.0 V.132 8.178 #008482 BLEU NUIT C.100 M.76 Y.48 N.54 R.12 V.42 8.61 #0C2A3D BLEU LAGON C.74 M.10 Y.9 N.0 R.0 V.170 8.214 #00AAD6 ROSE DES SABLES C.0 M.21 Y.41 N.0 R.252 V.211 8.162 #FCD3A2 JAUNE DES DUNES C.2 M.10 Y.92 N.0 R.255 V.220 8.1 #FFDC01 ROUGE C.14 M.100 Y.89 N.25 R.167 V.20 8.28 #A7141C
+
+##### Typography
+
+- TYPOGRAPHIE DU LOGO Myriad Pro Bold ABC ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdeéèfghijklmnopqrstuvwxyz 0123456789.
+- TYPOGRAPHIE DU TAGLINE Lato Latin Semibold ABC ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- TYPOGRAPHIE PRINCIPALE Lato Latin Light
+- La famille de polices Lato Latin est recommandéé pour un usage général.
+- Les graphistes professionnels peuvent utiliser d’autres typographies que celles présentées précédemment, notamment pour les publications événementielles ou publicitaires. Il est toutefois recommandé d’utiliser la famille Lato Latin dès que possible pour maintenir la cohérence de l’identité visuelle. Sont présentées ci-dessous une liste non exhaustive de typographies alternatives pouvant être utilisées pour ces usages particuliers.
+- CALIBRI La famille CALIBRI, présente par défaut sur les systèmes Windows, sera utilisée comme typographie de bureau pour tous les courriers de correspondance, les documents de communication interne, les emails, les documents Word ou les présentations PowerPoint.
+- La typographie du logo ne doit pas être altérée
+- La composition typographique ne doit pas être modifiée
+
+##### Visual Style
+
+- Ce logo ne doit plus être utilisé.
+- Seul ce logo doit être utilisé.
+- Myriad Pro Bold
+- ORANGE EXOTISMES C.0 M.80 Y.100 N.0 R.232 V.78 B.15 #E84D0E
+- Le logotype doit toujours avoir un espace de réserve égal ou supérieur à la largeur de la lettre E du logo.
+- EXOTISMES 2 mm
+- Logo monochrome sur fond blanc
+- Logo monochrome avec légère ombre portée sur image seulement si le logo reste clairement lisible
+- Logo noir sur fond blanc
+- Logo en nuance de gris sur fond blanc
+- Logo blanc sur fond orange
+- Logo noir sur fond orange
+- Logo blanc sur fond bleu
+- Logo blanc sur fond noir
+- Logo orange sur fond noir
+- Logo blanc sur fond gris foncé (supérieur à 50% de noir)
+
+##### Iconography
+
+- 23. BIBLIOTHÈQUE D’ICÔNES
+- Sélection non exhaustive d’icones
+
+##### Layout And Composition
+
+- Le logotype doit toujours avoir un espace de réserve égal ou supérieur à la largeur de la lettre E du logo.
+- 2 mm
+- UTILISATION DU LOGO À SUIVRE
+- Logo monochrome sur fond blanc
+- Logo monochrome avec légère ombre portée sur image seulement si le logo reste clairement lisible
+- Logo noir sur fond blanc
+- Logo en nuance de gris sur fond blanc
+- Logo blanc sur fond orange
+- Logo noir sur fond orange
+- Logo blanc sur fond bleu
+- Logo blanc sur fond noir
+- Logo orange sur fond noir
+- Logo blanc sur fond gris foncé (supérieur à 50% de noir)

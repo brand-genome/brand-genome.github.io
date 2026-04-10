@@ -2,11 +2,11 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-03-20T08:22:05.555875"
+date: "2026-04-10T09:40:34.470097"
 draft: false
 sectors:
-  - construction
   - "home-appliances"
+  - construction
 regions:
   - usa
 years:
@@ -30,16 +30,16 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - indianapolis
   - farmington
+  - indianapolis
   - charlotte
 subsidiaries: []
 foundation_dates:
-  - 1978
   - 1915
+  - 1978
 foundation_year_buckets:
-  - 1970S
   - 1910S
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,19 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-  - times
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American air conditioning company
 wikidata_url: "https://www.wikidata.org/wiki/Q731912"
 has_twitter: false
@@ -91,38 +82,183 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo should include its entirety with the United Technologies brand bar when using the heat press method for apparel branding.
-- When embroidering logos on apparel, UTC branding (either Gear or full stacked logo) should appear on the left sleeve. The stacked logo should be three inches wide.
-- On promotional items, use the Carrier oval logo with brand bar in white for darker materials, and full-color logo for other applications. Scale, clear space, usage, and size instructions should follow documentation guidelines.
+##### Mission
 
-**Color Information:**
+- To preserve brand equity and familiarity for customers, distributors, and partners, while leveraging the strength and reputation of United Technologies. The guidelines aim to streamline the implementation of Carrier's visual identity and ensure graphic consistency and brand continuity globally [^1].
 
-- Logo recommended color: PMS 072 C. This applies across applications such as stationery and vehicle signage.
-- Embroidery and logos on apparel can appear in UTC blue (PMS 286), black, or white.
+##### Core Values
 
-**Typography Information:**
+- brand equity
+- familiarity
+- consistency
+- continuity
+- leadership
+- expertise
+- environmental advancements
 
-- Corporate fonts include Helvetica as the primary typeface. If not available, Arial is acceptable. Times New Roman may be used for typing letters and memos.
-- Font size recommendations: 16pt Helvetica Condensed Black for primary titles; 11pt Helvetica Light and 8pt Helvetica Light for body text in memos.
-- Recommended weights and sizes: Helvetica Light for typical text; Arial Regular for correspondence; Helvetica Bold for headings.
+##### Target Audience
 
-**Spacing Layout:**
+- Customers, distributors, partners, factory workers, service technicians, salespeople, and market-facing segments, especially in the buildings market [^2].
 
-- For business cards, use 90mm by 55mm size with 5mm margins all around. Logo height should be set at 15mm. Ensure proper spacing between elements.
-- Letterhead guidelines mandate 20mm margins on edges. Address is to be tailored to the header, with necessary legal information added in the footer using Arial at size 8pt.
-- For fax templates, segment spacing is defined: 15mm header, 20-25mm subspacing for content areas, maintaining overall neatness. Text styles include 16pt Helvetica Condensed for titles and 8pt Helvetica Light for body text.
+##### Personality Traits
 
-**Brand Voice:**
+- proud
+- confident
+- corporate
+- professional
+- environmentally conscious
 
-- Corporate messaging should be neat, unobtrusive, and avoid promotional features typical of other communications programs. Messaging should reflect core principles of the corporation.
+##### Visual Identity Overview
 
-**Notes:**
+- Carrier's visual identity centers on the Carrier Oval logo, often paired with the United Technologies brand bar. The primary color is Carrier Blue (PMS 072 C), with approved secondary colors including black, white, and Carrier Leaf Green. Typography is based on Helvetica, Arial, and Times New Roman. The guidelines emphasize consistent logo usage, clear space, minimum sizing, and application across stationery, apparel, promotional items, and signage. The visual style is clean, corporate, and professional, with strict rules for logo placement and reproduction [^3].
 
-- Stationery printing is recommended on Conqueror Diamond CX 22 paper, with different weights for specific uses: 100g for letterheads and 320g for business cards.
-- All new exterior or signage projects or changes to existing building signage must be approved by WHQ Marketing. Direct requests to carrier.emea.communications@carrier.utc.com.
-- Special embroidery files are available on request following WHQ approval. These files cannot be used for print, collateral, or visual media/electronic applications.
+#### Categories
+
+##### Brand Imagery
+
+- The correct reproduction of the Carrier brand signature can only be achieved by using the original master artwork files. They must not be redrawn or recreated from separate graphic or type elements.
+- The preferred usage of the brand signature is on a white or light background. However, it can be reversed out of black or color. The brand signature can also be displayed on an image in its positive form or in white. It should be placed in an area that is not visually complicated to distract from the legibility of the brand signature.
+- Color is one of the most memorable elements of our brand. As part of the overall brand program we will continue to use our legacy Carrier Blue. Color specifications are listed below.
+- There are three approved versions of the Carrier Oval: • The Blue Oval is used for color applications against a white, light or dark background. • The Black Oval logo is used for one-color applications against a light background. • The Inverted Oval logo is used for one-color applications against a dark background.
+- The UTC"Gear" and signature must always appear in black or white.
+- The combination of the Carrier Oval, the tag line and the stylized leaf design is a single element. Only the phrase "turn to the experts" has been approved as a tagline with the Carrier Oval.
+- Usage and placement preferences remain the same when using the brand signature with the "turn to the experts" tagline. We will continue to use our legacy Carrier blue with the addition of the new Carrier Leaf Green and black that appear in the tagline.
+- Never use the Sustainability Logo to represent Carrier as a corporation or financial enterprise.
+- In Europe, the Carrier Sustainability logo is dedicated to BSS and should not be used by the CCR units.
+- Logo positioning The preferred position of the Carrier logo is near the top left corner of brochure front covers, posters, display panels etc. (with the margins as illustrated) and in the top right corner for letterheads, fax forms, announcement and similar documents.
+- Minimum size The minimum size is dictated by legibility of the type located in the brand bar. The brand signature should not be reproduced below the minimum size of 19 mm inch in width for print and presentation programs or 95 pixels for online use.
+- For maximum impact, a minimum clear space must surround the brand signature as displayed below. This will form an invisible frame around the brand signature and ensure it is properly staged.
+- The brand signature is provided in two sizes, standard and minimum. The standard size can be utilized in most situations.
+- Minimum size files should be used by designers and graphic professionals. Employees may only use minimum size files without adjustment. The minimum size is dictated by legibility of the type located in the brand bar.
+- The brand signature should not be reproduced below the minimum size of 19 mm in width for print and presentation programs such as Microsoft PowerPoint, or 95 pixels for online use.
+- The standard size logo should not be reduced in size.
+- Standard size files may be enlarged to meet any need.
+- Minimum size logo can only be used without adjustment to size = cannot be enlarged, cannot be reduced in size.
+- If a size is required that is less than the standard but greater than the minimum size (i.e. between 19 mm and 40 mm width), contact EMEA Marketing & Communications Team to receive guidance.
+- Scaling the brand signature (designers and graphic professionals only) The standard size files should not be reduced in size. Standard size files may be enlarged to meet any need. The only acceptable method for enlarging the minimum size brand signature is by first extending the length of the brand bar. It is not acceptable to alter the size of the United Technologies name and “Gear” within the bar. The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the brand bar set in the minimum size brand signature.
+- Minimum size files can only be used by employees without adjustment to size.
+- Do not attempt to recreate, redraw, repeat or distort the graphic or type elements of the brand signature. Likewise do not change the color or tint of the brand signature. Additionally, it is unacceptable to use the "A United Technologies Company" or "A UTC Fire & Security Company" straplines.
+- The proper reproduction of the brand signature can only be achieved by using the official files provided with this document from the EMEA Marketing & Communications Team.
+- Carrier blue, the Oval brand color, is a central component to the Oval’s instantaneous, global brand recognition. The only other approved colors are 100% black, or bright white.
+- Pantone® is used for offset lithography when printing spot color, CMYK is used when printing four-color process offset lithography, RGB is used when displaying colors on a computer monitor.
+- Primary Brand Color = “Carrier blue” Pantone PMS 072 C CMYK: C: 100 M: 85 Y: 0 K: 0 RGB: R: 21 G: 44 B: 115
+- Secondary Brand Colors CMYK: C: 0 M: 0 Y: 0 K: 100 RGB: R: 0 G: 0 B: 0 CMYK: C: 0 M: 0 Y: 0 K: 0 RGB: R: 255 G: 255 B: 255 Pantone PMS 376 CMYK: C: 50 M: 0 Y: 100 K: 0 RGB: R: 130 G: 191 B: 64
+
+##### Color Palette
+
+- Color is one of the most memorable elements of our brand. As part of the overall brand program we will continue to use our legacy Carrier Blue. Color specifications are listed below.
+- There are three approved versions of the Carrier Oval: • The Blue Oval is used for color applications against a white, light or dark background. • The Black Oval logo is used for one-color applications against a light background. • The Inverted Oval logo is used for one-color applications against a dark background.
+- Note: The UTC"Gear" and signature must always appear in black or white
+- We will continue to use our legacy Carrier blue with the addition of the new Carrier Leaf Green and black that appear in the tagline.
+- Carrier blue, the Oval brand color, is a central component to the Oval’s instantaneous, global brand recognition. The only other approved colors are 100% black, or bright white.
+- Pantone® is used for offset lithography when printing spot color, CMYK is used when printing four-color process offset lithography, RGB is used when displaying colors on a computer monitor.
+- Primary Brand Color = “Carrier blue” Pantone: PMS 072 C CMYK: C: 100 M: 85 Y: 0 K: 0 RGB: R: 21 G: 44 B: 115
+- Secondary Brand Colors CMYK: C: 0 M: 0 Y: 0 K: 100 RGB: R: 0 G: 0 B: 0 CMYK: C: 0 M: 0 Y: 0 K: 0 RGB: R: 255 G: 255 B: 255 Pantone: PMS 376 CMYK: C: 50 M: 0 Y: 100 K: 0 RGB: R: 130 G: 191 B: 64
+- Never use an unapproved color palette.
+- Never change the color or tint of the brand signature.
+
+##### Typography
+
+- While the Carrier logo plays the principal role in communicating our visual image to customers, it should be supported by a complementary and legible style of typography for other text appearing on the same page.
+- The corporate font to be used is Helvetica.
+- As Helvetica is a font not available on all computers, Carrier has also accepted the use of Arial.
+- The other acceptable font for typing letters and memos is Times New Roman.
+- abcdefg... (Helvetica light)
+- abcdefg... (Helvetica Bold)
+- abcdefg... (Arial Regular)
+- abcdefg... (Arial Bold)
+- abcdefg... (Times New Roman)
+- Optional 9 point Helvetica Bold 7 point Helvetica Light
+- # 7 point Helvetica Bold Address and other
+- 7 point Helvetica Light
+- Font type = Helvetica Condensed (black)
+- Color specification for logotypes and font = Pantone PMS 072 C
+
+##### Logo Usage
+
+- The correct reproduction of the Carrier brand signature can only be achieved by using the original master artwork files. They must not be redrawn or recreated from separate graphic or type elements.
+- The preferred usage of the brand signature is on a white or light background. However, it can be reversed out of black or color. The brand signature can also be displayed on an image in its positive form or in white. It should be placed in an area that is not visually complicated to distract from the legibility of the brand signature.
+- There are three approved versions of the Carrier Oval: • The Blue Oval is used for color applications against a white, light or dark background. • The Black Oval logo is used for one-color applications against a light background. • The Inverted Oval logo is used for one-color applications against a dark background.
+- Note: The UTC"Gear" and signature must always appear in black or white
+- The combination of the Carrier Oval, the tag line and the stylized leaf design is a single element. Only the phrase "turn to the experts" has been approved as a tagline with the Carrier Oval.
+- Usage and placement preferences remain the same when using the brand signature with the "turn to the experts" tagline. We will continue to use our legacy Carrier blue with the addition of the new Carrier Leaf Green and black that appear in the tagline.
+- Never use the Sustainability Logo to represent Carrier as a corporation or financial enterprise.
+- In Europe, the Carrier Sustainability logo is dedicated to BSS and should not be used by the CCR units.
+- Logo positioning The preferred position of the Carrier logo is near the top left corner of brochure front covers, posters, display panels etc. (with the margins as illustrated) and in the top right corner for letterheads, fax forms, announcement and similar documents.
+- Minimum size The minimum size is dictated by legibility of the type located in the brand bar. The brand signature should not be reproduced below the minimum size of 19 mm inch in width for print and presentation programs or 95 pixels for online use.
+- For maximum impact, a minimum clear space must surround the brand signature as displayed below. This will form an invisible frame around the brand signature and ensure it is properly staged.
+- Standard Versus Minimum Sizes Standard size 1.5 inch - print 40 mm - print 190 pixels - online Minimum size 0.75 inch - print 19 mm - print 95 pixels - online The brand signature is provided in two sizes, standard and minimum. The standard size can be utilized in most situations. Minimum size files should be used by designers and graphic professionals. Employees may only use minimum size files without adjustment. The minimum size is dictated by legibility of the type located in the brand bar. The brand signature should not be reproduced below the minimum size of 19 mm in width for print and presentation programs such as Microsoft PowerPoint, or 95 pixels for online use. The standard size logo should not be reduced in size. Standard size files may be enlarged to meet any need. Minimum size logo can only be used without adjustment to size = cannot be enlarged, cannot be reduced in size. If a size is required that is less than the standard but greater than the minimum size (i.e. between 19 mm and 40 mm width), contact EMEA Marketing & Communications Team to receive guidance.
+- Scaling the brand signature (designers and graphic professionals only) The standard size files should Steps for Designers to Increase the Minimum Size Brand Signature not be reduced in size. Standard size files may be enlarged to meet The only acceptable method for enlarging Step 1 The only acceptable method for enlarging the minimum size brand signature is by first extending the any need. the minimum size brand signature is by first extending the length of the brand bar. It is not length of the brand bar. It is not acceptable to alter the size of the United Technologies name and The minimum size is dictated “Gear” within the bar. acceptable to alter the size of the United Technologies name and “Gear” within the bar. The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the brand bar set in the minimum size by legibility of the type in the brand The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the bar. Minimum size files can only be Minimum Size brand bar set in the minimum size brand signature. used by employees without adjustment to size. 1. Start with one of the .eps files of a minimum size brand signature and open it in Adobe Illustrator. Step 2 Start with one of the .eps files of a minimum 2. Resize the brand bar by using the direct selection tool (white arrow) and dragging the cursor over the right side of the brand bar, selecting all three points at the end of the bar. This will ensure the radius of the bottom right corner will remain in its original form. Now move the Resize the brand bar by using the direct selection tool (white arrow) and dragging the cursor over the right side of the brand bar, selecting all three points at the end of the bar. This will ensure the radius of the bottom right corner will remain in its original form. Now move the three selected points to the right to achieve three selected points to the right to achieve the desired length. 3. Now scale the brand identifier proportionally to align to the right side of the brand bar. Step 3 Now scale the brand identifier proportionally to align to the right side of the brand bar.
+- Do not attempt to recreate, redraw, repeat or distort the graphic or type elements of the brand signature. Likewise do not change the color or tint of the brand signature. Additionally, it is unacceptable to use the "A United Technologies Company" or "A UTC Fire & Security Company" straplines.
+- The proper reproduction of the brand signature can only be achieved by using the official files provided with this document from the EMEA Marketing & Communications Team.
+- Carrier blue, the Oval brand color, is a central component to the Oval’s instantaneous, global brand recognition. The only other approved colors are 100% black, or bright white.
+- Pantone® is used for offset lithography when printing spot color, CMYK is used when printing four-color process offset lithography, RGB is used when displaying colors on a computer monitor.
+- Primary Brand Color = “Carrier blue” Pantone PMS 072 C CMYK: C: 100 M: 85 Y: 0 K: 0 RGB: R: 21 G: 44 B: 115
+- Secondary Brand Colors CMYK: C: 0 M: 0 Y: 0 K: 100 RGB: R: 0 G: 0 B: 0 CMYK: C: 0 M: 0 Y: 0 K: 0 RGB: R: 255 G: 255 B: 255 Pantone PMS 376 CMYK: C: 50 M: 0 Y: 100 K: 0 RGB: R: 130 G: 191 B: 64
+
+##### Visual Style
+
+- The correct reproduction of the Carrier brand signature can only be achieved by using the original master artwork files. They must not be redrawn or recreated from separate graphic or type elements.
+- The preferred usage of the brand signature is on a white or light background. However, it can be reversed out of black or color. The brand signature can also be displayed on an image in its positive form or in white. It should be placed in an area that is not visually complicated to distract from the legibility of the brand signature.
+- Color is one of the most memorable elements of our brand. As part of the overall brand program we will continue to use our legacy Carrier Blue. Color specifications are listed below.
+- There are three approved versions of the Carrier Oval: • The Blue Oval is used for color applications against a white, light or dark background. • The Black Oval logo is used for one-color applications against a light background. • The Inverted Oval logo is used for one-color applications against a dark background.
+- The UTC"Gear" and signature must always appear in black or white.
+- The combination of the Carrier Oval, the tag line and the stylized leaf design is a single element. Only the phrase "turn to the experts" has been approved as a tagline with the Carrier Oval.
+- Usage and placement preferences remain the same when using the brand signature with the "turn to the experts" tagline. We will continue to use our legacy Carrier blue with the addition of the new Carrier Leaf Green and black that appear in the tagline.
+- Never use the Sustainability Logo to represent Carrier as a corporation or financial enterprise.
+- In Europe, the Carrier Sustainability logo is dedicated to BSS and should not be used by the CCR units.
+- Logo positioning The preferred position of the Carrier logo is near the top left corner of brochure front covers, posters, display panels etc. (with the margins as illustrated) and in the top right corner for letterheads, fax forms, announcement and similar documents.
+- Minimum size The minimum size is dictated by legibility of the type located in the brand bar. The brand signature should not be reproduced below the minimum size of 19 mm inch in width for print and presentation programs or 95 pixels for online use.
+- For maximum impact, a minimum clear space must surround the brand signature as displayed below. This will form an invisible frame around the brand signature and ensure it is properly staged.
+- Standard size 1.5 inch - print 40 mm - print 190 pixels - online
+- Minimum size 0.75 inch - print 19 mm - print 95 pixels - online
+- The brand signature is provided in two sizes, standard and minimum. The standard size can be utilized in most situations.
+- Minimum size files should be used by designers and graphic professionals.
+- Employees may only use minimum size files without adjustment. The minimum size is dictated by legibility of the type located in the brand bar.
+- The brand signature should not be reproduced below the minimum size of 19 mm in width for print and presentation programs such as Microsoft PowerPoint, or 95 pixels for online use.
+- The standard size logo should not be reduced in size.
+- Standard size files may be enlarged to meet any need.
+- Minimum size logo can only be used without adjustment to size = cannot be enlarged, cannot be reduced in size.
+- If a size is required that is less than the standard but greater than the minimum size (i.e. between 19 mm and 40 mm width), contact EMEA Marketing & Communications Team to receive guidance.
+- Scaling the brand signature (designers and graphic professionals only) The standard size files should not be reduced in size. Standard size files may be enlarged to meet any need. The only acceptable method for enlarging the minimum size brand signature is by first extending the length of the brand bar. It is not acceptable to alter the size of the United Technologies name and “Gear” within the bar. The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the brand bar set in the minimum size brand signature.
+- Minimum size files can only be used by employees without adjustment to size.
+- Do not attempt to recreate, redraw, repeat or distort the graphic or type elements of the brand signature. Likewise do not change the color or tint of the brand signature. Additionally, it is unacceptable to use the "A United Technologies Company" or "A UTC Fire & Security Company" straplines.
+- The proper reproduction of the brand signature can only be achieved by using the official files provided with this document from the EMEA Marketing & Communications Team.
+- Carrier Oval with brand bar Pantone PMS 072 C CMYK: C: 100 M: 85 Y: 0 K: 0 RGB: R: 21 G: 44 B: 115
+- Carrier blue, the Oval brand color, is a central component to the Oval’s instantaneous, global brand recognition. The only other approved colors are 100% black, or bright white.
+- Pantone® is used for offset lithography when printing spot color, CMYK is used when printing four-color process offset lithography, RGB is used when displaying colors on a computer monitor.
+- Primary Brand Color = “Carrier blue” Pantone PMS 072 C CMYK: C: 100 M: 85 Y: 0 K: 0 RGB: R: 21 G: 44 B: 115
+- Secondary Brand Colors CMYK: C: 0 M: 0 Y: 0 K: 100 RGB: R: 0 G: 0 B: 0 CMYK: C: 0 M: 0 Y: 0 K: 0 RGB: R: 255 G: 255 B: 255 Pantone PMS 376 CMYK: C: 50 M: 0 Y: 100 K: 0 RGB: R: 130 G: 191 B: 64
+- The corporate font to be used is Helvetica.
+- As Helvetica is a font not available on all computers, Carrier has also accepted the use of Arial.
+- The other acceptable font for typing letters and memos is Times New Roman.
+
+##### Layout And Composition
+
+- The correct reproduction of the Carrier brand signature can only be achieved by using the original master artwork files. They must not be redrawn or recreated from separate graphic or type elements.
+- The preferred usage of the brand signature is on a white or light background. However, it can be reversed out of black or color. The brand signature can also be displayed on an image in its positive form or in white. It should be placed in an area that is not visually complicated to distract from the legibility of the brand signature.
+- There are three approved versions of the Carrier Oval: • The Blue Oval is used for color applications against a white, light or dark background. • The Black Oval logo is used for one-color applications against a light background. • The Inverted Oval logo is used for one-color applications against a dark background.
+- Logo positioning The preferred position of the Carrier logo is near the top left corner of brochure front covers, posters, display panels etc. (with the margins as illustrated) and in the top right corner for letterheads, fax forms, announcement and similar documents.
+- Minimum size The minimum size is dictated by legibility of the type located in the brand bar. The brand signature should not be reproduced below the minimum size of 19 mm inch in width for print and presentation programs or 95 pixels for online use.
+- Clear space For maximum impact, a minimum clear space must surround the brand signature as displayed below. This will form an invisible frame around the brand signature and ensure it is properly staged.
+- The brand signature is provided in two sizes, standard and minimum. The standard size can be utilized in most situations.
+- Minimum size files should be used by designers and graphic professionals.
+- Employees may only use minimum size files without adjustment. The minimum size is dictated by legibility of the type located in the brand bar.
+- The brand signature should not be reproduced below the minimum size of 19 mm in width for print and presentation programs such as Microsoft PowerPoint, or 95 pixels for online use.
+- The standard size logo should not be reduced in size.
+- Standard size files may be enlarged to meet any need.
+- Minimum size logo can only be used without adjustment to size = cannot be enlarged, cannot be reduced in size.
+- If a size is required that is less than the standard but greater than the minimum size (i.e. between 19 mm and 40 mm width), contact EMEA Marketing & Communications Team to receive guidance.
+- Scaling the brand signature (designers and graphic professionals only) The standard size files should Steps for Designers to Increase the Minimum Size Brand Signature not be reduced in size. Standard size files may be enlarged to meet The only acceptable method for enlarging Step 1 The only acceptable method for enlarging the minimum size brand signature is by first extending the any need. the minimum size brand signature is by first extending the length of the brand bar. It is not length of the brand bar. It is not acceptable to alter the size of the United Technologies name and The minimum size is dictated “Gear” within the bar. acceptable to alter the size of the United Technologies name and “Gear” within the bar. The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the brand bar set in the minimum size by legibility of the type in the brand The UTC name and symbol must retain the spatial relationship to the top and bottom edges of the bar. Minimum size files can only be Minimum Size brand bar set in the minimum size brand signature. used by employees without adjustment to size. 1. Start with one of the .eps files of a minimum size brand signature and open it in Adobe Illustrator. Step 2 Start with one of the .eps files of a minimum 2. Resize the brand bar by using the direct selection tool (white arrow) and dragging the cursor over the right side of the brand bar, selecting all three points at the end of the bar. This will ensure the radius of the bottom right corner will remain in its original form. Now move the Resize the brand bar by using the direct selection tool (white arrow) and dragging the cursor over the right side of the brand bar, selecting all three points at the end of the bar. This will ensure the radius of the bottom right corner will remain in its original form. Now move the three selected points to the right to achieve three selected points to the right to achieve the desired length. 3. Now scale the brand identifier proportionally to align to the right side of the brand bar. Step 3 Now scale the brand identifier proportionally to align to the right side of the brand bar.
+- Do not attempt to recreate, redraw, repeat or distort the graphic or type elements of the brand signature. Likewise do not change the color or tint of the brand signature. Additionally, it is unacceptable to use the "A United Technologies Company" or "A UTC Fire & Security Company" straplines.
+- The proper reproduction of the brand signature can only be achieved by using the official files provided with this document from the EMEA Marketing & Communications Team.
+
+##### Brand Architecture
+
+- This architecture requires many market brands to incorporate the new UTC brand bar to solidify the connection to United Technologies.
+- This change applies only to market-facing brands. Product brand identifiers (i.e. CO2OLtec, HybridCO2OL...) are not impacted.
 
 ## Additional Properties
 
@@ -132,8 +268,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Indianapolis](/headquarters_locations/indianapolis/); [Farmington](/headquarters_locations/farmington/); [Charlotte](/headquarters_locations/charlotte/) |
-| Foundation Date | [1978](/foundation_dates/1978/); [1915](/foundation_dates/1915/) |
+| Headquarters Location | [Farmington](/headquarters_locations/farmington/); [Indianapolis](/headquarters_locations/indianapolis/); [Charlotte](/headquarters_locations/charlotte/) |
+| Foundation Date | [1915](/foundation_dates/1915/); [1978](/foundation_dates/1978/) |
 | Freebase Id | /m/07_dc0 |
 | Headquarters Location | Charlotte, Indianapolis, Farmington |
 | Founded By | Willis Carrier |

@@ -2,11 +2,11 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-03-20T08:22:04.011419"
+date: "2026-04-10T09:40:31.982214"
 draft: false
 sectors:
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - featured
   - technology
+  - vintage
 industries:
   - "computer-hardware-industry"
   - "software-industry"
@@ -30,15 +30,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - nextstation
   - "next-computer"
-  - "nextcube-turbo"
   - nextstep
   - nextcube
+  - nextstation
+  - "nextcube-turbo"
 products: []
 headquarters_locations:
-  - "redwood-city"
   - "palo-alto"
+  - "redwood-city"
 subsidiaries: []
 foundation_dates:
   - 1985
@@ -68,9 +68,9 @@ imagery_styles: []
 wikidata_description: American computer company founded by Steve Jobs (1985–1997)
 wikidata_url: "https://www.wikidata.org/wiki/Q308993"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,12 +78,6 @@ visual_term_image_urls: {}
 
 - [http://web.archive.org/web/19970412194822/http://www.next.com](http://web.archive.org/web/19970412194822/http://www.next.com)
 - [https://web.archive.org/web/19970412194822/http://www.next.com](https://web.archive.org/web/19970412194822/http://www.next.com)
-
-## Brand Guidelines
-
-### 1986
-
-*Guidelines data not available*
 
 ## Additional Properties
 
@@ -93,8 +87,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Nextstation](/products_or_materials_produced/nextstation/); [Next Computer](/products_or_materials_produced/next-computer/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/) |
-| Headquarters Location | [Redwood City](/headquarters_locations/redwood-city/); [Palo Alto](/headquarters_locations/palo-alto/) |
+| Product Or Material Produced | [Next Computer](/products_or_materials_produced/next-computer/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Redwood City](/headquarters_locations/redwood-city/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Founded By | Steve Jobs |
 | Chief Executive Officer | Steve Jobs |

@@ -2,7 +2,7 @@
 title: World Scouts
 slug: "world-scouts"
 description: ""
-date: "2026-03-20T08:22:04.895664"
+date: "2026-04-10T09:40:33.664501"
 draft: false
 sectors:
   - ngo
@@ -53,18 +53,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.scout.org](https://www.scout.org)
-
-## Brand Guidelines
-
-### 2007
-
-*Guidelines data not available*

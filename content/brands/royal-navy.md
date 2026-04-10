@@ -2,7 +2,7 @@
 title: Royal Navy
 slug: "royal-navy"
 description: ""
-date: "2026-03-20T08:22:05.537861"
+date: "2026-04-10T09:40:34.442712"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "social-networks"
   - military
+  - "social-networks"
 industries: []
 countries:
   - "united-kingdom"
@@ -52,14 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - badge
-brand_colors:
-  - navy
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - vibrant
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q134452282"
 has_twitter: false
@@ -80,28 +76,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Guidance includes strict usage of approved Royal Navy logos and insignias, available through the Digital Team for all operational or recruitment pages. Modifications to logos or badges are prohibited.
-- The profile picture must feature either the Royal Navy logo, the Royal Marines insignia, or a unit-specific badge. Logos must adhere to the Royal Navy brand guidelines.
-
-**Imagery Photography:**
-
-- Key imagery guidelines emphasize vibrant, action-based visuals with a focus on people, particularly in recruitment campaigns. Maritime and equipment-focused visuals are secondary and support brand positioning.
-- Images used on pages including Twitter and Facebook should comply with image ratio and sizing standards for optimum clarity and engagement.
-
-**Spacing Layout:**
-
-- Twitter header images span the full width of the screen, providing an opportunity for brand storytelling or promoting campaigns. General guidelines include focus on equipment for official pages and people for recruitment efforts.
-
-**Brand Voice:**
-
-- Social media tone must remain diplomatic, transparent, and fair while reflecting the Royal Navy's ethos. Engagement should be built on open questions and understanding follower expectations.
-- Planning content strategy is pivotal for tone consistency, especially considering resource availability to maintain active communication and avoid dormant accounts.
-
-**Notes:**
-
-- General content analysis of the branding guidelines with instructions for maintaining logo consistency, imagery standards, and tone of voice across social media platforms.
+*Guidelines data not available*
 
 ## Additional Properties
 

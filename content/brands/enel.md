@@ -2,11 +2,11 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-03-20T08:22:05.786318"
+date: "2026-04-10T09:40:34.770496"
 draft: false
 sectors:
-  - utilities
   - "renewable-energy"
+  - utilities
 regions:
   - italy
 years:
@@ -59,16 +59,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - vibrant
-  - photography
+imagery_styles: []
 wikidata_description: Italian multinational energy company
 wikidata_url: "https://www.wikidata.org/wiki/Q651222"
 has_twitter: false
@@ -88,23 +82,122 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The multi-colored version of the logo is the primary logo, used only on white backgrounds to ensure maximum contrast, legibility, and an energetic, vibrant look. It should not be used on black, photography, or color backgrounds.
-- The white logo version is secondary. It is used when photography or set colored backgrounds are required, especially against Enel's core color backgrounds.
-- The solid logo version is for special applications where colors or gradients are not allowed, such as embossing, engraving, or embroidery. Also used for restricted printing applications (e.g., receipts or faxes).
-- All logo versions have exclusion zones equal to the width of two cursors around them to maintain visibility and prominence. Minimum size requirements are 20 mm for print and 55 pixels for digital usage.
+##### Mission
 
-**Spacing Layout:**
+- To empower nations, communities, businesses, and individuals by developing tomorrow's power solutions and tackling global challenges through openness, collaboration, and innovation.
 
-- Logo exclusion zones must be equal to the width of two cursors to help the logo stand out visually.
+##### Core Values
 
-**Notes:**
+- openness
+- collaboration
+- innovation
+- transparency
+- shared value
 
-- The Enel brand guidelines emphasize the importance of using tools for flexibility rather than strict rules, allowing teams to creatively adapt to unique tasks and challenges.
-- The strategic statement 'Open Power' represents the concept of opening Enel's infrastructure, energy, and collaboration opportunities to empower people globally.
-- 'Open Power' promotes collaboration, energy empowerment, innovation, and shared value creation across stakeholders such as customers, communities, institutions, investors, partners, media, and employees.
-- Core brand values derived from the 'Open Power' concept include being Open & Collaborative, Energetic, and Always Moving to foster participation, change, and innovation.
+##### Target Audience
+
+- Individuals, communities, businesses, cities, nations, customers, partners, institutions, investors, media, and employees seeking modern, sustainable, and collaborative energy solutions.
+
+##### Personality Traits
+
+- open
+- collaborative
+- energetic
+- innovative
+- always moving
+
+##### Visual Identity Overview
+
+- The brand features a vibrant, multi-coloured logo used primarily on white backgrounds for maximum contrast and legibility. The visual style is energetic, modern, and open, with consistent use of color blocks and playful, rounded typography. Secondary logo versions are used on colored backgrounds and photography, maintaining visual consistency and clarity.
+
+#### Categories
+
+##### Color Palette
+
+- The multi-coloured version of the logo is our primary logo. It should only be used on white backgrounds, never on black, photography or colour, for the following reasons. 1. To provide maximum contrast, legibility, on print and digital applications 2. To guarantee an energetic and vibrant look, communicating the idea of a modern, open brand
+- The white logo is our secondary version. It is used when photography or set coloured backgrounds are required. Please note that it is the white version that is used against any of our core Enel colour backgrounds.
+
+##### Logo Usage
+
+- The multi-coloured version of the logo is our primary logo.
+- It should only be used on white backgrounds, never on black, photography or colour, for the following reasons.
+- 1. To provide maximum contrast, legibility, on print and digital applications
+- 2. To guarantee an energetic and vibrant look, communicating the idea of a modern, open brand
+- The white logo is our secondary version.
+- It is used when photography or set coloured backgrounds are required. Please note that it is the white version that is used against any of our core Enel colour backgrounds.
+- The solid version logo should only be used in applications that don't allow any colours or gradients (e.g. when the logo needs to be embossed, engraved or embroidered), or when colour and gradient printing is restricted (receipts, faxes etc.).
+- All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the width of two cursors.
+- # Minimum logo size = 20 mm = 55 pixels
+- Exclusion zone = two cursors
+- ≥ 20 mm
+- Standard-version logo Minimum size
+
+##### Tone And Messaging
+
+- Our brand is central to every interaction Enel has with people. That’s why it’s important that everyone who works with our brand fully understands what it stands for and how its creative expression works.
+- This document is a toolkit to help you to use the brand in the best way for your specific task. We know that every challenge is different, so instead of giving you detailed templates for every possible use, we have simply defined basic rules and notional examples to guide your every project.
+- Bringing the brand to life is now up to you.
+- The Enel group is the world's leading power company.
+- For more than 50 years we have empowered nations around the globe to progress.
+- Today, the world faces bigger challenges than ever before.
+- As a power company, we can and must play a key role in tackling these challenges. However, we can't do it alone.
+- We need to open up to people, partners and technologies so we can multiply our impact in today's world.
+- Together we will develop tomorrow’s power solutions to help individuals, communities, businesses, cities and nations tackle the challenges that matter to them.
+- Combines the strength of our global organisation with the opportunities of a new, open and connected world.
+- It directs what Enel does as a business in the following ways:
+- Open Enel’s infrastructure to more uses With new technologies to maximise the value of our assets in ways that benefit people, partners, shareholders.
+- Open up new value to Enel’s customers Through services that meet their changing needs and generate new revenue streams for the business.
+- Open Enel’s energy to more people By connecting more people to Enel’s services to empower emerging economies to grow.
+- Open Enel’s people to more knowledge By sharing internally and externally to promote entrepreneur-ialism, collaboration and innovation.
+- Establish open and transparent ways to do business With all critical stakeholders to build the relationships we need to create shared value.
+- We work in open and equal exchange with them to make power better together.
+- We interact, discover and co-create with them to open shared value for all.
+- We develop tomorrow’s infrastructure open for cities and nations to grow sustainably.
+- We inspire them with opportunities that open new partnerships, services and business models.
+- We discover stories with them that excite the world and ignite an Open Power movement.
+- We open up our resources and reach to jointly develop solutions at scale that benefit us and our partners
+- We collaborate globally to open our collective creativity and power local innovations.
+- Open Power helps Enel to become a new type of energy business. This needs to be reflected in the way people experience our brand.
+- Open Power is translated into a brand expression that makes Open Power tangible, and enables everyone to participate.
+- Open & Collaborative to enable everybody to participate
+- Energetic to infuse energy and empower people to act
+- Always moving to constantly inspire change and innovation
+
+##### Brand Values
+
+- The Enel group is the world’s leading power company.
+- For more than 50 years we have empowered nations around the globe to progress.
+- Today, the world faces bigger challenges than ever before.
+- As a power company, we can and must play a key role in tackling these challenges. However, we can’t do it alone.
+- We need to open up to people, partners and technologies so we can multiply our impact in today’s world.
+- Together we will develop tomorrow’s power solutions to help individuals, communities, businesses, cities and nations tackle the challenges that matter to them.
+- Combines the strength of our global organisation with the opportunities of a new, open and connected world.
+- Open Enel’s infrastructure to more uses With new technologies to maximise the value of our assets in ways that benefit people, partners, shareholders.
+- Open up new value to Enel’s customers Through services that meet their changing needs and generate new revenue streams for the business.
+- Open Enel’s energy to more people By connecting more people to Enel’s services to empower emerging economies to grow.
+- Open Enel’s people to more knowledge By sharing internally and externally to promote entrepreneur-ialism, collaboration and innovation.
+- Establish open and transparent ways to do business With all critical stakeholders to build the relationships we need to create shared value.
+- We work in open and equal exchange with them to make power better together.
+- We interact, discover and co-create with them to open shared value for all.
+- We develop tomorrow’s infrastructure open for cities and nations to grow sustainably.
+- We inspire them with opportunities that open new partnerships, services and business models.
+- We discover stories with them that excite the world and ignite an Open Power movement.
+- We open up our resources and reach to jointly develop solutions at scale that benefit us and our partners
+- We collaborate globally to open our collective creativity and power local innovations.
+- Open Power is translated into a brand expression that makes Open Power tangible, and enables everyone to participate.
+- Open & Collaborative to enable everybody to participate
+- Energetic to infuse energy and empower people to act
+- Always moving to constantly inspire change and innovation
+
+##### Visual Style
+
+- The multi-coloured version of the logo is our primary logo. It should only be used on white backgrounds, never on black, photography or colour, for the following reasons. 1. To provide maximum contrast, legibility, on print and digital applications 2. To guarantee an energetic and vibrant look, communicating the idea of a modern, open brand
+- The white logo is our secondary version. It is used when photography or set coloured backgrounds are required. Please note that it is the white version that is used against any of our core Enel colour backgrounds.
+- All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the width of two cursors.
+- Minimum logo size = 20 mm = 55 pixels
+- Exclusion zone = two cursors ≥ 20 mm Standard-version logo Minimum size
 
 ## Additional Properties
 

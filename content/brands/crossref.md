@@ -2,7 +2,7 @@
 title: Crossref
 slug: crossref
 description: ""
-date: "2026-03-20T08:22:05.553591"
+date: "2026-04-10T09:40:34.464391"
 draft: false
 sectors:
   - ngo
@@ -51,23 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - stacked
-  - primary
-  - wordmark
-brand_colors:
-  - red
-  - "pantone-123"
-  - white
-  - grey
-  - "pantone-7527"
-  - "pantone-445"
-  - "pantone-631"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - contemporary
+imagery_styles: []
 wikidata_description: one of the official Digital Object Identifier Registration Agencies of the International DOI Foundation
 wikidata_url: "https://www.wikidata.org/wiki/Q5188229"
 has_twitter: false
@@ -87,40 +74,107 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo consists of a wordmark and an icon featuring interlinked brackets representing metadata flow (metadata in and out). The lowercase 'r' in Crossref is also official and should be respected in written text. Stacked placement enhances motion.
-- Minimum clear space requirement: a margin equivalent to 'x' is drawn around the logo to define its isolation area. Measurements: minimum printed width = 20mm; minimum digital width = 150 pixels.
-- Mono positive logo: reserved for white backgrounds when color printing is unavailable. Mono negative logo: reserved for black or very dark grey backgrounds when color printing is unavailable.
-- Single color positive and negative logos: designed for embossing or engraving use where color printing is unavailable. Positive logo is for white or transparent backgrounds; negative is for black or very dark grey backgrounds.
-- Alternative logo version exists for limited height spaces. Clear space equivalent to 'x' surrounds the logo, with base 0.5x. Minimum dimensions: printed width = 25mm; digital width = 180 pixels.
-- Incorrect logo usage examples: Do not use logos over images, on colored backgrounds, change icon colors, redraw, stretch, rotate, add elements (drop shadows, labels, new colors), alter proportions, or create unapproved brand extensions.
-- Metadata from logo: minimum printed width = 35mm; minimum digital width = 200 pixels.
-- Logo files are available in formats suitable for web and print use through a CDN. Examples include SVG format for web. Audits may be done to ensure correct usage.
+##### Mission
 
-**Color Information:**
+- Crossref is a not-for-profit membership organization for scholarly publishing, working to make content easy to find, link, cite, and assess. They achieve this by rallying the community, tagging metadata, running a shared infrastructure, experimenting with new technology, and creating tools and services to improve research communications [^1].
 
-- Color palette includes: Pantone 445 C - Hex #4f5858 - RGB (79, 88, 88) - CMYK (68, 54, 55, 29); Pantone 631 C - Hex #3eb1c8 - RGB (62, 177, 200) - CMYK (74, 0, 13, 0); Pantone 7527 C - Hex #d8d2c4 - RGB (216, 210, 196) - CMYK (15, 13, 21, 0); Pantone 123 C - Hex #ffc72c - RGB (255, 199, 44) - CMYK (0, 19, 89, 0); Pantone Red 032 C - Hex #ef3340 - RGB (239, 51, 64) - CMYK (0, 86, 63, 0).
-- Color palette reflects Crossref's history with red and dark grey while introducing contemporary colors for a fresh and distinctive look within the industry.
+##### Core Values
 
-**Typography Information:**
+- collaboration
+- innovation
+- clarity
+- consistency
+- community engagement
 
-- Sentence case is mandatory; Crossref must not feature a capital 'R'.
+##### Target Audience
 
-**Spacing Layout:**
+- Members and partners in the scholarly publishing and research communications community, including those who need to display the Crossref logo and use its services [^2].
 
-- Minimum clear space requirement around the logo is defined by 'x', ensuring isolation from other visual elements.
+##### Personality Traits
 
-**Brand Voice:**
+- straight-talking
+- sincere
+- considered
+- down-to-earth
+- concise
+- minimalist
+- voice of reason
+- scrappy
+- doers
 
-- Tone of voice is sincere, considered, down-to-earth, and concise. Usage of short paragraphs (maximum three sentences) is recommended; avoid corporate jargon or marketing speak.
-- Crossref positions itself as a plain talker, a 'voice of reason' in the industry, focusing on clarity and directness in communication.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is minimalist and embodies classic Swiss design principles, featuring geometric shapes, a distinctive color palette, and a sleek, professional appearance. The logo uses interlinked brackets and vibrant colors, with strict guidelines for clear space, minimum size, and color usage to ensure consistency [^3].
 
-- Brand principles employ Swiss design (minimalist aesthetics) focused on clarity and consistency. Assets are central to maintaining a unified look across members and the community.
-- Logo files: Crossref provides logo files via assets.crossref.org in both web-ready and print formats. For print files, email member@crossref.org.
-- Elevator pitch: Crossref strives to make scholarly content easy to find, cite, and assess by rallying the community, organizing metadata, and evolving infrastructure with tools to enhance research communication.
+#### Categories
+
+##### Brand Voice
+
+- Research confirms what we already knew was true. Crossref are the plain talkers of the industry, the doers, the scrappy people who get stuff done, chivvy others along and in some cases we are—dare we say it—the voice of reason. Our tone of voice is sincere, considered, and without pretence. We keep it real with down-to-earth language that is concise and to the point.
+- Crossref should always be set in sentence case, without a capital “R”.
+- Write with the reader in mind. Is the message clear? What is the benefit?
+- Less is more. Copy should be short and to the point. Ideally, sentences are short and paragraphs are limited to no more than three sentences.
+- Use subheadings to pull the reader in and make copy more digestible.
+- Avoid corporate jargon and marketing speak wherever possible.
+- Impactful copy doesn’t try too hard.
+
+##### Brand Imagery
+
+- The primary logo is comprised of a word mark and icon set against a white background. The icon is made up of two interlinked brackets which represent the code used in programming metadata. They also represent arrows that depict metadata in and metadata out—the two umbrellas under which our services can generally be grouped. Sentence case helps to avoid splitting the word; we do not want to tempt the Cross and the Ref to divide again. So the lowercase R you see in the middle of our name is indeed an official change and should be adhered to written text as well. The stacked placement of the icon makes it stand proud and enhances the sense of motion.
+- The Crossref word mark and icon should always be surrounded by a minimum area of space. This area of isolation ensures that other visual elements do not encroach on the logo.
+- A margin of clear space equivalent to 'x' is drawn around the logo to create the invisible boundary of the area of isolation.
+- The logo should not be scaled below 20mm wide.
+- The logo should not be scaled below 150 pixels wide.
+
+##### Color Palette
+
+- The palette gives a nod to the history of Crossref with red and dark grey, but brings in contemporary colors for a fresh palette that is distinctive in our industry where traditional shades abound.
+- Pantone Red 032 C
+- C: 0, M: 86, Y: 63, K: 0 R: 239, G: 51, B: 64 #ef3340
+- Pantone 631 C
+- C: 74, M: 0, Y: 13, K: 0 R: 62, G: 177, B: 200 #3eb1c8
+- Pantone 7527 C
+- C: 15, M: 13, Y: 21, K: 0 R: 216, G: 210, B: 196 #d8d2c4
+- Pantone 123 C
+- C: 0, M: 19, Y: 89, K: 0 R: 255, G: 199, B: 44 #ffc72c
+- Pantone 445 C
+- C: 68, M: 54, Y: 55, K: 29 R: 79, G: 88, B: 88 #4f5858
+
+##### Logo Usage
+
+- The primary logo is comprised of a word mark and icon set against a white background. The icon is made up of two interlinked brackets which represent the code used in programming metadata. They also represent arrows that depict metadata in and metadata out—the two umbrellas under which our services can generally be grouped. Sentence case helps to avoid splitting the word; we do not want to tempt the Cross and the Ref to divide again. So the lowercase R you see in the middle of our name is indeed an official change and should be adhered to written text as well. The stacked placement of the icon makes it stand proud and enhances the sense of motion.
+- The Crossref word mark and icon should always be surrounded by a minimum area of space. This area of isolation ensures that other visual elements do not encroach on the logo.
+- A margin of clear space equivalent to 'x' is drawn around the logo to create the invisible boundary of the area of isolation.
+- The logo should not be scaled below 20mm wide.
+- The logo should not be scaled below 150 pixels wide.
+
+##### Tone And Messaging
+
+- Research confirms what we already knew was true. Crossref are the plain talkers of the industry, the doers, the scrappy people who get stuff done, chivvy others along and in some cases we are—dare we say it—the voice of reason. Our tone of voice is sincere, considered, and without pretence. We keep it real with down-to-earth language that is concise and to the point.
+- Crossref should always be set in sentence case, without a capital “R”.
+- Write with the reader in mind. Is the message clear? What is the benefit?
+- Less is more. Copy should be short and to the point. Ideally, sentences are short and paragraphs are limited to no more than three sentences.
+- Use subheadings to pull the reader in and make copy more digestible.
+- Avoid corporate jargon and marketing speak wherever possible.
+- Impactful copy doesn’t try too hard.
+
+##### Brand Values
+
+- A brand isa promise
+- While balancing differing views within the scholarly community, we’re all about making connections–literally and figuratively. We help bring together people and metadata in pursuit of an excellent research communications system for all. That’s our promise.
+- We have not rebranded because we plan on doing something different but rather to better express the things we already do. Our ‘problem’ was that often people didn’t know Crossref was behind initiatives like CrossCheck, CrossMark, and FundRef. Our products were developing distinct brand identities, disassociated from the Crossref brand and since we’re all about linking things together, well, that just didn’t make sense.
+- As you will see, our aesthetic embodies classic Swiss design principles and is minimalist in keeping with our straight-talking personality. Initial reaction to our new look and feel has been overwhelmingly positive.
+- Oh, and please don’t mess with our new identity. Continuity and consistency is really important in ensuring that we present a unified brand to our members and the scientific community at large. Besides, you don’t want the brand police to come knocking, do you?
+
+##### Visual Style
+
+- The primary logo is comprised of a word mark and icon set against a white background. The icon is made up of two interlinked brackets which represent the code used in programming metadata. They also represent arrows that depict metadata in and metadata out—the two umbrellas under which our services can generally be grouped. Sentence case helps to avoid splitting the word; we do not want to tempt the Cross and the Ref to divide again. So the lowercase R you see in the middle of our name is indeed an official change and should be adhered to written text as well. The stacked placement of the icon makes it stand proud and enhances the sense of motion.
+- The Crossref word mark and icon should always be surrounded by a minimum area of space. This area of isolation ensures that other visual elements do not encroach on the logo.
+- A margin of clear space equivalent to 'x' is drawn around the logo to create the invisible boundary of the area of isolation.
+- The logo should not be scaled below 20mm wide.
+- The logo should not be scaled below 150 pixels wide.
 
 ## Additional Properties
 

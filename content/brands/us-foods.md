@@ -2,11 +2,11 @@
 title: US Foods
 slug: "us-foods"
 description: ""
-date: "2026-03-20T08:22:04.203376"
+date: "2026-04-10T09:40:32.566438"
 draft: false
 sectors:
-  - food
   - "logistics-supply-chain"
+  - food
 regions:
   - usa
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - agriculture
 industries:
-  - "food-industry"
-  - "foodservice-distributor"
   - "food-distribution"
+  - "foodservice-distributor"
+  - "food-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -57,22 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-576"
-  - white
-  - gray
-  - black
-  - "pantone-173"
-typographies:
-  - "sans-serif"
-  - serif
-imagery_styles:
-  - clean
-  - modern
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American foodservice distributor
 wikidata_url: "https://www.wikidata.org/wiki/Q1668265"
 has_twitter: false
@@ -91,39 +79,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- US Foods® logo must never be modified: no removal or alteration of elements, no stretching or distorting, and no placement on unsuitable backgrounds (e.g., complex images).
-- Logo versions include full color, single-color (black or white), and reversed variations, following the branding rules.
-- Clear spacing should be maintained around the logo. Protected space is specified proportionally to the size of the logo. Spacing cannot be compromised under any circumstance.
-
-**Color Information:**
-
-- Primary color palette includes: Pantone 173 (HEX #CF4520, RGB 207,69,32, CMYK 0,82,94,0), Pantone Cool Gray 11 (HEX #717073, RGB 113,112,115, CMYK 0,0,0,70), and Pantone 576 (HEX #5C8727, RGB 92,135,39, CMYK 49,0,100,39).
-- Department-specific colors follow the primary palette, maintaining consistent branding visuals across all applications.
-
-**Typography Information:**
-
-- The primary typefaces used for branding are Chronicle Text (serif font for elegance and readability) and Aktiv Grotesk (sans-serif font for clean and modern appeal).
-- Typography must utilize traditional typesetting rules, including precise kerning and layout presentation to communicate quality and attention to detail.
-
-**Imagery Photography:**
-
-- Photography should evoke freshness, innovation, and kitchen-based tones. Lighting and composition must align with the brand's clean and modern aesthetic.
-
-**Spacing Layout:**
-
-- Grid systems and margins must ensure balance and alignment, with ample white space to emphasize clarity and modernity.
-
-**Brand Voice:**
-
-- The brand voice should be inspired, knowledgeable, food-focused, and easy to understand. It must reflect authority and build trust through clear and collaborative communication.
-- Tone and style should avoid clichés and prioritize warmth, humor, and honesty. The natural, conversational tone strengthens the brand's approachability.
-
-**Notes:**
-
-- US Foods brand is built on consistency, creativity, and alignment with customer success.
-- The tagline 'WE HELP YOU MAKE IT®' embodies the brand's commitment to supporting customer goals.
+*Guidelines data not available*
 
 ## Additional Properties
 

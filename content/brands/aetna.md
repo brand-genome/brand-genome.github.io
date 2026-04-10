@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-03-20T08:22:04.687852"
+date: "2026-04-10T09:40:33.411066"
 draft: false
 sectors:
   - insurance
@@ -15,8 +15,8 @@ languages:
 tags:
   - insurance
 industries:
-  - insurance
   - "managed-care"
+  - insurance
 countries:
   - "united-states"
 revenue_buckets: []
@@ -54,12 +54,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-brand_colors:
-  - violet
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: American managed health care company
@@ -83,18 +79,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Details about the logo including its centrality to the brand and its representation of the merger with CVS Health. Describes the redesigned logo with the CVS Health heart icon, available in violet and white. Notes the existence of a black logo ONLY for printed materials.
-- Details about the logo including its centrality to the brand and its representation of the merger with CVS Health. Describes the redesigned logo with the CVS Health heart icon, available in violet and white. Notes the existence of a black logo ONLY for printed materials.
-
-**Color Information:**
-
-- Violet is the lead brand color and is exclusively used for all business- and operational-related items and materials.
-
-**Brand Voice:**
-
-- The logo symbolizes the enterprise-wide purpose of helping people on the path to better health.
+*Guidelines data not available*
 
 ## Additional Properties
 

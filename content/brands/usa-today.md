@@ -2,7 +2,7 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-03-20T08:22:05.797296"
+date: "2026-04-10T09:40:34.791589"
 draft: false
 sectors:
   - broadcasting
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-brand_colors:
-  - blue
-  - black
-typographies:
-  - arial
-  - futura
-imagery_styles:
-  - photography
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American national daily newspaper
 wikidata_url: "https://www.wikidata.org/wiki/Q39681"
 has_twitter: false
@@ -88,38 +80,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Guidelines for digital applications specify using RGB versions of the USA TODAY Master Logo. Gannett endorsement is adaptable in minimum sizes of 14 px.
-- Reverse color usage prioritized: Blue/black version of the logo is preferred for contrast. Alternate combinations provided for photography and color backgrounds.
-- Examples of 'Logo Do Nots' include not redrawing, retracing, or altering proportions of the logo. Official logo assets are denoted for appropriate usage.
-- Sub-brand logos differentiated by color: Money, Sports, Travel, etc. Logos include specific 'Core' attribute PMS 355C, 2925U colors for visual distinction.
-
-**Color Information:**
-
-- Core Palette includes distinct bright and contemporary colors for sub-brands like Money, Sports, Life, and Travel. PMS, CMYK, RGB, and HEX values are outlined.
-- Grayscale logo implementation: Value at 50% Black (HEX #939598) ensures accessibility in diverse applications.
-
-**Typography Information:**
-
-- Primary font, 'Futura Today,' developed specifically for the brand, available in four weights for corporate communications.
-- Alternative typeface for screen formats: Hand-hinted web version of Futura Today enhances character legibility. Arial used as fallback.
-
-**Imagery Photography:**
-
-- Photography style emphasizes legibility for Reverse usage. Contrasting logo placements against images using full color or blue/black options.
-- Brand Behaviors integrates photography, vectors, and graphics into logos for visual storytelling.
-
-**Brand Voice:**
-
-- USA TODAY focuses on 'fast, factual, and concise' storytelling without bias or agenda. Engagement motivation: Americans advancing life opportunities.
-- General guidance for written communication includes use of factual statements, bullet points for clarity, and avoidance of jargon.
-
-**Notes:**
-
-- Introduction highlights adherence to guidelines for consistent branding: logos, typography, and visual elements.
-- Usage of sub-brand logos and restrictions: Rules ensure all entities contribute directly to the master brand without dilution.
-- Always consult the latest revisions of corporate guidelines. Adherence stipulated for continued updates.
+*Guidelines data not available*
 
 ## Additional Properties
 

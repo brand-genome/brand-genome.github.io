@@ -2,7 +2,7 @@
 title: Bielefeld
 slug: bielefeld
 description: ""
-date: "2026-03-20T08:22:03.795348"
+date: "2026-04-10T09:40:31.405612"
 draft: false
 sectors:
   - "public-sector"
@@ -75,7 +75,107 @@ visual_term_image_urls: {}
 
 ### 2016
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- Bielefeld's mission is to present a unified and recognizable city brand, emphasizing the city's identity and engaging all stakeholders through a new, distinctive logo and comprehensive marketing realignment [^1].
+
+##### Core Values
+
+- unity
+- recognizability
+- authenticity
+- community engagement
+
+##### Target Audience
+
+- Residents of Bielefeld, local institutions, and visitors, with a focus on engaging the city's 330,000 citizens and all actors within the city [^2].
+
+##### Personality Traits
+
+- bold
+- modern
+- clear
+- inclusive
+
+##### Visual Identity Overview
+
+- The visual identity centers on a minimalistic, bold logo featuring the 'BIE' silhouette representing the Sparrenburg tower, a strong red color palette, and modern typography (Cera Bielefeld). The design principles emphasize simplicity, clarity, and high recognition value, with flexible logo placement and a variety of primary colors for media applications [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- Die Logobreite definiert die Platzierung in der Formatecke und den Schutzraum.
+- Schutzraum
+- Empfehlungen für Logo-Größen
+- Logobreite 20mm ► Visitenkarten
+- Logobreite 20mm ► DIN lang
+- Logobreite 20mm ► DIN A6
+- Logobreite 25 mm ► DIN AS
+- Logobreite 30mm ► DIN A4
+- Logobreite 45 mm ► DIN A3
+- Logobreite 65 mm ► DIN A2
+- Logobreite 90mm ► DIN Al
+- Logobreite 130mm ► DIN A0
+- Logobreite 350mm ► 18/1 Plakate
+- Logo-Platzierung in der Formatecke (oben links/rechts oder unten links/ rechts)
+- Die Logobreite definiert den Abstand (Schutzraum) von Textzusätzen. Die Grundlinie der letzten Zeile steht immer bündig mit der Unterkante vom Logo.
+- Logo in Rot auf Weiß / Weiß auf Rot: Nur der Stadt Bielefeld vorbehalten.
+- Logo in Weiß auf Farbe Einsatz in allen Medien: 20 frei wählbare Primärfarben [a], mit Abstufungen [b+c] als Ergänzung
+
+##### Color Palette
+
+- Logo in Rot auf Weiß / Weiß auf Rot: Nur der Stadt Bielefeld vorbehalten.
+- Logo in Weiß auf Farbe Einsatz in allen Medien: 20 frei wählbare Primärfarben [a], mit Abstufungen [b+c] als Ergänzung
+
+##### Typography
+
+- Typografie: Corporate Font – Cera Bielefeld
+- Typografie Bielefeld ist modern.
+- Corporate Font Cera für Bielefeld
+- Die sehr klare Cera von Jakob Runge aus dem Jahr 2015 als Cera Bielefeld mit integriertem Stadt-Logo  wird als Schrift für professionelle Anwendungen verwendet.
+- Insgesamt enthält die Schriftfamilie 12 Schnitte, Standard- und Mediävalziffern und nützliche Sonderzeichen.
+- 1234567890 1234567890 ❶❷❸➃➄▷▶♥❞
+- Cera Bielefeld Thin
+- Italic
+- Cera Bielefeld Light
+- Cera Bielefeld Regular
+- Cera Bielefeld Medium
+- Cera Bielefeld Bold
+- Cera Bielefeld Black
+- 1. Zeile: „Stadt Bielefeld“ (Schrift: Cera Bielefeld Bold) 2./3. Zeile: Amt bzw. Institution (Schrift: Cera Bielefeld Regular)
+
+##### Visual Style
+
+- Die drei Anfangsbuchstaben „BIE“ bilden die Silhouette des Wahrzeichens der Stadt, den Turm der Sparrenburg. So entsteht ein reduziertes, prägnantes Markenzeichen mit hohem Wiedererkennungswert.
+- Logo: Kurzform mit Potential
+- Das neue Stadtlogo Wie das neue Stadtlogo für Bielefeld entwickelt wurde, zeigt der Videoclip "'""" t•'1t<>lj(>lu<BeeM:! 0 ,+ Die Logoentstehung im Video: http://mein.bielefeld.de
+- Logo: Platzierung, Schutzraum und Größen
+- Die Logobreite definiert die Platzierung in der Formatecke und den Schutzraum.
+- Schutzraum
+- Empfehlungen für Logo-Größen
+- Logobreite 20mm ► Visitenkarten
+- Logobreite 20mm ► DIN lang
+- Logobreite 20mm ► DIN A6
+- Logobreite 25 mm ► DIN AS
+- Logobreite 30mm ► DIN A4
+- Logobreite 45 mm ► DIN A3
+- Logobreite 65 mm ► DIN A2
+- Logobreite 90mm ► DIN Al
+- Logobreite 130mm ► DIN A0
+- Logobreite 350mm ► 18/1 Plakate
+- Logo-Platzierung in der Formatecke (oben links/rechts oder unten links/ rechts)
+- Die Logobreite definiert den Abstand (Schutzraum) von Textzusätzen. Die Grundlinie der letzten Zeile steht immer bündig mit der Unterkante vom Logo.
+- Zusätze sind in max. 3 Zeilen möglich. 1. Zeile: „Stadt Bielefeld“ (Schrift: Cera Bielefeld Bold) 2./3. Zeile: Amt bzw. Institution (Schrift: Cera Bielefeld Regular)
+- Logo in Rot auf Weiß / Weiß auf Rot: Nur der Stadt Bielefeld vorbehalten.
+- Logo in Weiß auf Farbe Einsatz in allen Medien: 20 frei wählbare Primärfarben [a], mit Abstufungen [b+c] als Ergänzung
+
+##### Brand Imagery
+
+- Bildmotiv Aussagekräftige und authentische Motive in ruhiger Bildsprache
+- Vollflächige Bildmotive sind in einzelnen Medien möglich
 
 ## Additional Properties
 

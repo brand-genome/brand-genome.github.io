@@ -2,7 +2,7 @@
 title: University of Jeddah
 slug: "university-of-jeddah"
 description: ""
-date: "2026-03-20T08:22:04.519375"
+date: "2026-04-10T09:40:33.297712"
 draft: false
 sectors:
   - university
@@ -51,16 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - "pantone-5425"
-  - "pantone-3025"
-  - black
-  - "pantone-636"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: "education organization in Jeddah, Saudi Arabia"
 wikidata_url: "https://www.wikidata.org/wiki/Q20411232"
 has_twitter: false
@@ -81,32 +75,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Safe zone rules for the logo of University of Jeddah established with measurements such as 1X, 1.5X, and 3.5X.
-- Minimum size requirement of 18mm for usage of the logo of University of Jeddah.
-- Additional logos showcased for different applications, such as Vice Presidency (Graduate Studies), College of Business, and College of Applied Medical Sciences.
-
-**Color Information:**
-
-- Main color codes provided: Pantone 636 C (RGB: R:131, G:204, B:234; CMYK: C:43, M:1, Y:7, K:0), Pantone 3025 C (RGB: R:0, G:79, B:110; CMYK: C:100, M:65, Y:37, K:21).
-- Secondary color codes provided: Pantone 5425 C (RGB: R:110, G:150, B:162; CMYK: C:61, M:31, Y:31, K:1) and Pantone Black 7 C (RGB: R:59, G:59, B:57; CMYK: C:68, M:61, Y:63, K:53).
-
-**Typography Information:**
-
-- Font 'Cairo Bold' used primarily across brand materials.
-- Font families for secondary applications include 'Al Mateen', 'Al Mohanad Regular', and 'Al Mohanad Bold'.
-- Font weights showcased: Cairo Extralight, Cairo Light, Cairo Regular, Cairo SemiBold.
-
-**Spacing Layout:**
-
-- Letterhead spacing provided with metrics: 0.8mm margins, 33.5mm for content sections, and 67mm overall.
-- Envelope layouts provided with dimensions for DL and A4 sizes. For DL: 8mm margins and areas of 80.7mm x 59mm. For A4: margins include 37.5mm x 76.5mm x 140mm x 5.5mm.
-- Folder blueprint dimensions such as 44X22 cm and partitioned layout.
-
-**Notes:**
-
-- Contact information provided for branding materials: www.uj.edu.sa, info@uj.edu.sa, +966 (12) 2334000.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Nanna’s Negroni
 slug: "nannas-negroni"
 description: ""
-date: "2026-03-20T08:22:03.195039"
+date: "2026-04-10T09:40:30.739680"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - india
 years:

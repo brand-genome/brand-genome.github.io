@@ -2,7 +2,7 @@
 title: World Skate
 slug: "world-skate"
 description: ""
-date: "2026-03-20T08:22:05.525332"
+date: "2026-04-10T09:40:34.417706"
 draft: false
 sectors:
   - sports
@@ -49,25 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - symbol
-  - primary
-  - horizontal
-brand_colors:
-  - green
-  - white
-  - grey
-  - black
-typographies:
-  - impact
-imagery_styles:
-  - dynamic
-  - graphic
-  - classic
-  - bold
-  - modern
-  - clean
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international governing body for all roller sports
 wikidata_url: "https://www.wikidata.org/wiki/Q60584942"
 has_twitter: false
@@ -88,30 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The World Skate logo consists of two elements: the Logo Symbol and the Logo Title. The Logo Symbol evokes the movement of the wheel, representing dynamic activity without showing a literal wheel. The Logo Title uses the Coco Gothic Regular and Bold font for high legibility and modernity, enhanced by uppercase letters.
-- The logo is available in color, black and white, dark version (for dark backgrounds), and white version (specifically for the World Skate Corporate Green background).
-- Recommended file formats for the logo: .eps, .ai, .png, .jpg, .tiff.
-- Clear space rules: The logo must be surrounded by adequate clear space to ensure visibility and impact. Clear space is calculated as height divided by 2 (Clear space = Height/2).
-- Minimum size requirements: Horizontal logo version requires a minimum base size of 20mm. Vertical logo version requires a minimum height of 12mm.
-- Do's and Don'ts for Logo Usage: -Do not place the logo type on one line. -Do not invert the logo symbol. -Do not alter the logo symbol or type style. -Do not resize or change the proportion of the logo components (symbol or type) vertically or horizontally. -Do not alter or distort in any way.
-
-**Color Information:**
-
-- The corporate colors are Green and Grey, chosen for their modern, classic, and timeless combination. These colors are implemented based on international standards.
-
-**Typography Information:**
-
-- The primary font is Coco Gothic Regular and Bold, selected for its modern aesthetic and high legibility. Used in uppercase letters to enhance a strong, clean identity.
-
-**Spacing Layout:**
-
-- Clear space for the logo is calculated as Height/2, ensuring no other graphic elements or text invade this exclusion zone.
-
-**Notes:**
-
-- The document prioritizes logo consistency, color standards, and typography as core elements of brand identity. Additional guidelines appear in specific sections for further analysis.
+*Guidelines data not available*
 
 ## Additional Properties
 

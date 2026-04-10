@@ -2,11 +2,11 @@
 title: Ralston Purina Company
 slug: "ralston-purina-company"
 description: ""
-date: "2026-03-20T08:22:03.828581"
+date: "2026-04-10T09:40:31.458609"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - "food-beverage"
-  - agriculture
   - featured
+  - agriculture
 industries: []
 countries: []
 revenue_buckets: []
@@ -56,18 +56,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [http://www.purinamills.com/dairy-feed](http://www.purinamills.com/dairy-feed)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*

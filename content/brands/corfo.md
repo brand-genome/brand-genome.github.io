@@ -2,7 +2,7 @@
 title: Corfo
 slug: corfo
 description: ""
-date: "2026-03-20T08:22:05.041545"
+date: "2026-04-10T09:40:33.804415"
 draft: false
 sectors:
   - "public-sector"
@@ -51,13 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-293"
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: Chilean governmental organization
 wikidata_url: "https://www.wikidata.org/wiki/Q1135552"
 has_twitter: false
@@ -77,24 +73,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Color Information:**
-
-- The logo's color is defined as Pantone 293 (CMYK: C:100 M:55 Y:0 K:0, RGB: R:0 G:108 B:183).
-- When applied on a Pantone 293 background, the logo must be in white color.
-
-**Typography Information:**
-
-- Typography includes GobCL family (Light, Regular, Bold, Heavy) and ScalaSans family (Light, Regular, Bold, Black).
-- Typography includes GobCL family (Light, Regular, Bold, Heavy) and ScalaSans family (Light, Regular, Bold, Black).
-
-**Spacing Layout:**
-
-- Logo placement follows spatial relations of Superior-Centered-Inferior when accompanied by the Government of Chile logo.
-
-**Notes:**
-
-- Before requesting promotional materials with the new Corfo brand image, existing stock should be fully utilized unless outdated.
-- This manual serves as the official guideline for the Corfo brand.
+*Guidelines data not available*
 
 ## Additional Properties
 

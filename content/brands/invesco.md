@@ -2,7 +2,7 @@
 title: Invesco
 slug: invesco
 description: ""
-date: "2026-03-20T08:22:04.173203"
+date: "2026-04-10T09:40:32.488249"
 draft: false
 sectors:
   - finance
@@ -48,27 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - secondary
-  - abstract
-brand_colors:
-  - silver
-  - gray
-  - white
-  - blue
-typographies:
-  - "gill-sans"
-  - arial
-imagery_styles:
-  - abstract
-  - minimal
-  - professional
-  - bold
-  - modern
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Trading platform for mutual funds
 wikidata_url: "https://www.wikidata.org/wiki/Q93360231"
 has_twitter: false
@@ -93,71 +76,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- Invesco Identity Guidelines
-Iss ue 0.8
-The corporate identity programme includes a logo, palette of colours, typographic style and photographic resource. The use of these basic elements will influence every aspect of our communications from print-based media to electronic platforms.
-- Invesco Identity Guidelines
-Iss ue 0.8
-6 Style guide
-6.1 Style guide example
-- Invesco Identity Guidelines
-Iss ue 0.8
-Logo stacked
-
-Logo single line
-
-**Color Information:**
-
-- Invesco Identity Guidelines
-Iss ue 0.8
-Corporate colour palette
-
-Primary: Blue
-Secondary: White, Silver
-- Invesco Identity Guidelines
-Basic colours to maintain uniformity:
-
-Blue - HEX: #003399, Pantone: 293 C
-
-Silver - HEX: #C0C0C0, Pantone: Cool Gray 1
-
-**Typography Information:**
-
-- Primary Typeface: Gill Sans
-
-Weights: Light, Regular, Bold
-
-Used prominently in headings and body text.
-- Backup Typeface: Arial
-
-To be used when Gill Sans is unavailable.
-Usage: Presentations, web interfaces.
-
-**Imagery Photography:**
-
-- Primary photography: Natural lighting, minimal post-processing. Focus on financial professionals and urban environments.
-- Secondary photography: Abstract and artistic, such as mountain imagery and modern architectural patterns.
-
-**Spacing Layout:**
-
-- Clear space rule for logo: Maintain a spacing of 'X' equal to the height of the 'I' in the logo around all sides.
-- Recurring grids for layout based on A4 dimensions:
-
-Margins: 20 mm
-Columns: 3 with gutter width of 4 mm
-Spacing emphasis for white space and readability.
-
-**Brand Voice:**
-
-- Messaging descriptors: Professional, concise, and client-focused.
-Tone: Clear and straightforward. Avoid jargon.
-Key phrases: 'Confidence in your financial future.'
-
-**Notes:**
-
-- Guidelines emphasize consistent use of brand identity elements. Deviations should be strictly avoided to maintain brand integrity.
+*Guidelines data not available*
 
 ## Additional Properties
 

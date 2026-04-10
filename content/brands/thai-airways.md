@@ -2,7 +2,7 @@
 title: THAI Airways
 slug: "thai-airways"
 description: ""
-date: "2026-03-20T08:22:04.891963"
+date: "2026-04-10T09:40:33.655766"
 draft: false
 sectors:
   - airline
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: flag carrier airline of Thailand
 wikidata_url: "https://www.wikidata.org/wiki/Q188710"
 has_twitter: false
@@ -73,108 +72,7 @@ visual_term_image_urls: {}
 
 ### 2005
 
-**Logo Information:**
-
-- Logo-related guidelines or specifications on page 1.
-- Logo-related guidelines or specifications on page 3.
-- Logo-related guidelines or specifications on page 4.
-- Logo-related guidelines or specifications on page 5.
-- Logo-related guidelines or specifications on page 6.
-- Logo-related guidelines or specifications on page 7.
-- Logo-related guidelines or specifications on page 8.
-- Logo-related guidelines or specifications on page 9.
-- Logo-related guidelines or specifications on page 10.
-- Logo-related guidelines or specifications on page 11.
-- Logo-related guidelines or specifications on page 12.
-- Logo-related guidelines or specifications on page 13.
-- Logo-related guidelines or specifications on page 15.
-- Logo-related guidelines or specifications on page 16.
-- Logo-related guidelines or specifications on page 33.
-- Logo-related guidelines or specifications on page 34.
-- Logo-related guidelines or specifications on page 35.
-- Logo-related guidelines or specifications on page 36.
-- Logo-related guidelines or specifications on page 37.
-- Logo-related guidelines or specifications on page 39.
-- Logo-related guidelines or specifications on page 40.
-- Logo-related guidelines or specifications on page 41.
-- Logo-related guidelines or specifications on page 42.
-- Logo-related guidelines or specifications on page 43.
-- Logo-related guidelines or specifications on page 44.
-- Logo-related guidelines or specifications on page 45.
-- Logo-related guidelines or specifications on page 46.
-- Logo-related guidelines or specifications on page 47.
-- Logo-related guidelines or specifications on page 48.
-- Logo-related guidelines or specifications on page 49.
-- Logo-related guidelines or specifications on page 50.
-- Logo-related guidelines or specifications on page 51.
-- Logo-related guidelines or specifications on page 52.
-- Logo-related guidelines or specifications on page 53.
-- Logo-related guidelines or specifications on page 54.
-- Logo-related guidelines or specifications on page 55.
-- Logo-related guidelines or specifications on page 56.
-
-**Color Information:**
-
-- Color-related details mentioned on page 9.
-- Color-related details mentioned on page 10.
-- Color-related details mentioned on page 11.
-- Color-related details mentioned on page 13.
-- Color-related details mentioned on page 14.
-- Color-related details mentioned on page 38.
-
-**Typography Information:**
-
-- Typography-related details mentioned on page 1.
-- Typography-related details mentioned on page 17.
-- Typography-related details mentioned on page 18.
-
-**Imagery Photography:**
-
-- Imagery/photography-related details mentioned on page 1.
-- Imagery/photography-related details mentioned on page 3.
-- Imagery/photography-related details mentioned on page 15.
-- Imagery/photography-related details mentioned on page 18.
-- Imagery/photography-related details mentioned on page 19.
-- Imagery/photography-related details mentioned on page 20.
-- Imagery/photography-related details mentioned on page 21.
-- Imagery/photography-related details mentioned on page 22.
-- Imagery/photography-related details mentioned on page 23.
-- Imagery/photography-related details mentioned on page 24.
-- Imagery/photography-related details mentioned on page 25.
-- Imagery/photography-related details mentioned on page 26.
-- Imagery/photography-related details mentioned on page 27.
-- Imagery/photography-related details mentioned on page 29.
-
-**Spacing Layout:**
-
-- Spacing or layout-related guidelines on page 18.
-- Spacing or layout-related guidelines on page 45.
-- Spacing or layout-related guidelines on page 49.
-
-**Notes:**
-
-- Miscellaneous notes or important guidelines on page 1.
-- Miscellaneous notes or important guidelines on page 2.
-- Miscellaneous notes or important guidelines on page 8.
-- Miscellaneous notes or important guidelines on page 14.
-- Miscellaneous notes or important guidelines on page 17.
-- Miscellaneous notes or important guidelines on page 18.
-- Miscellaneous notes or important guidelines on page 20.
-- Miscellaneous notes or important guidelines on page 21.
-- Miscellaneous notes or important guidelines on page 22.
-- Miscellaneous notes or important guidelines on page 23.
-- Miscellaneous notes or important guidelines on page 24.
-- Miscellaneous notes or important guidelines on page 27.
-- Miscellaneous notes or important guidelines on page 28.
-- Miscellaneous notes or important guidelines on page 29.
-- Miscellaneous notes or important guidelines on page 30.
-- Miscellaneous notes or important guidelines on page 37.
-- Miscellaneous notes or important guidelines on page 38.
-- Miscellaneous notes or important guidelines on page 39.
-- Miscellaneous notes or important guidelines on page 40.
-- Miscellaneous notes or important guidelines on page 41.
-- Miscellaneous notes or important guidelines on page 42.
-- Miscellaneous notes or important guidelines on page 52.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: World Stroke Organization
 slug: "world-stroke-organization"
 description: ""
-date: "2026-03-20T08:22:04.684948"
+date: "2026-04-10T09:40:33.407263"
 draft: false
 sectors:
   - ngo
@@ -47,19 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - logomark
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - blue
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "a non-profit medical association that works to raise awareness of prevention and treatment of stroke"
 wikidata_url: "https://www.wikidata.org/wiki/Q8036267"
 has_twitter: false
@@ -77,41 +68,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The primary logo lock-up 'DON'T BE THE ONE' is the fullest expression and should be used when possible. A secondary logo (logomark) is available for constrained applications like social media.
-- The logo padding must use the height of the letter 'E' from the word 'ONE' as a minimum clear space. More space is preferred for better legibility.
-- The logo should primarily use two colors: WSO Blue and White. A knockout version can be used when set against dark colors, specifically WSO Blue.
-- Do not stray from approved color combinations, shrink, stretch, place over gradients, or reorient the logo.
-
-**Color Information:**
-
-- Primary colors: WSO Blue (Pantone 072C, HEX #00119F, RGB 0 17 159, CMYK 100 84 0 0) and WSO Green (Pantone 369C, HEX #58AB27, RGB 88 171 37, CMYK 70 0 100 0). Secondary color: White (HEX #FFFFFF, RGB 255 255 255, CMYK 0 0 0 0). Tints are acceptable for legibility.
-
-**Typography Information:**
-
-- Font families: 'Titling Gothic FB Com' is used for headlines, and 'Helvetica Neue' is used for body content. Helvetica Neue weights: Bold, Medium, and Light. Tracking should remain zero, and leading should match the font size.
-- Typography hierarchy rules: Headlines should be 50% larger in size and weight than paragraph headers, which should again be 50% larger than body text.
-
-**Imagery Photography:**
-
-- Photography should reflect statistics—1 in 4 people will have a stroke—and feature people in everyday settings, including those who have experienced a stroke.
-- Photography alignment: Images should be consistent and arranged in four even windows (vertically or in a quadrant).
-- Example of context: Poster advertisements should match headline topics and align correctly. Text and logos should never overlap images.
-- Do not mix photography subjects, overlap text or logos on images, or apply any photo treatments.
-
-**Spacing Layout:**
-
-- Facebook post specifications: 1200px x 1200px for desktop; 628px x 628px for mobile. Social media assets must follow strip or quadrant layouts for Instagram.
-
-**Brand Voice:**
-
-- The tone must be urgent and informative, emphasizing that strokes can be prevented through empowered actions. Avoid shaming people, using hyperbole, or creating hopelessness.
-- Target audiences: Communicate with people from diverse demographics (various nationalities, races, ages, and education levels). Messages must be simple, hopeful, and forward-looking.
-
-**Notes:**
-
-- 'DON'T BE THE ONE': One in four may experience a stroke, but most can be prevented through awareness and action.
+*Guidelines data not available*
 
 ## Additional Properties
 

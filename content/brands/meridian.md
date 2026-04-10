@@ -2,7 +2,7 @@
 title: Meridian
 slug: meridian
 description: ""
-date: "2026-03-20T08:22:04.300668"
+date: "2026-04-10T09:40:32.979264"
 draft: false
 sectors:
   - "consumer-goods"
@@ -50,20 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-  - monogram
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - clean
-  - contemporary
-  - professional
+imagery_styles: []
 wikidata_description: "performing arts building in Toronto, Ontario, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q2302468"
 has_twitter: false
@@ -84,52 +74,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Primary logo is presented with the monogram and wordmark. Clear space rules use the width of the 'M' as a guide for spacing.
-- Primary logo is presented with the monogram and wordmark. Clear space rules use the width of the 'M' as a guide for spacing.
-- Clear space rules require using the width or height of the 'M' in the monogram as a minimum boundary around the logo. Ensures no graphical elements or text compromise clarity.
-- Secondary logo usage detailed as an alternative when the primary logo cannot fit. Guidelines for black, white, and color variants are shared.
-- Logo usage guidelines include restrictions such as: do not modify the logo, change proportions, remove elements of the black square, use on busy backgrounds, or alter the colors of the monogram.
-- Primary logo is presented with the monogram and wordmark. Clear space rules use the width of the 'M' as a guide for spacing.
-- Secondary logo usage detailed as an alternative when the primary logo cannot fit. Guidelines for black, white, and color variants are shared.
-- Primary logo is presented with the monogram and wordmark. Clear space rules use the width of the 'M' as a guide for spacing.
-- Secondary logo usage detailed as an alternative when the primary logo cannot fit. Guidelines for black, white, and color variants are shared.
-- Clear space rules require using the width or height of the 'M' in the monogram as a minimum boundary around the logo. Ensures no graphical elements or text compromise clarity.
-- Primary logo is presented with the monogram and wordmark. Clear space rules use the width of the 'M' as a guide for spacing.
-- Secondary logo usage detailed as an alternative when the primary logo cannot fit. Guidelines for black, white, and color variants are shared.
-- Minimum sizes for logos specified: 21mm for the primary logo in print, and 20mm for the secondary wordmark. Digital applications require logos no smaller than 70px wide.
-- Clear space rules require using the width or height of the 'M' in the monogram as a minimum boundary around the logo. Ensures no graphical elements or text compromise clarity.
-- Logo usage guidelines include restrictions such as: do not modify the logo, change proportions, remove elements of the black square, use on busy backgrounds, or alter the colors of the monogram.
-
-**Typography Information:**
-
-- FF Scala Sans Pro is the primary typeface, described as contemporary and distinctive. Weights include Light, Regular, and Bold. Kerning guidelines recommend no closer than -20, and line spacing should adapt based on application use.
-- Font size varies by context (print, digital, etc.). Advertisement examples suggest consistent kerning and leading. Specific sizes available in Design Templates section.
-- FF Scala Sans Pro is the primary typeface, described as contemporary and distinctive. Weights include Light, Regular, and Bold. Kerning guidelines recommend no closer than -20, and line spacing should adapt based on application use.
-- Font size varies by context (print, digital, etc.). Advertisement examples suggest consistent kerning and leading. Specific sizes available in Design Templates section.
-- Font size varies by context (print, digital, etc.). Advertisement examples suggest consistent kerning and leading. Specific sizes available in Design Templates section.
-- Font size varies by context (print, digital, etc.). Advertisement examples suggest consistent kerning and leading. Specific sizes available in Design Templates section.
-
-**Imagery Photography:**
-
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-- Photographic style emphasizes clean, high-contrast imagery to highlight the brand's premium quality. Guidelines stress the importance of consistency in composition and lighting.
-
-**Spacing Layout:**
-
-- Spacing around key elements, particularly the logo, follows strict guidelines using the 'M' height. Headings maintain proportions and margins based on alignment requirements.
-- Spacing around key elements, particularly the logo, follows strict guidelines using the 'M' height. Headings maintain proportions and margins based on alignment requirements.
-
-**Brand Voice:**
-
-- The brand's tone is confident, professional, and aspirational, highlighting qualities like innovation and excellence. Copy should be concise and tailored to maintain engagement. Messages must emphasize the brand's award-winning performance and innovation.
-- The brand's tone is confident, professional, and aspirational, highlighting qualities like innovation and excellence. Copy should be concise and tailored to maintain engagement. Messages must emphasize the brand's award-winning performance and innovation.
-- The brand's tone is confident, professional, and aspirational, highlighting qualities like innovation and excellence. Copy should be concise and tailored to maintain engagement. Messages must emphasize the brand's award-winning performance and innovation.
+*Guidelines data not available*
 
 ## Additional Properties
 

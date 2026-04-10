@@ -2,7 +2,7 @@
 title: University of Calgary
 slug: "university-of-calgary"
 description: ""
-date: "2026-03-20T08:22:04.245062"
+date: "2026-04-10T09:40:32.823208"
 draft: false
 sectors:
   - education
@@ -55,22 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - gold
-  - white
-  - grey
-  - brown
-  - orange
-  - black
-typographies:
-  - times
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public research university located in Calgary, Alberta"
 wikidata_url: "https://www.wikidata.org/wiki/Q1067471"
 has_twitter: false
@@ -90,35 +78,118 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- Only a single orientation of the graphic lock-up (horizontal). The wordmark consists of English and French text, the legacy graphic identifier, and 'at the University of Calgary' subtext.
-- Logo color versions: Full color (with university's primary red), black-only, and white-knockout/reversed.
-- Color codes for logo: Red PMS 485, CMYK [5, 98, 100, 0], RGB [227, 39, 38], Hex #e30c00.
-- Minimum size for print applications is 3.175 cm (1.25 inches) wide; for digital use, the minimum width is 250 pixels.
-- Clear space/safe zone around the logo must be two times the height of the 'O' in the graphic.
-- Proper usages include: positive full color on white or light grey, single-color positive black on white or light backgrounds (up to 15% black tint), single-color negative white on dark backgrounds like black or red.
-- Improper uses include: skewing or distorting the logo, placing it inside another shape, using incorrect colors, applying drop shadows or 3D effects, removing or altering text, using other typefaces, or breaking apart graphic components.
+##### Mission
 
-**Color Information:**
+- To serve as a world-class speed skating and research facility, advancing human performance science and promoting active living in the community, while upholding the legacy mandate of Calgary's 1988 Olympic Organizing Committee to win speed skating medals for Canada with the right people, programming, and facility [^1].
 
-- Primary color palette adapted from the university's branding: Red and Gold. Red PMS: 485, CMYK: [5, 98, 100, 0], RGB: [227, 39, 38], Hex: #e30c00.
-- Approved background colors for the white graphics: Black, Red, Dark Grey, Light Orange, Dark Orange, Berry, Brown.
+##### Core Values
 
-**Spacing Layout:**
+- excellence
+- legacy
+- advancement of human performance science
+- community engagement
+- partnership
 
-- Clear area surrounding the logo is calculated as twice the height of the 'O' in the logo.
-- Minimum width for digital applications is 250 pixels, while print requires a minimum of 3.175 cm or 1.25 inches.
+##### Target Audience
 
-**Brand Voice:**
+- International elite athletics community, Canadian National Speed Skating team, Speed Skate Canada, varsity athletes, coaches, public skaters, and visitors from Canada and around the world [^2].
 
-- Whenever promoting the Olympic Oval or related activities, the logo may take precedence over the University of Calgary logo when the affiliation has been communicated contextually.
-- Language guidelines outlined for describing the Olympic Oval's relationship with the Faculty of Kinesiology and legacy partners in promotional material.
+##### Personality Traits
 
-**Notes:**
+- elite
+- innovative
+- competitive
+- collaborative
+- community-oriented
 
-- The Olympic Oval is part of the University of Calgary under the Faculty of Kinesiology, maintained with support from legacy partners. This is to be acknowledged in promotional or partnership contexts.
-- Merchandise guidelines stipulate the simultaneous use of Olympic Oval and University of Calgary logos, but exceptions apply for small items like pens and pins.
+##### Visual Identity Overview
+
+- The visual identity leverages university ties, using a modernized logo and wordmark in English and French, with a strong presence in the competitive market for high-performance ice training venues. The color palette aligns with the University of Calgary's red and gold, and the logo is used in full color, black-only, or white-only formats, with strict guidelines for usage, size, and protected area. The overall style is clean, professional, and emphasizes clarity and visual appeal [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The Olympic Oval identity consists of the wordmark in English and French, the legacy Olympic Oval graphic identifier, and the 'at the University of Calgary' subtext. There is only a single orientation of the graphic lock-up (horizontal).
+- The mark is available in full colour, using the university's primary red as the anchor colour, as well as in black-only and white-only. The full-colour on white should be used whenever possible. The black-only version should be used for restricted colour outputs (i.e. black-and-white printing). The white-only 'knockout' version should be used when the mark is placed on a dark background in a limited-colour scenario (i.e. colours drawn from the university's approved colour palette -see page 8).
+- This graphic has been created and arranged in a specific, proprietary way -redrawing it is not permitted, nor is pulling elements apart from the complete graphic for use separately.
+- Full-colour (preferred) Red PMS: 485 CMYK: 5, 98, 100, 0 RGB: 227, 39, 38 Hex: #e30c00 Grey 90% black
+- The minimum size of this graphic is 3.175 cm (1.25") wide for general print applications.
+- For digital and web applications, the minimum width of the graphic is 250 pixels.
+- The Olympic Oval graphic should be protected on all sides by a clear area. This clear area ensures that no other text or graphics encroach on the graphic to decrease its legibility and impact. This area is based proportionately on the size of the graphic being used. The clear area is determined by using the height of the "O" in the graphic. The clear area is two times the height of the "O".
+- All master graphic files are produced with protected space built in. When submitting these for use on partner web sites, this may result in extra padding or reduced visual presentation of the graphic. In these cases, the white space can be cropped out as long as there is appropriate distance provided between the Olympic Oval graphic and those from other organizations.
+- The Olympic Oval graphics must be used properly in all situations. On the left are the prescribed colorations of the graphic over approved backgrounds. The graphic must not be placed over any other colour background.
+- • The positive full-colour graphic may be used only on white or light grey backgrounds. This is the default application.
+- • The single-colour positive graphic may appear in black only. It may be used on white or light backgrounds up to the equivalent of a 15% tint of black.
+- • The single-colour negative (white, reverse, knocked-out) graphic may be used on other background colours, and is typically reserved for single-colour applications such as newspapers or single-screen t-shirts.
+- When reproducing the Olympic Oval graphics, knowing what not to do is as important as knowing what to do. These pages illustrate incorrect usage of the graphics. To avoid these incorrect uses, always reproduce the graphics from official electronic artwork. Once you're sure the artwork is correct, make sure it is also being applied correctly. This page illustrates incorrect applications of the graphics.
+- Do not skew or distort the graphics. Do not use tints of the colours. Do not place the lock-up or wordmark inside another graphic shape. Do not change the colours of the graphics. Do not pull the graphic apart into separate pieces. Do not recolour as a single-colour graphic except black or white. Do not use any other typefaces to try and recreate the mark. Do not use drop shadows, 3D and other effects. Do not redraw any part of the graphic. Do not add text elements to the graphic. Do not rotate the graphics. Do not remove the sub-text 'at the University of Calgary'.
+- The primary colour palette for the Olympic Oval is the same colour palette used by the university for all institutional branding. This is intentional as a method of reinforcing the university's identity with our multiple target audiences. These colours are red and gold, defined in Chapter 1.0.
+- Approved backgrounds for white graphics: Red, Black, Dark Grey, Light Orange, Dark Orange, Berry Brown.
+
+##### Color Palette
+
+- The mark is available in full colour, using the university's primary red as the anchor colour, as well as in black-only and white-only. The full-colour on white should be used whenever possible. The black-only version should be used for restricted colour outputs (i.e. black-and-white printing). The white-only 'knockout' version should be used when the mark is placed on a dark background in a limited-colour scenario (i.e. colours drawn from the university's approved colour palette -see page 8).
+- Full-colour (preferred) Ms: 485 Red CMYK: 5, 98, 100, 0 RGB: 227, 39, 38 OLYMPIC OVAL "" A'!EAU gEy_ejgy5 ■ 90% black Black-only 7i OLYMPIC OVAL ANNEAU OLYMPIQUE AT THE UNIVERSITY OF CALGARY ■
+- The Olympic Oval graphics must be used properly in all situations. On the left are the prescribed colorations of the graphic over approved backgrounds. The graphic must not be placed over any other colour background.
+- • The positive full-colour graphic may be used only on white or light grey backgrounds. This is the default application.
+- • The single-colour positive graphic may appear in black only. It may be used on white or light backgrounds up to the equivalent of a 15% tint of black.
+- • The single-colour negative (white, reverse, knocked-out) graphic may be used on other background colours, and is typically reserved for single-colour applications such as newspapers or single-screen t-shirts.
+- The primary colour palette for the Olympic Oval is the same colour palette used by the university for all institutional branding. This is intentional as a method of reinforcing the university's identity with our multiple target audiences. These colours are red and gold, defined in Chapter 1.0.
+- Approved backgrounds for white graphics 7i OLYMPIC OVAL ANNEAU OLYMPIQUE AT THE UNIVERSITY OF CALGARY ■ Red Black Dark Grey Light Orange Dark Orange Berry Brown
+- Do not use tints of the colours.
+- Do not change the colours of the graphics.
+- Do not recolour as a single-colour graphic except black or white.
+
+##### Logo Usage
+
+- The Olympic Oval identity consists of the wordmark in English and French, the legacy Olympic Oval graphic identifier, and the 'at the University of Calgary' subtext. There is only a single orientation of the graphic lock-up (horizontal).
+- The mark is available in full colour, using the university's primary red as the anchor colour, as well as in black-only and white-only. The full-colour on white should be used whenever possible. The black-only version should be used for restricted colour outputs (i.e. black-and-white printing). The white-only 'knockout' version should be used when the mark is placed on a dark background in a limited-colour scenario (i.e. colours drawn from the university's approved colour palette -see page 8).
+- This graphic has been created and arranged in a specific, proprietary way -redrawing it is not permitted, nor is pulling elements apart from the complete graphic for use separately.
+- The minimum size of this graphic is 3.175 cm (1.25") wide for general print applications.
+- For digital and web applications, the minimum width of the graphic is 250 pixels.
+- The Olympic Oval graphic should be protected on all sides by a clear area. This clear area ensures that no other text or graphics encroach on the graphic to decrease its legibility and impact. This area is based proportionately on the size of the graphic being used. The clear area is determined by using the height of the "O" in the graphic. The clear area is two times the height of the "O".
+- All master graphic files are produced with protected space built in. When submitting these for use on partner web sites, this may result in extra padding or reduced visual presentation of the graphic. In these cases, the white space can be cropped out as long as there is appropriate distance provided between the Olympic Oval graphic and those from other organizations.
+- The Olympic Oval graphics must be used properly in all situations. On the left are the prescribed colorations of the graphic over approved backgrounds. The graphic must not be placed over any other colour background.
+- • The positive full-colour graphic may be used only on white or light grey backgrounds. This is the default application.
+- • The single-colour positive graphic may appear in black only. It may be used on white or light backgrounds up to the equivalent of a 15% tint of black.
+- • The single-colour negative (white, reverse, knocked-out) graphic may be used on other background colours, and is typically reserved for single-colour applications such as newspapers or single-screen t-shirts.
+- When reproducing the Olympic Oval graphics, knowing what not to do is as important as knowing what to do. These pages illustrate incorrect usage of the graphics. To avoid these incorrect uses, always reproduce the graphics from official electronic artwork. Once you're sure the artwork is correct, make sure it is also being applied correctly. This page illustrates incorrect applications of the graphics.
+- Do not skew or distort the graphics. Do not use tints of the colours. Do not place the lock-up or wordmark inside another graphic shape. Do not change the colours of the graphics. Do not pull the graphic apart into separate pieces. Do not recolour as a single-colour graphic except black or white. Do not use any other typefaces to try and recreate the mark. Do not use drop shadows, 3D and other effects. Do not redraw any part of the graphic. Do not add text elements to the graphic. Do not rotate the graphics. Do not remove the sub-text 'at the University of Calgary'.
+
+##### Visual Style
+
+- The Olympic Oval identity consists of the wordmark in English and French, the legacy Olympic Oval graphic identifier, and the 'at the University of Calgary' subtext. There is only a single orientation of the graphic lock-up (horizontal).
+- The mark is available in full colour, using the university's primary red as the anchor colour, as well as in black-only and white-only. The full-colour on white should be used whenever possible. The black-only version should be used for restricted colour outputs (i.e. black-and-white printing). The white-only 'knockout' version should be used when the mark is placed on a dark background in a limited-colour scenario (i.e. colours drawn from the university's approved colour palette -see page 8).
+- This graphic has been created and arranged in a specific, proprietary way -redrawing it is not permitted, nor is pulling elements apart from the complete graphic for use separately.
+- The minimum size of this graphic is 3.175 cm (1.25") wide for general print applications.
+- For digital and web applications, the minimum width of the graphic is 250 pixels.
+- The Olympic Oval graphic should be protected on all sides by a clear area. This clear area ensures that no other text or graphics encroach on the graphic to decrease its legibility and impact. This area is based proportionately on the size of the graphic being used. The clear area is determined by using the height of the "O" in the graphic. The clear area is two times the height of the "O".
+- All master graphic files are produced with protected space built in. When submitting these for use on partner web sites, this may result in extra padding or reduced visual presentation of the graphic. In these cases, the white space can be cropped out as long as there is appropriate distance provided between the Olympic Oval graphic and those from other organizations.
+- The Olympic Oval graphics must be used properly in all situations. On the left are the prescribed colorations of the graphic over approved backgrounds. The graphic must not be placed over any other colour background.
+- • The positive full-colour graphic may be used only on white or light grey backgrounds. This is the default application.
+- • The single-colour positive graphic may appear in black only. It may be used on white or light backgrounds up to the equivalent of a 15% tint of black.
+- • The single-colour negative (white, reverse, knocked-out) graphic may be used on other background colours, and is typically reserved for single-colour applications such as newspapers or single-screen t-shirts.
+- When reproducing the Olympic Oval graphics, knowing what not to do is as important as knowing what to do. These pages illustrate incorrect usage of the graphics. To avoid these incorrect uses, always reproduce the graphics from official electronic artwork. Once you're sure the artwork is correct, make sure it is also being applied correctly. This page illustrates incorrect applications of the graphics.
+- Do not skew or distort the graphics. Do not use tints of the colours. Do not place the lock-up or wordmark inside another graphic shape. Do not change the colours of the graphics. Do not pull the graphic apart into separate pieces. Do not recolour as a single-colour graphic except black or white. Do not use any other typefaces. Do not use drop shadows, 3D and other effects. Do not redraw any part of the graphic and recreate the mark. Do not add text elements to the graphic. Do not rotate the graphics. Do not remove the sub-text 'at the University of Calgary'.
+- The primary colour palette for the Olympic Oval is the same colour palette used by the university for all institutional branding. This is intentional as a method of reinforcing the university's identity with our multiple target audiences. These colours are red and gold, defined in Chapter 1.0.
+
+##### Layout And Composition
+
+- There is only a single orientation of the graphic lock-up (horizontal).
+- The mark is available in full colour, using the university's primary red as the anchor colour, as well as in black-only and white-only. The full-colour on white should be used whenever possible. The black-only version should be used for restricted colour outputs (i.e. black-and-white printing). The white-only 'knockout' version should be used when the mark is placed on a dark background in a limited-colour scenario (i.e. colours drawn from the university's approved colour palette -see page 8).
+- This graphic has been created and arranged in a specific, proprietary way -redrawing it is not permitted, nor is pulling elements apart from the complete graphic for use separately.
+- The minimum size of this graphic is 3.175 cm (1.25") wide for general print applications.
+- For digital and web applications, the minimum width of the graphic is 250 pixels.
+- The Olympic Oval graphic should be protected on all sides by a clear area. This clear area ensures that no other text or graphics encroach on the graphic to decrease its legibility and impact. This area is based proportionately on the size of the graphic being used. The clear area is determined by using the height of the "O" in the graphic. The clear area is two times the height of the "O".
+- All master graphic files are produced with protected space built in. When submitting these for use on partner web sites, this may result in extra padding or reduced visual presentation of the graphic. In these cases, the white space can be cropped out as long as there is appropriate distance provided between the Olympic Oval graphic and those from other organizations.
+- The Olympic Oval graphics must be used properly in all situations. On the left are the prescribed colorations of the graphic over approved backgrounds. The graphic must not be placed over any other colour background.
+- • The positive full-colour graphic may be used only on white or light grey backgrounds. This is the default application.
+- • The single-colour positive graphic may appear in black only. It may be used on white or light backgrounds up to the equivalent of a 15% tint of black.
+- • The single-colour negative (white, reverse, knocked-out) graphic may be used on other background colours, and is typically reserved for single-colour applications such as newspapers or single-screen t-shirts.
+- Do not skew or distort the graphics. Do not use tints of the colours. Do not place the lock-up or wordmark inside another graphic shape. Do not change the colours of the graphics. Do not pull the graphic apart into separate pieces. Do not recolour as a single-colour graphic except black or white. Do not use any other typefaces to try and recreate the mark. Do not use drop shadows, 3D and other effects. Do not redraw any part of the graphic. Do not add text elements to the graphic. Do not rotate the graphics. Do not remove the sub-text 'at the University of Calgary'.
 
 ## Additional Properties
 

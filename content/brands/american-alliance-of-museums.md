@@ -2,7 +2,7 @@
 title: American Alliance of Museums
 slug: "american-alliance-of-museums"
 description: ""
-date: "2026-03-20T08:22:04.118056"
+date: "2026-04-10T09:40:32.205216"
 draft: false
 sectors:
   - ngo
@@ -53,28 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - white
-  - blue
-  - gray
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - flat
-  - colorful
-  - graphic
-  - dramatic
-  - bold
-  - static
-  - photography
-  - contemporary
-  - illustration
-  - clean
+imagery_styles: []
 wikidata_description: "non-profit association based in Arlington, Virginia, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q2842849"
 has_twitter: false
@@ -94,48 +76,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The American Alliance of Museums logo unites group strength and diversity through a colorful weave design. Its clean and uniform rounded corners and angled lines provide a contemporary feel.
-- The logo's full-color version should primarily be used on materials. Other versions include full black (suitable for faxes), gray (black and white jobs), and white knockout (for placement on brand colors).
-- Logo misuse examples: Logo must not be rotated, distorted, placed on non-compliant backgrounds, or altered to include unapproved colors or shadows.
-- Clear space around the logo must ensure visual clarity. Guidelines specify padding of at least '0.3125 inch' vertically and horizontally.
-
-**Color Information:**
-
-- PMS 3165 is the core color representing the Alliance, evoking stability with a soothing blue-green. Greys should be converted to white when set atop this color.
-- Primary colors are cool blue and green tones including: PMS 328 (Hex: R:0 G:127 B:123 C:100 M:0 Y:45 K:32), PMS 3165 (Hex: R:0 G:83 B:94), PMS 3425, and PMS 347. Secondary shades have contrasting warm tones such as PMS 1797 (R:227 G:27 B:35), PMS 173, PMS 021 (R:247 G:142 B:30). Gray variants can supplement the palette.
-- The use of Alliance brand colors must respect a balance between the cooler core palette of blues and greens and accentuating warmer tones. Warm colors should be utilized sparingly.
-- Do not alter the color palette by applying tints or shades.
-
-**Typography Information:**
-
-- The primary typeface for the Alliance brand is Realist and Realist Narrow. Subcategories include Realist Light, Realist Semi-Light, Realist Bold, Realist Narrow. Usage includes: Realist Light for headlines, Realist Bold for subheadings, and Realist Narrow Light for body text.
-- Font styles and guidelines: Headline (Realist Light, 30pt, 34pt leading, 0.185-inch line space), Subhead (Realist Bold, 20pt, 24pt leading), Body copy (Realist Narrow Light, 11pt size, 15pt leading).
-
-**Imagery Photography:**
-
-- The Alliance's photography focuses on people, evoking warmth, modernity, spaciousness, and emotional connection. Staff images can be slightly posed but should feel authentic and optimistic with rich colors and soft focus.
-- Architectural photography showcases patterns and dramatic angles, reflecting the Alliance's graphic language. Visitor photography highlights fun, engagement, and interactivity, featuring groups of people.
-- Photography should avoid dull, flat, or overly posed subjects. Images of people should highlight interactivity rather than static scenes.
-
-**Spacing Layout:**
-
-- Stationery layouts have strict guidelines for consistent visual hierarchy with uniform font sizes and leading. Business cards must follow a 0.3125” margin space for key elements like name, title, and contact information.
-- Spacing rules for logo usage include minimum clear space of 0.3125” around the logo to ensure clarity and prominence. Misuses include overcrowding and use on inappropriate backgrounds.
-- Illustration and layout rules restrict corner piece placement to a maximum of 2 per page, only on edges, without overlapping other graphical assets.
-
-**Brand Voice:**
-
-- The brand voice conveys collaboration, creativity, inclusivity, transparency, and leadership, distinguishing it as approachable and innovative.
-- 'The Alliance' is the preferred term when referring to the organization, instead of 'AAM,' as it carries an emotional emphasis and creates community and inclusivity.
-- Tagline: 'Champion Museums. Nurture Excellence' reflects the Alliance's supportive and empowering dedication to the museum community.
-
-**Notes:**
-
-- The Alliance's branding emphasizes unity, transparency, and adaptability, supported by clean typography, diverse colors, and dynamic illustrations.
-- The brand's identity evolves around visually impactful assets and uniform spacing/layouts while avoiding misuse of elements and over-complication.
-- All featured photos, illustrations, and designs serve as guidelines and must be tailored carefully to fit the document's intent and tone.
+*Guidelines data not available*
 
 ## Additional Properties
 

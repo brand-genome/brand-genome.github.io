@@ -2,7 +2,7 @@
 title: Winthrop University
 slug: "winthrop-university"
 description: ""
-date: "2026-03-20T08:22:04.682230"
+date: "2026-04-10T09:40:33.400398"
 draft: false
 sectors:
   - university
@@ -51,14 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - logomark
-  - horizontal
-  - primary
-brand_colors:
-  - gray
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Rock Hill, South Carolina, United States"
@@ -81,32 +75,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- The horizontal version of the official Winthrop University logo is preferred for most applications unless space constraints arise.
-- The stacked version of the logo is recommended for layouts requiring centered presentation.
-- The logotype is part of the official logo and must always appear as shown. It may only be used alone with approval from University Communications and Marketing.
-- The logomark element is part of the official logo and must appear as shown. Its usage alone is restricted and requires approval.
-- Minimum width = 1.375 inches
-- Protected area™s width and height equal the cap height of the ﬁW.ﬂ
-- Gray squares represent protected area.
-- Minimum width = 1 inch
-- Protected area™s width and height equal the cap height of the ﬁW.ﬂ
-- Gray squares represent protected area.
-- Minimum width = 0.35 inches
-- Protected area™s width and height equals 50 percent of the width of the shield. Gray squares represent protected area.
-
-**Color Information:**
-
-- This section defines primary and secondary palettes with rules around usage.
-- This section defines primary and secondary palettes with rules around usage.
-
-**Typography Information:**
-
-- This section identifies typeface rules and specifies roles for primary/accent usage.
-- This section identifies typeface rules and specifies roles for primary/accent usage.
-- This section identifies typeface rules and specifies roles for primary/accent usage.
-- This section identifies typeface rules and specifies roles for primary/accent usage.
+*Guidelines data not available*
 
 ## Additional Properties
 

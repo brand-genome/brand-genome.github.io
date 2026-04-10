@@ -2,11 +2,11 @@
 title: BenQ
 slug: benq
 description: ""
-date: "2026-03-20T08:22:05.723241"
+date: "2026-04-10T09:40:34.677915"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "video-projector"
   - "computer-hardware"
+  - "video-projector"
 products: []
 headquarters_locations:
   - taipei
@@ -55,14 +55,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - badge
-brand_colors:
-  - purple
-  - black
-typographies:
-  - "gill-sans"
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: Taiwanese electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q714335"
@@ -87,29 +82,7 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- Various mentions of branding badge logo placements, specific widths (45mm wide) for polo shirts and guidelines regarding front prints or embroideries. Clear use on promotional items like uniforms (Cycling jerseys, Polo shirts).
-
-**Color Information:**
-
-- BenQ Corporate Colour guidelines: The primary color is BenQ Purple (PMS 268). Specifications are CMYK: C86 M100 Y0 K0, RGB: R73 G37 B130, Hexadecimal for web use. Black (process black) can be used as alternatives. Pantone matching directed for uniform advertisements.
-
-**Typography Information:**
-
-- Typography specifications outlined: typeface to Gill Sans Regular styles encompassing titles, subtitles mentioning font ranges regularly fixed 24pts
-
-**Imagery Photography:**
-
-- Primary BenQ Support advertisements properly maintain strictly-colored Advertisements adheres Shadow-requiring alignment (Composed) legacy support strict-planned formations interiors.
-
-**Spacing Layout:**
-
-- Align final-multiple re-adjust following units further rearranged padding proportional sizing recommendations compact breasts options appendix uniformly.
-
-**Brand Voice:**
-
-- Key guidelines ensure positive Print Statements mentioned indirectly briefs advertising-consistent bulk-user encouragement clarity recommendations assure Pantone guidelines strongly ensure repetitionalologically template-wise broader spectrum impactful connectivity targets each.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -119,7 +92,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Video Projector](/products_or_materials_produced/video-projector/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Video Projector](/products_or_materials_produced/video-projector/) |
 | Headquarters Location | [Taipei](/headquarters_locations/taipei/) |
 | Foundation Date | [1984](/foundation_dates/1984/) |
 | Headquarters Location | Taipei |

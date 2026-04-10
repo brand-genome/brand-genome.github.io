@@ -2,7 +2,7 @@
 title: Hortonworks
 slug: hortonworks
 description: ""
-date: "2026-03-20T08:22:05.558607"
+date: "2026-04-10T09:40:34.473927"
 draft: false
 sectors:
   - software
@@ -52,23 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - abstract
-  - secondary
-  - symbol
-  - wordmark
-  - primary
-brand_colors:
-  - black
-typographies:
-  - roboto
-imagery_styles:
-  - abstract
-  - dramatic
-  - bold
-  - natural
-  - photography
-  - lifestyle
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American software company
 wikidata_url: "https://www.wikidata.org/wiki/Q5906990"
 has_twitter: false
@@ -87,43 +74,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Table of contents mentions sections on logo usage and guidelines – logo, colors, clearspace standards, incorrect usage.
-- Details on logo components (wordmark, tagline, symbol) and their relation to brand values.
-
-**Color Information:**
-
-- Table of contents includes color palette specifications: sections on swatches, gradients, shading.
-- Photography section references colors aligned with photos and brand values – natural hues, avoiding stylized or dramatic palettes.
-
-**Typography Information:**
-
-- Table of contents references typography sections, including typefaces, primary, secondary fonts.
-- Typography section outlines Roboto variants (Light, Regular, Bold, Black) with examples.
-
-**Imagery Photography:**
-
-- Table of contents lists photography style categories: architecture, data flows, lifestyle imagery.
-- Photography section discusses abstract imagery, cropped architecture shots, real employee photos reflecting authenticity.
-- Lifestyle imagery featuring authentic portrayals aligned with inclusiveness and collaboration.
-
-**Spacing Layout:**
-
-- Table of contents mentions clearspace and sizing standards.
-
-**Brand Voice:**
-
-- Table of contents lists messaging guidelines: promises, narratives, vision statements outlined.
-- Messaging section explains brand promises and mission to manage global data.
-- Details on Hortonworks' brand narrative aligning with the vision to unlock values in data applications.
-
-**Notes:**
-
-- First page introduction to guidelines structure mentioning updates and background.
-- Table of contents providing a detailed roadmap of the document sections.
-- Brand manifesto emphasizing Hortonworks as empowering future data innovation.
-- Brand pillars focusing on openness, innovation, and enterprise-centric solutions.
+*Guidelines data not available*
 
 ## Additional Properties
 

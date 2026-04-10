@@ -2,11 +2,11 @@
 title: KPIT
 slug: kpit
 description: ""
-date: "2026-03-20T08:22:05.798080"
+date: "2026-04-10T09:40:34.792041"
 draft: false
 sectors:
-  - consulting
   - software
+  - consulting
 regions:
   - india
 years:

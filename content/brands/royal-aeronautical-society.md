@@ -2,11 +2,11 @@
 title: Royal Aeronautical Society
 slug: "royal-aeronautical-society"
 description: ""
-date: "2026-03-20T08:22:04.413081"
+date: "2026-04-10T09:40:33.155449"
 draft: false
 sectors:
-  - aerospace
   - education
+  - aerospace
 regions:
   - "united-kingdom"
 years:
@@ -75,19 +75,7 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
-
-- Company logos should preferably be in Illustrator EPS format, allowing reproduction at any size. High-resolution JPEG format may be used as an alternative.
-- When using images or company logos for print materials, make sure to maintain a resolution of no less than 250dpi.
-
-**Imagery Photography:**
-
-- Images used must maintain high resolution with specifications for output size: A4 (297x210 mm, 3508x2480 pixels, approx. 25MB), down to A7 (105x74 mm, 1240x874 pixels, approx. 3.1MB).
-
-**Notes:**
-
-- General visual identity applications include logo specifications, templates, and image standards outlined across references.
-- Contact information provided for Royal Aeronautical Society headquarters at No.4 Hamilton Place, London.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Château de Versailles
 slug: "chateau-de-versailles"
 description: ""
-date: "2026-03-20T08:22:05.849188"
+date: "2026-04-10T09:40:34.871590"
 draft: false
 sectors:
   - "public-sector"
@@ -67,3 +67,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2010
+
+*Guidelines data not available*

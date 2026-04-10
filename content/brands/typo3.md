@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-03-20T08:22:05.316847"
+date: "2026-04-10T09:40:34.148867"
 draft: false
 sectors:
   - software
@@ -48,25 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - wordmark
-brand_colors:
-  - red
-  - green
-  - white
-  - grey
-  - blue
-  - yellow
-  - orange
-  - black
-typographies:
-  - "source-sans"
-  - times
-  - din
-imagery_styles:
-  - bold
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: web content management framework
 wikidata_url: "https://www.wikidata.org/wiki/Q618512"
 has_twitter: false
@@ -89,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The TYPO3 logo includes the symbol and wordmark, placed in the upper-left corner of documents with 2x clear space around it. This space is calculated as 2 times the height of the letters in 'TYPO3'. Taglines can be used for additional information like trade fairs or events. Gridlines around the logo ensure no competing elements nearby.
-- Do's for logo usage: The symbol can be used without the wordmark.
-- Don'ts for logo usage: Do not use the wordmark without the symbol, alter the position between the symbol and wordmark, add taglines in very small logo usage, use old logos, or change the defined colors.
-- Specific printing guidelines: For A4 documents, extra space is needed for the logo in the header. For DIN-long format, no extra header space is required as aligning with white space would waste necessary content space.
-
-**Color Information:**
-
-- Key colors for TYPO3: Stage Orange Dark (CMYK: 0/47/100/10; RGB: 225/141/0; Hex: e18d00), Stage Orange Light (CMYK: 0/47/100/0; RGB: 244/151/0; Hex: f49700), and Light Orange (CMYK: 0/40/85/0; RGB: 247/168/49; Hex: f7a831). Key colors are used for boxes, color bars, icons, tables, etc.
-- Supporting colors are used for wider variety in web media, including hover effects, shadows, and gradients.
-- Message colors intended for web environments include Valid Green (CMYK: 66/0/82/0; RGB: 90/188/85; Hex: 5abc55), Error Red (CMYK: 4/99/67/1; RGB: 221/18/61; Hex: dd123d), Warning Yellow (CMYK: 0/23/93/0; RGB: 255/200/0; Hex: ffc800), and Information Blue (CMYK: 80/51/0/0; RGB: 0/128/255; Hex: 0080ff).
-- Shades of grey for use in black-and-white documents and stylistic elements: Dark Grey (CMYK: 0/0/0/68; RGB: 81/81/81; Hex: 515151), Mid Grey (CMYK: 0/0/0/45; RGB: 140/140/140; Hex: 8c8c8c), Light Grey (CMYK: 0/0/0/27; RGB: 185/185/185; Hex: b9b9b9), and Super Light Grey (CMYK: 0/0/0/8; RGB: 244/244/244; Hex: f4f4f4).
-- Web gradients include linear gradients for orange, blue, and green key colors, used at a 135° angle. Example: Orange gradient (Hex values: f49700 to e18d00).
-
-**Typography Information:**
-
-- For headings, the 'Share' font (Bold and Regular) should be used. For body text, 'Source Sans Pro Light', 'Bold', and 'Italic' are used for distinctions like emphasis, teasers, or quotations.
-- Additionally, 'Source Code Pro Bold' and 'Regular' are used for code-based materials.
-- Heading and text element styles include specifics for font size, line height, grid, and color, defined for efficient alignment and consistency.
-
-**Imagery Photography:**
-
-- Pictures may be placed at the bleed. Captions are aligned right using a two-column table. Avoid borders and shading.
-
-**Spacing Layout:**
-
-- Pages should have a 12-column grid for alignment. Columns in multi-column layouts must align horizontally.
-- Continuous text should use ragged-left alignment with automatic hyphenation. Special attention is given to spacing between headings, subheadings, and text for proportionality (1.33x or 0.75x scaling).
-
-**Notes:**
-
-- The guide thanks contributors of previous branding efforts and acknowledges the team's influence.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Voice of America
 slug: "voice-of-america"
 description: ""
-date: "2026-03-20T08:22:03.236531"
+date: "2026-04-10T09:40:30.748584"
 draft: false
 sectors:
   - broadcasting
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - media
-  - broadcast
   - ambigram
+  - broadcast
+  - media
 industries: []
 countries:
   - "united-states"
@@ -55,12 +55,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - white
-  - blue
-  - gray
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: United States international broadcaster
@@ -85,23 +80,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Five official VOA logo treatments are acceptable: Blue, White, Tricolor, White on Black, and Black on White.
-- The blue and white VOA logos are preferred.
-
-**Color Information:**
-
-- Official VOA colors include: VOA Blue (HEX: #1330bf, RGB: 19, 48, 191, CMYK: 90, 75, 0, 25), VOA Gray (HEX: #919191, RGB: 145, 145, 145, CMYK: 0, 0, 0, 43), and VOA Red (HEX: #d41010, RGB: 212, 16, 16, CMYK: 0, 92, 92, 17).
-- Four additional colors for backgrounds: White (HEX: #FFFFFF, RGB: 255, 255, 255, CMYK: 0, 0, 0, 0), Light Gray (HEX: #eeeeee, RGB: 238, 238, 238, CMYK: 0, 0, 0, 7), Dark Gray (HEX: #333333, RGB: 51, 51, 51, CMYK: 0, 0, 0, 80), Black (HEX: #000000, RGB: 0, 0, 0, CMYK: 0, 0, 0, 100).
-- The tricolor and blue VOA logos should not be displayed on dark gray or black backgrounds.
-- The VOA logo should not be displayed in VOA Gray or VOA Red, but these colors can be used as accents in design contexts.
-
-**Notes:**
-
-- This guide was last updated on January 19, 2018.
-- For questions about VOA logo usage or guidelines, contact voadigital@voanews.com.
-- The full VOA Brand Guidelines can be accessed at https://www.voanews.com/branding
+*Guidelines data not available*
 
 ## Additional Properties
 

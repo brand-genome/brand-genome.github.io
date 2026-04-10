@@ -2,15 +2,15 @@
 title: University of Oregon
 slug: "university-of-oregon"
 description: ""
-date: "2026-03-20T08:22:03.871391"
+date: "2026-04-10T09:40:31.546390"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2011
   - 2022
+  - 2011
 languages:
   - english
 tags:
@@ -62,7 +62,7 @@ wikidata_url: "https://www.wikidata.org/wiki/Q766145"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,11 +78,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2022
+### 2011
 
 *Guidelines data not available*
-
-### 2011
 
 ## Additional Properties
 

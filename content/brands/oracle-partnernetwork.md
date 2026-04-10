@@ -2,7 +2,7 @@
 title: Oracle PartnerNetwork
 slug: "oracle-partnernetwork"
 description: ""
-date: "2026-03-20T08:22:05.868650"
+date: "2026-04-10T09:40:34.903949"
 draft: false
 sectors:
   - software
@@ -47,13 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - white
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,33 +67,4 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Logo has multiple versions including Oracle Exastack Ready, Oracle Solaris Ready, and Oracle Database Ready. Clear space [x] is defined as the cap height of the 'O' in Oracle.
-- The logo must always be subordinate to other graphics on partner materials. Established minimum clear-space guidelines must be used. Examples of improper use include modifying colors, backgrounds, or placing within other patterns.
-- Minimum logo size: 17.5mm or 0.696 inches for print, 57 pixels for digital screens, exception for business cards where size can be reduced to 14.5mm or 57 pixels.
-
-**Color Information:**
-
-- Color specifications include PMS 485 (Oracle Red) and Black; single-color black logo available; using the logo on dark backgrounds is acceptable but not recommended.
-- The preferred background for logos and box shots is white; using black or dark backgrounds is acceptable but not recommended if it reduces legibility.
-
-**Typography Information:**
-
-- Oracle's main logo presumably follows specific font conventions (yet no specific font was identified from the OCR text).
-
-**Imagery Photography:**
-
-- Oracle product photographs must use a clear and proportionate space of 0.25 inches or 12 pixels around the image. Provide white or neutral backgrounds; avoid photographic or busy backgrounds.
-
-**Spacing Layout:**
-
-- Clear space is critical: defined by height of capital 'O', used both horizontally and vertically.
-
-**Brand Voice:**
-
-- Logos must be prominently displayed but subordinate to other design elements. Clear guidelines include avoiding false implications of Oracle endorsement or association (e.g., with competitors).
-
-**Notes:**
-
-- Oracle partner materials include rigid evaluation rules for usage of Oracle logos, especially in the OPN Enterprise Accelerate Program. Access to further guidelines might be on Oracle’s Partner Network platforms.
+*Guidelines data not available*

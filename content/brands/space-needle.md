@@ -2,7 +2,7 @@
 title: Space Needle
 slug: "space-needle"
 description: ""
-date: "2026-03-20T08:22:05.296597"
+date: "2026-04-10T09:40:34.128096"
 draft: false
 sectors:
   - tourism
@@ -49,27 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - abstract
-brand_colors:
-  - white
-  - gold
-  - grey
-  - black
-typographies:
-  - gotham
-imagery_styles:
-  - abstract
-  - minimal
-  - professional
-  - bold
-  - modern
-  - photography
-  - clean
-  - gradient
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American rock band
 wikidata_url: "https://www.wikidata.org/wiki/Q7572437"
 has_twitter: false
@@ -88,43 +71,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- This includes details about logo configurations such as horizontal lockups, vertical lockups, and constraints as described in the content.
-- Details about the proper usage, color versions (color, black, white), and examples of how not to alter or misuse the logo.
-- Explains safe zones, incorrect rotations, minimal space, and consistent coloring rules.
-
-**Color Information:**
-
-- Introduces core brand colors including foundational palettes inspired by Northwest atmosphere — Pantone, HEX, CMYK colors.
-- Details on logo-safe colors, guides for knockouts, and details on compositional blending.
-- Mentions core brand gradients (atmos backdrops) used dynamically for layouts.
-- Lists precise foundational colors (e.g., Halo Gold, Base Grey, Spire White), and their HEX, CMYK, Pantone breakdowns.
-
-**Typography Information:**
-
-- Typography sets a tone of modern and timeless appeal across applications.
-- Primary typeface: Gotham — versatile for headlines/body text in modern visual communication roles.
-- Professional roles for expressive and editorial fonts (Knockout for short headlines and Cocon for brand voice tone).
-
-**Imagery Photography:**
-
-- Photography emphasizes panoramas that encapsulate Northwest beauty, Seattle views, and Needle-focused compositions.
-- Broad descriptions of photo treatments: high-quality emotional depth and panoramic fidelity.
-- Showcases photo techniques for panoramic shots and atmospheric moments. Abstract backdrops enhance theme expression.
-- Explains Needle-centric compositions (reflecting structure dynamics) and mood-rich urban-semi abstract captures.
-
-**Brand Voice:**
-
-- Brand tone reflects key personality shifts. Appeals as bold, emotive, and aspirational yet clean voices.
-- Defines emotive language structures (phrases, informative writing examples, tone-matching guides).
-
-**Notes:**
-
-- General discussion of strategy pillars, brand foundation, and timeless narrative tone.
-- Atmos gradient overlays must consider backgrounds + monochromatic schemes for better fidelity.
-- Gradient variations reflect sunrise/skyline hues giving flexible treatment depending on intended moods.
-- Examples clarify how atmospheric coloring blends graphical seamlessness during experiments.
+*Guidelines data not available*
 
 ## Additional Properties
 

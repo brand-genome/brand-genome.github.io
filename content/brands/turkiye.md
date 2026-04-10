@@ -2,7 +2,7 @@
 title: Türkiye
 slug: turkiye
 description: ""
-date: "2026-03-20T08:22:04.084904"
+date: "2026-04-10T09:40:32.141184"
 draft: false
 sectors:
   - tourism
@@ -47,20 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - blue
-  - gray
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,38 +70,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logotype introduction mentioned.
-- Safe space rule defined: 'The Türkiye logo must be inside the gray area; no other design element should be included in this area.'
-- Minimum size for logo: On print: 12 mm. On screen: 100 px wide.
-- Different background applications described for black and white backgrounds.
-- Incorrect logo usage highlighted.
-- Safe area descriptions for screen dimensions (e.g., 1920x1080px, Instagram feed: 1080x1080px).
-
-**Color Information:**
-
-- Primary brand colors: 
-- Red: CMYK(0, 100, 100, 0), RGB(237, 28, 35), HEX #ed1c23
-- Blue: CMYK(70, 15, 0, 0), RGB(0, 173, 239), HEX #00adef
-- Green: CMYK(79, 7, 58, 0), RGB(0, 170, 140), HEX #00aa8c
-- Gray: CMYK(70, 69, 62, 74), RGB(35, 30, 33), HEX #231e21
-- Alternative brand colors:
-- Dark Gray: CMYK(0, 0, 0, 75), RGB(99, 100, 102), HEX #636466
-- Light Gray: CMYK(38, 35, 57, 4), RGB(162, 150, 119), HEX #a29677
-
-**Typography Information:**
-
-- Primary font family: 'Santral'. Variants: Book, Hairline, Light, Regular, Bold, Black, Ultra.
-- Secondary font: 'Arial'. Roles: 'Used in email communications.' Variants: Regular, Bold.
-- Alternative headline fonts:
-- 'Campton' (variants: Light, Bold).
-- 'Wild Spirit' (single style).
-
-**Spacing Layout:**
-
-- Safe area specifications for logo usage on various screen dimensions (1920x1080px, Instagram feed: 1080x1080px, Facebook: 820px x 312px, etc.).
-
-**Notes:**
-
-- The brand guidelines provide extensive details on logo placement on various print, outdoor, and digital backgrounds.
+*Guidelines data not available*

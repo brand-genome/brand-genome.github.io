@@ -2,16 +2,16 @@
 title: Mahindra Rise
 slug: "mahindra-rise"
 description: ""
-date: "2026-03-20T08:22:05.795611"
+date: "2026-04-10T09:40:34.790095"
 draft: false
 sectors:
+  - consulting
   - defense
   - "real-estate"
-  - hospitality
   - finance
-  - "renewable-energy"
   - automobile
-  - consulting
+  - hospitality
+  - "renewable-energy"
 regions:
   - india
 years:
@@ -60,21 +60,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - orange
-  - grey
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - modern
-  - clean
-  - natural
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Indian multinational automobile manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q848059"
 has_twitter: false
@@ -93,945 +82,102 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Color Information:**
+#### Brand Summary
 
-- TYP
-OGRA
-P
-H
-Y
-Modern
-, crisp and clean lines characterise Eurostile 
-and Arial, our selected fonts that match the wordmark  
+##### Mission
 
-with their square shapes and rounded edges.
-PHOTOGRA
-P
-H
-Y
-Our ph
-otography guidelines create both unity and 
- 
-differentiation amongst our companies and offerings, 
- 
-with specific and nuanced instructions for Corporate, 
-Mobility and Non-mobility businesses (B2B and B2C).
-27
-04A | B
-OD
-Y 
-OF
- 
-RISE
-.
-LOOK & FEEL
-C
-OLOUR
- 
-PALETTE
-Fresh and exclu
-sive, Pantone 186C is the primary 
-Mahindra Red colour. Cool Grey is the complementary  
+- To enable people everywhere to Rise, challenging conventional thinking and driving positive change in the lives of stakeholders and communities across the world [^1].
 
-secondary colour. The tertiary distinguishing colours 
-are used as accents. 
-G
-RA
-P
-HIC
- D
-EVICE
-The Ridge
- is our unique identifier. A sturdy upward  
-shape in the setting of a Himalayan mountain 
+##### Core Values
 
-range, it effectively conveys the idea of Rise.
-T
-HE
- 
-A
-PP
-EARANCE
- 
-OF
- RISE.
-O
-ur Lo
-ok & Feel system is a natural extension of 
- 
-our wordmark.
-TER TIAR
-Y
-O
-P
-TION 1
-O
-P
-TION 2
-SECONDAR
-Y
-Cool Gr ey
- 
-Timeless, Practical, 
+- Professionalism
+- Good Corporate Citizenship
+- Customer First
+- Quality Focus
+- Dignity of the Individual
 
-Solid
-Sunrise Orange
+##### Target Audience
 
-Joyful, Friendly,
+- People from diverse backgrounds, occupations, and lifestyles globally, including customers, stakeholders, and communities seeking empowerment and positive change [^2].
 
-Stimulating
-Bark Br own
+##### Personality Traits
 
-Growth, Ambitious, 
- 
-Renewal
-Horizon Dusk
-Modern, Warm, 
+- Challenging
+- Ingenious
+- Purposeful
+- Bold
+- Confident
+- Relentlessly Optimistic
 
-Safe
-P
-RIMAR
-Y
-Ener getic Red
+##### Visual Identity Overview
 
-Power, Energy, Action
-uro stile Regular 
-ur ostile Medium
-for al l 
-P
-RINT
- applications
-E
-for all 
-DIGITAL 
-applications
-rial Regular
-rial Bold
-A
+- The visual identity is unified and modern, featuring a distinctive wordmark, a unique graphic device called 'The Ridge', and a color palette centered on Mahindra Red (Pantone 186C), complemented by Cool Grey and accent colors. Typography uses Eurostile and Arial fonts for crisp, clean lines. The look and feel system extends from the wordmark, balancing edge and curve, grid and flow, and is designed to assimilate new businesses. Photography guidelines ensure unity and differentiation across business segments [^3].
 
-**Typography Information:**
+#### Categories
 
-- TYP
-OGRA
-P
-H
-Y
-Modern
-, crisp and clean lines characterise Eurostile 
-and Arial, our selected fonts that match the wordmark  
+##### Brand Voice
 
-with their square shapes and rounded edges.
-PHOTOGRA
-P
-H
-Y
-Our ph
-otography guidelines create both unity and 
- 
-differentiation amongst our companies and offerings, 
- 
-with specific and nuanced instructions for Corporate, 
-Mobility and Non-mobility businesses (B2B and B2C).
-27
-04A | B
-OD
-Y 
-OF
- 
-RISE
-.
-LOOK & FEEL
-C
-OLOUR
- 
-PALETTE
-Fresh and exclu
-sive, Pantone 186C is the primary 
-Mahindra Red colour. Cool Grey is the complementary  
+- Rise sounds like someone who is Challenging, Ingenious and Purposeful. Sourced from our Brand Pillars, these are our three voice principles that will guide and unite our verbal communication.
+- Someone who accepts no limits Sounds like someone who loves life. Relishes its challenges. Who sees everyday as yet another chance to do more. To see more. Live more. To go the distance. Who sees possibilities, not problems. Breakthroughs, not barriers. Who finds deep meaning in actions And in the way ahead. In a word, Rise sounds # Challenging.
+- Someone who thinks alternatively Sounds like someone who's resourceful. Inventive. Who naturally thinks beyond the box. Whose first instinct is not to find the right answer But to question the question itself. Someone whose creativity stems from solid strategic ground. Who delivers when it matters. And whose work is reliably on time, on tone. In a word, Rise sounds # Ingenious.
+- Someone who drives positive change Sounds like someone who sets the example. Paves the road for us. Who's always ready for a conversation. Who participates, motivates. Who understands the power of the collective. Inspires them with word and deed. Who embodies the cause. Lives the word. And helps us scale new and previously unimaginable heights. In a word, Rise sounds Purposeful.
 
-secondary colour. The tertiary distinguishing colours 
-are used as accents. 
-G
-RA
-P
-HIC
- D
-EVICE
-The Ridge
- is our unique identifier. A sturdy upward  
-shape in the setting of a Himalayan mountain 
+##### Brand Imagery
 
-range, it effectively conveys the idea of Rise.
-T
-HE
- 
-A
-PP
-EARANCE
- 
-OF
- RISE.
-O
-ur Lo
-ok & Feel system is a natural extension of 
- 
-our wordmark.
-TER TIAR
-Y
-O
-P
-TION 1
-O
-P
-TION 2
-SECONDAR
-Y
-Cool Gr ey
- 
-Timeless, Practical, 
+- Our photography guidelines create both unity and differentiation amongst our companies and offerings, with specific and nuanced instructions for Corporate, Mobility and Non-mobility businesses [B2B and B2C).
 
-Solid
-Sunrise Orange
+##### Color Palette
 
-Joyful, Friendly,
+- Fresh and exclusive, Pantone 186C is the primary Mahindra Red colour. Cool Grey is the complementary secondary colour. The tertiary distinguishing colours are used as accents.
+- Energetic Red Power, Energy, Action
+- Sunrise Orange Joyful, Friendly, Stimulating
+- Cool Grey Timeless, Practical, Solid
+- Bark Brown Growth, Ambitious, Renewal
+- Horizon Dusk Modern, Warm. Safe
 
-Stimulating
-Bark Br own
+##### Typography
 
-Growth, Ambitious, 
- 
-Renewal
-Horizon Dusk
-Modern, Warm, 
+- Modern, crisp and clean lines characterise Eurostile and Arial, our selected fonts that match the wordmark with their square shapes and rounded edges.
+- Eurostile Regular urostile Medium for all PRINT applications
+- Arial Regular Arial Bold for all DIGITAL applications
 
-Safe
-P
-RIMAR
-Y
-Ener getic Red
+##### Tone And Messaging
 
-Power, Energy, Action
-uro stile Regular 
-ur ostile Medium
-for al l 
-P
-RINT
- applications
-E
-for all 
-DIGITAL 
-applications
-rial Regular
-rial Bold
-A
+- Rise sounds like someone who is Challenging, Ingenious and Purposeful. Sourced from our Brand Pillars, these are our three voice principles that will guide and unite our verbal communication.
+- Someone who accepts no limits Sounds like someone who loves life. Relishes its challenges. Who sees everyday as yet another chance to do more. To see more. Live more. To go the distance. Who sees possibilities, not problems. Breakthroughs, not barriers. Who finds deep meaning in actions And in the way ahead. In a word, Rise sounds # Challenging.
+- Someone who thinks alternatively Sounds like someone who's resourceful. Inventive. Who naturally thinks beyond the box. Whose first instinct is not to find the right answer But to question the question itself. Someone whose creativity stems from solid strategic ground. Who delivers when it matters. And whose work is reliably on time, on tone. In a word, Rise sounds # Ingenious.
+- Someone who drives positive change Sounds like someone who sets the example. Paves the road for us. Who's always ready for a conversation. Who participates, motivates. Who understands the power of the collective. Inspires them with word and deed. Who embodies the cause. Lives the word. And helps us scale new and previously unimaginable heights. In a word, Rise sounds Purposeful.
 
-**Spacing Layout:**
+##### Brand Values
 
-- 25
-04
-B
-OD
-Y OF RISE.
-A Sign of the T imes 
-As we build our international presence and aim to be a globally 
-admired brand, the way we visually and verbally communicate 
-Rise clarifies and strengthens our unified image. 
-Mahindra™s new wordmark reflects its balanced and progressive 
-growth as a brand. It balances the edge and the curve, the grid 
-and the flow, the positive and negative spaces. It is progressive 
-too, spirited enough to capture the essence of the brand, and 
+- With an inspiring history, an unshakable set of values, and a clear sense of purpose.
+- Rise is our reason to be. And our rallying cry. Our philosophy. And a call to action. Us stretching our arms Towards perfection. Rise is who we are. And together, Rise is what we do.
+- We will challenge conventional thinking and innovatively use all our resources to drive positive change in the lives of our stakeholders and communities across the world, to enable them to Rise.
+- We will think big and look beyond conventional boundaries. We will encourage our people to be adaptable and agile, benchmark beyond global best-in-class, and take well-reasoned risks to deliver breakthrough products, services and solutions for our customers.
+- Rise by daring to disturb the universe.
+- We will apply alternative thinking and new approaches in our everyday work-life. We will seek out fresh, diverse perspectives and reward those who deliver alternative thinking. We will direct our intellect towards customer-focussed innovation and will use our ingenuity to add value to our stakeholders.
+- Rise with your ingenuity.
+- We will deeply understand the needs of our customers and offer them quality products and services that will not only delight them, but improve and transform their lives. We will put our customers at the centre of our business and build strong relationships with them. We will act with the highest standards of integrity. We will strive to bring about positive change in our own lives, and enable our customers and communities to Rise.
+- Rise by shaping destinies.
+- We have always sought the best people for the job and given them the freedom and the opportunity to grow. We will continue to do so. We will support innovation and well-reasoned risk taking, but will demand performance.
+- As in the past, we will continue to seek long-term success, which is in alignment with the needs of the countries we serve. We will do this without compromising ethical business standards.
+- We exist and prosper only because of the customer. We will respond to the changing needs and expectations of our customers speedily, courteously and effectively.
+- Quality is the key to delivering value for money to our customers. We will make quality a driving value in our work, in our products and in our interactions with others. We will do it 'First Time Right'.
+- We will value individual dignity, uphold the right to express disagreement and respect the time and efforts of others. Through our actions, we will nurture fairness, trust and transparency.
 
-open enough to assimilate newer businesses that might join 
-Mahindra in the future.
+##### Visual Style
 
-**Brand Voice:**
-
-- 03 
-MIND OF RISE.
- 
-page 17
-04
-BODY OF RISE.
- 
-page 24
-05 
-ACTIONS OF RISE.
- 
-page 31
-06 
-YOU & RISE.
- 
-page 36
-01
-MEET RISE.
-page 04
-02 
-SOUL OF RISE.
-page 12
-03
-TABLE OF
-CONTENTS
-Manifesto 
-Core Purpose
-Brand Pillars
-
-Core Values
-Look & Feel
-
-Brand Voice
-Our History 
-
-Our Present
-
-Our Businesses
-Living Rise.
-
-Our Customers
-Today
-- 04B | B
-OD
-Y 
-OF
- 
-RISE
-.
-BRAND VOICE
-Someone who accepts no limits
-Sounds like someone who loves life.
-Relishes its challenges.
-Who sees everyday as yet another 
- 
-chance to do more. 
-To see more. Live more. 
-To go the distance.
-Who sees possibilities, not problems.
-
-Breakthroughs, not barriers.
-Who finds deep meaning in actions 
-And in the way ahead.
-
-In a word, Rise sounds 
-Someone who thinks alternatively
-Sounds like someone who™s resourceful. Inventive.
-Who naturally thinks beyond the box.
-
-Whose first instinct is not to find the right answer 
-
-But to question the question itself.
-Someone whose creativity stems from solid  
- 
-strategic ground.
-Who delivers when it matters.
-
-And whose work is reliably on time, on tone.
-In a word, Rise sounds
-Someone who drives positive change
-Sounds like someone who sets the example.
-
-Paves the road for us.
-Who™s always ready for a conversation.
-Who participates, motivates.
-
-Who understands the power of the collective.
-Inspires them with word and deed.
-Who embodies the cause.
-Lives the word.
-And helps us scale new and previously                                                           
-unimaginable heights.
-In a word, Rise sounds 
-Challenging.
-Ingenious.
-Purposeful.
-THE SO
-U
-ND OF RISE.
-Rise sounds like someone who is 
-Challenging, 
-Ingenious and 
-P
-urposeful. 
-Sourced from our 
- 
-Brand Pillars, these are our three voice principles 
- 
-that will guide and unite our verbal communication.
-29
-- T
-HERE
- 
-ARE
- 
-THOSE
- 
-WHO
- 
-ACCE
-P
-T
- 
-THINGS
- 
-AS
- 
-THE
-Y 
-ARE
-, 
-AND
- 
-THOSE
- 
-WHO
- RISE. 
-TO
- 
-CHANGE
- 
-T
-HE
-Y RISE 
-ABOVE
- 
-DOUBT
-, RISE 
-ABOVE
- 
-FEAR
-, 
-AND
- RISE 
-ABOVE
- 
-SKE
-P
-TICISM
- 
-T
-HE
-Y RISE 
-FOR
- 
-THEMSELVES
-, 
-FOR
- 
-THEIR
- 
-FAMILIES
-, 
-AND
- 
-FOR
- 
-THE
- 
-COMMUNITIES
- 
-THE
-Y 
-LIVE
- 
-IN
- 
- 
-T
-HE
-Y RISE 
-B
-Y 
-THINKING
- 
-BIGGER
-, 
-B
-Y 
-REFUSING
- 
-TO
- 
-GIVE
- 
-U
-P, 
-B
-Y 
-ALWA
-Y
-S
- 
-MOVING
- 
-FOR WARD
- 
-T
-HE
-Y RISE 
-B
-Y 
-NOT
- 
-SUCCUMBING
- 
-TO
- 
-THE
- 
-STATUS
- 
-QUO
-, 
-B
-Y 
-SEEKING
- P
-OSITIVE
- 
-CHANGE
-, 
-B
-Y 
-THINKING
- 
-DIFFERENTL
-Y, 
-AND
- 
-B
-Y 
-ACTING
- 
-BOLDL
-Y 
-T
-HE
-Y RISE 
-B
-Y 
-BEING
- 
-RELENTLESS
- 
-IN
- 
-THEIR
- P
-URSUIT
- 
-OF
- 
-INNOVATION
- 
- 
-T
-HE
-Y RISE 
-ABOVE
- 
-MISTAKES
-, 
-ABOVE
- 
-FAILURES
-, 
-ABOVE
- 
-FRUSTRATIONS
-,  
-WHICH
- 
-ARE
- 
-SIM
-P
-L
-Y P
-AR T
- 
-OF
- 
-THE
- 
-GAME
- 
-T
-HE
-Y RISE 
-ABOVE
- 
-THE
- 
-SHADOWS
- 
-OF
- 
-THE
- P
-AST
-, 
-AND
- 
-THE
- 
-UNCER TAINT
-Y 
-OF
- 
-THE
- 
-FUTURE
- 
-T
-HE
-Y RISE 
-ABOVE
- 
-THE
- 
-VOICES
- 
-OF
- 
-NEGATIVIT
-Y, 
-AND
- 
-THAT
- 
-LITTLE
- 
-VOICE
- 
-IN
- 
-THEIR
- 
-HEAD
- 
-THAT
- 
-SOMETIMES
- 
-TELLS
- 
-THEM
- 
-TO
- 
-STO
-P 
-T
-HE
-Y RISE 
-WHEN
- 
-ALL
- 
-THE
- 
-CONVENTIONAL
- 
-WISDOM
- 
-TELLS
- 
-THEM
- 
-TO
- 
-STA
-Y 
-WHERE
- 
-THE
-Y 
-ARE
-, 
-TO
- 
-ACCE
-P
-T
- 
-THE
- 
-CARDS
- 
-THE
-Y™
-VE
- 
-BEEN
- 
-DEALT
-, 
-TO
- 
-BE
- 
-HA
-PPY 
-WITH
- 
-THE
- 
-WORLD
- 
-AS
- 
-IT
- 
-IS
- 
-T
-HE
-Y RISE 
-NOT
- J
-UST
- 
-BECAUSE
- 
-THE
-Y 
-WANT
- 
-TO
-, 
-BUT
- 
-BECAUSE
- 
-THE
-Y 
-FEEL
- 
-THE
-Y 
-HAVE
- 
-TO
- 
-T
-HESE
- 
-ARE
- 
-THE
- P
-EO
-P
-LE
- 
-OF
- M
-AHINDRA
-,  
-AND
- 
-THESE
- 
-ARE
- 
-THE
- P
-EO
-P
-LE
- 
-WE
- 
-SER VE
- 
-PEO
-P
-LE
- 
-WHO
- RISE.  
-mahindra.com
-
-**Notes:**
-
-- TYP
-OGRA
-P
-H
-Y
-Modern
-, crisp and clean lines characterise Eurostile 
-and Arial, our selected fonts that match the wordmark  
-
-with their square shapes and rounded edges.
-PHOTOGRA
-P
-H
-Y
-Our ph
-otography guidelines create both unity and 
- 
-differentiation amongst our companies and offerings, 
- 
-with specific and nuanced instructions for Corporate, 
-Mobility and Non-mobility businesses (B2B and B2C).
-27
-04A | B
-OD
-Y 
-OF
- 
-RISE
-.
-LOOK & FEEL
-C
-OLOUR
- 
-PALETTE
-Fresh and exclu
-sive, Pantone 186C is the primary 
-Mahindra Red colour. Cool Grey is the complementary  
-
-secondary colour. The tertiary distinguishing colours 
-are used as accents. 
-G
-RA
-P
-HIC
- D
-EVICE
-The Ridge
- is our unique identifier. A sturdy upward  
-shape in the setting of a Himalayan mountain 
-
-range, it effectively conveys the idea of Rise.
-T
-HE
- 
-A
-PP
-EARANCE
- 
-OF
- RISE.
-O
-ur Lo
-ok & Feel system is a natural extension of 
- 
-our wordmark.
-TER TIAR
-Y
-O
-P
-TION 1
-O
-P
-TION 2
-SECONDAR
-Y
-Cool Gr ey
- 
-Timeless, Practical, 
-
-Solid
-Sunrise Orange
-
-Joyful, Friendly,
-
-Stimulating
-Bark Br own
-
-Growth, Ambitious, 
- 
-Renewal
-Horizon Dusk
-Modern, Warm, 
-
-Safe
-P
-RIMAR
-Y
-Ener getic Red
-
-Power, Energy, Action
-uro stile Regular 
-ur ostile Medium
-for al l 
-P
-RINT
- applications
-E
-for all 
-DIGITAL 
-applications
-rial Regular
-rial Bold
-A
-- 05
-A
- | A
-CTIONS
- 
-OF
- 
-RISE
-.
-LIVING RISE.
-A
-CCE
-P
-TING
- N
-O
- L
-IMITS
- 
-For the 2010 FIFA World Cup, Mahindra created 
- 
-an easy-to-use online Event Management System to  
-
-coordinate every detail of the world™s largest sporting  
-event, both locally and globally. The result: ticket 
- 
-sales of over 97%, accompanied by round-the-clock 
- 
-customer support, the first time such support was 
-
-provided at a sporting event of this scale. 
-A
-LTERNATIVE
- T
-HINKING
-B y  c l o sely studying the usage patterns of farmers, 
- 
-
-we conceptualised and created the first multi-utility  
-
-tractor in India, a revolutionary design optimised for  
-both farming and hauling. The Shaan tractor was 
-awarded the 2007 AE50 Outstanding Innovation 
-
-Award from the American Society of Agricultural and  
-
-Biological Engineers and was also the subject of a 
-
-Harvard Business Review case study on innovation.  
-D
-RIVING
- 
-POSITIVE
- C
-HANGE
-Through Mahindra Finance, India™s largest rural 
-
-non-banking financial institution, we are providing 
-
-important financial services to people in rural areas,  
-helping empower them to take charge of their future.  
- 
-The institution has created thousands of new jobs  
- 
-
-and has served over 2.5 million customers.
-33
+- Mahindra’s new wordmark reflects its balanced and progressive growth as a brand. It balances the edge and the curve, the grid and the flow, the positive and negative spaces. It is progressive too, spirited enough to capture the essence of the brand, and open enough to assimilate newer businesses that might join Mahindra in the future.
+- Our Look & Feel system is a natural extension of our wordmark.
+- The Ridge is our unique identifier. A sturdy upward shape in the setting of a Himalayan mountain range, it effectively conveys the idea of Rise.
+- Fresh and exclusive, Pantone 186C is the primary Mahindra Red colour. Cool Grey is the complementary secondary colour. The tertiary distinguishing colours are used as accents.
+- Energetic Red Power, Energy, Action
+- Sunrise Orange Joyful, Friendly, Stimulating
+- Cool Grey Timeless, Practical, Solid
+- Bark Brown Growth, Ambitious, Renewal
+- Horizon Dusk Modern, Warm. Safe
+- Modern, crisp and clean lines characterise Eurostile and Arial, our selected fonts that match the wordmark with their square shapes and rounded edges.
+- Our photography guidelines create both unity and differentiation amongst our companies and offerings, with specific and nuanced instructions for Corporate, Mobility and Non-mobility businesses [B2B and B2C).
 
 ## Additional Properties
 

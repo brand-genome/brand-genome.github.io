@@ -2,7 +2,7 @@
 title: Google Trends
 slug: "google-trends"
 description: ""
-date: "2026-03-20T08:22:05.795851"
+date: "2026-04-10T09:40:34.790548"
 draft: false
 sectors:
   - software
@@ -70,7 +70,88 @@ visual_term_image_urls: {}
 
 ### 2015
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To provide clear, accurate, and accessible data insights from Google search activity, enabling users to understand trends and patterns in real time.
+
+##### Core Values
+
+- clarity
+- accuracy
+- accessibility
+- integrity
+
+##### Target Audience
+
+- Media professionals, researchers, analysts, and the general public seeking reliable data on search trends.
+
+##### Personality Traits
+
+- professional
+- transparent
+- data-driven
+- innovative
+
+##### Visual Identity Overview
+
+- The visual identity emphasizes the use of Google brand colors, clean layouts, minimalistic design, and clear logo usage. Visuals are structured, with strong color contrast and precise spacing, using the Roboto font family for consistency. Logos are used in full color on white or light backgrounds, with strict guidelines for placement and spacing.
+
+#### Categories
+
+##### Logo Usage
+
+- The primary preferred usage is Full Color on white. Alternate version is 54% Black on bright background.
+- Other light backgrounds may be used as long as legibility is maintained.
+- On dark backgrounds reverse the 'Trends' text in white.
+- Don't use on colored backgrounds or follow the guidelines on page 6 for dark colored backgrounds.
+- The spacing of each element is precisely considered. Never alter this spacing.
+
+##### Color Palette
+
+- The primary preferred usage is Full Color on white. Alternate version is 54% Black on bright background. Other light backgrounds may be used as long as legibility is maintained. On dark backgrounds reverse the 'Trends' text in white.
+- Don't use on colored backgrounds or follow the guidelines on page 6 for dark colored backgrounds.
+- Use Google brand colors in a meaningful way such as color coding, differentiation between entities etc. Do not use brand colors in a decorative manner.
+
+##### Typography
+
+- Use only the Roboto Light font and only this approved run-up line (use when needed).
+- Cap height is equal to the 'e' in 'Trends'. Cap height should never exceed the 'e' height.
+- Additional text is placed on the same line as the 'e' in 'Trends'.
+- Don't use other fonts or logos for the run-up text.
+- Don't stack text above or below the logo.
+- Don't add text after the logo.
+- Don't use the logo in the middle of a sentence.
+
+##### Visual Style
+
+- The primary preferred usage is Full Color on white. Alternate version is 54% Black on bright background.
+- Other light backgrounds may be used as long as legibility is maintained.
+- On dark backgrounds reverse the 'Trends' text in white.
+- Don't use on colored backgrounds or follow the guidelines on page 6 for dark colored backgrounds.
+- The spacing of each element is precisely considered. Never alter this spacing.
+- When combining the "Google Trends" logo with additional text use the following 'run-up' lines with this spacing. a po. Use only the Roboto Light font and only this approved run-up line (use when needed).
+- Additional text should always proceed the logo in line.
+- Cap height is equal to the 'e' in 'Trends'. Cap height should never exceed the 'e' height.
+- Additional text is placed on the same line as the 'e' in 'Trends'.
+- Don't use other fonts or logos for the run-up text.
+- Don't stack text above or below the logo.
+- Don't add text after the logo.
+- Don't use the logo in the middle of a sentence.
+- Use Google brand colors in a meaningful way such as color coding, differentiation between entities etc. Do not use brand colors in a decorative manner.
+- Do not use lower case or seperate the Google Or Trends text.
+
+##### Layout And Composition
+
+- The spacing of each element is precisely considered. Never alter this spacing.
+- When combining the "Google Trends" logo with additional text use the following 'run-up' lines with this spacing. Use only the Roboto Light font and only this approved run-up line (use when needed).
+- Additional text should always proceed the logo in line.
+- Cap height is equal to the 'e' in 'Trends'. Cap height should never exceed the 'e' height.
+- Additional text is placed on the same line as the 'e' in 'Trends'.
+- Don't stack text above or below the logo.
+- Don't add text after the logo.
+- Don't use the logo in the middle of a sentence.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: ZTM
 slug: ztm
 description: ""
-date: "2026-03-20T08:22:04.338596"
+date: "2026-04-10T09:40:33.051837"
 draft: false
 sectors:
   - "public-sector"
@@ -54,10 +54,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - display
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: "public transport authority in Poznan, Poland"
 wikidata_url: "https://www.wikidata.org/wiki/Q9387124"
 has_twitter: false
@@ -77,21 +75,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Color Information:**
-
-- Color specifications and typographic hierarchy for signage, including INFO display colors with RGB (250, 202, 48), HEX (#faca30).
-- Detailed usage of colors in signage: Includes RGB codes, HEX codes distinguishing 'strefa' (zone designation) and 'na żądanie' (on-demand zones).
-- Color codes for marking transportation info and signage layouts: Includes RGB 29, 27, HEX #1D1D1B, and additional layout coloring specifications.
-
-**Typography Information:**
-
-- Font sizes and bold typographic rules provided for zone marker information ('INFO Display') including hierarchy and key sizes.
-- Typography roles and uses for signage layouts: INFO display regular font for city and date labels; INFO display bold for vehicle numbers.
-
-**Notes:**
-
-- Clarifications about tabular signage designs with examples of zones, typography sizes, alignment, and layout rules for transportation signage.
-- Details about visualizations including graphics, icons, and typography designs for specific signage like ticket machines. Placement depends on tender selection.
+*Guidelines data not available*
 
 ## Additional Properties
 

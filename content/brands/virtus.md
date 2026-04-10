@@ -2,7 +2,7 @@
 title: Virtus
 slug: virtus
 description: ""
-date: "2026-03-20T08:22:04.194529"
+date: "2026-04-10T09:40:32.549022"
 draft: false
 sectors:
   - sports
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
-  - purple
-  - cyan
-  - blue
-  - yellow
-  - orange
-typographies:
-  - "open-sans"
-  - gotham
-imagery_styles:
-  - bold
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Italian League professional basketball club, based in Bologna."
 wikidata_url: "https://www.wikidata.org/wiki/Q36264"
 has_twitter: false
@@ -86,39 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- All Elements of Standard Logo (World Organisation / Athlete Logo (1) - shown on page 19). Important - the logo must not be broken up or the elements used on their own.
-- Official World Organisation Logo - only ever used on official documents, reports, stationery, main website.
-- Logo exclusion guidelines and construction metrics for the Official World Organisation Logo.
-- World Organisation / Athlete Logo (1) distinction for open use in advertising merchandise alongside other federation logos.
-- Common Misuses of the Brand, including incorrect transparency, cropping, drop shadows, and color usage.
-- Updated branding options for national competitor logos with application during world championships.
-- Global image guidelines - single color white logo for use on darker-than-50% backgrounds.
-
-**Color Information:**
-
-- Pantone/CMYK definitions for colors including Blue (Pantone 661C), Purple (Pantone 272C), Orange (Pantone 1645C), Cyan (Pantone 298C), Yellow (Pantone 604C), Berry (Pantone 674C), Red (Pantone 1795C), Powder Blue (Pantone 279C). RGB and HEX values are outlined for each.
-
-**Typography Information:**
-
-- Primary typefaces: Gotham Light, Gotham Book, Gotham Medium, Gotham Bold. Usage rules for titles, headings, and body text. Gotham Bold is reserved for emphasis or headlines.
-- Online typefaces: Open Sans Light, Regular, Semi Bold, and Bold. Online font family applied uniformly for online communication channels. Title and body text roles specified.
-- Internal typefaces for company communication: Calibri and Calibri Bold for default text and headings respectively.
-
-**Imagery Photography:**
-
-- Guidelines for logo usage on dark or monochrome backgrounds. A single-color white logo should be used if background color exceeds 50% darkness.
-- Logo usage for single-color application, ensuring visibility against background palettes.
-
-**Spacing Layout:**
-
-- Spacing descriptions defining font metrics and layout proportions across brand logo design.
-
-**Notes:**
-
-- General guidelines, acknowledgments related to Virtus organization.
-- Virtus contact details and stationery letter layout samples.
+*Guidelines data not available*
 
 ## Additional Properties
 

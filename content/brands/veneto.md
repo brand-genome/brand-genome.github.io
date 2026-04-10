@@ -2,7 +2,7 @@
 title: Veneto
 slug: veneto
 description: ""
-date: "2026-03-20T08:22:04.406884"
+date: "2026-04-10T09:40:33.146805"
 draft: false
 sectors:
   - "public-sector"
@@ -52,10 +52,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - univers
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: "healthcare organization in Padua, Italy"
 wikidata_url: "https://www.wikidata.org/wiki/Q30282158"
 has_twitter: false
@@ -75,97 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Manuale d™uso
-del  marchio
-Tur ismo  Venet o
-- Manuale d™u so del marchio
-Turismo  Veneto
-- Sommario
-Manuale 
-d™uso del marchio
-1.0
- 
-Il marchio, il logotipo, il pay-off
-1.1
- 
-Costruzione geometrica della stella
-1.2
- 
-De˜nizione dei colori ed uso relativo
- 
-ai prodotti turistici
-1.3
- 
-Rapporto leone / stella 
-1.4
- 
-Logotipo e pay-off
-1.5
- 
-Tipogra˜a
-
-1.6
- 
-Il nuovo marchio: utilizzo nazionale
-1.7
- 
-Marchio versione nazionale: 
- 
-utilizzi scorretti
-1.8
- 
-Marchio versione nazionale: 
- 
-prove di riduzione
-1.9
- 
-Il nuovo marchio: utilizzo internazionale
-1.10
- 
-Marchio versione internazionale: 
- 
-utilizzi scorretti
-1.11
- 
-Marchio versione internazionale: 
- 
-prove di riduzione
-2.0
- 
-Linee guida e rapporto tra i marchi
-2.1
- 
-Posizionamento e dimensioni
-- 7
-6
-Gli elementi costitutivi: la stella e il leone
-Il primo, imprescindibile elemento costitutivo di ogni identità è sicuramente il marchio. ...
-
-**Color Information:**
-
-- 9
-8
-1.3
-Rapporto leone / stella
-1.2
-
-De˜nizione dei colori ed uso 
-relativo ai prodotti turistici
-Alla ﬁstellaﬂ viene accostata l™immagine di ...
-
-**Typography Information:**
-
-- Il logotipo è composto in Univers Condensed Bold Oblique. The accompanying payoff is in Univers Condensed Oblique ...
-
-**Spacing Layout:**
-
-- 2.1
-Posizionamento e dimensioni
-Materiale prodotto dalla Regione del 
-
-Veneto realizzato con fondi di derivazione ...
+*Guidelines data not available*
 
 ## Additional Properties
 

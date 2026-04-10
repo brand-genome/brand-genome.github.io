@@ -2,7 +2,7 @@
 title: US Masters Swimming
 slug: "us-masters-swimming"
 description: ""
-date: "2026-03-20T08:22:04.561809"
+date: "2026-04-10T09:40:33.372378"
 draft: false
 sectors:
   - sports
@@ -48,10 +48,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - icon
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -75,35 +72,4 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Guidelines for Stacked Layout of the logo are provided.
-- Guidelines for Horizontal Layout of the logo are provided.
-- Options with only the logo icon are defined, alongside usage examples.
-- Stacked layout logo for U.S. Masters Swimming.
-- Horizontal layout logo specifications for U.S. Masters Swimming.
-- Icon-only usage of the U.S. Masters Swimming logo.
-- Text-only version of U.S. Masters Swimming logo.
-- Horizontal layout logo specifications for U.S. Masters Swimming.
-- Stacked layout logo for U.S. Masters Swimming.
-- Horizontal layout logo specifications for U.S. Masters Swimming.
-- Icon-only usage of the U.S. Masters Swimming logo.
-- Text-only version of U.S. Masters Swimming logo.
-
-**Spacing Layout:**
-
-- Layout and alignment guidance for logos and brand materials.
-- Layout and alignment guidance for logos and brand materials.
-- Layout and alignment guidance for logos and brand materials.
-- Layout and alignment guidance for logos and brand materials.
-
-**Notes:**
-
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
-- General guidelines provided for logo editing and usage.
+*Guidelines data not available*

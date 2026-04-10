@@ -2,7 +2,7 @@
 title: Pressidium
 slug: pressidium
 description: ""
-date: "2026-03-20T08:22:04.192021"
+date: "2026-04-10T09:40:32.544952"
 draft: false
 sectors:
   - software
@@ -46,17 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - primary
-  - icon
+logo_elements: []
 brand_colors: []
-typographies:
-  - montserrat
-imagery_styles:
-  - bold
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -75,20 +68,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Various logo versions provided including horizontal, vertical, and icon formats.
-- Logo misuse guidelines: prohibits distortion, rotation, contour addition, and unauthorized color usage.
-- Specific minimum size requirements mentioned for logos.
-- Various logo versions provided including horizontal, vertical, and icon formats.
-- Logo misuse guidelines: prohibits distortion, rotation, contour addition, and unauthorized color usage.
-
-**Color Information:**
-
-- Primary color reference: HEX #170540, along with secondary (#5490FF) and tertiary (#FEC247) colors.
-- Pantone references provided in the color palette for matching industry standards.
-- Primary color reference: HEX #170540, along with secondary (#5490FF) and tertiary (#FEC247) colors.
-
-**Typography Information:**
-
-- Primary font: Montserrat, used in weights Regular and Bold for different text roles.
+*Guidelines data not available*

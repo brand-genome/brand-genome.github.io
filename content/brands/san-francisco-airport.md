@@ -2,7 +2,7 @@
 title: San Francisco Airport
 slug: "san-francisco-airport"
 description: ""
-date: "2026-03-20T08:22:04.405237"
+date: "2026-04-10T09:40:33.145140"
 draft: false
 sectors:
   - "public-transportation"
@@ -47,23 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - signature
-  - horizontal
-  - primary
-brand_colors:
-  - brown
-  - gray
-  - blue
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - vibrant
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "international airport near San Francisco, California, U.S."
 wikidata_url: "https://www.wikidata.org/wiki/Q8688"
 has_twitter: false
@@ -82,49 +69,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The SFO logo is available in two configurations: the logo and the logo signature. The signature adds contextual branding support and includes text identifying 'San Francisco International Airport'.
-- Logo versions: horizontal signature, vertical signature.
-- Primary logo colors: SFO Blue (PMS 308) and reversed; special usage: Black. Black logos are used for high contrast needs.
-- Logo minimum size for print and digital media: 0.75 inches, 19mm, or 54 pixels.
-- Clear space requirement around logo: Equal to the length of the top right corner to the 'flight line' of the logo.
-- Edge placement: Logo can only be placed along top edges; minimum space from vertical edges is equal to the length from the top right corner to the flight line.
-- Maximum proportional sizes: Media smaller than 4"x5" – logo may take up to 20% of the area. Media 4"x5" or larger – logo may take up to 7% of the area.
-- Incorrect logo usage includes: unauthorized colors, disproportionate scaling, busy backgrounds, irrelevant placement (e.g., vertical edges), insufficient contrast, or alteration of text/thickness within the logo.
-- Correct logo background usage includes sufficient contrast with photographic or solid-color backgrounds.
-
-**Color Information:**
-
-- Primary palette includes SFO Blue (PMS 308: #00587C), PMS 3278 (#009B77), and other minor colors defined with specifications for HEX, RGB, and CMYK.
-- Neutral palette includes Cool Grays (e.g., Cool Gray 7: #A0A0A0) and 80% Black (#58595B), with defined Hex, RGB, and CMYK values.
-- Secondary palette includes vibrant tones (e.g., PMS 116: #FFCD00, PMS 369: #64A70B) used as accents.
-- Color usage rules: Adhere to consistent specifications. Avoid excessive colors, unauthorized tints, and readability issues.
-- SFO follows AAA compliance for online readability, ensuring contrast ratios of 7:1 for regular text and 4.5:1 for large text.
-
-**Typography Information:**
-
-- Primary font: Myriad Pro (Light, Regular, SemiBold) for all print or embedded text.
-- Secondary font for online or editable text: Arial (Regular, Bold).
-- Guidelines emphasize substituting Arial for PowerPoint and Word if Myriad Pro is unavailable.
-
-**Imagery Photography:**
-
-- Ensure sufficient contrast between the logo and photography backgrounds to preserve readability.
-
-**Spacing Layout:**
-
-- Clear space around logos and signatures equals the length of the top right to the flight line.
-- Maximum size usage guidelines depend on proportional area and communication type.
-
-**Brand Voice:**
-
-- Tone emphasizes professionalism, modernity, and alignment with the brand's identity in all communications.
-
-**Notes:**
-
-- Templates for videos are available, and guidance can be obtained by contacting Charles.Schuler@flysfo.com.
-- For questions about SFO brand guidelines, Robin Brown (Robin.Brown@flysfo.com) and Sara Magoffin (Sara.Magoffin@flysfo.com) can assist.
+*Guidelines data not available*
 
 ## Additional Properties
 

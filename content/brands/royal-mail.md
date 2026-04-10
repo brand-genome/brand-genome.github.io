@@ -2,7 +2,7 @@
 title: Royal Mail
 slug: "royal-mail"
 description: ""
-date: "2026-03-20T08:22:04.222522"
+date: "2026-04-10T09:40:32.637960"
 draft: false
 sectors:
   - "parcel-service"
@@ -54,8 +54,7 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - impact
+typographies: []
 imagery_styles: []
 wikidata_description: postal service company in the United Kingdom of Great Britain and Northern Ireland
 wikidata_url: "https://www.wikidata.org/wiki/Q638098"
@@ -74,39 +73,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The guide mentions logo usage for Point of Sale (POS) materials including rules on exclusion areas, colors, good and bad practices.
-- Specific licence agreement and approval required for logo and stamp imagery usage in POS designs.
-- Logo exclusion area guidelines provided but specific measurements not visible from this snippet.
-- Logo colors detailed but exact RGB or CMYK values not yet visible. Must reproduce colors faithfully.
-- Examples of good logo practices laid out.
-- Examples of bad logo practices and incorrect logo usage, including alterations or misuse that impact negatively.
-
-**Color Information:**
-
-- Color usage rules: faithful reproduction with reference to logos and stamps. Exact values (Pantone/HEX/RGB/CMYK) not identified from current text.
-
-**Typography Information:**
-
-- No specific typography details such as font family or weights visible in extracted text so far.
-
-**Imagery Photography:**
-
-- Guidelines for using stamp imagery include faithful reproduction, showing entirety of design, monarch’s head, stamp value, and perforations. Stamps cannot be altered or obscured by objects or text.
-
-**Spacing Layout:**
-
-- Exclusion zones for logos are mentioned but no exact specifications are given in this snippet.
-
-**Brand Voice:**
-
-- The tone emphasizes consistency, protection of brand assets, and adherence to detailed guidelines for POS materials.
-
-**Notes:**
-
-- Usage of Royal Mail assets, including stamps and logos, requires a license. Each design must be submitted to the Royal Mail brand team for approval. Future use of the same approved design does not require additional permission.
-- The document elaborates various rules and approvals relevant to licensing for Point of Sale promotional materials, targeting consistency and brand protection.
+*Guidelines data not available*
 
 ## Additional Properties
 

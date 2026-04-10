@@ -2,11 +2,11 @@
 title: "F-Secure"
 slug: "f-secure"
 description: ""
-date: "2026-03-20T08:22:04.181141"
+date: "2026-04-10T09:40:32.506223"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - finland
 years:
@@ -54,20 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - gray
-  - purple
-  - blue
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "Finnish cybersecurity enterprise founded in 1988 (as \"Data Fellows\")"
 wikidata_url: "https://www.wikidata.org/wiki/Q522016"
 has_twitter: false
@@ -88,41 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Minimum logo size for digital banner layouts is 120px width. The clearing space around the borders should ideally be 20px, which is tighter than standard logo guidelines due to banner space limitations.
-- For videos, logo placement should be ensured continuously visible in the bottom left, bottom right, top left, or top right corners based on channel logos, subtitles, and other graphic interference. Logo opacity should be set to 65%.
-- The layout defines a safe space based on the logo's size. If no logo is present (e.g., in social media or event content), safe space is determined by font height.
-- Co-branding logos should follow a hierarchical structure: primary brands are at the top, subordinate brands below, and partner services are shown between partner brands.
-
-**Color Information:**
-
-- The primary colors include 'Primary Blue' for general use and 'Secondary Blue' for specific needs. Cool Gray 3 is available for neutral approaches. Colors should be used carefully, as blue tones shift on uncoated stocks during CMYK printing.
-- Background usability includes primary and secondary versions for events or specialized needs. Primary versions include Primary Blue backgrounds and secondary versions for rare occasions.
-
-**Typography Information:**
-
-- The main typefaces for the brand are F-Secure Sans Bold (headline font) and F-Secure Sans Light (body text and subheadings). Arial serves as a backup font for restricted use cases.
-- Headline Type 1 uses F-Secure Sans Bold (110/77pt) with tight tracking (-50pt), centered alignment, while Headline Type 3 adjusts to left alignment.
-
-**Imagery Photography:**
-
-- Imagery focuses on differentiation through coherent yet unique styles in color and angles. Diverse subjects include urban environments, office settings, smart homes, and outdoor locations.
-- Human diversity in imagery is emphasized: F-Secure prefers confident and reliable individuals of various ethnicities to represent the global identity of the brand.
-
-**Spacing Layout:**
-
-- Layouts include vertical and horizontal configurations. Clearing spaces are determined either by logo size or font size if no logo is present.
-- Clear guidance on banner layouts for digital use, including minimum button height of 36px with rounded corners (4px radius), 16px font size for button text, and minimum 20px clearing space.
-
-**Brand Voice:**
-
-- The brand aspires to build trust through integrity, commitment, and excellence in communication and actions.
-
-**Notes:**
-
-- Printing blue backgrounds in CMYK requires close monitoring to prevent color shifts (e.g., appearing more purple on uncoated stocks). Always check press proofs before finalizing.
-- The guidelines advise to follow hierarchical placement for co-branding scenarios, ensuring primary visibility for F-Secure.
+*Guidelines data not available*
 
 ## Additional Properties
 

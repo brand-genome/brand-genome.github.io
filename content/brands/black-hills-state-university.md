@@ -2,7 +2,7 @@
 title: Black Hills State University
 slug: "black-hills-state-university"
 description: ""
-date: "2026-03-20T08:22:04.237253"
+date: "2026-04-10T09:40:32.754832"
 draft: false
 sectors:
   - university
@@ -51,15 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - horizontal
-  - alternate
-  - primary
-  - mascot
-brand_colors:
-  - green
-  - yellow
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "public university in Spearfish, South Dakota"
@@ -79,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Details about logo family to be used in different applications.
-- Logo exclusion zone calculated by height proportional to BH symbol.
-- Alternate logos for horizontal use; kept consistent in structure.
-
-**Color Information:**
-
-- Primary Colors: BHSU Green (CMYK: 91,33,99,26; RGB: 0,105,55; HEX: #006937; Pantone: 349 C), BHSU Yellow (CMYK: 3,32,98,0; RGB: 244,178,35; HEX: #F4B223; Pantone: 7409 C).
-
-**Typography Information:**
-
-- BHSU font size should be roughly 2/3 the size of the subhead font size.
-
-**Imagery Photography:**
-
-- Mascot 'Sting' can be used alongside official logos on publications, not as a replacement.
-
-**Spacing Layout:**
-
-- Logo minimum size specifications: 11x17: 2 inches wide; 8.5x11: 1 1/2 inches wide; Smaller publications: 1 1/4 inches wide.
-
-**Notes:**
-
-- Guidelines on logo usage: No alterations, disproportionate scaling, color changes, background clashes, or other disruptive effects.
+*Guidelines data not available*
 
 ## Additional Properties
 

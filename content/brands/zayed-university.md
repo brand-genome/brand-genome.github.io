@@ -2,12 +2,12 @@
 title: Zayed University
 slug: "zayed-university"
 description: ""
-date: "2026-03-20T08:22:05.576734"
+date: "2026-04-10T09:40:34.505129"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - dubai
 years:
@@ -52,16 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - helvetica
-  - gotham
-  - trebuchet
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: University in UAE
 wikidata_url: "https://www.wikidata.org/wiki/Q8067559"
 has_twitter: false
@@ -80,33 +74,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo-related details extracted from the document.
-
-**Color Information:**
-
-- Details about the color palette, including primary, secondary, accent, and background colors, along with guidelines for usage.
-
-**Typography Information:**
-
-- Typography-family information including specific usage of fonts such as Trebuchet MS, Gotham, Helvetica Neue, TheSansArabic, and their roles in branding.
-
-**Imagery Photography:**
-
-- Specific details about photography style, image composition, and visual elements appropriate for communication.
-
-**Spacing Layout:**
-
-- Grid systems and layout specifications including the spacing rules.
-
-**Brand Voice:**
-
-- Details about tone of voice and message consistency that directly align with the institutional identity.
-
-**Notes:**
-
-- General guidelines and introductory notes providing a framework for the document.
+*Guidelines data not available*
 
 ## Additional Properties
 

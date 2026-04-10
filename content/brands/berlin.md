@@ -2,7 +2,7 @@
 title: Berlin
 slug: berlin
 description: ""
-date: "2026-03-20T08:22:04.177181"
+date: "2026-04-10T09:40:32.496115"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,14 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - "pantone-186"
-typographies:
-  - din
-imagery_styles:
-  - bold
-  - photography
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "federated state, capital and largest city of Germany"
 wikidata_url: "https://www.wikidata.org/wiki/Q64"
 has_twitter: false
@@ -78,29 +73,140 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
+#### Brand Summary
 
-- Details regarding logo placements, sizing, and layouts, as noted across different administrative use cases and formats.
+##### Mission
 
-**Color Information:**
+- To establish a unified and recognizable visual identity for the Berlin administration, enhancing positive external perception and facilitating efficient communication across all departments and subordinate authorities [^1].
 
-- Colors include Berlin Red (Pantone 186 C), CMYK, RGB specifications; a color spectrum for departments and sections is provided for consistency.
+##### Core Values
 
-**Typography Information:**
+- unity
+- recognizability
+- efficiency
+- accessibility
 
-- The BMF Change and its variations (Regular, Bold, Italic, Light) were specified along with usage recommendations for titles and subtitles.
+##### Target Audience
 
-**Imagery Photography:**
+- Citizens, stakeholders, and partners interacting with Berlin's administration and its subordinate authorities [^2].
 
-- Photography and imagery are integrated with layout elements like dialog frames; flexibility included high-resolution vector images.
+##### Personality Traits
 
-**Spacing Layout:**
+- professional
+- modern
+- clear
+- inclusive
 
-- Spacing details include margins, padding, grid layouts for A4, A5 brochures, invitation cards per DIN regulations.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the 'be Berlin' logo in Berlin-Rot, a flexible color palette, standardized typography (BMF Change family), dialog frames, and consistent layouts for print and digital media. Templates and guidelines ensure uniformity and accessibility, with designated logo zones, scalable elements, and clear rules for co-branding and campaign logos [^3].
 
-- Defined usage guidelines for the Berlin color palette, ensuring distinct department identity with shared elements.
+#### Categories
+
+##### Brand Imagery
+
+- Platz für Aktions- oder Kampagnenlogos
+- Berlin-Rot OC | 100M | 90Y | 0K
+- Linienstärke: 14 Punkt
+- Dialograhmen mit Dialogpfeil (ab S. 17)
+- Farbspektrum (S. 21)
+- Standardlayouts (ab S. 24)
+
+##### Color Palette
+
+- Das Logo hat die Farbe Berlin-Rot OC l 100M 1 90V I OK. In begründeten Ausnahmefällen darf das Logo in schwarz verwendet oder weiß eingefärbt werden (s.S. 9, Kapitel „Positionierung des Logos auf farbigem Grund"). Die Verwendung einer anderen Farbe ist nur im Ausnahmefall möglich (z.B. bei 1-farbigem Druck, um Mehrkosten durch Farbwechsel zu vermeiden).
+- Bei der Positionierung des Logos auf farbigem Grund muß ein ausreichender Kontrast gewährleistet sein.
+- Farbiges Logo auf farbigem Grund: das Logo hat die Farbe 0-100-90-0, der Schriftzug Berlin ist weiß.
+- Weißes Logo auf farbigem Grund: der Schriftzug Berlin ist transparent, so dass das Motiv durchscheint.
+- Farbspektrum (S. 21)
+- Die einzelnen Verwaltungen können aus dem hier vorgestellten Spektrum Farben auswählen, um a) feste Farben für bestimmte Abteilungen festzulegen (ohne Anspruch auf Exklusivität).
+- b) bestimmte Farben für ihre Publikationen zu definieren.
+- Das Berlin-Rot ist für das Senatslogo und die Verwaltungsbezeichnung festgelegt, darf aber darüber hinaus auch frei verwendet werden.
+- Die Farbe des Dialograhmens ist aus dem CD-Farbspektrum frei wählbar.
+- Die Farbe des Dialogfensters ist aus dem CD-Farbspektrum frei wählbar.
+- Die Ergänzung für das Aktionslogo wird rechtsbündig gesetzt und muß einen Farbkontrast zum be Berlin-Logo aufweisen. Die Farbe ist aus dem CD-Farbspektrum (s.S. 21) frei wählbar.
+- Es wird empfohlen, die Schriftfarbe des Titels und den Dialograhmen in der gleichen Farbe aus dem Farb­spektrum einzufärben. Als Ausnahme ist möglich, für die Schrift die Farbe Schwarz zu wählen (nicht jedoch für den Dialograhmen!).
+
+##### Typography
+
+- Schriften (S. 22/23) BMF Change Light BMF Change Light Italic BMF Change Regular BMF Change Regular Italic BMF Change Bold BMF Change Bold italic BMF Change Letter Regular BMF Change Letter Regular Italic BMF Change Letter Bold BMF Change Letter Bold Italic
+- Grundsätzlich werden die hier gezeigten Schnitte der BMF Change und BMF Change Letter verwendet. Hierbei werden auf Titeln die Schnitte Bold (Haupttitel) und Regular (Untertitel) miteinander kombiniert (siehe Kapitel „Titel Standardlayout“).
+- Gibt es keinen Untertitel, wird vorrangig der Schnitt Regular verwendet.
+- Folgende Schriften werden für den fremdsprachigen Satz empfohlen:
+- Schriftprobe kyrillisch/griechisch: BMF Change
+- Schriftprobe arabisch: Linotype Neo Sans Arabic Std
+- Schriftprobe vietnamesisch: BMF Change
+- Grundsätzlich wird empfohlen, für die Innenseiten ebenfalls die BMF Change in den auf S. 22 aufgeführten Schnitten zu verwenden.
+- Für das Erzielen einer guten Lesbarkeit gibt es Standardschriftgrößen; diese können dann variieren, wenn aus Platzgründen und zum Erzielen von besonderen Wirkungen Anderes gewünscht wird.
+- Die Verwendung einer anderen Schrift als der BMF Change innerhalb des Dialograhmens ist nur dann erlaubt, wenn sie Bestandteil der Illustration bzw. des Bildelements ist.
+
+##### Logo Usage
+
+- Das Logo hat die Farbe Berlin-Rot OC l 100M 1 90V I OK. In begründeten Ausnahmefällen darf das Logo in schwarz verwendet oder weiß eingefärbt werden (s.S. 9, Kapitel „Positionierung des Logos auf farbigem Grund"). Die Verwendung einer anderen Farbe ist nur im Ausnahmefall möglich (z.B. bei 1-farbigem Druck, um Mehrkosten durch Farbwechsel zu vermeiden).
+- Zwei Versionen sind im Einsatz: 1. Flache, breite Version. Diese Version wird für alle Anwendungen, insbesondere für Titel, empfohlen. 2. Schmale, hohe Version. Anwendung bei seitlich beschränktem Platzangebot, auch als Sponsorenlogo (bei Platzierung auf Fremdmedien).
+- Das Wort „Senatsverwaltung" steht immer allein und ohne weitere Zusätze in der ersten Zeile.
+- Der Name der Senatsverwaltung baut sich von unten nach oben auf.
+- Wo möglich, wird auch hier die flache Version verwendet.
+- Hier sind die Standardmaße für DIN A4, DIN AS und DIN lang angegeben. Bei größeren Formaten muß die Schutzzone entsprechend mitskaliert werden.
+- Flache, breite Version Logobreite 35,2 mm E Hellblau= Logo-Schutzzone! E In diesem Bereich dürfen keine l Objekte positioniert werden. Die angegebenen Abstände <9omanzen [G Senatsverwaltung lbe 7jII . 10mm um das Logo sind Minimal­abstände. 4mm 4mm 14mm Linienhöhe 10mm Linienstärke 0,6 pt
+- Schmale, hohe Version Logobreite 35,2 mm E E l 10mm 4 mm Linienbreite 35,2 mm; <>2,5mm _Linienstärke 0,6 pt 4 mm enatsverwa tung /Ll; Gesoadhe;t cad rr schriftgröße 8 pt/9,2 pt
+- Erweitert sich die Behördenbezeichnung bei der flachen Version um eine weitere Senatsverwaltung oder um eine nachgeordnete Einrichtung, verschiebt sich die Schutzzone entsprechend nach links; sie beträgt dann immer 4 mm.
+- Erweitert sich die Behördenbezeichnung bei der hohen Version um eine weitere Senats­verwaltung oder um eine nachgeordnete Einrichtung, verschiebt sich die Schutzzone um den entsprechenden Wert nach unten und beträgt somit immer 10 mm.
+- Standardgröße zur Verwendung auf Titeln der Formate DIN A4, DIN A5, DIN lang Senatsverwaltung für Gesundheit und Soziales 35,2 mm Höhe der roten Fläche: 7 mm
+- Standardgröße zur Verwendung auf Titeln im Format DIN A3 (141% der Standardgröße); für größere Formate wird das Logo entsprechend hochskaliert. Senatsverwaltung für Gesundheit und Soziales 49,6 mm Höhe der roten Fläche: 9,7 mm
+- 1. Verwendung der flachen, breiten Version des Logos; linksbündige Anordnung der Absenderangaben und Positionierung des Absenders links unten auf dem Format: Absender auf den Formaten DIN AS, DIN lang: 70 % der Logo-Standardgröße Absender auf dem Format DIN A4 und größer: 100 % der Logo-Standardgröße
+- 2. Bei wenig Platz in der Breite darf die schmale, hohe Version des Logos verwendet werden; linksbündige Anordnung der Absenderangaben links unten auf dem Format Absender auf den Formaten DIN AS, DIN lang: 70 % der Logo-Standardgröße Absender auf dem Format DIN A4 und größer: 100 % der Logo-Standardgröße
+- Bei der Positionierung des Logos auf farbigem Grund muß ein ausreichender Kontrast gewährleistet sein.
+- Farbiges Logo auf farbigem Grund: das Logo hat die Farbe 0-100-90-0, der Schriftzug Berlin ist weiß.
+- Weißes Logo auf farbigem Grund: der Schriftzug Berlin ist transparent, so dass das Motiv durchscheint.
+- Dateiformate Logo Format eps – Verlustfrei skalierbares Dateiformat auf Vektorbasis – Anwendung in professionellen Grafikprogrammen (z.B. Adobe InDesign, Adobe Illustrator, QuarkXPress) und Ausgabegeräten auf Basis von PDF bzw. PostScript. – mit Hilfe von Photoshop oder einem anderen Bildbearbeitungsprogramm können GIF-Dateien in der jeweils benötigten Größe erstellt werden. – Die EPS-Daten liegen im Farbraum CMYK, einfarbig schwarz und in negativ weiss vor. jpg – Pixelbasiertes und daher nicht verlustfrei skalierbares Dateiformat – Anwendung in Office­Programmen, vor allem für Bildschirmpräsentationen. Zum Einbinden in MS Office sollte „Einfügen“ > „Grafik“ (oder „Bild“) > „Aus Datei ...“ gewählt werden. – Die JPEG-Daten liegen in den Farbräumen RGB und CMYK vor. gif – Pixelbasiertes und daher nicht verlustfrei skalierbares Dateiformat – Die Logos sind transparent und können auf einer Abbildung oder auf einer farbigen Fläche platziert werden. – Die gif-Daten liegen in negativ weiss und einfarbig schwarz vor. wmf – Verlustfrei skalierbares Dateiformat auf Vektorbasis – Anwendung in Office­Programmen. Geeignet für den Druck auf Bürodruckern und zur Erstellung von Ansichts-PDF-Dateien.
+
+##### Visual Style
+
+- Berlin-Rot OC l 100M l 90Y I OK
+- Linienstärke: 14 Punkt
+- Platz für Aktions- oder Kampagnenlogos
+- Titel: BMF Change Bold, 26/30pt
+- Untertitel: BMF Change Regular, 26/30pt
+- Schrift baut sich von unten nach oben auf.
+- Farbspektrum (S. 21)
+- BMF Change Light BMF Change Light Italic BMF Change Regular BMF Change Regular Italic BMF Change Bold BMF Change Bold italic BMF Change Letter Regular BMF Change Letter Regular Italic BMF Change Letter Bold BMF Change Letter Bold Italic
+- Dialograhmen mit Dialogpfeil (ab S. 17)
+- Standardlayouts (ab S. 24)
+
+##### Layout And Composition
+
+- Platz für Aktions- oder Kampagnenlogos
+- Rahmenlinienstärke: 14 Punkt
+- Berlin-Rot OC | 100M | 90Y | 0K
+- Titel: BMF Change Bold, 26/30pt Untertitel: BMF Change Regular, 26/30pt Schrift baut sich von unten nach oben auf.
+- Die hier gezeigten Designelemente bilden die Toolbox für die Umsetzung des Corporate Designs und werden auf den folgenden Seiten im Detail erklärt.
+- Standardlayouts (ab S. 24)
+
+##### Co Branding
+
+- Kampagnenlogos sollen nach den Vorgaben gestaltet werden. In Ausnahmefällen sind Variationen möglich, die der Freigabe durch die Senatskanzlei II A 12 bedürfen.
+- Die Ergänzung für das Aktionslogo wird rechtsbündig gesetzt und muß einen Farbkontrast zum be Berlin-Logo aufweisen. Die Farbe ist aus dem CD-Farbspektrum (s.S. 21) frei wählbar.
+
+##### Print Guidelines
+
+- Berlin-Rot OC l 100M 1 90V I OK
+- Linienstärke: 14 Punkt
+- Titel: BMF Change Bold, 26/30pt Untertitel: BMF Change Regular, 26/30pt Berlin-Rot OC l 100M 1 90V I OK Schrift baut sich von unten nach oben auf.
+- Rahmenlinienstärke: 14 Punkt
+- Platz für Aktions- oder Kampagnenlogos
+- Farbspektrum (S. 21)
+- Schriften (S. 22/23) BMF Change Light BMF Change Light Italic BMF Change Regular BMF Change Regular Italic BMF Change Bold BMF Change Bold italic BMF Change Letter Regular BMF Change Letter Regular Italic BMF Change Letter Bold BMF Change Letter Bold Italic
+
+##### Digital Guidelines
+
+- Dateiformate Logo Format eps SenStadtUm_flach.eps* (CMYK) SenStadtUm_flach_schw.eps* (einfarbig schwarz) SenStadtUm_flach_negw.eps* (negativ weiss) SenStadtUm_hoch.eps* (CMYK) SenStadtUm_hoch_schw.eps* (einfarbig schwarz) SenStadtUm_hoch_negw.eps* (negativ weiss) – Verlustfrei skalierbares Dateiformat auf Vektorbasis – Anwendung in professionellen Grafikprogrammen (z.B. Adobe InDesign, Adobe Illustrator, QuarkXPress) und Ausgabegeräten auf Basis von PDF bzw. PostScript. – mit Hilfe von Photoshop oder einem anderen Bildbearbeitungsprogramm können GIF-Dateien in der jeweils benötigten Größe erstellt werden. – Die EPS-Daten liegen im Farbraum CMYK, einfarbig schwarz und in negativ weiss vor. jpg SenStadtUm_flach_cmyk.jpg* (CMYK) SenStadtUm_flach_rgb.jpg* (RGB) SenStadtUm_hoch_cmyk.jpg* (CMYK) SenStadtUm_hoch_rgb.jpg* (RGB) – Pixelbasiertes und daher nicht verlustfrei skalierbares Dateiformat – Anwendung in Office­Programmen, vor allem für Bildschirmpräsentationen. Zum Einbinden in MS Office sollte „Einfügen“ > „Grafik“ (oder „Bild“) > „Aus Datei ...“ gewählt werden. – Die JPEG-Daten liegen in den Farbräumen RGB und CMYK vor. gif SenStadtUm_flach_negw.gif* (negativ weiss) SenStadtUm_flach_schw.gif* (einfarbig schwarz) SenStadtUm_flach_negw.gif* (negativ weiss) SenStadtUm_flach_schw.gif* (einfarbig schwarz) – Pixelbasiertes und daher nicht verlustfrei skalierbares Dateiformat – Die Logos sind transparent und können auf einer Abbildung oder auf einer farbigen Fläche platziert werden. – Die gif-Daten liegen in negativ weiss und einfarbig schwarz vor. wmf SenStadtUm_flach.wmf * SenStadtUm_hoch.wmf * – Verlustfrei skalierbares Dateiformat auf Vektorbasis – Anwendung in Office­Programmen. Geeignet für den Druck auf Bürodruckern und zur Erstellung von Ansichts-PDF-Dateien.
+- PowerPoint/Titel-und Folienmaster Bildschirmpräsentation im 4:3 Querformat Es wird empfohlen, die PPT-Masterdatei im Regelfall zu verwenden. Masterdatei PPT: ,,SE N_Master_Ofhce2003.ppt" ,,SE N_Master_Office2007.potx" „SEN_Ofhce_Design.thmx" (Designdatei für Office 2007)
+
+##### Accessibility Guidelines
+
+- Templates, die für die Erstellung von barriere­freien PDF-Dateien geeignet sind, die ins Internet gestellt werden können, sind als solche gekennzeichnet.
+- Für die Erstellung barrierefreier PDF­Dateien geeignet. Bitte beachten Sie: es ist nötig, die aus den Templates generierten PDF­Dateien in Adobe Acrobat nachzubearbeiten, um die Anforderungen in Bezug auf Barrierefreiheit zu erfüllen.
 
 ## Additional Properties
 

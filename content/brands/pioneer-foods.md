@@ -2,11 +2,11 @@
 title: Pioneer Foods
 slug: "pioneer-foods"
 description: ""
-date: "2026-03-20T08:22:04.924463"
+date: "2026-04-10T09:40:33.695402"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - "south-africa"
 years:
@@ -48,16 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - secondary
-brand_colors:
-  - "pantone-129"
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: South African food company
 wikidata_url: "https://www.wikidata.org/wiki/Q7196687"
 has_twitter: false
@@ -75,56 +69,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- Full-color corporate signature combining the flag logo and Pioneer corporate logotype.
-- Single-color variation of the corporate signature is mentioned, requiring consistent application.
-- Black and white variant of the corporate signature.
-- Rules on incorrect use of the corporate identity are outlined along with examples.
-- Full-color corporate signature combining the flag logo and Pioneer corporate logotype.
-- Two-color version of the corporate signature using Pantone 129 C and 100% Black.
-- Single-color variation of the corporate signature is mentioned, requiring consistent application.
-- Black and white variant of the corporate signature.
-- Rules on incorrect use of the corporate identity are outlined along with examples.
-- Single-color variation of the corporate signature is mentioned, requiring consistent application.
-
-**Color Information:**
-
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: pantone mentioned for corporate use.
-- Pantone color: pantone mentioned for corporate use.
-- Pantone color: pantone mentioned for corporate use.
-- Pantone color: pantone mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-- Pantone color: PANTONE mentioned for corporate use.
-
-**Typography Information:**
-
-- Corporate and secondary typefaces mentioned for use in various applications.
-- Corporate and secondary typefaces mentioned for use in various applications.
-- Corporate and secondary typefaces mentioned for use in various applications.
-
-**Imagery Photography:**
-
-- Guidelines for image and photography style are present but specific descriptions need further exploration.
-- Guidelines for image and photography style are present but specific descriptions need further exploration.
-- Guidelines for image and photography style are present but specific descriptions need further exploration.
-- Guidelines for image and photography style are present but specific descriptions need further exploration.
-- Guidelines for image and photography style are present but specific descriptions need further exploration.
-
-**Brand Voice:**
-
-- Hints at a clear and consistent tone of voice for ensuring alignment with Pioneer corporate identity.
-
-**Notes:**
-
-- This manual provides guidelines and details on corporate identity usage, approvals, and reproduction standards.
-- This manual provides guidelines and details on corporate identity usage, approvals, and reproduction standards.
+*Guidelines data not available*
 
 ## Additional Properties
 

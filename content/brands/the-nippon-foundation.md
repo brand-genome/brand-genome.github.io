@@ -2,7 +2,7 @@
 title: The Nippon Foundation
 slug: "the-nippon-foundation"
 description: ""
-date: "2026-03-20T08:22:05.044190"
+date: "2026-04-10T09:40:33.808209"
 draft: false
 sectors:
   - ngo
@@ -50,17 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - green
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - portrait
-  - landscape
+imagery_styles: []
 wikidata_description: "Japanese non-profit organization"
 wikidata_url: "https://www.wikidata.org/wiki/Q911978"
 has_twitter: false
@@ -79,31 +72,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- The Nippon Foundation logo uses a 'share mark' along with the Foundation's name in English and Japanese to symbolize 'a society where all people support one another.' The logo design opens outward, representing a future that is inclusive of all people. The green color expresses affection, empathy, aspiration, and peace.
-- Logo color specifications—PANTONE: 355C, DIC: 2560 (2nd edition), CMYK: C:90 M:0 Y:100 K:0, HEX: #00AA3C, RGB: R:0 G:170 B:60.
-- Logo variants include grant recipient designation versions (portrait and landscape) and a website-use logo with a slogan.
-- Clear space rules—Maintain a margin of '4A' around the logo to ensure visual clarity. No other design elements, letters, or characters can be placed within this margin.
-- Minimum margin requirements when pairing Nippon Foundation's logo with another logo—must maintain a margin of at least one-half the height of the logo ('1/2 A'). Logos should ideally be displayed in different locations; side-by-side placement should be avoided unless necessary.
-- Incorrect usage examples—Changing font, spacing, proportions, character thickness, or applying rotation, gradation, outlined lettering, boldface, horizontal/vertical elongation, and tightened/widened spacing are prohibited. Colors must not be altered.
-- Logo usage restrictions against printing on photographs, dark backgrounds, or colored backgrounds unless less than 10% halftone consistency.
-- White margin rule—Maintain the designated white margin when displaying the logo on photographs or dark backgrounds.
-
-**Color Information:**
-
-- Primary brand color—PANTONE: 355C, DIC: 2560 (2nd edition), CMYK: C:90 M:0 Y:100 K:0, HEX: #00AA3C, RGB: R:0 G:170 B:60.
-
-**Spacing Layout:**
-
-- Logo margin—Required spacing is '4A' around the logo, ensuring a clear area without external design interference.
-- Spacing between Nippon Foundation's logo and another logo—Minimum margin of '1/2 A' of the logo height when side-by-side placement is necessary.
-
-**Notes:**
-
-- The Nippon Foundation's logo concept emphasizes inclusivity and visual representation of a harmonious society.
-- Logo color specifications focus on conveying affection, empathy, aspiration, and peace through green color tones.
-- Logo usage rules and incorrect examples span multiple pages—highlighting strict standards for maintaining design consistency.
+*Guidelines data not available*
 
 ## Additional Properties
 

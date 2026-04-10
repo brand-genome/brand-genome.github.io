@@ -2,7 +2,7 @@
 title: Banca Etica
 slug: "banca-etica"
 description: ""
-date: "2026-03-20T08:22:04.159939"
+date: "2026-04-10T09:40:32.478991"
 draft: false
 sectors:
   - finance
@@ -50,13 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
+logo_elements: []
 brand_colors: []
-typographies:
-  - arial
-imagery_styles:
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: cooperative
 wikidata_url: "https://www.wikidata.org/wiki/Q1152702"
 has_twitter: false
@@ -76,28 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo consists of a pictogram representing initials 'B' and 'E' and a logotype. There are generic and specific versions for GIT.
-- Logo consists of a pictogram representing initials 'B' and 'E' and a logotype. There are generic and specific versions for GIT.
-- Primary logo is in full color (A), with monochromatic variations (B) and a reversed version on dark background (C).
-
-**Typography Information:**
-
-- Fonts for materials include Barlow Condensed (titles), Arial Narrow (texts), and Arial as alternative.
-
-**Imagery Photography:**
-
-- Photography must be limited in quantity and size, with high brightness and positivity, representing Banca Etica's activities rather than generic stock imagery.
-
-**Brand Voice:**
-
-- The brand voice emphasizes transparency, participation, simplicity, and responsible use of language, aligning with Banca Etica's mission of ethical finance.
-
-**Notes:**
-
-- Logos can be used on photographic backgrounds, ensuring suitable contrasts and adding contrast layers when necessary.
-- Templates for customizable posters and handbills are provided in vector and PPT formats for consistent branding.
+*Guidelines data not available*
 
 ## Additional Properties
 

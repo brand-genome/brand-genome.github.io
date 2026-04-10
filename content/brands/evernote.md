@@ -2,7 +2,7 @@
 title: Evernote
 slug: evernote
 description: ""
-date: "2026-03-20T08:22:03.830541"
+date: "2026-04-10T09:40:31.460551"
 draft: false
 sectors:
   - software
@@ -57,9 +57,9 @@ imagery_styles: []
 wikidata_description: "note-taking and task-management application developed by the Evernote Corporation"
 wikidata_url: "https://www.wikidata.org/wiki/Q430526"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,12 +72,6 @@ visual_term_image_urls: {}
 - [https://evernote.com/about-us](https://evernote.com/about-us)
 - [https://help.evernote.com](https://help.evernote.com)
 - [http://www.evernote.com/about-us](http://www.evernote.com/about-us)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

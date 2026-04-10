@@ -2,7 +2,7 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-03-20T08:22:05.720305"
+date: "2026-04-10T09:40:34.675054"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -50,37 +50,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - "pantone-376"
-  - white
-  - purple
-  - cyan
-  - blue
-  - yellow
-  - gray
-  - "pantone-151"
-  - "pantone-116"
-  - orange
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - graphic
-  - bold
-  - natural
-  - subtle
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: former telecommunications software service
 wikidata_url: "https://www.wikidata.org/wiki/Q40984"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -99,51 +78,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2005
-
-*Guidelines data not available*
-
 ### 2007
 
-**Logo Information:**
-
-- The Skype logo should appear with the strapline wherever possible and is available in multiple formats to suit usage.
-- Safe zone: The strapline always sits the height or the width of a cap ‘X’ for consistency throughout.
-- Do's and Don'ts for Logo Usage: Always leave space around the logo, use neutral or white backgrounds, prefer Skype Blue when necessary, and avoid colors or embellishments that deviate from guidelines.
-- Incorrect usages of the logo include placing it on cluttered or overly light backgrounds, using embellishments such as drop shadows, rotating the logo, or recreating it.
-
-**Color Information:**
-
-- Primary Color: Skype Blue (Pantone Pro Cyan C, CMYK 100/0/0/0, RGB 0/175/240, HEX #00AFF0).
-- Primary Text Color: Cool Gray 9 C (CMYK 0/0/0/60, RGB 130/130/130, HEX #666666).
-- Secondary Colors: Skype Yellow (Pantone 116 C), Green (Pantone 376 C), Orange (Pantone 151 C), Purple (Pantone 25X C).
-- Rainbows incorporate specific corporate colors sourced from secondary color coding (Yellow Set, Green Set, Orange Set, Purple Set).
-
-**Typography Information:**
-
-- Print Typeface: Chaletbook (a simple font good for headlines and body text), with adjustments required for kerning depending on size.
-- Online Typeface (PC): Arial Bold for headlines (20-30px, HEX #000000) and Tahoma for body text (12px, HEX #666666).
-- Online Typeface (Mac): Helvetica Bold for headlines (20-30px, HEX #000000) and Lucida Grande for body copy (12px, HEX #666666).
-
-**Imagery Photography:**
-
-- Photography guidelines: Images should focus on warmth, reality, and capturing mid-conversation moments. They must not use filters or treatments like posterization or cross-processing.
-- Photography considerations include featuring multiple engaged individuals on location and looking approachable.
-
-**Spacing Layout:**
-
-- Ensure proper placement of clouds and rainbows for a clear and balanced layout, avoiding clutter.
-- Text copy must always sit on a cloud when photography is used in the background.
-
-**Brand Voice:**
-
-- Skype’s tone is vibrant, warm, friendly, and natural, targeting students, families, and businesses with specific considerations.
-
-**Notes:**
-
-- Illustrations accompanying visuals should be appropriate for the audience and not excessive.
-- All material, including photography, must be submitted to Skype for approval prior to publication.
-- Skype Pro features slight variations from the main identity, emphasizing professionalism through subtle graphic style distinctions.
+*Guidelines data not available*
 
 ## Additional Properties
 

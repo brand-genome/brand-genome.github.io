@@ -2,12 +2,12 @@
 title: Vizrt
 slug: vizrt
 description: ""
-date: "2026-03-20T08:22:03.375799"
+date: "2026-04-10T09:40:30.901894"
 draft: false
 sectors:
+  - software
   - broadcasting
   - networking
-  - software
 regions:
   - norway
 years:
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: Norwegian digital media software company
 wikidata_url: "https://www.wikidata.org/wiki/Q7938030"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -72,12 +72,6 @@ visual_term_image_urls: {}
 - [https://www.vizrt.com/home](https://www.vizrt.com/home)
 - [https://www.newtek.com](https://www.newtek.com)
 - [http://www.vizrt.com](http://www.vizrt.com)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

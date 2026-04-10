@@ -2,11 +2,11 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-03-20T08:22:04.215021"
+date: "2026-04-10T09:40:32.599527"
 draft: false
 sectors:
-  - utilities
   - "consumer-goods"
+  - utilities
 regions:
   - "united-kingdom"
 years:
@@ -47,20 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - icon
-  - horizontal
-brand_colors:
-  - red
-  - green
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - clean
-  - graphic
-  - photography
+imagery_styles: []
 wikidata_description: "Mutant-hunting robot in Marvel Comics"
 wikidata_url: "https://www.wikidata.org/wiki/Q782181"
 has_twitter: false
@@ -79,31 +69,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Introduction of Clean Protect Maintain (CPM) icons and their usage, including flexibility of graphic layouts: complete device, without title, no links, vertical, horizontal with links, descriptor, descriptor with no heading.
-- Clear space / exclusion zone rules for Clean Protect Maintain (CPM) device, enforced by an exclusion zone based on '1X' icon depth.
-
-**Color Information:**
-
-- Sentinel branding uses core colors tied to specific systems: Sentinel Red (Central Heating Systems), Sentinel Blue (Hot Water Systems), Sentinel Green (Renewable Systems).
-
-**Imagery Photography:**
-
-- Product materials include color-coded visual devices and icons. Photography style involves both color and grayscale imagery depending on context. Problem-focused informational material often uses grayscale treatment to depict issues, accompanied by highlighted graphical solutions.
-
-**Spacing Layout:**
-
-- Layouts are based on the 'X-depth,' where 'X' is the height of the letter 'E' in the Sentinel logo. Guideline requires consistent application across materials to ensure branding coherence.
-- Grid system for layouts divides space into thirds, with sub-measurements dividing sections further for flexible yet consistent designs.
-
-**Brand Voice:**
-
-- Voice emphasizes trustworthiness, industry leadership, and simplicity in offering best-practice solutions for system care and water treatment.
-
-**Notes:**
-
-- The guide emphasizes flexibility while adhering to core branding rules. Examples are scattered throughout sections for corporate and product-focused collateral, exhibition stands, and website representations.
+*Guidelines data not available*
 
 ## Additional Properties
 

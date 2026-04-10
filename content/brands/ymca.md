@@ -2,17 +2,17 @@
 title: YMCA
 slug: ymca
 description: ""
-date: "2026-03-20T08:22:04.242887"
+date: "2026-04-10T09:40:32.816214"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
   - fitness
 regions:
   - usa
 years:
-  - 2012
   - 2017
+  - 2012
 languages:
   - english
 tags:
@@ -54,14 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
-typographies:
-  - verdana
-imagery_styles:
-  - gradient
+typographies: []
+imagery_styles: []
 wikidata_description: worldwide organization
 wikidata_url: "https://www.wikidata.org/wiki/Q157169"
 has_twitter: false
@@ -80,133 +76,11 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Mentions standards for the limited use of a 'Heritage Logo'. Refers to the 'Camp Heritage Logo', but does not clarify further details on this page.
-- Specifies 'Camp Heritage Logo' with sizing examples, including sizes of 60%, 50%, 40%, and 100%. Additional representation of size comparison without placement details.
-- Application describes the 'Logo train' featuring American Camp Association (ACA) and Heritage Logo, with size recommendations of 40–60%.
-- Logo-related guidelines describe the allowance of adding generic terms under the logo, but only if double the minimum clear space is used. The 'Camp Heritage Logo' should be sized between 40–60%.
-- Heritage logo guidelines apply to post-2015, specifying usage only for alumni and donor communications. Refers back to Page 9 for usage clarifications.
-- Mentions placement and sizing of 'Camp Heritage Logo' on apparel, specifically showing the logo at 40–60% size for sleeve placement.
+*Guidelines data not available*
 
 ### 2017
 
-**Logo Information:**
-
-- ACCEPTABLE LOGO VERSIONS
-- PROPER USE OF HISTORICAL LOGOS
-- CLEAR SPACE AND MINIMUM SIZE
-- CLEAR SPACE AND MINIMUM SIZE
-- Logo variation
-- The Y has a master brand strategy that mandates the use of a single, stand-alone logo. Additional logos or marks cannot be created.
-- ACCEPTABLE LOGO VERSIONS
-- ﬁtheﬂ in the logo.
-- CLEAR SPACE AND MINIMUM SIZE
-- CLEAR SPACE
-- Clear space
-- MINIMUM SIZE
-- Minimum size
-- Do not use the areas of focus without the logo
-- in the selected Y logo.
-- APPLYING COLOR BEYOND THE LOGO
-- USE THE Y LOGO WITH THE AREAS OF FOCUS
-- PROPER USE OF HISTORICAL LOGOS
-- Logo Here
-
-**Color Information:**
-
-- COLOR USAGE
-- Color palette
-- FULL-COLOR CMYK/RGB
-- Full-color CMYK/RGB
-- 2-COLOR PMS:
-- 2-color PMS
-- FULL-COLOR CMYK/RGB
-- Full-color CMYK/RGB
-- the color, removing, adding or changing area of focus wording,
-- COLOR COMBINATIONS
-- The areas of focus must match the color of the word ‚the™
-- Full-color
-- 2-Color
-- COLOR USAGE
-- use only the colors that we’ve chosen as part of our brand.
-- EXPLANATION OF COLOR
-- APPLYING COLOR BEYOND THE LOGO
-- APPLYING COLOR BEYOND THE LOGO
-- PANTONE
-- Primary font
-- APPLYING COLOR TO BENEFIT STATEMENTS
-- Full-color (gradient) CMYK/RGB
-- Full-color (gradient) CMYK/RGB
-
-**Typography Information:**
-
-- FONT
-- AREAS OF FOCUS USAGE
-- COLOR USAGE
-- Font
-- AREAS OF FOCUS USAGE
-- Horizontal relationship (preferred usage)
-- AREAS OF FOCUS USAGE (CON’T)
-- COLOR USAGE
-- FONT
-- Cachet and Verdana are the only two fonts ever to be used for YMCA collateral.
-- ELECTRONIC / SYSTEM FONT–VERDANA
-- Primary font
-- Electronic / system font
-- FONT FAMILY
-- FONT SIZE
-- FONT STYLE
-- Acceptable usage
-- Unacceptable usage
-
-**Imagery Photography:**
-
-- IMAGERY
-- Imagery
-- FONT STYLE
-- IMAGERY
-- APPLY SUPPORTING IMAGERY
-
-**Spacing Layout:**
-
-- CREATING YOUR LAYOUT
-- SAMPLE LAYOUT IDEAS
-- CREATING YOUR LAYOUT
-
-**Brand Voice:**
-
-- OUR VOICE
-- BRAND PROMISE = CAUSE
-- The brand promise is not a tagline
-- PANTONE
-
-**Notes:**
-
-- General observations from page 1.
-- General observations from page 2.
-- General observations from page 3.
-- General observations from page 4.
-- General observations from page 5.
-- General observations from page 6.
-- General observations from page 7.
-- General observations from page 8.
-- General observations from page 9.
-- General observations from page 10.
-- General observations from page 11.
-- General observations from page 12.
-- General observations from page 13.
-- General observations from page 14.
-- General observations from page 15.
-- General observations from page 16.
-- General observations from page 17.
-- General observations from page 18.
-- General observations from page 19.
-- General observations from page 20.
-- General observations from page 21.
-- General observations from page 22.
-- General observations from page 23.
-- General observations from page 24.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-03-20T08:22:05.716903"
+date: "2026-04-10T09:40:34.670338"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -51,14 +51,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - impact
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: Brazilian civil engineering firm
 wikidata_url: "https://www.wikidata.org/wiki/Q179597"
@@ -81,38 +76,7 @@ visual_term_image_urls: {}
 
 ### 2013
 
-**Logo Information:**
-
-- Basic elements of logos include typographic structures and defined rules for creating logos for companies within the Odebrecht organization.
-- Examples of incorrect logo construction include misaligned descriptions, reduced box height, incorrect alignment, and absence of the white stroke.
-- Maximum size reduction specifications for digital and print formats. Width cannot be smaller than 29mm, 27mm, or 25mm for box sizes in print, and 155, 144, and 133 pixels respectively for digital.
-- Black and white positive logo version guidelines: white logos on black boxes. Black logos on white backgrounds are not allowed.
-
-**Color Information:**
-
-- Colors for logos must contrast with the Odebrecht red, or use a white outline secondary version if placed against a red tone or low contrast background.
-
-**Typography Information:**
-
-- Specific typographic rules for the Odebrecht Alphabet: it must be exclusively used for company logos and not for any text purposes.
-
-**Spacing Layout:**
-
-- Defined proportions for boxes. Box alignment rules for company logo and description are outlined.
-- Rules for space: white strokes and spacing must be maintained between logo elements and around logo boxes.
-- Guidelines allow logo application within expanded red areas, maintaining safe area rules.
-
-**Brand Voice:**
-
-- General tone of voice is defined as inspirational, achieving, expert, and approachable to maintain a consistent communication style.
-- Inspirational tone directive: Communicate the transformative role and visionary aspect of the organization by embedding examples in texts and reflecting TEO philosophy.
-- Achieving tone directive: Write with clarity, conviction, and outline the benefits of the organization's efforts. Narratives should have a clear structure while focusing on the impact.
-- Expert tone directive: Provide specific details about the organization's specializations, avoiding generalizations, and strengthening credibility through practical examples.
-- Approachable tone directive: Use inclusive, conversational language to connect with people. Respect cultural nuances and include local community languages when possible.
-
-**Notes:**
-
-- The document provides comprehensive logo, typography, color, and tone of voice usage guidelines. Visual identity examples like business cards and email signatures are expected to be present.
+*Guidelines data not available*
 
 ## Additional Properties
 

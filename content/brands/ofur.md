@@ -2,7 +2,7 @@
 title: Ofur
 slug: ofur
 description: ""
-date: "2026-03-20T08:22:03.254024"
+date: "2026-04-10T09:40:30.766751"
 draft: false
 sectors:
   - fashion
@@ -50,25 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - black
-  - green
-  - white
-  - magenta
-typographies:
-  - "open-sans"
-  - montserrat
-imagery_styles:
-  - product
-  - bold
-  - dynamic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: "https://www.wikidata.org/wiki/Q11262379"
 has_twitter: false
@@ -88,46 +73,7 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
-
-- Various logo versions available, including Horizontal, Vertical, Primary color, Secondary color, Black and White, single colors, and typography & symbol combinations.
-- Clear space rules specified using 'M' unit around the logo to retain visual integrity.
-- Prohibited usages include: no rotation, no distortion (warp, skew, stretch), ensuring consistent application.
-- Specific clothing-based logo option designed exclusively for large prints, available as an extra addition.
-
-**Color Information:**
-
-- Primary colors detailed - Black, Magenta, White, and Green. HEX codes and opacity variations (0% to 100%) are provided for flexible applications.
-- HEX codes provided for Black (#HEX), Magenta (#HEX), White (#HEX), and Green (#HEX).
-- Opacity levels range from 0% to 100% to create nuanced and dynamic compositions.
-
-**Typography Information:**
-
-- Custom typography based on the symbol grid ensures visual consistency and alignment.
-- Stencil typography option available for cases where the middle part of the 'O' may be omitted, e.g., during physical applications like cutting.
-- Font selection includes Montserrat (Black for headers) and Open Sans (Bold for subheaders, Regular for body text).
-- Approximate font sizes: Headers 24pt with 28.8pt leading; Body text 12pt or 14pt with 14.4pt to 16.8pt leading.
-
-**Imagery Photography:**
-
-- Practical examples provided for logo applications on clothing items, including embroidery, neck labels, hem tags, and neck prints.
-- Focus on versatility and adaptability of logo elements for applications such as product photography.
-
-**Spacing Layout:**
-
-- Complex grid structure derived from symbol design, creating cohesive elements for visual language.
-- Examples include grid-based patterns for buttons and website designs, ensuring consistency across components.
-
-**Brand Voice:**
-
-- Key descriptor: 'OVERCOME ALL, RISE BEYOND' – encapsulates brand values of resilience, growth, and triumph over adversity.
-- Closing emphasizes uniformity and coherence of brand identity, serving as a trend-setting symbol of strength.
-
-**Notes:**
-
-- Opening section sets the tone by illustrating the brand's ethos and metaphor of rising sun symbolizing resilience.
-- Contents page provides a clear overview of sections: The Symbol, Full Logo, Brand Colors, Typography, Stationary, and Graphics.
-- Final page reiterates brand message of strength and resilience using the tagline 'Overcome All, Rise Beyond'.
+*Guidelines data not available*
 
 ## Additional Properties
 

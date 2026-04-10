@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-03-20T08:22:04.334101"
+date: "2026-04-10T09:40:33.041917"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - israel
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - software
+  - security
 industries:
   - "computer-security-software"
 countries:
@@ -55,27 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - horizontal
-  - alternate
-  - primary
-  - icon
-brand_colors:
-  - gray
-  - white
-  - pink
-  - black
-typographies:
-  - arial
-  - display
-  - din
-imagery_styles:
-  - dynamic
-  - professional
-  - bold
-  - photography
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Israeli security company
 wikidata_url: "https://www.wikidata.org/wiki/Q176587"
 has_twitter: false
@@ -93,40 +76,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- The Check Point logo has versions with black text (for light backgrounds) and white text (for dark backgrounds). Alternate versions include black-and-white line art logos, suitable for print when Pantone colors or a four-color process is not an option.
-- The Check Point color logo should never have its color changed. The logotype color should only be black or white, and the logo icon colors must use the approved Pantone (PMS) colors or their equivalents in CMYK, RGB, or Hex for digital or print usage.
-- The minimum allowable size for the horizontal format of the logo is 1.33 inches wide.
-- Clear space around the logo must be equal to the full height of the logo icon.
-- Logo Usage Rules: Do not alter logo proportions, enclose it in a box or shape, replace graphical elements, place it on busy backgrounds, substitute colors, or use unapproved typefaces. Use artwork from the Check Point Image Library.
-
-**Color Information:**
-
-- Brand colors: Primary colors are Pink (Pantone 214C), Boysenberry (Pantone 228C), and Dark Gray (Cool Gray 11C). The secondary palette includes accent colors such as Pantone 485C, Pantone 165C, Pantone 123C, Pantone 2766C, Pantone 2985C, and Pantone 382C. Spot colors are provided for special applications.
-- Primary colors play a vital role in the brand identity and should be used consistently. Secondary colors must not take up more than 20% of the layout and are meant for visual differentiation within infographics, charts, and digital materials.
-- Specific color codes (CMYK, RGB, HEX, Pantone) for primary and accent colors are provided for accurate reproduction in print and digital formats.
-
-**Typography Information:**
-
-- Primary typeface: DIN Pro in Light, Regular, and Bold weights. Preferably use DIN Pro Light for general communications, and Regular or Bold for display situations or emphasis.
-- Preferred usage: Headline text in uppercase. Titles and headings should use upper and lowercase, while body text and headlines should be left-aligned.
-- System font: Arial, used only for PowerPoint presentations and written communications when DIN Pro is not feasible.
-- Font examples for DIN Pro Light, Regular, and Bold: Uppercase, lowercase, and numerical examples are shown.
-
-**Imagery Photography:**
-
-- Photography should focus on everyday situations with contemporary people. Color schemes should take cues from the photographs.
-- Examples of photography use are provided with a focus on dynamic and professional imagery.
-
-**Spacing Layout:**
-
-- Mandatory clear space around the corporate logo must be equal to the full logo icon height in all directions. No illustrations, photography, or text should enter the clear space area.
-
-**Notes:**
-
-- Brand identity inquiries can be directed to brand-request@checkpoint.com.
-- Examples of the design system are shown in various applications: brochures, PowerPoints, videos, and website designs.
+*Guidelines data not available*
 
 ## Additional Properties
 

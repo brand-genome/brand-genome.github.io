@@ -2,7 +2,7 @@
 title: Budweiser
 slug: budweiser
 description: ""
-date: "2026-03-20T08:22:04.072176"
+date: "2026-04-10T09:40:32.115229"
 draft: false
 sectors:
   - drink
@@ -42,8 +42,8 @@ foundation_dates:
   - 1895
   - 1967
 foundation_year_buckets:
-  - 1960S
   - "19TH-CENTURY"
+  - 1960S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,9 +68,9 @@ imagery_styles: []
 wikidata_description: "brewery in České Budějovice, Czechia"
 wikidata_url: "https://www.wikidata.org/wiki/Q1001644"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -79,12 +79,6 @@ visual_term_image_urls: {}
 - [https://www.budweiser.com](https://www.budweiser.com)
 - [https://www.budejovickybudvar.cz](https://www.budejovickybudvar.cz)
 - [http://www.budvar.cz](http://www.budvar.cz)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

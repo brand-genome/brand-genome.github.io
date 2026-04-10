@@ -2,7 +2,7 @@
 title: Aflac
 slug: aflac
 description: ""
-date: "2026-03-20T08:22:03.386046"
+date: "2026-04-10T09:40:30.936276"
 draft: false
 sectors:
   - insurance
@@ -33,8 +33,8 @@ foundation_dates:
   - 2017
   - 1974
 foundation_year_buckets:
-  - 1970S
   - 2010S
+  - 1970S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,7 +75,21 @@ visual_term_image_urls: {}
 
 ### 2021
 
-*Guidelines data not available*
+#### Brand Summary
+
+#### Categories
+
+##### Stationary
+
+- Stationary
+
+##### Marketing Collateral
+
+- Marketing Collateral
+
+##### Administrative
+
+- Adminstrative
 
 ## Additional Properties
 

@@ -2,15 +2,15 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-03-20T08:22:03.867333"
+date: "2026-04-10T09:40:31.535326"
 draft: false
 sectors:
   - drink
 regions:
   - sweden
 years:
-  - 2009
   - 2013
+  - 2009
 languages:
   - english
 tags:
@@ -51,22 +51,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - black
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: Swedish brand of vodka
 wikidata_url: "https://www.wikidata.org/wiki/Q332378"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -78,32 +72,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2009
-
-*Guidelines data not available*
-
 ### 2013
 
-**Logo Information:**
-
-- The Absolut logo is a carefully crafted wordmark with the addition of a dot. The dot originates from the core design DNA of Absolut and adds integrity that distinguishes the wordmark as a unique logo. The logo serves as the global primary branding device and anchor for the rest of the brand identity. It is a bespoke design, legally protected, and should never be altered.
-- Prohibited usages of the Absolut logo include: applying effects to the logo, using a black logo against white backgrounds, placing a black logo on images or colored backgrounds, and placing a blue logo on full-bleed images.
-
-**Color Information:**
-
-- The Absolut color palette includes premium, bold, and classically Swedish colors. Absolut Blue serves as the brand accent color, paired with white, black, and greys to form the core color scheme.
-
-**Typography Information:**
-
-- The Absolut brand fonts include a custom-made family that is ownable and unique. These fonts prioritize clarity, readability, and visual prominence while ensuring impactful and premium branding.
-
-**Imagery Photography:**
-
-- Backdrop images are used alongside the logo to add dynamism and artistry. These images connect the brand to art, vodka clarity, the color blue, and high-energy millennial occasions.
-
-**Notes:**
-
-- For further information, contact the local Brand Development representative. Key contacts include Mathias Westphal (Global Brand Director) and Anna Kamjou (Global Director Design Strategy).
+*Guidelines data not available*
 
 ## Additional Properties
 

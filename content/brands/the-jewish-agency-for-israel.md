@@ -2,7 +2,7 @@
 title: The Jewish Agency for Israel
 slug: "the-jewish-agency-for-israel"
 description: ""
-date: "2026-03-20T08:22:04.521036"
+date: "2026-04-10T09:40:33.303379"
 draft: false
 sectors:
   - ngo
@@ -46,11 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-brand_colors:
-  - white
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,34 +67,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The logo and tagline are elements of the brand identity, mentioned as critical assets that must be consistent across materials.
-- The Jewish Agency logo must have 1/2X of empty space around its outer limits, where X is defined as the full height of the icon.
-- Proper logo usage includes appearing in color on a white/light background for optimal contrast and visibility. In some cases, a white version can be used on dark backgrounds.
-
-**Color Information:**
-
-- Colors are part of the graphical language applied to represent the Jewish Agency brand.
-
-**Typography Information:**
-
-- Typography is included under 'Typography, colors, and graphics' section in the table of contents and is important to brand consistency.
-- Specific guidelines for headlines include using proper grammar and contraction usage where applicable, ensuring accessibility and humanity in tone.
-
-**Imagery Photography:**
-
-- Imagery rules include using patterns selectively with specific opacity and clipping requirements for optimal visual appeal.
-
-**Spacing Layout:**
-
-- Spacing requirements for logos include alignment with X (icon height) and Y (space between icon and wordmark), maintaining consistent proportions with a 1/2X rule.
-
-**Brand Voice:**
-
-- The brand voice is emphasized as informative, intelligent, honest, emotional, and inspiring, capturing The Jewish Agency's mission in messaging and headlines.
-
-**Notes:**
-
-- All Jewish Agency communication materials must be checked and approved by the marketing department to ensure compliance with brand rules.
-- Additional recommendations for communication include staying consistent with messaging that reflects organizational values and goals.
+*Guidelines data not available*

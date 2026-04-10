@@ -2,7 +2,7 @@
 title: Xavier University of Louisiana
 slug: "xavier-university-of-louisiana"
 description: ""
-date: "2026-03-20T08:22:05.744905"
+date: "2026-04-10T09:40:34.722068"
 draft: false
 sectors:
   - education
@@ -57,9 +57,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
-  - photography
+imagery_styles: []
 wikidata_description: Catholic university in the U.S state of Louisiana
 wikidata_url: "https://www.wikidata.org/wiki/Q390087"
 has_twitter: false
@@ -78,14 +76,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Brand Voice:**
-
-- Introduction mentions that Xavier University strives to compete with top universities by leveraging its strong rankings and reputation. The branding serves as visual representation of the institution's soul, spirit, character, and core values. Consistency in branding is highlighted as critical for strengthening the university's identity.
-
-**Notes:**
-
-- The document is a brand guideline for Xavier University. It includes various sections such as official logos, colors, typography, photography, campaign details, graphic elements, applications in apparel and media, swag, spirit uniforms, and campus signage, as listed in the Table of Contents.
-- Contact person for further branding guideline queries is Richard Tucker (rtucker@xula.edu).
+*Guidelines data not available*
 
 ## Additional Properties
 

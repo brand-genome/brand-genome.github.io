@@ -2,11 +2,11 @@
 title: Pure Oil
 slug: "pure-oil"
 description: ""
-date: "2026-03-20T08:22:04.011700"
+date: "2026-04-10T09:40:31.983475"
 draft: false
 sectors:
-  - petroleum
   - "petrol-station"
+  - petroleum
 regions:
   - usa
 years:
@@ -34,14 +34,14 @@ headquarters_locations:
 subsidiaries: []
 foundation_dates:
   - 1902
+  - 1914
   - 1895
   - 1920
-  - 1914
 foundation_year_buckets:
-  - 1900S
-  - 1920S
   - "19TH-CENTURY"
   - 1910S
+  - 1900S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,9 +66,9 @@ imagery_styles: []
 wikidata_description: "U.S. brand of fuel retailers owned by Pure Oil Jobbers Cooperative, Inc."
 wikidata_url: "https://www.wikidata.org/wiki/Q7261117"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -76,12 +76,6 @@ visual_term_image_urls: {}
 
 - [https://besurewithpure.com](https://besurewithpure.com)
 - [http://www.besurewithpure.com](http://www.besurewithpure.com)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 
@@ -92,7 +86,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Chicago](/headquarters_locations/chicago/); [Pittsburgh](/headquarters_locations/pittsburgh/) |
-| Foundation Date | [1902](/foundation_dates/1902/); [1895](/foundation_dates/1895/); [1920](/foundation_dates/1920/); [1914](/foundation_dates/1914/) |
+| Foundation Date | [1902](/foundation_dates/1902/); [1914](/foundation_dates/1914/); [1895](/foundation_dates/1895/); [1920](/foundation_dates/1920/) |
 | Freebase Id | /m/05p2rm5 |
 | Inception | 1895-11-08, 1902, 1914, 1920 |
 | Headquarters Location | Pittsburgh, Chicago |

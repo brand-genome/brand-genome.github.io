@@ -2,7 +2,7 @@
 title: Girl Up
 slug: "girl-up"
 description: ""
-date: "2026-03-20T08:22:05.166439"
+date: "2026-04-10T09:40:34.018068"
 draft: false
 sectors:
   - ngo
@@ -51,27 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - symbol
-  - horizontal
-  - lockup
-  - primary
-brand_colors:
-  - green
-  - teal
-  - white
-  - purple
-  - blue
-  - yellow
-  - pink
-  - black
-typographies:
-  - "proxima-nova"
-imagery_styles:
-  - bold
-  - dynamic
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: NGO
 wikidata_url: "https://www.wikidata.org/wiki/Q87103917"
 has_twitter: false
@@ -92,45 +75,173 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
+#### Brand Summary
 
-- The logo refers to the Girl Up type treatment with dove hands. There is one approved primary logo for marketing materials and websites.
-- Logo lockup refers to the Girl Up type treatment with dove hands presented next to the United Nations Foundation logo.
-- Trademark, clear space, and minimum width requirements: The first use of the brand name must include a ® symbol. Minimum width for logo usage: 0.5 inches. For horizontal lockups, a minimum of 1.5 inches is required.
-- Full-color logos with Girl Up type in white can be used to achieve contrast against photography and colored backgrounds. A black-only logo is suggested for print scenarios without spot color or grayscale options. A reverse-color logo is to be used on dark or high-contrast backgrounds.
-- Improper usage: Logos must not be stretched, pinched, or distorted. Rearrangement of logo elements, additional elements, new colors, placement on conflicting or low-contrast backgrounds are forbidden.
+##### Mission
 
-**Color Information:**
+- Girl Up is a global movement of empowered young women leaders who defend gender equality and equal rights for every girl. Through leadership development training, Girl Up gives girls the resources and platform to start a movement for social change wherever they are [^1].
 
-- Primary Palette: Girl Up Pink (CMYK 9, 86, 0, 0; RGB 218, 74, 154; HEX #da4a9a) and Girl Up Blue (CMYK 71, 30, 6, 0; RGB 71, 148, 198; HEX #4794c6).
-- Secondary Palette: Girl Up Light Pink (CMYK 0, 26, 12, 0; RGB 250, 200, 200; HEX #fac8c8), Girl Up Teal (CMYK 62, 2, 24, 0; RGB 83, 191, 198; HEX #53bfc6), Girl Up Green (CMYK 64, 0, 59, 0; RGB 89, 191, 142; HEX #59bf8e), Girl Up Purple (CMYK 73, 91, 31, 18; RGB 91, 51, 103; HEX #5b3367), Girl Up Yellow (CMYK 5, 4, 81, 0; RGB 247, 228, 80; HEX #f7e450).
-- Usage rules: The primary palette applies to print pieces and select web applications, while the secondary palette supports it in both print and web pieces.
+##### Core Values
 
-**Typography Information:**
+- empowerment
+- leadership
+- gender equality
+- advocacy
+- community
+- diversity
+- social change
 
-- Proxima Nova Bold for headlines.
-- Gnuolane Bold for subheads and pull quotes.
-- Proxima Nova Regular for body copy.
+##### Target Audience
 
-**Imagery Photography:**
+- Girls and young women worldwide, especially those seeking leadership development and opportunities to advocate for gender equality [^2].
 
-- High-quality photos should focus on stories of real girls in developing countries, Girl Up-supported in-country projects, spokespeople, events, and activities. Avoid low-resolution, poorly lit photos, and extreme close-ups.
-- Good photo usage includes styles with one dominant subject in soft focus (bokeh) for storytelling, or group dynamic photos capturing energy and power.
-- Tinted photography can be used for promotional styles with uncompromising compositions. The photo is converted to black-and-white, then tinted with Girl Up Pink or Teal using multiply layers in Photoshop, paired with headlines in Proxima Nova Bold and Girl Up Yellow.
-- Bad examples: Dimly lit photos, cropped too tightly, or low-resolution imagery.
+##### Personality Traits
 
-**Spacing Layout:**
+- empowering
+- inclusive
+- bold
+- supportive
+- dynamic
+- uplifting
 
-- Clear space around the logo should equal the length of the lowercase 'u' in 'Girl Up.' Ensure minimum sizing guidelines (0.5 inches for standalone logos and 1.5 inches for horizontal lockups).
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity features bold, modern typography, vibrant colors (pink, blue, purple, teal, green, yellow), and imagery that emphasizes empowerment, diversity, and unity. The logo incorporates stylized hands and dove motifs, and photography is used to reinforce key messages and showcase real girls in action. The style is clean, minimalistic, and focuses on group dynamics and positive energy [^3].
 
-- Tone emphasizes leadership development, gender equality advocacy, and empowerment. Messaging highlights girls' power to drive social change and advance gender equality.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- The guidelines emphasize proper use of branding (colors, typography, photography) across all marketing assets, with specific brand consistency rules to avoid misuse.
-- Font purchasing links for Proxima Nova and Gnuolane are provided for compliance with typography rules.
+- Large, high-quality photos should be used as features to reinforce key messages or stories. For example, it is appropriate to use photos in print or on the web to illustrate: - Stories about real girls in developing countries
+- - In-country projects supported by Girl Up - Girl Up spokespeople - Girl Up events and activities - Real girl champions and fundraisers
+- PHOTOS TO AVOID - Small, low-resolution photos - Dark color overlays - Extreme close-ups
+- This style is about capturing the power and positive energy of all of us when we are together. This direction is less about style and more about the group dynamic.
+- This style focuses on one girl. There can be other people in the frame, but the focus is on one subject, with everything else in the frame falling into a soft focus (bokeh). Bokeh will give the images a simple air of sophistication and a focus on storytelling.
+- Avoid photos that are dimly lit, cropped too tightly, and/or are too low resolution for use.
+- This style should be used when a more promotional aesthetic is needed.
+- The color tint over a black-and-white photo creates a bold statement when paired with a headline.
+- -Uncomplicated compositions work best, but the technique can be used successfully with a broad range of images.
+- Photography should be converted to black and white. Girl Up Pink or Teal should be added to a layer in Photoshop using the multiply technique. Headlines should be set in Proxima Nova Bold all caps and use Girl Up Yellow.
+
+##### Color Palette
+
+- COLOR PRIMARY PALETTE The primary palette is the original Girl Up color palette and can be applied to print pieces and to select web pieces.
+- Girl Up Pink CMYK 9, 86, 0, O RGB 218, 74, 154 HEX #da4a9a
+- Girl Up Blue CMYK 71, 30, 6, 0 RGB 71, 148, 198 HEX #4794c6
+- Girl Up Purple CMYK 73, 91, 31, 18 RGB 91, 51, 103 HEX #5b3367
+- SECONDARY PALETTE Girl Up Brand Guidelines The secondary palette can be use to support the primary palette in print and web pieces.
+- Girl Up Light Pink CMYK 0, 26, 12, 0 RGB 250, 200, 200 HEX #fac8c8
+- Girl Up Teal CMYK 62, 2, 24, 0 RGB 83, 191, 198 HEX #53bfc6
+- Girl Up Green CMYK 64, 0, 59, 0 RGB 89, 191, 142 HEX #59bf8e
+- Girl Up Yellow CMYK 5, 4, 81, 0 RGB 247, 228, 80 HEX# f7e450
+- - Photography should be converted to black and white. Girl Up Pink or Teal should be added to a layer in Photoshop using the multiply technique.
+
+##### Typography
+
+- Proxima Nova Bold for headlines ABCDEFGHIJKLMNOPQRSTU VWXYZ1234567890
+- To purchase this font: https://www.myfonts.com/fonts/marksimonson/proxima-nova/webfont_preview.html
+- Gnuolane Bold for subheads and pull quotes AaBbCcDdEeFfGgHhliJjKkLIMmNnOo PpQqRrSsTtUuVvWwXxYyZz 1234567890
+- To purchase this font: https://www.myfonts.com/fonts/typodermic/gnuolane/
+- Proxima Nova Regular for body copy AaBbCcDdEeFfGgHhliJjKkLIMmNnOo PpQqRrSsTtUuVvWwXxYyZz 1234567890
+- Headlines should be set in Proxima Nova Bold all caps and use Girl Up Yellow.
+
+##### Logo Usage
+
+- The logo refers to the Girl Up type treatment and dove hands. There is one approved logo that may be used on any marketing materials as well as on the Girl Up website. For specific usages for each, please see the following pages of these guidelines.
+- The logo lockup refers to the Girl Up type treatment with dove hands presented next to the United Nations Foundation logo.
+- Please note that the first instance of the brand name in any given document should be accompanied by the TM symbol. The proper placement of this symbol is after the word "Up" as shown here: Girl Up."
+- In most cases, the mark should have the length of the "u" in Girl Up outlining the composite and mark.
+- Logos should not be sized under a half-inch wide.
+- Horizontal lockups should not be sized under one and a half inches.
+- The full-color logo can be used with Girl Up type in white to achieve the proper contrast with photography and color backgrounds.
+- The black-only version of the Girl Up master logo should be used for print scenarios where spot color and/or grayscale printing is not an option. In these cases, it is preferred that the logo be represented in black only.
+- The Girl Up "reverse" master logo is to be utilized with any dark color or high-contrast backgrounds. Please note that reverse logos can be used on all approved high-contrast backgrounds.
+- It is important not to improperly use the Girl Up logo. This section shows several examples of improper logo usage.
+- Do not stretch, pinch, or distort logo proportions in any way.
+- Do not reconfigure the arrangement of logo elements.
+- Do not add additional elements to the logo.
+- Do not introduce new colors into the logo.
+- Do not place the logo over conflicting backgrounds.
+- Do not place the logo over low-contrast backgrounds.
+
+##### Tone And Messaging
+
+- No matter their background, girls have the power to transform themselves, their communities, and the world around them. Girl Up is a global movement of empowered young women leaders who defend gender equality and equal rights for every girl. Through leadership development training, Girl Up gives girls the resources and platform to start a movement for social change wherever they are. And for those that stand with us in this movement, there is no rest. Because when girls rise, we all rise.
+- Girl Up was founded by the United Nations Foundation in 2010, and continues to work across a global community of partners to achieve gender equality worldwide.
+- Girl Up is a leadership development initiative that engages, trains, and mobilizes girls around the world to take action to achieve global gender equality.
+- Girl Up is a global leadership development initiative, positioning girls to be leaders in the movement for gender equality. With resources in five languages and 2,500 Girl Up Clubs in more than 100 countries, we've trained 40,000 girls of all backgrounds to create tangible change for girls everywhere.
+- Girl Up provides leadership training and gives girls tools to become gender equality advocates and activists. Through our programs, girls broaden their social impact skill set, benefit from a platform to tell their stories, and apply STEM for social good. Our girl leaders create real policy change at local and national levels, help raise millions of dollars to support United Nations programs that reach tens of thousands of girls around the world, and build community-based movements. Girl Up was founded by the United Nations Foundation in 2010, and continues to work across a global community of partners to achieve gender equality worldwide.
+
+##### Brand Values
+
+- No matter their background, girls have the power to transform themselves, their communities, and the world around them. Girl Up is a global movement of empowered young women leaders who defend gender equality and equal rights for every girl. Through leadership development training, Girl Up gives girls the resources and platform to start a movement for social change wherever they are. And for those that stand with us in this movement, there is no rest. Because when girls rise, we all rise.
+- Girl Up is a leadership development initiative that engages, trains, and mobilizes girls around the world to take action to achieve global gender equality.
+- Girl Up is a global leadership development initiative, positioning girls to be leaders in the movement for gender equality. With resources in five languages and 2,500 Girl Up Clubs in more than 100 countries, we've trained 40,000 girls of all backgrounds to create tangible change for girls everywhere.
+- Girl Up provides leadership training and gives girls tools to become gender equality advocates and activists. Through our programs, girls broaden their social impact skill set, benefit from a platform to tell their stories, and apply STEM for social good. Our girl leaders create real policy change at local and national levels, help raise millions of dollars to support United Nations programs that reach tens of thousands of girls around the world, and build community-based movements. Girl Up was founded by the United Nations Foundation in 2010, and continues to work across a global community of partners to achieve gender equality worldwide.
+
+##### Visual Style
+
+- There is one approved logo that may be used on any marketing materials as well as on the Girl Up website. For specific usages for each, please see the following pages of these guidelines.
+- The logo lockup refers to the Girl Up type treatment with dove hands presented next to the United Nations Foundation logo.
+- Please note that the first instance of the brand name in any given document should be accompanied by the TM symbol. The proper placement of this symbol is after the word "Up" as shown here: Girl Up."
+- In most cases, the mark should have the length of the "u" in Girl Up outlining the composite and mark.
+- Logos should not be sized under a half-inch wide.
+- Horizontal lockups should not be sized under one and a half inches.
+- The full-color logo can be used with Girl Up type in white to achieve the proper contrast with photography and color backgrounds.
+- The black-only version of the Girl Up master logo should be used for print scenarios where spot color and/or grayscale printing is not an option. In these cases, it is preferred that the logo be represented in black only.
+- The Girl Up "reverse" master logo is to be utilized with any dark color or high-contrast backgrounds. Please note that reverse logos can be used on all approved high-contrast backgrounds.
+- It is important not to improperly use the Girl Up logo. This section shows several examples of improper logo usage.
+- Do not stretch, pinch, or distort logo proportions in any way.
+- Do not reconfigure the arrangement of logo elements.
+- Do not add additional elements to the logo.
+- Do not introduce new colors into the logo.
+- Do not place the logo over conflicting backgrounds.
+- Do not place the logo over low-contrast backgrounds.
+- The primary palette is the original Girl Up color palette and can be applied to print pieces and to select web pieces.
+- Girl Up Pink CMYK 9, 86, 0, O RGB 218, 74, 154 HEX #da4a9a
+- Girl Up Blue CMYK 71, 30, 6, 0 RGB 71, 148, 198 HEX #4794c6
+- Girl Up Purple CMYK 73, 91, 31, 18 RGB 91, 51, 103 HEX #5b3367
+- The secondary palette can be use to support the primary palette in print and web pieces.
+- Girl Up Light Pink CMYK 0, 26, 12, 0 RGB 250, 200, 200 HEX #fac8c8
+- Girl Up Teal CMYK 62, 2, 24, 0 RGB 83, 191, 198 HEX #53bfc6
+- Girl Up Green CMYK 64, 0, 59, 0 RGB 89, 191, 142 HEX #59bf8e
+- Girl Up Yellow CMYK 5, 4, 81, 0 RGB 247, 228, 80 HEX# f7e450
+- Proxima Nova Bold for headlines ABCDEFGHIJKLMNOPQRSTU VWXYZ1234567890
+- Gnuolane Bold for subheads and pull quotes AaBbCcDdEeFfGgHhliJjKkLIMmNnOo PpQqRrSsTtUuVvWwXxYyZz 1234567890
+- Proxima Nova Regular for body copy AaBbCcDdEeFfGgHhliJjKkLIMmNnOo PpQqRrSsTtUuVvWwXxYyZz 1234567890
+- Large, high-quality photos should be used as features to reinforce key messages or stories.
+- PHOTOS TO AVOID - Small, low-resolution photos - Dark color overlays - Extreme close-ups
+- This style is about capturing the power and positive energy of all of us when we are together. This direction is less about style and more about the group dynamic.
+- This style focuses on one girl. There can be other people in the frame, but the focus is on one subject, with everything else in the frame falling into a soft focus (bokeh). Bokeh will give the images a simple air of sophistication and a focus on storytelling.
+- Avoid photos that are dimly lit, cropped too tightly, and/or are too low resolution for use.
+- This style should be used when a more promotional aesthetic is needed.
+- The color tint over a black-and-white photo creates a bold statement when paired with a headline.
+- -Uncomplicated compositions work best, but the technique can be used successfully with a broad range of images.
+- Photography should be converted to black and white. Girl Up Pink or Teal should be added to a layer in Photoshop using the multiply technique. Headlines should be set in Proxima Nova Bold all caps and use Girl Up Yellow.
+
+##### Layout And Composition
+
+- Logos should not be sized under a half-inch wide.
+- Horizontal lockups should not be sized under one and a half inches.
+- Do not stretch, pinch, or distort logo proportions in any way.
+- Do not reconfigure the arrangement of logo elements.
+- Do not add additional elements to the logo.
+- Do not introduce new colors into the logo.
+- Do not place the logo over conflicting backgrounds.
+- Do not place the logo over low-contrast backgrounds.
+
+##### Proper Name
+
+- Girl Up must always appear as two separate words, with each word beginning with a capital letter.
+- YES: Girl Up is a global leadership development organization.
+- NO: Through girl up's support, girls receive critical leadership resources and training along with the tools to become gender equality advocates and activists.
+- Do not use Girl Up as a verb.
+- NO: Across the country supporters are Girl-ing Up for gender equality.
+- NO: Everyone is girling up.
+- When referring to the website in printed materials, the style is GirlUp.org, with a capital G and a capital U.
+- If mentioning Girl Up's connection to the United Nations Foundation in any written material (press releases, backgrounders, etc.), please refer to it as "Girl Up, hosted by the United Nations Foundation."
+- YES: Girl Up is hosted by the United Nations Foundation, working within a larger community that supports our efforts for gender equality worldwide.
+- NO: The United Nations Foundation's Girl Up initiative.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: International Space University
 slug: "international-space-university"
 description: ""
-date: "2026-03-20T08:22:05.566601"
+date: "2026-04-10T09:40:34.483532"
 draft: false
 sectors:
   - university
@@ -49,16 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Space university in France.
 wikidata_url: "https://www.wikidata.org/wiki/Q766034"
 has_twitter: false
@@ -78,22 +72,119 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- Logos include color variations such as 'Blue', 'Black', and 'White'.
+##### Mission
 
-**Color Information:**
+- To distinguish the International Space University from other universities and institutions by creating and developing ISU's own corporate identity, and to prepare postgraduates and professionals to work in the exciting and progressive sector of space through international, interdisciplinary, and intercultural education [^1].
 
-- Corporate Palette and Color Palette associated with ISU branding. No specific HEX, RGB, or CMYK values visible.
+##### Core Values
 
-**Typography Information:**
+- international
+- interdisciplinary
+- intercultural
+- innovation
+- education
+- consistency
 
-- Font type specified is 'Calibri'. Examples of character set include: 'AaBbCcDdEeFf' through '1234567890'. Typography guidelines visible as main font for branding.
-- Typography guidance specifies alternate fonts such as Arial Black and Arial Bold. No weights or roles specified.
+##### Target Audience
 
-**Notes:**
+- Postgraduates and professionals seeking education and training in the space sector, with a focus on those interested in international, interdisciplinary, and intercultural learning experiences [^2].
 
-- Some sections, such as guidelines for logo usage or clear spacing rules, are either absent or not legible in this PDF.
+##### Personality Traits
+
+- professional
+- innovative
+- modern
+- authoritative
+- consistent
+
+##### Visual Identity Overview
+
+- The visual identity centers on the ISU logo, which uses blue and white to represent space and the universe, with carefully chosen typography (Calibri) and a corporate color palette applied across logos, business papers, electronic applications, and merchandise. The style is modern, minimalistic, and professional, emphasizing clarity and consistency [^3].
+
+#### Categories
+
+##### Color Palette
+
+- CMYK (0 - 30 - 100 - 0) RGB (246 - 171 - 0)
+- CMYK (100 - 94 - 0 - 0) RGB (31 - 33 - 119)
+- CMYK (60 - 0 - 100 - 0) RGB (106 - 172 - 18)
+- CMYK (30 - 0 - 100 - 0)
+- RGB (190 - 204 - 0)
+- CMYK (46 - 10 - 0 - 0)
+- RGB (131 - 186 - 233)
+- The primary colors are essential, because each of them is assimilated to an ISU program.
+- This palette has been chosen to be used on screens as well as on printed documents.
+- All the items must adhere to a certain extent to ISU's corporate identity, by applying the logo and corporate color palette on the items.
+
+##### Typography
+
+- Calibri is a classic font, which is considered to be among the most readible typefaces used in print applications. It is also used as the default typeface for PowerPoint, Excel and Outlook contents, and is described as a warm and soft character. It allows to deliver a clear message through ISU’s printed documents and website.
+- AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz & 1234567890
+- ISU's Power Point template uses ISU's blue logo at the top of the page on every slides. A picture of the building also figures on the bottom right corner of the first page of each presentation.
+- Calibri is the typography used.
+- The speaker ensures to mention his name as well as the «title» of the event, that he will speak at. He should also add the location and the date of the presentation. That is a rule applicable to every slide.
+- Arial Black [Geraldine Size: 10
+- Arial Bold [ihternationai Size: 10
+- Arial [France]
+- Size: 10 Font color: ISU logo's blue
+
+##### Logo Usage
+
+- There are three variations of ISU's logo. These are the only three expressions of ISU's visual identity. Thus, the ISU logo may only be used in the color combinations represented here.
+- A clear space equal to 0,5 cm must be maintained all around the logo, in every applications.
+- Do not vertically scale the logotype
+- Do not horizontally scale the logotype
+- Do not recolor the elements
+- The exhibits above are some examples of ways in which the variations of ISU’s logo should not be used. The list is not exhaustive, however it illustrates some of the most common mistakes.
+
+##### Visual Style
+
+- There are three variations of ISU's logo. These are the only three expressions of ISU's visual identity. Thus, the ISU logo may only be used in the color combinations represented here.
+- A clear space equal to 0,5 cm must be maintained all around the logo, in every applications.
+- Do not vertically scale the logotype
+- Do not horizontally scale the logotype
+- Do not recolor the elements
+- CMYK (0 - 30 - 100 - 0) RGB (246 - 171 - 0)
+- CMYK (100 - 94 - 0 - 0) RGB (31 - 33 - 119)
+- CMYK (60 - 0 - 100 - 0) RGB (106 - 172 - 18)
+- CMYK (30 - 0 - 100 - 0)
+- RGB (190 - 204 - 0)
+- CMYK (46 - 10 - 0 - 0)
+- RGB (131 - 186 - 233)
+- The primary colors are essential, because each of them is assimilated to an ISU program.
+- This palette has been chosen to be used on screens as well as on printed documents.
+- Calibri is a classic font, which is considered to be among the most readible typefaces used in print applications. It is also used as the default typeface for PowerPoint, Excel and Outlook contents, and is described as a warm and soft character. It allows to deliver a clear message through ISU’s printed documents and website.
+- ISU's Power Point template uses ISU's blue logo at the top of the page on every slides. A picture of the building also figures on the bottom right corner of the first page of each presentation.
+- Calibri is the typography used.
+- The electronic signature of ISU should be in line with ISU's visual identity.
+- The merchandising ISU is selling should also respect the branding guidelines.
+- All the items must adhere to a certain extent to ISU's corporate identity, by applying the logo and corporate color palette on the items.
+
+##### Business Papers
+
+- ISU has one corporate letterhead version, to be used for everyday.
+- The design includes the blue logo at the top of the page, underlined by a blue graduated shading line.
+- At the bottom of the page, you'll see the address of ISU's Central Campus, plus the different contact details of the University.
+- The graphic elements used must always remain the same for every card, which means ISU's logo on the left, and the name, title and contact details of the person on the right.
+
+##### Electronic App
+
+- ISU's Power Point template uses ISU's blue logo at the top of the page on every slides. A picture of the building also figures on the bottom right corner of the first page of each presentation.
+- Calibri is the typography used.
+- The speaker ensures to mention his name as well as the «title» of the event, that he will speak at. He should also add the location and the date of the presentation. That is a rule applicable to every slide.
+- The electronic signature of ISU should be in line with ISU's visual identity.
+- Arial Black [Geraldine Size: 10
+- Arial Bold [ihternationai Size: 10
+- Arial [France]
+- Size: 10 Font color: ISU logo's blue
+
+##### Merchandising
+
+- The merchandising ISU is selling should also respect the branding guidelines.
+- All the items must adhere to a certain extent to ISU's corporate identity, by applying the logo and corporate color palette on the items.
+- Here are the main items ISU holds: - Mugs (1) - Caps (2) - Travelling sets (3) - Umbrellas (4) & (5) - Emergency blankets (6) & (7) - Notebooks & pens (8)
 
 ## Additional Properties
 

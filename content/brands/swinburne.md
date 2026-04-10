@@ -2,7 +2,7 @@
 title: Swinburne
 slug: swinburne
 description: ""
-date: "2026-03-20T08:22:04.327713"
+date: "2026-04-10T09:40:33.029923"
 draft: false
 sectors:
   - education
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - education
-  - university
   - technology
+  - university
 industries: []
 countries:
   - australia
@@ -55,8 +55,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - portrait
+imagery_styles: []
 wikidata_description: "university in Victoria, Australia"
 wikidata_url: "https://www.wikidata.org/wiki/Q787234"
 has_twitter: false
@@ -76,79 +75,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- SWINBURNE 
- 
-BRAND GUIDELINES
-- e.g. embossing, debossing, etching, 
- 
-LOGO EFFECTS
-EXAMPLE
-L
-OGO
- 
-USE
-11
-- L ANDSCAPE
-PORTRAIT
-At least 
-15mm 
-height
-At least 15mm width
-top of page
-SARAWAK CAMPUS 
-LOGO CLEAR SPACE
-Use this page as a guide to the clear space 
-around the international logo. Positioning 
-remains consistent with our main logo usage.
-
-Logo clear space 
-area, using the ‚N™ 
-Logo clear space 
-area, using the ‚N™ 
-L
-OGO
- 
-USE
-21
-
-**Notes:**
-
-- SWINBURNE 
- 
-BRAND GUIDELINES
-- e.g. embossing, debossing, etching, 
- 
-LOGO EFFECTS
-EXAMPLE
-L
-OGO
- 
-USE
-11
-- L ANDSCAPE
-PORTRAIT
-At least 
-15mm 
-height
-At least 15mm width
-top of page
-SARAWAK CAMPUS 
-LOGO CLEAR SPACE
-Use this page as a guide to the clear space 
-around the international logo. Positioning 
-remains consistent with our main logo usage.
-
-Logo clear space 
-area, using the ‚N™ 
-Logo clear space 
-area, using the ‚N™ 
-L
-OGO
- 
-USE
-21
+*Guidelines data not available*
 
 ## Additional Properties
 

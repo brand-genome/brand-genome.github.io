@@ -2,7 +2,7 @@
 title: City of Zürich
 slug: "city-of-zurich"
 description: ""
-date: "2026-03-20T08:22:04.059349"
+date: "2026-04-10T09:40:32.080773"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,9 +68,3 @@ visual_term_image_urls: {}
 - [http://www.sportamt.ch](http://www.sportamt.ch)
 - [http://www.stadt-zuerich.ch](http://www.stadt-zuerich.ch)
 - [http://www.zh.ch](http://www.zh.ch)
-
-## Brand Guidelines
-
-### 2012
-
-*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Agence Bretonne de la Biodiversité
 slug: "agence-bretonne-de-la-biodiversite"
 description: ""
-date: "2026-03-20T08:22:04.310823"
+date: "2026-04-10T09:40:32.998091"
 draft: false
 sectors:
   - "public-sector"
@@ -49,11 +49,8 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - impact
-imagery_styles:
-  - graphic
-  - vibrant
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,25 +68,100 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo versions for positive and negative color applications with and without baseline #biodiversitéBZH.
-- Clear space and safe zone rules: A margin is defined around the logo as a 'respiration zone' to preserve clarity, protecting it from surrounding graphic elements.
-- Minimum size requirements: The logo (without baseline) should not be smaller than 35 mm in length. For the logo with the #biodiversitéBZH baseline, the minimum length should be 50 mm.
-- Do's and don'ts for logo usage: Emphasis on maintaining clear space around the logo for proper visibility and not resizing below defined constraints.
-- Logo explanations: The logo is derived from the initials of the organization's name and designed to resemble DNA structures, symbolizing biodiversity. The orientation suggests a metaphorical 'loudspeaker' for sharing and diffusion of ideas.
+##### Mission
 
-**Color Information:**
+- Promote and accelerate the reconquest of biodiversity in Brittany, emphasizing environmental awareness and ecological action.
 
-- Positive (colored) and negative (contrast or light background) versions of the logo explained.
-- Usage of bright and vibrant 'pop' colors in the logo to convey dynamism and optimism.
+##### Core Values
 
-**Spacing Layout:**
+- biodiversity
+- regional identity
+- environmental awareness
+- sustainability
 
-- Defined safe zones and minimum clear-space requirements for the logo. Emphasizes maintaining a margin around the logo to ensure readability and impact.
-- Size specifications: Minimum usages are described per logo type, with explicit millimeter lengths.
+##### Target Audience
 
-**Notes:**
+- Individuals and organizations interested in biodiversity and environmental issues in Brittany, including the general public, professionals, and stakeholders.
 
-- The document emphasizes the importance of logo clarity through defined sizes, margins, and specific guidelines for positive/negative applications.
-- The text consistently highlights the metaphorical connection of the logo's design to DNA and its role as a representation of biodiversity and communication.
+##### Personality Traits
+
+- modern
+- colorful
+- professional
+- friendly
+- educational
+
+##### Visual Identity Overview
+
+- The visual identity is characterized by vibrant colors (yellow, blue, green), geometric shapes, bold typography, and a clean, modern layout. The logo features interlocking loops and is paired with the hashtag #biodiversitéBZH. Visuals include nature imagery, badges, and consistent use of color and typography to reinforce the brand's ecological and regional focus.
+
+#### Categories
+
+##### Brand Imagery
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Color Palette
+
+- Noir & Blanc En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+
+##### Typography
+
+- les typographies les titres et sous-titres Playtime One Regular Kumbh Sans Light Kumbh Sans Regular Exemple la journée
+- Dans Canva, la typographie de substitution à la Kumbh est la Montserrat Classic en Bold pour les sous-titres.
+
+##### Logo Usage
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Visual Style
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Layout And Composition
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Digital Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Print Guidelines
+
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.
+
+##### Social Media Guidelines
+
+- Le hashtag #biodiversitéBZH fait paire avec le logo. Il peut être utilisé seul, indépendamment du logo.
+- En noir au besoin ou blanc évidé pour utilisation sur une image ou un aplat.
+- Une marge a été définie autour du logo. Cette zone de « respiration » permet de le préserver de tout élément graphique qui pourrait nuire à sa lisibilité.
+- Le hashtag, pour être lisible, ne doit pas faire moins de 50 mm de longueur.
+- La pastille #biodiversitéBZH fait paire avec le logo. Elle peut être utilisée seule, indépendamment du logo.
+- La pastille, pour être lisible, ne doit pas faire moins de 50 mm.

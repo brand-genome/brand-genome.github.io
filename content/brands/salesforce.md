@@ -2,7 +2,7 @@
 title: SalesForce
 slug: salesforce
 description: ""
-date: "2026-03-20T08:22:04.329207"
+date: "2026-04-10T09:40:33.032738"
 draft: false
 sectors:
   - software
@@ -15,15 +15,15 @@ languages:
 tags:
   - software
 industries:
-  - analytics
-  - "software-industry"
-  - "customer-relationship-management"
-  - "intelligent-agent"
+  - "email-marketing"
   - "software-as-a-service"
   - automation
   - "enterprise-software"
+  - "customer-relationship-management"
   - "cloud-computing"
-  - "email-marketing"
+  - "intelligent-agent"
+  - analytics
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,27 +38,27 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - analytics
-  - "integration-platform"
-  - "customer-relationship-management-software"
-  - "order-management-system"
   - "e-commerce"
+  - "automation-technology"
+  - "integration-platform"
   - salesforce
-  - "intelligent-agent"
-  - "data-visualization-software"
-  - "software-as-a-service"
-  - "cloud-computing"
-  - "artificial-intelligence"
-  - "small-business-software"
-  - "customer-data-platform"
-  - "virtual-agent"
-  - "b2b-e-commerce"
+  - "order-management-system"
   - "marketing-automation"
   - "ai-agent"
-  - "email-marketing"
-  - "enterprise-software"
+  - "data-visualization-software"
   - heroku
-  - "automation-technology"
+  - "email-marketing"
+  - "b2b-e-commerce"
+  - "customer-data-platform"
+  - "enterprise-software"
+  - analytics
+  - "customer-relationship-management-software"
+  - "software-as-a-service"
+  - "small-business-software"
+  - "intelligent-agent"
+  - "artificial-intelligence"
+  - "virtual-agent"
+  - "cloud-computing"
 products: []
 headquarters_locations:
   - "salesforce-tower"
@@ -85,15 +85,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - badge
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - static
-  - photography
+imagery_styles: []
 wikidata_description: "American cloud-based software company"
 wikidata_url: "https://www.wikidata.org/wiki/Q941127"
 has_twitter: false
@@ -116,33 +111,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Salesforce Partner Badges are the primary visual asset for communicating the partner's relationship with Salesforce. Use badges on websites, marketing materials, and event displays to communicate Salesforce partner status. Partners are restricted from using the Salesforce corporate logo, product icons, or characters in their materials.
-
-**Imagery Photography:**
-
-- Imagery/Photography-related text found on Page 22: 10.0_AppExchange
-10.0_AppExchange
- 
-Brand Guidelines 2021
-Salesforce  AppExchange  Tiles
-All AppExchange tiles, of all  
-sizes and in any format, must be static images. No animated tiles are allowed on  
-AppExchange.
-Information about creating and updating your AppExchange listing can be found in the Partner Community site.
-
-**Spacing Layout:**
-
-- Spacing/Layout-related text specifies partner badge details, including the minimum size as 80 pixels (digital) or 2 cm/0.75 in (printed). Clear space is defined by the height of the letter 'PARTNER' within the badge layout. Separation from headlines and other elements is required.
-
-**Brand Voice:**
-
-- Marketing templates from Salesforce must be tailored to reflect the partner's unique voice, clearly identifying them as the sender. Partners must not include false, misleading, or unsubstantiated claims (Page 15). Additionally, Salesforce AppExchange listings should prioritize unique partner branding over Salesforce elements (Page 21).
-
-**Notes:**
-
-- Salesforce Partner logos should be used in accordance with the badge guidelines only. Partner badges are downloadable from the Partner Community page.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -152,7 +121,7 @@ Information about creating and updating your AppExchange listing can be found in
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Customer Relationship Management Software](/products_or_materials_produced/customer-relationship-management-software/); [Order Management System](/products_or_materials_produced/order-management-system/); [E Commerce](/products_or_materials_produced/e-commerce/); [Salesforce](/products_or_materials_produced/salesforce/); [Intelligent Agent](/products_or_materials_produced/intelligent-agent/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Cloud Computing](/products_or_materials_produced/cloud-computing/); [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/); [Small Business Software](/products_or_materials_produced/small-business-software/); +9 more |
+| Product Or Material Produced | [E Commerce](/products_or_materials_produced/e-commerce/); [Automation Technology](/products_or_materials_produced/automation-technology/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Salesforce](/products_or_materials_produced/salesforce/); [Order Management System](/products_or_materials_produced/order-management-system/); [Marketing Automation](/products_or_materials_produced/marketing-automation/); [Ai Agent](/products_or_materials_produced/ai-agent/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Heroku](/products_or_materials_produced/heroku/); [Email Marketing](/products_or_materials_produced/email-marketing/); [B2B E Commerce](/products_or_materials_produced/b2b-e-commerce/); [Customer Data Platform](/products_or_materials_produced/customer-data-platform/); +9 more |
 | Headquarters Location | [Salesforce Tower](/headquarters_locations/salesforce-tower/); [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Freebase Id | /m/07btr5 |

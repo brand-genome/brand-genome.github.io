@@ -2,7 +2,7 @@
 title: Erasmus Student Network
 slug: "erasmus-student-network"
 description: ""
-date: "2026-03-20T08:22:05.563571"
+date: "2026-04-10T09:40:34.479292"
 draft: false
 sectors:
   - ngo
@@ -53,21 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - green
-  - "pantone-166"
-  - white
-  - cyan
-  - grey
-  - blue
-  - "pantone-368"
-  - black
-  - orange
-  - pink
-  - magenta
+brand_colors: []
 typographies: []
-imagery_styles:
-  - monochrome
+imagery_styles: []
 wikidata_description: international student society
 wikidata_url: "https://www.wikidata.org/wiki/Q655757"
 has_twitter: false
@@ -86,43 +74,113 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo consists of characters: I*ESN and is accompanied by explanatory text 'International Exchange Erasmus Student Network'. Font for I and ESN is unique and cannot be reproduced. Font for text is MagdaClean-Regular.
-- Non-Infringement Area: Space must be free from other elements. Proportions must be constant. Minimum size requirements: print size (23mm width, 10mm height), web size (65px width, 28px height). Background must be clear (white or black preferred), monochrome gradients or light designs with transparency (5-10%) allowed.
-- Alternative logos: Reverse, Grey scale, Grey scale reverse, All black, All white versions. These are permitted for special PR materials such as sweatshirts.
-- Incorrect usage of the ESN logo: Proportions must be respected. No separation of text from design, only the Star element may be used alone. Effects like shadow or depth not allowed. ESN colors must be adhered to, altering colors or adding strokes prohibited.
+##### Mission
 
-**Color Information:**
+- To support international exchange students throughout Europe, fostering unity in diversity, cooperation, and cultural exchange, and providing a network for students to help each other and integrate into new environments.
 
-- ESN Dark Blue: Pantone DS 184-1 C, CMYK: 100 100 0 0, RGB: 46 49 146, HEX: #2E3192
-- ESN Orange: Pantone 166 PC, CMYK: 0 64 100 0, RGB: 244 123 32, HEX: #F47B20
-- ESN Green: Pantone 368 PC, CMYK: 57 0 100 0, RGB: 122 193 67, HEX: #7AC143
-- ESN Cyan: Pantone DS Process Cyan C, CMYK: 100 0 0 0, RGB: 0 174 239, HEX: #00AEEF
-- ESN Pink: Pantone DS Process Magenta C, CMYK: 0 100 0 0, RGB: 236 0 140, HEX: #EC008C
+##### Core Values
 
-**Typography Information:**
+- unity in diversity, diversity in the unity
+- students helping students
+- fun in friendship and respect
+- international dimension of the life
+- love for Europe as an area of peace and cultural exchange
+- openness with tolerance
+- cooperation in the integration
 
-- Logo font: MagdaClean-Regular. Suggested fonts for content: Calibri (body), Cambria (headings), Eurostile (publications).
+##### Target Audience
 
-**Imagery Photography:**
+- International exchange students across Europe, including those participating in Erasmus and other exchange programs.
 
-- The ESN Star can be adapted graphically for visual materials like PowerPoint presentations and backgrounds. Suggested adaptations include quarter sections positioned strategically, light transparency (15%), and rotations within a 20-degree limit.
+##### Personality Traits
 
-**Spacing Layout:**
+- inclusive
+- supportive
+- fun
+- respectful
+- open
+- cooperative
 
-- Non-Infringement Area and Minimum Size requirements guide spacing rules. Backgrounds must be clear, with no backgrounds using more than one color simultaneously.
-- The ESN Star can be rotated by a maximum of 20 degrees to maintain consistency in color ordering.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is vibrant and modern, centered around a unique logo featuring a colorful star symbol and the acronym ESN. The brand uses a distinct palette of five colors, clean typography, and emphasizes clarity, diversity, and international collaboration. The logo and star are used consistently across materials, with strict guidelines for proportions, background, and color usage.
 
-- Mission, vision, and values reflect unity in diversity, teamwork, love for cultural exchange, cooperation, and openness. Emphasis on international dimension, friendship, and respect.
-- Taglines associated with ESN: 'International Exchange Erasmus Student Network', emphasizing individual and international collaboration.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Logo design approved at AGM Krakow in 2006. Out of 131 sections, 81% approved the design. Trademark details: Name - 'i*esn INTERNATIONAL EXCHANGE ERASMUS STUDENT NETWORK', Registration No. - 005087853, Status - Registered.
-- Special ESN Star designs (e.g., Winter Star, Satellite Star) are restricted for exclusive use in specific international publications.
+- The logo of ESN is unique and should not be confused with any other logo and design. The Non-Infringement Area is the space that must be left free from any other element.
+- The background has to be CLEAR and not confusing for the logo. It’s not allowed to have two colors in the background, but it’s possible to use a light monochrome gradient or a transparent (5-10%) design, such the map of Europe. To enhance the visual impact of the logo the best background is white or black.
+- The ESN logo can be scaled to fit publications, PR material, flayers, etc. However the proportions have to be always constant. Although it is not recommended to use the logo in a too small format, as it would no longer be recognizable.
+- Size (print) W: 23 mm H: 10 mm
+- Size (web) W: 65 px H: 28 px
+
+##### Color Palette
+
+- ESN Pink PANTONE DS PROCESS MAGENTA C CMYK: 0, 100, 0, 0 RGB: 236, 0, 140 Web: # EC008C
+- ESN Cyan PANTONE DS PROCESS CYAN C CMYK: 100, 0, 0, 0 RGB: 0, 174, 239 Web: # 00AEEF
+- ESN Green PANTONE 368 PC CMYK: 57, 0, 100, 0 RGB: 122, 193, 67 Web: # 7AC143
+- ESN Orange PANTONE 166 PC CMYK: 0, 64, 100, 0 RGB: 244, 123, 32 Web: # F47B20
+- ESN Dark Blue PANTONE DS 184-1 C CMYK: 100, 100, 0, 0 RGB: 46, 49, 146 Web: # 2E3192
+- The 5 colors of ESN are well represented in the ESN Logo and the ESN Star. The so called ESN colors are unique like the logo and CANNOT be altered.
+- The ESN Star uses the 4 main colours, but not the ESN Dark Blue. Moreover the different colors overlap as described in the mission, vision and values chapter of this manual.
+- The ESN Star MUST use the ESN Colors as described in this Manual. Strokes cannot be used. Adding a border, or changing the colors of the Star is a violation of the CI.
+- The logo MUST use the ESN Colors as described in this Manual. Strokes cannot be used. Adding a border, or changing the colors of the logo is a violation of the Corporate Identity.
+
+##### Typography
+
+- MagdaClean-Regular (Logo)
+- Calibri (body)
+- Cambria (Headings)
+- Eurostile (Publications)
+- We consider two different typographies: • Logo related • Content related
+- The typography related to the logo is the font MagdaClean-Regular and it’s the one used in the present manual.
+- The typography related to the content is the font used for documents of ESN such as Powerpoint Presentations, Word Documents, Brochures, etc.
+- For Powerpoint Presentations and Word documents we suggest the use of Calibri (body) and Cambria (Headings).
+- For all the publications of ESN, whenever possible, it’s suggested the use of Eurostile.
+
+##### Logo Usage
+
+- The design of the logo of ESN and its conditions of usage are STRICTLY defined in an agreement between ESN AISBL and Koeweiden Postma, author of the logo.
+- It’s NOT allowed to cut any part or MODIFY this logo unless stated clearly in the this manual.
+- The font used for I and ESN is unique and cannot be reproduced.
+- The font used for the text International Exchange Erasmus Student Network is MagdaClean-Regular.
+- The logo of ESN is unique and should not be confused with any other logo and design.
+- The Non-Infringement Area is the space that must be left free from any other element.
+- The background has to be CLEAR and not confusing for the logo.
+- It’s not allowed to have two colors in the background, but it’s possible to use a light monochrome gradient or a transparent (5-10%) design, such the map of Europe.
+- To enhance the visual impact of the logo the best background is white or black.
+- The ESN logo can be scaled to fit publications, PR material, flayers, etc. However the proportions have to be always constant.
+- Although it is not recommended to use the logo in a too small format, as it would no longer be recognizable.
+- Size (print) W: 23 mm H: 10 mm
+- Size (web) W: 65 px H: 28 px
+- The ESN Logo is unique in its form and colors, however some variations are allowed for special reasons such as production of PR material (e.g. sweaters) that requires a monocromatic (all black, all white) logo.
+- The following alternative logos are THE ONLY ones ALLOWED and the guidelines concerning the incorrect usage are valid as well.
+- The logo MUST be used with the correct proportions. In both these cases the proportions of the width and length are not respected.
+- The logo MUST be used entirely, no elements can be separated. Only the Star can be used alone. Since either the text or the i is missing, these logo’s are not in accordance with the CI.
+- The logo MUST be used flat as it was designed originally.
+- Either shadow or adding a depth to the logo is not allowed.
+- The logo MUST use the ESN Colors as described in this Manual. Strokes cannot be used. Adding a border, or changing the colors of the logo is a violation of the Corporate Identity.
+
+##### Brand Values
+
+- The values represented are: • unity in diversity, diversity in the unity • students helping students • fun in friendship and respect • international dimension of the life • love for Europe as an area of peace and cultural exchange • openness with tolerance • cooperation in the integration
+- The ESN Star, which is a logo of ESN itself, represents the ESN Members standing (but also dancing) in a circle, as they were holding each other’s hands, supporting and helping each other. They are different (four colours, and length) but unite and united they stand, in cooperation, which literally means “operating in concert”.
+- The eight branches of the star, that represent also the Sections of the Network, do not have a centre, but rotate together and are partially overlapping: in such overlapping areas, their identity, what they are (the colours) merge, similarly to what happens when integration takes places in friendship and respect.
+- The word I*ESN evidently keeps the acronym of our name, in cyan, while connecting it to a capital “I” (in different and stronger colour) which stands both for “International” and, in a bizarre and obvious way, also for the first person singular (I = me, I= International).
+- To connect the I (both as International and as a subject) with ESN is the star: by playing with the double meaning of the acronym I*ESN, hence, the star becomes a symbol of the exchange itself, that brings into relation the network, ESN, with the individual (“I”) and the International aspect of the life.
+- In the explanatory text “International Exchange Erasmus Student Network”, it includes all what the network is in a synthetic way: while keeping the official name of the network in one line and in one colour (“Erasmus Student Network”), it is claimed also the support ESN brings to the International Exchange Students that throughout Europe are studying not with the Erasmus Programme.
+- “Exchange”, finally, recalls the colours of the stars and assumes the role of explanation.
+
+##### Visual Style
+
+- The logo of ESN is unique and should not be confused with any other logo and design. The Non-Infringement Area is the space that must be left free from any other element.
+- The background has to be CLEAR and not confusing for the logo. It’s not allowed to have two colors in the background, but it’s possible to use a light monochrome gradient or a transparent (5-10%) design, such the map of Europe. To enhance the visual impact of the logo the best background is white or black.
+- The ESN logo can be scaled to fit publications, PR material, flayers, etc. However the proportions have to be always constant. Although it is not recommended to use the logo in a too small format, as it would no longer be recognizable.
+- Size (print) W: 23 mm H: 10 mm
+- Size (web) W: 65 px H: 28 px
 
 ## Additional Properties
 

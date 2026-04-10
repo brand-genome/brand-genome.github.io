@@ -2,7 +2,7 @@
 title: Discord
 slug: discord
 description: ""
-date: "2026-03-20T08:22:03.196501"
+date: "2026-04-10T09:40:30.741118"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - software
-  - app
   - featured
+  - app
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,21 +51,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - wordmark
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - playful
+imagery_styles: []
 wikidata_description: instant messaging and VoIP software
 wikidata_url: "https://www.wikidata.org/wiki/Q22907849"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -80,37 +75,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2021
 
-**Logo Information:**
-
-- The Discord logo consists of two components: the icon (Clyde) and the wordmark. Clyde is treated as both a standalone icon and part of the main logo, ensuring brand recognition consistency.
-- Guidelines define 'Logo Clear Space' to ensure adequate padding around the logo while using it in design applications.
-- Unsuccessful logo usage includes distortion, changing colors, or adding unauthorized elements. Examples illustrate improper treatments of the logo.
-
-**Color Information:**
-
-- Discord's primary brand color is 'Blurple' alongside complementary secondary colors. These create a cohesive visual identity.
-
-**Typography Information:**
-
-- The primary typeface is consistent across messaging, with specific styles designated for headlines, body text, and quotes to maintain legibility and cohesion.
-
-**Spacing Layout:**
-
-- Clear space rules for logo usage are defined to ensure design consistency. Space equal to the height of Clyde should surround the logo.
-
-**Brand Voice:**
-
-- Discord emphasizes a playful and inclusive tone in messaging, reflecting its mission to connect communities. Key slogans and community lines underline this tone.
-
-**Notes:**
-
-- Citations are approximated with visible page numbers; alignment may benefit from direct verification with the PDF.
+*Guidelines data not available*
 
 ## Additional Properties
 

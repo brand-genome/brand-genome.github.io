@@ -2,7 +2,7 @@
 title: Public Broadcasting Service
 slug: "public-broadcasting-service"
 description: ""
-date: "2026-03-20T08:22:05.046261"
+date: "2026-04-10T09:40:33.810889"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -54,18 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - arial
-imagery_styles:
-  - clean
-  - staged
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American public broadcaster and television network
 wikidata_url: "https://www.wikidata.org/wiki/Q215616"
 has_twitter: false
@@ -86,85 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Use only CMYK or PMS print versions of the logo with registration symbols for print. Minimum printing size is 0.5 inches. Black-and-white logos can be used where color is not possible.
-
-**Typography Information:**
-
-- PBS Sans is the primary font for all applications. Arial is used only when custom fonts are not supported. Text must be accessible and legible.
-
-**Imagery Photography:**
-
-- Imagery should be simple, clean, immersive, and deliver an unexpected perspective. Avoid clutter and staged shots.
-
-**Notes:**
-
-- Brand 
-Guidelines
-November 2019
-- Table of Contents
-CO LO R  U S E  
-GUIDELINES
-8-15
-9
-10
-11
-12
-13
-14-15
-14
-15
-Primary palette . . . . . . . . . . . 
-PBS Blue . . . . . . . . . . . . . . . . 
-Secondary blues . . . . . . . . . 
-Primary accents . . . . . . . . . 
-Overlays . . . . . . . . . . . . . . . .
-Text accessibility . . . . . . 
-PBS Blue, White,
-and secondary blues . . 
-Primary accents . . . . . . 
-Logo versions . . . . . . . . . . . .
-Minimum padding . . . . . . . . 
-Improper use . . . . . . . . . . . . 
-Color accessibility . . . . . . . . 
-2
-3
-4
-5
-Print guidelines . . . . . . . . . . .
-Translucent applications . . .
-6
-7
-LO G O
-GUIDELINES 
- . . .  
-1-7
-17
-18
-19
-20
-PBS Sans . . . . . . . . . . . . . . . .  
-Type styles . . . . . . . . . . . . . .
-Guidance . . . . . . . . . . . . . . .
-Improper use . . . . . . . . . . . 
-FO N T  U S E  
-GUIDELINES
-16-20
-21-25
-IMAGERY
-GUIDELINES
- . . 
- 
-22
-23
-24
-25
-Examples . . . . . . . . . . . . . . .
-Selection . . . . . . . . . . . . . . .
-Brand imagery . . . . . . . . . .
-Best use and 
-improper use . . . . . . . . . . .
+*Guidelines data not available*
 
 ## Additional Properties
 

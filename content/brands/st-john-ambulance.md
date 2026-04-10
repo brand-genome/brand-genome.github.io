@@ -2,11 +2,11 @@
 title: St John Ambulance
 slug: "st-john-ambulance"
 description: ""
-date: "2026-03-20T08:22:04.217738"
+date: "2026-04-10T09:40:32.606163"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
   - healthcare
 regions:
   - "united-kingdom"
@@ -15,10 +15,10 @@ years:
 languages:
   - english
 tags:
-  - education
-  - featured
-  - health
   - ngo
+  - featured
+  - education
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -53,23 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - secondary
-brand_colors:
-  - green
-  - white
-  - gray
-  - yellow
-  - black
-typographies:
-  - impact
-  - display
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: humanitarian organization
 wikidata_url: "https://www.wikidata.org/wiki/Q699370"
 has_twitter: false
@@ -88,38 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The St John Ambulance logo includes detailed specifications regarding exclusion zones, minimum sizes, color variations (black, white), and partnership lock-ups. Minimum size requirements include 80mm for A3 paper, 55mm for A4 sizes, and 40mm for A5 & DL sizes. The design guides emphasize legibility and balanced spacing in vertical and horizontal layouts.
-- The partnership lock-up of the St John Ambulance logo details spacing rules to equally balance logos in collaborations. Exclusion zones provide guidelines on proportional sizes and visual impact.
-
-**Color Information:**
-
-- The primary brand colors include PMS 7482 (Green), PMS Black, PMS 341 (Secondary Green), PMS Cool Gray 7, PMS 396 (Yellow), and PMS White. Exact specifications provided include CMYK, RGB, and PMS color codes to ensure accurate reproduction.
-- Each color in the palette aligns with the mood and context of the branding, using green as the primary identifier and accenting with yellow to brighten materials or neutral greys for tone-down adjustments. These color schemes maintain visual consistency across campaigns.
-
-**Typography Information:**
-
-- Whitney Typeface family used in varying weights: Whitney Black (Bold headers), Whitney Semibold (subheadings), Whitney Book (body text). Suggested hierarchical font sizes include 72pt for primary headline display and standardized scaling to 18pt for body text.
-- Typography guidelines specify font weights for facilitating readability and high-impact designs across signage, web interfaces, and print material layouts using scalable proportional rules.
-
-**Imagery Photography:**
-
-- Photography rules emphasize emotional engagement through structured portrayal of people, reportage style imagery, and consistent tone reinforcement in compositions. Images must adhere to branding colors.
-- Documented guidelines restrict image misuse (e.g., improper cropping, altering tones) ensuring correlated alignment with the brand's primary guidelines for storytelling.
-
-**Spacing Layout:**
-
-- Grid layouts ensure consistent branding impacts while accommodating multi-purpose formatting in wide promotional campaigns standard ratios designated: margins proportional element exclusion zones guide blueprint positioning.
-
-**Brand Voice:**
-
-- The tone of voice is defined to be inspirational, warm, and human. It emphasizes accessible communication using conversational and practical language ('we', 'you') and avoids jargon wherever possible to appeal to wider audiences.
-- Brand voice suggestions divide communication styles into 'Head' (clear & factual) and 'Heart' (emotional & engaging) approaches based on contextual usages.
-
-**Notes:**
-
-- The 2016 update emphasizes cross-device alignments for digital branding adaptations while maximizing legacy campaign remains compatibility integration flexibility spearheading future activations possible usages balanced expansions.
+*Guidelines data not available*
 
 ## Additional Properties
 

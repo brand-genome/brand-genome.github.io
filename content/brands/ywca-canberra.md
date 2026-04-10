@@ -2,7 +2,7 @@
 title: YWCA Canberra
 slug: "ywca-canberra"
 description: ""
-date: "2026-03-20T08:22:04.219055"
+date: "2026-04-10T09:40:32.622674"
 draft: false
 sectors:
   - ngo
@@ -53,29 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - "pantone-433"
-  - grey
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - dynamic
-  - staged
-  - graphic
-  - bold
-  - natural
-  - photography
-  - clean
-  - geometric
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: nonprofit organisation from Australia
 wikidata_url: "https://www.wikidata.org/wiki/Q136717649"
 has_twitter: false
@@ -94,42 +75,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The YWCA logo is versatile and reflects the organization’s origins using a triangular design. Three versions are specified: Primary (inline), Secondary (stacked), and Tertiary (standalone). The logo must never be redrawn or modified without adherence to the guidelines.
-- Clear space around the logo must be equal to the height of the space between the 'YWCA' logotype and the triangular symbol.
-- Minimum sizes for the logo are detailed: Primary Logo (27mm width, 10.08mm height), Secondary Logo (24mm width, 20.673mm height), Tertiary Logo (11mm width, 10.164mm height).
-- Logo variations include color combinations like charcoal, grey, reversed, grayscale, and Pantone 433. Applications include single-color uses such as embroidery or screen printing.
-- Background application rules specify placing logos on high-contrast, simple backgrounds, avoiding shearing, tilting, shadows, embossing, or placement over complex or low-contrast images.
-
-**Color Information:**
-
-- YWCA’s color palette is vibrant and dynamic, reflecting its qualities. Five colors with specifications provided in Pantone, CMYK, RGB, and HEX:
-
-**Typography Information:**
-
-- The primary typeface is 'Borda'. It is clean, geometric, and used for headings, page numbers, and typographic highlights.
-- The secondary typeface is 'Interstate', designed for readability and flexibility in communications. Both typefaces create typographic hierarchy.
-- Fallback Typeface: Helvetica (Arial), to be used when the primary typefaces are unavailable.
-- Font weights for Borda: Medium, Bold. Font weights for Interstate: Extra Light, Regular Italic, Light, Regular, Bold.
-
-**Imagery Photography:**
-
-- Photography subjects must represent real life, not staged, neutral or optimistic themes, with singular concepts. Images should use natural lighting, warm hues or black and white, and allow clean empty spaces.
-
-**Spacing Layout:**
-
-- Graphic elements include the Y-element (drawn from the triangular logo) and geometric patterns, which can overlay imagery or solid designs.
-- Instructions on combining type, imagery, and color to create a consistent and distinct YWCA visual identity.
-
-**Brand Voice:**
-
-- The YWCA brand tone is inclusive, confident, and inspiring. Written communication should reflect ambition and positivity, avoiding arrogance, clichés, jokes, and negativity.
-- The 'Y Language' incorporates the YWCA brand identity in written communication, such as using 'Y' visually in campaigns and headlines (e.g., 'LOCALL**Y**, NATIONALL**Y**, GLOBALL**Y**').
-
-**Notes:**
-
-- Corporate stationery must strictly adhere to YWCA branding, using specified layouts and materials for elements like letterheads, business cards, and compliments slips.
+*Guidelines data not available*
 
 ## Additional Properties
 

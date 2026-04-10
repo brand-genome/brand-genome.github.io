@@ -2,7 +2,7 @@
 title: .art
 slug: art
 description: ""
-date: "2026-03-20T08:22:04.210759"
+date: "2026-04-10T09:40:32.581435"
 draft: false
 sectors:
   - software
@@ -47,22 +47,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - green
-  - white
-  - grey
-  - blue
-  - yellow
-  - black
-  - orange
-  - magenta
-typographies:
-  - avenir
-imagery_styles:
-  - bold
-  - landscape
-  - minimal
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -82,40 +69,207 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The .ART logo must maintain a consistent minimum clearance zone, defined as the size of two dots from the logo (or one dot if two dots is not viable). Minimum size usage without a strap line is 20mm in length.
-- With the strap line, the minimum clearance zone is the size of two dots from the logo and strap line (or size of one dot if necessary). Minimum size with the strap line is 28mm in length, and the logo alone must be used if reduced further.
-- Logo usage guidelines for varying background colors: on white backgrounds, use the black logo; on black backgrounds, use the white logo. If limited to black and white, the dot should use a 70% tint of black.
-- On colored backgrounds, only the dot may incorporate other corporate colors, and it must remain legible.
-- When used on image backgrounds, the logo must remain legible and clearly stand out.
-- Only the 'A' in 'ART' can be used independently. The logo must never be distorted, manipulated, or resized.
+##### Mission
 
-**Color Information:**
+- To foster and promote the study and enjoyment of, and the production of works in, the arts, enriching the lives of Canadians by supporting a vital and diverse arts sector [^1].
 
-- Corporate color palette with detailed specifications. Colors include Yellow (R255 G255 B0 / C0 M0 Y100 K0), Green (R0 G255 B50 / C60 M0 Y80 K0 / Pantone 802C), Blue (R5 G0 B250 / C95 M75 Y0 K0 / Pantone 2728C), Magenta (R204 G0 B204 / C20 M90 Y0 K0 / Pantone 246C), Red (R255 G0 B0 / C0 M100 Y100 K0 / Pantone 485C), Orange (R254 G115 B28 / C0 M70 Y100 K0 / Pantone 1505C), Black (R0 G0 B0 / 100%), and several shades of Grey (Dark: R57 G52 B56 / 85% Black, Mid: R87 G83 B86 / 70% Black, Light: R176 G174 B175 / 30% Black).
-- Corporate color guidelines: palettes are to be used uniformly across print and online communications.
+##### Core Values
 
-**Typography Information:**
+- vibrant
+- open
+- connected
+- forward-looking
+- responsive
+- relevant
+- dynamic
+- fair
+- experienced
+- inspiring
+- collaborative
+- current
+- diverse
+- accessible
+- trusted
+- innovative
+- transparent
+- partner
+- vital
+- inclusive
+- knowledgeable
+- clear in message & purpose
+- leadership
+- continuity
 
-- Print font: PF Bague Sans Pro (Light, Regular, Bold). To be used for brochures, posters, and advertisements.
-- Digital font: Avenir (Weights: 35 Light, 65 Medium, 85 Light). Used for websites and emails.
+##### Target Audience
 
-**Imagery Photography:**
+- Professional Canadian artists and arts organizations in music, theatre, writing and publishing, visual arts, dance, media arts and integrated arts, as well as the broader Canadian public [^2].
 
-- When using logos on image backgrounds, ensure contrast and clarity for legibility.
+##### Personality Traits
 
-**Spacing Layout:**
+- vibrant
+- open
+- connected
+- forward-looking
+- responsive
+- relevant
+- dynamic
+- fair
+- experienced
+- inspiring
+- collaborative
+- current
+- diverse
+- accessible
+- trusted
+- innovative
+- transparent
+- partner
+- vital
+- inclusive
+- knowledgeable
+- clear in message & purpose
+- leadership
+- continuity
 
-- Clearance zone for the logo without strap line: size of two dots around the logo, reduced to one dot if necessary.
-- Border sizes for various document sizes: calculated as 3% of the short side. E.g., A4 landscape example (210mm x 297mm), 3% of 210mm results in a 6.3mm border. For web banners with length > 2x width, border size is 5% of the width.
-- For presentation materials including PowerPoint or Keynote, borders should remain 3% of width. Images occupy 50% of page space, either horizontally or vertically, with orientation depending on the image. Circles containing the logo should be 1/4 the width of the page.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is clean, professional, and balanced, featuring a stylized tree logo with bilingual text, a primary color palette centered on Council Blue, and the Gibson typeface for the logo. The guidelines emphasize clarity, legibility, and consistent logo usage across various backgrounds [^3].
 
-- Tone for advertising content: Text should be minimal and adhere to the brand's defined tone of voice.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The document also contains guidance on stationery layouts and business card formats, as well as a guide to category colors (VISUALAR, ARTISTS, GALLERIES, SERVICES, etc.) to distinguish usage contexts.
-- The measurements for stationery layouts include A4 letterhead (210 x 297mm), DL compliment slip (210 x 99mm), business card (85 x 28mm).
+- The personality attributes of the Canada Council reflect the values of the organization and the range and breadth of its activities. Some are well established, some are qualities to which we aspire as a public organization. The core personality attributes of vibrant, open and connected can be further defined as follows:
+- Vibrant
+- Open
+- Connected
+- Forward-looking
+- Responsive
+- Relevant
+- Dynamic
+- Fair
+- Experienced
+- Inspiring
+- Collaborative
+- Current
+- Diverse
+- Accessible
+- Trusted
+- Innovative
+- Transparent
+- Partner
+- Vital
+- Inclusive
+- Knowledgeable
+- Clear in message & purpose
+- Leadership
+- Continuity
+- These attributes are mostly used as a reference guide. Communications activities – whether advertising, website, speeches or public events – can be both planned and evaluated against these attributes.
+
+##### Color Palette
+
+- The preferred colour for the Council logo is a two-colour version: black and the Council Blue. When colour or printing prohibits this, it may be used in all black or reversed out to white. The logo can appear on colour, illustration, or photographic backgrounds, as long as the legibility and integrity of the logo are not diminished.
+- Shown here are acceptable examples of the logo placed over backgrounds. The positive version of the logo works best on white or a light gray.
+- The corporate color palette reflects an open, vibrant and connected Canada Council. Our primary corporate colour is Council Blue.
+- The Council primary corporate palette includes the use of both dynamic and neutral colors that complement each other and can be used in any combination as long as the integrity of the brand is not diminished.
+- Supporting colours: When combining colours together in a creative combination, use dynamic and neutral colours, but not all dynamic or all neutral.
+- Do not change the colour of the logo
+
+##### Typography
+
+- Our logo uses the Gibson typeface. It is a humanist sans serif typeface that is clean crisp and provides excellent legibility. It was designed by Canadian type designer Rod McDonald to honour John Gibson (1928-2011), one of the original founders of the Society of Graphic Designers of Canada (GDC).
+- It is recommended Arial be used for everyday use.
+- Gotham Narrow is the official house font for corporate material designed by Creative Services.
+- Do not change the typeface of our logo
+
+##### Logo Usage
+
+- Our logo should take pride of place in all our communications. It is the most visible representation of the organization, our people, and our brand to our various communities and stakeholders. It is a valuable corporate asset that must be used consistently in the proper, approved forms.
+- So please treat it nicely!
+- The Canada Council logo is available in two bilingual formats: English first, left-aligned and French first, left-aligned. These are the only acceptable visual representations of our logo.
+- The preferred colour for the Council logo is a two-colour version: black and the Council Blue. When colour or printing prohibits this, it may be used in all black or reversed out to white. The logo can appear on colour, illustration, or photographic backgrounds, as long as the legibility and integrity of the logo are not diminished.
+- Shown here are acceptable examples of the logo placed over backgrounds. The positive version of the logo works best on white or a light gray.
+- To increase its visual impact, the logo must always be surrounded by a protective clear space. The X square establishes the minimum allowable clear space. This allows the logo to accentuate its design attributes and isolates it from competing graphic elements.
+- This minimum space should be maintained as the logo is proportionally enlarged or reduced in size.
+- To ensure the legibility of the logo in print applications, a minimum size has been established. It should never be less than 40mm wide.
+- To ensure the legibility of the logo in digital applications, a minimum size has been established. It is determined by the width of the symbol, which should never be less than 200 pixels wide.
+- Minimum size 40mm wide
+- Actual minimum size: 40 mm wide (print)
+- Our logo uses the Gibson typeface. It is a humanist sans serif typeface that is clean crisp and provides excellent legibility. It was designed by Canadian type designer Rod McDonald to honour John Gibson (1928-2011), one of the original founders of the Society of Graphic Designers of Canada (GDC).
+- Do not alter the Canada Council logo in any way! Never attempt to create the logo yourself. To ensure correct, consistent reproduction, always use the approved electronic artwork
+- Do not skew or stretch the logo
+- Do not change the colour of the logo
+- Do not use the Council tree symbol on its own with the intention to use it as Council’s logo
+- Do not change the disposition of words
+- Do not alter the size relationship between the logo and the tagline.
+- Do not change the typeface of our logo
+- Do not apply any effects to the logo
+- Do not place the logo on a busy background
+- Do not use the logo in one language
+- Do not separate or reposition components of the logo.
+
+##### Tone And Messaging
+
+- A brand positioning statement serves as a point of departure for communications activities. It flows from an organization’s mandate and strategic plan (in the case of the Council, the 2011-16 Strategic Plan, Strengthening Connections). The positioning statement is not meant to be used as a promotional slogan, but rather to inform and influence communications.
+- The Positioning statement is: “Enriching the lives of Canadians by supporting a vital and diverse arts sector”
+- The personality attributes of the Canada Council reflect the values of the organization and the range and breadth of its activities. Some are well established, some are qualities to which we aspire as a public organization. The core personality attributes of vibrant, open and connected can be further defined as follows:
+- Vibrant Open Connected Forward-looking Responsive Relevant Dynamic Fair Experienced Inspiring Collaborative Current Diverse Accessible Trusted Innovative Transparent Partner Vital Inclusive Knowledgeable Clear in message & purpose Leadership Continuity
+- These attributes are mostly used as a reference guide. Communications activities – whether advertising, website, speeches or public events – can be both planned and evaluated against these attributes.
+
+##### Brand Values
+
+- The personality attributes of the Canada Council reflect the values of the organization and the range and breadth of its activities. Some are well established, some are qualities to which we aspire as a public organization. The core personality attributes of vibrant, open and connected can be further defined as follows:
+- Vibrant
+- Open
+- Connected
+- Forward-looking
+- Responsive
+- Relevant
+- Dynamic
+- Fair
+- Experienced
+- Inspiring
+- Collaborative
+- Current
+- Diverse
+- Accessible
+- Trusted
+- Innovative
+- Transparent
+- Partner
+- Vital
+- Inclusive
+- Knowledgeable
+- Clear in message & purpose
+- Leadership
+- Continuity
+- These attributes are mostly used as a reference guide. Communications activities – whether advertising, website, speeches or public events – can be both planned and evaluated against these attributes.
+
+##### Visual Style
+
+- The Canada Council logo is available in two bilingual formats: English first, left-aligned and French first, left-aligned. These are the only acceptable visual representations of our logo.
+- The preferred colour for the Council logo is a two-colour version: black and the Council Blue. When colour or printing prohibits this, it may be used in all black or reversed out to white. The logo can appear on colour, illustration, or photographic backgrounds, as long as the legibility and integrity of the logo are not diminished.
+- Shown here are acceptable examples of the logo placed over backgrounds. The positive version of the logo works best on white or a light gray.
+- To increase its visual impact, the logo must always be surrounded by a protective clear space. The X square establishes the minimum allowable clear space. This allows the logo to accentuate its design attributes and isolates it from competing graphic elements.
+- This minimum space should be maintained as the logo is proportionally enlarged or reduced in size.
+- To ensure the legibility of the logo in print applications, a minimum size has been established. It should never be less than 40mm wide.
+- To ensure the legibility of the logo in digital applications, a minimum size has been established. It is determined by the width of the symbol, which should never be less than 200 pixels wide.
+- Our logo uses the Gibson typeface. It is a humanist sans serif typeface that is clean crisp and provides excellent legibility.
+- It is recommended Arial be used for everyday use.
+- Gotham Narrow is the official house font for corporate material designed by Creative Services.
+- The corporate color palette reflects an open, vibrant and connected Canada Council. Our primary corporate colour is Council Blue.
+- The Council primary corporate palette includes the use of both dynamic and neutral colors that complement each other and can be used in any combination as long as the integrity of the brand is not diminished.
+- Supporting colours: When combining colours together in a creative combination, use dynamic and neutral colours, but not all dynamic or all neutral.
+- Do not alter the Canada Council logo in any way! Never attempt to create the logo yourself. To ensure correct, consistent reproduction, always use the approved electronic artwork
+- Do not skew or stretch the logo
+- Do not change the colour of the logo
+- Do not use the Council tree symbol on its own with the intention to use it as Council’s logo
+- Do not change the disposition of words
+- Do not alter the size relationship between the logo and the tagline.
+- Do not change the typeface of our logo
+- Do not apply any effects to the logo
+- Do not place the logo on a busy background
+- Do not use the logo in one language
+- Do not separate or reposition components of the logo.

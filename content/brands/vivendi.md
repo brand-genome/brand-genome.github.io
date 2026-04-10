@@ -2,12 +2,12 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-03-20T08:22:05.848051"
+date: "2026-04-10T09:40:34.868451"
 draft: false
 sectors:
   - "marketing-advertising"
-  - publishing
   - entertainment
+  - publishing
 regions:
   - france
 years:
@@ -38,8 +38,8 @@ headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates:
-  - 1981
   - 1987
+  - 1981
 foundation_year_buckets:
   - 1980S
 lightings: []
@@ -59,18 +59,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - violet
-  - "pantone-249"
-  - white
-  - black
-typographies:
-  - univers
-imagery_styles:
-  - bold
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French mass media holding company
 wikidata_url: "https://www.wikidata.org/wiki/Q1127887"
 has_twitter: false
@@ -89,37 +81,7 @@ visual_term_image_urls: {}
 
 ### 2006
 
-**Logo Information:**
-
-- The Vivendi logo appears in full color (Pantone 249 C - Violet) and black versions. The logo may also appear on a white rectangle that separates it from other background colors and photo backgrounds.
-- Protected area rules require a clear rectangle space around the Vivendi logo to ensure sufficient visibility and legibility. No other elements may overlap or obstruct this area.
-- Minimum size requirement for the Vivendi logo is 15 mm. A black version of the logo is also available for certain applications.
-- Incorrect usages include changing the typography, adding borders, distorting the logo, changing colors, disregarding the protected area, and directly placing the logo on colored or photo backgrounds without the white rectangle.
-
-**Color Information:**
-
-- Vivendi's primary color is 'Pantone 249 C', also referred to as Violet, a striking and vibrant color harmonizing with its brand's creative strengths and diversity of talents. Color codes: CMYK (C: 40%, M: 100%, Y: 0%, K: 30%), RGB (R: 109, G: 1, B: 91).
-
-**Typography Information:**
-
-- The font used for accompanying text in Vivendi's visual identity is Univers Condensed. This typography should be employed for corporate statements, institutional documents, and editorial content. Font weights include Thin, Thin Italic, Bold, and Bold Italic.
-
-**Imagery Photography:**
-
-- Proper application of the logo on photographic backgrounds requires the use of a white rectangle to isolate the logo for legibility.
-
-**Spacing Layout:**
-
-- A designated protected area is required around the logo. This area is a rectangle within which no elements should be placed to ensure uninterrupted readability.
-- The Vivendi logo must be separated from all photo and color backgrounds by a white rectangle for clarity and visibility.
-
-**Brand Voice:**
-
-- Vivendi’s brand voice emphasizes simplicity, confidence, creativity, innovation, and dynamism. It is represented visually as fluid and accessible, avoiding capital letters and unnecessary complexity.
-
-**Notes:**
-
-- The document mentions that additional information can be found on Vivendi’s intranet and contact details for further inquiries are provided.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -130,7 +92,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
-| Foundation Date | [1981](/foundation_dates/1981/); [1987](/foundation_dates/1987/) |
+| Foundation Date | [1987](/foundation_dates/1987/); [1981](/foundation_dates/1981/) |
 | Topic'S Main Category | Category:Vivendi |
 | Freebase Id | /m/049ql1 |
 | Headquarters Location | Paris |

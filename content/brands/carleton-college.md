@@ -2,7 +2,7 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-03-20T08:22:04.680329"
+date: "2026-04-10T09:40:33.394612"
 draft: false
 sectors:
   - education
@@ -54,21 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-brand_colors:
-  - blue
-  - white
-  - black
-typographies:
-  - gotham
-  - serif
-  - impact
-  - arial
-  - helvetica
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "liberal arts college in Northfield, Minnesota"
 wikidata_url: "https://www.wikidata.org/wiki/Q1041671"
 has_twitter: false
@@ -87,34 +76,98 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The Carleton wordmark must have a minimum amount of 'X-height' clear space for visual impact. The logo cannot be reproduced smaller than 0.75 inches wide for legibility. Approved usage requires specific sizes and file formats available at Carleton's Creative Services page.
-- Improper logo usage examples include rotations, unapproved colors, combining various symbols, and reproducing the logo on backgrounds that lack contrast. Adding the word 'College' is prohibited.
-- Electronic files with approved logo versions are available via Carleton College Creative Services.
+##### Mission
 
-**Color Information:**
+- To ensure a consistent body of communications that supports the Carleton College identity and maintains the integrity of its visual identity across all materials and platforms [^1].
 
-- Carleton’s official pantone colors are Blue (PMS 280C, HEX #0B5091) and Maize (PMS 122C, HEX #F3B61D). CMYK and RGB equivalents are provided. Approved wordmark colors include Blue, Maize, Black, or White, depending on the background.
-- Symbols should only appear in the same approved color palette. They should be reproduced in Blue, Maize, Black, and White consistent with the guidelines for wordmarks.
-- Incorrect color usage includes unapproved colors, insufficient background contrast, and combining colors improperly. Symbols should never be restructured or combined into new elements.
+##### Core Values
 
-**Typography Information:**
+- consistency
+- integrity
+- flexibility
+- visual emphasis
 
-- Primary serif typeface is Surveyor with various weights (Light, Medium, Book, SemiBold, Bold) and italic options for accents. Gotham is the primary sans serif typeface with similar weights and uses including subheaders, legal disclosures, and body text. Alternates include Helvetica or Arial when primary fonts are unavailable.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and organizations creating communications, publications, and materials for Carleton College, including print, digital, apparel, and web applications [^2].
 
-- Imagery accompanying logo placement mandates following clear-space parameters for separation of visual elements to ensure cohesiveness. Visual materials must avoid overcrowding or conflicting graphical elements.
+##### Personality Traits
 
-**Spacing Layout:**
+- classic
+- modernized
+- flexible
+- emphasized
+- cohesive
 
-- Clear-space guidelines must maintain a minimum 'X-height' space around wordmarks and symbols for uniformity. Minimum 0.75-inch width defined for the wordmark applications.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity centers on the Carleton wordmark and associated symbols, using a prescribed color palette of blue and maize, with strict guidelines for logo usage, clear space, minimum size, and approved color variations. Typography is consistent, featuring Surveyor and Gotham typefaces, and visual elements are applied across a range of media to ensure brand cohesion [^3].
 
-- Updated July 2015, Carleton College's Brand Guidelines include details on maintaining consistent visual communications and ensuring brand cohesion across identity elements and design.
-- Contact Teresa Scalzo, Director of Creative Services, with assistance queries related to proper adherence to design standards and access to official brand assets.
+#### Categories
+
+##### Logo Usage
+
+- The Carleton wordmark is our official logo. Although we are officially named Carleton College, the word College has been dropped from the wordmark to provide greater flexibility and more visual emphasis with our brand identity. The wordmark must be included on all publications and other visual communications developed for the College. Please use this updated version for all new communication materials.
+- A minimum amount of clear space must always surround the wordmark to separate it from other elements, such as headlines, text and imagery. Proper use of clear space ensures greater visual impact and legibility.
+- The minimum amount of clear space for the wordmark is equal to the "X-height" in the wordmark. This minimum amount of clear space should exist on all four sides of the logo as demonstrated to the right. When possible, additional clear space is preferred.
+- To ensure proper legibility, avoid producing the wordmark smaller than 0.75" wide.
+- Never re-create the Brand Identity Elements. Electronic files for all approved versions are available. Located at Carleton College.edu: https://apps.carleton.edu/creativeservices/styleguide
+- The wordmark should only be used in four prescribed colors; Blue, Maize, Black or White. If it is being used on a white or light background color or image, it should be used in Blue or Black. If it is being used on a Blue background it should be in White or Maize. If it is being used on a dark background color or image, it should be used in White.
+- Never use the wordmark in unapproved colors or screen tints (fade) of the wordmark. Do not use approved wordmark colors on background colors that do not provide enough contrast. Never use the wordmark on images that are too busy or over important image details or on images that do not provide ample contrast.
+
+##### Color Palette
+
+- The official colors of Carleton College are blue and maize. Specific color breakouts for each are indicated to the right.
+- For print media, use either the Pantone® (PMS) spot colors or CMYK process-built colors. For digital/web media use RGB or Hex-color values.
+- The official spot colors are derived from Pantone Inc, which are specialty inks. These colors can be approximated with CMYK and RGB values, but to get exact maize and blue, you will need to use the Pantone ink colors in your publication.
+- PMS 280 C C 100 M 72 Y 0 K 32 R 0 G 62 B 162 HEX 0B5091
+- PMS 122 C C 0 M 17 Y 80 K 0 R 252 G 212 B 80 HEX F3B61D
+- Please refer to actual PANTONE® color chips to accurately match and reproduce these brand colors on the surface you are using. The CMYK formula should be used as a "starting point." Work with your printer to determine the correct formula for your specific project.
+- The colors reproduced in this guide have not been evaluated by Pantone, Inc. for accuracy and may not match the PANTONE Color Standards.
+- The wordmark should only be used in four prescribed colors; Blue, Maize, Black or White. If it is being used on a white or light background color or image, it should be used in Blue or Black. If it is being used on a Blue background it should be in White or Maize. If it is being used on a dark background color or image, it should be used in White.
+- Never use the wordmark in unapproved colors or screen tints (fade) of the wordmark. Do not use approved wordmark colors on background colors that do not provide enough contrast. Never use the wordmark on images that are too busy or over important image details or on images that do not provide ample contrast.
+
+##### Typography
+
+- Consistent use of typography helps build visual familiarity with our brand and ensures that Carleton College materials have a cohesive look. Our selection of typefaces bring a diverse set of characteristics that work together across the full range of Carleton communications.
+- Surveyor is a contemporary yet classic-looking serif typeface that comes in a variety of weights with complementary italicized versions. Intended uses include: headlines, subheads, callouts and body copy.
+- Italics should be used for typographic accent only. Liberal use of italics can affect the intended tone of the message and alter the overall legibility of the text.
+- Georgia (not shown) is to be used for Word and PowerPoint. Century Schoolbook should also be used in email, web and other electronic communications when brand typefaces are not available.
+- The Surveyor font family can be licensed through Hoeffler & Company. www.typography.com
+- Gotham is a highly legible sans serif typeface that pairs well with Surveyor. Gotham comes in a variety of weights and works well in sentence case and all caps. Intended uses include: headlines, subheads, text and legal disclosures.
+- Although Gotham is available in multiple weights as well as italicized versions, use should be limited to the five versions shown here. This offers ample opportunity for design expression.
+- Although Gotham is strongly recommended, Helvetica or Arial (not shown) may be used in cases where Gotham is not available or cannot be used.
+- The Gotham font family can be licensed through Hoeffler & Company. www.typography.com
+
+##### Visual Style
+
+- A minimum amount of clear space must always surround the wordmark to separate it from other elements, such as headlines, text and imagery. Proper use of clear space ensures greater visual impact and legibility.
+- The minimum amount of clear space for the wordmark is equal to the "X-height" in the wordmark. This minimum amount of clear space should exist on all four sides of the logo as demonstrated to the right. When possible, additional clear space is preferred.
+- To ensure proper legibility, avoid producing the wordmark smaller than 0.75" wide.
+- The official colors of Carleton College are blue and maize. Specific color breakouts for each are indicated to the right.
+- For print media, use either the Pantone® (PMS) spot colors or CMYK process-built colors. For digital/web media use RGB or Hex-color values.
+- The official spot colors are derived from Pantone Inc, which are specialty inks. These colors can be approximated with CMYK and RGB values, but to get exact maize and blue, you will need to use the Pantone ink colors in your publication.
+- The wordmark should only be used in four prescribed colors; Blue, Maize, Black or White. If it is being used on a white or light background color or image, it should be used in Blue or Black. If it is being used on a Blue background it should be in White or Maize. If it is being used on a dark background color or image, it should be used in White.
+- Never use the wordmark in unapproved colors or screen tints (fade) of the wordmark. Do not use approved wordmark colors on background colors that do not provide enough contrast. Never use the wordmark on images that are too busy or over important image details or on images that do not provide ample contrast.
+- PMS 280 C C 100 M 72 Y 0 K 32 R 0 G 62 B 162 HEX 0B5091
+- PMS 122 C C 0 M 17 Y 80 K 0 R 252 G 212 B 80 HEX F3B61D
+
+##### Brand Imagery
+
+- The Carleton wordmark is our official logo. Although we are officially named Carleton College, the word College has been dropped from the wordmark to provide greater flexibility and more visual emphasis with our brand identity. The wordmark must be included on all publications and other visual communications developed for the College. Please use this updated version for all new communication materials.
+- A minimum amount of clear space must always surround the wordmark to separate it from other elements, such as headlines, text and imagery. Proper use of clear space ensures greater visual impact and legibility.
+- The minimum amount of clear space for the wordmark is equal to the "X-height" in the wordmark. This minimum amount of clear space should exist on all four sides of the logo as demonstrated to the right. When possible, additional clear space is preferred.
+- To ensure proper legibility, avoid producing the wordmark smaller than 0.75" wide.
+- Never re-create the Brand Identity Elements. Electronic files for all approved versions are available. Located at Carleton College.edu: https://apps.carleton.edu/creativeservices/styleguide
+- The wordmark should only be used in four prescribed colors; Blue, Maize, Black or White. If it is being used on a white or light background color or image, it should be used in Blue or Black. If it is being used on a Blue background it should be in White or Maize. If it is being used on a dark background color or image, it should be used in White.
+- Never use the wordmark in unapproved colors or screen tints (fade) of the wordmark. Do not use approved wordmark colors on background colors that do not provide enough contrast. Never use the wordmark on images that are too busy or over important image details or on images that do not provide ample contrast.
+- The official colors of Carleton College are blue and maize. Specific color breakouts for each are indicated to the right.
+- For print media, use either the Pantone® (PMS) spot colors or CMYK process-built colors. For digital/web media use RGB or Hex-color values.
+- The official spot colors are derived from Pantone Inc, which are specialty inks. These colors can be approximated with CMYK and RGB values, but to get exact maize and blue, you will need to use the Pantone ink colors in your publication.
+- Please refer to actual PANTONE® color chips to accurately match and reproduce these brand colors on the surface you are using. The CMYK formula should be used as a "starting point." Work with your printer to determine the correct formula for your specific project.
+- The colors reproduced in this guide have not been evaluated by Pantone, Inc. for accuracy and may not match the PANTONE Color Standards.
 
 ## Additional Properties
 

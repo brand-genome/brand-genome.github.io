@@ -2,7 +2,7 @@
 title: Swedish State Railways
 slug: "swedish-state-railways"
 description: ""
-date: "2026-03-20T08:22:03.160103"
+date: "2026-04-10T09:40:30.706362"
 draft: false
 sectors:
   - railroad
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: "state-owned railway in Sweden (1887–2000)"
 wikidata_url: "https://www.wikidata.org/wiki/Q52912"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [https://www.sj.se](https://www.sj.se)
 - [https://www.sj.no/en](https://www.sj.no/en)
 - [http://www.sj.se](http://www.sj.se)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
 
 ## Additional Properties
 

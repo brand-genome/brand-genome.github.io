@@ -2,7 +2,7 @@
 title: Wayfinding Jakarta
 slug: "wayfinding-jakarta"
 description: ""
-date: "2026-03-20T08:22:04.017958"
+date: "2026-04-10T09:40:32.003099"
 draft: false
 sectors:
   - "public-sector"
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -67,9 +67,3 @@ visual_term_image_urls: {}
 - [https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta](https://itdp-indonesia.org/publication/pedoman-wayfinding-jakarta/20211109-guideline-wayfinding-jakarta)
 - [https://itdp-indonesia.org](https://itdp-indonesia.org)
 - [https://transportforjakarta.or.id](https://transportforjakarta.or.id)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*

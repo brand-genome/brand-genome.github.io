@@ -2,7 +2,7 @@
 title: Time To Change
 slug: "time-to-change"
 description: ""
-date: "2026-03-20T08:22:04.505912"
+date: "2026-04-10T09:40:33.276922"
 draft: false
 sectors:
   - ngo
@@ -52,15 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - horizontal
-brand_colors:
-  - cyan
-  - magenta
-typographies:
-  - arial
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: organization
 wikidata_url: "https://www.wikidata.org/wiki/Q17034114"
 has_twitter: false
@@ -78,38 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Mind logo minimum size is 24mm, exclusion zone equivalent to height of 'd'. Positive color logo used wherever possible.
-- Rethink Mental Illness logo minimum size is 15mm, exclusion zone equivalent to height of 'R'. Positive color logo used wherever possible.
-- Department of Health and Social Care logo minimum Royal Coat of Arms width is 5mm. Exclusion zone equal to width of the Royal Coat of Arms.
-- Comic Relief should use the round logo. Minimum size is 20mm diameter. Horizontal version discouraged unless below minimum size limitation.
-- Big Lottery Fund logo minimum size is 17.5mm; exclusion zone equal to word height 'BIG LOTTERY FUND'. Magenta-only color mandated for future work.
-
-**Color Information:**
-
-- Big Lottery Fund logo updated with 100% magenta and 100% cyan. Time to Change will use 100% magenta in future materials.
-
-**Typography Information:**
-
-- Body text typeset in Arial, headlines and key text in Arial Bold. Minimum text size 8pt for advertisements. PowerPoint headings use Interstate Bold.
-- Font FF Bokka is reserved for illustrations featuring ordinary voices. Interstate font represents the official voice of the brand.
-
-**Imagery Photography:**
-
-- Use simple, iconic, and detailed illustrated icons combined to create compositions. FF Bokka supports representation.
-
-**Spacing Layout:**
-
-- Exclusion zones for funder and partner logos visually maintain hierarchy; minimum space and proportional scaling specified.
-
-**Brand Voice:**
-
-- Time to Change naming guidelines: Sentence case for headings/subheadings. Avoid abbreviations (RMI) and common errors (time-to-change).
-
-**Notes:**
-
-- Contact details for senior communications and extranet location provided for partner logo assets and brand templates.
+*Guidelines data not available*
 
 ## Additional Properties
 

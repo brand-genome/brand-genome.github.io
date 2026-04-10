@@ -2,7 +2,7 @@
 title: Ostfalia
 slug: ostfalia
 description: ""
-date: "2026-03-20T08:22:03.242609"
+date: "2026-04-10T09:40:30.757725"
 draft: false
 sectors:
   - education
@@ -31,11 +31,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1971
   - 1928
+  - 1971
 foundation_year_buckets:
-  - 1920S
   - 1970S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +56,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "University of Applied Sciences in eastern Lower Saxony, Germany"
 wikidata_url: "https://www.wikidata.org/wiki/Q2035460"
 has_twitter: false
@@ -80,85 +79,7 @@ visual_term_image_urls: {}
 
 ### 2023
 
-**Logo Information:**
-
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-- Detailed explanation of the Wort-Bildmarke (logo) starts.
-
-**Color Information:**
-
-- Central colors (Zentralfarben) section begins.
-- Central colors (Zentralfarben) section begins.
-- Central colors (Zentralfarben) section begins.
-- Central colors (Zentralfarben) section begins.
-
-**Imagery Photography:**
-
-- Imagery/photography style guidelines introduced.
-- Imagery/photography style guidelines introduced.
-
-**Spacing Layout:**
-
-- Spacing and layout considerations, possibly.
-- Spacing and layout considerations, possibly.
-- Spacing and layout considerations, possibly.
-
-**Brand Voice:**
-
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
-- Foundational approach to brand voice and messaging.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -168,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1971](/foundation_dates/1971/); [1928](/foundation_dates/1928/) |
+| Foundation Date | [1928](/foundation_dates/1928/); [1971](/foundation_dates/1971/) |
 | Coordinate Location | 52.17666667, 10.54861111 |
 | Country | Germany |
 | Viaf Cluster Id | 143821129 |

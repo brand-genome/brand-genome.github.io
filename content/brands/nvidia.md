@@ -2,12 +2,12 @@
 title: NVidia
 slug: nvidia
 description: ""
-date: "2026-03-20T08:22:05.751599"
+date: "2026-04-10T09:40:34.734562"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - usa
 years:
@@ -50,15 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - horizontal
-brand_colors:
-  - white
-typographies:
-  - din
-  - trebuchet
-imagery_styles:
-  - bold
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: parallel computing platform and programming model
 wikidata_url: "https://www.wikidata.org/wiki/Q477690"
 has_twitter: false
@@ -77,39 +72,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- NVIDIA logo clear space rules indicate that logos should not exceed 50% of the height of the band element.
-- Logo placement on tabs is restricted to single color, white versions where possible. Tab element should stay within 15% of overall document width.
-- Logos in the band area must use horizontal versions if available to maximize breathing room.
-- Examples of improper logo usage include insufficient clear space, incorrect proportions, and misalignment with text.
-
-**Typography Information:**
-
-- DIN Pro and Trebuchet are the recommended typefaces for NVIDIA branding material.
-- Common formatting rules include bolding key points, using active voice, and italicizing game titles/publication titles.
-- Abbreviations should be spelled out on first use unless widely recognized (e.g., GPU, PC). Acronyms in headings should not be spelled out but should be explicitly defined in text.
-
-**Imagery Photography:**
-
-- Imagery competing with the NVIDIA logo is discouraged; clear visible segregation of key elements like logo, band, headline is necessary.
-- Environmental graphics and event booth displays should use clear and professionally locked-up logos and band designs.
-
-**Spacing Layout:**
-
-- Maintain sufficient margins for elements in brand layout files. Tabs should not exceed 15% overall width.
-- Examples highlight strict rules for proper alignment, logo proportions, and text formatting consistency in environmental placements.
-
-**Brand Voice:**
-
-- Straightforward and conversational tone recommended for all NVIDIA content to engage readers directly.
-- Content should have a clear, engaging headline summarizing the message upfront and avoid excessive complexity or verbosity.
-- Parallel structure in lists is emphasized. For example, each bullet should consistently start with an action verb and match tone/format.
-
-**Notes:**
-
-- Trademarks should maintain proper use case, styling conventions (e.g., NVIDIA® followed strictly wherever applicable).
-- Bold, brief, and clear messaging should be visually prominent in NVIDIA presentations and material adhering to brand guidelines.
+*Guidelines data not available*
 
 ## Additional Properties
 

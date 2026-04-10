@@ -2,11 +2,11 @@
 title: Sereni Orizzonti
 slug: "sereni-orizzonti"
 description: ""
-date: "2026-03-20T08:22:04.406751"
+date: "2026-04-10T09:40:33.146706"
 draft: false
 sectors:
-  - healthcare
   - "elder-care"
+  - healthcare
 regions:
   - italy
 years:
@@ -47,12 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,14 +69,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo consists of the company name 'Sereni Orizzonti' accompanied by a distinctive graphic symbol: a circle containing a horizon and a seagull. This symbolizes vision, awareness, and the serene philosophy of the company. Detailed rules for color and dimensional use are provided.
-
-**Color Information:**
-
-- Color rules are defined, including positive and negative configurations.
-
-**Brand Voice:**
-
-- The logo includes the company motto 'Residenze per anziani in Italia', which aims to communicate the company's mission and operations.
+*Guidelines data not available*

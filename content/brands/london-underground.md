@@ -2,7 +2,7 @@
 title: London Underground
 slug: "london-underground"
 description: ""
-date: "2026-03-20T08:22:04.018399"
+date: "2026-04-10T09:40:32.006210"
 draft: false
 sectors:
   - "public-transportation"
@@ -75,7 +75,97 @@ visual_term_image_urls: {}
 
 ### 2003
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To provide an efficient and cost-effective method for commissioning or designing Transport for London (TfL) material, ensuring publications are coherent, well-coordinated, and of high graphic standard, while allowing operating units to retain individuality within a consistent overall system [^1].
+
+##### Core Values
+
+- coherence
+- coordination
+- high graphic standard
+- flexibility
+- consistency
+
+##### Target Audience
+
+- Designers, commissioners, and operating units responsible for advertising and branding materials across the London Underground and TfL public transport networks [^2].
+
+##### Personality Traits
+
+- professional
+- consistent
+- flexible
+- clear
+- impactful
+
+##### Visual Identity Overview
+
+- The visual identity is defined by strict guidelines for logo usage (the roundel), corporate typeface (New Johnston), color palette (Pantone standards), and layout/composition for various advertising formats. The brand emphasizes clarity, exclusion zones, proportional relationships, and consistent placement of endorsement elements such as the Mayor of London logotype and straplines [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- To ensure clarity and impact when producing a roundel, no other graphic elements should be placed within an area equivalent to 0.25 its width (x) all around it. This exclusion zone is indicated here by the dotted box around the grey roundel.
+- For detailed guidance on the correct use of this roundel and for master references, refer to the London Underground Basic elements standards.
+- On some advertising material a strapline will be displayed alongside the roundel in the following relationship:- Size The capital letter height of the strapline should measure the same as the depth of the roundel bar. Position The capital letter height of the strapline should be centred vertically with the bar of the roundel as shown. Horizontally, the distance between the strapline and the roundel is equal to half the width of the roundel, measured across its bar.
+- On all printed material, the Mayoral endorsement should be displayed in a fixed proportion to the roundel as shown. Size The capital letter height of the ‘MAYOR OF LONDON’ logotype should measure the same as the depth of the roundel bar. It is to be displayed in New Johnston Bold, all upper case. When the roundel is less than 14mm wide, then please contact TfL Corporate Design for advice on sizing the ‘MAYOR OF LONDON’ logotype. Position The capital-letter height of the Mayor’s endorsement should be aligned vertically with the roundel. Horizontally, the minimum distance between the Mayor’s endorsement and the roundel is equal to half the width of the roundel, measured across its bar. Ideally it should be greater than this and the Mayor’s endorsement should be ranged left with the left hand margin of any layout. Space constraints Where horizontal space is tight, please contact TfL Corporate Design for advice. Colour The Mayor’s endorsement should appear in Corporate blue except for the last two letters ‘ON’. These use either Corporate red (TfL and its direct subsidiaries) or the roundel-ring colour of the individual business units. With single colour professional outputs the ‘ON’ is to be reproduced at a 50% tint. On locally printed material (laser printers etc) the ‘ON’ is to be the same colour as the ‘MAYOR OF LOND’ (100%). When reversed out of a dark background the ‘ON’ is to be in an appropriate second colour.
+
+##### Color Palette
+
+- This page identifies the London Underground colours. These colours refer to colour reproduction using the Pantone Matching System on coated or uncoated paper. For colour conversion to CMYK, RGB, websafe and NCS values please refer to the TfL and London Underground Colour standards.
+- London Underground Corporate blue London Travel Information Textphone PANTONE® PANTONE® PANTONE® PANTONE® 485C 072C 430C 235C 072C 072C
+
+##### Typography
+
+- London Underground’s primary typeface is New Johnston Medium, upper and lower case. It is one of the family of New Johnston typefaces owned exclusively by TfL.
+- It is a requirement that body text is to be set at a minimum of 12pt in New Johnston Book. Headings and sub headings should be set in New Johnston Medium. Italics and bold are only to be used for emphasis and short phrases.
+- New Johnston Light New Johnston Light Italic New Johnston Book New Johnston Book Italic New Johnston Book Bold New Johnston Book Bold Italic New Johnston Medium New Johnston Medium Italic New Johnston Bold New Johnston Bold Italic
+- The capital letter height of the strapline should measure the same as the depth of the roundel bar.
+- The capital letter height of the strapline should be centred vertically with the bar of the roundel as shown.
+- Horizontally, the distance between the strapline and the roundel is equal to half the width of the roundel, measured across its bar.
+- Capital letter height equals depth of bar Capital letter height centred vertically on bar
+- Distance equals half roundel width
+- The capital letter height of the ‘MAYOR OF LONDON’ logotype should measure the same as the depth of the roundel bar. It is to be displayed in New Johnston Bold, all upper case.
+- When the roundel is less than 14mm wide, then please contact TfL Corporate Design for advice on sizing the ‘MAYOR OF LONDON’ logotype.
+- The capital-letter height of the Mayor’s endorsement should be aligned vertically with the roundel. Horizontally, the minimum distance between the Mayor’s endorsement and the roundel is equal to half the width of the roundel, measured across its bar. Ideally it should be greater than this and the Mayor’s endorsement should be ranged left with the left hand margin of any layout.
+- Where horizontal space is tight, please contact TfL Corporate Design for advice.
+- The Mayor’s endorsement should appear in Corporate blue except for the last two letters ‘ON’. These use either Corporate red (TfL and its direct subsidiaries) or the roundel-ring colour of the individual business units.
+- With single colour professional outputs the ‘ON’ is to be reproduced at a 50% tint. On locally printed material (laser printers etc) the ‘ON’ is to be the same colour as the ‘MAYOR OF LOND’ (100%).
+- When reversed out of a dark background the ‘ON’ is to be in an appropriate second colour.
+
+##### Layout And Composition
+
+- To ensure clarity and impact when producing a roundel, no other graphic elements should be placed within an area equivalent to 0.25 its width (x) all around it. This exclusion zone is indicated here by the dotted box around the grey roundel.
+- The capital letter height of the strapline should measure the same as the depth of the roundel bar.
+- The capital letter height of the strapline should be centred vertically with the bar of the roundel as shown.
+- Horizontally, the distance between the strapline and the roundel is equal to half the width of the roundel, measured across its bar.
+- The capital letter height of the ‘MAYOR OF LONDON’ logotype should measure the same as the depth of the roundel bar. It is to be displayed in New Johnston Bold, all upper case.
+- When the roundel is less than 14mm wide, then please contact TfL Corporate Design for advice on sizing the ‘MAYOR OF LONDON’ logotype.
+- The capital-letter height of the Mayor’s endorsement should be aligned vertically with the roundel. Horizontally, the minimum distance between the Mayor’s endorsement and the roundel is equal to half the width of the roundel, measured across its bar. Ideally it should be greater than this and the Mayor’s endorsement should be ranged left with the left hand margin of any layout.
+- Where horizontal space is tight, please contact TfL Corporate Design for advice.
+- The Mayor’s endorsement should appear in Corporate blue except for the last two letters ‘ON’. These use either Corporate red (TfL and its direct subsidiaries) or the roundel-ring colour of the individual business units.
+- With single colour professional outputs the ‘ON’ is to be reproduced at a 50% tint. On locally printed material (laser printers etc) the ‘ON’ is to be the same colour as the ‘MAYOR OF LOND’ (100%).
+- When reversed out of a dark background the ‘ON’ is to be in an appropriate second colour.
+
+##### Visual Style
+
+- London Underground’s primary typeface is New Johnston Medium, upper and lower case. It is one of the family of New Johnston typefaces owned exclusively by TfL.
+- It is a requirement that body text is to be set at a minimum of 12pt in New Johnston Book. Headings and sub headings should be set in New Johnston Medium. Italics and bold are only to be used for emphasis and short phrases.
+- To ensure clarity and impact when producing a roundel, no other graphic elements should be placed within an area equivalent to 0.25 its width (x) all around it. This exclusion zone is indicated here by the dotted box around the grey roundel.
+- The capital letter height of the strapline should measure the same as the depth of the roundel bar.
+- The capital letter height of the strapline should be centred vertically with the bar of the roundel as shown.
+- Horizontally, the distance between the strapline and the roundel is equal to half the width of the roundel, measured across its bar.
+- The capital letter height of the ‘MAYOR OF LONDON’ logotype should measure the same as the depth of the roundel bar. It is to be displayed in New Johnston Bold, all upper case.
+- When the roundel is less than 14mm wide, then please contact TfL Corporate Design for advice on sizing the ‘MAYOR OF LONDON’ logotype.
+- The capital-letter height of the Mayor’s endorsement should be aligned vertically with the roundel. Horizontally, the minimum distance between the Mayor’s endorsement and the roundel is equal to half the width of the roundel, measured across its bar. Ideally it should be greater than this and the Mayor’s endorsement should be ranged left with the left hand margin of any layout.
+- Where horizontal space is tight, please contact TfL Corporate Design for advice.
+- The Mayor’s endorsement should appear in Corporate blue except for the last two letters ‘ON’. These use either Corporate red (TfL and its direct subsidiaries) or the roundel-ring colour of the individual business units.
+- With single colour professional outputs the ‘ON’ is to be reproduced at a 50% tint. On locally printed material (laser printers etc) the ‘ON’ is to be the same colour as the ‘MAYOR OF LOND’ (100%).
+- When reversed out of a dark background the ‘ON’ is to be in an appropriate second colour.
 
 ## Additional Properties
 

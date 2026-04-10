@@ -2,7 +2,7 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-03-20T08:22:03.392220"
+date: "2026-04-10T09:40:30.951319"
 draft: false
 sectors:
   - software
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - music
   - featured
   - app
+  - music
   - internet
 industries: []
 countries:
@@ -56,29 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - red
-  - green
-  - teal
-  - white
-  - blue
-  - yellow
-  - magenta
-typographies:
-  - gotham
-imagery_styles:
-  - bold
-  - dynamic
-  - monochrome
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "French web-based music and podcast streaming service"
 wikidata_url: "https://www.wikidata.org/wiki/Q602243"
 has_twitter: false
@@ -97,48 +78,375 @@ visual_term_image_urls: {}
 
 ### UNKNOWN
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To connect people to their music and create genuine moments of 'flow', emphasizing the emotional relationship between users and their music [^1].
+
+##### Core Values
+
+- genuine connection
+- emotional authenticity
+- user-centricity
+- reliability
+- confidence
+- human approach
+
+##### Target Audience
+
+- Music lovers seeking a personalized, emotional, and authentic music experience in a global market [^2].
+
+##### Personality Traits
+
+- human
+- confident
+- reliable
+- bold
+- positive
+- conversational
+
+##### Visual Identity Overview
+
+- A modern, clean visual identity featuring a colorful equalizer graphic, bold typography (Gotham Narrow), warm and dynamic color palettes, real and emotive photography, and strict logo usage rules to ensure brand consistency [^3].
+
+#### Categories
+
+##### Brand Voice
+
+- We’re here to connect people to their music, to guide them to experiences we think they’ll like and let them revel in their personal world of music.
+- Use conversational language and colloquialisms. Write as you would speak.
+- Keep it light and positive, sometimes funny (but no dad jokes).
+- Simplify. It doesn’t have to be short, but it does have to be clear.
+- Tell the user what they want to know, not what we want to tell them.
+- Build a relationship.
+- Know what you’re talking about. Talk clearly about what we offer or the music you’re reviewing.
+- Be bold. If it’s amazing, say so.
+- Offer an opinion. Don’t be arrogant enough to think everyone agrees.
+- Use the active voice.
+- Don’t push too hard. We’re not selling, we’re guiding.
+- Respect how important music is to people’s lives. Guide, don’t get in the way.
+- If it’s amazing, say so. If it’s not, don’t.
+- Write only when you have something to say.
+- Never be crass, rude or insensitive. Obviously.
+
+##### Brand Imagery
+
+- Our style of photography must convey the strength of emotion music creates.
+- Our photography should capture real people in a moment of genuine emotion. It has to convey a ‘moment of Flow’.
+- We need imagery that you can look at and think ‘I’ve felt like that’. You need to instantly connect with the subject and understand where their music has taken them.
+- Think capturing the sharp intake of breath before the drop, rather than watching someone jumping over a fire on a beach. That’s a moment of Flow.
+- It has to feel real.
+- Photographs should: • Feel real, not staged or forced • Show faces when people are the focus of the picture • Create a connection with the user through eye contact and/or an emotional connection • Capture a moment in a story, ‘a moment of Flow’ • Have natural backgrounds • Have a warm tone • Are not overly busy with colours
+- Our photography must always present real emotion as the subjects tell a visual story that our audiences can connect with upon a personal level.
+- Using our core colours we show how the photography can be used across a variety of treatments.
+- 1. Portrait usage with core colour accents but without the copy containers 2. Using photography with only the copy containers 3. With core colour accents and copy containers
+
+##### Color Palette
+
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+- Red (main) Pantone®: Red 485 C CMYK: 1/95/94/0 RVB: 227/35/29 Hexa: #e3231d
+- Red (half) Pantone®: Red 486 C CMYK: 2/54/48/0 RVB: 239/144/123 Hexa: #ef907b
+- Yellow (main) Pantone®: Yellow C CMYK: 3/9/100/0 RVB: 254/221/0 Hexa: #fedd00
+- Magenta (main) Pantone®: Magenta C CMYK: 11/92/0/0 RVB: 215/44/136 Hexa: #d72c88
+- Magenta (half) Pantone®: 236 C CMYK: 7/44/0/0 RVB: 232/168/204 Hexa: #e8a8cc
+- Green (main) Pantone®: 382 C CMYK: 32/0/100/0 RVB: 195/210/0 Hexa: #c3d200
+- Green (half) Pantone®: 586 C CMYK: 16/3/63/0 RVB: 228/225/122 Hexa: #e4e17a
+- Blue (main) Pantone®: 298 C CMYK: 67/8/2/0 RVB: 64/180/230 Hexa: #40b4e6
+- Blue (half) Pantone®: 290 C CMYK: 31/6/6/0 RVB: 187/217/234 Hexa: #bbd9ea
+- Our core color system reflects a rich and dynamic expression of our brand. This set will be used as our primary palette to support our imagery and accent our assets.
+- No more than than 3 colours used together within any viewable area
+- No more than 20% of any asset to be accented with colour
+- No asset should be overpowered by any one colour
+- Teal 73 0 23 0 0 181 200 #02B5C8
+- Lemon 4 0 89 0 254 235 21 #FEEB15
+- Fuscia 0 92 38 0 240 39 98 #E72D63
+- These colours are our secondary palette, used for additional support on any given asset to avoid overwhelming the asset with the primary colours. No more than one of these colours wiil be used in any asset, with no more than 10% of the asset in that colour.
+- Bottle Green 83 36 100 30 42 99 33 #2A6321
+- Zest 0 70 94 0 255 103 0 #EC671C
+- Jam 19 100 98 10 184 23 0 #B81700
+- Pale Blue 37 0 12 0 171 219 229 #ABDBE5
+- Berry DZ Blue 79 94 18 6 96 76 51 59 89 47 116 1 36 56 #592F74 #162737
+
+##### Typography
+
+- Typing anything for Deezer? Do it in Gotham Narrow. Your primary go-to font should be Gotham Narrow Book.
+- Gotham Narrow is a font family. We should use Gotham Narrow Bold for headlines and Gotham Narrow Light for occasional call-outs.
+
+##### Logo Usage
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline.
+- When using the logo, maintain a clear space the same size as the E all the way around
+- Minimum size for digital use is 150 x 35 pixels
+- The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset.
+- Offline asset positioning
+- Digital asset positioning
+- Social media asset positioning when 20% wording rule applied
+- It's important that we always respect the usage of our primary logo. Never create or position your own pre-defined taglines below it. If you have any requirements that sit outside of these rules then please contact the Brand Team first.
+- Don't change the logo in any way. Ever. Below are some examples of incorrect logos.
+- Only source the logo from the Studio. Don't take one from Google or old documents.
+- Always leave sufficient clear space around the logo (equivalent to the width of the E)
+- Never use the equaliser on it's own
+- Never reposition the logo items
+- No wave & no wetfloor
+- Never reverse the logo white out of black
+- Wrong subbranding
+- Wrong subbranding & wrong colours
+- Never use the logo as a Monochrome
+- No wordmark alone & no wetfloor
+- Wrong equalizer & wrong subbranding
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+
+##### Tone And Messaging
+
+- We’re here to connect people to their music, to guide them to experiences we think they’ll like and let them revel in their personal world of music.
+- Use conversational language and colloquialisms. Write as you would speak.
+- Keep it light and positive, sometimes funny (but no dad jokes).
+- Simplify. It doesn’t have to be short, but it does have to be clear.
+- Tell the user what they want to know, not what we want to tell them.
+- Build a relationship.
+- Know what you’re talking about. Talk clearly about what we offer or the music you’re reviewing.
+- Be bold. If it’s amazing, say so.
+- Offer an opinion. Don’t be arrogant enough to think everyone agrees.
+- Use the active voice.
+- Don’t push too hard. We’re not selling, we’re guiding.
+- Respect how important music is to people’s lives. Guide, don’t get in the way.
+- If it’s amazing, say so. If it’s not, don’t.
+- Write only when you have something to say.
+- Never be crass, rude or insensitive. Obviously.
+
+##### Visual Style
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline. 1. When using the logo, maintain a clear space the same size as the E all the way around 2. Minimum size for digital use is 150 x 35 pixels 3. The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset. 1. Offline asset positioning 2. Digital asset positioning 3. Social media asset positioning when 20% wording rule applied
+- It's important that we always respect the usage of our primary logo. Never create or position your own pre-defined taglines below it. If you have any requirements that sit outside of these rules then please contact the Brand Team first. 1. Don't change the logo in any way. Ever. Below are some examples of incorrect logos. 2. Only source the logo from the Studio. Don't take one from Google or old documents. 3. Always leave sufficient clear space around the logo (equivalent to the width of the E)
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+- Flow is our differentiating product, but it also describes the experience of using Deezer to find your moment of 'flow', when everything comes together in just the right way. Flow will mean different things to different people, but so does music.
+- We should use the tagline to reinforce our marketing message. It's not generally necessary to use it on social, corporate or product assets 2. Don't use the tagline, or variations of it, in copy 3. The tagline is only 'FLOW MY MUSIC', nothing else. We should never see any other text locked up with the logo like this 4. The distance from the logo to the tagline should be half the width of the Deezer 'E'
+- Sometimes the horizontal logo lockup doesn't fit the space we have to work with, often when we're working with partners and third parties. In this case, we have a secondary, vertical logo lockup.
+- The only time we use the equalizer without the wordmark is on the app logo, when the company name will be written below. This allows for clarity and a lack of repetition.
+- Only a few of our products need a sub­brand, and we have to use the technique sparsely to avoid diluting the Deezer main brand. Each new sub-brand must be approved by Brand and a logo created by the Studio. Please don't make your own. Sub-brand logos must be in English and for global products. For positioning rules use the equaliser block to measure the correct clearence space for all extended logotypes.
+- When using our sub-brands we should always be using the examples shown on the left however certain restricted landscape formats will require the landscape options as shown on the right.
+- Typing anything for Deezer? Do it in Gotham Narrow. Your primary go-to font should be Gotham Narrow Book.
+- Gotham Narrow is a font family. We should use Gotham Narrow Bold for headlines and Gotham Narrow Light for occasional call-outs.
+- Our core color system reflects a rich and dynamic expression of our brand. This set will be used as our primary palette to support our imagery and accent our assets. 1. No more than than 3 colours used together within any viewable area 2. No more than 20% of any asset to be accented with colour 3. No asset should be overpowered by any one colour
+- These colours are our secondary palette, used for additional support on any given asset to avoid overwhelming the asset with the primary colours. No more than one of these colours wiil be used in any asset, with no more than 10% of the asset in that colour.
+- Our style of photography must convey the strength of emotion music creates. Our photography should capture real people in a moment of genuine emotion. It has to convey a ‘moment of Flow’. We need imagery that you can look at and think ‘I’ve felt like that’. You need to instantly connect with the subject and understand where their music has taken them. Think capturing the sharp intake of breath before the drop, rather than watching someone jumping over a fire on a beach. That’s a moment of Flow. It has to feel real.
+- Photographs should: • Feel real, not staged or forced • Show faces when people are the focus of the picture • Create a connection with the user through eye contact and/or an emotional connection • Capture a moment in a story, ‘a moment of Flow’ • Have natural backgrounds • Have a warm tone • Are not overly busy with colours
+- Using our core colours we show how the photography can be used across a variety of treatments. 1. Portrait usage with core colour accents but without the copy containers 2. Using photography with only the copy containers 3. With core colour accents and copy containers
+
+##### Layout And Composition
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline.
+- When using the logo, maintain a clear space the same size as the E all the way around
+- Minimum size for digital use is 150 x 35 pixels
+- The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset.
+- Offline asset positioning
+- Digital asset positioning
+- Social media asset positioning when 20% wording rule applied
+
+##### Sub Branding
+
+- Some of our products demand their own sub-brand to allow us to better sell to a target market.
+- Only a few of our products need a sub­brand, and we have to use the technique sparsely to avoid diluting the Deezer main brand.
+- Each new sub-brand must be approved by Brand and a logo created by the Studio. Please don't make your own.
+- Sub-brand logos must be in English and for global products.
+- For positioning rules use the equaliser block to measure the correct clearence space for all extended logotypes.
+- When using our sub-brands we should always be using the examples shown on the left however certain restricted landscape formats will require the landscape options as shown on the right.
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo is horizontal, with a tagline underneath. Minimum size for digital use is 150x35 pixels. Clear space is equivalent to the width of the 'E' around the logo. The logo consists of an equalizer and wordmark, which must never be amended.
-- Alternative logo option includes inverting the wordmark to white for dark or busy backgrounds. The equalizer must not be used in monochrome.
-- Guidelines explain logo placement for offline assets, digital assets, and social media where space constraints apply (e.g., Facebook's 20% text rule).
-- Logo 'Don'ts' explicitly prohibit altering the logo, using incorrect sub-branding or colors, stretching/distorting elements, or reversing the design. Examples of misuse are shown.
-- Secondary vertical logo lockup for partner and third-party use when the horizontal layout does not fit.
-- Exceptions to logo usage, such as icon-only design for the app logo, where the wordmark is written below for clarity.
+##### Mission
 
-**Color Information:**
+- To connect people to their music and create genuine moments of 'flow', emphasizing the emotional relationship between users and their music [^1].
 
-- Primary logo colors include Pantone, CMYK, RGB, and HEX codes for elements like red, yellow, magenta, green, and blue.
-- Core colors include rich, dynamic palettes such as Lemon (#FEEB15), Fuscia (#E72D63), Teal (#02B5C8), Jam (#B81700), Berry (#592F74), and others, with respective CMYK and RGB values.
-- Secondary supporting colors used sparingly in assets include values identical to primary colors, limited to no more than 10% of any asset.
+##### Core Values
 
-**Typography Information:**
+- genuine connection
+- emotional authenticity
+- user-centricity
+- reliability
+- confidence
+- human approach
 
-- Primary font is Gotham Narrow Book, used for general typography. Headlines should use Gotham Narrow Bold, while call-outs occasionally use Gotham Narrow Light. Examples shown clarify each font's appearance.
-- Typography emphasizes Gotham family’s flexibility for adding visual depth, particularly useful for advertising or outdoor campaigns.
+##### Target Audience
 
-**Imagery Photography:**
+- Music lovers seeking a personalized, emotional, and authentic music experience in a global market [^2].
 
-- Photography should capture 'moments of Flow,' displaying real emotions, genuine connections, and warm tones. It should avoid overly busy compositions.
-- Examples of photographic styles emphasize visuals depicting genuine music moments and real emotion to resonate personally with audiences.
-- Core color and copy treatment examples explained for usage with headlines and accent containers.
+##### Personality Traits
 
-**Spacing Layout:**
+- human
+- confident
+- reliable
+- bold
+- positive
+- conversational
 
-- Clear space around the logo must equal the width of the letter 'E.' This rule applies universally across all assets.
-- Sub-brand logos use the equalizer block to measure correct clearance space from surrounding text.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- A modern, clean visual identity featuring a colorful equalizer graphic, bold typography (Gotham Narrow), warm and dynamic color palettes, real and emotive photography, and strict logo usage rules to ensure brand consistency [^3].
 
-- The tone of voice is described as human, confident, and reliable. It emphasizes conversational language, simplicity, guiding users without excessive promotion, and respecting music’s importance.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- Contact details for the Brand Team include key personnel such as the Head of Brand, Creative Director, and Lead Copywriter for any queries.
+- We’re here to connect people to their music, to guide them to experiences we think they’ll like and let them revel in their personal world of music.
+- Use conversational language and colloquialisms. Write as you would speak.
+- Keep it light and positive, sometimes funny (but no dad jokes).
+- Simplify. It doesn’t have to be short, but it does have to be clear.
+- Tell the user what they want to know, not what we want to tell them.
+- Build a relationship.
+- Know what you’re talking about. Talk clearly about what we offer or the music you’re reviewing.
+- Be bold. If it’s amazing, say so.
+- Offer an opinion. Don’t be arrogant enough to think everyone agrees.
+- Use the active voice.
+- Don’t push too hard. We’re not selling, we’re guiding.
+- Respect how important music is to people’s lives. Guide, don’t get in the way.
+- If it’s amazing, say so. If it’s not, don’t.
+- Write only when you have something to say.
+- Never be crass, rude or insensitive. Obviously.
+
+##### Brand Imagery
+
+- Our style of photography must convey the strength of emotion music creates.
+- Our photography should capture real people in a moment of genuine emotion. It has to convey a ‘moment of Flow’.
+- We need imagery that you can look at and think ‘I’ve felt like that’. You need to instantly connect with the subject and understand where their music has taken them.
+- Think capturing the sharp intake of breath before the drop, rather than watching someone jumping over a fire on a beach. That’s a moment of Flow.
+- It has to feel real.
+- Photographs should: • Feel real, not staged or forced • Show faces when people are the focus of the picture • Create a connection with the user through eye contact and/or an emotional connection • Capture a moment in a story, ‘a moment of Flow’ • Have natural backgrounds • Have a warm tone • Are not overly busy with colours
+- Our photography must always present real emotion as the subjects tell a visual story that our audiences can connect with upon a personal level.
+- Using our core colours we show how the photography can be used across a variety of treatments.
+- 1. Portrait usage with core colour accents but without the copy containers 2. Using photography with only the copy containers 3. With core colour accents and copy containers
+
+##### Color Palette
+
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+- Red (main) Pantone®: Red 485 C CMYK: 1/95/94/0 RVB: 227/35/29 Hexa: #e3231d
+- Red (half) Pantone®: Red 486 C CMYK: 2/54/48/0 RVB: 239/144/123 Hexa: #ef907b
+- Yellow (main) Pantone®: Yellow C CMYK: 3/9/100/0 RVB: 254/221/0 Hexa: #fedd00
+- Magenta (main) Pantone®: Magenta C CMYK: 11/92/0/0 RVB: 215/44/136 Hexa: #d72c88
+- Magenta (half) Pantone®: 236 C CMYK: 7/44/0/0 RVB: 232/168/204 Hexa: #e8a8cc
+- Green (main) Pantone®: 382 C CMYK: 32/0/100/0 RVB: 195/210/0 Hexa: #c3d200
+- Green (half) Pantone®: 586 C CMYK: 16/3/63/0 RVB: 228/225/122 Hexa: #e4e17a
+- Blue (main) Pantone®: 298 C CMYK: 67/8/2/0 RVB: 64/180/230 Hexa: #40b4e6
+- Blue (half) Pantone®: 290 C CMYK: 31/6/6/0 RVB: 187/217/234 Hexa: #bbd9ea
+- Our core color system reflects a rich and dynamic expression of our brand. This set will be used as our primary palette to support our imagery and accent our assets.
+- No more than than 3 colours used together within any viewable area
+- No more than 20% of any asset to be accented with colour
+- No asset should be overpowered by any one colour
+- Teal 73 0 23 0 0 181 200 #02B5C8
+- Lemon 4 0 89 0 254 235 21 #FEEB15
+- Fuscia 0 92 38 0 240 39 98 #E72D63
+- These colours are our secondary palette, used for additional support on any given asset to avoid overwhelming the asset with the primary colours. No more than one of these colours wiil be used in any asset, with no more than 10% of the asset in that colour.
+- Bottle Green 83 36 100 30 42 99 33 #2A6321
+- Zest 0 70 94 0 255 103 0 #EC671C
+- Jam 19 100 98 10 184 23 0 #B81700
+- Pale Blue 37 0 12 0 171 219 229 #ABDBE5
+- Berry DZ Blue 79 94 18 6 96 76 51 59 89 47 116 1 36 56 #592F74 #162737
+
+##### Typography
+
+- Typing anything for Deezer? Do it in Gotham Narrow. Your primary go-to font should be Gotham Narrow Book.
+- Gotham Narrow is a font family. We should use Gotham Narrow Bold for headlines and Gotham Narrow Light for occasional call-outs.
+
+##### Logo Usage
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline.
+- When using the logo, maintain a clear space the same size as the E all the way around
+- Minimum size for digital use is 150 x 35 pixels
+- The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset.
+- Offline asset positioning
+- Digital asset positioning
+- Social media asset positioning when 20% wording rule applied
+- It's important that we always respect the usage of our primary logo. Never create or position your own pre-defined taglines below it. If you have any requirements that sit outside of these rules then please contact the Brand Team first.
+- Don't change the logo in any way. Ever. Below are some examples of incorrect logos.
+- Only source the logo from the Studio. Don't take one from Google or old documents.
+- Always leave sufficient clear space around the logo (equivalent to the width of the E)
+- Never use the equaliser on it's own
+- Never reposition the logo items
+- No wave & no wetfloor
+- Never reverse the logo white out of black
+- Wrong subbranding
+- Wrong subbranding & wrong colours
+- Never use the logo as a Monochrome
+- No wordmark alone & no wetfloor
+- Wrong equalizer & wrong subbranding
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+
+##### Tone And Messaging
+
+- We’re here to connect people to their music, to guide them to experiences we think they’ll like and let them revel in their personal world of music.
+- Use conversational language and colloquialisms. Write as you would speak.
+- Keep it light and positive, sometimes funny (but no dad jokes).
+- Simplify. It doesn’t have to be short, but it does have to be clear.
+- Tell the user what they want to know, not what we want to tell them.
+- Build a relationship.
+- Know what you’re talking about. Talk clearly about what we offer or the music you’re reviewing.
+- Be bold. If it’s amazing, say so.
+- Offer an opinion. Don’t be arrogant enough to think everyone agrees.
+- Use the active voice.
+- Don’t push too hard. We’re not selling, we’re guiding.
+- Respect how important music is to people’s lives. Guide, don’t get in the way.
+- If it’s amazing, say so. If it’s not, don’t.
+- Write only when you have something to say.
+- Never be crass, rude or insensitive. Obviously.
+
+##### Visual Style
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline. 1. When using the logo, maintain a clear space the same size as the E all the way around 2. Minimum size for digital use is 150 x 35 pixels 3. The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset. 1. Offline asset positioning 2. Digital asset positioning 3. Social media asset positioning when 20% wording rule applied
+- It's important that we always respect the usage of our primary logo. Never create or position your own pre-defined taglines below it. If you have any requirements that sit outside of these rules then please contact the Brand Team first. 1. Don't change the logo in any way. Ever. Below are some examples of incorrect logos. 2. Only source the logo from the Studio. Don't take one from Google or old documents. 3. Always leave sufficient clear space around the logo (equivalent to the width of the E)
+- Should you ever need to reference or recreate the colours of the logo, you can do that using the colour values below. Please do not use these colours in any other circumstances.
+- Flow is our differentiating product, but it also describes the experience of using Deezer to find your moment of 'flow', when everything comes together in just the right way. Flow will mean different things to different people, but so does music.
+- We should use the tagline to reinforce our marketing message. It's not generally necessary to use it on social, corporate or product assets 2. Don't use the tagline, or variations of it, in copy 3. The tagline is only 'FLOW MY MUSIC', nothing else. We should never see any other text locked up with the logo like this 4. The distance from the logo to the tagline should be half the width of the Deezer 'E'
+- Sometimes the horizontal logo lockup doesn't fit the space we have to work with, often when we're working with partners and third parties. In this case, we have a secondary, vertical logo lockup.
+- The only time we use the equalizer without the wordmark is on the app logo, when the company name will be written below. This allows for clarity and a lack of repetition.
+- Only a few of our products need a sub­brand, and we have to use the technique sparsely to avoid diluting the Deezer main brand. Each new sub-brand must be approved by Brand and a logo created by the Studio. Please don't make your own. Sub-brand logos must be in English and for global products. For positioning rules use the equaliser block to measure the correct clearence space for all extended logotypes.
+- When using our sub-brands we should always be using the examples shown on the left however certain restricted landscape formats will require the landscape options as shown on the right.
+- Typing anything for Deezer? Do it in Gotham Narrow. Your primary go-to font should be Gotham Narrow Book.
+- Gotham Narrow is a font family. We should use Gotham Narrow Bold for headlines and Gotham Narrow Light for occasional call-outs.
+- Our core color system reflects a rich and dynamic expression of our brand. This set will be used as our primary palette to support our imagery and accent our assets. 1. No more than than 3 colours used together within any viewable area 2. No more than 20% of any asset to be accented with colour 3. No asset should be overpowered by any one colour
+- These colours are our secondary palette, used for additional support on any given asset to avoid overwhelming the asset with the primary colours. No more than one of these colours wiil be used in any asset, with no more than 10% of the asset in that colour.
+- Our style of photography must convey the strength of emotion music creates. Our photography should capture real people in a moment of genuine emotion. It has to convey a ‘moment of Flow’. We need imagery that you can look at and think ‘I’ve felt like that’. You need to instantly connect with the subject and understand where their music has taken them. Think capturing the sharp intake of breath before the drop, rather than watching someone jumping over a fire on a beach. That’s a moment of Flow. It has to feel real.
+- Photographs should: • Feel real, not staged or forced • Show faces when people are the focus of the picture • Create a connection with the user through eye contact and/or an emotional connection • Capture a moment in a story, ‘a moment of Flow’ • Have natural backgrounds • Have a warm tone • Are not overly busy with colours
+- Using our core colours we show how the photography can be used across a variety of treatments. 1. Portrait usage with core colour accents but without the copy containers 2. Using photography with only the copy containers 3. With core colour accents and copy containers
+
+##### Layout And Composition
+
+- The Primary logo is a horizontal layout with tagline below. When the logo is smaller than 100 pixels wide, or the design demands it, we can remove the tagline.
+- When using the logo, maintain a clear space the same size as the E all the way around
+- Minimum size for digital use is 150 x 35 pixels
+- The logo is made up of two parts, the equalizer and wordmark. Do not amend it ever.
+- When using the logo, maintain a safety space that equals the width of the letter «E» around it.
+- With a dark or busy background, we have the option to invert the wordmark to white. We should not ever use the equalizer in monochrome.
+- It's important we consider the clear space around the logo and the other elements on the asset when placing it in an asset.
+- Offline asset positioning
+- Digital asset positioning
+- Social media asset positioning when 20% wording rule applied
+
+##### Sub Branding
+
+- Some of our products demand their own sub-brand to allow us to better sell to a target market.
+- Only a few of our products need a sub­brand, and we have to use the technique sparsely to avoid diluting the Deezer main brand.
+- Each new sub-brand must be approved by Brand and a logo created by the Studio. Please don't make your own.
+- Sub-brand logos must be in English and for global products.
+- For positioning rules use the equaliser block to measure the correct clearence space for all extended logotypes.
+- When using our sub-brands we should always be using the examples shown on the left however certain restricted landscape formats will require the landscape options as shown on the right.
 
 ## Additional Properties
 

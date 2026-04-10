@@ -2,7 +2,7 @@
 title: GAISF
 slug: gaisf
 description: ""
-date: "2026-03-20T08:22:05.540998"
+date: "2026-04-10T09:40:34.449283"
 draft: false
 sectors:
   - sports
@@ -50,11 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "former umbrella sports organization, dissolved in 2023"
@@ -74,28 +71,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logotype presentation section. This page describes the design and significance of the logo.
-- Rules for clear space and minimum size of the logo to ensure readability and prominence.
-- Logotype presentation section. This page describes the design and significance of the logo.
-
-**Color Information:**
-
-- Brand colors are outlined, potentially including specifications for various applications.
-- Corporate color guidelines, including their use in branding materials.
-
-**Typography Information:**
-
-- Corporate typeface guidelines, including the primary fonts used in branding.
-
-**Imagery Photography:**
-
-- Guidelines for photographic style, including rules for black-and-white and color images.
-
-**Spacing Layout:**
-
-- Rules covering the layout and spacing of stationery items like business cards and letterheads.
+*Guidelines data not available*
 
 ## Additional Properties
 

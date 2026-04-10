@@ -2,7 +2,7 @@
 title: HELMo
 slug: helmo
 description: ""
-date: "2026-03-20T08:22:04.419070"
+date: "2026-04-10T09:40:33.164113"
 draft: false
 sectors:
   - education
@@ -51,16 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - gray
-  - white
-typographies:
-  - "open-sans"
-  - arial
-imagery_styles:
-  - bold
-  - colorful
-  - monochrome
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: association football club
 wikidata_url: "https://www.wikidata.org/wiki/Q636315"
 has_twitter: false
@@ -79,24 +72,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo-related content identified on page 4: The HELMo logo consists of three elements: the acronym HELMo (on two lines), five points of color arranged in a staircase pattern, and the baseline containing the full name. These components are compactly grouped to portray solidity and progression. The logo also reflects vivacity through its curves and colorful points, representing diversity in the institution's offerings.
-- Logo-related content identified on page 5: The logo should primarily be placed on a white background and promotes color variants: default gray lettering with colorful points. As necessary, monochrome variations (positive and negative) are acceptable without the white block.
-- Logo-related content identified on page 6: Clear spaces or 'safe zones' are defined as the width of the colorful square surrounding the logo, ensuring visual balance when applied.
-- Logo-related content identified on page 18: The logo must always be used in its original composition, preserving defined colors without adding effects like shadows, gradients, or outlines. The size, proportion, spacing, and arrangement of elements cannot be modified.
-
-**Color Information:**
-
-- Color specifications detected on page 7: The logo utilizes a base gray and five colors, each representing a specific department. Additional colors mentioned are fuchsia for emphasis or highlights. Support provided for color codes: CMYK, RGB, and HEX.
-
-**Typography Information:**
-
-- Typography information extracted on page 16: Fonts specified include Open Sans (preferred for all documents and available in regular, bold, semibold, and light variants), Open Sans Condensed (for spaces with less width), Arial and Calibri ('fallback' fonts), and Good Headline Pro (reserved for titles, not freely available, Adobe-linked). Fonts are applicable for web and print documents.
-
-**Notes:**
-
-- Notes or contact-related text identified on page 21: Service communication available at the official website. Contact information included for further inquiries.
+*Guidelines data not available*
 
 ## Additional Properties
 

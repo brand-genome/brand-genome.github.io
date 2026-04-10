@@ -2,11 +2,11 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-03-20T08:22:05.748910"
+date: "2026-04-10T09:40:34.729396"
 draft: false
 sectors:
-  - "consumer-goods"
   - hardware
+  - "consumer-goods"
   - watches
 regions:
   - switzerland
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - metallurgy
   - "knife-manufacturer"
+  - metallurgy
 countries:
   - switzerland
 revenue_buckets: []
@@ -29,10 +29,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - cutlery
   - watch
   - "swiss-army-knife"
   - baggage
-  - cutlery
 products: []
 headquarters_locations:
   - ibach
@@ -58,21 +58,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - horizontal
-brand_colors:
-  - silver
-  - red
-  - "pantone-201"
-  - white
-  - black
-  - "pantone-877"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - graphic
-  - photography
+imagery_styles: []
 wikidata_description: "Swiss manufacturer of Swiss Army Knives, cutlery, watches, travel gear, and fragrances"
 wikidata_url: "https://www.wikidata.org/wiki/Q503405"
 has_twitter: false
@@ -91,38 +80,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Logo exists in various formats: Cross & Shield, Victorinox logo, Victorinox Swiss Army logo. Versions include centered (standard), horizontal (special for certain applications). Clear space, minimum sizes, and alignment rules are referenced.
-- Logo file types include EPS files prepared in Adobe Illustrator CS3. Variants include outline, stencil, and tonal applications in various configurations, specified for specific print and coating purposes. File colors supported: Black (1c), Red (Pantone 201), Silver (Pantone 877), Custom mixes.
-- Do's & Don'ts for logo usage specify avoiding distortion, incorrect color assignments, improper backgrounds, and adhering to the official clear space margins for maintaining visibility.
-
-**Color Information:**
-
-- Corporate colors include Victorinox Red (Pantone 201 C/M/U) for coated, matte, and uncoated applications, Silver (Pantone 877 CMU), Black (100% K), and White. These are used for logo, banners, and promotional content.
-
-**Typography Information:**
-
-- Primary font family: Victorinox Corporate Font. Specific roles for text formatting and positioning outlined, especially for headlines versus body text. All capitalizations are regulated by these corporate standards.
-- Special attention is given to font sizes and leading, which often depend on Cross & Shield proportions.
-
-**Imagery Photography:**
-
-- Photography is central to the Victorinox Brand Design. Guidelines include high-resolution cutouts of the product overlapping banners and background splinters, and variable angles for splinter designs for different layouts.
-
-**Spacing Layout:**
-
-- Spacing rules use consistent proportions based on elements like Cross & Shield dimensions. E.g., 1.5x Cross & Shield spacing for logo from top of the publication.
-- Standard alignment of text and images to follow grids based on predefined standardized sizes for advertising and Print POS formats such as banners and online media.
-
-**Brand Voice:**
-
-- Brand language emphasizes corporate Swissness, with proper branding terminology for multilingual uses like Victorinox Swiss Army or Cross & Shield always capitalized in alignment with provided text format styles.
-
-**Notes:**
-
-- All graphic assets and publications are digitally available. Special access to files is restricted to groups such as marketing or product teams. Reference materials and asset breaks are outlined in the appendix.
-- Logo customization options and variability based on technical design principles or use cases are clearly presented in the appendix.
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -132,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Watch](/products_or_materials_produced/watch/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Baggage](/products_or_materials_produced/baggage/); [Cutlery](/products_or_materials_produced/cutlery/) |
+| Product Or Material Produced | [Cutlery](/products_or_materials_produced/cutlery/); [Watch](/products_or_materials_produced/watch/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Baggage](/products_or_materials_produced/baggage/) |
 | Headquarters Location | [Ibach](/headquarters_locations/ibach/) |
 | Foundation Date | [1884](/foundation_dates/1884/) |
 | Headquarters Location | Ibach |

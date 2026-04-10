@@ -2,7 +2,7 @@
 title: Iberia
 slug: iberia
 description: ""
-date: "2026-03-20T08:22:04.513618"
+date: "2026-04-10T09:40:33.289612"
 draft: false
 sectors:
   - airline
@@ -47,20 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - orange
-  - black
-  - white
-typographies:
-  - optima
-imagery_styles:
-  - bold
-  - dynamic
-  - graphic
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: town in the U.S. state of Missouri
 wikidata_url: "https://www.wikidata.org/wiki/Q961803"
 has_twitter: false
@@ -80,31 +70,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- The logomarca comprises the name of the company 'Iberia' written in calligraphic font. The initial 'I' and 'e' are designed with freeform graphics to provide a sober and dynamic image, strengthened by the corporate colors: red and orange.
-- Versions of the logo available in black, white, and grayscale for optimal reproduction and readability.
-- Geometric construction of the logo follows modular proportions of 9x5.5 relative to unit measurement 'X', ensuring proper scaling across different supports and sizes.
-- Logo versions available in negative (reversed colors).
-- Minimum reproduction size specified as 15mm length for the logomarca.
-- Versions of the logo available in lines and embossing styles.
-- Protection area around the logo must be clear of graphic elements to ensure perception and readability. The protection area is defined using measurement 'X'.
-- Examples of incorrect logo usage that negatively impacts the corporate brand identity.
-- Applications of the logo in various chromatic environments showcased.
-
-**Color Information:**
-
-- Primary corporate colors: Orange (Pantone DS 36 1C) and Red (Pantone DS 86 1C).
-- Elemental complementary colors used in various applications of branding designs such as stationary, folders, and tickets.
-
-**Typography Information:**
-
-- La principal familia tipográfica corporativa es 'Calligraph810 BT'. As support typography, 'Optima LT Std' is used in the following weights: Roman, Italic, Medium, Demi, Bold.
-- Typography 'Calligraph810 BT' used for body text and headers. Additionally, different weights of 'Optima LT Std' are implemented for supporting text designs.
-
-**Spacing Layout:**
-
-- Protection space is defined by proportions such as 1+3/4X and 1+1/4X, which must remain free of graphical elements to avoid interference with the perception of the brand.
+*Guidelines data not available*
 
 ## Additional Properties
 

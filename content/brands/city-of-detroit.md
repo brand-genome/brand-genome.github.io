@@ -2,7 +2,7 @@
 title: City of Detroit
 slug: "city-of-detroit"
 description: ""
-date: "2026-03-20T08:22:04.420288"
+date: "2026-04-10T09:40:33.166546"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "united-states"
@@ -51,22 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - yellow
-  - green
-  - white
-  - black
-typographies:
-  - montserrat
-imagery_styles:
-  - portrait
-  - graphic
-  - landscape
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "city in and county seat of Wayne County, and largest city in State of Michigan, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q12439"
 has_twitter: false
@@ -85,40 +73,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- BSEED does not have its own logo but uses an identity mark derived from the City of Detroit's logo. The stacked (vertical) mark is the primary version, while the horizontal mark is used sparingly.
-- Detroit Media branding includes identity marks and new graphic elements for television, aligned with the city style guide.
-
-**Color Information:**
-
-- Lower thirds for Detroit Media channels are color-coded to identify programming. These colors are exclusive to Detroit Media. Examples include City Green and Pale Green.
-- Form styles include colors such as City Green (#008E40), and Accent Yellow for alerts. Hover states in buttons may also use Pale Green.
-- Alerts utilize colors such as #D72929 for High Emergency, #008E40 for Low Emergency, and Accent Yellow for Medium Emergency.
-
-**Typography Information:**
-
-- Fonts include Montserrat with weights Black, Light, and Uppercase styles. Specific use cases include headings (18px Montserrat Black Uppercase), descriptions (14px Montserrat Light Sentence Case), and form labels (16px Montserrat Black Uppercase).
-
-**Imagery Photography:**
-
-- Hero images for department homepages are recommended at dimensions 1920x835px and should feature Detroiters interacting. Landscape images use resolutions of 1170x878px (4:3 aspect ratio) or 1170x658px (16:9 aspect ratio). Portrait images and profile images are also detailed with specific dimensions.
-- Profile images have dimensions of 362x362px or 200x200px in square format, typically with a 50% border radius. Hover states show grayscale/black and white variations.
-- Full-width images recommended at 1920px width remain centered on screens larger than 1920px. These are mostly used for department highlight sections.
-
-**Spacing Layout:**
-
-- Form fields and buttons include padding specifications such as 21px x 12px for text fields and 9px x 12px for buttons. Buttons also have hover effects using Pale Green backgrounds.
-- FAQs are styled with FontAwesome chevron icons, with answers separated from questions by a 5px Accent Yellow border, and padding of 20px 20px 10px 30px.
-
-**Brand Voice:**
-
-- Detroit Media's mission emphasizes professionalism, transparency, and accurately representing the past, present, and future of Detroit in all creative outputs.
-
-**Notes:**
-
-- BSEED's color-coded system visually organizes different types of forms (e.g., Environmental Affairs, Construction & Inspection forms) to support communication with diverse socioeconomic backgrounds.
-- Embedded content is used widely across the website for information like contact directories, maps, and locations.
+*Guidelines data not available*
 
 ## Additional Properties
 

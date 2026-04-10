@@ -2,7 +2,7 @@
 title: Node.js
 slug: nodejs
 description: ""
-date: "2026-03-20T08:22:05.787459"
+date: "2026-04-10T09:40:34.772159"
 draft: false
 sectors:
   - software
@@ -48,12 +48,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: JavaScript runtime environment
@@ -76,24 +72,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The Primary Logo and Primary Icon + Pattern represent a refreshed logo using a modernized hexagon design with overlapping bands to symbolize Node.js's cross-platform environment.
-- Event logos include designs such as 'NODE.JS LIVE' and 'NODE.JS INTERACTIVE'.
-- Logo variations for light and dark backgrounds: full-color logo is recommended for light backgrounds; solid black or white logo is advised for brand-colored backgrounds. Solid white logo is recommended for all dark backgrounds.
-- Clearspace rules define the minimum space around the logo as half the height of the hexagon (Clearspace = hexagon height / 2).
-
-**Color Information:**
-
-- Recommendations on logo color usage: full-color logo on light backgrounds; solid black or white logos for brand-colored backgrounds; solid white logo on dark backgrounds.
-
-**Spacing Layout:**
-
-- The clear space around the logo must be equal to half the height of the hexagon.
-
-**Notes:**
-
-- The PDF appears to primarily focus on logo design and variations, with considerations for brand colors and clear space rules.
+*Guidelines data not available*
 
 ## Additional Properties
 

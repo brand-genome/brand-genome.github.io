@@ -2,7 +2,7 @@
 title: Winebow
 slug: winebow
 description: ""
-date: "2026-03-20T08:22:05.148147"
+date: "2026-04-10T09:40:33.987525"
 draft: false
 sectors:
   - drink
@@ -46,31 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - alternate
-  - primary
-  - icon
-  - secondary
-brand_colors:
-  - red
-  - green
-  - gold
-  - navy
-  - white
-  - blue
-  - gray
-  - orange
-  - black
-typographies:
-  - serif
-  - "sans-serif"
-  - lato
-  - georgia
-imagery_styles:
-  - organic
-  - bold
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -88,33 +67,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Some say it all starts with this. Perhaps more than any other single element, our logo represents who we are.
-- Alternate primary logo versions: Black logo for grayscale instances, White logo for black backgrounds or where reversed logos lack contrast. Minimum width should be 100px (or 1.5 inches). Tagline: FINE WINE + SPIRITS.
-- Incorrect usage: Do not stack logo elements. Do not change fonts or colors.
-- Secondary Logo: Maintain safe area around each side of the icon equivalent to the width of the letter 'O'. Alternate versions and usage are outlined: use the white logo on black backgrounds or low-contrast situations.
-- Primary Logo Mark: Includes a white logo version for black backgrounds or low-contrast situations. Minimum size guidelines included.
-
-**Color Information:**
-
-- Colors are used to evoke elegance and sophistication. Navy blue is the primary color and the 'hero color' for all executions.
-- Primary color palette: BLUE - RGB: 29, 56, 109; HEX: #1D386D; CMYK: 100, 87, 27, 19; PMS 288C. BLACK - RGB: 0, 0, 0; HEX: #000000; CMYK: 0, 0, 0, 100. WHITE - RGB: 255, 255, 255; HEX: #FFFFFF; CMYK: 0, 0, 0, 0.
-- Accent colors: GREEN - RGB: 120, 153, 4; HEX: #789904. GOLD - RGB: 218, 169, 0; GRAY - RGB: 193, 197, 200.
-- Secondary photography palette: GOLD - PMS 110C (CMYK: 16, 31, 100, 0; RGB: 218, 169, 0). RED - PMS 7427C (CMYK: 25, 100, 81, 22; RGB: 156, 24, 48; HEX: #9C1B2F). ORANGE - PMS 1385C (CMYK: 13, 60, 100, 2; RGB: 213, 122, 39). GREEN - PMS 5757C (CMYK: 56, 40, 100, 22; RGB: 109, 113, 47; HEX: #6D712F).
-
-**Typography Information:**
-
-- Official fonts should follow given size and hierarchy guidelines.
-- Sans-serif typeface for headlines, subheads, and body copy: 'Lato' (weights: Light, Medium, Semibold, Heavy, Black). Lato can be downloaded from Google Fonts.
-- Serif typeface for headlines, subheads, and body copy: 'Adobe Caslon Pro' (weights: Regular, SemiBold, Bold).
-- PowerPoint typefaces used: 'Georgia' (weights: Regular, Bold).
-
-**Imagery Photography:**
-
-- Imagery should be beautiful, personal, and rich with storytelling. Prefer natural, organic elements with high quality and relevance.
-- Brand in use: Ensure all imagery aligns with the brand essence and differentiates from competitors. Provided images are conceptual and inspirational, not final.
-
-**Notes:**
-
-- Ensure the brand guidelines support a cohesive position that reflects the essence of the Winebow identity.
+*Guidelines data not available*

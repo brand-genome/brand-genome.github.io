@@ -2,7 +2,7 @@
 title: Mount Royal University
 slug: "mount-royal-university"
 description: ""
-date: "2026-03-20T08:22:04.201347"
+date: "2026-04-10T09:40:32.562406"
 draft: false
 sectors:
   - education
@@ -54,31 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - lockup
-  - wordmark
-  - primary
-  - icon
-brand_colors:
-  - silver
-  - red
-  - "pantone-429"
-  - green
-  - gold
-  - "pantone-307"
-  - "pantone-540"
-  - white
-  - cyan
-  - blue
-  - black
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - geometric
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public university in Calgary, Alberta, Canada"
 wikidata_url: "https://www.wikidata.org/wiki/Q13650869"
 has_twitter: false
@@ -98,49 +77,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo minimum sizes: 0.7 inch / 17.5 mm, 0.1575 inch / 4 mm, equivalent pixel counts provided for digital use: 140px / 25px.
-- Clear space around the logo required: Equivalent to the height of the vertical chevron.
-- Logo placement examples for print and display materials, showcasing correct and incorrect alignment for multiple logos.
-- Examples of incorrect logo use include distortions, rotations, color alterations, usage on busy backgrounds, and improper spacing.
-- Sub-brand logos are generally for internal MRU use except for externally facing institutes and centers. Sub-brand components can include institutional names, division identifiers, and division-level organizations.
-- For sub-brands, clear space guidelines: The height of the chevron icon for division logos determines spacing.
-- Examples of sub-brands at Mount Royal include faculties, schools, internal services, and externally facing institutes categorized into different sets.
-- You Belong Here (YBH) wordmark: Square format logo is to be centered on imagery and must not overlap with other graphical elements, with a minimum size of 80px width.
-- Cougars branding encompasses logos like Cougar Head, Cougars Wordmark, and MRU lockup—distinct from academic primary logos.
-
-**Color Information:**
-
-- Cougars primary and secondary colors: Lincoln Blue (Pantone 307 C, #007fb5), Focus Blue (Pantone Cyan, #00b1ff), Summit White (C/M/Y/K: 0/0/0/0), Historic Silver (Pantone 429 C #a7a9ac), and Kerby Blue (Pantone 540 C + 295 U, #003352).
-- Prohibited colors include red, gold, green, and incorrect blue tones.
-
-**Typography Information:**
-
-- Typography for Cougars branding: Forza typeface in variants Light, Book, Medium, Bold, and Black. Described as geometric, ardent, and disciplined.
-- Sub-headings and example text styling showcase consistent font hierarchy and typographic branding.
-
-**Imagery Photography:**
-
-- Photography is used to convey Mount Royal's brand through strong storytelling and visual content (e.g., You Belong Here campaign).
-- Visual elements in videos need to follow guidelines such as 16:9 aspect ratio, proper copyright adherence, and focus on model releases.
-
-**Spacing Layout:**
-
-- Clear space for all logos and YBH wordmark equivalent to height metrics of specific letters or icon components.
-- Cougar logos require clear spacing equivalent to the height of the letter 'C' in the word 'Cougars'.
-
-**Brand Voice:**
-
-- Key descriptors of Cougars brand voice include passion, pride, determination, and authenticity. The language emphasizes success, focus, and aspiration.
-- The YBH campaign aims to promote inclusivity and belonging through brand pillars, student and faculty success stories, and motivational taglines.
-
-**Notes:**
-
-- Logos must never be altered or distorted. Mandatory adherence to provided design files without modifications.
-- Directional signage requests must be routed via MRU's specific portal.
-- Video content must not contain unauthorized copyrighted material, emphasizing institutional copyright policies.
-- Specific department and center names included for sub-brands (e.g., Wellness Services, Conservatory).
+*Guidelines data not available*
 
 ## Additional Properties
 

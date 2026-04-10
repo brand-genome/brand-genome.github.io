@@ -2,11 +2,11 @@
 title: The Wayfarers
 slug: "the-wayfarers"
 description: ""
-date: "2026-03-20T08:22:03.373120"
+date: "2026-04-10T09:40:30.893619"
 draft: false
 sectors:
-  - tourism
   - software
+  - tourism
 regions:
   - india
 years:
@@ -55,18 +55,12 @@ imagery_styles: []
 wikidata_description: Australian musical group
 wikidata_url: "https://www.wikidata.org/wiki/Q48700706"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |

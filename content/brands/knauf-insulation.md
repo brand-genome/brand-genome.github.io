@@ -2,11 +2,11 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-03-20T08:22:05.554852"
+date: "2026-04-10T09:40:34.466137"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - germany
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - belgium
   - germany
+  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,14 +53,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - grey
-  - blue
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - photography
+imagery_styles: []
 wikidata_description: Insulation product manufacturer
 wikidata_url: "https://www.wikidata.org/wiki/Q1776934"
 has_twitter: false
@@ -84,34 +79,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Use the master logo on all literature and marketing materials. Monotone white logo recommended for darker backgrounds.
-- Do's and don'ts for logo usage, including guidelines on placement, contrast requirements, and prohibited uses such as rotation or stretching.
-
-**Color Information:**
-
-- Corporate colors including KI Blue (CMYK: 100, 0, 0, 0), KI Grey (CMYK: 7, 0, 0, 42), and others for branding consistency.
-
-**Typography Information:**
-
-- Guidelines for text styling, capitalization rules for product names, active voice usage, and British English conventions.
-
-**Imagery Photography:**
-
-- Photography guidelines emphasizing human-centric imagery and suitable lighting for promotional materials.
-
-**Spacing Layout:**
-
-- Instructions for table layouts featuring recommended font styles and separator thicknesses relative to text size.
-
-**Brand Voice:**
-
-- Tone of voice to be personal, using first-person language, active voice, and concise messaging.
-
-**Notes:**
-
-- General observations regarding accessibility issues in document extraction process.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-03-20T08:22:05.566371"
+date: "2026-04-10T09:40:34.483053"
 draft: false
 sectors:
   - electronics
@@ -52,20 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - gray
-  - white
-  - "pantone-876"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - gradient
-  - photography
+imagery_styles: []
 wikidata_description: Japanese multinational electronics company
 wikidata_url: "https://www.wikidata.org/wiki/Q855479"
 has_twitter: false
@@ -84,29 +74,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- Various instances of logo usage and parameters are detailed across multiple pages. This includes logo versions such as horizontal and vertical, discussions on clear space, minimum size requirements, safe zone rules, and examples of correct and incorrect usage.
-
-**Color Information:**
-
-- Color specifications such as Pantone 876 C (Metallic Copper), CMYK builds for Rich Black, grayscale gradient, and rules for primary and accent color usage. Includes references to layered Photoshop PSD files for application.
-
-**Typography Information:**
-
-- Details on font families like ITC Avant Garde Gothic Std (Book, Medium, Demi) used for headers, body text, and additional product information. Specific usage like kerning, uppercase style, and white color coding across packaging front and back panels.
-
-**Imagery Photography:**
-
-- Instructions on photography style including the use of a soft, graduated charcoal gray background to enhance product imagery against rich black tones.
-
-**Spacing Layout:**
-
-- Detailed layout rules for spacing and alignment, including construction sizes on packaging panels, optical components, and Peg Hook integration rules.
-
-**Brand Voice:**
-
-- TDK Life on Record's tone of voice focuses on authenticity, heritage, and consumer experience in global marketing efforts.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Vetus
 slug: vetus
 description: ""
-date: "2026-03-20T08:22:04.676630"
+date: "2026-04-10T09:40:33.392157"
 draft: false
 sectors:
-  - "manufacturing-industry"
   - hardware
+  - "manufacturing-industry"
 regions:
   - netherlands
 years:
@@ -31,8 +31,8 @@ headquarters_locations:
   - oviedo
 subsidiaries: []
 foundation_dates:
-  - 1930
   - 2005
+  - 1930
 foundation_year_buckets:
   - 1930S
   - 2000S
@@ -53,16 +53,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-121"
-  - "pantone-123"
-  - white
-  - blue
-  - yellow
-  - "pantone-295"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Spanish association football team
@@ -87,17 +79,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Different file formats for logos available: EPS (e.g., Logo_Vetus_fc.eps, Logo_Vetus_RGB.eps, Logo_Vetus_black.eps). Both full color and black/white variations exist.
-- VETUS logos include versions for full color, RGB, PMS coated, PMS uncoated, black, and negative (white). Example filenames include Logo_Vetus_fc.eps, Logo_Vetus_RGB.eps, Logo_Vetus_pms_coated_123C_295C.eps.
-- All VETUS logos are available from the Marketing Department.
-
-**Color Information:**
-
-- VETUS color palette: Yellow (Pantone 123 C, RGB (255, 198, 30)); Blue (Pantone 295 C, RGB (0, 56, 107)). Includes coated/uncoated paper distinctions.
-- Primary VETUS colors are Blue (CMYK: C:100 M:85 Y:32 K:19, Pantone 295 C, Pantone 295 U, RGB: R:0 G:56 B:107, RAL 5003) and Yellow (CMYK: C:0 M:22 Y:95 K:0, Pantone 123 C for coated paper, Pantone 121 U for uncoated paper, RGB: R:255 G:198 B:30, RAL 1007).
-- Color guidelines discuss the necessity of using standardized Pantone numbers for coated and uncoated papers to maintain brand consistency on different paper types (Gloss - Pantone 123 C, Matte - Pantone 121 U).
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -108,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Oviedo](/headquarters_locations/oviedo/) |
-| Foundation Date | [1930](/foundation_dates/1930/); [2005](/foundation_dates/2005/) |
+| Foundation Date | [2005](/foundation_dates/2005/); [1930](/foundation_dates/1930/) |
 | Home Venue | Carlos Tartiere Stadium |
 | League Or Competition | Tercera División, Primera Federación |
 | Sport | association football |

@@ -2,7 +2,7 @@
 title: Genç Saadet
 slug: "genc-saadet"
 description: ""
-date: "2026-03-20T08:22:05.066436"
+date: "2026-04-10T09:40:33.835644"
 draft: false
 sectors:
   - ngo
@@ -46,16 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-298"
-  - "pantone-2955"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - gradient
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -74,25 +68,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Clear space/safe zones for the logo are defined as 7.5x and 5x (where x likely refers to proportions relative to the logo).
-- Minimum size requirements appear to show proportions for the logo using multiples of x and x/4.
-
-**Color Information:**
-
-- Primary colors defined as PANTONE 2955 C and PANTONE 298 C. Associated color codes: C:0 M:0 Y:0 K:0 (likely CMYK). Colors are shown with gradient percentages: 80%, 60%, 40%, 20%, 0%.
-
-**Typography Information:**
-
-- Two font families specified: Campton Book and Campton Bold. These are labeled as primary and secondary text styles.
-- Alphabet glyphs and numbers are displayed, formatted in Campton fonts.
-
-**Spacing Layout:**
-
-- Spacing rules include multiples of x. Visual examples present spacing of 2x around elements.
-
-**Notes:**
-
-- The PDF contains various brand asset templates such as business cards, envelopes, physical branding objects (e.g., balloons).
-- Some pages contain corrupted or indeterminate data (e.g., placeholder symbols). More contextual information may exist but is obscured.
+*Guidelines data not available*

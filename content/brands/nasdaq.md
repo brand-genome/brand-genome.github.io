@@ -2,7 +2,7 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-03-20T08:22:03.506945"
+date: "2026-04-10T09:40:31.085545"
 draft: false
 sectors:
   - finance
@@ -20,8 +20,8 @@ tags:
 industries:
   - "financial-services"
 countries:
-  - sweden
   - "united-states"
+  - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -56,20 +56,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - gray
-  - white
-  - blue
-typographies:
-  - impact
-imagery_styles:
-  - modern
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American fully electronic stock exchange
 wikidata_url: "https://www.wikidata.org/wiki/Q82059"
 has_twitter: false
@@ -88,32 +78,279 @@ visual_term_image_urls: {}
 
 ### 2021
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- The Nasdaq brand embodies who we are and what we value, creating a distinct and powerful presence through its visual identity [^1].
+
+##### Core Values
+
+- triumph
+- innovation
+- power
+- drive
+- skill
+- confidence
+- strength
+- humanity
+
+##### Target Audience
+
+- Individuals and organizations engaging with Nasdaq's products and services across all applications and media [^2].
+
+##### Personality Traits
+
+- powerful
+- driven
+- skillful
+- confident
+- strong
+- dynamic
+- modern
+
+##### Visual Identity Overview
+
+- Nasdaq's visual identity is defined by a consistent use of its primary color palette, a modern and confident typeface, and a stylized logo symbolizing triumph and innovation. Guidelines ensure clear space, minimum size, and proper logo usage to maintain a strong, recognizable brand presence [^3].
+
+#### Categories
+
+##### Color Palette
+
+- The primary color palette is composed of colors used in the Performance Signature, as well as the background on which it is staged.
+- The colors of our primary palette have been selected for their ability to convey our distinct attributes—powerful, driven and skillful.
+- Using the colors consistently in all communications will strengthen brand recognition and distinguish our products and services in the marketplace. These colors may not be substituted.
+- Nasdaq Blue PMS 313 C C100 M0 Y11 K2 R0 G146 B188 #0092BC
+- Black C0 M0 Y0 K100 R0 G0 B0 #000000
+- PMS Cool Gray 11 C0 M0 Y0 K90 R66 G66 B66 #424242
+- PMS Cool Gray 10 C0 M0 Y0 K80 R89 G89 B89 #595959
+- PMS Cool Gray 9 C0 M0 Y0 K70 R110 G110 B110 #6E6E6E
+- PMS Cool Gray 8 C0 M0 Y0 K60 R121 G121 B121 #818181
+- PMS Cool Gray 7 C0 M0 Y0 K50 R148 G148 B148 #949494
+- PMS Cool Gray 6 C0 M0 Y0 K40 R168 G168 B168 #A8A8A8
+- PMS Cool Gray 4 C0 M0 Y0 K30 R188 G188 B188 #BCBCBC
+- PMS Cool Gray 2 C0 M0 Y0 K20 R209 G209 B209 #D1D1D1
+- PMS Cool Gray 1 C0 M0 Y0 K10 R230 G230 B230 #E6E6E6
+- Do not use on PMS 313 or any tint of PMS 313.
+- Do not use on Black or gray higher than a 7% tint.
+- Do not use on secondary colors or any sort of pattern.
+- If using on gray background, gray must be 90% tint or more
+- Do not use on any tint of Black below 90%
+- Use on pure white background or 5-7% grey background
+- Use on pure white or near white background
+- Use on pure black, grey, or color background. May be used over a photo but contrast must be high for legibility and to promote the strong, bold brand image
+- It is acceptable to use the white logo on secondary colors that are being used as accent colors.
+- Do not use any of the secondary logos when contrast is not high enough
+- Do not change the color of the Performance Signature
+
+##### Logo Usage
+
+- Only use approved artwork The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Minimum clear space ensures optimum staging and visual impact of the Nasdaq Logo It is equal to 1/2 N (N being the height of the "N" in the Nasdaq symbol) around all sides of the wordmark. No other element (type, texture, pattern, etc) is to appear within the clear space
+- Minimum size refers to the smallest dimension at which the Nasdaq Logo may be presented.
+- The Nasdaq Logo is supplied in regular and small sizes.
+- The default usage should be the regular-sized signature. For applications where the signature needed would be smaller than the regular minimum size (110 px), the Nasdaq Logo designated small should be used.
+- Use Regular size if logo is 110 px W or larger and less than or equal to 200 px W.
+- Maximum 200 px | 2.0687 in
+- Minimum 110 px | 1.5278 in
+- Use Small Size if logo is smaller than 110 px W Use for Embroidery, engraving, etc.
+- Maximum 80 px | 1.1 in
+- Minimum 72 px | 1 in
+- There are 5 different Nasdaq Logos Below is a list of their names and appearances The following pages describe how and when they should be utiIized.
+- Primary Logos: Do’s & Dont’s Only use on 7% gray or less. Do not use on PMS 313 or any tint of PMS 313. Do not use on Black or gray higher than a 7% tint. Do not use on secondary colors or any sort of pattern
+- If using on gray background, gray must be 90% tint or more
+- Do not use on PMS 313 or any tint of PMS 313.
+- Do not use on any tint of Black below 90%
+- Do not use on secondary colors or any sort of pattern
+- Use the Secondary Logos only when you cannot use Primary 1 or Primary 2.
+- Use on pure white background or 5-7% grey background
+- Use on pure white or near white background
+- Use on pure black, grey, or color background. May be used over a photo but contrast must be high for legibility and to promote the strong, bold brand image
+- It is acceptable to use the white logo on secondary colors that are being used as accent colors.
+- Do not use any of the secondary logos when contrast is not high enough
+- Do not change the color of the Performance Signature
+- Do not skew or stretch the performance signature
+- Do not replace the wordmark with a different typeface
+- Do not crop the Performance Signature
+- Do not add effects to the performance signature
+- Do not place performance signature on complex patterns, images or backgrounds
+- Do not alter the position of elements of the performance signature
+- Do not present the wordmark without the symbol
+- Do not add messages or elements to the performance signature
+- In rare instances, the N may be used by itself on large or small scale.
+- Prior to using it as a standalone, approval must be given by the Head of Brand & Creative. Upon approval, the creative team will give you the proper file to use.
+- *DO NOT USE “N” BY ITSELF WITHOUT APPROVAL.
+- Large Scale: Anything Larger Than Maximum Regular Size If using for a print or digital background, please request not only approval but also the artwork file as spacing within “N” will vary.
+- Regular Size If using for print or digital not on a large scale, follow customary sizing.
+- Small Size If using for print or digital not on a large scale, follow customary sizing.
+- Maximum 49.61 px | 0.689 in
+- Maximum 27 px | 0.3771 in
+- Minimum 36.8 px | 0.511 in
+- Minimum 24.4 px | 0.3399 in
+
+##### Visual Style
+
+- The primary color palette is composed of colors used in the Performance Signature, as well as the background on which it is staged.
+- The colors of our primary palette have been selected for their ability to convey our distinct attributes—powerful, driven and skillful.
+- Using the colors consistently in all communications will strengthen brand recognition and distinguish our products and services in the marketplace. These colors may not be substituted.
+- Nasdaq Blue PMS 313 C C100 M0 Y11 K2 R0 G146 B188 #0092BC
+- Black C0 M0 Y0 K100 R0 G0 B0 #000000 PMS Cool Gray 11 C0 M0 Y0 K90 R66 G66 B66 #424242 PMS Cool Gray 10 C0 M0 Y0 K80 R89 G89 B89 #595959 PMS Cool Gray 9 C0 M0 Y0 K70 R110 G110 B110 #6E6E6E PMS Cool Gray 8 C0 M0 Y0 K60 R121 G121 B121 #818181 PMS Cool Gray 7 C0 M0 Y0 K50 R148 G148 B148 #949494 PMS Cool Gray 6 C0 M0 Y0 K40 R168 G168 B168 #A8A8A8 PMS Cool Gray 4 C0 M0 Y0 K30 R188 G188 B188 #BCBCBC PMS Cool Gray 2 C0 M0 Y0 K20 R209 G209 B209 #D1D1D1 PMS Cool Gray 1 C0 M0 Y0 K10 R230 G230 B230 #E6E6E6
+- The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Minimum clear space ensures optimum staging and visual impact of the Nasdaq Logo It is equal to 1/2 N (N being the height of the "N" in the Nasdaq symbol) around all sides of the wordmark. No other element (type, texture, pattern, etc) is to appear within the clear space
+- Minimum size refers to the smallest dimension at which the Nasdaq Logo may be presented.
+- The Nasdaq Logo is supplied in regular and small sizes.
+- The default usage should be the regular-sized signature. For applications where the signature needed would be smaller than the regular minimum size (110 px), the Nasdaq Logo designated small should be used.
+- Use Regular size if logo is 110 px W or larger and less than or equal to 200 px W.
+- Maximum 200 px | 2.0687 in
+- Minimum 110 px | 1.5278 in
+- Use Small Size if logo is smaller than 110 px W Use for Embroidery, engraving, etc.
+- Maximum 80 px | 1.1 in
+- Minimum 72 px | 1 in
+- There are 5 different Nasdaq Logos Below is a list of their names and appearances The following pages describe how and when they should be utiIized.
+
+##### Typography
+
+- To complement the dynamism of the "N", our name is presented in a simple, modern typeface that exudes confidence, strength and humanity
+- The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Do not replace the wordmark with a different typeface
 
 ### 2020
 
-**Logo Information:**
+#### Brand Summary
 
-- The Nasdaq Logo consists of the N (performance ribbon) and the wordmark in modern font. Logos should never be redrawn, recolored, or recreated. Only approved artwork should be used. The proportional relationship between the N and wordmark must not be altered.
-- Clear space rules state that a minimum space of 1/2 N—the height of the N in the logo—must be maintained around all sides of the logo to preserve visual impact.
-- Minimum size rules specify the smallest dimensions at which the Nasdaq Logo may be used. Regular-sized logos are used for dimensions between 110 px and 200 px width. For smaller sizes (less than 110 px width), a special small version should be used.
-- List of logo formats includes five variants: Primary 1 (313+BK), Primary 2 (313+W), and Secondary 1 (313), Secondary 2 (BK), Secondary 3 (W). Primary logos should be prioritized.
-- Usage rules specify do's and don'ts: Primary Logo (use on near-white or neutral gray backgrounds of 7%) and Secondary Logo (use on highly contrasting backgrounds including white, black, and accent colors). Avoid complex patterns, overuse of colors, or low contrast.
-- Incorrect usage examples include altering colors or positions of elements, skewing/stretching, using the wordmark without the N, or placing logos over complex patterns.
-- Approval is required for standalone use of the N (performance ribbon). Custom sizing applies for print/digital applications, requiring specialized files obtained from the creative team.
+##### Mission
 
-**Color Information:**
+- The Nasdaq brand embodies who we are and what we value, creating a distinct and powerful presence through its visual identity [^1].
 
-- Primary colors include Nasdaq Blue (Pantone PMS 313 C) with HEX #0092BC, CMYK C:100 M:0 Y:11 K:2, RGB R:0 G:146 B:188. Neutral gray shades (Pantone Cool Gray 1-11 and Black) with consistent CMYK, RGB, and HEX definitions are also specified for branding.
+##### Core Values
 
-**Spacing Layout:**
+- triumph
+- innovation
+- power
+- drive
+- skill
+- confidence
+- strength
+- humanity
 
-- Clear space rules emphasize no other elements (type, texture, pattern, etc.) should appear within the designated 1/2 N safe zone around the wordmark. This ensures optimal staging of the logo.
+##### Target Audience
 
-**Notes:**
+- Individuals and organizations engaging with Nasdaq's products and services across all applications and media [^2].
 
-- The document specifies that approval from Head of Brand & Creative is required for certain logo uses, especially standalone N applications.
-- Detailed visual examples provided in the latter pages illustrate do's and don'ts for logo and signature application.
+##### Personality Traits
+
+- powerful
+- driven
+- skillful
+- confident
+- strong
+- dynamic
+- modern
+
+##### Visual Identity Overview
+
+- Nasdaq's visual identity is defined by a consistent use of its primary color palette, a modern and confident typeface, and a stylized logo symbolizing triumph and innovation. Guidelines ensure clear space, minimum size, and proper logo usage to maintain a strong, recognizable brand presence [^3].
+
+#### Categories
+
+##### Color Palette
+
+- The primary color palette is composed of colors used in the Performance Signature, as well as the background on which it is staged.
+- The colors of our primary palette have been selected for their ability to convey our distinct attributes—powerful, driven and skillful.
+- Using the colors consistently in all communications will strengthen brand recognition and distinguish our products and services in the marketplace. These colors may not be substituted.
+- Nasdaq Blue PMS 313 C C100 M0 Y11 K2 R0 G146 B188 #0092BC
+- Black C0 M0 Y0 K100 R0 G0 B0 #000000
+- PMS Cool Gray 11 C0 M0 Y0 K90 R66 G66 B66 #424242
+- PMS Cool Gray 10 C0 M0 Y0 K80 R89 G89 B89 #595959
+- PMS Cool Gray 9 C0 M0 Y0 K70 R110 G110 B110 #6E6E6E
+- PMS Cool Gray 8 C0 M0 Y0 K60 R121 G121 B121 #818181
+- PMS Cool Gray 7 C0 M0 Y0 K50 R148 G148 B148 #949494
+- PMS Cool Gray 6 C0 M0 Y0 K40 R168 G168 B168 #A8A8A8
+- PMS Cool Gray 4 C0 M0 Y0 K30 R188 G188 B188 #BCBCBC
+- PMS Cool Gray 2 C0 M0 Y0 K20 R209 G209 B209 #D1D1D1
+- PMS Cool Gray 1 C0 M0 Y0 K10 R230 G230 B230 #E6E6E6
+- Do not use on PMS 313 or any tint of PMS 313.
+- Do not use on Black or gray higher than a 7% tint.
+- Do not use on secondary colors or any sort of pattern.
+- If using on gray background, gray must be 90% tint or more
+- Do not use on any tint of Black below 90%
+- Use on pure white background or 5-7% grey background
+- Use on pure white or near white background
+- Use on pure black, grey, or color background. May be used over a photo but contrast must be high for legibility and to promote the strong, bold brand image
+- It is acceptable to use the white logo on secondary colors that are being used as accent colors.
+- Do not use any of the secondary logos when contrast is not high enough
+- Do not change the color of the Performance Signature
+
+##### Logo Usage
+
+- Only use approved artwork The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Minimum clear space ensures optimum staging and visual impact of the Nasdaq Logo It is equal to 1/2 N (N being the height of the "N" in the Nasdaq symbol) around all sides of the wordmark. No other element (type, texture, pattern, etc) is to appear within the clear space
+- Minimum size refers to the smallest dimension at which the Nasdaq Logo may be presented.
+- The Nasdaq Logo is supplied in regular and small sizes.
+- The default usage should be the regular-sized signature. For applications where the signature needed would be smaller than the regular minimum size (110 px), the Nasdaq Logo designated small should be used.
+- Use Regular size if logo is 110 px W or larger and less than or equal to 200 px W.
+- Maximum 200 px | 2.0687 in
+- Minimum 110 px | 1.5278 in
+- Use Small Size if logo is smaller than 110 px W Use for Embroidery, engraving, etc.
+- Maximum 80 px | 1.1 in
+- Minimum 72 px | 1 in
+- There are 5 different Nasdaq Logos Below is a list of their names and appearances The following pages describe how and when they should be utiIized.
+- Primary Logos: Do’s & Dont’s Only use on 7% gray or less. Do not use on PMS 313 or any tint of PMS 313. Do not use on Black or gray higher than a 7% tint. Do not use on secondary colors or any sort of pattern
+- If using on gray background, gray must be 90% tint or more
+- Do not use on PMS 313 or any tint of PMS 313.
+- Do not use on any tint of Black below 90%
+- Do not use on secondary colors or any sort of pattern
+- Use the Secondary Logos only when you cannot use Primary 1 or Primary 2.
+- Use on pure white background or 5-7% grey background
+- Use on pure white or near white background
+- Use on pure black, grey, or color background. May be used over a photo but contrast must be high for legibility and to promote the strong, bold brand image
+- It is acceptable to use the white logo on secondary colors that are being used as accent colors.
+- Do not use any of the secondary logos when contrast is not high enough
+- Do not change the color of the Performance Signature
+- Do not skew or stretch the performance signature
+- Do not replace the wordmark with a different typeface
+- Do not crop the Performance Signature
+- Do not add effects to the performance signature
+- Do not place performance signature on complex patterns, images or backgrounds
+- Do not alter the position of elements of the performance signature
+- Do not present the wordmark without the symbol
+- Do not add messages or elements to the performance signature
+- In rare instances, the N may be used by itself on large or small scale.
+- Prior to using it as a standalone, approval must be given by the Head of Brand & Creative. Upon approval, the creative team will give you the proper file to use.
+- *DO NOT USE “N” BY ITSELF WITHOUT APPROVAL.
+- Large Scale: Anything Larger Than Maximum Regular Size If using for a print or digital background, please request not only approval but also the artwork file as spacing within “N” will vary.
+- Regular Size If using for print or digital not on a large scale, follow customary sizing.
+- Small Size If using for print or digital not on a large scale, follow customary sizing.
+- Maximum 49.61 px | 0.689 in
+- Maximum 27 px | 0.3771 in
+- Minimum 36.8 px | 0.511 in
+- Minimum 24.4 px | 0.3399 in
+
+##### Visual Style
+
+- The primary color palette is composed of colors used in the Performance Signature, as well as the background on which it is staged.
+- The colors of our primary palette have been selected for their ability to convey our distinct attributes—powerful, driven and skillful.
+- Using the colors consistently in all communications will strengthen brand recognition and distinguish our products and services in the marketplace. These colors may not be substituted.
+- Nasdaq Blue PMS 313 C C100 M0 Y11 K2 R0 G146 B188 #0092BC
+- Black C0 M0 Y0 K100 R0 G0 B0 #000000 PMS Cool Gray 11 C0 M0 Y0 K90 R66 G66 B66 #424242 PMS Cool Gray 10 C0 M0 Y0 K80 R89 G89 B89 #595959 PMS Cool Gray 9 C0 M0 Y0 K70 R110 G110 B110 #6E6E6E PMS Cool Gray 8 C0 M0 Y0 K60 R121 G121 B121 #818181 PMS Cool Gray 7 C0 M0 Y0 K50 R148 G148 B148 #949494 PMS Cool Gray 6 C0 M0 Y0 K40 R168 G168 B168 #A8A8A8 PMS Cool Gray 4 C0 M0 Y0 K30 R188 G188 B188 #BCBCBC PMS Cool Gray 2 C0 M0 Y0 K20 R209 G209 B209 #D1D1D1 PMS Cool Gray 1 C0 M0 Y0 K10 R230 G230 B230 #E6E6E6
+- The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Minimum clear space ensures optimum staging and visual impact of the Nasdaq Logo It is equal to 1/2 N (N being the height of the "N" in the Nasdaq symbol) around all sides of the wordmark. No other element (type, texture, pattern, etc) is to appear within the clear space
+- Minimum size refers to the smallest dimension at which the Nasdaq Logo may be presented.
+- The Nasdaq Logo is supplied in regular and small sizes.
+- The default usage should be the regular-sized signature. For applications where the signature needed would be smaller than the regular minimum size (110 px), the Nasdaq Logo designated small should be used.
+- Use Regular size if logo is 110 px W or larger and less than or equal to 200 px W.
+- Maximum 200 px | 2.0687 in
+- Minimum 110 px | 1.5278 in
+- Use Small Size if logo is smaller than 110 px W Use for Embroidery, engraving, etc.
+- Maximum 80 px | 1.1 in
+- Minimum 72 px | 1 in
+- There are 5 different Nasdaq Logos Below is a list of their names and appearances The following pages describe how and when they should be utiIized.
+
+##### Typography
+
+- To complement the dynamism of the "N", our name is presented in a simple, modern typeface that exudes confidence, strength and humanity
+- The Nasdaq Logo should never be redrawn, recolored or recreated in any way. The wordmark and "N" share a fixed proportional relationship Never scale or reconfigure the individual elements. Only use approved electronic artwork.
+- Do not replace the wordmark with a different typeface
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Norc
 slug: norc
 description: ""
-date: "2026-03-20T08:22:04.333751"
+date: "2026-04-10T09:40:33.040942"
 draft: false
 sectors:
-  - consulting
   - research
+  - consulting
 regions:
   - usa
 years:
@@ -52,24 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - secondary
-  - alternate
-brand_colors:
-  - white
-  - orange
-  - grey
-  - black
-typographies:
-  - "proxima-nova"
-  - roboto
-imagery_styles:
-  - organic
-  - bold
-  - geometric
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: research center
 wikidata_url: "https://www.wikidata.org/wiki/Q6974659"
 has_twitter: false
@@ -89,43 +75,163 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
+#### Brand Summary
 
-- The NORC logo includes versions such as Full Logo, Short Logo, Stacked Logo, and Spark Logo. Alternate options accommodate space and scaling limitations. Some logos require permission for usage.
-- Logo clear space rules: FULL LOGO ideal clear space is 1N height and 2N width; minimum is 1N width. SHORT LOGO clear space ideal is 1N height, 2N width, and centered vertically; minimum clear space is 1N width and 1N height. STACKED LOGO clear space ideal is 1N height and width minimum is 1/2 N height and 1/2 N width.
-- Incorrect logo usage: Do not set edge-to-edge with margin or artwork, crowd logo, distort proportions, change colors, use inappropriate backgrounds, or overlap logos.
-- Color versions of logos include Orange, Dark Grey, and White. Use appropriate contrasts with 3:1 ratio for better legibility.
-- Permission required for specific logos (e.g., Stacked Logo, Spark Logo).
+##### Mission
 
-**Color Information:**
+- NORC at the University of Chicago is an objective and non-partisan research institution that delivers reliable data and rigorous analysis to guide critical programmatic, business, and policy decisions [^1].
 
-- NORC primary colors include NORC Orange (#ec712e, PMS: 152C, RGB: R236 G113 B46, CMYK: C3 M69 Y93 K0), several greys (NORC GREY 1-6), and White.
-- Research-area-specific colors: Economics (#286f5d, PMS: 3295), Health (#4c7b91, PMS: 7698), Education (#8d1821, PMS: 1815), Global (#76376b, PMS: 7657), Society, Media & Public Affairs (#c55051, PMS: 7619).
-- Compliance: Colors meet AA 508 compliance for text legibility on white and background colors.
+##### Core Values
 
-**Typography Information:**
+- objectivity
+- non-partisanship
+- reliability
+- rigor
+- trusted research
+- academic alignment
 
-- Typography consists of two font families: Roboto and Proxima Nova. Roboto styles are Thin, Light, Regular, Medium, Bold, and Extra Bold. Usage roles include: Big Title (34pt+), Primary Headlines (18pt+), Body Text (10pt or 11pt+).
-- Proxima Nova styles include Thin, Light, Regular, Medium, Semibold, Bold, Extra Bold, and Black. Alternate roles include: Subheads, Labels, Secondary Headlines, and Footnotes.
+##### Target Audience
 
-**Imagery Photography:**
+- External and internal audiences including programmatic, business, and policy decision-makers, as well as research and academic communities [^2].
 
-- Photography is designed to be immersive, experiential, and artful photojournalism. Images should capture real-life, personal and relatable moments.
+##### Personality Traits
 
-**Spacing Layout:**
+- trusted
+- objective
+- non-partisan
+- rigorous
+- humanistic
+- professional
 
-- Spacing on stationery includes specific alignment distances: logo alignment with specific edges (e.g., top 1/4 or 5/8 inch from edge). Follow grid-calibrated measurements precisely.
-- Alignment rules for Spark patterns: align horizontally, at 30-degree angles, and scale proportionally around logos.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity centers on the iconic Spark symbolizing insights, a color palette dominated by NORC Orange, white, and greys, humanistic letter-forms, and consistent logo usage. The brand employs modern, clean layouts, proprietary typography (Roboto and Proxima Nova), and uses textures, graphics, and iconography to reinforce its research-driven, academic, and professional image [^3].
 
-- NORC brand voice aims to provide clarity, trust, and objectivity. The tagline 'Research You Can Trust' reinforces strategic messaging tied to proprietary grey tones in typography.
+#### Categories
 
-**Notes:**
+##### Brand Imagery
 
-- Spark graphics include primary patterns (organic edge), zoom backgrounds, halo patterns, and alternative formal patterns. They are used on postcards, announcements, and social media templates.
-- Icons are categorized into utility icons with geometric backgrounds and strategic concept icons. These use NORC Orange accents alongside greys found in the primary palette.
-- Visualizations include graphs, scatterplots, and textures inspired by data art and NORC organizational colors. Use Roboto font styles.
+- Logo clear space is an essential style requirement for NORC's logo integrity and consistency across all materials.
+- FULL LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- FULL LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- SHORT LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- SHORT LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- STACKED LOGO CLEAR SPACE: 1 N width (frame), Centered Vertically.
+- Do not set logo edge-to-edge with margin or graphic artwork.
+- Do not crowd the logo with text.
+
+##### Color Palette
+
+- Orange is NORC’s primary color and a significant part of our brand logo and system.
+- Use Color logo on White or NORC Light Grey only
+- Dark Grey logo can be used when cobranding client work
+- Use White Logo on a saturated Orange, Dark Grey or Branded Background colors. Contrast must equal or be greater than 3:1
+- Do not change color or use on incorrect background color
+- Do not place on competing or inappropriate backgrounds
+- Color is an important branding system component and correct use allows for maximum brand recognition and consistency across all communication vehicles.
+- NORC PRIMARY PALETTE The Primary Palette is made up of NORC Orange in combination with white and a family of Grey's across all communication materials.
+- NORC ORANGE hex: ec712e pms: 152 C r236, g113, b46 c3, m69, y93, k0
+- WHITE hex: ffffff pms: White r255, g255, 255 c0, m0, y0, k0
+- AA COMPLIANT: 508 compliant for text on white and background color for white text. Bold=14pt+ Regular=18pt+
+- AA COMPLIANT: 508 compliant background colors for black or Grey 6 colored text.
+- NORC GREY 1 hex: e5e3df pms: Warm Grey 1 (60%) r229, g227, b223 c9, m7, y9, k0
+- NORC GREY 2 hex: d5d0ca pms: Warm Grey 1 r213, g208, b202 c16, m14, y17, k0
+- NORC GREY 3 hex: ada39d pms: Warm Grey 5 r173, g163, b157 c34, m32, y34, k1
+- NORC GREY 4 hex: 7d7470 pms: 60% of Black 4 r125, g116, b112 c48, m46, y47, k17
+- NORC GREY 5 hex: 615753 pms: 75% of Black 4 r97, g87, b83 c55, m55, y56, k33
+- NORC GREY 6 hex: 353435 pms: 85% Black 6 r53, g52, b53 c79, m74, y71, k45
+- Research areas have their own signature color to help differentiate NORC's multiple areas of expertise while building brand consistency between communication materials.
+- RESEARCH AREA COLOR PALETTES Research Area Palettes are made up of a signature area color plus NORC's Primary Orange and family of Greys.
+- HEALTH hex: 4c7b91 pms: 7698 r76, g123, b145 c83, m36, y67, k20
+- ECONOMICS hex: 286f5d pms: 3295 r40, g111, b93 c57, m90, y30, k14
+- EDUCATION hex: 8d1821 pms: 1815 r141, g24, b33 c27, m100, y92, k30
+- GLOBAL hex: 76376b pms: 7657 r119, g55, b107 c74, m42, y32, k6
+- SOCIETY, MEDIA, AND PUBLIC AFFAIRS hex: c55051 pms: 7619 r197, g80, b81 c18, m82, y67, k4
+- AA COMPLIANT: 508 compliant for text on white and background color for white text.
+
+##### Typography
+
+- Typography is also an important branding system component. NORC's typography family consists of two primary fonts­Roboto and Proxima Nova.
+- Primary Roboto font styles
+- Thin Use with type 34pt+
+- Light Use with type 18pt+
+- Regular Use with type 1 Opt
+- Light Use with type 11 pt+
+- Primary Proxima Nova font styles
+- Bold all caps -spaced 100-1 50 Use at 22pt
+- Regular and Bold all caps -spaced 100-150 Use 1 Opt
+- Regular and Bold all caps -spaced 100-1 50 Use at 8pt
+
+##### Logo Usage
+
+- Logo clear space is an essential style requirement for NORC's logo integrity and consistency across all materials.
+- FULL LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- FULL LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- SHORT LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- SHORT LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- STACKED LOGO CLEAR SPACE: 1 N width (frame), Centered Vertically.
+- Do not set logo edge-to-edge with margin or graphic artwork.
+- Do not crowd the logo with text.
+
+##### Tone And Messaging
+
+- NORC at the University of Chicago is an objective and non-partisan research institution that delivers reliable data and rigorous analysis to guide critical programmatic, business, and policy decisions.
+- Do not crowd the logo with text
+
+##### Visual Style
+
+- Logo clear space is an essential style requirement for NORC's logo integrity and consistency across all materials.
+- FULL LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- FULL LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- SHORT LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height.
+- SHORT LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height.
+- STACKED LOGO CLEAR SPACE: 1 N width (frame), Centered Vertically.
+- Do not set logo edge-to-edge with margin or graphic artwork.
+- Do not crowd the logo with text.
+
+##### Iconography
+
+- Icons help communicate ideas quickly while adding visual interest to layouts.
+- Utility icons are NORC's preferred icon treatment. Use in various combinations of Greys and NORC Orange inside simple geometric shapes or on their own.
+- Strategic icons are made up of Greys with a NORC Orange accent and used for more conceptual storytelling.
+- VARIOUS SHADES OF GREY WITH NORC ORANGE ACCENT
+
+##### Layout And Composition
+
+- Logo clear space is an essential style requirement for NORC's logo integrity and consistency across all materials.
+- FULL LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height
+- FULL LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height
+- SHORT LOGO CLEAR SPACE IDEAL: 2 N width, 1 N height
+- SHORT LOGO CLEAR SPACE MINIMUM: 1 N width, 1/2 N height
+- STACKED LOGO CLEAR SPACE: 1 N width (frame), Centered Vertically
+- Do not set logo edge-to-edge with margin or graphic artwork
+- Do not crowd the logo with text
+
+##### Stationery
+
+- LETTERHEAD, BUSINESS CARD & ENVELOPE
+- Logo and address Distance from top edge 1/4" Logo distance Chicago Logo and address -------'----------------------------------------------------------*NORC.... from top edge: 1/4" "'he55EastMonroeStreet office312.759.4000 University of ·. distance from top *NORC 30th Floor fax 312.759.4004 Janet Smith Chicago .Research Scientist, Education & Child Development edge: 5/8" I Chicago IL 60603 norc.org I I I smith-janet@norc.org I 0: 312.357.6043 I m: 312.357.6043 I @NORCnews /NORCatUofC in/company/NORC (Date) I "N" of Logo and letter I distance from right Dear (Name) t edge: 1" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexere itation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iru Q>-----...-_____-_____ occaecat cupidatat non proident, sunt in culpa qui officia desicia derunt mollif" ---teprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exce _j--* Research You CanTrusr I LogodistanceNORC.org rbesl laborum from top edge: 1/2" LI -*-NO-RC -;, ..h; ----------Universityof Ch,cago I orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp . s East Monroe street, 3on FIoor reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Exce jdunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostruc Chicago ii 60603 ccaecat cupidatat non proident, sunt in culpa qui officia desicia derunt mollit est laborum. -----------+---,}----------------------.......---·CiJ orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp Line text up with idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostruc "N" of logo itation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iru reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excoccaeadfcat cupidatat non proident, sunt in culpa qui officia desicia derunt m anidmid est laborum. I l Sincerely, I I I Name Title I I 11.. _ ------_ 1-------*-'1e.rch.'1'.QLJ.Ca11 Ii:ust I Q>----11----Tagline distance from bottom Tagline distance from edge: 1/2" bottom edge: .5/8" X Research You ---------+-----i---------0
+
+##### Visualizations
+
+- Use a combination of NORC Orange with multiple Greys and the typeface Roboto while creating various types of visualizations.
+
+##### Textures And Graphics
+
+- Inspired by the art that data creates, textures can be used as a substitute for photography or for additional dimension.
+
+##### Publications
+
+- NORC produces research and analysis driven digital publications for multiple audiences.
+- ## NORC NOW Stories of insight & impact.
+- ## NORC NUMBERS (HEADER) Data driven stories for visualization enthusiasts.
+
+##### Photography
+
+- ## VARIOUS SUBSETS OF POPULATIONS
+- ## REAL LIFE-PERSONAL MOMENTS
+- ## ARTFUL PHOTOJOURNALISM
+- ## IMMERSIVE & EXPERIENTIAL
 
 ## Additional Properties
 

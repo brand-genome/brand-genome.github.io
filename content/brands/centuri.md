@@ -2,7 +2,7 @@
 title: CenTuri
 slug: centuri
 description: ""
-date: "2026-03-20T08:22:05.741137"
+date: "2026-04-10T09:40:34.710995"
 draft: false
 sectors:
   - research
@@ -59,21 +59,15 @@ imagery_styles: []
 wikidata_description: American arcade game company
 wikidata_url: "https://www.wikidata.org/wiki/Q2946291"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://centuri-livingsystems.org](https://centuri-livingsystems.org)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
 
 ## Additional Properties
 

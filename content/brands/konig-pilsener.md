@@ -2,7 +2,7 @@
 title: König Pilsener
 slug: "konig-pilsener"
 description: ""
-date: "2026-03-20T08:22:04.058585"
+date: "2026-04-10T09:40:32.080329"
 draft: false
 sectors:
   - drink
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -66,9 +66,3 @@ visual_term_image_urls: {}
 - [https://www.koenigpilsener.com](https://www.koenigpilsener.com)
 - [https://www.koenig.de](https://www.koenig.de)
 - [http://www.koenig.de](http://www.koenig.de)
-
-## Brand Guidelines
-
-### 2019
-
-*Guidelines data not available*

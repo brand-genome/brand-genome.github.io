@@ -2,7 +2,7 @@
 title: USA Water Polo
 slug: "usa-water-polo"
 description: ""
-date: "2026-03-20T08:22:04.006588"
+date: "2026-04-10T09:40:31.964972"
 draft: false
 sectors:
   - sports
@@ -58,21 +58,15 @@ imagery_styles: []
 wikidata_description: national governing body of water polo in the United States
 wikidata_url: "https://www.wikidata.org/wiki/Q3547329"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://usawaterpolo.org](https://usawaterpolo.org)
-
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
 
 ## Additional Properties
 

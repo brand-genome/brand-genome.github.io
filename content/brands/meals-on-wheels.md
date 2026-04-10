@@ -2,11 +2,11 @@
 title: Meals on Wheels
 slug: "meals-on-wheels"
 description: ""
-date: "2026-03-20T08:22:04.723109"
+date: "2026-04-10T09:40:33.457021"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - canada
 years:
@@ -52,21 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-302"
-  - gray
-  - navy
-  - "pantone-3115"
-typographies:
-  - "sans-serif"
-imagery_styles:
-  - dynamic
-  - natural
-  - geometric
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American nonprofit organization
 wikidata_url: "https://www.wikidata.org/wiki/Q54619895"
 has_twitter: false
@@ -87,48 +76,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Minimum size for logo identity without tagline: 1.57 inches wide. Minimum size for logo identity with the tagline: 2 inches wide. The type size should never be smaller than 6.65 pt.
-- Tagline usage: When used as a heading, it must be in all capital letters, and when used in body text, the tagline should be italicized.
-- Do not alter the tagline, reflect/reverse angles of containers, or unspecify colors outside approved palette combinations.
-- Co-branded logo usage with partners or sponsors: Individual logos must be proportional to each other.
-
-**Color Information:**
-
-- Primary palette includes colors that reflect energy, urgency, and optimism. Includes Pantone references: Pantone 302 C/U, CMYK 100/48/12/58, RGB 0/57/82.
-- Primary palette includes Pantone 3115 C/U: CMYK 80/0/18/0, RGB 0/183/196.
-- Secondary palette includes Cool Gray 2C (CMYK 0/0/0/10, RGB 230/231/232) and Cool Gray 6C (CMYK 0/0/0/30, RGB 188/190/192).
-- Navy should be the most prominent and most widely used color for consistency in primary containers.
-- Different opacities and multipliers for patterns based on background color (e.g., navy background uses navy pattern overlay with 100% multiply).
-
-**Typography Information:**
-
-- Font used for headlines is Bryant, a geometric sans-serif font used in all caps with tracking of +80-100. It conveys warmth, modernity, and approachability.
-- Font used for body text is Trade Gothic LT Regular, known for legibility and suitable for detailed or content-heavy areas.
-- Type hierarchy rules: Body copy should not be smaller than 8 pt. Headlines on the web should not exceed 36 pt, ensuring type hierarchy and legibility.
-
-**Imagery Photography:**
-
-- Photography should depict engagement with focus on human connection, e.g., subjects looking into the camera and hands delivering meals.
-- Style guidelines for photos: Shallow depth of field with blurred backgrounds, natural lighting, and table/kitchen settings for food styling.
-
-**Spacing Layout:**
-
-- Rounded corner frames must be used for images, videos, quotations, and call-outs. Frame creation involves proportional scaling from a base design.
-- Dynamic headline/content container shapes should bleed off the left page edge and be angled approximately 75 degrees.
-- Content containers can change colors based on the recommendations for maximum contrast based on background or organizational cues.
-- Do not scale containers disproportionately; ensure text alignment and background transparency in content overlays for legibility.
-
-**Brand Voice:**
-
-- Tone of voice should convey energy, optimism, professionalism, and warmth while demonstrating urgency and care.
-- Messaging emphasizes unity and collaboration, such as 'Together, We Can Deliver®.' It shouldn't compromise the intent of representing the brand accurately.
-
-**Notes:**
-
-- For profile images with logos on social media, it is recommended to use PNG files for better results. Facebook: 360x360 px, cover: 828x465 px; Twitter: profile 400x400 px, cover 1500x500 px.
-- Icons developed for key services (meal, friendly visit, safety check) should fit circular containers following brand tone.
+*Guidelines data not available*
 
 ## Additional Properties
 

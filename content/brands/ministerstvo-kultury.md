@@ -2,7 +2,7 @@
 title: Ministerstvo Kultury
 slug: "ministerstvo-kultury"
 description: ""
-date: "2026-03-20T08:22:04.234484"
+date: "2026-04-10T09:40:32.734375"
 draft: false
 sectors:
   - "public-sector"
@@ -51,12 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ministry of the Czech Republic
 wikidata_url: "https://www.wikidata.org/wiki/Q6866715"
 has_twitter: false
@@ -77,28 +75,7 @@ visual_term_image_urls: {}
 
 ### 2008
 
-**Logo Information:**
-
-- The logo of Ministerstvo kultury is a standard design with a five-color scheme and specific configurations, including two text variants (Czech and English). It incorporates the international copyright symbol ©, representing protection of cultural assets.
-- Logo should never be used with abbreviations like MK ČR, or MK alongside the visual sign.
-- Various configurations of the logo are presented, including the main visual mark with the institution's name.
-
-**Color Information:**
-
-- The logo features a five-color palette designed to represent diverse cultural realms and artistic forms, focusing on uniqueness and interconnection.
-
-**Typography Information:**
-
-- The graphic manual defines typography rules and usage, emphasizing consistent application across aesthetic and typographic principles.
-
-**Brand Voice:**
-
-- The brand voice reflects unity, stability, and the cultural significance of the Czech Republic Ministry. It calls for applications adhering to prescribed visual and typographic rules.
-
-**Notes:**
-
-- The visual style of the Ministry of Culture serves as a critical public communication tool, supporting its image and enhancing awareness of its importance.
-- The visual identity system was developed through a design competition at the Academy of Arts, Architecture, and Design in Prague. It was created by graphic designer Helena Jiskrová in 2007.
+*Guidelines data not available*
 
 ## Additional Properties
 

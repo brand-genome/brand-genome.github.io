@@ -2,7 +2,7 @@
 title: EA Sports
 slug: "ea-sports"
 description: ""
-date: "2026-03-20T08:22:05.551824"
+date: "2026-04-10T09:40:34.461555"
 draft: false
 sectors:
   - gaming
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - featured
+  - sport
   - entertainment
 industries: []
 countries: []
@@ -49,10 +49,7 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - primary
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
@@ -75,35 +72,7 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- The EA SPORTS Medallion is the primary logo mark for the brand, available in several styles including positive Medallion, negative Medallion, positive stacked, negative stacked, positive horizontal, and negative horizontal. The logo represents authenticity, competition, connection, innovation, and 'Playing to Win'.
-- Clear space rules ensure appropriate spacing around the logo. Measurements include '1x' and '1.5x' distances between the tagline and the logo in various configurations (e.g., tagline right, centered, stacked).
-- The EA SPORTS name must always be written in ALL CAPS in all contexts, including on-screen, in print, and online. This rule is mandatory without exceptions to protect the brand's strong identity.
-- Incorrect usage guidelines for logo and text violations: writing the EA SPORTS name improperly carries penalties within the organization, including laps around campus or cleaning lockers.
-- Franchise logos designed for specific games must be consistent with EA SPORTS standards. Each franchise has unique logos designed from approved EA SPORTS fonts.
-
-**Color Information:**
-
-- Colors associated with EA SPORTS logos include PMS Medallion, PMS Stacked, and PMS Horizontal variations. Details direct users to see specific color values on page 10.
-
-**Imagery Photography:**
-
-- Exclusive athlete silhouette shots in action for various sports, such as boxing, MMA, soccer, football, basketball, hockey. These silhouettes should replace generic sports icons in EA SPORTS branding.
-- Rules for imagery in the Tiger Woods PGA TOUR® franchise focus on showcasing athletes in a positive light, adhering to sponsorship alignments, and avoiding improper use of footage. Nike apparel and equipment are preferred for Tiger Woods content.
-- On EA SPORTS websites, imagery must align with the brand's visual identity, featuring assets unique to franchises and sports environments.
-
-**Brand Voice:**
-
-- EA SPORTS tagline, 'It's In The Game', embodies the brand's core identity, connecting users to the authenticity and passion within the sports world and associated innovations.
-- The tone of EA SPORTS messaging can include irreverence or sarcasm but must emphasize authenticity as a core sports brand.
-- Andrew Anthony provides the iconic voice of EA SPORTS, used for brand taglines, internal presentations, and licensed consumer products.
-
-**Notes:**
-
-- Corporate identity is essential to EA SPORTS, comprising the logo, tagline, and color palette as core elements. These elements must guide designs across all applications.
-- All franchise rules and designs must comply with EA SPORTS identity guidelines to ensure consistency.
-- Digital applications such as email and digital campaigns should incorporate EA SPORTS imagery and tone to elevate communications.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-03-20T08:22:03.388868"
+date: "2026-04-10T09:40:30.944178"
 draft: false
 sectors:
   - airline
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - transport
   - aeronautic
   - airline
+  - transport
 industries: []
 countries:
   - iceland
@@ -53,22 +53,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - wordmark
-  - horizontal
+logo_elements: []
 brand_colors: []
-typographies:
-  - impact
-imagery_styles:
-  - bold
-  - photography
+typographies: []
+imagery_styles: []
 wikidata_description: flag carrier airline of Iceland
 wikidata_url: "https://www.wikidata.org/wiki/Q216645"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -85,45 +79,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### UNKNOWN
-
-*Guidelines data not available*
-
 ### 2006
 
-**Logo Information:**
-
-- Logo variations referenced, including horizontal, vertical, and potential elements like 'golden wings' and wordmark.
-- Minimum size requirements for the Icelandair logo are mentioned.
-- Minimum size requirements for the Icelandair logo are mentioned.
-
-**Color Information:**
-
-- Color palette details, may include Pantone and HEX codes. 'Golden wings' color thematic mentioned.
-
-**Typography Information:**
-
-- Details on Icelandair brand typefaces, such as 'Altitude Light,' 'Altitude Regular,' 'Altitude Medium,' and 'Altitude Bold.'
-- Details on Icelandair brand typefaces, such as 'Altitude Light,' 'Altitude Regular,' 'Altitude Medium,' and 'Altitude Bold.'
-- Details on Icelandair brand typefaces, such as 'Altitude Light,' 'Altitude Regular,' 'Altitude Medium,' and 'Altitude Bold.'
-
-**Imagery Photography:**
-
-- Details about photography or image usage in Icelandair's branding.
-- Details about photography or image usage in Icelandair's branding.
-
-**Spacing Layout:**
-
-- Rules for clear space around the Icelandair logo to ensure visibility and impact.
-- Rules for clear space around the Icelandair logo to ensure visibility and impact.
-
-**Brand Voice:**
-
-- Guidelines regarding the tone of voice or messaging for Icelandair brand communication.
-
-**Notes:**
-
-- Overview or summary of Icelandair's brand identity elements, including logo, color, typeface, etc.
+*Guidelines data not available*
 
 ## Additional Properties
 

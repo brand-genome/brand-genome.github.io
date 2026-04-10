@@ -2,11 +2,11 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-03-20T08:22:05.539896"
+date: "2026-04-10T09:40:34.447522"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
+  - "blockchain-crypto"
 regions:
   - usa
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - software
 industries:
-  - analytics
   - "technology-industry"
-  - "software-development"
-  - "software-industry"
-  - "data-visualization"
   - "business-intelligence"
+  - "software-development"
+  - analytics
+  - "data-visualization"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -37,12 +37,12 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - application
   - "business-intelligence-software"
-  - "data-analysis-software"
   - "computer-program"
-  - software
+  - "data-analysis-software"
   - "mobile-app"
+  - software
+  - application
 products: []
 headquarters_locations:
   - tysons
@@ -69,20 +69,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-  - alternate
-  - icon
-brand_colors:
-  - "pantone-1795"
-  - white
-  - black
-typographies:
-  - futura
-imagery_styles:
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q1192211"
 has_twitter: false
@@ -103,23 +93,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- The MicroStrategy logo is described as the main face of the company, representing forward-thinking, sturdiness, and consistency. It is designed from a modified version of Futura Extrabold Typeface (for 'Micro') and Futura Extrabold Oblique (for 'Strategy'). Special modifications include adjusted x-heights, altered crossbar, and a starburst dot on the 'i'. Design details like counters are adjusted for legibility, particularly at smaller sizes.
-- The colors allowed for the MicroStrategy logo are strictly defined. Standard Pantone Matching System (PMS) colors are prioritized where possible, with the use of Pantone 1795 (CMYK: 0, 96, 93, 2; RGB: 217, 35, 46; HEX #d9232e). Black (CMYK: 0, 0, 0, 100; RGB: 0, 0, 0; HEX #000000) and white (CMYK: 0, 0, 0, 0; RGB: 255, 255, 255; HEX #FFFFFF) versions are also permitted, with white recommended for dark backgrounds and black for light backgrounds. Incorrect usage examples are provided.
-- The logo must be surrounded by protected space equivalent to the height of the lowercase 'r' in 'MicroStrategy,' which should surround the logo on all sides. For an 8.5x11 inch page, a 0.5-inch margin is required from the edge; for A4 sheets, a 13 mm margin is necessary. The logo is preferably placed at the top left corner, but other placements may also be considered as appropriate.
-- Minimum size requirements for the logo include: for print, the logo must not be sized less than 1 inch (25 mm); for screen viewing, it should not be smaller than 0.75 inch (19 mm). Logo scaling rules include maintaining proportional dimensions by using 'constrain key' or 'shift key' during resizing. Examples demonstrate proper scaling practices.
-- Do's and Don'ts for logo usage include: avoiding distortion (stretching vertically or horizontally), refraining from using alternate fonts or creating new logos, avoiding the combination of the logo with different symbols, not altering logo colors, and maintaining legibility by not placing the logo on distracting backgrounds. Violations like reduced legibility and insufficient protected space around the logo are highlighted as incorrect practices.
-- Social media graphics guidelines specify the use of the MicroStrategy starburst icon for platforms like YouTube, Facebook, and Twitter. Several versions of logos are presented, such as horizontal (short and long variations), vertical (stacked variations), and branded logos when the MicroStrategy brand is already established.
-
-**Notes:**
-
-- Updated June 24, 2014
-Branding and
-graphic standards guide
-- The branding and graphic standard guide was produced by the Design Team in the MicroStrategy Marketing Department. Contact information is GraphicDesign@microstrategy.com. The standards guide is effective as of June 24, 2014 and overrides all previous versions.
-- Updated June 24, 2014
-Thank you
+*Guidelines data not available*
 
 ## Additional Properties
 
@@ -129,7 +103,7 @@ Thank you
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Application](/products_or_materials_produced/application/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/); [Mobile App](/products_or_materials_produced/mobile-app/) |
+| Product Or Material Produced | [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Computer Program](/products_or_materials_produced/computer-program/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Mobile App](/products_or_materials_produced/mobile-app/); [Software](/products_or_materials_produced/software/); [Application](/products_or_materials_produced/application/) |
 | Headquarters Location | [Tysons](/headquarters_locations/tysons/); [Wilmington](/headquarters_locations/wilmington/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/052hvb |

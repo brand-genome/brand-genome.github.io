@@ -2,7 +2,7 @@
 title: SilvaCarbon
 slug: silvacarbon
 description: ""
-date: "2026-03-20T08:22:04.341196"
+date: "2026-04-10T09:40:33.058545"
 draft: false
 sectors:
   - "public-sector"
@@ -48,21 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-brand_colors:
-  - gray
-  - white
-  - black
-typographies:
-  - times
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,31 +69,4 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Logo construction elements include 'Logo Symbol' (graphic logo) and 'Logo Title' (text component).
-- The clear space or safe zone around the logo is illustrated as '3x' on all four sides.
-- Vertical and horizontal logo variations are explicitly displayed. Vertical version aligns logo symbol above logo title, horizontal version aligns both inline.
-- Cobranding logos (LOGO 1 and LOGO 2) are shown for collaborating entities.
-- The primary logo version is designed for use on white or contrasting backgrounds.
-- Improper logo usages include: changing colors, altering text font or size, distorting proportions, or using text-only format without the symbol.
-- Shadows must be used sparingly and logo legibility should be maintained at all times.
-
-**Color Information:**
-
-- Primary color system includes Pantone 600C, Cool Gray 9C, Pantone 346C, and Pantone 580C with their respective HEX, RGB, and CMYK values.
-- Secondary color palette includes Pantone 5473C, Pantone Black 3C, Pantone 609C, and Pantone 7593C, also with HEX, RGB, and CMYK codes listed.
-
-**Typography Information:**
-
-- Official typeface is Museo Sans 500 for primary branding elements such as titles. Also specified are Calibri Bold for headlines/subheadlines, and Calibri Regular for body text.
-
-**Brand Voice:**
-
-- Guidelines specify the importance of consistent and unified messaging, emphasizing quality, consistency, and style as core elements of the SilvaCarbon identity.
-
-**Notes:**
-
-- Both English and Spanish versions of brand guidance are provided for accessibility to diverse stakeholders.
-- Visual representation of logo placements and safe zones, emphasizing consistency.
-- Examples of logo design and construction provide a reference for maintaining visual integrity.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Channel 4 Television
 slug: "channel-4-television"
 description: ""
-date: "2026-03-20T08:22:04.006295"
+date: "2026-04-10T09:40:31.963868"
 draft: false
 sectors:
   - broadcasting
@@ -74,7 +74,149 @@ visual_term_image_urls: {}
 
 ### 2019
 
-*Guidelines data not available*
+#### Brand Summary
+
+##### Mission
+
+- To ensure consistent and prominent Channel 4 branding across all third party VOD platforms for Channel 4 commissioned programmes, maintaining the integrity and visibility of the Channel 4 identity in all distributed content [^1].
+
+##### Core Values
+
+- consistency
+- visibility
+- integrity
+- recognizability
+
+##### Target Audience
+
+- Viewers of Channel 4 commissioned programmes on third party VOD platforms, including audiences of E4, All 4, More 4, and other Channel 4 network channels [^2].
+
+##### Personality Traits
+
+- modern
+- minimalist
+- bold
+- contemporary
+
+##### Visual Identity Overview
+
+- The visual identity centers on the Channel 4 logo, which must be prominently placed and never altered. Logo variations (black for light backgrounds, white for dark backgrounds) are specified, with strict rules for placement, scaling, and legibility. Imagery is minimalist and contemporary, emphasizing geometric shapes and high contrast [^3].
+
+#### Categories
+
+##### Brand Imagery
+
+- The Channel 4 pre-roll ident is required to be played prior to the opening credits of any Channel 4 programmes on third party VOD platforms. The pre-roll ident should never be obscured, edited or manipulated in any way. The pre-roll ident can be downloaded here: https://www.channel4.com/info/commissioning/production-information/programme-management
+- These are the two versions of the Channel 4 logo that should be used across all programme image tiles on third party VOD platforms. Black logo The black logo should sit over light background imagery. White logo The white logo should sit over dark background imagery.
+- Primary position The Channel 4 logo should align to the top left margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Amazon Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Always use the templates provided.
+- Never re-size the Channel 4 logo.
+- Never have a key part of the image behind the Channel 4 logo.
+- Always scale and position the image and header to allow for a clear read of the Channel 4 logo and show header.
+- Never move the logo from it's fixed position to the margins (denoted by magenta keylines). Always keep the show header within the margins.
+- Always ensure the Channel 4 logo is legible.
+- Never re-colour or apply an effect to the logo.
+- The Channel 4 logo should align to the top left margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Select the black Channel 4 logo for lighter backgrounds and the white Channel 4 logo for dark backgrounds.
+- The show logo can be scaled to any size.
+- The show imagery should be scaled and positioned to allow for a clear read of the Channel 4 and show logos.
+- The margin shown is set at 70px (1780px x 940px).
+- Logo is scaled to 22% of the tile height
+- The Channel 4 logo should remain fixed to the top left margin. In this format, the Channel 4 logo is scaled to 17% of the tile height.
+- The margin shown is set at 70px (1230px x 1780px).
+- Logo is scaled to 17% of the tile height
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 25% of the tile height.
+- The margin shown is set at 70px (1460px x 1060px).
+- Logo is scaled to 25% of the tile height
+
+##### Color Palette
+
+- Black logo The black logo should sit over light background imagery. White logo The white logo should sit over dark background imagery.
+- Select the black Channel 4 logo for lighter backgrounds and the white Channel 4 logo for dark backgrounds.
+- Never re-colour or apply an effect to the logo.
+
+##### Logo Usage
+
+- We require prominent Channel 4 logo placement on all imagery appearing on third party VOD including but not limited to the programme image tile.
+- Regardless of the platform, it is required to use the Channel 4 pre-roll before opening credits and logo placement on all programme image tiles representing Channel 4 commissioned programmes on third party VOD platforms.
+- The Channel 4 pre-roll ident is required to be played prior to the opening credits of any Channel 4 programmes on third party VOD platforms.
+- The pre-roll ident should never be obscured, edited or manipulated in any way.
+- These are the two versions of the Channel 4 logo that should be used across all programme image tiles on third party VOD platforms. Black logo The black logo should sit over light background imagery. White logo The white logo should sit over dark background imagery.
+- The Channel 4 logo should align to the top left margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Always use the templates provided.
+- Never re-size the Channel 4 logo.
+- Never have a key part of the image behind the Channel 4 logo.
+- Always scale and position the image and header to allow for a clear read of the Channel 4 logo and show header.
+- Never move the logo from it's fixed position to the margins (denoted by magenta keylines). Always keep the show header within the margins.
+- Always ensure the Channel 4 logo is legible.
+- Never re-colour or apply an effect to the logo.
+- The Channel 4 logo should align to the top left margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Select the black Channel 4 logo for lighter backgrounds and the white Channel 4 logo for dark backgrounds.
+- The show imagery should be scaled and positioned to allow for a clear read of the Channel 4 and show logos.
+- The margin shown is set at 70px (1780px x 940px).
+- Logo is scaled to 22% of the tile height
+- The Channel 4 logo should remain fixed to the top left margin. In this format, the Channel 4 logo is scaled to 17% of the tile height.
+- The margin shown is set at 70px (1230px x 1780px).
+- Logo is scaled to 17% of the tile height
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 25% of the tile height.
+- The margin shown is set at 70px (1460px x 1060px).
+- Logo is scaled to 25% of the tile height
+
+##### Visual Style
+
+- The Channel 4 pre-roll ident is required to be played prior to the opening credits of any Channel 4 programmes on third party VOD platforms. The pre-roll ident should never be obscured, edited or manipulated in any way. The pre-roll ident can be downloaded here: https://www.channel4.com/info/commissioning/production-information/programme-management
+- These are the two versions of the Channel 4 logo that should be used across all programme image tiles on third party VOD platforms. Black logo The black logo should sit over light background imagery. White logo The white logo should sit over dark background imagery.
+- Logo correct use Primary position The Channel 4 logo should align to the top left margin. Please refer to pages 10 for exact logo sizing and positioning. Amazon Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. Please refer to pages 10 for exact logo sizing and positioning. Always use the templates provided.
+- Never re-size the Channel 4 logo.
+- Never have a key part of the image behind the Channel 4 logo.
+- Always scale and position the image and header to allow for a clear read of the Channel 4 logo and show header.
+- Never move the logo from it's fixed position to the margins (denoted by magenta keylines). Always keep the show header within the margins.
+- Always ensure the Channel 4 logo is legible.
+- Never re-colour or apply an effect to the logo.
+- The Channel 4 logo should align to the top left margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Select the black Channel 4 logo for lighter backgrounds and the white Channel 4 logo for dark backgrounds.
+- The show logo can be scaled to any size.
+- The show imagery should be scaled and positioned to allow for a clear read of the Channel 4 and show logos.
+- The margin shown is set at 70px (1780px x 940px).
+- Logo is scaled to 22% of the tile height
+- The Channel 4 logo should remain fixed to the top left margin. In this format, the Channel 4 logo is scaled to 17% of the tile height.
+- The margin shown is set at 70px (1230px x 1780px).
+- Logo is scaled to 17% of the tile height
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 25% of the tile height.
+- The margin shown is set at 70px (1460px x 1060px).
+- Logo is scaled to 25% of the tile height
+
+##### Layout And Composition
+
+- The Channel 4 pre-roll ident is required to be played prior to the opening credits of any Channel 4 programmes on third party VOD platforms. The pre-roll ident should never be obscured, edited or manipulated in any way.
+- These are the two versions of the Channel 4 logo that should be used across all programme image tiles on third party VOD platforms. Black logo The black logo should sit over light background imagery. White logo The white logo should sit over dark background imagery.
+- Primary position The Channel 4 logo should align to the top left margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. Please refer to pages 10 for exact logo sizing and positioning.
+- Always use the templates provided.
+- Never re-size the Channel 4 logo.
+- Never have a key part of the image behind the Channel 4 logo.
+- Always scale and position the image and header to allow for a clear read of the Channel 4 logo and show header.
+- Never move the logo from it's fixed position to the margins (denoted by magenta keylines). Always keep the show header within the margins.
+- Always ensure the Channel 4 logo is legible.
+- Never re-colour or apply an effect to the logo.
+- The Channel 4 logo should align to the top left margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 22% of the tile height.
+- Select the black Channel 4 logo for lighter backgrounds and the white Channel 4 logo for dark backgrounds.
+- The show logo can be scaled to any size.
+- The show imagery should be scaled and positioned to allow for a clear read of the Channel 4 and show logos.
+- The margin shown is set at 70px (1780px x 940px).
+- Logo is scaled to 22% of the tile height
+- The Channel 4 logo should remain fixed to the top left margin. In this format, the Channel 4 logo is scaled to 17% of the tile height.
+- The margin shown is set at 70px (1230px x 1780px).
+- Logo is scaled to 17% of the tile height
+- Due to the possible use of the Amazon Prime graphic device, the Channel 4 logo should align to the bottom right margin. In this format, the Channel 4 logo is scaled to 25% of the tile height.
+- The margin shown is set at 70px (1460px x 1060px).
+- Logo is scaled to 25% of the tile height
 
 ## Additional Properties
 

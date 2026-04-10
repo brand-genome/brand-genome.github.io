@@ -2,7 +2,7 @@
 title: Stitch Fix
 slug: "stitch-fix"
 description: ""
-date: "2026-03-20T08:22:05.412450"
+date: "2026-04-10T09:40:34.269472"
 draft: false
 sectors:
   - fashion
@@ -52,28 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - secondary
-  - logomark
-  - symbol
-  - primary
-  - icon
-brand_colors:
-  - green
-  - white
-  - grey
-  - blue
-  - gray
-  - turquoise
-typographies:
-  - brandon
-  - "gill-sans"
-  - trebuchet
-  - serif
-imagery_styles:
-  - bold
-  - modern
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: online clothing company
 wikidata_url: "https://www.wikidata.org/wiki/Q18385610"
 has_twitter: false
@@ -91,37 +73,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Logo features an all-caps serif typeface with a sophisticated feel. The logotype must be in Gray Dark for visual consistency. Color treatments include Gray Dark. The minimum size is screen: 12 pixels, print: 0.075 inches. Clearspace requirement: 2X the height of the logotype around all sides.
-- Logo lock-ups should demonstrate proportional relationships between the logotype and tagline. Tagline should not be used if the logotype height is less than 13 pixels.
-- Primary Logomark: A filled stylized icon referencing modern stitch pattern and loosely based on the 'F' and 'X' in 'Fix'. Usage: stand-alone hero element for packaging, social media avatars, etc. Minimum size: screen 33 pixels, print 0.4583 inches. Clearspace: Minimum 2X around all sides. Color treatments: Mint (Women's), Dark Mint (Gender Neutral), and Gray Dark (Hi-Contrast).
-- Secondary Logomark: Open and airy version of the mark. Serves as a template for digital collateral badges and icons. Minimum size: screen 33 pixels, print 0.4583 inches. Color treatments: Gray Dark (Hi-Contrast), Dark Mint (Gender Neutral), Mint (Women's), and Mint (Men's).
-- Prohibited logo usages include: recreating the logotype by typing it, removing the trademark symbol, rotating or distorting the logo, cropping beyond 1/4 of the logomark, resizing the logomark pattern, stacking the logotype, using unsanctioned colors or lockups.
-
-**Color Information:**
-
-- Neutral Palette: White (#FFFFFF), Gray Light (#F2F1EF), Grey (#96908C), Grey Dark (#2F3237). Role: General usage; Grey Dark is text only.
-- Gender Neutral Palette: Includes accent and CTA colors. Colors: Watermelon (#F05D61, role: CTA), Mint Dark (#00A19A, role: Accent).
-- UI Palette: Colors for UX/Product Design. Colors: Blue (#0085C4, role: Link Text), Turquoise (#1695A3, role: Selected UI Control), Dark Turquoise (#0C828F, role: Selected UI Text). Not used for brand creative projects.
-- Women's Palette: Watermelon (#F05D61, role: CTA) from the Gender Neutral palette and Mint (#00BDB4, role: Accent) as a specific addition.
-- Men's Palette: Butternut (#D77F59, role: CTA), Hunter Green (#1C453B, role: Accent), Copper (#97694B, role: Accent 2), and Charcoal (#25282D, role: Accent 3). Complements the Neutral Palette.
-
-**Typography Information:**
-
-- Primary Typeface: Grad. Weights: Regular, Italic, Bold. Usage: All non-body text larger than 12pt/12px, such as headlines.
-- Secondary Typeface: Brandon Text. Weights: Regular, Light, Italic, Medium. Usage: All body copy and text smaller than 12pt/12px.
-- Webfont fallbacks for digital assets: Molengo, Gill Sans, Calibri, Trebuchet MS. Ensures typography remains consistent across email clients.
-
-**Spacing Layout:**
-
-- Logotype clearspace rule: Minimum 2X around all sides.
-- Primary and secondary logomarks have a clearspace rule of 2X around all sides.
-- Tagline alignment rules detailed with proportional relationship visuals to the logotype.
-
-**Notes:**
-
-- This document strongly focuses on logo usage rules, typography, and color systems, with specific use cases for each.
+*Guidelines data not available*
 
 ## Additional Properties
 

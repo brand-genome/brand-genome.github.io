@@ -2,7 +2,7 @@
 title: SusChem
 slug: suschem
 description: ""
-date: "2026-03-20T08:22:05.421544"
+date: "2026-04-10T09:40:34.304847"
 draft: false
 sectors:
   - research
@@ -74,6 +74,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2017
+
+*Guidelines data not available*
 
 ## Additional Properties
 

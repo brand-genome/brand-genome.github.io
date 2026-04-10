@@ -2,7 +2,7 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-03-20T08:22:04.860497"
+date: "2026-04-10T09:40:33.612299"
 draft: false
 sectors:
   - hospitality
@@ -59,32 +59,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - "pantone-5763"
-  - white
-  - grey
-  - blue
-  - "pantone-7546"
-  - "pantone-5513"
-  - "pantone-703"
-  - "pantone-7550"
-  - black
-typographies:
-  - gotham
-  - trebuchet
-  - georgia
-imagery_styles:
-  - staged
-  - artificial
-  - graphic
-  - natural
-  - contemporary
-  - monochrome
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: French hotel group
 wikidata_url: "https://www.wikidata.org/wiki/Q212599"
 has_twitter: false
@@ -110,48 +88,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The AccorHotels logo is composed of a goose cutout (in honey color), the name 'AccorHotels' in dark blue capital letters, and the tagline 'Feel Welcome' in dark blue.
-- The AccorHotels logo variants include a version with a white background and a version used on a darker background (Text in solid white and a honey-colored goose).
-- A black monochrome version of the logo is available for use in applications that cannot handle color (e.g., faxes, black and white advertisements). The 'Feel Welcome' tagline can be excluded for sensitive and crisis communication purposes.
-- The minimum protection zone around the logo is defined using the 'H' of 'Hotels' (logo height). No graphic elements should be placed inside this zone.
-- Minimum size requirements: Logo with tagline: 22mm (62 pixels); Logo without tagline: 13mm (36 pixels).
-- On media, the logo should always be centered and placed in the header, ideally taking the full width while respecting the protection area.
-- The logo can be used on light or white backgrounds, as well as dark blue backgrounds (white logo version, honey-colored goose). It may also be placed on visuals from the AccorHotels photo library, provided they have light or dark backgrounds to ensure legibility. Avoid busy visuals with strong contrasts.
-- Incorrect uses include altering logo colors, moving the goose element, distorting the logo, changing tagline font or color, using honey color on a frost grey background, or placing text inside the protection zone.
-
-**Color Information:**
-
-- The AccorHotels color palette includes three brand colors (dark blue, honey, white) and three additional colors (frost grey, nacarat red, tapenade green). 
-- Dark Blue: CMYK (90, 45, 20, 75); Pantone 7546 C; RGB (0, 43, 65); HEX #002b41. Primary brand color.
-- Honey: CMYK (0, 35, 100, 10); Pantone 7550 C; RGB (230, 165, 0); HEX #e6a500. Primary brand color.
-- White: CMYK (0, 0, 0, 0); RGB (255, 255, 255); HEX #ffffff. Primary brand color.
-- Frost Grey: CMYK (30, 0, 20, 10); Pantone 5513 C; RGB (183, 201, 192); HEX #b7c9c0. Secondary color.
-- Nacarat Red: CMYK (10, 85, 50, 5); Pantone 703 C; RGB (208, 65, 88); HEX #d04158. Secondary color.
-- Tapenade Green: CMYK (5, 0, 65, 65); Pantone 5763 C; RGB (141, 138, 85); HEX #8d8a55. Secondary color.
-- Usage: Additional colors are only to be used as solid blocks, in titles, or in emphasized text in PowerPoint presentations.
-
-**Typography Information:**
-
-- Two main font families are used in AccorHotels communication: Gotham (main font for branding purposes) and Dala Floda (used for selective needs). Auxiliary system fonts include Trebuchet and Georgia.
-- Gotham is used primarily for titles and headlines. Dala Floda is not mentioned for specific usage roles.
-- Trebuchet and Georgia (system fonts) are intended for use in day-to-day office communications.
-
-**Imagery Photography:**
-
-- AccorHotels' visuals must be stylish, contemporary, and elegant. They should express moments of life and emotion, connecting people to others and their destinations.
-- Photo composition: Images should always be well-lit, natural, and have depth. Avoid artificial and overly staged imagery. Use natural light and avoid filters to maintain authenticity.
-- The visuals should reflect specific themes: moments of conviviality, unique discovery, and a spirit of openness.
-
-**Spacing Layout:**
-
-- Documents should follow alignment guidelines set for headers and margins. Logo should fit entirely within the header width while respecting the protective zone.
-- Stationery layout rules ensure logo placement occupies central positions in headers while maintaining equal-side symmetry.
-
-**Brand Voice:**
-
-- Brand tone is focused on elegance, welcoming messages, and inspiring confidence. Specific voice guidance is not outlined.
+*Guidelines data not available*
 
 ## Additional Properties
 

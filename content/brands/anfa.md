@@ -2,7 +2,7 @@
 title: ANFA
 slug: anfa
 description: ""
-date: "2026-03-20T08:22:05.571105"
+date: "2026-04-10T09:40:34.491779"
 draft: false
 sectors:
   - "public-sector"
@@ -52,9 +52,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - "pantone-2766"
-  - "pantone-299"
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: governing body of association football in Nepal
@@ -78,28 +76,124 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
+#### Brand Summary
 
-- The logotype is available in formats like EPS, JPG, GIF, and PNG.
-- Clear space rules around the logotype, including a protected area.
-- Do not use the logotype on disturbing backgrounds or at small sizes.
+##### Mission
 
-**Color Information:**
+- To provide services related to the automobile and mobility sectors, emphasizing professionalism and modernity.
 
-- Pantone color references provided: Pantone 2766 C, Pantone 299 C.
-- Color usage rules specified for print (CMYK, Pantone) and screen (RGB).
+##### Core Values
 
-**Spacing Layout:**
+- professionalism
+- clarity
+- modernity
+- mobility
 
-- Spacing and protection zone around logotypes emphasized.
+##### Target Audience
 
-**Brand Voice:**
+- Organizations, professionals, and individuals involved in the automotive and mobility industries.
 
-- Brand communication principles include maintaining consistent color usage across media.
+##### Personality Traits
 
-**Notes:**
+- professional
+- modern
+- clean
+- dynamic
 
-- Additional file formats and reproduction guidelines are provided for print and digital use.
+##### Visual Identity Overview
+
+- The visual identity centers on a blue gradient globe logo with stylized white road lines, paired with bold, uppercase typography. The color palette features institutional blues (Pantone 2766 C and Pantone 299 C), and layouts are clean, structured, and emphasize clarity and movement.
+
+#### Categories
+
+##### Logo Usage
+
+- Le logotype en couleurs est disponible : en pantone, pour une impression offset, en quadrichromie (CMJN) pour une impression numérique ou offset (papeterie, édition, affiche, etc.), en RVB pour une application écran (web, etc.).
+- Pour toute reproduction, utiliser l'un des fichiers informatiques disponibles (formats eps, jpg, gif et png).
+- Le logo est constitué de deux couleurs, dont vous trouverez ici les références.
+- Pantone 2766 C C 100 -M 95 -J 30 -N 20 R 11 -V 43 -B 94
+- Pantone 299 C C 90 -M 10 -J 0 -N 0 R 0 -V 157 -B 219
+- Afin de préserver la visibilité et la lisibilité du logotype, on veillera à respecter: • La taille minimum d'utilisation, définie à 33 mm sur la longueur. • L'espace protégé défini autour du logotype est égal à la hauteur du A de ANFA. • Aucun élément, texte ou graphique, ne doit venir dans cet espace. ESPACE PROTÉGÉ
+- Le logo et sa zone de protection pour obtenir la taille selon les supports, dans la limite de la taille minimum déterminée.
+- Dans le cas où le logotype doit être l'élément principal du document, sa taille maximum ne doit pas dépasser la zone d'espace protégé du logotype.
+- Pour son positionnement, • en tête ferré à gauche ou droite • en pied de page ferré à droite
+- Respecter une marge minimum correspondant à sa zone de protection tout en veillant à respecter la taille minimum déterminée
+- Le logo peut très bien vivre sur des fonds clairs qui ne viennent pas perturber sa lecture.
+- Dès que le fond devient perturbant, le logo aura besoin de son espace de protection sur fond blanc
+- Ne pas utiliser le logotype couleur sur un fond visuel
+- Respecter l'espace protégé autour du logotype
+- Conserver les bonnes proportions lors des variations de la taille du logotype
+- Ne pas utiliser le logotype sur des fonds qui perturbent sa lecture
+- Ne pas utiliser le logotype à une taille inférieure à la taille minimum recommandée
+- Ne pas appliquer de rotation au logotype
+
+##### Color Palette
+
+- Le logotype en couleurs est disponible : en pantone, pour une impression offset, en quadrichromie (CMJN) pour une impression numérique ou offset (papeterie, édition, affiche, etc.), en RVB pour une application écran (web, etc.).
+- Le logo est constitué de deux couleurs, dont vous trouverez ici les références.
+- Pantone 2766 C C 100 -M 95 -J 30 -N 20 R 11 -V 43 -B 94
+- Pantone 299 C C 90 -M 10 -J 0 -N 0 R 0 -V 157 -B 219
+
+##### Typography
+
+- GOTHAM ROUNDED Elle sera utilisée pour la communication institutionnelle et commerciale. Les graisses présentées sont à titre indicatif.
+- Gotham Rounded Light Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Gotham Rounded Light Italic Lorem ipsum do/or sit amet, consectetur adipiscing elit.
+- Gotham Rounded Medium Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Gotham Rounded Medium Italie Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Gotham Rounded Bold Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Gotham Rounded Bold Italie Lorem ipsum dolor sit amet, eonseetetur adipiscing elit.
+- ARIAL Elle sera utilisée par défaut pour tous les titres et textes des documents de bureautique (saisie des courriers dans Word, textes des présentations PowerPoint, etc).
+- Arial Regular Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Aria/ Italie Lorem ipsum do/or sit amet, consectetur adipiscing e/it.
+- Arial Bold Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Aria/ Bold Italie Lorem ipsum do/or sit amet, consectetur adipiscing elit.
+- CALIBRI Elle sera utilisée par défaut pour les communications par mail.
+- Calibri Light Lorem ipsum dolor sit a met, consectetur adipiscing elit.
+- Colibri Light Italie Lorem ipsum do/or sit omet, conseetetur adipiseing elit.
+- Calibri Regular Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Colibri Regular Italie Lorem ipsum do/or sit amet, consectetur adipiscing e/it.
+- Calibri Bold Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Colibri Bold Italie Lorem ipsum do/or sit omet, consectetur adipiscing elit.
+
+##### Visual Style
+
+- Le logotype en couleurs est disponible : en pantone, pour une impression offset, en quadrichromie (CMJN) pour une impression numérique ou offset (papeterie, édition, affiche, etc.), en RVB pour une application écran (web, etc.).
+- Pour toute reproduction, utiliser l'un des fichiers informatiques disponibles (formats eps, jpg, gif et png).
+- Le logo est constitué de deux couleurs, dont vous trouverez ici les références.
+- Pantone 2766 C C 100 -M 95 -J 30 -N 20 R 11 -V 43 -B 94
+- Pantone 299 C C 90 -M 10 -J 0 -N 0 R 0 -V 157 -B 219
+- Afin de préserver la visibilité et la lisibilité du logotype, on veillera à respecter: • La taille minimum d'utilisation, définie à 33 mm sur la longueur. • L'espace protégé défini autour du logotype est égal à la hauteur du A de ANFA. • Aucun élément, texte ou graphique, ne doit venir dans cet espace. ESPACE PROTÉGÉ
+- Le logo et sa zone de protection pour obtenir la taille selon les supports, dans la limite de la taille minimum déterminée.
+- Dans le cas où le logotype doit être l'élément principal du document, sa taille maximum ne doit pas dépasser la zone d'espace protégé du logotype.
+- Pour son positionnement, • en tête ferré à gauche ou droite • en pied de page ferré à droite
+- Respecter une marge minimum correspondant à sa zone de protection tout en veillant à respecter la taille minimum déterminée
+- Le logo peut très bien vivre sur des fonds clairs qui ne viennent pas perturber sa lecture.
+- Dès que le fond devient perturbant, le logo aura besoin de son espace de protection sur fond blanc
+- Ne pas utiliser le logotype couleur sur un fond visuel
+- Respecter l'espace protégé autour du logotype
+- Conserver les bonnes proportions lors des variations de la taille du logotype
+- Ne pas utiliser le logotype sur des fonds qui perturbent sa lecture
+- Ne pas utiliser le logotype à une taille inférieure à la taille minimum recommandée
+- Ne pas appliquer de rotation au logotype
+
+##### Layout And Composition
+
+- La taille minimum d'utilisation, définie à 33 mm sur la longueur.
+- L'espace protégé défini autour du logotype est égal à la hauteur du A de ANFA.
+- Aucun élément, texte ou graphique, ne doit venir dans cet espace.
+- Le logo et sa zone de protection pour obtenir la taille selon les supports, dans la limite de la taille minimum déterminée.
+- Dans le cas où le logotype doit être l'élément principal du document, sa taille maximum ne doit pas dépasser la zone d'espace protégé du logotype.
+- Pour son positionnement, • en tête ferré à gauche ou droite • en pied de page ferré à droite
+- Respecter une marge minimum correspondant à sa zone de protection tout en veillant à respecter la taille minimum déterminée
+- Le logo peut très bien vivre sur des fonds clairs qui ne viennent pas perturber sa lecture.
+- Dès que le fond devient perturbant, le logo aura besoin de son espace de protection sur fond blanc
+- Ne pas utiliser le logotype couleur sur un fond visuel
+- Respecter l'espace protégé autour du logotype
+- Conserver les bonnes proportions lors des variations de la taille du logotype
+- Ne pas utiliser le logotype sur des fonds qui perturbent sa lecture
+- Ne pas utiliser le logotype à une taille inférieure à la taille minimum recommandée
+- Ne pas appliquer de rotation au logotype
 
 ## Additional Properties
 

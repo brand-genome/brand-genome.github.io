@@ -2,7 +2,7 @@
 title: Syracuse University
 slug: "syracuse-university"
 description: ""
-date: "2026-03-20T08:22:04.979182"
+date: "2026-04-10T09:40:33.750138"
 draft: false
 sectors:
   - education
@@ -54,23 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - stacked
-  - secondary
-  - symbol
-  - horizontal
-  - wordmark
-  - primary
-brand_colors:
-  - white
-  - orange
-  - blue
-typographies:
-  - impact
-  - serif
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Syracuse, New York, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q617433"
 has_twitter: false
@@ -89,40 +76,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Primary Logo
-The Syracuse University logo is a powerful symbol of the individual and collective impact of our students, faculty, staff, alumni, partners, and broader community.
-- Logo consists of two key elements: the logo symbol called the Block S and the official wordmark, typeset in Sherman Serif Book.
-- Primary logo can appear in various configurations including horizontal and stacked lock-ups for flexibility.
-- Logo Clear Space should equal the width of the “S” on all sides.
-
-**Color Information:**
-
-- Primary colors: Syracuse University Orange. Alternative color palettes include primary blue and white.
-- Color palette includes Orange as primary, secondary options provided in the full color guide. Referencing page 27 for detailed combinations.
-
-**Typography Information:**
-
-- Typography Structure: Sherman Sans for hero messages and headlines, and Sherman Serif for subheadlines. Avoid using orange for body copy.
-- Font: Sherman Sans and Sherman Serif
-Roles: Sherman Sans used for hero and headline text, Sherman Serif for subheadlines.
-Approved color combinations are required for text compliance with web accessibility standards (details on page 24).
-
-**Imagery Photography:**
-
-- Photography should reflect core values like boldness, welcoming nature, and transformation.
-- Imagery must capture individual and group dynamics, creating active and inviting storytelling.
-
-**Spacing Layout:**
-
-- Primary Logo Clear Space: Minimum required is the width of the “S” on all sides to ensure clarity.
-- Typography Grids and Layouts: Use of two-column, four-column, and six-column grid structures with uniform margins.
-
-**Brand Voice:**
-
-- The brand incorporates the tone: Bold, Boundless, Welcoming, and Transformative. Core attributes include being Visionary, Purposeful, and Curious.
-- The message should exemplify 'One University' vision through cohesive and impactful communication.
+*Guidelines data not available*
 
 ## Additional Properties
 

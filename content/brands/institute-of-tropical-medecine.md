@@ -2,11 +2,11 @@
 title: Institute of Tropical Medecine
 slug: "institute-of-tropical-medecine"
 description: ""
-date: "2026-03-20T08:22:05.017698"
+date: "2026-04-10T09:40:33.781895"
 draft: false
 sectors:
-  - university
   - research
+  - university
   - healthcare
 regions:
   - belgium
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - science
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -49,16 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - blue
-typographies:
-  - avenir
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -77,42 +71,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- logo, which grid to use for publications, what colours to use,
-- Logo
-- logo is the full logo with text. The stand-alone symbol
-- logo is 'I TM Blue'. Use
-- Logo primary colours
-- Never change e.g. the proportions of the logo
-
-**Color Information:**
-
-- Colour primary, secondary, background colours
-- Mission primary brand colour
-- Includes e.g. RGB properties.
-
-**Typography Information:**
-
-- Typography Titles, body text, Microsoft Office
-- Typography body text e.g. Avenir font
-
-**Imagery Photography:**
-
-- Images Photography
-- Guidelines for Images e.g. mood and composition
-
-**Spacing Layout:**
-
-- Grid and spacing specifications
-- Grid and spacing for Cover layout
-
-**Brand Voice:**
-
-- Vision, mission, core tasks, values
-- Brand values outlined in mission section
-
-**Notes:**
-
-- Incorrect use violations e.g. logo proportions
-- Values highlighted throughout sections
+*Guidelines data not available*

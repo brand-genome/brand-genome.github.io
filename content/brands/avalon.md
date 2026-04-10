@@ -2,7 +2,7 @@
 title: Avalon
 slug: avalon
 description: ""
-date: "2026-03-20T08:22:04.663011"
+date: "2026-04-10T09:40:33.391351"
 draft: false
 sectors:
   - "real-estate"
@@ -48,13 +48,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
-typographies:
-  - impact
+typographies: []
 imagery_styles: []
 wikidata_description: American contemporary Christian vocal quartet
 wikidata_url: "https://www.wikidata.org/wiki/Q2873263"
@@ -74,25 +70,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- Logo and symbol descriptions for Avalon primary, secondary, Club Avalon, and Haven at Avalon with specifications for design details. Includes clear space and minimum sizing rules.
-
-**Color Information:**
-
-- Details on Avalon’s primary and secondary color palettes, including Pantone, RGB, and CMYK values. Specific usages provided for the Primary and Secondary Logos.
-
-**Spacing Layout:**
-
-- Spacing rules for different classifications of the logo, primary, secondary, and Club Avalon logos. Clear specifications for clear space, minimum sizes for print, and digital layouts.
-
-**Brand Voice:**
-
-- Documentation includes an overall vision for Avalon as expressed in the elevator pitch and a general description for PR or tenant uses.
-
-**Notes:**
-
-- Additional notes reference color guidelines and their influence in reinforcing brand impact and consistency.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-03-20T08:22:04.970076"
+date: "2026-04-10T09:40:33.742205"
 draft: false
 sectors:
   - education
@@ -14,18 +14,18 @@ years:
 languages:
   - english
 tags:
-  - science
   - edition
+  - science
 industries: []
 countries:
-  - "united-kingdom"
-  - netherlands
-  - japan
-  - "united-states"
-  - australia
   - "peoples-republic-of-china"
+  - australia
+  - "united-states"
   - germany
   - italy
+  - japan
+  - netherlands
+  - "united-kingdom"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -60,17 +60,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - black
-typographies:
-  - helvetica
-imagery_styles:
-  - bold
-  - vibrant
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American multinational publishing company
 wikidata_url: "https://www.wikidata.org/wiki/Q1479654"
 has_twitter: false
@@ -91,44 +84,7 @@ visual_term_image_urls: {}
 
 ### 1999
 
-**Logo Information:**
-
-- Logo usage section discusses consistent branding options for products including front cover, back cover, and advertising.
-- Minimum size and positioning guidelines explained in relation to architectural elements for proper visibility.
-- Examples of improper border usage and alignment around logo boxes.
-- Do's and don'ts for logo usage outlined, emphasizing following established branding principles.
-- File formats referenced to ensure logos retain their integrity (EPS, PNG, etc.).
-
-**Color Information:**
-
-- Color palette for branding identified, including primary and secondary colors for consistency.
-- RGB, CMYK values and specific color formulae indicated for corporate publications.
-- Pantone colors specifically mentioned for printed materials.
-
-**Typography Information:**
-
-- Preferred font families include Minion (Regular, Bold) and Helvetica Condensed (Bold, Black, Regular Italic).
-- Typography usage emphasizes headers and sub-headers' differentiation.
-- Point sizes and type settings noted can be adjusted depending on headline or body layout.
-
-**Imagery Photography:**
-
-- Flexible designs incorporate one-color textures, line-art illustrations, duotones, and vibrant photography.
-- Architectural image layout examples listed for visual appeal.
-
-**Spacing Layout:**
-
-- Purposeful margins specified using pica measurements for documents.
-- Defined boundaries ensure logo is placed appropriately.
-
-**Brand Voice:**
-
-- Explicit tone guidance to prioritize consistent corporate messaging.
-- Detailed descriptions enhance external visibility across ads and webinars.
-
-**Notes:**
-
-- General description of Wiley’s corporate manual application system used in journals, catalogs, and business cards.
+*Guidelines data not available*
 
 ## Additional Properties
 

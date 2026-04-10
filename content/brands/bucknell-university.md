@@ -2,7 +2,7 @@
 title: Bucknell University
 slug: "bucknell-university"
 description: ""
-date: "2026-03-20T08:22:05.319530"
+date: "2026-04-10T09:40:34.152334"
 draft: false
 sectors:
   - education
@@ -54,21 +54,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - black
-  - white
-  - orange
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - clean
-  - graphic
-  - vibrant
+imagery_styles: []
 wikidata_description: "private liberal arts college in the Lewisburg, Pennsylvania area"
 wikidata_url: "https://www.wikidata.org/wiki/Q3444679"
 has_twitter: false
@@ -88,55 +77,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Our wordmark is a critical part of our visual identity, and proper usage helps establish a strong recognizable brand. The primary wordmark includes the word 'University' and should be used on most materials, especially for external audiences. The secondary wordmark does not include 'University' and is for applications where space is limited; approval from the Division of Communications is required for its use.
-- The wordmark should always appear in a single color. Acceptable colors include PMS 2955, PMS 158, white, and black.
-- Clear space around the wordmark must be maintained using the width of the capital 'B' in the wordmark as a measuring unit. No other graphic elements, typography, rules, or images should appear inside this clear space.
-- The wordmark must not be reproduced at widths smaller than 1/2 inch (print) or 75 pixels (digital). For exceptions, resized artwork and special permission are required. There is no maximum size limit for the wordmark, but it should not be the most dominant element on the page.
-
-**Color Information:**
-
-- Primary brand colors include PMS 2955 (Blue) and PMS 158 (Orange). These colors are essential for consistent branding.
-- The wordmark can appear in PMS 2955, PMS 158, black, or reversed white. Consistent color usage is important for brand integrity.
-
-**Typography Information:**
-
-- The primary brand typeface is Trade Gothic Condensed, used for headlines and emphasis. Utopia and Freight Sans are also used for complementary purposes.
-- Alternative fonts may be used in situations where the primary typefaces are unavailable or impractical.
-
-**Imagery Photography:**
-
-- Photography should reflect authentic moments, focusing on people, places, or processes. Images should feel approachable and engaging.
-- Visual stories should highlight the university’s values and include vibrant, well-lit shots with intentional composition.
-
-**Spacing Layout:**
-
-- Clear space requirements around text and logos ensure clean and legible designs. Use the 'B' in the logo as a measuring unit for spacing.
-
-**Brand Voice:**
-
-- The brand voice should be confident, approachable, and authoritative. It should reflect the university’s mission and values in all communications.
-- Messaging should be personalized, using 'we' and 'you' to engage directly with the target audience.
-
-**Notes:**
-
-- DIRE CTION,
-DEFINED.
-Our Brand G uidel in es
-- / 
-WHAT
-IS  A
-
-BRAND?
-It ™s more than our name or lo g o. 
-It ™s the way w e lo ok, a ct an d speak. 
-It ™s w hat we™re all ab out.
-When we execute our brand, there™s a reason 
-behind e very visual or verbal decision we make. This 
-document is a tool to help us make those decisions. It 
-re˜ects the thought proces s that went into creating 
-the brand and o˚ers guidance for making it work. 
+*Guidelines data not available*
 
 ## Additional Properties
 

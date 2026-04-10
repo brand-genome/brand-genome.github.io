@@ -2,11 +2,11 @@
 title: Pearson
 slug: pearson
 description: ""
-date: "2026-03-20T08:22:05.870410"
+date: "2026-04-10T09:40:34.907787"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - "united-kingdom"
 years:
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: school of the United World Colleges in Canada
 wikidata_url: "https://www.wikidata.org/wiki/Q1571997"
 has_twitter: false
@@ -75,44 +74,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-- Description of logo elements, including interrobang, thumbprint, and usage guidelines.
-
-**Color Information:**
-
-- Color guidelines with possibly Pantone and CMYK details.
-- Color guidelines with possibly Pantone and CMYK details.
-- Color guidelines with possibly Pantone and CMYK details.
-- Color guidelines with possibly Pantone and CMYK details.
-
-**Imagery Photography:**
-
-- Imagery or photography styles and guidelines.
-
-**Notes:**
-
-- General observations or minor guidelines from page 1.
-- General observations or minor guidelines from page 2.
-- General observations or minor guidelines from page 3.
-- General observations or minor guidelines from page 4.
-- General observations or minor guidelines from page 5.
-- General observations or minor guidelines from page 6.
-- General observations or minor guidelines from page 7.
-- General observations or minor guidelines from page 8.
-- General observations or minor guidelines from page 9.
-- General observations or minor guidelines from page 10.
-- General observations or minor guidelines from page 11.
+*Guidelines data not available*
 
 ## Additional Properties
 

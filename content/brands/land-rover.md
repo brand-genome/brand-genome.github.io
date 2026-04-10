@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-03-20T08:22:05.166615"
+date: "2026-04-10T09:40:34.018845"
 draft: false
 sectors:
   - automobile
@@ -47,16 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-  - badge
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - photography
+imagery_styles: []
 wikidata_description: British car marque used by Jaguar Land Rover
 wikidata_url: "https://www.wikidata.org/wiki/Q26777551"
 has_twitter: false
@@ -78,66 +72,7 @@ visual_term_image_urls: {}
 
 ### 2002
 
-**Logo Information:**
-
-- SECTIONS REVERSE
-L
-AND ROVER CAN BE IDENTIFIED
-by two versions of the L and Rover badge; 3D and 2D.
-Both ver sions were created by REFLE X (visit www.reflixstudio.com). The 3D badge should 
-be used wherever possible and is the preferred badge. The 2D badge should only be used for 
-screen applications and where the printing process cannot accommodate either the 3D badge 
-
-or the recommended 2D badge. Please refer to the badge specifications. Also ensure that 
-all elements extracted appear clear and legible.
-Land Rover communication guidelines 0 1 . 1 1 .02  ©Land Rover Version 1.0
-- SECTIONS REVERSE
-T
-O CREATE
-an information layout that integrates effectively
-
-within the identit y system, there is a structured grid that
-includes four layouts: panoramic, simple, moderate, and dynamic.
-
-Land Rover communication guidelines 0 1 . 1 1 .02  ©Land Rover Version 1.0
-- SECTIONS REVERSE
-GUIDELINES ALSO PROVIDES
-safe zones and respective badge locations adjusted clearly
-as horizontal and vertical lock-up options for badge centering examples. Fixed refinement
-
-Land Rover communication guidelines 0 1 . 1 1 .02
-
-**Color Information:**
-
-- SECTIONS CONTENTS REVERSE
-PRIMARY L AND ROVER COLOURS
-are unique colors recommended for branding and campaigns. The guidelines reference Pantone palettes, but further swatches must
-be obtained on request.
-
-**Typography Information:**
-
-- SECTIONS CONTENTS REVERSE
-TYPOGRAPHY  
-CORPORATE FONT LISTING Referencing Foundry Contents.
-
-**Imagery Photography:**
-
-- SECTIONS CONTENTS SEE CLASSIFICATION
-(Revised photography examples)
-
-**Spacing Layout:**
-
-- SECTIONS ALIGNMENT 12–0.x PROPORTIONAL AREA
-Clear space determined proportional adjustment minimum
-
-
-**Brand Voice:**
-
-- Communications acquaintance
-
-**Notes:**
-
-- Important—LandRover Per-MatchTemplate
+*Guidelines data not available*
 
 ## Additional Properties
 

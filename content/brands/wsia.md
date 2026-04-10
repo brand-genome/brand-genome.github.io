@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-03-20T08:22:05.309842"
+date: "2026-04-10T09:40:34.138164"
 draft: false
 sectors:
   - insurance
@@ -46,15 +46,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - symbol
-  - primary
-brand_colors:
-  - blue
-  - gray
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "American trade association representing the wholesale, speciality & \"surplus lines\" insurance industry"
@@ -75,27 +68,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The WSIA logo is composed of the Logotype and the Starmark symbol, which can be used independently or as a primary lockup. The lockup is the preferred arrangement.
-- A logo descriptor ('Wholesale & Specialty Insurance Association') can be added when the logo is introduced or used in new markets. It must be sized and placed properly.
-- Color options for the logo include two-color (WSIA Blue and Association Gray), black-and-white versions, and reversed versions for dark backgrounds.
-- Clear space surrounding the logo must be at least half the height of the logotype letters (0.5X) on all sides. Extra space is allowed if it feels too tight.
-- Incorrect logo usage includes altering colors, using it on non-contrasting backgrounds without black/white versions, using on busy backgrounds without sufficient contrast, stretching or distorting the logo, or altering the relationship between the Logotype and Starmark.
-
-**Color Information:**
-
-- WSIA Blue (PMS 308C): CMYK - 100C 5M 0Y 47K; RGB - 0, 86, 125; HEX #00567c.
-- Association Gray (PMS Cool Gray 7C): CMYK - 0C 0M 0Y 37K; RGB - 153, 153, 154; HEX #999899.
-- Consistent use of WSIA Blue and Association Gray supports cohesive brand identity across all relevant media.
-
-**Spacing Layout:**
-
-- Logo clear space must be maintained at 0.5X distance (where X is the height of the Logotype letters) on all sides.
-
-**Notes:**
-
-- This guide is a reference for maintaining WSIA brand identity, offering a flexible system for creativity within set guidelines. Contact Director of Marketing/Communications if needed.
+*Guidelines data not available*
 
 ## Additional Properties
 

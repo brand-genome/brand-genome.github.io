@@ -2,7 +2,7 @@
 title: Kochike
 slug: kochike
 description: ""
-date: "2026-03-20T08:22:05.580144"
+date: "2026-04-10T09:40:34.512136"
 draft: false
 sectors:
   - "public-sector"
@@ -54,8 +54,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: "Defunct bus operator based in Kōchi prefecture, Japan"
 wikidata_url: "https://www.wikidata.org/wiki/Q11672405"
 has_twitter: false
@@ -74,111 +73,55 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Logo monocromática specification found on page 3.
-- Logo anagrama specification found on page 3.
-- Logo monocromática specification found on page 11.
-- Logo anagrama specification found on page 23.
+##### Visual Identity Overview
 
-**Color Information:**
+- The brand's visual identity centers on a vibrant, symmetrical sunburst motif with radiating lines in a gradient of warm and cool colors, paired with bold black Chinese characters and a red seal. The logo is designed for high contrast and balance, emphasizing clarity, color harmony, and a dynamic, energetic appearance. Guidelines specify minimum size, isolation area, and strict rules for logo proportions, color usage, and font, ensuring consistent and recognizable presentation across applications [^1].
 
-- Color specifications (possibly Pantone or RGB) found on page 3.
-- Color specifications (possibly Pantone or RGB) found on page 7.
-- Color specifications (possibly Pantone or RGB) found on page 15.
-- Color specifications (possibly Pantone or RGB) found on page 23.
-- Color specifications (possibly Pantone or RGB) found on page 26.
-- Color specifications (possibly Pantone or RGB) found on page 27.
-- Color specifications (possibly Pantone or RGB) found on page 32.
-- Color specifications (possibly Pantone or RGB) found on page 40.
-- Color specifications (possibly Pantone or RGB) found on page 42.
-- Color specifications (possibly Pantone or RGB) found on page 43.
-- Color specifications (possibly Pantone or RGB) found on page 44.
-- Color specifications (possibly Pantone or RGB) found on page 45.
-- Color specifications (possibly Pantone or RGB) found on page 49.
-- Color specifications (possibly Pantone or RGB) found on page 51.
+#### Categories
 
-**Typography Information:**
+##### Color Palette
 
-- Typography specifications mentioned on page 3.
-- Typography specifications mentioned on page 7.
-- Typography specifications mentioned on page 12.
-- Typography specifications mentioned on page 23.
-- Typography specifications mentioned on page 29.
-- Typography specifications mentioned on page 49.
-- Typography specifications mentioned on page 50.
-- Typography specifications mentioned on page 51.
-- Typography specifications mentioned on page 55.
+- 指定色以外の配色不可
 
-**Imagery Photography:**
+##### Logo Usage
 
-- Imagery and photography details may be present on page 4.
-- Imagery and photography details may be present on page 13.
-- Imagery and photography details may be present on page 22.
-- Imagery and photography details may be present on page 23.
-- Imagery and photography details may be present on page 30.
-- Imagery and photography details may be present on page 32.
-- Imagery and photography details may be present on page 36.
-- Imagery and photography details may be present on page 38.
-- Imagery and photography details may be present on page 39.
-- Imagery and photography details may be present on page 40.
-- Imagery and photography details may be present on page 41.
-- Imagery and photography details may be present on page 42.
-- Imagery and photography details may be present on page 43.
-- Imagery and photography details may be present on page 44.
-- Imagery and photography details may be present on page 45.
-- Imagery and photography details may be present on page 47.
-- Imagery and photography details may be present on page 48.
-- Imagery and photography details may be present on page 49.
-- Imagery and photography details may be present on page 50.
-- Imagery and photography details may be present on page 51.
-- Imagery and photography details may be present on page 52.
-- Imagery and photography details may be present on page 54.
-- Imagery and photography details may be present on page 55.
-- Imagery and photography details may be present on page 56.
-- Imagery and photography details may be present on page 74.
+- 〈使用最小サイズ〉※原則、15mm未満の使用は不可
+- 15mm
+- 0.04X x 高知家®0.04X 0.04X
+- 0.05X 彪x 高知家®0.05X 0.05X
+- ※原則、点線枠内に他の要素を入れることは避けてください
+- 指定色以外の配色不可
+- ロゴタイプ以外のフォントでの表示不可
+- ロゴマークとロゴタイプの比率変更不可
+- 不明瞭な表示不可
+- 縦横比率の変更および斜体加工不可
+- 他の図形を重ねた表示不可
+- ロゴのアウトライン表示不可
+- ロゴの太さや大きさの変更不可
 
-**Spacing Layout:**
+##### Visual Style
 
-- Spacing and layout (possibly safe zone rules) information on page 3.
-- Spacing and layout (possibly safe zone rules) information on page 8.
-- Spacing and layout (possibly safe zone rules) information on page 13.
-- Spacing and layout (possibly safe zone rules) information on page 24.
-- Spacing and layout (possibly safe zone rules) information on page 25.
-- Spacing and layout (possibly safe zone rules) information on page 30.
-- Spacing and layout (possibly safe zone rules) information on page 39.
+- ※原則、15mm未満の使用は不可
+- 0.04X x 高知家®0.04X 0.04X
+- 0.05X 彪x 高知家®0.05X 0.05X
+- ※原則、点線枠内に他の要素を入れることは避けてください
+- 指定色以外の配色不可
+- ロゴタイプ以外のフォントでの表示不可
+- ロゴマークとロゴタイプの比率変更不可
+- 不明瞭な表示不可
+- 縦横比率の変更および斜体加工不可
+- 他の図形を重ねた表示不可
+- ロゴのアウトライン表示不可
+- ロゴの太さや大きさの変更不可
 
-**Brand Voice:**
+##### Layout And Composition
 
-- Brand voice or tone guidelines discussed on page 3.
-- Brand voice or tone guidelines discussed on page 4.
-- Brand voice or tone guidelines discussed on page 6.
-- Brand voice or tone guidelines discussed on page 22.
-- Brand voice or tone guidelines discussed on page 36.
-- Brand voice or tone guidelines discussed on page 47.
-- Brand voice or tone guidelines discussed on page 54.
-- Brand voice or tone guidelines discussed on page 59.
-- Brand voice or tone guidelines discussed on page 69.
-
-**Notes:**
-
-- General normative or manual notes found on page 1.
-- General normative or manual notes found on page 3.
-- General normative or manual notes found on page 4.
-- General normative or manual notes found on page 5.
-- General normative or manual notes found on page 6.
-- General normative or manual notes found on page 14.
-- General normative or manual notes found on page 15.
-- General normative or manual notes found on page 21.
-- General normative or manual notes found on page 31.
-- General normative or manual notes found on page 32.
-- General normative or manual notes found on page 35.
-- General normative or manual notes found on page 37.
-- General normative or manual notes found on page 46.
-- General normative or manual notes found on page 53.
-- General normative or manual notes found on page 58.
-- General normative or manual notes found on page 68.
-- General normative or manual notes found on page 74.
+- ※原則、15mm未満の使用は不可
+- 0.04X x 高知家®0.04X 0.04X
+- 0.05X 彪x 高知家®0.05X 0.05X
+- ※原則、点線枠内に他の要素を入れることは避けてください
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: NBC Sports
 slug: "nbc-sports"
 description: ""
-date: "2026-03-20T08:22:05.163224"
+date: "2026-04-10T09:40:34.010191"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -52,14 +52,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-brand_colors:
-  - white
-  - black
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: sports division of the NBC television network
 wikidata_url: "https://www.wikidata.org/wiki/Q3046048"
@@ -81,26 +76,71 @@ visual_term_image_urls: {}
 
 ### 2011
 
-**Logo Information:**
+#### Brand Summary
 
-- The NBC Sports logo is the official mark; the document specifies adherence to maintain visual integrity.
-- Two logo variations are defined: Logo A (Vertical) and Logo B (Horizontal). The choice of logo depends on available space and the best possible display requirements.
-- Logo A (Vertical) is available in multiple versions: Full-color, Black & White (positive and reverse), and Grayscale. Full-color is specified in Pantone, CMYK, and RGB.
-- Logo B (Horizontal) offers the same variations as Logo A: Full-color, Black & White (positive and reverse), and Grayscale. Full-color in Pantone, CMYK, and RGB formats.
+##### Mission
 
-**Color Information:**
+- To maintain the integrity and clear, consistent identification of NBC Sports as the official mark of NBC's legacy of premiere sports broadcasting.
 
-- Full-color formats for the NBC Sports logo are defined in Pantone, CMYK, RGB. Specific color values are not listed but cover light and dark background uses.
-- Grayscale options specified for print-only use against black/dark and white/light backgrounds.
-- Black & White options (positive and reverse) specified for various background colors: light and dark.
+##### Core Values
 
-**Brand Voice:**
+- integrity
+- consistency
+- legacy
 
-- The guidelines emphasize maintaining integrity and consistency when using the NBC Sports logo to align with the brand's legacy.
+##### Target Audience
 
-**Notes:**
+- Viewers and partners of NBC Sports, particularly those engaged with sports broadcasting and coverage.
 
-- The document appears to be primarily logo-centric, focusing heavily on variations, usage, and color options. No specific font or typographic details found.
+##### Personality Traits
+
+- professional
+- energetic
+- dynamic
+- modern
+
+##### Visual Identity Overview
+
+- The visual identity centers on the iconic NBC peacock logo with vibrant, multicolored feathers, bold uppercase 'NBC' lettering, and a flowing cursive 'sports' script. The guidelines specify exact logo variations, color specifications (Pantone, CMYK, RGB), and strict rules for logo usage to ensure clarity, vibrancy, and brand recognition across backgrounds and media.
+
+#### Categories
+
+##### Logo Usage
+
+- THE NBC SPORTS LOGO IS THE OFFICIAL MARK OF NBC'S LEGACY OF PREMIERE SPORTS BROADCASTING. THIS MANUAL ESTABLISHES EXACT GUIDELINES FOR PROPER USE OF THE NBC SPORTS LOGO.
+- THE VISUAL INTEGRITY OF THE NBC SPORTS LOGO MUST BE STRICTLY MAINTAINED. ADHERENCE TO THESE GUIDELINES WILL RESULT IN CLEAR, CONSISTENT IDENTIFICATION WITH THE ONGOING LEGACY OF NBC SPORTS.
+- IN ORDER TO MAINTAIN THE INTEGRITY OF THE MARK OF NBC SPORTS, TWO VARIATIONS OF THE NBC SPORTS LOGO HAVE BEEN ESTABLISHED.
+- DETERMINING THE CHOICE TO USE EITHER VARIATION IS DEPENDENT ON THE SPACE AVAILABLE FOR AN NBC SPORTS LOGO. WHEN IDENTIFYING THE PROPER VARIATION TO USE, TAKE INTO CONSIDERATION HOW BEST TO DISPLAY THE NBC SPORTS LOGO.
+- LOGO A: VERTICAL
+- LOGO B: HORIZONTAL
+- VECTOR FULL COLOR REVERSE FULL COLOR ON BLACK OR DARK BACKGROUND (PANTONE*, CMYK, RGB) POSITIVE FULL COLOR ON WHITE OR LIGHT BACKGROUND (PANTONE®, CMYK, RGB)
+- VECTOR GREYSCALE REVERSE GREYSCALE ON BLACK OR DARK BACKGROUND (PRINT ONLY) POSITIVE GREYSCALE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
+- VECTOR BLACK & WHITE REVERSE BLACK & WHITE ON BLACK OR DARK BACKGROUND (PRINT ONLY) POSITIVE BLACK & WHITE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
+
+##### Color Palette
+
+- FULL COLOR ON BLACK OR DARK BACKGROUND (PANTONE*, CMYK, RGB)
+- FULL COLOR ON WHITE OR LIGHT BACKGROUND (PANTONE®, CMYK, RGB)
+- GREYSCALE ON BLACK OR DARK BACKGROUND (PRINT ONLY)
+- GREYSCALE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
+- BLACK & WHITE ON BLACK OR DARK BACKGROUND (PRINT ONLY)
+- BLACK & WHITE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
+
+##### Typography
+
+- DO NOT change the typeface of the logotype
+- DO NOT alter the established sizing and spacing of any of the graphic elements
+
+##### Visual Style
+
+- THE VISUAL INTEGRITY OF THE NBC SPORTS LOGO MUST BE STRICTLY MAINTAINED. ADHERENCE TO THESE GUIDELINES WILL RESULT IN CLEAR, CONSISTENT IDENTIFICATION WITH THE ONGOING LEGACY OF NBC SPORTS.
+- IN ORDER TO MAINTAIN THE INTEGRITY OF THE MARK OF NBC SPORTS, TWO VARIATIONS OF THE NBC SPORTS LOGO HAVE BEEN ESTABLISHED.
+- DETERMINING THE CHOICE TO USE EITHER VARIATION IS DEPENDENT ON THE SPACE AVAILABLE FOR AN NBC SPORTS LOGO. WHEN IDENTIFYING THE PROPER VARIATION TO USE, TAKE INTO CONSIDERATION HOW BEST TO DISPLAY THE NBC SPORTS LOGO.
+- LOGO A: VERTICAL
+- LOGO B: HORIZONTAL
+- VECTOR FULL COLOR REVERSE FULL COLOR ON BLACK OR DARK BACKGROUND (PANTONE*, CMYK, RGB) POSITIVE FULL COLOR ON WHITE OR LIGHT BACKGROUND (PANTONE®, CMYK, RGB)
+- VECTOR GREYSCALE REVERSE GREYSCALE ON BLACK OR DARK BACKGROUND (PRINT ONLY) POSITIVE GREYSCALE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
+- VECTOR BLACK & WHITE REVERSE BLACK & WHITE ON BLACK OR DARK BACKGROUND (PRINT ONLY) POSITIVE BLACK & WHITE ON WHITE OR LIGHT BACKGROUND (PRINT ONLY)
 
 ## Additional Properties
 

@@ -2,13 +2,13 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-03-20T08:22:04.183215"
+date: "2026-04-10T09:40:32.517397"
 draft: false
 sectors:
-  - tourism
-  - education
-  - "arts-culture"
   - research
+  - tourism
+  - "arts-culture"
+  - education
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - botanic
+  - vintage
 industries: []
 countries:
   - "united-states"
@@ -57,21 +57,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - primary
-  - symbol
-brand_colors:
-  - brown
-  - green
-  - white
-typographies:
-  - impact
-  - times
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "botanical garden in the Bronx, New York City"
 wikidata_url: "https://www.wikidata.org/wiki/Q636275"
 has_twitter: false
@@ -90,42 +79,7 @@ visual_term_image_urls: {}
 
 ### 1973
 
-**Logo Information:**
-
-- The manual refers to the original seal of The New York Botanical Garden as the primary visual symbol to portray history, dignity, and culture. The symbol should not be retouched, sharpened, stylized, or altered.
-- The official seal appears as part of the stationery program, located in the last module at the bottom of letterhead designs and envelope layouts.
-
-**Color Information:**
-
-- PMS 368 (Green) is a primary color used consistently across designs, including stationery, envelopes, certificates, and mailing materials. Other allowable colors for special activities include shades of green or brown.
-- Paper: Off-white or kraft stone color is specified for various materials, including certificates, folders, and mailings. Recycled paper is encouraged for newsletters.
-
-**Typography Information:**
-
-- The typeface 'Times Roman' is recommended for consistent typographical appearance in typesetting. Available weights and styles are Regular, Bold, Roman, Italic, and Bold Italic.
-- 'Times Roman' is mentioned as 9 pt. on 9 for standard text layout. Headlines are recommended in Times Roman Bold at 24 pt., 72 pt., or exceptionally more if needed.
-- Typewriter alternatives (e.g., IBM Selectric Element: Large Elite 72) can be used in place of Times Roman for economical reasons. Typed text should be reduced by 15%.
-- Certificates use 'Times Roman' in Bold, Roman, and Italic styles. The type layout is divided with 6 pt. rules and includes hairlines for emphasis.
-- Publication covers use Times Roman Bold, ranging from 24 pt. to 96 pt., depending on the material (newsletters, magazines, other printed content).
-
-**Imagery Photography:**
-
-- Illustrations for publications may be sourced from The New York Botanical Garden's collection of existing materials. For newsletters, recycled off-white paper is used.
-- Magazine designs can employ full-page illustrations for emotional impact while maintaining a standard grid-based structure.
-
-**Spacing Layout:**
-
-- A format system based on paper sizes is established to standardize and economize printed materials. Formats are proportionally related and include sizes like B12 (23” x 33”), A4 (8 1/4” x 11”), A5 (5 7/8” x 8”), etc.
-- Grids are defined for a double A4 page. Framework includes three columns per page with 13 modules. Suggested module dimensions: 2 1/2" (15 picas) by 3/4" (6 lines of 9 pt.). Inside margins are 3/16", outer margins are 1/4" or as close as practicable.
-- The vertical grid is based on the A4 size. Modules are 18 pt. high vertically and 4 picas wide. This grid restores the 3-column structure established for other designs, ensuring design consistency.
-- Publications should adhere to an A5 size format (5 7/8" x 8 1/4") or a fractional size of 1/3 A4 for folders or smaller materials.
-
-**Notes:**
-
-- The graphic standards manual is intended to coordinate visual communication for The New York Botanical Garden. The standards address various formats, stationery systems, promotional literature, and signs.
-- Designs should comply with the system while allowing for creative freedom. Exceptions may be approved when justified by circumstances, but should remain consistent with the standard.
-- Stationery, including letterheads, calling cards, and envelopes, follows strict layout designs. Specific sizes, typefaces, and colors (PMS 368 green) are prescribed for these materials.
-- Special activities such as events or celebrations may utilize alternative symbols and paper colors but must adhere to general layout and typography guidelines as outlined in the manual.
+*Guidelines data not available*
 
 ## Additional Properties
 

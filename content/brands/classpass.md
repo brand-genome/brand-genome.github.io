@@ -2,11 +2,11 @@
 title: ClassPass
 slug: classpass
 description: ""
-date: "2026-03-20T08:22:04.228509"
+date: "2026-04-10T09:40:32.685487"
 draft: false
 sectors:
-  - "wellness-spa"
   - software
+  - "wellness-spa"
   - fitness
 regions:
   - usa
@@ -53,20 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - stacked
-  - horizontal
-brand_colors:
-  - black
-  - white
-  - blue
-typographies:
-  - display
-imagery_styles:
-  - bold
-  - natural
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: American fitness startup company based in New York City
 wikidata_url: "https://www.wikidata.org/wiki/Q19864979"
 has_twitter: false
@@ -84,33 +74,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo versions including horizontal, vertical, stacked variations, and color variations such as full color, black, and white.
-
-**Color Information:**
-
-- Core palette includes ClassPass Blue (#0055FF), Black (#000000), White (#FFFFFF), and extended grays, blues, and accent colors.
-
-**Typography Information:**
-
-- Typography includes Circuit as the display typeface for 36pt and above, with Circuit Outline for supplemental points. Regular, Medium, and Bold weights are used for UI elements, body text, and emphasis.
-
-**Imagery Photography:**
-
-- Imagery prioritizes showing real people in real settings, combining on-site and in-studio photography. Styling is natural, accessible, and reflects diversity.
-
-**Spacing Layout:**
-
-- Layout uses a 6-column grid throughout the document, with an 8-column grid for digital products. Baseline grids and spacing are in multiples of 4.
-
-**Brand Voice:**
-
-- ClassPass emphasizes positivity, accessibility, and inclusiveness. The tone is motivational, empathetic, and conversational, avoiding prescriptive or shaming language.
-
-**Notes:**
-
-- Copywriting guidelines stress clear communication, avoiding complex language. Use contractions, sentence case for relatability, and active voice for engagement. Avoid excessive enthusiasm.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Super Hi
 slug: "super-hi"
 description: ""
-date: "2026-03-20T08:22:04.175179"
+date: "2026-04-10T09:40:32.492935"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - featured
+  - education
   - internet
 industries: []
 countries: []
@@ -49,15 +49,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
-  - photography
+imagery_styles: []
 wikidata_description: British production duo
 wikidata_url: "https://www.wikidata.org/wiki/Q107340166"
 has_twitter: false
@@ -76,35 +71,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- The SuperHi logo has multiple states designed to express the reactive nature of the brand across all platforms and media.
-- States of the logo are described as 'Hero', 'Multi-state', and 'Expressive'.
-
-**Color Information:**
-
-- Primary color: Blue (HEX: #2727E6, RGB: R40, G40, B230). The primary color should be present in every execution.
-- Secondary color: Dark blue (HEX: #000033, RGB: R0, G0, B51). Secondary colors and tints are used for backgrounds, highlighting, and creating hierarchy.
-
-**Typography Information:**
-
-- No specific typography information is available in the extracted text.
-
-**Imagery Photography:**
-
-- No specific imagery or photography guidelines found in the extracted content.
-
-**Spacing Layout:**
-
-- No spacing or layout information detected.
-
-**Brand Voice:**
-
-- The brand aims for a reactive and highly expressive visual identity, emphasizing dynamism and variety.
-
-**Notes:**
-
-- The document emphasizes the importance of variety in expressing the brand's reactive and dynamic nature.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,11 +2,11 @@
 title: Ineos
 slug: ineos
 description: ""
-date: "2026-03-20T08:22:03.079042"
+date: "2026-04-10T09:40:30.587085"
 draft: false
 sectors:
-  - chemicals
   - oil
+  - chemicals
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - chemical
   - featured
+  - chemical
 industries:
   - "petroleum-industry"
 countries:
@@ -43,8 +43,8 @@ foundation_dates:
   - 2011
   - 1998
 foundation_year_buckets:
-  - 1990S
   - 2010S
+  - 1990S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,9 +69,9 @@ imagery_styles: []
 wikidata_description: privately owned multinational chemicals company
 wikidata_url: "https://www.wikidata.org/wiki/Q673231"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -80,12 +80,6 @@ visual_term_image_urls: {}
 - [https://www.ineos.com](https://www.ineos.com)
 - [http://www.ineos.com](http://www.ineos.com)
 - [http://ineos.com](http://ineos.com)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

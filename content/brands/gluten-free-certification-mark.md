@@ -2,7 +2,7 @@
 title: Gluten Free Certification Mark
 slug: "gluten-free-certification-mark"
 description: ""
-date: "2026-03-20T08:22:04.200443"
+date: "2026-04-10T09:40:32.560068"
 draft: false
 sectors:
   - food
@@ -47,8 +47,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,22 +69,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Master logo and consolidated logo type presented.
-- Three-color logo version displayed.
-- White-fill and reversed logo options are presented.
-- Minimum sizing rules detailed for 0.25", 0.34", and 0.31" logo applications.
-- Examples of correct 2-color logo variations and incorrect variations provided.
-
-**Color Information:**
-
-- White color used with HEX code #FFFFFF; three-color and two-color variations mentioned.
-
-**Spacing Layout:**
-
-- Spacing and sizing examples described for logo applications (e.g., 0.25" size safe zone measurement).
-
-**Notes:**
-
-- The guideline references multiple logo formatting and usage examples including minimum sizing.
+*Guidelines data not available*

@@ -2,7 +2,7 @@
 title: Uwezo
 slug: uwezo
 description: ""
-date: "2026-03-20T08:22:05.419063"
+date: "2026-04-10T09:40:34.290361"
 draft: false
 sectors:
   - ngo
@@ -53,8 +53,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: national NGO from Rwanda
 wikidata_url: "https://www.wikidata.org/wiki/Q129675640"
 has_twitter: false
@@ -73,24 +72,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Details about the Uwezo logo extracted from page 4, but includes encoding distortions reducing clarity.
-- Extracts from page 5 regarding the Uwezo logo and changes. Encoding errors present.
-- Mentions of 'STANDARD & MINIMUM SIZE' from page 9 with encoding issues.
-- Logo misuse hints extracted from page 10. Encoding diminishes useful clarity.
-
-**Typography Information:**
-
-- Typography references on page 9 connected to logo sizing and branding.
-
-**Imagery Photography:**
-
-- Photography references found on page 13 regarding usage rules. Encoding still problematic.
-
-**Brand Voice:**
-
-- Brand vision and voice notes extracted on page 2, discussing mission, values, and taglines.
+*Guidelines data not available*
 
 ## Additional Properties
 

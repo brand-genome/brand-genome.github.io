@@ -2,16 +2,16 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-03-20T08:22:03.301568"
+date: "2026-04-10T09:40:30.834863"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - usa
 years:
-  - 2020
   - 2023
+  - 2020
 languages:
   - english
   - russian
@@ -53,26 +53,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - symbol
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-369"
-  - green
-  - blue
-  - "pantone-7686"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - monochrome
+imagery_styles: []
 wikidata_description: "Irish tax-resident US water treatment company"
 wikidata_url: "https://www.wikidata.org/wiki/Q7165001"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -84,37 +74,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2023
-
-*Guidelines data not available*
-
 ### 2020
 
-**Logo Information:**
-
-- Approved full-color and lockup logo versions available for download; lockup includes Pentair + product brand logo. Secondary monochrome logos also shown for limited use.
-- Clear space and safe zone rules prohibit the separation of the logo from its symbol, and alteration of text and form is disallowed.
-- Incorrect usage examples include adding visual effects (e.g., shadows, bevels, stretching), modifying colors, or placing on busy backgrounds.
-
-**Color Information:**
-
-- Primary colors for Pentair brand: Blue (Pantone 7686 C, CMYK: 100.73.0.10, RGB: 12.52.113, HEX: #0C3471), Green (Pantone 369 C, CMYK: 68.0.100.0, RGB: 100.167.11, HEX: #64A70B).
-
-**Imagery Photography:**
-
-- Partners are allowed to use Pentair-provided product images and videos, but editing, distortion, or placing near competitor images is prohibited.
-
-**Spacing Layout:**
-
-- Approved logo sizes include 1.25 inches minimum, with larger options depending on medium specifications.
-
-**Brand Voice:**
-
-- Messaging should focus on technical precision and environmentally sustainable solutions; competitive statements directly comparing with rivals are disallowed.
-
-**Notes:**
-
-- Specific guidelines provided for correct usage of logos on external partner materials (e.g., brochures, banners, and co-branding cases). A mandatory 50% logo size guideline is set for page domination, allowing clarity in visual weight.
+*Guidelines data not available*
 
 ## Additional Properties
 

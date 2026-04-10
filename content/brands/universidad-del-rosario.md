@@ -2,7 +2,7 @@
 title: Universidad del Rosario
 slug: "universidad-del-rosario"
 description: ""
-date: "2026-03-20T08:22:03.382391"
+date: "2026-04-10T09:40:30.928561"
 draft: false
 sectors:
   - education
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: "private university in Bogotá, Colombia"
 wikidata_url: "https://www.wikidata.org/wiki/Q3997334"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 
 - [https://urosario.edu.co](https://urosario.edu.co)
 - [http://www.urosario.edu.co](http://www.urosario.edu.co)
-
-## Brand Guidelines
-
-### 2021
-
-*Guidelines data not available*
 
 ## Additional Properties
 

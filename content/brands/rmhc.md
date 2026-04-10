@@ -2,7 +2,7 @@
 title: RMHC
 slug: rmhc
 description: ""
-date: "2026-03-20T08:22:04.003630"
+date: "2026-04-10T09:40:31.957171"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - featured
+  - charity
 industries: []
 countries:
   - "united-states"
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: "nonprofit organization in Windham, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q30273101"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 
 - [https://rmhc.org](https://rmhc.org)
 - [http://www.rmhcene.org](http://www.rmhcene.org)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: LUMS
 slug: lums
 description: ""
-date: "2026-03-20T08:22:04.414284"
+date: "2026-04-10T09:40:33.157229"
 draft: false
 sectors:
   - education
@@ -51,18 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - emblem
-  - primary
-  - signature
-brand_colors:
-  - blue
-  - black
-typographies:
-  - times
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private university in Lahore, Pakistan"
 wikidata_url: "https://www.wikidata.org/wiki/Q13139758"
 has_twitter: false
@@ -83,43 +75,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The LUMS logo is composed of four elements: 1) The university's motto, 2) Three lozenge-shaped leaves symbolizing growth in every direction, 3) The letters 'L U M S', and 4) The main arch. These elements must not be used separately, but the emblem (arch, leaves, motto, LUMS letters) can be used alone in certain cases.
-- The length of the LUMS logo is 15.9X, composed of the LUMS logo typeface (10.1X length, 2.5X height) and the LUMS emblem (5X length, 4.2X total height). The space between the emblem and the logo typeface is 0.8X.
-- The exclusion zone of the LUMS logo is 0.5X clear space on all four sides. The minimum size for the LUMS logo is 0.5 inch in height.
-- Alterations are not allowed for the LUMS logo. Rules prohibit distortion, replacement of typeface, rearrangement of elements, rotation, resizing, background color alteration of the emblem, ignoring the exclusion zone, outline modifications, or color changes.
-- The LUMS logo can be adapted into different versions: with the full university name, with school names, with degrees, with affiliated centers/departments/offices, with societies, and with other identifiers. Each version has specific spacing, font size, and typeface guidelines.
-- On digital media platforms, LUMS logo usage places the emblem on one side, and the tagline on the opposite side. No alterations or combinations of the tagline with the emblem are allowed.
-- For souvenirs, the primary logo should be used prominently. The emblem of the logo may be used independently if the item’s shape/size does not permit the primary logo's usage.
-
-**Color Information:**
-
-- LUMS primary logo color codes: CMYK (100, 100, 0, 0), Pantone DS 184-1C (blue); CMYK (0, 0, 0, 100), Pantone DS Process Black C; CMYK (0, 0, 0, 5), Pantone DS Process 663C.
-- Suleman Dawood School of Business: CMYK (100, 55, 25, 10), Pantone DS 217-2C.
-- Syed Babar Ali School of Science & Engineering: CMYK (0, 30, 100, 0), Pantone DS 18-2C. Shaikh Ahmad Hassan School of Law: CMYK (80, 100, 15, 0), Pantone DS 177-1C.
-- Mushtaq Ahmad Gurmani School of Humanities & Social Sciences: CMYK (25, 100, 100, 10), Pantone DS 81-1C. School of Education: CMYK (85, 30, 50, 6), Pantone DS 7716-C.
-
-**Typography Information:**
-
-- Primary typefaces for LUMS branding: Myriad Pro and Berkeley. No other fonts should be used. The Myriad Pro font family includes styles such as Regular, Bold, Italic, Semibold, Bold Condensed, and Condensed Italic. Berkeley font styles include Oldstyle Book, Medium, Bold, Black, Bold Italic, and Black Italic.
-- Usage roles: Times New Roman (Regular) is used for the complete university name and school names; Berkeley (Oldstyle Bold) is used for degree names; Myriad Pro (Semibold) is used for degree specializations.
-
-**Imagery Photography:**
-
-- Videos for LUMS must include a signature branding slide at the end with the logo, school buildings' silhouette, and tagline. On request, the LUMS emblem can appear throughout the video on the top left corner; however, branding the entire video is not recommended.
-
-**Spacing Layout:**
-
-- Exclusion zone for the logo is 0.5X on all sides. Additional spacing guidelines include 0.8X between the emblem and university name, and specific spacing with school/degree/department/society names.
-
-**Brand Voice:**
-
-- The tagline 'Create Your Own Future' must be used in conjunction with the primary logo. The tagline and logo should maintain a locked format to preserve graphic integrity.
-
-**Notes:**
-
-- The brand guidelines emphasize consistency across all media types, including written materials, multimedia, websites, souvenirs, and digital platforms.
+*Guidelines data not available*
 
 ## Additional Properties
 

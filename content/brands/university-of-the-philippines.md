@@ -2,7 +2,7 @@
 title: University of the Philippines
 slug: "university-of-the-philippines"
 description: ""
-date: "2026-03-20T08:22:03.396408"
+date: "2026-04-10T09:40:30.962011"
 draft: false
 sectors:
   - education
@@ -58,9 +58,9 @@ imagery_styles: []
 wikidata_description: national university of the Philippines
 wikidata_url: "https://www.wikidata.org/wiki/Q746592"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -69,12 +69,6 @@ visual_term_image_urls: {}
 - [https://up.edu.ph](https://up.edu.ph)
 - [https://www.upm.edu.ph](https://www.upm.edu.ph)
 - [https://our.upou.edu.ph/oas](https://our.upou.edu.ph/oas)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
 
 ## Additional Properties
 

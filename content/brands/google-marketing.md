@@ -2,11 +2,11 @@
 title: Google Marketing
 slug: "google-marketing"
 description: ""
-date: "2026-03-20T08:22:05.722920"
+date: "2026-04-10T09:40:34.677599"
 draft: false
 sectors:
-  - "marketing-advertising"
   - software
+  - "marketing-advertising"
 regions:
   - usa
 years:
@@ -50,17 +50,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - yellow
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - product
-  - clean
-  - professional
+imagery_styles: []
 wikidata_description: advertising and analytics platform from Google
 wikidata_url: "https://www.wikidata.org/wiki/Q56274981"
 has_twitter: false
@@ -79,44 +72,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Reverse lockups are used on dark backgrounds.
-- For product use only, CMYK variants are available.
-- Preferred color applications for marketing and communication materials.
-
-**Color Information:**
-
-- Primary colors include Google Blue, Google Red, Google Yellow, etc.
-- Pantone codes: Google Blue (XYZ), Google Red (XYZ).
-- HEX and RGB codes are specified for digital platforms.
-
-**Typography Information:**
-
-- Typography guidelines focus on two primary font families used across all platforms.
-- Specific font weights and usage roles outlined for headers, body text, and captions.
-- Maximum readability ensured through proper font pairing.
-
-**Imagery Photography:**
-
-- Professional and focused imagery guidelines include clear composition and lighting.
-- Imagery treatments maintain a clean and minimalist look.
-- Usage examples show how to use photos with text overlays.
-
-**Spacing Layout:**
-
-- Minimum space around logos defined as '1x the height of the logo'.
-- Guidelines for grid usage and alignment principles established.
-
-**Brand Voice:**
-
-- Brand tone focuses on clarity, professionalism, and approachability.
-- Tagline: 'Smarter Tools. Better Results.' outlined for use in branding.
-
-**Notes:**
-
-- General visual guidelines ensure cohesive brand identity.
-- Table of contents includes brand logo lockups, color, typography, and imagery details.
+*Guidelines data not available*
 
 ## Additional Properties
 

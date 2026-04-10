@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-03-20T08:22:04.217896"
+date: "2026-04-10T09:40:32.606281"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
   - art
+  - university
 industries:
   - "higher-education"
 countries:
@@ -55,17 +55,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - signature
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - dynamic
-  - vibrant
+imagery_styles: []
 wikidata_description: "University in Philadelphia, USA, accredited in 1987. Successor to the Philadelphia Colleges of the Arts."
 wikidata_url: "https://www.wikidata.org/wiki/Q1068615"
 has_twitter: false
@@ -84,40 +77,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Formal University Signature is the primary brand identity signature. Minimum clear space is based on the diameter of the UArts dot.
-- Minimum size requirements for Formal University Signature: No smaller than 1.5 inches for standard layouts; no smaller than 2.5 inches for larger compositions.
-- Clear space rules: The minimum space around the logo is proportional to the UArts dot's diameter, illustrated with bounding boxes.
-
-**Color Information:**
-
-- Core Brand Identity Colors include specific Pantone, HEX, CMYK, and RGB values for primary visual elements.
-
-**Typography Information:**
-
-- Guidelines specify font families, weights, and typographic styles designed for UArts communications.
-- Headlines and Subheadlines typography are defined with clear roles and proportional size for communication hierarchy.
-
-**Imagery Photography:**
-
-- Active student photography should focus on energetic and engaging moments that represent student creativity.
-- Campus life photography emphasizes dynamic imagery capturing the vibrant university atmosphere.
-- Photography of campus buildings should maintain uncluttered visual styles emphasizing architectural qualities.
-- Black-and-white photography is encouraged for specific artistic portrayals.
-- Bitmap imagery guidelines focus on high-resolution processing to ensure quality consistency in publications.
-
-**Spacing Layout:**
-
-- Spacing guidelines confirm alignment specifications and minimum clear space rules around the logo elements.
-
-**Brand Voice:**
-
-- UArts’ brand voice reflects its aspirational goals, values, and dedication to creativity and consistent messaging.
-
-**Notes:**
-
-- For questions related to UArts branding, you can email marketing@uarts.edu. All guidelines must be adopted for consistency.
+*Guidelines data not available*
 
 ## Additional Properties
 

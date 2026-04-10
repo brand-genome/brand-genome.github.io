@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-03-20T08:22:05.795458"
+date: "2026-04-10T09:40:34.789941"
 draft: false
 sectors:
+  - oil
   - petroleum
   - gas
-  - oil
 regions:
   - india
 years:
@@ -50,12 +50,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - "pantone-7687"
-  - white
-  - blue
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: Web portal for scientific publications in French
@@ -78,23 +74,7 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
-
-- Corporate logo details mention a ratio of 9:5 (Width:Height).
-- Primary application of the corporate logo shown on light and dark backgrounds. Logo variations in colors other than white or Cairn blue require prior approval from the Cairn India Corporate Communications Department.
-- Examples of incorrect logo usage are provided, stating that the logo should never be in any other color than corporate Cairn blue. Incorrect design elements shown with caution against improper use.
-
-**Color Information:**
-
-- Corporate blue specified with Pantone 7687 C, CMYK values (C100 M78 Y0 K18), RGB colors (R:69 G:129 B:129), and HEX code #003366.
-
-**Brand Voice:**
-
-- The brand emphasizes consistency across communication materials to establish a cohesive external and internal image. Guidelines are intended to support strong and accurate representation of the brand's visual identity and long-term development of its brand positioning.
-
-**Notes:**
-
-- Logo guidelines stress approvals for deviations from primary application colors or backgrounds.
+*Guidelines data not available*
 
 ## Additional Properties
 

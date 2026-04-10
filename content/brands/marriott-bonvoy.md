@@ -2,7 +2,7 @@
 title: Marriott Bonvoy
 slug: "marriott-bonvoy"
 description: ""
-date: "2026-03-20T08:22:03.865979"
+date: "2026-04-10T09:40:31.530368"
 draft: false
 sectors:
   - hospitality
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - tourism
   - featured
+  - tourism
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,9 +54,9 @@ imagery_styles: []
 wikidata_description: Marriott Bonvoy rewards program
 wikidata_url: "https://www.wikidata.org/wiki/Q111359899"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,12 +65,6 @@ visual_term_image_urls: {}
 - [https://www.marriott.com](https://www.marriott.com)
 - [https://www.marriott.com/loyalty.mi](https://www.marriott.com/loyalty.mi)
 - [http://www.marriott.com/loyalty/earn.mi](http://www.marriott.com/loyalty/earn.mi)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

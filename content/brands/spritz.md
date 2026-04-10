@@ -2,7 +2,7 @@
 title: Spritz
 slug: spritz
 description: ""
-date: "2026-03-20T08:22:04.231789"
+date: "2026-04-10T09:40:32.705239"
 draft: false
 sectors:
   - finance
@@ -49,8 +49,7 @@ gazes: []
 body_sections: []
 logo_elements: []
 brand_colors: []
-typographies:
-  - montserrat
+typographies: []
 imagery_styles: []
 wikidata_description: "chilled drink, usually with white wine and sparkling water"
 wikidata_url: "https://www.wikidata.org/wiki/Q655244"
@@ -70,17 +69,7 @@ visual_term_image_urls: {}
 
 ### 2022
 
-**Color Information:**
-
-- Color-specific details with HEX, RGB, CMYK codes and branding rules.
-
-**Typography Information:**
-
-- Typography details including Montserrat font family, weights, usage rules, and prohibition against certain weights.
-
-**Brand Voice:**
-
-- Clear voice guidelines such as inclusivity, transparency, excitement, and friendliness for communication style.
+*Guidelines data not available*
 
 ## Additional Properties
 

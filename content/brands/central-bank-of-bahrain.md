@@ -2,11 +2,11 @@
 title: Central Bank of Bahrain
 slug: "central-bank-of-bahrain"
 description: ""
-date: "2026-03-20T08:22:05.248797"
+date: "2026-04-10T09:40:34.118956"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - bahrain
 years:
@@ -51,14 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: central bank
 wikidata_url: "https://www.wikidata.org/wiki/Q571182"
 has_twitter: false
@@ -77,34 +73,111 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
+#### Brand Summary
 
-- Primary logo usage: Logos should always be used on lighter backgrounds.
-- Reversed logo usage: Primary logo can be used in white color on darker backgrounds.
-- Black logo usage: The logo can appear in black for black-and-white or grayscale scenarios.
-- Improper logo usage: Do not stretch, condense, or change dimensions. Avoid tilting or rearranging logo elements, adding colors to specific elements, and placing the logo on colored backgrounds.
+##### Mission
 
-**Color Information:**
+- The Central Bank of Bahrain aims to maintain a consistent and authoritative brand identity, emphasizing formality, professionalism, and national significance in all communications and visual representations [^1].
 
-- Primary Palette Color 1: HEX #9B8945; RGB (155, 137, 69); CMYK (0, 12, 55, 39).
-- Primary Palette Color 2: HEX #404040; RGB (64, 64, 64); CMYK (0, 0, 0, 75).
-- Primary Palette Color 3: HEX #cd1619; RGB (205, 22, 25); CMYK (0, 89, 88, 20).
+##### Core Values
 
-**Typography Information:**
+- authority
+- professionalism
+- national identity
+- clarity
+- consistency
 
-- English Headings Typeface: Zona Pro Bold.
-- English Subheadings Typeface: Maven Pro Medium.
-- English Body Text Typeface: Maven Pro Regular.
-- Arabic Headings Typeface: Cairo (main heading).
-- Arabic Body Text Typeface: Cairo (main body).
+##### Target Audience
 
-**Brand Voice:**
+- Government officials, financial institutions, and the public seeking reliable and official information about Bahrain's central banking authority [^2].
 
-- Naming Guidelines: Use 'Central Bank of Bahrain' for first references. In subsequent references, use 'CBB'. 'Do Not Use' examples: 'Bahrain's Central Bank', 'Central Bank', 'CB of Bahrain', 'CB'.
+##### Personality Traits
 
-**Notes:**
+- formal
+- prestigious
+- regal
+- culturally significant
+- professional
 
-- Contact information for assistance with brand guidelines: Email: ecu@cbb.gov.bh, Website: www.cbb.gov.bh.
+##### Visual Identity Overview
+
+- The visual identity centers on heraldic emblems, Arabic calligraphy, and a restrained color palette. Logos are used on light backgrounds, with strict rules against distortion, color changes, and improper placement. The brand employs specific typefaces for English and Arabic, and emphasizes balanced, symmetrical layouts [^3].
+
+#### Categories
+
+##### Logo Usage
+
+- Where possible these logo should always be used. They are intended to be used on lighter backgrounds.
+- Another acceptable color option is to reverse the logo out to White on darker backgrounds.
+- The logo can appear in Black only for black-and-white and grayscale scenarios.
+- DON'T STRETCH, CONDENSE OR CHANGE THE DIMENSIONS OF THE IDENTITY.
+- DON'T TILT OR CHANGE THE ANGLE OF THE IDENTITY.
+- DON'T REARRANGE THE PLACEMENT OF THE ELEMENTS WITHIN THE IDENTITY.
+- DON'T USE COLORS OTHER THAN THOSE SPECIFIED IN THIS DOCUMENT
+- DON'T ADD COLORS TO INDIVIDUAL ELEMENTS.
+- DON'T PLACE THE LOGO ON A COLORED BACKGROUND.
+
+##### Color Palette
+
+- PRIMARY PALETTES
+- HEX#9B8945
+- RGB (155/137/69)
+- CMYK (0/12/55/39)
+- HEX#404040
+- RGB (64/64/64)
+- CMYK (0/0/0/75)
+- SECONDARY PALETTES
+- HEX#cdl619
+- RGB (205/22/25)
+- CMYK (0/89/88/20)
+- ## DON'T USE COLORS OTHER THAN THOSE SPECIFIED IN THIS DOCUMENT
+- ## DON'T ADD COLORS TO INDIVIDUAL ELEMENTS.
+- ## DON'T PLACE THE LOGO ON A COLORED BACKGROUND.
+
+##### Typography
+
+- Zona Pro is our typeface for English main headings
+- Maven Pro is our typeface for English subheadings
+- Maven Pro is our typeface for English body
+- Zona Pro Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890 ?,.:/+-€$@
+- Maven Pro Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890 ?,.:/+-€$@
+- Maven Pro Regular ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890 ?,.:/+-€$@
+- Maven Pro Black ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890 ?,.:/+-€$@
+- Maven Pro Medium ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 1234567890 ?,.:/+-€$@
+- Cairo is oUr typefcce for Arabic main headings
+- Cairo Regular أبتثجخدذرزسسصضbظع غفقكلمن0وي أبتثجدذرزسشصضطظعغفقكلمنهوي 123456890 2,.:/+-€$@
+- Cairo Light أبتثجدذررسلصض bظعغفقكلمن0وي أبتثجحدذرزسشصضطظعغفقكلمنهوي 123456890 2,:/+-€$@
+- Cairo is oUr typefcce for Arabic main body
+- Cairo Bold أبتثجحخدذرزسشصضطظعغفقكلمن0وى أبتثجحخدذرزسشصضطظعغفقكلمنهوي 123456890 7,:/+-€$@
+- Cairo Semi-Bold أبتثجحخدذرزسشصضطظعغفقكلمن0وي أبتثجحدذرزسشصضطظعغفقلمنهوي 123456890 2,:/+-€$@
+
+##### Visual Style
+
+- Where possible these logo should always be used. They are intended to be used on lighter backgrounds.
+- Another acceptable color option is to reverse the logo out to White on darker backgrounds.
+- The logo can appear in Black only for black-and-white and grayscale scenarios.
+- DON'T STRETCH, CONDENSE OR CHANGE THE DIMENSIONS OF THE IDENTITY.
+- DON'T TILT OR CHANGE THE ANGLE OF THE IDENTITY.
+- DON'T REARRANGE THE PLACEMENT OF THE ELEMENTS WITHIN THE IDENTITY.
+- DON'T USE COLORS OTHER THAN THOSE SPECIFIED IN THIS DOCUMENT
+- DON'T ADD COLORS TO INDIVIDUAL ELEMENTS.
+- DON'T PLACE THE LOGO ON A COLORED BACKGROUND.
+- PRIMARY PALETTES HEX#9B8945 RGB (155/137/69) CMYK (0/12/55/39)
+- PRIMARY PALETTES HEX#404040 RGB (64/64/64) CMYK (0/0/0/75)
+- SECONDARY PALETTES HEX#cdl619 RGB (205/22/25) CMYK (0/12/55/39)
+- SECONDARY PALETTES HEX#9B8945 RGB (155/137/69) CMYK (0/89/88/20)
+
+##### Brand Imagery
+
+- Where possible these logo should always be used. They are intended to be used on lighter backgrounds.
+- Another acceptable color option is to reverse the logo out to White on darker backgrounds.
+- The logo can appear in Black only for black-and-white and grayscale scenarios.
+- DON'T STRETCH, CONDENSE OR CHANGE THE DIMENSIONS OF THE IDENTITY.
+- DON'T TILT OR CHANGE THE ANGLE OF THE IDENTITY.
+- DON'T REARRANGE THE PLACEMENT OF THE ELEMENTS WITHIN THE IDENTITY.
+- DON'T USE COLORS OTHER THAN THOSE SPECIFIED IN THIS DOCUMENT
+- DON'T ADD COLORS TO INDIVIDUAL ELEMENTS.
+- DON'T PLACE THE LOGO ON A COLORED BACKGROUND.
 
 ## Additional Properties
 

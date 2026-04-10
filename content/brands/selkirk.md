@@ -2,7 +2,7 @@
 title: Selkirk
 slug: selkirk
 description: ""
-date: "2026-03-20T08:22:05.068739"
+date: "2026-04-10T09:40:33.838640"
 draft: false
 sectors:
   - "public-sector"
@@ -47,22 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - white
-  - grey
-  - yellow
-  - black
-typographies:
-  - "open-sans"
-imagery_styles:
-  - photography
-  - bold
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "town in Scottish Borders, Scotland, UK"
 wikidata_url: "https://www.wikidata.org/wiki/Q772507"
 has_twitter: false
@@ -82,46 +70,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- Selkirk_logo_CMYK_tagline
-- STANDARD LOGO: CMYK rendered in Pantone® 2727 with tints/shades.
-- Sacred Area: Exclusion area as proportional width of lowercase 'e' in logo.
-- Minimum Width: Logo 0.75 inches; Logo + tagline 1 inch.
-- Black, Grey, or White: Reversed logo for dark backgrounds; no stretch/recolor.
-- Logo Mask Usage: Monochromatic images preferred for preserving legibility.
-- Additional Logo Colors: Red, Yellow, Green, etc. Use consistent palette throughout.
-- File Formats: PNG (Raster), EPS (Vector) specified use cases. Avoid JPGs.
-- Do's and Don'ts: Avoid placing white block behind logo or distorting proportions.
-
-**Color Information:**
-
-- Pantone® 2727 U, CMYK: 61-34-0-0, RGB: 100-140-232
-- Pantone® Cool Grey 9 U, CMYK: 0-0-0-80, RGB: 88-89-91
-- Pantone® 7406 U, CMYK: 1-17-93-9, RGB: 241-184-40
-
-**Typography Information:**
-
-- Primary Font: Foco (Bold for headlines; Light for body).
-- Secondary Font: Open Sans (Bold/ExtraBold for headers; Regular for body).
-- Font Purchase Info: Foco available on MyFonts.com and Adobe Typekit.
-
-**Imagery Photography:**
-
-- Photography Style: Black & white, journalistic with gritty tone.
-- Subjects: Focus on faces and activities, surroundings blurred.
-- Combining Images: Use brand color fields for vibrancy and text areas.
-
-**Brand Voice:**
-
-- Selkirk's tone: Welcoming, inclusive, caring.
-- Messaging: Proud, Vibrant, Connected, Innovative.
-- Story: Community hub for business, culture, services.
-
-**Notes:**
-
-- Copyright Info: Logo restricted to corporate use only.
-- Contact Info: City of Selkirk, info@cityofselkirik.com, website myselkirk.com.
+*Guidelines data not available*
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Start Strong Zambia
 slug: "start-strong-zambia"
 description: ""
-date: "2026-03-20T08:22:03.305435"
+date: "2026-04-10T09:40:30.843004"
 draft: false
 sectors:
   - ngo
@@ -54,18 +54,12 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.keyclub.org/start-strong-zambia](https://www.keyclub.org/start-strong-zambia)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*

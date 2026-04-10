@@ -2,7 +2,7 @@
 title: Pratt Institute
 slug: "pratt-institute"
 description: ""
-date: "2026-03-20T08:22:03.381016"
+date: "2026-04-10T09:40:30.925756"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - featured
+  - education
 industries:
   - "higher-education"
 countries:
@@ -61,9 +61,9 @@ imagery_styles: []
 wikidata_description: "private university in Brooklyn, New York"
 wikidata_url: "https://www.wikidata.org/wiki/Q1204714"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -73,12 +73,6 @@ visual_term_image_urls: {}
 - [http://www.pratt.edu](http://www.pratt.edu)
 - [http://www.ibm.com/design/language/2x-grid](http://www.ibm.com/design/language/2x-grid)
 - [https://pratt.edu](https://pratt.edu)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

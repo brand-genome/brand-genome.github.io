@@ -2,11 +2,11 @@
 title: Rakuten
 slug: rakuten
 description: ""
-date: "2026-03-20T08:22:03.060104"
+date: "2026-04-10T09:40:30.530523"
 draft: false
 sectors:
-  - retail
   - "e-commerce"
+  - retail
 regions:
   - france
 years:
@@ -34,9 +34,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - tokyo
   - "futako-tamagawa-rise"
   - "shinagawa-seaside"
+  - tokyo
 subsidiaries: []
 foundation_dates:
   - 1997
@@ -66,9 +66,9 @@ imagery_styles: []
 wikidata_description: "Japanese e-commerce company"
 wikidata_url: "https://www.wikidata.org/wiki/Q973054"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -83,12 +83,6 @@ visual_term_image_urls: {}
 - [https://plaza.rakuten.co.jp](https://plaza.rakuten.co.jp)
 - [https://www.rakuten.com.tw](https://www.rakuten.com.tw)
 
-## Brand Guidelines
-
-### 2020
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -97,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/); [Futako Tamagawa Rise](/headquarters_locations/futako-tamagawa-rise/); [Shinagawa Seaside](/headquarters_locations/shinagawa-seaside/) |
+| Headquarters Location | [Futako Tamagawa Rise](/headquarters_locations/futako-tamagawa-rise/); [Shinagawa Seaside](/headquarters_locations/shinagawa-seaside/); [Tokyo](/headquarters_locations/tokyo/) |
 | Foundation Date | [1997](/foundation_dates/1997/) |
 | Inception | 1997-02-07 |
 | Country | Japan |

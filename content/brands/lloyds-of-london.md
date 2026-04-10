@@ -2,11 +2,11 @@
 title: Lloyd’s of London
 slug: "lloyds-of-london"
 description: ""
-date: "2026-03-20T08:22:05.803880"
+date: "2026-04-10T09:40:34.807239"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - "united-kingdom"
 years:
@@ -50,8 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -70,14 +69,4 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Brand Voice:**
-
-- The document emphasizes Lloyd's brand personality, including aspects like confidence, understated tone, and avoiding arrogance or marketing hype. For communication, a straightforward, calm, and factual tone is encouraged.
-- Examples of Lloyd's language guidelines are provided, aiming to ensure consistency in style and tone across different levels of audience and communication purposes.
-
-**Notes:**
-
-- Paper specifications for Lloyd's approved materials are provided, detailing options for coated and uncoated papers with different finishes and weights.
-- Guidelines on textual style such as punctuation, abbreviations, bullet points, and formatting are highlighted to ensure consistent written communication standards.
-- Contact information for Lloyd's marketing team is given for assistance or feedback regarding the guidelines.
-- The graphical sections of the PDF contain images primarily using CMYK and Indexed color models. Specific relevance to practical graphic-based branding guidelines is not elaborated.
+*Guidelines data not available*

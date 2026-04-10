@@ -2,7 +2,7 @@
 title: Westdeutscher Rundfunk
 slug: "westdeutscher-rundfunk"
 description: ""
-date: "2026-03-20T08:22:04.056908"
+date: "2026-04-10T09:40:32.077435"
 draft: false
 sectors:
   - broadcasting
@@ -15,8 +15,8 @@ languages:
 tags:
   - broadcast
 industries:
-  - broadcasting
   - "media-industry"
+  - broadcasting
 countries:
   - germany
 revenue_buckets: []
@@ -60,9 +60,9 @@ imagery_styles: []
 wikidata_description: German regional public broadcaster
 wikidata_url: "https://www.wikidata.org/wiki/Q203453"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 
 - [https://www1.wdr.de](https://www1.wdr.de)
 - [https://www.wdr.de](https://www.wdr.de)
-
-## Brand Guidelines
-
-### 2004
-
-*Guidelines data not available*
 
 ## Additional Properties
 

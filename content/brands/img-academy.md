@@ -2,7 +2,7 @@
 title: IMG Academy
 slug: "img-academy"
 description: ""
-date: "2026-03-20T08:22:04.851975"
+date: "2026-04-10T09:40:33.600766"
 draft: false
 sectors:
   - sports
@@ -51,27 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - secondary
-  - horizontal
-  - lockup
-  - wordmark
-  - primary
-brand_colors:
-  - green
-  - white
-  - blue
-  - gray
-  - "pantone-2935"
-  - black
-typographies:
-  - "sans-serif"
-  - arial
-imagery_styles:
-  - classic
-  - bold
-  - contemporary
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "private athletic school in Bradenton, Florida, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q17128295"
 has_twitter: false
@@ -91,51 +74,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The visual standards guideline introduces logo lockups and orientations for IMG Academy.
-- The logo has two orientations of the logo lockup. Usage should be determined on a case-by-case basis (vertical and horizontal orientations).
-- Clear space rules — the space around the logo should be the same as the height of the Ascender on all sides (both vertical and horizontal logo spacing).
-- Incorrect logo usage examples — instructions specify under no circumstances should the logo be altered in various ways (e.g., distorted, recolored, pixelated).
-- Minimum logo size restrictions specified: 0.124 inch or 15 px, 0.4 inch or 50 px, and 1 inch or 121 px.
-- Descriptor applications — guidelines show vertical and horizontal applications with specific alignment ratios (e.g., 100% spacing relative to logo width for vertical centering).
-- The lockup system combines the wordmark with the Ascender visual mark and offers flexibility for application across traditional and contemporary contexts.
-
-**Color Information:**
-
-- Primary palette colors include various blue hues associated with consciousness and intellect (e.g., CMYK: C100 M52 Y0 K0; Pantone 2935).
-- Secondary palette includes supplementary colors to broaden visual tone (e.g., Pantone Cool Gray 4; CMYK: C10 M10 Y10 K10).
-- Tertiary palette introduces green accents for IMG Academy Camp collateral use (e.g., CMYK: C25 M0 Y100 K0).
-
-**Typography Information:**
-
-- Serifa font family is designated as the official IMG Academy typeface. It is bold and versatile, with weights including 45 Light and 55 Roman.
-- Serifa includes additional weights such as 65 Bold and 75 Black.
-- Trade Gothic LTD Standard serves as a classic sans-serif typeface alternative for smaller applications like legal texts and graphs.
-- Arial font is specified for web use only.
-- Typographic hierarchy — Serifa 65 Roman is the lead font for brand messaging and headlines; Trade Gothic LTD is secondary, and Serifa 45 Light is tertiary.
-- Typography alignment best practice is left-aligned or center-justified for tonality and layout strength.
-
-**Imagery Photography:**
-
-- Action shots should emphasize teamwork, competitiveness, and environment (e.g., coaches and equipment).
-- Face crops should dial up emotion and intimacy through close-up framing showing facial expressions.
-- Academic action shots and face crops are specified with similar emotional and environmental considerations.
-- Photographic treatment guidelines emphasize sports drama and authenticity, with color photos saturated for realism and black-and-white high in contrast for heritage tones.
-
-**Spacing Layout:**
-
-- Grid and alignment specifications are based on clear space rules around the logo and proportional descriptor applications.
-
-**Brand Voice:**
-
-- Brand personality descriptors include authoritative, innovative, comprehensive, inspiring, and competitive qualities.
-- Tagline — 'Become More' represents core brand messaging.
-
-**Notes:**
-
-- The introduction outlines foundational values, mission, and unified aspirations of the IMG Academy brand.
-- Detailed brand strategy aligns priorities across design, voice, and audience experiences.
+*Guidelines data not available*
 
 ## Additional Properties
 

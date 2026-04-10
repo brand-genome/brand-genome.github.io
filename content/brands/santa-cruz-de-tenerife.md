@@ -2,7 +2,7 @@
 title: Santa Cruz de Tenerife
 slug: "santa-cruz-de-tenerife"
 description: ""
-date: "2026-03-20T08:22:04.415335"
+date: "2026-04-10T09:40:33.158323"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - spain

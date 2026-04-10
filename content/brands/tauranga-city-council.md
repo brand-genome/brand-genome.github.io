@@ -2,7 +2,7 @@
 title: Tauranga City Council
 slug: "tauranga-city-council"
 description: ""
-date: "2026-03-20T08:22:03.074037"
+date: "2026-04-10T09:40:30.576178"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries:
   - "new-zealand"
@@ -69,6 +69,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2025
+
+*Guidelines data not available*
 
 ## Additional Properties
 

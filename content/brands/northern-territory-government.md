@@ -2,7 +2,7 @@
 title: Northern Territory Government
 slug: "northern-territory-government"
 description: ""
-date: "2026-03-20T08:22:05.184639"
+date: "2026-04-10T09:40:34.051111"
 draft: false
 sectors:
   - "public-sector"
@@ -70,36 +70,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Northern Territory Government Brand Guidelines cover with logo references.
-- Various logo applications and co-brand examples discussed in chapter overviews.
-- References to logo placements and different applications of NTG branding, including Masterbrand.
-
-**Color Information:**
-
-- Reference to color palette definitions and color applications in branding guidelines.
-- Use of PMS, CMYK, RGB formats for defining color properties in signage.
-
-**Typography Information:**
-
-- Typography and its roles in digital and print assets specified.
-
-**Imagery Photography:**
-
-- Promotional imagery usage rules featuring scenic photos of NT regions.
-
-**Spacing Layout:**
-
-- Spacing and layout guidelines for ads, promotional materials, and signage scaled with clear zones.
-
-**Brand Voice:**
-
-- References to NT’s tone of voice, messaging examples, and alignment strategies.
-
-**Notes:**
-
-- Northern Territory guidelines structured with focus on applications in different media and areas.
+*Guidelines data not available*
 
 ## Additional Properties
 

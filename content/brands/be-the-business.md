@@ -2,7 +2,7 @@
 title: Be The Business
 slug: "be-the-business"
 description: ""
-date: "2026-03-20T08:22:04.310098"
+date: "2026-04-10T09:40:32.997363"
 draft: false
 sectors:
   - ngo
@@ -50,9 +50,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - serious
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,88 +69,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Our logo
-- Logo colours
-- Logo usage
-- Programme logos
-- Logo partnerships
-- PLG logo boilerplate
-- Our logo
-- Logo colours
-- The logo can be used
-- with our logo
-- Make sure the logo has
-- surrounding the logo. It acts
-- border or other logos.
-- Make sure the logo isn™ttoo
-- logos
-- programme logos has
-- your own programme logos.
-- logo
-- logo
-- logos positioned below any
-- the Bethe Business logo.
-- another brandthe logo
-- the two logos.
-- Partner logo
-- Partner logo
-- Keep equal space between the logos
-- logos can be placed at the
-- the main content all logos
-- logo
-- logo
-- logo
-- logo
-- logo
-- PLG logo boilerplate
-- Whenthe PLG logo
-- Do not re - orderthe logos
-
-**Typography Information:**
-
-- Typography
-- Typeface
-- Typography examples
-- Typography
-- Typeface
-- Ourtypeface is FS Lucas Œ
-- Typography
-- the˝exibility of ourtypeface.
-
-**Imagery Photography:**
-
-- Our photography style shows
-- photography is unavailable,
-
-**Spacing Layout:**
-
-- Layout guide
-- Basic layout guide
-- for covers and full colour layouts
-- Layout guide
-- layout guide
-- of layout across our mater ials.
-- Layout considerations include:
-
-**Notes:**
-
-- Guidelines
-- Applied examples
-- Brand guidelines
-- Brand guidelines
-- audience. For example,for a serious or
-- Take a look at the application examples
-- See application examples
-- examples
-- These examples demonstrate
-- Brand guidelines
-- See application examples
-- See application examples
-- See application examples starting
-- See application examples starting
-- ableto adv ise, but a few examples
-- Applied examples
-- Cover examples
-- captur ing notes and actions onthe day. Allthe board
+*Guidelines data not available*

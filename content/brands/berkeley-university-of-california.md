@@ -2,12 +2,12 @@
 title: Berkeley – University of California
 slug: "berkeley-university-of-california"
 description: ""
-date: "2026-03-20T08:22:05.871237"
+date: "2026-04-10T09:40:34.908926"
 draft: false
 sectors:
+  - research
   - education
   - university
-  - research
 regions:
   - usa
 years:
@@ -72,3 +72,5 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2013
+
+*Guidelines data not available*

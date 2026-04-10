@@ -2,11 +2,11 @@
 title: Intel
 slug: intel
 description: ""
-date: "2026-03-20T08:22:04.552365"
+date: "2026-04-10T09:40:33.350870"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - vintage
   - technology
+  - vintage
 industries:
-  - "semiconductor-industry"
   - "electrical-industry"
+  - "semiconductor-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -61,16 +61,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-  - wordmark
-brand_colors:
-  - blue
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: American multinational technology company
 wikidata_url: "https://www.wikidata.org/wiki/Q248"
 has_twitter: false
@@ -89,45 +83,87 @@ visual_term_image_urls: {}
 
 ### 1997
 
-**Logo Information:**
+#### Brand Summary
 
-- Graphics Standards for Using the Intel Corporate Logo, emphasizing the need for consistency to preserve brand image.
-- Intel Corporate Logo must be reproduced only from logo sheets or official files. Usage guidelines stress not altering the logo in any way.
-- Logo usage guidelines include requirements for clear space around the logo equal to the height of the 'n' in Intel and limitations on busy or patterned backgrounds.
-- Minimum logo size of 14.5mm or 5/8 inch in reflective applications; web minimum size is 43 pixels. Maximum size allows adjustment of trademark symbol.
-- Color usages include Intel Blue matching Pantone 285C, white reversed for high contrast backgrounds, and black for lighter backgrounds. Other effects like embossing allowed only within color range.
-- Improper logo usage includes making it plural, possessive, turning it into a pattern, applying gradation or outlines, and combining it with other graphic elements.
-- Intel trademarks, including logos, are proprietary and must be used per set guidelines to protect brand equity. External usage requires legal approval.
-- Intel Corporate Identity combines the logo, the pointer, and a channel to stage the logo consistently.
-- Co-marketing or sponsorship involving the Intel Corporate Logo requires approval from Intel's Corporate Identity group, including specific usage agreements.
-- Answers to FAQs include requirements for clear space, logo backgrounds, color approvals, and proper usage of the word 'Intel' alone or in text.
+##### Mission
 
-**Color Information:**
+- Intel® Centrino™ mobile technology is designed from the ground up to deliver the optimal mobile computing experience, including performance, battery life, small and innovative form factors, and wireless connectivity. Its visual identity signals a fundamental shift in Intel's product brand hierarchy, illustrating freedom and flexibility inherent in mobile computing [^1].
 
-- Intel Blue specified as Pantone 285C (hot), 100C/30M/0Y/0K in CMYK, RGB values R-0 G-51 B-255.
-- Permissible color uses include Intel Blue on white, white on black or 50% tint of black, and inversions for high-contrast backgrounds.
+##### Core Values
 
-**Typography Information:**
+- performance
+- battery life
+- innovation
+- wireless connectivity
+- quality
+- technological leadership
 
-- Guidelines for text use of Intel wordmark: use either a capital 'I' (Intel) or all caps (INTEL) styled consistently with adjacent text.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and organizations seeking advanced mobile computing solutions with high performance, long battery life, innovative form factors, and reliable wireless connectivity [^2].
 
-- Imagery guidelines specify clear, solid backgrounds for logo usage, avoiding patterned areas and ensuring contrast.
+##### Personality Traits
 
-**Spacing Layout:**
+- dynamic
+- innovative
+- precise
+- flexible
+- trustworthy
 
-- Clear space requirement for the Intel logo is the height of the 'n' in 'Intel' surrounding all sides.
-- Pointer aligns typography to define channels as part of corporate identity layout design.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity features dynamic, precision-tuned shapes, primarily using Intel Blue to reinforce corporate brand connection and magenta to distinguish the Centrino brand. The logo is composed of overlapping speech bubble-like elements, with clear guidelines for color palette, sizing, backgrounds, clear space, and correct usage to ensure consistency and recognition [^3].
 
-- Intel branding emphasizes consistency and professionalism, communicating leadership and technology assurance to customers.
-- Intel Corporate Identity combines innovation and reliability, setting memorable tones associated with the brand.
+#### Categories
 
-**Notes:**
+##### Color Palette
 
-- Intel's brand guidelines rely on adherence to its standards for logo usage, color, spacing, and background, among other elements, emphasizing clarity and consistency.
+- The Intel® Centrino™ brand will only be promoted in the supporting company of the Intel Inside® brand. While Intel Blue is used to reinforce the connection to the Intel® corporate brand, magenta is used to distinguish this new and innovative brand from other processor brands in Intel’s product hierarchy.
+- Intel Blue represents the inherent quality and technological leadership that is consistent with Intel’s other processor brands.
+- CMYK = 100, 40, 0, 0
+- RGB = 0, 51, 255
+- Magenta is utilized to effectively differentiate the Intel® Centrino™ brand from other processor brands.
+- CMYK = 0, 100, 0, 0
+- RGB = 255, 0, 153
+- The use of black ensures the clarity and readability of the modifier.
+- CMYK = 0, 0, 0, 100
+- RGB = 0, 0, 0
+
+##### Logo Usage
+
+- The Intel® Centrino™ brand will only be promoted in the supporting company of the Intel Inside® brand. While Intel Blue is used to reinforce the connection to the Intel® corporate brand, magenta is used to distinguish this new and innovative brand from other processor brands in Intel’s product hierarchy.
+- Intel Blue represents the inherent quality and technological leadership that is consistent with Intel’s other processor brands. CMYK = 100, 40, 0, 0 RGB = 0, 51, 255
+- Magenta is utilized to effectively differentiate the Intel® Centrino™ brand from other processor brands. CMYK = 0, 100, 0, 0 RGB = 255, 0, 153
+- The use of black ensures the clarity and readability of the modifier. CMYK = 0, 0, 0, 100 RGB = 0, 0, 0
+- To maintain the legibility of the Intel® Centrino™ logo, minimum size requirements have been set for logo reproduction in various applications.
+- For most print applications, the minimum size is 1" (2.54 cm) wide. The 3/4" logo may only be used for Agent Print ad spaces that measure less than 24 sq. in. (151 sq. cm). All other Direct and Agent Print ads and Direct Mail must use the 1" logo.
+- A 90-pixel high version (which includes 1 "n" of white space) is available for use in Web applications. A 60-pixel high version is available for banner ads.
+- Whenever possible, place the Intel® Centrino™ logo on a clean, clear, white background. In the instance where the logo is used on a colored, photographic, or patterned background, a white, radius-cornered box (which is built into the logo file) must be maintained.
+- As much as possible, place the logo on a white background.
+- Make sure to use the provided white-space element in the logo file when placing on a colored, photographic, or patterned background.
+- To reinforce communication goals and maintain the strength of the Intel® Centrino™ brand identity, set the logo apart from surrounding design elements by maintaining a constant clear space around it.
+- In all applications of the Intel Centrino logo, the clear space surrounding the logo is equal to the height of one "n" in "Centrino".
+- Do not redraw or modify the logo in any way. Leave existing trademark symbols intact. Use artwork exactly as provided.
+- The Intel® Centrino™ mobile technology logo print files have been created in vector format using Adobe Illustrator* 8. The print files are exported EPS files. You can use them as placed graphics in most page layout and illustration software. In order to maintain a consistent impression of the logo, certain aspects of it have been optimized at each size. Therefore: • Scale each logo file up to the next largest size only. • For logos needing to be larger than 7.5" wide, use the 7.5" wide version and scale up. When the logo is scaled to a very large size, this may require that it be manipulated so that the trademark symbol does not appear disproportionately large.
+- Print: Process Color Format: EPS Colors: C,M,K Available sizes:* 3/4", 1", and 7.5" widths
+- Print: Grayscale Format: EPS Color: K Available sizes:* 3/4", 1", and 7.5" widths
+- Web: RGB Format: GIF Colors: R,G,B** Available sizes: 90 and 60 pixel heights
+- Rich Media: RGB Format: SWF Colors: R,G,B** Available size: 60 pixels high
+- The 3/4" logo may only be used for Agent Print ad spaces that measure less than 24 sq. in. (151 sq. cm). All other Direct and Agent Print ads and Direct Mail must use the 1" logo.
+- The Web versions use standard Web-safe colors; as a result, the colors of the Web versions are slightly different from the printed versions.
+
+##### Visual Style
+
+- The Intel® Centrino™ brand will only be promoted in the supporting company of the Intel Inside® brand. While Intel Blue is used to reinforce the connection to the Intel® corporate brand, magenta is used to distinguish this new and innovative brand from other processor brands in Intel’s product hierarchy.
+- Intel Blue represents the inherent quality and technological leadership that is consistent with Intel’s other processor brands. CMYK = 100, 40, 0, 0 RGB = 0, 51, 255
+- Magenta is utilized to effectively differentiate the Intel® Centrino™ brand from other processor brands. CMYK = 0, 100, 0, 0 RGB = 255, 0, 153
+- The use of black ensures the clarity and readability of the modifier. CMYK = 0, 0, 0, 100 RGB = 0, 0, 0
+- To maintain the legibility of the Intel® Centrino™ logo, minimum size requirements have been set for logo reproduction in various applications.
+- For most print applications, the minimum size is 1" (2.54 cm) wide. The 3/4" logo may only be used for Agent Print ad spaces that measure less than 24 sq. in. (151 sq. cm). All other Direct and Agent Print ads and Direct Mail must use the 1" logo.
+- A 90-pixel high version (which includes 1 "n" of white space) is available for use in Web applications. A 60-pixel high version is available for banner ads.
+- Whenever possible, place the Intel® Centrino™ logo on a clean, clear, white background. In the instance where the logo is used on a colored, photographic, or patterned background, a white, radius-cornered box (which is built into the logo file) must be maintained.
+- As much as possible, place the logo on a white background.
+- Make sure to use the provided white-space element in the logo file when placing on a colored, photographic, or patterned background.
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Urba
 slug: urba
 description: ""
-date: "2026-03-20T08:22:04.231928"
+date: "2026-04-10T09:40:32.705377"
 draft: false
 sectors:
   - ngo
@@ -47,21 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - "pantone-540"
-  - "pantone-7499"
-  - "pantone-1555"
-  - "pantone-290"
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
-  - natural
-  - photography
+imagery_styles: []
 wikidata_description: shared transportation service for use by the general public
 wikidata_url: "https://www.wikidata.org/wiki/Q178512"
 has_twitter: false
@@ -80,41 +69,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Corporate logo with a brand wordmark for the Business Association; outlined wordmark for design-specific applications such as reverse use.
-- Outlined wordmark can only be used as a design element and only with the full reverse version.
-- Clear space (X-height): The logo must be surrounded by a minimum area of isolation to prevent encroachment by other elements and maintain clarity. This creates an invisible boundary around the logo.
-- Minimum logo sizes: 1.0 inch for primary use, and 0.75 inch as the smallest size permissible.
-- Do's and Don'ts for logo usage: (1) Do not change the color outside of the palette; (2) Do not stretch or condense the logo; (3) Do not remove or rebuild parts of the logo; (4) Do not change the orientation of the logo.
-
-**Color Information:**
-
-- Primary Brand Colors: Pantone Warm Red C; Pantone 540 C. Used to maintain a recognizable and uniform brand identity. A print palette and screen palette are included in the guide.
-- Secondary Brand Colors: Pantone 7499 C (30%); Pantone 290 C, Pantone 1555 C. These are used for full fills, accents, and supporting high-level colors but should not be more dominant than the primary colors.
-
-**Typography Information:**
-
-- Primary Typography: 'Gilroy' font family, with weights such as Regular, Bold, and Extra Bold. Gilroy Regular is for all content, while Gilroy Bold and Extra Bold are allocated for headlines and feature text.
-- Usage Roles: (1) Heading 1 — unspecified font weight; (2) Heading 2 — unspecified font weight; (3) Feature Text — Gilroy Regular; (4) Heading 3 — Gilroy Bold; (5) Gilroy Bold used for subheadings.
-
-**Imagery Photography:**
-
-- Moodboard provides visual inspiration with specific tones; images should not be overly saturated and maintain a balanced style. The guide emphasizes authenticity and diversity.
-- Photography style guidelines: Maintain natural tones; avoid overly vivid or saturated visuals; and ensure images align with the brand's personality descriptors.
-
-**Spacing Layout:**
-
-- X-Height isolation rule ensures clear visibility around the logo and protects against encroachment by other design elements.
-
-**Brand Voice:**
-
-- Brand Personality Descriptors: Authentic, Diverse, Inviting, Proud.
-- Taglines or phrases: 'Uptown. Down-to-earth.', 'Rutland Proud.'
-
-**Notes:**
-
-- Brand guidelines emphasize creating a recognizable, consistent, and inviting identity through logo treatment, color consistency, typography roles, and appropriate imagery.
+*Guidelines data not available*
 
 ## Additional Properties
 

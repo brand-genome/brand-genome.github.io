@@ -2,7 +2,7 @@
 title: "Coca-cola zero"
 slug: "coca-cola-zero"
 description: ""
-date: "2026-03-20T08:22:05.721796"
+date: "2026-04-10T09:40:34.675804"
 draft: false
 sectors:
   - drink
@@ -48,22 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - gotham
-  - script
-imagery_styles:
-  - product
-  - dynamic
-  - graphic
-  - bold
-  - photography
-  - vibrant
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: brand of diet soda
 wikidata_url: "https://www.wikidata.org/wiki/Q937783"
 has_twitter: false
@@ -82,40 +70,7 @@ visual_term_image_urls: {}
 
 ### 2009
 
-**Logo Information:**
-
-- Numerous rules regarding logo usage such as maintaining proportionality, not altering the Spencerian script for COCA-COLA, and treating trademarks with specific conditions like using COCA-COLA as a unitary phrase. Additional notes suggest avoiding the addition of graphic or design elements to existing trademarks.
-- Dynamic Ribbon Device rules: Must only be used with TCCC approved brands like COCA-COLA ZERO. Incorrect usage examples like associating the ribbon with FANTA were provided.
-- Trademark rules emphasize the clear and consistent use of the COCA-COLA ZERO trademark with specific guidelines such as ensuring proper spacing and hyphen use.
-
-**Color Information:**
-
-- Color palette includes Coca-Cola Red, Black, and White. Specific guidance mentioned about Coca-Cola Red as a primary color.
-- Confidential design notes: Use color matching Pantone accurately for print media, RGB for on-screen, and CMYK for four-color printing.
-
-**Typography Information:**
-
-- Typography standards emphasize the exclusive use of specific fonts and styles associated with the brand, such as Spencerian script for COCA-COLA and Gotham fonts for advertising.
-- Gotham typeface: Primary typeface for headlines and main text, with specified weights and sizes.
-
-**Imagery Photography:**
-
-- Guidelines for imagery include using high-quality product photography, elements representing the unique design of Coca-Cola bottles, and lighting conditions emphasizing product vibrancy.
-- Imagery should reflect a vibrant and dynamic perspective consistent with the Coca-Cola Zero energetic brand.
-
-**Spacing Layout:**
-
-- Spacing rules described for maintaining clear, safe layouts around logos and text. Specific measurements for clear zones were listed such as maintaining a 2x height for main logos.
-
-**Brand Voice:**
-
-- Brand tone of voice is dynamic, energetic, and inclusive. Messaging should focus on inspiring action and reflect the bold taste of Zero Sugar.
-- Do's for messaging include using vibrant, action-oriented language, while avoiding monotonous or overly technical terms.
-
-**Notes:**
-
-- Trademark policies highlight strict adherence to brand identity rules and consultative guidance for maintaining proper usage of designs.
-- Confidential warnings for internal use only, stressing the maintenance of design consistency and avoiding misrepresentation of brand standards.
+*Guidelines data not available*
 
 ## Additional Properties
 

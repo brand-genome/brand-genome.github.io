@@ -2,7 +2,7 @@
 title: Canfitpro
 slug: canfitpro
 description: ""
-date: "2026-03-20T08:22:04.687730"
+date: "2026-04-10T09:40:33.410491"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - sport
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -48,11 +48,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - symbol
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -72,17 +69,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The logo safety zone should be equal to half the length of the 'n' in the logo. Minimum width of the logo should not be less than 0.75 inches.
-- Logo usage on color background is permitted within guidelines. Black and white versions and reversed versions with appropriate safety zones are allowed.
-- The logo must appear separate from other elements, must not be cropped, rotated, tilted (unless by special approval), shaded, or shadowed. Proportions must remain consistent without stretching or distortion. The trademark symbol (™) must always appear.
-- Incorrect usages include placing the logo on a photo or design that obscures it, using scanned or modified versions, or using it where visibility is unclear. Surprint on dark backgrounds is allowed with reversed versions.
-
-**Spacing Layout:**
-
-- The safety zone is specified to be at least half the length of the 'n' in the logo, surrounding the logo entirely.
-
-**Notes:**
-
-- The document emphasizes clear guidelines for consistent branding, explicitly disallowing alterations, distortions, or misrepresentation of the logo in both print and digital use.
+*Guidelines data not available*

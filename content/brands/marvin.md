@@ -2,7 +2,7 @@
 title: Marvin
 slug: marvin
 description: ""
-date: "2026-03-20T08:22:04.343090"
+date: "2026-04-10T09:40:33.065023"
 draft: false
 sectors:
   - construction
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - construction
   - corporate
+  - construction
 industries: []
 countries: []
 revenue_buckets: []
@@ -47,14 +47,9 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - black
-typographies:
-  - display
+logo_elements: []
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -73,29 +68,4 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- LOGO: BLACK + RGB
-LOGO: WHITE + RGB
-For digital screen display.
-- LOGO: BLACK + CMYK
-FILE VERSION for standard printing techniques.
-
-**Color Information:**
-
-- Color palettes listed include options for Adobe Creative Suite. Includes formats for PRINT and DIGITAL use.
-
-**Typography Information:**
-
-- Primary Font: Nationale
-Secondary Font: Tabac G2
-Font resources for licensing provided.
-
-**Imagery Photography:**
-
-- Imagery: Resources available linking to Marvin’s licensed photo libraries.
-
-**Notes:**
-
-- Legal disclaimer emphasizes sustainable practices, warranty exclusions based on specifications, and intellectual trademarks (e.g., Marvin).
-Contact details provided.
+*Guidelines data not available*

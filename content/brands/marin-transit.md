@@ -2,7 +2,7 @@
 title: Marin Transit
 slug: "marin-transit"
 description: ""
-date: "2026-03-20T08:22:03.382265"
+date: "2026-04-10T09:40:30.928436"
 draft: false
 sectors:
   - "public-transportation"
@@ -57,9 +57,9 @@ imagery_styles: []
 wikidata_description: "public bus agency in California, US"
 wikidata_url: "https://www.wikidata.org/wiki/Q6763758"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -70,12 +70,6 @@ visual_term_image_urls: {}
 - [https://marintransit.org](https://marintransit.org)
 - [https://marintransit.org/paratransit](https://marintransit.org/paratransit)
 - [https://booking.marinaccess.org](https://booking.marinaccess.org)
-
-## Brand Guidelines
-
-### 2023
-
-*Guidelines data not available*
 
 ## Additional Properties
 

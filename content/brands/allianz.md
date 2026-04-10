@@ -2,11 +2,11 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-03-20T08:22:05.750655"
+date: "2026-04-10T09:40:34.732918"
 draft: false
 sectors:
-  - insurance
   - finance
+  - insurance
 regions:
   - germany
 years:
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - insurance
   - featured
+  - insurance
 industries:
+  - "insurance-industry"
   - insurance
   - "financial-services"
-  - "insurance-industry"
 countries:
   - germany
 revenue_buckets:
@@ -63,21 +63,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - gray
-  - "pantone-287"
-  - blue
-typographies:
-  - din
-  - serif
-imagery_styles:
-  - bold
-  - natural
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: European multinational insurance and financial services corporation
 wikidata_url: "https://www.wikidata.org/wiki/Q487292"
 has_twitter: false
@@ -106,35 +95,204 @@ visual_term_image_urls: {}
 
 ### 2007
 
-**Logo Information:**
+#### Brand Summary
 
-- Allianz logos follow specific proportions and structures, including single-brand logos, double-branding logos, and descriptor logos, with various proportions (e.g., 8x3 units). There are guidelines for centering and variations of the logo across contexts.
+##### Mission
 
-**Color Information:**
+- To deliver peace of mind and confidence to customers by being a trusted partner, known for integrity, confidence, and honesty, and supporting customers in moments of truth through expertise in insurance, asset management, and banking [^1].
 
-- Primary and secondary color palettes defined. Allianz Blue (Pantone 287), Cool Gray 10, and red for emphasis. Shades defined for Corporate color Blue, Gray, and Red. Secondary colors detailed for consumer and business audiences. Colors have specific roles: blue for the corporate look, red for emphasis, and differences in usage based on target groups. Color codes specified in Pantone, CMYK, and RGB.
+##### Core Values
 
-**Typography Information:**
+- trust
+- competitive
+- committed
+- competent
+- integrity
+- confidence
+- honesty
+- responsive
+- innovative
+- solution-driven
+- world-wise
+- experienced
+- outstanding
+- ambitious
+- passionate
+- powerful
 
-- Typeface: Allianz Sans and Allianz Serif. Sans Regular for headlines and subheads; Serif Light for extended texts like brochures; Sans Bold for emphasis and product names.
+##### Target Audience
 
-**Imagery Photography:**
+- Global customers seeking financial services, including insurance, asset management, and banking; business-to-consumer and business-to-business segments, with imagery and messaging tailored to personal customer situations and professional working lives [^2].
 
-- Imagery focuses on authentic and trustworthy customer interactions, representing people's everyday life. Specific styles, such as generous composition, natural coloration, and authentic moments, are emphasized.
-- Imagery guidelines for different target groups including business-to-business and business-to-consumer communication. Imagery represents professionalism or personal customer experiences, using different visual styles and color tones.
-- Different motifs based on 'far away,' 'mid-range,' or 'close-up' perspectives outlined.
+##### Personality Traits
 
-**Spacing Layout:**
+- competitive
+- committed
+- competent
+- responsive
+- innovative
+- solution-driven
+- world-wise
+- experienced
+- ambitious
+- passionate
+- powerful
+- positive
+- direct
 
-- Design grids are built using variable square units, adapting to formats. It includes clear specifications for DIN formats (e.g., DIN A4 = 7mm per unit). Layout ensures uniform brand identity across various applications.
+##### Visual Identity Overview
 
-**Brand Voice:**
+- The visual identity is clean, simple, and corporate, emphasizing clarity, professionalism, and trust. It is based on a modular design principle with consistent use of the Allianz logo, distinctive blue color palette, clear typography, authentic and qualitative imagery, and a flexible layout grid. The design framework allows unity in diversity, enabling individual brand personalities while maintaining group recognition [^3].
 
-- Tone derived from Allianz brand personality. The style is clear, direct, and positive, supporting engagement. Text aligns with visuals, creating an engaging communication.
+#### Categories
 
-**Notes:**
+##### Brand Voice
 
-- The Allianz brand guidelines extensively outline how elements like logos, colors, typography, and images should align with the corporate identity. Points such as color detailing, applying grids, and image composition are emphasized.
+- All of our texts are characterized by a specific tone of voice, which is derived from the Allianz brand personality. This style enables us to create texts that both motivate and inspire the reader. Our language is clear, direct and positive. If visuals are featured within the communication, the text conveys the message of the image in an engaging way.
+
+##### Brand Imagery
+
+- Our imagery visualizes the world of our customers -their needs, expectations and desires. We capture authentic moments that are part in people's everyday lives. Our imagery helps us win their trust.
+- Trust is the core value of Allianz. We have derived imagery that allows us to clearly express this value. The image style" and image type help us bring our personality to life.
+- We have defined a common image style shared by all brands. This is expressed by a generous composition, characteristic use of color and exciting arrangements.
+- The common image type is characterized by authenticity, quality and clarity. Additional image type attributes reflect the individual brand personali­ties of each member of our group. The qualities that specifically define the image type of the Allianz flagship brand are powerful, positive and direct.
+- The image style refers to the formal aspects of the photography, including coloration and composition.
+- The image type details the qualitative aspects of the visuals we use, the stories we tell and the motifs we select.
+- IMAGE STYLE • Exciting arrangement • Generous composition • Use of color
+- GENERAL IMAGE TYPE • Authentic • Qualitative • Clear
+- SPECIFIC IMAGE TYPE • Powerful • Positive • Direct
+- Exciting arrangement • Unique perspective and level of detail • Focus on main character/ object • Unusual point of view • No focus on background • No boring perspectives • Not too flat
+- Generous composition • Image is divided into a few large areas • Main character/ object in the foreground • No highly complex motifs • No high detail photographs • No fragments
+- Use of color • Individual color code (Allianz= blue) • Focus on a few main colors • No desaturated images
+- GENERAL IMAGE TYPE #### Authentic • Natural environment • Natural characters and objects • Natural action • Theme-related accessories • No studio look • No high-end models or trendy makeup • No posing, not staged • Neither too high class/ expensive nor low quality/cheap
+- #### Qualitative • Choice of motif, high-quality photography • Choice of light, well-illuminated characters • No snapshots, no stock images • Not too dramatic, not artificial
+- #### Clear • Sharp • Vivid colors • Motif supports the communication • No blurring, not fuzzy • Colors that are not too uniform
+- SPECIFIC IMAGE TYPE #### Powerful • Self-confident, active, dynamic characters • Intense colors used over large areas • High contrast
+- #### Positive • Pleasant characters and positive situations • Positive, friendly color code • Life-loving activities (passion) • No dark colors • No accidents, no commentary
+- #### Direct • Motif supports the message and tells a story • No self-important or indirect communication • No banal scenes or misleading text/ picture concept
+- Different images for different target groups. We use different motifs for our various target groups. Our business-to-consumer communication depicts personal customer situations and details from everyday life in bold colors. Images within our business-to-business communication show moments in the working lives of professionals, but in more reserved colors.
+- Allianz uses different levels of detail. Each brand should have a spectrum of images with perspectives ranging from "far away" to "close up".
+
+##### Color Palette
+
+- Primary and secondary colors have been defined for use in all applications. These colors clearly express the idea of trust and are derived from our personality-competitive, committed, competent.
+- Blue, white and gray are our primary colors. Our new characteristic blue is featured in all applications, including our distinctive logo. We have a wide range of secondary colors that may only be used as accent colors in tables and graphics. These secondary colors are different for each target group.
+- Our business-to-consumer communication features full, vivid colors, while more reduced, reserved colors are used in business-to-business media. Red is used for both target groups to create eye-catching elements. It is possible to use basically any predefined secondary color as long as it is used consistently throughout the media. For example, if green has been selected as an accent color for an informational brochure, no other secondary colors may be used as accents in the same medium.
+- Primary colors (including gray) for private and business customers Red: Usage only for eye-catching elements Secondary colors for private customers. These colors are best used to achieve the desired impact as described below.
+- Corporate Color Pantone 287 Pantone Cool Gray 10 Pantone 1797 Pantone 158 Pantone 7406 Pantone 363 Allianz Blue Pantone 287 CMYK 100/65/0/15 CMYK 0/0/0/72 CMYK 10/100/90/0 CMYK 0/65/100/0 CMYK 0/25/100/0 CMYK 80/20/100/0 RGB 17/51/136 RGB 148/148/148 RGB 198/0/0 RGB 241/112/26 RGB 251/188/1 RGB 33/111/44 Pantone 287 Pantone Cool Gray 10 Pantone 158 [:+ta Pantone 363 60% 60% 60% 56EA 60% CMYK 60/35/0/10 CMYK 0/0/0/56 CMYK 0/40/60/0 CMYK 0/15/60/0 CMYK 48/12/60/0 RGB 66/107/179 RGB 193/193/193 RGB 249/162/102 RGB 255/210/107 RGB 128/179/135 Pantone 287 Graf@Murie/} Pantone 158 Pantone 7406 Pantone 363 40% 1I7RA 30% 30% 30% CMYK 40/20/0/7 CMYK 0/0/0/38 CMYK 0/15/30/0 CMYK 0/5/30/0 CMYK 24/6/30/0 RGB 129/156/204 RGB 215/215/215 RGB 254/212/166 RGB 255/232/166 RGB 196/214/187 Pantone 287 Pantone Cool Gray 10 Impact: Impact: Impact: 20% 20% Orange is engaging, Yellow is likeable, Green is knowledge­promotional and cooperative and able, informative and CMYK 20/10/0/5 CMYK 0/0/0/25 product-oriented. communicative. competent. RGB 149/171/201 RGB 235/235/235 Pantone 287 Pantone Cool Gray 10 8% 10% CMYK 8/4/0/0 CMYK 0/0/0/12 RGB 229/236/246 RGB 245/245/245
+- Primary colors (including gray) for private and business customers Red: Usage only for eye-catching elements Secondary colors for business customers
+- Corporate Color Pantone 287 Pantone Cool Gray 10 Pantone 1797 Pantone 154 Pantone 1255 Pantone 5743 Allianz Blue Pantone 287 CMYK 100/65/0/15 CMYK 0/0/0/72 CMYK 10/100/90/0 CMYK 25/75/100/0 CMYK 30/50/100/0 CMYK 80/60/100/0 RGB 17/51/136 RGB 148/148/148 RGB 198/0/0 RGB 177/73/17 RGB 182/130/54 RGB 63/84/41 Pantone 287 Pantone Cool Gray 10 Pantone 154 Pantone 1255 Pantone 5743 60% 60% 60% 60% 60% CMYK 60/35/0/10 CMYK 0/0/0/56 CMYK 20/45/60/0 CMYK 18/30/60/0 CMYK 50/30/60/0 RGB 66/107/179 RGB 193/193/193 RGB 205/141/107 RGB 204/165/110 RGB 136/159/113 Pantone 287 Graf@Murie/} Pantone 154 Pantone 1255 Pantone 5743 40% 1I7RA 30% 30% 30% CMYK 40/20/0/7 CMYK 0/0/0/38 CMYK 10/20/25/0 CMYK 9/15/30/0 CMYK 25/10/25/0 RGB 129/156/204 RGB 215/215/215 RGB 237/212/191 RGB 235/213/181 RGB 199/216/181 Pantone 287 Pantone Cool Gray 10 20% 20% CMYK 20/10/0/5 CMYK 0/0/0/25 RGB 149/171/201 RGB 235/235/235 Pantone 287 Pantone Cool Gray 10 8% 10% CMYK 8/4/0/0 CMYK 0/0/0/12 RGB 229/236/246 RGB 245/245/245
+- Secondary colors can be used in diagrams and tables to identify specific information or call attention to key figures. Only one secondary color may be used in each medium. The different shades of color should run from dark to light in each diagram. The defined tones of an accent color are used to highlight important information.
+
+##### Typography
+
+- The typeface is an essential tool for communicating information. Furthermore, a typeface is a distinctive part of our brand identity. It's important to use the same typeface consistently in all our communication to create a unique look and feel our customers recognize. Think about how important someone's voice is to speech. A typeface gives the text its own personal voice.
+- Our unique signature
+- Our typeface plays an essential role in our communication.
+- Allianz Sans Regular for headlines
+- We use it to clearly express information that the viewer needs to digest quickly. Typefaces provide orientation and divide texts into segments that are easy to understand.
+- Allianz Sans Regular for subheadlines, introductory texts, margin notes Allianz Sans Bold for highlighting, product name, claim
+- This clearly legible serif typeface is ideal for longer body texts.
+- Allianz Serif Light for longer body texts, e. g. in brochures
+
+##### Logo Usage
+
+- The Allianz logo consists of the wordmarkAllianz and the Allianz picture mark. These elements must always be used together. Never use the picture mark or word mark on its own. The combination of these two elements makes Allianz recognizable everywhere around the world.
+- Specific proportions have been defined for the Allianz logo boxes. There are four fixed size versions available. The most common is 8 x 3 units for the Allianz logo, the Allianz logo with descriptor and short double-branding logos. The version with 6 x 3 units is used for short Allianz company logos, e.g. AGF. Logo boxes with proportions of 10 x 3 units or 12 x 3 units respectively are used for long Allianz double-branding logos.
+- Allianz logo: Fixed proportion of 8 x 3 units
+- Allianz logo with descriptor (e.g. division or country code): Fixed proportion of 8 x 3 units
+- Long Allianz double-branding logo: The maximum proportions of the logo box are 12 x 3 units. Logo boxes with proportions of 10 x 3 units may be used for smaller logos.
+- Short Allianz double-branding logo: Proportion of 8 x 3 units
+- Logo centered vertically
+- Its dimensions and content never change. It is always positioned in a defined relationship to the content box.
+- Blue, white and gray are our primary colors. Our new characteristic blue is featured in all applications, including our distinctive logo.
+- Pantone 287 (Allianz Blue) CMYK 100/65/0/15 RGB 17/51/136
+
+##### Tone And Messaging
+
+- All of our texts are characterized by a specific tone of voice, which is derived from the Allianz brand personality. This style enables us to create texts that both motivate and inspire the reader. Our language is clear, direct and positive. If visuals are featured within the communication, the text conveys the message of the image in an engaging way.
+
+##### Brand Values
+
+- Our corporate commitment: We are trusted to deliver in moments of truth.
+- This is how we can give our customers true peace of mind -as a partner known for their integrity, confidence and honesty.
+- The essence of all this is our shared belief in our brand core.
+- The brand core that unites our entire group of brands is trust.
+- Thanks to decades of success in the financial services sector, Allianz has become an icon of trust. We have been partner to our customers around the world, providing them with protection and helping them to achieve their financial goals.
+- "With Allianz you will feel confident. Thanks to the support of your personal advisor who enables you to take the best decisions for you that prove Allianz's value in moments of truth. And who is there for you whenever you need him."
+- In our family of brands, trust is the basis for everything we say and do. While members of our family have their own unique personalities and identities, we share the same design framework that makes us recognizable as a group of reliable partners.
+- This design framework is based on the idea of unity in diversity. Even though all of our brands use the same design elements, it is possible for each of us to express our distinctive personalities.
+- Trust is the core value of Allianz. We have derived imagery that allows us to clearly express this value. The image style" and image type help us bring our personality to life.
+
+##### Visual Style
+
+- We need a clear and simple look to effectively communicate our unique personality. Only in this way can we create an image of visible trust.
+- Our visual identity is based on three distinctive elements that create a consistent look while allowing us to express our individual personalities.
+- The image involves the customer. It reflects moments in their everyday lives.
+- The content box informs the customer. It makes our messages easy to recognize and remember.
+- The logo box reassures the customer. It is the icon of trust for our customers.
+- The interplay of these design elements creates a look for our brand that people recognize instantly. Each design element has its own unique function. A few simple rules govern how each one is used.
+- The image is all-encompassing. It can extend across entire formats. It should visualize the world of our customers in a vivid and authentic way.
+- The content box is flexible. Its dimensions may vary. It can also be positioned in a variety of ways within the layout.
+- The logo box is consistent. Its dimensions and content never change. It is always positioned in a defined relationship to the content box.
+- Specific proportions have been defined for the Allianz logo boxes. There are four fixed size versions available. The most common is 8 x 3 units for the Allianz logo, the Allianz logo with descriptor and short double-branding logos. The version with 6 x 3 units is used for short Allianz company logos, e.g. AGF. Logo boxes with proportions of 10 x 3 units or 12 x 3 units respectively are used for long Allianz double-branding logos.
+- Allianz logo: Fixed proportion of 8 x 3 units
+- Allianz logo with descriptor (e.g. division or country code): Fixed proportion of 8 x 3 units
+- Long Allianz double-branding logo: The maximum proportions of the logo box are 12 x 3 units. Logo boxes with proportions of 10 x 3 units may be used for smaller logos.
+- Short Allianz double-branding logo: Proportion of 8 x 3 units
+- Logo centered vertically
+- Content boxes are featured in all our communication. They capture the attention of the viewer or reader. At the same time, they communicate essential information -whether in the form of headlines or interesting details. Our content boxes are a distinctive and recognizable element of our brand identity, which is why they appear in our corporate color blue. Even though they are used for text, they accent our communication much like images.
+- Our imagery visualizes the world of our customers -their needs, expectations and desires. We capture authentic moments that are part in people's everyday lives. Our imagery helps us win their trust.
+- We have defined a common image style shared by all brands. This is expressed by a generous composition, characteristic use of color and exciting arrangements.
+- The common image type is characterized by authenticity, quality and clarity. Additional image type attributes reflect the individual brand personali­ties of each member of our group. The qualities that specifically define the image type of the Allianz flagship brand are powerful, positive and direct.
+- The image style refers to the formal aspects of the photography, including coloration and composition.
+- The image type details the qualitative aspects of the visuals we use, the stories we tell and the motifs we select.
+- IMAGE STYLE • Exciting arrangement • Generous composition • Use of color
+- GENERAL IMAGE TYPE • Authentic • Qualitative • Clear
+- SPECIFIC IMAGE TYPE • Powerful • Positive • Direct
+- Exciting arrangement • Unique perspective and level of detail • Focus on main character/ object • Unusual point of view • No focus on background • No boring perspectives • Not too flat
+- Generous composition • Image is divided into a few large areas • Main character/ object in the foreground • No highly complex motifs • No high detail photographs • No fragments
+- Use of color • Individual color code (Allianz= blue) • Focus on a few main colors • No desaturated images
+- GENERAL IMAGE TYPE Authentic • Natural environment • Natural characters and objects • Natural action • Theme-related accessories • No studio look • No high-end models or trendy makeup • No posing, not staged • Neither too high class/ expensive nor low quality/cheap
+- GENERAL IMAGE TYPE Qualitative • Choice of motif, high-quality photography • Choice of light, well-illuminated characters • No snapshots, no stock images • Not too dramatic, not artificial
+- GENERAL IMAGE TYPE Clear • Sharp • Vivid colors • Motif supports the communication • No blurring, not fuzzy • Colors that are not too uniform
+- SPECIFIC IMAGE TYPE Powerful • Self-confident, active, dynamic characters • Intense colors used over large areas • High contrast
+- SPECIFIC IMAGE TYPE Positive • Pleasant characters and positive situations • Positive, friendly color code • Life-loving activities (passion) • No dark colors • No accidents, no commentary
+- SPECIFIC IMAGE TYPE Direct • Motif supports the message and tells a story • No self-important or indirect communication • No banal scenes or misleading text/ picture concept
+- Blue, white and gray are our primary colors. Our new characteristic blue is featured in all applications, including our distinctive logo. We have a wide range of secondary colors that may only be used as accent colors in tables and graphics. These secondary colors are different for each target group.
+- Our business-to-consumer communication features full, vivid colors, while more reduced, reserved colors are used in business-to-business media. Red is used for both target groups to create eye-catching elements. It is possible to use basically any predefined secondary color as long as it is used consistently throughout the media. For example, if green has been selected as an accent color for an informational brochure, no other secondary colors may be used as accents in the same medium.
+- Primary colors (including gray) for private and business customers Red: Usage only for eye-catching elements Secondary colors for private customers. These colors are best used to achieve the desired impact as described below.
+- Primary colors (including gray) for private and business customers Red: Usage only for eye-catching elements Secondary colors for business customers
+- All of our diagrams and tables are two-dimensional. Our simplest graphics feature defined shades of the primary colors blue and gray. There are three different options: Blue graphics, gray graphics and gray graphics with blue accents. The different shades of color should run from dark to light in each diagram. Our corporate color blue can be used to emphasize special information or important figures.
+- Secondary colors can be used in diagrams and tables to identify specific information or call attention to key figures. Only one secondary color may be used in each medium. The different shades of color should run from dark to light in each diagram. The defined tones of an accent color are used to highlight important information.
+
+##### Layout And Composition
+
+- The interplay of these design elements creates a look for our brand that people recognize instantly. Each design element has its own unique function. A few simple rules govern how each one is used.
+- The image is all-encompassing. It can extend across entire formats. It should visualize the world of our customers in a vivid and authentic way.
+- The content box is flexible. Its dimensions may vary. It can also be positioned in a variety of ways within the layout.
+- The logo box is consistent. Its dimensions and content never change. It is always positioned in a defined relationship to the content box.
+- Specific proportions have been defined for the Allianz logo boxes. There are four fixed size versions available. The most common is 8 x 3 units for the Allianz logo, the Allianz logo with descriptor and short double-branding logos. The version with 6 x 3 units is used for short Allianz company logos, e.g. AGF. Logo boxes with proportions of 10 x 3 units or 12 x 3 units respectively are used for long Allianz double-branding logos.
+- Allianz logo: Fixed proportion of 8 x 3 units
+- Allianz logo with descriptor (e.g. division or country code): Fixed proportion of 8 x 3 units
+- Long Allianz double-branding logo: The maximum proportions of the logo box are 12 x 3 units. Logo boxes with proportions of 10 x 3 units may be used for smaller logos.
+- Short Allianz double-branding logo: Proportion of 8 x 3 units
+- Logo centered vertically
+- Design grids are the foundation of our brand identity. They are essential for ensuring that all our design applications have a consistent and clearly-organized appearance.
+- Our design grid consists of square units. What makes it unique is the fact that these units do not have fixed sizes. Their sizes change in proportion to the respective format. As a result, the grid will always be 30 x 42 units for all DIN portrait formats.
+- Unit widths for standard formats DIN A5/DIN long 5 mm/0.20 inch DINA4 7 mm/0.28 inch DINA3 10 mm/0.39 inch DINA2 14 mm/0.55 inch DINAl 20 mm/0.79 inch DINA0 28 mm/1.10 inches US Letter 6.65 mm/0.26 inch
+
+##### Brand Architecture
+
+- OurAllianz flagship brand is the "center of gravity" of our group of brands, focusing on insurance and asset management.
+- In some regions, we rely on our joint ventures with regional partners to serve our customers. In other countries, the Allianz Group is represented by strong local players-individual corporate brands who are experts in their respective fields.
+- Despite the different ways in which people recognize us, every member of our group of brands shares the same corporate commitment and shows visually the relationship to Allianz.
+- Allianz Group brand architecture
+
+##### Diagrams And Tables
+
+- All of our diagrams and tables are two-dimensional. Our simplest graphics feature defined shades of the primary colors blue and gray. There are three different options: Blue graphics, gray graphics and gray graphics with blue accents. The different shades of color should run from dark to light in each diagram. Our corporate color blue can be used to emphasize special information or important figures.
+- Secondary colors can be used in diagrams and tables to identify specific information or call attention to key figures. Only one secondary color may be used in each medium. The different shades of color should run from dark to light in each diagram. The defined tones of an accent color are used to highlight important information.
 
 ## Additional Properties
 

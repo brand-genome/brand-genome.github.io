@@ -2,7 +2,7 @@
 title: Gironde
 slug: gironde
 description: ""
-date: "2026-03-20T08:22:05.706554"
+date: "2026-04-10T09:40:34.648614"
 draft: false
 sectors:
   - "public-sector"
@@ -50,15 +50,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - black
-typographies:
-  - serif
-imagery_styles:
-  - classic
-  - bold
-  - modern
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "French department in Nouvelle-Aquitaine"
 wikidata_url: "https://www.wikidata.org/wiki/Q12526"
 has_twitter: false
@@ -76,18 +70,197 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
+#### Brand Summary
 
-- The logotype for Département de la Gironde is described as strong, impactful, and immediately recognizable. It includes a pictogram with two interpretations: (1) the black part represents the hexagon of France, and the red arrow symbolizes the Gironde Department, and (2) the black portion symbolizes the Department, and the red arrow represents the entry through the Estuary of Gironde.
-- Typography in the logo: 'Gironde' uses Air Bold Plain, chosen for its classic serif style combined with modern curves that evoke generosity, femininity, and institutionality. 'Département' uses Meta Plus Bold, redesigned for perfect alignment under 'Gironde' and enhanced readability.
+##### Mission
 
-**Typography Information:**
+- To present a strong, impactful, and immediately recognizable visual identity for the Département de la Gironde, emphasizing its institutional values and dynamic engagement in modernity and technology.
 
-- Air Bold Plain is used for 'Gironde'. Meta Plus Bold is used for 'Département', with adjustments for alignment and readability.
+##### Core Values
 
-**Notes:**
+- generosity
+- flexibility
+- femininity
+- notoriety
+- rigor
+- optimism
+- elegance
+- vigor
+- combativeness
+- fertility
+- sobriety
 
-- The guidelines prominently discuss the interpretations and design rationale of the logo and its typography, suggesting emphasis on aligning the visual identity with core values and institutional symbolism.
+##### Target Audience
+
+- The public and stakeholders interacting with the Département de la Gironde, including event partners and those engaging with departmental communications and signage.
+
+##### Personality Traits
+
+- dynamic
+- modern
+- institutional
+- impactful
+- recognizable
+- elegant
+- strong
+
+##### Visual Identity Overview
+
+- The visual identity centers on a logo featuring a black hexagon and a red arrow, symbolizing both France and the Gironde region. The color palette is dominated by red and black, with strict rules for logo usage, margins, and minimum sizes. Typography combines classic and modern elements, and the logo is applied with precise layout and composition guidelines to ensure clarity and recognition.
+
+#### Categories
+
+##### Brand Imagery
+
+- Ces deux versions du logo sont des signes reconnaissables dans des proportions précises. Ils apartiennent exclusivement au Département de la Gironde, et ne peuvent en aucun cas être redessinés, contractés ou étirés en largeur ou en hauteur, mais doivent être mis à l’échelle de manière homothétique à partir des fichiers informatiques.
+- Le logo doit toujours être utilisé avec une marge de sécurité nécessaire à sa lisibilité. Dans cette réserve blanche, rien ne doit être imprimé afin de laisser “respirer” le logo.
+- La marge blanche correspond à 1/4 de la hauteur du logo.
+- Lorsque le logo est rétréci ou agrandi, la réserve blanche doit être mise à l’échelle de manière homothétique.
+- Le logo du Département est rouge et noir, aucune autre couleur ne peut lui être attribuée par fantaisie.
+- N 100
+- Pantone Process black C
+- Pantone Process black U
+- Pantone Process black M
+- R 30 / G 30 / B 30
+- HTML : 1E1E1E
+- RAL 9017
+- Noir quadri pour les grandes surfaces
+- C 40 / M 40 / J 40 / N 100
+- M 100 / J 100
+- Pantone 485 C
+- Pantone 485 U
+- Pantone 485 M
+- R 213 / G 43 / B 30
+- HTML : D52B1E
+- RAL 3020
+- Lorsque le logo doit fonctionner en monochromie ou en bichromie, et en valeur de gris, le logo utilise la couleur choisie à 100%, sans nuance ni couleur tramée.
+- La taille minimum d’utilisation du logo est de 8 mm de hauteur pour la version du logo seul.
+- Ne jamais réduire le logo en-dessous de cette limite.
+- La taille minimum d’utilisation du logo est de 10 mm de hauteur pour la version du logo avec gironde.fr.
+
+##### Color Palette
+
+- Le rouge et le noir sont les couleurs de l’Institution depuis 1992. Bien identifiée par le public, l’association de ces deux couleurs est directement liée à l’image du Département. La couleur rouge est dominante (flèche, Gironde et le filet) et permet au logo de gagner en équilibre, en visibilité, et d’être immédiatement reconnu.
+- Dans la symbolique des couleurs le rouge et le noir associés traduisent optimisme et élégance, ils évoquent également le terroir girondin, le vin et la terre. L’introduction de la couleur rouge constitue un rappel à la vigueur et à l’instinct combatif. C’est une couleur dynamique et stimulante. Tandis que le noir, à l’origine couleur de fécondité et de fertilité (vierges noires) est une couleur sobre et élégante. Elle rappelle la notoriété de l’Institution. C’est également une couleur forte, qui, en contraste avec le rouge, met en évidence le logo.
+- Le logo du Département est rouge et noir, aucune autre couleur ne peut lui être attribuée par fantaisie.
+- N 100
+- Pantone Process black C
+- Pantone Process black U
+- Pantone Process black M
+- R 30 / G 30 / B 30
+- HTML : 1E1E1E
+- RAL 9017
+- Noir quadri pour les grandes surfaces
+- C 40 / M 40 / J 40 / N 100
+- M 100 / J 100
+- Pantone 485 C
+- Pantone 485 U
+- Pantone 485 M
+- R 213 / G 43 / B 30
+- HTML : D52B1E
+- RAL 3020
+- Lorsque le logo doit fonctionner en monochromie ou en bichromie, et en valeur de gris, le logo utilise la couleur choisie à 100%, sans nuance ni couleur tramée.
+
+##### Typography
+
+- Pour la mention Gironde, la typographie utilisée s’appelle Air Bold Plain. Cette typographie est à la fois classique par ses empattements, et moderne et souple grâce à ses courbures. Elle valorise l’Institution, évoque la générosité, la souplesse, la féminité.
+- Pour la mention Département, la typographie utilisée est la Meta Plus bold. Cette typographie “baton” souligne et assoit le mot Gironde. Elle est redessinée pour s’inscrire parfaitement sous Gironde, et gagner en lisibilité. Cette typographie évoque la notoriété et la rigueur d’une grande Institution.
+- La mention gironde.fr est présente sur une des versions du logo. La typographie utilisée, la Meta Plus Bold Italique. gironde.fr est dans le prolongement du filet, et sa forme italique permet de donner du mouvement au logo. L’association du filet et de gironde.fr fait référence à l’image d’une Collectivité dynamique, qui construit l’avenir et s’engage notamment dans le numérique et les technologies de pointe.
+- Gironde ## Air bold Plain # ABCDEFGHIJKLMNOPQRSTUVWXYZ ## abcdefghijklmnopqrstuvwxyz # 0123456789 Meta Plus bold Cap ## ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdfghijklmnopqrstuvwxyz ## 0123456789
+
+##### Logo Usage
+
+- Le logo du Département existe en deux versions : le logo seul et le logo + gironde.fr
+- ON UTILISE LE LOGO AVEC GIRONDE.FR • sur tous documents et supports édités par le Département, quelle que soit leur forme hormis dans le cas d’une utilisation à très petit format.
+- ON UTILISE LE LOGO SEUL • lorsque le Département est partenaire d’un évènement, • sur les très petits formats • sur la signalétique des bâtiments
+- Ces deux versions du logo sont des signes reconnaissables dans des proportions précises. Ils appartiennent exclusivement au Département de la Gironde, et ne peuvent en aucun cas être redessinés, contractés ou étirés en largeur ou en hauteur, mais doivent être mis à l’échelle de manière homothétique à partir des fichiers informatiques.
+- Le logo doit toujours être utilisé avec une marge de sécurité nécessaire à sa lisibilité. Dans cette réserve blanche, rien ne doit être imprimé afin de laisser “respirer” le logo.
+- La marge blanche correspond à 1/4 de la hauteur du logo.
+- Lorsque le logo est rétréci ou agrandi, la réserve blanche doit être mise à l’échelle de manière homothétique.
+- Le logo du Département est rouge et noir, aucune autre couleur ne peut lui être attribuée par fantaisie.
+- N 100
+- Pantone Process black C
+- Pantone Process black U
+- Pantone Process black M
+- R 30 / G 30 / B 30
+- HTML : 1E1E1E
+- RAL 9017
+- Noir quadri pour les grandes surfaces
+- C 40 / M 40 / J 40 / N 100
+- M 100 / J 100
+- Pantone 485 C
+- Pantone 485 U
+- Pantone 485 M
+- R 213 / G 43 / B 30
+- HTML : D52B1E
+- RAL 3020
+- Lorsque le logo doit fonctionner en monochromie ou en bichromie, et en valeur de gris, le logo utilise la couleur choisie à 100%, sans nuance ni couleur tramée.
+- Le logo s’applique sur un fond coloré selon des règles bien précises
+- Sur fond blanc, le logo fonctionne seul, sans contour ni filet.
+- La réserve blanche autour du logo est à respecter. (p8)
+- Dans le cas où il doit être accompagné d’autres logos partenaires, ou lorsque l’on veut mettre le logo en avant, il fonctionne avec une ombre portée d’opacité 60% avec un léger décalage en bas à droite : > au moins 1 mm pour les décalages x et y > au moins 1 mm d’atténuation pour les petits formats : 100 x 210 mm, A5, A4 > au moins 2 mm pour les décalages x et y > au moins 2 mm d’atténuation pour les plus grands formats : A3, etc.
+- Sur fond clair, foncé ou sur une image, le logo s’installe dans une réserve blanche qui respecte la taille minimum de blanc tournant autour du logo. (p8)
+- De la même manière que sur fond blanc, le logo peut être mis en valeur par une ombre portée, d’opacité 60% avec un léger décalage en bas à droite.
+- Ces règles d’application sont également valables pour la version du logo avec gironde.fr
+- La taille minimum d’utilisation du logo est de 8 mm de hauteur pour la version du logo seul.
+- Ne jamais réduire le logo en-dessous de cette limite.
+- La taille minimum d’utilisation du logo est de 10 mm de hauteur pour la version du logo avec gironde.fr.
+
+##### Visual Style
+
+- L’identité visuelle du Département de la Gironde est une identité forte, impactante et immédiatement reconnaissable.
+- Deux lectures sont possibles : • la partie noire représente l’hexagone de la France et la flèche rouge symbolise le Département de la Gironde. • la partie noire du picto symbolise le Département et la flèche rouge, l’entrée par l’Estuaire de la Gironde.
+- Pour la mention Gironde, la typographie utilisée s’appelle Air Bold Plain. Cette typographie est à la fois classique par ses empattements, et moderne et souple grâce à ses courbures. Elle valorise l’Institution, évoque la générosité, la souplesse, la féminité.
+- Pour la mention Département, la typographie utilisée est la Meta Plus bold. Cette typographie “baton” souligne et assoit le mot Gironde. Elle est redessinée pour s’inscrire parfaitement sous Gironde, et gagner en lisibilité. Cette typographie évoque la notoriété et la rigueur d’une grande Institution.
+- La mention gironde.fr est présente sur une des versions du logo. La typographie utilisée, la Meta Plus Bold Italique. gironde.fr est dans le prolongement du filet, et sa forme italique permet de donner du mouvement au logo. L’association du filet et de gironde.fr fait référence à l’image d’une Collectivité dynamique, qui construit l’avenir et s’engage notamment dans le numérique et les technologies de pointe.
+- Le filet rouge souligne le bloc constitué de Gironde Département. Sa couleur rouge rappelle la couleur de Gironde.
+- Dans le cas où on utilise gironde.fr, il constitue le fil rouge qui mène au lien.
+- Le rouge et le noir sont les couleurs de l’Institution depuis 1992. Bien identifiée par le public, l’association de ces deux couleurs est directement liée à l’image du Département. La couleur rouge est dominante (flèche, Gironde et le filet) et permet au logo de gagner en équilibre, en visibilité, et d’être immédiatement reconnu.
+- Dans la symbolique des couleurs le rouge et le noir associés traduisent optimisme et élégance, ils évoquent également le terroir girondin, le vin et la terre. L’introduction de la couleur rouge constitue un rappel à la vigueur et à l’instinct combatif. C’est une couleur dynamique et stimulante. Tandis que le noir, à l’origine couleur de fécondité et de fertilité (vierges noires) est une couleur sobre et élégante. Elle rappelle la notoriété de l’Institution. C’est également une couleur forte, qui, en contraste avec le rouge, met en évidence le logo.
+- Le logo du Département existe en deux versions : le logo seul et le logo + gironde.fr
+- On utilise le logo avec gironde.fr • sur tous documents et supports édités par le Département, quelle que soit leur forme hormis dans le cas d’une utilisation à très petit format.
+- On utilise le logo seul • lorsque le Département est partenaire d’un évènement, • sur les très petits formats • sur la signalétique des bâtiments
+- Ces deux versions du logo sont des signes reconnaissables dans des proportions précises. Ils apartiennent exclusivement au Département de la Gironde, et ne peuvent en aucun cas être redessinés, contractés ou étirés en largeur ou en hauteur, mais doivent être mis à l’échelle de manière homothétique à partir des fichiers informatiques.
+- Le logo doit toujours être utilisé avec une marge de sécurité nécessaire à sa lisibilité. Dans cette réserve blanche, rien ne doit être imprimé afin de laisser “respirer” le logo.
+- La marge blanche correspond à 1/4 de la hauteur du logo.
+- Lorsque le logo est rétréci ou agrandi, la réserve blanche doit être mise à l’échelle de manière homothétique.
+- Le logo du Département est rouge et noir, aucune autre couleur ne peut lui être attribuée par fantaisie.
+- N 100
+- Pantone Process black C
+- Pantone Process black U
+- Pantone Process black M
+- R 30 / G 30 / B 30
+- HTML : 1E1E1E
+- RAL 9017
+- Noir quadri pour les grandes surfaces
+- C 40 / M 40 / J 40 / N 100
+- M 100 / J 100
+- Pantone 485 C
+- Pantone 485 U
+- Pantone 485 M
+- R 213 / G 43 / B 30
+- HTML : D52B1E
+- RAL 3020
+- Lorsque le logo doit fonctionner en monochromie ou en bichromie, et en valeur de gris, le logo utilise la couleur choisie à 100%, sans nuance ni couleur tramée.
+- Le logo s’applique sur un fond coloré selon des règles bien précises • Sur fond blanc, le logo fonctionne seul, sans contour ni filet. La réserve blanche autour du logo est à respecter. (p8) • Dans le cas où il doit être accompagné d’autres logos partenaires, ou lorsque l’on veut mettre le logo en avant, il fonctionne avec une ombre portée d’opacité 60% avec un léger décalage en bas à droite : > au moins 1 mm pour les décalages x et y > au moins 1 mm d’atténuation pour les petits formats : 100 x 210 mm, A5, A4 > au moins 2 mm pour les décalages x et y > au moins 2 mm d’atténuation pour les plus grands formats : A3, etc. • Sur fond clair, foncé ou sur une image, le logo s’installe dans une réserve blanche qui respecte la taille minimum de blanc tournant autour du logo. (p8) • De la même manière que sur fond blanc, le logo peut être mis en valeur par une ombre portée, d’opacité 60% avec un léger décalage en bas à droite. Ces règles d’application sont également valables pour la version du logo avec gironde.fr
+- Gironde
+- Air bold Plain
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- abcdefghijklmnopqrstuvwxyz
+- 0123456789
+- Meta Plus bold Cap
+- La taille minimum d’utilisation du logo est de 8 mm de hauteur pour la version du logo seul.
+- Ne jamais réduire le logo en-dessous de cette limite.
+- 8 mm
+- La taille minimum d’utilisation du logo est de 10 mm de hauteur pour la version du logo avec gironde.fr.
+- 10 mm
+
+##### Layout And Composition
+
+- Ces deux versions du logo sont des signes reconnaissables dans des proportions précises. Ils apartiennent exclusivement au Département de la Gironde, et ne peuvent en aucun cas être redessinés, contractés ou étirés en largeur ou en hauteur, mais doivent être mis à l’échelle de manière homothétique à partir des fichiers informatiques.
+- Le logo doit toujours être utilisé avec une marge de sécurité nécessaire à sa lisibilité. Dans cette réserve blanche, rien ne doit être imprimé afin de laisser “respirer” le logo.
+- La marge blanche correspond à 1/4 de la hauteur du logo.
+- Lorsque le logo est rétréci ou agrandi, la réserve blanche doit être mise à l’échelle de manière homothétique.
 
 ## Additional Properties
 

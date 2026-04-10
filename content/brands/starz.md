@@ -2,7 +2,7 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-03-20T08:22:05.845987"
+date: "2026-04-10T09:40:34.863687"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - media
 industries: []
 countries:
@@ -53,18 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - minimal
-  - bold
-  - photography
-  - clean
-  - gradient
+imagery_styles: []
 wikidata_description: American pay television network
 wikidata_url: "https://www.wikidata.org/wiki/Q2422698"
 has_twitter: false
@@ -83,37 +75,7 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- There is a power in fandom, and the STARZ logo is strong, bold, and expansive, with timeless letterforms for gravitas and stature.
-- The STARZ logo mark is clean, bold, and timeless. Museo Sans font is paired for division/franchise names, while the 'Obsessable' tagline uses Museo Sans italic.
-- STARZ thematic logos follow cohesive rules, including adjustments for aspect ratios and stacking configurations using Museo Sans 500 in all caps.
-
-**Color Information:**
-
-- The primary color palette is monochromatic, including blacks, grays, white, and warm lighting. RGB, CMYK, and Pantone values are specified for different colors.
-- Base gradient and warm lighting are used to create a high-contrast environment. Colors include RGB(0, 0, 0), CMYK(50, 50, 50, 100), Pantone Black CP, and HEX 807159.
-
-**Typography Information:**
-
-- Museo Sans font family is used across branding. Weights include 100, 300, 500, 700, and 900.
-
-**Imagery Photography:**
-
-- Photography concept highlights authenticity. Footage is not edited heavily; the show remains at the center of attention.
-- Photography on social media includes show footage and key art emphasizing fandom, kept minimal for mobile cropping.
-
-**Spacing Layout:**
-
-- Centered layout examples provided, using 16:9 framing devices with fixed camera positioning.
-
-**Brand Voice:**
-
-- The STARZ brand focuses on die-hard passion and fandom, using bold and inclusive language to engage audiences.
-
-**Notes:**
-
-- The STARZ brand environment emphasizes clean, bold aesthetics with high-contrast and warm lighting.
+*Guidelines data not available*
 
 ## Additional Properties
 

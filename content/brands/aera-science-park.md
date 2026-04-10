@@ -2,7 +2,7 @@
 title: Aera Science Park
 slug: "aera-science-park"
 description: ""
-date: "2026-03-20T08:22:05.868529"
+date: "2026-04-10T09:40:34.903663"
 draft: false
 sectors:
   - research
@@ -46,22 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - green
-  - grey
-  - blue
-  - orange
-  - black
-typographies:
-  - "sans-serif"
-  - din
-imagery_styles:
-  - bold
-  - graphic
-  - geometric
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -80,37 +68,63 @@ visual_term_image_urls: {}
 
 ### 2015
 
-**Logo Information:**
+#### Brand Summary
 
-- The primary logo is referred to as 'LOGO PRINCIPALE.' It includes distinctive graphic marks representing the four activity lines of the organization.
-- Logo referred to as 'LOGO MADRE' comprises the name 'AREA' styled through a continuous line forming its letters.
-- The secondary logo, 'LOGO SECONDARIO,' includes the accompanying text 'SCIENCE PARK' but cannot be used without 'AREA.'
-- The logo includes four rounded squares that represent the organization's four operational instruments and activity lines. Each square is associated with specific colors.
-- Clear space rule is defined as a proportion of the logo's base. A minimum distance of 2/5 of the logo base (X) must be maintained between the logo and other graphic elements. For text, the clear space can be reduced to 1/5 of the logo base.
-- Minimum logo sizes for readability: 2.5mm for the primary logo and 1.5mm for specific variants.
-- Improper uses of the logo include applying it on high-contrast images or dark areas with similar intensity as the logo's colors.
-- Examples are provided showing the logo improperly applied (distortions, color alternations, and placement issues).
+##### Mission
 
-**Color Information:**
+- The brand aims to represent innovation, technology, and scientific exploration, positioning itself as a modern science park.
 
-- Institutional colors include Pantone PMS 532 (grey-blue), Pantone PMS 370 (green), Pantone PMS 138 (orange), Pantone PMS 208 (burgundy), and Pantone PMS 2935 (blue).
-- Colors are used in both full-color and monochromatic versions of the logo for light and dark backgrounds.
-- CMYK values and RGB values are provided for each institutional color: Pantone PMS 532, PMS 370, PMS 138, PMS 208, and PMS 2935.
+##### Core Values
 
-**Typography Information:**
+- innovation
+- technology
+- scientific exploration
+- modernity
 
-- The primary font family is ORBITRON, a geometric sans-serif font suited for screen and video use. Available weights: Regular, Medium, Bold, and Black.
-- The secondary font family, DIN, is used for all coordinated products. It includes weights: Thin, Thin Italic, Regular, Italic, Medium, Medium Italic, Bold, and Bold Italic.
+##### Target Audience
 
-**Imagery Photography:**
+- Individuals and organizations interested in science, technology, and research, including professionals, students, and innovators.
 
-- The logo must be applied on images with low contrast or blurred areas. High-contrast backgrounds or colors close to institutional hues are prohibited.
+##### Personality Traits
 
-**Spacing Layout:**
+- modern
+- innovative
+- professional
+- scientific
 
-- The clear space (buffer zone) around the logo is defined as 2/5 of the base (X). For text, the clear space can reduce to 1/5 of the base.
-- Specific minimum dimensions (e.g., 2.5mm for primary usage, 1.5mm for others) are recommended for readability.
+##### Visual Identity Overview
 
-**Notes:**
+- The visual identity is characterized by a sleek, geometric logo, a contemporary sans-serif font, and a vibrant color palette of green, orange, maroon, and blue. The logo is consistently paired with colored squares representing different activity lines, and the overall style is minimalist and professional, emphasizing clarity and technological themes.
 
-- The brand guideline heavily emphasizes correct application (spacing, positioning, contrast, color specifics) and prohibits distortions or incorrect implementations.
+#### Categories
+
+##### Logo Usage
+
+- A - In questa versione il logotipo verrà indicato come LOGO PRINCIPALE.
+- Logotipo principale, completo dei segni grafici distintivi delle quattro Linee di Attività.
+
+##### Color Palette
+
+- Logotipo principale, completo dei segni grafici distintivi delle quattro Linee di Attività.
+
+##### Typography
+
+- Font primario Famiglia ORBITRON
+- L’Orbitron è un font geometrico sans-serif ottimo anche per la visualizzazione video.
+- # ORBITRON Regular ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- # ORBITRON Medium ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- # ORBITRON Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- # ORBITRON Black ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- Font secondario Famiglia DIN / Per tutti i prodotti coordinati
+- DIN Thin ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Regular ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Medium ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Bold ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Thin Italic ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Italic ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Medium Italic ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+- DIN Bold Italic ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 àèéìòù :;.[]()@%&*”?!
+
+##### Visual Style
+
+- A - In questa versione il logotipo verrà indicato come LOGO PRINCIPALE. Logotipo principale, completo dei segni grafici distintivi delle quattro Linee di Attività.

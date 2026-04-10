@@ -2,12 +2,12 @@
 title: BAE Systems
 slug: "bae-systems"
 description: ""
-date: "2026-03-20T08:22:03.506653"
+date: "2026-04-10T09:40:31.084567"
 draft: false
 sectors:
   - defense
-  - cybersecurity
   - aerospace
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -33,8 +33,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "falls-church"
   - "arlington-county"
+  - "falls-church"
 subsidiaries: []
 foundation_dates:
   - 1999
@@ -64,9 +64,9 @@ imagery_styles: []
 wikidata_description: aerospace and defense subsidiary of BAE Systems in North America
 wikidata_url: "https://www.wikidata.org/wiki/Q4834524"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -77,12 +77,6 @@ visual_term_image_urls: {}
 - [https://jobs.baesystems.com](https://jobs.baesystems.com)
 - [http://www.baesystems.com](http://www.baesystems.com)
 
-## Brand Guidelines
-
-### 2014
-
-*Guidelines data not available*
-
 ## Additional Properties
 
 | Property | Value |
@@ -91,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Falls Church](/headquarters_locations/falls-church/); [Arlington County](/headquarters_locations/arlington-county/) |
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Falls Church](/headquarters_locations/falls-church/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Item Operated | North American Sabreliner |
 | Country | United States |

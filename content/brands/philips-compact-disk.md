@@ -2,7 +2,7 @@
 title: Philips Compact Disk
 slug: "philips-compact-disk"
 description: ""
-date: "2026-03-20T08:22:04.083691"
+date: "2026-04-10T09:40:32.139010"
 draft: false
 sectors:
   - "legal-services"
@@ -47,9 +47,7 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - white
-  - black
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
@@ -70,40 +68,4 @@ visual_term_image_urls: {}
 
 ### 2000
 
-**Logo Information:**
-
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-- Contains information about logo usage, shape, clear zones, permitted modifications, and more.
-
-**Color Information:**
-
-- Specifies logos must only be used in black or white. Other colors, textures, and variations are prohibited.
-
-**Spacing Layout:**
-
-- Defines the minimum size, clear zone area, and rules for maintaining proportions.
-- Defines the minimum size, clear zone area, and rules for maintaining proportions.
-- Defines the minimum size, clear zone area, and rules for maintaining proportions.
-
-**Notes:**
-
-- Contains licensing terms, conditions of publication, and instructions for permissible logo use.
+*Guidelines data not available*

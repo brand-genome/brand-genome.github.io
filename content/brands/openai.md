@@ -2,7 +2,7 @@
 title: openAi
 slug: openai
 description: ""
-date: "2026-03-20T08:22:03.243464"
+date: "2026-04-10T09:40:30.758408"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -57,9 +57,9 @@ imagery_styles: []
 wikidata_description: "text-to-video model developed by OpenAI"
 wikidata_url: "https://www.wikidata.org/wiki/Q124544998"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -71,16 +71,6 @@ visual_term_image_urls: {}
 - [https://openai.com/sora](https://openai.com/sora)
 - [https://sora.com](https://sora.com)
 - [https://openai.com/index/sora](https://openai.com/index/sora)
-
-## Brand Guidelines
-
-### UNKNOWN
-
-*Guidelines data not available*
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

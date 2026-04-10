@@ -2,7 +2,7 @@
 title: Aspen Institute
 slug: "aspen-institute"
 description: ""
-date: "2026-03-20T08:22:04.348299"
+date: "2026-04-10T09:40:33.076445"
 draft: false
 sectors:
   - ngo
@@ -53,21 +53,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - white
-  - grey
-  - blue
-  - pink
-  - black
-typographies:
-  - arial
-  - avenir
-imagery_styles:
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: international nonprofit organization founded in 1950
 wikidata_url: "https://www.wikidata.org/wiki/Q457528"
 has_twitter: false
@@ -86,49 +75,7 @@ visual_term_image_urls: {}
 
 ### 2021
 
-**Logo Information:**
-
-- Aspen Institute logo can only be reproduced in three ways: using the official solid blue color, knocking out to white on a dark background, or in 100% black.
-- Minimum clear space around the Aspen Institute logo is equal to the height of the stem in the Aspen leaf. The pink lines shown in the guide define this boundary.
-- The logo should always be used as downloaded, no modifications are allowed, and it should be scaled proportionally.
-- Small version of the logo has a thicker stem for better visibility and should be used when the size is between 1.5" and 3" wide.
-- Logo files are available for download at: www.aspeninstitute.org/branding
-- The Aspen Institute leaf logo is included in program-specific logos to ensure unique branding while maintaining the Institute's visual identity.
-
-**Color Information:**
-
-- Primary colors: Aspen blue (PMS 541, CMYK C=100, M=58, Y=9, K=43, HEX=#003D6E, RGB R=0, G=61, B=110) and white.
-- Secondary colors: Multiple shades from blue and grey families, also complementary colors for graphics and text.
-
-**Typography Information:**
-
-- Font Family: Caecilia LT Pro used for body text and sub copy. Styles include Bold Italic (75), Heavy (85), and Heavy Italic (86).
-- Font Family: Avenir Next used for program logos, headlines, and subheads. Styles include Regular, Italic, Medium, Demi Bold, Bold, Heavy, among others.
-- Primary font: Arial (Regular, Italic, Bold) for alternative or general use.
-- Alternative font: New Baskerville (Regular, Italic, Bold).
-
-**Imagery Photography:**
-
-- Photography should communicate political, racial, gender, and age diversity. Avoid stereotyping and use spontaneous, relevant images.
-- Printed images require 300 DPI resolution for 100% reproduction quality.
-- Images for online or web viewing should be in 72 DPI.
-- A selection of approved photography is available on the Aspen Institute's Flickr site. Requests for archival photos can be made through the Communications Department.
-
-**Spacing Layout:**
-
-- Logo minimum clear space must be equivalent to the height of the Aspen leaf stem.
-
-**Brand Voice:**
-
-- The Aspen Institute maintains a tone of sophistication, expertise, and relevance. It defers to the Associated Press (AP) Stylebook, Webster’s Dictionary, and occasionally the Chicago Manual of Style for grammar and style.
-- The Institute's tone is described as sophisticated, expert, news-driven, but with a sense of humor. It is not promotional or arrogant.
-- When writing, capitalize titles only before a person's name (e.g., President Dan Porterfield). Program names and events are always capitalized, not italicized or abbreviated in introductions.
-
-**Notes:**
-
-- Stationery can be ordered through the Aspen Institute Online Ordering Portal: aspen.ironmarkusa.net
-- Multimedia content should prioritize quality, using HD for videos, with guidelines for aspect ratios, lighting, and audio. Mobile phone videos are discouraged except for social media use.
-- Social media best practices include daily posting, avoiding starting tweets with hashtags, keeping content concise, and using analytics to guide strategy.
+*Guidelines data not available*
 
 ## Additional Properties
 

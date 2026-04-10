@@ -2,7 +2,7 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-03-20T08:22:04.015484"
+date: "2026-04-10T09:40:31.993277"
 draft: false
 sectors:
   - education
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2008
   - 2017
+  - 2008
 languages:
   - english
 tags:
@@ -52,23 +52,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - red
-  - white
-  - black
-typographies:
-  - serif
-imagery_styles:
-  - bold
-  - graphic
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "multi-campus public research university in New Jersey, United States"
 wikidata_url: "https://www.wikidata.org/wiki/Q499451"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 2
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -82,41 +75,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2008
-
-*Guidelines data not available*
-
 ### 2017
 
-**Logo Information:**
-
-- Logo-related content detected: The Rutgers logotype is a custom-designed graphic and may not be altered in any way. The logotype may be downloaded at identity.rutgers.edu/download-zone.
-- Logo-related content detected: RU_SIG_ST Chancellor-Level Signatures RU_SIG_UNB RU_SIG_UCM RU_SIG_UNW RU_SIG_RBHS
-
-**Color Information:**
-
-- Color-related content detected: Primary Color Palette. Pantone® 186 c100 m81 y4 RGB(204, 0, 51). Rutgers Red.
-- Color-related content detected: Two-Color Reproduction. Black and White entries allowed.
-
-**Typography Information:**
-
-- Typography-related content detected: ITC Giovanni (Serif). Bold, Regular, Italic weights supported.
-
-**Imagery Photography:**
-
-- Imagery-related content detected: Imagery standards for banners and products are described in detail.
-
-**Spacing Layout:**
-
-- Spacing/Layout-related content detected: Minimum space rules provided for Rutgers logos: Remember 1x 'cap'-height.
-
-**Brand Voice:**
-
-- Brand voice-related content detected: Tone must suit academic integrity.
-
-**Notes:**
-
-- Notable content: This version is Adobe-specific and compressed per June-2017 updates.
+*Guidelines data not available*
 
 ## Additional Properties
 

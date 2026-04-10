@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 slug: "arkansas-tech-university"
 description: ""
-date: "2026-03-20T08:22:04.236578"
+date: "2026-04-10T09:40:32.750006"
 draft: false
 sectors:
   - university
@@ -52,26 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - secondary
-  - symbol
-  - horizontal
-  - primary
-  - icon
-brand_colors:
-  - "pantone-343"
-  - green
-  - gold
-  - white
-  - "pantone-116"
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
-  - bold
-  - product
+imagery_styles: []
 wikidata_description: "public university in Russellville, Arkansas"
 wikidata_url: "https://www.wikidata.org/wiki/Q673111"
 has_twitter: false
@@ -90,53 +74,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- AR KANS A S TE CH UNIVER SIT Y BRAND S TANDARD S
-- The ATU logo is a significant symbol of the institution's past, present, and future. Correct and consistent use is required, specifically in every official communication product.
-- Three logo arrangements are specified: vertical (preferred), horizontal, and solo formats. Optimal usage is layout-dependent, and the solo format is reserved for special applications where simplicity is required.
-- Clear zones designated for the ATU logo: ensure no interference from design elements within a margin defined by the width of the letter 'U' in 'ATU's logo.
-- Logo color variations include black and white, two-color, and full-color options. The full-color variant is preferred, with all other options approved if consistent with brand guidelines.
-- Minimum logo size requirements: Vertical logo must not be printed smaller than 0.75 inches/55 pixels, horizontal logo smaller than 0.375 inches/30 pixels, and solo ATU logo smaller than 0.333 inches/28 pixels.
-- Campus-specific logos for ATU Ozark and Career Center exist as authorized modifications of the main ATU logo. Usage must align with all branding standards and apply only on related materials.
-- Department logos follow a strict construct with no room for unauthorized variations. Designed with the official ATU logo, a rule, and the department name (Titling Gothic Compressed Standard).
-- Simplified department logos are reserved for instances requiring readability at smaller sizes or certain applications such as embroidery. Retains brand clarity.
-- The Arkansas Tech University official seal is for prestigious or high-level communications. Only the President's office or top executives may authorize its use. Modification and broader use are prohibited.
-- A designated social mark is used solely as a social media profile icon, not a substitute for the full logo. Spacing must follow proportional guidelines.
-
-**Color Information:**
-
-- The Arkansas Tech primary palette features bold green and gold colors to build identity with empowerment and transformation themes.
-- Primary color specifications: ATU Gold (PANTONE 116 C: HEX #FFCD00, RGB: 255,205,0) & ATU Green (PANTONE 343 C: HEX #115740, RGB: 17,87,64).
-- Secondary palette includes complementary, neutral hues for support or scenarios not dominated by primary colors, e.g., SEA (HEX #00ADEF).
-- ADA compliance mandates safe color combinations, e.g., White on Gold or Black on White.
-
-**Typography Information:**
-
-- Typography system relies on specific fonts available in various weights for flexibility: mandatory across print/digital materials with no substitutions.
-- Primary fonts are Acumin (for headers) and Adelle (for body text) with specified roles and uses.
-
-**Imagery Photography:**
-
-- High-contrast photography captures authenticity at ATU—showcases determination and collaboration. Lighting effects emphasize energy and mood.
-- Relatable, compassionate imagery to evoke connection aligns with ATU’s ethos emphasizing warmth and a welcoming community.
-- Strategic and progressive ATU photos use unique angles and sun flares while depicting subjects as motivated and innovative.
-
-**Spacing Layout:**
-
-- Proportionate logo clear zones and consistent negative spaces preserve design integrity.
-- Social media usage mandates spacing guidelines justified by specific configurations (square/circular dimension rules).
-
-**Brand Voice:**
-
-- Three core personas—The Relentless Contender, Attentive Supporter, and Strategic Transformer—guide ATU’s tone, messaging, and storytelling authenticity.
-- Relentless Contender tone: intense, hardworking, and honest communication. Prioritizes stories that highlight resilience and excellence.
-- Attentive Supporter conveys accessible and warm impressions by emphasizing community and personal care elements.
-- Strategic Transformer presents progression by sharing unique innovations or future-forward movements at ATU.
-
-**Notes:**
-
-- This document defines comprehensive brand standards across the visual identity, voice, and institutional storytelling framework.
+*Guidelines data not available*
 
 ## Additional Properties
 

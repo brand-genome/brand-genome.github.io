@@ -2,7 +2,7 @@
 title: QB
 slug: qb
 description: ""
-date: "2026-03-20T08:22:05.709469"
+date: "2026-04-10T09:40:34.653334"
 draft: false
 sectors:
   - construction
@@ -52,18 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
-brand_colors:
-  - white
-  - black
-typographies:
-  - arial
-imagery_styles:
-  - bold
-  - monochrome
-  - product
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: Dutch public transport bus company
 wikidata_url: "https://www.wikidata.org/wiki/Q3146926"
 has_twitter: false
@@ -86,33 +78,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- The QB logo consists of 5 elements: 2 letters and 3 graphical symbols. These elements must not be separated or modified in proportion or placement.
-- Clearance zone for the logo mandated as 'X = height of the horizontal bar'. Minimum logo size is set at 5mm within the protection zone.
-- Logo versions include monochrome black on light backgrounds, monochrome white on dark backgrounds, and white protection box for complex images or backgrounds.
-- It is prohibited to modify typographical design, proportions, corporate colors, or placement of logos (corporate or other).
-- Example of logo usage provided on product labels and commercial documents. Formats of logo usage must adhere strictly to guidelines.
-- A co-branding system during the transition phase specifies 50/100 proportion for mixed branding.
-- Endorsement system allows QB logo alongside languages of target markets (specific details provided). Horizontal and vertical versions are provided.
-
-**Color Information:**
-
-- Logo color versions: monochrome black on light backgrounds, monochrome white on dark backgrounds, and white box for complex backgrounds.
-
-**Typography Information:**
-
-- Font used for UPEC classification text is Arial Bold.
-
-**Spacing Layout:**
-
-- Positioning and size of the logo must be defined according to the medium where it appears.
-- The protection zone dictates that no other elements (illustrations, texts) may intrude into the allocated space around the logo.
-
-**Notes:**
-
-- Technical and transitional specifications for the co-branding system and endorsement setups described for different applications.
-- For any queries regarding the brand identity guidelines, contact CSTB Communication Department via email or phone.
+*Guidelines data not available*
 
 ## Additional Properties
 

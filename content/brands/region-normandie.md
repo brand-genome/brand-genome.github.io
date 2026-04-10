@@ -2,7 +2,7 @@
 title: Région Normandie
 slug: "region-normandie"
 description: ""
-date: "2026-03-20T08:22:05.865109"
+date: "2026-04-10T09:40:34.896593"
 draft: false
 sectors:
   - "public-sector"
@@ -46,19 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - primary
-  - horizontal
-brand_colors:
-  - red
-  - yellow
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
-imagery_styles:
-  - portrait
-  - landscape
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -76,17 +67,4 @@ visual_term_image_urls: {}
 
 ### 2016
 
-**Logo Information:**
-
-- The logo is available in multiple formats: portrait, landscape, horizontal, and vertical versions. The portrait format is the preferred format.
-- The logo can be used in full color, black and white versions, and specific lighter versions for embroidery or special applications.
-- Logo usage is limited to projects supported or initiated by the Région Normandie. Commercial usage is prohibited. Logo materials must be approved by the communication service before publication.
-- Variations in color tones may occur between CMYK, Pantone, and RGB formats. Users are instructed that this is expected and normal.
-
-**Color Information:**
-
-- Color palette includes equivalents in CMYK, Pantone, RAL, and RGB. Primary colors: Black - CMYK: 0/0/0/100, Pantone: Black 6, RAL: 5004, RGB: 0/0/0. Red - CMYK: 0/100/80/10, Pantone: 186, RGB: 210/10/40. Bordeaux - CMYK: 0/100/80/55, Pantone: 188, RGB: 114/9/24. Yellow - CMYK: 0/10/100/0, Pantone: 109, RGB: 255/220/0. Specific lighter tones can be used for embroidery or special cases.
-
-**Notes:**
-
-- The guideline document is exclusively owned by the Regional Council of Normandie. Unauthorized commercial use is prohibited, and prior approval from the communication service is necessary for any publication involving the logo.
+*Guidelines data not available*

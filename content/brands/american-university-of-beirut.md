@@ -2,7 +2,7 @@
 title: American University of Beirut
 slug: "american-university-of-beirut"
 description: ""
-date: "2026-03-20T08:22:03.237683"
+date: "2026-04-10T09:40:30.749332"
 draft: false
 sectors:
   - education
@@ -51,15 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - seal
-  - secondary
-  - horizontal
-  - primary
-brand_colors:
-  - white
-  - black
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: private university in Lebanon
@@ -80,28 +73,181 @@ visual_term_image_urls: {}
 
 ### 2024
 
-**Logo Information:**
+#### Brand Summary
 
-- Main logo includes different configurations based on context: horizontal, vertical, and concise versions. Color options include color (primary) and black & white with clear space rules applied around logos.
-- Do's and Don'ts for logo usage and logo misuses are provided, including avoiding distortion, incorrect colors, and spacing violations.
-- Minimum size requirements: Defined for print formats; ensures clarity of the logo across communication materials.
+##### Mission
 
-**Color Information:**
+- To propagate the American University of Beirut's brand identity worldwide in various media and settings, inspiring everything the institution does and capturing its essence as an establishment and culture. The guidelines serve as a blueprint for building and sustaining a consistent visual identity.
 
-- The color palette includes primary colors and secondary/accent colors. Colors are defined in multiple formats (Pantone, HEX, RGB, CMYK) for consistency across print and digital media.
+##### Core Values
 
-**Typography Information:**
+- tradition
+- academic excellence
+- institutional integrity
+- growth
+- stability
 
-- Typography details the font families, styles, and sizes to use in specific cases such as headings, body text, and captions. Arabic typography is defined for regional usage.
+##### Target Audience
 
-**Spacing Layout:**
+- Individuals and organizations engaging with the American University of Beirut locally and globally, including prospective students, faculty, staff, alumni, and partners.
 
-- Clear space rules around logos ensure no other elements interfere with the visual prominence of the identity.
-- Grids and alignment specifications are used to maintain consistency in layouts.
+##### Personality Traits
 
-**Notes:**
+- formal
+- professional
+- authoritative
+- consistent
+- diverse
 
-- Seal design and usage are documented separately with rules for color and application.
+##### Visual Identity Overview
+
+- The visual identity centers on a stylized cedar tree emblem, maroon and white color palette, bold serif typography, and clear, structured logo arrangements. The guidelines emphasize consistency, legibility, and proportional color usage, with accent colors and gradients for flexibility. The seal is reserved for ceremonial and official documents, reinforcing tradition and academic integrity.
+
+#### Categories
+
+##### Logo Usage
+
+- The colored version, burgundy on white or white on burgundy, is the main version of our logo. Whenever possible, we will prioritize the use of this version.
+- When, for design purpose, we are unable to use the colored version of our logo, we should use the monochromatic version as illustrated.
+- Our logo can be used as negative version depending on the background color, with the aim to preserve legibility.
+- The emblem is an element of the logo that should be used with the logo only and never alone.
+- When adjusting alignment based on design follow the illustrated arrangements.
+- The horizontal logo arrangement is the main version of our logo and should be prioritized at all times.
+- The safe area and clear space around our logo should always be respected for clear visibility. This area is defined by the size of the icon and should never be reduced or invaded by adjacent elements (texts, photos, other logos, etc.)
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 11mm/32px in order to maintain legibility.
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 20mm/57px in order to maintain legibility.
+- The concise logo includes the name "American University of Beirut" without the Latin motto and should be used with the logos of the faculties and next to the copyright information in presentations.
+- The black and white version should only be used for legibility purposes.
+- en <ear space aouna our icon 'always be respected for clear visibility Thi. is area is defined by the size of the-icon and should never be reduced or inv de eenens teas. photos. o."",'3""
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never r b e reduced to a size smaller than 13mm/37 /px _in order to maintain legibility.
+- The university seal should be used for ceremonial use only. It may also be used as an ornamental element on official university documents. This seal should never be used in the place of the logo.
+- The seal contains all elements of the logo in one container: cedar tree, motto, year of establishment, seal, and name.
+- The main version of the seal, in white and burgundy, should be prioritized.
+- The black and white version of the seal should only be used for legibility purposes.
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never reduced to a size smaller than 20mm/57gpx .', in b ® order to maintain legibility.
+- The American University of Beirut’s logo should be produced at a reasonable size to maintain legibility. To maintain consistency across print material, specified sizes are set for different documents.
+- The minimum possible height of the horizontal logo is 12mm.
+- The minimum possible height of the vertical logo is 20mm.
+- Do not create a line version
+- Do not color the cedar tree icon
+- Do not alter or remove elements from the logo
+- Do not add Arabic to the main logo
+- Do not change or alter the color of the logo
+- Do not alter alignment
+- Do not place the logo inside shapes
+- Do not add any effects to the logo
+- Do not use busy backgrounds in order to maintain legibility
+
+##### Color Palette
+
+- In order to maintain consistency and fluidity throughout all communication by the American University of Beirut, follow the illustrated color palette.
+- PRIMARY COLOR BERYTUS RED HEX #840132 R 132 | G 0 | B 50 C 30 | M 100 | Y 69 | K 33 PANTONE SOLID COATED 194C
+- SECONDARY COLOR BLACK HEX #000000 R0 |G 0|B0 C0 |M 0|Y0|K0 PANTONE SOLID COATED 7C SOLID UNCOATED 6U
+- SECONDARY COLOR LIGHT GRAY HEX #808080 R 128 | G 128 | B 128 C 50 | M 40 | Y 40 | K 20 PANTONE SOLID COATED 8C SOLID UNCOATED 8U
+- The accent colors are meant to be used as highlights or additions. There’s no specific color for faculties, departments or areas of the university. Any of these colors may be used for any communication.
+- The colors are categorized as warm and cool hues. There are 12 core accent colors, each with 2 lighter shades to give more flexibility and diversity. Attention should be given to the use of appropriate color choices and combinations.
+- There must always be a good contrast between text and background color. Dark type on a white or very pale background is the most visually accessible. White type should only be used on a very dark background.
+- The gradient color palette was created to enhance applications and is recommended particularly for digital use. When needed, each color can be transformed into a gradient by combining the core color with its lightest shade.
+- Minimal color usage is often the most graphically effective. The accent color should not exceed 1/4 of the whole layout. Undisciplined color usage and tonally inappropriate combinations will dilute the impact of our identity.
+
+##### Typography
+
+- ### TYPOGRAPHY PROXIMA NOVA At the American University of Beirut, we are diverse and therefore we can express ourselves in different ways depending on the context. For this reason, our typography has multiple weights that can be utilized.
+- WEIGHT FLEXIBILITY Proxima Proxima Proxima Proxima Proxima Proxima Light Regular Semi Bold Bold Extra Bold Black
+- ### TYPOGRAPHY CAIRO At the American University of Beirut, we are diverse and therefore we can express ourselves in different ways depending on the context. For this reason, our typography has multiple weights that can be utilized.
+- WEIGHT FLEXIBILITY Cairo Cairo Cairo Cairo Cairo Cairo Black Extra Bold Bold Semi Bold Regular Light
+
+##### Visual Style
+
+- The colored version, burgundy on white or white on burgundy, is the main version of our logo. Whenever possible, we will prioritize the use of this version.
+- When, for design purpose, we are unable to use the colored version of our logo, we should use the monochromatic version as illustrated.
+- Our logo can be used as negative version depending on the background color, with the aim to preserve legibility.
+- The emblem is an element of the logo that should be used with the logo only and never alone.
+- The horizontal logo arrangement is the main version of our logo and should be prioritized at all times.
+- The safe area and clear space around our logo should always be respected for clear visibility. This area is defined by the size of the icon and should never be reduced or invaded by adjacent elements (texts, photos, other logos, etc.)
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 11mm/32px in order to maintain legibility.
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 20mm/57px in order to maintain legibility.
+- The concise logo includes the name "American University of Beirut" without the Latin motto and should be used with the logos of the faculties and next to the copyright information in presentations.
+- The black and white version should only be used for legibility purposes.
+- en <ear space aouna our icon 'always be respected for clear visibility Thi. is area is defined by the size of the-icon and should never be reduced or inv de eenens teas. photos. o."",'3""
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never r b e reduced to a size smaller than 13mm/37 /px _in order to maintain legibility.
+- The university seal should be used for ceremonial use only. It may also be used as an ornamental element on official university documents. This seal should never be used in the place of the logo.
+- The main version of the seal, in white and burgundy, should be prioritized.
+- The black and white version of the seal should only be used for legibility purposes.
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never reduced to a size smaller than 20mm/57gpx .', in b ® order to maintain legibility.
+- The American University of Beirut’s logo should be produced at a reasonable size to maintain legibility. To maintain consistency across print material, specified sizes are set for different documents.
+- The minimum possible height of the horizontal logo is 12mm.
+- The minimum possible height of the vertical logo is 20mm.
+- To ensure the correct expression of the American University of Beirut's logo in all communication, there are some typical misuses to avoid.
+- 1. Do not create a line version
+- 2. Do not color the cedar tree icon
+- 3. Do not alter or remove elements from the logo
+- 4. Do not add Arabic to the main logo
+- 5. Do not change or alter the color of the logo
+- 6. Do not alter alignment
+- 7. Do not place the logo inside shapes
+- 8. Do not add any effects to the logo
+- 9. Do not use busy backgrounds in order to maintain legibility
+- In order to maintain consistency and fluidity throughout all communication by the American University of Beirut, follow the illustrated color palette.
+- PRIMARY COLOR BERYTUS RED HEX #840132 R 132 | G 0 | B 50 C 30 | M 100 | Y 69 | K 33 PANTONE SOLID COATED 194C
+- SECONDARY COLOR BLACK HEX #000000 R0 |G 0|B0 C0 |M 0|Y0|K0 PANTONE SOLID COATED 7C SOLID UNCOATED 6U
+- SECONDARY COLOR LIGHT GRAY HEX #808080 R 128 | G 128 | B 128 C 50 | M 40 | Y 40 | K 20 PANTONE SOLID COATED 8C SOLID UNCOATED 8U
+- The accent colors are meant to be used as highlights or additions. There’s no specific color for faculties, departments or areas of the university. Any of these colors may be used for any communication.
+- There must always be a good contrast between text and background color. Dark type on a white or very pale background is the most visually accessible. White type should only be used on a very dark background.
+- Minimal color usage is often the most graphically effective. The accent color should not exceed 1/4 of the whole layout. Undisciplined color usage and tonally inappropriate combinations will dilute the impact of our identity.
+
+##### Layout And Composition
+
+- The horizontal logo arrangement is the main version of our logo and should be prioritized at all times.
+- When adjusting alignm ent based on design follow the illustrated arrangements.
+- The safe area and clear space around our logo should always be respected for clear visibility. This area is defined by the size of the icon and should never be reduced or invaded by adjacent elements (texts, photos, other logos, etc.)
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 11mm/32px in order to maintain legibility.
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 20mm/57px in order to maintain legibility.
+- The American University of Beirut’s logo should be produced at a reasonable size to maintain legibility. To maintain consistency across print material, specified sizes are set for different documents.
+- The minimum possible height of the horizontal logo is 12mm.
+- The minimum possible height of the vertical logo is 20mm.
+- Do not create a line version
+- Do not color the cedar tree icon
+- Do not alter or remove elements from the logo
+- Do not add Arabic to the main logo
+- Do not change or alter the color of the logo
+- Do not alter alignment
+- Do not place the logo inside shapes
+- Do not add any effects to the logo
+- Do not use busy backgrounds in order to maintain legibility
+- Minimal color usage is often the most graphically effective. The accent color should not exceed 1/4 of the whole layout. Undisciplined color usage and tonally inappropriate combinations will dilute the impact of our identity.
+
+##### Brand Imagery
+
+- The colored version, burgundy on white or white on burgundy, is the main version of our logo. Whenever possible, we will prioritize the use of this version.
+- When, for design purpose, we are unable to use the colored version of our logo, we should use the monochromatic version as illustrated.
+- Our logo can be used as negative version depending on the background color, with the aim to preserve legibility.
+- The emblem is an element of the logo that should be used with the logo only and never alone.
+- The horizontal logo arrangement is the main version of our logo and should be prioritized at all times.
+- The safe area and clear space around our logo should always be respected for clear visibility. This area is defined by the size of the icon and should never be reduced or invaded by adjacent elements (texts, photos, other logos, etc.)
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 11mm/32px in order to maintain legibility.
+- The American University of Beirut's iconic cedar tree and typeface are our main brand identifiers and should never be reduced to a size smaller than 20mm/57px in order to maintain legibility.
+- The concise logo includes the name "American University of Beirut" without the Latin motto and should be used with the logos of the faculties and next to the copyright information in presentations.
+- The black and white version should only be used for legibility purposes.
+- en <ear space aouna our icon 'always be respected for clear visibility Thi. is area is defined by the size of the-icon and should never be reduced or inv de eenens teas. photos. o."",'3""
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never r b e reduced to a size smaller than 13mm/37 /px _in order to maintain legibility.
+- The university seal should be used for ceremonial use only. It may also be used as an ornamental element on official university documents. This seal should never be used in the place of the logo.
+- The seal contains all elements of the logo in one container: cedar tree, motto, year of establishment, seal, and name.
+- The main version of the seal, in white and burgundy, should be prioritized.
+- The black and white version of the seal should only be used for legibility purposes.
+- he merican University of Beirut's iconic cedar ree is our brand identifier and should never reduced to a size smaller than 20mm/57gpx .', in b ® order to maintain legibility.
+- The American University of Beirut’s logo should be produced at a reasonable size to maintain legibility. To maintain consistency across print material, specified sizes are set for different documents.
+- The minimum possible height of the horizontal logo is 12mm.
+- The minimum possible height of the vertical logo is 20mm.
+- Do not create a line version
+- Do not color the cedar tree icon
+- Do not alter or remove elements from the logo
+- Do not add Arabic to the main logo
+- Do not change or alter the color of the logo
+- Do not alter alignment
+- Do not place the logo inside shapes
+- Do not add any effects to the logo
+- Do not use busy backgrounds in order to maintain legibility
 
 ## Additional Properties
 

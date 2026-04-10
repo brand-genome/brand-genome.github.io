@@ -2,7 +2,7 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-03-20T08:22:04.852847"
+date: "2026-04-10T09:40:33.601756"
 draft: false
 sectors:
   - education
@@ -51,19 +51,8 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - lockup
-  - wordmark
-  - primary
-  - secondary
-brand_colors:
-  - gold
-  - "pantone-7461"
-  - "pantone-282"
-  - blue
-  - "pantone-124"
-  - gray
-  - "pantone-1925"
+logo_elements: []
+brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: "city in Alameda County, California, United States"
@@ -89,32 +78,7 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Our formal lockups always use the full name of our primary subbrand entities, including the descriptor 'College of' or 'Office of'. Formal versions are set on two lines for consistency. Informal lockups pair the more commonly used name with the Berkeley logo.
-- The logo lockup must maintain a minimum size with the Berkeley wordmark width at least 1 inch or 72 pixels.
-- Clear space around the lockup must equal the height of the Berkeley B.
-
-**Color Information:**
-
-- Primary colors: Berkeley Blue (#003262, Pantone 282 C) and California Gold (#FDB515, Pantone 124 C). These represent Berkeley at the highest level and should be present in all communications.
-- Secondary palette - neutrals: Wellman Tile (#DDD5C7), Bay Fog (#D9E1E2), Sather Gate (#B9D3B6). These add balance and warmth.
-- Secondary palette - vibrants: Rose Garden (#EE1F60, Pantone 1925 C), Ion (#CFDD45), Lawrence (#00B0DA, Pantone 7461 C). Used sparingly for intensity.
-- Web-specific colors include Berkeley Blue and variations of gray. Accessibility guidelines for color contrast are available.
-
-**Spacing Layout:**
-
-- Clear space must be kept around lockup construction equivalent to the height of the Berkeley B.
-
-**Brand Voice:**
-
-- Key tone attributes: Curious, Intense, Optimistic, Influential, Socially Conscious, Independent, Real, Open.
-- Creative platform phrase: 'Reach Further' inspires Berkeley's tone, emphasizing drive, attitude, and ambition.
-
-**Notes:**
-
-- This document details the official Berkeley brand standards.
-- Tessellation graphics are defined by specific opacity and spacing for uniformity.
+*Guidelines data not available*
 
 ## Additional Properties
 

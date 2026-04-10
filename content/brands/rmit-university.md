@@ -2,23 +2,23 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-03-20T08:22:03.834235"
+date: "2026-04-10T09:40:31.466629"
 draft: false
 sectors:
   - university
 regions:
   - australia
 years:
+  - 2022
   - 2017
   - 2020
-  - 2022
 languages:
   - english
 tags:
-  - education
-  - university
   - signage
   - featured
+  - education
+  - university
 industries: []
 countries:
   - australia
@@ -56,28 +56,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - blue
-  - white
-  - black
-typographies:
-  - helvetica
-  - arial
-imagery_styles:
-  - bold
-  - graphic
-  - gradient
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: public Australian university based in Melbourne
 wikidata_url: "https://www.wikidata.org/wiki/Q1057890"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -90,53 +78,9 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2017
-
-*Guidelines data not available*
-
-### 2020
-
-*Guidelines data not available*
-
 ### 2022
 
-**Logo Information:**
-
-- The RMIT logo suite includes full color positive, mono RMIT Blue positive, mono black positive, full color reverse, mono reverse, and limited use options.
-- Minimum sizes, clear space rules, and scalable usage of logos are outlined with preference for the full color positive logo.
-- Incorrect usage examples include stretching, altering colors, using on busy backgrounds, changing proportions, or adding other graphic elements to the logo.
-- The Indigenous branding design, 'Luwaytini,' incorporates cultural elements and requires artistic credit.
-
-**Color Information:**
-
-- Primary color palette features RMIT Red (#E61E2A), RMIT Blue (#000054), White (#FFFFFF), and Black (#000000). RMIT Red and Blue are distinctively ownable assets.
-- Color combinations must always include RMIT Red, combined with RMIT Blue or secondary palette colors.
-- Gradient map applications for imagery include RMIT Red and Blue gradients with RGB and CMYK specifications.
-
-**Typography Information:**
-
-- The primary font is Museo (includes Museo 300, Museo 500, Museo 700), used for headlines. Secondary font is Helvetica Neue LT Pro (Light, Roman, Bold), for supporting content. Arial is used for system documents.
-- Typography and color guidelines include Web Content Accessibility Guidelines (WCAG), specifying color combinations and contrast for accessibility.
-
-**Imagery Photography:**
-
-- Photography style must align with RMIT brand behaviors such as confident, inclusive, provocative, responsive, and collaborative.
-- Gradient maps applied to images must adhere to RGB/CMYK setups specifically made for desired visual effects.
-
-**Spacing Layout:**
-
-- Clear space rules apply to protect visual integrity of logos, requiring a minimum buffer around the logo.
-- Grid specifications for layouts include spacing adjustments based on descenders and ensuring alignment with RMIT branding principles.
-
-**Brand Voice:**
-
-- RMIT verbal identity incorporates inclusivity and empowerment with messaging focused on 'What's next...' as a tagline.
-- Tone of voice emphasizes confident, clear communication that educates and engages.
-
-**Notes:**
-
-- RMIT brand guidelines emphasize consistency to ensure recognition and alignment with brand strategy.
-- The Indigenous branding guidelines require maintaining the artistic integrity of cultural designs.
+*Guidelines data not available*
 
 ## Additional Properties
 

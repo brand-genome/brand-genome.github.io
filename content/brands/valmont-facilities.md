@@ -2,12 +2,12 @@
 title: Valmont facilities
 slug: "valmont-facilities"
 description: ""
-date: "2026-03-20T08:22:04.346531"
+date: "2026-04-10T09:40:33.074547"
 draft: false
 sectors:
+  - hardware
   - "agricultural-heavy-equipment"
   - construction
-  - hardware
 regions:
   - usa
 years:
@@ -48,28 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - icon
-  - signature
-  - primary
-  - secondary
-brand_colors:
-  - "pantone-431"
-  - "pantone-634"
-  - white
-  - "pantone-427"
-  - blue
-  - "pantone-7527"
-  - "pantone-411"
-  - black
-typographies:
-  - arial
-  - display
-  - roboto
-imagery_styles:
-  - product
-  - bold
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -88,42 +70,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- Logo guidelines restrict usage alterations such as proportions, color modifications, skewing, or mixing logo elements. The logo must not be stretched or placed on distracting backgrounds. Misuse obligations lie with the creator who must rectify issues at their expense.
-- Clear space rules for the Valmont logo include both 'minimum signature clear zone' (+1X) and 'preferred signature clear zone' (+2X). 'X' is calculated based on the height of the letter 'l' in 'valmont.'
-- The 'V' icon can be used separately for design with approval but cannot include the registration mark or be altered with dimensions, rotations, shadows, patterns, or non-approved colors.
-- Vehicle branding adheres to logo Clear Space Guidelines and requires logos on both driver and passenger doors. Logo colors are restricted to black for light vehicles and white for dark vehicles.
-
-**Color Information:**
-
-- Approved exterior paint colors include Pantone 634 (base), Pantone 411 for trims, and white trim.
-- Recommended interior paint colors include Pantone 7527, Pantone 431, and white. Accent colors should not exceed 25% of a room's wall space.
-- Exterior signage base color is Pantone 634, with secondary colors Pantone 427 and white.
-- Wayfinding signage adheres to Pantone 634 and Pantone 411 color palette and must follow brand standards.
-
-**Typography Information:**
-
-- Primary font is Roboto Regular and Roboto Bold. Font size should not overpower its environment or include design embellishments like shadows.
-- Alternative font is Arial Regular and Arial Black, provided Roboto is unavailable.
-- Wayfinding signage must use Roboto or Arial.
-
-**Imagery Photography:**
-
-- Interior spaces should use branded images and be professionally designed and maintained. Core Values posters must be framed and placed prominently, with downloadable artwork available.
-- Brand materials for facilities include videos, posters, brochures, banners, and product photography for use in lobbies and common areas.
-
-**Spacing Layout:**
-
-- Logo spacing rules require double the width and height of 'X' (the height of the letter 'l' in 'valmont') for the preferred signature clearance zone.
-
-**Brand Voice:**
-
-- Core values include Passion, Integrity, Continuous Improvement, and Results. Posters highlighting core values should be displayed prominently for customers and employees.
-- Branding extends to uniforms and apparel, requiring all work uniforms to display the Valmont logo prominently with blue as the primary color when suitable.
-
-**Notes:**
-
-- Facilities branding includes exterior signs in compliance with local regulations, guidelines for logo placement, and uniform standards. All public areas must be consistently maintained and improved when necessary.
-- Templates for wayfinding signage and branding materials are available for download at 'www.valmont.com/brand.'
-- Brand guide specifies timing for companies acquired by Valmont to replace signage within six months. Materials can be custom ordered from the brand store.
+*Guidelines data not available*

@@ -2,11 +2,11 @@
 title: Swanq
 slug: swanq
 description: ""
-date: "2026-03-20T08:22:03.162739"
+date: "2026-04-10T09:40:30.713501"
 draft: false
 sectors:
-  - "interior-design-decor"
   - "consumer-goods"
+  - "interior-design-decor"
   - "home-appliances"
 regions:
   - india
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,9 +65,3 @@ visual_term_image_urls: {}
 
 - [https://www.nolte-kuechen.com](https://www.nolte-kuechen.com)
 - [https://www.kuche7.com](https://www.kuche7.com)
-
-## Brand Guidelines
-
-### 2024
-
-*Guidelines data not available*

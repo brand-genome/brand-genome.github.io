@@ -2,7 +2,7 @@
 title: Tampere Finland
 slug: "tampere-finland"
 description: ""
-date: "2026-03-20T08:22:05.151912"
+date: "2026-04-10T09:40:33.989077"
 draft: false
 sectors:
   - "public-sector"
@@ -48,16 +48,8 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - white
-  - grey
-  - blue
-  - yellow
-  - black
-typographies:
-  - "open-sans"
-  - montserrat
+brand_colors: []
+typographies: []
 imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
@@ -81,35 +73,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The Tampere.Finland logo can be used in two forms: a version with the text to the right of the coat of arms and a narrower version for limited spaces. Black-and-white and negative versions are mentioned.
-- The protected area of the logo equals the height of the letter 'T' around all directions for all logo variations. Parts of the logo should not be separated.
-- The brand logo and coat of arms logo may be used in parallel while maintaining their individual styles.
-
-**Color Information:**
-
-- Brand colors include warm red (HEX: #eb5e58), dark blue (HEX: #29549a), and yellow tones among others. Detailed Pantone, CMYK, and HEX values are included with base, main, and accent options.
-- Base colors include light blue grey (#e5eef8), blue grey (#cad6e2), and dark cool grey (#585857), offering balance to the color palette.
-
-**Typography Information:**
-
-- The main typefaces are Montserrat (Headlines) and Open Sans (Body text). Font weights range from Light to Black, with specific styles for condensed texts and italics.
-- Font usage for headers includes Montserrat Black with size contrasts, while body text uses Open Sans Regular or Light. Highlights use Open Sans Italic.
-
-**Imagery Photography:**
-
-- The imagery focuses on people and details, creating tension by combining text with images. Reversed light and wide-angle photographs are recommended for depth and layout flexibility.
-- Images are designated for marketing and press use, with credits to photographers required. Commercial or political misuse is prohibited.
-
-**Spacing Layout:**
-
-- Poster templates divide layouts into three sections: top visual content, centered text, and bottom logo or pattern elements with specific spacing rules.
-
-**Brand Voice:**
-
-- The tone of voice emphasizes neutral, simple keywords paired with images to communicate core aspects of Tampere’s identity, such as 'Home' and 'Work.'
-
-**Notes:**
-
-- All templates and graphical materials for Tampere.Finland's branding are available in the material bank (URL: tampereenbrandi.fi/en).
+*Guidelines data not available*

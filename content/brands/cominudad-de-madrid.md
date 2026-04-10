@@ -2,7 +2,7 @@
 title: Cominudad de Madrid
 slug: "cominudad-de-madrid"
 description: ""
-date: "2026-03-20T08:22:04.554920"
+date: "2026-04-10T09:40:33.354329"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - regional
   - city
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,8 +51,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -71,27 +70,4 @@ visual_term_image_urls: {}
 
 ### 2010
 
-**Logo Information:**
-
-- ESCUDO Cromatismo El color, factor determinante en la percepciŠn visual y con un marcado valor en el recuerdo de cualquier imagen...
-- ESCUDO RealizaciŠn Esquem⁄tica Con una relaciŠn de 2 a 1, que configura la representaciŠn gr⁄fica del Escudo...
-- ESCUDO VersiŠn L™nea En ciertos casos puede ser necesaria una reproducciŠn del Escudo en sus trazos esquem⁄ticos...
-
-**Color Information:**
-
-- ESCUDO ReproducciŠn en Color Asumiendo que pueden utilizarse diferentes procedimientos para la reproducciŠn en color...
-- ESCUDO ReproducciŠn Monocrom⁄tica VERSIîN BLANCO Y NEGRO: En ella se representa el fondo del Escudo y la corona en negro...
-
-**Typography Information:**
-
-- La utilizaci Š n del S™mbolo-Logotipo en versi Š n ÒAÓ contempla una parcela de aplicaci Š n con marcada importancia...
-- Nota interior: Texto " NOTAINTERIOR ": Helv”tica Bold cp/11, versales...
-
-**Imagery Photography:**
-
-- ESCUDO ReproducciŠn en Grises (Trama de negro)...
-- La Bandera ostenta el mismo color rojo del Escudo...
-
-**Spacing Layout:**
-
-- ESCUDO RealizaciŠn Esquem⁄tica Con una relaciŠn de 2 a 1...
+*Guidelines data not available*

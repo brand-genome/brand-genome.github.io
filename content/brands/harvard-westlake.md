@@ -2,7 +2,7 @@
 title: "Harvard-Westlake"
 slug: "harvard-westlake"
 description: ""
-date: "2026-03-20T08:22:04.016876"
+date: "2026-04-10T09:40:31.999547"
 draft: false
 sectors:
   - education
@@ -56,9 +56,9 @@ imagery_styles: []
 wikidata_description: "High school in Los Angeles, California, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q5676252"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -68,12 +68,6 @@ visual_term_image_urls: {}
 - [http://www.hw.com/summerprograms](http://www.hw.com/summerprograms)
 - [http://www.hw.com](http://www.hw.com)
 - [http://www.harvardwestlake.com](http://www.harvardwestlake.com)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
 
 ## Additional Properties
 

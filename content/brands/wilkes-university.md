@@ -2,7 +2,7 @@
 title: Wilkes University
 slug: "wilkes-university"
 description: ""
-date: "2026-03-20T08:22:03.400801"
+date: "2026-04-10T09:40:30.982229"
 draft: false
 sectors:
   - university
@@ -61,21 +61,15 @@ imagery_styles: []
 wikidata_description: "private American university located in Wilkes-Barre, Pennsylvania"
 wikidata_url: "https://www.wikidata.org/wiki/Q8002474"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
 ## Official Websites
 
 - [https://www.wilkes.edu](https://www.wilkes.edu)
-
-## Brand Guidelines
-
-### 2022
-
-*Guidelines data not available*
 
 ## Additional Properties
 

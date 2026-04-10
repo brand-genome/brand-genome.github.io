@@ -2,7 +2,7 @@
 title: Ministère de la Culture
 slug: "ministere-de-la-culture"
 description: ""
-date: "2026-03-20T08:22:04.224196"
+date: "2026-04-10T09:40:32.654979"
 draft: false
 sectors:
   - "public-sector"
@@ -47,13 +47,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - vertical
-  - horizontal
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - dynamic
+imagery_styles: []
 wikidata_description: ""
 wikidata_url: ""
 has_twitter: false
@@ -72,26 +69,4 @@ visual_term_image_urls: {}
 
 ### 2019
 
-**Logo Information:**
-
-- The extracted content contains sections such as 'Concept', 'Logo', 'Typography', 'Colors', and 'Principle Design' from the brand guideline PDF.
-
-**Color Information:**
-
-- The color palette descriptions and their use would involve details mentioned in the 'Couleurs' section, including potential usage of RGB or HEX codes.
-
-**Typography Information:**
-
-- Typographic principles emphasize the vertical and horizontal alignment of forms, as seen in the 'Typographie' section and 'Composition Typographique'.
-
-**Imagery Photography:**
-
-- Mises en page highlights rhythm and dynamic text composition effects, resembling general imagery guidance in branding materials.
-
-**Spacing Layout:**
-
-- Alignment and spacing guidelines focus on balancing flexibility and grids for communication appropriateness.
-
-**Notes:**
-
-- The brand guideline references visual edits adapted specifically around press requirements in France regulatory cases.
+*Guidelines data not available*

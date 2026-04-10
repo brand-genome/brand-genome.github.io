@@ -2,7 +2,7 @@
 title: Kolping
 slug: kolping
 description: ""
-date: "2026-03-20T08:22:04.895200"
+date: "2026-04-10T09:40:33.663435"
 draft: false
 sectors:
   - ngo
@@ -75,6 +75,8 @@ visual_term_image_urls: {}
 ## Brand Guidelines
 
 ### 2019
+
+*Guidelines data not available*
 
 ## Additional Properties
 

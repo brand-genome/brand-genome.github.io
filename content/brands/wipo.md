@@ -2,7 +2,7 @@
 title: WIPO
 slug: wipo
 description: ""
-date: "2026-03-20T08:22:05.789349"
+date: "2026-04-10T09:40:34.776151"
 draft: false
 sectors:
   - "public-sector"
@@ -51,12 +51,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - abstract
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - abstract
+imagery_styles: []
 wikidata_description: specialized UN agency focused on intellectual property protection
 wikidata_url: "https://www.wikidata.org/wiki/Q177773"
 has_twitter: false
@@ -75,28 +73,7 @@ visual_term_image_urls: {}
 
 ### 2014
 
-**Logo Information:**
-
-- No visible information about logo versions, color variations, file formats, or detailed guidelines across the pages reviewed.
-
-**Color Information:**
-
-- No visible information about color codes (Pantone, HEX, RGB, CMYK), or rules regarding color usage were provided.
-
-**Imagery Photography:**
-
-- Photo citation: 'Pedro Szekely', used in WIPO Brand Book. Attribution provided next to the text.
-
-**Brand Voice:**
-
-- The brand tone emphasizes clarity, directness, and confidence. Communication is precise, jargon-free, active, and relatable, avoiding bureaucratic or abstract language while being attuned to the target audience.
-- Guidelines encourage straightforward explanations of IP topics, focusing on simplicity and audience understanding. Example provided of avoiding passive constructions like 'it is suggested' and instead using 'we suggest'.
-- IP-related communication is framed as balancing interests of creators and consumers globally. The messaging emphasizes the goal of making IP work for everyone.
-
-**Notes:**
-
-- The WIPO Brand Book provides standard boilerplate descriptions for different use cases. Examples include usage in press releases, program events, procurement briefs, and legal documents.
-- Communications home pages on the intranet are the designated source for further information about using the WIPO brand effectively.
+*Guidelines data not available*
 
 ## Additional Properties
 

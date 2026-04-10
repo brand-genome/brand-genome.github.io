@@ -2,7 +2,7 @@
 title: IFC
 slug: ifc
 description: ""
-date: "2026-03-20T08:22:05.746351"
+date: "2026-04-10T09:40:34.724884"
 draft: false
 sectors:
   - finance
@@ -52,13 +52,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - photography
+imagery_styles: []
 wikidata_description: World Bank Group member financial institution
 wikidata_url: "https://www.wikidata.org/wiki/Q656801"
 has_twitter: false
@@ -76,35 +73,7 @@ visual_term_image_urls: {}
 
 ### 2017
 
-**Logo Information:**
-
-- Details about logo usage and variations including correct and incorrect applications.
-- Spacing rules and minimum clear space requirements for the logo.
-
-**Color Information:**
-
-- Primary and secondary palette details including colors like Pantone 289C, RGB, CMYK, and HEX codes provided.
-- Category-specific guidelines for applying colors in design elements (backgrounds, headers, etc.).
-
-**Typography Information:**
-
-- Typography hierarchy details including allowable fonts for headings, body text, and sizes.
-- Usage roles of fonts like Sabon Italic for taglines referenced, consistency emphasized.
-
-**Imagery Photography:**
-
-- Photography preferences highlighting use of people-centric images and avoiding generic stock visuals.
-- Minimum resolution standards (300 DPI at layout size) and crediting for all sourced images.
-
-**Spacing Layout:**
-
-- 12-column grid system usage for page layouts and its detailed applications.
-- Internal publication layouts emphasizing reusability within project categories.
-
-**Brand Voice:**
-
-- Brand tone emphasizes clarity, professionalism, and audience engagement.
-- Messaging for multimedia like videos focuses on simplicity and relatability through diverse visuals.
+*Guidelines data not available*
 
 ## Additional Properties
 

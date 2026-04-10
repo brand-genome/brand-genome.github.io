@@ -2,7 +2,7 @@
 title: University of Dayton
 slug: "university-of-dayton"
 description: ""
-date: "2026-03-20T08:22:05.722127"
+date: "2026-04-10T09:40:34.675944"
 draft: false
 sectors:
   - education
@@ -57,8 +57,7 @@ body_sections: []
 logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - graphic
+imagery_styles: []
 wikidata_description: "university in Dayton, Ohio, USA"
 wikidata_url: "https://www.wikidata.org/wiki/Q2092392"
 has_twitter: false
@@ -78,47 +77,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Logo-related content extracted from page 2: 2
-TABLE OF CONTENTS
-Introduction (page 4)
-Brand Positioning (page 6)
-Copy Tone (page 9)
-Typography (page 13)
-Graphic Elements (page 23)
-Color Palette (page 32)
-Logo Usage (page 36)
-
-- Logo-related content extracted from page 4: 4
-INTRODUCTION
-INTRODUCTION
-The University of Dayton brand is more than a logo and school colors.
-It’s what students, faculty, alumni, corporations, peers and outside 
-onlookers all think, feel and respond to when they encounter anything 
-and everything UD. This document outlines the system that was 
-created based on a strategic communications platform. Adherence 
-to these guidelines is mandatory in order to remain consistent in our 
-communications as an institution and as a brand. Furthermore, all 
-marketing and communications must adhere to the University Marketing 
-and Communications Policy.
-
-
-**Color Information:**
-
-- Color-related content extracted from page 19: 19
-TYPOGRAPHY
-TYPOGRAPHIC LEGIBILITY
-TEXT
-TYPOGRAPHY
-Color highlight and blending.
-
-
-**Typography Information:**
-
-- Typography-related content extracted from page 12: 12
-Champion Heavyweight Headlines.
-
+*Guidelines data not available*
 
 ## Additional Properties
 

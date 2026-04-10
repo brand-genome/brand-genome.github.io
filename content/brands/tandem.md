@@ -2,7 +2,7 @@
 title: Tandem
 slug: tandem
 description: ""
-date: "2026-03-20T08:22:05.790628"
+date: "2026-04-10T09:40:34.777243"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - music
   - cultural
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -55,9 +55,9 @@ imagery_styles: []
 wikidata_description: French television series
 wikidata_url: "https://www.wikidata.org/wiki/Q25396034"
 has_twitter: false
-has_guidelines: true
+has_guidelines: false
 promotion_image_count: 0
-guideline_count: 1
+guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -65,12 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.stereotandem.com](https://www.stereotandem.com)
 - [https://www.france.tv/france-3/tandem](https://www.france.tv/france-3/tandem)
-
-## Brand Guidelines
-
-### 2017
-
-*Guidelines data not available*
 
 ## Additional Properties
 

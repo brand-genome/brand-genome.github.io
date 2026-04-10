@@ -2,7 +2,7 @@
 title: Admiral
 slug: admiral
 description: ""
-date: "2026-03-20T08:22:04.858928"
+date: "2026-04-10T09:40:33.611300"
 draft: false
 sectors:
   - insurance
@@ -48,13 +48,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
+logo_elements: []
 brand_colors: []
 typographies: []
-imagery_styles:
-  - bold
+imagery_styles: []
 wikidata_description: Estonian musical group
 wikidata_url: "https://www.wikidata.org/wiki/Q20529548"
 has_twitter: false
@@ -76,56 +73,7 @@ visual_term_image_urls: {}
 
 ### 2018
 
-**Logo Information:**
-
-- Details about the translucent background for video-specific logos and usage on full-color backgrounds.
-- Details about the translucent background for video-specific logos and usage on full-color backgrounds.
-- Details about the translucent background for video-specific logos and usage on full-color backgrounds.
-- Details about the translucent background for video-specific logos and usage on full-color backgrounds.
-- Packshot logos available for videos include variations like those with the Admiral logo by itself or the logo with a 'Looking Out for You' message.
-
-**Color Information:**
-
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-- Identified detailed color palettes with HEX, RGB, and CMYK codes. Found application for primary and secondary colors.
-
-**Typography Information:**
-
-- Details about the preferred typefaces such as Facit for website, email, and print usage. Font weights include Light, Regular, and Bold.
-- Details about the preferred typefaces such as Facit for website, email, and print usage. Font weights include Light, Regular, and Bold.
-- Details about the preferred typefaces such as Facit for website, email, and print usage. Font weights include Light, Regular, and Bold.
-- Details about the preferred typefaces such as Facit for website, email, and print usage. Font weights include Light, Regular, and Bold.
-
-**Imagery Photography:**
-
-- Discussion on the use of imagery for Admiral, including the availability of brand images (e.g., PNG for web, PSD for print).
-- Discussion on the use of imagery for Admiral, including the availability of brand images (e.g., PNG for web, PSD for print).
-
-**Brand Voice:**
-
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-- Description of the Admiral brand voice with an emphasis on positivity, proactivity, friendliness, and being customer-first.
-
-**Notes:**
-
-- This section has contextual notes, remarks, or helpful hints related to Admiral Brand insights.
-- This section has contextual notes, remarks, or helpful hints related to Admiral Brand insights.
-- This section has contextual notes, remarks, or helpful hints related to Admiral Brand insights.
+*Guidelines data not available*
 
 ## Additional Properties
 

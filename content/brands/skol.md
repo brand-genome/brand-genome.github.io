@@ -2,7 +2,7 @@
 title: Skol
 slug: skol
 description: ""
-date: "2026-03-20T08:22:04.391985"
+date: "2026-04-10T09:40:33.120168"
 draft: false
 sectors:
   - drink
@@ -51,17 +51,9 @@ posings: []
 gazes: []
 body_sections: []
 logo_elements: []
-brand_colors:
-  - red
-  - "pantone-1797"
-  - cyan
-  - "pantone-109"
-  - yellow
-  - magenta
-  - black
+brand_colors: []
 typographies: []
-imagery_styles:
-  - natural
+imagery_styles: []
 wikidata_description: Scottish beer brand
 wikidata_url: "https://www.wikidata.org/wiki/Q152532"
 has_twitter: false
@@ -81,40 +73,7 @@ visual_term_image_urls: {}
 
 ### 2012
 
-**Logo Information:**
-
-- Skol Brand identity
-Skol International
-SKOL is a very qualitative beer with a great refreshing taste, brewed with natural ingredients: pure water and a balanced mix of hob and malt.
-SKOL specifications for the Brand Manual: Targets
-N.A : Not available
-Parameters: Original Extract 10.9° P, Alcohol by Volume 4.8% V/V, Color EBC 6.5, Bitterness BU 12.
-- Corporate Guidelines
-Skol Brand identity
-LOGOTYPE - MINIMUM SIZE REQUIREMENTS
-15 mm for basic logo size, 10 mm for extra small sizes.
-LOGOTYPE - ZONE OF INVIOLABILITY
-Minimum blank space around logo protected from other imagery and elements.
-- Do not distort, change, invert, or alter colors of the logo. Never use another typography. Incorrect usage examples given. Guidelines include applications of bichromatic and monochromatic logos.
-
-**Color Information:**
-
-- Pantone colors specified: Pantone 1797 (red), Pantone 109 (yellow).
-Details for CMJN (CMYK): Cyan, Magenta, Yellow, Black for logo printing. Defined usage for vehicles and materials with specific shades (RAL colors).
-
-**Typography Information:**
-
-- ITC Newtext BT Book, ITC Newtext BT Demi, ITC Newtext BT Book Italic, ITC Newtext BT Demi Italic. Recommended usage for print applications and word processing (Ariel if ITC Newtext unavailable).
-
-**Brand Voice:**
-
-- Corporate Guidelines
-Skol Brand identity
-Brand voice emphasizes connections, sociability, energy, and delight. Tone is inviting and social. Use of humor and unexpected elements encouraged to reinforce brand identity.
-
-**Notes:**
-
-- General brand identity highlights SKOL as a sociable brand with emphasis on refreshments and connections.
+*Guidelines data not available*
 
 ## Additional Properties
 

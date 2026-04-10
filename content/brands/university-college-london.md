@@ -2,7 +2,7 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-03-20T08:22:03.395495"
+date: "2026-04-10T09:40:30.960143"
 draft: false
 sectors:
   - university
@@ -15,10 +15,10 @@ years:
 languages:
   - english
 tags:
-  - education
-  - university
   - signage
   - featured
+  - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -56,31 +56,16 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-  - secondary
-brand_colors:
-  - red
-  - green
-  - "pantone-550"
-  - white
-  - purple
-  - "pantone-199"
-  - blue
-  - "pantone-5815"
-  - black
-typographies:
-  - helvetica
-  - arial
-  - garamond
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: "public research university in London, England, United Kingdom"
 wikidata_url: "https://www.wikidata.org/wiki/Q193196"
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
-guideline_count: 3
+guideline_count: 2
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
@@ -92,66 +77,13 @@ visual_term_image_urls: {}
 
 ## Brand Guidelines
 
-### 2024
+### 2017
 
 *Guidelines data not available*
 
-### 2017
-
-**Logo Information:**
-
-- The UCL logo consists of rectangular blocks with the letters 'UCL' cut out of the shape. These blocks are hand-drawn, and the letters themselves are not the logo. General usage: Use the banner if it is 'from UCL' and the logo if it is 'with UCL.' The banner and logo are used depending on specific contexts (e.g., partnerships).
-
-**Color Information:**
-
-- Dark Green - Pantone 5815 CP / 5815 UP, CMYK 35, 30, 100, 75, RGB 85, 80, 37, Hex #555025
-- Bright Red - Pantone 199 CP / 199 UP, CMYK 0, 100, 72, 0, RGB 213, 0, 50, Hex #D50032
-- Light Blue - Pantone 550 CP / 550 UP, CMYK 42, 7, 8, 8, RGB 141, 185, 202, Hex #8DB9CA
-- UCL's color palette includes a wide array of colors for maximum flexibility in communication. Includes primary and secondary colors for appropriate use with black or white text depending on background visibility.
-
-**Typography Information:**
-
-- The primary typeface is Arial, as it is available on all computers and systems at UCL. Helvetica may also be used where available. Garamond is referenced as a secondary typeface. Guidelines specify using no more than three type sizes or weights at a time and avoiding overuse of black or condensed weights.
-
-**Spacing Layout:**
-
-- Leave clear space around typography. Typography should be left-aligned, and alignment styles should not be mixed.
-- Text and titles should fit within the banner box of the logo.
-
-**Notes:**
-
-- The mid-purple and blue celeste included in UCL's color palette are referred to as UCL's traditional colors.
-
 ### 2021
 
-**Logo Information:**
-
-- No explicit logo information (versions, colors, or usage rules) visible in the provided segments.
-
-**Color Information:**
-
-- References to 'nextel blue' RAL color match; spacer painting guidelines provided.
-
-**Typography Information:**
-
-- Text size specifications: 15 mm caption height and 32 mm cap height for headers on internal signs.
-
-**Imagery Photography:**
-
-- No specific imagery or photography guidelines visible in the provided pages.
-
-**Spacing Layout:**
-
-- Sign placement heights specified: 1700mm from floor (minimum and maximum distances given).
-- Sign installation rules: Spacer specified to be at least 25mm smaller than the sign edge for aesthetic considerations. Aluminum backing plate used.
-
-**Brand Voice:**
-
-- No explicit brand voice guidelines visible in provided segments.
-
-**Notes:**
-
-- Internal and external sign types mentioned (e.g., freestanding illuminated map points, wall-mounted illuminated points, among others). Exact fixing details for signs provided (e.g., aluminum spacers, stud fixings, kick plates).
+*Guidelines data not available*
 
 ## Additional Properties
 

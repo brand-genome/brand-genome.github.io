@@ -2,7 +2,7 @@
 title: Kawasaki
 slug: kawasaki
 description: ""
-date: "2026-03-20T08:22:04.117926"
+date: "2026-04-10T09:40:32.205078"
 draft: false
 sectors:
   - automobile
@@ -46,14 +46,10 @@ clothing_colors: []
 posings: []
 gazes: []
 body_sections: []
-logo_elements:
-  - primary
-brand_colors:
-  - green
-typographies:
-  - times
-imagery_styles:
-  - photography
+logo_elements: []
+brand_colors: []
+typographies: []
+imagery_styles: []
 wikidata_description: motorcycles by Kawasaki Heavy Industries
 wikidata_url: "https://www.wikidata.org/wiki/Q6379855"
 has_twitter: false
@@ -75,38 +71,7 @@ visual_term_image_urls: {}
 
 ### 2020
 
-**Logo Information:**
-
-- Logo-related content found on page 3: Brand Logo regulations detailed in the table of contents mentioning logo types and usages.
-- Logo-related content found on page 6: Regulations for the brand logo and its usage.
-
-**Color Information:**
-
-- Color specifications mentioned on page 8 detailing brand logo colors and background combinations.
-- Details on Lime Green Stripes and associated color usage are provided.
-
-**Typography Information:**
-
-- The Delta Pro font is defined as the primary typeface, accompanied by PC substitute Calibri for general use.
-- Guidelines for typographic hierarchy given on page 28 with formatting examples for headlines, body text, etc.
-
-**Imagery Photography:**
-
-- Imagery style and proper treatment discussed including showroom examples and guidelines around photography.
-
-**Spacing Layout:**
-
-- Spacing rules for brand logo outlined with clear space regulations such as 0.4x around elements.
-- Examples of spacing and layout for showroom design provided.
-
-**Brand Voice:**
-
-- 'Let the Good Times Roll' tagline explained along with communication strategy and historical context.
-
-**Notes:**
-
-- References to special exceptions for logo usage on products and accessories, allowing modifications like non-standard colors.
-- Important notes on typography treatments and layout spacing on page 28.
+*Guidelines data not available*
 
 ## Additional Properties
 
