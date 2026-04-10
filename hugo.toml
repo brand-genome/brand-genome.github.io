@@ -75,11 +75,11 @@ buildFuture = true
 
 [outputs]
   home = ["HTML", "JSON", "Sitemap"]
-  page = ["HTML", "Sitemap"]
-  section = ["HTML", "JSON", "Sitemap"]
-  taxonomy = ["HTML", "JSON", "Sitemap"]
-  term = ["HTML", "JSON", "Sitemap"]
-
+  page = ["HTML"]
+  section = ["HTML", "JSON"]
+  taxonomy = ["HTML", "JSON"]
+  term = ["HTML", "JSON"]
+  
 # Pagination
 [pagination]
   pagerSize = 1000
