@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="sSedYW6KtxW47K-ny5esmhybQJkeu5Q8j9kZUaNLr0A" />
+
 {{- $title := "" }}
 {{- if .IsHome }}
   {{- $title = .Site.Title }}
@@ -51,19 +52,42 @@
     "name" .Site.Title
     "url" .Site.BaseURL
     "description" $desc
+    "potentialAction" (dict
+      "@type" "SearchAction"
+      "target" (dict
+        "@type" "EntryPoint"
+        "urlTemplate" (printf "%s/brands/{search_term_string}" .Site.BaseURL)
+      )
+      "query-input" "required name=search_term_string"
+    )
   }}
 {{- else if .IsPage }}
   {{- $jsonld = dict
     "@context" "https://schema.org"
-    "@type" "Article"
-    "headline" .Title
+    "@type" "Organization"
+    "name" .Title
     "description" $desc
     "url" $canonical
-    "publisher" (dict
-      "@type" "Organization"
-      "name" .Site.Title
-      "url" .Site.BaseURL
-    )
+    "sameAs" .Params.wikidata_url
+  }}
+{{- else if and .Pages (gt (len .Pages) 0) }}
+  {{- $items := slice }}
+  {{- range $i, $page := first 10 .Pages }}
+    {{- $item := dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "name" $page.Title
+      "url" $page.Permalink
+    }}
+    {{- $items = $items | append $item }}
+  {{- end }}
+  {{- $jsonld = dict
+    "@context" "https://schema.org"
+    "@type" "ItemList"
+    "name" .Title
+    "description" $desc
+    "url" $canonical
+    "itemListElement" $items
   }}
 {{- end }}
 
