@@ -19,6 +19,24 @@
 {{- else if .Params.wikidata_description }}
   {{- $base := .Params.wikidata_description | truncate 120 }}
   {{- $desc = printf "%s Explore %s's visual identity, brand guidelines, and promotion insights on Brand Genome." $base .Title }}
+{{- else if .IsPage }}
+  {{- $sector := "" }}
+  {{- with .Params.sectors }}
+    {{- if ne (index . 0) "unknown" }}
+      {{- $sector = index . 0 | humanize }}
+    {{- end }}
+  {{- end }}
+  {{- $country := "" }}
+  {{- with .Params.countries }}
+    {{- $country = index . 0 | humanize }}
+  {{- end }}
+  {{- if and $sector $country }}
+    {{- $desc = printf "%s is a %s brand from %s. Explore visual identity, brand guidelines, and promotion insights on Brand Genome." .Title $sector $country }}
+  {{- else if $sector }}
+    {{- $desc = printf "%s is a %s brand. Explore visual identity, brand guidelines, and promotion insights on Brand Genome." .Title $sector }}
+  {{- else }}
+    {{- $desc = printf "Explore %s's visual identity, brand guidelines, and promotion insights on Brand Genome." .Title }}
+  {{- end }}
 {{- else if .IsHome }}
   {{- $desc = .Site.Params.description }}
 {{- else if .Pages }}
