@@ -45,6 +45,8 @@
 {{- end }}
 
 {{- $jsonld := dict }}
+{{- $breadcrumb := dict }}
+
 {{- if .IsHome }}
   {{- $jsonld = dict
     "@context" "https://schema.org"
@@ -61,6 +63,7 @@
       "query-input" "required name=search_term_string"
     )
   }}
+
 {{- else if .IsPage }}
   {{- $jsonld = dict
     "@context" "https://schema.org"
@@ -70,6 +73,31 @@
     "url" $canonical
     "sameAs" .Params.wikidata_url
   }}
+  {{- $breadcrumb = dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "itemListElement" (slice
+      (dict
+        "@type" "ListItem"
+        "position" 1
+        "name" "Home"
+        "item" .Site.BaseURL
+      )
+      (dict
+        "@type" "ListItem"
+        "position" 2
+        "name" "Brands"
+        "item" (printf "%sbrands/" .Site.BaseURL)
+      )
+      (dict
+        "@type" "ListItem"
+        "position" 3
+        "name" .Title
+        "item" $canonical
+      )
+    )
+  }}
+
 {{- else if and .Pages (gt (len .Pages) 0) }}
   {{- $items := slice }}
   {{- range $i, $page := first 10 .Pages }}
@@ -88,6 +116,24 @@
     "description" $desc
     "url" $canonical
     "itemListElement" $items
+  }}
+  {{- $breadcrumb = dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "itemListElement" (slice
+      (dict
+        "@type" "ListItem"
+        "position" 1
+        "name" "Home"
+        "item" .Site.BaseURL
+      )
+      (dict
+        "@type" "ListItem"
+        "position" 2
+        "name" .Title
+        "item" $canonical
+      )
+    )
   }}
 {{- end }}
 
@@ -114,5 +160,11 @@
 {{- if $jsonld }}
 <script type="application/ld+json">
 {{ $jsonld | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end }}
+
+{{- if $breadcrumb }}
+<script type="application/ld+json">
+{{ $breadcrumb | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{- end }}
