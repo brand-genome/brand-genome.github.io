@@ -2,12 +2,12 @@
 title: Poixel
 slug: poixel
 description: ""
-date: "2026-04-10T09:40:33.036273"
+date: "2026-04-15T09:21:23.980174"
 draft: false
 sectors:
+  - "marketing-advertising"
   - consulting
   - "design-creative"
-  - "marketing-advertising"
 regions:
   - kuwait
 years:

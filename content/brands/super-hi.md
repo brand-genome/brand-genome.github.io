@@ -2,11 +2,11 @@
 title: Super Hi
 slug: "super-hi"
 description: ""
-date: "2026-04-10T09:40:32.492935"
+date: "2026-04-15T09:21:23.702727"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - education
   - internet
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -53,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: British production duo
-wikidata_url: "https://www.wikidata.org/wiki/Q107340166"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,18 +72,3 @@ visual_term_image_urls: {}
 ### 2015
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q107340166) |
-
-| Property | Value |
-|----------|-------|
-| Country Of Origin | United Kingdom |
-| Discogs Artist Id | 2822987 |
-| Musicbrainz Artist Id | db1139ad-ae66-465a-a417-16c541473536 |
-| Last.Fm Id | SUPER-Hi |
-| Youtube Channel Id | UCXJVe4LziuiGMZVYCYmqang (as of 2021-08-08, from 2020-09-14) |
-| Social Media Followers | 10,300 (as of 2021-10-11), 19,500 (as of 2024-03-01), 23,100 (as of 2025-05-01) |

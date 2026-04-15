@@ -2,7 +2,7 @@
 title: Inteco
 slug: inteco
 description: ""
-date: "2026-04-10T09:40:32.633795"
+date: "2026-04-15T09:21:23.815753"
 draft: false
 sectors:
   - "real-estate"

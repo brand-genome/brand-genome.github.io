@@ -2,7 +2,7 @@
 title: Pays Basque
 slug: "pays-basque"
 description: ""
-date: "2026-04-10T09:40:32.097081"
+date: "2026-04-15T09:21:23.584105"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - spain
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q123737667"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -63,20 +62,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.communaute-paysbasque.fr](https://www.communaute-paysbasque.fr)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q123737667) |
-
-| Property | Value |
-|----------|-------|
-| Point In Time | 2011-12-28 |
-| Sport | association football |
-| Competition Class | men's association football |
-| Image | Basque Country v Tunisia 2011 (1).jpg |
-| Participating Team | Basque Country regional football team, Tunisia men's national football team |
-| Winner | Tunisia men's national football team |
-| Country | Spain |
-| Location | Anoeta Stadium |

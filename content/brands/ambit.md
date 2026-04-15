@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-04-10T09:40:33.399936"
+date: "2026-04-15T09:21:24.332008"
 draft: false
 sectors:
   - software
@@ -13,12 +13,10 @@ years:
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries: []
-countries:
-  - czechoslovakia
-  - "czech-republic"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: former Czech company
-wikidata_url: "https://www.wikidata.org/wiki/Q134894427"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,24 +64,9 @@ visual_term_image_urls: {}
 
 - [https://ambitai.com](https://ambitai.com)
 - [https://ambit.ai](https://ambit.ai)
-- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q134894427) |
-
-| Property | Value |
-|----------|-------|
-| Czech Registration Id (Ičo) | 46679146 |
-| Dissolved, Abolished Or Demolished Date | 2012-12-28 |
-| Significant Event | voucher privatization (as of 1992) |
-| Country | Czechoslovakia, Czech Republic |
-| Official Name | AMBIT a.s. |

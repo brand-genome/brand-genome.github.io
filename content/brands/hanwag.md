@@ -2,7 +2,7 @@
 title: Hanwag
 slug: hanwag
 description: ""
-date: "2026-04-10T09:40:33.660107"
+date: "2026-04-15T09:21:24.602686"
 draft: false
 sectors:
   - fashion

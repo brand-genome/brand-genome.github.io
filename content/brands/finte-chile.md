@@ -2,7 +2,7 @@
 title: Finte Chile
 slug: "finte-chile"
 description: ""
-date: "2026-04-10T09:40:34.494296"
+date: "2026-04-15T09:21:25.430670"
 draft: false
 sectors:
   - finance

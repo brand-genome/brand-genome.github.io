@@ -2,7 +2,7 @@
 title: Pennsylvania College of Technology
 slug: "pennsylvania-college-of-technology"
 description: ""
-date: "2026-04-10T09:40:33.375162"
+date: "2026-04-15T09:21:24.310102"
 draft: false
 sectors:
   - education

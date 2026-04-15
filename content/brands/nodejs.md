@@ -2,7 +2,7 @@
 title: Node.js
 slug: nodejs
 description: ""
-date: "2026-04-10T09:40:34.772159"
+date: "2026-04-15T09:21:25.751557"
 draft: false
 sectors:
   - software

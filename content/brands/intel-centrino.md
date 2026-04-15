@@ -2,11 +2,11 @@
 title: Intel Centrino
 slug: "intel-centrino"
 description: ""
-date: "2026-04-10T09:40:31.473322"
+date: "2026-04-15T09:21:23.132659"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:

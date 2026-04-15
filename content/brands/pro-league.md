@@ -2,7 +2,7 @@
 title: Pro League
 slug: "pro-league"
 description: ""
-date: "2026-04-10T09:40:33.303507"
+date: "2026-04-15T09:21:24.239453"
 draft: false
 sectors:
   - sports
@@ -26,11 +26,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "belgian-supercup"
   - "belgian-cup"
+  - "super-league-vrouwenvoetbal"
+  - "belgian-supercup"
   - "belgian-pro-league"
   - "challenger-pro-league"
-  - "super-league-vrouwenvoetbal"
 products: []
 headquarters_locations: []
 subsidiaries: []
@@ -86,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Belgian Supercup](/products_or_materials_produced/belgian-supercup/); [Belgian Cup](/products_or_materials_produced/belgian-cup/); [Belgian Pro League](/products_or_materials_produced/belgian-pro-league/); [Challenger Pro League](/products_or_materials_produced/challenger-pro-league/); [Super League Vrouwenvoetbal](/products_or_materials_produced/super-league-vrouwenvoetbal/) |
+| Product Or Material Produced | [Belgian Cup](/products_or_materials_produced/belgian-cup/); [Super League Vrouwenvoetbal](/products_or_materials_produced/super-league-vrouwenvoetbal/); [Belgian Supercup](/products_or_materials_produced/belgian-supercup/); [Belgian Pro League](/products_or_materials_produced/belgian-pro-league/); [Challenger Pro League](/products_or_materials_produced/challenger-pro-league/) |
 | Sport | association football |
 | Country | Belgium |
 | Google Knowledge Graph Id | /g/122h5qxc |

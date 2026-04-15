@@ -2,7 +2,7 @@
 title: WSIA
 slug: wsia
 description: ""
-date: "2026-04-10T09:40:34.138164"
+date: "2026-04-15T09:21:25.045291"
 draft: false
 sectors:
   - insurance

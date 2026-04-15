@@ -2,12 +2,12 @@
 title: PlayStation 4 Pro
 slug: "playstation-4-pro"
 description: ""
-date: "2026-04-10T09:40:33.353587"
+date: "2026-04-15T09:21:24.288395"
 draft: false
 sectors:
-  - hardware
   - gaming
   - entertainment
+  - hardware
 regions:
   - japan
 years:

@@ -2,7 +2,7 @@
 title: Banco do Brasil
 slug: "banco-do-brasil"
 description: ""
-date: "2026-04-10T09:40:30.889163"
+date: "2026-04-15T09:21:22.508103"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
+  - "economics-of-banking"
   - "financial-sector"
 countries:
   - brazil

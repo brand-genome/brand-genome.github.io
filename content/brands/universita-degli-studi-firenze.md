@@ -2,11 +2,11 @@
 title: Universita degli studi Firenze
 slug: "universita-degli-studi-firenze"
 description: ""
-date: "2026-04-10T09:40:34.693383"
+date: "2026-04-15T09:21:25.680670"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

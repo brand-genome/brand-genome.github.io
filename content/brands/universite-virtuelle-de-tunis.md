@@ -2,11 +2,11 @@
 title: Université Virtuelle de Tunis
 slug: "universite-virtuelle-de-tunis"
 description: ""
-date: "2026-04-10T09:40:34.895534"
+date: "2026-04-15T09:21:25.864943"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - university
+  - "e-learning-edtech"
 regions:
   - tunisia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

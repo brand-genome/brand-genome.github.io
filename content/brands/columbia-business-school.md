@@ -2,11 +2,11 @@
 title: Columbia Business School
 slug: "columbia-business-school"
 description: ""
-date: "2026-04-10T09:40:32.506915"
+date: "2026-04-15T09:21:23.713545"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

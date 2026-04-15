@@ -2,7 +2,7 @@
 title: Samsic
 slug: samsic
 description: ""
-date: "2026-04-10T09:40:34.727980"
+date: "2026-04-15T09:21:25.708615"
 draft: false
 sectors:
   - "cleaning-facility-services"
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "temporary-employment-agency-activities"
   - "human-resource-management"
+  - "temporary-employment-agency-activities"
 countries:
   - france
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: BitsCrunch
 slug: bitscrunch
 description: ""
-date: "2026-04-10T09:40:32.633214"
+date: "2026-04-15T09:21:23.815344"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - germany
 years:

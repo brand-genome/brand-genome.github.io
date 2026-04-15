@@ -2,7 +2,7 @@
 title: One
 slug: one
 description: ""
-date: "2026-04-10T09:40:33.285523"
+date: "2026-04-15T09:21:24.222590"
 draft: false
 sectors:
   - ngo
@@ -15,8 +15,7 @@ languages:
 tags:
   - ngo
 industries: []
-countries:
-  - germany
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1963
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "German men's association football top league"
-wikidata_url: "https://www.wikidata.org/wiki/Q82595"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.one.org](https://www.one.org)
 - [https://www.one.org/us](https://www.one.org/us)
-- [https://www.bundesliga.com](https://www.bundesliga.com)
-- [https://www.bundesliga.de](https://www.bundesliga.de)
 
 ## Brand Guidelines
 
@@ -254,68 +249,3 @@ visual_term_image_urls: {}
 
 - Each icon within our library system has the ability to represent several different meanings.
 - While they can often be useful, our icons are meant to be used sparingly as a secondary supporting element to the content
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q82595) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1963](/foundation_dates/1963/) |
-| Sport | association football |
-| Viaf Cluster Id | 152608274 |
-| Country | Germany |
-| Topic'S Main Category | Category:Bundesliga |
-| Gnd Id | 4155736-0 |
-| Freebase Id | /m/037169 |
-| Library Of Congress Authority Id | n96008957 |
-| Organizer | German Football Association |
-| Inception | 1963-08-24 |
-| Quora Topic Id | Bundesliga |
-| League Level Below | 2. Bundesliga (from 1981), Regionalliga West (1963–1974) (from 1963, until 1974), Regionalliga Süd (1963-1974) (from 1963, until 1974), 2. Fußball-Bundesliga Nord (from 1974, until 1981), 2. Fußball-Bundesliga Süd (from 1974, until 1981) (+3 more) |
-| Event Interval | 1 year |
-| Babelnet Id | 14684037n |
-| Subreddit | Bundesliga (from 2010-12-12) |
-| Encyclopædia Britannica Online Id | topic/Bundesliga |
-| X (Twitter) Username | Bundesliga_EN (as of 2020-06-16, from 2009-07-30), Bundesliga_DE (as of 2020-06-16, from 2009-06-06), Bundesliga_JP (as of 2020-06-16, from 2018-10-22) |
-| Great Russian Encyclopedia Online Id (2017) | 1888520 |
-| Youtube Channel Id | UC6UL29enLNe4mqwTfAyeNuw (as of 2020-12-11, from 2006-04-01) |
-| Klexikon Article Id | Bundesliga |
-| Number Of Participants | 18, 20, 16 |
-| Competition Class | men's association football |
-| Native Label | Bundesliga |
-| Category For Maps Or Plans | Category:Maps of Fußball-Bundesliga (Germany) |
-| Instagram Username | bundesliga (as of 2022-02-28) |
-| Facebook Username | BundesligaOfficial |
-| Replaces | Fußball-Oberliga (as of 1963) |
-| Opta Football Competition Id | 22 |
-| Winner | 1. FC Köln (as of 1964), SV Werder Bremen (as of 1965), FC Bayern Munich (as of 2019), Bayer 04 Leverkusen (as of 2024), Borussia Dortmund (as of 2012) (+5 more) |
-| Github Topic | bundesliga |
-| X Topic Id | 733756521230667776 |
-| Tiktok Username | bundesliga |
-| Social Media Followers | 2,690,000 (as of 2021-07-02), 3,140,000 (as of 2022-03-17), 3,750,000 (as of 2023-02-17), 828,470 (as of 2023-05-24), 4,350,000 (as of 2024-01-15) (+2 more) |
-| Great Norwegian Encyclopedia Id | Bundesliga |
-| National Library Of Israel J9U Id | 987007350017505171 |
-| Giphy Username | bundesliga |
-| Encyclopedia Of China (Third Edition) Id | 148640 |
-| Playmakerstats.Com Competition Id | 11 |
-| Baidu Tieba Name | 德甲 (as of 2023-03-09) |
-| Weibo User Id | bundesligaofficial |
-| Part Of | German men's football league system |
-| Season Starts | August |
-| Season Ends | May |
-| Museum Digital Tag Id | 156261 |
-| Followed By | 2. Bundesliga |
-| Vikidia Article Id | fr:Championnat_d'Allemagne_de_football |
-| Bbc Things Id | ced5245a-2d24-4f66-b4e5-50e1add74451 |
-| Fandom Article Id | football:Bundesliga |
-| France 24 Topic Id (French) | bundesliga |
-| Related Image | Meisterschale.png |
-| Sportslogos.Net Team Id | 4162 |
-| Has Part(S) | 1963–64 Fußball-Bundesliga, 1964–65 Fußball-Bundesliga, 1965–66 Fußball-Bundesliga, 1966–67 Fußball-Bundesliga, 1967–68 Fußball-Bundesliga (+58 more) |
-| ‎Yale Lux Id | group/5144c20b-7f97-4b91-ba48-e365d965c103 |
-| ‎Fbref Competition Id | 20 |
-| Locator Map Image | 1. Fussball-Bundesliga Deutschland 2019-2020.png |
-| Imdb Id | tt10489770 |

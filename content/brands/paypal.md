@@ -2,7 +2,7 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-04-10T09:40:30.591587"
+date: "2026-04-15T09:21:22.133687"
 draft: false
 sectors:
   - finance
@@ -10,9 +10,9 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2020
   - 2013
+  - 2022
 languages:
   - english
 tags:

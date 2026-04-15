@@ -2,12 +2,12 @@
 title: Botswana
 slug: botswana
 description: ""
-date: "2026-04-10T09:40:34.276467"
+date: "2026-04-15T09:21:25.188499"
 draft: false
 sectors:
   - "public-sector"
-  - tourism
   - "marketing-advertising"
+  - tourism
 regions:
   - botswana
 years:
@@ -17,8 +17,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - botswana
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "men's national association football team representing Botswana"
-wikidata_url: "https://www.wikidata.org/wiki/Q119322"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://brandbotswana.co.bw](https://brandbotswana.co.bw)
-- [http://www.bfa.co.bw](http://www.bfa.co.bw)
 
 ## Brand Guidelines
 
@@ -296,30 +294,3 @@ visual_term_image_urls: {}
 - The following rules are a guide to managing relationships between the Pride Mark and its potential partners, supporters or related organisations.
 - In situations where there is more than one logo supporting or collaborating with the Pride Mark, consistency and clarity are the priority.
 - The rules for scale and position are based on the Clear Space guidelines and a proportionate scaling approach. The overall volume is the guide to the scale of the other logos in the lock-up, as shown in the diagram below.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q119322) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Botswana national football team |
-| Freebase Id | /m/04c4pk |
-| Sport | association football |
-| Country For Sport | Botswana |
-| Country | Botswana |
-| Fifa Country Code | BOT |
-| Ranking | 146 (as of 1994-04-19), 146 (as of 1995-02-20), 146 (as of 1995-07-25), 136 (as of 2002-07-03), 136 (as of 2002-10-23) (+275 more) |
-| Competition Class | men's association football |
-| Owned By | Botswana Football Association |
-| Flag Image | Flag of Botswana.svg |
-| Transfermarkt Team Id | 15229 |
-| Image | Botswana National Team, Zebras in the 1980s.jpg |
-| Nickname | The Zebras |
-| Head Coach | Didier Gomes Da Rosa (from 2023-11-03, until 2024-10-15), Morena Ramoreboli (from 2025-01-23) |
-| Statistical Leader | Joel Mogorosi, Jerome Ramatlhakwane |
-| Fandom Article Id | football:Botswana_national_football_team |
-| The Guardian Topic Id | football/botswana-football |
-| Subclass Of | national sports team |

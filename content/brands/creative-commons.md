@@ -2,11 +2,11 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-04-10T09:40:33.677931"
+date: "2026-04-15T09:21:24.618477"
 draft: false
 sectors:
-  - ngo
   - "legal-services"
+  - ngo
 regions:
   - international
 years:
@@ -70,9 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://creativecommons.org](https://creativecommons.org)
-- [http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_](http://www.canva.com/design/DADm40hSwIU/9yEhtLnl5O1WMKbx8JSSkA/view?utm_content=DADm40hSwIU&utm_)
-- [http://www.flickr.com/photos](http://www.flickr.com/photos)
-- [http://www.typewolf.com/site-of-the-day/fonts/roboto](http://www.typewolf.com/site-of-the-day/fonts/roboto)
 
 ## Brand Guidelines
 

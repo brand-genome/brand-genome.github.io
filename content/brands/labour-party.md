@@ -2,7 +2,7 @@
 title: Labour Party
 slug: "labour-party"
 description: ""
-date: "2026-04-10T09:40:32.151127"
+date: "2026-04-15T09:21:23.623760"
 draft: false
 sectors:
   - "public-sector"
@@ -63,9 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://labour.org.uk](https://labour.org.uk)
-- [http://www.flickr.com/photos/uk_parliament](http://www.flickr.com/photos/uk_parliament)
-- [https://www.gettyimages.co.uk](https://www.gettyimages.co.uk)
-- [https://www.paimages.co.uk](https://www.paimages.co.uk)
 
 ## Brand Guidelines
 

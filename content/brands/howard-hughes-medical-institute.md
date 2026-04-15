@@ -2,7 +2,7 @@
 title: Howard Hughes Medical Institute
 slug: "howard-hughes-medical-institute"
 description: ""
-date: "2026-04-10T09:40:31.988406"
+date: "2026-04-15T09:21:23.419556"
 draft: false
 sectors:
   - research

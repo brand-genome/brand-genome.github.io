@@ -2,7 +2,7 @@
 title: FDA
 slug: fda
 description: ""
-date: "2026-04-10T09:40:34.634718"
+date: "2026-04-15T09:21:25.628279"
 draft: false
 sectors:
   - "public-sector"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fda.gov](https://www.fda.gov)
-- [http://www.amazon.com](http://www.amazon.com)
 - [https://fda.gov](https://fda.gov)
 
 ## Brand Guidelines

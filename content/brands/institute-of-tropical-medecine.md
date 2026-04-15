@@ -2,11 +2,11 @@
 title: Institute of Tropical Medecine
 slug: "institute-of-tropical-medecine"
 description: ""
-date: "2026-04-10T09:40:33.781895"
+date: "2026-04-15T09:21:24.761117"
 draft: false
 sectors:
-  - research
   - university
+  - research
   - healthcare
 regions:
   - belgium
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries: []
 countries: []
 revenue_buckets: []

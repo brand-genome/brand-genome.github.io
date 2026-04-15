@@ -2,7 +2,7 @@
 title: Jet
 slug: jet
 description: ""
-date: "2026-04-10T09:40:34.427384"
+date: "2026-04-15T09:21:25.371812"
 draft: false
 sectors:
   - "e-commerce"
@@ -27,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2001
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Australian rock band
-wikidata_url: "https://www.wikidata.org/wiki/Q750460"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.walmart.com](https://www.walmart.com)
 - [http://www.jet.com](http://www.jet.com)
-- [https://www.jetofficial.com](https://www.jetofficial.com)
 
 ## Brand Guidelines
 
@@ -273,59 +270,3 @@ visual_term_image_urls: {}
 - DISPLAY ADS with Lifestyle or Enhanced photography Fashion & Beauty Examples • Required elements: product-forward image+ straight-forward headline+ logo+ CTA • Rules: Voice Direct response Visual Full-bleed product-forward Smaller units may use light gradation treatment for copy legibility
 - DISPLAY ADS with product feed • Required elements: product image+ straight-forward headline+ logo+ CTA • Rules: Voice Direct response Background of ad unit white Outline around ad unit thin gray #D7D7D7 SKUs products gridded within space to show at least three variations against gray #D7D7D7 background color
 - EMAIL • Layout: mobile-first • Rules: Voice Editorial subject lines and headlines. Straight and descriptive sub copy. Direct response for deals. Emoji friendly. Visual Mix of Lifestyle/Enhanced imagery and straight-forward SKU imagery (GIFs welcome)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q750460) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2001](/foundation_dates/2001/) |
-| Musicbrainz Artist Id | 4efa55ba-93cf-497f-baf3-2ca9da7e193e |
-| Location Of Formation | Melbourne |
-| Genre | alternative rock |
-| Freebase Id | /m/02dzcv |
-| Gnd Id | 16021403-8 |
-| Munzinger Pop Id | 02000001365 |
-| Image | Jet 2025.jpg |
-| Allmusic Artist Id | mn0000346806 |
-| Discogs Artist Id | 46819 |
-| Imdb Id | nm1643063 |
-| X (Twitter) Username | JetTheBand (as of 2020-04-25, from 2009-06-01), jettheband |
-| Inception | 2001 |
-| Country Of Origin | Australia |
-| Last.Fm Id | Jet |
-| Record Label | Elektra, Atlantic Records |
-| Has Part(S) | Nic Cester (from 2001, until 2019), Cameron Muncey (from 2001, until 2019), Chris Cester (from 2001, until 2019), Mark Wilson (from 2002, until 2019) |
-| Myspace Id | jet |
-| Laut.De Artist Id | Jet |
-| Songkick Artist Id | 7331 |
-| Muziekweb Performer Id | M00000003876 |
-| Billboard Artist Id | jet |
-| Nl Cr Aut Id | xx0140896 |
-| Different From | Jet, Jet |
-| Acharts.Co Artist Id | jet |
-| Official Name | Jexcks |
-| Start Of Work Period | 2001 |
-| Viaf Cluster Id | 150254501, 128892842 |
-| Spotify Artist Id | 5ypxebeHEIXjMtJb17uJlI |
-| Deezer Artist Id | 597 |
-| Apple Music Artist Id | 2502435 |
-| Topic'S Main Category | Category:Jet (Australian band) |
-| Topic Has Template | Template:Jet |
-| Larousse Id | groupe-musical/wd/155050 |
-| Social Media Followers | 8,083 (as of 2021-01-08), 8,277 (as of 2020-04-25) |
-| Youtube Channel Id | UCDY3bjtG-e456ADVpfDZ4Tw (as of 2021-06-13, from 2013-05-16), UC5vZ92ZTaMqw7lLFDvFNu0A (as of 2021-06-13, from 2006-08-30) |
-| Isni | 0000000122384621 |
-| Facebook Username | jettheband |
-| Instagram Username | jet.theband |
-| Tidal Artist Id | 17764 |
-| Secondhandsongs Artist Id | 11849 |
-| Rate Your Music Artist Id | jet |
-| Musik Sammler.De Artist Id | 5166 |
-| Bbc Things Id | e67315fd-f856-43ba-a57d-00cbaee0c05b |
-| Kinobox Person Id | 596792 |
-| Library Of Congress Authority Id | no2003105536 |
-| Album Of The Year Artist Id | 7564 |

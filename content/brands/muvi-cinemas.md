@@ -2,7 +2,7 @@
 title: muvi Cinemas
 slug: "muvi-cinemas"
 description: ""
-date: "2026-04-10T09:40:30.615169"
+date: "2026-04-15T09:21:22.178409"
 draft: false
 sectors:
   - entertainment

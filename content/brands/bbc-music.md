@@ -2,7 +2,7 @@
 title: BBC Music
 slug: "bbc-music"
 description: ""
-date: "2026-04-10T09:40:34.486315"
+date: "2026-04-15T09:21:25.423859"
 draft: false
 sectors:
   - broadcasting
@@ -29,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2015
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Pop-up radio station"
-wikidata_url: "https://www.wikidata.org/wiki/Q22079660"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -76,16 +74,3 @@ visual_term_image_urls: {}
 ### 2015
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22079660) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2015](/foundation_dates/2015/) |
-| Inception | 2015-11-12 |
-| Owned By | British Broadcasting Corporation |
-| Google Knowledge Graph Id | /g/11bwp1tgd9 |

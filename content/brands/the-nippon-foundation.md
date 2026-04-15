@@ -2,7 +2,7 @@
 title: The Nippon Foundation
 slug: "the-nippon-foundation"
 description: ""
-date: "2026-04-10T09:40:33.808209"
+date: "2026-04-15T09:21:24.787761"
 draft: false
 sectors:
   - ngo

@@ -2,7 +2,7 @@
 title: Bar Pine
 slug: "bar-pine"
 description: ""
-date: "2026-04-10T09:40:30.538836"
+date: "2026-04-15T09:21:22.066067"
 draft: false
 sectors:
   - "food-beverage"
@@ -14,8 +14,8 @@ years:
 languages:
   - chinese
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Club de Regatas Vasco da Gama
 slug: "club-de-regatas-vasco-da-gama"
 description: ""
-date: "2026-04-10T09:40:30.750685"
+date: "2026-04-15T09:21:22.343837"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: Briançon
 slug: briancon
 description: ""
-date: "2026-04-10T09:40:33.049222"
+date: "2026-04-15T09:21:23.991250"
 draft: false
 sectors:
   - "public-sector"

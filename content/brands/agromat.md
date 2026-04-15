@@ -2,7 +2,7 @@
 title: Agromat
 slug: agromat
 description: ""
-date: "2026-04-10T09:40:30.786173"
+date: "2026-04-15T09:21:22.386801"
 draft: false
 sectors:
   - "consumer-goods"

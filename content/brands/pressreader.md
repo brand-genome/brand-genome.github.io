@@ -2,7 +2,7 @@
 title: Pressreader
 slug: pressreader
 description: ""
-date: "2026-04-10T09:40:34.505376"
+date: "2026-04-15T09:21:25.440384"
 draft: false
 sectors:
   - software
@@ -10,16 +10,16 @@ sectors:
 regions:
   - canada
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
-  - journalism
   - "software-industry"
+  - journalism
 countries:
   - canada
 revenue_buckets: []
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - richmond
   - vancouver
+  - richmond
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Richmond](/headquarters_locations/richmond/); [Vancouver](/headquarters_locations/vancouver/) |
+| Headquarters Location | [Vancouver](/headquarters_locations/vancouver/); [Richmond](/headquarters_locations/richmond/) |
 | Name | PressReader Inc. (from 2014), NewspaperDirect (from 1999, until 2014) |
 | X (Twitter) Username | pressreader (as of 2020-12-25, from 2008-09-25), PressReaderCare (as of 2020-12-25, from 2014-07-21), PressReader |
 | Instagram Username | pressreader |

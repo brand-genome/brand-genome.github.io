@@ -2,11 +2,11 @@
 title: "Dinosaur Bar-B-Que"
 slug: "dinosaur-bar-b-que"
 description: ""
-date: "2026-04-10T09:40:33.272452"
+date: "2026-04-15T09:21:24.210673"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:

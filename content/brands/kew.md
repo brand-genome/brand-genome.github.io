@@ -2,11 +2,11 @@
 title: Kew
 slug: kew
 description: ""
-date: "2026-04-10T09:40:34.672034"
+date: "2026-04-15T09:21:25.662958"
 draft: false
 sectors:
-  - research
   - tourism
+  - research
   - "arts-culture"
 regions:
   - "united-kingdom"

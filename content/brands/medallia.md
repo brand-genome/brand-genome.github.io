@@ -2,7 +2,7 @@
 title: Medallia
 slug: medallia
 description: ""
-date: "2026-04-10T09:40:33.161826"
+date: "2026-04-15T09:21:24.088965"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
 tags:
   - software
 industries:
-  - "business-software-industry"
   - "software-industry"
+  - "business-software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: California Transit Association
 slug: "california-transit-association"
 description: ""
-date: "2026-04-10T09:40:32.675125"
+date: "2026-04-15T09:21:23.828203"
 draft: false
 sectors:
-  - ngo
   - "public-transportation"
+  - ngo
 regions:
   - usa
 years:

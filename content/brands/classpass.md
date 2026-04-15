@@ -2,12 +2,12 @@
 title: ClassPass
 slug: classpass
 description: ""
-date: "2026-04-10T09:40:32.685487"
+date: "2026-04-15T09:21:23.830634"
 draft: false
 sectors:
-  - software
-  - "wellness-spa"
   - fitness
+  - "wellness-spa"
+  - software
 regions:
   - usa
 years:

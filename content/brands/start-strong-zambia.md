@@ -2,11 +2,11 @@
 title: Start Strong Zambia
 slug: "start-strong-zambia"
 description: ""
-date: "2026-04-10T09:40:30.843004"
+date: "2026-04-15T09:21:22.455432"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - zambia
 years:

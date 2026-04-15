@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-04-10T09:40:32.198883"
+date: "2026-04-15T09:21:23.649919"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - japanese
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries:
   - japan

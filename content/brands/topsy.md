@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-04-10T09:40:32.413586"
+date: "2026-04-15T09:21:23.676853"
 draft: false
 sectors:
   - food
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: song
-wikidata_url: "https://www.wikidata.org/wiki/Q7825177"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,18 +70,3 @@ visual_term_image_urls: {}
 ### 2022
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7825177) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Work Id | 3b92a255-55f0-3883-88e4-8f3b6572abed |
-| Encyclopædia Britannica Online Id | topic/Topsy-recording-by-Cole |
-| Performer | Benny Goodman |
-| Publication Date | 1938 |
-| Freebase Id | /m/0_hw09s |
-| Form Of Creative Work | song |

@@ -2,7 +2,7 @@
 title: Varsity Spirit
 slug: "varsity-spirit"
 description: ""
-date: "2026-04-10T09:40:33.322857"
+date: "2026-04-15T09:21:24.258473"
 draft: false
 sectors:
   - sports

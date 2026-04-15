@@ -2,13 +2,13 @@
 title: Bitwise Industries
 slug: "bitwise-industries"
 description: ""
-date: "2026-04-10T09:40:32.662686"
+date: "2026-04-15T09:21:23.826416"
 draft: false
 sectors:
-  - software
+  - "real-estate"
   - "coworking-flexible-office"
   - education
-  - "real-estate"
+  - software
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - education
+  - software
 industries: []
 countries: []
 revenue_buckets: []

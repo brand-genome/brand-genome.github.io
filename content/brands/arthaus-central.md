@@ -2,7 +2,7 @@
 title: Arthaus Central
 slug: "arthaus-central"
 description: ""
-date: "2026-04-10T09:40:30.933261"
+date: "2026-04-15T09:21:22.543069"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - cultural
   - featured
+  - cultural
 industries: []
 countries: []
 revenue_buckets: []

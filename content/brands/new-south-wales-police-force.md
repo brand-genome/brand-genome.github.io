@@ -2,7 +2,7 @@
 title: New South Wales Police Force
 slug: "new-south-wales-police-force"
 description: ""
-date: "2026-04-10T09:40:33.166846"
+date: "2026-04-15T09:21:24.094676"
 draft: false
 sectors:
   - "public-sector"

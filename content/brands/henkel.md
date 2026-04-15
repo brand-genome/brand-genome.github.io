@@ -2,16 +2,16 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-04-10T09:40:32.479372"
+date: "2026-04-15T09:21:23.692191"
 draft: false
 sectors:
-  - "consumer-goods"
   - chemicals
+  - "consumer-goods"
 regions:
   - germany
 years:
-  - 2022
   - 2018
+  - 2022
 languages:
   - english
 tags:
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - laundry
 products: []
 headquarters_locations:
-  - dusseldorf
   - aachen
+  - dusseldorf
 subsidiaries: []
 foundation_dates:
   - 1876
@@ -92,7 +92,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
-| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Aachen](/headquarters_locations/aachen/) |
+| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
 | Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |

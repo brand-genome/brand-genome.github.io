@@ -2,7 +2,7 @@
 title: Swissport
 slug: swissport
 description: ""
-date: "2026-04-10T09:40:33.815191"
+date: "2026-04-15T09:21:24.793347"
 draft: false
 sectors:
   - "logistics-supply-chain"

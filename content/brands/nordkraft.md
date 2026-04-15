@@ -2,11 +2,11 @@
 title: Nordkraft
 slug: nordkraft
 description: ""
-date: "2026-04-10T09:40:33.409825"
+date: "2026-04-15T09:21:24.339696"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - norway
 years:

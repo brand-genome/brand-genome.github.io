@@ -2,7 +2,7 @@
 title: Chivas 18
 slug: "chivas-18"
 description: ""
-date: "2026-04-10T09:40:33.697830"
+date: "2026-04-15T09:21:24.658782"
 draft: false
 sectors:
   - drink

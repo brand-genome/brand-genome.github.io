@@ -2,7 +2,7 @@
 title: "Gobierno de Costa Rica 2022-2026"
 slug: "gobierno-de-costa-rica-2022-2026"
 description: ""
-date: "2026-04-10T09:40:31.963760"
+date: "2026-04-15T09:21:23.401215"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

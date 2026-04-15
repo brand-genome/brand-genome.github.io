@@ -2,7 +2,7 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-04-10T09:40:33.271977"
+date: "2026-04-15T09:21:24.210370"
 draft: false
 sectors:
   - software

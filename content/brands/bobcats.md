@@ -2,7 +2,7 @@
 title: Bobcats
 slug: bobcats
 description: ""
-date: "2026-04-10T09:40:34.709244"
+date: "2026-04-15T09:21:25.692542"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: sports team representing Ohio University
-wikidata_url: "https://www.wikidata.org/wiki/Q4391894"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nba.com/hornets](https://www.nba.com/hornets)
-- [https://ohiobobcats.com/sports/mbball](https://ohiobobcats.com/sports/mbball)
 
 ## Brand Guidelines
 
@@ -124,23 +122,3 @@ visual_term_image_urls: {}
 - CHARLOTTE BOBCATS ORANGE HAS BECOME A BRAND OF ITS OWN. BOBCATS BLUE, BLACK & SILVER EXTEND THE COLOR PALETTE.
 - DESIGNERS FOCUSED ON 8 ATTRIBUTES TO DEVELOP A SUCCESSFUL ON-COURT IDENTITY 1 // UNIQUE STYLE/COLOR 2 // SOPHISTICATED 3 // PERFORMANCE ORIENTED 4 // BROADCAST FRIENDLY 5 // PRODUCTION ABILITY 6 // MASS AUDIENCE APPEAL 7 // PLAYER FRIENDLY 8 // LONG SHELF LIFE
 - THE BOBCATS UNIFORM // PROGRESSIVE + CLASSIC // FEATURES.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4391894) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Ohio Bobcats men's basketball |
-| Country | United States |
-| Sport | basketball |
-| League Or Competition | NCAA Division I men's basketball |
-| Competition Class | men's basketball |
-| Parent Club | Ohio Bobcats |
-| Freebase Id | /m/0289k0y |
-| Category For Members Of A Team | Category:Ohio Bobcats men's basketball players |
-| Home Venue | Convocation Center |
-| Sports Reference.Com College Basketball Team Id | ohio/men |
-| Head Coach | Jeff Boals (from 2019-03-18) |

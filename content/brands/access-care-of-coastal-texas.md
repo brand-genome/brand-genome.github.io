@@ -2,11 +2,11 @@
 title: Access Care of Coastal Texas
 slug: "access-care-of-coastal-texas"
 description: ""
-date: "2026-04-10T09:40:32.660254"
+date: "2026-04-15T09:21:23.825530"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:

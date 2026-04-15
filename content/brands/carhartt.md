@@ -2,7 +2,7 @@
 title: Carhartt
 slug: carhartt
 description: ""
-date: "2026-04-10T09:40:33.808354"
+date: "2026-04-15T09:21:24.787916"
 draft: false
 sectors:
   - fashion
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - textile
   - clothing
+  - textile
 products: []
 headquarters_locations:
   - dearborn
@@ -86,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Textile](/products_or_materials_produced/textile/); [Clothing](/products_or_materials_produced/clothing/) |
+| Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/); [Textile](/products_or_materials_produced/textile/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1889](/foundation_dates/1889/) |
 | Freebase Id | /m/08vntw |

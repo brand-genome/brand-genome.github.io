@@ -2,11 +2,11 @@
 title: Technological University of the Shannon
 slug: "technological-university-of-the-shannon"
 description: ""
-date: "2026-04-10T09:40:30.665586"
+date: "2026-04-15T09:21:22.230382"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - ireland
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries:
   - ireland
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://tus.ie](https://tus.ie)
-- [http://www.google.com](http://www.google.com)
 
 ## Additional Properties
 

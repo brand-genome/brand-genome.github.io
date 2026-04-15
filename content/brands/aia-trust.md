@@ -2,7 +2,7 @@
 title: AIA Trust
 slug: "aia-trust"
 description: ""
-date: "2026-04-10T09:40:33.668750"
+date: "2026-04-15T09:21:24.610504"
 draft: false
 sectors:
   - insurance

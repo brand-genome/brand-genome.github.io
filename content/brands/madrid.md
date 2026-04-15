@@ -2,22 +2,22 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-04-10T09:40:32.552413"
+date: "2026-04-15T09:21:23.751926"
 draft: false
 sectors:
   - tourism
 regions:
   - spain
 years:
-  - 2016
   - 2019
   - 2012
+  - 2016
 languages:
   - spanish
 tags:
   - city
-  - regional
   - tourism
+  - regional
 industries: []
 countries:
   - spain

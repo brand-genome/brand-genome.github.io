@@ -2,11 +2,11 @@
 title: World of Life
 slug: "world-of-life"
 description: ""
-date: "2026-04-10T09:40:33.390480"
+date: "2026-04-15T09:21:24.323485"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.wol.org](https://www.wol.org)
 - [https://camps.wol.org](https://camps.wol.org)
 - [http://www.wol.org](http://www.wol.org)
-- [http://www.fontsquirrel.com](http://www.fontsquirrel.com)
 
 ## Brand Guidelines
 

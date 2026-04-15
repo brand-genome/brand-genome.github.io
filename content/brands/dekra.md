@@ -2,12 +2,12 @@
 title: Dekra
 slug: dekra
 description: ""
-date: "2026-04-10T09:40:30.738146"
+date: "2026-04-15T09:21:22.329623"
 draft: false
 sectors:
   - consulting
-  - automobile
   - cybersecurity
+  - automobile
 regions:
   - germany
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - transport
+  - security
 industries: []
 countries:
   - denmark

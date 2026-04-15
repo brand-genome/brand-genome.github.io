@@ -2,7 +2,7 @@
 title: Resolute Forest Products
 slug: "resolute-forest-products"
 description: ""
-date: "2026-04-10T09:40:32.655667"
+date: "2026-04-15T09:21:23.823906"
 draft: false
 sectors:
   - "forestry-timber"

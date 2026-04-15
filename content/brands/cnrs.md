@@ -2,24 +2,23 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-04-10T09:40:32.109236"
+date: "2026-04-15T09:21:23.593879"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - france
 years:
-  - 2019
   - 2010
+  - 2019
 languages:
   - french
 tags:
-  - institution
   - science
+  - institution
 industries: []
-countries:
-  - lebanon
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -31,10 +30,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1962
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "government organization in Beirut, Lebanon"
-wikidata_url: "https://www.wikidata.org/wiki/Q30284428"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,9 +66,7 @@ visual_term_image_urls: {}
 
 - [https://www.cnrs.fr](https://www.cnrs.fr)
 - [https://www.cnrs.fr/en](https://www.cnrs.fr/en)
-- [http://www.mt180.fr](http://www.mt180.fr)
 - [http://www.cnrs.fr](http://www.cnrs.fr)
-- [http://www.cnrs.edu.lb](http://www.cnrs.edu.lb)
 
 ## Brand Guidelines
 
@@ -394,30 +389,3 @@ visual_term_image_urls: {}
 - Enfin, l’accident visuel que représente la signature, “dépasser les frontières”, intégrée dans un sens de lecture différent de celui, naturel, de l’acronyme, démontre la capacité de l’organisation à se détacher des usages courants et sa capacité à aller vers des champs inexplorés propres à l’exercice de ses missions de recherche.
 - L’architecture du logotype se construit autour d’une valeur X (X est égal à la taille totale du logotype).
 - La signature “dépasser les frontières” est écrite dans la typographie HelveticaNeue Condensed et est justifiée au centre du “n”.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30284428) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1962](/foundation_dates/1962/) |
-| Grid Id | grid.423603.0 |
-| Inception | 1962-01-01 |
-| Coordinate Location | 33.860187, 35.485855 |
-| Country | Lebanon |
-| Located In The Administrative Territorial Entity | Beirut |
-| Isni | 0000000123223037 |
-| Doi Prefix | 10.22453 |
-| Open Funder Registry Funder Id | 501100007175 |
-| Library Of Congress Authority Id | n80108849 |
-| Ror Id | 00x9ewr78 |
-| Viaf Cluster Id | 128491099 |
-| National Library Of Israel J9U Id | 987007265837705171 |
-| Short Name | CNRS-L |
-| Member Of | Agence universitaire de la Francophonie, International Science Council |
-| On Focus List Of Wikimedia Project | Wikidata:WikiProject Academic Publisher |
-| Openalex Id | P4310319237 |
-| ‎Yale Lux Id | group/4c38649e-5817-4b1e-a26e-6aacf2288f2c |

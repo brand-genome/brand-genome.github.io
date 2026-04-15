@@ -2,7 +2,7 @@
 title: France Relance
 slug: "france-relance"
 description: ""
-date: "2026-04-10T09:40:33.045309"
+date: "2026-04-15T09:21:23.987503"
 draft: false
 sectors:
   - "public-sector"

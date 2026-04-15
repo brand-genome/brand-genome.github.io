@@ -2,12 +2,12 @@
 title: Caffeine
 slug: caffeine
 description: ""
-date: "2026-04-10T09:40:33.650889"
+date: "2026-04-15T09:21:24.594985"
 draft: false
 sectors:
-  - gaming
-  - broadcasting
   - entertainment
+  - broadcasting
+  - gaming
   - "social-media"
 regions:
   - usa
@@ -31,10 +31,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1996
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +54,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Indonesian pop/rock group
-wikidata_url: "https://www.wikidata.org/wiki/Q12478159"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.caffeine.tv](https://www.caffeine.tv)
-- [http://www.caffeineband.com](http://www.caffeineband.com)
 
 ## Brand Guidelines
 
@@ -156,26 +153,3 @@ visual_term_image_urls: {}
 - Primarily used for “Live” status and logo mark
 - Used to highlight activity
 - Used to highlight specific information and differentiate between users/items
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12478159) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1996](/foundation_dates/1996/) |
-| Country Of Origin | Indonesia |
-| Musicbrainz Artist Id | 3d0e13a9-f5dd-4ae6-be98-a072a09b7afe |
-| Discogs Artist Id | 6066803 |
-| Inception | 1996 |
-| Location Of Formation | Bandung |
-| Viaf Cluster Id | 123105369 |
-| Genre | pop music, pop rock |
-| Start Of Work Period | 1996 |
-| Isni | 0000000107890497 |
-| Rate Your Music Artist Id | caffeine__idn_ |
-| Name | Caffeine |
-| Discography | Caffeine discography |
-| Image | Caffeine Band Logo.png |

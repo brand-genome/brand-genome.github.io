@@ -2,11 +2,11 @@
 title: Cal Maritime
 slug: "cal-maritime"
 description: ""
-date: "2026-04-10T09:40:32.840017"
+date: "2026-04-15T09:21:23.879561"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-04-10T09:40:31.479168"
+date: "2026-04-15T09:21:23.139527"
 draft: false
 sectors:
-  - software
   - finance
   - "ride-sharing"
+  - software
 regions:
   - indonesia
 years:
@@ -18,8 +18,8 @@ tags:
   - featured
   - financial
 industries:
-  - "online-taxi-service"
   - "software-industry"
+  - "online-taxi-service"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []

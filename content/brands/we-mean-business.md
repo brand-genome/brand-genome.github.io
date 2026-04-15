@@ -2,7 +2,7 @@
 title: We Mean Business
 slug: "we-mean-business"
 description: ""
-date: "2026-04-10T09:40:34.662207"
+date: "2026-04-15T09:21:25.654572"
 draft: false
 sectors:
   - ngo
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wemeanbusinesscoalition.org](https://www.wemeanbusinesscoalition.org)
-- [http://www.flickr.com/photos/136557332@N04](http://www.flickr.com/photos/136557332@N04)
-- [http://www.fontsquirrel.com/fonts/montserrat](http://www.fontsquirrel.com/fonts/montserrat)
 - [http://www.linkedin.com/company/wemeanbusiness](http://www.linkedin.com/company/wemeanbusiness)
 - [http://www.twitter.com/WMBtweets](http://www.twitter.com/WMBtweets)
 - [http://www.wemeanbusinesscoalition.org](http://www.wemeanbusinesscoalition.org)

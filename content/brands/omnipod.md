@@ -2,7 +2,7 @@
 title: Omnipod
 slug: omnipod
 description: ""
-date: "2026-04-10T09:40:32.500918"
+date: "2026-04-15T09:21:23.709762"
 draft: false
 sectors:
   - healthcare
@@ -15,8 +15,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: clinical trial
-wikidata_url: "https://www.wikidata.org/wiki/Q113894365"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.omnipod.com/home](https://www.omnipod.com/home)
 - [http://www.omnipod.com](http://www.omnipod.com)
-- [http://www.instagram.com](http://www.instagram.com)
-- [http://www.youtube.com](http://www.youtube.com)
 
 ## Brand Guidelines
 
@@ -106,23 +103,3 @@ visual_term_image_urls: {}
 #### Categories
 
 *Category values not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q113894365) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |
-| Start Time | 2020-11-23 |
-| Study Type | interventional study |
-| End Time | 2022-01-31 |
-| Number Of Participants | 24 |
-| Title | Evaluating the Safety and Effectiveness of the Omnipod® 5 Automated Insulin Delivery System in Patients With Type 2 Diabetes |
-| Minimum Age | 18 year |
-| Maximum Age | 75 year |
-| Clinicaltrials.Gov Id | NCT04617795 |
-| Research Site | Emory University |
-| Research Subject Recruitment Status | active, not recruiting |

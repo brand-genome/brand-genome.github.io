@@ -2,7 +2,7 @@
 title: Seat
 slug: seat
 description: ""
-date: "2026-04-10T09:40:34.148623"
+date: "2026-04-15T09:21:25.054656"
 draft: false
 sectors:
   - automobile

@@ -2,7 +2,7 @@
 title: Royal Society of Chimestry
 slug: "royal-society-of-chimestry"
 description: ""
-date: "2026-04-10T09:40:33.751498"
+date: "2026-04-15T09:21:24.727259"
 draft: false
 sectors:
   - research
@@ -64,9 +64,7 @@ visual_term_image_urls: {}
 
 - [https://www.rsc.org](https://www.rsc.org)
 - [https://pubs.rsc.org/en-us](https://pubs.rsc.org/en-us)
-- [http://www.linkedin.com](http://www.linkedin.com)
 - [http://www.rsc.org](http://www.rsc.org)
-- [http://www.youtube.com/intl/en-GB/yt/about/brand-](http://www.youtube.com/intl/en-GB/yt/about/brand-)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Edith Cowan University
 slug: "edith-cowan-university"
 description: ""
-date: "2026-04-10T09:40:34.859000"
+date: "2026-04-15T09:21:25.831356"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - australia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - australia

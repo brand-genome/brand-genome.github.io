@@ -2,7 +2,7 @@
 title: Motorola
 slug: motorola
 description: ""
-date: "2026-04-10T09:40:32.113829"
+date: "2026-04-15T09:21:23.597074"
 draft: false
 sectors:
   - hardware
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:
-  - telecommunications
   - featured
+  - telecommunications
 industries:
   - telecommunications
 countries:

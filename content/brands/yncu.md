@@ -2,7 +2,7 @@
 title: YNCU
 slug: yncu
 description: ""
-date: "2026-04-10T09:40:33.284376"
+date: "2026-04-15T09:21:24.221544"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,7 @@ languages:
 tags:
   - financial
 industries: []
-countries:
-  - "south-korea"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q12607306"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -309,18 +308,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12607306) |
-
-| Property | Value |
-|----------|-------|
-| Category For Alumni Of Educational Institution |  |
-| Freebase Id | /m/0cpbfsc |
-| Namuwiki Id | 영남사이버대학교 |
-| Country | South Korea |
-| Short Name | YNCU |
-| Kisti Id | K000115555 |

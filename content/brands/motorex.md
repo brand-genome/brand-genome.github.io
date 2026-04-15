@@ -2,7 +2,7 @@
 title: Motorex
 slug: motorex
 description: ""
-date: "2026-04-10T09:40:30.698441"
+date: "2026-04-15T09:21:22.278635"
 draft: false
 sectors:
   - "consumer-goods"

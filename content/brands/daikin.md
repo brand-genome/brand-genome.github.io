@@ -2,11 +2,11 @@
 title: Daikin
 slug: daikin
 description: ""
-date: "2026-04-10T09:40:31.477006"
+date: "2026-04-15T09:21:23.137238"
 draft: false
 sectors:
-  - hardware
   - "home-appliances"
+  - hardware
 regions:
   - japan
 years:

@@ -2,11 +2,11 @@
 title: Vintage Kellogs
 slug: "vintage-kellogs"
 description: ""
-date: "2026-04-10T09:40:30.672374"
+date: "2026-04-15T09:21:22.242007"
 draft: false
 sectors:
-  - "consumer-goods"
   - food
+  - "consumer-goods"
 regions:
   - usa
 years:

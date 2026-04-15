@@ -2,7 +2,7 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-04-10T09:40:32.197914"
+date: "2026-04-15T09:21:23.649733"
 draft: false
 sectors:
   - consulting

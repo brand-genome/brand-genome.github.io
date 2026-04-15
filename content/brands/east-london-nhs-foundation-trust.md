@@ -2,7 +2,7 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-04-10T09:40:32.121505"
+date: "2026-04-15T09:21:23.601406"
 draft: false
 sectors:
   - "public-sector"
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.elft.nhs.uk](https://www.elft.nhs.uk)
-- [http://www.nhs.uk](http://www.nhs.uk)
 
 ## Brand Guidelines
 

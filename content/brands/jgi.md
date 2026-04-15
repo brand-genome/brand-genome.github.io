@@ -2,7 +2,7 @@
 title: JGI
 slug: jgi
 description: ""
-date: "2026-04-10T09:40:33.743603"
+date: "2026-04-15T09:21:24.718582"
 draft: false
 sectors:
   - research
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Java implementation of Git
-wikidata_url: "https://www.wikidata.org/wiki/Q72274152"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 
 - [https://jgi.doe.gov](https://jgi.doe.gov)
 - [https://genome.jgi.doe.gov](https://genome.jgi.doe.gov)
-- [http://www.doe.gov](http://www.doe.gov)
-- [https://www.eclipse.org/jgit](https://www.eclipse.org/jgit)
 
 ## Brand Guidelines
 
@@ -239,26 +237,3 @@ visual_term_image_urls: {}
 - All poster layouts have 1" border clearance for framing. Size 42"x36" prints on standard plotter printer paper.
 - All poster layouts have 1" border clearance for framing Size 42"x36" prints on standard plotter printer paper
 - Color, text, information graphics and photography are tools to help make your point, not detract from it. Effects such as 3-D, gradients and unnecessary shadows add clutter, not visual interest. White space serves an important function by creating visual breathing room and focusing the viewer on your content.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q72274152) |
-
-| Property | Value |
-|----------|-------|
-| Programmed In | Java |
-| Implementation Of | Git Wire Protocol |
-| Mailing List Archive Url | https://www.eclipse.org/lists/jgit-dev/index.html |
-| Copyright License | Eclipse Public License 2.0 |
-| Source Code Repository Url | https://git.eclipse.org/c/jgit/jgit.git/, https://github.com/eclipse-jgit/jgit |
-| Repology Project Name | jgit |
-| Stack Exchange Tag | https://stackoverflow.com/tags/jgit |
-| Pypi Project | jgit |
-| Copyright Status | copyrighted |
-| Different From | Journal of Geospatial Information Technology, Eclipse EGit: Git Integration for Eclipse |
-| Swmath Work Id | 28480 |
-| Software Hash Id | swh:1:rel:cc22e05aec699bd8653ea3328107a4f14ce1264a |
-| Used By | Eclipse EGit: Git Integration for Eclipse |
-| Software Version Identifier | 0.7.0, 0.7.1, 0.8.1, 0.8.4, 0.9.1 (+5 more) |

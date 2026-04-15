@@ -2,11 +2,11 @@
 title: Switcher Studio
 slug: "switcher-studio"
 description: ""
-date: "2026-04-10T09:40:33.272328"
+date: "2026-04-15T09:21:24.210559"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - usa
 years:

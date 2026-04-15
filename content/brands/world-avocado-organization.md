@@ -2,11 +2,11 @@
 title: World Avocado Organization
 slug: "world-avocado-organization"
 description: ""
-date: "2026-04-10T09:40:34.290065"
+date: "2026-04-15T09:21:25.193769"
 draft: false
 sectors:
-  - ngo
   - food
+  - ngo
 regions:
   - international
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://avocadofruitoflife.com](https://avocadofruitoflife.com)
 - [https://avocadofruitoflife.com/about-us](https://avocadofruitoflife.com/about-us)
 - [https://www.avocadofruitoflife.com/es](https://www.avocadofruitoflife.com/es)
-- [http://www.youtube.com/watch?v=3lCMi58iRHQ](http://www.youtube.com/watch?v=3lCMi58iRHQ)
 
 ## Brand Guidelines
 

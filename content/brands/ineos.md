@@ -2,11 +2,11 @@
 title: Ineos
 slug: ineos
 description: ""
-date: "2026-04-10T09:40:30.587085"
+date: "2026-04-15T09:21:22.128206"
 draft: false
 sectors:
-  - oil
   - chemicals
+  - oil
 regions:
   - "united-kingdom"
 years:
@@ -40,11 +40,11 @@ headquarters_locations:
   - luxembourg
 subsidiaries: []
 foundation_dates:
-  - 2011
   - 1998
+  - 2011
 foundation_year_buckets:
-  - 2010S
   - 1990S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Sulfuric Acid](/products_or_materials_produced/sulfuric-acid/) |
 | Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/) |
-| Foundation Date | [2011](/foundation_dates/2011/); [1998](/foundation_dates/1998/) |
+| Foundation Date | [1998](/foundation_dates/1998/); [2011](/foundation_dates/2011/) |
 | Founded By | Jim Ratcliffe |
 | Freebase Id | /m/087gl_ |
 | Inception | 1998, 2011 |

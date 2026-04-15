@@ -2,7 +2,7 @@
 title: Del Maguey Single Village Mezcal
 slug: "del-maguey-single-village-mezcal"
 description: ""
-date: "2026-04-10T09:40:30.704741"
+date: "2026-04-15T09:21:22.288644"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

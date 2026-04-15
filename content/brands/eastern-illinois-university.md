@@ -2,7 +2,7 @@
 title: Eastern Illinois University
 slug: "eastern-illinois-university"
 description: ""
-date: "2026-04-10T09:40:31.942491"
+date: "2026-04-15T09:21:23.376681"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

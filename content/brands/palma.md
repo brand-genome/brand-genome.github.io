@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-04-10T09:40:33.393470"
+date: "2026-04-15T09:21:24.326402"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - spain
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "city in Mallorca and capital of the Balearic Islands, Spain"
-wikidata_url: "https://www.wikidata.org/wiki/Q8826"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,110 +66,9 @@ visual_term_image_urls: {}
 - [https://www.palma.cat/portal/PALMA/home.jsp?codResi=1](https://www.palma.cat/portal/PALMA/home.jsp?codResi=1)
 - [https://seuelectronica.palma.es](https://seuelectronica.palma.es)
 - [https://tufas.palma.cat](https://tufas.palma.cat)
-- [http://www.palma.cat](http://www.palma.cat)
 
 ## Brand Guidelines
 
 ### 2009
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q8826) |
-
-| Property | Value |
-|----------|-------|
-| Category For People Born Here | Category:Births in Palma de Mallorca |
-| Dewey Decimal Classification | 2--467542 |
-| Twinned Administrative Body | Gafsa, Naples, Benevento, Portofino, Las Palmas de Gran Canaria (+6 more) |
-| Country | Spain |
-| Coat Of Arms Image | Escudo de Palma de Mallorca.svg |
-| Coat Of Arms | Coats of arms of Palma de Mallorca |
-| Postal Code | 07000–07099 |
-| Image | Palma von Castell de Bellver.jpg |
-| Locator Map Image | Localització de Palma respecte de Mallorca.svg |
-| Coordinate Location | 39.566666666667, 2.6497222222222 |
-| Head Of Government | José Hila Vargas (from 2019-06-15, until 2023-06-17), Antoni Noguera Ortega (from 2017-06-30, until 2019-06-15), Jaime Martínez Llabrés (from 2023-06-17), Mateu Isern Estela |
-| Topic'S Main Category | Category:Palma de Mallorca |
-| Page Banner | Palma de Mallorca Banner.jpg |
-| Musicbrainz Area Id | 6696b7a4-693d-4392-81b4-60916aeac21c |
-| Freebase Id | /m/0jwz5 |
-| Ine Code | 07040 |
-| Population | 398,162 (as of 2013-01-01), 407,648 (as of 2012-01-01), 405,318 (as of 2011-01-01), 404,681 (as of 2010-01-01), 401,270 (as of 2009-01-01) (+20 more) |
-| Shares Border With | Algaida, Calvià, Puigpunyent, Esporles, Valldemossa (+5 more) |
-| Gnd Id | 4115833-7 |
-| Openstreetmap Relation Id | 341321 |
-| Category For People Who Died Here | Category:Deaths in Palma de Mallorca |
-| Capital Of | Balearic Islands, Kingdom of Majorca, Taifa of Mallorca, Taifa of Majorca, Taifa of Mallorca (+3 more) |
-| Viaf Cluster Id | 241381779 |
-| Elevation Above Sea Level | 13 metre |
-| Commons Gallery | Palma de Mallorca |
-| Facebook Location Id | 106466316056863 |
-| Said To Be The Same As |  |
-| Described By Source | Otto's encyclopedia, Brockhaus and Efron Encyclopedic Dictionary, Great Soviet Encyclopedia (1926–1947), Jewish Encyclopedia of Brockhaus and Efron, The Nuttall Encyclopædia (+1 more) |
-| Located In Or Next To Body Of Water | Mediterranean Sea |
-| Area | 208 square kilometre |
-| Office Held By Head Of Government | mayor of Palma |
-| Category Of Associated People | Category:People from Palma de Mallorca |
-| Library Of Congress Authority Id | n79018156 |
-| Located In Time Zone | UTC+01:00, UTC+02:00 |
-| Native Label | Palma |
-| Official Name | Palma (from 2017-01-30), Palma de Mallorca (from 2012-07-16, until 2017-01-30), Palma (from 2009-01-01, until 2012-07-16), Palma de Mallorca (until 2009-01-01) |
-| Bvmc Place Id | 2512989 |
-| Quora Topic Id | Palma-De-Mallorca-Spain |
-| U.S. National Archives Identifier | 10045130 |
-| Pactols Thesaurus Id | pcrtGoskRbK874 |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0048635 |
-| Encyclopædia Universalis Id | palma-de-majorque-palma |
-| Great Russian Encyclopedia Online Id (2017) | 2701046, 5900166 |
-| Archinform Location Id | 1719 |
-| Owner Of | Estadi Mallorca Son Moix |
-| Patron Saint | Saint Sebastian, Our Lady of Good Health |
-| Located In/On Physical Feature | Mallorca |
-| Flag Image | Flag of Mallorca.svg |
-| Who'S On First Id | 101748237 |
-| Category For Maps Or Plans | Category:Maps of Palma de Mallorca |
-| Nl Cr Aut Id | ge260685 |
-| Demonym | palmesano, palmesana, Palmesine, Palmesin, palmesano |
-| Kbpedia Id | Palma-Island |
-| Grove Art Online Id | T064920 |
-| Replaces |  |
-| Female Population | 212,870 (as of 2019-01-01) |
-| Male Population | 203,195 (as of 2019-01-01) |
-| Factgrid Item Id | Q90036 |
-| Time Of Earliest Written Record | 0123 |
-| Inspire Id | ES.IGN.BDDAE.34040707040 |
-| Great Norwegian Encyclopedia Id | Palma_de_Mallorca |
-| Partially Coincident With |  |
-| National Library Of Israel J9U Id | 987007554815205171 |
-| Museum Digital Place Id | 11410 |
-| Sbn Place Id | TO0L002609 |
-| Lex Id | Palma_de_Mallorca |
-| Category For The View Of The Item | Category:Views of Palma de Mallorca |
-| Aerial View | 18-11-30-Palma de Mallorca-RalfR2-100 0316.jpg |
-| Instagram Location Id | 15166261 |
-| Online Pwn Encyclopedia Id | 3953570 |
-| Different From | Palma |
-| Catalog Code | 79 |
-| Worldcat Entities Id | E39PBJcGhXhQfXgwcGm4kp8pyd |
-| Le Figaro Tag Id | Palma-de-Majorque |
-| Great Russian Encyclopedia Portal Id | pal-ma-gorod-effb77 |
-| Openweathermap City Id | 2512989 |
-| Located In The Administrative Territorial Entity | Balearic Islands, Mallorca |
-| Pinakes City Id | 685 |
-| Official Language | Spanish, Catalan |
-| Gran Enciclopèdia Catalana Id | palma-1 |
-| Un/Locode | ESPMI |
-| Snarc Id | Q3036 |
-| Thesaurus Linguae Aegyptiae Thesaurus Id | EDNOKMAFEBBYBCWGBBH4GH5LV4 |
-| Hikr Waypoint Id | 63380 |
-| Münzkabinett Id | location/850 |
-| Contains The Statistical Territorial Entity | s'Aranjassa, Can Pastilla, sa Casa Blanca, Es Coll d'en Rabassa, Sa Creu Vermella (+12 more) |
-| Continent | Europe |
-| ‎Yale Lux Id | place/286ae033-6f19-4e3a-a6dc-89ab0a64a745 |
-| Bbc Things Id | 4b648b8d-8f61-4da2-aae0-3fac54a97a77 |
-| History Of Topic | timeline of Palma de Mallorca |
-| Namuwiki Id | 팔마데마요르카 |

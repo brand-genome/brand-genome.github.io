@@ -2,7 +2,7 @@
 title: MZLZ
 slug: mzlz
 description: ""
-date: "2026-04-10T09:40:32.835474"
+date: "2026-04-15T09:21:23.876770"
 draft: false
 sectors:
   - "public-transportation"
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: group of stereoisomers with the chemical formula C₄₅H₇₂O₂₀
-wikidata_url: "https://www.wikidata.org/wiki/Q105175839"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -319,19 +319,3 @@ visual_term_image_urls: {}
 
 - Krovni logotip je uvijek smjesten u zaglavlje. Bez obzira na dimenzije bannera odnosi se baziraju na 1/4, 1/8 i 1/16 visine ili sirine. Na taj nacin se sistematicno prenosi vizualni identitet tvrtke.
 - Umbrella logo is always placed in the header. Regardless of the dimensions of the banner it refers based on 1/4, 1/8 and 1/16 of the height or width. In this way it is systematically transmited visual identity of the company.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105175839) |
-
-| Property | Value |
-|----------|-------|
-| Inchikey | MZLZVQZCXCMCDN-UHFFFAOYSA-N |
-| Inchi | InChI=1S/C45H72O20/c1-17-7-8-45(58-16-17)18(2)30-25(65-45)10-22-20-6-5-19-9-24(23(49)12-43(19,3)21(20)11-29(50)44(22,30)4)59-40-37(57)35(55)38(28(15-48)62-40)63-42-39(34(54)32(52)27(14-47)61-42)64-41-36(56)33(53)31(51)26(13-46)60-41/h17-28,30-42,46-49,51-57H,5-16H2,1-4H3 |
-| Canonical Smiles | O=C1CC2C(CCC3CC(OC4OC(CO)C(OC5OC(CO)C(O)C(O)C5OC6OC(CO)C(O)C(O)C6O)C(O)C4O)C(O)CC32C)C7CC8OC9(OCC(C)CC9)C(C)C8C17C |
-| Chemical Formula | C₄₅H₇₂O₂₀ |
-| Subclass Of | spirostans |
-| Pubchem Cid | 85279236 |
-| Mass | 932 dalton |

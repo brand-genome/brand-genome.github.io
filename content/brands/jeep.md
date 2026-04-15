@@ -2,7 +2,7 @@
 title: Jeep
 slug: jeep
 description: ""
-date: "2026-04-10T09:40:34.383618"
+date: "2026-04-15T09:21:25.333841"
 draft: false
 sectors:
   - automobile

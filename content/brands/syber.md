@@ -2,12 +2,12 @@
 title: Syber
 slug: syber
 description: ""
-date: "2026-04-10T09:40:33.120297"
+date: "2026-04-15T09:21:24.054276"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - entertainment
+  - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Polish people exiled to Siberia
-wikidata_url: "https://www.wikidata.org/wiki/Q7659544"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,17 +70,3 @@ visual_term_image_urls: {}
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7659544) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category |  |
-| Subclass Of | Poles |
-| Freebase Id | /m/0h0l39 |
-| National Library Of Poland Mms Id | 9810607583705606 |
-| Facet Of | population transfer in the Soviet Union |

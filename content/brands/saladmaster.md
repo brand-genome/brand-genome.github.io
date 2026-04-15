@@ -2,11 +2,11 @@
 title: Saladmaster
 slug: saladmaster
 description: ""
-date: "2026-04-10T09:40:33.282314"
+date: "2026-04-15T09:21:24.219817"
 draft: false
 sectors:
-  - "consumer-goods"
   - mlm
+  - "consumer-goods"
 regions:
   - usa
 years:

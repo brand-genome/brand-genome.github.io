@@ -2,7 +2,7 @@
 title: Hortonworks
 slug: hortonworks
 description: ""
-date: "2026-04-10T09:40:34.473927"
+date: "2026-04-15T09:21:25.413246"
 draft: false
 sectors:
   - software
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - sunnyvale
   - "palo-alto"
+  - sunnyvale
 subsidiaries: []
 foundation_dates:
   - 2011
@@ -84,7 +84,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Sunnyvale](/headquarters_locations/sunnyvale/); [Palo Alto](/headquarters_locations/palo-alto/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Sunnyvale](/headquarters_locations/sunnyvale/) |
 | Foundation Date | [2011](/foundation_dates/2011/) |
 | Headquarters Location | Sunnyvale, Palo Alto |
 | Inception | 2011-01-01 |

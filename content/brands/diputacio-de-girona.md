@@ -2,7 +2,7 @@
 title: Diputació de Girona
 slug: "diputacio-de-girona"
 description: ""
-date: "2026-04-10T09:40:33.665336"
+date: "2026-04-15T09:21:24.607638"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - catalan
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

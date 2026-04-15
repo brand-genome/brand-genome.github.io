@@ -2,21 +2,21 @@
 title: University at Albany
 slug: "university-at-albany"
 description: ""
-date: "2026-04-10T09:40:31.989279"
+date: "2026-04-15T09:21:23.422459"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
-  - 2019
   - 2003
+  - 2019
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

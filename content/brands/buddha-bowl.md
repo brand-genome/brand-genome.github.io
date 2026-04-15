@@ -2,11 +2,11 @@
 title: Buddha Bowl
 slug: "buddha-bowl"
 description: ""
-date: "2026-04-10T09:40:32.513905"
+date: "2026-04-15T09:21:23.719761"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:

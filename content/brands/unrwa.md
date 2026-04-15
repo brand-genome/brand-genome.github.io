@@ -2,11 +2,11 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-04-10T09:40:33.147353"
+date: "2026-04-15T09:21:24.076493"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -28,15 +28,15 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - education
-  - "health-care"
-  - "social-services"
-  - "emergency-service"
-  - "public-works"
   - microcredit
+  - "public-works"
+  - "emergency-service"
+  - "social-services"
+  - "health-care"
 products: []
 headquarters_locations:
-  - "gaza-city"
   - amman
+  - "gaza-city"
 subsidiaries: []
 foundation_dates:
   - 1949
@@ -92,8 +92,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Health Care](/products_or_materials_produced/health-care/); [Social Services](/products_or_materials_produced/social-services/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Public Works](/products_or_materials_produced/public-works/); [Microcredit](/products_or_materials_produced/microcredit/) |
-| Headquarters Location | [Gaza City](/headquarters_locations/gaza-city/); [Amman](/headquarters_locations/amman/) |
+| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Microcredit](/products_or_materials_produced/microcredit/); [Public Works](/products_or_materials_produced/public-works/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Social Services](/products_or_materials_produced/social-services/); [Health Care](/products_or_materials_produced/health-care/) |
+| Headquarters Location | [Amman](/headquarters_locations/amman/); [Gaza City](/headquarters_locations/gaza-city/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |
 | Viaf Cluster Id | 142614632 |

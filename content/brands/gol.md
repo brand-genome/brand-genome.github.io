@@ -2,7 +2,7 @@
 title: GOL
 slug: gol
 description: ""
-date: "2026-04-10T09:40:34.149026"
+date: "2026-04-15T09:21:25.054980"
 draft: false
 sectors:
   - airline

@@ -2,7 +2,7 @@
 title: International Skating Union
 slug: "international-skating-union"
 description: ""
-date: "2026-04-10T09:40:34.417959"
+date: "2026-04-15T09:21:25.364085"
 draft: false
 sectors:
   - sports

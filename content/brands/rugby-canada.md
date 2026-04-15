@@ -2,7 +2,7 @@
 title: Rugby Canada
 slug: "rugby-canada"
 description: ""
-date: "2026-04-10T09:40:33.445909"
+date: "2026-04-15T09:21:24.378382"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1998
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: rugby union competition in Canada
-wikidata_url: "https://www.wikidata.org/wiki/Q862133"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -73,20 +70,3 @@ visual_term_image_urls: {}
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q862133) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1998](/foundation_dates/1998/) |
-| Topic'S Main Category |  |
-| Sport | rugby union |
-| Inception | 1998 |
-| Country | Canada |
-| Dissolved, Abolished Or Demolished Date | 2009 |
-| Organizer | Rugby Canada |
-| Freebase Id | /m/099h79 |

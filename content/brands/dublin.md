@@ -2,7 +2,7 @@
 title: Dublin
 slug: dublin
 description: ""
-date: "2026-04-10T09:40:34.514974"
+date: "2026-04-15T09:21:25.448479"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.visitdublin.com](https://www.visitdublin.com)
-- [http://www.failteireland.ie/dublin](http://www.failteireland.ie/dublin)
 - [http://www.visitdublin.com](http://www.visitdublin.com)
 - [http://www.dublincity.ie](http://www.dublincity.ie)
 

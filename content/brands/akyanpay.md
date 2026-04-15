@@ -2,7 +2,7 @@
 title: Akyanpay
 slug: akyanpay
 description: ""
-date: "2026-04-10T09:40:32.577742"
+date: "2026-04-15T09:21:23.777240"
 draft: false
 sectors:
   - consulting

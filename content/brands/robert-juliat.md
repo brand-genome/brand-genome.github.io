@@ -2,11 +2,11 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-04-10T09:40:33.697287"
+date: "2026-04-15T09:21:24.657544"
 draft: false
 sectors:
-  - hardware
   - entertainment
+  - hardware
 regions:
   - france
 years:

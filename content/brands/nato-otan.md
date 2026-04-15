@@ -2,7 +2,7 @@
 title: NATO / OTAN
 slug: "nato-otan"
 description: ""
-date: "2026-04-10T09:40:34.519402"
+date: "2026-04-15T09:21:25.452216"
 draft: false
 sectors:
   - "public-sector"

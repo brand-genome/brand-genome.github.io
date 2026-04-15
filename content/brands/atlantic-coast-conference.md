@@ -2,7 +2,7 @@
 title: Atlantic Coast Conference
 slug: "atlantic-coast-conference"
 description: ""
-date: "2026-04-10T09:40:34.064423"
+date: "2026-04-15T09:21:24.979819"
 draft: false
 sectors:
   - sports
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://theacc.com](https://theacc.com)
 - [https://www.theacc.com/media](https://www.theacc.com/media)
 - [http://theacc.co/ACCBrandStandards](http://theacc.co/ACCBrandStandards)
-- [http://www.clemsontigers.com/styleguide](http://www.clemsontigers.com/styleguide)
 - [http://www.theacc.com](http://www.theacc.com)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Design and Artists Copyright Society
 slug: "design-and-artists-copyright-society"
 description: ""
-date: "2026-04-10T09:40:32.545058"
+date: "2026-04-15T09:21:23.744986"
 draft: false
 sectors:
-  - ngo
   - "legal-services"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - community
+  - cultural
 industries: []
 countries:
   - "united-kingdom"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.dacs.org.uk](https://www.dacs.org.uk)
-- [http://www.bl.uk](http://www.bl.uk)
 
 ## Brand Guidelines
 

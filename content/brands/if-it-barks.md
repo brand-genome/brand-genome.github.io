@@ -2,11 +2,11 @@
 title: if it barks
 slug: "if-it-barks"
 description: ""
-date: "2026-04-10T09:40:32.824937"
+date: "2026-04-15T09:21:23.871920"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - "consumer-goods"
+  - "veterinary-pet-care"
 regions:
   - usa
 years:

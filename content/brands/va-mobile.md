@@ -2,7 +2,7 @@
 title: VA Mobile
 slug: "va-mobile"
 description: ""
-date: "2026-04-10T09:40:34.663843"
+date: "2026-04-15T09:21:25.655947"
 draft: false
 sectors:
   - "public-sector"
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://mobile.va.gov](https://mobile.va.gov)
-- [http://developer.android.com/design/style/index.html](http://developer.android.com/design/style/index.html)
-- [http://developer.apple.com/library/ios](http://developer.apple.com/library/ios)
 - [http://www.va.gov/opa/publications](http://www.va.gov/opa/publications)
 
 ## Brand Guidelines

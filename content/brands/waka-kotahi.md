@@ -2,7 +2,7 @@
 title: Waka Kotahi
 slug: "waka-kotahi"
 description: ""
-date: "2026-04-10T09:40:34.433208"
+date: "2026-04-15T09:21:25.377668"
 draft: false
 sectors:
   - "public-sector"
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nzta.govt.nz](https://www.nzta.govt.nz)
-- [http://www.govt.nz](http://www.govt.nz)
-- [https://youtu.be/_TS5-kR9Md0](https://youtu.be/_TS5-kR9Md0)
 
 ## Brand Guidelines
 

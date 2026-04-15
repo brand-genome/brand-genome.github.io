@@ -2,7 +2,7 @@
 title: Thomas Cook
 slug: "thomas-cook"
 description: ""
-date: "2026-04-10T09:40:34.417095"
+date: "2026-04-15T09:21:25.363598"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "hospitality-industry"
   - "tourism-industry"
+  - "hospitality-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []

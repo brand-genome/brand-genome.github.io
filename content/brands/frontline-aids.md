@@ -2,16 +2,16 @@
 title: Frontline Aids
 slug: "frontline-aids"
 description: ""
-date: "2026-04-10T09:40:33.219709"
+date: "2026-04-15T09:21:24.165598"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - international
 years:
-  - 2019
   - 2021
+  - 2019
 languages:
   - english
 tags:

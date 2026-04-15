@@ -2,7 +2,7 @@
 title: Nova Scotia Power
 slug: "nova-scotia-power"
 description: ""
-date: "2026-04-10T09:40:31.390034"
+date: "2026-04-15T09:21:23.066421"
 draft: false
 sectors:
   - utilities
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - environment
   - engineering
+  - environment
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nspower.ca](https://www.nspower.ca)
-- [http://www.nslegislature.ca](http://www.nslegislature.ca)
 - [http://www.nspower.ca](http://www.nspower.ca)
 
 ## Brand Guidelines

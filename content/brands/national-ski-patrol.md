@@ -2,12 +2,12 @@
 title: National Ski Patrol
 slug: "national-ski-patrol"
 description: ""
-date: "2026-04-10T09:40:33.656412"
+date: "2026-04-15T09:21:24.599631"
 draft: false
 sectors:
-  - ngo
   - sports
   - education
+  - ngo
 regions:
   - usa
 years:

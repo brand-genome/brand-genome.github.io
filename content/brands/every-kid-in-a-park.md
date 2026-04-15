@@ -2,7 +2,7 @@
 title: Every Kid in a Park
 slug: "every-kid-in-a-park"
 description: ""
-date: "2026-04-10T09:40:32.812977"
+date: "2026-04-15T09:21:23.864381"
 draft: false
 sectors:
   - "public-sector"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.everykidoutdoors.gov/parents.htm](https://www.everykidoutdoors.gov/parents.htm)
 - [https://www.everykidoutdoors.gov/educators.htm](https://www.everykidoutdoors.gov/educators.htm)
 - [https://www.nps.gov/kids/every-kid-outdoors.htm](https://www.nps.gov/kids/every-kid-outdoors.htm)
-- [http://www.doi.gov](http://www.doi.gov)
 - [https://everykidinapark.gov](https://everykidinapark.gov)
 
 ## Brand Guidelines

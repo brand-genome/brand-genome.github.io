@@ -2,7 +2,7 @@
 title: VK
 slug: vk
 description: ""
-date: "2026-04-10T09:40:34.269637"
+date: "2026-04-15T09:21:25.183319"
 draft: false
 sectors:
   - "social-media"
@@ -13,15 +13,15 @@ years:
 languages:
   - russian
 tags:
-  - networks
   - featured
   - internet
+  - networks
 industries:
-  - "technology-company"
   - investment
+  - "technology-company"
 countries:
-  - russia
   - cyprus
+  - russia
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:
@@ -36,10 +36,10 @@ total_equity_buckets:
   - "100B-500B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "web-service"
+  - vk
   - mailru
   - mycom
-  - vk
+  - "web-service"
   - odnoklassniki
 products: []
 headquarters_locations:
@@ -101,7 +101,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Web Service](/products_or_materials_produced/web-service/); [Mailru](/products_or_materials_produced/mailru/); [Mycom](/products_or_materials_produced/mycom/); [Vk](/products_or_materials_produced/vk/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/) |
+| Product Or Material Produced | [Vk](/products_or_materials_produced/vk/); [Mailru](/products_or_materials_produced/mailru/); [Mycom](/products_or_materials_produced/mycom/); [Web Service](/products_or_materials_produced/web-service/); [Odnoklassniki](/products_or_materials_produced/odnoklassniki/) |
 | Headquarters Location | [Moscow](/headquarters_locations/moscow/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Described By Source | Lentapedia |

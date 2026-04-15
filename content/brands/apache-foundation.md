@@ -2,7 +2,7 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-04-10T09:40:34.008461"
+date: "2026-04-15T09:21:24.928850"
 draft: false
 sectors:
   - software

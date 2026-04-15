@@ -2,7 +2,7 @@
 title: Eastbay
 slug: eastbay
 description: ""
-date: "2026-04-10T09:40:33.374264"
+date: "2026-04-15T09:21:24.309226"
 draft: false
 sectors:
   - "consumer-goods"

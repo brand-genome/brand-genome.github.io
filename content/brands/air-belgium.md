@@ -2,11 +2,11 @@
 title: Air Belgium
 slug: "air-belgium"
 description: ""
-date: "2026-04-10T09:40:33.291167"
+date: "2026-04-15T09:21:24.227962"
 draft: false
 sectors:
-  - airline
   - "logistics-supply-chain"
+  - airline
 regions:
   - belgium
 years:

@@ -2,7 +2,7 @@
 title: Teakwood Landscape
 slug: "teakwood-landscape"
 description: ""
-date: "2026-04-10T09:40:32.560833"
+date: "2026-04-15T09:21:23.759343"
 draft: false
 sectors:
   - architecture

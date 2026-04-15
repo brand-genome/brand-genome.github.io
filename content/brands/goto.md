@@ -2,7 +2,7 @@
 title: GoTo
 slug: goto
 description: ""
-date: "2026-04-10T09:40:32.129538"
+date: "2026-04-15T09:21:23.607256"
 draft: false
 sectors:
   - software

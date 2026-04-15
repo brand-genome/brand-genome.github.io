@@ -2,7 +2,7 @@
 title: "Dooney & Bourke"
 slug: "dooney-bourke"
 description: ""
-date: "2026-04-10T09:40:34.271365"
+date: "2026-04-15T09:21:25.184401"
 draft: false
 sectors:
   - fashion

@@ -2,11 +2,11 @@
 title: Harvard Design School
 slug: "harvard-design-school"
 description: ""
-date: "2026-04-10T09:40:30.898453"
+date: "2026-04-15T09:21:22.520272"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - education
   - design
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gsd.harvard.edu](https://www.gsd.harvard.edu)
-- [http://www.harvard.edu](http://www.harvard.edu)
 
 ## Brand Guidelines
 

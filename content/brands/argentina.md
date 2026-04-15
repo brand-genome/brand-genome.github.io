@@ -2,7 +2,7 @@
 title: Argentina
 slug: argentina
 description: ""
-date: "2026-04-10T09:40:34.066502"
+date: "2026-04-15T09:21:24.981229"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - argentina
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "men's national association football team representing Argentina"
-wikidata_url: "https://www.wikidata.org/wiki/Q79800"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +65,6 @@ visual_term_image_urls: {}
 - [https://argentina.ar/es](https://argentina.ar/es)
 - [https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais](https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais)
 - [https://www.argentina.gob.ar/reglamento-de-la-marca-pais](https://www.argentina.gob.ar/reglamento-de-la-marca-pais)
-- [https://www.afa.com.ar/en/posts/categories/selecciones](https://www.afa.com.ar/en/posts/categories/selecciones)
 
 ## Brand Guidelines
 
@@ -303,56 +301,3 @@ visual_term_image_urls: {}
 - Contenedor circular enmascarando las imágenes.
 - El recorrido de la A de izquierda a derecha representa la rotación del globo terraqueo.
 - Cierra con el identificador.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q79800) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Argentina national football team |
-| Freebase Id | /m/02bh_v |
-| Participant In | 2008 Summer Olympics medal table, 1982 FIFA World Cup, 1986 FIFA World Cup, 1978 FIFA World Cup, 2002 FIFA World Cup (+17 more) |
-| Sport | association football |
-| Country For Sport | Argentina |
-| X (Twitter) Username | Argentina (as of 2018-05-10, from 2014-05-14) |
-| Country | Argentina |
-| Official Name | Selección de fútbol de Argentina |
-| Facebook Username | AFASeleccionArgentina |
-| Fifa Country Code | ARG |
-| Quora Topic Id | Argentina-National-Football-Team |
-| Head Coach | Lionel Scaloni (from 2018-08-02) |
-| Team Captain | Lionel Messi |
-| Home Venue | Mas Monumental Stadium |
-| Statistical Leader | Lionel Messi |
-| Ranking | 1 (as of 2015-10-01), 1 (as of 2015-08-06), 1 (as of 2015-09-03), 1 (as of 2015-07-09), 1 (as of 2016-06-02) (+275 more) |
-| Competition Class | men's association football |
-| Owned By | Argentine Football Association |
-| Flag Image | Flag of Argentina.svg |
-| History Of Topic | history of the Argentina national football team |
-| Instagram Username | afaseleccion |
-| Transfermarkt Team Id | 3437 |
-| Member Of | CONMEBOL (from 1916), FIFA (from 1912) |
-| Social Media Followers | 3,881,797 (as of 2021-01-04), 3,279,491 (as of 2018-05-10), 4,325,662 (as of 2022-02-26), 5,398,516 (as of 2023-02-06) |
-| X Topic Id | 731226234080788481 |
-| Nickname | La Albiceleste |
-| Competition Won | Copa Centenario Revolución de Mayo, 1921 South American Championship, 1925 South American Championship, 1927 South American Championship, 1929 South American Championship (+18 more) |
-| Opta Football Team Id | 632 |
-| Footballdatabase.Eu Team Id | 455 |
-| Kit Supplier | Adidas AG |
-| Fandom Article Id | football:Argentina_national_football_team |
-| Google Doodle | celebrating-the-2022-world-cup-champions-argentina |
-| Baidu Tieba Name | 阿根廷 (as of 2023-03-05) |
-| Great Russian Encyclopedia Portal Id | sbornaia-argentiny-po-futbolu-93718b |
-| L’Équipe Football Team Id | 642 |
-| Goalzz.Com Team Id | 338 |
-| Vikidia Article Id | it:Nazionale_di_calcio_dell'Argentina, fr:Équipe_d'Argentine_de_football |
-| Bbc Things Id | da7ff3fd-eb71-4cf8-abb1-a8d025e9e135 |
-| National Football Teams.Com Team Id | 9 |
-| Scorebar / Soccerway Team Id | 132 |
-| Short Name | Аргентына, Argentina |
-| Category For Members Of A Team | Category:Argentina men's international footballers |
-| Hindustan Times Topic Id | argentina-football-team |
-| Subclass Of | national sports team |

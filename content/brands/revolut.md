@@ -2,7 +2,7 @@
 title: Revolut
 slug: revolut
 description: ""
-date: "2026-04-10T09:40:30.835003"
+date: "2026-04-15T09:21:22.445348"
 draft: false
 sectors:
   - finance
@@ -26,10 +26,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "transactional-account"
   - "foreign-exchange-market"
-  - insurance
+  - "transactional-account"
   - "bureau-de-change"
+  - insurance
   - "debit-card"
 products: []
 headquarters_locations:
@@ -252,7 +252,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Transactional Account](/products_or_materials_produced/transactional-account/); [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Insurance](/products_or_materials_produced/insurance/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Debit Card](/products_or_materials_produced/debit-card/) |
+| Product Or Material Produced | [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Transactional Account](/products_or_materials_produced/transactional-account/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Insurance](/products_or_materials_produced/insurance/); [Debit Card](/products_or_materials_produced/debit-card/) |
 | Headquarters Location | [London](/headquarters_locations/london/) |
 | Foundation Date | [2015](/foundation_dates/2015/) |
 | Motto Text | Simply Revolutionary, Change the way you money. |

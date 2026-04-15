@@ -2,7 +2,7 @@
 title: NSW Department of Education
 slug: "nsw-department-of-education"
 description: ""
-date: "2026-04-10T09:40:31.582034"
+date: "2026-04-15T09:21:23.219959"
 draft: false
 sectors:
   - "public-sector"
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://education.nsw.gov.au](https://education.nsw.gov.au)
 - [http://www.instagram.com/nsweducation](http://www.instagram.com/nsweducation)
 - [http://www.youtube.com/NSWDepartmentofEducation](http://www.youtube.com/NSWDepartmentofEducation)
-- [http://www.zendesk.com](http://www.zendesk.com)
 
 ## Additional Properties
 

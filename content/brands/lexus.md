@@ -2,7 +2,7 @@
 title: Lexus
 slug: lexus
 description: ""
-date: "2026-04-10T09:40:34.730962"
+date: "2026-04-15T09:21:25.711301"
 draft: false
 sectors:
   - automobile

@@ -2,7 +2,7 @@
 title: America’s NAVY
 slug: "americas-navy"
 description: ""
-date: "2026-04-10T09:40:33.381738"
+date: "2026-04-15T09:21:24.314840"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.navy.com](https://www.navy.com)
 - [https://aws.navy.com](https://aws.navy.com)
-- [http://www.dvidshub.net](http://www.dvidshub.net)
 
 ## Brand Guidelines
 

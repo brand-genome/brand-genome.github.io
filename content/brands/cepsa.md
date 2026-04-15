@@ -2,11 +2,11 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-04-10T09:40:30.782038"
+date: "2026-04-15T09:21:22.381208"
 draft: false
 sectors:
-  - "petrol-station"
   - "renewable-energy"
+  - "petrol-station"
 regions:
   - spain
 years:

@@ -2,12 +2,12 @@
 title: Itron
 slug: itron
 description: ""
-date: "2026-04-10T09:40:34.388666"
+date: "2026-04-15T09:21:25.338509"
 draft: false
 sectors:
+  - utilities
   - software
   - hardware
-  - utilities
 regions:
   - usa
 years:
@@ -32,8 +32,8 @@ headquarters_locations:
   - "liberty-lake"
 subsidiaries: []
 foundation_dates:
-  - 1977
   - 1972
+  - 1977
 foundation_year_buckets:
   - 1970S
 lightings: []
@@ -87,7 +87,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Liberty Lake](/headquarters_locations/liberty-lake/) |
-| Foundation Date | [1977](/foundation_dates/1977/); [1972](/foundation_dates/1972/) |
+| Foundation Date | [1972](/foundation_dates/1972/); [1977](/foundation_dates/1977/) |
 | Stock Exchange | Nasdaq (from 1993-11-05) |
 | Headquarters Location | Liberty Lake |
 | Inception | 1972, 1977 |

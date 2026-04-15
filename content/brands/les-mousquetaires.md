@@ -2,11 +2,11 @@
 title: Les mousquetaires
 slug: "les-mousquetaires"
 description: ""
-date: "2026-04-10T09:40:33.149228"
+date: "2026-04-15T09:21:24.077954"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - france
 years:

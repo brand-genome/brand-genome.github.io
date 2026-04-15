@@ -2,21 +2,21 @@
 title: Florida Atlantic University
 slug: "florida-atlantic-university"
 description: ""
-date: "2026-04-10T09:40:30.977713"
+date: "2026-04-15T09:21:22.595091"
 draft: false
 sectors:
   - university
 regions:
   - usa
 years:
-  - 2020
   - 2024
   - 2014
+  - 2020
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

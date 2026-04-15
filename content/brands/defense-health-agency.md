@@ -2,7 +2,7 @@
 title: Defense Health Agency
 slug: "defense-health-agency"
 description: ""
-date: "2026-04-10T09:40:33.038935"
+date: "2026-04-15T09:21:23.982451"
 draft: false
 sectors:
   - "public-sector"
@@ -17,8 +17,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: clinical trial
-wikidata_url: "https://www.wikidata.org/wiki/Q113922817"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -166,24 +165,3 @@ visual_term_image_urls: {}
 - R: 90 G: 171 B: 70 C: 69 M: 9 Y: 100 K: 0 HEX: #5AAB46
 - R: 184 G: 32 B: 46 C: 19 M: 100 Y: 90 K: 9 HEX: #B8202E Pantone: 181 C
 - R: 255 G: 208 B: 63 C: 0 M: 17 Y: 85 K: 0 HEX: #FFD03F
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q113922817) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |
-| Start Time | 2021-09-15 |
-| Study Type | observational study |
-| End Time | 2022-06-30 |
-| Medical Condition | chronic pain, pain |
-| Number Of Participants | 350 |
-| Title | Defense Health Agency- Development of a Medical Device Utilizing an EEG-Based Algorithm for the Objective Quantification of Pain |
-| Short Name | PQXDOD1 |
-| Minimum Age | 18 year |
-| Maximum Age | 85 year |
-| Clinicaltrials.Gov Id | NCT05215184 |
-| Research Subject Recruitment Status | recruiting |

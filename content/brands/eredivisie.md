@@ -2,7 +2,7 @@
 title: Eredivisie
 slug: eredivisie
 description: ""
-date: "2026-04-10T09:40:30.727293"
+date: "2026-04-15T09:21:22.317127"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - netherlands
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: highest professional ice hockey league in the Netherlands
-wikidata_url: "https://www.wikidata.org/wiki/Q2164956"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://eredivisie.nl](https://eredivisie.nl)
 - [https://eredivisie.eu/home](https://eredivisie.eu/home)
-- [http://www.nijb.nl](http://www.nijb.nl)
 
 ## Brand Guidelines
 
@@ -185,18 +183,3 @@ visual_term_image_urls: {}
 - <table><tr> <td> ED. MOROCCO</td> <td></td> <td></td> </tr> <tr> <td> DARK RUBY RED</td> <td> DARK</td> <td> LIGHT</td> </tr></table>
 - <table><tr> <td> PMS</td> <td colspan=4> 802</td> <td> PMS</td> <td colspan=4> 179</td> <td> PMS</td> <td colspan=4> 188</td> <td colspan=4> 419</td> <td> 7499</td> </tr> <tr> <td> CMYK</td> <td> 62</td> <td> 0</td> <td> 71</td> <td> 15</td> <td> CMYK</td> <td> 0</td> <td> 90</td> <td> 74</td> <td> 0</td> <td> CMYK</td> <td> 0</td> <td> 100</td> <td> 82</td> <td> 53</td> <td> 7</td> <td> 0</td> <td> 7</td> <td> 90</td> <td> 0 1 15 0</td> </tr> <tr> <td> RGB</td> <td> 83</td> <td rowspan=2> 218</td> <td rowspan=2 colspan=2> 63</td> <td> RGB</td> <td> 233</td> <td rowspan=2> 55</td> <td rowspan=2> 55</td> <td> RGB</td> <td> 121</td> <td rowspan=2> 0</td> <td rowspan=2> 22</td> <td> 28</td> <td rowspan=2> 30</td> <td rowspan=2 colspan=2> 28</td> <td> 255 251 217</td> </tr> <tr> <td> HEX</td> <td colspan=4> #1DED76</td> <td> HEX</td> <td colspan=4> #E93737</td> <td> HEX</td> <td colspan=4> #790016</td> <td colspan=4> #lAlFlC</td> <td> #FFFBD9</td> </tr></table>
 - MOROCCO KEEP THE COUNTRY-SPECIFIC READING DIRECTION IN MIND FROM RIGHT TO LEFT HOME OF DUTCH FOOTBALL
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2164956) |
-
-| Property | Value |
-|----------|-------|
-| Country | Netherlands |
-| Sport | ice hockey |
-| Topic'S Main Category | Category:Eredivisie (ice hockey) |
-| Subclass Of | national championship |
-| Freebase Id | /m/0n49m79 |
-| League Level Below | Tweede Divisie |

@@ -2,7 +2,7 @@
 title: Gilette children’s
 slug: "gilette-childrens"
 description: ""
-date: "2026-04-10T09:40:31.458852"
+date: "2026-04-15T09:21:23.114311"
 draft: false
 sectors:
   - research

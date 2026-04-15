@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-04-10T09:40:33.041917"
+date: "2026-04-15T09:21:23.984860"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - israel
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries:
   - "computer-security-software"
 countries:

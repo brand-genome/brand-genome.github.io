@@ -2,12 +2,12 @@
 title: Flipboard
 slug: flipboard
 description: ""
-date: "2026-04-10T09:40:34.482566"
+date: "2026-04-15T09:21:25.420646"
 draft: false
 sectors:
+  - "social-media"
   - software
   - publishing
-  - "social-media"
 regions:
   - usa
 years:

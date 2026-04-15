@@ -2,7 +2,7 @@
 title: Norske Skog
 slug: "norske-skog"
 description: ""
-date: "2026-04-10T09:40:33.816084"
+date: "2026-04-15T09:21:24.794114"
 draft: false
 sectors:
   - "forestry-timber"
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 
 - [https://www.norskeskog.com](https://www.norskeskog.com)
 - [http://www.norskeskog.com](http://www.norskeskog.com)
-- [http://www.google.com](http://www.google.com)
 - [https://norskeskog.com](https://norskeskog.com)
 
 ## Brand Guidelines

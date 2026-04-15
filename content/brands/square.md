@@ -2,13 +2,13 @@
 title: Square
 slug: square
 description: ""
-date: "2026-04-10T09:40:30.946010"
+date: "2026-04-15T09:21:22.556849"
 draft: false
 sectors:
   - hospitality
 regions:
-  - usa
   - belgium
+  - usa
 years:
   - 2007
 languages:
@@ -16,10 +16,8 @@ languages:
 tags:
   - institut
   - financial
-industries:
-  - "video-game-industry"
-countries:
-  - japan
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,16 +25,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "video-game"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - meguro
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1986
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Japanese video game company
-wikidata_url: "https://www.wikidata.org/wiki/Q739552"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://square-brussels.com](https://square-brussels.com)
-- [http://www.square.co.jp](http://www.square.co.jp)
 
 ## Brand Guidelines
 
@@ -334,46 +327,3 @@ visual_term_image_urls: {}
 
 - The strapline ‘BRUSSELS MEETING CENTRE’ must appear whenever the logo is used. The positioning and relationship to the logo cannot be altered. The strapline can be used in isolation.
 - Do not remove the strapline
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q739552) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Video Game](/products_or_materials_produced/video-game/) |
-| Headquarters Location | [Meguro](/headquarters_locations/meguro/) |
-| Foundation Date | [1986](/foundation_dates/1986/) |
-| Musicbrainz Label Id | faff5e7a-40c6-4572-8d72-09d21be8c460 |
-| Followed By | Square Enix |
-| Founded By | Masashi Miyamoto |
-| Topic'S Main Category | Category:Square (video game company) |
-| Freebase Id | /m/070ny |
-| Inception | 1986-09 |
-| Dissolved, Abolished Or Demolished Date | 2003 |
-| Headquarters Location | Meguro |
-| Industry | video game industry |
-| Legal Form | kabushiki gaisha |
-| Quora Topic Id | Square-Soft |
-| Mobygames Company Id (Former Scheme) | square-co-ltd |
-| Country | Japan |
-| Replaced By | Square Enix |
-| Owner Of | Final Fantasy, Square Electronic Arts ICR DATA HP |
-| Director / Manager | Yoichi Wada |
-| Product Or Material Produced | video game |
-| Giant Bomb Id (Former Scheme) | 3010-6323 |
-| Viaf Cluster Id | 252048561 |
-| Snesmusic.Org Company Id | 1 |
-| Launchbox Games Database Publisher Id | 31 |
-| Launchbox Games Database Developer Id | 14, 2711 |
-| Fandom Article Id | square:Square, nintendo:Square_Co., chrono:Square_Co., video-games:Square |
-| Fandom Wiki Id | square |
-| Media Arts Database Id | C44883 |
-| Videogamegeek Company Id | 13320 |
-| Musicbrainz Artist Id | 723f80c4-7e00-46b0-b739-49ebe17c8f8f |
-| Mobygames Company Id | 1120 |
-| Visual Novel Database Id | p46 |
-| Gaming Wiki Network Article Id | finalfantasy:Square |
-| My Abandonware Company Id | 3u2 |

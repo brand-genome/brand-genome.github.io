@@ -2,7 +2,7 @@
 title: Montréal
 slug: montreal
 description: ""
-date: "2026-04-10T09:40:30.726275"
+date: "2026-04-15T09:21:22.315629"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - french
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

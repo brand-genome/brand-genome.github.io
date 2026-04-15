@@ -2,11 +2,11 @@
 title: La Plagne
 slug: "la-plagne"
 description: ""
-date: "2026-04-10T09:40:32.974140"
+date: "2026-04-15T09:21:23.930357"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - france
 years:
@@ -65,12 +65,9 @@ visual_term_image_urls: {}
 
 - [https://www.la-plagne.com](https://www.la-plagne.com)
 - [https://paradiski.com](https://paradiski.com)
-- [http://www.champagny.com](http://www.champagny.com)
 - [http://www.esfplagneaime2000.com](http://www.esfplagneaime2000.com)
 - [http://www.la-plagne.com](http://www.la-plagne.com)
-- [http://www.montalbert.com](http://www.montalbert.com)
 - [http://www.montchavin-la-plagne.com](http://www.montchavin-la-plagne.com)
-- [http://www.raquette.net](http://www.raquette.net)
 
 ## Brand Guidelines
 

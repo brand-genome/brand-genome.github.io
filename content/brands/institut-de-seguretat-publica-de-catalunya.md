@@ -2,7 +2,7 @@
 title: Institut de Seguretat Pública de Catalunya
 slug: "institut-de-seguretat-publica-de-catalunya"
 description: ""
-date: "2026-04-10T09:40:30.826738"
+date: "2026-04-15T09:21:22.435098"
 draft: false
 sectors:
   - "public-sector"
@@ -63,4 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ispc.gencat.cat](https://ispc.gencat.cat)
-- [https://identitatcorporativa.gencat.cat](https://identitatcorporativa.gencat.cat)

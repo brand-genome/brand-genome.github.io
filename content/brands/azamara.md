@@ -2,12 +2,12 @@
 title: Azamara
 slug: azamara
 description: ""
-date: "2026-04-10T09:40:33.356969"
+date: "2026-04-15T09:21:24.291881"
 draft: false
 sectors:
-  - hospitality
   - tourism
   - cruise
+  - hospitality
 regions:
   - usa
 years:

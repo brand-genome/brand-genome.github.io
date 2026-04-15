@@ -2,7 +2,7 @@
 title: Sisense
 slug: sisense
 description: ""
-date: "2026-04-10T09:40:31.999269"
+date: "2026-04-15T09:21:23.428008"
 draft: false
 sectors:
   - software

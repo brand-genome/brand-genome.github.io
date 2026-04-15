@@ -2,15 +2,15 @@
 title: City of Edmonton
 slug: "city-of-edmonton"
 description: ""
-date: "2026-04-10T09:40:31.977260"
+date: "2026-04-15T09:21:23.409125"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - canada
 years:
-  - 2022
   - 2017
+  - 2022
 languages:
   - english
 tags:
@@ -31,13 +31,13 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1795
-  - 1904
   - 1892
+  - 1904
+  - 1795
 foundation_year_buckets:
-  - "19TH-CENTURY"
-  - 1900S
   - "18TH-CENTURY"
+  - 1900S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -93,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1795](/foundation_dates/1795/); [1904](/foundation_dates/1904/); [1892](/foundation_dates/1892/) |
+| Foundation Date | [1892](/foundation_dates/1892/); [1904](/foundation_dates/1904/); [1795](/foundation_dates/1795/) |
 | Twinned Administrative Body | Harbin (from 1985-12-05), Nashville (from 1990), Wonju (from 1998), Bergen op Zoom (from 2013), Gatineau (from 1967) (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:Edmonton |
 | Country | Canada |

@@ -2,11 +2,11 @@
 title: Singapore Management University
 slug: "singapore-management-university"
 description: ""
-date: "2026-04-10T09:40:34.506326"
+date: "2026-04-15T09:21:25.441000"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - singapore
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - singapore
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.smu.edu.sg](https://www.smu.edu.sg)
-- [http://www.smu.edu](http://www.smu.edu)
 - [http://www.smu.edu.sg](http://www.smu.edu.sg)
 
 ## Brand Guidelines

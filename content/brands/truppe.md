@@ -2,7 +2,7 @@
 title: Truppe
 slug: truppe
 description: ""
-date: "2026-04-10T09:40:30.556096"
+date: "2026-04-15T09:21:22.076855"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

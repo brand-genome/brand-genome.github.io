@@ -2,7 +2,7 @@
 title: Ontario Soccer
 slug: "ontario-soccer"
 description: ""
-date: "2026-04-10T09:40:34.289947"
+date: "2026-04-15T09:21:25.193661"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: football league
-wikidata_url: "https://www.wikidata.org/wiki/Q7094899"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ontariosoccer.net](https://www.ontariosoccer.net)
-- [http://www.google.com](http://www.google.com)
 - [http://www.ontariosoccer.net](http://www.ontariosoccer.net)
 
 ## Brand Guidelines
@@ -71,15 +69,3 @@ visual_term_image_urls: {}
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7094899) |
-
-| Property | Value |
-|----------|-------|
-| Sport | association football |
-| Country | Canada |
-| Freebase Id | /m/03yczqp |

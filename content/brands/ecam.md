@@ -2,7 +2,7 @@
 title: ECAM
 slug: ecam
 description: ""
-date: "2026-04-10T09:40:33.409715"
+date: "2026-04-15T09:21:24.339595"
 draft: false
 sectors:
   - education

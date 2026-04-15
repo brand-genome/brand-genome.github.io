@@ -2,11 +2,11 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-04-10T09:40:34.384348"
+date: "2026-04-15T09:21:25.334585"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:

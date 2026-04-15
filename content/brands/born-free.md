@@ -2,7 +2,7 @@
 title: Born Free
 slug: "born-free"
 description: ""
-date: "2026-04-10T09:40:32.550437"
+date: "2026-04-15T09:21:23.750264"
 draft: false
 sectors:
   - ngo
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: song by recording artist M.I.A.
-wikidata_url: "https://www.wikidata.org/wiki/Q893919"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -208,26 +208,3 @@ visual_term_image_urls: {}
 - Letterhead: 210mm x 297mm. Stock recommendation: White 150gsm Uncoated
 - Compliment slip: 99mm x 210mm. Stock recommendation: White 150gsm Uncoated
 - 1. Name, Born Free Sans: 9pt 2. Title, Helvetica Light 45: 8pt 3. Details, Helvetica Light 45: 6pt
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q893919) |
-
-| Property | Value |
-|----------|-------|
-| Performer | M.I.A. |
-| Record Label | XL Recordings, N.E.E.T. Recordings, Interscope Records |
-| Lyricist | Martin Rev, M.I.A., Switch, Alan Vega |
-| Freebase Id | /m/0br_h56 |
-| Musicbrainz Work Id | 0c8903d0-c2e7-3a24-9800-c2a17f5f27d4 |
-| Metrolyrics Id | born-free-lyrics-mia |
-| Part Of | Maya |
-| Babelnet Id | 02072381n |
-| Genre | alternative rock |
-| Follows | Paper Planes |
-| Followed By | XXXO |
-| Form Of Creative Work | song |
-| Publication Date | 2010-04-23 |
-| Language Of Work Or Name | English |

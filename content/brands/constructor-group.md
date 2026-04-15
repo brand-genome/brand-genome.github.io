@@ -2,13 +2,13 @@
 title: Constructor Group
 slug: "constructor-group"
 description: ""
-date: "2026-04-10T09:40:30.747383"
+date: "2026-04-15T09:21:22.340972"
 draft: false
 sectors:
-  - "e-learning-edtech"
-  - education
-  - finance
   - university
+  - "e-learning-edtech"
+  - finance
+  - education
 regions:
   - switzerland
 years:

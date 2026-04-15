@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-04-10T09:40:33.065171"
+date: "2026-04-15T09:21:24.003967"
 draft: false
 sectors:
   - "real-estate"
@@ -15,8 +15,7 @@ languages:
 tags:
   - "real-estate"
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Real estate brokerage office (franchise)
-wikidata_url: "https://www.wikidata.org/wiki/Q137371862"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,7 +70,6 @@ visual_term_image_urls: {}
 - [https://kwland.com](https://kwland.com)
 - [https://kwworldwide.com](https://kwworldwide.com)
 - [https://mykwapp.com](https://mykwapp.com)
-- [https://www.kellerwilliamslarchmont.com](https://www.kellerwilliamslarchmont.com)
 
 ## Brand Guidelines
 
@@ -187,16 +185,3 @@ visual_term_image_urls: {}
 - Market Center Branded
 - Agent Branded
 - Agent Branded with Photo
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q137371862) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |
-| Parent Organization Or Unit | Keller Williams Realty |
-| Street Address | 118 N Larchmont Blvd, Los Angeles, CA 90004, United States |
-| Phone Number | +1 323-762-2600 |

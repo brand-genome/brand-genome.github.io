@@ -2,7 +2,7 @@
 title: "Colby-Sawyer College"
 slug: "colby-sawyer-college"
 description: ""
-date: "2026-04-10T09:40:33.142457"
+date: "2026-04-15T09:21:24.073057"
 draft: false
 sectors:
   - university

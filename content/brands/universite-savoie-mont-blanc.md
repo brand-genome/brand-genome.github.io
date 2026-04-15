@@ -2,7 +2,7 @@
 title: "Université Savoie Mont-Blanc"
 slug: "universite-savoie-mont-blanc"
 description: ""
-date: "2026-04-10T09:40:30.814228"
+date: "2026-04-15T09:21:22.417503"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

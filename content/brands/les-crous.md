@@ -2,7 +2,7 @@
 title: Les Crous
 slug: "les-crous"
 description: ""
-date: "2026-04-10T09:40:34.699611"
+date: "2026-04-15T09:21:25.684673"
 draft: false
 sectors:
   - "public-sector"

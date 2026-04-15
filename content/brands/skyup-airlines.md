@@ -2,7 +2,7 @@
 title: SkyUp Airlines
 slug: "skyup-airlines"
 description: ""
-date: "2026-04-10T09:40:30.593109"
+date: "2026-04-15T09:21:22.135626"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - ukraine

@@ -2,7 +2,7 @@
 title: SkillsUSA
 slug: skillsusa
 description: ""
-date: "2026-04-10T09:40:33.673489"
+date: "2026-04-15T09:21:24.614983"
 draft: false
 sectors:
   - education

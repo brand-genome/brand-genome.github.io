@@ -2,11 +2,11 @@
 title: Médecins du Monde
 slug: "medecins-du-monde"
 description: ""
-date: "2026-04-10T09:40:31.468376"
+date: "2026-04-15T09:21:23.127621"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []

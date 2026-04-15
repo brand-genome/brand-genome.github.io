@@ -2,7 +2,7 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-04-10T09:40:34.141851"
+date: "2026-04-15T09:21:25.049151"
 draft: false
 sectors:
   - brewery
@@ -16,8 +16,7 @@ languages:
 tags:
   - "food-beverage"
 industries: []
-countries:
-  - "united-kingdom-of-great-britain-and-ireland"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "1849 United Kingdom of Great Britain and Ireland Act of Parliament 12 & 13 Vic c. 22"
-wikidata_url: "https://www.wikidata.org/wiki/Q106327489"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -172,23 +171,3 @@ visual_term_image_urls: {}
 ##### Visual Style
 
 - As the primary visual identifier of Land-Grant, it is important that the mark and logotype not be altered in any way. In all Land-Grant communications, from print to broadcast to web applications, and in all partnership and sponsorship programs that call for additional graphics, the mark and logotype should be highly visible and unmistakable.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106327489) |
-
-| Property | Value |
-|----------|-------|
-| Country | United Kingdom of Great Britain and Ireland |
-| Short Name | Land Grants, New South Wales Act 1849 |
-| Official Name | An act to remove Doubts concerning the Validity of certain Grants of Land in the Colony of New South Wales. |
-| Applies To Jurisdiction | United Kingdom of Great Britain and Ireland |
-| Publication Date | 1849 |
-| Legislated By | Parliament of the United Kingdom |
-| Legal Citation Of This Text | 12 & 13 Vict. c. 22 |
-| Work Available At Url | https://archive.org/details/acollectionpubl10britgoog |
-| Part Of The Series | 12 & 13 Vic |
-| Uk Parliament Id | OOSNo77q |
-| Date Of Promulgation | 1849-05-24 |

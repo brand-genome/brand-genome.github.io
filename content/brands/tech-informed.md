@@ -2,7 +2,7 @@
 title: Tech Informed
 slug: "tech-informed"
 description: ""
-date: "2026-04-10T09:40:32.478271"
+date: "2026-04-15T09:21:23.690798"
 draft: false
 sectors:
   - publishing

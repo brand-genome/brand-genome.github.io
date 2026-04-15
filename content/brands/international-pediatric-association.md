@@ -2,11 +2,11 @@
 title: International Pediatric Association
 slug: "international-pediatric-association"
 description: ""
-date: "2026-04-10T09:40:33.992953"
+date: "2026-04-15T09:21:24.915152"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - international
 years:

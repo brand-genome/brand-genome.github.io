@@ -2,7 +2,7 @@
 title: Yoakley Care
 slug: "yoakley-care"
 description: ""
-date: "2026-04-10T09:40:33.786547"
+date: "2026-04-15T09:21:24.765325"
 draft: false
 sectors:
   - ngo

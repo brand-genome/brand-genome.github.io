@@ -2,7 +2,7 @@
 title: Targetti
 slug: targetti
 description: ""
-date: "2026-04-10T09:40:33.663204"
+date: "2026-04-15T09:21:24.606306"
 draft: false
 sectors:
   - hardware

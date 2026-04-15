@@ -2,7 +2,7 @@
 title: Oracle PartnerNetwork
 slug: "oracle-partnernetwork"
 description: ""
-date: "2026-04-10T09:40:34.903949"
+date: "2026-04-15T09:21:25.872132"
 draft: false
 sectors:
   - software

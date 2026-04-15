@@ -2,7 +2,7 @@
 title: Klarna
 slug: klarna
 description: ""
-date: "2026-04-10T09:40:30.984214"
+date: "2026-04-15T09:21:22.602663"
 draft: false
 sectors:
   - finance

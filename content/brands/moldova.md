@@ -2,11 +2,11 @@
 title: Moldova
 slug: moldova
 description: ""
-date: "2026-04-10T09:40:30.594233"
+date: "2026-04-15T09:21:22.137635"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - moldova
 years:
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1600
-foundation_year_buckets:
-  - "16TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "town in Caraș-Severin County, Romania"
-wikidata_url: "https://www.wikidata.org/wiki/Q829051"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +66,6 @@ visual_term_image_urls: {}
 - [https://moldova.travel/ro](https://moldova.travel/ro)
 - [https://turism.gov.md/en](https://turism.gov.md/en)
 - [https://turism.gov.md/ro](https://turism.gov.md/ro)
-- [http://www.moldova-noua.ro](http://www.moldova-noua.ro)
 
 ## Brand Guidelines
 
@@ -211,49 +208,3 @@ visual_term_image_urls: {}
 - The Investment Agency of the Republic of Moldova may modify or amend this guide at any time to the extent permitted by law . The Investment Agency of the Republic of Moldova is not responsible for the way of use of this guide . In order to ensure the integrity of all images, applications must be submitted for approval to the Investment Agency of the Republic of Moldova, following the rules set out in this guide or under any contract with the Investment Agency of the Republic of Moldova, prior to any use of the Intellectual Property right .
 - For any ambiguity regarding these issues, please contact the Investment Agency Team of the Republic of Moldova .
 - Note: The use of our logo during the year 2019 is free and does not imply any payment for the use of copyright; no contract need not be signed with the Investment Agency of the Republic of Moldova . The intention to use this logo only requires registration to the Investment Agency of the Republic of Moldova and full compliance with the rules indicated in this guide .
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q829051) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1600](/foundation_dates/1600/) |
-| Coat Of Arms Image | ROU CS Moldova Noua CoA1.png |
-| Country | Romania (from 1989-12-22), Socialist Republic of Romania (from 1965-08-21, until 1989-12-22), Romanian People's Republic (from 1947-12-30, until 1965-08-21), Kingdom of Romania (from 1919-08-04, until 1947-12-30), Kingdom of Serbs, Croats and Slovenes (from 1918-12-01, until 1919-08-04) (+7 more) |
-| Coordinate Location | 44.734722222222, 21.666388888889 |
-| Freebase Id | /m/0gtv6 |
-| Siruta Code | 51056 |
-| Population | 12,350 (as of 2011-10-31), 3,582 (as of 1956-02-01), 6,192 (as of 1966-03-01), 15,973 (as of 1977-01-01), 16,874 (as of 1992-01-01) (+2 more) |
-| Located In The Administrative Territorial Entity | Caraș-Severin County |
-| Capital | Moldova Nouă |
-| Contains Settlement | Moldova Nouă, Măcești, Moldova Veche, Moldovița |
-| Viaf Cluster Id | 144277908 |
-| Image | Moldova Noua 1.jpg |
-| Shares Border With | Bela Crkva |
-| Head Of Government | Matei Lupu (from 2012, until 2016), Adrian Constantin Torma (from 2016, until 2021-01), Ion Chisăliţă (from 2021-01, until 2024-11-01), Adrian-Constantin Torma (from 2024-11-01) |
-| Postal Code | 325500 |
-| Located In Time Zone | UTC+02:00, UTC+03:00 |
-| Locator Map Image | Moldova Noua jud Caras-Severin.svg |
-| Topic'S Main Category | Category:Moldova Nouă |
-| Category Of Associated People | Category:People from Moldova Nouă |
-| Area | 144 square kilometre |
-| Native Label | Moldova Nouă, Neumoldowa, Újmoldova |
-| Official Name | Moldova Nouă |
-| Located In/On Physical Feature | Banat |
-| Library Of Congress Authority Id | n82239921 |
-| Who'S On First Id | 101795101 |
-| Category For Maps Or Plans | Category:Maps of Moldova Nouă |
-| Office Held By Head Of Government | mayor of Moldova Nouă |
-| Inaturalist Place Id | 103101 |
-| Phone Number | +40-255540997 |
-| Street Address | Str. Nicolae Bălcescu, Nr. 26, Moldova Nouă, CS 325500 |
-| National Library Of Israel J9U Id | 987007557528705171 |
-| Openweathermap City Id | 672912 |
-| Museum Digital Place Id | 71491 |
-| Population By Native Language | 40 (as of 2021-12-01) |
-| Email Address | contact@primariamoldovanoua.ro |
-| Inception | 1600 |
-| Historical Region | Banat |

@@ -2,11 +2,11 @@
 title: Jamaica Tourist Board
 slug: "jamaica-tourist-board"
 description: ""
-date: "2026-04-10T09:40:33.602791"
+date: "2026-04-15T09:21:24.541357"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - jamaica
 years:

@@ -2,11 +2,11 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-04-10T09:40:34.790899"
+date: "2026-04-15T09:21:25.768349"
 draft: false
 sectors:
-  - "parcel-service"
   - "logistics-supply-chain"
+  - "parcel-service"
 regions:
   - netherlands
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - transport
+  - corporate
 industries:
   - "package-delivery"
 countries:

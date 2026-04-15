@@ -2,7 +2,7 @@
 title: Škoda auto
 slug: "skoda-auto"
 description: ""
-date: "2026-04-10T09:40:34.787334"
+date: "2026-04-15T09:21:25.765504"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - corporate
   - transport
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

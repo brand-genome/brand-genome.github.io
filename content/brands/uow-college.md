@@ -2,7 +2,7 @@
 title: UOW College
 slug: "uow-college"
 description: ""
-date: "2026-04-10T09:40:33.438286"
+date: "2026-04-15T09:21:24.372942"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

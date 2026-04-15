@@ -2,11 +2,11 @@
 title: Adidas Runtastic
 slug: "adidas-runtastic"
 description: ""
-date: "2026-04-10T09:40:30.827413"
+date: "2026-04-15T09:21:22.436482"
 draft: false
 sectors:
-  - software
   - fitness
+  - software
 regions:
   - austria
 years:
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "adidas-training-by-runtastic"
   - "adidas-running-by-runtastic"
+  - "adidas-training-by-runtastic"
 products: []
 headquarters_locations:
   - pasching
@@ -79,7 +79,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Adidas Training By Runtastic](/products_or_materials_produced/adidas-training-by-runtastic/); [Adidas Running By Runtastic](/products_or_materials_produced/adidas-running-by-runtastic/) |
+| Product Or Material Produced | [Adidas Running By Runtastic](/products_or_materials_produced/adidas-running-by-runtastic/); [Adidas Training By Runtastic](/products_or_materials_produced/adidas-training-by-runtastic/) |
 | Headquarters Location | [Pasching](/headquarters_locations/pasching/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Headquarters Location | Pasching |

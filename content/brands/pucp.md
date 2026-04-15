@@ -2,12 +2,12 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-04-10T09:40:32.826059"
+date: "2026-04-15T09:21:23.872138"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - peru
 years:

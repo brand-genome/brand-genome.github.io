@@ -2,7 +2,7 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-04-10T09:40:32.624662"
+date: "2026-04-15T09:21:23.809755"
 draft: false
 sectors:
   - "real-estate"
@@ -36,8 +36,8 @@ foundation_dates:
   - 1906
   - 2008
 foundation_year_buckets:
-  - 1900S
   - 2000S
+  - 1900S
 lightings: []
 perspectives: []
 image_backgrounds: []

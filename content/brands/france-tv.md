@@ -2,7 +2,7 @@
 title: France TV
 slug: "france-tv"
 description: ""
-date: "2026-04-10T09:40:34.672215"
+date: "2026-04-15T09:21:25.663105"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - featured
   - broadcast
+  - featured
 industries:
   - unknown
   - "public-broadcasting"
@@ -29,20 +29,20 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - advertising
   - radio
   - television
   - "audiovisual-production"
+  - advertising
 products: []
 headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates:
-  - 1992
   - 2000
+  - 1992
 foundation_year_buckets:
-  - 2000S
   - 1990S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -76,7 +76,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.france.tv](https://www.france.tv)
-- [http://www.movement.paris](http://www.movement.paris)
 - [https://france.tv](https://france.tv)
 - [https://francetelevisions.fr](https://francetelevisions.fr)
 - [https://www.francetelevisions.fr/groupe](https://www.francetelevisions.fr/groupe)
@@ -96,9 +95,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Advertising](/products_or_materials_produced/advertising/); [Radio](/products_or_materials_produced/radio/); [Television](/products_or_materials_produced/television/); [Audiovisual Production](/products_or_materials_produced/audiovisual-production/) |
+| Product Or Material Produced | [Radio](/products_or_materials_produced/radio/); [Television](/products_or_materials_produced/television/); [Audiovisual Production](/products_or_materials_produced/audiovisual-production/); [Advertising](/products_or_materials_produced/advertising/) |
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
-| Foundation Date | [1992](/foundation_dates/1992/); [2000](/foundation_dates/2000/) |
+| Foundation Date | [2000](/foundation_dates/2000/); [1992](/foundation_dates/1992/) |
 | Topic'S Main Category | Category:France Télévisions |
 | Freebase Id | /m/02z__m |
 | Headquarters Location | Paris, Paris |

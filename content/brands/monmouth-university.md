@@ -2,11 +2,11 @@
 title: Monmouth University
 slug: "monmouth-university"
 description: ""
-date: "2026-04-10T09:40:34.633041"
+date: "2026-04-15T09:21:25.626469"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

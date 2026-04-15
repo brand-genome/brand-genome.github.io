@@ -2,7 +2,7 @@
 title: Columbus Neighborhood
 slug: "columbus-neighborhood"
 description: ""
-date: "2026-04-10T09:40:33.805519"
+date: "2026-04-15T09:21:24.785199"
 draft: false
 sectors:
   - tourism

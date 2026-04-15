@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-04-10T09:40:33.608756"
+date: "2026-04-15T09:21:24.548951"
 draft: false
 sectors:
-  - hardware
   - "renewable-energy"
+  - hardware
 regions:
   - norway
 years:
@@ -16,9 +16,7 @@ languages:
 tags:
   - industry
 industries: []
-countries:
-  - germany
-  - "european-union"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,16 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "works-copyrighted-by-authors"
-  - "printed-matter"
+products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1997
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: peer reviewed open access scientific journal
-wikidata_url: "https://www.wikidata.org/wiki/Q15755050"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -73,57 +67,9 @@ visual_term_image_urls: {}
 - [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal)
 - [http://www.hydro.com](http://www.hydro.com)
 - [http://www.sapabuildingsystem.com](http://www.sapabuildingsystem.com)
-- [http://www.hydrology-and-earth-system-sciences.net](http://www.hydrology-and-earth-system-sciences.net)
 
 ## Brand Guidelines
 
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15755050) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Works Copyrighted By Authors](/products_or_materials_produced/works-copyrighted-by-authors/); [Printed Matter](/products_or_materials_produced/printed-matter/) |
-| Foundation Date | [1997](/foundation_dates/1997/) |
-| Era Journal Id | 22194 |
-| Issn | 1027-5606, 1607-7938 |
-| Scopus Source Id | 29472 |
-| Danish Bibliometric Research Indicator (Bfi) Sno/Cno | 9136 |
-| Danish Bibliometric Research Indicator Level | 1 (as of 2019-09) |
-| Title | Hydrology and Earth System Sciences |
-| Opencitations Bibliographic Resource Id | 71280 |
-| Inception | 1997-01-01 |
-| Oclc Number | 54681644 |
-| Library Of Congress Item Id (Lccn Bibliographic) | 00220422 |
-| Copyright License | Creative Commons Attribution |
-| Publisher | Copernicus Publications |
-| Jufo Id | 57304 |
-| Editor In Chief | Erwin Zehe |
-| Dimensions Source Id | 1137339 |
-| Bibcode | HESS |
-| Country | European Union, Germany |
-| Owned By | European Geosciences Union |
-| Product Or Material Produced | printed matter, works copyrighted by authors |
-| Award Received | DOAJ seal (as of 2018-05-10) |
-| Main Subject | technology, hydrology |
-| Catalog |  |
-| Directory Of Open Access Journals Id | 1607-7938, 1027-5606 |
-| Acnp Journal Id | 1088694, 2326246 |
-| Nlm Unique Id | 101717742 |
-| Crossref Journal Id | 99689 |
-| Mir@Bel Journal Id | 8610 |
-| Scilit Journal Id | 77418 |
-| Indexed In Bibliographic Review | Scopus, Science Citation Index Expanded |
-| Language Of Work Or Name | English |
-| Country Of Origin | Germany |
-| Issn L | 1027-5606 |
-| Google Knowledge Graph Id | /g/11clmrv_nj |
-| Copyright Status | copyrighted |
-| Openalex Id | S93121129 |
-| Sudoc Editions | 040217566, 058451412 |

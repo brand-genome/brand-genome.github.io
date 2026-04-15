@@ -2,11 +2,11 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-04-10T09:40:34.433361"
+date: "2026-04-15T09:21:25.377783"
 draft: false
 sectors:
-  - telecom
   - networking
+  - telecom
 regions:
   - usa
 years:
@@ -15,11 +15,8 @@ languages:
   - english
 tags:
   - telecommunications
-industries:
-  - "aerospace-industry"
-  - "weapons-industry"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,21 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - spacecraft
-  - helicopter
-  - aircraft
-  - missile
-  - "spacecraft-bus"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "culver-city"
-  - "los-angeles"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1932
-foundation_year_buckets:
-  - 1930S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -63,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: defunct American aerospace and defense contractor
-wikidata_url: "https://www.wikidata.org/wiki/Q196253"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -203,41 +191,3 @@ visual_term_image_urls: {}
 - Some documents, such as this branding guide, are likely to be separated into sections or individual pages apart from the whole. In such cases, displaying Hughes in all caps for first use on every page is appropriate.
 - Color Positive Pantone 286 and Black
 - The Hughes logo should never be less than one inch wide.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q196253) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Spacecraft](/products_or_materials_produced/spacecraft/); [Helicopter](/products_or_materials_produced/helicopter/); [Aircraft](/products_or_materials_produced/aircraft/); [Missile](/products_or_materials_produced/missile/); [Spacecraft Bus](/products_or_materials_produced/spacecraft-bus/) |
-| Headquarters Location | [Culver City](/headquarters_locations/culver-city/); [Los Angeles](/headquarters_locations/los-angeles/) |
-| Foundation Date | [1932](/foundation_dates/1932/) |
-| Founded By | Howard Hughes |
-| Topic'S Main Category | Category:Hughes Aircraft Company |
-| Industry | aerospace industry, weapons industry |
-| Freebase Id | /m/01xfls |
-| Viaf Cluster Id | 150089152 |
-| Country | United States |
-| Headquarters Location | Culver City, Los Angeles |
-| Inception | 1932 |
-| Dissolved, Abolished Or Demolished Date | 1997 |
-| Owned By | Raytheon |
-| Gnd Id | 250278-1 |
-| Quora Topic Id | Hughes-Aircraft-Company-1 |
-| Encyclopædia Britannica Online Id | topic/Hughes-Aircraft-Company |
-| Product Or Material Produced | helicopter, aircraft, missile, spacecraft bus, spacecraft |
-| Legal Form | public company |
-| Parent Organization Or Unit | Raytheon |
-| Isni | 000000012111761X |
-| Director / Manager | Howard Hughes |
-| Library Of Congress Authority Id | n79145277 |
-| Kbpedia Id | HughesAircraft |
-| National Library Of Israel J9U Id | 987007425436005171 |
-| Sciencedirect Topic Id | earth-and-planetary-sciences/hughes-aircraft |
-| Ror Id | 0431d2d16 |
-| Has Works In The Collection | Bundeswehr Museum of German Defense Technology |
-| Kalliope Verbund (Gnd) Id | 250278-1 |
-| ‎Yale Lux Id | group/3b2e5080-debb-46af-8044-5c78928ed79c |

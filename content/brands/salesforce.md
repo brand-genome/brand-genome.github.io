@@ -2,7 +2,7 @@
 title: SalesForce
 slug: salesforce
 description: ""
-date: "2026-04-10T09:40:33.032738"
+date: "2026-04-15T09:21:23.976891"
 draft: false
 sectors:
   - software
@@ -15,15 +15,15 @@ languages:
 tags:
   - software
 industries:
-  - "email-marketing"
-  - "software-as-a-service"
-  - automation
-  - "enterprise-software"
-  - "customer-relationship-management"
-  - "cloud-computing"
-  - "intelligent-agent"
-  - analytics
   - "software-industry"
+  - "enterprise-software"
+  - "cloud-computing"
+  - automation
+  - "software-as-a-service"
+  - "customer-relationship-management"
+  - analytics
+  - "intelligent-agent"
+  - "email-marketing"
 countries:
   - "united-states"
 revenue_buckets:
@@ -39,26 +39,26 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "e-commerce"
-  - "automation-technology"
-  - "integration-platform"
-  - salesforce
-  - "order-management-system"
-  - "marketing-automation"
-  - "ai-agent"
-  - "data-visualization-software"
   - heroku
-  - "email-marketing"
-  - "b2b-e-commerce"
-  - "customer-data-platform"
-  - "enterprise-software"
-  - analytics
-  - "customer-relationship-management-software"
+  - "automation-technology"
   - "software-as-a-service"
-  - "small-business-software"
   - "intelligent-agent"
-  - "artificial-intelligence"
+  - salesforce
+  - "enterprise-software"
+  - "integration-platform"
+  - "customer-relationship-management-software"
+  - "email-marketing"
   - "virtual-agent"
+  - "artificial-intelligence"
   - "cloud-computing"
+  - "small-business-software"
+  - analytics
+  - "b2b-e-commerce"
+  - "marketing-automation"
+  - "order-management-system"
+  - "data-visualization-software"
+  - "ai-agent"
+  - "customer-data-platform"
 products: []
 headquarters_locations:
   - "salesforce-tower"
@@ -121,7 +121,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [E Commerce](/products_or_materials_produced/e-commerce/); [Automation Technology](/products_or_materials_produced/automation-technology/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Salesforce](/products_or_materials_produced/salesforce/); [Order Management System](/products_or_materials_produced/order-management-system/); [Marketing Automation](/products_or_materials_produced/marketing-automation/); [Ai Agent](/products_or_materials_produced/ai-agent/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Heroku](/products_or_materials_produced/heroku/); [Email Marketing](/products_or_materials_produced/email-marketing/); [B2B E Commerce](/products_or_materials_produced/b2b-e-commerce/); [Customer Data Platform](/products_or_materials_produced/customer-data-platform/); +9 more |
+| Product Or Material Produced | [E Commerce](/products_or_materials_produced/e-commerce/); [Heroku](/products_or_materials_produced/heroku/); [Automation Technology](/products_or_materials_produced/automation-technology/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Intelligent Agent](/products_or_materials_produced/intelligent-agent/); [Salesforce](/products_or_materials_produced/salesforce/); [Enterprise Software](/products_or_materials_produced/enterprise-software/); [Integration Platform](/products_or_materials_produced/integration-platform/); [Customer Relationship Management Software](/products_or_materials_produced/customer-relationship-management-software/); [Email Marketing](/products_or_materials_produced/email-marketing/); [Virtual Agent](/products_or_materials_produced/virtual-agent/); [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/); +9 more |
 | Headquarters Location | [Salesforce Tower](/headquarters_locations/salesforce-tower/); [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Freebase Id | /m/07btr5 |

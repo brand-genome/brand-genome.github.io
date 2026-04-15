@@ -2,11 +2,11 @@
 title: Idaho State University
 slug: "idaho-state-university"
 description: ""
-date: "2026-04-10T09:40:32.635377"
+date: "2026-04-15T09:21:23.816550"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.isu.edu](https://www.isu.edu)
-- [http://www.google.com](http://www.google.com)
 - [http://www.isu.edu](http://www.isu.edu)
 
 ## Brand Guidelines

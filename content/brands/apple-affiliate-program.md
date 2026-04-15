@@ -2,11 +2,11 @@
 title: Apple Affiliate Program
 slug: "apple-affiliate-program"
 description: ""
-date: "2026-04-10T09:40:34.493859"
+date: "2026-04-15T09:21:25.430193"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - usa
 years:

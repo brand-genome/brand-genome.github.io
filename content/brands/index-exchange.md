@@ -2,11 +2,11 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-04-10T09:40:34.668069"
+date: "2026-04-15T09:21:25.659872"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: La Flow Vélo
 slug: "la-flow-velo"
 description: ""
-date: "2026-04-10T09:40:32.831188"
+date: "2026-04-15T09:21:23.874030"
 draft: false
 sectors:
   - tourism

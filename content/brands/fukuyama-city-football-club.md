@@ -2,7 +2,7 @@
 title: Fukuyama City Football Club
 slug: "fukuyama-city-football-club"
 description: ""
-date: "2026-04-10T09:40:33.671844"
+date: "2026-04-15T09:21:24.613433"
 draft: false
 sectors:
   - sports

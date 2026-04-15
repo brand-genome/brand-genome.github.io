@@ -2,7 +2,7 @@
 title: Aldar
 slug: aldar
 description: ""
-date: "2026-04-10T09:40:30.569520"
+date: "2026-04-15T09:21:22.097028"
 draft: false
 sectors:
   - "real-estate"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.aldar.com](https://www.aldar.com)
-- [http://www.x.com](http://www.x.com)
 - [http://www.aldar.com](http://www.aldar.com)
 - [http://www.linkedin.com/company/aldar](http://www.linkedin.com/company/aldar)
 

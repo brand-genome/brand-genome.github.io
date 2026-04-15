@@ -2,11 +2,11 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-04-10T09:40:34.288569"
+date: "2026-04-15T09:21:25.193139"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - italy
 years:

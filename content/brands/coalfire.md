@@ -2,7 +2,7 @@
 title: Coalfire
 slug: coalfire
 description: ""
-date: "2026-04-10T09:40:33.043072"
+date: "2026-04-15T09:21:23.985978"
 draft: false
 sectors:
   - consulting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries: []
 revenue_buckets: []

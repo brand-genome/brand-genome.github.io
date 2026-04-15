@@ -2,7 +2,7 @@
 title: Mc Delivery
 slug: "mc-delivery"
 description: ""
-date: "2026-04-10T09:40:33.216408"
+date: "2026-04-15T09:21:24.162222"
 draft: false
 sectors:
   - restaurant
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

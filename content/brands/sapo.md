@@ -2,11 +2,11 @@
 title: Sapo
 slug: sapo
 description: ""
-date: "2026-04-10T09:40:34.909421"
+date: "2026-04-15T09:21:25.877884"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
   - publishing
 regions:
   - portugal

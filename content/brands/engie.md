@@ -2,12 +2,12 @@
 title: Engie
 slug: engie
 description: ""
-date: "2026-04-10T09:40:30.631588"
+date: "2026-04-15T09:21:22.198451"
 draft: false
 sectors:
+  - utilities
   - "renewable-energy"
   - gas
-  - utilities
 regions:
   - france
 years:
@@ -19,10 +19,10 @@ languages:
 tags:
   - industry
 industries:
-  - "energy-industry"
-  - unknown
   - "facility-management"
+  - "energy-industry"
   - "waste-management"
+  - unknown
 countries:
   - france
 revenue_buckets:

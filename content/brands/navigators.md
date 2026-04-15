@@ -2,7 +2,7 @@
 title: Navigators
 slug: navigators
 description: ""
-date: "2026-04-10T09:40:32.657636"
+date: "2026-04-15T09:21:23.824550"
 draft: false
 sectors:
   - ngo

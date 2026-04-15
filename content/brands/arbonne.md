@@ -2,13 +2,13 @@
 title: Arbonne
 slug: arbonne
 description: ""
-date: "2026-04-10T09:40:34.772639"
+date: "2026-04-15T09:21:25.751856"
 draft: false
 sectors:
   - beauty
-  - "wellness-spa"
   - mlm
   - cosmetics
+  - "wellness-spa"
 regions:
   - canada
 years:

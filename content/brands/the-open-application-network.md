@@ -2,11 +2,11 @@
 title: The Open Application Network
 slug: "the-open-application-network"
 description: ""
-date: "2026-04-10T09:40:32.119318"
+date: "2026-04-15T09:21:23.600192"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - "united-kingdom"
 years:

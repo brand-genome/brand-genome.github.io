@@ -2,7 +2,7 @@
 title: Carolina Athletics
 slug: "carolina-athletics"
 description: ""
-date: "2026-04-10T09:40:34.654886"
+date: "2026-04-15T09:21:25.648021"
 draft: false
 sectors:
   - sports

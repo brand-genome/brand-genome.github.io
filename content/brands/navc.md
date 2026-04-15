@@ -2,7 +2,7 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-04-10T09:40:33.817360"
+date: "2026-04-15T09:21:24.795053"
 draft: false
 sectors:
   - "veterinary-pet-care"
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: client program for CompuServe Information Service
-wikidata_url: "https://www.wikidata.org/wiki/Q6981562"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,14 +70,3 @@ visual_term_image_urls: {}
 ### 2016
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6981562) |
-
-| Property | Value |
-|----------|-------|
-| Operator | CompuServe |
-| Freebase Id | /m/08y0gf |

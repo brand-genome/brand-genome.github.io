@@ -2,11 +2,11 @@
 title: Sacramento State
 slug: "sacramento-state"
 description: ""
-date: "2026-04-10T09:40:34.777660"
+date: "2026-04-15T09:21:25.756252"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

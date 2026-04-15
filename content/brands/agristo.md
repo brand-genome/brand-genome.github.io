@@ -2,7 +2,7 @@
 title: Agristo
 slug: agristo
 description: ""
-date: "2026-04-10T09:40:30.960387"
+date: "2026-04-15T09:21:22.576942"
 draft: false
 sectors:
   - food

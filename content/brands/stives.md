@@ -2,11 +2,11 @@
 title: St.Ives
 slug: stives
 description: ""
-date: "2026-04-10T09:40:32.993177"
+date: "2026-04-15T09:21:23.945296"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:

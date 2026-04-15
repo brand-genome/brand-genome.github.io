@@ -2,11 +2,11 @@
 title: Girl Up
 slug: "girl-up"
 description: ""
-date: "2026-04-10T09:40:34.018068"
+date: "2026-04-15T09:21:24.937005"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - community
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://girlup.org](https://girlup.org)
 - [https://unpartnerships.un.org/girl](https://unpartnerships.un.org/girl)
 - [http://www.girlup.org](http://www.girlup.org)
-- [http://www.myfonts.com/fonts/typodermic/gnuolane](http://www.myfonts.com/fonts/typodermic/gnuolane)
 
 ## Brand Guidelines
 

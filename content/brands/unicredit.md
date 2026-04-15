@@ -2,7 +2,7 @@
 title: UniCredit
 slug: unicredit
 description: ""
-date: "2026-04-10T09:40:33.987827"
+date: "2026-04-15T09:21:24.911083"
 draft: false
 sectors:
   - finance
@@ -16,8 +16,8 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
+  - "economics-of-banking"
   - "financial-sector"
 countries:
   - italy

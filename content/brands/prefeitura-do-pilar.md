@@ -2,7 +2,7 @@
 title: Prefeitura do Pilar
 slug: "prefeitura-do-pilar"
 description: ""
-date: "2026-04-10T09:40:33.034577"
+date: "2026-04-15T09:21:23.978892"
 draft: false
 sectors:
   - "public-sector"

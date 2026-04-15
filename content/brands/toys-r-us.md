@@ -2,7 +2,7 @@
 title: Toys “R” Us
 slug: "toys-r-us"
 description: ""
-date: "2026-04-10T09:40:33.613287"
+date: "2026-04-15T09:21:24.552827"
 draft: false
 sectors:
   - "consumer-goods"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.toysrus.com](https://www.toysrus.com)
 - [http://www.toysrus.com](http://www.toysrus.com)
-- [http://www.fonts.com](http://www.fonts.com)
 
 ## Brand Guidelines
 

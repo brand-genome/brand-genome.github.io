@@ -2,15 +2,15 @@
 title: Grover
 slug: grover
 description: ""
-date: "2026-04-10T09:40:32.502746"
+date: "2026-04-15T09:21:23.710764"
 draft: false
 sectors:
   - "e-commerce"
 regions:
   - germany
 years:
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.grover.com](https://www.grover.com)
 - [https://service.grover.com](https://service.grover.com)
-- [http://www.getgrover.com](http://www.getgrover.com)
 
 ## Brand Guidelines
 

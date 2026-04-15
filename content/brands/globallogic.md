@@ -2,11 +2,11 @@
 title: GlobalLogic
 slug: globallogic
 description: ""
-date: "2026-04-10T09:40:30.921399"
+date: "2026-04-15T09:21:22.533369"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - india
 years:

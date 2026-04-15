@@ -2,7 +2,7 @@
 title: Handi Sport
 slug: "handi-sport"
 description: ""
-date: "2026-04-10T09:40:34.901292"
+date: "2026-04-15T09:21:25.870163"
 draft: false
 sectors:
   - sports

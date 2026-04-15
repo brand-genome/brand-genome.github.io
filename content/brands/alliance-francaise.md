@@ -2,12 +2,12 @@
 title: Alliance Française
 slug: "alliance-francaise"
 description: ""
-date: "2026-04-10T09:40:34.796083"
+date: "2026-04-15T09:21:25.773509"
 draft: false
 sectors:
   - ngo
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - france
 years:

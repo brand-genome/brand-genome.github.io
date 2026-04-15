@@ -2,7 +2,7 @@
 title: BMW Advertising
 slug: "bmw-advertising"
 description: ""
-date: "2026-04-10T09:40:33.307854"
+date: "2026-04-15T09:21:24.244450"
 draft: false
 sectors:
   - automobile

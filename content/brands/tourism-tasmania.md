@@ -2,11 +2,11 @@
 title: Tourism Tasmania
 slug: "tourism-tasmania"
 description: ""
-date: "2026-04-10T09:40:33.073529"
+date: "2026-04-15T09:21:24.008739"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - australia
 years:

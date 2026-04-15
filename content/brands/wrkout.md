@@ -2,11 +2,11 @@
 title: WRKOUT
 slug: wrkout
 description: ""
-date: "2026-04-10T09:40:32.549375"
+date: "2026-04-15T09:21:23.749327"
 draft: false
 sectors:
-  - software
   - fitness
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - sport
   - app
+  - sport
 industries: []
 countries: []
 revenue_buckets: []

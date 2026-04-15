@@ -2,7 +2,7 @@
 title: Northwest Missouri Bearcats
 slug: "northwest-missouri-bearcats"
 description: ""
-date: "2026-04-10T09:40:32.666381"
+date: "2026-04-15T09:21:23.826874"
 draft: false
 sectors:
   - sports

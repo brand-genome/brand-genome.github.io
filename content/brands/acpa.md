@@ -2,7 +2,7 @@
 title: ACPA
 slug: acpa
 description: ""
-date: "2026-04-10T09:40:34.018984"
+date: "2026-04-15T09:21:24.937772"
 draft: false
 sectors:
   - ngo
@@ -15,8 +15,7 @@ languages:
 tags:
   - airline
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - alexandria
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1952
-foundation_year_buckets:
-  - 1950S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: member organization of professional counselors in the United States
-wikidata_url: "https://www.wikidata.org/wiki/Q463805"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 - [https://aca.alpa.org/Accueil](https://aca.alpa.org/Accueil)
 - [https://aircanadapilots.ca/en-us](https://aircanadapilots.ca/en-us)
 - [https://aircanadapilots.ca/fr-ca](https://aircanadapilots.ca/fr-ca)
-- [https://www.counseling.org](https://www.counseling.org)
 
 ## Brand Guidelines
 
@@ -170,33 +165,3 @@ visual_term_image_urls: {}
 - X The logo must never appear angled
 - ACPA X The symbol and type relationship must not be altered.
 - X Do not scale the logo in an manner where by the The logo must never appear with a border. Never add a drop shadow to the logo. proportions are distorted. The logo proportions X X must always be constrained when scaling.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q463805) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Alexandria](/headquarters_locations/alexandria/) |
-| Foundation Date | [1952](/foundation_dates/1952/) |
-| Freebase Id | /m/0bs4vj |
-| Inception | 1952 |
-| Country | United States |
-| Headquarters Location | Alexandria |
-| Located In The Administrative Territorial Entity | Virginia |
-| Isni | 0000000090508705 |
-| Ringgold Id | 192627 |
-| Library Of Congress Authority Id | n92079013 |
-| Romeo Publisher Id | 679 |
-| Viaf Cluster Id | 132193822 |
-| X (Twitter) Username | CounselingViews (as of 2020-04-25, from 2009-06-15) |
-| Microsoft Academic Id (Discontinued) | 73163835 |
-| Nl Cr Aut Id | nlk20040158420, nlk20040158421, nlk20040158422, ko2008446712, kn20080630011 |
-| Social Media Followers | 28,720 (as of 2021-01-02), 27,057 (as of 2020-04-25), 30,788 (as of 2022-03-02), 32,746 (as of 2023-02-12) |
-| National Library Of Israel J9U Id | 987007604126405171 |
-| Openalex Id | C56423290, P4365921336 |
-| Apa Dictionary Of Psychology Entry | aca, american-counseling-association |
-| Ror Id | 03dhqvj54 |
-| ‎Yale Lux Id | group/41b0c502-aed3-4dbe-9da0-f20ddfa2cbfe |

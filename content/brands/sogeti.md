@@ -2,11 +2,11 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-04-10T09:40:34.697279"
+date: "2026-04-15T09:21:25.682944"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - france
 years:
@@ -17,8 +17,8 @@ tags:
   - technology
 industries: []
 countries:
-  - sweden
   - france
+  - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

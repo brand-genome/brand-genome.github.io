@@ -2,11 +2,11 @@
 title: IUCN
 slug: iucn
 description: ""
-date: "2026-04-10T09:40:34.012939"
+date: "2026-04-15T09:21:24.932745"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -34,8 +34,8 @@ total_equity_buckets:
   - "10M-100M"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "iucn-red-list-of-ecosystems"
   - "iucn-red-list"
+  - "iucn-red-list-of-ecosystems"
 products: []
 headquarters_locations:
   - gland
@@ -98,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/); [Iucn Red List](/products_or_materials_produced/iucn-red-list/) |
+| Product Or Material Produced | [Iucn Red List](/products_or_materials_produced/iucn-red-list/); [Iucn Red List Of Ecosystems](/products_or_materials_produced/iucn-red-list-of-ecosystems/) |
 | Headquarters Location | [Gland](/headquarters_locations/gland/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Image | IUCN-Headquarters.jpg |

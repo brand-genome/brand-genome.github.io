@@ -2,11 +2,11 @@
 title: University of Dayton
 slug: "university-of-dayton"
 description: ""
-date: "2026-04-10T09:40:34.675944"
+date: "2026-04-15T09:21:25.666718"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

@@ -2,11 +2,11 @@
 title: AmBev
 slug: ambev
 description: ""
-date: "2026-04-10T09:40:34.265076"
+date: "2026-04-15T09:21:25.179951"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - brazil
 years:

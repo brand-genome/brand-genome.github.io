@@ -2,23 +2,22 @@
 title: Skills for Life
 slug: "skills-for-life"
 description: ""
-date: "2026-04-10T09:40:32.118845"
+date: "2026-04-15T09:21:23.600080"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:
-  - 2022
   - 2018
+  - 2022
 languages:
   - english
 tags:
   - community
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: UK multi academy trust
-wikidata_url: "https://www.wikidata.org/wiki/Q122683686"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -77,18 +76,3 @@ visual_term_image_urls: {}
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q122683686) |
-
-| Property | Value |
-|----------|-------|
-| Country | United Kingdom |
-| Date Of Incorporation | 2012-02-27 |
-| Companies House Company Id | 07965316 |
-| Uk Provider Reference Number | 10059627 |
-| Dfe Group Uid | 3243 |
-| Opencorporates Id | gb/07965316 |

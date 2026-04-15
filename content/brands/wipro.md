@@ -2,18 +2,18 @@
 title: Wipro
 slug: wipro
 description: ""
-date: "2026-04-10T09:40:30.626345"
+date: "2026-04-15T09:21:22.191808"
 draft: false
 sectors:
-  - software
-  - cybersecurity
   - consulting
+  - cybersecurity
+  - software
 regions:
   - india
 years:
-  - 2022
-  - 2017
   - 2024
+  - 2017
+  - 2022
 languages:
   - english
 tags:
@@ -75,9 +75,7 @@ visual_term_image_urls: {}
 - [https://www.wipro.com/brand-toolkit](https://www.wipro.com/brand-toolkit)
 - [http://www.instagram.com/wiprolimited](http://www.instagram.com/wiprolimited)
 - [http://www.linkedin.com/company/wipro](http://www.linkedin.com/company/wipro)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.instagram.com/designit](http://www.instagram.com/designit)
-- [http://www.istockphoto.com](http://www.istockphoto.com)
 - [http://www.wipro.com/brand-toolkit](http://www.wipro.com/brand-toolkit)
 
 ## Brand Guidelines

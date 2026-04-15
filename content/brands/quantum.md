@@ -2,7 +2,7 @@
 title: Quantum
 slug: quantum
 description: ""
-date: "2026-04-10T09:40:33.391952"
+date: "2026-04-15T09:21:24.325288"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - internet
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

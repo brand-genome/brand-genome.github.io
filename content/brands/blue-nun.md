@@ -2,7 +2,7 @@
 title: Blue Nun
 slug: "blue-nun"
 description: ""
-date: "2026-04-10T09:40:34.414611"
+date: "2026-04-15T09:21:25.361804"
 draft: false
 sectors:
   - drink

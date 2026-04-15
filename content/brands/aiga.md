@@ -2,7 +2,7 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-04-10T09:40:33.444213"
+date: "2026-04-15T09:21:24.376636"
 draft: false
 sectors:
   - "arts-culture"

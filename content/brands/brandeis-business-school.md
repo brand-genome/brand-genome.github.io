@@ -2,7 +2,7 @@
 title: Brandeis Business School
 slug: "brandeis-business-school"
 description: ""
-date: "2026-04-10T09:40:34.801905"
+date: "2026-04-15T09:21:25.778631"
 draft: false
 sectors:
   - university

@@ -2,15 +2,15 @@
 title: easyGroup
 slug: easygroup
 description: ""
-date: "2026-04-10T09:40:30.698276"
+date: "2026-04-15T09:21:22.278491"
 draft: false
 sectors:
   - finance
 regions:
   - "united-kingdom"
 years:
-  - 2011
   - 2020
+  - 2011
 languages:
   - english
 tags:

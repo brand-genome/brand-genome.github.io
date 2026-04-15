@@ -2,7 +2,7 @@
 title: ACLU
 slug: aclu
 description: ""
-date: "2026-04-10T09:40:33.809490"
+date: "2026-04-15T09:21:24.788468"
 draft: false
 sectors:
   - ngo
@@ -72,13 +72,6 @@ visual_term_image_urls: {}
 - [http://www.aclu-nm.org](http://www.aclu-nm.org)
 - [http://www.aclu.org](http://www.aclu.org)
 - [http://www.aclum.org](http://www.aclum.org)
-- [http://www.alamy.com](http://www.alamy.com)
-- [http://www.archive.org](http://www.archive.org)
-- [http://www.dvidshub.net](http://www.dvidshub.net)
-- [http://www.flickr.com](http://www.flickr.com)
-- [http://www.google.com](http://www.google.com)
-- [http://www.loc.gov](http://www.loc.gov)
-- [http://www.wikimedia.org](http://www.wikimedia.org)
 
 ## Brand Guidelines
 

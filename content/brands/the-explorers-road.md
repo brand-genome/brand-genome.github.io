@@ -2,7 +2,7 @@
 title: The Explorer’s Road
 slug: "the-explorers-road"
 description: ""
-date: "2026-04-10T09:40:33.143703"
+date: "2026-04-15T09:21:24.074174"
 draft: false
 sectors:
   - tourism

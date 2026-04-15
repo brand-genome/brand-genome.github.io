@@ -2,7 +2,7 @@
 title: Research Council of Lithuania
 slug: "research-council-of-lithuania"
 description: ""
-date: "2026-04-10T09:40:32.073868"
+date: "2026-04-15T09:21:23.561731"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: John Knox Christian School
 slug: "john-knox-christian-school"
 description: ""
-date: "2026-04-10T09:40:30.752562"
+date: "2026-04-15T09:21:22.346265"
 draft: false
 sectors:
   - education
@@ -15,8 +15,7 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1959
-foundation_year_buckets:
-  - 1950S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "school in Oakville, Ontario, Canada"
-wikidata_url: "https://www.wikidata.org/wiki/Q6243356"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +64,6 @@ visual_term_image_urls: {}
 - [https://johnknoxbc.org](https://johnknoxbc.org)
 - [https://athletics.johnknoxbc.org](https://athletics.johnknoxbc.org)
 - [http://www.johnknoxbc.org](http://www.johnknoxbc.org)
-- [http://www.jkcs-oakville.org](http://www.jkcs-oakville.org)
 
 ## Brand Guidelines
 
@@ -184,19 +180,3 @@ visual_term_image_urls: {}
 - For greatest consistency, use HEX codes for web applications and Pantone for print.
 - Branded applications should mostly use our Primary Red, Black, and Parchment colours. Our Salmon, Deep Teal and Lemon colours should be used as highlights.
 - Our colours can be used in incremental tints if more contrast is needed. Stick to tints at 80%, 60%, 40% and 20% to maintain consistency.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6243356) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1959](/foundation_dates/1959/) |
-| Country | Canada |
-| Located In The Administrative Territorial Entity | Oakville |
-| Inception | 1959 |
-| Isni | 0000000403793827 |
-| Ringgold Id | 184829 |
-| Freebase Id | /m/0hr7_s5 |

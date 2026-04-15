@@ -2,11 +2,11 @@
 title: Universitat Autònoma de Barcelona
 slug: "universitat-autonoma-de-barcelona"
 description: ""
-date: "2026-04-10T09:40:32.796170"
+date: "2026-04-15T09:21:23.858999"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - catalan
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: The Workshops
 slug: "the-workshops"
 description: ""
-date: "2026-04-10T09:40:34.892397"
+date: "2026-04-15T09:21:25.862192"
 draft: false
 sectors:
   - education
@@ -15,8 +15,7 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "museum in Ipswich, Queensland, Australia"
-wikidata_url: "https://www.wikidata.org/wiki/Q19868980"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -60,15 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19868980) |
-
-| Property | Value |
-|----------|-------|
-| Location | Ipswich |
-| Part Of | Queensland Museum |
-| Country | Australia |
-| Located In The Administrative Territorial Entity | Ipswich |

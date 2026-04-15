@@ -2,7 +2,7 @@
 title: Olympia London
 slug: "olympia-london"
 description: ""
-date: "2026-04-10T09:40:34.241753"
+date: "2026-04-15T09:21:25.163856"
 draft: false
 sectors:
   - entertainment

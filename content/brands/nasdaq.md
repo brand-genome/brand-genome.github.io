@@ -2,7 +2,7 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-04-10T09:40:31.085545"
+date: "2026-04-15T09:21:22.709047"
 draft: false
 sectors:
   - finance
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2020
   - 2021
+  - 2020
 languages:
   - english
 tags:
@@ -20,8 +20,8 @@ tags:
 industries:
   - "financial-services"
 countries:
-  - "united-states"
   - sweden
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "one-liberty-plaza"
   - "new-york-city"
+  - "one-liberty-plaza"
 subsidiaries: []
 foundation_dates:
   - 1971
@@ -360,7 +360,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/) |
 | Foundation Date | [1971](/foundation_dates/1971/) |
 | Currency | United States dollar |
 | Topic'S Main Category | Category:Nasdaq |

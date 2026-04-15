@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-04-10T09:40:32.134074"
+date: "2026-04-15T09:21:23.609742"
 draft: false
 sectors:
   - finance

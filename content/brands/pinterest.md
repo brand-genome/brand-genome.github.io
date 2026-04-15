@@ -2,7 +2,7 @@
 title: Pinterest
 slug: pinterest
 description: ""
-date: "2026-04-10T09:40:33.607597"
+date: "2026-04-15T09:21:24.547755"
 draft: false
 sectors:
   - "social-media"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 - [https://www.pinterest.com](https://www.pinterest.com)
 - [https://business.pinterest.com](https://business.pinterest.com)
 - [https://brand.pinterest.com](https://brand.pinterest.com)
-- [http://www.pinterest.com/brand-guidelines](http://www.pinterest.com/brand-guidelines)
 
 ## Brand Guidelines
 

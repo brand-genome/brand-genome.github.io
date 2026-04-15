@@ -2,16 +2,16 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-04-10T09:40:32.541411"
+date: "2026-04-15T09:21:23.741591"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - canada
 years:
-  - 2011
   - 2017
+  - 2011
 languages:
   - english
 tags:
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://www.hootsuite.com](https://www.hootsuite.com)
 - [https://amplify.hootsuite.com](https://amplify.hootsuite.com)
 - [http://www.hootsuite.com](http://www.hootsuite.com)
-- [http://www.europeanbusinessreview.com?p=1863](http://www.europeanbusinessreview.com?p=1863)
 - [http://hootsuite.com](http://hootsuite.com)
 
 ## Brand Guidelines

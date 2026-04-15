@@ -2,7 +2,7 @@
 title: Environex
 slug: environex
 description: ""
-date: "2026-04-10T09:40:31.535576"
+date: "2026-04-15T09:21:23.186374"
 draft: false
 sectors:
   - research

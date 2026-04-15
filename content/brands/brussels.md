@@ -2,11 +2,11 @@
 title: Brussels
 slug: brussels
 description: ""
-date: "2026-04-10T09:40:30.830068"
+date: "2026-04-15T09:21:22.439657"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - belgium
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries:
   - belgium

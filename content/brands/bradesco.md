@@ -2,11 +2,11 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-04-10T09:40:33.817117"
+date: "2026-04-15T09:21:24.794871"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - brazil
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
+  - "economics-of-banking"
   - "financial-sector"
 countries:
   - brazil

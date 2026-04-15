@@ -2,7 +2,7 @@
 title: Erben
 slug: erben
 description: ""
-date: "2026-04-10T09:40:34.413910"
+date: "2026-04-15T09:21:25.361180"
 draft: false
 sectors:
   - drink

@@ -2,11 +2,11 @@
 title: Leica Geosystems
 slug: "leica-geosystems"
 description: ""
-date: "2026-04-10T09:40:33.322959"
+date: "2026-04-15T09:21:24.258580"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - switzerland
 years:

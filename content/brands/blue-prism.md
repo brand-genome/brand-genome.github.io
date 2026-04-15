@@ -2,7 +2,7 @@
 title: Blue Prism
 slug: "blue-prism"
 description: ""
-date: "2026-04-10T09:40:33.076714"
+date: "2026-04-15T09:21:24.011510"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries:
   - "robotic-process-automation"
 countries:

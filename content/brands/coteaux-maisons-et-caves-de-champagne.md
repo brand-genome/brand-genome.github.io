@@ -2,7 +2,7 @@
 title: "Coteaux, Maisons et Caves de Champagne"
 slug: "coteaux-maisons-et-caves-de-champagne"
 description: ""
-date: "2026-04-10T09:40:32.735018"
+date: "2026-04-15T09:21:23.844567"
 draft: false
 sectors:
   - tourism

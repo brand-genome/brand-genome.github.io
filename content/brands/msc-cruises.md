@@ -2,11 +2,11 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-04-10T09:40:32.565786"
+date: "2026-04-15T09:21:23.764330"
 draft: false
 sectors:
-  - hospitality
   - cruise
+  - hospitality
 regions:
   - italy
 years:
@@ -31,9 +31,9 @@ products_or_materials_produced:
   - cruising
 products: []
 headquarters_locations:
-  - geneva
-  - genoa
   - naples
+  - genoa
+  - geneva
 subsidiaries: []
 foundation_dates:
   - 1970
@@ -215,7 +215,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Cruising](/products_or_materials_produced/cruising/) |
-| Headquarters Location | [Geneva](/headquarters_locations/geneva/); [Genoa](/headquarters_locations/genoa/); [Naples](/headquarters_locations/naples/) |
+| Headquarters Location | [Naples](/headquarters_locations/naples/); [Genoa](/headquarters_locations/genoa/); [Geneva](/headquarters_locations/geneva/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:MSC Cruises |
 | Freebase Id | /m/04q7d8 |

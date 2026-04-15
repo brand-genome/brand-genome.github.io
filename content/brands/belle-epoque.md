@@ -2,11 +2,11 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-04-10T09:40:34.050972"
+date: "2026-04-15T09:21:24.964935"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - "united-kingdom"
 years:

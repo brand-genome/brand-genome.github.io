@@ -2,7 +2,7 @@
 title: "Rolls-Royce SMR"
 slug: "rolls-royce-smr"
 description: ""
-date: "2026-04-10T09:40:30.569624"
+date: "2026-04-15T09:21:22.097250"
 draft: false
 sectors:
   - "nuclear-energy"

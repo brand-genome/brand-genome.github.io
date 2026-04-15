@@ -2,7 +2,7 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-04-10T09:40:34.479111"
+date: "2026-04-15T09:21:25.417654"
 draft: false
 sectors:
   - utilities
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "airport-authority"
   - "air-navigation-service-provider"
+  - "airport-authority"
 countries:
   - norway
 revenue_buckets: []

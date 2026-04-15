@@ -2,11 +2,11 @@
 title: Modelo
 slug: modelo
 description: ""
-date: "2026-04-10T09:40:31.082541"
+date: "2026-04-15T09:21:22.704048"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - mexico
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
-countries:
-  - argentina
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "school located in Buenos Aires, Argentina"
-wikidata_url: "https://www.wikidata.org/wiki/Q129696866"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -67,14 +66,3 @@ visual_term_image_urls: {}
 - [https://www.modelousa.com](https://www.modelousa.com)
 - [https://www.modelousa.com/es](https://www.modelousa.com/es)
 - [https://www.grupomodelo.com](https://www.grupomodelo.com)
-- [https://educativomodelo.edu.ar/wp](https://educativomodelo.edu.ar/wp)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q129696866) |
-
-| Property | Value |
-|----------|-------|
-| Country | Argentina |

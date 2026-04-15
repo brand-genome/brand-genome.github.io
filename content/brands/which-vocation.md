@@ -2,7 +2,7 @@
 title: Which Vocation
 slug: "which-vocation"
 description: ""
-date: "2026-04-10T09:40:33.154640"
+date: "2026-04-15T09:21:24.083437"
 draft: false
 sectors:
   - education

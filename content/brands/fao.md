@@ -2,7 +2,7 @@
 title: FAO
 slug: fao
 description: ""
-date: "2026-04-10T09:40:30.837265"
+date: "2026-04-15T09:21:22.449093"
 draft: false
 sectors:
   - "public-sector"
@@ -15,10 +15,10 @@ years:
 languages:
   - english
 tags:
-  - institution
+  - agriculture
   - "food-beverage"
   - "social-networks"
-  - agriculture
+  - institution
 industries:
   - "international-governmental-or-non-governmental-organizations"
 countries:

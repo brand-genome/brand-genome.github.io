@@ -2,7 +2,7 @@
 title: City of York Council
 slug: "city-of-york-council"
 description: ""
-date: "2026-04-10T09:40:33.395487"
+date: "2026-04-15T09:21:24.327673"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "1995 council election in York, England"
-wikidata_url: "https://www.wikidata.org/wiki/Q22110357"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.york.gov.uk](https://www.york.gov.uk)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 
@@ -364,20 +362,3 @@ visual_term_image_urls: {}
 - The council works with a huge range of partners. Certain principles must be adhered to when using the CYC logo with other brands: 1. The CYC logo should explain the relationship, for example: Working together to improve health and wellbeing 2. The CYC logo should appear top or bottom right unless shown alphabetically 3. Logos should appear in a straight line or grid so they don't 'float' on a page. If a new logo is required, this should be discussed with the communications team with a clear reason to differentiate. For example, the Register Office logo is also the official stamp.
 - The Show Me That I Matter logo represents the voice of young people in care or the Live Well York logo represents a partnership of community-led services
 - It is critical the council is accountable and visible for delivering services. This means promoting the council as a single body rather than series of teams or services. (The exception to this is if a service is commercial or delivered in partnership -see page 19) The logo can also be used to indicate the council contribution is being recognised by another body -eg. when funding a project or endorsing an approach.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q22110357) |
-
-| Property | Value |
-|----------|-------|
-| Followed By | 1999 City of York Council election |
-| Follows | 1994 York City Council election |
-| Google Knowledge Graph Id | /g/11bxfxw548 |
-| Country | United Kingdom |
-| Part Of | 1995 United Kingdom local elections |
-| Office Contested | member of York City Council |
-| Applies To Jurisdiction | York |
-| Point In Time | 1995-05-04 |

@@ -2,11 +2,11 @@
 title: Napster
 slug: napster
 description: ""
-date: "2026-04-10T09:40:34.672455"
+date: "2026-04-15T09:21:25.663294"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - usa
 years:

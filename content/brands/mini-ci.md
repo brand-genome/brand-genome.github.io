@@ -2,7 +2,7 @@
 title: Mini CI
 slug: "mini-ci"
 description: ""
-date: "2026-04-10T09:40:33.309606"
+date: "2026-04-15T09:21:24.246260"
 draft: false
 sectors:
   - automobile
@@ -27,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1970
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: compact viewer for Super 8 cine film
-wikidata_url: "https://www.wikidata.org/wiki/Q132529949"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -339,18 +337,3 @@ visual_term_image_urls: {}
 - MINI Motorer (the “m” in motorer should be capitalized when following MINI. Left lowercase when not.) MINI Motoring Advisor
 - MINI Owner (certain words should be capitalized when they follow MINI, such as the “d” in Dealer & the “o” in Owner. If dealer or owner do not follow MINI, they should stay lowercase.)
 - Model names (they come last: MINI Cooper S Clubman, not “MINI Clubman Cooper S”)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q132529949) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1970](/foundation_dates/1970/) |
-| Image | Visionneuse Mini-Cinéma BV2 et sa bobine.png |
-| Subclass Of | slide viewer |
-| Country Of Origin | Hong Kong |
-| Inception | 1970 |
-| Uses | Super 8 mm film |

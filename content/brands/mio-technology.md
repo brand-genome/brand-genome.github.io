@@ -2,11 +2,11 @@
 title: Mio Technology
 slug: "mio-technology"
 description: ""
-date: "2026-04-10T09:40:30.810151"
+date: "2026-04-15T09:21:22.412850"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - taiwan
 years:

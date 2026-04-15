@@ -2,11 +2,11 @@
 title: Austin Peay State University
 slug: "austin-peay-state-university"
 description: ""
-date: "2026-04-10T09:40:33.110412"
+date: "2026-04-15T09:21:24.044535"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

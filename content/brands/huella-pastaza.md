@@ -2,12 +2,12 @@
 title: Huella Pastaza
 slug: "huella-pastaza"
 description: ""
-date: "2026-04-10T09:40:33.056408"
+date: "2026-04-15T09:21:23.998380"
 draft: false
 sectors:
-  - ngo
-  - "consumer-goods"
   - food
+  - "consumer-goods"
+  - ngo
 regions:
   - ecuador
 years:

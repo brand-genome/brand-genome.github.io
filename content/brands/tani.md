@@ -2,11 +2,11 @@
 title: Tani
 slug: tani
 description: ""
-date: "2026-04-10T09:40:33.742472"
+date: "2026-04-15T09:21:24.717565"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - turkiye
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.tani.com.tr](https://www.tani.com.tr)
 - [https://www.tani.com.tr/kurumsal](https://www.tani.com.tr/kurumsal)
-- [http://www.tani.com](http://www.tani.com)
 
 ## Brand Guidelines
 

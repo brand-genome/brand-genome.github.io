@@ -2,11 +2,11 @@
 title: AFMB
 slug: afmb
 description: ""
-date: "2026-04-10T09:40:32.634040"
+date: "2026-04-15T09:21:23.815856"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - france
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - science
 industries: []
-countries:
-  - benin
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Beninese Islamic organization
-wikidata_url: "https://www.wikidata.org/wiki/Q115960078"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -223,14 +222,3 @@ visual_term_image_urls: {}
 - AFMB ARCHITECTURE ET FONCTION DES MACROMOLECULES BIOLOGIQUES Email afmb secretariat@univ amu fr AFMB -UMR7257 CNRS -Aix-Marseille Universite -Case 932 Tel +33 (0)4 91 82 55 66 163 Avenue de Luminy 13288 Marseille Cedex 09 FRANCE -( Aix>1<Marse1lle universite Socialement engagee 21 cm
 - 29,7 cm
 - Marseille, June 2nd 2021.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115960078) |
-
-| Property | Value |
-|----------|-------|
-| Country | Benin |
-| Short Name | AFMB |

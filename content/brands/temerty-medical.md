@@ -2,11 +2,11 @@
 title: Temerty Medical
 slug: "temerty-medical"
 description: ""
-date: "2026-04-10T09:40:32.987002"
+date: "2026-04-15T09:21:23.939888"
 draft: false
 sectors:
-  - research
   - university
+  - research
   - healthcare
 regions:
   - canada
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - health
+  - education
 industries: []
 countries: []
 revenue_buckets: []

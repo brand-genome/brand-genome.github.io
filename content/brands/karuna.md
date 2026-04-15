@@ -2,7 +2,7 @@
 title: Karuna
 slug: karuna
 description: ""
-date: "2026-04-10T09:40:33.659543"
+date: "2026-04-15T09:21:24.602012"
 draft: false
 sectors:
   - ngo
@@ -15,8 +15,7 @@ languages:
 tags:
   - charity
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,8 +25,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - amherst
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -52,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "non-profit organization based in Amherst, Massachusetts"
-wikidata_url: "https://www.wikidata.org/wiki/Q6373660"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://karuna.org](https://karuna.org)
 - [http://www.karuna.org](http://www.karuna.org)
-- [http://karunacenter.org](http://karunacenter.org)
 
 ## Brand Guidelines
 
@@ -191,21 +188,3 @@ visual_term_image_urls: {}
 - Picking out the vibrant colours from the images reflects Karuna's legacy of focusing on the positive aspects of Indian and Nepali culture. We believe hope is a more powerful tool than guilt so expanding Karuna's core colour palette with positive bright colours is important to our values.
 - The company typeface is FF DIN. Ifs a contemporary and highly legible sans serif typeface that allows an attractive, clean typographic style. FF DIN is available in a variety of weights that can be used to create graphic emphasis and visual hierarchy.
 - FF DIN may not always be available for certain applications, shared documents or the web. In these instances the typographic choice is Verdana. It has excellent legibility on screen and is widely available so can be found on most computers.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6373660) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Amherst](/headquarters_locations/amherst/) |
-| Headquarters Location | Amherst |
-| Located In The Administrative Territorial Entity | Amherst |
-| Library Of Congress Authority Id | no2007121519 |
-| Viaf Cluster Id | 136421831 |
-| Freebase Id | /m/0bs8vbb |
-| Country | United States |
-| Uia Open Yearbook Organization Website Id | 1100002456 |
-| Funder | Open Society Foundations (as of 2023) |

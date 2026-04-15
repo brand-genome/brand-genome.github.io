@@ -2,7 +2,7 @@
 title: Cooperación Española
 slug: "cooperacion-espanola"
 description: ""
-date: "2026-04-10T09:40:33.315484"
+date: "2026-04-15T09:21:24.251484"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - featured
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

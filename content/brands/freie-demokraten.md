@@ -2,7 +2,7 @@
 title: Freie Demokraten
 slug: "freie-demokraten"
 description: ""
-date: "2026-04-10T09:40:32.498357"
+date: "2026-04-15T09:21:23.707652"
 draft: false
 sectors:
   - "public-sector"

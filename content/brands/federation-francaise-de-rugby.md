@@ -2,7 +2,7 @@
 title: Fédération Française de Rugby
 slug: "federation-francaise-de-rugby"
 description: ""
-date: "2026-04-10T09:40:33.044171"
+date: "2026-04-15T09:21:23.986704"
 draft: false
 sectors:
   - sports

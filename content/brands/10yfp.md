@@ -2,7 +2,7 @@
 title: 10YFP
 slug: 10yfp
 description: ""
-date: "2026-04-10T09:40:33.160835"
+date: "2026-04-15T09:21:24.088309"
 draft: false
 sectors:
   - ngo

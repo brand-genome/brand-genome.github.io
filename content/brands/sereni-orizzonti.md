@@ -2,7 +2,7 @@
 title: Sereni Orizzonti
 slug: "sereni-orizzonti"
 description: ""
-date: "2026-04-10T09:40:33.146706"
+date: "2026-04-15T09:21:24.076066"
 draft: false
 sectors:
   - "elder-care"

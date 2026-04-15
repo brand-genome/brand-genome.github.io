@@ -2,7 +2,7 @@
 title: Right to Information
 slug: "right-to-information"
 description: ""
-date: "2026-04-10T09:40:34.503519"
+date: "2026-04-15T09:21:25.439053"
 draft: false
 sectors:
   - "public-sector"

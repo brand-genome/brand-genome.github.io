@@ -2,11 +2,11 @@
 title: Loughborough University
 slug: "loughborough-university"
 description: ""
-date: "2026-04-10T09:40:34.508991"
+date: "2026-04-15T09:21:25.443207"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 - [https://www.lborolondon.ac.uk](https://www.lborolondon.ac.uk)
 - [https://store.lboro.ac.uk](https://store.lboro.ac.uk)
 - [https://alumni.lboro.ac.uk](https://alumni.lboro.ac.uk)
-- [http://www.sturents.com](http://www.sturents.com)
-- [http://www.wordpress.com](http://www.wordpress.com)
 
 ## Brand Guidelines
 

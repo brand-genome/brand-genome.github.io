@@ -2,16 +2,16 @@
 title: Lush
 slug: lush
 description: ""
-date: "2026-04-10T09:40:32.768032"
+date: "2026-04-15T09:21:23.852895"
 draft: false
 sectors:
   - cosmetics
 regions:
-  - singapore
   - "united-kingdom"
+  - singapore
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
@@ -30,10 +30,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1988
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: band
-wikidata_url: "https://www.wikidata.org/wiki/Q1668512"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.lush.com](https://www.lush.com)
 - [https://www.lush.com/uk/en](https://www.lush.com/uk/en)
-- [http://lushofficial.com](http://lushofficial.com)
 
 ## Brand Guidelines
 
@@ -319,47 +316,3 @@ visual_term_image_urls: {}
 - Subject/Object to stand out or to make a perfect balance with others
 - Setting of content should evoke a consistently sophisticated presence.
 - Content should provide a human element to it, be it design-related or functionality.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1668512) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1988](/foundation_dates/1988/) |
-| Musicbrainz Artist Id | 697801d1-68b2-4413-a7e4-0ef507d21cc1 |
-| Freebase Id | /m/016_5p |
-| Gnd Id | 10297273-4 |
-| Image | Lush in my backyard.jpg |
-| Discogs Artist Id | 20696 |
-| Allmusic Artist Id | mn0000169099 |
-| Imdb Id | nm3164956 |
-| Facebook Username | Lush-604331643026124, lushbandofficial |
-| Inception | 1988 |
-| Youtube Channel Id | UC0U1vhEJD2vmNpzibecrFDA (as of 2020-12-20, from 2013-09-20) |
-| Location Of Formation | London |
-| Record Label | 4AD |
-| Influenced By | Kate Bush |
-| Genre | rock music |
-| Has Part(S) | Miki Berenyi, Emma Anderson, Chris Acland, Phil King |
-| Isni | 0000000106601411 |
-| Songkick Artist Id | 20179 |
-| Country Of Origin | United Kingdom |
-| Billboard Artist Id | lush |
-| Viaf Cluster Id | 129798154 |
-| Start Of Work Period | 1987 |
-| Spotify Artist Id | 3ysp8GwsheDcBxP9q65lBg |
-| Deezer Artist Id | 6168 |
-| Muziekweb Performer Id | M00000037949 |
-| Zhihu Topic Id | 20007424 |
-| Rate Your Music Artist Id | lush |
-| Last.Fm Id | Lush |
-| Whosampled Artist Id | Lush |
-| X (Twitter) Username | lushbandtweets (as of 2021-11-17, from 2015-09-21) |
-| Jaxsta Profile Id | da633097-7583-4031-9d6d-d4013d6b84a1 |
-| Apple Music Artist Id | 6759530 |
-| Bbc Things Id | 315c14a3-ac67-4770-9253-0a9aea460d3c |
-| Library Of Congress Authority Id | n92076245 |
-| Album Of The Year Artist Id | 4886 |

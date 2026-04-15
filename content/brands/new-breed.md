@@ -2,12 +2,12 @@
 title: New Breed
 slug: "new-breed"
 description: ""
-date: "2026-04-10T09:40:31.556220"
+date: "2026-04-15T09:21:23.203291"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
   - consulting
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - marketing
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,7 +54,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q11234858"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,32 +65,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.newbreedrevenue.com](https://www.newbreedrevenue.com)
-- [http://newbreed.ca](http://newbreed.ca)
 
 ## Brand Guidelines
 
 ### 2023
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11234858) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Artist Id | 2855a3c4-e08a-4306-a73d-60230ec5f3b9 |
-| Instagram Username | newbreedjapan |
-| Genre | metalcore |
-| X (Twitter) Username | newbreedjapan (as of 2018-05-10, from 2011-05-16) |
-| Facebook Username | NewBreedJapan |
-| Billboard Artist Id | new-breed |
-| Discogs Artist Id | 929855 |
-| Museum Of Modern Art Artist Id | 68764 |
-| Country Of Citizenship | United States |
-| Viaf Cluster Id | 132136013 |
-| Start Of Work Period | 2003 |
-| Social Media Followers | 4,870 (as of 2021-01-07), 5,629 (as of 2018-05-10) |
-| Google Knowledge Graph Id | /g/122pdg02 |

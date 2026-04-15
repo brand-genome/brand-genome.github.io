@@ -2,11 +2,11 @@
 title: mIQrotech
 slug: miqrotech
 description: ""
-date: "2026-04-10T09:40:32.523979"
+date: "2026-04-15T09:21:23.728783"
 draft: false
 sectors:
-  - software
   - oil
+  - software
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: Ilu Beverages
 slug: "ilu-beverages"
 description: ""
-date: "2026-04-10T09:40:30.888774"
+date: "2026-04-15T09:21:22.507493"
 draft: false
 sectors:
   - drink

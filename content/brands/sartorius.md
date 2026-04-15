@@ -2,11 +2,11 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-04-10T09:40:33.402731"
+date: "2026-04-15T09:21:24.334184"
 draft: false
 sectors:
-  - hardware
   - biotech
+  - hardware
 regions:
   - france
 years:
@@ -15,12 +15,12 @@ languages:
   - english
 tags:
   - featured
-  - corporate
   - science
+  - corporate
 industries:
-  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
-  - "precision-engineering-and-optical-industry"
   - "pharmaceutical-industry"
+  - "precision-engineering-and-optical-industry"
+  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
 countries:
   - germany
 revenue_buckets: []

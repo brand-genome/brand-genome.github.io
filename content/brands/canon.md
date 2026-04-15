@@ -2,14 +2,14 @@
 title: Canon
 slug: canon
 description: ""
-date: "2026-04-10T09:40:31.460441"
+date: "2026-04-15T09:21:23.115724"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
-  - singapore
   - japan
+  - singapore
 years:
   - 2015
   - 2017

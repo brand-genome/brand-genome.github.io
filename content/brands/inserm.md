@@ -2,7 +2,7 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-04-10T09:40:34.458054"
+date: "2026-04-15T09:21:25.399867"
 draft: false
 sectors:
   - research
@@ -16,8 +16,8 @@ languages:
 tags:
   - science
 industries:
-  - research
   - "research-and-development-in-other-physical-and-natural-sciences"
+  - research
 countries:
   - france
 revenue_buckets: []

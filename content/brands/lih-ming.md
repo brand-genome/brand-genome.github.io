@@ -2,11 +2,11 @@
 title: Lih Ming
 slug: "lih-ming"
 description: ""
-date: "2026-04-10T09:40:32.565687"
+date: "2026-04-15T09:21:23.764240"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - singapore
 years:

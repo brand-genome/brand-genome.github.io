@@ -2,11 +2,11 @@
 title: Kochike
 slug: kochike
 description: ""
-date: "2026-04-10T09:40:34.512136"
+date: "2026-04-15T09:21:25.445865"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - japan
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - kochi
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1944
-foundation_year_buckets:
-  - 1940S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Defunct bus operator based in Kōchi prefecture, Japan"
-wikidata_url: "https://www.wikidata.org/wiki/Q11672405"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kochike.jp](https://kochike.jp)
-- [http://www.kenkoutsu.net](http://www.kenkoutsu.net)
 
 ## Brand Guidelines
 
@@ -122,24 +117,3 @@ visual_term_image_urls: {}
 - 0.04X x 高知家®0.04X 0.04X
 - 0.05X 彪x 高知家®0.05X 0.05X
 - ※原則、点線枠内に他の要素を入れることは避けてください
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11672405) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Kochi](/headquarters_locations/kochi/) |
-| Foundation Date | [1944](/foundation_dates/1944/) |
-| Topic'S Main Category | Category:Kōchiken Kōtsū |
-| Headquarters Location | Kochi |
-| Inception | 1944-06-01 |
-| Corporate Number (Japan) | 5490001000697 |
-| Google Knowledge Graph Id | /g/12111y_t |
-| Country | Japan |
-| Dissolved, Abolished Or Demolished Date | 2018-06 |
-| Legal Form | kabushiki gaisha |
-| Replaced By | Tosaden Kōtsū |
-| Opencorporates Id | jp/5490001000697 |

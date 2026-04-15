@@ -2,7 +2,7 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-04-10T09:40:32.627415"
+date: "2026-04-15T09:21:23.812032"
 draft: false
 sectors:
   - "public-sector"

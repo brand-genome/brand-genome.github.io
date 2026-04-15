@@ -2,7 +2,7 @@
 title: Sescam
 slug: sescam
 description: ""
-date: "2026-04-10T09:40:32.141459"
+date: "2026-04-15T09:21:23.615351"
 draft: false
 sectors:
   - "public-sector"

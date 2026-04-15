@@ -2,7 +2,7 @@
 title: Auckland Council
 slug: "auckland-council"
 description: ""
-date: "2026-04-10T09:40:31.556094"
+date: "2026-04-15T09:21:23.203096"
 draft: false
 sectors:
   - "public-sector"
@@ -17,8 +17,7 @@ tags:
   - featured
   - regional
 industries: []
-countries:
-  - "new-zealand"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1991
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: office building in Auckland
-wikidata_url: "https://www.wikidata.org/wiki/Q28052081"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -70,26 +67,4 @@ visual_term_image_urls: {}
 - [https://akhaveyoursay.aucklandcouncil.govt.nz](https://akhaveyoursay.aucklandcouncil.govt.nz)
 - [https://knowledgeauckland.org.nz/home](https://knowledgeauckland.org.nz/home)
 - [http://www.futurefit.nz](http://www.futurefit.nz)
-- [http://www.govt.nz](http://www.govt.nz)
 - [http://www.ourauckland.nz](http://www.ourauckland.nz)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28052081) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1991](/foundation_dates/1991/) |
-| Country | New Zealand |
-| Located In The Administrative Territorial Entity | Auckland Region |
-| Emporis Building Id | 120184 |
-| Skyscraperpage Building Id | 978 |
-| Image | ASB Bank Headquarter in Auckland (frontview).jpg |
-| Floors Above Ground | 31 |
-| Freebase Id | /m/0wfgsvg |
-| Coordinate Location | -36.84998, 174.7624 |
-| Inception | 1991 |
-| Height | 116 metre |
-| Structurae Structure Id | 20024936 |

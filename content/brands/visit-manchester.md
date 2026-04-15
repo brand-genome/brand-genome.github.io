@@ -2,7 +2,7 @@
 title: Visit Manchester
 slug: "visit-manchester"
 description: ""
-date: "2026-04-10T09:40:32.540711"
+date: "2026-04-15T09:21:23.740880"
 draft: false
 sectors:
   - tourism

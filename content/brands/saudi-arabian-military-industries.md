@@ -2,11 +2,11 @@
 title: Saudi Arabian Military Industries
 slug: "saudi-arabian-military-industries"
 description: ""
-date: "2026-04-10T09:40:30.667484"
+date: "2026-04-15T09:21:22.232670"
 draft: false
 sectors:
-  - defense
   - aerospace
+  - defense
 regions:
   - "saudi-arabia"
 years:

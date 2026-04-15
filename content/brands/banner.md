@@ -2,11 +2,11 @@
 title: Banner
 slug: banner
 description: ""
-date: "2026-04-10T09:40:34.711355"
+date: "2026-04-15T09:21:25.693724"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - corporate
 industries: []
-countries:
-  - "german-democratic-republic"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1954
-foundation_year_buckets:
-  - 1950S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "order for outstanding and long-standing achievements in strengthening and consolidating the GDR, established in 1954, since 1978 in three classes"
-wikidata_url: "https://www.wikidata.org/wiki/Q514659"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -279,26 +276,3 @@ visual_term_image_urls: {}
 
 - Our common name is “Banner Engineering” or “Banner”. Our legal name is “Banner Engineering Corp.”. Please be sure to not deviate from our common and legal name usage. Any other versions are technically incorrect. The use of our legal name, Banner Engineering Corp., is required to be used on the following: • Invoices • Checks • Purchase orders • Papers to be filed with governmental agencies or offices • Documents requiring the signature of an officer of the corporation
 - Careful consideration must be taken before selecting or registering marks due to the international markets in which Banner participates. The diverse cultures and markets must be considered when naming Banner products. A trademark chosen for the United States market may have a substantially different meaning in the international market. Too many trademarks can also diminish the effectiveness of the Banner brand. For the reasons listed above, all trademarks and naming of products must be approved by Banner officers.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q514659) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1954](/foundation_dates/1954/) |
-| Freebase Id | /m/09l7kz |
-| Country | German Democratic Republic |
-| Inception | 1954-08-04 |
-| Image | GDR-Flag of Labor.jpg |
-| Conferred By | German Democratic Republic |
-| Service Ribbon Image | GDR Order of Banner of Labor 1Class BAR.png |
-| Category For Recipients Of This Award | Category:Recipients of the Banner of Labor |
-| Next Higher Rank | Patriotic Order of Merit |
-| Native Label | Banner der Arbeit |
-| Different From | Order of the Red Banner |
-| Related Category |  |
-| Museum Digital Tag Id | 16461 |
-| Described By Source | Auszeichnungen der DDR von den Anfängen bis zur Gegenwart (1 ed.) |

@@ -2,11 +2,11 @@
 title: Hobsons
 slug: hobsons
 description: ""
-date: "2026-04-10T09:40:34.255749"
+date: "2026-04-15T09:21:25.172810"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:

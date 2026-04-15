@@ -2,7 +2,7 @@
 title: United Way
 slug: "united-way"
 description: ""
-date: "2026-04-10T09:40:33.157683"
+date: "2026-04-15T09:21:24.085843"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - charity
+  - ngo
 industries: []
 countries:
   - "united-states"

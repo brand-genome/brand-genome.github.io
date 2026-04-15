@@ -2,7 +2,7 @@
 title: Santa Cruz de Tenerife
 slug: "santa-cruz-de-tenerife"
 description: ""
-date: "2026-04-10T09:40:33.158323"
+date: "2026-04-15T09:21:24.086199"
 draft: false
 sectors:
   - "public-sector"

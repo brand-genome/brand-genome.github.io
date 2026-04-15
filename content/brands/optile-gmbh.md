@@ -2,7 +2,7 @@
 title: Optile GmbH
 slug: "optile-gmbh"
 description: ""
-date: "2026-04-10T09:40:32.842172"
+date: "2026-04-15T09:21:23.881721"
 draft: false
 sectors:
   - finance

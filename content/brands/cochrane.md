@@ -2,13 +2,13 @@
 title: Cochrane
 slug: cochrane
 description: ""
-date: "2026-04-10T09:40:33.032410"
+date: "2026-04-15T09:21:23.976616"
 draft: false
 sectors:
-  - ngo
   - publishing
   - research
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries:
   - "health-care"
 countries:

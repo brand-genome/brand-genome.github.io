@@ -2,7 +2,7 @@
 title: Mulino bianco
 slug: "mulino-bianco"
 description: ""
-date: "2026-04-10T09:40:31.961516"
+date: "2026-04-15T09:21:23.399300"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries:
   - "food-industry"
 countries:

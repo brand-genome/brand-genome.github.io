@@ -2,11 +2,11 @@
 title: Umbro
 slug: umbro
 description: ""
-date: "2026-04-10T09:40:33.589208"
+date: "2026-04-15T09:21:24.535584"
 draft: false
 sectors:
-  - fashion
   - sports
+  - fashion
   - footwear
 regions:
   - "united-kingdom"
@@ -18,8 +18,7 @@ tags:
   - featured
   - sport
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -54,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: association football competition
-wikidata_url: "https://www.wikidata.org/wiki/Q2999390"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +68,6 @@ visual_term_image_urls: {}
 - [https://www.umbro.co.uk](https://www.umbro.co.uk)
 - [https://www.umbro.com/en](https://www.umbro.com/en)
 - [https://www.umbro.com.au](https://www.umbro.com.au)
-- [http://www.linotype.com](http://www.linotype.com)
 - [http://www.umbro.com](http://www.umbro.com)
 
 ## Brand Guidelines
@@ -77,27 +75,3 @@ visual_term_image_urls: {}
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2999390) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/0d0x1b |
-| Sport | association football |
-| Statistical Leader | Kennet Andersson |
-| Point In Time | 1995-06, 1995 |
-| Country | United Kingdom |
-| Number Of Participants | 4 |
-| Number Of Matches Played/Races/Starts | 6 |
-| Follows | 1991 England Challenge Cup |
-| Followed By | 2004 FA Summer Tournament |
-| Winner | Brazil men's national football team |
-| Start Time | 1995-06-03 |
-| End Time | 1995-06-11 |
-| Fandom Article Id | football:Umbro_Cup |
-| Competition Class | men's association football |
-| Participating Team | Brazil men's national football team, England men's national association football team, Sweden men's national football team, Japan men's national football team |

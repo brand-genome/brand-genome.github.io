@@ -2,18 +2,18 @@
 title: Suncor
 slug: suncor
 description: ""
-date: "2026-04-10T09:40:32.821064"
+date: "2026-04-15T09:21:23.869416"
 draft: false
 sectors:
-  - "petrol-station"
-  - oil
-  - petroleum
   - gas
+  - petroleum
+  - oil
+  - "petrol-station"
 regions:
   - canada
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:

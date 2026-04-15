@@ -2,7 +2,7 @@
 title: Land Rover
 slug: "land-rover"
 description: ""
-date: "2026-04-10T09:40:34.018845"
+date: "2026-04-15T09:21:24.937657"
 draft: false
 sectors:
   - automobile
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.landrover.com](https://www.landrover.com)
 - [https://www.landroverusa.com](https://www.landroverusa.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
 - [http://www.landrover.com](http://www.landrover.com)
 - [https://www.landroverkorea.co.kr](https://www.landroverkorea.co.kr)
 

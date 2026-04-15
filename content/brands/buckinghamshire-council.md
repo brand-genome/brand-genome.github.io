@@ -2,7 +2,7 @@
 title: Buckinghamshire Council
 slug: "buckinghamshire-council"
 description: ""
-date: "2026-04-10T09:40:33.377699"
+date: "2026-04-15T09:21:24.311877"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.buckinghamshire.gov.uk](https://www.buckinghamshire.gov.uk)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: University of Nottingham Ningbo China
 slug: "university-of-nottingham-ningbo-china"
 description: ""
-date: "2026-04-10T09:40:30.838306"
+date: "2026-04-15T09:21:22.450556"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.nottingham.ac.uk/about/campuses/chinacampus.aspx](https://www.nottingham.ac.uk/about/campuses/chinacampus.aspx)
 - [http://www.instagram.com/unnchome](http://www.instagram.com/unnchome)
 - [http://www.youtube.com/c/UoNChina](http://www.youtube.com/c/UoNChina)
-- [http://www.edu.cn](http://www.edu.cn)
 - [https://www.nottingham.edu.cn/en/cele/welcome.aspx](https://www.nottingham.edu.cn/en/cele/welcome.aspx)
 - [https://www.nottingham.edu.cn/cn/cele/homepage.aspx](https://www.nottingham.edu.cn/cn/cele/homepage.aspx)
 

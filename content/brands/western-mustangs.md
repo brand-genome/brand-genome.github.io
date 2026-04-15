@@ -2,7 +2,7 @@
 title: Western Mustangs
 slug: "western-mustangs"
 description: ""
-date: "2026-04-10T09:40:34.409240"
+date: "2026-04-15T09:21:25.356381"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries:
   - canada

@@ -2,7 +2,7 @@
 title: Vale
 slug: vale
 description: ""
-date: "2026-04-10T09:40:34.254373"
+date: "2026-04-15T09:21:25.171220"
 draft: false
 sectors:
   - "logistics-supply-chain"

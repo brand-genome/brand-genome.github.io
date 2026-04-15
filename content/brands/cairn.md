@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-04-10T09:40:34.789941"
+date: "2026-04-15T09:21:25.767502"
 draft: false
 sectors:
-  - oil
-  - petroleum
   - gas
+  - petroleum
+  - oil
 regions:
   - india
 years:
@@ -29,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2005
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Web portal for scientific publications in French
-wikidata_url: "https://www.wikidata.org/wiki/Q2933237"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,42 +66,9 @@ visual_term_image_urls: {}
 - [https://www.cairnindia.com](https://www.cairnindia.com)
 - [https://uat.cairnindia.com](https://uat.cairnindia.com)
 - [https://foundation.cairnindia.com](https://foundation.cairnindia.com)
-- [http://cairn.info](http://cairn.info)
 
 ## Brand Guidelines
 
 ### 2015
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2933237) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2005](/foundation_dates/2005/) |
-| Main Wikidata Property | Cairn author ID, Cairn publication ID |
-| Language Of Work Or Name | French, Spanish, English |
-| X (Twitter) Username | Cairninfo (as of 2020-02-27, from 2010-03-05) |
-| Facebook Username | cairninfo, 195080447185914 |
-| Inception | 2005-01-01 |
-| Title | cairn.info |
-| Motto Text | Revues et ouvrages en sciences humaines et sociales |
-| Different From | cairn-int.info |
-| Wikipedia Library Partner Id | 46 |
-| Social Media Followers | 21,746 (as of 2021-01-04), 25,338 (as of 2022-03-01), 28,059 (as of 2023-02-09) |
-| Google Knowledge Graph Id | /g/121lsxh6 |
-| National Library Of Israel J9U Id | 987012493368905171 |
-| Interested In | Subscribe to Open |
-| Member Of | International Association of Scientific, Technical, and Medical Publishers |
-| Bibliothèque Nationale De France Id | 165032364 |
-| Viaf Cluster Id | 22169919692958170680, 205986409 |
-| Canadiana Name Authority Id | ncf11043345 |
-| Gnd Id | 16306361-8 |
-| Idref Id | 27938226X |
-| Bluesky Handle | cairninfo.bsky.social |
-| Domain Name | cairn.info |
-| Ror Id | 00faswz36 |

@@ -2,7 +2,7 @@
 title: Conservative Party of Canada
 slug: "conservative-party-of-canada"
 description: ""
-date: "2026-04-10T09:40:33.376560"
+date: "2026-04-15T09:21:24.311029"
 draft: false
 sectors:
   - "public-sector"

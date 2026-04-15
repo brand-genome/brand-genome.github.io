@@ -2,7 +2,7 @@
 title: YWCA
 slug: ywca
 description: ""
-date: "2026-04-10T09:40:32.489075"
+date: "2026-04-15T09:21:23.700240"
 draft: false
 sectors:
   - ngo
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 
 - [https://www.worldywca.org](https://www.worldywca.org)
 - [https://www.ywca.org](https://www.ywca.org)
-- [http://www.google.com](http://www.google.com)
 - [http://www.ywca.org](http://www.ywca.org)
 - [http://www.worldywca.org](http://www.worldywca.org)
 

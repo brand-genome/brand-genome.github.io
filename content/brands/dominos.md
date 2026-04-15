@@ -2,11 +2,11 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-04-10T09:40:33.750843"
+date: "2026-04-15T09:21:24.726751"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:

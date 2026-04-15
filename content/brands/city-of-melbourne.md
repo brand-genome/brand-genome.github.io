@@ -2,7 +2,7 @@
 title: City of Melbourne
 slug: "city-of-melbourne"
 description: ""
-date: "2026-04-10T09:40:34.863558"
+date: "2026-04-15T09:21:25.835830"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - city
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1970
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "municipal flag of Melbourne, Victoria, Australia"
-wikidata_url: "https://www.wikidata.org/wiki/Q5456860"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,21 +69,3 @@ visual_term_image_urls: {}
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5456860) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1970](/foundation_dates/1970/) |
-| Image | Flag of Melbourne.svg |
-| Inception | 1970-03-18 |
-| Applies To Jurisdiction | Melbourne |
-| Freebase Id | /m/096c20 |
-| Country | Australia |
-| Represents | Melbourne |
-| Color | white, red |
-| Aspect Ratio (W:H) | 2:1 |

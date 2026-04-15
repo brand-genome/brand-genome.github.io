@@ -2,7 +2,7 @@
 title: PSIA / AASI
 slug: "psia-aasi"
 description: ""
-date: "2026-04-10T09:40:33.343083"
+date: "2026-04-15T09:21:24.278406"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: ECD Architects
 slug: "ecd-architects"
 description: ""
-date: "2026-04-10T09:40:32.588402"
+date: "2026-04-15T09:21:23.786906"
 draft: false
 sectors:
   - architecture

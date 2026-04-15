@@ -2,11 +2,11 @@
 title: Universidad de La Salle
 slug: "universidad-de-la-salle"
 description: ""
-date: "2026-04-10T09:40:34.666057"
+date: "2026-04-15T09:21:25.658281"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - colombia
 years:
@@ -14,29 +14,23 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
-industries:
-  - "higher-education"
-countries:
-  - "united-states"
+  - education
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "100-1K"
-total_assets_buckets:
-  - "100M-500M"
+employees_buckets: []
+total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1863
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "private university in Philadelphia, Pennsylvania, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q3106542"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://lasalle.edu.co](https://lasalle.edu.co)
-- [http://www.lasalle.edu](http://www.lasalle.edu)
 
 ## Brand Guidelines
 
@@ -349,77 +342,3 @@ visual_term_image_urls: {}
 - A fin de mejorar la unidad de criterios de promoción institucional y atendiendo a aspectos de economía, los tamaños y formatos que se relacionan a continuación son de uso estándar, siempre que los materiales estén disponibles o sean fáciles de adquirir, publicar, etiquetar...
 - Los tamaños especiales, diferentes a los estándares definidos aquí se emplearán únicamente para casos especiales.
 - Tamaños del papel más comunes -105 x 229 mm Volantes Ancho del logotipo 40mm -215 x 139 mm Media carta Ancho del logotipo 80mm -152 x 228 mm Programas, brochures pequeños Ancho del logotipo 60mm -200 x 200 mm Brochures cuadrados Ancho del logotipo 80mm -279 x 348 mm Afiche pequeño Ancho del logotipo 112mm -228 x 30 mm Carpetas Ancho del logotipo 92mm -279 x 431 mm Tabloide Ancho del logotipo 110mm
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3106542) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1863](/foundation_dates/1863/) |
-| Topic'S Main Category | Category:La Salle University |
-| Coordinate Location | 40.03925, -75.15325 |
-| Freebase Id | /m/02yr3z |
-| Country | United States |
-| Integrated Postsecondary Education Data System Id | 213367 |
-| Postal Code | 19141-1199 |
-| Religion Or Worldview | Catholic Church |
-| Carnegie Classification Of Institutions Of Higher Education | master's colleges and universities: larger programs, high undergraduate, postbaccalaureate: comprehensive programs, four-year, medium, highly residential, four-year, full-time, selective, lower transfer-in (+1 more) |
-| Inception | 1863 |
-| Located In The Administrative Territorial Entity | Philadelphia |
-| Isni | 0000000122275871 |
-| Category For Alumni Of Educational Institution | Category:La Salle University alumni |
-| Grid Id | grid.258857.5 |
-| Encyclopædia Britannica Online Id | topic/La-Salle-University |
-| Named After | Jean-Baptiste de La Salle |
-| Openstreetmap Relation Id | 2557183 |
-| Microsoft Academic Id (Discontinued) | 47652572 |
-| Street Address | 1900 W Olney Ave, Philadelphia, PA, 19141-1199 |
-| Library Of Congress Authority Id | n87895863 |
-| Times Higher Education World University Id | la-salle-university |
-| X (Twitter) Username | lasalleuniv (as of 2020-04-22, from 2007-11-13), LaSalleUniv |
-| Facebook Username | lasalleuniversity |
-| Instagram Username | lasalleuniv |
-| Ror Id | 02beve479 |
-| Ringgold Id | 6554 |
-| Viaf Cluster Id | 150194290 |
-| Motto Text | Virtus Scientia |
-| Official Name | La Salle University |
-| Language Used | American English |
-| Chairperson | Colleen Hanycz (from 2015-07-01) |
-| Count Of Students | 6,200 |
-| Image | LaSalleLibrary.jpg |
-| Social Media Followers | 10,874 (as of 2021-01-04), 10,903 (as of 2020-04-22), 10,985 (as of 2022-02-26), 11,213 (as of 2023-02-09) |
-| Schoenberg Database Of Manuscripts Name Id | 49634 |
-| Endowment | 80,002,231 United States dollar (as of 2020-06-30) |
-| Admission Rate | 0 (as of 2020) |
-| Admission Yield Rate | 0 (as of 2020) |
-| Openalex Id | I47652572 |
-| Academic Calendar Type | semester |
-| Sevis School Id | 2682 |
-| Google Scholar Organization Id | 10744174440157782398 |
-| Member Of | Open Education Network, International Association of Universities |
-| Industry | higher education |
-| Kisti Id | K000207355 |
-| Tiktok Username | lasalleu |
-| Domain Name | lasalle.edu |
-| ‎Yale Lux Id | group/e4427541-733b-4008-aa16-956273e0271d |
-| World Higher Education Database Id | IAU-010770 |
-| Youtube Channel Id | UCPc7OmrAmW2F6wnQ9wR3i_A (as of 2025-09-21, from 2007-05-03) |
-| Youtube Handle | lasalleuniversity (as of 2025-10-20) |
-| Number Of Viewers/Listeners | 9,123,634 (as of 2025-11-28) |
-| Athletics Program | La Salle Explorers |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 816 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
-
-### Total Assets History
-
-| Total Assets ($) | Year information | Bucket |
-|---|---|---|
-| $273.67M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

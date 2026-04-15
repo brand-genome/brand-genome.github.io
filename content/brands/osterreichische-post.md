@@ -2,11 +2,11 @@
 title: Österreichische Post
 slug: "osterreichische-post"
 description: ""
-date: "2026-04-10T09:40:32.481982"
+date: "2026-04-15T09:21:23.695146"
 draft: false
 sectors:
-  - "parcel-service"
   - "logistics-supply-chain"
+  - "parcel-service"
 regions:
   - austria
 years:

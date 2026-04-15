@@ -2,7 +2,7 @@
 title: "M&G Investments"
 slug: "mg-investments"
 description: ""
-date: "2026-04-10T09:40:33.436651"
+date: "2026-04-15T09:21:24.372232"
 draft: false
 sectors:
   - finance

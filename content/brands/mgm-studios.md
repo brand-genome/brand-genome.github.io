@@ -2,7 +2,7 @@
 title: MGM Studios
 slug: "mgm-studios"
 description: ""
-date: "2026-04-10T09:40:30.612242"
+date: "2026-04-15T09:21:22.167909"
 draft: false
 sectors:
   - entertainment

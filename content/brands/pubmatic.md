@@ -2,11 +2,11 @@
 title: PubMatic
 slug: pubmatic
 description: ""
-date: "2026-04-10T09:40:33.298206"
+date: "2026-04-15T09:21:24.234319"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:

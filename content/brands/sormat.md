@@ -2,7 +2,7 @@
 title: Sormat
 slug: sormat
 description: ""
-date: "2026-04-10T09:40:33.803169"
+date: "2026-04-15T09:21:24.782729"
 draft: false
 sectors:
   - construction
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://en.sormat.com/en-EN](https://en.sormat.com/en-EN)
-- [http://www.youtube.com/sormatfixing](http://www.youtube.com/sormatfixing)
 
 ## Brand Guidelines
 

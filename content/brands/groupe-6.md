@@ -2,7 +2,7 @@
 title: Groupe 6
 slug: "groupe-6"
 description: ""
-date: "2026-04-10T09:40:34.794579"
+date: "2026-04-15T09:21:25.771942"
 draft: false
 sectors:
   - architecture
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - architecture
   - featured
+  - architecture
 industries: []
 countries: []
 revenue_buckets: []
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: group of chemical elements
-wikidata_url: "https://www.wikidata.org/wiki/Q193280"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -252,20 +252,3 @@ visual_term_image_urls: {}
 - 55 mm
 - logo 35 mm tampon format maxi = 55 x 25 mm
 - Helvetica Neue LT 45 Light 7,5 pt / interlignage 8 pt approche 3
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q193280) |
-
-| Property | Value |
-|----------|-------|
-| Gnd Id | 4351614-2 |
-| Freebase Id | /m/0hjs5 |
-| Topic'S Main Category | Category:Periodic table group 6 |
-| Has Part(S) | chemical element, chromium, molybdenum, tungsten, seaborgium |
-| Part Of | periodic table, d-block |
-| Microsoft Academic Id (Discontinued) | 172507893 |
-| Image | Chromium crystals and 1cm3 cube.jpg, Molybdenum crystaline fragment and 1cm3 cube.jpg, Wolfram evaporated crystals and 1cm3 cube.jpg |
-| On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31) |

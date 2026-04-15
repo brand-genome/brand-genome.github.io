@@ -2,16 +2,16 @@
 title: Schneider Electric
 slug: "schneider-electric"
 description: ""
-date: "2026-04-10T09:40:30.706495"
+date: "2026-04-15T09:21:22.291938"
 draft: false
 sectors:
-  - software
   - utilities
+  - software
 regions:
   - france
 years:
-  - 2011
   - 2017
+  - 2011
 languages:
   - english
 tags:
@@ -36,8 +36,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - software
   - "electrical-device"
+  - software
 products: []
 headquarters_locations:
   - "rueil-malmaison"
@@ -47,8 +47,8 @@ foundation_dates:
   - 1836
   - 2009
 foundation_year_buckets:
-  - "19TH-CENTURY"
   - 2000S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -84,7 +84,6 @@ visual_term_image_urls: {}
 - [https://www.se.com/ww/en](https://www.se.com/ww/en)
 - [https://www.se.com/fr/fr](https://www.se.com/fr/fr)
 - [https://www.se.com/us/en](https://www.se.com/us/en)
-- [http://www.google.com/get/noto](http://www.google.com/get/noto)
 - [https://www.se.com](https://www.se.com)
 - [https://retailpavilion-in.se.com](https://retailpavilion-in.se.com)
 
@@ -459,7 +458,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Electrical Device](/products_or_materials_produced/electrical-device/) |
+| Product Or Material Produced | [Electrical Device](/products_or_materials_produced/electrical-device/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Rueil Malmaison](/headquarters_locations/rueil-malmaison/); [Macon](/headquarters_locations/macon/) |
 | Foundation Date | [1836](/foundation_dates/1836/); [2009](/foundation_dates/2009/) |
 | Topic'S Main Category | Category:Schneider Electric |

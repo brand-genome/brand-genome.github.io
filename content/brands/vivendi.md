@@ -2,7 +2,7 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-04-10T09:40:34.868451"
+date: "2026-04-15T09:21:25.840143"
 draft: false
 sectors:
   - "marketing-advertising"

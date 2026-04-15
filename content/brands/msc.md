@@ -2,7 +2,7 @@
 title: MSC
 slug: msc
 description: ""
-date: "2026-04-10T09:40:34.061183"
+date: "2026-04-15T09:21:24.977042"
 draft: false
 sectors:
   - tourism
@@ -16,8 +16,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - egypt
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - cairo
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1997
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Egyptian airline
-wikidata_url: "https://www.wikidata.org/wiki/Q1147012"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.msccruises.com/select-your-country](https://www.msccruises.com/select-your-country)
 - [https://www.msccruises.it](https://www.msccruises.it)
 - [https://www.msccruisesusa.com](https://www.msccruisesusa.com)
-- [https://aircairo.com](https://aircairo.com)
 
 ## Brand Guidelines
 
@@ -267,36 +262,3 @@ visual_term_image_urls: {}
 - The MSC Cruises logo has only one colour. This colour cannot be changed for any reason.
 - PANTONE: 282C (coated paper) or 282U (uncoated paper) LAB: L = 12; A = 1; B = -28 WEB: #000033
 - Pay attention to the difference between the positive and negative versions: the structure of the compass rose is different.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1147012) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Cairo](/headquarters_locations/cairo/) |
-| Foundation Date | [1997](/foundation_dates/1997/) |
-| Freebase Id | /m/07775c |
-| Image | Air Cairo Airbus A320 Berni.jpg, SU-BPV Airbus A320 Air Cairo LGW 18.4.21.jpg |
-| Iata Airline Designator | SM |
-| Icao Airline Designator | MSC |
-| Callsign Of Airline | AIR CAIRO |
-| Airline Hub | Cairo International Airport |
-| Inception | 1997 |
-| Headquarters Location | Cairo |
-| Start Of Work Period | 2003 |
-| Country | Egypt |
-| Parent Organization Or Unit | EgyptAir |
-| Airline Accounting Code | 381 |
-| Wolfram Language Entity Code | Entity["Airline", "AirCairo::gh7q3"] |
-| X (Twitter) Username | aircairo (as of 2020-12-29, from 2014-06-25) |
-| Social Media Followers | 6,164 (as of 2021-01-03), 9,675 (as of 2023-02-13) |
-| Instagram Username | flyaircairo, aircairo.official |
-| Airline Alliance | Arab Air Carriers Organization |
-| Flight Report.Com Airline Id | 14229 |
-| Threads Username | aircairo.official |
-| Linktree Id | aircairo |
-| Facebook Username | aircairo |
-| Linkedin Company Or Organization Id | air-cairo |

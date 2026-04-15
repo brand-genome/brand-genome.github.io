@@ -2,7 +2,7 @@
 title: Quadpay
 slug: quadpay
 description: ""
-date: "2026-04-10T09:40:31.943432"
+date: "2026-04-15T09:21:23.378847"
 draft: false
 sectors:
   - finance

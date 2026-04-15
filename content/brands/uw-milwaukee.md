@@ -2,11 +2,11 @@
 title: UW Milwaukee
 slug: "uw-milwaukee"
 description: ""
-date: "2026-04-10T09:40:34.725773"
+date: "2026-04-15T09:21:25.707028"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

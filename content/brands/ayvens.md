@@ -2,7 +2,7 @@
 title: Ayvens
 slug: ayvens
 description: ""
-date: "2026-04-10T09:40:30.579062"
+date: "2026-04-15T09:21:22.112222"
 draft: false
 sectors:
   - "ride-sharing"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [http://www.ayvens.com](http://www.ayvens.com)
-- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

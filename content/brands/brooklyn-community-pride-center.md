@@ -2,11 +2,11 @@
 title: Brooklyn Community Pride Center
 slug: "brooklyn-community-pride-center"
 description: ""
-date: "2026-04-10T09:40:32.140806"
+date: "2026-04-15T09:21:23.614798"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:

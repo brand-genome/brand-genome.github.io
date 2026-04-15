@@ -2,7 +2,7 @@
 title: Arizona Theatre Compagy
 slug: "arizona-theatre-compagy"
 description: ""
-date: "2026-04-10T09:40:34.886792"
+date: "2026-04-15T09:21:25.857644"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - theater
   - cultural
+  - theater
 industries: []
 countries: []
 revenue_buckets: []

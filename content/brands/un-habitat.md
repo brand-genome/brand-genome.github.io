@@ -2,7 +2,7 @@
 title: UN Habitat
 slug: "un-habitat"
 description: ""
-date: "2026-04-10T09:40:33.392589"
+date: "2026-04-15T09:21:24.325775"
 draft: false
 sectors:
   - "public-sector"
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2020
-foundation_year_buckets:
-  - 2020S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: An annual film festival associated with the United Nations Habitat Program
-wikidata_url: "https://www.wikidata.org/wiki/Q135656195"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://unhabitat.org](https://unhabitat.org)
 - [http://www.unhabitat.org](http://www.unhabitat.org)
-- [https://www.bettercitiesfilmfestival.com/un-habitat-better-cities](https://www.bettercitiesfilmfestival.com/un-habitat-better-cities)
 
 ## Brand Guidelines
 
@@ -189,19 +186,3 @@ visual_term_image_urls: {}
 - Photography that shows visitor experiences within the context of land are encouraged.
 - Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
 - Depictions of food, art, or other installations by Indigenous creators is encouraged.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q135656195) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2020](/foundation_dates/2020/) |
-| Inception | 2020 |
-| Founded By | United Nations Human Settlements Programme, Better Cities Film Festival |
-| Location | World Urban Forum |
-| Event Interval | 1 year |
-| Month Of The Year | February |
-| Affiliation | Better Cities Film Festival, United Nations Human Settlements Programme |

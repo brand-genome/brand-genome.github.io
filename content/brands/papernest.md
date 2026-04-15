@@ -2,11 +2,11 @@
 title: Papernest
 slug: papernest
 description: ""
-date: "2026-04-10T09:40:34.649941"
+date: "2026-04-15T09:21:25.642651"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - france
 years:

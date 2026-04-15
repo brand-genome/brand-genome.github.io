@@ -2,11 +2,11 @@
 title: Novo Nordisk Foundation
 slug: "novo-nordisk-foundation"
 description: ""
-date: "2026-04-10T09:40:30.725369"
+date: "2026-04-15T09:21:22.312164"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - denmark
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries:
   - foundation
 countries:

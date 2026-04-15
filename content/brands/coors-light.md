@@ -2,11 +2,11 @@
 title: Coors Light
 slug: "coors-light"
 description: ""
-date: "2026-04-10T09:40:31.083301"
+date: "2026-04-15T09:21:22.705308"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

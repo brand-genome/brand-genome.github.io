@@ -2,11 +2,11 @@
 title: Clever
 slug: clever
 description: ""
-date: "2026-04-10T09:40:30.780271"
+date: "2026-04-15T09:21:22.378846"
 draft: false
 sectors:
-  - software
   - education
+  - software
 regions:
   - usa
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - software
   - education
+  - software
 industries: []
-countries:
-  - denmark
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - copenhagen
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2009
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: electric vehicle infrastructure company
-wikidata_url: "https://www.wikidata.org/wiki/Q114628418"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.clever.com](https://www.clever.com)
 - [https://clever.com/academy](https://clever.com/academy)
 - [https://status.clever.com](https://status.clever.com)
-- [https://clever.dk](https://clever.dk)
 
 ## Brand Guidelines
 
@@ -189,28 +184,3 @@ visual_term_image_urls: {}
 - Clear space is the area surrounding the entire mark. It should be kept free of any visual elements, including text, graphics, borders, patterns and other logos.
 - For the logotype, clear space is measured in relation to “X”, which equals the height of the letter “C”. Minimum clear space should be equal to or greater than 1X on all four sides of the mark.
 - For the mark, clear space is measured in relation to “X”, which equals the indent between the upper and lower ends of the letter C. Minimum clear space should be equal to or greater than 2X on all four sides of the mark.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q114628418) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Copenhagen](/headquarters_locations/copenhagen/) |
-| Foundation Date | [2009](/foundation_dates/2009/) |
-| Inception | 2009 |
-| Country | Denmark |
-| Headquarters Location | Copenhagen |
-| Item Operated | charging station |
-| Facebook Username | Clever.dk |
-| Youtube Channel Id | UCZkHFBfqfyAoLsr5ECblwpg (as of 2022-10-16, from 2012-09-20) |
-| Instagram Username | clever.dk |
-| Linkedin Company Or Organization Id | cleverdk |
-| Osm Name Suggestion Index Id | clever-819017, clever-28cec3 |
-| Eu Transparency Register Id | 195744929930-90 |
-| Cvr Number | 32468349 |
-| Legal Form | aktieselskab |
-| Opencorporates Id | dk/32468349 |
-| Youtube Handle | cleverdk (as of 2025-11-25) |

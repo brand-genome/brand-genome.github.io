@@ -2,14 +2,14 @@
 title: Repsol
 slug: repsol
 description: ""
-date: "2026-04-10T09:40:32.067526"
+date: "2026-04-15T09:21:23.479009"
 draft: false
 sectors:
-  - "petrol-station"
   - gas
   - oil
-  - petroleum
+  - "petrol-station"
   - "renewable-energy"
+  - petroleum
 regions:
   - spain
 years:

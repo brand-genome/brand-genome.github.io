@@ -2,7 +2,7 @@
 title: Open Society Foundations
 slug: "open-society-foundations"
 description: ""
-date: "2026-04-10T09:40:32.637170"
+date: "2026-04-15T09:21:23.817557"
 draft: false
 sectors:
   - ngo

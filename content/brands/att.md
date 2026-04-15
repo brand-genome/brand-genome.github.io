@@ -2,25 +2,25 @@
 title: "AT&T"
 slug: att
 description: ""
-date: "2026-04-10T09:40:34.052113"
+date: "2026-04-15T09:21:24.965303"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2005
-  - 1999
   - 2001
+  - 1999
+  - 2005
 languages:
   - english
 tags:
-  - telecommunications
   - vintage
+  - telecommunications
 industries:
+  - "postal-and-telecommunications-services"
   - telecommunications
   - "mass-media"
-  - "postal-and-telecommunications-services"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,26 +38,26 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
+  - "digital-television"
+  - software
+  - "mobile-phone"
   - "landline-telephone"
   - broadband
   - "satellite-television"
-  - "mobile-phone"
-  - software
-  - "digital-television"
   - "broadband-internet-access"
 products: []
 headquarters_locations:
-  - dallas
   - "san-antonio"
+  - dallas
 subsidiaries: []
 foundation_dates:
-  - 2005
-  - 1885
   - 1983
+  - 1885
+  - 2005
 foundation_year_buckets:
-  - "19TH-CENTURY"
-  - 2000S
   - 1980S
+  - 2000S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -962,9 +962,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Broadband](/products_or_materials_produced/broadband/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Software](/products_or_materials_produced/software/); [Digital Television](/products_or_materials_produced/digital-television/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
-| Headquarters Location | [Dallas](/headquarters_locations/dallas/); [San Antonio](/headquarters_locations/san-antonio/) |
-| Foundation Date | [2005](/foundation_dates/2005/); [1885](/foundation_dates/1885/); [1983](/foundation_dates/1983/) |
+| Product Or Material Produced | [Digital Television](/products_or_materials_produced/digital-television/); [Software](/products_or_materials_produced/software/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Landline Telephone](/products_or_materials_produced/landline-telephone/); [Broadband](/products_or_materials_produced/broadband/); [Satellite Television](/products_or_materials_produced/satellite-television/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
+| Headquarters Location | [San Antonio](/headquarters_locations/san-antonio/); [Dallas](/headquarters_locations/dallas/) |
+| Foundation Date | [1983](/foundation_dates/1983/); [1885](/foundation_dates/1885/); [2005](/foundation_dates/2005/) |
 | Stock Exchange | New York Stock Exchange (from 1990-01-02), Tokyo Stock Exchange (until 1997-12-29) |
 | Topic'S Main Category | Category:AT&T |
 | Headquarters Location | San Antonio (until 2008), Dallas (from 2008) |

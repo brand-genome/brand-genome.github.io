@@ -2,7 +2,7 @@
 title: Fiat
 slug: fiat
 description: ""
-date: "2026-04-10T09:40:31.965690"
+date: "2026-04-15T09:21:23.403026"
 draft: false
 sectors:
   - automobile
@@ -10,12 +10,12 @@ regions:
   - brazil
   - italy
 years:
-  - 2011
-  - 2019
   - 2005
+  - 2019
+  - 2011
 languages:
-  - portuguese
   - english
+  - portuguese
 tags:
   - featured
   - transport

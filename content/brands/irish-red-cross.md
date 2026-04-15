@@ -2,11 +2,11 @@
 title: Irish Red Cross
 slug: "irish-red-cross"
 description: ""
-date: "2026-04-10T09:40:33.287903"
+date: "2026-04-15T09:21:24.224660"
 draft: false
 sectors:
-  - ngo
   - "emergency-services"
+  - ngo
 regions:
   - ireland
 years:

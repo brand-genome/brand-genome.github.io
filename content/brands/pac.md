@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-04-10T09:40:34.653493"
+date: "2026-04-15T09:21:25.647037"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -15,8 +15,7 @@ languages:
 tags:
   - financial
 industries: []
-countries:
-  - "czech-republic"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: town in the Czech Republic
-wikidata_url: "https://www.wikidata.org/wiki/Q746111"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://pacglobal.io](https://pacglobal.io)
 - [https://pacglobal.io/network](https://pacglobal.io/network)
-- [http://www.bitcointalk.org](http://www.bitcointalk.org)
-- [http://www.mestopacov.cz](http://www.mestopacov.cz)
 
 ## Brand Guidelines
 
@@ -177,58 +174,3 @@ visual_term_image_urls: {}
 - ✓ DO use BLACK or WHITE for one­color variations of the logomark.
 - DON'T place other logos, text, or visual elements within the specified "clear space" around the logomark.
 - ✓ DO place other elements far enough from the logomark that they don't enter the necessary "clear space" around the mark.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q746111) |
-
-| Property | Value |
-|----------|-------|
-| Located In The Administrative Territorial Entity | Pelhřimov District,  |
-| Lau | CZ548511 |
-| Freebase Id | /m/096p1_ |
-| Country | Czech Republic |
-| Coat Of Arms Image | Pacov-znak.svg |
-| Flag Image | Pacov-vlajka.svg |
-| Shares Border With | Vodice, Zhořec, Zadní Střítež, Pojbuky, Těchobuz (+9 more) |
-| Population | 4,889 (as of 2014-01-01), 5,232 (as of 2001-01-01), 5,201 (as of 1991-01-01), 5,180 (as of 1980-01-01), 4,577 (as of 1970-01-01) (+21 more) |
-| Image | Pacov kostel svatého Michaela 5.jpg |
-| Coordinate Location | 49.470826885963, 15.001713769033 |
-| Viaf Cluster Id | 242758063 |
-| Topic'S Main Category | Category:Pacov |
-| Category For People Born Here | Category:Births in Pacov |
-| Postal Code | 395 01 |
-| Category For People Who Died Here | Category:Deaths in Pacov |
-| Head Of Government | Lukáš Vlček (from 2006-10-30, until 2021-04-19), Tomáš Kocour (from 2021) |
-| Described By Source | Otto's encyclopedia, Vlastenský slovník historický |
-| Contains The Administrative Territorial Entity | Bedřichov, Jetřichovec, Roučkovice, Velká Rovná, Zhoř (+1 more) |
-| Elevation Above Sea Level | 615 metre |
-| Time Of Earliest Written Record | 1316-01-01 |
-| Email Address | podatelna@mestopacov.cz |
-| List Of Monuments | cultural monuments in Pacov |
-| Openstreetmap Relation Id | 441041 |
-| Archinform Location Id | 46189 |
-| Area | 35 square kilometre |
-| Licence Plate Code | PE (until 2001), J |
-| Czech Registration Id (Ičo) | 00248789 |
-| Nl Cr Aut Id | ge130357 |
-| Historical Region | Bohemia |
-| Who'S On First Id | 101826403 |
-| Geoshape | Data:Map of Pacov, Pelhřimov District.map |
-| Mapy.Com Id | muni&id=4942 |
-| Bhcl Uuid | 0f63aed6-5652-42f9-91dd-04ce5e38ec90, df849920-7f76-4442-abe8-06508529b1b1, 9a19e7dc-266e-4ebc-9224-df76e4523c70 |
-| Isds Id | xbtbhcm |
-| Category For The View Of The Item | Category:Views of Pacov |
-| Native Label | Pacov |
-| Official Name | Pacov |
-| Czech Municipality Id | 548511 |
-| Number Of Houses | 1,241 (as of 2021), 530 (as of 1869), 615 (as of 1880), 516 (as of 1890), 527 (as of 1900) (+11 more) |
-| Mean Age | 45 (as of 2021-03-26) |
-| Museum Digital Place Id | 73704 |
-| Factgrid Item Id | Q625928 |
-| Gns Unique Feature Id | -552217 |
-| Page Banner | Pacov (wikivoyage banner).jpg |
-| Web Feed Url | http://www.mestopacov.cz/rss/ |
-| On Focus List Of Wikimedia Project | Govdirectory |

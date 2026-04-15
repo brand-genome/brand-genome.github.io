@@ -2,7 +2,7 @@
 title: Daniels
 slug: daniels
 description: ""
-date: "2026-04-10T09:40:34.412564"
+date: "2026-04-15T09:21:25.360143"
 draft: false
 sectors:
   - utilities

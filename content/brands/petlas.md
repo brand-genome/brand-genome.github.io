@@ -2,7 +2,7 @@
 title: Petlas
 slug: petlas
 description: ""
-date: "2026-04-10T09:40:32.078379"
+date: "2026-04-15T09:21:23.566027"
 draft: false
 sectors:
   - tires

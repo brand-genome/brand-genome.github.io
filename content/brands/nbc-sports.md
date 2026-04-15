@@ -2,7 +2,7 @@
 title: NBC Sports
 slug: "nbc-sports"
 description: ""
-date: "2026-04-10T09:40:34.010191"
+date: "2026-04-15T09:21:24.930522"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries: []
 countries:
   - "united-states"

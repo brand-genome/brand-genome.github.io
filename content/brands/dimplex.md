@@ -2,11 +2,11 @@
 title: Dimplex
 slug: dimplex
 description: ""
-date: "2026-04-10T09:40:30.703652"
+date: "2026-04-15T09:21:22.284466"
 draft: false
 sectors:
-  - "home-appliances"
   - utilities
+  - "home-appliances"
 regions:
   - ireland
 years:
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - corporate
-industries:
-  - "sporting-activities"
-countries:
-  - germany
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,8 +26,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - bavaria
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: sports club
-wikidata_url: "https://www.wikidata.org/wiki/Q1394130"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -69,22 +66,3 @@ visual_term_image_urls: {}
 - [https://www.dimplex.com/en-us](https://www.dimplex.com/en-us)
 - [https://www.glendimplex.com](https://www.glendimplex.com)
 - [https://www.gdhv.com](https://www.gdhv.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1394130) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Bavaria](/headquarters_locations/bavaria/) |
-| Country | Germany |
-| Sport | basketball |
-| Headquarters Location | Bavaria |
-| Freebase Id | /m/0h40jt |
-| Category For Members Of A Team |  |
-| Topic'S Main Category | Category:Falke Nürnberg |
-| Described At Url | https://www.easycredit-bbl.de/teams/3a3d3172-45f0-4da4-9366-291268f0dbdc, https://www.easycredit-bbl.de/teams/447 |
-| Legal Form | Registered association (eingetragener Verein) |
-| Industry | sporting activities |

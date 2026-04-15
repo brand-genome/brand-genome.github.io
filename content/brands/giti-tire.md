@@ -2,7 +2,7 @@
 title: Giti Tire
 slug: "giti-tire"
 description: ""
-date: "2026-04-10T09:40:31.473914"
+date: "2026-04-15T09:21:23.134035"
 draft: false
 sectors:
   - tires

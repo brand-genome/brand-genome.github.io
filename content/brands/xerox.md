@@ -2,11 +2,11 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-04-10T09:40:32.829264"
+date: "2026-04-15T09:21:23.873404"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -30,14 +30,14 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "multifunction-printer"
-  - projector
-  - "wide-format-printer"
   - "office-supply"
-  - software
-  - "image-scanner"
   - printer
+  - software
   - photocopier
+  - projector
+  - "multifunction-printer"
+  - "image-scanner"
+  - "wide-format-printer"
 products: []
 headquarters_locations:
   - norwalk
@@ -88,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Projector](/products_or_materials_produced/projector/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/); [Office Supply](/products_or_materials_produced/office-supply/); [Software](/products_or_materials_produced/software/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Printer](/products_or_materials_produced/printer/); [Photocopier](/products_or_materials_produced/photocopier/) |
+| Product Or Material Produced | [Office Supply](/products_or_materials_produced/office-supply/); [Printer](/products_or_materials_produced/printer/); [Software](/products_or_materials_produced/software/); [Photocopier](/products_or_materials_produced/photocopier/); [Projector](/products_or_materials_produced/projector/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/) |
 | Headquarters Location | [Norwalk](/headquarters_locations/norwalk/) |
 | Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Xerox |

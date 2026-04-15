@@ -2,7 +2,7 @@
 title: Gold Standard
 slug: "gold-standard"
 description: ""
-date: "2026-04-10T09:40:34.059792"
+date: "2026-04-15T09:21:24.976209"
 draft: false
 sectors:
   - ngo
@@ -15,8 +15,7 @@ languages:
 tags:
   - ngo
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Public General Act of the Parliament of the United Kingdom
-wikidata_url: "https://www.wikidata.org/wiki/Q117799865"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,20 +69,3 @@ visual_term_image_urls: {}
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q117799865) |
-
-| Property | Value |
-|----------|-------|
-| Country | United Kingdom |
-| Legislated By | Parliament of the United Kingdom |
-| Legal Citation Of This Text | 15 & 16 Geo. 5 c. 29 |
-| Publication Date | 1925 |
-| Date Of Promulgation | 1925-05-13 |
-| Uk Parliament Id | XmE80m9T |
-| Short Name | Gold Standard Act 1925 |
-| Legislation.Gov.Uk Id | ukpga/Geo5/15-16/29 |

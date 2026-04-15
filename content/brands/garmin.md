@@ -2,16 +2,16 @@
 title: Garmin
 slug: garmin
 description: ""
-date: "2026-04-10T09:40:32.205764"
+date: "2026-04-15T09:21:23.654183"
 draft: false
 sectors:
-  - software
   - electronics
+  - software
 regions:
   - usa
 years:
-  - 2012
   - 2006
+  - 2012
 languages:
   - english
 tags:

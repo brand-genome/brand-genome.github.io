@@ -2,7 +2,7 @@
 title: À Punt
 slug: "a-punt"
 description: ""
-date: "2026-04-10T09:40:30.891759"
+date: "2026-04-15T09:21:22.511140"
 draft: false
 sectors:
   - broadcasting

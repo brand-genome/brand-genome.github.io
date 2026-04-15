@@ -2,7 +2,7 @@
 title: Nclose
 slug: nclose
 description: ""
-date: "2026-04-10T09:40:31.539993"
+date: "2026-04-15T09:21:23.190574"
 draft: false
 sectors:
   - cybersecurity
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nclose.com](https://www.nclose.com)
-- [http://www.co.za](http://www.co.za)
 - [http://www.nclose.com](http://www.nclose.com)
 
 ## Brand Guidelines

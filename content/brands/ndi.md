@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-04-10T09:40:32.576347"
+date: "2026-04-15T09:21:23.776151"
 draft: false
 sectors:
-  - software
-  - broadcasting
   - networking
+  - broadcasting
+  - software
 regions:
   - usa
 years:
@@ -15,11 +15,10 @@ years:
 languages:
   - english
 tags:
-  - software
   - broadcast
+  - software
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,13 +28,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "washington-dc"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1983
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "US federally funded non-profit organization to support democracy"
-wikidata_url: "https://www.wikidata.org/wiki/Q2701197"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -74,7 +70,6 @@ visual_term_image_urls: {}
 - [http://www.ndi.tv](http://www.ndi.tv)
 - [http://www.youtube.com/c/NDItv/featured](http://www.youtube.com/c/NDItv/featured)
 - [https://twitter.com/NDI_tv](https://twitter.com/NDI_tv)
-- [https://www.ndi.org](https://www.ndi.org)
 
 ## Brand Guidelines
 
@@ -226,44 +221,3 @@ visual_term_image_urls: {}
 - ## Suggested Hashtags Your Company’s Hashtag #IPVideo #IPProduction
 - ## Tips and Tricks • Make sure to have a captivating headline at the beginning of your post. This can consist of a declaration, leading question, or a call to action (CTA). Example: Need to expand your remote production capabilities? Sign up today for our latest webinar! • Keep the body of your post concise and to the point. • Complete your post with website links and hashtags. • Spacing between the headline, body, links, and hashtags is encouraged. This makes the post easier to read and is pleasing to the eye. Avoid walls of text. • It is encouraged to always post with an image or video, as it will garner more engagement than a post with just text.
 - ## It is encouraged to always post with an image or video, as it will garner more engagement than a post with just a text message.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2701197) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Washington Dc](/headquarters_locations/washington-dc/) |
-| Foundation Date | [1983](/foundation_dates/1983/) |
-| Freebase Id | /m/05l5x_ |
-| Political Ideology | social liberalism |
-| Headquarters Location | Washington, D.C. |
-| Inception | 1983-01-01 |
-| Chairperson | Madeleine Albright (from 2001) |
-| Country | United States |
-| Isni | 0000000119424098 |
-| Ringgold Id | 8295 |
-| Quora Topic Id | National-Democratic-Institute-for-International-Affairs |
-| Sponsor | National Endowment for Democracy |
-| Grid Id | grid.473698.7 |
-| Library Of Congress Authority Id | nr90010687 |
-| Ror Id | 01wrt1c44 |
-| Viaf Cluster Id | 152000299 |
-| Short Name | NDI |
-| Facebook Username | National.Democratic.Institute |
-| X (Twitter) Username | ndi (as of 2020-12-28, from 2008-06-07) |
-| Youtube Channel Id | UCrlEjnCIUs9lHWcKRv8BBww (as of 2020-12-03, from 2007-09-19) |
-| Instagram Username | ndidemocracy |
-| Social Media Followers | 44,212 (as of 2021-01-02), 5,720 (as of 2021-10-12), 50,917 (as of 2022-02-21), 57,368 (as of 2023-02-08), 6,430 (as of 2023-02-17) (+2 more) |
-| Uk Parliament Thesaurus Id | 57484 |
-| Uia Open Yearbook Organization Website Id | 1100019212 |
-| Gnd Id | 5090188-6 |
-| National Library Of Israel J9U Id | 987007265988105171 |
-| Littlesis Organization Id | 33355 |
-| Worldcat Registry Id | 131845, 21094 |
-| Influencewatch Id | non-profit/national-democratic-institute-ndi |
-| Snac Ark Id | w6sv3rq7 |
-| Funder | Open Society Foundations (as of 2023), Open Society Foundations (as of 2021), Open Society Foundations (as of 2020), Open Society Foundations (as of 2020) |
-| ‎Yale Lux Id | group/611ba5af-17be-40a5-bb93-ed3f592b46b0 |

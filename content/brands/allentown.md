@@ -2,7 +2,7 @@
 title: Allentown
 slug: allentown
 description: ""
-date: "2026-04-10T09:40:32.083542"
+date: "2026-04-15T09:21:23.568984"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries:
   - "united-states"

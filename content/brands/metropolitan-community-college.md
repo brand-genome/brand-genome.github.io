@@ -2,11 +2,11 @@
 title: Metropolitan Community College
 slug: "metropolitan-community-college"
 description: ""
-date: "2026-04-10T09:40:32.201719"
+date: "2026-04-15T09:21:23.651416"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -30,11 +30,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1915
   - 1969
+  - 1915
 foundation_year_buckets:
-  - 1910S
   - 1960S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 
 - [https://www.mccneb.edu](https://www.mccneb.edu)
 - [http://www.mccneb.edu](http://www.mccneb.edu)
-- [http://www.github.io/material-design-icons](http://www.github.io/material-design-icons)
 
 ## Brand Guidelines
 
@@ -447,7 +446,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1915](/foundation_dates/1915/); [1969](/foundation_dates/1969/) |
+| Foundation Date | [1969](/foundation_dates/1969/); [1915](/foundation_dates/1915/) |
 | Country | United States |
 | Integrated Postsecondary Education Data System Id | 178785 |
 | Isni | 0000000100867585 |

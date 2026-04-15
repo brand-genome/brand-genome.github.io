@@ -2,12 +2,12 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-04-10T09:40:31.955710"
+date: "2026-04-15T09:21:23.392890"
 draft: false
 sectors:
   - "logistics-supply-chain"
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - france
 years:

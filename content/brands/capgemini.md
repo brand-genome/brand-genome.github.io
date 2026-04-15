@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-04-10T09:40:34.454219"
+date: "2026-04-15T09:21:25.396184"
 draft: false
 sectors:
   - consulting
@@ -17,8 +17,8 @@ tags:
   - software
   - corporate
 industries:
-  - "activities-of-head-offices"
   - "it-service-management"
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:

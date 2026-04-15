@@ -2,11 +2,11 @@
 title: Matter
 slug: matter
 description: ""
-date: "2026-04-10T09:40:32.121819"
+date: "2026-04-15T09:21:23.601745"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2015
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: open source messaging software
-wikidata_url: "https://www.wikidata.org/wiki/Q55478510"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://csa-iot.org/all-solutions/matter](https://csa-iot.org/all-solutions/matter)
-- [https://mattermost.com](https://mattermost.com)
 
 ## Brand Guidelines
 
@@ -346,48 +343,3 @@ visual_term_image_urls: {}
 - Avoid porous, bumpy, or wrinkled substrates
 - Consider useability risks e.g. could the Setup Code wear over time, or get damaged during product installation?
 - Manufacturer is responsible for ensuring the QR is readable by popular devices and apps
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q55478510) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2015](/foundation_dates/2015/) |
-| Operating System | iOS, Microsoft Windows, Linux, macOS, Android |
-| Copyright License | MIT License,  |
-| Github Account | mattermost |
-| App Store App Id | 1257222717 |
-| Google Play Store App Id | com.mattermost.rn |
-| Source Code Repository Url | https://github.com/mattermost/mattermost, https://github.com/mattermost/mattermost-mobile, https://github.com/mattermost/mattermost-webapp, https://github.com/mattermost/desktop |
-| Software Version Identifier | 2.1.0, 2.2.0, 3.0.0, 3.0.1, 3.0.2 (+750 more) |
-| Pro Linux.De Dbapp Id | 20617 |
-| F Droid Package | com.mattermost.rnbeta |
-| Repology Project Name | mattermost |
-| Image | Mattermost UI.png |
-| Freebsd Port | www/mattermost-server, www/mattermost-webapp |
-| Aur Package | mattermost, mattermost-git |
-| Programmed In | Go |
-| Snap Package | mattermost-desktop |
-| Openbsd Port | net/mattermost-server |
-| Copyright Status | copyrighted |
-| Arch Linux Package | mattermost |
-| Inception | 2015-10-02 |
-| Social Media Followers | 9,890 (as of 2021-01-02), 9,240 (as of 2020-04-22), 10,987 (as of 2022-01-08), 12,011 (as of 2023-02-11) |
-| Google Knowledge Graph Id | /g/11ff53mf29 |
-| Alternativeto Software Id | mattermost |
-| Sill Software Id | 291 |
-| Distributed By | Google Play,  |
-| Flathub Id | com.mattermost.Desktop |
-| Github Topic | mattermost |
-| Quora Topic Id | Mattermost |
-| Build System | webpack |
-| Official Forum Url | https://forum.mattermost.com/ |
-| Official Demo Url | https://community.mattermost.com/ |
-| Has Part(S) | Mattermost, Mattermost Mobile, Mattermost Web App, Mattermost Desktop |
-| Translation Contribution Url | https://translate.mattermost.com/ |
-| Input Device | touchscreen |
-| Platform | Android |
-| Archwiki Article | Mattermost, Mattermost_(Русский) |

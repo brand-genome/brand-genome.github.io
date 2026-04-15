@@ -2,7 +2,7 @@
 title: Alpha Omicron Pi
 slug: "alpha-omicron-pi"
 description: ""
-date: "2026-04-10T09:40:34.147373"
+date: "2026-04-15T09:21:25.053497"
 draft: false
 sectors:
   - ngo
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.alphaomicronpi.org](https://www.alphaomicronpi.org)
 - [https://www.alphaomicronpi.org/foundation](https://www.alphaomicronpi.org/foundation)
 - [http://www.alphaomicronpi.org](http://www.alphaomicronpi.org)
-- [http://www.myfonts.com/fonts/marksimonson/proxima-nova](http://www.myfonts.com/fonts/marksimonson/proxima-nova)
 - [http://www.alphaomicronpi.org/foundation2](http://www.alphaomicronpi.org/foundation2)
 
 ## Brand Guidelines

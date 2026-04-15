@@ -2,12 +2,12 @@
 title: Valmont facilities
 slug: "valmont-facilities"
 description: ""
-date: "2026-04-10T09:40:33.074547"
+date: "2026-04-15T09:21:24.009536"
 draft: false
 sectors:
-  - hardware
   - "agricultural-heavy-equipment"
   - construction
+  - hardware
 regions:
   - usa
 years:

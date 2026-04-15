@@ -2,12 +2,12 @@
 title: EIT Community
 slug: "eit-community"
 description: ""
-date: "2026-04-10T09:40:34.767285"
+date: "2026-04-15T09:21:25.747302"
 draft: false
 sectors:
   - "public-sector"
-  - education
   - research
+  - education
 regions:
   - hungary
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - technology
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

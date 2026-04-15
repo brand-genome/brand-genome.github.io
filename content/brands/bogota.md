@@ -2,7 +2,7 @@
 title: Bogotá
 slug: bogota
 description: ""
-date: "2026-04-10T09:40:33.154744"
+date: "2026-04-15T09:21:24.083534"
 draft: false
 sectors:
   - "public-sector"

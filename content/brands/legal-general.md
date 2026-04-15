@@ -2,11 +2,11 @@
 title: "Legal & General"
 slug: "legal-general"
 description: ""
-date: "2026-04-10T09:40:33.061410"
+date: "2026-04-15T09:21:24.002400"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - "united-kingdom"
 years:
@@ -17,8 +17,8 @@ tags:
   - financial
   - insurance
 industries:
-  - insurance
   - "financial-services"
+  - insurance
 countries:
   - "united-kingdom"
 revenue_buckets: []

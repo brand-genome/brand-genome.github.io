@@ -2,11 +2,11 @@
 title: Messengers of Peace
 slug: "messengers-of-peace"
 description: ""
-date: "2026-04-10T09:40:32.551184"
+date: "2026-04-15T09:21:23.750951"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - peace
   - community
+  - peace
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: highest ranking goodwill ambassador designation of the United Nations
-wikidata_url: "https://www.wikidata.org/wiki/Q939566"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -220,19 +220,3 @@ visual_term_image_urls: {}
 - The World Scout Bureau may consult additional member countries that share the same language in order to achieve a consensus for the final translation.
 - In order to retain consistency and quality, the World Scout Bureau produces and issues the final artwork of all approved language versions of the Messengers of Peace Logo and badges. There is no charge made to the NSOs for providing this service.
 - All language versions are subject to the same general license terms for non­commercial or commercial use, as described on page 4.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q939566) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:United Nations Messengers of Peace |
-| Freebase Id | /m/03m40jn |
-| Different From | Messengers of Peace (scouting), Messengers of Peace, goodwill ambassador |
-| Facet Of | goodwill ambassador |
-| Conferred By | United Nations Secretary-General |
-| Work Available At Url | https://www.un.org/en/mop |
-| Field Of Work | goodwill ambassador |

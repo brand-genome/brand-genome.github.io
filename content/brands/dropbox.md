@@ -2,7 +2,7 @@
 title: Dropbox
 slug: dropbox
 description: ""
-date: "2026-04-10T09:40:31.458966"
+date: "2026-04-15T09:21:23.114429"
 draft: false
 sectors:
   - software
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
-  - app
   - internet
+  - app
+  - software
 industries: []
 countries: []
 revenue_buckets: []

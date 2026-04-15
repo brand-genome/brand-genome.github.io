@@ -2,12 +2,12 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-04-10T09:40:34.270161"
+date: "2026-04-15T09:21:25.183553"
 draft: false
 sectors:
-  - telecom
   - networking
   - cybersecurity
+  - telecom
 regions:
   - taiwan
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - telecommunications
   - technology
-industries:
-  - "networking-hardware"
   - telecommunications
+industries:
+  - telecommunications
+  - "networking-hardware"
 countries:
   - taiwan
 revenue_buckets: []
@@ -30,8 +30,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "network-switch"
   - router
+  - "network-switch"
 products: []
 headquarters_locations:
   - "hsinchu-city"
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Network Switch](/products_or_materials_produced/network-switch/); [Router](/products_or_materials_produced/router/) |
+| Product Or Material Produced | [Router](/products_or_materials_produced/router/); [Network Switch](/products_or_materials_produced/network-switch/) |
 | Headquarters Location | [Hsinchu City](/headquarters_locations/hsinchu-city/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/0c6x00 |

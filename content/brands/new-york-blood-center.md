@@ -2,7 +2,7 @@
 title: New York Blood Center
 slug: "new-york-blood-center"
 description: ""
-date: "2026-04-10T09:40:32.106065"
+date: "2026-04-15T09:21:23.592242"
 draft: false
 sectors:
   - healthcare
@@ -15,8 +15,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: clinical trial
-wikidata_url: "https://www.wikidata.org/wiki/Q65545435"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -309,21 +308,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q65545435) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |
-| Start Time | 1993-02-28 |
-| End Time | 2011-11-10 |
-| Number Of Participants | 4,476 |
-| Title | New York Blood Center National Cord Blood Program |
-| Clinicaltrials.Gov Id | NCT00212407 |
-| Clinical Trial Phase | phase I clinical trial |
-| Research Site | New York Blood Center |
-| Study Type | interventional study |

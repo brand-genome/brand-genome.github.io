@@ -2,7 +2,7 @@
 title: Pass
 slug: pass
 description: ""
-date: "2026-04-10T09:40:32.520877"
+date: "2026-04-15T09:21:23.726171"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - business
   - "social-networks"
+  - business
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Unix-style command-line password manager software"
-wikidata_url: "https://www.wikidata.org/wiki/Q25209352"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,9 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ourpass.co](https://www.ourpass.co)
-- [http://www.youtube.com/watch?v=NmpBIqNVLXs](http://www.youtube.com/watch?v=NmpBIqNVLXs)
-- [https://youtu.be/4RwUhtaf2_E](https://youtu.be/4RwUhtaf2_E)
-- [https://www.passwordstore.org](https://www.passwordstore.org)
 
 ## Brand Guidelines
 
@@ -546,40 +543,3 @@ visual_term_image_urls: {}
 - La charte doit etre appliquee lors de chacune de nos prises de parole (stands grand public, espaces RP), tout en integrant nos outils identitaires dans les creations :Brand Flag, Bloc Marque, Bloc Logo.
 - Attention: il est imperatif de toujours associer We Are Tennis a la marque BNP Paribas (ou a la marque locale).
 - Principe du Bloc Marque il doit etre applique en tenant compte des contraintes terrain (couleurs, positionnement des juges de lignes, des cameras...). En fonction de la hauteur de la bache, on y ajoutera des petits «BNP Paribas » en rappel de marque, afin d'assurer la visibilite sur les plans serres, ou la signature si besoin de preciser l'activite (pays ou BNP Paribas est peu connu).
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25209352) |
-
-| Property | Value |
-|----------|-------|
-| Copyright License | GNU General Public License, version 2.0 or later |
-| Operating System | Unix-like operating system |
-| User Manual Url | https://git.zx2c4.com/password-store/about/ |
-| Source Code Repository Url | https://git.zx2c4.com/password-store/tree/, git://git.zx2c4.com/password-store |
-| Programmed In | GNU Bash |
-| Gentoo Package | app-admin/pass |
-| Software Version Identifier | 1.0, 1.1, 1.1.1, 1.1.2, 1.1.3 (+20 more) |
-| Repology Project Name | password-store |
-| Open Hub Id | password-store |
-| Developer | Jason A. Donenfeld |
-| Pro Linux.De Dbapp Id | 21177 |
-| Freebsd Port | sysutils/password-store |
-| Aur Package | pass-git, pass-patched-passmenu-notify-git, emacs-password-store, pass-parcellite |
-| Arch Linux Package | pass |
-| Melpa Package Id | password-store |
-| Netbsd Package Id | security/password-store |
-| Openbsd Port | security/password-store |
-| Debian Stable Package | pass |
-| Homebrew Formula Name | pass |
-| Google Knowledge Graph Id | /g/11bzrn_rdc |
-| Copyright Status | copyrighted |
-| Slackbuilds Package | system/password-store |
-| Gentoo Wiki Article | Pass |
-| Alternativeto Software Id | pass |
-| Github Topic | password-store |
-| Nixpkgs Id | password-store |
-| ‎Macports Port | pass |
-| Archwiki Article | Pass |

@@ -2,7 +2,7 @@
 title: EPRA
 slug: epra
 description: ""
-date: "2026-04-10T09:40:33.390016"
+date: "2026-04-15T09:21:24.323138"
 draft: false
 sectors:
   - "real-estate"
@@ -15,8 +15,7 @@ languages:
 tags:
   - "real-estate"
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2006
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "airport in Radom, Poland"
-wikidata_url: "https://www.wikidata.org/wiki/Q2066541"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.epra.com](https://www.epra.com)
-- [https://www.lotniskowarszawa-radom.pl](https://www.lotniskowarszawa-radom.pl)
 
 ## Brand Guidelines
 
@@ -185,33 +181,3 @@ visual_term_image_urls: {}
 
 - EPRA believes the European listed real estate sector is entering an era of sustained expansion because the industry’s investment characteristics are well matched to some of the greatest social and economic challenges of our time.
 - We believe in a future of development, trust and collective benefits, where listed real estate companies are the guardians of many of the highest quality assets in our cities from office complexes, retailers, residential property and shopping centers to student houses and healthcare and retirement facilities.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2066541) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2006](/foundation_dates/2006/) |
-| Iata Airport Code | RDO |
-| Icao Airport Code | EPRA |
-| Coordinate Location | 51.389166666667, 21.213611111111 |
-| Freebase Id | /m/0hnc60g |
-| Country | Poland |
-| Image | Lotnisko Warszawa-Radom.jpg (as of 2023-05-21) |
-| Elevation Above Sea Level | 186 metre |
-| Place Served By Transport Hub | Radom |
-| Inception | 2006-06-30 |
-| Named After | Radom |
-| Located In The Administrative Territorial Entity | Sadków |
-| Date Of Official Opening | 2014 |
-| Runway | 07/25 |
-| Wolfram Language Entity Code | Entity["Airport", "EPRA"] |
-| Patronage | 0 (as of 2012-01-01), 0 (as of 2013-01-01), 0 (as of 2014-01-01), 670 (as of 2015-01-01), 8,965 (as of 2016-01-01) (+6 more) |
-| Openstreetmap Way Id | 616266929 |
-| State Of Use | in use |
-| Gns Unique Feature Id | -524874 |
-| Aerodrome Reference Point | 51.38883, 21.21167 |
-| Located In Time Zone | Europe/Warsaw |

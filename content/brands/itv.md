@@ -2,7 +2,7 @@
 title: ITV
 slug: itv
 description: ""
-date: "2026-04-10T09:40:31.961103"
+date: "2026-04-15T09:21:23.398558"
 draft: false
 sectors:
   - broadcasting
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://brand.itv.com](https://brand.itv.com)
 - [https://www.itv.com/commissioning](https://www.itv.com/commissioning)
 - [https://www.itvjobs.com](https://www.itvjobs.com)
-- [http://www.bbc.co.uk/commissioning/tv/production](http://www.bbc.co.uk/commissioning/tv/production)
 - [https://itvstudios.com](https://itvstudios.com)
 
 ## Brand Guidelines

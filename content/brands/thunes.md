@@ -2,7 +2,7 @@
 title: Thunes
 slug: thunes
 description: ""
-date: "2026-04-10T09:40:30.567184"
+date: "2026-04-15T09:21:22.092707"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - financial
+  - software
 industries:
   - "financial-services"
 countries:

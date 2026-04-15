@@ -2,11 +2,11 @@
 title: Vanvero
 slug: vanvero
 description: ""
-date: "2026-04-10T09:40:34.676142"
+date: "2026-04-15T09:21:25.667133"
 draft: false
 sectors:
-  - hardware
   - "consumer-goods"
+  - hardware
 regions:
   - usa
 years:

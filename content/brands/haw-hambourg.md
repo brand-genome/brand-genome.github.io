@@ -2,12 +2,12 @@
 title: HAW Hambourg
 slug: "haw-hambourg"
 description: ""
-date: "2026-04-10T09:40:30.672906"
+date: "2026-04-15T09:21:22.242312"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - germany
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
   - science
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -70,4 +70,3 @@ visual_term_image_urls: {}
 - [https://www.haw-hamburg.de/beschaeftigtenportal](https://www.haw-hamburg.de/beschaeftigtenportal)
 - [https://www.haw-hamburg.de/hochschule](https://www.haw-hamburg.de/hochschule)
 - [http://www.haw-hamburg.de](http://www.haw-hamburg.de)
-- [http://www.hamburg.de](http://www.hamburg.de)

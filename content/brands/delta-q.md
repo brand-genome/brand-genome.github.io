@@ -2,11 +2,11 @@
 title: Delta Q
 slug: "delta-q"
 description: ""
-date: "2026-04-10T09:40:30.900943"
+date: "2026-04-15T09:21:22.523283"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - portugal
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - "food-beverage"
 industries: []
-countries:
-  - nigeria
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,8 +26,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - asaba
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Footballclub for Women from Asaba, Nigeria"
-wikidata_url: "https://www.wikidata.org/wiki/Q16738524"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -258,22 +256,3 @@ visual_term_image_urls: {}
 - Para que a marca seja consistente nos vários suportes definimos regras de colocação do logo na comunicação. . logo canto superior direito . mydeltaq.com canto inferior direito . ícones social media canto inferior esquerdo
 - Comunicação instituticional Comunicação de Produto (o°ine e online) logo + assinatura verbal canto superior direito logo canto superior direito
 - QR Code canto inferior esquerdo mydeltaq.com + ícones sociais canto inferior direito
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16738524) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Asaba](/headquarters_locations/asaba/) |
-| Country | Nigeria |
-| Sport | association football |
-| Competition Class | women's association football |
-| Owned By | Delta State |
-| League Or Competition | Nigeria Women Premier League |
-| Home Venue | Stephen Keshi Stadium |
-| Freebase Id | /m/011q1kvt |
-| Category For Members Of A Team | Category:Delta Queens F.C. players |
-| Headquarters Location | Asaba |

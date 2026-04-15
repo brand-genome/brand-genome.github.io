@@ -2,7 +2,7 @@
 title: Gibson
 slug: gibson
 description: ""
-date: "2026-04-10T09:40:34.486666"
+date: "2026-04-15T09:21:25.423967"
 draft: false
 sectors:
   - "consumer-goods"
@@ -26,12 +26,12 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "bass-guitar"
-  - guitar
   - "electric-guitar"
+  - guitar
 products: []
 headquarters_locations:
-  - tennessee
   - nashville
+  - tennessee
 subsidiaries: []
 foundation_dates:
   - 1902
@@ -326,8 +326,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [Guitar](/products_or_materials_produced/guitar/); [Electric Guitar](/products_or_materials_produced/electric-guitar/) |
-| Headquarters Location | [Tennessee](/headquarters_locations/tennessee/); [Nashville](/headquarters_locations/nashville/) |
+| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [Electric Guitar](/products_or_materials_produced/electric-guitar/); [Guitar](/products_or_materials_produced/guitar/) |
+| Headquarters Location | [Nashville](/headquarters_locations/nashville/); [Tennessee](/headquarters_locations/tennessee/) |
 | Foundation Date | [1902](/foundation_dates/1902/) |
 | Founded By | Orville Gibson |
 | Topic'S Main Category | Category:Gibson Brands |

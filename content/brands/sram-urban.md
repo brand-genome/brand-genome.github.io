@@ -2,7 +2,7 @@
 title: SRAM Urban
 slug: "sram-urban"
 description: ""
-date: "2026-04-10T09:40:32.573979"
+date: "2026-04-15T09:21:23.773340"
 draft: false
 sectors:
   - hardware

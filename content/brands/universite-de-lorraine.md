@@ -2,11 +2,11 @@
 title: Université de Lorraine
 slug: "universite-de-lorraine"
 description: ""
-date: "2026-04-10T09:40:34.874604"
+date: "2026-04-15T09:21:25.846196"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - france
 years:
@@ -15,8 +15,8 @@ languages:
   - french
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

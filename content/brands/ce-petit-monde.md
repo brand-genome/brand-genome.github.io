@@ -2,11 +2,11 @@
 title: Ce Petit Monde
 slug: "ce-petit-monde"
 description: ""
-date: "2026-04-10T09:40:34.708383"
+date: "2026-04-15T09:21:25.691998"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - france
 years:

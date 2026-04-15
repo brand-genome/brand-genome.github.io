@@ -2,11 +2,11 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-04-10T09:40:33.049807"
+date: "2026-04-15T09:21:23.991588"
 draft: false
 sectors:
-  - ngo
   - entertainment
+  - ngo
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - entertainment
+  - ngo
 industries: []
 countries:
   - canada

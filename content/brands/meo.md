@@ -2,7 +2,7 @@
 title: MEO
 slug: meo
 description: "Designed by MYBRAND, Lisbon."
-date: "2026-04-10T09:40:30.586421"
+date: "2026-04-15T09:21:22.126875"
 draft: false
 sectors:
   - telecom

@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-04-10T09:40:30.631276"
+date: "2026-04-15T09:21:22.197493"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - software
-  - security
   - technology
+  - security
+  - software
 industries:
-  - "software-industry"
-  - "computer-hardware-industry"
-  - "computer-security"
   - "computer-storage-media"
+  - "software-industry"
+  - "computer-security"
+  - "computer-hardware-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -34,11 +34,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "remote-backup-service"
+  - "computer-security"
   - "zero-trust-architecture"
   - "data-security-and-protection"
   - "data-security"
-  - "computer-security"
-  - "remote-backup-service"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Data Security](/products_or_materials_produced/data-security/); [Computer Security](/products_or_materials_produced/computer-security/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/) |
+| Product Or Material Produced | [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Computer Security](/products_or_materials_produced/computer-security/); [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Data Security](/products_or_materials_produced/data-security/) |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-12 |

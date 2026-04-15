@@ -2,7 +2,7 @@
 title: MapsPeople
 slug: mapspeople
 description: ""
-date: "2026-04-10T09:40:31.455068"
+date: "2026-04-15T09:21:23.109151"
 draft: false
 sectors:
   - software

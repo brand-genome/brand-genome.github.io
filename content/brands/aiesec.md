@@ -2,21 +2,21 @@
 title: AIESEC
 slug: aiesec
 description: ""
-date: "2026-04-10T09:40:32.720882"
+date: "2026-04-15T09:21:23.840781"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - netherlands
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
-  - ngo
   - education
+  - ngo
 industries: []
 countries:
   - canada
@@ -34,8 +34,8 @@ headquarters_locations:
   - montreal
 subsidiaries: []
 foundation_dates:
-  - 1948
   - 1949
+  - 1948
 foundation_year_buckets:
   - 1940S
 lightings: []
@@ -620,7 +620,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Montreal](/headquarters_locations/montreal/) |
-| Foundation Date | [1948](/foundation_dates/1948/); [1949](/foundation_dates/1949/) |
+| Foundation Date | [1949](/foundation_dates/1949/); [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/0h73z |
 | Viaf Cluster Id | 104148995987859751964 |
 | Inception | 1949, 1948 |

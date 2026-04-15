@@ -2,7 +2,7 @@
 title: DTI
 slug: dti
 description: ""
-date: "2026-04-10T09:40:31.950141"
+date: "2026-04-15T09:21:23.386771"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ tags:
   - institution
   - corporate
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - victoria
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1970
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: 1970–2007 department of the United Kingdom government
-wikidata_url: "https://www.wikidata.org/wiki/Q584148"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.dti.gov.ph](https://www.dti.gov.ph)
 - [https://msmehub.dti.gov.ph](https://msmehub.dti.gov.ph)
 - [https://dtimarketplace.gov.ph](https://dtimarketplace.gov.ph)
-- [http://www.dti.gov.uk](http://www.dti.gov.uk)
 
 ## Brand Guidelines
 
@@ -321,30 +316,3 @@ visual_term_image_urls: {}
 - • Prototype of the proposed use of the DTI logo.
 - The approval granted shall be exclusive to the proposed activity. Such approval shall not be extended to any other parties.
 - Authorization to use the DTI logo does not confer on those to whom it is granted any right of exclusive use, nor does it allow them to appropriate the Logo either by registration or any other means.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q584148) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Victoria](/headquarters_locations/victoria/) |
-| Foundation Date | [1970](/foundation_dates/1970/) |
-| Viaf Cluster Id | 135120281 |
-| Inception | 1970 |
-| Dissolved, Abolished Or Demolished Date | 2007 |
-| Country | United Kingdom |
-| Headquarters Location | Victoria |
-| Quora Topic Id | Department-of-Trade-and-Industry |
-| Open Funder Registry Funder Id | 501100005983 |
-| Grid Id | grid.424111.3 |
-| Isni | 0000000121625438 |
-| Library Of Congress Authority Id | nb2004309985 |
-| Freebase Id | /m/01s95c |
-| Musicbrainz Label Id | 1d4cd30b-80cc-49bc-a2a6-03e20a085864 |
-| Uk Parliament Id | mWvDgQ5B, IyPoPhZz, gW71s0p9 |
-| Domain Name | dti.gov.uk (from 2003-03-13) |
-| Replaced By | Department for Business, Enterprise and Regulatory Reform |
-| Replaces | Ministry of Technology |

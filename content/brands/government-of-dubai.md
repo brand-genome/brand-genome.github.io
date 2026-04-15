@@ -2,7 +2,7 @@
 title: Government of Dubai
 slug: "government-of-dubai"
 description: ""
-date: "2026-04-10T09:40:31.957960"
+date: "2026-04-15T09:21:23.395441"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - arabic
 tags:
-  - institution
   - featured
   - regional
+  - institution
 industries: []
 countries:
   - "united-arab-emirates"

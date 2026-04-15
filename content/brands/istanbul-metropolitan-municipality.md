@@ -2,7 +2,7 @@
 title: Istanbul Metropolitan Municipality
 slug: "istanbul-metropolitan-municipality"
 description: ""
-date: "2026-04-10T09:40:32.520387"
+date: "2026-04-15T09:21:23.725688"
 draft: false
 sectors:
   - "public-sector"

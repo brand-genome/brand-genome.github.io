@@ -2,11 +2,11 @@
 title: ISPE
 slug: ispe
 description: ""
-date: "2026-04-10T09:40:33.400648"
+date: "2026-04-15T09:21:24.332386"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: InterPro Family
-wikidata_url: "https://www.wikidata.org/wiki/Q24768551"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -247,18 +247,3 @@ visual_term_image_urls: {}
 - The two waves should always be combined as presented on the previous page. Using only one of the waves is not permitted.
 - Using the wavy gradients texture pattern many times on the same layout is not permitted.
 - Do not stretch, deform, or change the texture.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q24768551) |
-
-| Property | Value |
-|----------|-------|
-| Interpro Id | IPR004424 |
-| Has Part(S) | GHMP kinase N-terminal domain, GHMP kinase, C-terminal domain |
-| Subclass Of | transferase |
-| Molecular Function | 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity |
-| Freebase Id | /m/03gsqt5 |
-| Ec Enzyme Number | 2.7.1.148 |

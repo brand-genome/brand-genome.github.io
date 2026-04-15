@@ -2,7 +2,7 @@
 title: Uherské Hradiště
 slug: "uherske-hradiste"
 description: ""
-date: "2026-04-10T09:40:32.606072"
+date: "2026-04-15T09:21:23.799575"
 draft: false
 sectors:
   - "public-sector"
@@ -65,11 +65,7 @@ visual_term_image_urls: {}
 - [https://www.mesto-uh.cz](https://www.mesto-uh.cz)
 - [https://www.uherske-hradiste.cz](https://www.uherske-hradiste.cz)
 - [https://www.uherske-hradiste.cz/en](https://www.uherske-hradiste.cz/en)
-- [http://www.dynamodesign.cz](http://www.dynamodesign.cz)
-- [http://www.knihovnabbb.cz](http://www.knihovnabbb.cz)
 - [http://www.mesto-uh.cz](http://www.mesto-uh.cz)
-- [http://www.slovackemuzeum.cz](http://www.slovackemuzeum.cz)
-- [http://www.uherske-hradiste.cz](http://www.uherske-hradiste.cz)
 
 ## Brand Guidelines
 

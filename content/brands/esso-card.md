@@ -2,7 +2,7 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-04-10T09:40:33.808599"
+date: "2026-04-15T09:21:24.788053"
 draft: false
 sectors:
   - finance

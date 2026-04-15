@@ -2,7 +2,7 @@
 title: AmeriCorps
 slug: americorps
 description: ""
-date: "2026-04-10T09:40:30.928869"
+date: "2026-04-15T09:21:22.539241"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - environment
   - social
+  - environment
   - community
 industries: []
 countries:

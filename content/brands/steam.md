@@ -2,11 +2,11 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-04-10T09:40:30.752135"
+date: "2026-04-15T09:21:22.345932"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - usa
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 - [https://steamcommunity.com](https://steamcommunity.com)
 - [https://partner.steamgames.com](https://partner.steamgames.com)
 - [https://help.steampowered.com](https://help.steampowered.com)
-- [http://www.steamgames.com/doc/marketing](http://www.steamgames.com/doc/marketing)
 - [http://www.steampowered.com](http://www.steampowered.com)
 - [https://partner.steamgames.com/doc/marketing](https://partner.steamgames.com/doc/marketing)
 - [https://store.steampowered.com?l=english](https://store.steampowered.com?l=english)

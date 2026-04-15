@@ -2,7 +2,7 @@
 title: Simplify
 slug: simplify
 description: ""
-date: "2026-04-10T09:40:33.109981"
+date: "2026-04-15T09:21:24.044174"
 draft: false
 sectors:
   - consulting
@@ -16,8 +16,7 @@ languages:
 tags:
   - business
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,8 +26,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - brentwood
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "company based in Brentwood, Tennessee"
-wikidata_url: "https://www.wikidata.org/wiki/Q110337159"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,27 +63,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mysimplify.it](https://www.mysimplify.it)
-- [https://www.simplifycompliance.com](https://www.simplifycompliance.com)
 
 ## Brand Guidelines
 
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q110337159) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Brentwood](/headquarters_locations/brentwood/) |
-| Headquarters Location | Brentwood |
-| Country | United States |
-| Crunchbase Organization Id | simplify-compliance |
-| Opencorporates Id | us_de/4408827, us_tn/000556999 |
-| Facebook Username | SimplifyComplianceLLC |
-| Linkedin Company Or Organization Id | simplify-compliance |
-| Child Organization Or Unit | HCPro Inc |

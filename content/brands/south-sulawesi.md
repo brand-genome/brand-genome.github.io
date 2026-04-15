@@ -2,11 +2,11 @@
 title: South Sulawesi
 slug: "south-sulawesi"
 description: ""
-date: "2026-04-10T09:40:30.646616"
+date: "2026-04-15T09:21:22.216732"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - indonesia
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - indonesia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1967
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "museum which located in North Sulawesi, Indonesia"
-wikidata_url: "https://www.wikidata.org/wiki/Q61356784"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -66,31 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://disbudpar.sulselprov.go.id](https://disbudpar.sulselprov.go.id)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q61356784) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1967](/foundation_dates/1967/) |
-| Country | Indonesia |
-| Coordinate Location | 1.48826, 124.84468 |
-| Located In The Administrative Territorial Entity | Manado, North Sulawesi |
-| Indonesian Museum National Registration System Id | eyJpdiI6ImRkOXJzXC9aVERsZm42SnZHYVRSbzNBPT0iLCJ2YWx1ZSI6Im14aUc4b25nNGk2N0JGcnN3dnNkZHc9PSIsIm1hYyI6IjZkNTZkYjA5ZWU4ZTdiYzFjNzE1N2Q0OGU4ZTlmODQ3MWYyNTFiMTE3N2QwY2NmOTVkODUwYzVmZTU2MjgzOGEifQ== |
-| Inception | 1967 |
-| Collection Or Exhibition Size | 2,810 item |
-| Founded By | Ministry of Primary and Secondary Education |
-| Date Of Official Opening | 1991 |
-| Openstreetmap Way Id | 1115643771 |
-| Located In Time Zone | UTC+08:00 |
-| Open Days | Monday to Thursday, Friday, Saturday |
-| Street Address | Jl. W.R. Supratman No.72, Lawangirung, Wenang, Kota Manado, Sulawesi Utara |
-| Phone Number | 0431862685 |
-| Fax Number | (0431) 870308 |
-| Postal Code | 95123 |
-| Review Score | 4.2/5 (as of 2024-05-29) |
-| Fee | 0 rupiah |
-| Email Address | museum.sulut@gmail.com |

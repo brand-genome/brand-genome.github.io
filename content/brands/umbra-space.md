@@ -2,7 +2,7 @@
 title: Umbra Space
 slug: "umbra-space"
 description: ""
-date: "2026-04-10T09:40:30.810395"
+date: "2026-04-15T09:21:22.413265"
 draft: false
 sectors:
   - "space-technology"

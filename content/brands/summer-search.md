@@ -2,11 +2,11 @@
 title: Summer Search
 slug: "summer-search"
 description: ""
-date: "2026-04-10T09:40:34.449425"
+date: "2026-04-15T09:21:25.392760"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -72,9 +72,6 @@ visual_term_image_urls: {}
 - [https://summersearch.org/new-york-city](https://summersearch.org/new-york-city)
 - [https://summersearch.org/philadelphia](https://summersearch.org/philadelphia)
 - [https://summersearch.org/seattle](https://summersearch.org/seattle)
-- [http://www.elixirdesign.com](http://www.elixirdesign.com)
-- [http://www.flickr.com](http://www.flickr.com)
-- [http://www.vimeo.com](http://www.vimeo.com)
 - [http://www.summersearch.org](http://www.summersearch.org)
 
 ## Brand Guidelines

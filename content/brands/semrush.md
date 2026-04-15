@@ -2,24 +2,24 @@
 title: Semrush
 slug: semrush
 description: ""
-date: "2026-04-10T09:40:33.076300"
+date: "2026-04-15T09:21:24.011150"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
-  - 2020
   - 2018
+  - 2020
 languages:
   - english
 tags:
   - internet
 industries:
+  - "software-industry"
   - marketing
   - "search-engine-optimization"
-  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

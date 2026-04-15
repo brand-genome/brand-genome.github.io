@@ -2,11 +2,11 @@
 title: GMEM
 slug: gmem
 description: ""
-date: "2026-04-10T09:40:32.843147"
+date: "2026-04-15T09:21:23.882096"
 draft: false
 sectors:
-  - "arts-culture"
   - entertainment
+  - "arts-culture"
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - cultural
   - music
+  - cultural
 industries: []
 countries:
   - france

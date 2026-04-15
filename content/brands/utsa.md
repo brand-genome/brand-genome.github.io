@@ -2,11 +2,11 @@
 title: UTSA
 slug: utsa
 description: ""
-date: "2026-04-10T09:40:34.644501"
+date: "2026-04-15T09:21:25.637246"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

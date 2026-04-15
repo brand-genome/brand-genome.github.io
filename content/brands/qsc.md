@@ -2,11 +2,11 @@
 title: QSC
 slug: qsc
 description: ""
-date: "2026-04-10T09:40:32.659987"
+date: "2026-04-15T09:21:23.825431"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
@@ -53,7 +53,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q133942789"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,13 +72,3 @@ visual_term_image_urls: {}
 ### 2021
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q133942789) |
-
-| Property | Value |
-|----------|-------|
-| Image | QScintilla-Cpp-Example.png |

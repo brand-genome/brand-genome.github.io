@@ -2,7 +2,7 @@
 title: RICS
 slug: rics
 description: ""
-date: "2026-04-10T09:40:34.022021"
+date: "2026-04-15T09:21:24.940043"
 draft: false
 sectors:
   - "public-sector"

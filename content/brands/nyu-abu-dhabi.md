@@ -2,20 +2,20 @@
 title: NYU Abu Dhabi
 slug: "nyu-abu-dhabi"
 description: ""
-date: "2026-04-10T09:40:32.992794"
+date: "2026-04-15T09:21:23.944898"
 draft: false
 sectors:
   - university
 regions:
   - "abu-dhabi"
 years:
-  - 2014
   - 2021
+  - 2014
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-arab-emirates"

@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-04-10T09:40:34.772390"
+date: "2026-04-15T09:21:25.751735"
 draft: false
 sectors:
   - "e-learning-edtech"

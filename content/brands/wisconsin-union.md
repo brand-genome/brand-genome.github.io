@@ -2,7 +2,7 @@
 title: Wisconsin Union
 slug: "wisconsin-union"
 description: ""
-date: "2026-04-10T09:40:32.477734"
+date: "2026-04-15T09:21:23.690481"
 draft: false
 sectors:
   - education
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://union.wisc.edu](https://union.wisc.edu)
 - [https://union.wisc.edu/visit/memorial-union](https://union.wisc.edu/visit/memorial-union)
 - [https://union.wisc.edu/visit/union-south](https://union.wisc.edu/visit/union-south)
-- [http://www.wisc.edu](http://www.wisc.edu)
 
 ## Brand Guidelines
 

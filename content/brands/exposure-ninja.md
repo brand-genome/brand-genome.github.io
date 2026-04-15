@@ -2,7 +2,7 @@
 title: Exposure Ninja
 slug: "exposure-ninja"
 description: ""
-date: "2026-04-10T09:40:34.004518"
+date: "2026-04-15T09:21:24.925727"
 draft: false
 sectors:
   - "marketing-advertising"

@@ -2,7 +2,7 @@
 title: Governo doDistrito Federal
 slug: "governo-dodistrito-federal"
 description: ""
-date: "2026-04-10T09:40:34.665670"
+date: "2026-04-15T09:21:25.657978"
 draft: false
 sectors:
   - "public-sector"

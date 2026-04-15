@@ -2,7 +2,7 @@
 title: "University of Winconsin-Madison"
 slug: "university-of-winconsin-madison"
 description: ""
-date: "2026-04-10T09:40:34.716197"
+date: "2026-04-15T09:21:25.697843"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

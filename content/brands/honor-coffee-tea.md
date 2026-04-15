@@ -2,11 +2,11 @@
 title: "Honor Coffee & Tea"
 slug: "honor-coffee-tea"
 description: ""
-date: "2026-04-10T09:40:33.819160"
+date: "2026-04-15T09:21:24.796528"
 draft: false
 sectors:
-  - drink
   - restaurant
+  - drink
 regions:
   - usa
 years:

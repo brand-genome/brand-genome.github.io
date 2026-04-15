@@ -2,7 +2,7 @@
 title: Conferma
 slug: conferma
 description: ""
-date: "2026-04-10T09:40:30.781931"
+date: "2026-04-15T09:21:22.381114"
 draft: false
 sectors:
   - finance

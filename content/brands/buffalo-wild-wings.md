@@ -2,7 +2,7 @@
 title: Buffalo Wild Wings
 slug: "buffalo-wild-wings"
 description: ""
-date: "2026-04-10T09:40:34.712793"
+date: "2026-04-15T09:21:25.694870"
 draft: false
 sectors:
   - restaurant

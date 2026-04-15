@@ -2,7 +2,7 @@
 title: University of Oregon
 slug: "university-of-oregon"
 description: ""
-date: "2026-04-10T09:40:31.546390"
+date: "2026-04-15T09:21:23.196596"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

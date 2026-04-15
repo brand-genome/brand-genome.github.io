@@ -2,11 +2,11 @@
 title: Multiconsult
 slug: multiconsult
 description: ""
-date: "2026-04-10T09:40:34.735616"
+date: "2026-04-15T09:21:25.716270"
 draft: false
 sectors:
-  - consulting
   - architecture
+  - consulting
   - construction
 regions:
   - norway

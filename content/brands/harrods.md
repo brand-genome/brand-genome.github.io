@@ -2,7 +2,7 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-04-10T09:40:33.051979"
+date: "2026-04-15T09:21:23.993905"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,8 @@ languages:
 tags:
   - luxury
 industries:
-  - "retail-sale-in-non-specialised-stores"
   - retail
+  - "retail-sale-in-non-specialised-stores"
 countries:
   - "united-kingdom"
 revenue_buckets: []

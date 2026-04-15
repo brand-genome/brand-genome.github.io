@@ -2,12 +2,12 @@
 title: University of Vienna
 slug: "university-of-vienna"
 description: ""
-date: "2026-04-10T09:40:32.519486"
+date: "2026-04-15T09:21:23.724951"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - austria
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - austria
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 - [https://www.univie.ac.at/en](https://www.univie.ac.at/en)
 - [http://bibliothek.univie.ac.at/schulungen.html](http://bibliothek.univie.ac.at/schulungen.html)
 - [http://www.flickr.com/photos/univienna](http://www.flickr.com/photos/univienna)
-- [http://www.jussuccess.at](http://www.jussuccess.at)
 - [https://public.univie.ac.at/downloads](https://public.univie.ac.at/downloads)
 - [https://www.univie.ac.at](https://www.univie.ac.at)
 

@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-04-10T09:40:33.411066"
+date: "2026-04-15T09:21:24.340299"
 draft: false
 sectors:
   - insurance
@@ -15,8 +15,8 @@ languages:
 tags:
   - insurance
 industries:
-  - "managed-care"
   - insurance
+  - "managed-care"
 countries:
   - "united-states"
 revenue_buckets: []

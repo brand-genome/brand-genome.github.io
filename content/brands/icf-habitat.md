@@ -2,7 +2,7 @@
 title: ICF Habitat
 slug: "icf-habitat"
 description: ""
-date: "2026-04-10T09:40:34.683864"
+date: "2026-04-15T09:21:25.672226"
 draft: false
 sectors:
   - "real-estate"

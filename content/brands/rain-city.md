@@ -2,7 +2,7 @@
 title: Rain City
 slug: "rain-city"
 description: ""
-date: "2026-04-10T09:40:34.417833"
+date: "2026-04-15T09:21:25.363992"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - seattle
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2011
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: organization
-wikidata_url: "https://www.wikidata.org/wiki/Q16931474"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,22 +68,3 @@ visual_term_image_urls: {}
 ### 2016
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16931474) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Seattle](/headquarters_locations/seattle/) |
-| Foundation Date | [2011](/foundation_dates/2011/) |
-| Country | United States |
-| Headquarters Location | Seattle |
-| Inception | 2011 |
-| Image | Phoenix Jones passing out warning flyers.jpg |
-| Located In The Administrative Territorial Entity | Seattle |
-| Freebase Id | /m/0jt1nfh |
-| Participant | Phoenix Jones, Midnight Jack |
-| Different From | City Rain |

@@ -2,16 +2,16 @@
 title: Sam’s Club
 slug: "sams-club"
 description: ""
-date: "2026-04-10T09:40:32.547362"
+date: "2026-04-15T09:21:23.746948"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - usa
 years:
-  - 2011
   - 2019
+  - 2011
 languages:
   - english
 tags:

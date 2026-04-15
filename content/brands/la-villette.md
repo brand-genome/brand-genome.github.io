@@ -2,11 +2,11 @@
 title: La Villette
 slug: "la-villette"
 description: ""
-date: "2026-04-10T09:40:34.649813"
+date: "2026-04-15T09:21:25.642529"
 draft: false
 sectors:
-  - "arts-culture"
   - entertainment
+  - "arts-culture"
 regions:
   - france
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - french
 tags:
-  - theater
   - cultural
+  - theater
 industries: []
-countries:
-  - belgium
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: railway station in Belgium
-wikidata_url: "https://www.wikidata.org/wiki/Q2134652"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -66,18 +65,3 @@ visual_term_image_urls: {}
 
 - [https://www.lavillette.com/en](https://www.lavillette.com/en)
 - [https://www.lavillette.com](https://www.lavillette.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2134652) |
-
-| Property | Value |
-|----------|-------|
-| Country | Belgium |
-| Coordinate Location | 50.40392, 4.43695 |
-| Connecting Line | line 130A (Infrabel) |
-| Trainline Id | 363 |
-| State Of Use | decommissioned |
-| Located In The Administrative Territorial Entity |  |

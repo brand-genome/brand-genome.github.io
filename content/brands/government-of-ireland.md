@@ -2,7 +2,7 @@
 title: Government of Ireland
 slug: "government-of-ireland"
 description: ""
-date: "2026-04-10T09:40:34.521429"
+date: "2026-04-15T09:21:25.454260"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: Frog
 slug: frog
 description: ""
-date: "2026-04-10T09:40:33.741638"
+date: "2026-04-15T09:21:24.716775"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -15,15 +15,8 @@ languages:
   - english
 tags:
   - education
-industries:
-  - "experience-design"
-  - "industrial-design"
-  - "interaction-design"
-  - "service-design"
-  - "business-and-other-management-consultancy-activities"
-  - "software-industry"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -33,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "san-francisco"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1969
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: global creative consultancy
-wikidata_url: "https://www.wikidata.org/wiki/Q289314"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -75,7 +65,6 @@ visual_term_image_urls: {}
 - [https://frogeducation.com](https://frogeducation.com)
 - [https://frogeducation.com/edu/ukschools](https://frogeducation.com/edu/ukschools)
 - [https://frogeducation.com/edu/ourproduct/froglearn](https://frogeducation.com/edu/ourproduct/froglearn)
-- [https://www.frog.co](https://www.frog.co)
 
 ## Brand Guidelines
 
@@ -279,36 +268,3 @@ visual_term_image_urls: {}
 - Do not alter the outline or sihouette of the logo it must be maintained.
 - Do put the Frog logo on an image… if you work in marketing or design.
 - Do not alter the proportions of the head or name.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q289314) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
-| Foundation Date | [1969](/foundation_dates/1969/) |
-| Founded By | Hartmut Esslinger |
-| Freebase Id | /m/0c0jwh |
-| Viaf Cluster Id | 150784826 |
-| Headquarters Location | San Francisco |
-| Owned By | Capgemini |
-| Quora Topic Id | frog-design-1 |
-| Inception | 1969-01-01 |
-| Encyclopædia Britannica Online Id | topic/Frog-Design |
-| Gnd Id | 2122090-6 |
-| X (Twitter) Username | frogdesign (as of 2020-12-28, from 2007-12-25) |
-| Industry | industrial design, interaction design, software industry, business and other management consultancy activities, service design (+1 more) |
-| Social Media Followers | 535,953 (as of 2021-01-04), 521,120 (as of 2022-02-21), 512,982 (as of 2023-02-02) |
-| Philadelphia Museum Of Art Entity Id | 12386 |
-| Crunchbase Organization Id | frogventures, frog-design |
-| Sfmoma Artist Id | frog_design |
-| Has Works In The Collection | San Francisco Museum of Modern Art |
-| Start Time | 1969 |
-| Location | Sunnydale |
-| Museum Of Modern Art Artist Id | 10718 |
-| Encyclopedia Of China (Third Edition) Id | 316565 |
-| Museum Digital Id | 64352 |
-| Country | United States |

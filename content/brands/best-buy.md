@@ -2,7 +2,7 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-04-10T09:40:34.531452"
+date: "2026-04-15T09:21:25.463010"
 draft: false
 sectors:
   - "consumer-goods"

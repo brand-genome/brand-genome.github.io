@@ -2,7 +2,7 @@
 title: Asociación Uruguaya de Fútbol
 slug: "asociacion-uruguaya-de-futbol"
 description: ""
-date: "2026-04-10T09:40:34.040170"
+date: "2026-04-15T09:21:24.957100"
 draft: false
 sectors:
   - sports

@@ -2,11 +2,11 @@
 title: RSCN
 slug: rscn
 description: ""
-date: "2026-04-10T09:40:34.514829"
+date: "2026-04-15T09:21:25.448344"
 draft: false
 sectors:
-  - ngo
   - tourism
+  - ngo
 regions:
   - jordan
 years:

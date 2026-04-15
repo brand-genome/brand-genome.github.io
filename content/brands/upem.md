@@ -2,7 +2,7 @@
 title: UPEM
 slug: upem
 description: ""
-date: "2026-04-10T09:40:34.898193"
+date: "2026-04-15T09:21:25.867472"
 draft: false
 sectors:
   - university
@@ -13,11 +13,10 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
-countries:
-  - mexico
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1997
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "education organization in Cuernavaca, Mexico"
-wikidata_url: "https://www.wikidata.org/wiki/Q30265563"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,26 +63,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.univ-gustave-eiffel.fr/en](https://www.univ-gustave-eiffel.fr/en)
-- [http://www.upem.edu.mx](http://www.upem.edu.mx)
 
 ## Brand Guidelines
 
 ### 2013
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30265563) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1997](/foundation_dates/1997/) |
-| Coordinate Location | 18.927245, -99.239893 |
-| Country | Mexico |
-| Grid Id | grid.470518.f |
-| Inception | 1997-01-01 |
-| Located In The Administrative Territorial Entity | Cuernavaca |
-| Ror Id | 001pthy87 |

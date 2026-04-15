@@ -2,11 +2,11 @@
 title: Hello Tractor
 slug: "hello-tractor"
 description: ""
-date: "2026-04-10T09:40:32.832839"
+date: "2026-04-15T09:21:23.875004"
 draft: false
 sectors:
-  - software
   - "agricultural-heavy-equipment"
+  - software
 regions:
   - kenya
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - agriculture
+  - industry
 industries: []
 countries: []
 revenue_buckets: []

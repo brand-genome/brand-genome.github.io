@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-04-10T09:40:30.612698"
+date: "2026-04-15T09:21:22.168638"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - fiji

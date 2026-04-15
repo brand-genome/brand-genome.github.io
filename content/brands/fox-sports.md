@@ -2,7 +2,7 @@
 title: FOX Sports
 slug: "fox-sports"
 description: ""
-date: "2026-04-10T09:40:32.578283"
+date: "2026-04-15T09:21:23.777593"
 draft: false
 sectors:
   - broadcasting
@@ -14,12 +14,11 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
   - media
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,13 +28,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - artarmon
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1995
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Australia group of sports channels
-wikidata_url: "https://www.wikidata.org/wiki/Q5476939"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,31 +65,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.foxsports.com](https://www.foxsports.com)
-- [http://foxsports.com.au](http://foxsports.com.au)
 
 ## Brand Guidelines
 
 ### 2012
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5476939) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Artarmon](/headquarters_locations/artarmon/) |
-| Foundation Date | [1995](/foundation_dates/1995/) |
-| Topic'S Main Category | Category:Fox Sports (Australian TV network) |
-| X (Twitter) Username | FOXSportsAUS (as of 2018-05-10, from 2009-07-09) |
-| Facebook Username | foxsportsaus |
-| Country Of Origin | Australia |
-| Inception | 1995 |
-| Owned By | Fox Sports Pty Limited |
-| Country | Australia |
-| Headquarters Location | Artarmon |
-| Social Media Followers | 250,553 (as of 2021-01-03), 250,881 (as of 2018-05-10), 248,286 (as of 2022-02-26), 246,418 (as of 2023-02-03) |
-| Freebase Id | /m/0c37sl |

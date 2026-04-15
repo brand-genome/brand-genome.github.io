@@ -2,7 +2,7 @@
 title: Air France
 slug: "air-france"
 description: ""
-date: "2026-04-10T09:40:33.354013"
+date: "2026-04-15T09:21:24.288751"
 draft: false
 sectors:
   - airline
@@ -13,12 +13,12 @@ years:
 languages:
   - french
 tags:
-  - aeronautic
-  - airline
   - featured
+  - airline
+  - aeronautic
 industries:
-  - "air-transport"
   - unknown
+  - "air-transport"
 countries:
   - france
 revenue_buckets: []
@@ -32,12 +32,12 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - paris
   - "tremblay-en-france"
+  - paris
 subsidiaries: []
 foundation_dates:
-  - 1933
   - 1932
+  - 1933
 foundation_year_buckets:
   - 1930S
 lightings: []
@@ -182,8 +182,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [Tremblay En France](/headquarters_locations/tremblay-en-france/) |
-| Foundation Date | [1933](/foundation_dates/1933/); [1932](/foundation_dates/1932/) |
+| Headquarters Location | [Tremblay En France](/headquarters_locations/tremblay-en-france/); [Paris](/headquarters_locations/paris/) |
+| Foundation Date | [1932](/foundation_dates/1932/); [1933](/foundation_dates/1933/) |
 | Airline Alliance | SkyTeam |
 | Item Operated | Airbus A380 (until 2022), Airbus A330, Airbus A320 family, Boeing 747-400, Boeing 777 (+11 more) |
 | Icao Airline Designator | AFR |

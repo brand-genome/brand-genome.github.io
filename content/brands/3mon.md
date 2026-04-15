@@ -2,11 +2,11 @@
 title: 3mon
 slug: 3mon
 description: ""
-date: "2026-04-10T09:40:30.776153"
+date: "2026-04-15T09:21:22.374898"
 draft: false
 sectors:
-  - hardware
   - "emergency-services"
+  - hardware
 regions:
   - slovakia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "rescue-service"
   - technology
+  - "rescue-service"
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,15 +2,15 @@
 title: Vidyo
 slug: vidyo
 description: ""
-date: "2026-04-10T09:40:34.664155"
+date: "2026-04-15T09:21:25.656213"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:

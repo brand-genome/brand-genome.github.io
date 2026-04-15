@@ -2,7 +2,7 @@
 title: Alaska Seafood Marketing Institute
 slug: "alaska-seafood-marketing-institute"
 description: ""
-date: "2026-04-10T09:40:31.475184"
+date: "2026-04-15T09:21:23.135243"
 draft: false
 sectors:
   - "marketing-advertising"

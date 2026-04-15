@@ -2,7 +2,7 @@
 title: CTT – Correios de Portugal
 slug: "ctt-correios-de-portugal"
 description: ""
-date: "2026-04-10T09:40:30.591802"
+date: "2026-04-15T09:21:22.134582"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - transport
   - financial
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

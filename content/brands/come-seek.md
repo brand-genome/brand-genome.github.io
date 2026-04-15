@@ -2,7 +2,7 @@
 title: Come Seek
 slug: "come-seek"
 description: ""
-date: "2026-04-10T09:40:33.735288"
+date: "2026-04-15T09:21:24.712330"
 draft: false
 sectors:
   - tourism
@@ -11,8 +11,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.royalcaribbean.com](https://www.royalcaribbean.com)
 - [http://www.royalcaribbean.com](http://www.royalcaribbean.com)
-- [http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra](http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra)
-- [http://www.typography.com/fonts/gotham/styles](http://www.typography.com/fonts/gotham/styles)
 
 ## Brand Guidelines
 

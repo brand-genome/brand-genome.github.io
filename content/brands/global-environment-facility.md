@@ -2,7 +2,7 @@
 title: Global Environment Facility
 slug: "global-environment-facility"
 description: ""
-date: "2026-04-10T09:40:31.530195"
+date: "2026-04-15T09:21:23.179963"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - environment
   - financial
+  - environment
 industries: []
 countries:
   - "united-states"

@@ -2,7 +2,7 @@
 title: Piemonte
 slug: piemonte
 description: ""
-date: "2026-04-10T09:40:34.669495"
+date: "2026-04-15T09:21:25.661037"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - "kingdom-of-italy"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - turin
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1907
-foundation_year_buckets:
-  - 1900S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: former Italian association football club
-wikidata_url: "https://www.wikidata.org/wiki/Q617439"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -66,22 +62,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.piemontetheplacetoinvest.it](https://www.piemontetheplacetoinvest.it)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q617439) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Turin](/headquarters_locations/turin/) |
-| Foundation Date | [1907](/foundation_dates/1907/) |
-| Freebase Id | /m/02w5ryt |
-| Sport | association football |
-| Country | Kingdom of Italy |
-| Headquarters Location | Turin |
-| Inception | 1907 |
-| Category For Members Of A Team |  |
-| Image | Piemonte 1909.png |
-| Topic Has Template |  |

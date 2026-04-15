@@ -2,12 +2,12 @@
 title: Dun and Bradstreet
 slug: "dun-and-bradstreet"
 description: ""
-date: "2026-04-10T09:40:33.675878"
+date: "2026-04-15T09:21:24.616865"
 draft: false
 sectors:
+  - consulting
   - finance
   - software
-  - consulting
 regions:
   - usa
 years:
@@ -18,8 +18,8 @@ tags:
   - financial
 industries: []
 countries:
-  - "united-states"
   - israel
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "d-u-n-s"
   - "company-information-system"
   - "db-business-directory-id"
+  - "d-u-n-s"
 products: []
 headquarters_locations:
   - jacksonville
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [D U N S](/products_or_materials_produced/d-u-n-s/); [Company Information System](/products_or_materials_produced/company-information-system/); [Db Business Directory Id](/products_or_materials_produced/db-business-directory-id/) |
+| Product Or Material Produced | [Company Information System](/products_or_materials_produced/company-information-system/); [Db Business Directory Id](/products_or_materials_produced/db-business-directory-id/); [D U N S](/products_or_materials_produced/d-u-n-s/) |
 | Headquarters Location | [Jacksonville](/headquarters_locations/jacksonville/) |
 | Foundation Date | [1841](/foundation_dates/1841/) |
 | Stock Exchange | New York Stock Exchange |

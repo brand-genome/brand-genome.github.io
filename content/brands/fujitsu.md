@@ -2,12 +2,12 @@
 title: Fujitsu
 slug: fujitsu
 description: ""
-date: "2026-04-10T09:40:34.901003"
+date: "2026-04-15T09:21:25.869896"
 draft: false
 sectors:
+  - consulting
   - software
   - hardware
-  - consulting
 regions:
   - japan
 years:
@@ -33,14 +33,14 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "pointing-device"
-  - "vehicle-audio"
-  - software
   - workstation
+  - software
+  - "vehicle-audio"
+  - "pointing-device"
+  - server
   - "computer-hardware"
   - smartphone
   - supercomputer
-  - server
 products: []
 headquarters_locations:
   - "shiodome-city-center"
@@ -100,7 +100,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Pointing Device](/products_or_materials_produced/pointing-device/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Supercomputer](/products_or_materials_produced/supercomputer/); [Server](/products_or_materials_produced/server/) |
+| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Software](/products_or_materials_produced/software/); [Vehicle Audio](/products_or_materials_produced/vehicle-audio/); [Pointing Device](/products_or_materials_produced/pointing-device/); [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Supercomputer](/products_or_materials_produced/supercomputer/) |
 | Headquarters Location | [Shiodome City Center](/headquarters_locations/shiodome-city-center/) |
 | Foundation Date | [1935](/foundation_dates/1935/) |
 | Topic'S Main Category | Category:Fujitsu |

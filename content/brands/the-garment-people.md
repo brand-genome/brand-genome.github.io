@@ -2,7 +2,7 @@
 title: The Garment People
 slug: "the-garment-people"
 description: ""
-date: "2026-04-10T09:40:31.951940"
+date: "2026-04-15T09:21:23.388251"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

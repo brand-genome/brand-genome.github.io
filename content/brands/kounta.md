@@ -2,7 +2,7 @@
 title: Kounta
 slug: kounta
 description: ""
-date: "2026-04-10T09:40:34.286468"
+date: "2026-04-15T09:21:25.191602"
 draft: false
 sectors:
   - software

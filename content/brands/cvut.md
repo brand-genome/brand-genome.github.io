@@ -2,7 +2,7 @@
 title: ČVUT
 slug: cvut
 description: ""
-date: "2026-04-10T09:40:32.674740"
+date: "2026-04-15T09:21:23.828109"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - czech
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: Atlantic Technological University
 slug: "atlantic-technological-university"
 description: ""
-date: "2026-04-10T09:40:32.563796"
+date: "2026-04-15T09:21:23.762549"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - ireland
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries:
   - ireland

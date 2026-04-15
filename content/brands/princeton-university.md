@@ -2,7 +2,7 @@
 title: Princeton University
 slug: "princeton-university"
 description: ""
-date: "2026-04-10T09:40:33.835775"
+date: "2026-04-15T09:21:24.814124"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

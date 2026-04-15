@@ -2,7 +2,7 @@
 title: Visa
 slug: visa
 description: ""
-date: "2026-04-10T09:40:32.705910"
+date: "2026-04-15T09:21:23.836385"
 draft: false
 sectors:
   - finance
@@ -39,9 +39,9 @@ products_or_materials_produced:
 products: []
 headquarters_locations:
   - "san-mateo"
-  - "san-francisco"
-  - "mission-rock"
   - "foster-city"
+  - "mission-rock"
+  - "san-francisco"
 subsidiaries: []
 foundation_dates:
   - 1958
@@ -82,7 +82,6 @@ visual_term_image_urls: {}
 - [https://www.visa.com](https://www.visa.com)
 - [https://usa.visa.com](https://usa.visa.com)
 - [https://corporate.visa.com](https://corporate.visa.com)
-- [http://www.emvco.com](http://www.emvco.com)
 
 ## Brand Guidelines
 
@@ -215,7 +214,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Credit Card](/products_or_materials_produced/credit-card/) |
-| Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/); [San Francisco](/headquarters_locations/san-francisco/); [Mission Rock](/headquarters_locations/mission-rock/); [Foster City](/headquarters_locations/foster-city/) |
+| Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/); [Foster City](/headquarters_locations/foster-city/); [Mission Rock](/headquarters_locations/mission-rock/); [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [1958](/foundation_dates/1958/) |
 | Stock Exchange | New York Stock Exchange (from 2008) |
 | Inception | 1958 |

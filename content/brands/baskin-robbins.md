@@ -2,11 +2,11 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-04-10T09:40:32.577020"
+date: "2026-04-15T09:21:23.776706"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:

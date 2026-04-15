@@ -2,7 +2,7 @@
 title: College of New Caledonia
 slug: "college-of-new-caledonia"
 description: ""
-date: "2026-04-10T09:40:33.443422"
+date: "2026-04-15T09:21:24.375975"
 draft: false
 sectors:
   - education

@@ -2,11 +2,11 @@
 title: Butler University
 slug: "butler-university"
 description: ""
-date: "2026-04-10T09:40:30.839657"
+date: "2026-04-15T09:21:22.452228"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

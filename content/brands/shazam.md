@@ -2,7 +2,7 @@
 title: Shazam
 slug: shazam
 description: ""
-date: "2026-04-10T09:40:34.151416"
+date: "2026-04-15T09:21:25.057044"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - app
   - music
   - internet
+  - app
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Sense Bank
 slug: "sense-bank"
 description: ""
-date: "2026-04-10T09:40:30.885771"
+date: "2026-04-15T09:21:22.500678"
 draft: false
 sectors:
   - finance
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 - [https://sensebank.ua](https://sensebank.ua)
 - [https://sensebank.com.ua](https://sensebank.com.ua)
 - [https://sense.com.ua](https://sense.com.ua)
-- [http://www.sense.com](http://www.sense.com)
 - [https://alfabank.ua](https://alfabank.ua)
 
 ## Additional Properties

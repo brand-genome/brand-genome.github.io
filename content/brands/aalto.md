@@ -2,11 +2,11 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-04-10T09:40:34.477905"
+date: "2026-04-15T09:21:25.416792"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - finland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - finland

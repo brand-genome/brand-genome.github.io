@@ -2,7 +2,7 @@
 title: World Sailing
 slug: "world-sailing"
 description: ""
-date: "2026-04-10T09:40:34.399441"
+date: "2026-04-15T09:21:25.347248"
 draft: false
 sectors:
   - sports

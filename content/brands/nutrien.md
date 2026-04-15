@@ -2,7 +2,7 @@
 title: Nutrien
 slug: nutrien
 description: ""
-date: "2026-04-10T09:40:34.251763"
+date: "2026-04-15T09:21:25.168654"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"

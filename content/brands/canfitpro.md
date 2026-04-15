@@ -2,11 +2,11 @@
 title: Canfitpro
 slug: canfitpro
 description: ""
-date: "2026-04-10T09:40:33.410491"
+date: "2026-04-15T09:21:24.340141"
 draft: false
 sectors:
-  - education
   - fitness
+  - education
 regions:
   - canada
 years:

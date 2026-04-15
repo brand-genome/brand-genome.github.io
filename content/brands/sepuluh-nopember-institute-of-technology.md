@@ -2,12 +2,12 @@
 title: Sepuluh Nopember Institute of Technology
 slug: "sepuluh-nopember-institute-of-technology"
 description: ""
-date: "2026-04-10T09:40:32.072037"
+date: "2026-04-15T09:21:23.522533"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - indonesia
 years:

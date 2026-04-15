@@ -2,12 +2,12 @@
 title: Higher School of Economics
 slug: "higher-school-of-economics"
 description: ""
-date: "2026-04-10T09:40:32.111336"
+date: "2026-04-15T09:21:23.595698"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - russia
 years:

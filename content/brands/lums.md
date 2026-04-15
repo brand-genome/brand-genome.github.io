@@ -2,11 +2,11 @@
 title: LUMS
 slug: lums
 description: ""
-date: "2026-04-10T09:40:33.157229"
+date: "2026-04-15T09:21:24.085510"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - pakistan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - pakistan

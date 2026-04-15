@@ -2,11 +2,11 @@
 title: Street Link
 slug: "street-link"
 description: ""
-date: "2026-04-10T09:40:34.495789"
+date: "2026-04-15T09:21:25.432047"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://thestreetlink.org.uk](https://thestreetlink.org.uk)
 - [https://www.streetlink.london](https://www.streetlink.london)
-- [http://www.myfonts.com](http://www.myfonts.com)
 
 ## Brand Guidelines
 

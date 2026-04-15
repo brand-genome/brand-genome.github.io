@@ -2,7 +2,7 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-04-10T09:40:33.781984"
+date: "2026-04-15T09:21:24.761215"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "transport-industry"
   - logistics
+  - "transport-industry"
 countries:
   - iceland
   - netherlands
@@ -33,8 +33,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - rotterdam
   - reykjavik
+  - rotterdam
 subsidiaries: []
 foundation_dates:
   - 1990
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Rotterdam](/headquarters_locations/rotterdam/); [Reykjavik](/headquarters_locations/reykjavik/) |
+| Headquarters Location | [Reykjavik](/headquarters_locations/reykjavik/); [Rotterdam](/headquarters_locations/rotterdam/) |
 | Foundation Date | [1990](/foundation_dates/1990/) |
 | Quora Topic Id | Samskip |
 | Country | Iceland, Netherlands |

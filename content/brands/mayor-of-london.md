@@ -2,15 +2,15 @@
 title: Mayor of London
 slug: "mayor-of-london"
 description: ""
-date: "2026-04-10T09:40:33.121859"
+date: "2026-04-15T09:21:24.055398"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - "united-kingdom"
 years:
-  - 2019
   - 2021
+  - 2019
 languages:
   - english
 tags:

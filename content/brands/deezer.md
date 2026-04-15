@@ -2,11 +2,11 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-04-10T09:40:30.951319"
+date: "2026-04-15T09:21:22.563515"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - france
 years:
@@ -15,9 +15,9 @@ languages:
   - english
 tags:
   - featured
-  - app
   - music
   - internet
+  - app
 industries: []
 countries:
   - france

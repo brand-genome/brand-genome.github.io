@@ -2,11 +2,11 @@
 title: SmartAgriHubs
 slug: smartagrihubs
 description: ""
-date: "2026-04-10T09:40:32.838260"
+date: "2026-04-15T09:21:23.878262"
 draft: false
 sectors:
-  - ngo
   - software
+  - ngo
 regions:
   - europe
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - agriculture
+  - networks
 industries: []
 countries: []
 revenue_buckets: []

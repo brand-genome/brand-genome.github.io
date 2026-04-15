@@ -2,11 +2,11 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-04-10T09:40:33.211455"
+date: "2026-04-15T09:21:24.157459"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

@@ -2,7 +2,7 @@
 title: Nutriplan
 slug: nutriplan
 description: ""
-date: "2026-04-10T09:40:33.142279"
+date: "2026-04-15T09:21:24.072848"
 draft: false
 sectors:
   - horticulture

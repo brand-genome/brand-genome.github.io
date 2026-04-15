@@ -2,7 +2,7 @@
 title: Oceano Azul Foundation
 slug: "oceano-azul-foundation"
 description: ""
-date: "2026-04-10T09:40:30.746235"
+date: "2026-04-15T09:21:22.339812"
 draft: false
 sectors:
   - ngo
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://oceanoazulfoundation.org](https://oceanoazulfoundation.org)
-- [http://www.linotype.com](http://www.linotype.com)
-- [http://www.myfonts.com](http://www.myfonts.com)
 
 ## Brand Guidelines
 

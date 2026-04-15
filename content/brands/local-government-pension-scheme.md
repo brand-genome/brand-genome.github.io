@@ -2,7 +2,7 @@
 title: Local Government Pension Scheme
 slug: "local-government-pension-scheme"
 description: ""
-date: "2026-04-10T09:40:32.548001"
+date: "2026-04-15T09:21:23.747826"
 draft: false
 sectors:
   - finance

@@ -2,11 +2,11 @@
 title: UNIFEM
 slug: unifem
 description: ""
-date: "2026-04-10T09:40:32.580080"
+date: "2026-04-15T09:21:23.779306"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - ngo
-industries:
-  - "higher-education"
-countries:
-  - brazil
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: university in Sete Lagoas Brazil
-wikidata_url: "https://www.wikidata.org/wiki/Q29183581"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unwomen.org](https://www.unwomen.org)
-- [http://www.unifemm.edu.br](http://www.unifemm.edu.br)
 
 ## Brand Guidelines
 
@@ -311,23 +308,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q29183581) |
-
-| Property | Value |
-|----------|-------|
-| Grid Id | grid.442228.a |
-| Country | Brazil |
-| Located In The Administrative Territorial Entity | Sete Lagoas |
-| Short Name | UNIFEMM |
-| Coordinate Location | -19.4810701, -44.2675033 |
-| X (Twitter) Username | unifemm (as of 2020-04-24, from 2011-05-16) |
-| Facebook Username | unifemm |
-| Instagram Username | unifemm |
-| Ror Id | 04azbjd07 |
-| Social Media Followers | 1,038 (as of 2021-01-07), 1,035 (as of 2020-04-24) |
-| Industry | higher education |

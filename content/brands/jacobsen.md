@@ -2,7 +2,7 @@
 title: Jacobsen
 slug: jacobsen
 description: ""
-date: "2026-04-10T09:40:34.144946"
+date: "2026-04-15T09:21:25.051870"
 draft: false
 sectors:
   - drink
@@ -15,8 +15,7 @@ languages:
 tags:
   - "food-beverage"
 industries: []
-countries:
-  - denmark
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: beer brand
-wikidata_url: "https://www.wikidata.org/wiki/Q6119795"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,18 +69,3 @@ visual_term_image_urls: {}
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6119795) |
-
-| Property | Value |
-|----------|-------|
-| Coordinate Location | 55.6656, 12.53 |
-| Country | Denmark |
-| Located In The Administrative Territorial Entity | Copenhagen Municipality |
-| Owned By | Carlsberg Group |
-| Freebase Id | /m/02vr5gm |
-| Lex Id | Husbryggeriet_Jacobsen |

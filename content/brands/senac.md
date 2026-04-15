@@ -2,11 +2,11 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-04-10T09:40:34.667858"
+date: "2026-04-15T09:21:25.659754"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - brazil
 years:

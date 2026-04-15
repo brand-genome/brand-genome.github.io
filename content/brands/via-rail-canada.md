@@ -2,16 +2,16 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-04-10T09:40:30.741507"
+date: "2026-04-15T09:21:22.333228"
 draft: false
 sectors:
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - canada
 years:
-  - 2019
   - 2023
+  - 2019
 languages:
   - english
 tags:

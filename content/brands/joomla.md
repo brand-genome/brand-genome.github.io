@@ -2,7 +2,7 @@
 title: "Joomla!"
 slug: joomla
 description: ""
-date: "2026-04-10T09:40:34.650969"
+date: "2026-04-15T09:21:25.643706"
 draft: false
 sectors:
   - software
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://tm.joomla.org/trademark-policy.html](https://tm.joomla.org/trademark-policy.html)
 - [http://opensourcematters.org/legal/trademark](http://opensourcematters.org/legal/trademark)
 - [http://www.joomla.org](http://www.joomla.org)
-- [https://github.com/adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
 
 ## Brand Guidelines
 

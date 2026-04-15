@@ -2,12 +2,12 @@
 title: Energir
 slug: energir
 description: ""
-date: "2026-04-10T09:40:32.795615"
+date: "2026-04-15T09:21:23.858748"
 draft: false
 sectors:
-  - "renewable-energy"
-  - gas
   - utilities
+  - gas
+  - "renewable-energy"
 regions:
   - canada
 years:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 - [https://energir.com/fr](https://energir.com/fr)
 - [https://energir.com/en](https://energir.com/en)
 - [http://www.energir.com](http://www.energir.com)
-- [http://www.youtube.com/energir](http://www.youtube.com/energir)
 - [https://www.energir.com](https://www.energir.com)
 
 ## Brand Guidelines

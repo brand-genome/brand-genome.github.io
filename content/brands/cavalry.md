@@ -2,7 +2,7 @@
 title: Cavalry
 slug: cavalry
 description: ""
-date: "2026-04-10T09:40:32.187256"
+date: "2026-04-15T09:21:23.644170"
 draft: false
 sectors:
   - software
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: soldiers or warriors fighting from horseback
-wikidata_url: "https://www.wikidata.org/wiki/Q47315"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -142,60 +142,3 @@ visual_term_image_urls: {}
 - Cavalry Logo Design - The image features a logo comprising a stylized geometric letter 'C' on the left, constructed from interconnected black lines forming a series of triangle shapes creating a faceted, three-dimensional appearance. The 'C' is designed with a modern, sharp-edged style, with the open side facing right. To the right of this geometric symbol, the word 'Cavalry' is displayed in large, bold, black sans-serif font. The background of the entire image is a uniform light gray color, providing contrast to the black elements. The entire layout is horizontally aligned, with the geometric 'C' on the left and the word 'Cavalry' on the right, occupying most of the height of the image but leaving some padding around the edges.
 - Color Palette with Labels - The image is divided into five vertical sections, with the top row containing two sections and the bottom row containing three sections. The first section on the top left has a light grey background with the text 'Cavalry Grey' in small black font, accompanied by color specifications 'RGB 200/200/200' and 'HEX #c8c8c8'. Below this, a large black number '01' is prominently displayed. Adjacent to it is another top section with a white background, labeled 'Cavalry White,' with color specifications 'RGB 255/255/255' and 'HEX #ffffff,' and a large black number '02'. The bottom row has three equally-sized sections with bright background colors and large white numbers: the first on the left is bright green labeled 'Cavalry Green' with color codes 'RGB 79/253/122' and 'HEX #4ffd7a,' displaying the number '04'; the middle section is bright yellow labeled 'Cavalry Yellow' with color codes 'RGB 255/255/0' and 'HEX #ffff00,' with the number '05'; the third on the right is vivid pink labeled 'Cavalry Pink' with color codes 'RGB 255/86/224' and 'HEX #ff56e0,' with the number '03'; all sections feature a small icon of a geometric cube with the word 'Cavalry' next to it, indicating a brand or color palette theme, and the overall design emphasizes large, bold numbering corresponding to each color swatch.
 - Bold Number 02 on White Background - The image should prominently feature the number '02' in large, bold, black digits on a plain white background. The '0' is a perfect circle, and the '2' is a standard numeral with a curved top and a diagonal tail, both in a sans-serif font style. The size of the numbers should be substantial, occupying most of the image space, with the zero positioned slightly to the left and the two to the right, maintaining equal vertical alignment. The overall composition is simple and minimalistic, highlighting the numerical figures clearly and legibly.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q47315) |
-
-| Property | Value |
-|----------|-------|
-| Bncf Thesaurus Id | 56139 |
-| Topic'S Main Category | Category:Cavalry |
-| Ndl Authority Id | 00577675 |
-| Gnd Id | 4030113-8 |
-| Freebase Id | /m/01ztn |
-| Image | Battle of Komarów 1920 reenactments Polish-Bolshevik war (2).jpg |
-| Great Aragonese Encyclopedia Id | 13259 |
-| Described By Source | Sytin Military Encyclopedia, Brockhaus and Efron Encyclopedic Dictionary, Small Brockhaus and Efron Encyclopedic Dictionary, Russian translation of Lübker's Antiquity Lexicon, Encyclopædia Britannica 11th edition (+2 more) |
-| Quora Topic Id | Cavalry |
-| U.S. National Archives Identifier | 10636897 |
-| Babelnet Id | 00016873n |
-| Encyclopædia Universalis Id | cavalerie |
-| Asc Leiden Thesaurus Id | 294903666 |
-| Great Norwegian Encyclopedia Id | kavaleri |
-| Part Of | army |
-| Subclass Of | branch of service |
-| Encyclopædia Britannica Online Id | topic/cavalry |
-| Art & Architecture Thesaurus Id | 300212659 |
-| Treccani'S Dizionario Di Storia Id | cavalleria |
-| Omegawiki Defined Meaning | 983134 |
-| Australian Educational Vocabulary Id | scot/15710 |
-| Different From | Calvary, calvary, cowboy church |
-| Kbpedia Id | Cavalry |
-| Rkd Thesaurus Id | 67178 |
-| Pactols Thesaurus Id | pcrtoyLU25Xoz1 |
-| Library Of Congress Authority Id | sh85021479 |
-| Zhihu Topic Id | 19684249 |
-| Brockhaus Enzyklopädie Online Id | kavallerie-militärwesen |
-| National Library Of Israel J9U Id | 987007284836505171 |
-| Krugosvet Article (Archived) | voennoe-delo/kavaleriya |
-| Great Russian Encyclopedia Online Id (2017) | 2031156 |
-| Yso Id | 3943 |
-| Lex Id | kavaleri |
-| Topostext Person Id | 16901 |
-| Video | Pferde als Kriegswaffe.webm |
-| Wordnet 3.1 Synset Id | 08414813-n, 08406441-n |
-| Uk Archival Thesaurus Id | f8/mt815/21734/21790/4890/862/9544/7832 |
-| On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31) |
-| Tv Tropes Id | Main/TheCavalry |
-| Library Of Congress Classification | UE1-UE500 |
-| Wikikids Id | Cavalerie |
-| Museum Digital Tag Id | 1384 |
-| Vikidia Article Id | es:Caballería, fr:Cavalerie |
-| Factgrid Item Id | Q951118 |
-| Depicted By | Return of the Cavalry |
-| Yle Topic Id | 18-211604 |
-| Imdb Keyword | cavalry |
-| Dewey Decimal Classification | 357.1 |

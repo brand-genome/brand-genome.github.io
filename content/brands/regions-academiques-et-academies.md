@@ -2,7 +2,7 @@
 title: Régions académiques et Académies
 slug: "regions-academiques-et-academies"
 description: ""
-date: "2026-04-10T09:40:33.207794"
+date: "2026-04-15T09:21:24.153947"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

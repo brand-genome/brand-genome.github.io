@@ -2,7 +2,7 @@
 title: in Lombardia
 slug: "in-lombardia"
 description: ""
-date: "2026-04-10T09:40:33.158964"
+date: "2026-04-15T09:21:24.086393"
 draft: false
 sectors:
   - tourism

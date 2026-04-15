@@ -2,28 +2,26 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-04-10T09:40:33.653020"
+date: "2026-04-15T09:21:24.596922"
 draft: false
 sectors:
   - education
 regions:
   - usa
 years:
-  - 2016
-  - 2017
   - 2018
+  - 2017
+  - 2016
 languages:
   - english
 tags:
   - institution
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "1K-10K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
@@ -31,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1868
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "public comprehensive university in Mankato, Minnesota"
-wikidata_url: "https://www.wikidata.org/wiki/Q1937387"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.minnstate.edu](https://www.minnstate.edu)
 - [http://www.mnsu.edu](http://www.mnsu.edu)
-- [https://www.mnsu.edu](https://www.mnsu.edu)
 
 ## Brand Guidelines
 
@@ -672,72 +667,3 @@ visual_term_image_urls: {}
 - The logo with secondary signature (partners, collaborations, consortiums, divisions, or initiatives) should only be used in instances where the identifier or partnership has been approved by the Marketing and Communications Office.
 - The Board of Trustees Seal is the official seal of the Board of Trustees, and is only used by the Board of Trustees and by member colleges and universities for ceremonial documents.
 - A screened seal is used as a design element on stationery templates, but is not to be used beyond the approved templates.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1937387) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1868](/foundation_dates/1868/) |
-| Country | United States |
-| Located In The Administrative Territorial Entity | Mankato |
-| Topic'S Main Category | Category:Minnesota State University, Mankato |
-| Integrated Postsecondary Education Data System Id | 173920 |
-| Inception | 1868 |
-| Postal Code | 56001 |
-| Carnegie Classification Of Institutions Of Higher Education | master's colleges and universities: larger programs, very high undergraduate, research doctoral: professional-dominant, four-year, large, primarily nonresidential, four-year, full-time, selective, higher transfer-in (+1 more) |
-| Freebase Id | /m/02xw0n |
-| Quora Topic Id | Minnesota-State-University-Mankato-1 |
-| Isni | 0000000101702221, 0000000107389061 |
-| Coordinate Location | 44.146111111111, -93.998611111111 |
-| Part Of | Minnesota State Colleges and Universities System |
-| Official Name | Minnesota State University, Mankato (from 1998), Mankato State University (from 1975, until 1998), Mankato State College (from 1957, until 1975), Mankato State Teachers College (from 1921, until 1957), Mankato Normal School (from 1868, until 1921) |
-| Nickname | Minnesota State |
-| Member Of | Association of American Colleges and Universities, American Council on Education, Open Education Network, American Association of State Colleges and Universities, Open Education Global (+1 more) |
-| Snac Ark Id | w6187b9q, w6kq2f2c, w66b16qd, w6fz1fqp, w6xt0jtv |
-| Library Of Congress Authority Id | no00000527, n81135761, n81139993, n81139992, no2011019767 |
-| Viaf Cluster Id | 151538963, 124349640, 126299674, 139569686, 168160903 |
-| Category For Alumni Of Educational Institution | Category:Minnesota State University, Mankato alumni |
-| Encyclopædia Britannica Online Id | topic/Minnesota-State-University-Mankato |
-| Emporis Building Complex Id | 100526 |
-| X (Twitter) Username | MNSUMankato (as of 2020-04-26, from 2010-08-09) |
-| Facebook Username | MNStateMankato |
-| Instagram Username | mnstatemankato |
-| Grid Id | grid.260088.4 |
-| Mnopedia Id | place/minnesota-state-university-mankato |
-| Musicbrainz Place Id | 561e5b80-8414-46ec-93c6-6d26de2c5a1e |
-| Microsoft Academic Id (Discontinued) | 152014189 |
-| Street Address | 120 Wigley Administration Center, Mankato, MN, 56001 |
-| Ringgold Id | 38703 |
-| Times Higher Education World University Id | minnesota-state-university-mankato |
-| Ror Id | 04att9732 |
-| Coordinates Of Easternmost Point | 44.148451, -94.004207 |
-| Coordinates Of Northernmost Point | 44.152023, -94.000731 |
-| Coordinates Of Westernmost Point | 44.144417, -93.989412 |
-| Coordinates Of Southernmost Point | 44.137757, -93.998263 |
-| Social Media Followers | 13,382 (as of 2021-01-03), 13,160 (as of 2020-04-26), 13,934 (as of 2022-02-26), 14,528 (as of 2023-02-10) |
-| Crunchbase Organization Id | minnesota-state-university-mankato |
-| Count Of Students | 14,761 (as of 2020-09), 13,067 (as of 2021-09-01) |
-| Admission Rate | 0 (as of 2020) |
-| Admission Yield Rate | 0 (as of 2020) |
-| Openalex Id | I152014189 |
-| Content Partnership Category | Category:Media contributed by Minnesota State University, Mankato |
-| Endowment | 60,414,532 United States dollar (as of 2022-06-30), 70,390,553 United States dollar (as of 2021-06-30) |
-| Academic Calendar Type | semester |
-| Sevis School Id | 7218 |
-| National Library Of Israel J9U Id | 987011257482505171 |
-| Snarc Id | Q46322 |
-| Kisti Id | K000207524 |
-| Image | Old Main and Annex.jpg |
-| ‎Yale Lux Id | group/8871ab24-c00e-4d6a-b219-c3a3a811137c |
-| Athletics Program | Minnesota State Mavericks |
-| Mascot | Stomper the Maverick |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 1,600 | as of 2018 | [1K-10K](/employees_buckets/1k-10k/) |

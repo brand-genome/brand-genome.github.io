@@ -2,7 +2,7 @@
 title: Dell Boomi
 slug: "dell-boomi"
 description: ""
-date: "2026-04-10T09:40:34.141047"
+date: "2026-04-15T09:21:25.048155"
 draft: false
 sectors:
   - software

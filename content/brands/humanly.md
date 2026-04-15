@@ -2,7 +2,7 @@
 title: Humanly
 slug: humanly
 description: ""
-date: "2026-04-10T09:40:30.758953"
+date: "2026-04-15T09:21:22.352436"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - app
   - health
+  - app
 industries: []
 countries: []
 revenue_buckets: []

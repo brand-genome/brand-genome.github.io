@@ -2,11 +2,11 @@
 title: Wonderful Indonesia
 slug: "wonderful-indonesia"
 description: ""
-date: "2026-04-10T09:40:34.729090"
+date: "2026-04-15T09:21:25.709793"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - indonesia
 years:

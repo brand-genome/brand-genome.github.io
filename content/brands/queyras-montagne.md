@@ -2,7 +2,7 @@
 title: Queyras Montagne
 slug: "queyras-montagne"
 description: ""
-date: "2026-04-10T09:40:34.873436"
+date: "2026-04-15T09:21:25.844650"
 draft: false
 sectors:
   - tourism

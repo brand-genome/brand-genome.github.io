@@ -2,7 +2,7 @@
 title: eBay
 slug: ebay
 description: ""
-date: "2026-04-10T09:40:30.786367"
+date: "2026-04-15T09:21:22.387228"
 draft: false
 sectors:
   - "e-commerce"
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: official Android app of eBay
-wikidata_url: "https://www.wikidata.org/wiki/Q47005148"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,20 +71,3 @@ visual_term_image_urls: {}
 ### 2008
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q47005148) |
-
-| Property | Value |
-|----------|-------|
-| Google Play Store App Id | com.ebay.mobile |
-| Platform | Android |
-| Distribution Format | digital download |
-| Distributed By | Google Play |
-| Input Device | touchscreen |
-| Operating System | Android |
-| Pegi Rating | PEGI 12 |
-| Operator |  |

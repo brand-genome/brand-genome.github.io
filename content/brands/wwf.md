@@ -2,15 +2,15 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-04-10T09:40:30.759039"
+date: "2026-04-15T09:21:22.352741"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2012
   - 2010
+  - 2012
 languages:
   - english
 tags:

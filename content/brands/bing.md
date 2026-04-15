@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-04-10T09:40:34.003089"
+date: "2026-04-15T09:21:24.924241"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - internet
+  - software
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.bing.com](https://www.bing.com)
 - [https://www.bing.com/maps](https://www.bing.com/maps)
-- [http://www.usa.gov](http://www.usa.gov)
 
 ## Brand Guidelines
 

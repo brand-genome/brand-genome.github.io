@@ -2,11 +2,11 @@
 title: Satair
 slug: satair
 description: ""
-date: "2026-04-10T09:40:34.452568"
+date: "2026-04-15T09:21:25.394852"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - aerospace
+  - "logistics-supply-chain"
 regions:
   - denmark
 years:

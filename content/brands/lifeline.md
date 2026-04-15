@@ -2,11 +2,11 @@
 title: Lifeline
 slug: lifeline
 description: ""
-date: "2026-04-10T09:40:34.729592"
+date: "2026-04-15T09:21:25.710058"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - australia
 years:

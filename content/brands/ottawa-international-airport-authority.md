@@ -2,7 +2,7 @@
 title: Ottawa International Airport Authority
 slug: "ottawa-international-airport-authority"
 description: ""
-date: "2026-04-10T09:40:33.076110"
+date: "2026-04-15T09:21:24.010963"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries: []
 revenue_buckets: []

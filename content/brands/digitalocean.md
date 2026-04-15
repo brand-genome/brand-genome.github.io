@@ -2,11 +2,11 @@
 title: DigitalOcean
 slug: digitalocean
 description: ""
-date: "2026-04-10T09:40:34.497298"
+date: "2026-04-15T09:21:25.433038"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:

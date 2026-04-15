@@ -2,7 +2,7 @@
 title: MilkMarket Limerick
 slug: "milkmarket-limerick"
 description: ""
-date: "2026-04-10T09:40:33.789166"
+date: "2026-04-15T09:21:24.767195"
 draft: false
 sectors:
   - food

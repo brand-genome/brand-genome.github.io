@@ -2,11 +2,11 @@
 title: Habit Concept Studio
 slug: "habit-concept-studio"
 description: ""
-date: "2026-04-10T09:40:30.647214"
+date: "2026-04-15T09:21:22.216911"
 draft: false
 sectors:
-  - consulting
   - "staffing-recruitment"
+  - consulting
 regions:
   - serbia
 years:

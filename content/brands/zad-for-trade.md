@@ -2,11 +2,11 @@
 title: Zad for trade
 slug: "zad-for-trade"
 description: ""
-date: "2026-04-10T09:40:30.893811"
+date: "2026-04-15T09:21:22.514037"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - food
+  - "logistics-supply-chain"
 regions:
   - egypt
 years:

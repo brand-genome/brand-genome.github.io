@@ -2,12 +2,12 @@
 title: The University of Edinburgh
 slug: "the-university-of-edinburgh"
 description: ""
-date: "2026-04-10T09:40:34.767400"
+date: "2026-04-15T09:21:25.747411"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

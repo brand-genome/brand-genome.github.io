@@ -2,11 +2,11 @@
 title: Liceu de Artes e Ofícios de São Paulo
 slug: "liceu-de-artes-e-oficios-de-sao-paulo"
 description: ""
-date: "2026-04-10T09:40:32.097299"
+date: "2026-04-15T09:21:23.584625"
 draft: false
 sectors:
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - brazil
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - education
   - art
+  - education
 industries: []
 countries: []
 revenue_buckets: []

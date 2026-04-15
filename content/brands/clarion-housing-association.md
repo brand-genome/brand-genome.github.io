@@ -2,11 +2,11 @@
 title: Clarion Housing Association
 slug: "clarion-housing-association"
 description: ""
-date: "2026-04-10T09:40:30.665464"
+date: "2026-04-15T09:21:22.229839"
 draft: false
 sectors:
-  - ngo
   - "real-estate"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -64,6 +64,5 @@ visual_term_image_urls: {}
 
 - [https://www.clarionhousing.com](https://www.clarionhousing.com)
 - [https://www.clarionhg.com](https://www.clarionhg.com)
-- [http://www.gov.uk](http://www.gov.uk)
 - [http://www.clarionhg.com](http://www.clarionhg.com)
 - [http://www.myclarionhousing.com/login](http://www.myclarionhousing.com/login)

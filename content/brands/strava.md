@@ -2,11 +2,11 @@
 title: Strava
 slug: strava
 description: ""
-date: "2026-04-10T09:40:32.500676"
+date: "2026-04-15T09:21:23.709544"
 draft: false
 sectors:
-  - software
   - sports
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - app
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.strava.com](https://www.strava.com)
-- [http://www.apple.com](http://www.apple.com)
 - [http://www.strava.com](http://www.strava.com)
 
 ## Brand Guidelines

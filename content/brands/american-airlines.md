@@ -2,7 +2,7 @@
 title: American Airlines
 slug: "american-airlines"
 description: ""
-date: "2026-04-10T09:40:34.527457"
+date: "2026-04-15T09:21:25.459172"
 draft: false
 sectors:
   - airline
@@ -28,9 +28,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
+  - "new-york-city"
   - "grand-prairie"
   - "fort-worth"
-  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1926
@@ -405,7 +405,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Grand Prairie](/headquarters_locations/grand-prairie/); [Fort Worth](/headquarters_locations/fort-worth/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [Grand Prairie](/headquarters_locations/grand-prairie/); [Fort Worth](/headquarters_locations/fort-worth/) |
 | Foundation Date | [1926](/foundation_dates/1926/); [1936](/foundation_dates/1936/) |
 | Airline Alliance | Oneworld |
 | Airline Hub | Dallas/Fort Worth International Airport, O'Hare International Airport, Miami International Airport, John F. Kennedy International Airport, Los Angeles International Airport (+5 more) |

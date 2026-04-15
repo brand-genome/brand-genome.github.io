@@ -2,11 +2,11 @@
 title: Massachusetts College
 slug: "massachusetts-college"
 description: ""
-date: "2026-04-10T09:40:33.311239"
+date: "2026-04-15T09:21:24.247070"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Rawlplug
 slug: rawlplug
 description: ""
-date: "2026-04-10T09:40:34.492395"
+date: "2026-04-15T09:21:25.428764"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - "united-kingdom"
 years:

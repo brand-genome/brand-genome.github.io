@@ -2,11 +2,11 @@
 title: Punjab Skills Development Fund
 slug: "punjab-skills-development-fund"
 description: ""
-date: "2026-04-10T09:40:32.633694"
+date: "2026-04-15T09:21:23.815650"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - pakistan
 years:

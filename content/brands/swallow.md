@@ -2,7 +2,7 @@
 title: Swallow
 slug: swallow
 description: ""
-date: "2026-04-10T09:40:33.447178"
+date: "2026-04-15T09:21:24.379252"
 draft: false
 sectors:
   - tires
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: British band
-wikidata_url: "https://www.wikidata.org/wiki/Q7653088"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -62,31 +62,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://swallowtire.com](https://swallowtire.com)
-- [http://www.delitire.com](http://www.delitire.com)
 - [http://www.instagram.com/Swallowdelitiredelium](http://www.instagram.com/Swallowdelitiredelium)
-- [http://busygoingcrazy.com](http://busygoingcrazy.com)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7653088) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Artist Id | 3ca28161-a0df-4af8-8e8d-e3712d2340a8 |
-| Discogs Artist Id | 92566 |
-| Genre | shoegaze |
-| Record Label | 4AD |
-| Isni | 0000000108069000, 0000000095524405 |
-| Songkick Artist Id | 105805 |
-| Start Of Work Period | 1990 |
-| Viaf Cluster Id | 147950008 |
-| Europeana Entity | agent/base/12293 |
-| Muziekweb Performer Id | M00000047606 |

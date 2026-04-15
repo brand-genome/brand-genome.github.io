@@ -2,7 +2,7 @@
 title: Juventus + Parimatch
 slug: "juventus-parimatch"
 description: ""
-date: "2026-04-10T09:40:33.214030"
+date: "2026-04-15T09:21:24.159895"
 draft: false
 sectors:
   - sports

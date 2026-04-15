@@ -2,7 +2,7 @@
 title: Chihuahua
 slug: chihuahua
 description: ""
-date: "2026-04-10T09:40:32.814461"
+date: "2026-04-15T09:21:23.865647"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - mexico
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1709
-foundation_year_buckets:
-  - "18TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "capital of the State of Chihuahua, Mexico"
-wikidata_url: "https://www.wikidata.org/wiki/Q61302"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -73,8 +70,6 @@ visual_term_image_urls: {}
 - [https://participa.chihuahua.gob.mx](https://participa.chihuahua.gob.mx)
 - [https://cecoci.chihuahua.gob.mx](https://cecoci.chihuahua.gob.mx)
 - [https://turismo.chihuahua.gob.mx](https://turismo.chihuahua.gob.mx)
-- [http://www.gob.mx](http://www.gob.mx)
-- [http://www.municipiochihuahua.gob.mx](http://www.municipiochihuahua.gob.mx)
 
 ## Brand Guidelines
 
@@ -338,67 +333,3 @@ visual_term_image_urls: {}
 - Back para prensa
 - Back para eventos
 - Artículos promocionales
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q61302) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1709](/foundation_dates/1709/) |
-| Located In The Administrative Territorial Entity | Chihuahua Municipality |
-| Twinned Administrative Body | Torreón, Ciudad Juárez, Albuquerque (from 2008-03-10), Pueblo, Lynnwood (+4 more) |
-| Dewey Decimal Classification | 2--7216 |
-| Country | Mexico |
-| Coordinate Location | 28.636944444444445, -106.07694444444445 |
-| Curlie Id | Regional/North_America/Mexico/States/Chihuahua/Localities/Chihuahua/ |
-| Freebase Id | /m/01fvzh |
-| Page Banner | Chihuahua wikivoyage banner.jpg |
-| Gnd Id | 4085251-9 |
-| Category For People Who Died Here | Category:Deaths in Chihuahua City |
-| Category For People Born Here | Category:Births in Chihuahua City |
-| Inception | 1709-10-12 |
-| Postal Code | 31000–31633 |
-| Local Dialing Code | 614 |
-| Located In Time Zone | UTC−07:00 |
-| Topic'S Main Category | Category:Chihuahua City |
-| Viaf Cluster Id | 2145193234470460745 |
-| Musicbrainz Area Id | 55184b6d-6e5f-4cd1-973c-785e1a0c8c46 |
-| Category Of Associated People | Category:People from Chihuahua City |
-| Capital Of | Chihuahua, Chihuahua Municipality |
-| Elevation Above Sea Level | 1,415 metre |
-| Image | Chihuahua montage.jpg |
-| Commons Gallery | Chihuahua, Chihuahua |
-| Inegi Locality Id | 080190001 |
-| Population | 878,062 (as of 2015), 809,232 (as of 2010), 925,762 (as of 2020) |
-| Head Of Government | Marco Bonilla Mendoza (from 2021-09-07) |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0017568 |
-| Native Label | Chihuahua |
-| U.S. National Archives Identifier | 10037249 |
-| Coat Of Arms Image | Escudo de Armas de la Ciudad de Chihuahua.svg |
-| Encyclopædia Britannica Online Id | place/Chihuahua-Mexico |
-| Library Of Congress Authority Id | n83007435 |
-| Montage Image | Chihuahua montage.jpg |
-| Who'S On First Id | 101994137 |
-| Omegawiki Defined Meaning | 1635991 |
-| Described By Source | Granat Encyclopedic Dictionary, The Nuttall Encyclopædia, Encyclopædia Britannica 11th edition, Meyer’s Universum, Neunzehnter Band |
-| Nl Cr Aut Id | ge206785 |
-| Interlingual Index Id | i82825 |
-| Wordnet 3.1 Synset Id | 08760411-n |
-| Factgrid Item Id | Q83812 |
-| Different From | Chihuahua |
-| Online Pwn Encyclopedia Id | 3885216 |
-| Great Norwegian Encyclopedia Id | Chihuahua_-_by_i_Mexico |
-| Treccani Id | chihuahua |
-| National Library Of Israel J9U Id | 987007562267305171 |
-| Openstreetmap Node Id | 273587922 |
-| Worldcat Entities Id | E39PBJxMmFyVy6BrPMygWgcMfq |
-| Gran Enciclopèdia Catalana Id | chihuahua-0 |
-| Gns Unique Feature Id | -1657142 |
-| Snarc Id | Q8293 |
-| Rkd Thesaurus Id | 28090 |
-| Un/Locode | MXCUU |
-| ‎Yale Lux Id | group/fb7c27c1-5701-425e-8e45-21c01bd22b59 |
-| History Of Topic | timeline of Chihuahua, Chihuahua |

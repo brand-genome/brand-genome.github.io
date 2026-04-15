@@ -2,7 +2,7 @@
 title: Dolby Audio
 slug: "dolby-audio"
 description: ""
-date: "2026-04-10T09:40:34.885812"
+date: "2026-04-15T09:21:25.856642"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - music
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

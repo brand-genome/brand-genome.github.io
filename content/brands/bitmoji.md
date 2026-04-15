@@ -2,11 +2,11 @@
 title: Bitmoji
 slug: bitmoji
 description: ""
-date: "2026-04-10T09:40:34.661280"
+date: "2026-04-15T09:21:25.653874"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - app
+  - software
 industries: []
 countries: []
 revenue_buckets: []

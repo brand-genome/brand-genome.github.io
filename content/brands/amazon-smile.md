@@ -2,11 +2,11 @@
 title: Amazon Smile
 slug: "amazon-smile"
 description: ""
-date: "2026-04-10T09:40:33.164915"
+date: "2026-04-15T09:21:24.092257"
 draft: false
 sectors:
-  - ngo
   - "e-commerce"
+  - ngo
 regions:
   - usa
 years:

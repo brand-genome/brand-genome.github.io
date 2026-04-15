@@ -2,11 +2,11 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-04-10T09:40:34.466137"
+date: "2026-04-15T09:21:25.406270"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - germany
 years:
@@ -17,8 +17,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - germany
   - belgium
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

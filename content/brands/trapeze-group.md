@@ -2,11 +2,11 @@
 title: Trapeze Group
 slug: "trapeze-group"
 description: ""
-date: "2026-04-10T09:40:34.714087"
+date: "2026-04-15T09:21:25.696235"
 draft: false
 sectors:
-  - software
   - "public-transportation"
+  - software
 regions:
   - canada
 years:

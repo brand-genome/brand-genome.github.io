@@ -2,12 +2,12 @@
 title: Food Bank
 slug: "food-bank"
 description: ""
-date: "2026-04-10T09:40:34.869826"
+date: "2026-04-15T09:21:25.841614"
 draft: false
 sectors:
-  - ngo
-  - "logistics-supply-chain"
   - food
+  - "logistics-supply-chain"
+  - ngo
 regions:
   - australia
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: organization
-wikidata_url: "https://www.wikidata.org/wiki/Q5718055"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -287,13 +287,3 @@ visual_term_image_urls: {}
 - To protect the integrity of our logo a minimum area around our logo should be kept clear of text or graphic devices. The minimum clear space is defined by the width of the 'O'.
 - To maintain the legibility of our logo a minimum size of 15mm has been determined.
 - There are also mono and reversed versions of the logo which can be used when there are colour limitations.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5718055) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/011x3t2f |

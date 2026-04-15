@@ -2,7 +2,7 @@
 title: Havas
 slug: havas
 description: ""
-date: "2026-04-10T09:40:33.322749"
+date: "2026-04-15T09:21:24.258349"
 draft: false
 sectors:
   - "public-relations"

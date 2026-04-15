@@ -2,7 +2,7 @@
 title: Fletcher Steel
 slug: "fletcher-steel"
 description: ""
-date: "2026-04-10T09:40:33.599370"
+date: "2026-04-15T09:21:24.538351"
 draft: false
 sectors:
   - "logistics-supply-chain"

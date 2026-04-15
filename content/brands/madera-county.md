@@ -2,7 +2,7 @@
 title: Madera County
 slug: "madera-county"
 description: ""
-date: "2026-04-10T09:40:34.252240"
+date: "2026-04-15T09:21:25.169240"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "park in Madera County, California, United States of America"
-wikidata_url: "https://www.wikidata.org/wiki/Q49520573"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -162,16 +161,3 @@ visual_term_image_urls: {}
 ##### Brand Imagery
 
 - The standard circular logo in full color is the preferred configuration to be used in all branding applications. The standard logo is a key component and the one of the most visible parts of our identity. The logo must be used as provided and cannot be altered in any way.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q49520573) |
-
-| Property | Value |
-|----------|-------|
-| Gnis Feature Id | 1812657 |
-| Country | United States |
-| Coordinate Location | 36.971944444444, -120.08027777778 |
-| Located In The Administrative Territorial Entity | Madera County |

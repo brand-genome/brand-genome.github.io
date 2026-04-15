@@ -2,11 +2,11 @@
 title: Pittsburg State University
 slug: "pittsburg-state-university"
 description: ""
-date: "2026-04-10T09:40:34.782332"
+date: "2026-04-15T09:21:25.761007"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - university
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

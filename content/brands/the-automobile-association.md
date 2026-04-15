@@ -2,7 +2,7 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-04-10T09:40:34.879590"
+date: "2026-04-15T09:21:25.851204"
 draft: false
 sectors:
   - automobile
@@ -16,12 +16,12 @@ languages:
 tags:
   - insurance
 industries:
-  - "voluntary-sector"
   - "activities-of-other-membership-organisations-nec"
-  - "roadside-assistance"
-  - "drivers-education"
   - "insurance-industry"
+  - "drivers-education"
+  - "roadside-assistance"
   - "road-transport"
+  - "voluntary-sector"
 countries:
   - "united-kingdom"
 revenue_buckets: []

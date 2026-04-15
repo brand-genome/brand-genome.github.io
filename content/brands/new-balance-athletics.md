@@ -2,13 +2,13 @@
 title: New Balance Athletics
 slug: "new-balance-athletics"
 description: ""
-date: "2026-04-10T09:40:33.392061"
+date: "2026-04-15T09:21:24.325377"
 draft: false
 sectors:
   - fashion
   - "consumer-goods"
-  - footwear
   - "e-commerce"
+  - footwear
 regions:
   - usa
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.newbalance.com](https://www.newbalance.com)
-- [http://www.com.hk](http://www.com.hk)
 
 ## Brand Guidelines
 

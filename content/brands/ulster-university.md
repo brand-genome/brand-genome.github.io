@@ -2,11 +2,11 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-04-10T09:40:33.448865"
+date: "2026-04-15T09:21:24.381539"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

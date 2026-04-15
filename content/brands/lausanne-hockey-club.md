@@ -2,7 +2,7 @@
 title: Lausanne Hockey Club
 slug: "lausanne-hockey-club"
 description: ""
-date: "2026-04-10T09:40:30.641016"
+date: "2026-04-15T09:21:22.211672"
 draft: false
 sectors:
   - sports

@@ -2,12 +2,12 @@
 title: Nunsys
 slug: nunsys
 description: ""
-date: "2026-04-10T09:40:34.297460"
+date: "2026-04-15T09:21:25.197188"
 draft: false
 sectors:
-  - software
   - networking
   - cybersecurity
+  - software
 regions:
   - spain
 years:

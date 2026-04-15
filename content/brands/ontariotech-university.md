@@ -2,11 +2,11 @@
 title: OntarioTech University
 slug: "ontariotech-university"
 description: ""
-date: "2026-04-10T09:40:32.592727"
+date: "2026-04-15T09:21:23.790940"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - canada
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - university
   - sport
   - education
-  - university
 industries: []
 countries: []
 revenue_buckets: []

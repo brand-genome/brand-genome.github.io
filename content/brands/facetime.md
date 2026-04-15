@@ -2,7 +2,7 @@
 title: FaceTime
 slug: facetime
 description: ""
-date: "2026-04-10T09:40:33.398251"
+date: "2026-04-15T09:21:24.330342"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: video and audio communication service from Apple
-wikidata_url: "https://www.wikidata.org/wiki/Q648357"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -196,37 +196,3 @@ visual_term_image_urls: {}
 - Copy is ranged left and is set in upper and lower case at 9pt with 12.755pt leading, this can be increased using +4 leading (eg 10pt on 14pt). There is no maximum size for type though it should never be smaller than 8pt.
 - Consumer Guides: These are generally 1 or 4 pages long, landscape with fixed introduction page with large icon. Smaller icon position style is used for secondary pages.
 - Business Guides: These are generally 1 or 4 pages long, portrait with fixed large icon and logo at the top.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q648357) |
-
-| Property | Value |
-|----------|-------|
-| Different From | FaceTime, FaceTime |
-| Topic'S Main Category | Category:FaceTime |
-| Downdetector Id | facetime |
-| Freebase Id | /m/0c3_bzy |
-| Zhihu Topic Id | 19550312 |
-| Alternativeto Software Id | facetime |
-| Has Use | videotelephony, Voice over IP |
-| Developer | Apple Inc. |
-| Copyright License | proprietary license |
-| Operating System | iOS, iPadOS, watchOS, macOS |
-| Platform | iOS, iPadOS, watchOS, macOS, web browser |
-| Publication Date | 2010-06-24, 2011-02-24 |
-| Used By | iDevice |
-| Uses | Voice over IP |
-| Significant Person | Steve Jobs |
-| Distributed By | Mac App Store,  |
-| App Store App Id | 1110145091 |
-| Distribution Format | digital download |
-| Input Device | touchscreen, computer mouse, computer keyboard |
-| Golden Id | FaceTime-P8KJ6G |
-| Copyright Status | copyrighted |
-| Creator | Apple Inc. |
-| Service Status Information Url | https://www.apple.com/fr/support/systemstatus/#:~:text=FaceTime |
-| Know Your Meme Slug | facetime (as of 2025-10-26) |
-| Image | FaceTime screenshot.png |

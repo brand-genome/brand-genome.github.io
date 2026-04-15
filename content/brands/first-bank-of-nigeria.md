@@ -2,7 +2,7 @@
 title: First Bank of Nigeria
 slug: "first-bank-of-nigeria"
 description: ""
-date: "2026-04-10T09:40:30.835946"
+date: "2026-04-15T09:21:22.447155"
 draft: false
 sectors:
   - finance

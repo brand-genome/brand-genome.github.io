@@ -2,11 +2,11 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-04-10T09:40:33.070094"
+date: "2026-04-15T09:21:24.007034"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - international
 years:

@@ -2,7 +2,7 @@
 title: Area Metropolitana de Lisboa
 slug: "area-metropolitana-de-lisboa"
 description: ""
-date: "2026-04-10T09:40:32.799354"
+date: "2026-04-15T09:21:23.859644"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: Université de Montréal
 slug: "universite-de-montreal"
 description: ""
-date: "2026-04-10T09:40:32.680068"
+date: "2026-04-15T09:21:23.829396"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

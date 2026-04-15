@@ -2,7 +2,7 @@
 title: "Gaia-X"
 slug: "gaia-x"
 description: ""
-date: "2026-04-10T09:40:32.150000"
+date: "2026-04-15T09:21:23.622722"
 draft: false
 sectors:
   - software
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://gaia-x.eu](https://gaia-x.eu)
 - [http://www.gaia-x.eu](http://www.gaia-x.eu)
-- [https://ec.europa.eu/digital-single-market/en/news/towards-next-generation-cloud-europe](https://ec.europa.eu/digital-single-market/en/news/towards-next-generation-cloud-europe)
 - [https://www.gaia-x.eu](https://www.gaia-x.eu)
 
 ## Brand Guidelines

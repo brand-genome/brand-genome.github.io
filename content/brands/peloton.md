@@ -2,11 +2,11 @@
 title: Peloton
 slug: peloton
 description: ""
-date: "2026-04-10T09:40:33.385052"
+date: "2026-04-15T09:21:24.317767"
 draft: false
 sectors:
-  - software
   - fitness
+  - software
 regions:
   - usa
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - estonia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2013
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q105975469"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -75,18 +72,3 @@ visual_term_image_urls: {}
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105975469) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2013](/foundation_dates/2013/) |
-| Country | Estonia |
-| Sport | road bicycle racing |
-| Official Name | Peloton Cycling Team |
-| Inception | 2013 |
-| Procyclingstats Team Id | team/peloton-2013/statistics/overview |

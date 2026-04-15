@@ -2,11 +2,11 @@
 title: CMO Council
 slug: "cmo-council"
 description: ""
-date: "2026-04-10T09:40:34.428445"
+date: "2026-04-15T09:21:25.372910"
 draft: false
 sectors:
-  - ngo
   - "marketing-advertising"
+  - ngo
 regions:
   - usa
 years:

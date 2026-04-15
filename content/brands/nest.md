@@ -2,11 +2,11 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-04-10T09:40:34.431959"
+date: "2026-04-15T09:21:25.376686"
 draft: false
 sectors:
-  - software
   - electronics
+  - software
   - hardware
 regions:
   - usa

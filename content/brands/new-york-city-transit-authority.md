@@ -2,7 +2,7 @@
 title: New York City Transit Authority
 slug: "new-york-city-transit-authority"
 description: ""
-date: "2026-04-10T09:40:34.777963"
+date: "2026-04-15T09:21:25.756493"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - transport
   - vintage
+  - transport
 industries:
   - "passenger-transport"
 countries:

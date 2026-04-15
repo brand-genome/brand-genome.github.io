@@ -2,7 +2,7 @@
 title: "Lynn-Rose School"
 slug: "lynn-rose-school"
 description: ""
-date: "2026-04-10T09:40:31.556545"
+date: "2026-04-15T09:21:23.203848"
 draft: false
 sectors:
   - education

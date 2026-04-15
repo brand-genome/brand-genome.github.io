@@ -2,7 +2,7 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-04-10T09:40:34.863687"
+date: "2026-04-15T09:21:25.835941"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
   - media
 industries: []
 countries:

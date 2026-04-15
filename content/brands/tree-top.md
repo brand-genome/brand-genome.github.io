@@ -2,7 +2,7 @@
 title: Tree Top
 slug: "tree-top"
 description: ""
-date: "2026-04-10T09:40:33.396751"
+date: "2026-04-15T09:21:24.328747"
 draft: false
 sectors:
   - food
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: group of the Piru gang alliance
-wikidata_url: "https://www.wikidata.org/wiki/Q117743059"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0

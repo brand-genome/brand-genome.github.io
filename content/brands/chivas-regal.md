@@ -2,7 +2,7 @@
 title: Chivas Regal
 slug: "chivas-regal"
 description: ""
-date: "2026-04-10T09:40:34.143777"
+date: "2026-04-15T09:21:25.050943"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - "united-kingdom"

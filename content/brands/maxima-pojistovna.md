@@ -2,7 +2,7 @@
 title: Maxima pojišťovna
 slug: "maxima-pojistovna"
 description: ""
-date: "2026-04-10T09:40:32.761614"
+date: "2026-04-15T09:21:23.851867"
 draft: false
 sectors:
   - insurance

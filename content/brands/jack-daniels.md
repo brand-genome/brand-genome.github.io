@@ -2,7 +2,7 @@
 title: Jack Daniel’s
 slug: "jack-daniels"
 description: ""
-date: "2026-04-10T09:40:30.670155"
+date: "2026-04-15T09:21:22.236043"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

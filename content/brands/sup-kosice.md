@@ -2,11 +2,11 @@
 title: ŠUP Košice
 slug: "sup-kosice"
 description: ""
-date: "2026-04-10T09:40:32.097197"
+date: "2026-04-15T09:21:23.584401"
 draft: false
 sectors:
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - slovakia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - slovensky
 tags:
-  - education
   - art
+  - education
 industries: []
 countries: []
 revenue_buckets: []

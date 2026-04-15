@@ -2,11 +2,11 @@
 title: LOfavør
 slug: lofavr
 description: ""
-date: "2026-04-10T09:40:33.672958"
+date: "2026-04-15T09:21:24.614428"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - norway
 years:

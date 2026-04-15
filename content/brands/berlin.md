@@ -2,7 +2,7 @@
 title: Berlin
 slug: berlin
 description: ""
-date: "2026-04-10T09:40:32.496115"
+date: "2026-04-15T09:21:23.705879"
 draft: false
 sectors:
   - "public-sector"

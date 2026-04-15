@@ -2,7 +2,7 @@
 title: Alamo Drafthouse
 slug: "alamo-drafthouse"
 description: ""
-date: "2026-04-10T09:40:33.360878"
+date: "2026-04-15T09:21:24.295371"
 draft: false
 sectors:
   - entertainment
@@ -15,8 +15,7 @@ languages:
 tags:
   - entertainment
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "former cinema in Midtown Omaha, Nebraska"
-wikidata_url: "https://www.wikidata.org/wiki/Q78362726"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://drafthouse.com](https://drafthouse.com)
 - [https://drafthouse.com/branding](https://drafthouse.com/branding)
-- [http://www.drafthouse.com/omaha/theater/midtown](http://www.drafthouse.com/omaha/theater/midtown)
-- [http://www.marcustheatres.com](http://www.marcustheatres.com)
 
 ## Brand Guidelines
 
@@ -350,21 +347,3 @@ visual_term_image_urls: {}
 
 - emaIl sIGnatUre In an effort to simplify, email signatures should include only the following:
 - Font should be set to Sans Serif (normal). You may use one of the following quotes below: “Best theater in America” -Entertainment Weekly “Coolest movie theater in the world” -Wired.com “The best theater ever” -Time Magazine
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q78362726) |
-
-| Property | Value |
-|----------|-------|
-| Located In The Administrative Territorial Entity | Omaha |
-| Street Address | 3201 Farnam St, Unit 6111 , Omaha, NE 68131, 3291 Farnam Street, Omaha, NE 68131 |
-| Postal Code | 68131 |
-| Coordinate Location | 41.25745, -95.96018 |
-| Fandango Theater Id | AAVSU |
-| Cinema Treasures Id | 36914 |
-| Country | United States |
-| Date Of Official Closure | 2022-10-09 |
-| Image | Midtown Crossing Cinema.jpg |

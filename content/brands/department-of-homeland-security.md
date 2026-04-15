@@ -2,7 +2,7 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-04-10T09:40:33.613610"
+date: "2026-04-15T09:21:24.553057"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - security
+  - institution
 industries: []
 countries:
   - "united-states"

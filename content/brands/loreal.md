@@ -2,7 +2,7 @@
 title: L’Oréal
 slug: loreal
 description: ""
-date: "2026-04-10T09:40:33.345530"
+date: "2026-04-15T09:21:24.280379"
 draft: false
 sectors:
   - beauty

@@ -2,7 +2,7 @@
 title: Dammam Airports Company
 slug: "dammam-airports-company"
 description: ""
-date: "2026-04-10T09:40:30.756835"
+date: "2026-04-15T09:21:22.350724"
 draft: false
 sectors:
   - aerospace

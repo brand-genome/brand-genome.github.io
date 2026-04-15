@@ -2,11 +2,11 @@
 title: Indigenous Tourism Alberta
 slug: "indigenous-tourism-alberta"
 description: ""
-date: "2026-04-10T09:40:30.674750"
+date: "2026-04-15T09:21:22.243652"
 draft: false
 sectors:
-  - ngo
   - tourism
+  - ngo
 regions:
   - canada
 years:

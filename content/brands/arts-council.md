@@ -2,7 +2,7 @@
 title: Arts Council
 slug: "arts-council"
 description: ""
-date: "2026-04-10T09:40:34.890485"
+date: "2026-04-15T09:21:25.860407"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - norway
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - oslo
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1965
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: arts council for Norway
-wikidata_url: "https://www.wikidata.org/wiki/Q4801450"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,8 +64,6 @@ visual_term_image_urls: {}
 
 - [https://artscouncil.ie](https://artscouncil.ie)
 - [https://www.artscouncil.ie/funding/logoguide](https://www.artscouncil.ie/funding/logoguide)
-- [https://www.kulturdirektoratet.no/norsk-kulturfond](https://www.kulturdirektoratet.no/norsk-kulturfond)
-- [https://kulturradet.no/english](https://kulturradet.no/english)
 
 ## Brand Guidelines
 
@@ -205,44 +199,3 @@ visual_term_image_urls: {}
 - Don’t place the white version on a light background
 - Don’t place the black version on a dark background
 - Don’t reverse or outline the logo
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4801450) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Oslo](/headquarters_locations/oslo/) |
-| Foundation Date | [1965](/foundation_dates/1965/) |
-| Bibsys Id | 90112533 |
-| Isni | 0000000122380866 |
-| Country | Norway |
-| Ipv6 Routing Prefix | 2a01:520:29::/48 |
-| Located In The Administrative Territorial Entity | Oslo Municipality |
-| Inception | 1965-01-01 |
-| Grid Id | grid.458535.a |
-| Flanders Arts Institute Organisation Id (Former Scheme) | 372746 |
-| Field Of Work |  |
-| Opencorporates Id | no/971527412 |
-| Great Norwegian Encyclopedia Id | Kulturrådet |
-| Arkivportalen Agent Id | no-a1450-01000002780376 |
-| Microsoft Academic Id (Discontinued) | 2800512121 |
-| Library Of Congress Authority Id | n80095665 |
-| Ror Id | 010mrqa05 |
-| Viaf Cluster Id | 122617497 |
-| Legal Form |  |
-| Parent Organization Or Unit | Ministry of Culture of Norway |
-| Headquarters Location | Oslo |
-| Freebase Id | /m/097dnm |
-| Norwegian State Administration Database Id | 21522 |
-| Japan Search Name Id | ノルウェー文化評議会 |
-| Sceneweb Organization Id | 3932 |
-| Different From | Arts and Culture Norway |
-| Chairperson | Sigmund Løvåsen |
-| Member Count | 10 |
-| Kunstenpunt Knowledge Graph Id | Q173142 |
-| Norwegian Organisation Number | 974721171 |
-| Facebook Username | kulturradet.no |
-| Romeo Publisher Id | 1017 |

@@ -2,7 +2,7 @@
 title: FloSports
 slug: flosports
 description: ""
-date: "2026-04-10T09:40:32.590945"
+date: "2026-04-15T09:21:23.789375"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries: []
 countries:
   - "united-states"

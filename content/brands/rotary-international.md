@@ -2,16 +2,16 @@
 title: Rotary International
 slug: "rotary-international"
 description: ""
-date: "2026-04-10T09:40:32.008065"
+date: "2026-04-15T09:21:23.432457"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2016
-  - 2019
   - 2015
+  - 2019
+  - 2016
 languages:
   - english
 tags:

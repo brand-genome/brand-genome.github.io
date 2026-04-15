@@ -2,7 +2,7 @@
 title: City of Zürich
 slug: "city-of-zurich"
 description: ""
-date: "2026-04-10T09:40:32.080773"
+date: "2026-04-15T09:21:23.567692"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,5 @@ visual_term_image_urls: {}
 
 - [https://www.stadt-zuerich.ch](https://www.stadt-zuerich.ch)
 - [https://www.stadt-zuerich.ch/de.html](https://www.stadt-zuerich.ch/de.html)
-- [http://de.wikipedia.org/wiki/QR-Code](http://de.wikipedia.org/wiki/QR-Code)
 - [http://www.sportamt.ch](http://www.sportamt.ch)
 - [http://www.stadt-zuerich.ch](http://www.stadt-zuerich.ch)
-- [http://www.zh.ch](http://www.zh.ch)

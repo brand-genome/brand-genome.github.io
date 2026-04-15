@@ -2,16 +2,16 @@
 title: Nintendo Switch
 slug: "nintendo-switch"
 description: ""
-date: "2026-04-10T09:40:30.778568"
+date: "2026-04-15T09:21:22.377776"
 draft: false
 sectors:
-  - hardware
   - gaming
+  - hardware
 regions:
   - japan
 years:
-  - 2016
   - 2020
+  - 2016
 languages:
   - english
 tags:
@@ -30,10 +30,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2018
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "paid online service for the Nintendo Switch and Nintendo Switch 2, which provides several functions"
-wikidata_url: "https://www.wikidata.org/wiki/Q30943865"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.nintendo.com/us/switch](https://www.nintendo.com/us/switch)
 - [https://www.nintendo.com/jp/switch](https://www.nintendo.com/jp/switch)
 - [https://support.nintendo.com/jp/switch](https://support.nintendo.com/jp/switch)
-- [https://www.nintendo.co.jp/hardware/switch/onlineservice](https://www.nintendo.co.jp/hardware/switch/onlineservice)
 
 ## Brand Guidelines
 
@@ -333,34 +330,3 @@ visual_term_image_urls: {}
 - MINIMUM 16mm
 - MINIMUM 12mm
 - Use both images together with equal size and scale.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30943865) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2018](/foundation_dates/2018/) |
-| Nintendo Of America Game Store Id (Former Scheme) | mTAbvaJIA_aGgozyEZWVnnZ27CC0iXcd |
-| Distributed By | Nintendo eShop |
-| Developer | Nintendo |
-| Platform | ,  |
-| Downdetector Id | nintendo-switch-online |
-| Distribution Format | digital download |
-| Google Knowledge Graph Id | /g/11c32cgxd8 |
-| Fandom Article Id | nintendo:Nintendo_Switch_Online, video-games:Nintendo_Switch_Online |
-| Publication Date | 2018-09-18 |
-| Moegirlpedia Id | Nintendo_Switch_Online |
-| Hashtag | NintendoSwitchOnline |
-| Giant Bomb Id (Former Scheme) | 3015-9784 |
-| Reddit Topic Id | nintendo_switch_online |
-| Inception | 2018-09-19 |
-| Country Of Origin | Japan |
-| Publisher | Nintendo |
-| Language Of Work Or Name | multiple languages |
-| Title | Nintendo Switch Online |
-| Niwa Article Id | nookipedia:Nintendo_Switch_Online |
-| ‎Gamesindustry.Biz Tag Id | topics/nintendo-switch-online |
-| Mycast Talent Id | nintendo-switch-online |

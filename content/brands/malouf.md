@@ -2,7 +2,7 @@
 title: Malouf
 slug: malouf
 description: ""
-date: "2026-04-10T09:40:33.832332"
+date: "2026-04-15T09:21:24.810502"
 draft: false
 sectors:
   - "consumer-goods"
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: music genre
-wikidata_url: "https://www.wikidata.org/wiki/Q97368934"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -218,15 +218,3 @@ visual_term_image_urls: {}
 
 - Our tagline is an expression of our brand. “Attainable luxury” speaks to our commitment to creating moments of comfort and ease, beauty and elegance, refinement and sophistication every day through customized bedding options.
 - The tagline is best used for placements that benefit from the additional context it provides, such as areas of limited space and materials where the brand is new to the audience.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q97368934) |
-
-| Property | Value |
-|----------|-------|
-| Country Of Origin | Tunisia |
-| Google Knowledge Graph Id | /g/120r4tsv |
-| Part Of | ma'luf |

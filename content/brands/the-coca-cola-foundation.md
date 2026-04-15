@@ -2,7 +2,7 @@
 title: The Coca Cola Foundation
 slug: "the-coca-cola-foundation"
 description: ""
-date: "2026-04-10T09:40:30.982974"
+date: "2026-04-15T09:21:22.601306"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

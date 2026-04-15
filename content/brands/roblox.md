@@ -2,11 +2,11 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-04-10T09:40:33.001549"
+date: "2026-04-15T09:21:23.954524"
 draft: false
 sectors:
-  - software
   - gaming
+  - software
 regions:
   - usa
 years:
@@ -28,8 +28,8 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - roblox
   - "roblox-studio"
+  - roblox
 products: []
 headquarters_locations:
   - "san-mateo"
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Roblox](/products_or_materials_produced/roblox/); [Roblox Studio](/products_or_materials_produced/roblox-studio/) |
+| Product Or Material Produced | [Roblox Studio](/products_or_materials_produced/roblox-studio/); [Roblox](/products_or_materials_produced/roblox/) |
 | Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/) |
 | Foundation Date | [2004](/foundation_dates/2004/) |
 | Inception | 2004 |

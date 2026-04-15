@@ -2,7 +2,7 @@
 title: SMC Corporation
 slug: "smc-corporation"
 description: ""
-date: "2026-04-10T09:40:32.205601"
+date: "2026-04-15T09:21:23.654052"
 draft: false
 sectors:
   - hardware
@@ -69,9 +69,6 @@ visual_term_image_urls: {}
 - [https://www.smcworld.com/corporate/about/corp.html](https://www.smcworld.com/corporate/about/corp.html)
 - [https://www.smc.eu](https://www.smc.eu)
 - [https://www.smcusa.com](https://www.smcusa.com)
-- [http://www.amazon.com](http://www.amazon.com)
-- [http://www.salesforce.com](http://www.salesforce.com)
-- [http://www.forbes.com](http://www.forbes.com)
 - [http://www.smc.at](http://www.smc.at)
 - [http://www.smc.de](http://www.smc.de)
 - [http://www.smc.eu](http://www.smc.eu)

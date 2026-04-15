@@ -2,7 +2,7 @@
 title: Sierra College
 slug: "sierra-college"
 description: ""
-date: "2026-04-10T09:40:34.146989"
+date: "2026-04-15T09:21:25.053339"
 draft: false
 sectors:
   - education
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sierracollege.edu](https://www.sierracollege.edu)
-- [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.sierracollege.edu](http://www.sierracollege.edu)
 
 ## Brand Guidelines

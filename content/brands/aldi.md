@@ -2,11 +2,11 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-04-10T09:40:34.273404"
+date: "2026-04-15T09:21:25.186337"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - germany
 years:
@@ -14,15 +14,15 @@ years:
 languages:
   - english
 tags:
-  - packaging
   - featured
+  - packaging
 industries:
-  - "discount-store"
   - retail
+  - "discount-store"
 countries:
+  - belgium
   - "united-states"
   - germany
-  - belgium
   - netherlands
 revenue_buckets: []
 operating_income_buckets: []
@@ -34,9 +34,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - batavia
   - essen
   - "mulheim-an-der-ruhr"
+  - batavia
 subsidiaries: []
 foundation_dates:
   - 1946
@@ -80,11 +80,6 @@ visual_term_image_urls: {}
 - [https://www.aldi.com](https://www.aldi.com)
 - [https://www.aldi.com.au](https://www.aldi.com.au)
 - [http://www.aldi.com](http://www.aldi.com)
-- [http://www.asc-aqua.org](http://www.asc-aqua.org)
-- [http://www.fairtrade.net](http://www.fairtrade.net)
-- [http://www.msc.org](http://www.msc.org)
-- [http://www.pefc.org](http://www.pefc.org)
-- [http://www.rainforest-alliance.org](http://www.rainforest-alliance.org)
 - [https://www.aldi.com.au/en/about-aldi/product-registration](https://www.aldi.com.au/en/about-aldi/product-registration)
 - [https://www.aldi.dk](https://www.aldi.dk)
 - [https://www.aldi.es](https://www.aldi.es)
@@ -443,7 +438,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Batavia](/headquarters_locations/batavia/); [Essen](/headquarters_locations/essen/); [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/) |
+| Headquarters Location | [Essen](/headquarters_locations/essen/); [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/); [Batavia](/headquarters_locations/batavia/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Freebase Id | /m/0246n2 |
 | Topic'S Main Category | Category:Aldi |

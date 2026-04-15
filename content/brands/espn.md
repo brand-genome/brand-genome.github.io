@@ -2,7 +2,7 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-04-10T09:40:30.831064"
+date: "2026-04-15T09:21:22.441081"
 draft: false
 sectors:
   - broadcasting
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
+  - broadcast
   - featured
   - sport
-  - broadcast
 industries: []
 countries:
   - "united-states"

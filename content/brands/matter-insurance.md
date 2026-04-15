@@ -2,7 +2,7 @@
 title: Matter insurance
 slug: "matter-insurance"
 description: ""
-date: "2026-04-10T09:40:31.478179"
+date: "2026-04-15T09:21:23.138539"
 draft: false
 sectors:
   - insurance

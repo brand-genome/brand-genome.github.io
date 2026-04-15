@@ -2,7 +2,7 @@
 title: SSB
 slug: ssb
 description: ""
-date: "2026-04-10T09:40:34.691995"
+date: "2026-04-15T09:21:25.679585"
 draft: false
 sectors:
   - finance
@@ -15,29 +15,21 @@ languages:
 tags:
   - business
   - financial
-industries:
-  - "rail-transport"
-countries:
-  - germany
-revenue_buckets:
-  - "100M-500M"
+industries: []
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "1K-10K"
-total_assets_buckets:
-  - "500M-1B"
+employees_buckets: []
+total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - stuttgart
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1898
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -59,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: public transport operator in Germany
-wikidata_url: "https://www.wikidata.org/wiki/Q2359602"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.ssb-ag.de](http://www.ssb-ag.de)
-
 ## Brand Guidelines
 
 ### 2004
@@ -332,60 +320,3 @@ visual_term_image_urls: {}
 - People photography refers to images of individual members of staff. Images should be converted to grayscale (black and white) before use to keep consistency across materials.
 - These images should be used for: > Engineering Insights pages and featured images > Industry Insights pages > Biogs > Event pages and social graphics > On some printed and digital materials.
 - For CSR Testimonial website banners please use the pink gradient overlay on top of an image. The overlay opacity should be set to 65%.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2359602) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
-| Foundation Date | [1898](/foundation_dates/1898/) |
-| Country | Germany |
-| Headquarters Location | Stuttgart |
-| Inception | 1898 |
-| Commons Gallery | Stuttgarter Straßenbahnen |
-| Owned By | Stuttgart |
-| Pm20 Folder Id | co/021446 |
-| Legal Form | Aktiengesellschaft |
-| Location Of Formation | Stuttgart |
-| Member Of | Stuttgart Transport and Tariff Association, Association of German Transport Companies, International Association of Public Transport |
-| Grid Id | grid.506823.a |
-| Ror Id | 0012bhf27 |
-| Freebase Id | /m/02plqq5 |
-| Industry | rail transport |
-| Catalog Code | 3202 (from 2010-09-02) |
-| Rics Company Code | 3202 (from 2010-09-02) |
-| Short Name | SSB |
-| Tiktok Username | ssb_ag |
-| Instagram Username | ssb_ag |
-| Facebook Username | SSB.Stuttgart |
-| Youtube Channel Id | UCUt6wMf_ina7D6xmEzGHnEQ (as of 2023-02-12, from 2009-09-11) |
-| Official Color | yellow |
-| Crunchbase Organization Id | stuttgarter-straßenbahnen |
-| Different From | Stuttgart Stadtbahn |
-| Eu Transparency Register Id | 451495236493-64 |
-| Youtube Handle | ssb_ag (as of 2025-11-24) |
-| Number Of Viewers/Listeners | 1,341,203 (as of 2025-11-24) |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $253.00M | as of 2010 | [100M-500M](/revenue_buckets/100m-500m/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 3,076 | as of 2016-12-31 | [1K-10K](/employees_buckets/1k-10k/) |
-| 3,234 | as of 2017 | [1K-10K](/employees_buckets/1k-10k/) |
-| 3,411 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |
-
-### Total Assets History
-
-| Total Assets ($) | Year information | Bucket |
-|---|---|---|
-| $705.42M | as of 2016-12-31 | [500M-1B](/total_assets_buckets/500m-1b/) |

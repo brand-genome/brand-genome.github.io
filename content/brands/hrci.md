@@ -2,7 +2,7 @@
 title: HRCI
 slug: hrci
 description: ""
-date: "2026-04-10T09:40:32.635091"
+date: "2026-04-15T09:21:23.816444"
 draft: false
 sectors:
   - education

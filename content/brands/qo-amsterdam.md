@@ -2,11 +2,11 @@
 title: QO Amsterdam
 slug: "qo-amsterdam"
 description: ""
-date: "2026-04-10T09:40:33.342981"
+date: "2026-04-15T09:21:24.278170"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - netherlands
 years:

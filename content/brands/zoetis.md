@@ -2,11 +2,11 @@
 title: Zoetis
 slug: zoetis
 description: ""
-date: "2026-04-10T09:40:30.783441"
+date: "2026-04-15T09:21:22.383792"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - pharma
+  - "veterinary-pet-care"
 regions:
   - usa
 years:

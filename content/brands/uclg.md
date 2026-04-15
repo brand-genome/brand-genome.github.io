@@ -2,11 +2,11 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-04-10T09:40:34.482087"
+date: "2026-04-15T09:21:25.420471"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - spain
 years:

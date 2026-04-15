@@ -2,7 +2,7 @@
 title: Adami
 slug: adami
 description: ""
-date: "2026-04-10T09:40:32.579581"
+date: "2026-04-15T09:21:23.778776"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - music
   - art
+  - music
 industries:
   - unknown
 countries:

@@ -2,11 +2,11 @@
 title: Growens
 slug: growens
 description: ""
-date: "2026-04-10T09:40:33.050236"
+date: "2026-04-15T09:21:23.992045"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - technology
+  - industry
 industries: []
 countries: []
 revenue_buckets: []

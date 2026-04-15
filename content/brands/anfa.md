@@ -2,7 +2,7 @@
 title: ANFA
 slug: anfa
 description: ""
-date: "2026-04-10T09:40:34.491779"
+date: "2026-04-15T09:21:25.428164"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - nepal
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - lalitpur
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1952
-foundation_year_buckets:
-  - 1950S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: governing body of association football in Nepal
-wikidata_url: "https://www.wikidata.org/wiki/Q623651"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +66,6 @@ visual_term_image_urls: {}
 - [https://innovauto.org](https://innovauto.org)
 - [https://f2f.anfa-auto.fr](https://f2f.anfa-auto.fr)
 - [http://www.anfa-auto.fr](http://www.anfa-auto.fr)
-- [https://the-anfa.com](https://the-anfa.com)
 
 ## Brand Guidelines
 
@@ -194,31 +189,3 @@ visual_term_image_urls: {}
 - Ne pas utiliser le logotype sur des fonds qui perturbent sa lecture
 - Ne pas utiliser le logotype à une taille inférieure à la taille minimum recommandée
 - Ne pas appliquer de rotation au logotype
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q623651) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Lalitpur](/headquarters_locations/lalitpur/) |
-| Foundation Date | [1952](/foundation_dates/1952/) |
-| Freebase Id | /m/0f31vb |
-| Sport | association football |
-| Inception | 1952 |
-| Topic'S Main Category | Category:All Nepal Football Association |
-| Member Of | Asian Football Confederation (from 1954-01-01), FIFA (from 1972), South Asian Football Federation (from 1997) |
-| Fifa Country Code | NEP |
-| Owner Of | Nepal men's national football team, Nepal women's national football team, Nepal national under-17 football team, Nepal national under-23 football team, Nepal national under-20 football team (+1 more) |
-| Parent Organization Or Unit | South Asian Football Federation, Asian Football Confederation |
-| Short Name | ANFA |
-| Headquarters Location | Lalitpur |
-| Official Name | All Nepal football Association, अखिल नेपाल फुटबल संघ (एन्फा |
-| Official Language | English, Nepali |
-| Facebook Username | ANFA.Official |
-| X (Twitter) Username | theanfacom (as of 2019-11-08, from 2014-09-23) |
-| Youtube Channel Id | UCD-T16SjfkF9EtPu6UvuDvw (as of 2020-12-05, from 2015-08-25) |
-| Social Media Followers | 10,887 (as of 2021-01-02), 10,200 (as of 2021-10-11), 13,952 (as of 2022-02-28), 13,100 (as of 2022-03-18), 16,179 (as of 2023-02-10) (+3 more) |
-| Country | Nepal |

@@ -2,16 +2,16 @@
 title: Cylance
 slug: cylance
 description: ""
-date: "2026-04-10T09:40:33.299010"
+date: "2026-04-15T09:21:24.235476"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - canada
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:

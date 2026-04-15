@@ -2,7 +2,7 @@
 title: Ooredoo
 slug: ooredoo
 description: ""
-date: "2026-04-10T09:40:32.585186"
+date: "2026-04-15T09:21:23.783946"
 draft: false
 sectors:
   - finance
@@ -73,9 +73,6 @@ visual_term_image_urls: {}
 - [https://www.ooredoo.qa](https://www.ooredoo.qa)
 - [https://www.ooredoomoney.qa](https://www.ooredoomoney.qa)
 - [http://www.instagram.com/ooredooqatar](http://www.instagram.com/ooredooqatar)
-- [http://www.pinterest.com/about/copyright/dmca](http://www.pinterest.com/about/copyright/dmca)
-- [http://www.tumblr.com/dmca](http://www.tumblr.com/dmca)
-- [https://support.google.com/plus/answer/1713826?hl=en](https://support.google.com/plus/answer/1713826?hl=en)
 - [http://www.ooredoo.tn](http://www.ooredoo.tn)
 
 ## Brand Guidelines

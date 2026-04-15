@@ -2,7 +2,7 @@
 title: Aéroport Marseille Provence
 slug: "aeroport-marseille-provence"
 description: ""
-date: "2026-04-10T09:40:32.795806"
+date: "2026-04-15T09:21:23.858894"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries: []
 revenue_buckets: []

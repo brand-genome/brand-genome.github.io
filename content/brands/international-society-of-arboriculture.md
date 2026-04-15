@@ -2,11 +2,11 @@
 title: International Society of Arboriculture
 slug: "international-society-of-arboriculture"
 description: ""
-date: "2026-04-10T09:40:34.881149"
+date: "2026-04-15T09:21:25.852410"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

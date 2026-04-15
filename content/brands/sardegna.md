@@ -2,11 +2,11 @@
 title: Sardegna
 slug: sardegna
 description: ""
-date: "2026-04-10T09:40:34.693041"
+date: "2026-04-15T09:21:25.680564"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - italy
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q133827147"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -65,17 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.sardegnapromozione.it](https://www.sardegnapromozione.it)
 - [https://www.regione.sardegna.it](https://www.regione.sardegna.it)
-- [https://www.sardegnainminiatura.it](https://www.sardegnainminiatura.it)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q133827147) |
-
-| Property | Value |
-|----------|-------|
-| Coordinate Location | 39.702222222222225, 8.979722222222222 |
-| Located In The Administrative Territorial Entity | Tuili |
-| Country | Italy |
-| Image | Sardegna in Miniatura.jpg |

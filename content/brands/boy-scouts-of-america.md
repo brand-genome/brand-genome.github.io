@@ -2,11 +2,11 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-04-10T09:40:33.388412"
+date: "2026-04-15T09:21:24.320801"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

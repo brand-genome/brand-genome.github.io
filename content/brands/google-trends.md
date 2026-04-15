@@ -2,7 +2,7 @@
 title: Google Trends
 slug: "google-trends"
 description: ""
-date: "2026-04-10T09:40:34.790548"
+date: "2026-04-15T09:21:25.768030"
 draft: false
 sectors:
   - software

@@ -2,7 +2,7 @@
 title: European Space Agency
 slug: "european-space-agency"
 description: ""
-date: "2026-04-10T09:40:33.670222"
+date: "2026-04-15T09:21:24.611906"
 draft: false
 sectors:
   - "space-technology"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - featured
+  - aeronautic
 industries:
   - "activities-of-extraterritorial-organizations-and-bodies"
   - "research-and-development"

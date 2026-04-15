@@ -2,7 +2,7 @@
 title: Orca
 slug: orca
 description: ""
-date: "2026-04-10T09:40:30.611658"
+date: "2026-04-15T09:21:22.166632"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Screenreader; accessibility software
-wikidata_url: "https://www.wikidata.org/wiki/Q1486012"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://orcahubeg.com](https://orcahubeg.com)
-- [https://help.gnome.org/users/orca/stable/index.html.fr](https://help.gnome.org/users/orca/stable/index.html.fr)
-- [https://help.gnome.org/users/orca/stable](https://help.gnome.org/users/orca/stable)
 
 ## Brand Guidelines
 
@@ -199,33 +197,3 @@ visual_term_image_urls: {}
 - 3. Startups & Small Teams
 - 4. Café Seekers & Social Diners
 - 5. Event Hosts & Educators
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1486012) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/02vpq_q |
-| Debian Stable Package | gnome-orca |
-| Programmed In | Python |
-| Gui Toolkit Or Framework |  |
-| Copyright License | GNU Lesser General Public License |
-| Source Code Repository Url | https://gitlab.gnome.org/GNOME/orca.git, https://github.com/GNOME/orca |
-| Arch Linux Package | orca |
-| Operating System | Unix-like operating system |
-| Gentoo Package | app-accessibility/orca |
-| Ubuntu Package | gnome-orca |
-| Fedora Package | orca |
-| Software Version Identifier | 3.26.0, 3.28.0, 3.7.0.93, 3.7.0.94, 3.7.0.95 (+113 more) |
-| Free Software Directory Entry | Orca |
-| Repology Project Name | orca |
-| Aur Package | orca-git |
-| Freebsd Port | accessibility/orca |
-| Has Use | screen reader |
-| Netbsd Package Id | misc/orca |
-| Openbsd Port | x11/gnome/orca |
-| Copyright Status | copyrighted |
-| Debian Wiki Article | de/Accessibility/Orca |

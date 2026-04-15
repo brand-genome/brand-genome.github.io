@@ -2,11 +2,11 @@
 title: Misk Art Institute
 slug: "misk-art-institute"
 description: ""
-date: "2026-04-10T09:40:30.576051"
+date: "2026-04-15T09:21:22.108410"
 draft: false
 sectors:
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - "saudi-arabia"
 years:

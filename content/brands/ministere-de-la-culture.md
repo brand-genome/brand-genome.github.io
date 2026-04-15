@@ -2,7 +2,7 @@
 title: Ministère de la Culture
 slug: "ministere-de-la-culture"
 description: ""
-date: "2026-04-10T09:40:32.654979"
+date: "2026-04-15T09:21:23.823456"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.culture.gouv.fr](https://www.culture.gouv.fr)
-- [http://www.partenaire.fr](http://www.partenaire.fr)
 
 ## Brand Guidelines
 

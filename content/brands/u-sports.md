@@ -2,7 +2,7 @@
 title: U Sports
 slug: "u-sports"
 description: ""
-date: "2026-04-10T09:40:33.784963"
+date: "2026-04-15T09:21:24.764140"
 draft: false
 sectors:
   - sports

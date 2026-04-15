@@ -2,11 +2,11 @@
 title: Canvas Instructure
 slug: "canvas-instructure"
 description: ""
-date: "2026-04-10T09:40:34.460703"
+date: "2026-04-15T09:21:25.401757"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - usa
 years:

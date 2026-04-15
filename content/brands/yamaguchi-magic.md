@@ -2,7 +2,7 @@
 title: "Yamaguchi Magic!"
 slug: "yamaguchi-magic"
 description: ""
-date: "2026-04-10T09:40:32.084965"
+date: "2026-04-15T09:21:23.569871"
 draft: false
 sectors:
   - tourism
@@ -14,8 +14,8 @@ languages:
   - japanese
 tags:
   - city
-  - regional
   - tourism
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

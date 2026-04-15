@@ -2,29 +2,27 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-04-10T09:40:33.149588"
+date: "2026-04-15T09:21:24.078244"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - italy
 years:
-  - 2016
   - 2017
+  - 2016
 languages:
   - italian
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "UNDER-100"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
@@ -55,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "photo archive in Milan, Italy"
-wikidata_url: "https://www.wikidata.org/wiki/Q21551956"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.comune.milano.it](https://www.comune.milano.it)
 - [https://servizi.comune.milano.it](https://servizi.comune.milano.it)
-- [https://archiviofotografico.milanocastello.it](https://archiviofotografico.milanocastello.it)
 
 ## Brand Guidelines
 
@@ -165,33 +162,3 @@ visual_term_image_urls: {}
 ### 2016
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21551956) |
-
-| Property | Value |
-|----------|-------|
-| Culturaitalia Id | oai:culturaitalia.it:museiditalia-mus_7576 |
-| Country | Italy |
-| Located In The Administrative Territorial Entity | Milan |
-| Library Of Congress Authority Id | no2004091373 |
-| Viaf Cluster Id | 141072921 |
-| Archives Portal Europe Id | IT-MI1551 |
-| San Archive Conservator Id | 6754 |
-| Postal Code | 20121 |
-| Area | 150 square metre (as of 2015) |
-| Street Address | Piazza Castello, Snc, 20121 Milano |
-| Has Facility | archive building, photo archive, library, cloakroom |
-| Idref Id | 117054208 |
-| Wiki Loves Monuments Id | 03F2050496 (from 2024-05-24) |
-| ‎Yale Lux Id | group/ea5dd03a-88ce-4d2c-8402-e1cc7dc1a1da |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 5 | as of 2011 | [UNDER-100](/employees_buckets/under-100/) |
-| 5 | as of 2015 | [UNDER-100](/employees_buckets/under-100/) |

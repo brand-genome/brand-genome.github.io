@@ -2,12 +2,12 @@
 title: Glance
 slug: glance
 description: ""
-date: "2026-04-10T09:40:32.503052"
+date: "2026-04-15T09:21:23.710991"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
   - "social-media"
+  - software
 regions:
   - india
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: free software
-wikidata_url: "https://www.wikidata.org/wiki/Q28974883"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,26 +68,9 @@ visual_term_image_urls: {}
 - [https://glance.com/advertising](https://glance.com/advertising)
 - [https://www.glance.app](https://www.glance.app)
 - [https://www.glance.world](https://www.glance.world)
-- [http://openstack.org](http://openstack.org)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28974883) |
-
-| Property | Value |
-|----------|-------|
-| Gentoo Package | app-admin/glance |
-| Source Code Repository Url | https://github.com/openstack/glance |
-| Free Software Directory Entry | Glance |
-| Software Version Identifier | 0.1.7, 11.0.0, 11.0.1, 11.0.2, 12.0.0 (+48 more) |
-| Copyright License | Apache License |
-| Repology Project Name | openstack-glance |
-| Copyright Status | copyrighted |

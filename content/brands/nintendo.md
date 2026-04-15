@@ -2,12 +2,12 @@
 title: Nintendo
 slug: nintendo
 description: ""
-date: "2026-04-10T09:40:34.143921"
+date: "2026-04-15T09:21:25.051072"
 draft: false
 sectors:
-  - hardware
   - gaming
   - entertainment
+  - hardware
 regions:
   - japan
 years:
@@ -18,8 +18,8 @@ tags:
   - featured
   - entertainment
 industries:
-  - "video-game-industry"
   - "game-industry"
+  - "video-game-industry"
 countries:
   - japan
 revenue_buckets: []
@@ -31,21 +31,21 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
-  - "video-game-console"
   - "video-game"
+  - "video-game-console"
+  - software
 products: []
 headquarters_locations:
+  - "higashiyama-ku"
   - "shimogyo-ku"
   - kyoto
-  - "higashiyama-ku"
 subsidiaries: []
 foundation_dates:
   - 1947
   - 1889
 foundation_year_buckets:
-  - "19TH-CENTURY"
   - 1940S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -272,8 +272,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Video Game](/products_or_materials_produced/video-game/) |
-| Headquarters Location | [Shimogyo Ku](/headquarters_locations/shimogyo-ku/); [Kyoto](/headquarters_locations/kyoto/); [Higashiyama Ku](/headquarters_locations/higashiyama-ku/) |
+| Product Or Material Produced | [Video Game](/products_or_materials_produced/video-game/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Software](/products_or_materials_produced/software/) |
+| Headquarters Location | [Higashiyama Ku](/headquarters_locations/higashiyama-ku/); [Shimogyo Ku](/headquarters_locations/shimogyo-ku/); [Kyoto](/headquarters_locations/kyoto/) |
 | Foundation Date | [1947](/foundation_dates/1947/); [1889](/foundation_dates/1889/) |
 | Headquarters Location | Kyoto, Shimogyō-ku (from 1889, until 1959), Higashiyama-ku (from 1959, until 2000) |
 | Founded By | Fusajirō Yamauchi |

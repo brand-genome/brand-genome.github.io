@@ -2,7 +2,7 @@
 title: Almería ciudad
 slug: "almeria-ciudad"
 description: ""
-date: "2026-04-10T09:40:30.564439"
+date: "2026-04-15T09:21:22.086749"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - spanish
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.almeriaciudad.es](https://www.almeriaciudad.es)
-- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

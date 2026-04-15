@@ -2,7 +2,7 @@
 title: OnlyFans
 slug: onlyfans
 description: ""
-date: "2026-04-10T09:40:30.630476"
+date: "2026-04-15T09:21:22.196444"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
 tags:
   - internet
 industries:
-  - "pornography-industry"
   - "social-media"
+  - "pornography-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: "Hautes-Alpes"
 slug: "hautes-alpes"
 description: ""
-date: "2026-04-10T09:40:33.367807"
+date: "2026-04-15T09:21:24.302863"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - france
 years:

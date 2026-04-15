@@ -2,11 +2,11 @@
 title: Valle d’Aosta
 slug: "valle-daosta"
 description: ""
-date: "2026-04-10T09:40:32.986740"
+date: "2026-04-15T09:21:23.939616"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - italy
 years:

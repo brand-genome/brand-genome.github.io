@@ -2,7 +2,7 @@
 title: Hags
 slug: hags
 description: ""
-date: "2026-04-10T09:40:33.288606"
+date: "2026-04-15T09:21:24.225436"
 draft: false
 sectors:
   - sports
@@ -16,8 +16,7 @@ languages:
 tags:
   - entertainment
 industries: []
-countries:
-  - sweden
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1960
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: metro station in southern Stockholm
-wikidata_url: "https://www.wikidata.org/wiki/Q1568756"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -293,31 +290,3 @@ visual_term_image_urls: {}
 ##### Exhibition Templates
 
 - For fairs, sales meetings and exhibitions, we have banner templates that can be used as they are easily customised to suit your needs
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1568756) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1960](/foundation_dates/1960/) |
-| Coordinate Location | 59.262222, 18.012222 |
-| Country | Sweden |
-| Located In The Administrative Territorial Entity | Stockholm |
-| Connecting Line | Green Line |
-| Inception | 1960-12-01 |
-| Locator Map Image | Hagsätra Tunnelbana.png |
-| Adjacent Station | Rågsved metro station |
-| Named After | Hagsätra |
-| Freebase Id | /m/05f2v4f |
-| Location | Hagsätra |
-| Date Of Official Opening | 1960-12-01 |
-| Image | Hagsätra.jpg |
-| Owned By | Storstockholms Lokaltrafik |
-| Structurae Structure Id | 20055255 |
-| Connecting Service | Line 19 |
-| State Of Use | in use |
-| Transport Network | Stockholm Metro |
-| Openstreetmap Node Id | 60884889 |

@@ -2,7 +2,7 @@
 title: Museums Victoria
 slug: "museums-victoria"
 description: ""
-date: "2026-04-10T09:40:30.755248"
+date: "2026-04-15T09:21:22.349119"
 draft: false
 sectors:
   - "arts-culture"
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 - [https://museumsvictoria.com.au/melbournemuseum](https://museumsvictoria.com.au/melbournemuseum)
 - [https://museumsvictoria.com.au/scienceworks](https://museumsvictoria.com.au/scienceworks)
 - [https://museumsvictoria.com.au/immigrationmuseum](https://museumsvictoria.com.au/immigrationmuseum)
-- [https://creative.vic.gov.au](https://creative.vic.gov.au)
-- [https://lineto.com/typefaces](https://lineto.com/typefaces)
 - [https://museumvictoria.com.au](https://museumvictoria.com.au)
 
 ## Brand Guidelines

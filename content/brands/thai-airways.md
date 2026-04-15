@@ -2,7 +2,7 @@
 title: THAI Airways
 slug: "thai-airways"
 description: ""
-date: "2026-04-10T09:40:33.655766"
+date: "2026-04-15T09:21:24.599467"
 draft: false
 sectors:
   - airline

@@ -2,7 +2,7 @@
 title: Gobierno de El Salvador
 slug: "gobierno-de-el-salvador"
 description: ""
-date: "2026-04-10T09:40:33.149499"
+date: "2026-04-15T09:21:24.078161"
 draft: false
 sectors:
   - "public-sector"

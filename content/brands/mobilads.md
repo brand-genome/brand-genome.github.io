@@ -2,7 +2,7 @@
 title: Mobilads
 slug: mobilads
 description: ""
-date: "2026-04-10T09:40:34.509591"
+date: "2026-04-15T09:21:25.443540"
 draft: false
 sectors:
   - "marketing-advertising"

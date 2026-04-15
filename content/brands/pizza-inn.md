@@ -2,11 +2,11 @@
 title: Pizza Inn
 slug: "pizza-inn"
 description: ""
-date: "2026-04-10T09:40:30.838764"
+date: "2026-04-15T09:21:22.451236"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries:
   - restaurant
 countries: []

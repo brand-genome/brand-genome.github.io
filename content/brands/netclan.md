@@ -2,11 +2,11 @@
 title: Netclan
 slug: netclan
 description: ""
-date: "2026-04-10T09:40:33.163172"
+date: "2026-04-15T09:21:24.090650"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:

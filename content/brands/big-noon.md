@@ -2,7 +2,7 @@
 title: Big Noon
 slug: "big-noon"
 description: ""
-date: "2026-04-10T09:40:32.495915"
+date: "2026-04-15T09:21:23.705666"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries: []
 countries: []
 revenue_buckets: []

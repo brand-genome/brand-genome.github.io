@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-04-10T09:40:30.894489"
+date: "2026-04-15T09:21:22.514971"
 draft: false
 sectors:
   - "consumer-goods"

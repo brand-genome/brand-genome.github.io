@@ -2,11 +2,11 @@
 title: Manchester United Foundation
 slug: "manchester-united-foundation"
 description: ""
-date: "2026-04-10T09:40:32.560162"
+date: "2026-04-15T09:21:23.758793"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - "united-kingdom"
 years:

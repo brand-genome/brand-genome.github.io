@@ -2,7 +2,7 @@
 title: Scotch
 slug: scotch
 description: ""
-date: "2026-04-10T09:40:30.646210"
+date: "2026-04-15T09:21:22.216268"
 draft: false
 sectors:
   - "consumer-goods"
@@ -15,10 +15,8 @@ languages:
 tags:
   - featured
   - corporate
-industries:
-  - "clothing-industry"
-countries:
-  - netherlands
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,19 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - footwear
-  - clothing
-  - "fashion-accessory"
-  - jeans
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - amsterdam
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1985
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Dutch fashion retail company
-wikidata_url: "https://www.wikidata.org/wiki/Q17141914"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -74,35 +65,3 @@ visual_term_image_urls: {}
 - [https://www.scotchbrand.com/3M/en_US/scotch-brand](https://www.scotchbrand.com/3M/en_US/scotch-brand)
 - [http://www.3m.com/identity](http://www.3m.com/identity)
 - [http://www.scotchbrand.com](http://www.scotchbrand.com)
-- [https://www.scotch-soda.com](https://www.scotch-soda.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17141914) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Footwear](/products_or_materials_produced/footwear/); [Clothing](/products_or_materials_produced/clothing/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Jeans](/products_or_materials_produced/jeans/) |
-| Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
-| Foundation Date | [1985](/foundation_dates/1985/) |
-| Inception | 1985 |
-| Headquarters Location | Amsterdam |
-| Osm Name Suggestion Index Id | scotchandsoda-3937bd |
-| Parent Organization Or Unit | Sun Capital Partners |
-| Freebase Id | /m/0y65pf5 |
-| Industry | clothing industry |
-| Instagram Username | scotch_soda |
-| Facebook Username | scotchsoda |
-| Pinterest Username | scotchofficial |
-| Linkedin Company Or Organization Id | 1014429 |
-| X (Twitter) Username | scotch_soda (as of 2021-07-05, from 2009-12-24) |
-| Tiktok Username | scotch_soda |
-| Country | Netherlands |
-| Product Or Material Produced | clothing, footwear, fashion accessory, jeans |
-| Social Media Followers | 23,437 (as of 2021-07-20), 23,726 (as of 2022-02-25), 23,870 (as of 2023-02-04) |
-| Crunchbase Organization Id | scotch-soda |
-| Different From | Scotch & Soda brand |
-| Location Information Url | https://stores.scotch-soda.com/ |
-| Described At Url | https://www.dutchnews.nl/2024/06/scotch-soda-goes-bust-for-a-second-time-shops-remain-open/ |

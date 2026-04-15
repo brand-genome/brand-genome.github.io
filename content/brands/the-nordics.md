@@ -2,11 +2,11 @@
 title: The Nordics
 slug: "the-nordics"
 description: ""
-date: "2026-04-10T09:40:34.639111"
+date: "2026-04-15T09:21:25.632427"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - international
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://thenordics.com](https://thenordics.com)
-- [http://www.finland.fi](http://www.finland.fi)
-- [http://www.sweden.se](http://www.sweden.se)
 
 ## Brand Guidelines
 

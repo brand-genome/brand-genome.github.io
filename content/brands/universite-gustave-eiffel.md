@@ -2,11 +2,11 @@
 title: Université Gustave Eiffel
 slug: "universite-gustave-eiffel"
 description: ""
-date: "2026-04-10T09:40:32.546768"
+date: "2026-04-15T09:21:23.746504"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-04-10T09:40:34.148867"
+date: "2026-04-15T09:21:25.054845"
 draft: false
 sectors:
   - software
@@ -65,10 +65,7 @@ visual_term_image_urls: {}
 
 - [https://typo3.org](https://typo3.org)
 - [https://typo3.com](https://typo3.com)
-- [http://www.jweiland.net](http://www.jweiland.net)
-- [http://www.punkt.de](http://www.punkt.de)
 - [http://www.typo3.org](http://www.typo3.org)
-- [https://github.com/adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
 
 ## Brand Guidelines
 

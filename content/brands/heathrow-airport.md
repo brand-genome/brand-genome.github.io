@@ -2,7 +2,7 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-04-10T09:40:34.129537"
+date: "2026-04-15T09:21:25.038155"
 draft: false
 sectors:
   - tourism
@@ -10,16 +10,14 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
   - airport
-industries:
-  - transport
-countries:
-  - "united-kingdom"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "compass-centre"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1985
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "United Kingdom-based airport operator"
-wikidata_url: "https://www.wikidata.org/wiki/Q795363"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,8 +67,6 @@ visual_term_image_urls: {}
 - [https://www.heathrow.com/company](https://www.heathrow.com/company)
 - [https://www.heathrow.com/company/investor-centre](https://www.heathrow.com/company/investor-centre)
 - [http://www.heathrow.com](http://www.heathrow.com)
-- [http://www.xpressgroup.eu](http://www.xpressgroup.eu)
-- [https://heathrow.com/company](https://heathrow.com/company)
 
 ## Brand Guidelines
 
@@ -971,41 +964,3 @@ visual_term_image_urls: {}
 
 - The diagram to the right shows the stages of the journey through Heathrow for arriving and departing passengers. For each stage, we have suggested a message that would be relevant to the location. = g=x> .. easie, check-ic NOTE: We do not place messages on Fhoardings at customs after baggage reclaim. Open Welcome toolkit [,_::.C, be so fa, ce time • More luggage carousels for a faster grab and go .!!."!!ycomirq soon -improved connections Open Connections toolkit
 - Arriving and departing without the coming and going A forecourt redesign to speed you in and out of the terminal
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q795363) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Compass Centre](/headquarters_locations/compass-centre/) |
-| Foundation Date | [1985](/foundation_dates/1985/) |
-| Industry | transport |
-| Headquarters Location | Compass Centre |
-| Country | United Kingdom |
-| Topic'S Main Category | Category:Heathrow Airport Holdings |
-| Freebase Id | /m/02xlfc |
-| Viaf Cluster Id | 153167108, 127272075 |
-| Inception | 1985-01-01 |
-| Child Organization Or Unit | Heathrow Connect |
-| Chairperson | Sir Nigel Rudd |
-| Parent Organization Or Unit | Ferrovial |
-| Legal Form | private company limited by shares |
-| Eu Transparency Register Id | 325197615863-20 |
-| Isni | 0000000121534683 |
-| Grid Id | grid.498473.5 |
-| Owner Of | London Heathrow Airport, Glasgow Airport, Southampton Airport, Heathrow Airtrack, Heathrow Airport Central bus station (+1 more) |
-| Nla Trove People Id | 1005517 |
-| Quora Topic Id | Heathrow-Airport-Holdings |
-| Uk Parliament Thesaurus Id | 434781, 4490 |
-| Library Of Congress Authority Id | nr96009144, nb2014010143 |
-| Ror Id | 04a91ra66 |
-| Ringgold Id | 102182 |
-| Image | Heathrow Terminal 5 airside 020.JPG |
-| Companies House Company Id | 05757208 |
-| Crunchbase Organization Id | heathrow-airport-holdings |
-| Bbc Things Id | 8f09bfc9-be56-4178-9c88-907893f955e8 |
-| Opencorporates Id | gb/05757208 |
-| Science Museum People Id | cp61396 |

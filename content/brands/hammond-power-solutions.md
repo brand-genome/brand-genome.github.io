@@ -2,11 +2,11 @@
 title: Hammond Power Solutions
 slug: "hammond-power-solutions"
 description: ""
-date: "2026-04-10T09:40:30.707890"
+date: "2026-04-15T09:21:22.293515"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - engineering
+  - industry
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: PB Swiss Tools
 slug: "pb-swiss-tools"
 description: ""
-date: "2026-04-10T09:40:34.020693"
+date: "2026-04-15T09:21:24.939093"
 draft: false
 sectors:
-  - hardware
   - "manufacturing-industry"
+  - hardware
 regions:
   - switzerland
 years:

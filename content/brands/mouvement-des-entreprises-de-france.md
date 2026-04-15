@@ -2,7 +2,7 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-04-10T09:40:32.532762"
+date: "2026-04-15T09:21:23.733746"
 draft: false
 sectors:
   - ngo
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.medef.com](https://www.medef.com)
 - [https://extranet.medef.com](https://extranet.medef.com)
-- [https://fonts.google.com/specimen/Barlow](https://fonts.google.com/specimen/Barlow)
 - [https://www.medef.com/fr](https://www.medef.com/fr)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Gilgandra Region
 slug: "gilgandra-region"
 description: ""
-date: "2026-04-10T09:40:33.381091"
+date: "2026-04-15T09:21:24.314484"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - australia
 years:

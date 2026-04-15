@@ -2,12 +2,12 @@
 title: Sumitomo Electric Group
 slug: "sumitomo-electric-group"
 description: ""
-date: "2026-04-10T09:40:30.706156"
+date: "2026-04-15T09:21:22.291408"
 draft: false
 sectors:
-  - electronics
-  - automobile
   - utilities
+  - automobile
+  - electronics
 regions:
   - japan
 years:
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://sumitomoelectric.com/usa](https://sumitomoelectric.com/usa)
 - [https://sumitomoelectriceurope.com](https://sumitomoelectriceurope.com)
 - [http://global-sei.com](http://global-sei.com)
-- [http://www.sumitool.com](http://www.sumitool.com)
 - [https://www.sei-group-csr.or.jp](https://www.sei-group-csr.or.jp)
 
 ## Additional Properties

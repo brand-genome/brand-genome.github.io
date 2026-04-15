@@ -2,25 +2,25 @@
 title: Mc Donald’s
 slug: "mc-donalds"
 description: ""
-date: "2026-04-10T09:40:30.741960"
+date: "2026-04-15T09:21:22.334276"
 draft: false
 sectors:
   - restaurant
 regions:
-  - vietnam
   - usa
+  - vietnam
 years:
   - 2019
+  - 2012
   - 2024
   - 1999
   - 2009
-  - 2012
 languages:
   - english
   - vietnamese
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
   - corporate
 industries: []
 countries: []

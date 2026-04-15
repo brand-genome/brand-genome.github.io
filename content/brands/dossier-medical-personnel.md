@@ -2,7 +2,7 @@
 title: Dossier Médical Personnel
 slug: "dossier-medical-personnel"
 description: ""
-date: "2026-04-10T09:40:34.861726"
+date: "2026-04-15T09:21:25.834282"
 draft: false
 sectors:
   - "public-sector"

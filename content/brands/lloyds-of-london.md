@@ -2,11 +2,11 @@
 title: Lloyd’s of London
 slug: "lloyds-of-london"
 description: ""
-date: "2026-04-10T09:40:34.807239"
+date: "2026-04-15T09:21:25.783306"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - "united-kingdom"
 years:

@@ -2,7 +2,7 @@
 title: Reporters Sans Frontières
 slug: "reporters-sans-frontieres"
 description: ""
-date: "2026-04-10T09:40:31.540852"
+date: "2026-04-15T09:21:23.191617"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - ngo
   - featured
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,12 +2,12 @@
 title: Indian Institute of Technology Hyderabad
 slug: "indian-institute-of-technology-hyderabad"
 description: ""
-date: "2026-04-10T09:40:32.487632"
+date: "2026-04-15T09:21:23.699098"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - india
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries: []
 countries:
   - india

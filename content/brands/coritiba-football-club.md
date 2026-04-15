@@ -2,7 +2,7 @@
 title: Coritiba Football Club
 slug: "coritiba-football-club"
 description: ""
-date: "2026-04-10T09:40:34.667577"
+date: "2026-04-15T09:21:25.659622"
 draft: false
 sectors:
   - sports

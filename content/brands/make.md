@@ -2,7 +2,7 @@
 title: Make
 slug: make
 description: ""
-date: "2026-04-10T09:40:30.887866"
+date: "2026-04-15T09:21:22.503324"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries: []
 countries:
   - germany

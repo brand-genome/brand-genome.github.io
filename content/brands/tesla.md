@@ -2,11 +2,11 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-04-10T09:40:34.793716"
+date: "2026-04-15T09:21:25.771159"
 draft: false
 sectors:
-  - automobile
   - "renewable-energy"
+  - automobile
 regions:
   - usa
 years:
@@ -15,12 +15,12 @@ languages:
   - english
 tags:
   - featured
-  - corporate
   - transport
+  - corporate
 industries:
-  - "solar-industry"
   - "automotive-industry"
   - "battery-industry"
+  - "solar-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -40,8 +40,8 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - austin
   - "palo-alto"
+  - austin
 subsidiaries: []
 foundation_dates:
   - 2003
@@ -101,7 +101,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Austin](/headquarters_locations/austin/); [Palo Alto](/headquarters_locations/palo-alto/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Austin](/headquarters_locations/austin/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Industry | automotive industry, solar industry, battery industry |
 | Founded By | Martin Eberhard, Marc Tarpenning |

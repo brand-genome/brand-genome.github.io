@@ -2,7 +2,7 @@
 title: Senato della Repubblica
 slug: "senato-della-repubblica"
 description: ""
-date: "2026-04-10T09:40:30.565467"
+date: "2026-04-15T09:21:22.088601"
 draft: false
 sectors:
   - "public-sector"

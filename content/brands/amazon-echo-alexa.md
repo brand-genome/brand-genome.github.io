@@ -2,7 +2,7 @@
 title: Amazon Echo / Alexa
 slug: "amazon-echo-alexa"
 description: ""
-date: "2026-04-10T09:40:34.468517"
+date: "2026-04-15T09:21:25.408540"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - featured
+  - technology
   - internet
 industries: []
 countries: []

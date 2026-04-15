@@ -2,13 +2,13 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-04-10T09:40:34.119735"
+date: "2026-04-15T09:21:25.032712"
 draft: false
 sectors:
-  - hardware
-  - "space-technology"
-  - automobile
   - aerospace
+  - "space-technology"
+  - hardware
+  - automobile
 regions:
   - "united-kingdom"
 years:
@@ -16,11 +16,11 @@ years:
 languages:
   - english
 tags:
-  - industry
   - engineering
+  - industry
 industries:
-  - "aerospace-industry"
   - "automotive-industry"
+  - "aerospace-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:

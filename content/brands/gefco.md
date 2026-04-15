@@ -2,7 +2,7 @@
 title: Gefco
 slug: gefco
 description: ""
-date: "2026-04-10T09:40:32.506363"
+date: "2026-04-15T09:21:23.712977"
 draft: false
 sectors:
   - "logistics-supply-chain"

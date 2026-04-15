@@ -2,11 +2,11 @@
 title: Avencia
 slug: avencia
 description: ""
-date: "2026-04-10T09:40:32.073720"
+date: "2026-04-15T09:21:23.561516"
 draft: false
 sectors:
-  - consulting
   - "staffing-recruitment"
+  - consulting
 regions:
   - "united-kingdom"
 years:

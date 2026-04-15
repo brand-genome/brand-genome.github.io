@@ -2,7 +2,7 @@
 title: Camerons Brewery
 slug: "camerons-brewery"
 description: ""
-date: "2026-04-10T09:40:33.409587"
+date: "2026-04-15T09:21:24.339483"
 draft: false
 sectors:
   - brewery

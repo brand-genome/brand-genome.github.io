@@ -2,7 +2,7 @@
 title: Holden
 slug: holden
 description: ""
-date: "2026-04-10T09:40:34.273230"
+date: "2026-04-15T09:21:25.186169"
 draft: false
 sectors:
   - automobile

@@ -2,13 +2,13 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-04-10T09:40:32.517397"
+date: "2026-04-15T09:21:23.722936"
 draft: false
 sectors:
-  - research
   - tourism
-  - "arts-culture"
+  - research
   - education
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - botanic
   - vintage
+  - botanic
 industries: []
 countries:
   - "united-states"

@@ -2,7 +2,7 @@
 title: Interreg
 slug: interreg
 description: ""
-date: "2026-04-10T09:40:34.734716"
+date: "2026-04-15T09:21:25.715529"
 draft: false
 sectors:
   - "public-sector"
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: organization
-wikidata_url: "https://www.wikidata.org/wiki/Q17334063"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -201,17 +201,3 @@ visual_term_image_urls: {}
 - Moreover, all the visual materials under the Danube Transnational Programme “umbrella” must raise the awareness of the EU funding.
 - The colour scheme was developed to clearly label the thematic priorities axes of the programme. The colours were chosen to create a harmonic system with colours that match each other and provide good contrast to the central brand and colours of Interreg.
 - The colour scheme of the symbol, the 4 colours of the 4 splashes, are determined according to the 4 colours of the priorities covered by the Danube Transnational Programme.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17334063) |
-
-| Property | Value |
-|----------|-------|
-| Viaf Cluster Id | 132879049 |
-| Has Part(S) | Interreg Sverige–Norge, , Albania–Greece relations |
-| Library Of Congress Authority Id | nb2011022364 |
-| Open Funder Registry Funder Id | 100013276 |
-| Freebase Id | /m/0264gdm |

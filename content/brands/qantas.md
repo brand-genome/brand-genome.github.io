@@ -2,7 +2,7 @@
 title: Qantas
 slug: qantas
 description: ""
-date: "2026-04-10T09:40:33.652646"
+date: "2026-04-15T09:21:24.596618"
 draft: false
 sectors:
   - airline

@@ -2,12 +2,12 @@
 title: Billon
 slug: billon
 description: ""
-date: "2026-04-10T09:40:32.136632"
+date: "2026-04-15T09:21:23.611045"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
   - finance
+  - software
 regions:
   - poland
 years:

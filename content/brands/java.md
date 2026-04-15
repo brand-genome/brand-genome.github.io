@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-04-10T09:40:33.376449"
+date: "2026-04-15T09:21:24.310916"
 draft: false
 sectors:
   - software

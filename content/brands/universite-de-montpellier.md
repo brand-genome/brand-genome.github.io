@@ -2,7 +2,7 @@
 title: Université de Montpellier
 slug: "universite-de-montpellier"
 description: ""
-date: "2026-04-10T09:40:34.902724"
+date: "2026-04-15T09:21:25.871349"
 draft: false
 sectors:
   - university
@@ -13,10 +13,10 @@ years:
 languages:
   - french
 tags:
-  - institution
   - featured
-  - education
   - university
+  - education
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

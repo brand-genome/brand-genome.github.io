@@ -2,7 +2,7 @@
 title: Maxis Communications
 slug: "maxis-communications"
 description: ""
-date: "2026-04-10T09:40:34.287280"
+date: "2026-04-15T09:21:25.192346"
 draft: false
 sectors:
   - telecom

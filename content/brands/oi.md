@@ -2,11 +2,11 @@
 title: Oi
 slug: oi
 description: ""
-date: "2026-04-10T09:40:34.867752"
+date: "2026-04-15T09:21:25.839413"
 draft: false
 sectors:
-  - telecom
   - networking
+  - telecom
 regions:
   - brazil
 years:

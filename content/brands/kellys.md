@@ -2,7 +2,7 @@
 title: Kellys
 slug: kellys
 description: ""
-date: "2026-04-10T09:40:33.994100"
+date: "2026-04-15T09:21:24.915974"
 draft: false
 sectors:
   - sports
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1972
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: dance band from Sweden
-wikidata_url: "https://www.wikidata.org/wiki/Q10544743"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -189,23 +187,3 @@ visual_term_image_urls: {}
 ##### Brand Values
 
 - The basic shape of the KELLYS logotype is made up of a circle that symbolizes a wheel and represents motion and dynamics. The inner part of the circle contains a typographic abbreviation of the initial letter "K" in the KELLYS brand name. At the same time, the hidden visual meaning expressed by the arms of the letter "K" represents the perspective view of a road leading to a curve ahead. A road is a symbol of motion, just like a wheel. A winding road symbolizes dynamic motion; a curve means a change of direction and experiencing something new.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q10544743) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1972](/foundation_dates/1972/) |
-| Musicbrainz Artist Id | 92a5560a-9086-4dff-a5c5-759171e91965 |
-| Songkick Artist Id | 52172 |
-| Country Of Origin | Sweden |
-| Inception | 1972-01-01 |
-| Discogs Artist Id | 1005348 |
-| Start Of Work Period | 1972 |
-| Viaf Cluster Id | 660149198206674940008 |
-| Genre | dansband |
-| Described At Url | http://www.bingolottowiki.se/index.php/Kellys |
-| Discography | Kellys discography |

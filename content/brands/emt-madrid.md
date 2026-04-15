@@ -2,7 +2,7 @@
 title: EMT Madrid
 slug: "emt-madrid"
 description: ""
-date: "2026-04-10T09:40:32.978924"
+date: "2026-04-15T09:21:23.933600"
 draft: false
 sectors:
   - "public-transportation"

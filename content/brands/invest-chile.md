@@ -2,7 +2,7 @@
 title: Invest Chile
 slug: "invest-chile"
 description: ""
-date: "2026-04-10T09:40:33.151937"
+date: "2026-04-15T09:21:24.080584"
 draft: false
 sectors:
   - "public-sector"

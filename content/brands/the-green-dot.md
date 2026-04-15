@@ -2,11 +2,11 @@
 title: The Green Dot
 slug: "the-green-dot"
 description: ""
-date: "2026-04-10T09:40:32.984625"
+date: "2026-04-15T09:21:23.937668"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - europe
 years:

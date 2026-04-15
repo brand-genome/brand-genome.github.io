@@ -2,11 +2,11 @@
 title: The Shyft Group
 slug: "the-shyft-group"
 description: ""
-date: "2026-04-10T09:40:32.539017"
+date: "2026-04-15T09:21:23.738930"
 draft: false
 sectors:
-  - hardware
   - automobile
+  - hardware
 regions:
   - usa
 years:

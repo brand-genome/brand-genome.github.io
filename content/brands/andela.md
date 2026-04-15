@@ -2,11 +2,11 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-04-10T09:40:32.541924"
+date: "2026-04-15T09:21:23.741996"
 draft: false
 sectors:
-  - software
   - "staffing-recruitment"
+  - software
 regions:
   - usa
 years:

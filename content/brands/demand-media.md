@@ -2,7 +2,7 @@
 title: Demand Media
 slug: "demand-media"
 description: ""
-date: "2026-04-10T09:40:34.117269"
+date: "2026-04-15T09:21:25.031374"
 draft: false
 sectors:
   - software

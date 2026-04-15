@@ -2,11 +2,11 @@
 title: Fortum
 slug: fortum
 description: ""
-date: "2026-04-10T09:40:31.987451"
+date: "2026-04-15T09:21:23.418708"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - finland
 years:

@@ -2,7 +2,7 @@
 title: CMS
 slug: cms
 description: ""
-date: "2026-04-10T09:40:30.744205"
+date: "2026-04-15T09:21:22.337703"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - germany
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: treaty
-wikidata_url: "https://www.wikidata.org/wiki/Q125371"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +68,6 @@ visual_term_image_urls: {}
 - [https://www.healthcare.gov](https://www.healthcare.gov)
 - [https://www.insurekidsnow.gov](https://www.insurekidsnow.gov)
 - [http://www.cms.gov](http://www.cms.gov)
-- [https://www.cms.int](https://www.cms.int)
 
 ## Brand Guidelines
 
@@ -219,33 +217,3 @@ visual_term_image_urls: {}
 - ## DHHS Logo
 - ## CMS Logo
 - ## Standard listserv e-mail template
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q125371) |
-
-| Property | Value |
-|----------|-------|
-| Part Of | United Nations Environment Programme |
-| Freebase Id | /m/025tyjr |
-| Topic'S Main Category | Category:Convention on the Conservation of Migratory Species of Wild Animals |
-| Depositary | Government of the Federal Republic of Germany |
-| Location | Bonn |
-| Babelnet Id | 14391827n |
-| X (Twitter) Username | BonnConvention (as of 2020-04-25, from 2013-03-15) |
-| Austlii Id | au/other/dfat/treaties/ATS/1991/32 |
-| Main Wikidata Property | CMS ID |
-| Language Of Work Or Name | English, French |
-| Point In Time | 1979 |
-| Gesetze Im Internet.De Id | wildtart_bk |
-| Social Media Followers | 22,726 (as of 2021-01-10), 19,830 (as of 2020-04-25), 27,117 (as of 2022-03-01), 28,798 (as of 2023-02-12) |
-| Uk Parliament Thesaurus Id | 9388 |
-| Yso Id | 23398 |
-| United Nations Treaty Collection Object Id | 08000002800bc2fb |
-| Lex Id | Bonnkonventionen |
-| Encyclopedia Of China (Third Edition) Id | 463795 |
-| Great Norwegian Encyclopedia Id | Bonn-konvensjonen |
-| Coordinate Location | 50.7339, 7.0997 |
-| Country | Germany |

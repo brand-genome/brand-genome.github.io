@@ -2,7 +2,7 @@
 title: Opera One
 slug: "opera-one"
 description: ""
-date: "2026-04-10T09:40:31.535990"
+date: "2026-04-15T09:21:23.186709"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.opera.com](https://www.opera.com)
 - [https://opr.as/opera-one](https://opr.as/opera-one)
 - [https://blogs.opera.com/desktop](https://blogs.opera.com/desktop)
-- [http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review](http://www.theverge.com/23554060/lg-stanbyme-monitor-tv-stand-features-specs-review)
 
 ## Brand Guidelines
 

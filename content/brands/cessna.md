@@ -2,7 +2,7 @@
 title: Cessna
 slug: cessna
 description: ""
-date: "2026-04-10T09:40:34.390322"
+date: "2026-04-15T09:21:25.340041"
 draft: false
 sectors:
   - aerospace
@@ -27,13 +27,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "cessna-206"
-  - "cessna-citation-x"
-  - "cessna-aircraft"
-  - "cessna-172-skyhawk"
-  - "cessna-citation-mustang"
   - "cessna-208-caravan"
+  - "cessna-citation-mustang"
+  - "cessna-172-skyhawk"
+  - "cessna-206"
+  - "cessna-aircraft"
   - "cessna-182-skylane"
+  - "cessna-citation-x"
 products: []
 headquarters_locations:
   - wichita
@@ -330,7 +330,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/) |
+| Product Or Material Produced | [Cessna 208 Caravan](/products_or_materials_produced/cessna-208-caravan/); [Cessna Citation Mustang](/products_or_materials_produced/cessna-citation-mustang/); [Cessna 172 Skyhawk](/products_or_materials_produced/cessna-172-skyhawk/); [Cessna 206](/products_or_materials_produced/cessna-206/); [Cessna Aircraft](/products_or_materials_produced/cessna-aircraft/); [Cessna 182 Skylane](/products_or_materials_produced/cessna-182-skylane/); [Cessna Citation X](/products_or_materials_produced/cessna-citation-x/) |
 | Headquarters Location | [Wichita](/headquarters_locations/wichita/) |
 | Foundation Date | [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Cessna |

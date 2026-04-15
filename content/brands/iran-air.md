@@ -2,7 +2,7 @@
 title: Iran Air
 slug: "iran-air"
 description: ""
-date: "2026-04-10T09:40:33.220038"
+date: "2026-04-15T09:21:24.165888"
 draft: false
 sectors:
   - airline

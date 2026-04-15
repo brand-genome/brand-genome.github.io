@@ -2,7 +2,7 @@
 title: Raise the torch
 slug: "raise-the-torch"
 description: ""
-date: "2026-04-10T09:40:34.662315"
+date: "2026-04-15T09:21:25.654672"
 draft: false
 sectors:
   - university

@@ -2,11 +2,11 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-04-10T09:40:34.390111"
+date: "2026-04-15T09:21:25.339754"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "fast-food"
   - "quick-service-restaurant-sector"
+  - "fast-food"
 countries:
   - "united-states"
 revenue_buckets: []

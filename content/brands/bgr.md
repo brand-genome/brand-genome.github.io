@@ -2,7 +2,7 @@
 title: BGR
 slug: bgr
 description: ""
-date: "2026-04-10T09:40:32.704174"
+date: "2026-04-15T09:21:23.835480"
 draft: false
 sectors:
   - publishing
@@ -16,8 +16,7 @@ tags:
   - technology
   - media
 industries: []
-countries:
-  - pakistan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "railway station in Khyber Pakhtunkhwa, Pakistan"
-wikidata_url: "https://www.wikidata.org/wiki/Q18356109"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -154,21 +153,3 @@ visual_term_image_urls: {}
 - Cool Gray R 115 / G 115 / B 115 #737373
 - Light Gray R 242 / G 242 / B 242 #F2F2F2
 - Depending on the color it displays on, the logotype is either Blue or White. Blue should only be used when background is light or dark. White should only be used when background is night light.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q18356109) |
-
-| Property | Value |
-|----------|-------|
-| Country | Pakistan |
-| Owned By | Ministry of Railways (Pakistan) |
-| Coordinate Location | 33.99861, 71.32484 |
-| Freebase Id | /m/01265g1g |
-| Gns Unique Feature Id | 6196888 |
-| Pakistan Railways Station Code | BGRI |
-| Connecting Line | Khyber Pass Railway |
-| Located In The Administrative Territorial Entity | Jamrud Tehsil |
-| Adjacent Station | Jamrud railway station, Medanak railway station |

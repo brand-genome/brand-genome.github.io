@@ -2,7 +2,7 @@
 title: SendGrid
 slug: sendgrid
 description: ""
-date: "2026-04-10T09:40:34.032776"
+date: "2026-04-15T09:21:24.950758"
 draft: false
 sectors:
   - software

@@ -2,11 +2,11 @@
 title: Ikan
 slug: ikan
 description: ""
-date: "2026-04-10T09:40:30.950436"
+date: "2026-04-15T09:21:22.561941"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "staffing-recruitment"
+  - "logistics-supply-chain"
 regions:
   - india
 years:
@@ -14,13 +14,10 @@ years:
 languages:
   - english
 tags:
-  - "human-ressources"
   - featured
-industries:
-  - "consumer-goods-industry"
-  - "food-industry"
-countries:
-  - indonesia
+  - "human-ressources"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Indonesian company
-wikidata_url: "https://www.wikidata.org/wiki/Q96100315"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ikan.com](https://www.ikan.com)
-- [http://www.indonesiaseafood.net](http://www.indonesiaseafood.net)
 
 ## Brand Guidelines
 
@@ -269,19 +265,3 @@ visual_term_image_urls: {}
 - E:nvelopes
 - ID Card
 - Email Signature
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q96100315) |
-
-| Property | Value |
-|----------|-------|
-| Official Name | PT Era Mandiri Cemerlang Tbk |
-| Industry | food industry, consumer goods industry |
-| Email Address | admin@indonesiaseafood.net |
-| Stock Exchange | Indonesia Stock Exchange (from 2020-02-12) |
-| Country | Indonesia |
-| Crunchbase Organization Id | era-mandiri-cemerlang |
-| Nomor Pokok Wajib Pajak | 0020391132046000 |

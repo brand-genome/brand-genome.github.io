@@ -2,7 +2,7 @@
 title: Duquesne Athletics
 slug: "duquesne-athletics"
 description: ""
-date: "2026-04-10T09:40:34.005678"
+date: "2026-04-15T09:21:24.926778"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries: []
 revenue_buckets: []

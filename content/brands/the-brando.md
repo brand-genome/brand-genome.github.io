@@ -2,11 +2,11 @@
 title: The Brando
 slug: "the-brando"
 description: ""
-date: "2026-04-10T09:40:34.401059"
+date: "2026-04-15T09:21:25.348614"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - france
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: online News TV show
-wikidata_url: "https://www.wikidata.org/wiki/Q105753222"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -268,13 +268,3 @@ visual_term_image_urls: {}
 - ## ALWAYS ### RESPECTFUL - of our heritage - of our heirs - of our guests ### RESPONSIBLE - of fulfilling our guests’ expectations - protecting the environment ### EDUCATIONAL - about the nature around us - about how we can lead and inspire - research ### EXCLUSIVE - geography - private
 - ## NEVER ### COMMON - we will always be unique ### THOUGHTLESS - we contemplate all actions and interactions
 - ## WHERE WE ARE The Brando’s new existance may leave our audience asking “Where is this private sanctuary?” For this reason, whether within the body copy, or as a graphic-typographical treatment (reference “Locator Tagline” section on page 6), the words “Tetiaroa Private Island — French Polynesia” must appear in all sales and marketing pieces.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105753222) |
-
-| Property | Value |
-|----------|-------|
-| Country Of Origin | Canada |

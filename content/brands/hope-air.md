@@ -2,11 +2,11 @@
 title: Hope Air
 slug: "hope-air"
 description: ""
-date: "2026-04-10T09:40:34.858866"
+date: "2026-04-15T09:21:25.831262"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - canada
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - ngo
-  - airline
   - transport
+  - airline
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []

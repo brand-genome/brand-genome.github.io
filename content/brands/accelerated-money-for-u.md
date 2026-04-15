@@ -2,7 +2,7 @@
 title: Accelerated Money for U
 slug: "accelerated-money-for-u"
 description: ""
-date: "2026-04-10T09:40:30.891301"
+date: "2026-04-15T09:21:22.510536"
 draft: false
 sectors:
   - finance

@@ -2,7 +2,7 @@
 title: .Beauty .Hair .Skin .Makeup
 slug: "beauty-hair-skin-makeup"
 description: ""
-date: "2026-04-10T09:40:31.544304"
+date: "2026-04-15T09:21:23.194839"
 draft: false
 sectors:
   - software

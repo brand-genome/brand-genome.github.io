@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-04-10T09:40:34.862586"
+date: "2026-04-15T09:21:25.834955"
 draft: false
 sectors:
   - tourism
@@ -14,10 +14,8 @@ languages:
   - french
 tags:
   - tourism
-industries:
-  - unknown
-countries:
-  - france
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q115457346"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -197,18 +195,3 @@ visual_term_image_urls: {}
 - Chocolat Cyan : 44% Magenta : 74% Jaune : 80% Noir : 58% R : 81% V : 43% B : 27% HTML : #512B1B Pantone : 4625C
 - Jaune Soleil Cyan : 0% Magenta : 15% Jaune : 100% Noir : 0% R : 254% V : 209% B : 0% HTML : #FEB100 Pantone : 109C
 - Vert Printemps Cyan : 35% Magenta : 12% Jaune : 100% Noir : 0% R : 182% V : 191% B : 0% HTML : #B6BF00 Pantone : 390C
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115457346) |
-
-| Property | Value |
-|----------|-------|
-| Industry |  |
-| Country | France |
-| Legal Form | établissement public local à caractère industriel ou commercial |
-| Opencorporates Id | fr/749848081 |
-| Siren Number | 749848081 |
-| Official Name | OFFICE DE TOURISME DE FRANCE LOIRE ET NOHAIN |

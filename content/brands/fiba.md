@@ -2,15 +2,15 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-04-10T09:40:30.785033"
+date: "2026-04-15T09:21:22.385831"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2019
   - 2024
+  - 2019
 languages:
   - english
 tags:

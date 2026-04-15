@@ -2,7 +2,7 @@
 title: BMW
 slug: bmw
 description: ""
-date: "2026-04-10T09:40:31.531394"
+date: "2026-04-15T09:21:23.181346"
 draft: false
 sectors:
   - automobile
@@ -16,10 +16,10 @@ tags:
   - featured
   - transport
 industries:
-  - "activities-of-holding-companies"
   - "automotive-industry"
   - "manufacture-of-motor-vehicles"
   - "aeronautical-engineering"
+  - "activities-of-holding-companies"
 countries:
   - germany
 revenue_buckets:
@@ -36,9 +36,9 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - motorcycle
   - car
   - "electric-car"
+  - motorcycle
 products: []
 headquarters_locations:
   - munich
@@ -770,7 +770,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Motorcycle](/products_or_materials_produced/motorcycle/); [Car](/products_or_materials_produced/car/); [Electric Car](/products_or_materials_produced/electric-car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Electric Car](/products_or_materials_produced/electric-car/); [Motorcycle](/products_or_materials_produced/motorcycle/) |
 | Headquarters Location | [Munich](/headquarters_locations/munich/) |
 | Foundation Date | [1916](/foundation_dates/1916/) |
 | Headquarters Location | Munich |

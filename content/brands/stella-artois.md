@@ -2,11 +2,11 @@
 title: Stella Artois
 slug: "stella-artois"
 description: ""
-date: "2026-04-10T09:40:31.893196"
+date: "2026-04-15T09:21:23.331478"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - belgium
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - belgium

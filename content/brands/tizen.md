@@ -2,7 +2,7 @@
 title: Tizen
 slug: tizen
 description: ""
-date: "2026-04-10T09:40:34.641649"
+date: "2026-04-15T09:21:25.634810"
 draft: false
 sectors:
   - software
@@ -23,15 +23,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - tizen
+products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2012
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: organization
-wikidata_url: "https://www.wikidata.org/wiki/Q16531478"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -68,18 +65,3 @@ visual_term_image_urls: {}
 - [https://samsungtizenos.com](https://samsungtizenos.com)
 - [https://developer.tizen.org](https://developer.tizen.org)
 - [https://docs.tizen.org](https://docs.tizen.org)
-- [http://www.tizenassociation.org](http://www.tizenassociation.org)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16531478) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Tizen](/products_or_materials_produced/tizen/) |
-| Foundation Date | [2012](/foundation_dates/2012/) |
-| Product Or Material Produced | Tizen |
-| Inception | 2012-01-01 |
-| Google Knowledge Graph Id | /g/12mb3ftzd |

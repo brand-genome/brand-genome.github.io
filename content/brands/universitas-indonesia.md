@@ -2,12 +2,12 @@
 title: Universitas Indonesia
 slug: "universitas-indonesia"
 description: ""
-date: "2026-04-10T09:40:32.485061"
+date: "2026-04-15T09:21:23.697135"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - indonesia
@@ -36,8 +36,8 @@ foundation_dates:
   - 1950
   - 1849
 foundation_year_buckets:
-  - "19TH-CENTURY"
   - 1950S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []

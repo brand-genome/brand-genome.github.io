@@ -2,7 +2,7 @@
 title: Forman
 slug: forman
 description: ""
-date: "2026-04-10T09:40:33.062996"
+date: "2026-04-15T09:21:24.003012"
 draft: false
 sectors:
   - construction
@@ -15,8 +15,7 @@ languages:
 tags:
   - construction
 industries: []
-countries:
-  - pakistan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - lahore
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1864
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "private university in Lahore, Pakistan"
-wikidata_url: "https://www.wikidata.org/wiki/Q3695416"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://forman-sgk.ru](https://forman-sgk.ru)
-- [http://www.fccollege.edu.pk](http://www.fccollege.edu.pk)
 
 ## Brand Guidelines
 
@@ -305,41 +300,3 @@ visual_term_image_urls: {}
 ##### Uniform Guidelines
 
 - Спецодежда Полный комплект одежды лучший носитель для логотипа и рабочего — слогана
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3695416) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Lahore](/headquarters_locations/lahore/) |
-| Foundation Date | [1864](/foundation_dates/1864/) |
-| Topic'S Main Category | Category:Forman Christian College |
-| Inception | 1864 |
-| Headquarters Location | Lahore |
-| Founded By | Charles William Forman |
-| Freebase Id | /m/07tg6b |
-| Quora Topic Id | Forman-Christian-College |
-| Country | Pakistan |
-| Category For Alumni Of Educational Institution | Category:Forman Christian College alumni |
-| Grid Id | grid.444905.8 |
-| Named After | Charles William Forman (from 1894) |
-| Microsoft Academic Id (Discontinued) | 264385032 |
-| Library Of Congress Authority Id | no95047373 |
-| X (Twitter) Username | FCCollege (as of 2020-04-25, from 2010-02-08) |
-| Facebook Username | fccollege |
-| Instagram Username | formanchristiancollege |
-| Ror Id | 04v893f23 |
-| Viaf Cluster Id | 168517497 |
-| Eu Participant Identification Code | 919155705 |
-| Eu Vat Number | PK24580937 |
-| Ringgold Id | 66877 |
-| Isni | 0000000406087004 |
-| Social Media Followers | 4,601 (as of 2021-01-05), 4,130 (as of 2020-04-25) |
-| Openalex Id | I264385032 |
-| Kisti Id | K000203783 |
-| ‎Yale Lux Id | group/064f321e-110b-43bc-b7e6-07067d0689a0 |
-| Located In The Administrative Territorial Entity | Lahore |
-| Described At Url | https://www.hec.gov.pk//english/universities/Pages/Punjab/Forman-Christian-College.aspx |

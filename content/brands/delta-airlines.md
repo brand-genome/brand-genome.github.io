@@ -2,7 +2,7 @@
 title: Delta Airlines
 slug: "delta-airlines"
 description: ""
-date: "2026-04-10T09:40:30.693273"
+date: "2026-04-15T09:21:22.273566"
 draft: false
 sectors:
   - tourism
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries:
   - aviation
   - "air-transport"
@@ -37,12 +37,12 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - atlanta
   - monroe
+  - atlanta
 subsidiaries: []
 foundation_dates:
-  - 1925
   - 1929
+  - 1925
 foundation_year_buckets:
   - 1920S
 lightings: []
@@ -940,8 +940,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Monroe](/headquarters_locations/monroe/) |
-| Foundation Date | [1925](/foundation_dates/1925/); [1929](/foundation_dates/1929/) |
+| Headquarters Location | [Monroe](/headquarters_locations/monroe/); [Atlanta](/headquarters_locations/atlanta/) |
+| Foundation Date | [1929](/foundation_dates/1929/); [1925](/foundation_dates/1925/) |
 | Iata Airline Designator | DL |
 | Icao Airline Designator | DAL |
 | Airline Alliance | SkyTeam |

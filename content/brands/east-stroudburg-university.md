@@ -2,11 +2,11 @@
 title: East Stroudburg University
 slug: "east-stroudburg-university"
 description: ""
-date: "2026-04-10T09:40:33.352831"
+date: "2026-04-15T09:21:24.287558"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

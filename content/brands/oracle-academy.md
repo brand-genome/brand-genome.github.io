@@ -2,11 +2,11 @@
 title: Oracle Academy
 slug: "oracle-academy"
 description: ""
-date: "2026-04-10T09:40:34.116670"
+date: "2026-04-15T09:21:25.031093"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-04-10T09:40:32.705066"
+date: "2026-04-15T09:21:23.835803"
 draft: false
 sectors:
-  - software
   - finance
+  - software
 regions:
   - singapore
 years:
@@ -16,10 +16,8 @@ languages:
 tags:
   - technology
   - financial
-industries:
-  - "film-industry"
-countries:
-  - spain
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "pozuelo-de-alarcon"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2007
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Spanish TV production
-wikidata_url: "https://www.wikidata.org/wiki/Q20908857"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -70,32 +65,3 @@ visual_term_image_urls: {}
 
 - [https://bambu.co](https://bambu.co)
 - [https://www.bambu.co](https://www.bambu.co)
-- [https://bambuproducciones.com](https://bambuproducciones.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20908857) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Pozuelo De Alarcon](/headquarters_locations/pozuelo-de-alarcon/) |
-| Foundation Date | [2007](/foundation_dates/2007/) |
-| Country | Spain |
-| Inception | 2007 |
-| X (Twitter) Username | bambuprodu (as of 2020-12-25, from 2011-06-16) |
-| Headquarters Location | Pozuelo de Alarcón |
-| Viaf Cluster Id | 171139744 |
-| Industry | film industry |
-| Founded By | Ramón Campos, Teresa Fernández-Valdés |
-| Legal Form | sociedad limitada |
-| Linkedin Company Or Organization Id | bambú-producciones |
-| Vimeo Id | bambuproducciones (from 2013-02-12) |
-| Instagram Username | bambuprodu |
-| Facebook Username | BambuProdu |
-| Social Media Followers | 53,837 (as of 2021-01-03), 53,101 (as of 2022-03-02), 52,793 (as of 2023-02-02) |
-| Crunchbase Organization Id | bambú-producciones |
-| Tmdb Company Id | 27628 |
-| Library Of Congress Authority Id | no2002083996 |
-| ‎Yale Lux Id | group/5d5690a6-bbfc-4ae0-9eef-857417e54e1b |

@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-04-10T09:40:32.519192"
+date: "2026-04-15T09:21:23.724633"
 draft: false
 sectors:
   - ngo
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "city-of-brussels"
   - london
+  - "city-of-brussels"
 subsidiaries: []
 foundation_dates:
   - 1961
@@ -86,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [City Of Brussels](/headquarters_locations/city-of-brussels/); [London](/headquarters_locations/london/) |
+| Headquarters Location | [London](/headquarters_locations/london/); [City Of Brussels](/headquarters_locations/city-of-brussels/) |
 | Foundation Date | [1961](/foundation_dates/1961/) |
 | Viaf Cluster Id | 141290649 |
 | Gnd Id | 2003911-6 |

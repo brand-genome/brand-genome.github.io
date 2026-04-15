@@ -2,11 +2,11 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-04-10T09:40:34.770496"
+date: "2026-04-15T09:21:25.750137"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - italy
 years:

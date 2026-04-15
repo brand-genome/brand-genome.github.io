@@ -2,7 +2,7 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-04-10T09:40:31.535326"
+date: "2026-04-15T09:21:23.186118"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - sweden

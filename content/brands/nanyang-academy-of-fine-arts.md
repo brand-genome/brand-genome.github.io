@@ -2,7 +2,7 @@
 title: Nanyang Academy of Fine Arts
 slug: "nanyang-academy-of-fine-arts"
 description: ""
-date: "2026-04-10T09:40:30.964092"
+date: "2026-04-15T09:21:22.579579"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - art
+  - education
 industries: []
 countries:
   - singapore

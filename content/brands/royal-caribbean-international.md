@@ -2,12 +2,12 @@
 title: Royal Caribbean International
 slug: "royal-caribbean-international"
 description: ""
-date: "2026-04-10T09:40:30.647071"
+date: "2026-04-15T09:21:22.216820"
 draft: false
 sectors:
-  - hospitality
   - tourism
   - cruise
+  - hospitality
 regions:
   - norway
 years:
@@ -66,7 +66,5 @@ visual_term_image_urls: {}
 - [https://www.royalcaribbean.com](https://www.royalcaribbean.com)
 - [https://secure.royalcaribbean.com.br/chooseCountry.do](https://secure.royalcaribbean.com.br/chooseCountry.do)
 - [https://www.royalcaribbean.com/nor/no](https://www.royalcaribbean.com/nor/no)
-- [http://www.aaa.com/Travel](http://www.aaa.com/Travel)
 - [http://www.loyaltoyoualways.com](http://www.loyaltoyoualways.com)
 - [http://www.royalcaribbean.com](http://www.royalcaribbean.com)
-- [http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra](http://www.myfonts.com/fonts/blazej-ostoja-lniski/kapra)

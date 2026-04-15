@@ -2,7 +2,7 @@
 title: City of Lille
 slug: "city-of-lille"
 description: ""
-date: "2026-04-10T09:40:34.893934"
+date: "2026-04-15T09:21:25.863722"
 draft: false
 sectors:
   - "public-sector"

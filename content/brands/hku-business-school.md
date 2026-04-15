@@ -2,11 +2,11 @@
 title: HKU Business School
 slug: "hku-business-school"
 description: ""
-date: "2026-04-10T09:40:30.660554"
+date: "2026-04-15T09:21:22.223495"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - china
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - chinese
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 - [https://mba.hkubs.hku.hk](https://mba.hkubs.hku.hk)
 - [https://msc.hkubs.hku.hk](https://msc.hkubs.hku.hk)
 - [https://hkubsaa.hkubs.hku.hk](https://hkubsaa.hkubs.hku.hk)
-- [http://www.google.com?query=Montserrat](http://www.google.com?query=Montserrat)
 - [http://www.hku.hk](http://www.hku.hk)
 - [https://www.fbe.hku.hk](https://www.fbe.hku.hk)
 

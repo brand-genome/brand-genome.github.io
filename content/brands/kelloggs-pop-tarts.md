@@ -2,7 +2,7 @@
 title: "Kellogg’s Pop-Tarts"
 slug: "kelloggs-pop-tarts"
 description: ""
-date: "2026-04-10T09:40:32.831068"
+date: "2026-04-15T09:21:23.873918"
 draft: false
 sectors:
   - food

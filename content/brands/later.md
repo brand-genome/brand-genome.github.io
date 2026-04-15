@@ -2,11 +2,11 @@
 title: Later
 slug: later
 description: ""
-date: "2026-04-10T09:40:32.017470"
+date: "2026-04-15T09:21:23.436242"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - canada
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: vocal track by Ella Fitzgerald; 1954 studio recording
-wikidata_url: "https://www.wikidata.org/wiki/Q96955812"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://later.com](https://later.com)
 - [https://help.later.com](https://help.later.com)
 - [https://later.com/careers](https://later.com/careers)
-- [https://fonts.google.com/specimen/Poppins](https://fonts.google.com/specimen/Poppins)
 
 ## Brand Guidelines
 
@@ -166,22 +165,3 @@ visual_term_image_urls: {}
 ##### Photography Style
 
 - Emotive | Subject | Style Trustworthy Approachable Authentic Lively | Lifestyle Not Camera Aware | Bright & Bold Color Contrast faces not important. human presence is. | True to Color
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q96955812) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Ella Fitzgerald |
-| Title | Later |
-| Different From | Later |
-| Musicbrainz Recording Id | 48cbcacb-bd12-44f4-86a5-2f7193278305 |
-| Published In | Lullaby of Birdland / Later, Lullabies of Birdland |
-| Has Characteristic | studio recording |
-| Recording Or Performance Of | Later |
-| Musical Conductor | Sy Oliver |
-| Form Of Creative Work | Vocal with Chorus and Orchestra |
-| Duration | 148 second |

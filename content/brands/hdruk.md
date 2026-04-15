@@ -2,7 +2,7 @@
 title: HDRUK
 slug: hdruk
 description: ""
-date: "2026-04-10T09:40:33.290147"
+date: "2026-04-15T09:21:24.226853"
 draft: false
 sectors:
   - research
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - health
+  - science
 industries: []
 countries:
   - "united-kingdom"

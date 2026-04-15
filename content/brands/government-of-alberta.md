@@ -2,7 +2,7 @@
 title: Government of Alberta
 slug: "government-of-alberta"
 description: ""
-date: "2026-04-10T09:40:31.561966"
+date: "2026-04-15T09:21:23.207967"
 draft: false
 sectors:
   - "public-sector"
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.alberta.ca](https://www.alberta.ca)
-- [http://www.canadapost.ca/tools/pg/3_Designing/PSmachineable-e.pdf](http://www.canadapost.ca/tools/pg/3_Designing/PSmachineable-e.pdf)
-- [http://www.fpac.ca](http://www.fpac.ca)
 
 ## Brand Guidelines
 

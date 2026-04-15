@@ -2,7 +2,7 @@
 title: World Water Council
 slug: "world-water-council"
 description: ""
-date: "2026-04-10T09:40:34.065425"
+date: "2026-04-15T09:21:24.980661"
 draft: false
 sectors:
   - ngo
@@ -10,8 +10,8 @@ regions:
   - france
   - international
 years:
-  - 2011
   - 2012
+  - 2011
 languages:
   - french
 tags:

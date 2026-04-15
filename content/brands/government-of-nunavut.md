@@ -2,7 +2,7 @@
 title: Government of Nunavut
 slug: "government-of-nunavut"
 description: ""
-date: "2026-04-10T09:40:32.114431"
+date: "2026-04-15T09:21:23.597594"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries:
   - canada

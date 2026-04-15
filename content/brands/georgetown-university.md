@@ -2,11 +2,11 @@
 title: Georgetown University
 slug: "georgetown-university"
 description: ""
-date: "2026-04-10T09:40:34.062107"
+date: "2026-04-15T09:21:24.977915"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 
 - [https://www.georgetown.edu](https://www.georgetown.edu)
 - [https://www.georgetown.edu/visual-identity](https://www.georgetown.edu/visual-identity)
-- [http://www.photoshelter.com/profile/accounts](http://www.photoshelter.com/profile/accounts)
 
 ## Brand Guidelines
 

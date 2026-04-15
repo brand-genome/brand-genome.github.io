@@ -2,7 +2,7 @@
 title: League of Women Voters
 slug: "league-of-women-voters"
 description: ""
-date: "2026-04-10T09:40:32.759058"
+date: "2026-04-15T09:21:23.850776"
 draft: false
 sectors:
   - ngo

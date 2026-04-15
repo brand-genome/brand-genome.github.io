@@ -2,7 +2,7 @@
 title: Service National Universel
 slug: "service-national-universel"
 description: ""
-date: "2026-04-10T09:40:34.434215"
+date: "2026-04-15T09:21:25.378549"
 draft: false
 sectors:
   - "public-sector"
@@ -30,8 +30,8 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 2019
   - 2018
+  - 2019
 foundation_year_buckets:
   - 2010S
 lightings: []
@@ -324,7 +324,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [2019](/foundation_dates/2019/); [2018](/foundation_dates/2018/) |
+| Foundation Date | [2018](/foundation_dates/2018/); [2019](/foundation_dates/2019/) |
 | Google Knowledge Graph Id | /g/11flxwg5zx |
 | Inception | 2019, 2018 |
 | Country | France |

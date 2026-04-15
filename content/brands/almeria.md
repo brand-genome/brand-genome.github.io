@@ -2,7 +2,7 @@
 title: Almería
 slug: almeria
 description: ""
-date: "2026-04-10T09:40:33.611414"
+date: "2026-04-15T09:21:24.551033"
 draft: false
 sectors:
   - "public-sector"
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://almeriaciudad.es](https://almeriaciudad.es)
 - [https://www.turismodealmeria.org](https://www.turismodealmeria.org)
 - [https://www.turismodealmeria.org/en](https://www.turismodealmeria.org/en)
-- [http://www.google.com](http://www.google.com)
 
 ## Brand Guidelines
 

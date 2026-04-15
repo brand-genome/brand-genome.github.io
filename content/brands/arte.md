@@ -2,7 +2,7 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-04-10T09:40:33.345615"
+date: "2026-04-15T09:21:24.280492"
 draft: false
 sectors:
   - broadcasting
@@ -10,20 +10,20 @@ sectors:
 regions:
   - france
 years:
-  - 2016
+  - 2013
   - 2017
   - 2008
-  - 2013
   - 2011
+  - 2016
 languages:
   - english
   - french
 tags:
   - mobile
-  - media
   - broadcast
-  - featured
   - "social-networks"
+  - featured
+  - media
 industries: []
 countries:
   - france

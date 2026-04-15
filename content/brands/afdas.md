@@ -2,7 +2,7 @@
 title: Afdas
 slug: afdas
 description: ""
-date: "2026-04-10T09:40:32.114750"
+date: "2026-04-15T09:21:23.597766"
 draft: false
 sectors:
   - education

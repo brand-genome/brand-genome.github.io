@@ -2,7 +2,7 @@
 title: European Commission
 slug: "european-commission"
 description: ""
-date: "2026-04-10T09:40:32.500332"
+date: "2026-04-15T09:21:23.709234"
 draft: false
 sectors:
   - "public-sector"
@@ -69,9 +69,6 @@ visual_term_image_urls: {}
 - [https://commission.europa.eu/index_en](https://commission.europa.eu/index_en)
 - [https://commission.europa.eu/about/contact_en](https://commission.europa.eu/about/contact_en)
 - [http://ec.europa.eu/dgs](http://ec.europa.eu/dgs)
-- [http://www.europarl.europa.eu/charter](http://www.europarl.europa.eu/charter)
-- [http://www.gitanos.org](http://www.gitanos.org)
-- [https://makeawebsitehub.com/social-media-image-sizes-](https://makeawebsitehub.com/social-media-image-sizes-)
 - [https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/192087985/Presentations_booklet_v5.pdf?version=1&modifi](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/192087985/Presentations_booklet_v5.pdf?version=1&modifi)
 - [https://commission.europa.eu](https://commission.europa.eu)
 

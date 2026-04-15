@@ -2,11 +2,11 @@
 title: South East Technological University
 slug: "south-east-technological-university"
 description: ""
-date: "2026-04-10T09:40:32.479790"
+date: "2026-04-15T09:21:23.692493"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - ireland
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - education
-  - technology
   - university
+  - technology
+  - education
 industries: []
 countries:
   - ireland

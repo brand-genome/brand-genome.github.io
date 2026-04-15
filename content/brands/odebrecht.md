@@ -2,7 +2,7 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-04-10T09:40:34.670338"
+date: "2026-04-15T09:21:25.661842"
 draft: false
 sectors:
   - "logistics-supply-chain"

@@ -2,7 +2,7 @@
 title: "Life & Peace Institute"
 slug: "life-peace-institute"
 description: ""
-date: "2026-04-10T09:40:32.840569"
+date: "2026-04-15T09:21:23.880114"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - peace
+  - ngo
 industries: []
 countries:
   - sweden
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://life-peace.org](https://life-peace.org)
-- [http://www.lpi.org/workshops](http://www.lpi.org/workshops)
 
 ## Brand Guidelines
 

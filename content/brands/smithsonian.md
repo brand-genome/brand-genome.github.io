@@ -2,12 +2,12 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-04-10T09:40:34.505663"
+date: "2026-04-15T09:21:25.440604"
 draft: false
 sectors:
   - research
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - science
+  - education
 industries:
   - "educational-system"
 countries:

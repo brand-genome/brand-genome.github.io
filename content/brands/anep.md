@@ -2,7 +2,7 @@
 title: ANEP
 slug: anep
 description: ""
-date: "2026-04-10T09:40:33.253270"
+date: "2026-04-15T09:21:24.197973"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - education
+  - institution
 industries: []
 countries: []
 revenue_buckets: []
@@ -29,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1969
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: association
-wikidata_url: "https://www.wikidata.org/wiki/Q50096747"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -139,19 +137,3 @@ visual_term_image_urls: {}
 - 9.3 mm Área de reserva
 - 1/21 (espaciado entre bloques de información)
 - Fieldwork Hum Demibold 9/10/13 pt Interletra 50 Mayúsculas
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q50096747) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1969](/foundation_dates/1969/) |
-| Inception | 1969-05 |
-| Viaf Cluster Id | 124604181 |
-| Bibliothèque Nationale De France Id | 14408242t |
-| Idref Id | 086213962 |
-| Described By Source | Les Droites nationales et radicales en France |
-| Legal Form | association under the French law of 1901 |

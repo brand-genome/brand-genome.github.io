@@ -2,11 +2,11 @@
 title: I Love NY
 slug: "i-love-ny"
 description: ""
-date: "2026-04-10T09:40:34.892538"
+date: "2026-04-15T09:21:25.862303"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:

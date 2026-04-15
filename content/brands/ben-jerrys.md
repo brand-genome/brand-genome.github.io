@@ -2,7 +2,7 @@
 title: "Ben & Jerry’s"
 slug: "ben-jerrys"
 description: ""
-date: "2026-04-10T09:40:32.539255"
+date: "2026-04-15T09:21:23.739478"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

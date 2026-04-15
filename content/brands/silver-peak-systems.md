@@ -2,11 +2,11 @@
 title: Silver Peak Systems
 slug: "silver-peak-systems"
 description: ""
-date: "2026-04-10T09:40:33.110284"
+date: "2026-04-15T09:21:24.044427"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - usa
 years:

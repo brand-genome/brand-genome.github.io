@@ -2,7 +2,7 @@
 title: Vision
 slug: vision
 description: ""
-date: "2026-04-10T09:40:34.423886"
+date: "2026-04-15T09:21:25.368806"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,7 @@ languages:
 tags:
   - tourism
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,14 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - warsaw
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1991
-  - 1992
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Polish film production company
-wikidata_url: "https://www.wikidata.org/wiki/Q9368919"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +63,6 @@ visual_term_image_urls: {}
 
 - [http://www.visiontravel.ca](http://www.visiontravel.ca)
 - [https://visionvoyages.ca](https://visionvoyages.ca)
-- [http://www.vision.pl](http://www.vision.pl)
 
 ## Brand Guidelines
 
@@ -232,36 +226,3 @@ visual_term_image_urls: {}
 
 - Slogan Celebrate Diversity
 - CELEBRATE DIVERSITY
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q9368919) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
-| Foundation Date | [1991](/foundation_dates/1991/); [1992](/foundation_dates/1992/) |
-| Inception | 1991, 1992-09-07 |
-| Legal Form | Sp. z o.o. |
-| Headquarters Location | Warsaw |
-| Country | Poland |
-| Google Knowledge Graph Id | /g/120sk52q |
-| Parent Organization Or Unit | Anime Gate |
-| Filmpolski.Pl Id | 1125484 |
-| Different From | Vision Film Company LLC |
-| Imdb Id | co0355950, co0268635, co0128852, co0039423, co0093694 |
-| Hoopla Publisher Id | 8200 |
-| Unifrance Company Id | 144614 |
-| National Library Of Israel J9U Id | 987007330284205171 |
-| Online Pwn Encyclopedia Id | 3992964 |
-| Tmdb Company Id | 68027 |
-| Viaf Cluster Id | 156406691, 260144783005325045812 |
-| National Library Of Poland Mms Id | 9810581401805606 |
-| Library Of Congress Authority Id | nr2002037609, nr2002037601 |
-| Nukat Id | n2013032877, n2013032878 |
-| Regon Id | 011573629 |
-| Krs Number | 0000289113 |
-| Opencorporates Id | pl/0000289113 |
-| ‎Yale Lux Id | group/b68e284b-6c92-47bf-85be-ef40f2ffd30e |

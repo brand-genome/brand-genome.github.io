@@ -2,7 +2,7 @@
 title: Point North
 slug: "point-north"
 description: ""
-date: "2026-04-10T09:40:30.758111"
+date: "2026-04-15T09:21:22.351751"
 draft: false
 sectors:
   - ngo
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American rock band
-wikidata_url: "https://www.wikidata.org/wiki/Q88996662"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,15 +68,3 @@ visual_term_image_urls: {}
 ### 2024
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q88996662) |
-
-| Property | Value |
-|----------|-------|
-| Google Knowledge Graph Id | /g/11c61b7q8j |
-| Spotify Artist Id | 5Vp7LqcfAtx2U1RfIX8i7r |
-| Country Of Origin | United States |

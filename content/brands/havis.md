@@ -2,7 +2,7 @@
 title: Havis
 slug: havis
 description: ""
-date: "2026-04-10T09:40:33.096272"
+date: "2026-04-15T09:21:24.032276"
 draft: false
 sectors:
   - hardware

@@ -2,11 +2,11 @@
 title: RedCLARA
 slug: redclara
 description: ""
-date: "2026-04-10T09:40:34.534474"
+date: "2026-04-15T09:21:25.466145"
 draft: false
 sectors:
-  - ngo
   - networking
+  - ngo
 regions:
   - chile
 years:

@@ -2,7 +2,7 @@
 title: SMPS
 slug: smps
 description: ""
-date: "2026-04-10T09:40:33.353774"
+date: "2026-04-15T09:21:24.288642"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -26,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - altdorf
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1979
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q1518565"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,28 +64,9 @@ visual_term_image_urls: {}
 
 - [https://www.smps.org](https://www.smps.org)
 - [https://www.smps.org/about-the-foundation](https://www.smps.org/about-the-foundation)
-- [http://www.gvs-smps.ch](http://www.gvs-smps.ch)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1518565) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Altdorf](/headquarters_locations/altdorf/) |
-| Foundation Date | [1979](/foundation_dates/1979/) |
-| Inception | 1979 |
-| Described By Source | Memobase |
-| Street Address | c/o Haus der Volksmusik, Lehnplatz 22, 6460 Altdorf |
-| Headquarters Location | Altdorf |
-| Located In The Administrative Territorial Entity | Altdorf |
-| Short Name | gvs (from 2021-01-01), SMP, SMP, SMP, GVS |
-| Google Knowledge Graph Id | /g/1214m5bt |

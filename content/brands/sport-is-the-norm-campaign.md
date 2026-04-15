@@ -2,7 +2,7 @@
 title: Sport is the Norm campaign
 slug: "sport-is-the-norm-campaign"
 description: ""
-date: "2026-04-10T09:40:33.162166"
+date: "2026-04-15T09:21:24.089224"
 draft: false
 sectors:
   - sports

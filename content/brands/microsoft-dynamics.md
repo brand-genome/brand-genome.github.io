@@ -2,7 +2,7 @@
 title: Microsoft Dynamics
 slug: "microsoft-dynamics"
 description: ""
-date: "2026-04-10T09:40:34.534626"
+date: "2026-04-15T09:21:25.466276"
 draft: false
 sectors:
   - software

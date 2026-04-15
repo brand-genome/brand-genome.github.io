@@ -2,7 +2,7 @@
 title: T Levels
 slug: "t-levels"
 description: ""
-date: "2026-04-10T09:40:32.547458"
+date: "2026-04-15T09:21:23.747048"
 draft: false
 sectors:
   - education
@@ -65,5 +65,3 @@ visual_term_image_urls: {}
 - [https://support.tlevels.gov.uk/hc/en-gb](https://support.tlevels.gov.uk/hc/en-gb)
 - [https://www.gov.uk/government/publications/introduction-of-t-levels/introduction-of-t-levels](https://www.gov.uk/government/publications/introduction-of-t-levels/introduction-of-t-levels)
 - [http://www.gov.uk](http://www.gov.uk)
-- [https://commercialtype.com](https://commercialtype.com)
-- [https://lineto.com/The+Fonts](https://lineto.com/The+Fonts)

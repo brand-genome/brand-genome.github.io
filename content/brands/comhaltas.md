@@ -2,11 +2,11 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-04-10T09:40:30.573468"
+date: "2026-04-15T09:21:22.105277"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - ireland
 years:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 
 - [https://comhaltas.ie](https://comhaltas.ie)
 - [http://www.comhaltas.ie](http://www.comhaltas.ie)
-- [http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media](http://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media)
 
 ## Brand Guidelines
 

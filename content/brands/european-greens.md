@@ -2,7 +2,7 @@
 title: European Greens
 slug: "european-greens"
 description: ""
-date: "2026-04-10T09:40:33.455066"
+date: "2026-04-15T09:21:24.387708"
 draft: false
 sectors:
   - ngo
@@ -27,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1999
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "green-regionalist political group of the European Parliament"
-wikidata_url: "https://www.wikidata.org/wiki/Q751935"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://europeangreens.eu](https://europeangreens.eu)
-- [http://www.theguardian.com/guardian-observer-style-guide-a](http://www.theguardian.com/guardian-observer-style-guide-a)
-- [https://www.greens-efa.eu](https://www.greens-efa.eu)
 
 ## Brand Guidelines
 
@@ -385,43 +381,3 @@ visual_term_image_urls: {}
 ##### Working Groups
 
 - Working Groups are also formed of persons nominated by the parties to address specific policy issues and to present policy papers for approval by the Council.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q751935) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1999](/foundation_dates/1999/) |
-| Topic'S Main Category | Category:Greens–European Free Alliance |
-| Has Part(S) | European Green Party, European Free Alliance, European Pirate Party, Volt Europa |
-| Freebase Id | /m/01_195 |
-| Gnd Id | 10135530-0 |
-| Chairperson | Philippe Lamberts (from 2014), Rebecca Harms (from 2009-01-01, until 2016), Heidi Hautala (from 1999, until 2004),  (from 1999, until 2002), Monica Frassoni (from 2004, until 2009) (+3 more) |
-| X (Twitter) Username | GreensEFA (as of 2020-03-07, from 2010-08-27) |
-| Facebook Username | greensefa |
-| Follows | The Green Group in the European Parliament, European Radical Alliance |
-| Inception | 1999 |
-| Number Of Seats In Assembly | 71 (from 2019, until 2024), 53 |
-| Youtube Channel Id | UC9emZ4AlBYk7tp5zeYfjRfg (as of 2020-12-10, from 2007-12-10) |
-| Political Ideology | green politics, regionalism, minority rights |
-| Google+ Id | 109647937437924753169 |
-| Srgb Color Hex Triplet | 009900 |
-| Official Name | Parliamentary Group of The Greens/European Free Alliance in the European Parliament |
-| Short Name | Greens/EFA, Verts/ALE, Vihreät/EVA |
-| Instagram Username | greensefa |
-| Viaf Cluster Id | 133523863 |
-| Distribution Map | The Greens–European Free Alliance MEPs map.svg |
-| Flickr User Id | 21733269@N06 |
-| Social Media Followers | 71,577 (as of 2021-01-06), 5,270 (as of 2021-09-24), 77,293 (as of 2022-02-21), 81,155 (as of 2023-02-12), 6,020 (as of 2023-02-17) (+6 more) |
-| Uk Parliament Thesaurus Id | 37117 |
-| Lex Id | Gruppen_De_Grønne/Den_Europæiske_Fri_Alliance |
-| Mastodon Address | EP_GreensEFA@social.network.europa.eu (from 2022-12-16), GreensEP@respublicae.eu (from 2022-04-03) |
-| Great Norwegian Encyclopedia Id | The_Greens–European_Free_Alliance |
-| Small Logo Or Icon | GreensEFA.png |
-| Library Of Congress Authority Id | no2006091153 |
-| Eu Corporate Body Code | EP_GROUP_GREEN_EFA |
-| Bluesky Handle | greens-efa.eu |
-| Ne.Se Id | de-grönaeuropeiska-fria-alliansen |

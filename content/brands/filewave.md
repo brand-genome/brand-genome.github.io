@@ -2,11 +2,11 @@
 title: FileWave
 slug: filewave
 description: ""
-date: "2026-04-10T09:40:33.663548"
+date: "2026-04-15T09:21:24.606533"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:

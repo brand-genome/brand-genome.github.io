@@ -2,7 +2,7 @@
 title: San Diego Metropolitan Transit System
 slug: "san-diego-metropolitan-transit-system"
 description: ""
-date: "2026-04-10T09:40:32.747950"
+date: "2026-04-15T09:21:23.847932"
 draft: false
 sectors:
   - "public-transportation"

@@ -2,18 +2,18 @@
 title: The North Face
 slug: "the-north-face"
 description: ""
-date: "2026-04-10T09:40:34.122247"
+date: "2026-04-15T09:21:25.034109"
 draft: false
 sectors:
   - fashion
   - "consumer-goods"
-  - footwear
   - "e-commerce"
+  - footwear
 regions:
   - usa
 years:
-  - 2013
   - 2007
+  - 2013
 languages:
   - english
 tags:
@@ -32,15 +32,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "outdoor-gear"
   - "sports-equipment"
-  - clothing
-  - "travel-gear"
-  - backpack
   - outerwear
-  - "fashion-accessory"
-  - "sleeping-bag"
   - tent
+  - "fashion-accessory"
+  - "travel-gear"
+  - "sleeping-bag"
+  - backpack
+  - clothing
+  - "outdoor-gear"
 products: []
 headquarters_locations:
   - denver
@@ -457,7 +457,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Clothing](/products_or_materials_produced/clothing/); [Travel Gear](/products_or_materials_produced/travel-gear/); [Backpack](/products_or_materials_produced/backpack/); [Outerwear](/products_or_materials_produced/outerwear/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Tent](/products_or_materials_produced/tent/) |
+| Product Or Material Produced | [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Outerwear](/products_or_materials_produced/outerwear/); [Tent](/products_or_materials_produced/tent/); [Fashion Accessory](/products_or_materials_produced/fashion-accessory/); [Travel Gear](/products_or_materials_produced/travel-gear/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Backpack](/products_or_materials_produced/backpack/); [Clothing](/products_or_materials_produced/clothing/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/) |
 | Headquarters Location | [Denver](/headquarters_locations/denver/) |
 | Foundation Date | [1968](/foundation_dates/1968/) |
 | Founded By | Douglas Tompkins, Susie Tompkins Buell |

@@ -2,7 +2,7 @@
 title: NYX Makeup
 slug: "nyx-makeup"
 description: ""
-date: "2026-04-10T09:40:32.785082"
+date: "2026-04-15T09:21:23.855069"
 draft: false
 sectors:
   - cosmetics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "student-work"
   - cosmetics
+  - "student-work"
 industries: []
 countries: []
 revenue_buckets: []

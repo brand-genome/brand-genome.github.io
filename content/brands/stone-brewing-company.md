@@ -2,11 +2,11 @@
 title: Stone Brewing Company
 slug: "stone-brewing-company"
 description: ""
-date: "2026-04-10T09:40:33.648825"
+date: "2026-04-15T09:21:24.593201"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - usa
 years:

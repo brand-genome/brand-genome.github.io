@@ -2,7 +2,7 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-04-10T09:40:34.436560"
+date: "2026-04-15T09:21:25.381218"
 draft: false
 sectors:
   - sports

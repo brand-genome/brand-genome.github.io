@@ -2,7 +2,7 @@
 title: Apprenticeship
 slug: apprenticeship
 description: ""
-date: "2026-04-10T09:40:33.384026"
+date: "2026-04-15T09:21:24.316929"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - corporate
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Public General Act of Parliament of the United Kingdom
-wikidata_url: "https://www.wikidata.org/wiki/Q4781708"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -298,29 +297,3 @@ visual_term_image_urls: {}
 - I’m proud of what I’ve achieved as an #apprentice and excited to be supporting the government’s ‘FireItUp’ campaign, Check it out: www.apprenticeships.gov.uk. Let’s #FireItUp
 - We are proud of all our #apprentices and are delighted to support the government’s campaign – you can find the website, with more information on how you can benefit from hiring #apprentices here: www.apprenticeships.gov.uk #FireItUp
 - Please feel free to share these links for the following case study videos: Ella // Robert Welch Apprentice Gail // Robert Welch Employer Sarah // NHS Apprentice Annie // NHS Employer Hosanna // Royal Opera House Apprentice Bendy // Royal Opera House Employer Alim // Channel 4 Apprentice Laura // Channel 4 Employer
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4781708) |
-
-| Property | Value |
-|----------|-------|
-| Legislation.Gov.Uk Id | ukpga/2009/22 |
-| Freebase Id | /m/0h1h72m |
-| Main Subject | apprentice |
-| Short Name | Apprenticeships, Skills, Children and Learning Act 2009 |
-| Official Name | An Act to make provision about apprenticeships, education, training and children's services; to amend the Employment Rights Act 1996; to establish the Young People's Learning Agency for England, the office of Chief Executive of Skills Funding, the Office of Qualifications and Examinations Regulation and the School Support Staff Negotiating Body and to make provision about those bodies and that office; to make provision about the Qualifications and Curriculum Authority; to make provision about schools and institutions within the further education sector; to make provision about student loans; and for connected purposes. |
-| Country | United Kingdom |
-| Applies To Jurisdiction | United Kingdom |
-| Language Of Work Or Name | English |
-| Date Of Promulgation | 2009-11-12 |
-| Legislated By | Parliament of the United Kingdom |
-| Legal Citation Of This Text | 2009 c. 22 |
-| Work Available At Url | https://www.legislation.gov.uk/ukpga/2009/22/contents |
-| Parliamentary Term | 4th session of the 54th Parliament of the United Kingdom |
-| Uk Parliament Id | Q2CxEYOk |
-| Publication Date | 2009 |
-| Uk Parliament Thesaurus Id | 365983 |
-| Uk Parliament Bill Id | 444 |

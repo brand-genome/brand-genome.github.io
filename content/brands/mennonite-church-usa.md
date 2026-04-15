@@ -2,7 +2,7 @@
 title: Mennonite Church USA
 slug: "mennonite-church-usa"
 description: ""
-date: "2026-04-10T09:40:32.536061"
+date: "2026-04-15T09:21:23.736325"
 draft: false
 sectors:
   - ngo

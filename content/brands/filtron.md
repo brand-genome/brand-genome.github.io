@@ -2,7 +2,7 @@
 title: Filtron
 slug: filtron
 description: ""
-date: "2026-04-10T09:40:34.246149"
+date: "2026-04-15T09:21:25.165774"
 draft: false
 sectors:
   - automobile
@@ -25,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "milton-keynes"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1940
-foundation_year_buckets:
-  - 1940S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: British company
-wikidata_url: "https://www.wikidata.org/wiki/Q5449280"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://filtron.eu/en](https://filtron.eu/en)
 - [http://www.filtron.eu](http://www.filtron.eu)
-- [http://www.essentra.com](http://www.essentra.com)
 
 ## Brand Guidelines
 
@@ -233,18 +229,3 @@ visual_term_image_urls: {}
 - CMYK 40 27 27 3 RGB 160 163 166 PANTONE 429 C
 - CMYK 100 53 2 16 RGB 0 76 151 PANTONE 2945C
 - The accent colour should be used when it is necessary to highlight an important text fragment. The colour can also be used to fill in areas which we want to highlight. If the accent colour is used as the background of the highlighted area, the text in the area should be white.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5449280) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Milton Keynes](/headquarters_locations/milton-keynes/) |
-| Foundation Date | [1940](/foundation_dates/1940/) |
-| Stock Exchange | London Stock Exchange |
-| Headquarters Location | Milton Keynes |
-| Inception | 1940 |
-| Freebase Id | /m/025xb15 |

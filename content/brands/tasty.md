@@ -2,7 +2,7 @@
 title: Tasty
 slug: tasty
 description: ""
-date: "2026-04-10T09:40:34.300521"
+date: "2026-04-15T09:21:25.197948"
 draft: false
 sectors:
   - food
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - "food-beverage"
-industries:
-  - "food-service"
-countries:
-  - taiwan
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2001
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: restaurant chain that serves steak
-wikidata_url: "https://www.wikidata.org/wiki/Q15918601"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://tasty.co](https://tasty.co)
 - [https://advertise.buzzfeed.com/tasty](https://advertise.buzzfeed.com/tasty)
-- [https://www.tasty.com.tw](https://www.tasty.com.tw)
 
 ## Brand Guidelines
 
@@ -214,21 +209,3 @@ visual_term_image_urls: {}
 - This collaboration is for use within the app only.
 - The colour palette changes to include the Messina green.
 - The logo colour does not change to Messina green. The white logo can instead be placed on top of Messina green.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q15918601) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2001](/foundation_dates/2001/) |
-| Inception | 2001 |
-| Google Knowledge Graph Id | /g/1yw9kyn4n |
-| Country | Taiwan |
-| Founded By | Tai Sheng-i |
-| Owned By | Wowprime Group |
-| Industry | food service |
-| Image | Tasty Steak at GR Shopping Mall 5F (20230115105126).jpg |
-| Instagram Username | wowfood.app |

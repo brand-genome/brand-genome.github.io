@@ -2,7 +2,7 @@
 title: Interstate Batteries
 slug: "interstate-batteries"
 description: ""
-date: "2026-04-10T09:40:33.400151"
+date: "2026-04-15T09:21:24.332117"
 draft: false
 sectors:
   - "consumer-goods"

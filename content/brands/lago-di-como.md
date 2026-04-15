@@ -2,7 +2,7 @@
 title: Lago di Como
 slug: "lago-di-como"
 description: ""
-date: "2026-04-10T09:40:33.209448"
+date: "2026-04-15T09:21:24.155705"
 draft: false
 sectors:
   - tourism

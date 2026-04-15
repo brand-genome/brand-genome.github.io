@@ -2,7 +2,7 @@
 title: Australian AID
 slug: "australian-aid"
 description: ""
-date: "2026-04-10T09:40:34.679242"
+date: "2026-04-15T09:21:25.669682"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - ngo
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - canberra
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1987
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: International aid agency of the Australian Government
-wikidata_url: "https://www.wikidata.org/wiki/Q3370370"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +64,6 @@ visual_term_image_urls: {}
 - [https://www.dfat.gov.au/development/australias-development-program](https://www.dfat.gov.au/development/australias-development-program)
 - [https://adp.dfat.gov.au](https://adp.dfat.gov.au)
 - [https://www.dfat.gov.au/about-us/publications/Pages/australian-aid](https://www.dfat.gov.au/about-us/publications/Pages/australian-aid)
-- [http://www.ausaid.gov.au](http://www.ausaid.gov.au)
 
 ## Brand Guidelines
 
@@ -356,25 +351,3 @@ visual_term_image_urls: {}
 
 - This is a basic layout for TV titling. These dimensions use a non-widescreen (788x576 pixel) area to ensure graphics can be shown on most devices.
 - The crest logo and the Australian Aid identifier should be set to a 30-60% tint, depending on background content.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3370370) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Canberra](/headquarters_locations/canberra/) |
-| Foundation Date | [1987](/foundation_dates/1987/) |
-| Freebase Id | /m/08nd2s |
-| Headquarters Location | Canberra |
-| Quora Topic Id | AusAID |
-| Encyclopedia Of Australian Science Id | A000809b |
-| Open Funder Registry Funder Id | 501100000972 |
-| Microsoft Academic Id (Discontinued) | 1329203678 |
-| Inception | 1987-08-17 |
-| National Archives Of Australia Entity Id | CA 6679 |
-| Country | Australia |
-| Dissolved, Abolished Or Demolished Date | 2013-10-31 |
-| Ringgold Id | 2213 |

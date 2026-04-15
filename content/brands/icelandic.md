@@ -2,7 +2,7 @@
 title: Icelandic
 slug: icelandic
 description: ""
-date: "2026-04-10T09:40:33.454583"
+date: "2026-04-15T09:21:24.387234"
 draft: false
 sectors:
   - food
@@ -15,8 +15,7 @@ languages:
 tags:
   - "food-beverage"
 industries: []
-countries:
-  - iceland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: ethnic group native to Iceland; citizens or residents of Iceland
-wikidata_url: "https://www.wikidata.org/wiki/Q191356"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -202,42 +201,3 @@ visual_term_image_urls: {}
 - Product Image
 - Brand Symbol
 - Blue green line on top and centered bottom of photo. (Height l % of picture height) -Corporate Logo with Denomination lberico -lmage Area Brand symbol 1 1 Product name and text Communication logo -white on blue
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q191356) |
-
-| Property | Value |
-|----------|-------|
-| Ndl Authority Id | 00843634 |
-| Freebase Id | /m/03fk0c |
-| Topic'S Main Category | Category:Icelandic people |
-| Described By Source | Armenian Soviet Encyclopedia, vol. 4 |
-| Great Russian Encyclopedia Online Id (2017) | 2632686 |
-| Ysa Id | Y109606 |
-| Library Of Congress Demographic Group Terms Id | dg2015060716 |
-| Montage Image | Icelander montage 2.png |
-| Library Of Congress Authority Id | sh85064025 |
-| Country | Iceland |
-| Located In The Administrative Territorial Entity | Iceland |
-| Named After | Iceland |
-| Country Of Origin | Iceland |
-| Country Of Citizenship | Iceland |
-| Subclass Of | European people, Western Europeans, Scandinavians, inhabitant, islanders |
-| Languages Spoken, Written Or Signed | Icelandic |
-| Different From | , Icelandic horse |
-| On Focus List Of Wikimedia Project | WikiProject PCC Wikidata Pilot/University of Washington |
-| Fast Id | 966645 |
-| Bibliothèque Nationale De France Id | 12414377q |
-| Yso Id | 9673 |
-| Unbis Thesaurus Id | 1003038 |
-| Native Label | Íslendingar |
-| Yle Topic Id | 18-8865 |
-| National Library Of Israel J9U Id | 987007538544705171 |
-| Ascceg 2019 Id | 2403 |
-| Nl Cr Aut Id | ph117645 |
-| Indigenous To | Iceland |
-| Flag Image | Flag of Iceland.svg |
-| ‎Yale Lux Id | concept/127cc53c-a8b2-4a3d-90a2-4f062595e930 |

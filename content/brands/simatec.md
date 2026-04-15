@@ -2,7 +2,7 @@
 title: Simatec
 slug: simatec
 description: ""
-date: "2026-04-10T09:40:32.807209"
+date: "2026-04-15T09:21:23.861794"
 draft: false
 sectors:
   - hardware

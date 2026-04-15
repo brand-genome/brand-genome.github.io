@@ -2,7 +2,7 @@
 title: Prodeca
 slug: prodeca
 description: ""
-date: "2026-04-10T09:40:30.757476"
+date: "2026-04-15T09:21:22.351373"
 draft: false
 sectors:
   - "public-sector"

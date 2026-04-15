@@ -2,13 +2,13 @@
 title: Comfy
 slug: comfy
 description: ""
-date: "2026-04-10T09:40:30.820424"
+date: "2026-04-15T09:21:22.425293"
 draft: false
 sectors:
   - "consumer-goods"
-  - electronics
   - "e-commerce"
   - "home-appliances"
+  - electronics
 regions:
   - ukraine
 years:

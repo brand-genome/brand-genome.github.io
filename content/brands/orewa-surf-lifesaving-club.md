@@ -2,7 +2,7 @@
 title: Orewa Surf Lifesaving Club
 slug: "orewa-surf-lifesaving-club"
 description: ""
-date: "2026-04-10T09:40:33.652535"
+date: "2026-04-15T09:21:24.596506"
 draft: false
 sectors:
   - sports

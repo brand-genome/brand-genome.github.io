@@ -2,7 +2,7 @@
 title: "Nagase & Co."
 slug: "nagase-co"
 description: ""
-date: "2026-04-10T09:40:31.477167"
+date: "2026-04-15T09:21:23.137471"
 draft: false
 sectors:
   - consulting

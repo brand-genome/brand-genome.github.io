@@ -2,11 +2,11 @@
 title: Abruzzo
 slug: abruzzo
 description: ""
-date: "2026-04-10T09:40:33.095674"
+date: "2026-04-15T09:21:24.031621"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - italy
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,11 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1923
-  - 1922
-foundation_year_buckets:
-  - 1920S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Italian national park
-wikidata_url: "https://www.wikidata.org/wiki/Q1438999"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://abruzzoturismo.it](https://abruzzoturismo.it)
 - [https://www.regione.abruzzo.it/contenuti/turismo](https://www.regione.abruzzo.it/contenuti/turismo)
-- [http://www.parcoabruzzo.it](http://www.parcoabruzzo.it)
 
 ## Brand Guidelines
 
@@ -203,48 +198,3 @@ visual_term_image_urls: {}
 - La versione negativa del marchio con URL del sito internet può essere utilizzata sia su sfondo nero, sia su sfondi istituzionali o su sfondi fotografici che non ne compromettano la leggibilità.
 - Il carattere del URI non deve essere minore di 9 punti.
 - Applicazione del marchio con URI del sito internet su sfondo bianco e su sfondo nero.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1438999) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1923](/foundation_dates/1923/); [1922](/foundation_dates/1922/) |
-| Iucn Protected Areas Category | IUCN category II: National Park |
-| Wdpa Id | 719 |
-| Coordinate Location | 41.808388888889, 13.786472222222 |
-| Country | Italy |
-| Freebase Id | /m/07qmtb |
-| Gnd Id | 4580812-0, 253987-1 |
-| Topic'S Main Category | Category:National Park of Abruzzo, Latium and Molise |
-| Image | Monti Della Laga.jpg, PNAbruzzo2.jpg |
-| Located In The Administrative Territorial Entity | Abruzzo, Lazio, Molise |
-| Viaf Cluster Id | 316426931 |
-| Page Banner | Parco Abruzzo banner.jpg |
-| Isni | 0000000405101521 |
-| Ringgold Id | 225041 |
-| Parks.It Id | parco.nazionale.abruzzo |
-| Area | 496 square kilometre, 49,680 hectare |
-| Inception | 1922, 1923-01-01 |
-| Ne.Se Id | abruzzo-nationalpark |
-| Commons Gallery | National Park of Abruzzo, Latium and Molise |
-| Google Maps Customer Id | 11132484141973997968 |
-| Euap Id | EUAP0001 |
-| Grid Id | grid.433913.f |
-| Maintained By |  |
-| Has Part(S) | Lago di Barrea, , , Riserva naturale Feudo Intramonti, Riserva naturale Colle di Licco (+2 more) |
-| Openstreetmap Relation Id | 8426003 |
-| Ror Id | 000kvm359 |
-| Significant Place | Rome |
-| Pronunciation Audio | LL-Q13955 (ara)-Zinou2go-حديقة أبروتسو الوطنية.wav |
-| De Agostini Id | Abruzzo,+Lazio+e+Molise,+Parco+Nazionale+d'- |
-| Common Database On Designated Areas Id | 719 |
-| Official Name | Parco nazionale dell'Abruzzo, Lazio e Molise |
-| Idref Id | 027619192 |
-| Online Pwn Encyclopedia Id | 3865256 |
-| Gns Unique Feature Id | -109839 |
-| ‎Yale Lux Id | place/220f87fd-1236-478a-a8b2-68a77e022723 |
-| Google Knowledge Graph Id | /g/122vxx96 |

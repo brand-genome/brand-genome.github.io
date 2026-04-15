@@ -2,7 +2,7 @@
 title: Bertelsman
 slug: bertelsman
 description: ""
-date: "2026-04-10T09:40:33.617068"
+date: "2026-04-15T09:21:24.556687"
 draft: false
 sectors:
   - entertainment
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - media
-industries:
-  - music
-countries:
-  - germany
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,14 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "new-york-city"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1983
-  - 1987
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American record label
-wikidata_url: "https://www.wikidata.org/wiki/Q770103"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -229,34 +223,3 @@ visual_term_image_urls: {}
 - Working with images: Photos should be avoided. Photos can be centered or arranged in a pattern-type arrangement. Large, clipped images are also not permitted. Images of different sizes can be achieved for instance by using two themes. Visual interest and contrast can be achieved by working together in terms of their color.
 - Images on a double page should work together in terms of their color. Colored areas can be added to supplement the design. Photos on a double page should work together in terms of their color.
 - Monochrome photos in two-color printing: Only tints of the dark blue can be used to color areas, two colors are not permitted. Orange is used for area rules or text, but only Bertelsmann blue. Combinations or mixing colors of Bertelsmann AG are represented in one color. In monochrome printing, monochrome photos should be used.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q770103) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1983](/foundation_dates/1983/); [1987](/foundation_dates/1987/) |
-| Inception | 1987-01-01, 1983 |
-| Musicbrainz Label Id | 29d7c88f-5200-4418-a683-5c94ea032e38 |
-| Freebase Id | /m/01q940 |
-| Dissolved, Abolished Or Demolished Date | 2008-10-01 |
-| Headquarters Location | New York City |
-| Viaf Cluster Id | 160807391 |
-| Bibliothèque Nationale De France Id | 14445569s |
-| National Library Of Spain Spmabn Id (Bne V1.0) | XX5207118 |
-| Parent Organization Or Unit | Bertelsmann |
-| Owned By | Bertelsmann |
-| Quora Topic Id | Bertelsmann-Music-Group |
-| Has Organizational Division | BMG Music Publishing, BMG Records, GmbH, BMG Video, BMG Entertainment |
-| Child Organization Or Unit | BMG Poland, Sp. z o.o., BMG Hungary Kft., RCA Records, BMG Ariola Argentina S.A., BMG Ariola Miller GmbH (+3 more) |
-| Replaced By | Sony BMG Music Entertainment, Inc., BMG Rights Management |
-| Owner Of | Sony BMG Music Entertainment, Inc., Vogue France, S.A. |
-| Short Name | BMG |
-| Discogs Label Id | 414965 |
-| Country | Germany |
-| Industry | music |
-| Native Label | Bertelsmann Music Group |

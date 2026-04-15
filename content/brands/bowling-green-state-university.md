@@ -2,12 +2,12 @@
 title: Bowling Green State University
 slug: "bowling-green-state-university"
 description: ""
-date: "2026-04-10T09:40:32.558275"
+date: "2026-04-15T09:21:23.756745"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

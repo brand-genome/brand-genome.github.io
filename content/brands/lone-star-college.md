@@ -2,7 +2,7 @@
 title: Lone Star College
 slug: "lone-star-college"
 description: ""
-date: "2026-04-10T09:40:34.662422"
+date: "2026-04-15T09:21:25.654767"
 draft: false
 sectors:
   - education
@@ -27,8 +27,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - houston
   - "the-woodlands"
+  - houston
 subsidiaries: []
 foundation_dates:
   - 1973
@@ -340,7 +340,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Houston](/headquarters_locations/houston/); [The Woodlands](/headquarters_locations/the-woodlands/) |
+| Headquarters Location | [The Woodlands](/headquarters_locations/the-woodlands/); [Houston](/headquarters_locations/houston/) |
 | Foundation Date | [1973](/foundation_dates/1973/) |
 | Topic'S Main Category | Category:Lone Star College System |
 | Integrated Postsecondary Education Data System Id | 227182 |

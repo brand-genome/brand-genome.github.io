@@ -2,11 +2,11 @@
 title: Lightning Protection Institute
 slug: "lightning-protection-institute"
 description: ""
-date: "2026-04-10T09:40:32.547116"
+date: "2026-04-15T09:21:23.746758"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - usa
 years:

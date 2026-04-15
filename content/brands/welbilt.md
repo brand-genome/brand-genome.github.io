@@ -2,7 +2,7 @@
 title: Welbilt
 slug: welbilt
 description: ""
-date: "2026-04-10T09:40:34.474080"
+date: "2026-04-15T09:21:25.413391"
 draft: false
 sectors:
   - "home-appliances"
@@ -51,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q7980514"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,14 +71,3 @@ visual_term_image_urls: {}
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7980514) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Artist Id | 9c60f81a-52f5-4c30-9ce3-a2e38f8c61df |
-| Songkick Artist Id | 128122 |

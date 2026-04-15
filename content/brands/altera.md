@@ -2,11 +2,11 @@
 title: Altera
 slug: altera
 description: ""
-date: "2026-04-10T09:40:30.537189"
+date: "2026-04-15T09:21:22.065516"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:

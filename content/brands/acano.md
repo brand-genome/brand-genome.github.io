@@ -2,7 +2,7 @@
 title: Acano
 slug: acano
 description: ""
-date: "2026-04-10T09:40:34.524813"
+date: "2026-04-15T09:21:25.457169"
 draft: false
 sectors:
   - software

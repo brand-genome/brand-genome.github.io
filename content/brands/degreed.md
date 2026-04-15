@@ -2,7 +2,7 @@
 title: Degreed
 slug: degreed
 description: ""
-date: "2026-04-10T09:40:30.562713"
+date: "2026-04-15T09:21:22.084328"
 draft: false
 sectors:
   - "elearning-edtech"

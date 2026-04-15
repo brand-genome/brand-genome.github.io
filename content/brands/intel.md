@@ -2,11 +2,11 @@
 title: Intel
 slug: intel
 description: ""
-date: "2026-04-10T09:40:33.350870"
+date: "2026-04-15T09:21:24.284910"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -17,8 +17,8 @@ tags:
   - technology
   - vintage
 industries:
-  - "electrical-industry"
   - "semiconductor-industry"
+  - "electrical-industry"
 countries:
   - "united-states"
 revenue_buckets:

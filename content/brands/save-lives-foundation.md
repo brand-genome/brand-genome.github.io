@@ -2,7 +2,7 @@
 title: Save Lives Foundation
 slug: "save-lives-foundation"
 description: ""
-date: "2026-04-10T09:40:31.965089"
+date: "2026-04-15T09:21:23.402533"
 draft: false
 sectors:
   - ngo
@@ -59,6 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.savelives.com](http://www.savelives.com)

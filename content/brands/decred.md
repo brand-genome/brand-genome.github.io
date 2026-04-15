@@ -2,7 +2,7 @@
 title: Decred
 slug: decred
 description: ""
-date: "2026-04-10T09:40:30.706270"
+date: "2026-04-15T09:21:22.291547"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -69,4 +69,3 @@ visual_term_image_urls: {}
 - [https://dcrdata.decred.org](https://dcrdata.decred.org)
 - [https://dex.decred.org](https://dex.decred.org)
 - [http://www.decred.org](http://www.decred.org)
-- [http://www.google.com](http://www.google.com)

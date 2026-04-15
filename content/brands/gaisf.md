@@ -2,7 +2,7 @@
 title: GAISF
 slug: gaisf
 description: ""
-date: "2026-04-10T09:40:34.449283"
+date: "2026-04-15T09:21:25.392641"
 draft: false
 sectors:
   - sports

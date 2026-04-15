@@ -2,7 +2,7 @@
 title: Berkshire Hathaway Homeservices
 slug: "berkshire-hathaway-homeservices"
 description: ""
-date: "2026-04-10T09:40:34.001860"
+date: "2026-04-15T09:21:24.922492"
 draft: false
 sectors:
   - "real-estate"

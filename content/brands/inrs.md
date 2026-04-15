@@ -2,11 +2,11 @@
 title: INRS
 slug: inrs
 description: ""
-date: "2026-04-10T09:40:30.712144"
+date: "2026-04-15T09:21:22.298240"
 draft: false
 sectors:
-  - research
   - university
+  - research
 regions:
   - canada
 years:

@@ -2,7 +2,7 @@
 title: River Trails School District 26
 slug: "river-trails-school-district-26"
 description: ""
-date: "2026-04-10T09:40:32.118205"
+date: "2026-04-15T09:21:23.599952"
 draft: false
 sectors:
   - "public-sector"

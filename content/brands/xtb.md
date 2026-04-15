@@ -2,7 +2,7 @@
 title: XTB
 slug: xtb
 description: ""
-date: "2026-04-10T09:40:33.838319"
+date: "2026-04-15T09:21:24.816207"
 draft: false
 sectors:
   - finance

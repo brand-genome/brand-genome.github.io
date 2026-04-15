@@ -2,7 +2,7 @@
 title: "Université de Paris-Dauphine"
 slug: "universite-de-paris-dauphine"
 description: ""
-date: "2026-04-10T09:40:34.884877"
+date: "2026-04-15T09:21:25.855726"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

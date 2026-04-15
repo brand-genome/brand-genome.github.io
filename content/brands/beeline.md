@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-04-10T09:40:34.533936"
+date: "2026-04-15T09:21:25.465536"
 draft: false
 sectors:
   - telecom

@@ -2,11 +2,11 @@
 title: CALM
 slug: calm
 description: ""
-date: "2026-04-10T09:40:33.813976"
+date: "2026-04-15T09:21:24.792459"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -63,9 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.thecalmzone.net](https://www.thecalmzone.net)
-- [http://www.linotype.com/1086487/swiss-721-family.html](http://www.linotype.com/1086487/swiss-721-family.html)
-- [http://www.myfonts.com/fonts/ascender/calibri](http://www.myfonts.com/fonts/ascender/calibri)
-- [http://www.typekit.com/fonts/alternate-gothic-no-2-d](http://www.typekit.com/fonts/alternate-gothic-no-2-d)
 
 ## Brand Guidelines
 

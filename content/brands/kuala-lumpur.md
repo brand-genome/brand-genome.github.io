@@ -2,11 +2,11 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-04-10T09:40:34.410849"
+date: "2026-04-15T09:21:25.358315"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - malaysia
 years:

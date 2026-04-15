@@ -2,12 +2,12 @@
 title: Huawei
 slug: huawei
 description: ""
-date: "2026-04-10T09:40:32.841845"
+date: "2026-04-15T09:21:23.881376"
 draft: false
 sectors:
+  - networking
   - software
   - telecom
-  - networking
 regions:
   - china
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - telecommunications
 industries:
-  - telecommunications
   - "information-and-communications-technology"
+  - telecommunications
   - "electronics-industry"
 countries:
   - "peoples-republic-of-china"
@@ -36,15 +36,15 @@ total_equity_buckets:
   - "UNDER-1M"
 market_cap_buckets: []
 products_or_materials_produced:
-  - laptop
-  - "networking-hardware"
-  - 5g
-  - smartwatch
-  - "managed-services"
   - dongle
-  - smartphone
+  - "managed-services"
   - "tablet-computer"
+  - laptop
+  - smartphone
   - "broadband-internet-access"
+  - smartwatch
+  - 5g
+  - "networking-hardware"
 products: []
 headquarters_locations:
   - shenzhen
@@ -111,7 +111,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Laptop](/products_or_materials_produced/laptop/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [5G](/products_or_materials_produced/5g/); [Smartwatch](/products_or_materials_produced/smartwatch/); [Managed Services](/products_or_materials_produced/managed-services/); [Dongle](/products_or_materials_produced/dongle/); [Smartphone](/products_or_materials_produced/smartphone/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/) |
+| Product Or Material Produced | [Dongle](/products_or_materials_produced/dongle/); [Managed Services](/products_or_materials_produced/managed-services/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Laptop](/products_or_materials_produced/laptop/); [Smartphone](/products_or_materials_produced/smartphone/); [Broadband Internet Access](/products_or_materials_produced/broadband-internet-access/); [Smartwatch](/products_or_materials_produced/smartwatch/); [5G](/products_or_materials_produced/5g/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
 | Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
 | Foundation Date | [1987](/foundation_dates/1987/) |
 | Founded By | Ren Zhengfei |

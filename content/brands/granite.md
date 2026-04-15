@@ -2,15 +2,15 @@
 title: Granite
 slug: granite
 description: ""
-date: "2026-04-10T09:40:34.258513"
+date: "2026-04-15T09:21:25.175390"
 draft: false
 sectors:
   - construction
 regions:
   - usa
 years:
-  - 2011
   - 2018
+  - 2011
 languages:
   - english
 tags:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: vocal track by Benn Hexaspectrum; 2020 studio recording
-wikidata_url: "https://www.wikidata.org/wiki/Q96761929"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.graniteconstruction.com](https://www.graniteconstruction.com)
 - [https://www.intermountainslurryseal.com](https://www.intermountainslurryseal.com)
-- [http://www.google.com/design/spec](http://www.google.com/design/spec)
 - [http://www.graniteconstruction.com/company](http://www.graniteconstruction.com/company)
 
 ## Brand Guidelines
@@ -355,23 +354,3 @@ visual_term_image_urls: {}
 - A consistent typographic style is an important component in building and reinforcing the Granite brand. The effective use of specific fonts plays a key role in the look and feel of Granite’s visual communications.
 - For everyday business use, Arial was selected as the secondary typeface for its readability and versatility. Within the Arial family, the preferred fonts are Arial Regular, Arial Bold, and Arial Narrow.
 - The primary typeface for marketing and other visual communication pieces is Frutiger. Within the Frutiger family, the preferred fonts are: Frutiger Light, Frutiger Roman, Frutiger Bold
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q96761929) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Benn Hexaspectrum |
-| Title | Granite |
-| Genius Id | Benn-hexaspectrum-granite-lyrics |
-| Deezer Track Id | 1000826242 |
-| Spotify Track Id | 63HUDApEun6lHk0FVeycip |
-| Youtube Video Id | Bk1-_OGe6UI |
-| Musicbrainz Recording Id | aa396cbc-4350-4f5a-b0de-1821115d3c18 |
-| Distribution Format | music streaming |
-| P1243 | QZHN82042352 |
-| Has Characteristic | studio recording |
-| Recording Date | 2020 |

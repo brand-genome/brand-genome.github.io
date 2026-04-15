@@ -2,7 +2,7 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-04-10T09:40:34.003553"
+date: "2026-04-15T09:21:24.924712"
 draft: false
 sectors:
   - "public-sector"

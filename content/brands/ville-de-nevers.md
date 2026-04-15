@@ -2,7 +2,7 @@
 title: Ville de Nevers
 slug: "ville-de-nevers"
 description: ""
-date: "2026-04-10T09:40:32.701309"
+date: "2026-04-15T09:21:23.834448"
 draft: false
 sectors:
   - "public-sector"

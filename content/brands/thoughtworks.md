@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-04-10T09:40:30.757597"
+date: "2026-04-15T09:21:22.351503"
 draft: false
 sectors:
   - consulting
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2022
   - 2024
+  - 2022
 languages:
   - english
 tags:
   - technology
 industries:
-  - consulting
   - technology
   - "software-industry"
+  - consulting
 countries:
   - "united-states"
 revenue_buckets: []
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.thoughtworks.com](https://www.thoughtworks.com)
-- [http://www.monday.com](http://www.monday.com)
 - [http://www.thoughtworks.com](http://www.thoughtworks.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Aras
 slug: aras
 description: ""
-date: "2026-04-10T09:40:30.526724"
+date: "2026-04-15T09:21:22.041209"
 draft: false
 sectors:
   - software
@@ -14,31 +14,21 @@ languages:
   - english
 tags:
   - software
-industries:
-  - photography
-countries:
-  - "peoples-republic-of-china"
-revenue_buckets:
-  - "500M-1B"
+industries: []
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "1K-10K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "action-camera"
-  - "still-camera"
-  - "omnidirectional-camera"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - shenzhen
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2015
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -60,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Chinese action camera manufacturer
-wikidata_url: "https://www.wikidata.org/wiki/Q48147014"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -77,7 +67,6 @@ visual_term_image_urls: {}
 - [https://community.aras.com](https://community.aras.com)
 - [https://www.aras.com/community/subscriber-portal/p/login](https://www.aras.com/community/subscriber-portal/p/login)
 - [https://docs.aras.com/welcome](https://docs.aras.com/welcome)
-- [https://www.insta360.com](https://www.insta360.com)
 
 ## Brand Guidelines
 
@@ -281,50 +270,3 @@ visual_term_image_urls: {}
 
 - Unless otherwise instructed by Aras in writing at any moment in time, any Aras OEM partner authorized in writing shall use the phrase “powered by Aras” with the first occurrence of the partner product name in all instances, including but not limited to all packaging, internet content, press releases, product presentations, training materials, videos, webinars, advertising, initial splash screen and related marketing material regarding the partner product, and in the accompanying documentation.
 - Please contact trademarks@aras.com for further information regarding the use of the powered by Aras label.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48147014) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Action Camera](/products_or_materials_produced/action-camera/); [Still Camera](/products_or_materials_produced/still-camera/); [Omnidirectional Camera](/products_or_materials_produced/omnidirectional-camera/) |
-| Headquarters Location | [Shenzhen](/headquarters_locations/shenzhen/) |
-| Foundation Date | [2015](/foundation_dates/2015/) |
-| Country | People's Republic of China |
-| Facebook Username | 100064392801722 |
-| Headquarters Location | Shenzhen |
-| Inception | 2015 |
-| Google Knowledge Graph Id | /g/11f2wd2x9n |
-| Crunchbase Organization Id | insta360 |
-| Tiktok Username | insta360_official |
-| X (Twitter) Username | Insta360 (from 2015-07-21) |
-| Instagram Username | insta360 |
-| Youtube Channel Id | UCMCleHtWKKAnNND0IGHpNGw (as of 2024-10-27, from 2020-04-08), UC3qWcF49rv8VMZO7Vg6kj5w (as of 2024-10-27, from 2015-10-08) |
-| Founded By | JK Liu |
-| Product Or Material Produced | action camera, still camera, omnidirectional camera |
-| Motto Text | Think bold, Pensa in modo audace |
-| Social Media Followers | 20,800 (as of 2023-10-11), 23,400 (as of 2024-05-04) |
-| Image | Insta360 GO3.png |
-| Industry | photography |
-| Youtube Handle | Insta360Japan, insta360 |
-| Official Shop Url | https://store.insta360.com |
-| Linkedin Company Or Organization Id | insta360 |
-| Isin | CNE1000070C9 |
-| Stock Exchange | Shanghai Stock Exchange (from 2025-06-11) |
-| Usb Vendor Id | 2e1a |
-| Threads Username | insta360 |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $780.00M | as of 2024 | [500M-1B](/revenue_buckets/500m-1b/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 2,000 | as of 2024 | [1K-10K](/employees_buckets/1k-10k/) |

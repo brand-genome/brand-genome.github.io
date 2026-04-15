@@ -2,7 +2,7 @@
 title: Ministry of Digital Affairs
 slug: "ministry-of-digital-affairs"
 description: ""
-date: "2026-04-10T09:40:32.196198"
+date: "2026-04-15T09:21:23.648636"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -24,16 +23,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "pesel-number"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - warsaw
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2015
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Polish ministry (2015-2020, 2023-)"
-wikidata_url: "https://www.wikidata.org/wiki/Q21779174"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://moda.gov.tw/en](https://moda.gov.tw/en)
-- [https://mc.gov.pl](https://mc.gov.pl)
 
 ## Brand Guidelines
 
@@ -190,35 +184,3 @@ visual_term_image_urls: {}
 - Photography that shows visitor experiences within the context of land are encouraged.
 - Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
 - Depictions of food, art, or other installations by Indigenous creators is encouraged.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21779174) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Pesel Number](/products_or_materials_produced/pesel-number/) |
-| Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
-| Foundation Date | [2015](/foundation_dates/2015/) |
-| Country | Poland |
-| Inception | 2015-12-08 |
-| Viaf Cluster Id | 87146936699013781348 |
-| Image | Ministerstwo Cyfryzacji 2015.jpg |
-| Replaces | Ministry of Administration and Digitization (Poland) |
-| Headquarters Location | Warsaw |
-| Field Of Work | net politics |
-| Chairperson | Marek Zagórski |
-| X (Twitter) Username | mc_gov_pl (as of 2020-06-16, from 2012-02-28), CYFRA_GOV_PL |
-| Instagram Username | mc_gov_pl, cyfra_gov_pl |
-| Youtube Channel Id | UCDDeiw-RUfbe_aW12lI12eQ (as of 2020-12-11, from 2013-11-27) |
-| Facebook Username | MinisterstwoCyfryzacji |
-| Google Knowledge Graph Id | /g/11bxb8m3m1 |
-| Part Of | Council of Ministers |
-| Social Media Followers | 46,219 (as of 2021-01-07), 40,866 (as of 2020-06-16), 47,305 (as of 2022-02-28), 5,000 (as of 2022-03-02), 48,757 (as of 2023-02-04) (+6 more) |
-| Product Or Material Produced | PESEL number |
-| Item Operated | PESEL registry |
-| Applies To Jurisdiction | Poland |
-| Linkedin Company Or Organization Id | ministerstwo-cyfryzacji |
-| Ror Id | 03q81ka58 |

@@ -2,11 +2,11 @@
 title: Royal Aeronautical Society
 slug: "royal-aeronautical-society"
 description: ""
-date: "2026-04-10T09:40:33.155449"
+date: "2026-04-15T09:21:24.083983"
 draft: false
 sectors:
-  - education
   - aerospace
+  - education
 regions:
   - "united-kingdom"
 years:

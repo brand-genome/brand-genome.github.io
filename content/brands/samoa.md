@@ -2,11 +2,11 @@
 title: Samoa
 slug: samoa
 description: ""
-date: "2026-04-10T09:40:32.829088"
+date: "2026-04-15T09:21:23.873291"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - samoa
 years:
@@ -17,8 +17,7 @@ tags:
   - tourism
   - regional
 industries: []
-countries:
-  - samoa
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "men's national association football team representing Samoa"
-wikidata_url: "https://www.wikidata.org/wiki/Q477079"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,38 +64,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.samoa.travel](https://www.samoa.travel)
-- [https://www.footballsamoa.ws](https://www.footballsamoa.ws)
 
 ## Brand Guidelines
 
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q477079) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/04jvjw |
-| Topic'S Main Category | Category:Samoa national football team |
-| Sport | association football |
-| Fifa Country Code | SAM |
-| Country For Sport | Samoa |
-| Ranking | 203 (as of 2011-09-21), 203 (as of 2011-10-19), 204 (as of 2011-11-23), 182 (as of 2014-02-13), 182 (as of 2014-03-13) (+241 more) |
-| Competition Class | men's association football |
-| Country | Samoa |
-| Owned By | Football Federation Samoa |
-| Flag Image | Flag of Samoa.svg |
-| Different From | American Samoa men's national football team |
-| Transfermarkt Team Id | 15235 |
-| Native Label | Samoa national football team |
-| Head Coach | Paul Ualesi (from 2017-07-01, until 2021-02-10), Matt Calcott (from 2021-02-11, until 2022-12-31), Ryan Stewart (from 2023-01-01, until 2023-11-13), Ravinesh Kumar (from 2024-01-01, until 2024-03-31), Jess Ibrom (from 2024-04-01) |
-| Playmakerstats.Com Team Id | 887 |
-| National Football Teams.Com Team Id | 158 |
-| Worldfootball.Net Team Id (Old) | samoa-team |
-| Short Name | Самоа |
-| Subclass Of | national sports team |

@@ -2,15 +2,15 @@
 title: Mastercard Foundation
 slug: "mastercard-foundation"
 description: ""
-date: "2026-04-10T09:40:30.954220"
+date: "2026-04-15T09:21:22.566266"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2017
   - 2023
+  - 2017
 languages:
   - english
 tags:

@@ -2,7 +2,7 @@
 title: Winerie Parisienne
 slug: "winerie-parisienne"
 description: ""
-date: "2026-04-10T09:40:34.873653"
+date: "2026-04-15T09:21:25.844848"
 draft: false
 sectors:
   - drink

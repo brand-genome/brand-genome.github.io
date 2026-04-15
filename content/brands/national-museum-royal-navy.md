@@ -2,7 +2,7 @@
 title: National Museum Royal Navy
 slug: "national-museum-royal-navy"
 description: ""
-date: "2026-04-10T09:40:33.142825"
+date: "2026-04-15T09:21:24.073315"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - military
   - museum
+  - military
 industries: []
 countries:
   - "united-kingdom"

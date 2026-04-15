@@ -2,7 +2,7 @@
 title: UK Space Agency
 slug: "uk-space-agency"
 description: ""
-date: "2026-04-10T09:40:31.563435"
+date: "2026-04-15T09:21:23.209072"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2022
   - 2013
+  - 2022
 languages:
   - english
 tags:

@@ -2,7 +2,7 @@
 title: Global Green Growth Institute
 slug: "global-green-growth-institute"
 description: ""
-date: "2026-04-10T09:40:32.834347"
+date: "2026-04-15T09:21:23.876223"
 draft: false
 sectors:
   - ngo

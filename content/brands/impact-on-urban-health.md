@@ -2,12 +2,12 @@
 title: Impact on Urban Health
 slug: "impact-on-urban-health"
 description: ""
-date: "2026-04-10T09:40:33.058926"
+date: "2026-04-15T09:21:24.000522"
 draft: false
 sectors:
-  - ngo
   - research
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - health
+  - ngo
 industries: []
 countries:
   - "united-kingdom"

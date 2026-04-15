@@ -2,11 +2,11 @@
 title: Interspiro
 slug: interspiro
 description: ""
-date: "2026-04-10T09:40:33.826948"
+date: "2026-04-15T09:21:24.804909"
 draft: false
 sectors:
-  - defense
   - "emergency-services"
+  - defense
 regions:
   - usa
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://interspiro.com](https://interspiro.com)
 - [http://www.interspiro.com](http://www.interspiro.com)
-- [http://www.nkel.se](http://www.nkel.se)
 
 ## Brand Guidelines
 

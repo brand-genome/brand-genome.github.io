@@ -2,7 +2,7 @@
 title: Bancoldex
 slug: bancoldex
 description: ""
-date: "2026-04-10T09:40:30.931741"
+date: "2026-04-15T09:21:22.541837"
 draft: false
 sectors:
   - finance

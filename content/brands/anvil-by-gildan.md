@@ -2,7 +2,7 @@
 title: Anvil by Gildan
 slug: "anvil-by-gildan"
 description: ""
-date: "2026-04-10T09:40:32.624852"
+date: "2026-04-15T09:21:23.809906"
 draft: false
 sectors:
   - fashion

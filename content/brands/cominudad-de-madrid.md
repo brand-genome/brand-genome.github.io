@@ -2,7 +2,7 @@
 title: Cominudad de Madrid
 slug: "cominudad-de-madrid"
 description: ""
-date: "2026-04-10T09:40:33.354329"
+date: "2026-04-15T09:21:24.289149"
 draft: false
 sectors:
   - "public-sector"

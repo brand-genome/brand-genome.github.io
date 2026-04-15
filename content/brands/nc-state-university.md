@@ -2,11 +2,11 @@
 title: NC State University
 slug: "nc-state-university"
 description: ""
-date: "2026-04-10T09:40:34.010840"
+date: "2026-04-15T09:21:24.930795"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

@@ -2,11 +2,11 @@
 title: Abita Beer
 slug: "abita-beer"
 description: ""
-date: "2026-04-10T09:40:33.600913"
+date: "2026-04-15T09:21:24.540089"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - usa
 years:

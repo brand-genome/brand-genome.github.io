@@ -2,7 +2,7 @@
 title: European Committee of the Regions
 slug: "european-committee-of-the-regions"
 description: ""
-date: "2026-04-10T09:40:32.500810"
+date: "2026-04-15T09:21:23.709671"
 draft: false
 sectors:
   - "public-sector"

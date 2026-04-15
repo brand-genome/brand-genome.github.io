@@ -2,7 +2,7 @@
 title: London Bridge Revealed
 slug: "london-bridge-revealed"
 description: ""
-date: "2026-04-10T09:40:33.442149"
+date: "2026-04-15T09:21:24.374957"
 draft: false
 sectors:
   - tourism

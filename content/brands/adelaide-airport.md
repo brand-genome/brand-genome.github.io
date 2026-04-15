@@ -2,7 +2,7 @@
 title: Adelaide Airport
 slug: "adelaide-airport"
 description: ""
-date: "2026-04-10T09:40:34.426033"
+date: "2026-04-15T09:21:25.370604"
 draft: false
 sectors:
   - "public-transportation"

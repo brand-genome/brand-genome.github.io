@@ -2,11 +2,11 @@
 title: The Climate Group
 slug: "the-climate-group"
 description: ""
-date: "2026-04-10T09:40:33.401435"
+date: "2026-04-15T09:21:24.333162"
 draft: false
 sectors:
-  - ngo
   - "renewable-energy"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -18,8 +18,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - "united-states"
   - "united-kingdom"
+  - "united-states"
 revenue_buckets:
   - "10M-100M"
 operating_income_buckets: []
@@ -69,9 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.theclimategroup.org](https://www.theclimategroup.org)
-- [http://ec.europa.eu/employment_social](http://ec.europa.eu/employment_social)
-- [http://news.sky.com/skynews](http://news.sky.com/skynews)
-- [http://www.scottish-enterprise.com](http://www.scottish-enterprise.com)
 - [http://www.theclimategroup.org](http://www.theclimategroup.org)
 
 ## Brand Guidelines

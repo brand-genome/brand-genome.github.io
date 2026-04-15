@@ -2,11 +2,11 @@
 title: Canadian North
 slug: "canadian-north"
 description: ""
-date: "2026-04-10T09:40:30.826835"
+date: "2026-04-15T09:21:22.435199"
 draft: false
 sectors:
-  - airline
   - "logistics-supply-chain"
+  - airline
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - canada
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://www.canadiannorth.com](https://www.canadiannorth.com)
 - [https://cargo.canadiannorth.com](https://cargo.canadiannorth.com)
 - [https://firstair.ca/contact](https://firstair.ca/contact)
-- [http://www.myfonts.com/fonts/insigne/ranelte](http://www.myfonts.com/fonts/insigne/ranelte)
 - [https://canadiannorth.com](https://canadiannorth.com)
 - [https://canadiannorth.com?lang=fr](https://canadiannorth.com?lang=fr)
 - [https://canadiannorth.com?lang=iu](https://canadiannorth.com?lang=iu)

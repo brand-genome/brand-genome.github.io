@@ -2,11 +2,11 @@
 title: The Chartered Institute of Logistics and Transport
 slug: "the-chartered-institute-of-logistics-and-transport"
 description: ""
-date: "2026-04-10T09:40:32.837439"
+date: "2026-04-15T09:21:23.877984"
 draft: false
 sectors:
-  - education
   - "logistics-supply-chain"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 - [https://ciltuk.org.uk](https://ciltuk.org.uk)
 - [http://www.ciltnigeria.org](http://www.ciltnigeria.org)
 - [http://www.ciltsl.com](http://www.ciltsl.com)
-- [http://www.flickr.com/photos/134390998@N06](http://www.flickr.com/photos/134390998@N06)
-- [http://www.slideshare.net](http://www.slideshare.net)
 
 ## Brand Guidelines
 

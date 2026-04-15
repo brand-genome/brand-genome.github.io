@@ -2,12 +2,12 @@
 title: Surf Life Saving New Zealand
 slug: "surf-life-saving-new-zealand"
 description: ""
-date: "2026-04-10T09:40:34.414242"
+date: "2026-04-15T09:21:25.361380"
 draft: false
 sectors:
-  - ngo
   - sports
   - "emergency-services"
+  - ngo
 regions:
   - "new-zealand"
 years:

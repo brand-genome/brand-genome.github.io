@@ -2,7 +2,7 @@
 title: Square Kilometre Array
 slug: "square-kilometre-array"
 description: ""
-date: "2026-04-10T09:40:34.251566"
+date: "2026-04-15T09:21:25.168498"
 draft: false
 sectors:
   - research

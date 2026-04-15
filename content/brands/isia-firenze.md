@@ -2,7 +2,7 @@
 title: ISIA Firenze
 slug: "isia-firenze"
 description: ""
-date: "2026-04-10T09:40:33.143032"
+date: "2026-04-15T09:21:24.073487"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - design
+  - education
 industries: []
 countries: []
 revenue_buckets: []

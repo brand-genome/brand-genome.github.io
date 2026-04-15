@@ -2,7 +2,7 @@
 title: Gaumont
 slug: gaumont
 description: ""
-date: "2026-04-10T09:40:34.440209"
+date: "2026-04-15T09:21:25.384952"
 draft: false
 sectors:
   - entertainment
@@ -16,9 +16,9 @@ tags:
   - cultural
 industries:
   - "film-industry"
+  - "film-production-for-the-cinema"
   - "motion-picture-video-and-television-programme-activities"
   - "media-industry"
-  - "film-production-for-the-cinema"
 countries:
   - france
 revenue_buckets: []
@@ -32,8 +32,8 @@ products_or_materials_produced:
   - film
 products: []
 headquarters_locations:
-  - "neuilly-sur-seine"
   - paris
+  - "neuilly-sur-seine"
 subsidiaries: []
 foundation_dates:
   - 1895
@@ -183,7 +183,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Film](/products_or_materials_produced/film/) |
-| Headquarters Location | [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Paris](/headquarters_locations/paris/) |
+| Headquarters Location | [Paris](/headquarters_locations/paris/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/) |
 | Foundation Date | [1895](/foundation_dates/1895/) |
 | Freebase Id | /m/019v67 |
 | Headquarters Location | Neuilly-sur-Seine, Paris |

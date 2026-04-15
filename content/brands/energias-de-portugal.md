@@ -2,21 +2,21 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-04-10T09:40:32.141286"
+date: "2026-04-15T09:21:23.615200"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - portugal
 years:
-  - 2022
   - 2015
-  - 2013
   - 2018
+  - 2013
+  - 2022
 languages:
-  - portuguese
   - english
+  - portuguese
 tags:
   - featured
   - corporate
@@ -35,8 +35,8 @@ products_or_materials_produced:
   - "electric-power"
 products: []
 headquarters_locations:
-  - "edp-headquarters"
   - lisbon
+  - "edp-headquarters"
 subsidiaries: []
 foundation_dates:
   - 1976
@@ -105,7 +105,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Electric Power](/products_or_materials_produced/electric-power/) |
-| Headquarters Location | [Edp Headquarters](/headquarters_locations/edp-headquarters/); [Lisbon](/headquarters_locations/lisbon/) |
+| Headquarters Location | [Lisbon](/headquarters_locations/lisbon/); [Edp Headquarters](/headquarters_locations/edp-headquarters/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Stock Exchange | Euronext Lisbon |
 | Freebase Id | /m/06j3rw |

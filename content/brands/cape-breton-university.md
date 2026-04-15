@@ -2,11 +2,11 @@
 title: Cape Breton University
 slug: "cape-breton-university"
 description: ""
-date: "2026-04-10T09:40:32.599893"
+date: "2026-04-15T09:21:23.796357"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - canada

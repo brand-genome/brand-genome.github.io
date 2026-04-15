@@ -2,7 +2,7 @@
 title: Air Serbia
 slug: "air-serbia"
 description: ""
-date: "2026-04-10T09:40:30.829893"
+date: "2026-04-15T09:21:22.439401"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - serbia

@@ -2,11 +2,11 @@
 title: Musicnotes
 slug: musicnotes
 description: ""
-date: "2026-04-10T09:40:32.555380"
+date: "2026-04-15T09:21:23.754660"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - music
+  - software
 industries: []
 countries: []
 revenue_buckets: []

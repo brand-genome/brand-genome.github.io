@@ -2,7 +2,7 @@
 title: NCB
 slug: ncb
 description: ""
-date: "2026-04-10T09:40:34.060453"
+date: "2026-04-15T09:21:24.976767"
 draft: false
 sectors:
   - finance
@@ -25,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "hong-kong"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1949
-foundation_year_buckets:
-  - 1940S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: bank based in Hong Kong
-wikidata_url: "https://www.wikidata.org/wiki/Q3335816"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.alahli.com](https://www.alahli.com)
-- [https://www.ncb.com.hk](https://www.ncb.com.hk)
 
 ## Brand Guidelines
 
@@ -124,28 +120,3 @@ visual_term_image_urls: {}
 - Mono-color logo is always used on other dark background of NCB palettes.
 - When production limitation exists and the use of a full color logo is not possible, the grayscale version is to be applied (see color value) and not an automatic conversion.
 - Rarely, the use of monochrome (single color) or bitmap (black and white) versions is necessary. Example: fax transmissions, stamps and film exposure for special finishes such as foil blocking and embossing dyes.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3335816) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Hong Kong](/headquarters_locations/hong-kong/) |
-| Foundation Date | [1949](/foundation_dates/1949/) |
-| Freebase Id | /m/0501qh |
-| Official Name | 南洋商業銀行有限公司, Nanyang Commercial Bank, Limited |
-| Parent Organization Or Unit | Bank of China (Hong Kong) |
-| British Museum Person Or Institution Id | 154967 |
-| Owned By | China Cinda Asset Management Co., Ltd. |
-| Inception | 1949-12-14 |
-| Country | People's Republic of China (from 1997-07-01), British Hong Kong (from 1949-12-14, until 1997-06-30) |
-| Osm Name Suggestion Index Id | nanyangcommercialbank-e57d9a, nanyangcommercialbank-442838 |
-| Headquarters Location | Hong Kong |
-| Crunchbase Organization Id | nanyang-commercial-bank |
-| Image | Nanyang Commercial Bank Building.jpg |
-| Wechat Id | NCB_HK, ncbchina_smn |
-| Linkedin Company Or Organization Id | nanyang-commercial-bank-ltd.-head-office- |
-| Service Status Information Url | https://downdetector.hk/status/nanyang-commercial-bank/ |

@@ -2,7 +2,7 @@
 title: Action/2015
 slug: action2015
 description: ""
-date: "2026-04-10T09:40:33.360663"
+date: "2026-04-15T09:21:24.295280"
 draft: false
 sectors:
   - ngo

@@ -2,12 +2,12 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-04-10T09:40:34.891294"
+date: "2026-04-15T09:21:25.861103"
 draft: false
 sectors:
-  - software
-  - electronics
   - hardware
+  - electronics
+  - software
 regions:
   - japan
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - electronics
+  - corporate
 industries:
   - "consumer-electronics-industry"
   - "electrical-industry"

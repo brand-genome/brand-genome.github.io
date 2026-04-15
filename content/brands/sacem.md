@@ -2,7 +2,7 @@
 title: Sacem
 slug: sacem
 description: ""
-date: "2026-04-10T09:40:33.267652"
+date: "2026-04-15T09:21:24.207897"
 draft: false
 sectors:
   - publishing
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "episode of Seqalu: Formosa 1867"
-wikidata_url: "https://www.wikidata.org/wiki/Q128450214"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,18 +69,3 @@ visual_term_image_urls: {}
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q128450214) |
-
-| Property | Value |
-|----------|-------|
-| Publication Date | 2021-08-21 |
-| Part Of The Series | Seqalu: Formosa 1867 |
-| Title | 蠻荒之境 |
-| Duration | 53 minute |
-| Follows | The Servant |
-| Followed By | The Feud |

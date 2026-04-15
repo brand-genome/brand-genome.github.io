@@ -2,7 +2,7 @@
 title: Starbucks Coffee
 slug: "starbucks-coffee"
 description: ""
-date: "2026-04-10T09:40:34.767665"
+date: "2026-04-15T09:21:25.747727"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries:
   - japan

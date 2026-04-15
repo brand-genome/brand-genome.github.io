@@ -2,7 +2,7 @@
 title: ECHA
 slug: echa
 description: ""
-date: "2026-04-10T09:40:32.776543"
+date: "2026-04-15T09:21:23.854434"
 draft: false
 sectors:
   - "public-sector"
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://echa.europa.eu/en/home](https://echa.europa.eu/en/home)
 - [https://reach-it.echa.europa.eu/reach](https://reach-it.echa.europa.eu/reach)
 - [http://echa.europa.eu/contact](http://echa.europa.eu/contact)
-- [http://eur-lex.europa.eu](http://eur-lex.europa.eu)
 - [https://echa.europa.eu](https://echa.europa.eu)
 
 ## Brand Guidelines

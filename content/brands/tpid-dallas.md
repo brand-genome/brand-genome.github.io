@@ -2,11 +2,11 @@
 title: TPID Dallas
 slug: "tpid-dallas"
 description: ""
-date: "2026-04-10T09:40:32.594791"
+date: "2026-04-15T09:21:23.792586"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:

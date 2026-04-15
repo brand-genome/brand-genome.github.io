@@ -2,11 +2,11 @@
 title: Anchore
 slug: anchore
 description: ""
-date: "2026-04-10T09:40:32.126761"
+date: "2026-04-15T09:21:23.604244"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
-countries:
-  - argentina
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: train station in Argentina
-wikidata_url: "https://www.wikidata.org/wiki/Q5842914"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -276,25 +275,3 @@ visual_term_image_urls: {}
 - Still life photographs are a great way to communicate digital concepts such as containers, security, or automation using objects or scenes from the physical world.
 - Photos should be of the real world, without added objects or graphics. Edits are acceptable, but should always enhance -the best edits are not noticeable.
 - The photo should have a single focal point or subject. In general stay away from repeating patterns, solid surfaces, or abstract spaces. Keep in mind that the subject of a photo does not have to be one-to-one with a title or headline.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5842914) |
-
-| Property | Value |
-|----------|-------|
-| Country | Argentina |
-| Located In The Administrative Territorial Entity | San Isidro Partido |
-| Image | Estacion anchorena 1995.jpg |
-| Coordinate Location | -34.488888888889, -58.481111111111 |
-| Number Of Platform Tracks | 2 |
-| Date Of Official Opening | 1891 |
-| Number Of Platform Faces | 2 |
-| Has Facility | parking area, public toilet |
-| Google Knowledge Graph Id | /g/120pnky3 |
-| Connecting Service | Tren de la Costa |
-| Adjacent Station | Libertador train station, Las Barrancas train station |
-| State Of Use | in use |
-| Transport Network | Buenos Aires Metropolitan Area Trains |

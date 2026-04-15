@@ -2,11 +2,11 @@
 title: HackerOne
 slug: hackerone
 description: ""
-date: "2026-04-10T09:40:33.834400"
+date: "2026-04-15T09:21:24.812960"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - community
+  - software
 industries:
   - "computer-security"
 countries:

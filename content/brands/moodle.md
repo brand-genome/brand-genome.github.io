@@ -2,17 +2,17 @@
 title: Moodle
 slug: moodle
 description: ""
-date: "2026-04-10T09:40:30.968421"
+date: "2026-04-15T09:21:22.586238"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - australia
 years:
-  - 2022
-  - 2019
   - 2023
+  - 2019
+  - 2022
 languages:
   - english
 tags:

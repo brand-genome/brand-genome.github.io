@@ -2,7 +2,7 @@
 title: Commonwealth Games Federation
 slug: "commonwealth-games-federation"
 description: ""
-date: "2026-04-10T09:40:33.155955"
+date: "2026-04-15T09:21:24.084173"
 draft: false
 sectors:
   - sports
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "pall-mall"
   - london
+  - "pall-mall"
 subsidiaries: []
 foundation_dates:
   - 1932
@@ -85,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Pall Mall](/headquarters_locations/pall-mall/); [London](/headquarters_locations/london/) |
+| Headquarters Location | [London](/headquarters_locations/london/); [Pall Mall](/headquarters_locations/pall-mall/) |
 | Foundation Date | [1932](/foundation_dates/1932/) |
 | Inception | 1932 |
 | Main Wikidata Property | Commonwealth Games Federation athlete ID (archived) |

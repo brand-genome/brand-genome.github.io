@@ -2,7 +2,7 @@
 title: Woolmark
 slug: woolmark
 description: ""
-date: "2026-04-10T09:40:32.488494"
+date: "2026-04-15T09:21:23.699918"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

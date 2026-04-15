@@ -2,7 +2,7 @@
 title: Bangor University
 slug: "bangor-university"
 description: ""
-date: "2026-04-10T09:40:33.217230"
+date: "2026-04-15T09:21:24.162589"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

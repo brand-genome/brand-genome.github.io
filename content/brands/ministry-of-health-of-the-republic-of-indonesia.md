@@ -2,7 +2,7 @@
 title: Ministry of Health of the Republic of Indonesia
 slug: "ministry-of-health-of-the-republic-of-indonesia"
 description: ""
-date: "2026-04-10T09:40:30.749098"
+date: "2026-04-15T09:21:22.342413"
 draft: false
 sectors:
   - "public-sector"

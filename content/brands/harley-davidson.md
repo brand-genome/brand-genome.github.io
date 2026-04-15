@@ -2,13 +2,13 @@
 title: Harley Davidson
 slug: "harley-davidson"
 description: ""
-date: "2026-04-10T09:40:32.751507"
+date: "2026-04-15T09:21:23.848829"
 draft: false
 sectors:
-  - finance
   - "consumer-goods"
   - automobile
   - insurance
+  - finance
 regions:
   - usa
 years:
@@ -19,8 +19,7 @@ tags:
   - featured
   - transport
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,10 +31,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2008
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +54,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "transport museum in Milwaukee, Wisconsin"
-wikidata_url: "https://www.wikidata.org/wiki/Q5658750"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -74,8 +71,6 @@ visual_term_image_urls: {}
 - [https://www.harley-davidson.com/us/en/content/hog.html](https://www.harley-davidson.com/us/en/content/hog.html)
 - [https://www.h-dvisa.com](https://www.h-dvisa.com)
 - [http://www.harley-davidson.com](http://www.harley-davidson.com)
-- [http://www.harley-davidson.com/museum](http://www.harley-davidson.com/museum)
-- [https://www.harley-davidson.com/us/en/museum.html](https://www.harley-davidson.com/us/en/museum.html)
 
 ## Brand Guidelines
 
@@ -213,26 +208,3 @@ visual_term_image_urls: {}
 - Dealers are responsible for all Web site content, including any advertising space sold to third parties. All provisions of the Dealer Agreement with respect to use of the Company's trademarks are in full force and effect on the Internet. The Company's guidelines (regulating proportions, spacing, colors, type styles, etc.) are in full force and effect on the Internet. All trademarks owned by the Company should be appropri­ately marked with® or TM. A list of trademarks and their proper markings is available on h-dnet.com and should be passed on to the Web site administrator.
 - Advertising or promotion of products and services on deal­er/distributor Web sites displaying Harley-Davidson Motor Company trademarks is limited to products and services marketed by the Company and may not include competitive brands or references to competitive-brand Web sites.
 - Harley-Davidson dealers participating in a Web-based promotion (or any other promotion) should follow the guide­lines as stated in the Authorized Dealer Rights and outlined below: • Dealers participating with a regional or a national brand, company, or organization must clearly identify their deal­ership name and location. • A Harley-Davidson Motor Company disclaimer must be included in related content on the promotional Web site. This disclaimer should read, "This promotion I campaign / sweepstakes / other is not sponsored by Harley-Davidson Motor Company."
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5658750) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2008](/foundation_dates/2008/) |
-| Coordinate Location | 43.031349, -87.916828 |
-| Country | United States |
-| Located In The Administrative Territorial Entity | Wisconsin |
-| Image | Harley-Davidson Museum 0057.jpg |
-| Inception | 2008-07-12 |
-| Visitors Per Year | 300,000 |
-| Quora Topic Id | Harley-Davidson-Museum |
-| Library Of Congress Authority Id | no2008166436 |
-| Viaf Cluster Id | 138773550 |
-| Location | Milwaukee |
-| Category For The Interior Of The Item | Category:Interior of the Harley-Davidson Museum |
-| Freebase Id | /m/026zjp3 |
-| Openstreetmap Relation Id | 12140094 |

@@ -2,7 +2,7 @@
 title: City of Ulm
 slug: "city-of-ulm"
 description: ""
-date: "2026-04-10T09:40:30.777884"
+date: "2026-04-15T09:21:22.377336"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.ulm.de](https://www.ulm.de)
 - [https://www.ulm.de/de-de](https://www.ulm.de/de-de)
 - [http://www.ulm.de](http://www.ulm.de)
-- [http://www.youtube.com/ulmfilme](http://www.youtube.com/ulmfilme)
 
 ## Brand Guidelines
 

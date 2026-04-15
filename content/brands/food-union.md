@@ -2,7 +2,7 @@
 title: Food Union
 slug: "food-union"
 description: ""
-date: "2026-04-10T09:40:30.668444"
+date: "2026-04-15T09:21:22.234107"
 draft: false
 sectors:
   - food

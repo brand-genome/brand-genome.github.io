@@ -2,16 +2,16 @@
 title: Epson
 slug: epson
 description: ""
-date: "2026-04-10T09:40:34.450780"
+date: "2026-04-15T09:21:25.393955"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
-  - 2013
   - 2010
+  - 2013
 languages:
   - english
 tags:

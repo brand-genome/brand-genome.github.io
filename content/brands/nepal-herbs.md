@@ -2,7 +2,7 @@
 title: Nepal Herbs
 slug: "nepal-herbs"
 description: ""
-date: "2026-04-10T09:40:33.251530"
+date: "2026-04-15T09:21:24.196132"
 draft: false
 sectors:
   - "wellness-spa"

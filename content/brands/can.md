@@ -2,11 +2,11 @@
 title: Can
 slug: can
 description: ""
-date: "2026-04-10T09:40:34.019728"
+date: "2026-04-15T09:21:24.938288"
 draft: false
 sectors:
-  - ngo
   - "coworking-flexible-office"
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1968
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: German experimental rock band
-wikidata_url: "https://www.wikidata.org/wiki/Q170132"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://canopi.org.uk](https://canopi.org.uk)
-- [http://www.spoonrecords.com](http://www.spoonrecords.com)
 
 ## Brand Guidelines
 
@@ -275,77 +272,3 @@ visual_term_image_urls: {}
 - Do not place the logo on a busy background
 - Do not use the logo in one language
 - Do not separate or reposition components of the logo.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q170132) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1968](/foundation_dates/1968/) |
-| Discography | Can discography |
-| Musicbrainz Artist Id | 13501c7d-d181-45ba-af52-5f101d8516a0 |
-| Genre | progressive rock, Krautrock, art rock |
-| Topic'S Main Category | Category:Can (band) |
-| Freebase Id | /m/01l64nh |
-| Gnd Id | 5209599-X |
-| Library Of Congress Authority Id | n95075498 |
-| Viaf Cluster Id | 312847005, 3592163710055529700009 |
-| Location Of Formation | Cologne |
-| Munzinger Pop Id | 02000000762 |
-| Allmusic Artist Id | mn0000645612 |
-| Discogs Artist Id | 17203 |
-| X (Twitter) Username | SpoonRecords (as of 2021-09-14, from 2011-05-13) |
-| Facebook Username | officialCan |
-| Record Label | Liberty Records |
-| Rolling Stone Artist Id | can |
-| Inception | 1968-01-01 |
-| Isni | 000000046027920X, 0000000123641669 |
-| Encyclopedia Of Science Fiction Id | can |
-| Songkick Artist Id | 469796 |
-| Idref Id | 074081403 |
-| Bibliothèque Nationale De France Id | 139022543 |
-| Billboard Artist Id | can |
-| Country Of Origin | Germany |
-| Acharts.Co Artist Id | can |
-| Start Of Work Period | 1968 |
-| Nl Cr Aut Id | xx0029783 |
-| Larousse Id | groupe-musical/wd/155691 |
-| Spotify Artist Id | 4l8xPGtl6DHR2uvunqrl8r |
-| Apple Music Artist Id | 647564 |
-| Muziekweb Performer Id | M00000090111 |
-| Soundcloud Id | can-official |
-| Whosampled Artist Id | Can |
-| Deezer Artist Id | 2344 |
-| Secondhandsongs Artist Id | 17460 |
-| Musixmatch Artist Id | Can |
-| Rate Your Music Artist Id | can |
-| Amazon Music Artist Id | B000QKKMXY |
-| Last.Fm Id | Can |
-| Genius Artist Id | Can |
-| Different From | Can |
-| Lyricstranslate Id | inner-space-can-lyrics.html |
-| Member Category | Category:Can (band) members |
-| Name | Can |
-| Award Received | Echo Pop Honorary Award (as of 2003), Qwartz Electronic Music Awards |
-| National Library Of Israel J9U Id | 987009541266705171 |
-| Great Norwegian Encyclopedia Id | Can |
-| Jaxsta Profile Id | 8d710bee-ebcc-4fb0-a701-3b1888e5d8b0 |
-| Bbc Things Id | 8f182877-89f9-47f4-8616-ee6666a0866c |
-| Topic Has Template | Template:Can (band) |
-| Radio France Person Id | can |
-| Image | Can 1972 (Heinrich Klaffs Collection 102).jpg (as of 1972) |
-| Museum Digital Id | 21846 |
-| Imdb Id | nm0133453 |
-| Significant Person | Jaki Liebezeit, Michael Karoli, Irmin Schmidt, Holger Czukay, Malcolm Mooney (+4 more) |
-| Fast Id | 709177 |
-| Ldif Person Id | 58127 |
-| Ne.Se Id | can-(rockgrupp) |
-| ‎Yale Lux Id | group/5e5c3134-24d3-456e-96ad-2e9f68916914 |
-| Ndl Authority Id | 034105941 |
-| Album Of The Year Artist Id | 3240 |
-| Latvian National Encyclopedia Online Id | 9133 |
-| Conor.Si Id | 334622563 |
-| Čsfd Person Id | 408138 |

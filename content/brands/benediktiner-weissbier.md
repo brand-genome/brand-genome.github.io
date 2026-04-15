@@ -2,11 +2,11 @@
 title: Benediktiner Weissbier
 slug: "benediktiner-weissbier"
 description: ""
-date: "2026-04-10T09:40:31.453960"
+date: "2026-04-15T09:21:23.108255"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - germany
 years:

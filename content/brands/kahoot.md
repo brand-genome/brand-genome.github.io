@@ -2,11 +2,11 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-04-10T09:40:32.592249"
+date: "2026-04-15T09:21:23.790465"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - norway
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Children's educational software"
-wikidata_url: "https://www.wikidata.org/wiki/Q6347127"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 - [https://status.kahoot.com](https://status.kahoot.com)
 - [https://create.kahoot.it](https://create.kahoot.it)
 - [http://www.kahoot.com](http://www.kahoot.com)
-- [http://www.kahootz.com](http://www.kahootz.com)
 
 ## Brand Guidelines
 
@@ -198,15 +197,3 @@ visual_term_image_urls: {}
 - DON’T thoughtlessly place illustrations.
 - They should serve a distinct purpose, especially alongside text.
 - DON’T use neutral colors as a base. Illustrations should be colorful, based off our official brand colors.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6347127) |
-
-| Property | Value |
-|----------|-------|
-| Quora Topic Id | Kahootz |
-| Has Use | 3D computer graphics |
-| Freebase Id | /m/0cb6_d |

@@ -2,61 +2,37 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-04-10T09:40:34.497978"
+date: "2026-04-15T09:21:25.433701"
 draft: false
 sectors:
-  - hardware
   - networking
   - cybersecurity
+  - hardware
 regions:
   - usa
 years:
-  - 2017
   - 2018
+  - 2017
 languages:
   - english
 tags:
-  - networks
   - technology
-industries:
-  - telecommunications
-  - "computer-science"
-  - "online-service"
-countries:
-  - italy
-revenue_buckets:
-  - "100M-500M"
+  - networks
+industries: []
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "100-1K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "certified-email"
-  - "digital-preservation"
-  - "fiber-optic-communication"
-  - "internet-service-provider"
-  - email
-  - "digital-signature"
-  - "public-key-certificate"
-  - "electronic-billing"
-  - "online-service-provider"
-  - "colocation-centre"
-  - "domain-name-server"
-  - "server-computer"
-  - "cloud-computing"
-  - "internet-hosting-service"
-  - "sistema-pubblico-di-identita-digitale"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "ponte-san-pietro"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1994
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -78,8 +54,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Italian registrar and Web hosting company
-wikidata_url: "https://www.wikidata.org/wiki/Q3624634"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -92,9 +68,6 @@ visual_term_image_urls: {}
 - [https://www.hpe.com/us/en/networking/hpe-aruba-networking.html](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html)
 - [https://instant-on.hpe.com](https://instant-on.hpe.com)
 - [https://buy.hpe.com/us/en/hpe-aruba-networking](https://buy.hpe.com/us/en/hpe-aruba-networking)
-- [http://www.pomeroy.com](http://www.pomeroy.com)
-- [https://www.aruba.it](https://www.aruba.it)
-- [http://www.technet.it](http://www.technet.it)
 
 ## Brand Guidelines
 
@@ -971,49 +944,3 @@ visual_term_image_urls: {}
 ##### Promotion
 
 - The Aruba brand can be applied to items and products to extend the brand in unconventional ways for a variety of purposes. The brand's identity and visual style can be expressed using unique print processes like embossing, silkscreen and embroidery, for example.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3624634) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Certified Email](/products_or_materials_produced/certified-email/); [Digital Preservation](/products_or_materials_produced/digital-preservation/); [Fiber Optic Communication](/products_or_materials_produced/fiber-optic-communication/); [Internet Service Provider](/products_or_materials_produced/internet-service-provider/); [Email](/products_or_materials_produced/email/); [Digital Signature](/products_or_materials_produced/digital-signature/); [Public Key Certificate](/products_or_materials_produced/public-key-certificate/); [Electronic Billing](/products_or_materials_produced/electronic-billing/); [Online Service Provider](/products_or_materials_produced/online-service-provider/); [Colocation Centre](/products_or_materials_produced/colocation-centre/); [Domain Name Server](/products_or_materials_produced/domain-name-server/); [Server Computer](/products_or_materials_produced/server-computer/); +3 more |
-| Headquarters Location | [Ponte San Pietro](/headquarters_locations/ponte-san-pietro/) |
-| Foundation Date | [1994](/foundation_dates/1994/) |
-| Location Of Formation | Florence |
-| Inception | 1994 |
-| Legal Form | società per azioni (from 2004), società a responsabilità limitata (from 1994, until 2004) |
-| Headquarters Location | Ponte San Pietro |
-| Country | Italy |
-| Google Knowledge Graph Id | /g/1225qdd7 |
-| Official Name | Aruba S.p.A. (from 2004), Technorail S.r.l. (from 1994, until 2004) |
-| Industry | computer science, telecommunications, online service |
-| Eu Transparency Register Id | 409366040622-11 |
-| Facebook Username | aruba.it |
-| X (Twitter) Username | arubait (as of 2022-12-26, from 2011-04-29) |
-| Linkedin Company Or Organization Id | aruba-s-p-a- |
-| Youtube Channel Id | UCKv_GFFKfSqyiGEtQJGzbCQ (as of 2023-01-01, from 2012-11-05) |
-| Eu Vat Number | IT01573850516 |
-| Product Or Material Produced | internet hosting service, internet service provider, Domain Name Server, cloud computing, colocation centre (+10 more) |
-| Crunchbase Organization Id | aruba-3823 |
-| Member Of | Associazione Italiana Internet Provider |
-| Social Media Followers | 11,114 (as of 2022-12-27), 8,470 (as of 2022-12-28), 9,400 (as of 2023-05-31), 10,800 (as of 2024-01-14), 11,900 (as of 2024-04-27) (+2 more) |
-| Pinterest Username | arubaspa |
-| Slideshare Username | Aruba-spa |
-| Trustpilot Company Id | www.aruba.it |
-| Google+ Id | 105465590686952538126 |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $168.50M | as of 2020 | [100M-500M](/revenue_buckets/100m-500m/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 900 | as of 2021 | [100-1K](/employees_buckets/100-1k/) |

@@ -2,7 +2,7 @@
 title: Aera Science Park
 slug: "aera-science-park"
 description: ""
-date: "2026-04-10T09:40:34.903663"
+date: "2026-04-15T09:21:25.871904"
 draft: false
 sectors:
   - research

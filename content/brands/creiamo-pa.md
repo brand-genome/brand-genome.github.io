@@ -2,7 +2,7 @@
 title: CReIAMO PA
 slug: "creiamo-pa"
 description: ""
-date: "2026-04-10T09:40:33.117202"
+date: "2026-04-15T09:21:24.050914"
 draft: false
 sectors:
   - "public-sector"

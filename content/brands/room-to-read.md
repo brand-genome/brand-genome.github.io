@@ -2,23 +2,23 @@
 title: Room to Read
 slug: "room-to-read"
 description: ""
-date: "2026-04-10T09:40:30.926113"
+date: "2026-04-15T09:21:22.537216"
 draft: false
 sectors:
-  - ngo
-  - education
   - publishing
+  - education
+  - ngo
 regions:
   - usa
 years:
-  - 2016
   - 2023
+  - 2016
 languages:
   - english
 tags:
-  - ngo
   - featured
   - education
+  - ngo
 industries:
   - education
 countries:

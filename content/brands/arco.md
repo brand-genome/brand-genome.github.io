@@ -2,7 +2,7 @@
 title: ARCO
 slug: arco
 description: ""
-date: "2026-04-10T09:40:31.948447"
+date: "2026-04-15T09:21:23.385164"
 draft: false
 sectors:
   - "petrol-station"
@@ -15,8 +15,7 @@ languages:
 tags:
   - corporate
 industries: []
-countries:
-  - spain
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: book publisher
-wikidata_url: "https://www.wikidata.org/wiki/Q51452513"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.arco.com](https://www.arco.com)
 - [http://www.arco.com](http://www.arco.com)
-- [http://www.arcomuralla.com](http://www.arcomuralla.com)
 
 ## Brand Guidelines
 
@@ -314,18 +312,3 @@ visual_term_image_urls: {}
 - Animate Identity HD (1920x1080)
 - Static Title Card HD (1920x1080)
 - Static Title Card Standard (720x486)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q51452513) |
-
-| Property | Value |
-|----------|-------|
-| Country | Spain |
-| Viaf Cluster Id | 144523767 |
-| On Focus List Of Wikimedia Project | Wikidata:WikiProject Academic Publisher |
-| Openalex Id | P4310320816 |
-| Library Of Congress Authority Id | no00093461 |
-| Archinform Person/Group Id | 30029 |

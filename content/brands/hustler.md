@@ -2,7 +2,7 @@
 title: Hustler
 slug: hustler
 description: ""
-date: "2026-04-10T09:40:34.471540"
+date: "2026-04-15T09:21:25.411277"
 draft: false
 sectors:
   - "consumer-goods"
@@ -14,8 +14,7 @@ languages:
   - english
 tags:
   - corporate
-industries:
-  - "pornography-industry"
+industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -24,16 +23,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "pornographic-film"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "united-states"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1998
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American pornographic film studio
-wikidata_url: "https://www.wikidata.org/wiki/Q5950024"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.hustlerdealers.com/en-US](https://www.hustlerdealers.com/en-US)
 - [https://ad-materials.hustlerturf.com](https://ad-materials.hustlerturf.com)
 - [http://www.hustlerturf.com](http://www.hustlerturf.com)
-- [http://www.hustlervideo.com](http://www.hustlervideo.com)
 
 ## Brand Guidelines
 
@@ -147,30 +141,3 @@ visual_term_image_urls: {}
 - Clear space around the vertical logo should be equal to at least one third of the height of the logo.
 - The minimum size of the vertical logo should not be less than 7/16 inch in height for print usage.
 - For Web use, the minimum size of the logo should not be less than 60 pixels in height.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5950024) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Pornographic Film](/products_or_materials_produced/pornographic-film/) |
-| Headquarters Location | [United States](/headquarters_locations/united-states/) |
-| Foundation Date | [1998](/foundation_dates/1998/) |
-| Founded By | Larry Flynt |
-| Inception | 1998 |
-| Headquarters Location | United States |
-| Freebase Id | /m/05pdbqb |
-| Product Or Material Produced | pornographic film |
-| Image | Hustler Booth AVN 2010.jpg |
-| Aiwards Id | studio/hustler-video |
-| Iafd Film Distributor Id | 1351 |
-| Industry | pornography industry |
-| Eidr Party Id | 10.5237/9F41-EF94 |
-| Imdb Id | co0035870 |
-| Youtube Handle | HUSTLERUnlimited |
-| Privacy Policy Url | https://hustlerunlimited.com/privacy-policy/ |
-| Terms Of Service Url | https://hustlerunlimited.com/terms-of-service/ |
-| Subclass Of | pornographic film studio |

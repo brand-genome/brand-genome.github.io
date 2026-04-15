@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-04-10T09:40:34.002581"
+date: "2026-04-15T09:21:24.923777"
 draft: false
 sectors:
   - finance

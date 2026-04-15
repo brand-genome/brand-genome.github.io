@@ -2,12 +2,12 @@
 title: UEA
 slug: uea
 description: ""
-date: "2026-04-10T09:40:34.776897"
+date: "2026-04-15T09:21:25.755965"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,8 @@ languages:
   - english
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

@@ -2,11 +2,11 @@
 title: "CMLO&CO"
 slug: cmloco
 description: ""
-date: "2026-04-10T09:40:32.088026"
+date: "2026-04-15T09:21:23.573144"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - brazil
 years:

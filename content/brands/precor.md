@@ -2,7 +2,7 @@
 title: Precor
 slug: precor
 description: ""
-date: "2026-04-10T09:40:34.884752"
+date: "2026-04-15T09:21:25.855623"
 draft: false
 sectors:
   - fitness
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: InterPro Family
-wikidata_url: "https://www.wikidata.org/wiki/Q24720279"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -65,16 +65,3 @@ visual_term_image_urls: {}
 - [https://www.precor.com/en-US](https://www.precor.com/en-US)
 - [https://precorathome.com](https://precorathome.com)
 - [https://my.preva.com](https://my.preva.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q24720279) |
-
-| Property | Value |
-|----------|-------|
-| Interpro Id | IPR012382 |
-| Has Part(S) | Precorrin-2 C(20)-methyltransferase domain |
-| Subclass Of | protein, S-adenosylmethionine-dependent methyltransferase, Precorrin-2 C20-methyltransferase |
-| Molecular Function | precorrin-2 C20-methyltransferase activity, S-adenosylmethionine-dependent methyltransferase activity |

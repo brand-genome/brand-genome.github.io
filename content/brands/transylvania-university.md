@@ -2,11 +2,11 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-04-10T09:40:34.509366"
+date: "2026-04-15T09:21:25.443382"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.transy.edu](https://www.transy.edu)
-- [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.transy.edu](http://www.transy.edu)
 
 ## Brand Guidelines

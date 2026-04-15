@@ -2,7 +2,7 @@
 title: Assembly Wealth
 slug: "assembly-wealth"
 description: ""
-date: "2026-04-10T09:40:30.808356"
+date: "2026-04-15T09:21:22.410797"
 draft: false
 sectors:
   - finance

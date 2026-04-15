@@ -2,7 +2,7 @@
 title: Rocky Mountaineer
 slug: "rocky-mountaineer"
 description: ""
-date: "2026-04-10T09:40:30.727151"
+date: "2026-04-15T09:21:22.317006"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - tourism
-  - regional
   - transport
+  - regional
 industries: []
 countries:
   - canada

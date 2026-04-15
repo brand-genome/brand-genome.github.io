@@ -2,7 +2,7 @@
 title: Amnesty International UK
 slug: "amnesty-international-uk"
 description: ""
-date: "2026-04-10T09:40:31.459173"
+date: "2026-04-15T09:21:23.114557"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - featured
+  - ngo
 industries: []
 countries:
   - "united-kingdom"

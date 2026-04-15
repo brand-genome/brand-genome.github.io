@@ -2,7 +2,7 @@
 title: Coolbrook
 slug: coolbrook
 description: ""
-date: "2026-04-10T09:40:32.125906"
+date: "2026-04-15T09:21:23.603607"
 draft: false
 sectors:
   - "renewable-energy"
@@ -15,8 +15,7 @@ languages:
 tags:
   - technology
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "park in Dollard-des-Ormeaux (Quebec, Canada)"
-wikidata_url: "https://www.wikidata.org/wiki/Q134349118"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -117,23 +116,3 @@ visual_term_image_urls: {}
 - Clear space is the area that is required around the outside of our logo. It must be kept free of other graphic elements such as headlines, text, images and the outside edge of materials.
 - The minimum required clear space for the logo is defined by the measurement as shown. This measurement is equal to the height of the letter O in the word mark.
 - Consistent usage of our Electric Blue or White logos on our supporting color palette helps build recognition of our brand and ensures our logo is always rendered with proper impact and legibility.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q134349118) |
-
-| Property | Value |
-|----------|-------|
-| Country | Canada |
-| Located In The Administrative Territorial Entity | Dollard-des-Ormeaux |
-| Street Address | 260, rue Spring Garden, 260 Spring Garden Street |
-| Postal Code | H9B 1S6 |
-| Sport | baseball, tennis, association football |
-| Coordinate Location | 45.49861111111111, -73.79194444444444 |
-| Openstreetmap Way Id | 87654673 |
-| Place Name Sign | Parc Coolbrooke, plaque toponymique.jpg |
-| Open Days | all days of the week |
-| Image | Parc Coolbrooke, espace picnic.jpg |
-| Has Part(S) | Coolbrooke park baseball field |

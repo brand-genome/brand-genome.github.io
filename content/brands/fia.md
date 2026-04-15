@@ -2,7 +2,7 @@
 title: FIA
 slug: fia
 description: ""
-date: "2026-04-10T09:40:34.771441"
+date: "2026-04-15T09:21:25.750870"
 draft: false
 sectors:
   - "public-sector"
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - transport
-industries:
-  - "automotive-industry"
-countries:
-  - italy
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,16 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - car
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - turin
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1899
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Italian automotive company
-wikidata_url: "https://www.wikidata.org/wiki/Q27597"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fia.com](https://www.fia.com)
-- [https://www.fiat.com](https://www.fiat.com)
 
 ## Brand Guidelines
 
@@ -197,77 +190,3 @@ visual_term_image_urls: {}
 - do noT dIsPlAy ThE BrAnd MArKs In Any oF ThE FolloWInG ForMs: • Outlined • On textured or patterned backgrounds • With drop shadows • In headlines or text • As a screen or tint • As part of another brand mark or illustration • As a decorative device
 - The Multi Brand examples below illustrate specific size requirements to ensure the optimal reproduction of the brand marks. Adhering to these rules is mandatory
 - CJDRFM 3D Horz I0-14mm Use this version for the reproduction including the FIAT brand mark with a diameter of I Omm -14mm CHRYSLER Jeep Ra■ M□PAR. 10mm-14mm (without background lines) CJDRFM 3D Herz 15-19mm Use this version for the reproduction including the FIAT brand mark with a diameter of 15mm -19mm CHRYSLER Jeep RA M□PAR. 15mm-19mm CJDRFM 3D Horz 20-1000mm Use this version for the reproduction including the FIAT brand mark with a diameter of 20mm -l 000mm CHRYSLER Jeep RA■ M□PAR. 20mm-1000mm
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q27597) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
-| Headquarters Location | [Turin](/headquarters_locations/turin/) |
-| Foundation Date | [1899](/foundation_dates/1899/) |
-| Founded By | Giovanni Agnelli |
-| Country | Italy |
-| Owned By | Stellantis Europe (from 2007),  (until 2007) |
-| Headquarters Location | Turin |
-| Freebase Id | /m/04n3_w4 |
-| Topic'S Main Category | Category:Fiat |
-| Inception | 1899-07-11 |
-| Commons Gallery | Fiat |
-| Encyclopædia Britannica Online Id | topic/Fiat-SpA |
-| Location Of Formation | Turin |
-| Legal Form | società per azioni |
-| Industry | automotive industry |
-| Quora Topic Id | Fiat-Automobiles, Fiat-3 |
-| Itu/Iso/Iec Object Id | 1.3.6.1.4.1.21339 |
-| Permid | 4295875588 |
-| Chief Executive Officer | Olivier François (from 2011) |
-| Parent Organization Or Unit | Fiat Chrysler Automobiles (from 2014, until 2021), Fiat Group (until 2014), Stellantis (from 2021) |
-| Great Norwegian Encyclopedia Id | Fiat |
-| Ne.Se Id | fiat |
-| Dagens Nyheter Topic Id | fiat |
-| Uk Parliament Thesaurus Id | 34199 |
-| Youtube Channel Id | UC_nBvBIV0K6P5C3tA27Hwrg (as of 2020-12-07, from 2009-03-20) |
-| Facebook Username | Fiat |
-| X (Twitter) Username | fiat (as of 2020-04-19, from 2009-03-20), fiatontheweb (as of 2015-08-16, from 2009-03-20) |
-| Wmi Code | ZFA |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0230067 |
-| Microsoft Academic Id (Discontinued) | 125077922 |
-| Product Or Material Produced | car |
-| Osm Name Suggestion Index Id | fiat-13eeb7, fiat-dc8719 |
-| Social Media Followers | 179,225 (as of 2021-01-04), 176,901 (as of 2020-04-19), 58,300 (as of 2021-07-03), 182,797 (as of 2022-01-08), 189,787 (as of 2023-02-07) (+3 more) |
-| Open Library Subject Id | fiat_(firm) |
-| Image | FiatMirafiori6.jpg |
-| Lex Id | Fiat |
-| Musicbrainz Label Id | 1842edaa-a1c0-4ff9-bd2b-fe6e65c8f77b |
-| Nl Cr Aut Id | ph208168 |
-| Golden Id | Fiat_Automobiles-9X95KE |
-| Pixiv Encyclopedia Id | フィアット |
-| Crunchbase Organization Id | fiat-63e6 |
-| Encyclopedia Of China (Third Edition) Id | 462729 |
-| Pm20 Film Section Id | h1/co/A0261H/0237/L (from 1931) |
-| Topic Has Template | Template:Fiat |
-| Great Russian Encyclopedia Portal Id | fiat-fe3a1e |
-| Inapp Author Id | 10736 |
-| Gran Enciclopèdia Catalana Id | fabbrica-italiana-automobili-torino |
-| Museum Digital Id | 81284 |
-| Vikidia Article Id | es:Fiat, fr:Fiat |
-| Chairperson | John Elkann (from 2010) |
-| Niconicopedia Id | フィアット |
-| France 24 Topic Id (French) | fiat |
-| Reddit Topic Id | fiat |
-| ‎Private Enterprise Number | 21339 |
-| Eu Vat Number | IT09487650013 |
-| Official Name | Fiat Automobiles S.p.A. |
-| Instagram Username | fiat, fiatontheweb |
-| Google+ Id | 111811790542649932315 |
-| Trustpilot Company Id | www.fiat.com |
-| Linkedin Company Or Organization Id | fiatauto, fiat-brand |
-| De Agostini Id | FIAT+S.p.A. |
-| Treccani Id | fiat |
-| Treccani'S Dizionario Di Economia E Finanza Id | fiat |
-| Fandom Article Id | logos:Fiat |
-| Category For Employees Of The Organization | Category:Fiat people |

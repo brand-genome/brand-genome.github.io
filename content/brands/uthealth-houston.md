@@ -2,7 +2,7 @@
 title: UTHealth Houston
 slug: "uthealth-houston"
 description: ""
-date: "2026-04-10T09:40:32.186743"
+date: "2026-04-15T09:21:23.643861"
 draft: false
 sectors:
   - university
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 - [https://med.uth.edu](https://med.uth.edu)
 - [http://dentistry.uth.edu](http://dentistry.uth.edu)
 - [http://nba.uth.tmc.edu](http://nba.uth.tmc.edu)
-- [http://www.tmc.edu](http://www.tmc.edu)
 - [https://sbmi.uth.edu/nccd](https://sbmi.uth.edu/nccd)
 - [https://sph.uth.edu/research/centers/hgc](https://sph.uth.edu/research/centers/hgc)
 

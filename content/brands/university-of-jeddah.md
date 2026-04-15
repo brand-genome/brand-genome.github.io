@@ -2,7 +2,7 @@
 title: University of Jeddah
 slug: "university-of-jeddah"
 description: ""
-date: "2026-04-10T09:40:33.297712"
+date: "2026-04-15T09:21:24.233843"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - arabic
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "saudi-arabia"

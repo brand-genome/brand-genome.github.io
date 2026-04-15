@@ -2,16 +2,16 @@
 title: Barbican Centre
 slug: "barbican-centre"
 description: ""
-date: "2026-04-10T09:40:32.013471"
+date: "2026-04-15T09:21:23.434285"
 draft: false
 sectors:
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2007
+  - 2013
 languages:
   - english
 tags:

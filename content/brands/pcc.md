@@ -2,7 +2,7 @@
 title: PCC
 slug: pcc
 description: ""
-date: "2026-04-10T09:40:34.792194"
+date: "2026-04-15T09:21:25.769790"
 draft: false
 sectors:
   - "public-sector"
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - corporate
-industries:
-  - "computer-peripherals"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - chatsworth
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1967
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American computer company (1967–1987)
-wikidata_url: "https://www.wikidata.org/wiki/Q2072547"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -75,22 +70,3 @@ visual_term_image_urls: {}
 ### 2010
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2072547) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Chatsworth](/headquarters_locations/chatsworth/) |
-| Foundation Date | [1967](/foundation_dates/1967/) |
-| Country | United States |
-| Headquarters Location | Chatsworth |
-| Dissolved, Abolished Or Demolished Date | 1980, 1987-02 |
-| Freebase Id | /m/07jfjm |
-| Quora Topic Id | Pertec-Computer-Corporation |
-| Industry | Computer Peripherals |
-| Inception | 1967 |
-| T10 Vendor Id String | PERTEC |

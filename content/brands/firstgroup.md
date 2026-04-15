@@ -2,11 +2,11 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-04-10T09:40:34.476769"
+date: "2026-04-15T09:21:25.415861"
 draft: false
 sectors:
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - germany
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - speyer
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1934
-foundation_year_buckets:
-  - 1930S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: transport company in Germany
-wikidata_url: "https://www.wikidata.org/wiki/Q2657565"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.firstgroupplc.com](https://www.firstgroupplc.com)
 - [http://www.firsttravelsolutions.com](http://www.firsttravelsolutions.com)
 - [http://www.gwr.com](http://www.gwr.com)
-- [https://www.viabus.de](https://www.viabus.de)
 
 ## Brand Guidelines
 
@@ -226,20 +221,3 @@ visual_term_image_urls: {}
 - Carta Fedrigoni Splndorgel EW da 300 gr/mq
 - Formato 210x297mm.
 - Stampa 1 colore Pantane 300 U
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2657565) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Speyer](/headquarters_locations/speyer/) |
-| Foundation Date | [1934](/foundation_dates/1934/) |
-| Country | Germany |
-| Inception | 1934 |
-| Headquarters Location | Speyer |
-| Official Name | Arthur Merl, VerwaItungs-GmbH (until 2008-03-25), BRH ViaBus GmbH (from 2011-12-01), FirstGroup Rhein-Neckar GmbH (from 2008-03-25, until 2011-12-01) |
-| Member Of | Rhein-Main-Verkehrsverbund |
-| Google Knowledge Graph Id | /g/1hl3hj2gg |

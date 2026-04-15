@@ -2,12 +2,12 @@
 title: York Archaeology
 slug: "york-archaeology"
 description: ""
-date: "2026-04-10T09:40:31.555647"
+date: "2026-04-15T09:21:23.202705"
 draft: false
 sectors:
-  - ngo
-  - "arts-culture"
   - research
+  - "arts-culture"
+  - ngo
 regions:
   - "united-kingdom"
 years:

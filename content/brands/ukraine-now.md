@@ -2,7 +2,7 @@
 title: Ukraine Now
 slug: "ukraine-now"
 description: ""
-date: "2026-04-10T09:40:34.417575"
+date: "2026-04-15T09:21:25.363772"
 draft: false
 sectors:
   - "public-sector"

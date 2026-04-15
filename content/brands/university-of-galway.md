@@ -2,12 +2,12 @@
 title: University of Galway
 slug: "university-of-galway"
 description: ""
-date: "2026-04-10T09:40:32.000008"
+date: "2026-04-15T09:21:23.428433"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - ireland
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - ireland

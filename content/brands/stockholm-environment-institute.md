@@ -2,7 +2,7 @@
 title: Stockholm Environment Institute
 slug: "stockholm-environment-institute"
 description: ""
-date: "2026-04-10T09:40:30.584982"
+date: "2026-04-15T09:21:22.123983"
 draft: false
 sectors:
   - research

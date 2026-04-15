@@ -2,7 +2,7 @@
 title: San Diego State Athletics
 slug: "san-diego-state-athletics"
 description: ""
-date: "2026-04-10T09:40:34.715308"
+date: "2026-04-15T09:21:25.697370"
 draft: false
 sectors:
   - sports

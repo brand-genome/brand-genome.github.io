@@ -2,7 +2,7 @@
 title: British Airways
 slug: "british-airways"
 description: ""
-date: "2026-04-10T09:40:34.911186"
+date: "2026-04-15T09:21:25.879722"
 draft: false
 sectors:
   - tourism
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - corporate
-  - airline
   - transport
+  - airline
+  - corporate
 industries: []
 countries:
   - "united-kingdom"

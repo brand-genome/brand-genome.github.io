@@ -2,15 +2,15 @@
 title: Massif des Vosges
 slug: "massif-des-vosges"
 description: ""
-date: "2026-04-10T09:40:33.114286"
+date: "2026-04-15T09:21:24.048145"
 draft: false
 sectors:
   - tourism
 regions:
   - france
 years:
-  - 2016
   - 2015
+  - 2016
 languages:
   - french
 tags:

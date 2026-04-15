@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-04-10T09:40:34.004048"
+date: "2026-04-15T09:21:24.925101"
 draft: false
 sectors:
-  - ngo
   - education
-  - "arts-culture"
   - "public-sector"
   - research
+  - ngo
+  - "arts-culture"
 regions:
   - international
 years:

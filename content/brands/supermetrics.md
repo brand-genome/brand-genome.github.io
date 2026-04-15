@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-04-10T09:40:32.114162"
+date: "2026-04-15T09:21:23.597392"
 draft: false
 sectors:
   - software
@@ -19,10 +19,10 @@ industries:
   - "data-management"
   - "software-engineering"
 countries:
-  - lithuania
+  - finland
   - singapore
   - ireland
-  - finland
+  - lithuania
 revenue_buckets:
   - "UNDER-1M"
 operating_income_buckets:
@@ -34,8 +34,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "data-visualization-software"
   - analytics
+  - "data-visualization-software"
 products: []
 headquarters_locations:
   - kluuvi
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Analytics](/products_or_materials_produced/analytics/) |
+| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/) |
 | Headquarters Location | [Kluuvi](/headquarters_locations/kluuvi/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013 |

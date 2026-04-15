@@ -2,11 +2,11 @@
 title: Ryerson University
 slug: "ryerson-university"
 description: ""
-date: "2026-04-10T09:40:33.324505"
+date: "2026-04-15T09:21:24.259697"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - canada

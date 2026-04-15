@@ -2,16 +2,16 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-04-10T09:40:33.383861"
+date: "2026-04-15T09:21:24.316764"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:

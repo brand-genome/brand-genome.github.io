@@ -2,7 +2,7 @@
 title: Curious Minds
 slug: "curious-minds"
 description: ""
-date: "2026-04-10T09:40:32.672736"
+date: "2026-04-15T09:21:23.827686"
 draft: false
 sectors:
   - "public-sector"
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - education
   - technology
+  - education
 industries: []
-countries:
-  - ghana
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "a non-profit organsization in Ghana"
-wikidata_url: "https://www.wikidata.org/wiki/Q107157227"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.curiousminds.nz](https://www.curiousminds.nz)
 - [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform)
 - [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/unlocking-curious-minds-fund](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/unlocking-curious-minds-fund)
-- [https://cmghana.org](https://cmghana.org)
 
 ## Brand Guidelines
 
@@ -187,18 +185,3 @@ visual_term_image_urls: {}
 - There is one form of the logo shown (horizontal).
 - POSITIVE [Gold and ink for WHITE backgrounds only]
 - NEGATIVE Ink and white for GOLD backgrounds White and gold for DARK backgrounds Positive grey scale logo for WHITE backgrounds only
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q107157227) |
-
-| Property | Value |
-|----------|-------|
-| Country | Ghana |
-| Located In The Administrative Territorial Entity | Greater Accra Region |
-| Partnership With | Swedish Association for Sexuality Education, National Development Planning Commission, Planned Parenthood Association of Ghana, Ghana AIDS Commission, United Nations Population Fund (+2 more) |
-| Main Subject | development |
-| Field Of Work | advocacy, communication, capacity building, Organisational development |
-| Member Of | Global Citizen Science Partnership (as of 2022) |

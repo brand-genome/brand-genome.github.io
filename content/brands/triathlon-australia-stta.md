@@ -2,7 +2,7 @@
 title: "Triathlon Australia & STTA"
 slug: "triathlon-australia-stta"
 description: ""
-date: "2026-04-10T09:40:33.284261"
+date: "2026-04-15T09:21:24.221452"
 draft: false
 sectors:
   - sports

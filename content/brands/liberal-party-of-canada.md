@@ -2,7 +2,7 @@
 title: Liberal Party of Canada
 slug: "liberal-party-of-canada"
 description: ""
-date: "2026-04-10T09:40:34.266736"
+date: "2026-04-15T09:21:25.181436"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - community
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2014
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: caucus in the Senate of Canada formerly part of the Liberal Party of Canada
-wikidata_url: "https://www.wikidata.org/wiki/Q21035865"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://liberal.ca](https://liberal.ca)
-- [http://www.flickr.com](http://www.flickr.com)
-- [http://liberalsenateforum.ca](http://liberalsenateforum.ca)
 
 ## Brand Guidelines
 
@@ -193,20 +188,3 @@ visual_term_image_urls: {}
 - In general, solid colours should be used-especially for print applications and text.
 - Neither the Word mark nor the Logo should be placed directly on photographs, but instead within a red rectangle, (or square when using the Logo) ensuring that minimum clear space rules are respected.
 - Text may be added on top of the photos, either directly, or on a solid, straight-edged shape. This shape should be Liberal Red or White, and may be as low as 90% opacity to allow the image to show through.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q21035865) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2014](/foundation_dates/2014/) |
-| Country | Canada |
-| Inception | 2014-01-29 |
-| Separated From | Liberal Party of Canada |
-| Chairperson | Jim Cowan (from 2014-01-29, until 2016-06-15), Joseph A. Day (from 2016-06-15, until 2019-11-14) |
-| Google Knowledge Graph Id | /g/11g68x4tpv |
-| Dissolved, Abolished Or Demolished Date | 2019-11-14 |
-| Replaced By | Progressive Senate Group |

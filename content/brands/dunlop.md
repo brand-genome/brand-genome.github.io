@@ -2,7 +2,7 @@
 title: Dunlop
 slug: dunlop
 description: ""
-date: "2026-04-10T09:40:30.745355"
+date: "2026-04-15T09:21:22.339185"
 draft: false
 sectors:
   - tires
@@ -14,10 +14,8 @@ languages:
   - english
 tags:
   - corporate
-industries:
-  - "musical-instrument"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - benicia
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1965
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: US musical products company
-wikidata_url: "https://www.wikidata.org/wiki/Q1266156"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.dunlopmotorcycleracingtires.com](https://www.dunlopmotorcycleracingtires.com)
 - [https://www.dunlopmotorcycletirespress.com](https://www.dunlopmotorcycletirespress.com)
 - [http://www.dunlopmotorcycletires.com](http://www.dunlopmotorcycletires.com)
-- [https://www.jimdunlop.com](https://www.jimdunlop.com)
 
 ## Brand Guidelines
 
@@ -183,26 +177,3 @@ visual_term_image_urls: {}
 - > Use in either BLACK or WHITE -Files are set up for CMYK separation.
 - > Mission Logo set up for CMYK separation.
 - > Files are set up for CMYK separation. They can be converted for PMS or RGB by following the DUNLOP COLORS on page 2 of this guide.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1266156) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Benicia](/headquarters_locations/benicia/) |
-| Foundation Date | [1965](/foundation_dates/1965/) |
-| Freebase Id | /m/03_dd5 |
-| Headquarters Location | Benicia |
-| Inception | 1965 |
-| Country | United States |
-| Industry | musical instrument |
-| X (Twitter) Username | jimdunlopusa (as of 2020-04-21, from 2009-03-18) |
-| Legal Form | privately held company |
-| Different From | Dunlop |
-| Founded By | Jim Dunlop |
-| Social Media Followers | 149,167 (as of 2021-01-02), 147,996 (as of 2020-04-21), 149,345 (as of 2022-02-27), 152,937 (as of 2023-02-10) |
-| Golden Id | Dunlop_Manufacturing-K4GWWX |
-| Crunchbase Organization Id | dunlop-manufacturing |

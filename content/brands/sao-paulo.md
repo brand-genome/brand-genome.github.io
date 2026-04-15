@@ -2,11 +2,11 @@
 title: São Paulo
 slug: "sao-paulo"
 description: ""
-date: "2026-04-10T09:40:34.294158"
+date: "2026-04-15T09:21:25.195847"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - brazil
 years:

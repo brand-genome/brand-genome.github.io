@@ -2,7 +2,7 @@
 title: Hello Kitty
 slug: "hello-kitty"
 description: ""
-date: "2026-04-10T09:40:33.989215"
+date: "2026-04-15T09:21:24.911853"
 draft: false
 sectors:
   - "consumer-goods"
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: television series
-wikidata_url: "https://www.wikidata.org/wiki/Q1035156"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -168,30 +168,3 @@ visual_term_image_urls: {}
 - Do not use multiple Hello Kitty's poses on one design except on patterns or graphics provided by Sanrio.
 - Always keep the character's size in proportion.
 - Do not mix art from different style guides.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1035156) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/0cm9mt9 |
-| Port Film Id | 95030 |
-| Anime News Network Anime Id | 800, 4414 |
-| Country Of Origin | Japan |
-| Original Language Of Film Or Tv Show | Japanese |
-| Distribution Format | direct-to-video |
-| Imdb Id | tt0106024 |
-| Trakt.Tv Id | shows/hello-kitty-and-friends |
-| Kinobox Film Id | 535942 |
-| Kinopoisk Film Id | 591751 |
-| Ofdb Film Id | 145512 |
-| Google Knowledge Graph Id | /g/1yprt_gx4 |
-| Start Time | 1991 |
-| Duration | 30 minute |
-| Genre | family television series |
-| Ratinggraph Tv Show Id | hello-kitty-and-friends-ratings-4608 |
-| Tmdb Tv Series Id | 288445 |
-| Čsfd Film Id | 268534 |

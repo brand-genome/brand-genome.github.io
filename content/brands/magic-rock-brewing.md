@@ -2,7 +2,7 @@
 title: Magic Rock Brewing
 slug: "magic-rock-brewing"
 description: ""
-date: "2026-04-10T09:40:34.014755"
+date: "2026-04-15T09:21:24.934563"
 draft: false
 sectors:
   - brewery

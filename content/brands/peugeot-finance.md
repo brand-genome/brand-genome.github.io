@@ -2,7 +2,7 @@
 title: Peugeot Finance
 slug: "peugeot-finance"
 description: ""
-date: "2026-04-10T09:40:31.942216"
+date: "2026-04-15T09:21:23.376350"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - transport
   - financial
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,4 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.stellantis-finance-services.fr/en-savoir-plus-sur-l-espace-client.html](https://www.stellantis-finance-services.fr/en-savoir-plus-sur-l-espace-client.html)
 - [https://espaceclient-myfinance-fr.stellantis.com](https://espaceclient-myfinance-fr.stellantis.com)
-- [http://www.peugeot.com](http://www.peugeot.com)

@@ -2,7 +2,7 @@
 title: Yamaha Racing
 slug: "yamaha-racing"
 description: ""
-date: "2026-04-10T09:40:34.480925"
+date: "2026-04-15T09:21:25.419470"
 draft: false
 sectors:
   - sports
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.yamaha-racing.com](https://www.yamaha-racing.com)
 - [https://www.yamahamotogp.com](https://www.yamahamotogp.com)
 - [https://www.yamahamotorsports.com/Content.php?content=racing](https://www.yamahamotorsports.com/Content.php?content=racing)
-- [http://www.motor.nl](http://www.motor.nl)
 
 ## Brand Guidelines
 

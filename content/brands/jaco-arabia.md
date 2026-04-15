@@ -2,12 +2,12 @@
 title: JACO Arabia
 slug: "jaco-arabia"
 description: ""
-date: "2026-04-10T09:40:30.600952"
+date: "2026-04-15T09:21:22.146676"
 draft: false
 sectors:
-  - software
-  - entertainment
   - "social-media"
+  - entertainment
+  - software
 regions:
   - "saudi-arabia"
 years:

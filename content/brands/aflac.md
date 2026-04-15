@@ -2,7 +2,7 @@
 title: Aflac
 slug: aflac
 description: ""
-date: "2026-04-10T09:40:30.936276"
+date: "2026-04-15T09:21:22.546966"
 draft: false
 sectors:
   - insurance
@@ -30,11 +30,11 @@ headquarters_locations:
   - "nishi-shinjuku"
 subsidiaries: []
 foundation_dates:
-  - 2017
   - 1974
+  - 2017
 foundation_year_buckets:
-  - 2010S
   - 1970S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -100,7 +100,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Nishi Shinjuku](/headquarters_locations/nishi-shinjuku/) |
-| Foundation Date | [2017](/foundation_dates/2017/); [1974](/foundation_dates/1974/) |
+| Foundation Date | [1974](/foundation_dates/1974/); [2017](/foundation_dates/2017/) |
 | Country | Japan |
 | Inception | 1974, 2017 |
 | Legal Form | kabushiki gaisha |

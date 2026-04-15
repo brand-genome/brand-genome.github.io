@@ -2,7 +2,7 @@
 title: OneBlood
 slug: oneblood
 description: ""
-date: "2026-04-10T09:40:33.447389"
+date: "2026-04-15T09:21:24.379351"
 draft: false
 sectors:
   - healthcare

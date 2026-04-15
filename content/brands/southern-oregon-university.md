@@ -2,11 +2,11 @@
 title: Southern Oregon University
 slug: "southern-oregon-university"
 description: ""
-date: "2026-04-10T09:40:33.069079"
+date: "2026-04-15T09:21:24.006250"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

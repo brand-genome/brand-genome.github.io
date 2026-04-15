@@ -2,11 +2,11 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-04-10T09:40:32.128051"
+date: "2026-04-15T09:21:23.605196"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

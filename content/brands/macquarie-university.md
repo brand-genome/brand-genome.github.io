@@ -2,11 +2,11 @@
 title: Macquarie University
 slug: "macquarie-university"
 description: ""
-date: "2026-04-10T09:40:33.362275"
+date: "2026-04-15T09:21:24.296852"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - australia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - australia

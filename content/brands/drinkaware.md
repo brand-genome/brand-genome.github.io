@@ -2,11 +2,11 @@
 title: DrinkAware
 slug: drinkaware
 description: ""
-date: "2026-04-10T09:40:32.734880"
+date: "2026-04-15T09:21:23.844470"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.drinkaware.co.uk](https://www.drinkaware.co.uk)
-- [http://www.beerandpub.com](http://www.beerandpub.com)
 
 ## Brand Guidelines
 

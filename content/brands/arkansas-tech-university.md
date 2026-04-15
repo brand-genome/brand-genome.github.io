@@ -2,7 +2,7 @@
 title: Arkansas Tech University
 slug: "arkansas-tech-university"
 description: ""
-date: "2026-04-10T09:40:32.750006"
+date: "2026-04-15T09:21:23.848645"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

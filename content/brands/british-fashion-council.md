@@ -2,11 +2,11 @@
 title: British Fashion Council
 slug: "british-fashion-council"
 description: ""
-date: "2026-04-10T09:40:32.559928"
+date: "2026-04-15T09:21:23.758551"
 draft: false
 sectors:
-  - ngo
   - fashion
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.britishfashioncouncil.co.uk](https://www.britishfashioncouncil.co.uk)
-- [http://www.myfonts.com/fonts/urw/neuzeit-grotesk](http://www.myfonts.com/fonts/urw/neuzeit-grotesk)
 - [http://www.britishfashioncouncil.co.uk](http://www.britishfashioncouncil.co.uk)
 
 ## Brand Guidelines

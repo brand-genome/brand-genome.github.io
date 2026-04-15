@@ -2,7 +2,7 @@
 title: Bluetooth
 slug: bluetooth
 description: ""
-date: "2026-04-10T09:40:30.783828"
+date: "2026-04-15T09:21:22.384218"
 draft: false
 sectors:
   - networking
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: vocal track by 9ice; 2009 studio recording
-wikidata_url: "https://www.wikidata.org/wiki/Q123762407"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -198,17 +198,3 @@ visual_term_image_urls: {}
 - Aside from the two limited exceptions discussed below, always make sure that the integrity of the Bluetooth figure mark is preserved by making use of at least a “free zone” within which no text, picture, illustration, or other element shall be present. The two exceptions to the free zone requirement are as follows: • The registered trademark symbol “®” is to be printed as a subscript of the figure mark, as illustrated on the right, and should be displayed in the same color as the oval of the figure mark. • The free zone may be reduced to a minimum of one-eighth (1/8) of the height of the figure mark when using the figure mark (standing alone) in electronic displays where size limitations prevent a larger free zone. For example, the free zone may be reduced when using the figure mark near the edge of an electronic display screen or adjacent to an electronic display divider line. It is not acceptable, however, to use a reduced free zone when the figure mark is displayed next to an informational element such as a company name, third party logo or other graphic element. This particular exception only pertains to electronic displays; all printed materials and product packaging must adhere to the standard “half the height of the figure mark” free zone requirement.
 - The distance between the figure mark and the edges of the free zone is equal to half the height of the figure mark as shown above.
 - When using the Bluetooth figure mark on an electronic display or screen, a licensee may display the Runic B component of the full figure mark in blue, black, white or another solid color that is consistent with the other icons on the electronic display. The oval design must, however, remain in blue, black or white. This is an exception to the standard figure mark guideline that the Runic B be displayed in white or color matched to the solid color background; see page 11. If, for purposes of maintaining consistency on electronic display screens or because of the nature of the electronic display, the licensee would like to use a different color for the Runic B or oval design or display the figure mark on a patterned or non­solid color background, express approval from the Bluetooth SIG must be obtained prior to such use. Please contact brand.manager@bluetooth.com for any such requests or questions. Please note that such exceptions will only be considered for use of the figure mark on electronic displays; all printed materials, product packaging, labeling, user documentation and advertising materials must conform to the standard figure mark guidelines.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q123762407) |
-
-| Property | Value |
-|----------|-------|
-| Performer | 9ice |
-| Genre | Afrobeat |
-| Title | Bluetooth |
-| Musicbrainz Recording Id | 4627407c-c2a0-4000-ab01-18742749ab76 |
-| Has Characteristic | studio recording |

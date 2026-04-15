@@ -2,7 +2,7 @@
 title: Belgard
 slug: belgard
 description: ""
-date: "2026-04-10T09:40:34.465086"
+date: "2026-04-15T09:21:25.405417"
 draft: false
 sectors:
   - "consumer-goods"
@@ -17,8 +17,7 @@ tags:
   - tourism
   - regional
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: city and urban gmina of Poland
-wikidata_url: "https://www.wikidata.org/wiki/Q161919"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,8 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.belgard.com](https://www.belgard.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [http://bialogard.info](http://bialogard.info)
 
 ## Brand Guidelines
 
@@ -262,54 +259,3 @@ visual_term_image_urls: {}
 - SYMBOL / DIGITAL .5 in .25 in 35 px 15 px
 - WORDMARK / DIGITAL .125 in 10 px
 - Use the PMS colors whenever possible in print applications. The CMYK colors can be used as an alternative to the PMS color in print. RGB values are for use in digital applications.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q161919) |
-
-| Property | Value |
-|----------|-------|
-| Dewey Decimal Classification | 2--43816 |
-| Twinned Administrative Body | Teterow, Aknīste, Albano Laziale, Binz, Gnosjö Municipality (+2 more) |
-| Located In The Administrative Territorial Entity | Białogard County |
-| Country | Poland |
-| Flag Image | POL Białogard flag.svg |
-| Coordinate Location | 54.00696, 15.98751 |
-| Freebase Id | /m/01zkd_ |
-| Topic'S Main Category | Category:Białogard |
-| Viaf Cluster Id | 148338554 |
-| Image | Białogard kościół Narodzenia NMP..JPG |
-| Commons Gallery | Białogard |
-| Terc Municipality Code | 3201011 |
-| Population | 24,570 (as of 2015-06-30), 24,146 (as of 2019-12-31), 23,142 (as of 2021-03-31) |
-| Quora Topic Id | Białogard |
-| Category Of Associated People | Category:People from Białogard |
-| Category For People Born Here | Category:Births in Białogard |
-| Category For People Who Died Here |  |
-| Located In Time Zone | UTC+01:00, UTC+02:00 |
-| Archinform Location Id | 9325 |
-| Elevation Above Sea Level | 23 metre, 21 metre |
-| Area | 25 square kilometre |
-| Postal Code | 78-200 |
-| Capital Of |  |
-| Described By Source | Jewish Encyclopedia of Brockhaus and Efron, Brockhaus and Efron Encyclopedic Dictionary, , Encyclopædia Britannica 11th edition |
-| Who'S On First Id | 101817589 |
-| Image Archive, Herder Institute | Q161919 |
-| Category For Maps Or Plans | Category:Maps of Białogard |
-| Enzyklopädie Des Europäischen Ostens Id | 1218 |
-| Great Norwegian Encyclopedia Id | Białogard |
-| Museum Digital Place Id | 9596 |
-| Gnd Id | 15530-5 |
-| Simc Place Id | 0949690 |
-| Male Population | 11,130 (as of 2021-03-31) |
-| Female Population | 12,012 (as of 2021-03-31) |
-| Coat Of Arms Image | POL Białogard COA.svg |
-| Historical Gazetteer (Gov) Id | object_335739 |
-| Openweathermap City Id | 3103556 |
-| Factgrid Item Id | Q497230 |
-| Worldcat Entities Id | E39PBJf8vCWxKWqBTCHmpJCYT3 |
-| Openstreetmap Relation Id | 2913171 |
-| Continent | Europe |
-| ‎Yale Lux Id | place/23dde0fe-8e57-4d9d-a643-ede1bf5e7311 |

@@ -2,11 +2,11 @@
 title: Adare
 slug: adare
 description: ""
-date: "2026-04-10T09:40:31.537574"
+date: "2026-04-15T09:21:23.187775"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ireland
 years:

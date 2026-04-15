@@ -2,11 +2,11 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-04-10T09:40:30.952942"
+date: "2026-04-15T09:21:22.564829"
 draft: false
 sectors:
-  - oil
   - gas
+  - oil
 regions:
   - usa
 years:
@@ -89,7 +89,6 @@ visual_term_image_urls: {}
 - [https://www.copbrandcenter.com](https://www.copbrandcenter.com)
 - [https://www.powerincooperation.com](https://www.powerincooperation.com)
 - [http://www.conocophillips.com](http://www.conocophillips.com)
-- [http://www.photoshelter.com](http://www.photoshelter.com)
 - [http://www.conocophillips.com/news-media/brand](http://www.conocophillips.com/news-media/brand)
 
 ## Brand Guidelines

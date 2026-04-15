@@ -2,7 +2,7 @@
 title: The Education Community Partnership
 slug: "the-education-community-partnership"
 description: ""
-date: "2026-04-10T09:40:31.548727"
+date: "2026-04-15T09:21:23.199402"
 draft: false
 sectors:
   - consulting

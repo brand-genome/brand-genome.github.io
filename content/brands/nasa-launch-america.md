@@ -2,12 +2,12 @@
 title: NASA Launch America
 slug: "nasa-launch-america"
 description: ""
-date: "2026-04-10T09:40:33.647124"
+date: "2026-04-15T09:21:24.591908"
 draft: false
 sectors:
   - "public-sector"
-  - "space-technology"
   - broadcasting
+  - "space-technology"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
   - transport
 industries: []
 countries: []

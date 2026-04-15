@@ -2,11 +2,11 @@
 title: Otautahi Christchurch
 slug: "otautahi-christchurch"
 description: ""
-date: "2026-04-10T09:40:31.977134"
+date: "2026-04-15T09:21:23.409020"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "new-zealand"
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

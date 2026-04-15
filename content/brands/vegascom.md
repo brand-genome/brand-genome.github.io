@@ -2,7 +2,7 @@
 title: Vegas.com
 slug: vegascom
 description: ""
-date: "2026-04-10T09:40:32.575209"
+date: "2026-04-15T09:21:23.775086"
 draft: false
 sectors:
   - tourism

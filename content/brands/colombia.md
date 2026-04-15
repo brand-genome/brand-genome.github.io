@@ -2,11 +2,11 @@
 title: Colombia
 slug: colombia
 description: ""
-date: "2026-04-10T09:40:33.153109"
+date: "2026-04-15T09:21:24.081945"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - colombia
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - colombia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1825
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Colombian municipality of the department of Valle del Cauca
-wikidata_url: "https://www.wikidata.org/wiki/Q1093490"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://colombia.co](https://colombia.co)
-- [http://www.florida-valle.gov.co/index.shtml](http://www.florida-valle.gov.co/index.shtml)
 
 ## Brand Guidelines
 
@@ -335,34 +331,3 @@ visual_term_image_urls: {}
 - Asegúrese de que las pruebas de diseño y de color sean minuciosas y cuidadosamente revisadas y si se requiere alguna enmienda, comuníquela claramente.
 - Donde haya materiales o medios desconocidos y su uso no sea especificado, siga estos pasos para asegurar la representación del color exacta y lograr su mayor consistencia.
 - Hay una estrecha relación y articulación entre quien suministra la información y quien sigue las especificaciones dadas en esta guía. De su corresponsabilidad depende que todos los pasos aquí indicados se sigan al pie de la letra y cuiden nuestra imagen y la reproducción de nuestra marca.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1093490) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1825](/foundation_dates/1825/) |
-| Flag Image | Flag of Florida, Valle del Cauca.svg |
-| Country | Colombia |
-| Coordinate Location | 3.3216666666667, -76.234722222222 |
-| Freebase Id | /m/02qn6h6 |
-| Located In The Administrative Territorial Entity | Valle del Cauca Department |
-| Coat Of Arms Image | Escudo de Florida (Valle del Cauca).svg |
-| Elevation Above Sea Level | 886 metre |
-| Category For People Born Here |  |
-| Library Of Congress Authority Id | no2013002097 |
-| Who'S On First Id | 421204961 |
-| Dane Code | 76275 |
-| Viaf Cluster Id | 295333780 |
-| Inception | 1825 |
-| Population | 58,988 |
-| Postal Code | 763560 |
-| Inaturalist Place Id | 29244 |
-| Openstreetmap Relation Id | 1319503 |
-| Different From | Florida |
-| Worldcat Entities Id | E39PBJmpcrTDWptdfJvj3Yctrq |
-| Gns Unique Feature Id | -584825 |
-| ‎Yale Lux Id | place/b0036d2e-ff2f-429d-b698-ad2678b5aee4 |

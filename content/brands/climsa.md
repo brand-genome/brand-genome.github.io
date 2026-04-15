@@ -2,7 +2,7 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-04-10T09:40:33.072077"
+date: "2026-04-15T09:21:24.008284"
 draft: false
 sectors:
   - "public-sector"

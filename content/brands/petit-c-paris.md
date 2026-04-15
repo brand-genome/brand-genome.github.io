@@ -2,7 +2,7 @@
 title: Petit c Paris
 slug: "petit-c-paris"
 description: ""
-date: "2026-04-10T09:40:34.705114"
+date: "2026-04-15T09:21:25.688270"
 draft: false
 sectors:
   - food

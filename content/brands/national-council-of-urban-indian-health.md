@@ -2,11 +2,11 @@
 title: National Council of Urban Indian Health
 slug: "national-council-of-urban-indian-health"
 description: ""
-date: "2026-04-10T09:40:32.562998"
+date: "2026-04-15T09:21:23.761785"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:

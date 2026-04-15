@@ -2,11 +2,11 @@
 title: Dubai
 slug: dubai
 description: ""
-date: "2026-04-10T09:40:30.641443"
+date: "2026-04-15T09:21:22.212205"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - dubai
 years:
@@ -17,9 +17,9 @@ languages:
   - english
 tags:
   - city
-  - regional
   - featured
   - tourism
+  - regional
 industries: []
 countries:
   - "united-arab-emirates"

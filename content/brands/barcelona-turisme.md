@@ -2,7 +2,7 @@
 title: Barcelona Turisme
 slug: "barcelona-turisme"
 description: ""
-date: "2026-04-10T09:40:30.941919"
+date: "2026-04-15T09:21:22.552784"
 draft: false
 sectors:
   - tourism

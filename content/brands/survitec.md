@@ -2,11 +2,11 @@
 title: Survitec
 slug: survitec
 description: ""
-date: "2026-04-10T09:40:32.814307"
+date: "2026-04-15T09:21:23.865493"
 draft: false
 sectors:
-  - defense
   - aerospace
+  - defense
 regions:
   - "united-kingdom"
 years:

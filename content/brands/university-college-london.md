@@ -2,23 +2,23 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-04-10T09:40:30.960143"
+date: "2026-04-15T09:21:22.576637"
 draft: false
 sectors:
   - university
 regions:
   - "united-kingdom"
 years:
-  - 2017
   - 2024
   - 2021
+  - 2017
 languages:
   - english
 tags:
-  - signage
+  - university
   - featured
   - education
-  - university
+  - signage
 industries: []
 countries:
   - "united-kingdom"
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 
 - [https://www.ucl.ac.uk](https://www.ucl.ac.uk)
 - [https://www.ucl.ac.uk/staff/external-engagement/brand-and-visual-identity](https://www.ucl.ac.uk/staff/external-engagement/brand-and-visual-identity)
-- [http://www.eventbrite.co](http://www.eventbrite.co)
 
 ## Brand Guidelines
 

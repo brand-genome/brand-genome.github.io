@@ -2,7 +2,7 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-04-10T09:40:33.035177"
+date: "2026-04-15T09:21:23.979354"
 draft: false
 sectors:
   - research
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - biology
   - featured
+  - biology
   - health
 industries: []
 countries:

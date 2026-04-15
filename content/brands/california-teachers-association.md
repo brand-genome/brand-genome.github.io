@@ -2,11 +2,11 @@
 title: California Teachers Association
 slug: "california-teachers-association"
 description: ""
-date: "2026-04-10T09:40:31.954251"
+date: "2026-04-15T09:21:23.391311"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

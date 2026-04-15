@@ -2,7 +2,7 @@
 title: Le Son Unique
 slug: "le-son-unique"
 description: ""
-date: "2026-04-10T09:40:34.873552"
+date: "2026-04-15T09:21:25.844752"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - cultural
   - music
+  - cultural
 industries: []
 countries: []
 revenue_buckets: []

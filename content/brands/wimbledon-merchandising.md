@@ -2,7 +2,7 @@
 title: Wimbledon merchandising
 slug: "wimbledon-merchandising"
 description: ""
-date: "2026-04-10T09:40:33.210339"
+date: "2026-04-15T09:21:24.156458"
 draft: false
 sectors:
   - "consumer-goods"

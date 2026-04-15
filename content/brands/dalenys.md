@@ -2,7 +2,7 @@
 title: Dalenys
 slug: dalenys
 description: ""
-date: "2026-04-10T09:40:33.094826"
+date: "2026-04-15T09:21:24.030998"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - financial
+  - software
 industries: []
 countries:
   - france

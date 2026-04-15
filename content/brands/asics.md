@@ -2,7 +2,7 @@
 title: Asics
 slug: asics
 description: ""
-date: "2026-04-10T09:40:33.351724"
+date: "2026-04-15T09:21:24.286058"
 draft: false
 sectors:
   - fashion
@@ -17,8 +17,7 @@ tags:
   - featured
   - sport
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1997
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "cycling team (1997-1998)"
-wikidata_url: "https://www.wikidata.org/wiki/Q3589485"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -319,20 +316,3 @@ visual_term_image_urls: {}
 - Horizontal Lockup Construction
 - Vertical Lockup Construction
 - Note: Sponsor logo size is same as horizontal brand mark lockup
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3589485) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1997](/foundation_dates/1997/) |
-| Sport | road bicycle racing |
-| Country | Italy |
-| Official Name | Asics-CGA (from 1997, until 1998) |
-| Inception | 1997 |
-| Dissolved, Abolished Or Demolished Date | 1998 |
-| Has Part(S) | Asics-CGA 1997, Asics-CGA 1998 |
-| Google Knowledge Graph Id | /g/11b5qfzdk_ |

@@ -2,7 +2,7 @@
 title: Elastic Interface
 slug: "elastic-interface"
 description: ""
-date: "2026-04-10T09:40:30.632364"
+date: "2026-04-15T09:21:22.199958"
 draft: false
 sectors:
   - "consumer-goods"

@@ -2,7 +2,7 @@
 title: Pohjois Pohjanmaan
 slug: "pohjois-pohjanmaan"
 description: ""
-date: "2026-04-10T09:40:32.692325"
+date: "2026-04-15T09:21:23.832373"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - finland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "oulu-central-library-saari"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1877
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "public library in Oulu, Finland"
-wikidata_url: "https://www.wikidata.org/wiki/Q620916"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -66,41 +62,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.pohjois-pohjanmaa.fi/en](https://www.pohjois-pohjanmaa.fi/en)
-- [http://www.greystone.fi](http://www.greystone.fi)
 - [http://www.pohjois-pohjanmaa.fi](http://www.pohjois-pohjanmaa.fi)
-- [https://www.ouka.fi/oulu/kirjasto](https://www.ouka.fi/oulu/kirjasto)
-- [https://www.ouka.fi/oulu/library](https://www.ouka.fi/oulu/library)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q620916) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Oulu Central Library Saari](/headquarters_locations/oulu-central-library-saari/) |
-| Foundation Date | [1877](/foundation_dates/1877/) |
-| Located In The Administrative Territorial Entity | Oulu |
-| Coordinate Location | 65.015277777778, 25.463333333333 (from 1982) |
-| Freebase Id | /m/0h62xq2 |
-| Country | Finland |
-| Image | Oulu Library 20100214.jpg (as of 2010-02-14) |
-| Headquarters Location | Oulu Central Library Saari (from 1982) |
-| Inception | 1877 |
-| Owned By | Oulu |
-| Operator | Oulu |
-| Facebook Username | Oulunkaupunginkirjasto |
-| Instagram Username | oulunkaupunginkirjasto |
-| X (Twitter) Username | oulunkirjasto (as of 2020-04-14, from 2014-02-07) |
-| Isni | 0000000403743790 |
-| Ringgold Id | 184146 |
-| Part Of | OUTI libraries (from 2012-01-01) |
-| Isil | FI-Om |
-| Social Media Followers | 1,184 (as of 2021-01-07), 1,126 (as of 2020-04-14) |
-| Yle Topic Id | 18-293424 |
-| Operating Area | Oulu |
-| Kanto Id | 000007318 |
-| Member Of | FinELib (as of 2023-08), International Federation of Library Associations and Institutions |
-| Native Label | Oulun kaupunginkirjasto |
-| Has Part(S) | Oulu Central Library Saari, Asema Library, Haukipudas Library, Hiukkavaara Library, Kaakkuri Library (+20 more) |

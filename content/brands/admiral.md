@@ -2,7 +2,7 @@
 title: Admiral
 slug: admiral
 description: ""
-date: "2026-04-10T09:40:33.611300"
+date: "2026-04-15T09:21:24.550906"
 draft: false
 sectors:
   - insurance
@@ -27,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1976
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -52,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Estonian musical group
-wikidata_url: "https://www.wikidata.org/wiki/Q20529548"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,27 +64,9 @@ visual_term_image_urls: {}
 - [https://www.admiral.com](https://www.admiral.com)
 - [https://www.admiral.com/about-us](https://www.admiral.com/about-us)
 - [https://admiralgroup.co.uk](https://admiralgroup.co.uk)
-- [http://metro.co.uk/2015/02](http://metro.co.uk/2015/02)
-- [http://www.youtube.com](http://www.youtube.com)
 
 ## Brand Guidelines
 
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20529548) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1976](/foundation_dates/1976/) |
-| Country Of Origin | Estonia |
-| Discogs Artist Id | 927224 |
-| Inception | 1976 |
-| Dissolved, Abolished Or Demolished Date | 1982 |
-| Has Part(S) | Tõnu Sal-Saller |
-| Official Name | Admiral |

@@ -2,7 +2,7 @@
 title: Federația Română de Fotbal
 slug: "federatia-romana-de-fotbal"
 description: ""
-date: "2026-04-10T09:40:32.139342"
+date: "2026-04-15T09:21:23.614069"
 draft: false
 sectors:
   - sports

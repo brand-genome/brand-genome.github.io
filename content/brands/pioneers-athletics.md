@@ -2,7 +2,7 @@
 title: Pioneers Athletics
 slug: "pioneers-athletics"
 description: ""
-date: "2026-04-10T09:40:33.306528"
+date: "2026-04-15T09:21:24.243182"
 draft: false
 sectors:
   - sports

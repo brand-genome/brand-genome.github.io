@@ -2,11 +2,11 @@
 title: IFMSA
 slug: ifmsa
 description: ""
-date: "2026-04-10T09:40:32.755007"
+date: "2026-04-15T09:21:23.849729"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - denmark
 years:

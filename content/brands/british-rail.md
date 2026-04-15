@@ -2,11 +2,11 @@
 title: British Rail
 slug: "british-rail"
 description: ""
-date: "2026-04-10T09:40:33.751355"
+date: "2026-04-15T09:21:24.727080"
 draft: false
 sectors:
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - transport
   - vintage
+  - transport
 industries:
   - "rail-transport-in-the-united-kingdom"
 countries:

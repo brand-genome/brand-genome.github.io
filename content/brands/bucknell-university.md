@@ -2,11 +2,11 @@
 title: Bucknell University
 slug: "bucknell-university"
 description: ""
-date: "2026-04-10T09:40:34.152334"
+date: "2026-04-15T09:21:25.057487"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bucknell.edu](https://www.bucknell.edu)
-- [http://www.google.com](http://www.google.com)
 - [http://www.bucknell.edu](http://www.bucknell.edu)
 
 ## Brand Guidelines

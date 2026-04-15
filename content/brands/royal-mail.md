@@ -2,11 +2,11 @@
 title: Royal Mail
 slug: "royal-mail"
 description: ""
-date: "2026-04-10T09:40:32.637960"
+date: "2026-04-15T09:21:23.817772"
 draft: false
 sectors:
-  - "parcel-service"
   - "logistics-supply-chain"
+  - "parcel-service"
 regions:
   - "united-kingdom"
 years:

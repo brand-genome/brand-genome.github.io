@@ -2,11 +2,11 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-04-10T09:40:33.601756"
+date: "2026-04-15T09:21:24.540990"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1866
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "city in Alameda County, California, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q484678"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,116 +68,9 @@ visual_term_image_urls: {}
 - [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
 - [https://identity.berkeley.edu](https://identity.berkeley.edu)
 - [http://www.calbears.com/licensing](http://www.calbears.com/licensing)
-- [https://berkeleyca.gov](https://berkeleyca.gov)
-- [http://www.ci.berkeley.ca.us](http://www.ci.berkeley.ca.us)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q484678) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1866](/foundation_dates/1866/) |
-| Dewey Decimal Classification | 2--79467 |
-| Twinned Administrative Body | Jena (from 1989-06-27), Asmara, Blackfeet Indian Reservation, Gao, Ulan-Ude (+3 more) |
-| Country | United States |
-| Located In The Administrative Territorial Entity | Alameda County |
-| Named After | George Berkeley |
-| Gnd Id | 4005720-3 |
-| Postal Code | 94701, 94702, 94703, 94704, 94705 (+6 more) |
-| Coordinate Location | 37.870277777778, -122.26805555556 |
-| Topic'S Main Category | Category:Berkeley, California |
-| Page Banner | Berkeley Sather Gate 1 banner.jpg |
-| Musicbrainz Area Id | f9719692-c39a-4d9c-bf8c-dd4035b09534 |
-| Freebase Id | /m/01jr6 |
-| Category For People Born Here | Category:Births in Berkeley, California |
-| Category For People Who Died Here | Category:Deaths in Berkeley, California |
-| Located In Time Zone | Pacific Time Zone, UTC−08:00, UTC−07:00 |
-| Elevation Above Sea Level | 52 metre |
-| Commons Gallery | Berkeley |
-| Image | Berkeley-downtown-Bay-bridge-SF-in-back-from-Lab.jpg |
-| Shares Border With | Albany, Piedmont |
-| Facebook Location Id | 113857331958379 |
-| Population | 122,324 (as of 2017), 112,580 (as of 2010-04-01), 124,321 (as of 2020-04-01) |
-| Fips 55 3 (Locations In The Us) | 06-06000 |
-| Locator Map Image | Alameda County California Incorporated and Unincorporated areas Berkeley Highlighted.svg |
-| Curlie Id | Regional/North_America/United_States/California/Localities/B/Berkeley/ |
-| Gnis Feature Id | 1658037, 2409837 |
-| Local Dialing Code | 510 |
-| Inception | 1866 |
-| Native Label | Berkeley |
-| Office Held By Head Of Government | mayor of Berkeley, California (from 1909), President of the Town Board of Trustees of Berkeley (from 1878, until 1909) |
-| Quora Topic Id | Berkeley-CA |
-| Openstreetmap Relation Id | 2833528 |
-| Seal Image | Seal of Berkeley, California.png |
-| Category Of Associated People | Category:People from Berkeley, California |
-| Area | 45 square kilometre, 45 square kilometre (as of 2010-04-01) |
-| Head Of Government | Jesse Arreguín (from 2016-12, until 2024-12), Tom Bates (from 2002, until 2016), Shirley Dean (from 1994-12, until 2002), Jeffrey Shattuck Leiter (from 1994-03, until 1994-12), Loni Hancock (from 1986, until 1994) (+4 more) |
-| U.S. National Archives Identifier | 10045479 |
-| Bibliothèque Nationale De France Id | 11954591c |
-| Encyclopædia Britannica Online Id | place/Berkeley-California |
-| Archinform Location Id | 1841 |
-| Viaf Cluster Id | 234979654 |
-| Nl Cr Aut Id | ge291111 |
-| Owner Of | Berkeley Rose Garden |
-| Library Of Congress Authority Id | n79046046 |
-| Great Russian Encyclopedia Online Id (2017) | 1860434 |
-| Getty Thesaurus Of Geographic Names Id | 7013386 |
-| Comic Vine Id | 4020-61907 |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0223123 |
-| Who'S On First Id | 85921915 |
-| Category For Maps Or Plans | Category:Maps of Berkeley, California |
-| Rkd Thesaurus Id | 1179 |
-| Water As Percent Of Area | 40 percent (as of 2010-04-01) |
-| Interlingual Index Id | i84244 |
-| Tripadvisor Id | 32066 |
-| Google Maps Customer Id | 10730412794650683795 |
-| Github Topic | berkeley |
-| Wordnet 3.1 Synset Id | 09085055-n |
-| Factgrid Item Id | Q236291 |
-| Schoenberg Database Of Manuscripts Place Id | 4363 |
-| Different From | Berkeley |
-| Great Norwegian Encyclopedia Id | Berkeley |
-| Coat Of Arms Image | Seal of Berkeley, California.png |
-| Online Pwn Encyclopedia Id | 3876325 |
-| Treccani Id | berkeley |
-| Localwiki Id | berkeley |
-| Water Area | 18 square kilometre (as of 2010-04-01) |
-| Museum Digital Place Id | 7354 |
-| Sbn Place Id | MUSL000348 |
-| Located In The Statistical Territorial Entity | San Francisco Bay Area |
-| Per Capita Income | 53,181 United States dollar (as of 2020-12-31) |
-| Number Of Households | 45,884 (as of 2020-12-31) |
-| National Library Of Israel J9U Id | 987007559515705171 |
-| Openweathermap City Id | 5327684 |
-| Described By Source | Encyclopædia Britannica 11th edition, The New Student's Reference Work, Small Brockhaus and Efron Encyclopedic Dictionary |
-| Encyclopedia Of China (Third Edition) Id | 561863 |
-| Pinakes City Id | 60 |
-| Gran Enciclopèdia Catalana Id | berkeley |
-| Icpsr Geographic Names Thesaurus Id | 14130, 30269 |
-| Un/Locode | USJBK |
-| Worldcat Entities Id | E39PBJbCVcMcW76qhtkDVcGWDq |
-| Snarc Id | Q49853 |
-| Thesaurus Linguae Aegyptiae Thesaurus Id | 3NG3AQ5NTNCUHDRD3MAEWIJZOI |
-| Member Of | Alameda County Transportation Commission |
-| Bluesky Handle | berkeleyca.gov |
-| ‎Yale Lux Id | place/c22e99a6-f6c4-4a9d-b9d8-2e7bacc8ccf1 |
-| Encyclopaedia Beliana Id | berkeley |
-| Official Name | Berkeley |
-| National Library Of Latvia Id | 000362405 |
-| Canadiana Name Authority Id | ncf12004551 |
-| Fast Id | 1205020 |
-| National Library Of Lithuania Id | LNB:V*342667;=BO |
-| Nsk (Viaf) Id | 000792555 |
-| National Library Of Poland Mms Id | 9810642598905606 |
-| Slovak National Library (Viaf) Id | vtls010461683 |
-| Idref Id | 061751871 |
-| Bbc Things Id | 0c94dcbc-72ba-4feb-89ba-59ef81a87188 |

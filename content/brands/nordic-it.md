@@ -2,7 +2,7 @@
 title: Nordic IT
 slug: "nordic-it"
 description: ""
-date: "2026-04-10T09:40:33.994923"
+date: "2026-04-15T09:21:24.916785"
 draft: false
 sectors:
   - software
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.nordic-it.com](https://www.nordic-it.com)
 - [https://www.nordic-it.com/press-room](https://www.nordic-it.com/press-room)
-- [http://www.it.com](http://www.it.com)
 
 ## Brand Guidelines
 

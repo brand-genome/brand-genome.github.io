@@ -2,7 +2,7 @@
 title: Global Center on Adaptation
 slug: "global-center-on-adaptation"
 description: ""
-date: "2026-04-10T09:40:33.078803"
+date: "2026-04-15T09:21:24.013790"
 draft: false
 sectors:
   - ngo

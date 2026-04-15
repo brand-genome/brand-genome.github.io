@@ -2,7 +2,7 @@
 title: Rambouillet
 slug: rambouillet
 description: ""
-date: "2026-04-10T09:40:34.774393"
+date: "2026-04-15T09:21:25.753487"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - city
 industries: []
-countries:
-  - france
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "railway station in Rambouillet, France"
-wikidata_url: "https://www.wikidata.org/wiki/Q2176163"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -310,39 +309,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2176163) |
-
-| Property | Value |
-|----------|-------|
-| Country | France |
-| Located In The Administrative Territorial Entity | Rambouillet |
-| Image | Gare de Rambouillet-2012.JPG, Rambouillet - Gare03.jpg |
-| Coordinate Location | 48.643713, 1.831495 |
-| Uic Station Code | 8739331 |
-| Freebase Id | /m/0cnzr0r |
-| Located In Time Zone | Central European Time |
-| Connecting Line | Paris–Brest railway |
-| Connecting Service | Line N,  |
-| Adjacent Station | Gare de Gazeran, Gare du Perray |
-| Elevation Above Sea Level | 161 metre |
-| Owned By | Société nationale des chemins de fer français |
-| Fare Zone | Paris fare zone 5 |
-| Pronunciation Audio | LL-Q150 (fra)-Jules78120-gare de Rambouillet.wav |
-| Operator | Société nationale des chemins de fer français |
-| Street Address | 1 place Fernand Prudhomme, 78120 Rambouillet, France |
-| Date Of Official Opening | 1849-07-12 |
-| Trainline Id | 5817 |
-| Sncf Station Id | FRXRT |
-| Benerail Station Id | FRXRT |
-| Postal Code | 78120 |
-| Sncf Gares & Connexions Id | frxrt |
-| State Of Use | in use |
-| Transport Network | Transilien, TER Centre-Val de Loire |
-| Place Name Sign | Panneau Gare Rambouillet - Rambouillet (FR78) - 2023-12-05- 1.jpg |
-| Nighttime View | Gare Rambouillet - Rambouillet (FR78) - 2023-12-05- 4.jpg |
-| Ibnr Id | 8700186 |

@@ -2,11 +2,11 @@
 title: GCOS
 slug: gcos
 description: ""
-date: "2026-04-10T09:40:32.556169"
+date: "2026-04-15T09:21:23.754944"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: software system for managing Affymetrix microarray data
-wikidata_url: "https://www.wikidata.org/wiki/Q4689043"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,21 +64,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://gcos.wmo.int](https://gcos.wmo.int)
-- [https://www.thermofisher.com/us/en/home/life-science/microarray-analysis.html](https://www.thermofisher.com/us/en/home/life-science/microarray-analysis.html)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q4689043) |
-
-| Property | Value |
-|----------|-------|
-| Has Use | science, bioinformatics |
-| Developer | Affymetrix |

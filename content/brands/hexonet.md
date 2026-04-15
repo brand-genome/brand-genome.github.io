@@ -2,11 +2,11 @@
 title: Hexonet
 slug: hexonet
 description: ""
-date: "2026-04-10T09:40:34.642203"
+date: "2026-04-15T09:21:25.635220"
 draft: false
 sectors:
-  - software
   - networking
+  - software
 regions:
   - canada
 years:

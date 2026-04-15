@@ -2,7 +2,7 @@
 title: IFC
 slug: ifc
 description: ""
-date: "2026-04-10T09:40:34.724884"
+date: "2026-04-15T09:21:25.706141"
 draft: false
 sectors:
   - finance

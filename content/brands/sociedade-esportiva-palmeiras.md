@@ -2,7 +2,7 @@
 title: Sociedade Esportiva Palmeiras
 slug: "sociedade-esportiva-palmeiras"
 description: ""
-date: "2026-04-10T09:40:30.639309"
+date: "2026-04-15T09:21:22.209135"
 draft: false
 sectors:
   - sports

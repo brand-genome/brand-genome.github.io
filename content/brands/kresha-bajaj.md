@@ -2,7 +2,7 @@
 title: Krésha Bajaj
 slug: "kresha-bajaj"
 description: ""
-date: "2026-04-10T09:40:32.981203"
+date: "2026-04-15T09:21:23.935345"
 draft: false
 sectors:
   - fashion

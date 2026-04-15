@@ -2,7 +2,7 @@
 title: Hygiene of Sweden
 slug: "hygiene-of-sweden"
 description: ""
-date: "2026-04-10T09:40:33.448331"
+date: "2026-04-15T09:21:24.380373"
 draft: false
 sectors:
   - "consumer-goods"

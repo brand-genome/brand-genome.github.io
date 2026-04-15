@@ -2,7 +2,7 @@
 title: Ticket To The Moon
 slug: "ticket-to-the-moon"
 description: ""
-date: "2026-04-10T09:40:34.260221"
+date: "2026-04-15T09:21:25.176724"
 draft: false
 sectors:
   - "consumer-goods"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 - [https://ticketothemoon.com](https://ticketothemoon.com)
 - [https://brand.ticketothemoon.com](https://brand.ticketothemoon.com)
 - [http://www.ticketothemoon.com](http://www.ticketothemoon.com)
-- [http://www.youtube.com/watch?v=HV-auIbTN8Y](http://www.youtube.com/watch?v=HV-auIbTN8Y)
 - [https://eu.ticketothemoon.com](https://eu.ticketothemoon.com)
 
 ## Brand Guidelines

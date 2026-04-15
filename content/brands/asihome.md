@@ -2,7 +2,7 @@
 title: AsiHome
 slug: asihome
 description: ""
-date: "2026-04-10T09:40:31.457181"
+date: "2026-04-15T09:21:23.112048"
 draft: false
 sectors:
   - "consumer-goods"

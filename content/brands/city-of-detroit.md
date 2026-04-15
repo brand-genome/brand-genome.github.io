@@ -2,7 +2,7 @@
 title: City of Detroit
 slug: "city-of-detroit"
 description: ""
-date: "2026-04-10T09:40:33.166546"
+date: "2026-04-15T09:21:24.094344"
 draft: false
 sectors:
   - "public-sector"

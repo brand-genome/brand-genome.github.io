@@ -2,11 +2,11 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-04-10T09:40:33.298301"
+date: "2026-04-15T09:21:24.234417"
 draft: false
 sectors:
-  - drink
   - "marketing-advertising"
+  - drink
 regions:
   - switzerland
 years:

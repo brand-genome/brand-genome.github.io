@@ -2,7 +2,7 @@
 title: Omnisend
 slug: omnisend
 description: ""
-date: "2026-04-10T09:40:32.548580"
+date: "2026-04-15T09:21:23.748709"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - marketing
+  - software
 industries: []
 countries:
   - lithuania

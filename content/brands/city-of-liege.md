@@ -2,7 +2,7 @@
 title: City of Liège
 slug: "city-of-liege"
 description: ""
-date: "2026-04-10T09:40:34.871994"
+date: "2026-04-15T09:21:25.843077"
 draft: false
 sectors:
   - "public-sector"

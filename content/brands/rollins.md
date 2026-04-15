@@ -2,11 +2,11 @@
 title: Rollins
 slug: rollins
 description: ""
-date: "2026-04-10T09:40:34.507495"
+date: "2026-04-15T09:21:25.442065"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.rollins.edu](https://www.rollins.edu)
-- [http://www.flickr.com/photos/rollinsnews/sets](http://www.flickr.com/photos/rollinsnews/sets)
 - [http://www.rollins.edu](http://www.rollins.edu)
 
 ## Brand Guidelines

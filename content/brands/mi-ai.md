@@ -2,7 +2,7 @@
 title: Mi AI
 slug: "mi-ai"
 description: ""
-date: "2026-04-10T09:40:30.937824"
+date: "2026-04-15T09:21:22.548721"
 draft: false
 sectors:
   - software
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: 2007 song performed by Inez
-wikidata_url: "https://www.wikidata.org/wiki/Q6826960"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -62,16 +62,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mi.com/aispeaker](https://www.mi.com/aispeaker)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6826960) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Inez |
-| Publication Date | 2007-05 |
-| Genre | electronica |
-| Form Of Creative Work | song |

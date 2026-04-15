@@ -2,11 +2,11 @@
 title: INTO
 slug: into
 description: ""
-date: "2026-04-10T09:40:34.430373"
+date: "2026-04-15T09:21:25.375111"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -16,10 +16,8 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - "united-kingdom"
-revenue_buckets:
-  - "UNDER-1M"
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 employees_buckets: []
@@ -30,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2007
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: network of heritage organisations from across the globe
-wikidata_url: "https://www.wikidata.org/wiki/Q19605549"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,14 +63,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.intoglobal.com](https://www.intoglobal.com)
-- [http://www.google.com](http://www.google.com)
-- [http://www.instagram.com](http://www.instagram.com)
 - [http://www.intoglobal.com](http://www.intoglobal.com)
 - [http://www.intostudy.com/queens](http://www.intostudy.com/queens)
-- [http://www.linotype.com](http://www.linotype.com)
 - [http://www.myin.to/intoqubvideos](http://www.myin.to/intoqubvideos)
-- [http://internationaltrusts.org](http://internationaltrusts.org)
-- [https://www.into.org](https://www.into.org)
 
 ## Brand Guidelines
 
@@ -313,37 +304,3 @@ visual_term_image_urls: {}
 - AA selection of social media and generic icons
 - Back page of a QUB presentation folder shows icons grouped for social media
 - "' Social media icons in intoglobal.com footer
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19605549) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2007](/foundation_dates/2007/) |
-| Grid Id | grid.500444.1 |
-| Ror Id | 00kn2t107 |
-| Chairperson | Simon Molesworth |
-| Field Of Work | historic preservation |
-| Freebase Id | /m/012vy3ly |
-| Charity Commission No. | 1175994 (from 2017-11-29) |
-| Country | United Kingdom |
-| Email Address | info@into.org (as of 2023-04-17) |
-| Uia Open Yearbook Organization Website Id | 1100068122 |
-| Inception | 2007 |
-| Member Of | Europa Nostra |
-| Donations | 126,649 pound sterling (as of 2023), 1,098,090 pound sterling (as of 2024) |
-| Number Of Volunteers | 6 (as of 2024) |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $210.84K | as of 2019 | [UNDER-1M](/revenue_buckets/under-1m/) |
-| $292.07K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |
-| $379.56K | as of 2021 | [UNDER-1M](/revenue_buckets/under-1m/) |
-| $420.96K | as of 2022 | [UNDER-1M](/revenue_buckets/under-1m/) |
-| $1.18M | as of 2023 | [1M-10M](/revenue_buckets/1m-10m/) |
-| $1.12M | as of 2024 | [1M-10M](/revenue_buckets/1m-10m/) |

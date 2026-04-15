@@ -2,7 +2,7 @@
 title: issuu
 slug: issuu
 description: ""
-date: "2026-04-10T09:40:33.215971"
+date: "2026-04-15T09:21:24.161878"
 draft: false
 sectors:
   - software

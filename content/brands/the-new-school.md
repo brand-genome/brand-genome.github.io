@@ -2,7 +2,7 @@
 title: The New School
 slug: "the-new-school"
 description: ""
-date: "2026-04-10T09:40:31.547442"
+date: "2026-04-15T09:21:23.197984"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

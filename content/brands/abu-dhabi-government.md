@@ -2,7 +2,7 @@
 title: Abu Dhabi Government
 slug: "abu-dhabi-government"
 description: ""
-date: "2026-04-10T09:40:33.290703"
+date: "2026-04-15T09:21:24.227566"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - arabic
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries:
   - "united-arab-emirates"

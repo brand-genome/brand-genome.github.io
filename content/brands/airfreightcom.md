@@ -2,7 +2,7 @@
 title: AirFreight.com
 slug: airfreightcom
 description: ""
-date: "2026-04-10T09:40:30.820044"
+date: "2026-04-15T09:21:22.424295"
 draft: false
 sectors:
   - "logistics-supply-chain"

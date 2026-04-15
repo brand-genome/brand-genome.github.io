@@ -2,7 +2,7 @@
 title: Boadilla Del Monte
 slug: "boadilla-del-monte"
 description: ""
-date: "2026-04-10T09:40:32.979070"
+date: "2026-04-15T09:21:23.933771"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - spain
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "capital of Boadilla del Monte Municipality, Spain"
-wikidata_url: "https://www.wikidata.org/wiki/Q24012772"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,19 +71,3 @@ visual_term_image_urls: {}
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q24012772) |
-
-| Property | Value |
-|----------|-------|
-| Country | Spain |
-| Located In The Administrative Territorial Entity | Boadilla del Monte |
-| Capital Of | Boadilla del Monte |
-| Coordinate Location | 40.405, -3.87835, 40.40783457, -3.87580597 |
-| Who'S On First Id | 404338733 |
-| Ine Code | 28022000101 |
-| Population | 43,874 (as of 2024) |

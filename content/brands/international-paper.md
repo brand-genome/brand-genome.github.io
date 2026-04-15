@@ -2,22 +2,22 @@
 title: International Paper
 slug: "international-paper"
 description: ""
-date: "2026-04-10T09:40:32.190535"
+date: "2026-04-15T09:21:23.645168"
 draft: false
 sectors:
   - "printing-reprographics"
 regions:
   - usa
 years:
-  - 1997
   - 2012
+  - 1997
 languages:
   - english
 tags:
   - signage
   - featured
-  - industry
   - vintage
+  - industry
 industries:
   - "pulp-and-paper-industry"
 countries:
@@ -36,8 +36,8 @@ products_or_materials_produced:
   - paper
 products: []
 headquarters_locations:
-  - boston
   - memphis
+  - boston
 subsidiaries: []
 foundation_dates:
   - 1898
@@ -817,7 +817,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Paper](/products_or_materials_produced/paper/) |
-| Headquarters Location | [Boston](/headquarters_locations/boston/); [Memphis](/headquarters_locations/memphis/) |
+| Headquarters Location | [Memphis](/headquarters_locations/memphis/); [Boston](/headquarters_locations/boston/) |
 | Foundation Date | [1898](/foundation_dates/1898/) |
 | Topic'S Main Category | Category:International Paper |
 | Freebase Id | /m/01qxj3 |

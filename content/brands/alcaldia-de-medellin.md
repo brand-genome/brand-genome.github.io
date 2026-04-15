@@ -2,7 +2,7 @@
 title: Alcaldía de Medellín
 slug: "alcaldia-de-medellin"
 description: ""
-date: "2026-04-10T09:40:30.922699"
+date: "2026-04-15T09:21:22.534456"
 draft: false
 sectors:
   - "public-sector"

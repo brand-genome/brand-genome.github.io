@@ -2,7 +2,7 @@
 title: Virgin America
 slug: "virgin-america"
 description: ""
-date: "2026-04-10T09:40:34.879037"
+date: "2026-04-15T09:21:25.850572"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - airline
   - transport
+  - airline
 industries: []
 countries:
   - "united-states"

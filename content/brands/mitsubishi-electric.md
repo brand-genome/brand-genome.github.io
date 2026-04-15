@@ -2,12 +2,12 @@
 title: Mitsubishi Electric
 slug: "mitsubishi-electric"
 description: ""
-date: "2026-04-10T09:40:31.391808"
+date: "2026-04-15T09:21:23.069273"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - japan
 years:
@@ -18,8 +18,8 @@ tags:
   - corporate
 industries:
   - electronics
-  - "electrical-industry"
   - "electrical-device"
+  - "electrical-industry"
 countries:
   - japan
 revenue_buckets:

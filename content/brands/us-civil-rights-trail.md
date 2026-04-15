@@ -2,7 +2,7 @@
 title: US. Civil Rights Trail
 slug: "us-civil-rights-trail"
 description: ""
-date: "2026-04-10T09:40:33.438696"
+date: "2026-04-15T09:21:24.373575"
 draft: false
 sectors:
   - tourism
@@ -63,10 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://civilrightstrail.com](https://civilrightstrail.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [http://www.loc.gov](http://www.loc.gov)
-- [http://www.usg.edu](http://www.usg.edu)
-- [http://www.visitnc.com](http://www.visitnc.com)
 
 ## Brand Guidelines
 

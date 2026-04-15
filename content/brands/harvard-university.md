@@ -2,22 +2,22 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-04-10T09:40:30.914496"
+date: "2026-04-15T09:21:22.529026"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:
@@ -75,7 +75,6 @@ visual_term_image_urls: {}
 - [https://www.harvard.edu](https://www.harvard.edu)
 - [https://trademark.harvard.edu](https://trademark.harvard.edu)
 - [http://www.harvard.edu](http://www.harvard.edu)
-- [http://www.myfonts.com](http://www.myfonts.com)
 - [https://harvard.edu](https://harvard.edu)
 
 ## Brand Guidelines

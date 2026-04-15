@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-04-10T09:40:34.483053"
+date: "2026-04-15T09:21:25.420966"
 draft: false
 sectors:
   - electronics

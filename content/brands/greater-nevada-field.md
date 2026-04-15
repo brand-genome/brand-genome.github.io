@@ -2,7 +2,7 @@
 title: Greater Nevada Field
 slug: "greater-nevada-field"
 description: ""
-date: "2026-04-10T09:40:34.483984"
+date: "2026-04-15T09:21:25.421527"
 draft: false
 sectors:
   - sports

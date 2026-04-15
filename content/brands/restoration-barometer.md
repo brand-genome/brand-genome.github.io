@@ -2,11 +2,11 @@
 title: Restoration Barometer
 slug: "restoration-barometer"
 description: ""
-date: "2026-04-10T09:40:32.121631"
+date: "2026-04-15T09:21:23.601544"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:

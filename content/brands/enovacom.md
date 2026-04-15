@@ -2,7 +2,7 @@
 title: Enovacom
 slug: enovacom
 description: ""
-date: "2026-04-10T09:40:34.807356"
+date: "2026-04-15T09:21:25.783412"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - software
   - ambigram
+  - software
   - corporate
 industries: []
 countries: []

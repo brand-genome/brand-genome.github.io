@@ -2,7 +2,7 @@
 title: Buta Airways
 slug: "buta-airways"
 description: ""
-date: "2026-04-10T09:40:33.988168"
+date: "2026-04-15T09:21:24.911326"
 draft: false
 sectors:
   - airline

@@ -2,7 +2,7 @@
 title: Edinburgh
 slug: edinburgh
 description: ""
-date: "2026-04-10T09:40:34.479776"
+date: "2026-04-15T09:21:25.418406"
 draft: false
 sectors:
   - "public-sector"

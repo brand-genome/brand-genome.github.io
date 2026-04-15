@@ -2,11 +2,11 @@
 title: Nutribullet
 slug: nutribullet
 description: ""
-date: "2026-04-10T09:40:30.704312"
+date: "2026-04-15T09:21:22.286101"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
   - "home-appliances"
 regions:
   - usa
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - retail
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []

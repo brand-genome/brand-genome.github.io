@@ -2,7 +2,7 @@
 title: New York City Football Club
 slug: "new-york-city-football-club"
 description: ""
-date: "2026-04-10T09:40:31.952046"
+date: "2026-04-15T09:21:23.388596"
 draft: false
 sectors:
   - sports

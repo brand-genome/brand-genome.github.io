@@ -2,7 +2,7 @@
 title: Cadence
 slug: cadence
 description: ""
-date: "2026-04-10T09:40:32.002065"
+date: "2026-04-15T09:21:23.428875"
 draft: false
 sectors:
   - software
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: genre of méringue music
-wikidata_url: "https://www.wikidata.org/wiki/Q3191747"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -62,20 +62,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.cadence.com](https://www.cadence.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3191747) |
-
-| Property | Value |
-|----------|-------|
-| Instrumentation | drum, tanbou, conga, cowbell |
-| Subclass Of | music of Haiti |
-| Country Of Origin | Haiti |
-| On Focus List Of Wikimedia Project | WikiProject African diaspora |
-| Freebase Id | /m/06h3qr |
-| Rate Your Music Genre Id | cadence-rampa |
-| Allmusic Genre/Style Id | ma0000011817 |
-| Musicbrainz Genre Id | 8da28d3e-6354-4655-8f03-f1ac09bd1612 |

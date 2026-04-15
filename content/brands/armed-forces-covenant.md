@@ -2,7 +2,7 @@
 title: Armed Forces Covenant
 slug: "armed-forces-covenant"
 description: ""
-date: "2026-04-10T09:40:32.589395"
+date: "2026-04-15T09:21:23.787738"
 draft: false
 sectors:
   - "public-sector"

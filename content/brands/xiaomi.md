@@ -2,12 +2,12 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-04-10T09:40:33.276413"
+date: "2026-04-15T09:21:24.214204"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - china
 years:
@@ -17,10 +17,10 @@ languages:
 tags:
   - electronics
 industries:
-  - "home-appliance"
   - "automotive-industry"
   - "consumer-electronics-industry"
   - "mobile-phone"
+  - "home-appliance"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets: []
@@ -35,8 +35,8 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "networking-hardware"
   - "building-automation"
+  - "networking-hardware"
   - "computer-hardware"
   - software
 products: []
@@ -99,7 +99,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Building Automation](/products_or_materials_produced/building-automation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Building Automation](/products_or_materials_produced/building-automation/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |

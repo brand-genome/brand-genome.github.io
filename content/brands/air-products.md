@@ -2,16 +2,16 @@
 title: Air Products
 slug: "air-products"
 description: ""
-date: "2026-04-10T09:40:30.567301"
+date: "2026-04-15T09:21:22.093021"
 draft: false
 sectors:
-  - "manufacturing-industry"
   - gas
+  - "manufacturing-industry"
 regions:
   - usa
 years:
-  - 2017
   - 2024
+  - 2017
 languages:
   - english
 tags:

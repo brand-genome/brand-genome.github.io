@@ -2,11 +2,11 @@
 title: Joi Scientific
 slug: "joi-scientific"
 description: ""
-date: "2026-04-10T09:40:32.786142"
+date: "2026-04-15T09:21:23.855595"
 draft: false
 sectors:
-  - hardware
   - "renewable-energy"
+  - hardware
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - science
   - engineering
+  - science
 industries: []
 countries: []
 revenue_buckets: []

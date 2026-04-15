@@ -2,11 +2,11 @@
 title: Rudy’s
 slug: rudys
 description: ""
-date: "2026-04-10T09:40:34.263203"
+date: "2026-04-15T09:21:25.178681"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: Auckland Emergency Management
 slug: "auckland-emergency-management"
 description: ""
-date: "2026-04-10T09:40:31.555348"
+date: "2026-04-15T09:21:23.202459"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.aucklandemergencymanagement.govt.nz](https://www.aucklandemergencymanagement.govt.nz)
 - [https://www.aucklandcouncil.govt.nz/about-auckland-council/Pages/auckland-civil-defence-emergency-management.aspx](https://www.aucklandcouncil.govt.nz/about-auckland-council/Pages/auckland-civil-defence-emergency-management.aspx)
 - [https://ourbrand.aucklandcouncil.govt.nz](https://ourbrand.aucklandcouncil.govt.nz)
-- [http://www.govt.nz](http://www.govt.nz)
 
 ## Brand Guidelines
 

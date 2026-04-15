@@ -2,7 +2,7 @@
 title: Scout Association of Malta
 slug: "scout-association-of-malta"
 description: ""
-date: "2026-04-10T09:40:33.142367"
+date: "2026-04-15T09:21:24.072959"
 draft: false
 sectors:
   - ngo

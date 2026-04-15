@@ -2,7 +2,7 @@
 title: Hero
 slug: hero
 description: ""
-date: "2026-04-10T09:40:34.145840"
+date: "2026-04-15T09:21:25.052455"
 draft: false
 sectors:
   - automobile
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: vocal track by Charlotte Perrelli; 2008 studio recording
-wikidata_url: "https://www.wikidata.org/wiki/Q105627444"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.heromotocorp.com](https://www.heromotocorp.com)
 - [https://www.heromotocorp.com/en-in.html](https://www.heromotocorp.com/en-in.html)
-- [http://www.fontshop.com](http://www.fontshop.com)
 
 ## Brand Guidelines
 
@@ -266,17 +265,3 @@ visual_term_image_urls: {}
 - The page must be divided into 3 equal parts. The top corner of the Hero logo template must be placed at the top right corner of the 3 division. Keeping the original proportion it must be re-sized in 1/3 of the layout as shown.
 - The page must be divided into 4 equal parts. The top corner of the Hero logo template must be placed at the top right corner of the 4 quarter. Keeping the original proportion it must be re-sized in 1/4 of the layout as shown.
 - The page must be divided into 4 equal parts. The top right corner of the Hero logo template must be placed at the top right corner of the 1quarter. Keeping the original proportion it must be re-sized as shown.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q105627444) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Charlotte Perrelli |
-| Title | Hero |
-| Recording Or Performance Of | Hero |
-| Has Characteristic | studio recording |
-| Published In | Hero, Melodifestivalen 2008, Hero, Eurovision Song Contest 2008 |

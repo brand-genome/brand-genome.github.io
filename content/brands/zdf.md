@@ -2,7 +2,7 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-04-10T09:40:33.255041"
+date: "2026-04-15T09:21:24.199669"
 draft: false
 sectors:
   - broadcasting

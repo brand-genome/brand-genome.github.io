@@ -2,7 +2,7 @@
 title: New Vision Badminton Sport
 slug: "new-vision-badminton-sport"
 description: ""
-date: "2026-04-10T09:40:32.189108"
+date: "2026-04-15T09:21:23.644649"
 draft: false
 sectors:
   - sports

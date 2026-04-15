@@ -2,7 +2,7 @@
 title: Barazza
 slug: barazza
 description: ""
-date: "2026-04-10T09:40:34.113200"
+date: "2026-04-15T09:21:25.029883"
 draft: false
 sectors:
   - "home-appliances"

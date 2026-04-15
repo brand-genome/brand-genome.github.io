@@ -2,7 +2,7 @@
 title: Sabadell
 slug: sabadell
 description: ""
-date: "2026-04-10T09:40:33.679285"
+date: "2026-04-15T09:21:24.619809"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "economics-of-banking"
   - "financial-services"
+  - "economics-of-banking"
   - "financial-sector"
 countries:
   - spain

@@ -2,11 +2,11 @@
 title: NICA
 slug: nica
 description: ""
-date: "2026-04-10T09:40:33.989666"
+date: "2026-04-15T09:21:24.912212"
 draft: false
 sectors:
-  - ngo
   - sports
+  - ngo
 regions:
   - usa
 years:

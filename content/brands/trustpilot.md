@@ -2,7 +2,7 @@
 title: Trustpilot
 slug: trustpilot
 description: ""
-date: "2026-04-10T09:40:30.592839"
+date: "2026-04-15T09:21:22.135213"
 draft: false
 sectors:
   - software

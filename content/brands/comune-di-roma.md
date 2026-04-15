@@ -2,7 +2,7 @@
 title: Comune di Roma
 slug: "comune-di-roma"
 description: ""
-date: "2026-04-10T09:40:34.694667"
+date: "2026-04-15T09:21:25.681412"
 draft: false
 sectors:
   - "public-sector"

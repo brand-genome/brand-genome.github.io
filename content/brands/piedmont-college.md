@@ -2,11 +2,11 @@
 title: Piedmont College
 slug: "piedmont-college"
 description: ""
-date: "2026-04-10T09:40:32.839384"
+date: "2026-04-15T09:21:23.879258"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

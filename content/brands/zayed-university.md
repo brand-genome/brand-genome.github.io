@@ -2,12 +2,12 @@
 title: Zayed University
 slug: "zayed-university"
 description: ""
-date: "2026-04-10T09:40:34.505129"
+date: "2026-04-15T09:21:25.440253"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - dubai
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - arabic
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-arab-emirates"

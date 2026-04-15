@@ -2,7 +2,7 @@
 title: Governo do Amazonas
 slug: "governo-do-amazonas"
 description: ""
-date: "2026-04-10T09:40:32.597081"
+date: "2026-04-15T09:21:23.794478"
 draft: false
 sectors:
   - "public-sector"

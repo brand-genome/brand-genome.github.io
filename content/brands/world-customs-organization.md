@@ -2,7 +2,7 @@
 title: World Customs Organization
 slug: "world-customs-organization"
 description: ""
-date: "2026-04-10T09:40:32.547549"
+date: "2026-04-15T09:21:23.747131"
 draft: false
 sectors:
   - "public-sector"
@@ -68,10 +68,7 @@ visual_term_image_urls: {}
 - [https://www.wcoomd.org](https://www.wcoomd.org)
 - [https://academy.wcoomd.org](https://academy.wcoomd.org)
 - [https://clikc.wcoomd.org](https://clikc.wcoomd.org)
-- [http://www.google.com](http://www.google.com)
-- [http://www.u4.no/publications/barriers-to-collective-action-against-corruption](http://www.u4.no/publications/barriers-to-collective-action-against-corruption)
 - [http://www.wcoomd.org](http://www.wcoomd.org)
-- [http://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf](http://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: International Paralympic Committee
 slug: "international-paralympic-committee"
 description: ""
-date: "2026-04-10T09:40:32.582129"
+date: "2026-04-15T09:21:23.781181"
 draft: false
 sectors:
   - sports
@@ -10,8 +10,8 @@ sectors:
 regions:
   - international
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:

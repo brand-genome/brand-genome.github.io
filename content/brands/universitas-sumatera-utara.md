@@ -2,12 +2,12 @@
 title: Universitas Sumatera Utara
 slug: "universitas-sumatera-utara"
 description: ""
-date: "2026-04-10T09:40:32.095430"
+date: "2026-04-15T09:21:23.581571"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - indonesia

@@ -2,7 +2,7 @@
 title: San Francisco International Airport
 slug: "san-francisco-international-airport"
 description: ""
-date: "2026-04-10T09:40:30.611174"
+date: "2026-04-15T09:21:22.165558"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airport
+  - aeronautic
 industries: []
 countries:
   - "united-states"

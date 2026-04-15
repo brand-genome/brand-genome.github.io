@@ -2,12 +2,12 @@
 title: Middlecap
 slug: middlecap
 description: ""
-date: "2026-04-10T09:40:34.510959"
+date: "2026-04-15T09:21:25.444898"
 draft: false
 sectors:
-  - finance
   - "real-estate"
   - consulting
+  - finance
 regions:
   - slovakia
 years:
@@ -16,11 +16,8 @@ languages:
   - english
 tags:
   - financial
-industries:
-  - "health-care-industry"
-  - retail
-countries:
-  - "czech-republic"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - prague
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2016
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Czech company operating optician chain
-wikidata_url: "https://www.wikidata.org/wiki/Q130557294"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://middlecap.com](https://middlecap.com)
-- [https://fokusoptik.cz](https://fokusoptik.cz)
 
 ## Brand Guidelines
 
@@ -316,30 +309,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q130557294) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Prague](/headquarters_locations/prague/) |
-| Foundation Date | [2016](/foundation_dates/2016/) |
-| Headquarters Location | Prague |
-| Czech Registration Id (Ičo) | 05313449 |
-| Country | Czech Republic |
-| Official Name | FOKUS optik a.s. |
-| Inception | 2016-08-16 |
-| Legal Form | akciová společnost |
-| Legal Entity Identifier | 315700ZFC6M6DXWK0F36 |
-| Opencorporates Id | cz/05313449 |
-| Isds Id | mczzvcw |
-| Industry | retail, health care industry |
-| Facebook Username | fokusoptik |
-| Instagram Username | fokus_optik |
-| Operating Area | Czech Republic |
-| Location Information Url | https://fokusoptik.cz/pobocky |
-| Different From | FOKUS optik a.s., FOKUS očná optika, FOKUS očná optika a.s. |
-| Osm Name Suggestion Index Id | fokusoptik-012d10 |

@@ -2,7 +2,7 @@
 title: NCHC
 slug: nchc
 description: ""
-date: "2026-04-10T09:40:34.284323"
+date: "2026-04-15T09:21:25.190348"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - taiwan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,11 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1991
-  - 1993
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "national-level research laboratory under NARL"
-wikidata_url: "https://www.wikidata.org/wiki/Q6971340"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.nchc.com](https://www.nchc.com)
 - [https://www.nchcfanshop.com](https://www.nchcfanshop.com)
 - [http://www.nchchockey.com](http://www.nchchockey.com)
-- [https://www.nchc.org.tw](https://www.nchc.org.tw)
 
 ## Brand Guidelines
 
@@ -196,30 +191,3 @@ visual_term_image_urls: {}
 - To signify that the NCHC is trademarked, the TM should remain in the same position and size as shown here.
 - To maintain the integrity of the logo's appearance, do not reproduce the logo smaller than the .375".
 - The NCHC logo in color works on all backgrounds but when using the black & white logo it is necessary to use the reverse version (_rv) in order for the TM to be visible.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6971340) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1991](/foundation_dates/1991/); [1993](/foundation_dates/1993/) |
-| Quora Topic Id | National-Center-for-High-Performance-Computing |
-| Country | Taiwan |
-| Parent Organization Or Unit | National Institutes of Applied Research |
-| Located In The Administrative Territorial Entity | Hsinchu City |
-| Coordinate Location | 24.782538, 120.995705 |
-| Grid Id | grid.462649.b |
-| Ror Id | 01jpzd518 |
-| Inception | 1993-01-01, 1991 |
-| Member Of | OpenPOWER Foundation |
-| Freebase Id | /m/0271fqs |
-| Youtube Channel Id | UCWrzkYUM5cwpZExQ4Et5vSw (as of 2021-06-13, from 2018-06-11) |
-| Short Name | NCHC, 國網中心, TWAREN |
-| Field Of Work | national research and education network |
-| Ark Name Assigning Authority Number | 34548 |
-| Ldt @ Library Name Authority Id | 397368 |
-| Youtube Handle | nchc3005 (as of 2025-11-27) |
-| Number Of Viewers/Listeners | 2,929,594 (as of 2025-11-27) |

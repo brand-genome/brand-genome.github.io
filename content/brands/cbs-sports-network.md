@@ -2,7 +2,7 @@
 title: CBS Sports Network
 slug: "cbs-sports-network"
 description: ""
-date: "2026-04-10T09:40:34.447894"
+date: "2026-04-15T09:21:25.391657"
 draft: false
 sectors:
   - sports

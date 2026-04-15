@@ -2,7 +2,7 @@
 title: Stacks
 slug: stacks
 description: ""
-date: "2026-04-10T09:40:34.653206"
+date: "2026-04-15T09:21:25.646817"
 draft: false
 sectors:
   - software
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 - [https://about.ebsco.com/products/stacks](https://about.ebsco.com/products/stacks)
 - [https://about.ebsco.com/resources/stacks-new-public-library-experience](https://about.ebsco.com/resources/stacks-new-public-library-experience)
 - [https://about.ebsco.com/public-libraries/products/stacks](https://about.ebsco.com/public-libraries/products/stacks)
-- [http://www.github.io/material-design-icons](http://www.github.io/material-design-icons)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Vytautas Magnus University
 slug: "vytautas-magnus-university"
 description: ""
-date: "2026-04-10T09:40:32.080880"
+date: "2026-04-15T09:21:23.567796"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - lithuania
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - lithuanian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - lithuania
@@ -35,8 +35,8 @@ foundation_dates:
   - 1989
   - 1922
 foundation_year_buckets:
-  - 1920S
   - 1980S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []

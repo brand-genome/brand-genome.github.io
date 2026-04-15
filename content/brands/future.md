@@ -2,7 +2,7 @@
 title: Future
 slug: future
 description: ""
-date: "2026-04-10T09:40:34.411623"
+date: "2026-04-15T09:21:25.359044"
 draft: false
 sectors:
   - publishing
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: deprecated multimedia platform used to add animation and interactivity to web pages
-wikidata_url: "https://www.wikidata.org/wiki/Q165658"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.futureplc.com](https://www.futureplc.com)
 - [https://futureplc.com](https://futureplc.com)
-- [http://www.adobe.com/products/flash/flashpro](http://www.adobe.com/products/flash/flashpro)
 
 ## Brand Guidelines
 
@@ -327,64 +326,3 @@ visual_term_image_urls: {}
 - This is what helps us to deliver innovative ideas and considerable revenue for our partners all around the world.
 - Our collaborative and agile way of working helps us seize every opportunity. And the partnerships we build play a huge role in how we shape and grow our business.
 - We’re delivering innovative ideas and considerable revenue streams for our partners all around the world.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q165658) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Adobe Flash |
-| Programmed In | ActionScript |
-| Developer | Adobe |
-| Input Device | graphical user interface, script |
-| Encyclopædia Britannica Online Id | topic/Adobe-Flash |
-| Operating System | Microsoft Windows, Linux, macOS |
-| Stack Exchange Tag | https://stackoverflow.com/tags/flash |
-| Subreddit | flash (from 2008-03-23) |
-| Freebase Id | /m/058b6 |
-| Quora Topic Id | Adobe-Flash |
-| Has Use | 2D animation software |
-| Copyright License | proprietary license |
-| Derivative Work | Adobe Flash Professional |
-| Gamefaqs Platform Id | flash |
-| Readable File Format | FLA, Small Web Format family, FLV |
-| Semantic Scholar Topic Id | 104696 |
-| Writable File Format | FLA |
-| Omegawiki Defined Meaning | 963437 |
-| Uvl Platform Id | 122 |
-| Ubuntu Package | browser-plugin-freshplayer-pepperflash |
-| Debian Stable Package | browser-plugin-freshplayer-pepperflash |
-| National Library Of Poland Mms Id | 9810612739105606 |
-| Followed By | Adobe Animate |
-| Copyright Status | copyrighted |
-| Discontinuation Date | 2020-12-31 |
-| Different From | Adobe Shockwave, Adobe Flash Player |
-| Github Account | adobe-flash |
-| Zhihu Topic Id | 19588503 |
-| Github Topic | adobe-flash |
-| Native Label | Adobe Flash |
-| Moegirlpedia Id | Adobe_Flash |
-| Nl Cr Aut Id | ph135669 |
-| Open Library Subject Id | flash_(computer_program), flash_(computer_file), macromedia_flash_(computer_file) |
-| Mod Db Engine Id | adobe-flash-professional |
-| Namuwiki Id | 어도비 플래시 |
-| Short Name | Fl |
-| Reddit Topic Id | adobe_flash |
-| Niconicopedia Id | flash |
-| Elmcip Id | 10256 |
-| Game Classification Machine Id | 84 |
-| Wikikids Id | Adobe_Flash |
-| Yso Id | 20398 |
-| Described At Url | https://tapor.ca/tools/1330 |
-| Gentoo Wiki Article | Adobe_Flash |
-| Topic Has Template | Template:Adobe Flash |
-| Yle Topic Id | 18-149410 |
-| Steamdb Tech Id | Adobe_Flash |
-| Pcgamingwiki Id | Engine:Flash |
-| Mobygames Attribute Id | 1207 |
-| ‎Gamespot Platform Id | 102 |
-| Itch.Io Tag Id | flash |
-| Know Your Meme Slug | adobe-flash (as of 2025-10-26) |

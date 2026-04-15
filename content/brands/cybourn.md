@@ -2,12 +2,12 @@
 title: CyBourn
 slug: cybourn
 description: ""
-date: "2026-04-10T09:40:33.115745"
+date: "2026-04-15T09:21:24.049485"
 draft: false
 sectors:
-  - software
   - consulting
   - cybersecurity
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - security
+  - software
 industries: []
 countries: []
 revenue_buckets: []

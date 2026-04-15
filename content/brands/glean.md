@@ -2,11 +2,11 @@
 title: Glean
 slug: glean
 description: ""
-date: "2026-04-10T09:40:30.953491"
+date: "2026-04-15T09:21:22.565224"
 draft: false
 sectors:
-  - software
   - "e-learning-edtech"
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
   - education
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -54,7 +54,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q76182778"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -216,14 +216,3 @@ visual_term_image_urls: {}
 
 - When demonstrating (or simply suggesting the function of) UI elements, we can use a simplified vector illustration of the function instead of a raster screengrab.
 - These illustrations simplify the UI, removing text elements and smaller icons for a clearer depiction of the app than a screenshot.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q76182778) |
-
-| Property | Value |
-|----------|-------|
-| Described At Url | https://www.gnu.org/software/glean/ |
-| Free Software Directory Entry | Glean |

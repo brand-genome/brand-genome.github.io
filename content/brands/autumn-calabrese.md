@@ -2,11 +2,11 @@
 title: Autumn Calabrese
 slug: "autumn-calabrese"
 description: ""
-date: "2026-04-10T09:40:33.643442"
+date: "2026-04-15T09:21:24.589215"
 draft: false
 sectors:
-  - "wellness-spa"
   - fitness
+  - "wellness-spa"
 regions:
   - usa
 years:

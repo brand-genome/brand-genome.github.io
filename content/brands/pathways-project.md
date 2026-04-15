@@ -2,7 +2,7 @@
 title: Pathways Project
 slug: "pathways-project"
 description: ""
-date: "2026-04-10T09:40:32.138909"
+date: "2026-04-15T09:21:23.613663"
 draft: false
 sectors:
   - research

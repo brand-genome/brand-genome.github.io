@@ -2,12 +2,12 @@
 title: Inter Cars
 slug: "inter-cars"
 description: ""
-date: "2026-04-10T09:40:34.447371"
+date: "2026-04-15T09:21:25.391255"
 draft: false
 sectors:
-  - automobile
   - "e-commerce"
   - "logistics-supply-chain"
+  - automobile
 regions:
   - poland
 years:
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 - [https://intercars.pl](https://intercars.pl)
 - [https://motointegrator.com](https://motointegrator.com)
 - [https://inwestor.intercars.com.pl](https://inwestor.intercars.com.pl)
-- [http://www.motofaktor.pl](http://www.motofaktor.pl)
 - [http://www.intercars.com.pl](http://www.intercars.com.pl)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Hobie Cat Worldwide
 slug: "hobie-cat-worldwide"
 description: ""
-date: "2026-04-10T09:40:32.515772"
+date: "2026-04-15T09:21:23.721590"
 draft: false
 sectors:
   - sports

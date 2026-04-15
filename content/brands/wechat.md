@@ -2,11 +2,11 @@
 title: WeChat
 slug: wechat
 description: ""
-date: "2026-04-10T09:40:33.440469"
+date: "2026-04-15T09:21:24.373941"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - china
 years:
@@ -15,8 +15,8 @@ languages:
   - chinese
 tags:
   - featured
-  - app
   - internet
+  - app
 industries: []
 countries:
   - "peoples-republic-of-china"

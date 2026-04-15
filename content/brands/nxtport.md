@@ -2,11 +2,11 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-04-10T09:40:34.291609"
+date: "2026-04-15T09:21:25.194951"
 draft: false
 sectors:
-  - software
   - "logistics-supply-chain"
+  - software
 regions:
   - belgium
 years:

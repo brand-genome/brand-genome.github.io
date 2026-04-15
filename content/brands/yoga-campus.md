@@ -2,11 +2,11 @@
 title: Yoga Campus
 slug: "yoga-campus"
 description: ""
-date: "2026-04-10T09:40:34.717529"
+date: "2026-04-15T09:21:25.699098"
 draft: false
 sectors:
-  - wellness
   - education
+  - wellness
 regions:
   - "united-kingdom"
 years:

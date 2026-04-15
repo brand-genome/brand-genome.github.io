@@ -2,11 +2,11 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-04-10T09:40:33.394612"
+date: "2026-04-15T09:21:24.326824"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

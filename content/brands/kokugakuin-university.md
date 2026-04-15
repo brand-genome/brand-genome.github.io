@@ -2,11 +2,11 @@
 title: Kokugakuin University
 slug: "kokugakuin-university"
 description: ""
-date: "2026-04-10T09:40:33.452814"
+date: "2026-04-15T09:21:24.385598"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - japan

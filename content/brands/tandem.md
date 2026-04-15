@@ -2,11 +2,11 @@
 title: Tandem
 slug: tandem
 description: ""
-date: "2026-04-10T09:40:34.777243"
+date: "2026-04-15T09:21:25.756164"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - cultural
   - music
+  - cultural
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: French television series
-wikidata_url: "https://www.wikidata.org/wiki/Q25396034"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -64,43 +64,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.stereotandem.com](https://www.stereotandem.com)
-- [https://www.france.tv/france-3/tandem](https://www.france.tv/france-3/tandem)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25396034) |
-
-| Property | Value |
-|----------|-------|
-| Original Broadcaster | France 3 |
-| Imdb Id | tt5595238 |
-| Allociné Series Id | 20085 |
-| Number Of Seasons | 7 |
-| Number Of Episodes | 84 |
-| Has Part(S) | Tandem, season 1, Tandem, season 2, Tandem, season 3, Tandem, season 4, Tandem, season 5 (+2 more) |
-| Different From | tandem bicycle, Tandem, Tandem |
-| Country Of Origin | France |
-| Genre | detective fiction, police television drama |
-| Start Time | 2016-03-29 |
-| Kinopoisk Film Id | 1171893 |
-| Tmdb Tv Series Id | 72598 |
-| Filmaffinity Film Id | 649602 |
-| Lumiere Film Id | 152980 |
-| Original Language Of Film Or Tv Show | French |
-| Title | Tandem |
-| Director | Christophe Douchand |
-| Filming Location | Occitania |
-| Duration | 52 minute |
-| Cast Member | Astrid Veillon, Stéphane Blancafort, Piérick Tournier, Tatiana Goussef, François-Dominique Blin (+8 more) |
-| Trakt.Tv Id | shows/in-tandem |
-| Plex Media Key | 5d9c08e64eefaa001f5e4d40 |
-| Kinobox Film Id | 606534 |
-| Ratinggraph Tv Show Id | in-tandem-ratings-60216 |
-| Filmvandaag Id | serie/4830 |
-| Tv Maze Series Id | 35747 |
-| Fernsehserien.De Id | tandem-2016 |
-| Thetvdb Series Id | 309211 |
-| End Time | 2024-01-02 |
-| Čsfd Film Id | 523195 |

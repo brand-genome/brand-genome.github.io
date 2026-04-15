@@ -2,12 +2,12 @@
 title: Massive Music
 slug: "massive-music"
 description: ""
-date: "2026-04-10T09:40:32.531564"
+date: "2026-04-15T09:21:23.732570"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
   - entertainment
+  - software
 regions:
   - netherlands
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 
 - [https://massivemusic.com](https://massivemusic.com)
 - [http://www.massivemusic.com](http://www.massivemusic.com)
-- [http://www.linotype.com](http://www.linotype.com)
 - [https://massivemusic.com/en/about](https://massivemusic.com/en/about)
 - [https://massivemusic.com/ja/about](https://massivemusic.com/ja/about)
 

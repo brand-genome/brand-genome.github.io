@@ -2,7 +2,7 @@
 title: Creighton University
 slug: "creighton-university"
 description: ""
-date: "2026-04-10T09:40:33.262751"
+date: "2026-04-15T09:21:24.204149"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

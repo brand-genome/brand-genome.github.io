@@ -2,7 +2,7 @@
 title: US Army Corps of Engineers
 slug: "us-army-corps-of-engineers"
 description: ""
-date: "2026-04-10T09:40:32.997090"
+date: "2026-04-15T09:21:23.948762"
 draft: false
 sectors:
   - "public-sector"
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - military
   - featured
-  - vintage
+  - military
   - engineering
+  - vintage
 industries: []
 countries:
   - "united-states"

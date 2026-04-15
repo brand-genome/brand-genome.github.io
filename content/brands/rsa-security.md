@@ -2,11 +2,11 @@
 title: RSA Security
 slug: "rsa-security"
 description: ""
-date: "2026-04-10T09:40:33.138615"
+date: "2026-04-15T09:21:24.069832"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - security
   - technology
+  - security
 industries:
   - "computer-security"
 countries:

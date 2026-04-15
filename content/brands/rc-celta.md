@@ -2,7 +2,7 @@
 title: RC Celta
 slug: "rc-celta"
 description: ""
-date: "2026-04-10T09:40:33.749923"
+date: "2026-04-15T09:21:24.726191"
 draft: false
 sectors:
   - sports

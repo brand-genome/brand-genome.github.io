@@ -2,11 +2,11 @@
 title: Google Marketing
 slug: "google-marketing"
 description: ""
-date: "2026-04-10T09:40:34.677599"
+date: "2026-04-15T09:21:25.668413"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,7 @@ languages:
   - english
 tags:
   - software
-industries:
-  - "internet-marketing"
+industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2018
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: advertising and analytics platform from Google
-wikidata_url: "https://www.wikidata.org/wiki/Q56274981"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,26 +63,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://marketingplatform.google.com](https://marketingplatform.google.com)
-- [https://marketingplatform.google.com/about](https://marketingplatform.google.com/about)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q56274981) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2018](/foundation_dates/2018/) |
-| Developer | Google |
-| Industry | internet marketing |
-| Inception | 2018 |
-| Replaces | DoubleClick |
-| Fandom Article Id | google:Google_Marketing_Platform |
-| Has Part(S) | Google Analytics, Google Tag Manager, Looker Studio |

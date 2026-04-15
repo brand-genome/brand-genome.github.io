@@ -2,7 +2,7 @@
 title: Bluebeam
 slug: bluebeam
 description: ""
-date: "2026-04-10T09:40:30.889800"
+date: "2026-04-15T09:21:22.509143"
 draft: false
 sectors:
   - software

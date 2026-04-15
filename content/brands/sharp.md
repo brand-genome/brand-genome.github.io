@@ -2,7 +2,7 @@
 title: Sharp
 slug: sharp
 description: ""
-date: "2026-04-10T09:40:34.788850"
+date: "2026-04-15T09:21:25.766929"
 draft: false
 sectors:
   - electronics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - electronics
+  - corporate
 industries:
   - electronics
 countries:

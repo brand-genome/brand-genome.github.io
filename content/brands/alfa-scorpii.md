@@ -2,7 +2,7 @@
 title: Alfa Scorpii
 slug: "alfa-scorpii"
 description: ""
-date: "2026-04-10T09:40:34.262812"
+date: "2026-04-15T09:21:25.178470"
 draft: false
 sectors:
   - research

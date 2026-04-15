@@ -2,7 +2,7 @@
 title: WarnerMedia
 slug: warnermedia
 description: ""
-date: "2026-04-10T09:40:32.478367"
+date: "2026-04-15T09:21:23.690890"
 draft: false
 sectors:
   - broadcasting
@@ -10,18 +10,18 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
   - entertainment
 industries:
-  - "publishing-industry"
-  - telecommunications
   - "media-industry"
-  - "internet-industry"
+  - "publishing-industry"
   - "tv-industry"
+  - telecommunications
+  - "internet-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,11 +44,11 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 2016
   - 1990
+  - 2016
 foundation_year_buckets:
-  - 2010S
   - 1990S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -104,7 +104,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Television Program](/products_or_materials_produced/television-program/) |
 | Headquarters Location | [Delaware](/headquarters_locations/delaware/); [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [2016](/foundation_dates/2016/); [1990](/foundation_dates/1990/) |
+| Foundation Date | [1990](/foundation_dates/1990/); [2016](/foundation_dates/2016/) |
 | Industry | media industry, TV industry, publishing industry, Internet industry, telecommunications (+1 more) |
 | Topic'S Main Wikimedia Portal | Portal:WarnerMedia |
 | Follows | Time Inc., Warner Communications |

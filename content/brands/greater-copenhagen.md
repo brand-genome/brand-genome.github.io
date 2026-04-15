@@ -2,7 +2,7 @@
 title: Greater Copenhagen
 slug: "greater-copenhagen"
 description: ""
-date: "2026-04-10T09:40:34.036241"
+date: "2026-04-15T09:21:24.954040"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - denmark
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2025
-foundation_year_buckets:
-  - 2020S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "actual light rail line, running along Ring 3 at Greater Copenhagen"
-wikidata_url: "https://www.wikidata.org/wiki/Q10655459"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -296,29 +293,3 @@ visual_term_image_urls: {}
 - Our company language is in British English, so any narration in vidoes should also be in British English.
 - All videos end with our Greater Copenhagen Logo. The logo should always be centered. Add stakeholder logos, if necesary.
 - Look to logo hierarchy and placement on page 8 as a guide for ordering logos.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q10655459) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2025](/foundation_dates/2025/) |
-| Country | Denmark |
-| Located In/On Physical Feature | Capital Region of Denmark |
-| Track Gauge | standard-gauge railway |
-| Type Of Electrification | 750 V DC railway electrification |
-| Located In The Administrative Territorial Entity | Capital Region of Denmark |
-| Image | First day of Hovedstadens Letbane at Glostrup Hospital Station 02.jpg |
-| Google Knowledge Graph Id | /g/121_j1v_ |
-| State Of Use | in use |
-| Inception | 2025-10-26 |
-| Foundational Text | Ring 3 Light Rail Act |
-| Operator | Hovedstadens Letbane I/S |
-| Part Of | Public transport in Copenhagen |
-| Route Map | Hovedstadens Letbane.png |
-| Date Of Official Opening | 2025-10-26 |
-| Terminus | Lundtofte Station, Rødovre Nord Station, Ishøj |
-| Openstreetmap Relation Id | 19757376 |

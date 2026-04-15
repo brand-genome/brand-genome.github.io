@@ -2,7 +2,7 @@
 title: University of the Algarve
 slug: "university-of-the-algarve"
 description: ""
-date: "2026-04-10T09:40:30.593355"
+date: "2026-04-15T09:21:22.135942"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - portugal

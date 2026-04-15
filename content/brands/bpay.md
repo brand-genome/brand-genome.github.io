@@ -2,7 +2,7 @@
 title: Bpay
 slug: bpay
 description: ""
-date: "2026-04-10T09:40:34.722911"
+date: "2026-04-15T09:21:25.704344"
 draft: false
 sectors:
   - finance

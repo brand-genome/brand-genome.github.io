@@ -2,11 +2,11 @@
 title: UNIMC
 slug: unimc
 description: ""
-date: "2026-04-10T09:40:34.694986"
+date: "2026-04-15T09:21:25.681518"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - italy

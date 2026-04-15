@@ -2,11 +2,11 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-04-10T09:40:33.216851"
+date: "2026-04-15T09:21:24.162411"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - international
 years:
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - paris
   - toronto
+  - paris
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [Toronto](/headquarters_locations/toronto/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [Toronto](/headquarters_locations/toronto/); [Paris](/headquarters_locations/paris/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Freebase Id | /m/0zmk |
 | Inception | 1979 |

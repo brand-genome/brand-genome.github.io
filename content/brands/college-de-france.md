@@ -2,11 +2,11 @@
 title: Collège de France
 slug: "college-de-france"
 description: ""
-date: "2026-04-10T09:40:30.937716"
+date: "2026-04-15T09:21:22.548611"
 draft: false
 sectors:
-  - research
   - university
+  - research
   - publishing
 regions:
   - france

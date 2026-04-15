@@ -2,11 +2,11 @@
 title: Cree
 slug: cree
 description: ""
-date: "2026-04-10T09:40:34.404551"
+date: "2026-04-15T09:21:25.352504"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -16,9 +16,7 @@ languages:
 tags:
   - technology
 industries: []
-countries:
-  - "united-states"
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: group of First Nations peoples
-wikidata_url: "https://www.wikidata.org/wiki/Q117191"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -155,45 +153,3 @@ visual_term_image_urls: {}
 - Cree monitors the use of its corporate and ingredient brands very closely. Cree has the right to exercise all rights and remedies for violations of the requirements for use of Cree brand marks set forth in this Guide and any associated Trademark License Agreement. Typically, the general course of action for violating the requirements for use of Cree’s brand marks will be as follows: 1. Those who violate the guidelines will receive a call or written notice of the specific violation. 2. They must let Cree know a course of action for correction of the mark violation. 3. Cree will follow up with them to ensure that the mistake/violation has been corrected.
 - Further misuse or blatant disregard for the mark guidelines and rules may result in loss of rights to the Cree brand marks as well as Cree’s exercise of other available rights and remedies.
 - If you have any questions regarding the use of Cree’s brand marks, please contact: trademarks@cree.com
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q117191) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Cree |
-| Freebase Id | /m/0dq1q |
-| Image | Group of Crees (HS85-10-27756).jpg |
-| Subclass Of | Indigenous peoples of the Americas, indigenous peoples of North America |
-| Part Of | First Nations |
-| Language Used | Cree |
-| Encyclopædia Universalis Id | cree |
-| Great Russian Encyclopedia Online Id (2017) | 2110889 |
-| Library Of Congress Authority Id | sh85033881 |
-| Encyclopædia Britannica Online Id | topic/Cree |
-| Library Of Congress Demographic Group Terms Id | dg2015060243 |
-| Canadian Encyclopedia Article Id | cree |
-| Treccani'S Dizionario Di Storia Id | cree |
-| Art & Architecture Thesaurus Id | 300017671 |
-| Wordnet 3.1 Synset Id | 09673676-n |
-| Different From | Cree, Oji-Cree |
-| Treccani Id | cree |
-| Catholic Encyclopedia Id | 04477a |
-| Lex Id | cree |
-| Nl Cr Aut Id | ph929566 |
-| National Library Of Israel J9U Id | 987007531383605171 |
-| Uk Archival Thesaurus Id | f3/mt305/2392/215/19844 |
-| Great Norwegian Encyclopedia Id | cree_-_folkegruppe |
-| Described By Source | Encyclopædia Britannica 11th edition, Great Soviet Encyclopedia (1926–1947), Meyer’s Universum, Fünfzehnter Band |
-| Languages Spoken, Written Or Signed | Plains Indian Sign Language, Cree |
-| Religion Or Worldview | Anglicanism, Pentecostalism, Catholic Church |
-| Significant Place | Lac La Ronge Nation |
-| Significant Person | Theoren Fleury, Tomson Highway, Ovide Mercredi |
-| Significant Event | North American fur trade, North-West Rebellion, James Bay Cree hydroelectric conflict |
-| National Historical Museums Of Sweden Id | term/bc6f77c5-f172-47c8-aaa8-8c81107d5843 |
-| Vikidia Article Id | fr:Cris |
-| Country | Canada, United States |
-| ‎Yale Lux Id | concept/02a197ce-8cf5-425d-953f-ef1430cfd8b3 |

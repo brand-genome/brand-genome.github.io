@@ -2,7 +2,7 @@
 title: Ineco
 slug: ineco
 description: ""
-date: "2026-04-10T09:40:34.668508"
+date: "2026-04-15T09:21:25.660148"
 draft: false
 sectors:
   - consulting
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ineco.com](https://www.ineco.com)
-- [http://www.ineco.es](http://www.ineco.es)
 
 ## Brand Guidelines
 

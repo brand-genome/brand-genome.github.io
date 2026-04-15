@@ -2,7 +2,7 @@
 title: World Triathlon
 slug: "world-triathlon"
 description: ""
-date: "2026-04-10T09:40:32.738872"
+date: "2026-04-15T09:21:23.845700"
 draft: false
 sectors:
   - sports

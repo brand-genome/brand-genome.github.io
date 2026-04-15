@@ -2,7 +2,7 @@
 title: Archidiocese of Toronto
 slug: "archidiocese-of-toronto"
 description: ""
-date: "2026-04-10T09:40:33.390663"
+date: "2026-04-15T09:21:24.323664"
 draft: false
 sectors:
   - "public-sector"

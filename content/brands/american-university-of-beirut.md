@@ -2,11 +2,11 @@
 title: American University of Beirut
 slug: "american-university-of-beirut"
 description: ""
-date: "2026-04-10T09:40:30.749332"
+date: "2026-04-15T09:21:22.342507"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - lebanon
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - lebanon

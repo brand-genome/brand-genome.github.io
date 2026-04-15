@@ -2,11 +2,11 @@
 title: Workplace
 slug: workplace
 description: ""
-date: "2026-04-10T09:40:32.599399"
+date: "2026-04-15T09:21:23.796161"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:

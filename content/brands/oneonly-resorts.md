@@ -2,11 +2,11 @@
 title: "One&Only Resorts"
 slug: "oneonly-resorts"
 description: ""
-date: "2026-04-10T09:40:33.347837"
+date: "2026-04-15T09:21:24.282308"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - germany
 years:

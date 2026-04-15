@@ -2,7 +2,7 @@
 title: Mars Media Group
 slug: "mars-media-group"
 description: ""
-date: "2026-04-10T09:40:30.646382"
+date: "2026-04-15T09:21:22.216471"
 draft: false
 sectors:
   - "marketing-advertising"

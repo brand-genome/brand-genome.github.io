@@ -2,11 +2,11 @@
 title: British Council
 slug: "british-council"
 description: ""
-date: "2026-04-10T09:40:31.574794"
+date: "2026-04-15T09:21:23.214059"
 draft: false
 sectors:
-  - "arts-culture"
   - education
+  - "arts-culture"
 regions:
   - "united-kingdom"
 years:

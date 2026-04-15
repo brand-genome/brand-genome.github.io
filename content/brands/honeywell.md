@@ -2,30 +2,30 @@
 title: Honeywell
 slug: honeywell
 description: ""
-date: "2026-04-10T09:40:32.709489"
+date: "2026-04-15T09:21:23.837738"
 draft: false
 sectors:
-  - hardware
-  - software
   - aerospace
+  - software
+  - hardware
 regions:
   - usa
 years:
   - 2009
-  - 2004
   - 2014
+  - 2004
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "supply-chain"
-  - "health-care-industry"
-  - "aerospace-industry"
-  - "manufacturing-industry"
-  - "industrial-safety"
-  - "chemical-industry"
   - retail
+  - "aerospace-industry"
+  - "industrial-safety"
+  - "manufacturing-industry"
+  - "supply-chain"
+  - "chemical-industry"
+  - "health-care-industry"
 countries:
   - "united-states"
 revenue_buckets:

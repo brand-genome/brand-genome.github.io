@@ -2,11 +2,11 @@
 title: Pearson
 slug: pearson
 description: ""
-date: "2026-04-10T09:40:34.907787"
+date: "2026-04-15T09:21:25.876516"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1974
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: school of the United World Colleges in Canada
-wikidata_url: "https://www.wikidata.org/wiki/Q1571997"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,37 +64,9 @@ visual_term_image_urls: {}
 
 - [https://www.pearson.com](https://www.pearson.com)
 - [https://home.pearsonvue.com](https://home.pearsonvue.com)
-- [https://www.pearsoncollege.ca](https://www.pearsoncollege.ca)
-- [http://www.pearsoncollege.ca](http://www.pearsoncollege.ca)
 
 ## Brand Guidelines
 
 ### 2016
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1571997) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1974](/foundation_dates/1974/) |
-| Coordinate Location | 48.3467, -123.564 |
-| Country | Canada |
-| Located In The Administrative Territorial Entity | British Columbia |
-| Freebase Id | /m/01zlgc |
-| Isni | 0000000105536777 |
-| Ringgold Id | 125111 |
-| Quora Topic Id | Lester-B-Pearson-United-World-College-of-the-Pacific |
-| Inception | 1974 |
-| Openstreetmap Relation Id | 9230748 |
-| Library Of Congress Authority Id | no2014055690 |
-| Viaf Cluster Id | 158197070 |
-| Canadian Encyclopedia Article Id | lester-b-pearson-college-of-the-pacific |
-| Street Address | 650 Pearson College Drive |
-| International Baccalaureate School Id | 000034 |
-| Uia Open Yearbook Organization Website Id | 1100044233 |
-| Parent Organization Or Unit | United World Colleges |

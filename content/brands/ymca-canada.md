@@ -2,12 +2,12 @@
 title: YMCA Canada
 slug: "ymca-canada"
 description: ""
-date: "2026-04-10T09:40:34.435177"
+date: "2026-04-15T09:21:25.379842"
 draft: false
 sectors:
-  - ngo
   - "wellness-spa"
   - education
+  - ngo
 regions:
   - canada
 years:

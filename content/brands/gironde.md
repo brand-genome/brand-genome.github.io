@@ -2,7 +2,7 @@
 title: Gironde
 slug: gironde
 description: ""
-date: "2026-04-10T09:40:34.648614"
+date: "2026-04-15T09:21:25.641319"
 draft: false
 sectors:
   - "public-sector"

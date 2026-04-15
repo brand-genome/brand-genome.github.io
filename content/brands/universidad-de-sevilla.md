@@ -2,11 +2,11 @@
 title: Universidad de Sevilla
 slug: "universidad-de-sevilla"
 description: ""
-date: "2026-04-10T09:40:32.126463"
+date: "2026-04-15T09:21:23.604033"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - spain

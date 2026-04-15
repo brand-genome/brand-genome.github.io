@@ -2,7 +2,7 @@
 title: Villandry Café
 slug: "villandry-cafe"
 description: ""
-date: "2026-04-10T09:40:33.789530"
+date: "2026-04-15T09:21:24.767620"
 draft: false
 sectors:
   - restaurant

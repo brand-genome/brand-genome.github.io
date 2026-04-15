@@ -2,11 +2,11 @@
 title: Key Club
 slug: "key-club"
 description: ""
-date: "2026-04-10T09:40:34.702443"
+date: "2026-04-15T09:21:25.685885"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

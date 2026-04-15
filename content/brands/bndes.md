@@ -2,11 +2,11 @@
 title: BNDES
 slug: bndes
 description: ""
-date: "2026-04-10T09:40:30.842171"
+date: "2026-04-15T09:21:22.454404"
 draft: false
 sectors:
-  - finance
   - "public-sector"
+  - finance
 regions:
   - brazil
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 
 - [https://www.bndes.gov.br](https://www.bndes.gov.br)
 - [https://developers.bndes.gov.br](https://developers.bndes.gov.br)
-- [http://www.gov.br](http://www.gov.br)
 - [http://www.bndes.gov.br](http://www.bndes.gov.br)
 
 ## Brand Guidelines

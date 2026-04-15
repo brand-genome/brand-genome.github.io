@@ -2,12 +2,12 @@
 title: "Oh-Tech"
 slug: "oh-tech"
 description: ""
-date: "2026-04-10T09:40:34.034705"
+date: "2026-04-15T09:21:24.952561"
 draft: false
 sectors:
   - "public-sector"
-  - networking
   - research
+  - networking
 regions:
   - usa
 years:

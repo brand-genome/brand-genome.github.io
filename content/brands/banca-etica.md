@@ -2,7 +2,7 @@
 title: Banca Etica
 slug: "banca-etica"
 description: ""
-date: "2026-04-10T09:40:32.478991"
+date: "2026-04-15T09:21:23.691792"
 draft: false
 sectors:
   - finance

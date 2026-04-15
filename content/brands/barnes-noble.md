@@ -2,11 +2,11 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-04-10T09:40:34.142303"
+date: "2026-04-15T09:21:25.049582"
 draft: false
 sectors:
-  - publishing
   - "retail-commerce"
+  - publishing
 regions:
   - usa
 years:
@@ -37,11 +37,11 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1873
   - 1917
+  - 1873
 foundation_year_buckets:
-  - "19TH-CENTURY"
   - 1910S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -357,7 +357,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1873](/foundation_dates/1873/); [1917](/foundation_dates/1917/) |
+| Foundation Date | [1917](/foundation_dates/1917/); [1873](/foundation_dates/1873/) |
 | Stock Exchange | New York Stock Exchange |
 | Topic'S Main Category | Category:Barnes & Noble |
 | Headquarters Location | New York City |

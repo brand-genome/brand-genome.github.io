@@ -2,7 +2,7 @@
 title: American Forests
 slug: "american-forests"
 description: ""
-date: "2026-04-10T09:40:30.531063"
+date: "2026-04-15T09:21:22.048954"
 draft: false
 sectors:
   - "forestry-timber"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - environment
   - featured
+  - environment
 industries:
   - environment
 countries:

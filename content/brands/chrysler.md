@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-04-10T09:40:31.467817"
+date: "2026-04-15T09:21:23.125752"
 draft: false
 sectors:
   - automobile
@@ -27,8 +27,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - car
-  - "automotive-part"
   - truck
+  - "automotive-part"
 products: []
 headquarters_locations:
   - "chrysler-headquarters-and-technology-center"
@@ -142,7 +142,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
 | Headquarters Location | [Chrysler Headquarters And Technology Center](/headquarters_locations/chrysler-headquarters-and-technology-center/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Founded By | Walter Percy Chrysler Sr. |

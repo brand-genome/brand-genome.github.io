@@ -2,18 +2,18 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-04-10T09:40:30.768041"
+date: "2026-04-15T09:21:22.365611"
 draft: false
 sectors:
-  - hardware
   - automobile
   - construction
+  - hardware
 regions:
   - sweden
 years:
+  - 2021
   - 2022
   - 2016
-  - 2021
 languages:
   - english
   - chinese
@@ -45,11 +45,11 @@ headquarters_locations:
   - gothenburg
 subsidiaries: []
 foundation_dates:
-  - 1927
   - 2010
+  - 1927
 foundation_year_buckets:
-  - 2010S
   - 1920S
+  - 2010S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -247,7 +247,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
-| Foundation Date | [1927](/foundation_dates/1927/); [2010](/foundation_dates/2010/) |
+| Foundation Date | [2010](/foundation_dates/2010/); [1927](/foundation_dates/1927/) |
 | Topic'S Main Category | Category:Volvo Cars |
 | Freebase Id | /m/022hnr |
 | Headquarters Location | Gothenburg |

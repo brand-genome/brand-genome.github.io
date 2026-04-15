@@ -2,11 +2,11 @@
 title: Olive + Squash
 slug: "olive-squash"
 description: ""
-date: "2026-04-10T09:40:34.717404"
+date: "2026-04-15T09:21:25.698980"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

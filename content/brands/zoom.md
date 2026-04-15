@@ -2,7 +2,7 @@
 title: Zoom
 slug: zoom
 description: ""
-date: "2026-04-10T09:40:32.655176"
+date: "2026-04-15T09:21:23.823550"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries:
   - "video-conference"
 countries:

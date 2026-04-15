@@ -2,7 +2,7 @@
 title: Generalitat Valenciana
 slug: "generalitat-valenciana"
 description: ""
-date: "2026-04-10T09:40:30.786741"
+date: "2026-04-15T09:21:22.387666"
 draft: false
 sectors:
   - "public-sector"

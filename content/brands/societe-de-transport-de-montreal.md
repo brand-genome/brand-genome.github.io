@@ -2,7 +2,7 @@
 title: Société de transport de Montréal
 slug: "societe-de-transport-de-montreal"
 description: ""
-date: "2026-04-10T09:40:30.947064"
+date: "2026-04-15T09:21:22.558384"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
-  - signage
   - featured
   - transport
+  - signage
 industries: []
 countries: []
 revenue_buckets: []

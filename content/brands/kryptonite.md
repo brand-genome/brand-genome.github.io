@@ -2,7 +2,7 @@
 title: Kryptonite
 slug: kryptonite
 description: ""
-date: "2026-04-10T09:40:33.660220"
+date: "2026-04-15T09:21:24.602836"
 draft: false
 sectors:
   - hardware
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.kryptonitelock.com](https://www.kryptonitelock.com)
 - [https://diamond.kryptonitelock.com](https://diamond.kryptonitelock.com)
-- [http://www.grofa.com](http://www.grofa.com)
 - [http://www.kryptonitelock.com](http://www.kryptonitelock.com)
 
 ## Brand Guidelines

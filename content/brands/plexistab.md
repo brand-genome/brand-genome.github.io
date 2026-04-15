@@ -2,7 +2,7 @@
 title: Plexistab
 slug: plexistab
 description: ""
-date: "2026-04-10T09:40:30.924301"
+date: "2026-04-15T09:21:22.536123"
 draft: false
 sectors:
   - "manufacturing-industry"

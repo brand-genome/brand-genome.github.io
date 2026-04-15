@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-04-10T09:40:32.996875"
+date: "2026-04-15T09:21:23.948588"
 draft: false
 sectors:
   - university
@@ -12,8 +12,8 @@ years:
   - 2015
 languages: []
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

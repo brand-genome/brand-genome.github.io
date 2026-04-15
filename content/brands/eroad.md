@@ -2,11 +2,11 @@
 title: EROAD
 slug: eroad
 description: ""
-date: "2026-04-10T09:40:34.293120"
+date: "2026-04-15T09:21:25.195163"
 draft: false
 sectors:
-  - software
   - "logistics-supply-chain"
+  - software
   - hardware
 regions:
   - "new-zealand"

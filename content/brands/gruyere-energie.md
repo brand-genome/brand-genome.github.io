@@ -2,11 +2,11 @@
 title: Gruyère Énergie
 slug: "gruyere-energie"
 description: ""
-date: "2026-04-10T09:40:34.691024"
+date: "2026-04-15T09:21:25.679031"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - switzerland
 years:

@@ -2,12 +2,12 @@
 title: École polytechnique
 slug: "ecole-polytechnique"
 description: ""
-date: "2026-04-10T09:40:33.162857"
+date: "2026-04-15T09:21:24.090237"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - france
 years:

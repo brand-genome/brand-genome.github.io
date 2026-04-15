@@ -2,7 +2,7 @@
 title: Public Broadcasting Service
 slug: "public-broadcasting-service"
 description: ""
-date: "2026-04-10T09:40:33.810889"
+date: "2026-04-15T09:21:24.789686"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - "united-states"

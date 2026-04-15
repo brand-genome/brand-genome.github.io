@@ -2,7 +2,7 @@
 title: Kitamoto City
 slug: "kitamoto-city"
 description: ""
-date: "2026-04-10T09:40:32.079158"
+date: "2026-04-15T09:21:23.566626"
 draft: false
 sectors:
   - "public-sector"
@@ -17,8 +17,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "library in Saitama Ken, Japan"
-wikidata_url: "https://www.wikidata.org/wiki/Q61901172"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.city.kitamoto.lg.jp/index.html](https://www.city.kitamoto.lg.jp/index.html)
 - [https://andgreen-kitamoto.com](https://andgreen-kitamoto.com)
 - [https://www.city.kitamoto.lg.jp/kanko/index.html](https://www.city.kitamoto.lg.jp/kanko/index.html)
-- [http://kitamoto-sdh.co.jp/library/index.html](http://kitamoto-sdh.co.jp/library/index.html)
 
 ## Brand Guidelines
 
@@ -214,19 +212,3 @@ visual_term_image_urls: {}
 - グラフィックエレメントを面で使用する際は既定のエレメントスタイル1を1ブロックとし隙間なく繰り返す形で使用してください。中の要素の位置を変更することは可能な限り避けてください。サイズを変えるときは同比率のまま使用してください。縦横比率を変えたり、敷き詰める際に隙間ができることは避けてください。
 - グラフィックエレメントを線で使用する際は既定のエレメントスタイル2を1ブロックとし隙間なく繰り返す形で使用してください。中の要素の位置を変更することは可能な限り避けてください。サイズを変えるときは同比率のまま使用してください。縦横比率を変えたり、敷き詰める際に隙間ができることは避けてください。
 - 基本サイズX=297mm 最大サイズX=00 最小サイズX=100mm
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q61901172) |
-
-| Property | Value |
-|----------|-------|
-| Postal Code | 364-8633 |
-| Located In The Administrative Territorial Entity | Saitama Prefecture |
-| Country | Japan |
-| Isil | JP-1007672 |
-| Part Of |  |
-| Google Maps Customer Id | 1041215493988650377 |
-| Coordinate Location | 36.02686111111111, 139.5301388888889 |

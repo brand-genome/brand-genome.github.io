@@ -2,11 +2,11 @@
 title: Kozel
 slug: kozel
 description: ""
-date: "2026-04-10T09:40:30.825430"
+date: "2026-04-15T09:21:22.432726"
 draft: false
 sectors:
-  - drink
   - brewery
+  - drink
 regions:
   - "czech-republic"
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
-countries:
-  - "czech-republic"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1967
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: protected area in Czech Republic
-wikidata_url: "https://www.wikidata.org/wiki/Q12031235"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -70,30 +67,3 @@ visual_term_image_urls: {}
 - [https://www.kozel.pl](https://www.kozel.pl)
 - [https://hub.kozelbeer.com](https://hub.kozelbeer.com)
 - [http://www.kozelbeer.com](http://www.kozelbeer.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q12031235) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1967](/foundation_dates/1967/) |
-| Úsop Code | 193 |
-| Country | Czech Republic |
-| Coordinate Location | 49.0978, 17.2167 |
-| Image | Kozel - Chřiby.jpg |
-| Located In The Administrative Territorial Entity | Koryčany |
-| Inception | 1967-04-05, 1967-01-01 |
-| Partially Coincident With | Chřiby |
-| Iucn Protected Areas Category | IUCN category III: Natural Monument or Feature |
-| Area | 0 hectare |
-| Mapy.Com Id | base&id=2085008 |
-| Google Knowledge Graph Id | /g/122mqfdg |
-| Described By Source | Nature hyperlink |
-| Common Database On Designated Areas Id | 343677 |
-| Wdpa Id | 343677 |
-| Official Name | Kozel |
-| Located On Linear Feature | Via Czechia - Central Trail (hiking) |
-| Maintained By |  |

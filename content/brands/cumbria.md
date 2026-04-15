@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-04-10T09:40:33.602314"
+date: "2026-04-15T09:21:24.541240"
 draft: false
 sectors:
   - tourism
@@ -16,8 +16,7 @@ tags:
   - tourism
   - regional
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1787
-foundation_year_buckets:
-  - "18TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "city in Allegany County, Maryland, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q754868"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,95 +67,9 @@ visual_term_image_urls: {}
 - [https://www.cumbriatourism.org/brands/visit-lake-district](https://www.cumbriatourism.org/brands/visit-lake-district)
 - [https://www.cumbriatourism.org/brands](https://www.cumbriatourism.org/brands)
 - [https://www.mycumbriacard.co.uk](https://www.mycumbriacard.co.uk)
-- [http://www.ci.cumberland.md.us](http://www.ci.cumberland.md.us)
-- [https://www.cumberlandmd.gov](https://www.cumberlandmd.gov)
 
 ## Brand Guidelines
 
 ### 2008
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q754868) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1787](/foundation_dates/1787/) |
-| Country | United States |
-| Coordinate Location | 39.65277777777778, -78.7625 |
-| Topic'S Main Category | Category:Cumberland, Maryland |
-| Freebase Id | /m/0tt6k |
-| Located In The Administrative Territorial Entity | Allegany County |
-| Gnd Id | 4448590-6 |
-| Musicbrainz Area Id | 9d71b04d-4238-435a-b0ce-e501636fbca1 |
-| Capital Of | Allegany County |
-| Elevation Above Sea Level | 191 metre |
-| Image | Cumberland Aerial 2022.jpg |
-| Viaf Cluster Id | 133682512 |
-| Gnis Feature Id | 590057, 2390580 |
-| Category Of Associated People | Category:People from Cumberland, Maryland |
-| Category For People Born Here | Category:Births in Cumberland, Maryland |
-| Fips 55 3 (Locations In The Us) | 24-21325 |
-| Inception | 1787 |
-| Locator Map Image | Allegany County Maryland Incorporated and Unincorporated areas Cumberland Highlighted.svg |
-| Curlie Id | Regional/North_America/United_States/Maryland/Localities/C/Cumberland/ |
-| Quora Topic Id | Cumberland-MD |
-| Category For People Who Died Here | Category:Deaths in Cumberland, Maryland |
-| Area | 26 square kilometre (as of 2016), 26 square kilometre (as of 2010-04-01) |
-| U.S. National Archives Identifier | 10040756 |
-| Archinform Location Id | 4141 |
-| Named After | Prince William, Duke of Cumberland |
-| Encyclopædia Britannica Online Id | place/Cumberland-Maryland |
-| Twinned Administrative Body | Tapa Rural Municipality |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0438381 |
-| Who'S On First Id | 85949457 |
-| Located In Time Zone | UTC−05:00, UTC−04:00, America/New_York |
-| Library Of Congress Classification | F189.C9 |
-| Factgrid Item Id | Q237747 |
-| Getty Thesaurus Of Geographic Names Id | 2046811 |
-| Woeid | 2388199 |
-| Un/Locode | USCBE |
-| Obo Gazetteer Id | 00160174 |
-| Population | 20,859 (as of 2010-04-01), 21,518 (as of 2000-04-01), 23,712 (as of 1990-04-01), 19,076 (as of 2020-04-01) |
-| Water As Percent Of Area | 0 percent (as of 2010-04-01) |
-| Different From | Cumberland |
-| National Library Of Israel J9U Id | 987007555085805171 |
-| Museum Digital Place Id | 40889 |
-| Library Of Congress Authority Id | n79133195 |
-| Idref Id | 229716431 |
-| Fast Id | 1206926 |
-| House Divided Id | 9159 |
-| Mindat Locality Id | 251686 |
-| Köppen Climate Classification | humid subtropical climate |
-| Ballotpedia Id | Cumberland,_Maryland |
-| Openstreetmap Relation Id | 133569 |
-| Official Map Url | http://www.ci.cumberland.md.us/176/Maps-and-Imagery |
-| Google Maps Customer Id | 11231006148111897826 |
-| Natural Atlas Id | 1908950 |
-| Babelnet Id | 00295551n |
-| Golden Id | Cumberland,_Maryland |
-| Alltrails Trail Id | us/maryland/cumberland |
-| Bing Entity Id | f401d58a-8f02-d07f-fbb6-51084c0e8417 |
-| Hiking Project Area Id | 8008492 |
-| Wolfram Language Entity Code | Entity["City", {"Cumberland", "Maryland", "UnitedStates"}] |
-| Dpla Subject Term | Cumberland (Md.) |
-| Subreddit | cumberland_maryland |
-| Page Banner | Cumberland - Downtown Cumberland Historic District - 20180909133902 (cropped).jpg |
-| Located In The Statistical Territorial Entity | Cumberland metropolitan area |
-| Per Capita Income | 25,956 United States dollar (as of 2020-12-31) |
-| Number Of Households | 8,279 (as of 2020-12-31) |
-| Described By Source | Encyclopædia Britannica 11th edition, The New Student's Reference Work |
-| Worldcat Entities Id | E39PBJxMkWVJHV7v4wXMxRtxjC |
-| Gran Enciclopèdia Catalana Id | cumberland-1 |
-| Territory Overlaps | Cumberland urban area |
-| Member Of | Maryland Municipal League |
-| Office Held By Head Of Government | Mayor of Cumberland, Maryland |
-| Snarc Id | Q142828 |
-| ‎Yale Lux Id | place/703fbe7f-e6f8-4f07-b5e4-dcca1573f178 |
-| Bbc Things Id | 5435c091-2e8c-4b5e-a49a-a08f89efd97d |
-| Postal Code | 21501, 21502, 21503, 21504, 21505 |
-| Official Name | Cumberland |

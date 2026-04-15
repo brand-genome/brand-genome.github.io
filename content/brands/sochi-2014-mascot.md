@@ -2,7 +2,7 @@
 title: Sochi 2014 Mascot
 slug: "sochi-2014-mascot"
 description: ""
-date: "2026-04-10T09:40:33.273062"
+date: "2026-04-15T09:21:24.211165"
 draft: false
 sectors:
   - sports

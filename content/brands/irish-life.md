@@ -2,11 +2,11 @@
 title: Irish Life
 slug: "irish-life"
 description: ""
-date: "2026-04-10T09:40:33.297037"
+date: "2026-04-15T09:21:24.233247"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - ireland
 years:
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - insurance
-industries:
-  - "financial-services"
-countries:
-  - ireland
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - dublin
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1884
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: provider of personal financial services in Ireland
-wikidata_url: "https://www.wikidata.org/wiki/Q3154461"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.irishlifehealth.ie](https://www.irishlifehealth.ie)
 - [https://www.ilim.com](https://www.ilim.com)
 - [https://www.myirishlife.ie](https://www.myirishlife.ie)
-- [https://www.permanenttsbgroup.ie](https://www.permanenttsbgroup.ie)
 
 ## Brand Guidelines
 
@@ -229,26 +223,3 @@ visual_term_image_urls: {}
 - The Irish Life logo should never be reproduced smaller than: 25mm for printed material 95 pixels@ 92dpi for digital
 - See Section 4 for more information on using our Brand Assets.
 - Position of Dual Branded logo: Place the other company's logo on the top left hand side of the document as indicated.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3154461) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
-| Foundation Date | [1884](/foundation_dates/1884/) |
-| Isin | IE00B59NXW72 |
-| Headquarters Location | Dublin |
-| Inception | 1884-01-01 |
-| Quora Topic Id | Irish-Life-and-Permanent |
-| Industry | financial services |
-| Facebook Username | 557742141060618 |
-| X (Twitter) Username | permanenttsb (as of 2020-04-22, from 2009-06-02) |
-| Osm Name Suggestion Index Id | permanenttsb-030d9e, permanenttsb-7aac0a |
-| Social Media Followers | 20,973 (as of 2021-01-02), 20,128 (as of 2020-04-22), 22,622 (as of 2022-03-02), 24,242 (as of 2023-02-09) |
-| Freebase Id | /m/03fdk1 |
-| Country | Ireland |
-| Crunchbase Organization Id | permanent-tsb |

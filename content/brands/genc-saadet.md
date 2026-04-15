@@ -2,7 +2,7 @@
 title: Genç Saadet
 slug: "genc-saadet"
 description: ""
-date: "2026-04-10T09:40:33.835644"
+date: "2026-04-15T09:21:24.814007"
 draft: false
 sectors:
   - ngo

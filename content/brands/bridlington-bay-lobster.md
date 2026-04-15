@@ -2,7 +2,7 @@
 title: Bridlington Bay Lobster
 slug: "bridlington-bay-lobster"
 description: ""
-date: "2026-04-10T09:40:30.536724"
+date: "2026-04-15T09:21:22.064012"
 draft: false
 sectors:
   - food

@@ -2,11 +2,11 @@
 title: Brickline Greenway
 slug: "brickline-greenway"
 description: ""
-date: "2026-04-10T09:40:32.628119"
+date: "2026-04-15T09:21:23.812750"
 draft: false
 sectors:
-  - construction
   - "public-transportation"
+  - construction
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - transport
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

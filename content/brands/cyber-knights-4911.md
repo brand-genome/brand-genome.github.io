@@ -2,7 +2,7 @@
 title: Cyber Knights 4911
 slug: "cyber-knights-4911"
 description: ""
-date: "2026-04-10T09:40:32.983305"
+date: "2026-04-15T09:21:23.936617"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - engineering
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-04-10T09:40:33.286759"
+date: "2026-04-15T09:21:24.223631"
 draft: false
 sectors:
   - "maritime-shipping"

@@ -2,7 +2,7 @@
 title: "Al-Hilal Saudi Football Club"
 slug: "al-hilal-saudi-football-club"
 description: ""
-date: "2026-04-10T09:40:30.766946"
+date: "2026-04-15T09:21:22.363689"
 draft: false
 sectors:
   - sports

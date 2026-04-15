@@ -2,12 +2,12 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-04-10T09:40:32.973904"
+date: "2026-04-15T09:21:23.930220"
 draft: false
 sectors:
-  - hardware
   - "consumer-goods"
   - electronics
+  - hardware
 regions:
   - taiwan
 years:
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "flash-memory"
   - "data-storage-medium"
+  - "flash-memory"
 products: []
 headquarters_locations:
   - charlotte
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Flash Memory](/products_or_materials_produced/flash-memory/); [Data Storage Medium](/products_or_materials_produced/data-storage-medium/) |
+| Product Or Material Produced | [Data Storage Medium](/products_or_materials_produced/data-storage-medium/); [Flash Memory](/products_or_materials_produced/flash-memory/) |
 | Headquarters Location | [Charlotte](/headquarters_locations/charlotte/) |
 | Foundation Date | [1969](/foundation_dates/1969/) |
 | Freebase Id | /m/0552n6 |

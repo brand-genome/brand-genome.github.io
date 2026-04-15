@@ -2,7 +2,7 @@
 title: Los Angeles Rams
 slug: "los-angeles-rams"
 description: ""
-date: "2026-04-10T09:40:30.564560"
+date: "2026-04-15T09:21:22.086975"
 draft: false
 sectors:
   - sports

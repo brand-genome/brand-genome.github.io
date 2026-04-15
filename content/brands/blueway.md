@@ -2,11 +2,11 @@
 title: Blueway
 slug: blueway
 description: ""
-date: "2026-04-10T09:40:34.429055"
+date: "2026-04-15T09:21:25.373570"
 draft: false
 sectors:
-  - sports
   - tourism
+  - sports
 regions:
   - ireland
 years:

@@ -2,12 +2,12 @@
 title: Linku
 slug: linku
 description: ""
-date: "2026-04-10T09:40:34.254207"
+date: "2026-04-15T09:21:25.171100"
 draft: false
 sectors:
-  - software
-  - "design-creative"
   - consulting
+  - "design-creative"
+  - software
 regions:
   - netherlands
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: graph visualization software
-wikidata_url: "https://www.wikidata.org/wiki/Q108810443"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,25 +65,9 @@ visual_term_image_urls: {}
 
 - [https://linku.nl](https://linku.nl)
 - [https://werkenmet.linku.nl](https://werkenmet.linku.nl)
-- [https://linkurio.us/product](https://linkurio.us/product)
 
 ## Brand Guidelines
 
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q108810443) |
-
-| Property | Value |
-|----------|-------|
-| Copyright Status | copyrighted |
-| Creator | Linkurious |
-| Uses | JanusGraph, Azure Cosmos DB, Neo4j |
-| Has Use | network analysis, data visualization, analysis, discovery, visual analysis |
-| Described At Url | https://tapor.ca/tools/553, https://marketplace.sshopencloud.eu/tool-or-service/V3B52q |
-| Collection | Social Sciences and Humanities Open Marketplace, Text Analysis Portal for Research |

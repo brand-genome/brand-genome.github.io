@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-04-10T09:40:33.317027"
+date: "2026-04-15T09:21:24.252971"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - spain

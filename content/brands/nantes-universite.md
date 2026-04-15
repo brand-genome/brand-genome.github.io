@@ -2,13 +2,13 @@
 title: Nantes Université
 slug: "nantes-universite"
 description: ""
-date: "2026-04-10T09:40:32.557816"
+date: "2026-04-15T09:21:23.756269"
 draft: false
 sectors:
-  - research
-  - education
   - university
+  - research
   - "public-sector"
+  - education
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 
 - [https://www.univ-nantes.fr](https://www.univ-nantes.fr)
 - [https://mobility-online.univ-nantes.fr](https://mobility-online.univ-nantes.fr)
-- [http://www.angers.fr](http://www.angers.fr)
-- [http://www.crous-nantes.fr](http://www.crous-nantes.fr)
 - [http://www.univ-nantes.fr](http://www.univ-nantes.fr)
 
 ## Brand Guidelines

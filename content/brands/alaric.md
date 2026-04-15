@@ -2,7 +2,7 @@
 title: Alaric
 slug: alaric
 description: ""
-date: "2026-04-10T09:40:30.813297"
+date: "2026-04-15T09:21:22.416489"
 draft: false
 sectors:
   - "consumer-goods"

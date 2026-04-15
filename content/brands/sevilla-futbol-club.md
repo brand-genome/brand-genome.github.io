@@ -2,7 +2,7 @@
 title: Sevilla Fútbol Club
 slug: "sevilla-futbol-club"
 description: ""
-date: "2026-04-10T09:40:33.377589"
+date: "2026-04-15T09:21:24.311790"
 draft: false
 sectors:
   - sports

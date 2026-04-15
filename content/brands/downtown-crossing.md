@@ -2,11 +2,11 @@
 title: Downtown Crossing
 slug: "downtown-crossing"
 description: ""
-date: "2026-04-10T09:40:33.446145"
+date: "2026-04-15T09:21:24.378474"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - community
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

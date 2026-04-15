@@ -2,7 +2,7 @@
 title: Prime Video
 slug: "prime-video"
 description: ""
-date: "2026-04-10T09:40:34.453969"
+date: "2026-04-15T09:21:25.396000"
 draft: false
 sectors:
   - broadcasting

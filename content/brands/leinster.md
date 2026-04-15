@@ -2,7 +2,7 @@
 title: Leinster
 slug: leinster
 description: ""
-date: "2026-04-10T09:40:33.302402"
+date: "2026-04-15T09:21:24.238300"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - ireland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2013
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Irish provincial cricket team
-wikidata_url: "https://www.wikidata.org/wiki/Q28233034"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.leinsterrugby.ie](https://www.leinsterrugby.ie)
-- [http://www.cricketleinster.ie](http://www.cricketleinster.ie)
 
 ## Brand Guidelines
 
@@ -265,18 +261,3 @@ visual_term_image_urls: {}
 - In this example we show a different approach to the artwork composition. Here the hero image is used to carry the Leinster logo, motif, tag line and Heineken Cup Champions line and stars.
 - The content text is then displayed within the image (in a neutral, clearly visible area).
 - To draw attention to the headline or key information a vertical blue line is used to span the height of the text. The line should be the width of the text stem and in line with the left edge of the hero area.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28233034) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2013](/foundation_dates/2013/) |
-| Sport | cricket |
-| Inception | 2013 |
-| Country | Ireland |
-| Google Knowledge Graph Id | /g/11c6132f7w |
-| Head Coach | Andre Botha |

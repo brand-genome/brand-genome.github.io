@@ -2,11 +2,11 @@
 title: The Kavli Foundation
 slug: "the-kavli-foundation"
 description: ""
-date: "2026-04-10T09:40:32.996130"
+date: "2026-04-15T09:21:23.948104"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - usa
 years:

@@ -2,51 +2,35 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-04-10T09:40:33.805743"
+date: "2026-04-15T09:21:24.785514"
 draft: false
 sectors:
   - automobile
 regions:
-  - usa
   - japan
+  - usa
 years:
-  - 2016
   - 2008
+  - 2016
 languages:
   - english
 tags:
   - corporate
-industries:
-  - "music-industry"
-  - "automotive-industry"
-  - "manufacture-of-machinery-and-equipment"
-countries:
-  - japan
-revenue_buckets:
-  - "100B-500B"
-operating_income_buckets:
-  - "10B-50B"
-net_profit_buckets:
-  - "10B-50B"
-employees_buckets:
-  - "10K-50K"
+industries: []
+countries: []
+revenue_buckets: []
+operating_income_buckets: []
+net_profit_buckets: []
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - software
-  - "loudspeaker-enclosure"
-  - "sports-equipment"
-  - "musical-instrument"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "naka-ku"
-  - japan
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1987
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -68,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Japanese music and audio equipment maker
-wikidata_url: "https://www.wikidata.org/wiki/Q188454"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -80,12 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://global.yamaha-motor.com](https://global.yamaha-motor.com)
-- [http://www.motor.nl](http://www.motor.nl)
 - [http://www.yamaha-motor.eu](http://www.yamaha-motor.eu)
-- [https://www.yamaha.com](https://www.yamaha.com)
-- [https://retailing.jp.yamaha.com](https://retailing.jp.yamaha.com)
-- [http://yamaha.co.jp](http://yamaha.co.jp)
-- [https://jp.yamaha.com](https://jp.yamaha.com)
 
 ## Brand Guidelines
 
@@ -466,120 +445,3 @@ visual_term_image_urls: {}
 ##### Direct Mailer
 
 - 2016 ANNUAL CONFERENCE Inspired Marketing UX Design Trends Save the date for THE marketing event of the year. Save the date for THE marketing event of the year. SEPTEMBER 27-29 JW Marriott, Austin, TX JW Marriott, Austin, TX ama.org/annual ama.org/annual Join us in Austin this September and be prepared to go beyond the content, to seek clarity, innovations, insights & next practices. AM> content, to seek clarity, innovations, insights & next practices. AM> American Marketing Association American Marketing Association 311 South Wacker Drive #5800 311 South Wacker Drive #5800 Chicago IL 60606-6629 Chicago IL 60606-6629 KEYNOTE SPEAKERS KEYNOTE SPEAKERS Guy Kawasaki Chris Di Cesare Guy Kawasaki Chris Di Cesare Chief Evangelist, Canva Head of Creative Programming Chief Evangelist, Canva Head of Creative Programming at Google/YouTube • at Google/YouTube STRATEGIC TRACKS STRATEGIC TRACKS • Insights & Innovation • From Chaos to Clarity: Resilience • Insights & Innovation: • From Chaos to Clarity: Resilience An Inextricable Link in an Ever-Changing World An Inextricable Link in an Ever-Changing World • Next Practices: Getting Ahead • Beyond Content: The Key to • Next Practices: Getting Ahead • Beyond Content: The Key to of the Marketing Curve Competitive Advantage of the Marketing Curve Competitive Advantage Register before September 1st to save To learn more visit: ama.org/annual Register before September 1st to save To learn more visit: ama.org/annual with the early registration fee. with the early registration fee. Official Conference Official Conference Partner Sponsors PPA! @aapresv Partner Sponsors PPAJ @dapresv Sponsorship and exhibit opportunities are available. Contact Lore Gil at 312-542-9033 or email Igil@ama.org Sponsorship and exhibit opportunities are available. Contact Lore Gil at 312-542-9033 or email Igil@ama.org
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q188454) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Loudspeaker Enclosure](/products_or_materials_produced/loudspeaker-enclosure/); [Sports Equipment](/products_or_materials_produced/sports-equipment/); [Musical Instrument](/products_or_materials_produced/musical-instrument/) |
-| Headquarters Location | [Naka Ku](/headquarters_locations/naka-ku/); [Japan](/headquarters_locations/japan/) |
-| Foundation Date | [1987](/foundation_dates/1987/) |
-| Country | Japan |
-| Topic'S Main Category | Category:Yamaha Corporation |
-| Freebase Id | /m/01svrg |
-| Headquarters Location | Naka-ku, Japan |
-| Isin | JP3942600002 |
-| Inception | 1987 |
-| Legal Form | kabushiki gaisha, joint-stock company |
-| Child Organization Or Unit | Yamaha (United States), Yamaha Music Communications, Yamaha Drums |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0072797 |
-| Founded By | Torakusu Yamaha |
-| Viaf Cluster Id | 252645878 |
-| Ndl Authority Id | 00386826 |
-| Location Of Formation | Hamamatsu |
-| Image | Yamaha Corporation.jpg |
-| Quora Topic Id | Yamaha-Corporation |
-| Isni | 0000000403963953 |
-| Ringgold Id | 133731 |
-| Itu/Iso/Iec Object Id | 1.3.6.1.4.1.1182 |
-| Ne.Se Id | yamaha-corporation |
-| Corporate Number (Japan) | 3080401005595 |
-| Encyclopædia Britannica Online Id | topic/Yamaha-Corporation |
-| Stock Exchange | Tokyo Stock Exchange (from 1949) |
-| Product Or Material Produced | musical instrument, loudspeaker enclosure, sports equipment, software |
-| Award Received | Technical Grammy Award (as of 2007) |
-| Industry | music industry, manufacture of machinery and equipment, automotive industry |
-| Permid | 4295877221 |
-| Mac Address Block Large Id | 00A0DE, AC44F2 |
-| Grid Id | grid.471327.4 |
-| Opencorporates Id | jp/3080401005595 |
-| Gnd Id | 16164336-X |
-| Owner Of | Bösendorfer, Steinberg, Júbilo Iwata, Line 6, Everett Piano Company (+2 more) |
-| Microsoft Academic Id (Discontinued) | 1295929820 |
-| Ror Id | 05s7fvh27 |
-| Member Of | Wi-Fi Alliance, SD Association, Wireless Power Consortium |
-| Manualslib Brand Id | yamaha |
-| Described At Url | http://www.fundinguniverse.com/company-histories/yamaha-corporation-history/ |
-| Crunchbase Organization Id | yamaha |
-| Great Norwegian Encyclopedia Id | Yamaha_Corporation |
-| Lex Id | Yamaha_Corporation |
-| Online Pwn Encyclopedia Id | 3999386 |
-| Official Name | ヤマハ株式会社, Yamaha Corporation |
-| Motto Text | Make Waves |
-| Short Name | Yamaha |
-| Unified Social Credit Id | 91310000710929738Q |
-| Location | Hamamatsu |
-| Museum Of Modern Art Artist Id | 9633 |
-| Legal Entity Identifier | 529900S5TENP3IJS7S02 |
-| Central Index Key | 0001232143 |
-| Fandom Article Id | logo:Yamaha_Corporation |
-| Radiomuseum Company Id | 7763 |
-| Nacsis Cat Author Id | DA03654331 |
-| Cinii Research Id | 1140000791639113984 |
-| Gran Enciclopèdia Catalana Id | yamaha-corporation |
-| Museum Digital Id | 21915 |
-| Replaces | Nippon Gakki |
-| Chairperson | Hiroshi Kawakami (from 1987, until 1992), Seisuke Ueshima (from 1992, until 1997), Kazukiyo Ishimura (from 1997, until 2000), Shūji Itō (from 2000, until 2007), Mitsuru Umemura (from 2007, until 2013) (+1 more) |
-| Vikidia Article Id | fr:Yamaha |
-| Native Label | ヤマハ株式会社 |
-| Namuwiki Id | 야마하 |
-| Pixiv Encyclopedia Id | ヤマハ |
-| Kisti Id | K000329732, K000329813 |
-| Instagram Username | yamahamusicglobal |
-| Facebook Username | YamahaMusicGlobal |
-| Linkedin Company Or Organization Id | yamaha-corporation |
-| Youtube Channel Id | UCG_GruQL_aP3QrS_zJQf7Kg (as of 2025-01-19, from 2007-09-03) |
-| Social Media Followers | 324,000 (as of 2025-03-05) |
-| Japan Search Name Id | ヤマハ |
-| Domain Name | yamaha.com |
-| The Oxford Dictionary Of Music Entry Id | 9897 |
-| ‎Private Enterprise Number | 1182 |
-| Pci Vendor Id | 1073 |
-| Usb Vendor Id | 0499 |
-| Pnp Vendor Id | YMH |
-| Musicbrainz Artist Id | 17df66c5-6748-4a24-95a0-8b32404983dd |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $229.00B | as of 2014 | [100B-500B](/revenue_buckets/100b-500b/) |
-| $432.97B | as of 1018 | [100B-500B](/revenue_buckets/100b-500b/) |
-
-### Operating Income History
-
-| Operating Income ($) | Year information | Bucket |
-|---|---|---|
-| $40.66B | as of 2016 | [10B-50B](/operating_income_buckets/10b-50b/) |
-| $25.99B | as of 2014 | [10B-50B](/operating_income_buckets/10b-50b/) |
-
-### Net Profit History
-
-| Net Profit ($) | Year information | Bucket |
-|---|---|---|
-| $22.90B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
-| $41.58B | as of 2016 | [10B-50B](/net_profit_buckets/10b-50b/) |
-| $28.53B | as of 2015 | [10B-50B](/net_profit_buckets/10b-50b/) |
-| $25.82B | as of 2014 | [10B-50B](/net_profit_buckets/10b-50b/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 20,348 | as of 2016-03-31 | [10K-50K](/employees_buckets/10k-50k/) |
-| 19,851 | as of 2014-03-31 | [10K-50K](/employees_buckets/10k-50k/) |
-| 19,895 | as of 2022-03-31 | [10K-50K](/employees_buckets/10k-50k/) |

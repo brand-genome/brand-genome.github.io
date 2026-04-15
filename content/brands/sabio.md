@@ -2,11 +2,11 @@
 title: Sabio
 slug: sabio
 description: ""
-date: "2026-04-10T09:40:30.941809"
+date: "2026-04-15T09:21:22.552673"
 draft: false
 sectors:
-  - "consumer-goods"
   - food
+  - "consumer-goods"
 regions:
   - india
 years:
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - "food-beverage"
-industries:
-  - "sporting-activities"
-countries:
-  - colombia
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,8 +26,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - manizales
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -55,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q25409337"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -63,17 +60,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25409337) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Manizales](/headquarters_locations/manizales/) |
-| Country | Colombia |
-| Sport | basketball |
-| Headquarters Location | Manizales |
-| Google Knowledge Graph Id | /g/11byzf5j1w |
-| Industry | sporting activities |

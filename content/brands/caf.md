@@ -2,7 +2,7 @@
 title: CAF
 slug: caf
 description: ""
-date: "2026-04-10T09:40:34.067577"
+date: "2026-04-15T09:21:24.982179"
 draft: false
 sectors:
   - finance
@@ -14,29 +14,21 @@ languages:
   - english
 tags:
   - corporate
-industries:
-  - "rail-industry"
-  - "industrial-manufacturing"
-countries:
-  - spain
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "1K-10K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "rolling-stock"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - beasain
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1917
-foundation_year_buckets:
-  - 1910S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -58,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Spanish railway and bus manufacturing company
-wikidata_url: "https://www.wikidata.org/wiki/Q838212"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,8 +64,6 @@ visual_term_image_urls: {}
 - [https://www.caf.com](https://www.caf.com)
 - [https://www.caf.com/en](https://www.caf.com/en)
 - [https://www.caf.net](https://www.caf.net)
-- [http://www.caf.net](http://www.caf.net)
-- [https://www.cafmobility.com](https://www.cafmobility.com)
 
 ## Brand Guidelines
 
@@ -330,50 +320,3 @@ visual_term_image_urls: {}
 - This is a PowerPoint template, from which each user can design their own content, whilst maintaining certain elements as a common base (red title block above, font, slide footer, etc.).
 - The standardisation of corporate presentations across the whole company provides consistency and generates an image of a solid, coherent and cohesive group.
 - PowerPoint presentations are sensitive documents, easily accessible and com­parable between the various GAF part­ners.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q838212) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Rolling Stock](/products_or_materials_produced/rolling-stock/) |
-| Headquarters Location | [Beasain](/headquarters_locations/beasain/) |
-| Foundation Date | [1917](/foundation_dates/1917/) |
-| Topic'S Main Category | Category:Construcciones y Auxiliar de Ferrocarriles |
-| Freebase Id | /m/09p60f |
-| Headquarters Location | Beasain |
-| Viaf Cluster Id | 149613587 |
-| National Library Of Spain Spmabn Id (Bne V1.0) | XX98620 |
-| Cantic Id (Former Scheme) | a1183190x |
-| Isni | 0000000100612240 |
-| Gnd Id | 16343516-9 |
-| Inception | 1917-01-01 |
-| Legal Form | sociedad anónima |
-| Country | Spain |
-| Industry | industrial manufacturing, rail industry |
-| Ringgold Id | 82998 |
-| Award Received | Medalla de Honor al Fomento de la Invención (as of 2010) |
-| Stock Exchange | Madrid Stock Exchange |
-| Grid Id | grid.433333.7 |
-| Ror Id | 02afbgp72 |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0019608 |
-| Great Aragonese Encyclopedia Id | 4207 |
-| Product Or Material Produced | rolling stock |
-| Short Name | CAF |
-| Cantic Id | 981058509326906706 |
-| University Of Barcelona Authority Id | 981058509326906706 |
-| Gran Enciclopèdia Catalana Id | construcciones-y-auxiliar-de-ferrocarriles-sa |
-| Isin | ES0121975009 |
-| Vehicle Keeper Marking (Vkm) | CAFCV |
-| Eu Transparency Register Id | 008431330155-37 |
-| Has Works In The Collection | Railway Museum of Catalonia |
-| Native Label | Construcciones y Auxiliar de Ferrocarriles, Compañía Auxiliar de Ferrocarriles, Construcciones y Auxiliar de Feres |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 2,000 | - | [1K-10K](/employees_buckets/1k-10k/) |

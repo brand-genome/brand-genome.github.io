@@ -2,7 +2,7 @@
 title: Proflight Zambia
 slug: "proflight-zambia"
 description: ""
-date: "2026-04-10T09:40:30.838651"
+date: "2026-04-15T09:21:22.451084"
 draft: false
 sectors:
   - airline
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - zambia

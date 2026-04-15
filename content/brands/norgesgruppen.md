@@ -2,11 +2,11 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-04-10T09:40:33.453190"
+date: "2026-04-15T09:21:24.386287"
 draft: false
 sectors:
-  - "consumer-goods"
   - supermarket
+  - "consumer-goods"
 regions:
   - norway
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - "food-beverage"
 industries:
-  - "food-retail-sector"
   - retail
+  - "food-retail-sector"
 countries:
   - norway
 revenue_buckets:
@@ -74,7 +74,6 @@ visual_term_image_urls: {}
 - [https://www.norgesgruppen.no/en](https://www.norgesgruppen.no/en)
 - [https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram](https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram)
 - [https://unil.no](https://unil.no)
-- [http://www.frutimian.no](http://www.frutimian.no)
 - [http://www.kiwi.no](http://www.kiwi.no)
 - [http://www.meny.no/oppskrifter](http://www.meny.no/oppskrifter)
 - [http://www.norgesgruppen.no](http://www.norgesgruppen.no)

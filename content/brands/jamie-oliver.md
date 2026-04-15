@@ -2,13 +2,13 @@
 title: Jamie Oliver
 slug: "jamie-oliver"
 description: ""
-date: "2026-04-10T09:40:34.029726"
+date: "2026-04-15T09:21:24.948571"
 draft: false
 sectors:
+  - food
   - "consumer-goods"
   - restaurant
   - publishing
-  - food
 regions:
   - "united-kingdom"
 years:
@@ -53,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: production company
-wikidata_url: "https://www.wikidata.org/wiki/Q121143856"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -481,13 +481,3 @@ visual_term_image_urls: {}
 
 - We ask that you try to use suppliers who use sustainable manufacturing practices and suppliers who value their environmental credentials. Please let your suppliers know how important it is that we reduce our footprint on the planet and ask them to source materials in a sustainable way. If you are specifying a raw material please take into consideration the environmental impact of the production process and where possible evaluate the wider implications of their creation and transportation methods.
 - When available and appropriate ensure that paper and board materials are FSC or PEFC certified and specify materials with recycled content. We aim to use materials that are from a renewable source and are easy to recycle. It is essential that all packaging carries the Mobius Loop logo and information as detailed on page 38, this is to help consumers identify and recycle their packaging.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q121143856) |
-
-| Property | Value |
-|----------|-------|
-| Acmi Id | creators/33219 |

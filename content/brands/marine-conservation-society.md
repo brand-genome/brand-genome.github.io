@@ -2,7 +2,7 @@
 title: Marine Conservation Society
 slug: "marine-conservation-society"
 description: ""
-date: "2026-04-10T09:40:34.397013"
+date: "2026-04-15T09:21:25.345109"
 draft: false
 sectors:
   - ngo
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - environment
-  - ngo
   - marine
+  - ngo
 industries: []
 countries:
   - "united-kingdom"

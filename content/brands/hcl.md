@@ -2,16 +2,16 @@
 title: HCL
 slug: hcl
 description: ""
-date: "2026-04-10T09:40:34.115922"
+date: "2026-04-15T09:21:25.030953"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - india
 years:
-  - 2019
   - 2017
+  - 2019
 languages:
   - english
 tags:

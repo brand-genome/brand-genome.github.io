@@ -2,11 +2,11 @@
 title: The Evergreen State College
 slug: "the-evergreen-state-college"
 description: ""
-date: "2026-04-10T09:40:32.148990"
+date: "2026-04-15T09:21:23.621406"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

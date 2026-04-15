@@ -2,7 +2,7 @@
 title: Transfermuga
 slug: transfermuga
 description: ""
-date: "2026-04-10T09:40:33.051377"
+date: "2026-04-15T09:21:23.993266"
 draft: false
 sectors:
   - "public-transportation"

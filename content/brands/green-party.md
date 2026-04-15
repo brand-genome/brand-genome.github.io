@@ -2,7 +2,7 @@
 title: Green Party
 slug: "green-party"
 description: ""
-date: "2026-04-10T09:40:34.642725"
+date: "2026-04-15T09:21:25.635808"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://greenparty.org.uk](https://greenparty.org.uk)
-- [http://www.carolinelucas.com](http://www.carolinelucas.com)
 - [http://www.greenparty.org.uk/brand.html](http://www.greenparty.org.uk/brand.html)
 
 ## Brand Guidelines

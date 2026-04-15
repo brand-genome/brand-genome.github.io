@@ -2,11 +2,11 @@
 title: ZPMC
 slug: zpmc
 description: ""
-date: "2026-04-10T09:40:32.080444"
+date: "2026-04-15T09:21:23.567552"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - china
 years:

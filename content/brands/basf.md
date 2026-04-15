@@ -2,7 +2,7 @@
 title: BASF
 slug: basf
 description: ""
-date: "2026-04-10T09:40:34.785166"
+date: "2026-04-15T09:21:25.763443"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -16,8 +16,8 @@ tags:
   - chemical
 industries:
   - "chemical-industry"
-  - "extraction-of-petroleum"
   - "plant-protection"
+  - "extraction-of-petroleum"
 countries:
   - germany
 revenue_buckets:
@@ -37,8 +37,8 @@ products_or_materials_produced:
   - "platinum-sponge"
 products: []
 headquarters_locations:
-  - ludwigshafen
   - "friedrich-engelhorn-hochhaus"
+  - ludwigshafen
 subsidiaries: []
 foundation_dates:
   - 1865
@@ -397,7 +397,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Platinum Sponge](/products_or_materials_produced/platinum-sponge/) |
-| Headquarters Location | [Ludwigshafen](/headquarters_locations/ludwigshafen/); [Friedrich Engelhorn Hochhaus](/headquarters_locations/friedrich-engelhorn-hochhaus/) |
+| Headquarters Location | [Friedrich Engelhorn Hochhaus](/headquarters_locations/friedrich-engelhorn-hochhaus/); [Ludwigshafen](/headquarters_locations/ludwigshafen/) |
 | Foundation Date | [1865](/foundation_dates/1865/) |
 | Isin | DE000BASF111 |
 | Stock Exchange | Frankfurt Stock Exchange (from 1952-01-30), London Stock Exchange (until 2019-03-28), Swiss Stock Exchange (until 2019-06-17) |

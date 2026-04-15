@@ -2,11 +2,11 @@
 title: Mellanox
 slug: mellanox
 description: ""
-date: "2026-04-10T09:40:34.803981"
+date: "2026-04-15T09:21:25.780334"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - israel
 years:

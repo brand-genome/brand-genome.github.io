@@ -2,7 +2,7 @@
 title: Starling Bank
 slug: "starling-bank"
 description: ""
-date: "2026-04-10T09:40:30.842840"
+date: "2026-04-15T09:21:22.455284"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - "software-development"
   - "financial-services"
   - "software-industry"
+  - "software-development"
 countries:
   - "united-kingdom"
 revenue_buckets: []

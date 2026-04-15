@@ -2,11 +2,11 @@
 title: Citgo Petroleum Corporation
 slug: "citgo-petroleum-corporation"
 description: ""
-date: "2026-04-10T09:40:30.897684"
+date: "2026-04-15T09:21:22.519207"
 draft: false
 sectors:
-  - "petrol-station"
   - oil
+  - "petrol-station"
 regions:
   - usa
 years:

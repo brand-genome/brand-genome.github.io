@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-04-10T09:40:34.448597"
+date: "2026-04-15T09:21:25.391965"
 draft: false
 sectors:
   - automobile
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - car
   - "luxury-vehicle"
+  - car
 products: []
 headquarters_locations:
   - turin
@@ -239,7 +239,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
+| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/); [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Turin](/headquarters_locations/turin/) |
 | Foundation Date | [1910](/foundation_dates/1910/) |
 | Headquarters Location | Turin |

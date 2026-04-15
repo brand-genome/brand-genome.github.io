@@ -2,7 +2,7 @@
 title: Kongsberg Automotive
 slug: "kongsberg-automotive"
 description: ""
-date: "2026-04-10T09:40:34.730656"
+date: "2026-04-15T09:21:25.711015"
 draft: false
 sectors:
   - automobile

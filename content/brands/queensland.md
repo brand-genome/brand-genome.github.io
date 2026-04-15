@@ -2,11 +2,11 @@
 title: Queensland
 slug: queensland
 description: ""
-date: "2026-04-10T09:40:33.380519"
+date: "2026-04-15T09:21:24.314240"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - australia
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - tourism
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "111-george-street"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1998
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "sub-section of the Department of National Parks, Sport and Racing within the Government of Queensland"
-wikidata_url: "https://www.wikidata.org/wiki/Q2122615"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -165,22 +161,3 @@ visual_term_image_urls: {}
 - DO NOT FILL WITH PATTERNS
 - DO NOT ALTER COLOURS
 - DO NOT ALTER FONTS
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2122615) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [111 George Street](/headquarters_locations/111-george-street/) |
-| Foundation Date | [1998](/foundation_dates/1998/) |
-| Country | Australia |
-| Parent Organization Or Unit | Queensland Government |
-| Inception | 1998 |
-| Headquarters Location | 111 George Street |
-| Microsoft Academic Id (Discontinued) | 1312742337 |
-| Freebase Id | /m/0grt36 |
-| Osm Name Suggestion Index Id | queenslandparksandwildlifeservice-223e1e |
-| Facebook Username | qldnationalparks |

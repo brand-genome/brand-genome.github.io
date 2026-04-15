@@ -2,7 +2,7 @@
 title: WFTO
 slug: wfto
 description: ""
-date: "2026-04-10T09:40:33.118279"
+date: "2026-04-15T09:21:24.052115"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - trademark
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []

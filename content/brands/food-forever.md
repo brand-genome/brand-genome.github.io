@@ -2,12 +2,12 @@
 title: Food Forever
 slug: "food-forever"
 description: ""
-date: "2026-04-10T09:40:33.030565"
+date: "2026-04-15T09:21:23.975009"
 draft: false
 sectors:
-  - ngo
   - research
   - food
+  - ngo
 regions:
   - germany
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - agriculture
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

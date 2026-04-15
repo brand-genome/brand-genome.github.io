@@ -2,7 +2,7 @@
 title: Toyota Motor
 slug: "toyota-motor"
 description: ""
-date: "2026-04-10T09:40:31.988596"
+date: "2026-04-15T09:21:23.419718"
 draft: false
 sectors:
   - automobile
@@ -34,8 +34,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "100B-500B"
 products_or_materials_produced:
-  - "light-commercial-vehicle"
   - car
+  - "light-commercial-vehicle"
 products: []
 headquarters_locations:
   - toyota
@@ -227,7 +227,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Light Commercial Vehicle](/products_or_materials_produced/light-commercial-vehicle/) |
 | Headquarters Location | [Toyota](/headquarters_locations/toyota/) |
 | Foundation Date | [1937](/foundation_dates/1937/); [1938](/foundation_dates/1938/) |
 | Chief Executive Officer | Kōji Satō (from 2023), Katsuaki Watanabe (from 2005, until 2009), Akio Toyoda (from 2009, until 2023) |

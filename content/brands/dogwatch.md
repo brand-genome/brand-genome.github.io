@@ -2,11 +2,11 @@
 title: DogWatch
 slug: dogwatch
 description: ""
-date: "2026-04-10T09:40:33.612719"
+date: "2026-04-15T09:21:24.552213"
 draft: false
 sectors:
-  - "veterinary-pet-care"
   - "consumer-goods"
+  - "veterinary-pet-care"
 regions:
   - usa
 years:

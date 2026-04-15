@@ -2,7 +2,7 @@
 title: Beyond Hello
 slug: "beyond-hello"
 description: ""
-date: "2026-04-10T09:40:30.939566"
+date: "2026-04-15T09:21:22.550448"
 draft: false
 sectors:
   - "consumer-goods"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://products.beyond-hello.com](https://products.beyond-hello.com)
-- [http://www.jushico.com](http://www.jushico.com)
 - [https://beyond-hello.com](https://beyond-hello.com)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-04-10T09:40:34.447522"
+date: "2026-04-15T09:21:25.391375"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - usa
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - software
 industries:
-  - "technology-industry"
-  - "business-intelligence"
+  - "software-industry"
   - "software-development"
+  - "technology-industry"
   - analytics
   - "data-visualization"
-  - "software-industry"
+  - "business-intelligence"
 countries:
   - "united-states"
 revenue_buckets:
@@ -37,16 +37,16 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - "business-intelligence-software"
-  - "computer-program"
-  - "data-analysis-software"
-  - "mobile-app"
-  - software
   - application
+  - "computer-program"
+  - software
+  - "mobile-app"
+  - "business-intelligence-software"
+  - "data-analysis-software"
 products: []
 headquarters_locations:
-  - tysons
   - wilmington
+  - tysons
 subsidiaries: []
 foundation_dates:
   - 1989
@@ -103,8 +103,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Computer Program](/products_or_materials_produced/computer-program/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Mobile App](/products_or_materials_produced/mobile-app/); [Software](/products_or_materials_produced/software/); [Application](/products_or_materials_produced/application/) |
-| Headquarters Location | [Tysons](/headquarters_locations/tysons/); [Wilmington](/headquarters_locations/wilmington/) |
+| Product Or Material Produced | [Application](/products_or_materials_produced/application/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/); [Mobile App](/products_or_materials_produced/mobile-app/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/) |
+| Headquarters Location | [Wilmington](/headquarters_locations/wilmington/); [Tysons](/headquarters_locations/tysons/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/052hvb |
 | Stock Exchange | Nasdaq (from 1998) |

@@ -2,7 +2,7 @@
 title: Lab ingénierie
 slug: "lab-ingenierie"
 description: ""
-date: "2026-04-10T09:40:30.983083"
+date: "2026-04-15T09:21:22.601608"
 draft: false
 sectors:
   - construction

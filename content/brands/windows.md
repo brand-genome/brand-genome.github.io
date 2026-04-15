@@ -2,20 +2,20 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-04-10T09:40:32.556278"
+date: "2026-04-15T09:21:23.755037"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2022
   - 2017
+  - 2022
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries: []
 countries: []
 revenue_buckets: []

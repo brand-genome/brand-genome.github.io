@@ -2,11 +2,11 @@
 title: "4-H Canada"
 slug: "4-h-canada"
 description: ""
-date: "2026-04-10T09:40:34.655842"
+date: "2026-04-15T09:21:25.648939"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:

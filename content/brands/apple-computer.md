@@ -2,11 +2,11 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-04-10T09:40:32.074365"
+date: "2026-04-15T09:21:23.563051"
 draft: false
 sectors:
-  - software
   - electronics
+  - software
 regions:
   - usa
 years:
@@ -15,18 +15,18 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
   - technology
   - vintage
+  - software
 industries:
+  - "software-industry"
+  - "software-development"
   - "consumer-electronics-industry"
   - "information-technology"
-  - "software-development"
-  - "digital-distribution"
-  - electronics
   - "mobile-phone-industry"
-  - "software-industry"
+  - electronics
+  - "digital-distribution"
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,26 +44,26 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
+  - "apple-watch"
   - "apple-tv"
-  - peripheral
+  - "apple-pay"
+  - mac
+  - airpods
   - homepod
+  - ipod
   - "wearable-computer"
-  - "video-game-console"
   - smartphone
+  - "ipod-touch"
+  - imac
+  - "consumer-electronics"
   - "personal-computer"
   - "personal-digital-assistant"
-  - airpods
-  - "apple-watch"
-  - mac
   - software
-  - ipod
-  - "computer-hardware"
-  - "consumer-electronics"
   - "tablet-computer"
-  - imac
+  - peripheral
+  - "video-game-console"
+  - "computer-hardware"
   - "networking-hardware"
-  - "ipod-touch"
-  - "apple-pay"
 products: []
 headquarters_locations:
   - "apple-park"
@@ -444,7 +444,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Apple Tv](/products_or_materials_produced/apple-tv/); [Peripheral](/products_or_materials_produced/peripheral/); [Homepod](/products_or_materials_produced/homepod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Video Game Console](/products_or_materials_produced/video-game-console/); [Smartphone](/products_or_materials_produced/smartphone/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Airpods](/products_or_materials_produced/airpods/); [Apple Watch](/products_or_materials_produced/apple-watch/); [Mac](/products_or_materials_produced/mac/); [Software](/products_or_materials_produced/software/); +8 more |
+| Product Or Material Produced | [Apple Watch](/products_or_materials_produced/apple-watch/); [Apple Tv](/products_or_materials_produced/apple-tv/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Mac](/products_or_materials_produced/mac/); [Airpods](/products_or_materials_produced/airpods/); [Homepod](/products_or_materials_produced/homepod/); [Ipod](/products_or_materials_produced/ipod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Smartphone](/products_or_materials_produced/smartphone/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Imac](/products_or_materials_produced/imac/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); +8 more |
 | Headquarters Location | [Apple Park](/headquarters_locations/apple-park/); [Cupertino](/headquarters_locations/cupertino/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |

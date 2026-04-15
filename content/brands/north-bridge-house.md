@@ -2,7 +2,7 @@
 title: North Bridge House
 slug: "north-bridge-house"
 description: ""
-date: "2026-04-10T09:40:33.314770"
+date: "2026-04-15T09:21:24.250348"
 draft: false
 sectors:
   - education

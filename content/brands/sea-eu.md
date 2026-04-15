@@ -2,7 +2,7 @@
 title: "SEA-EU"
 slug: "sea-eu"
 description: ""
-date: "2026-04-10T09:40:30.810604"
+date: "2026-04-15T09:21:22.413765"
 draft: false
 sectors:
   - education

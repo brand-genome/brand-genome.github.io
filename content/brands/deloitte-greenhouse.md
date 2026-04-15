@@ -2,7 +2,7 @@
 title: Deloitte Greenhouse
 slug: "deloitte-greenhouse"
 description: ""
-date: "2026-04-10T09:40:33.370939"
+date: "2026-04-15T09:21:24.306501"
 draft: false
 sectors:
   - consulting
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.deloitte.com/uk/en/services/executive-and-board-programme/greenhouse.html](https://www.deloitte.com/uk/en/services/executive-and-board-programme/greenhouse.html)
-- [http://www.co.za](http://www.co.za)
 
 ## Brand Guidelines
 

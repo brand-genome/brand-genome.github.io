@@ -2,7 +2,7 @@
 title: USA Today
 slug: "usa-today"
 description: ""
-date: "2026-04-10T09:40:34.791589"
+date: "2026-04-15T09:21:25.768977"
 draft: false
 sectors:
   - broadcasting
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - media
   - magazine
+  - media
 industries: []
 countries:
   - "united-states"

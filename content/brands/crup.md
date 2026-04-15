@@ -2,7 +2,7 @@
 title: CRUP
 slug: crup
 description: ""
-date: "2026-04-10T09:40:33.453415"
+date: "2026-04-15T09:21:24.386430"
 draft: false
 sectors:
   - education
@@ -15,10 +15,8 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - portugal
-revenue_buckets:
-  - "UNDER-1M"
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
 employees_buckets: []
@@ -27,8 +25,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - lisbon
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -54,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q16482287"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.crup.org.ar](https://www.crup.org.ar)
 - [https://realcup.org](https://realcup.org)
-- [http://www.crup.pt](http://www.crup.pt)
 
 ## Brand Guidelines
 
@@ -206,27 +202,3 @@ visual_term_image_urls: {}
 
 - El logo CRUP está asociado a los conceptos de dinamismo, movimiento, acción, conexión representados gráficamente con la idea y forma de “Molino de viento”: máquina que emplea la energía del viento (eólica) para diferentes tareas. Esta energía proviene de la acción de la fuerza del viento sobre unas aspas oblicuas unidas a un eje común. El eje giratorio se puede conectar a varios tipos de maquinaria para moler grano, bombear agua o generar electricidad. De esta forma el logo habla de la adaptación de la institución a los diferentes tiempos del país, avanzar y adaptarse a esos tiempos, para generar energía nueva en cumplimiento de sus objetivos, trabajando en conjunto y en unidad.
 - El logotipo: forma gráfica del nombre, diferenciado por estilo tipográfico y color. El isotipo: símbolo de la marca, "molino de viento" vinculado a los conceptos de dinamismo, movimiento, acción, conexión. Las formas triangulares se inscriben dentro de un cuadrado el cual representa estabilidad y orden. Las lineas rectas que conforman el logotipo se vinculan a la tecnología, la formalidad y la seriedad.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q16482287) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Lisbon](/headquarters_locations/lisbon/) |
-| Member Of | European University Association |
-| Google Knowledge Graph Id | /g/121hg67n |
-| Country | Portugal |
-| Eu Transparency Register Id | 688867827027-92 |
-| Short Name | CRUP |
-| Headquarters Location | Lisbon |
-| Donations | 0 euro (as of 2020) |
-| Ror Id | 0146fdq04 |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $120.00K | as of 2020 | [UNDER-1M](/revenue_buckets/under-1m/) |

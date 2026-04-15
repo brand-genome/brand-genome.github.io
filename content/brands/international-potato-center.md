@@ -2,7 +2,7 @@
 title: International Potato Center
 slug: "international-potato-center"
 description: ""
-date: "2026-04-10T09:40:34.494669"
+date: "2026-04-15T09:21:25.430969"
 draft: false
 sectors:
   - research
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 
 - [https://cipotato.org](https://cipotato.org)
 - [https://cipotato.org/cip-branding](https://cipotato.org/cip-branding)
-- [http://www.cgiar.org](http://www.cgiar.org)
 - [http://cipotato.org](http://cipotato.org)
 
 ## Brand Guidelines

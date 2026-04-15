@@ -2,7 +2,7 @@
 title: Schweizerischen Bundesverwaltung
 slug: "schweizerischen-bundesverwaltung"
 description: ""
-date: "2026-04-10T09:40:32.581220"
+date: "2026-04-15T09:21:23.780419"
 draft: false
 sectors:
   - "public-sector"
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 - [https://www.geo.admin.ch](https://www.geo.admin.ch)
 - [https://www.epa.admin.ch](https://www.epa.admin.ch)
 - [http://www.admin.ch](http://www.admin.ch)
-- [http://www.ethz.ch](http://www.ethz.ch)
-- [http://www.metas.ch](http://www.metas.ch)
 
 ## Brand Guidelines
 

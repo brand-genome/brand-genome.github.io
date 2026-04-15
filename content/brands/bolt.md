@@ -2,7 +2,7 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-04-10T09:40:30.663426"
+date: "2026-04-15T09:21:22.227631"
 draft: false
 sectors:
   - finance
@@ -10,42 +10,30 @@ sectors:
 regions:
   - usa
 years:
-  - 2019
-  - 2025
   - 2024
+  - 2025
+  - 2019
 languages:
   - english
 tags:
   - featured
   - financial
   - internet
-industries:
-  - "peer-to-peer-ridesharing"
-  - "information-technology"
-  - "food-delivery-service"
-countries:
-  - estonia
-revenue_buckets:
-  - "1B-10B"
+industries: []
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
-net_profit_buckets:
-  - "10M-100M"
-employees_buckets:
-  - "1K-10K"
+net_profit_buckets: []
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "bolt-food"
-  - bolt
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - tallinn
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2013
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -67,8 +55,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Estonian company in field of peer-to-peer ridesharing and food delivery"
-wikidata_url: "https://www.wikidata.org/wiki/Q20529164"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -81,7 +69,6 @@ visual_term_image_urls: {}
 - [https://bolt.com](https://bolt.com)
 - [https://help.bolt.com](https://help.bolt.com)
 - [http://www.bolt.com](http://www.bolt.com)
-- [https://bolt.eu](https://bolt.eu)
 
 ## Brand Guidelines
 
@@ -609,61 +596,3 @@ visual_term_image_urls: {}
 - 3.3 -Horizontal lockup Inverse Production ready logo files for use can be found at Team Drives > Design > Design <> External > Logo. If you need Drive access, please contact IT. Be sure to choose the correct file format based on the medium (print vs digital) and choose the logo option that will work with the background color (light vs dark).
 - 3.4 -Vertical lockup Production ready logo files for use can be found at Team Drives > Design > Design <> External > Logo. If you need Drive access, please contact IT. Be sure to choose the correct file fonnat based on the medium (print vs digital) and choose the logo option that will work with the background color (light vs dark).
 - 3.5 -Vertical lockup inverse Production ready logo files for use can be found at Team Drives > Design > Design <> External > Logo. If you need Drive access, please contact IT. Be sure to choose the correct file format based on the medium you intend to use to logo with (print vs digital) and choose the logo option that will work with the background color (light vs dark).
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q20529164) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Bolt Food](/products_or_materials_produced/bolt-food/); [Bolt](/products_or_materials_produced/bolt/) |
-| Headquarters Location | [Tallinn](/headquarters_locations/tallinn/) |
-| Foundation Date | [2013](/foundation_dates/2013/) |
-| Industry | peer-to-peer ridesharing, food delivery service, information technology |
-| Inception | 2013-08-03 |
-| Headquarters Location | Tallinn |
-| Business Registry Code (Estonia) | 12417834 |
-| Legal Form | private limited company |
-| Country | Estonia |
-| X (Twitter) Username | boltapp (as of 2020-04-19, from 2013-03-16) |
-| Facebook Username | bolt |
-| Instagram Username | bolt |
-| Founded By | Markus Villig |
-| Product Or Material Produced | Bolt Food, Bolt |
-| Google Knowledge Graph Id | /g/1yprtz41d |
-| Google Play Developer Id | 8420210619522248974 |
-| App Store Developer Id | 675033633 |
-| Social Media Followers | 17,353 (as of 2021-01-07), 13,326 (as of 2020-04-19), 26,669 (as of 2022-02-26), 36,764 (as of 2023-02-07) |
-| Crunchbase Organization Id | mtakso |
-| Investor | Fidelity Investments, Sequoia Capital, International Finance Corporation, D1 Capital Partners, European Investment Bank (+2 more) |
-| Eu Vat Number | EE101721521 |
-| Official Name | Bolt Technology OÜ |
-| Eu Transparency Register Id | 995377734447-25 |
-| Member Of | OpenStreetMap Foundation (from 2022-05) |
-| Board Member | Markus Villig |
-| Owned By | Mordor Management (as of 2024-03-23), D1 Master Holdco I (as of 2024-03-23), Mordor Management (as of 2025-02-15), Mercedes-Benz Mobility Services (as of 2025-02-15) |
-| Trading Name | Bolt |
-| Tiktok Username | Bolt |
-| Linkedin Company Or Organization Id | bolt-eu |
-| Location Of Formation | Tallinn |
-| Uk Parliament Thesaurus Id | 569725 |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $1.70B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
-
-### Net Profit History
-
-| Net Profit ($) | Year information | Bucket |
-|---|---|---|
-| $92.00M | as of 2023 | [10M-100M](/net_profit_buckets/10m-100m/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 4,104 | as of 2023 | [1K-10K](/employees_buckets/1k-10k/) |

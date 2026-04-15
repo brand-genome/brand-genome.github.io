@@ -2,12 +2,12 @@
 title: City of Peoria
 slug: "city-of-peoria"
 description: ""
-date: "2026-04-10T09:40:32.827096"
+date: "2026-04-15T09:21:23.872838"
 draft: false
 sectors:
   - "public-sector"
-  - tourism
   - utilities
+  - tourism
 regions:
   - usa
 years:
@@ -18,8 +18,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -54,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "township of most of the city of Peoria in Peoria County, Illinois, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q9043343"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -75,22 +74,3 @@ visual_term_image_urls: {}
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q9043343) |
-
-| Property | Value |
-|----------|-------|
-| Located In The Administrative Territorial Entity | Peoria |
-| Country | United States |
-| Gnis Feature Id | 429548 |
-| Locator Map Image | Map highlighting Peoria City Township, Peoria County, Illinois.svg |
-| Coordinate Location | 40.7447, -89.61 |
-| Fips 55 3 (Locations In The Us) | 17-59013 |
-| Google Knowledge Graph Id | /g/1218lnl2 |
-| Population | 97,823 (as of 2020-04-01), 104,409 (as of 2010-04-01) |
-| Per Capita Income | 27,744 United States dollar (as of 2020-12-31) |
-| Number Of Households | 42,357 (as of 2020-12-31) |

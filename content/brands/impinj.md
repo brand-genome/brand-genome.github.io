@@ -2,16 +2,16 @@
 title: Impinj
 slug: impinj
 description: ""
-date: "2026-04-10T09:40:32.800914"
+date: "2026-04-15T09:21:23.860411"
 draft: false
 sectors:
-  - hardware
   - software
+  - hardware
 regions:
   - usa
 years:
-  - 2017
   - 2021
+  - 2017
 languages:
   - english
 tags:

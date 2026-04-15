@@ -2,7 +2,7 @@
 title: "Région Rhône-Alpes"
 slug: "region-rhone-alpes"
 description: ""
-date: "2026-04-10T09:40:33.830967"
+date: "2026-04-15T09:21:24.808861"
 draft: false
 sectors:
   - "public-sector"

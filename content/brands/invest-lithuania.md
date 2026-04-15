@@ -2,7 +2,7 @@
 title: Invest Lithuania
 slug: "invest-lithuania"
 description: ""
-date: "2026-04-10T09:40:32.842370"
+date: "2026-04-15T09:21:23.881841"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - business
   - featured
+  - business
 industries: []
 countries:
   - lithuania

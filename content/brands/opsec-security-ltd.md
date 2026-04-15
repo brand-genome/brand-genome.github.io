@@ -2,7 +2,7 @@
 title: OpSec Security Ltd
 slug: "opsec-security-ltd"
 description: ""
-date: "2026-04-10T09:40:30.608175"
+date: "2026-04-15T09:21:22.158728"
 draft: false
 sectors:
   - consulting

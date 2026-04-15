@@ -2,7 +2,7 @@
 title: CenTuri
 slug: centuri
 description: ""
-date: "2026-04-10T09:40:34.710995"
+date: "2026-04-15T09:21:25.693611"
 draft: false
 sectors:
   - research
@@ -15,10 +15,8 @@ languages:
 tags:
   - biology
   - science
-industries:
-  - "video-game-industry"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - hialeah
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1979
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American arcade game company
-wikidata_url: "https://www.wikidata.org/wiki/Q2946291"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -68,22 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://centuri-livingsystems.org](https://centuri-livingsystems.org)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2946291) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Hialeah](/headquarters_locations/hialeah/) |
-| Foundation Date | [1979](/foundation_dates/1979/) |
-| Industry | video game industry |
-| Country | United States |
-| Inception | 1979-01-01 |
-| Headquarters Location | Hialeah |
-| Dissolved, Abolished Or Demolished Date | 1985 |
-| Freebase Id | /m/0c9yll |
-| Museum Digital Id | 231954 |
-| Replaces | Allied's (as of 1979) |

@@ -2,11 +2,11 @@
 title: WOLA
 slug: wola
 description: ""
-date: "2026-04-10T09:40:30.703531"
+date: "2026-04-15T09:21:22.284360"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - usa
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - ngo
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - warsaw
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2016
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Polish association
-wikidata_url: "https://www.wikidata.org/wiki/Q86663350"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -67,22 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wola.org](https://www.wola.org)
-- [http://www.wolamieszkancow.pl](http://www.wolamieszkancow.pl)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q86663350) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Warsaw](/headquarters_locations/warsaw/) |
-| Foundation Date | [2016](/foundation_dates/2016/) |
-| Inception | 2016 |
-| Country | Poland |
-| Headquarters Location | Warsaw |
-| Facebook Username | WolaMieszkancow |
-| Viaf Cluster Id | 49153953220905560006 |
-| Nukat Id | n2018204445 |
-| Member Of | City Is Ours – City Movements |

@@ -2,11 +2,11 @@
 title: AMD Ryzen
 slug: "amd-ryzen"
 description: ""
-date: "2026-04-10T09:40:34.037706"
+date: "2026-04-15T09:21:24.955161"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:

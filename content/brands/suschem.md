@@ -2,7 +2,7 @@
 title: SusChem
 slug: suschem
 description: ""
-date: "2026-04-10T09:40:34.304847"
+date: "2026-04-15T09:21:25.198844"
 draft: false
 sectors:
   - research
@@ -15,8 +15,7 @@ languages:
 tags:
   - chemical
 industries: []
-countries:
-  - "czech-republic"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - prague
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2005
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "organization in Prague, Czechia"
-wikidata_url: "https://www.wikidata.org/wiki/Q36878671"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,28 +65,9 @@ visual_term_image_urls: {}
 - [https://www.suschem.at](https://www.suschem.at)
 - [http://www.suschem-es.org](http://www.suschem-es.org)
 - [http://www.suschem.org](http://www.suschem.org)
-- [https://www.suschem.cz](https://www.suschem.cz)
 
 ## Brand Guidelines
 
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q36878671) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Prague](/headquarters_locations/prague/) |
-| Foundation Date | [2005](/foundation_dates/2005/) |
-| Grid Id | grid.485319.2 |
-| Country | Czech Republic |
-| Inception | 2005-01-01 |
-| Located In The Administrative Territorial Entity | Prague |
-| Headquarters Location | Prague |
-| Ror Id | 02czagv77 |
-| Web Feed Url | https://www.suschem.cz/?format=feed&type=rss |

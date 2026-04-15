@@ -2,7 +2,7 @@
 title: Zagreb Airport
 slug: "zagreb-airport"
 description: ""
-date: "2026-04-10T09:40:32.839240"
+date: "2026-04-15T09:21:23.879108"
 draft: false
 sectors:
   - "public-transportation"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - aeronautic
   - featured
+  - aeronautic
 industries: []
 countries:
   - croatia

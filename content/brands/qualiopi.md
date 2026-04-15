@@ -2,7 +2,7 @@
 title: Qualiopi
 slug: qualiopi
 description: ""
-date: "2026-04-10T09:40:33.207693"
+date: "2026-04-15T09:21:24.153803"
 draft: false
 sectors:
   - "public-sector"

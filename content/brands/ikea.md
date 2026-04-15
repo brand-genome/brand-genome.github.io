@@ -2,7 +2,7 @@
 title: Ikea
 slug: ikea
 description: ""
-date: "2026-04-10T09:40:30.893352"
+date: "2026-04-15T09:21:22.513337"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - retail
   - "industrial-manufacturing"
+  - retail
   - design
 countries: []
 revenue_buckets: []
@@ -29,13 +29,13 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - kitchenware
-  - "home-appliance"
-  - "ready-to-assemble-furniture"
-  - mattress
-  - "interior-decoration"
-  - couch
   - linens
   - furniture
+  - "home-appliance"
+  - "ready-to-assemble-furniture"
+  - couch
+  - "interior-decoration"
+  - mattress
 products: []
 headquarters_locations: []
 subsidiaries: []
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Kitchenware](/products_or_materials_produced/kitchenware/); [Home Appliance](/products_or_materials_produced/home-appliance/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Mattress](/products_or_materials_produced/mattress/); [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Couch](/products_or_materials_produced/couch/); [Linens](/products_or_materials_produced/linens/); [Furniture](/products_or_materials_produced/furniture/) |
+| Product Or Material Produced | [Kitchenware](/products_or_materials_produced/kitchenware/); [Linens](/products_or_materials_produced/linens/); [Furniture](/products_or_materials_produced/furniture/); [Home Appliance](/products_or_materials_produced/home-appliance/); [Ready To Assemble Furniture](/products_or_materials_produced/ready-to-assemble-furniture/); [Couch](/products_or_materials_produced/couch/); [Interior Decoration](/products_or_materials_produced/interior-decoration/); [Mattress](/products_or_materials_produced/mattress/) |
 | Foundation Date | [1943](/foundation_dates/1943/) |
 | Inception | 1943-07-28 |
 | Founded By | Ingvar Kamprad |

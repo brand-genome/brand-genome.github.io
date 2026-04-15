@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-04-10T09:40:34.002774"
+date: "2026-04-15T09:21:24.923916"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

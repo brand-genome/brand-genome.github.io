@@ -2,7 +2,7 @@
 title: Área Metropolitana del Valle de Aburrá
 slug: "area-metropolitana-del-valle-de-aburra"
 description: ""
-date: "2026-04-10T09:40:33.119071"
+date: "2026-04-15T09:21:24.052934"
 draft: false
 sectors:
   - "public-sector"

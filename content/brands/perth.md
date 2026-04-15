@@ -2,11 +2,11 @@
 title: Perth
 slug: perth
 description: ""
-date: "2026-04-10T09:40:34.415257"
+date: "2026-04-15T09:21:25.362478"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
   - education
 regions:
   - australia
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://www.tourism.wa.gov.au](https://www.tourism.wa.gov.au)
 - [https://www.studyperth.com.au](https://www.studyperth.com.au)
 - [https://www.businesseventsperth.com](https://www.businesseventsperth.com)
-- [http://www.wa.gov](http://www.wa.gov)
 - [https://perth.wa.gov.au](https://perth.wa.gov.au)
 - [http://www.cityofperth.wa.gov.au](http://www.cityofperth.wa.gov.au)
 

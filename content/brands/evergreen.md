@@ -2,11 +2,11 @@
 title: Evergreen
 slug: evergreen
 description: ""
-date: "2026-04-10T09:40:30.949270"
+date: "2026-04-15T09:21:22.560277"
 draft: false
 sectors:
-  - ngo
   - "renewable-energy"
+  - ngo
 regions:
   - usa
 years:
@@ -14,16 +14,14 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - featured
+  - ngo
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "100-1K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
@@ -31,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1967
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: public liberal arts college in Washington State
-wikidata_url: "https://www.wikidata.org/wiki/Q941731"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +66,6 @@ visual_term_image_urls: {}
 - [https://evergreenaction.com](https://evergreenaction.com)
 - [https://www.evergreenaction.com](https://www.evergreenaction.com)
 - [http://www.evergreenaction.com](http://www.evergreenaction.com)
-- [https://www.evergreen.edu](https://www.evergreen.edu)
 
 ## Brand Guidelines
 
@@ -240,61 +235,3 @@ visual_term_image_urls: {}
 - Get close and focus on the subject
 - Show interaction with nature
 - Show unique on-campus events
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q941731) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1967](/foundation_dates/1967/) |
-| Coordinate Location | 47.072964, -122.976151 |
-| Country | United States |
-| Topic'S Main Category | Category:Evergreen State College |
-| Freebase Id | /m/01v7f3 |
-| Gnd Id | 16215355-7 |
-| Viaf Cluster Id | 124339913 |
-| Library Of Congress Authority Id | n81007284 |
-| Integrated Postsecondary Education Data System Id | 235167 |
-| Member Of | Council of Public Liberal Arts Colleges, Orbis Cascade Alliance, Association of American Colleges and Universities, Open Education Network |
-| Inception | 1967 |
-| Founded By | Daniel J. Evans, Charles J. McCann |
-| Isni | 0000000085944289 |
-| Postal Code | 98505-0001, 98505 |
-| Image | Evergreen clocktower.jpg |
-| Carnegie Classification Of Institutions Of Higher Education | master's colleges and universities: medium programs, very high undergraduate, postbaccalaureate: other-dominant, with arts & sciences, four-year, medium, primarily nonresidential, arts & sciences focus, no graduate coexistence (+1 more) |
-| Quora Topic Id | The-Evergreen-State-College |
-| Ringgold Id | 6201 |
-| Open Funder Registry Funder Id | 100007437 |
-| Category For Alumni Of Educational Institution | Category:Evergreen State College alumni |
-| Grid Id | grid.264899.8 |
-| Located In The Administrative Territorial Entity | Olympia, Washington, Thurston County |
-| Microsoft Academic Id (Discontinued) | 60341648 |
-| Street Address | 2700 Evergreen Pkwy NW, Olympia, WA, 98505-0001 |
-| Times Higher Education World University Id | evergreen-state-college |
-| Ror Id | 043yd1m08 |
-| X (Twitter) Username | evergreenstcol (as of 2020-04-19, from 2009-07-02) |
-| Social Media Followers | 5,525 (as of 2021-01-06), 5,423 (as of 2020-04-19) |
-| Official Map Url | https://www.evergreen.edu/tour/tours-and-maps, https://www.evergreen.edu/tour/gethere |
-| Count Of Students | 2,281 (as of 2020-09) |
-| Admission Rate | 0 (as of 2020) |
-| Admission Yield Rate | 0 (as of 2020) |
-| Openalex Id | I60341648 |
-| Subreddit | evergreen (as of 2023-05-23) |
-| Athletics Program | Evergreen State Geoducks |
-| Musicbrainz Place Id | 0437156f-b944-446d-8543-6bcc5cb0ab47 |
-| Famous Birthdays Id | schools/evergreen-state-college |
-| Academic Calendar Type | academic quarter |
-| Kisti Id | K000208012 |
-| Inaturalist Place Id | 53209 |
-| ‎Yale Lux Id | group/feb9ea68-96f6-481c-99e8-7d3172e994d9 |
-| Scholargps Institution Id | 89921633950434 |
-| Post Town | Olympia, WA |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 660 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |

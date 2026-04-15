@@ -2,11 +2,11 @@
 title: Cardinal Stritch University
 slug: "cardinal-stritch-university"
 description: ""
-date: "2026-04-10T09:40:33.811583"
+date: "2026-04-15T09:21:24.790119"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

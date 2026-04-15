@@ -2,7 +2,7 @@
 title: University of Georgia Athletics
 slug: "university-of-georgia-athletics"
 description: ""
-date: "2026-04-10T09:40:34.655573"
+date: "2026-04-15T09:21:25.648707"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://georgiadogs.com](https://georgiadogs.com)
 - [https://shop.georgiadogs.com](https://shop.georgiadogs.com)
-- [http://www.uga.edu](http://www.uga.edu)
 - [http://www.georgiadogs.com](http://www.georgiadogs.com)
 
 ## Brand Guidelines

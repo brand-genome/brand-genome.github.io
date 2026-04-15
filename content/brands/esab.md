@@ -2,7 +2,7 @@
 title: ESAB
 slug: esab
 description: ""
-date: "2026-04-10T09:40:34.392009"
+date: "2026-04-15T09:21:25.341580"
 draft: false
 sectors:
   - hardware

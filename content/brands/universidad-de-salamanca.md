@@ -2,11 +2,11 @@
 title: Universidad de Salamanca
 slug: "universidad-de-salamanca"
 description: ""
-date: "2026-04-10T09:40:32.578407"
+date: "2026-04-15T09:21:23.777680"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - spain

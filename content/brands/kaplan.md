@@ -2,7 +2,7 @@
 title: Kaplan
 slug: kaplan
 description: ""
-date: "2026-04-10T09:40:32.993555"
+date: "2026-04-15T09:21:23.945612"
 draft: false
 sectors:
   - education
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: printing company
-wikidata_url: "https://www.wikidata.org/wiki/Q122921795"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -600,15 +600,3 @@ visual_term_image_urls: {}
 - Content inside image blocks should not exceed 150 characters with spaces.
 - Headers do's & dont's B2C marketing email headers should only display logo on the left and nothing else. B2B email headers should display Facebook and LinkedIn icons. Only use black header for Black Friday. Do not use headers with icons for contact, brochure, quote, and call, or social media icons for Facebook, Twitter, YouTube, Instagram, and LinkedIn above the logo. Action icons should be the same as the ones currently on the website and appear underneath the Kaplan logo, not above. The social icons should be white and in the footer to keep the header as clean as possible.
 - Pre-flight checklist This checklist is to ensure that your email is all good before you hit the send button. Timing Send date and time: Choose the date and time for your send and schedule it on your calendar. Ensure it doesn't conflict with any other sends. The details Subject line: Check for typos and personalisations. Pre-header text: Have you updated it? Check for typos. Footer: Have you updated if necessary? Check your footer includes the correct social channels, Rated 'EXCELLENT' on Trustpilot image, show view in browser option, the physical address, Privacy Policy and Unsubscribe links. If the email features a promotion, include all promotional T&C's after the view in browser link. Sender address: Always include the physical address of your business. Permission reminder: Have you updated as needed? Unsubscribe link: You must always include this. Social icons: Are they linked to the correct social networks? Emojis: Use emojis to shorten subject lines or convey emotion. Double check if the use of emoji fits the tone of the email and if it's appropriate your audience. The content Body copy: Check for typos and readability. Images: Are they properly linked? Have you added ALTtext? Background images: Have you added a fallback color? Headlines: Are they properly linked? Keep short and simple, check length on mobile. CTA buttons: Are they properly linked? Personalization: Do you have a fallback in place? Keep 2-3 words max and action focused. Dynamic content: Who should see it? Lists Suppressions: Do you need to suppress any list? Exclusions: Do you need to exclude any portion of your list? Data: Does your subscriber list have all of the fields you need? Testing In box preview: Have you sent yourself a test email? Full inbox test: Have you tested all email clients? A/B testing: Are you A/B testing this campaign? If so, for clear testing results make sure you're testing one element at a time and that the variations are very different. Other Notify team: Notify appropriate teams like support or sales. Send them the link to the campaign, let them know who the audience is and tell them when it will send. Send Schedule your campaign to send immediately or in the future. After the send Analytics: See how your campaign performed.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q122921795) |
-
-| Property | Value |
-|----------|-------|
-| Stedelijk Museum Amsterdam Id | 213865-kaplan |
-| Has Works In The Collection | Stedelijk Museum Amsterdam |
-| Viaf Cluster Id | 172537501 |

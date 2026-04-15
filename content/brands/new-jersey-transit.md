@@ -2,7 +2,7 @@
 title: New Jersey Transit
 slug: "new-jersey-transit"
 description: ""
-date: "2026-04-10T09:40:32.482267"
+date: "2026-04-15T09:21:23.695356"
 draft: false
 sectors:
   - "public-transportation"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - transport
   - vintage
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "new-york-city"
   - "new-jersey"
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1979
@@ -324,7 +324,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [New Jersey](/headquarters_locations/new-jersey/) |
+| Headquarters Location | [New Jersey](/headquarters_locations/new-jersey/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1979](/foundation_dates/1979/) |
 | Topic'S Main Category | Category:NJ Transit |
 | Freebase Id | /m/01t0sn |

@@ -2,7 +2,7 @@
 title: openAi
 slug: openai
 description: ""
-date: "2026-04-10T09:40:30.758408"
+date: "2026-04-15T09:21:22.351927"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - featured
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -24,15 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "ai-generated-video"
+products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2024
-foundation_year_buckets:
-  - 2020S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "text-to-video model developed by OpenAI"
-wikidata_url: "https://www.wikidata.org/wiki/Q124544998"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -68,36 +65,3 @@ visual_term_image_urls: {}
 - [https://openai.com](https://openai.com)
 - [https://developers.openai.com](https://developers.openai.com)
 - [https://openai.com/api](https://openai.com/api)
-- [https://openai.com/sora](https://openai.com/sora)
-- [https://sora.com](https://sora.com)
-- [https://openai.com/index/sora](https://openai.com/index/sora)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q124544998) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Ai Generated Video](/products_or_materials_produced/ai-generated-video/) |
-| Foundation Date | [2024](/foundation_dates/2024/) |
-| Has Use | video generation |
-| Developer | OpenAI |
-| Announcement Date | 2024-02-15 |
-| X Post Id | 1758192957386342435 |
-| Publication Date | 2024-02-15 |
-| Named After | sky |
-| Owned By | OpenAI |
-| Has Goal | synthetic media |
-| Google Knowledge Graph Id | /g/11vqnv9jtz |
-| Video | Wooly Mammoth by OpenAI Sora.webm |
-| Uses | transformer |
-| Described By Source | MIT Technology Review, The New York Times, NBC News, Wired, CNET (+1 more) |
-| Creator | OpenAI |
-| Inception | 2024-02-15 |
-| Subreddit | SORA |
-| Alternativeto Software Id | sora-1 |
-| Product Or Material Produced | AI-generated video |
-| Followed By | Sora 2 |
-| Musicbrainz Artist Id | 360c5e5d-8006-490a-80cc-db7f57701d76 |

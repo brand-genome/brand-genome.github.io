@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-04-10T09:40:33.341980"
+date: "2026-04-15T09:21:24.276311"
 draft: false
 sectors:
   - sports

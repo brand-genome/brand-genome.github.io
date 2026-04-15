@@ -2,26 +2,26 @@
 title: Uber
 slug: uber
 description: ""
-date: "2026-04-10T09:40:30.739775"
+date: "2026-04-15T09:21:22.330997"
 draft: false
 sectors:
-  - software
   - "logistics-supply-chain"
   - "ride-sharing"
+  - software
 regions:
   - usa
 years:
-  - 2016
   - 2018
+  - 2016
 languages:
   - english
 tags:
   - transport
-  - app
   - internet
+  - app
 industries:
-  - "peer-to-peer-ridesharing"
   - "information-technology"
+  - "peer-to-peer-ridesharing"
 countries:
   - "united-states"
   - netherlands

@@ -2,11 +2,11 @@
 title: Università degli Studi di Trieste
 slug: "universita-degli-studi-di-trieste"
 description: ""
-date: "2026-04-10T09:40:32.481650"
+date: "2026-04-15T09:21:23.695042"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

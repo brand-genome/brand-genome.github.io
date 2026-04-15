@@ -2,11 +2,11 @@
 title: Hyundai Wia
 slug: "hyundai-wia"
 description: ""
-date: "2026-04-10T09:40:34.532925"
+date: "2026-04-15T09:21:25.464486"
 draft: false
 sectors:
-  - defense
   - automobile
+  - defense
 regions:
   - "south-korea"
 years:
@@ -15,8 +15,8 @@ languages: []
 tags:
   - corporate
 industries:
-  - "weapons-industry"
   - "automotive-industry"
+  - "weapons-industry"
 countries:
   - "south-korea"
 revenue_buckets:

@@ -2,7 +2,7 @@
 title: Vital Clothing
 slug: "vital-clothing"
 description: ""
-date: "2026-04-10T09:40:33.314188"
+date: "2026-04-15T09:21:24.249737"
 draft: false
 sectors:
   - fashion

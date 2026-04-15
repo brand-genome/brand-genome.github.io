@@ -2,7 +2,7 @@
 title: Odigo
 slug: odigo
 description: ""
-date: "2026-04-10T09:40:30.962872"
+date: "2026-04-15T09:21:22.578729"
 draft: false
 sectors:
   - software
@@ -10,8 +10,8 @@ sectors:
 regions:
   - france
 years:
-  - 2022
   - 2021
+  - 2022
 languages:
   - english
 tags:
@@ -27,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "herzliya-pituah"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1998
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: defunct social networking service
-wikidata_url: "https://www.wikidata.org/wiki/Q1984171"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.odigo.com](https://www.odigo.com)
 - [http://www.odigo.com](http://www.odigo.com)
-- [http://www.odigo.org](http://www.odigo.org)
 
 ## Brand Guidelines
 
@@ -299,20 +295,3 @@ visual_term_image_urls: {}
 ##### Brand Imagery
 
 - Photography March 2021 -version 2.0
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1984171) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Herzliya Pituah](/headquarters_locations/herzliya-pituah/) |
-| Foundation Date | [1998](/foundation_dates/1998/) |
-| Freebase Id | /m/05hbh1 |
-| Headquarters Location | Herzliya Pituah |
-| Quora Topic Id | Odigo |
-| Developer | Comverse |
-| Inception | 1998 |
-| Wine Appdb Id | 1185 |

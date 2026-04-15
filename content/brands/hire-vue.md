@@ -2,11 +2,11 @@
 title: Hire Vue
 slug: "hire-vue"
 description: ""
-date: "2026-04-10T09:40:34.503949"
+date: "2026-04-15T09:21:25.439250"
 draft: false
 sectors:
-  - software
   - "staffing-recruitment"
+  - software
 regions:
   - "united-kingdom"
 years:

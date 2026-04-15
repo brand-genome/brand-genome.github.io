@@ -2,7 +2,7 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-04-10T09:40:33.392399"
+date: "2026-04-15T09:21:24.325656"
 draft: false
 sectors:
   - pharma

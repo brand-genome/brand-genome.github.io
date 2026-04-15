@@ -2,7 +2,7 @@
 title: X
 slug: x
 description: ""
-date: "2026-04-10T09:40:30.657873"
+date: "2026-04-15T09:21:22.221688"
 draft: false
 sectors:
   - "social-media"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - featured
-  - app
   - internet
+  - app
 industries:
   - internet
 countries:

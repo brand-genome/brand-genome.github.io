@@ -2,11 +2,11 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-04-10T09:40:30.834863"
+date: "2026-04-15T09:21:22.444993"
 draft: false
 sectors:
-  - construction
   - utilities
+  - construction
 regions:
   - usa
 years:

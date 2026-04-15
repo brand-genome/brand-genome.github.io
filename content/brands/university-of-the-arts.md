@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-04-10T09:40:32.606281"
+date: "2026-04-15T09:21:23.799770"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - education
   - art
   - university
+  - education
 industries:
   - "higher-education"
 countries:

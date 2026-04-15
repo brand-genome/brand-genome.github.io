@@ -2,7 +2,7 @@
 title: Verifone
 slug: verifone
 description: ""
-date: "2026-04-10T09:40:30.892744"
+date: "2026-04-15T09:21:22.512363"
 draft: false
 sectors:
   - finance
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - "payment-terminal"
 products: []
 headquarters_locations:
-  - "coral-springs"
   - "san-jose"
+  - "coral-springs"
 subsidiaries: []
 foundation_dates:
   - 1981
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Payment Terminal](/products_or_materials_produced/payment-terminal/) |
-| Headquarters Location | [Coral Springs](/headquarters_locations/coral-springs/); [San Jose](/headquarters_locations/san-jose/) |
+| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Coral Springs](/headquarters_locations/coral-springs/) |
 | Foundation Date | [1981](/foundation_dates/1981/) |
 | Stock Exchange | New York Stock Exchange (until 2018), Nasdaq |
 | Headquarters Location | San Jose, Coral Springs |

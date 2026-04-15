@@ -2,11 +2,11 @@
 title: Every Matrix
 slug: "every-matrix"
 description: ""
-date: "2026-04-10T09:40:30.959645"
+date: "2026-04-15T09:21:22.576072"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - malta
 years:

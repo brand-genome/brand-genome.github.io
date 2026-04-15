@@ -2,11 +2,11 @@
 title: Bitdefender
 slug: bitdefender
 description: ""
-date: "2026-04-10T09:40:34.064563"
+date: "2026-04-15T09:21:24.979930"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - romania
 years:

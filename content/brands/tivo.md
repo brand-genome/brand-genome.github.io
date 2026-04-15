@@ -2,21 +2,21 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-04-10T09:40:33.825597"
+date: "2026-04-15T09:21:24.803512"
 draft: false
 sectors:
-  - software
   - entertainment
+  - software
 regions:
   - usa
 years:
-  - 2008
   - 2018
+  - 2008
 languages:
   - english
 tags:
-  - corporate
   - technology
+  - corporate
 industries: []
 countries:
   - "united-states"
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://www.tivo.com](https://www.tivo.com)
 - [https://www.tivo.com/products/tivo-os](https://www.tivo.com/products/tivo-os)
 - [https://online.tivo.com](https://online.tivo.com)
-- [http://www.amazon.com](http://www.amazon.com)
 - [http://www.tivo.com](http://www.tivo.com)
 
 ## Brand Guidelines

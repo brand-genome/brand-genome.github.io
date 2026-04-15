@@ -2,11 +2,11 @@
 title: Zero Density
 slug: "zero-density"
 description: ""
-date: "2026-04-10T09:40:34.449638"
+date: "2026-04-15T09:21:25.392913"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - turkiye
 years:

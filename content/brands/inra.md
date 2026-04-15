@@ -2,11 +2,11 @@
 title: INRA
 slug: inra
 description: ""
-date: "2026-04-10T09:40:34.439359"
+date: "2026-04-15T09:21:25.384128"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
 regions:
   - france
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - institution
 industries: []
-countries:
-  - morocco
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1914
-foundation_year_buckets:
-  - 1910S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "facility in Rabat, Morocco"
-wikidata_url: "https://www.wikidata.org/wiki/Q30254550"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.inrae.fr](https://www.inrae.fr)
-- [https://www.inra.org.ma](https://www.inra.org.ma)
 
 ## Brand Guidelines
 
@@ -213,30 +209,3 @@ visual_term_image_urls: {}
 - Tous les logos partenaires sont centrés en hauteur sur le même axe virtuel
 - Bandeau blanc de la hauteur habituelle
 - Pour calculer la hauteur du bandeau, ii suffit de partager, a partir du mot INRA, la largeur du document en parts egales 1 /5 de la largeur ici
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q30254550) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1914](/foundation_dates/1914/) |
-| Coordinate Location | 33.979277, -6.861206 |
-| Country | Morocco |
-| Grid Id | grid.424661.3 |
-| Inception | 1914-01-01 |
-| Isni | 0000000121733068 |
-| Located In The Administrative Territorial Entity | Rabat |
-| Child Organization Or Unit | Chrono-Environment Laboratory |
-| Library Of Congress Authority Id | n91095468 |
-| Ror Id | 05y503v71 |
-| Ringgold Id | 155521 |
-| Viaf Cluster Id | 142727400, 134397985 |
-| Bibliothèque Nationale De France Id | 12042643p |
-| Gnd Id | 261798-5 |
-| Idref Id | 223853860 |
-| National Library Of Israel J9U Id | 987007596825105171 |
-| On Focus List Of Wikimedia Project | Govdirectory |
-| Image | National Institute for Agronomic Research - Rabat - October 2025.jpg |

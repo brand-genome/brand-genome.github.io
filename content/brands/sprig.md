@@ -2,7 +2,7 @@
 title: Sprig
 slug: sprig
 description: ""
-date: "2026-04-10T09:40:34.407712"
+date: "2026-04-15T09:21:25.355200"
 draft: false
 sectors:
   - healthcare

@@ -2,7 +2,7 @@
 title: Federación Canaria de Padel
 slug: "federacion-canaria-de-padel"
 description: ""
-date: "2026-04-10T09:40:30.672154"
+date: "2026-04-15T09:21:22.241242"
 draft: false
 sectors:
   - sports

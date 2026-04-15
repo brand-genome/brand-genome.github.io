@@ -2,7 +2,7 @@
 title: Die Neue Volkspartei
 slug: "die-neue-volkspartei"
 description: ""
-date: "2026-04-10T09:40:32.497213"
+date: "2026-04-15T09:21:23.706756"
 draft: false
 sectors:
   - "public-sector"

@@ -2,12 +2,12 @@
 title: Dalla Lana
 slug: "dalla-lana"
 description: ""
-date: "2026-04-10T09:40:34.665070"
+date: "2026-04-15T09:21:25.657375"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - canada
 years:
@@ -17,8 +17,7 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +27,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "health-sciences-building"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1997
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: school of public health at the University of Toronto
-wikidata_url: "https://www.wikidata.org/wiki/Q17009784"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.dlsph.utoronto.ca](https://www.dlsph.utoronto.ca)
-- [http://www.eventbrite.ca](http://www.eventbrite.ca)
 - [http://www.utoronto.ca](http://www.utoronto.ca)
 
 ## Brand Guidelines
@@ -181,22 +176,3 @@ visual_term_image_urls: {}
 - The Dalla Lana School of Public Health crest wordmark should never appear smaller than the minumum size for print and digital applications, in order to ensure legibility and visual presence.
 - The size of the buffer zone for the crest version of the word mark is equal to 50% of the height of the crest. The buffer zone is always proportional to the size of the wordmark being used, and must not be altered or adjusted.
 - When using the Dalla Lana School of Public Health wordmark, it should generally be used separately from the University crest. When doing so, please ensure that both wordmark and University crest are sized appropriately in proportion to one another. The wordmark should not be so large that it dominates the University crest, and vice versa. In special situations, for example when space may be limited, the crest wordmark can be used as an alternative.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17009784) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Health Sciences Building](/headquarters_locations/health-sciences-building/) |
-| Foundation Date | [1997](/foundation_dates/1997/) |
-| Country | Canada |
-| Located In The Administrative Territorial Entity | Toronto, Ontario |
-| Inception | 1997 |
-| Coordinate Location | 43.659113, -79.392796 |
-| Ringgold Id | 274071 |
-| Headquarters Location | Health Sciences Building |
-| ‎Yale Lux Id | group/78a85226-b1b7-466c-92e3-a8d89c5c9562 |
-| Location | University of Toronto St. George |

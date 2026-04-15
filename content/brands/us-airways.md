@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-04-10T09:40:33.648214"
+date: "2026-04-15T09:21:24.593000"
 draft: false
 sectors:
   - airline
@@ -28,8 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations:
   - "arlington-county"
-  - tempe
   - "crystal-city"
+  - tempe
 subsidiaries: []
 foundation_dates:
   - 1937
@@ -84,7 +84,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Tempe](/headquarters_locations/tempe/); [Crystal City](/headquarters_locations/crystal-city/) |
+| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/); [Crystal City](/headquarters_locations/crystal-city/); [Tempe](/headquarters_locations/tempe/) |
 | Foundation Date | [1937](/foundation_dates/1937/) |
 | Airline Hub | Charlotte Douglas International Airport, Philadelphia International Airport, Phoenix Sky Harbor International Airport, Ronald Reagan Washington National Airport |
 | Item Operated | Airbus A320 family, Airbus A330, Boeing 767, Boeing 757, E-Jet (+3 more) |

@@ -2,21 +2,21 @@
 title: Cinnafilm
 slug: cinnafilm
 description: ""
-date: "2026-04-10T09:40:33.079340"
+date: "2026-04-15T09:21:24.014367"
 draft: false
 sectors:
-  - software
   - broadcasting
+  - software
 regions:
   - usa
 years:
-  - 2019
   - 2018
+  - 2019
 languages:
   - english
 tags:
-  - software
   - technology
+  - software
 industries: []
 countries: []
 revenue_buckets: []

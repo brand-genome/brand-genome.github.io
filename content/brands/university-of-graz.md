@@ -2,11 +2,11 @@
 title: University of Graz
 slug: "university-of-graz"
 description: ""
-date: "2026-04-10T09:40:30.899648"
+date: "2026-04-15T09:21:22.522133"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - austria
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - austria

@@ -2,12 +2,12 @@
 title: Club Sapphire
 slug: "club-sapphire"
 description: ""
-date: "2026-04-10T09:40:33.398985"
+date: "2026-04-15T09:21:24.330880"
 draft: false
 sectors:
-  - hospitality
   - sports
   - entertainment
+  - hospitality
 regions:
   - australia
 years:

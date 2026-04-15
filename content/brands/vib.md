@@ -2,11 +2,11 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-04-10T09:40:33.805609"
+date: "2026-04-15T09:21:24.785313"
 draft: false
 sectors:
-  - research
   - biotech
+  - research
 regions:
   - belgium
 years:

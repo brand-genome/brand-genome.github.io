@@ -2,11 +2,11 @@
 title: ITMO University
 slug: "itmo-university"
 description: ""
-date: "2026-04-10T09:40:30.593512"
+date: "2026-04-15T09:21:22.136075"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - russia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

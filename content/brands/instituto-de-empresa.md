@@ -2,11 +2,11 @@
 title: Instituto de Empresa
 slug: "instituto-de-empresa"
 description: ""
-date: "2026-04-10T09:40:33.287022"
+date: "2026-04-15T09:21:24.223746"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - spain
 years:

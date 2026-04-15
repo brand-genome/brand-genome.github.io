@@ -2,7 +2,7 @@
 title: Facsa
 slug: facsa
 description: ""
-date: "2026-04-10T09:40:30.758751"
+date: "2026-04-15T09:21:22.352353"
 draft: false
 sectors:
   - utilities
@@ -15,8 +15,7 @@ languages:
 tags:
   - corporate
 industries: []
-countries:
-  - brazil
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q56841000"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,22 +64,9 @@ visual_term_image_urls: {}
 - [https://www.facsa.com](https://www.facsa.com)
 - [https://www.aguasdeoropesa.com](https://www.aguasdeoropesa.com)
 - [http://www.facsa.com](http://www.facsa.com)
-- [http://www.iuni.com.br](http://www.iuni.com.br)
 
 ## Brand Guidelines
 
 ### 2020
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q56841000) |
-
-| Property | Value |
-|----------|-------|
-| Short Name | FACSA |
-| Country | Brazil |
-| Located In The Administrative Territorial Entity | Tangará da Serra |

@@ -2,11 +2,11 @@
 title: American Alliance of Museums
 slug: "american-alliance-of-museums"
 description: ""
-date: "2026-04-10T09:40:32.205216"
+date: "2026-04-15T09:21:23.653830"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: NSW Government
 slug: "nsw-government"
 description: ""
-date: "2026-04-10T09:40:32.137576"
+date: "2026-04-15T09:21:23.612445"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries:
   - australia

@@ -2,11 +2,11 @@
 title: Jetruby
 slug: jetruby
 description: ""
-date: "2026-04-10T09:40:30.811901"
+date: "2026-04-15T09:21:22.413874"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - usa
 years:

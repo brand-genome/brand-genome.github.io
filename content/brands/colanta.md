@@ -2,7 +2,7 @@
 title: Colanta
 slug: colanta
 description: ""
-date: "2026-04-10T09:40:30.924519"
+date: "2026-04-15T09:21:22.536216"
 draft: false
 sectors:
   - food
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://colantaeduca.com](https://colantaeduca.com)
 - [https://www.comunicacolanta.com](https://www.comunicacolanta.com)
 - [https://colanta.com](https://colanta.com)
-- [http://www.com.co](http://www.com.co)
 
 ## Brand Guidelines
 

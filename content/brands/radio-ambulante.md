@@ -2,7 +2,7 @@
 title: Radio Ambulante
 slug: "radio-ambulante"
 description: ""
-date: "2026-04-10T09:40:34.459098"
+date: "2026-04-15T09:21:25.400720"
 draft: false
 sectors:
   - broadcasting
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://radioambulante.org](https://radioambulante.org)
 - [https://radioambulante.org/en/about-us](https://radioambulante.org/en/about-us)
-- [http://www.npr.org/podcasts](http://www.npr.org/podcasts)
 
 ## Brand Guidelines
 

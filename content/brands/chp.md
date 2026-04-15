@@ -2,7 +2,7 @@
 title: CHP
 slug: chp
 description: ""
-date: "2026-04-10T09:40:32.134355"
+date: "2026-04-15T09:21:23.609901"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - community
 industries: []
-countries:
-  - france
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2012
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q52637368"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://chp.org.tr/home](https://chp.org.tr/home)
-- [http://www.corpsprefectoral.fr/comite-lhistoire-prefectorale](http://www.corpsprefectoral.fr/comite-lhistoire-prefectorale)
 
 ## Brand Guidelines
 
@@ -188,18 +184,3 @@ visual_term_image_urls: {}
 - Photography that shows visitor experiences within the context of land are encouraged.
 - Showcasing Indigenous makers creating art, food, or other experiences is encouraged.
 - Depictions of food, art, or other installations by Indigenous creators is encouraged.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q52637368) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2012](/foundation_dates/2012/) |
-| Inception | 2012 |
-| Part Of | Association du corps préfectoral et des hauts fonctionnaires du ministère de l'Intérieur |
-| Described At Url | http://signal.sciencespo-lyon.fr/article/364677/Le_comite_pour_l-histoire_prefectorale_a_ete_installe, https://www.franceculture.fr/emissions/la-fabrique-de-l-histoire/la-fabrique-de-l-histoire-vendredi-13-mai-2016, https://afhe.hypotheses.org/9910, https://www.ladepeche.fr/article-amp/2017/03/17/2537629-prefets-aveyron-jean-moulin-charles-marion.html |
-| Jorfsearch Organization Id | Q52637368 |
-| Country | France |

@@ -2,7 +2,7 @@
 title: Goat
 slug: goat
 description: ""
-date: "2026-04-10T09:40:34.421243"
+date: "2026-04-15T09:21:25.367486"
 draft: false
 sectors:
   - food
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Swedish band
-wikidata_url: "https://www.wikidata.org/wiki/Q25778"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -254,33 +254,3 @@ visual_term_image_urls: {}
 ##### Ads
 
 - The logo design allows for brand versatility in all forms of communication. The slogan can be separated from the logo to emphasize the message or the goal of the advertising material.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25778) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Artist Id | 6738d800-5160-4959-b78a-ae12c5dba3d0 |
-| Discogs Artist Id | 3129107 |
-| Genre | experimental rock |
-| Country Of Origin | Sweden |
-| Allmusic Artist Id | mn0002982460 |
-| Songkick Artist Id | 427834 |
-| Billboard Artist Id | goat |
-| Acharts.Co Artist Id | goat |
-| Start Of Work Period | 2012 |
-| Freebase Id | /m/011t0_hf |
-| Muziekweb Performer Id | M00000014379 |
-| Isni | 000000046944075X |
-| Bandcamp Profile Id | goat |
-| Rate Your Music Artist Id | goat_f6 |
-| Facebook Username | goatsweden |
-| Deezer Artist Id | 71719 |
-| Spotify Artist Id | 6jP9Z7o6WlbYvKUOeO5SbP |
-| Apple Music Artist Id | 433298894 |
-| Jaxsta Profile Id | e56782fc-e0e5-4425-aaa0-4f7a10dd2427 |
-| Bbc Things Id | 556c41f2-4651-42a3-b546-a28004bd89f9 |
-| Image | GOAT band picture.jpg |

@@ -2,7 +2,7 @@
 title: Alpha Phi Alpha
 slug: "alpha-phi-alpha"
 description: ""
-date: "2026-04-10T09:40:34.456488"
+date: "2026-04-15T09:21:25.398266"
 draft: false
 sectors:
   - ngo

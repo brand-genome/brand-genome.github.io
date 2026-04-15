@@ -2,11 +2,11 @@
 title: Viber
 slug: viber
 description: ""
-date: "2026-04-10T09:40:34.399639"
+date: "2026-04-15T09:21:25.347411"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - japan
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://www.viber.com/blog](https://www.viber.com/blog)
 - [https://www.viber.com/en/terms](https://www.viber.com/en/terms)
 - [https://www.forbusiness.viber.com/en](https://www.forbusiness.viber.com/en)
-- [http://www.viber.com/ibizarocks](http://www.viber.com/ibizarocks)
 
 ## Brand Guidelines
 

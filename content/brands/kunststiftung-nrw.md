@@ -2,7 +2,7 @@
 title: Kunststiftung NRW
 slug: "kunststiftung-nrw"
 description: ""
-date: "2026-04-10T09:40:32.078507"
+date: "2026-04-15T09:21:23.566151"
 draft: false
 sectors:
   - ngo
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kunststiftungnrw.de](https://www.kunststiftungnrw.de)
-- [http://www.choices.de](http://www.choices.de)
-- [http://www.impulsefestival.de](http://www.impulsefestival.de)
 
 ## Additional Properties
 

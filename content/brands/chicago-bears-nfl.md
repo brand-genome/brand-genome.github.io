@@ -2,7 +2,7 @@
 title: Chicago Bears – NFL
 slug: "chicago-bears-nfl"
 description: ""
-date: "2026-04-10T09:40:34.875544"
+date: "2026-04-15T09:21:25.847167"
 draft: false
 sectors:
   - sports

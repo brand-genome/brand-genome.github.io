@@ -2,12 +2,12 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-04-10T09:40:34.909055"
+date: "2026-04-15T09:21:25.877710"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - university
+  - institution
 industries: []
 countries:
   - "united-states"

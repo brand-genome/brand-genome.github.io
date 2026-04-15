@@ -2,11 +2,11 @@
 title: Deca
 slug: deca
 description: ""
-date: "2026-04-10T09:40:34.058129"
+date: "2026-04-15T09:21:24.972268"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - education
 industries: []
-countries:
-  - france
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "la-motte-servolex"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1992
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: French cycling team
-wikidata_url: "https://www.wikidata.org/wiki/Q310482"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.deca.org](https://www.deca.org)
 - [http://www.deca.org](http://www.deca.org)
 - [http://www.shopdeca.org](http://www.shopdeca.org)
-- [https://decathlonag2rlamondialeteam.com](https://decathlonag2rlamondialeteam.com)
 
 ## Brand Guidelines
 
@@ -221,38 +216,3 @@ visual_term_image_urls: {}
 - Do not redraw or change the logo typeface.
 - Do not place elements in the logo clear space.
 - Do not place in white box when on a dark background.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q310482) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [La Motte Servolex](/headquarters_locations/la-motte-servolex/) |
-| Foundation Date | [1992](/foundation_dates/1992/) |
-| Freebase Id | /m/08xrvc |
-| Image | Decathlon AG2R team at stage 3 team presentation of Itzulia Basque Country Tour 2024.jpg |
-| Topic'S Main Category | Category:Decathlon–AG2R La Mondiale |
-| Viaf Cluster Id | 129486795 |
-| Sport | road bicycle racing |
-| Inception | 1992 |
-| Country | France |
-| General Manager | Vincent Lavenu (from 1992, until 2023), Philippe Chevallier (from 2019), Dominique Serieys (from 2023) |
-| Uci Code Of Cycling Team | A2R (from 2000, until 2007), ALM (from 2008, until 2020), ACT (from 2021, until 2023), DAT (from 2024, until 2025), DCT (from 2026) |
-| Official Name | Chazal-Vanille et Mûre-Vetta (from 1992, until 1992), Chazal-Vetta (from 1993, until 1993), Chazal-MBK-König (from 1994, until 1995), Petit Casino, c'est votre équipe (from 1996, until 1996), Casino, c'est votre équipe (from 1997, until 1997) (+7 more) |
-| Head Coach | Laurent Biondi (from 1994), Didier Jannel (from 2010), Julien Jurdie (from 2006), Artūras Kasputis (from 2003), Gilles Mas (from 1997, until 2023) (+5 more) |
-| Facebook Username | DecathlonAG2RLaMondiale |
-| Procyclingstats Team Id | 1060 |
-| Bibliothèque Nationale De France Id | 16138456f |
-| Idref Id | 164079734 |
-| Category For Members Of A Team | Category:AG2R La Mondiale cyclists |
-| Social Media Followers | 109,002 (as of 2021-01-02), 90,562 (as of 2018-05-10), 116,598 (as of 2022-03-02), 120,372 (as of 2023-02-08) |
-| Headquarters Location | La Motte-Servolex |
-| Instagram Username | decathlonag2rlamondiale |
-| X (Twitter) Username | decathlonAG2RLM (from 2009-06-19) |
-| Child Organization Or Unit | Decathlon CMA CGM Development Team |
-| Sponsor | AG2R La Mondiale (from 1997, until 2025), Citroën (from 2021, until 2023), Decathlon (from 2024), CMA CGM (from 2026), Le Petit Casino (from 1996, until 1999) |
-| Vehicle Normally Used | BMC Switzerland (from 2021, until 2023), Van Rysel (from 2024), Eddy Merckx (from 2019, until 2020), Factor Bikes (until 2018) |
-| Has Part(S) | Chazal-Vanille et Mûre-Vetta 1992, Chazal-Vetta 1993, Chazal-MBK-König 1994, Chazal-MBK-König 1995, Petit Casino 1996 (+30 more) |

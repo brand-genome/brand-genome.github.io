@@ -2,7 +2,7 @@
 title: The British Museum
 slug: "the-british-museum"
 description: ""
-date: "2026-04-10T09:40:34.892817"
+date: "2026-04-15T09:21:25.862516"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - art
   - museum
   - cultural
-  - art
 industries: []
 countries:
   - "united-kingdom"

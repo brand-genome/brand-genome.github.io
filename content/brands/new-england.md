@@ -2,7 +2,7 @@
 title: New England
 slug: "new-england"
 description: ""
-date: "2026-04-10T09:40:33.212711"
+date: "2026-04-15T09:21:24.158884"
 draft: false
 sectors:
   - "real-estate"
@@ -14,27 +14,21 @@ languages:
   - russian
 tags:
   - "real-estate"
-industries:
-  - "higher-education"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "100-1K"
-total_assets_buckets:
-  - "100M-500M"
+employees_buckets: []
+total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1867
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: oldest independent school of music in the United States
-wikidata_url: "https://www.wikidata.org/wiki/Q1347162"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,80 +62,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://new-england.com.ua](https://new-england.com.ua)
-- [http://necmusic.edu](http://necmusic.edu)
 
 ## Brand Guidelines
 
 ### 2008
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1347162) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1867](/foundation_dates/1867/) |
-| Nrhp Reference Number | 80000672 |
-| Coordinate Location | 42.34111111111111, -71.08638888888889 |
-| Country | United States |
-| Located In The Administrative Territorial Entity | Boston |
-| Topic'S Main Category | Category:New England Conservatory |
-| Freebase Id | /m/031n8c |
-| Heritage Designation | National Historic Landmark (from 1994-04-19), National Register of Historic Places listed place (from 1980-05-14) |
-| Viaf Cluster Id | 167580015 |
-| Integrated Postsecondary Education Data System Id | 167057 |
-| Inception | 1867 |
-| Postal Code | 02115-5018 |
-| Image | Huntington Ave Boston.jpg |
-| Carnegie Classification Of Institutions Of Higher Education | special focus four-year: arts, music and design schools, majority undergraduate, research doctoral: single program - other, four-year, very small, primarily residential, arts & sciences focus, high graduate coexistence (+1 more) |
-| Isni | 000000012116159X |
-| Ringgold Id | 1847 |
-| Quora Topic Id | New-England-Conservatory-of-Music, New-England-Conservatory |
-| Encyclopædia Britannica Online Id | topic/New-England-Conservatory-of-Music |
-| Snac Ark Id | w6gt9cjk |
-| Category For Alumni Of Educational Institution | Category:New England Conservatory alumni |
-| Category For Employees Of The Organization | Category:New England Conservatory faculty |
-| Grid Id | grid.447275.7 |
-| Nl Cr Aut Id | ko2007416951 |
-| Musicbrainz Place Id | b7a3fa7d-f4e1-423c-841b-10e1272bc6a3 |
-| Microsoft Academic Id (Discontinued) | 90488548 |
-| Street Address | 290 Huntington Ave, Boston, MA, 02115-5018 |
-| Library Of Congress Authority Id | n84162636 |
-| Ror Id | 04v5m9m10 |
-| Gnd Id | 5106811-4 |
-| X (Twitter) Username | necmusic (as of 2020-04-22, from 2009-04-22) |
-| Macris Id | BOS.7490 |
-| Continent | North America |
-| Count Of Students | 750 |
-| Social Media Followers | 6,322 (as of 2021-01-02), 6,190 (as of 2020-04-22) |
-| Crunchbase Organization Id | the-new-england-conservatory-of-music |
-| National Library Of Israel J9U Id | 987007601320505171 |
-| Endowment | 119,213,753 United States dollar (as of 2020-06-30) |
-| Admission Rate | 0 (as of 2020) |
-| Admission Yield Rate | 0 (as of 2020) |
-| Openalex Id | I90488548 |
-| Native Label | New England Conservatory of Music |
-| Academic Calendar Type | semester |
-| Sevis School Id | 530 |
-| Snarc Id | Q103459 |
-| Industry | higher education |
-| Tiktok Username | new_england_conservatory |
-| Facebook Username | necmusic |
-| ‎Yale Lux Id | group/303d4bac-6844-4c38-a1a7-2a4c37f34e49 |
-| World Higher Education Database Id | IAU-012618 |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 595 | as of 2020-09 | [100-1K](/employees_buckets/100-1k/) |
-
-### Total Assets History
-
-| Total Assets ($) | Year information | Bucket |
-|---|---|---|
-| $251.41M | as of 2020-06-30 | [100M-500M](/total_assets_buckets/100m-500m/) |

@@ -2,11 +2,11 @@
 title: Harmony
 slug: harmony
 description: ""
-date: "2026-04-10T09:40:33.358360"
+date: "2026-04-15T09:21:24.293241"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - usa
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: process by which individual sounds are joined together or composed into whole units or compositions
-wikidata_url: "https://www.wikidata.org/wiki/Q184421"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -193,54 +193,3 @@ visual_term_image_urls: {}
 - The picture should feature a clean, modern design emphasizing themes of harmony and unity. It should include a soft, light background with a subtle gradient or blurred landscape suggesting a peaceful outdoor scene, such as a calm lake, trees, and sky at dawn or dusk. In the foreground, there should be an overlapping circular element outlined in a light blue hue, with the word 'Harmony' prominently displayed in the center in clear, blue text. Beneath 'Harmony,' the phrase 'For One and All' should be written in a slightly smaller font. The overall composition should evoke serenity, inclusiveness, and balance. Additional elements could include faint silhouettes of people symbolizing community or unity, integrated seamlessly into the background, enhancing the message without cluttering the design.
 - The image should feature a circular design with a clean, modern aesthetic. The background inside the circle is white. The border of the circle transitions in a gradient from light blue on the left to light green on the right, giving a soft, appealing gradient effect. The word 'Brilliant' is prominently placed near the top of the circle in a large, bold, and bright blue font. Below this, the sentence 'Our vision, skills, and proven expertise light the way forward.' is centered in a smaller, gray font. The entire layout is minimalistic, emphasizing clarity and professionalism, suitable for a corporate or motivational message.
 - The image should feature a large, circular design with a subtle gradient outline transitioning from light blue at the bottom left to light green at the top right. Inside the circle, centered both horizontally and vertically, the word 'Compassionate' should be prominently displayed in bold, blue-colored text at the top. Beneath this, in smaller, regular gray font, the phrase 'We seek well-being for every person on Earth' should be clearly legible. The background behind the circle should be plain white, emphasizing the circular element and the textual content inside it. The overall design should evoke a calm, inclusive, and caring atmosphere, aligning with the message of compassion and well-being.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q184421) |
-
-| Property | Value |
-|----------|-------|
-| Bncf Thesaurus Id | 2415 |
-| Topic'S Main Category | Category:Harmony |
-| Ndl Authority Id | 00574160 |
-| Freebase Id | /m/0b128 |
-| Gnd Id | 4129030-6 |
-| Image | Antiparallele.JPG |
-| Psh Id | 11864 |
-| Great Russian Encyclopedia Online Id (2017) | 2345021 |
-| Quora Topic Id | Harmony-music |
-| Described By Source | Brockhaus and Efron Encyclopedic Dictionary, Encyclopædia Britannica 11th edition, Collier's New Encyclopedia, 1921, Great Soviet Encyclopedia (1926–1947) |
-| Catholic Encyclopedia Id | 07139a |
-| Babelnet Id | 00043029n |
-| Encyclopædia Universalis Id | harmonie |
-| Encyclopædia Britannica Online Id | art/harmony-music, topic/harmony-linguistics, art/harmonia-music |
-| Different From | melody |
-| Microsoft Academic Id (Discontinued) | 89721942 |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0113556 |
-| Australian Educational Vocabulary Id | scot/3061 |
-| Österreichisches Musiklexikon Online Id | H/Harmonielehre |
-| Library Of Congress Authority Id | sh85058940 |
-| Bibliothèque Nationale De France Id | 11948111j |
-| National Library Of Spain Spmabn Id (Bne V1.0) | XX524741 |
-| Opposite Of | disharmony |
-| National Library Of Israel J9U Id | 987007550735505171 |
-| Openalex Id | C89721942 |
-| Krugosvet Article (Archived) | kultura_i_obrazovanie/muzyka/GARMONIYA.html |
-| Wordnet 3.1 Synset Id | 07040667-n |
-| Nl Cr Aut Id | ph120903 |
-| Online Pwn Encyclopedia Id | 4011181 |
-| Golden Id | Harmony-XK65Z |
-| On Focus List Of Wikimedia Project | Wikipedia:Vital articles/Level/4 (as of 2022-10-31) |
-| Subclass Of | elements of music |
-| Bbc Things Id | a795cfd3-f47e-4de2-abf5-1ffbd8e0810c |
-| Encyclopedia Of China (Third Edition) Id | 529957 |
-| Name | Wohlklang |
-| Part Of |  |
-| Gran Enciclopèdia Catalana Id | harmonia-5 |
-| Google Knowledge Graph Id | /g/11bc5tf0qs |
-| Tubitak Sosyal Bilimler Ansiklopedisi Id | ahenk |
-| ‎Yale Lux Id | concept/52658a9f-ef6b-4054-a643-81b97f2f871c |
-| Dewey Decimal Classification | 781.25 |
-| Arab Encyclopedia Concept Id | 572 |

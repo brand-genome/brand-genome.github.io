@@ -2,11 +2,11 @@
 title: Arizona Christian University Athletic
 slug: "arizona-christian-university-athletic"
 description: ""
-date: "2026-04-10T09:40:32.693630"
+date: "2026-04-15T09:21:23.832496"
 draft: false
 sectors:
-  - sports
   - university
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - university
+  - sport
 industries: []
 countries:
   - "united-states"

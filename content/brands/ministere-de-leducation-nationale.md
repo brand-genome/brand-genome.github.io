@@ -2,7 +2,7 @@
 title: Ministère de l’Éducation Nationale
 slug: "ministere-de-leducation-nationale"
 description: ""
-date: "2026-04-10T09:40:34.713965"
+date: "2026-04-15T09:21:25.696125"
 draft: false
 sectors:
   - "public-sector"

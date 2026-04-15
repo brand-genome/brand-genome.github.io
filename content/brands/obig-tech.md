@@ -2,11 +2,11 @@
 title: Obig Tech
 slug: "obig-tech"
 description: ""
-date: "2026-04-10T09:40:32.622054"
+date: "2026-04-15T09:21:23.807924"
 draft: false
 sectors:
-  - software
   - "design-creative"
+  - software
 regions:
   - nigeria
 years:

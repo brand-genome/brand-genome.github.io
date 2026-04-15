@@ -2,11 +2,11 @@
 title: Islamic University of Madinah
 slug: "islamic-university-of-madinah"
 description: ""
-date: "2026-04-10T09:40:33.074665"
+date: "2026-04-15T09:21:24.009631"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "saudi-arabia"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "saudi-arabia"

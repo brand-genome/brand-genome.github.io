@@ -2,7 +2,7 @@
 title: Interreg Europe
 slug: "interreg-europe"
 description: ""
-date: "2026-04-10T09:40:33.833210"
+date: "2026-04-15T09:21:24.811367"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 - [https://www.interregeurope.eu](https://www.interregeurope.eu)
 - [https://www.interregeurope.eu/about-us/logo](https://www.interregeurope.eu/about-us/logo)
 - [https://interreg.eu/programmes/interreg-europe](https://interreg.eu/programmes/interreg-europe)
-- [http://www.google.com/drive](http://www.google.com/drive)
 
 ## Brand Guidelines
 

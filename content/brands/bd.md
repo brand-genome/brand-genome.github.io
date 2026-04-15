@@ -2,11 +2,11 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-04-10T09:40:33.320099"
+date: "2026-04-15T09:21:24.255807"
 draft: false
 sectors:
-  - hardware
   - construction
+  - hardware
 regions:
   - australia
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - security
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "aichi-prefecture"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1985
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Japanese drug store
-wikidata_url: "https://www.wikidata.org/wiki/Q11331216"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bnd.com.au](https://www.bnd.com.au)
-- [https://www.bd-drug.com](https://www.bd-drug.com)
 
 ## Brand Guidelines
 
@@ -547,23 +542,3 @@ visual_term_image_urls: {}
 - La charte doit etre appliquee lors de chacune de nos prises de parole (stands grand public, espaces RP), tout en integrant nos outils identitaires dans les creations :Brand Flag, Bloc Marque, Bloc Logo.
 - Attention: il est imperatif de toujours associer We Are Tennis a la marque BNP Paribas (ou a la marque locale).
 - Principe du Bloc Marque il doit etre applique en tenant compte des contraintes terrain (couleurs, positionnement des juges de lignes, des cameras...). En fonction de la hauteur de la bache, on y ajoutera des petits «BNP Paribas » en rappel de marque, afin d'assurer la visibilite sur les plans serres, ou la signature si besoin de preciser l'activite (pays ou BNP Paribas est peu connu).
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11331216) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Aichi Prefecture](/headquarters_locations/aichi-prefecture/) |
-| Foundation Date | [1985](/foundation_dates/1985/) |
-| Headquarters Location | Aichi Prefecture |
-| Inception | 1985-08 |
-| Isni | 0000000464641229 |
-| Viaf Cluster Id | 1466152140021511100009 |
-| Image | B&D Drugstore Headquarter 20161116.jpg |
-| Google Knowledge Graph Id | /g/1232c4zm |
-| Corporate Number (Japan) | 6180001013242 |
-| Country | Japan |
-| Opencorporates Id | jp/6180001013242 |

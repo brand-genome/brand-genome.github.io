@@ -2,11 +2,11 @@
 title: TradeMark East Africa
 slug: "trademark-east-africa"
 description: ""
-date: "2026-04-10T09:40:33.312721"
+date: "2026-04-15T09:21:24.248500"
 draft: false
 sectors:
-  - ngo
   - consulting
+  - ngo
 regions:
   - international
 years:

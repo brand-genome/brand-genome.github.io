@@ -2,12 +2,12 @@
 title: Starbucks Coffee Company
 slug: "starbucks-coffee-company"
 description: ""
-date: "2026-04-10T09:40:32.486665"
+date: "2026-04-15T09:21:23.698238"
 draft: false
 sectors:
   - drink
-  - restaurant
   - food
+  - restaurant
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
   - vintage
 industries:
   - "coffee-industry"

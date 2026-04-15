@@ -2,7 +2,7 @@
 title: Environmental Defense Fund
 slug: "environmental-defense-fund"
 description: ""
-date: "2026-04-10T09:40:32.817509"
+date: "2026-04-15T09:21:23.867777"
 draft: false
 sectors:
   - ngo

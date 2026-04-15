@@ -2,12 +2,12 @@
 title: Bytes
 slug: bytes
 description: ""
-date: "2026-04-10T09:40:30.571199"
+date: "2026-04-15T09:21:22.100695"
 draft: false
 sectors:
-  - software
-  - "design-creative"
   - "marketing-advertising"
+  - "design-creative"
+  - software
 regions:
   - bulgaria
 years:
@@ -53,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: British company
-wikidata_url: "https://www.wikidata.org/wiki/Q106010642"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0

@@ -2,11 +2,11 @@
 title: Pure Michigan
 slug: "pure-michigan"
 description: ""
-date: "2026-04-10T09:40:34.698082"
+date: "2026-04-15T09:21:25.683151"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: "Kent Fire & Rescue Service"
 slug: "kent-fire-rescue-service"
 description: ""
-date: "2026-04-10T09:40:30.903841"
+date: "2026-04-15T09:21:22.524308"
 draft: false
 sectors:
   - "public-sector"

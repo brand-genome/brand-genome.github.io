@@ -2,7 +2,7 @@
 title: Pépite France
 slug: "pepite-france"
 description: ""
-date: "2026-04-10T09:40:31.577231"
+date: "2026-04-15T09:21:23.215728"
 draft: false
 sectors:
   - education

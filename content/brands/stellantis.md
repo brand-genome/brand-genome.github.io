@@ -2,7 +2,7 @@
 title: Stellantis
 slug: stellantis
 description: ""
-date: "2026-04-10T09:40:33.033094"
+date: "2026-04-15T09:21:23.977672"
 draft: false
 sectors:
   - automobile
@@ -33,10 +33,10 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - truck
-  - "utility-vehicle"
   - car
+  - "utility-vehicle"
   - "commercial-vehicle"
+  - truck
   - "automotive-part"
 products: []
 headquarters_locations:
@@ -94,7 +94,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Car](/products_or_materials_produced/car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Utility Vehicle](/products_or_materials_produced/utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Truck](/products_or_materials_produced/truck/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
 | Headquarters Location | [Amsterdam](/headquarters_locations/amsterdam/) |
 | Foundation Date | [2021](/foundation_dates/2021/) |
 | Industry | automotive industry |

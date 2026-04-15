@@ -2,7 +2,7 @@
 title: Sangoma
 slug: sangoma
 description: ""
-date: "2026-04-10T09:40:34.291443"
+date: "2026-04-15T09:21:25.194801"
 draft: false
 sectors:
   - software

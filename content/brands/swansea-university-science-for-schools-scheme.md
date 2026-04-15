@@ -2,11 +2,11 @@
 title: Swansea University Science for Schools Scheme
 slug: "swansea-university-science-for-schools-scheme"
 description: ""
-date: "2026-04-10T09:40:32.577637"
+date: "2026-04-15T09:21:23.777145"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
   - science
+  - education
 industries: []
 countries: []
 revenue_buckets: []

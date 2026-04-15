@@ -2,11 +2,11 @@
 title: Shaping Futures
 slug: "shaping-futures"
 description: ""
-date: "2026-04-10T09:40:32.009035"
+date: "2026-04-15T09:21:23.432658"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - education
+  - ngo
 industries: []
 countries: []
 revenue_buckets: []

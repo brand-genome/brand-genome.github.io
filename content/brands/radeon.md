@@ -2,11 +2,11 @@
 title: Radeon
 slug: radeon
 description: ""
-date: "2026-04-10T09:40:34.874722"
+date: "2026-04-15T09:21:25.846302"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:

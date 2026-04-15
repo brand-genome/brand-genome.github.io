@@ -2,11 +2,11 @@
 title: Wentworth Institute of Technology
 slug: "wentworth-institute-of-technology"
 description: ""
-date: "2026-04-10T09:40:30.980289"
+date: "2026-04-15T09:21:22.598098"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 
 - [https://wit.edu](https://wit.edu)
 - [https://catalog.wit.edu](https://catalog.wit.edu)
-- [http://www.google.com?query=ibm+plex](http://www.google.com?query=ibm+plex)
 - [http://www.wit.edu](http://www.wit.edu)
 
 ## Additional Properties

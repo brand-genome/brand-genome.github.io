@@ -2,11 +2,11 @@
 title: Fortyfive Downstairs
 slug: "fortyfive-downstairs"
 description: ""
-date: "2026-04-10T09:40:32.808727"
+date: "2026-04-15T09:21:23.862586"
 draft: false
 sectors:
-  - "arts-culture"
   - entertainment
+  - "arts-culture"
 regions:
   - australia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - theater
   - featured
+  - theater
 industries: []
 countries: []
 revenue_buckets: []

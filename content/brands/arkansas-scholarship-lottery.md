@@ -2,7 +2,7 @@
 title: Arkansas Scholarship Lottery
 slug: "arkansas-scholarship-lottery"
 description: ""
-date: "2026-04-10T09:40:33.615895"
+date: "2026-04-15T09:21:24.555783"
 draft: false
 sectors:
   - "public-sector"

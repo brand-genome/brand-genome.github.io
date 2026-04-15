@@ -2,11 +2,11 @@
 title: GameSparks
 slug: gamesparks
 description: ""
-date: "2026-04-10T09:40:34.387135"
+date: "2026-04-15T09:21:25.337047"
 draft: false
 sectors:
-  - software
   - gaming
+  - software
 regions:
   - ireland
 years:

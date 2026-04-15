@@ -2,11 +2,11 @@
 title: Prince Edward County
 slug: "prince-edward-county"
 description: ""
-date: "2026-04-10T09:40:33.787607"
+date: "2026-04-15T09:21:24.765973"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - canada
 years:

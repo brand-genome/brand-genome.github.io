@@ -2,7 +2,7 @@
 title: Life
 slug: life
 description: ""
-date: "2026-04-10T09:40:33.385178"
+date: "2026-04-15T09:21:24.317858"
 draft: false
 sectors:
   - "arts-culture"
@@ -15,31 +15,23 @@ languages:
   - english
 tags:
   - featured
-  - media
   - magazine
-industries:
-  - conglomerate
-countries:
-  - "south-korea"
-revenue_buckets:
-  - "UNDER-1M"
+  - media
+industries: []
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "100K-500K"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "home-appliance"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - seoul
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1947
-foundation_year_buckets:
-  - 1940S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -61,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: South Korean multinational conglomerate
-wikidata_url: "https://www.wikidata.org/wiki/Q136778"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -74,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.life.com](https://www.life.com)
 - [https://www.life.com/life-picture-collection](https://www.life.com/life-picture-collection)
-- [https://lg.com](https://lg.com)
 
 ## Brand Guidelines
 
@@ -231,66 +222,3 @@ visual_term_image_urls: {}
 ##### Filmstrip
 
 - The filmstrip is a graphic element that helps bring our design elements together and creates a unique identifier for our brand. The filmstrip is used to capture moments in time and to tell customer stories. A single picture represents a single moment, while an additional photograph can tell a broader story. The pairing of images creates a unique photographic approach that reinforces our core brand idea of being a trusted partner for our customers. The filmstrip images can feature color overlays to connect to our core brand palette.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q136778) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Home Appliance](/products_or_materials_produced/home-appliance/) |
-| Headquarters Location | [Seoul](/headquarters_locations/seoul/) |
-| Foundation Date | [1947](/foundation_dates/1947/) |
-| Topic'S Main Category | Category:LG Corporation |
-| Child Organization Or Unit | LG Electronics, LG Uplus, LG Chem, LG Household & Health Care, LG CNS (+1 more) |
-| Freebase Id | /m/04k024 |
-| Musicbrainz Label Id | b39a127b-383e-4306-a81d-ee52d03d6ddb |
-| Isin | KR7003551009 |
-| Headquarters Location | Seoul |
-| Inception | 1947-01-05 |
-| Legal Form | joint-stock company |
-| X (Twitter) Username | LGtalks (as of 2018-05-10, from 2011-12-02) |
-| Facebook Username | LGtalks, lg_global |
-| Encyclopædia Britannica Online Id | topic/LG |
-| Isni | 0000000406363224 |
-| Quora Topic Id | LG-company |
-| Motto Text | Life’s Good |
-| Country | South Korea |
-| The Times Of India Topic Id | LG |
-| Open Funder Registry Funder Id | 501100004118 |
-| Mac Address Block Large Id | 001256, 0019A1, 0050CE |
-| Founded By | Koo In-hwoi |
-| Grid Id | grid.464630.3 |
-| Industry | conglomerate |
-| Owner Of | LG Electronics, Zenith Electronics, LG Display, LG Uplus, G2R (+1 more) |
-| Ror Id | 03ddh2c27 |
-| Ringgold Id | 54676 |
-| Manualslib Brand Id | lg |
-| Product Or Material Produced | home appliance |
-| Social Media Followers | 7,882 (as of 2021-01-04), 9,245 (as of 2018-05-10) |
-| Icon | LG symbol.svg |
-| Weibo User Id | lglife |
-| Encyclopedia Of Korean Culture Id | E0036271 |
-| Aparat Channel Id | lg |
-| Youtube Handle | LGETaiwan |
-| Stock Exchange | Korean Stock Exchange |
-| Owned By | National Pension Service, Mirae Asset Group |
-| France 24 Topic Id (French) | lg |
-| Hankook Ilbo Tag Id | ef73d72e-d4ec-42d4-8504-b16921663c13 |
-| Domain Name | lg.com |
-| Image | Yeouido Park (여의도공원) 2013178 002 원경2 resize.jpg |
-| Pnp Vendor Id | GSM |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $83.00 | as of 2023 | [UNDER-1M](/revenue_buckets/under-1m/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 222,000 | as of 2023 | [100K-500K](/employees_buckets/100k-500k/) |

@@ -2,7 +2,7 @@
 title: AB Tasty
 slug: "ab-tasty"
 description: ""
-date: "2026-04-10T09:40:30.665747"
+date: "2026-04-15T09:21:22.230523"
 draft: false
 sectors:
   - software

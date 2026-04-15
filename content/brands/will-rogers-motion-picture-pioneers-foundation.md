@@ -2,11 +2,11 @@
 title: Will Rogers Motion Picture Pioneers Foundation
 slug: "will-rogers-motion-picture-pioneers-foundation"
 description: ""
-date: "2026-04-10T09:40:30.591427"
+date: "2026-04-15T09:21:22.133189"
 draft: false
 sectors:
-  - "arts-culture"
   - healthcare
+  - "arts-culture"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - entertainment
   - art
+  - entertainment
 industries: []
 countries:
   - "united-states"

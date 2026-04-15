@@ -2,7 +2,7 @@
 title: Meeyas
 slug: meeyas
 description: ""
-date: "2026-04-10T09:40:30.809538"
+date: "2026-04-15T09:21:22.412179"
 draft: false
 sectors:
   - jewellery

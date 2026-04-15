@@ -2,11 +2,11 @@
 title: Snapchat
 slug: snapchat
 description: ""
-date: "2026-04-10T09:40:33.277049"
+date: "2026-04-15T09:21:24.214561"
 draft: false
 sectors:
-  - software
   - "social-media"
+  - software
 regions:
   - usa
 years:

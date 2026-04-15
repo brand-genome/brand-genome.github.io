@@ -2,11 +2,11 @@
 title: IIBA
 slug: iiba
 description: ""
-date: "2026-04-10T09:40:34.493702"
+date: "2026-04-15T09:21:25.430066"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - canada
 years:

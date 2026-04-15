@@ -2,7 +2,7 @@
 title: EEA Grants
 slug: "eea-grants"
 description: ""
-date: "2026-04-10T09:40:34.691163"
+date: "2026-04-15T09:21:25.679136"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-04-10T09:40:34.256980"
+date: "2026-04-15T09:21:25.174363"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - university
+  - "e-learning-edtech"
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - spain
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - logrono
   - madrid
+  - logrono
 subsidiaries: []
 foundation_dates:
   - 2008
@@ -85,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Logrono](/headquarters_locations/logrono/); [Madrid](/headquarters_locations/madrid/) |
+| Headquarters Location | [Madrid](/headquarters_locations/madrid/); [Logrono](/headquarters_locations/logrono/) |
 | Foundation Date | [2008](/foundation_dates/2008/) |
 | Gnd Id | 1031961895 |
 | Country | Spain |

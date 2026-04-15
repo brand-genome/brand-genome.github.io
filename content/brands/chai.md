@@ -2,11 +2,11 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-04-10T09:40:30.927414"
+date: "2026-04-15T09:21:22.537891"
 draft: false
 sectors:
-  - software
   - insurance
+  - software
 regions:
   - "united-kingdom"
 years:
@@ -15,24 +15,18 @@ languages:
   - english
 tags:
   - software
-industries:
-  - "artificial-intelligence"
-  - "information-technology-industry"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "UNDER-100"
+employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "artificial-intelligence"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "palo-alto"
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American artificial intelligence corporation
-wikidata_url: "https://www.wikidata.org/wiki/Q131362989"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,7 +65,6 @@ visual_term_image_urls: {}
 - [https://chaipredict.com](https://chaipredict.com)
 - [https://login.chaipredict.com](https://login.chaipredict.com)
 - [https://intel.chaipredict.com](https://intel.chaipredict.com)
-- [https://chai-research.com](https://chai-research.com)
 
 ## Brand Guidelines
 
@@ -350,33 +343,3 @@ visual_term_image_urls: {}
 - Please use the Google Slides template whenever creating brand presentations.
 - These are examples of how to use the ChAI brand across roller banners for any events or exhibitions.
 - Please use supplied templates when creating any Case Study or White Paper documents to ensure consistency.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q131362989) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Artificial Intelligence](/products_or_materials_produced/artificial-intelligence/) |
-| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
-| Google Knowledge Graph Id | /g/11nxv08p_7 |
-| Industry | artificial intelligence, information technology industry |
-| Country | United States |
-| Headquarters Location | Palo Alto |
-| Linkedin Company Or Organization Id | chai-research |
-| Social Media Followers | 159,900 (as of 2024-11-30) |
-| X (Twitter) Username | chai_research (from 2023-05-08), chai_research |
-| Native Label | CHAI |
-| Field Of Work | artificial intelligence |
-| Founded By | William R. G. Beauchamp |
-| Product Or Material Produced | artificial intelligence |
-| Investor | CoreWeave |
-| Subreddit | ChaiApp |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 15 | as of 2025 | [UNDER-100](/employees_buckets/under-100/) |

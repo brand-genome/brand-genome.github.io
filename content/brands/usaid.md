@@ -2,21 +2,21 @@
 title: USAID
 slug: usaid
 description: ""
-date: "2026-04-10T09:40:33.123958"
+date: "2026-04-15T09:21:24.057355"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - usa
 years:
-  - 2020
   - 2008
+  - 2020
   - 2004
 languages:
   - english
 tags:
-  - ngo
   - social
+  - ngo
 industries: []
 countries:
   - "united-states"

@@ -2,7 +2,7 @@
 title: United Kingdom Accreditation Service
 slug: "united-kingdom-accreditation-service"
 description: ""
-date: "2026-04-10T09:40:33.037864"
+date: "2026-04-15T09:21:23.981547"
 draft: false
 sectors:
   - "public-sector"

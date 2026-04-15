@@ -2,11 +2,11 @@
 title: Boise Cascade
 slug: "boise-cascade"
 description: ""
-date: "2026-04-10T09:40:32.689013"
+date: "2026-04-15T09:21:23.831253"
 draft: false
 sectors:
-  - "forestry-timber"
   - construction
+  - "forestry-timber"
 regions:
   - usa
 years:

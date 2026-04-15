@@ -2,7 +2,7 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-04-10T09:40:34.641821"
+date: "2026-04-15T09:21:25.634919"
 draft: false
 sectors:
   - broadcasting
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - featured
   - broadcast
+  - featured
 industries: []
 countries:
   - qatar

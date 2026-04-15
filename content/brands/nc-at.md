@@ -2,11 +2,11 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-04-10T09:40:33.273257"
+date: "2026-04-15T09:21:24.211271"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

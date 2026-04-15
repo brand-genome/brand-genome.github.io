@@ -2,11 +2,11 @@
 title: Norton Life Lock
 slug: "norton-life-lock"
 description: ""
-date: "2026-04-10T09:40:33.305248"
+date: "2026-04-15T09:21:24.241541"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - security
   - technology
+  - security
 industries: []
 countries: []
 revenue_buckets: []

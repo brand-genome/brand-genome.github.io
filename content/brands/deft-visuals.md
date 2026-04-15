@@ -2,11 +2,11 @@
 title: Deft Visuals
 slug: "deft-visuals"
 description: ""
-date: "2026-04-10T09:40:32.540806"
+date: "2026-04-15T09:21:23.740989"
 draft: false
 sectors:
-  - "design-creative"
   - "marketing-advertising"
+  - "design-creative"
 regions:
   - "united-kingdom"
 years:

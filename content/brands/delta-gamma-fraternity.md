@@ -2,11 +2,11 @@
 title: Delta Gamma Fraternity
 slug: "delta-gamma-fraternity"
 description: ""
-date: "2026-04-10T09:40:34.013237"
+date: "2026-04-15T09:21:24.932975"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

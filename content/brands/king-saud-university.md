@@ -2,11 +2,11 @@
 title: King Saud University
 slug: "king-saud-university"
 description: ""
-date: "2026-04-10T09:40:33.146192"
+date: "2026-04-15T09:21:24.075887"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "saudi-arabia"
 years:
@@ -16,8 +16,8 @@ languages:
   - english
   - arabic
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "saudi-arabia"

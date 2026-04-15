@@ -2,11 +2,11 @@
 title: Unity Group
 slug: "unity-group"
 description: ""
-date: "2026-04-10T09:40:33.058647"
+date: "2026-04-15T09:21:24.000327"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - poland
 years:

@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-04-10T09:40:34.410497"
+date: "2026-04-15T09:21:25.358144"
 draft: false
 sectors:
   - publishing
@@ -32,8 +32,8 @@ foundation_dates:
   - 1867
   - 1982
 foundation_year_buckets:
-  - "19TH-CENTURY"
   - 1980S
+  - "19TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []

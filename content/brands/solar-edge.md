@@ -2,12 +2,12 @@
 title: Solar Edge
 slug: "solar-edge"
 description: ""
-date: "2026-04-10T09:40:34.004381"
+date: "2026-04-15T09:21:24.925632"
 draft: false
 sectors:
-  - hardware
-  - software
   - "renewable-energy"
+  - software
+  - hardware
 regions:
   - israel
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.solaredge.com](https://www.solaredge.com)
 - [https://www.solaredge.com/us](https://www.solaredge.com/us)
 - [https://monitoring.solaredge.com](https://monitoring.solaredge.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
 
 ## Brand Guidelines
 

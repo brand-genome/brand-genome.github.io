@@ -2,7 +2,7 @@
 title: Fondos Europeos
 slug: "fondos-europeos"
 description: ""
-date: "2026-04-10T09:40:30.746131"
+date: "2026-04-15T09:21:22.339717"
 draft: false
 sectors:
   - "public-sector"

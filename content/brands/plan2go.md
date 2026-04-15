@@ -2,11 +2,11 @@
 title: Plan2go
 slug: plan2go
 description: ""
-date: "2026-04-10T09:40:33.656640"
+date: "2026-04-15T09:21:24.599831"
 draft: false
 sectors:
-  - software
   - travel
+  - software
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: "T-Mobile"
 slug: "t-mobile"
 description: ""
-date: "2026-04-10T09:40:32.105092"
+date: "2026-04-15T09:21:23.590919"
 draft: false
 sectors:
   - telecom

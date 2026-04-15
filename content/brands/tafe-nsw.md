@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-04-10T09:40:32.665883"
+date: "2026-04-15T09:21:23.826760"
 draft: false
 sectors:
   - education
@@ -65,9 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tafensw.edu.au](https://www.tafensw.edu.au)
-- [http://www.nike.com](http://www.nike.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [http://www.zendesk.com](http://www.zendesk.com)
 
 ## Brand Guidelines
 

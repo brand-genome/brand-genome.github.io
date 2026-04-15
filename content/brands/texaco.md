@@ -2,11 +2,11 @@
 title: Texaco
 slug: texaco
 description: ""
-date: "2026-04-10T09:40:30.936045"
+date: "2026-04-15T09:21:22.546443"
 draft: false
 sectors:
-  - "petrol-station"
   - oil
+  - "petrol-station"
 regions:
   - usa
 years:

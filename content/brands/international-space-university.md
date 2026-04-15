@@ -2,7 +2,7 @@
 title: International Space University
 slug: "international-space-university"
 description: ""
-date: "2026-04-10T09:40:34.483532"
+date: "2026-04-15T09:21:25.421101"
 draft: false
 sectors:
   - university

@@ -2,11 +2,11 @@
 title: Brooklyn College
 slug: "brooklyn-college"
 description: ""
-date: "2026-04-10T09:40:34.463317"
+date: "2026-04-15T09:21:25.404206"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 - [https://students.brooklyn.edu/portal](https://students.brooklyn.edu/portal)
 - [https://www.brooklyn.cuny.edu/portal/app](https://www.brooklyn.cuny.edu/portal/app)
 - [https://www.cuny.edu/schools/brooklyn-college](https://www.cuny.edu/schools/brooklyn-college)
-- [http://www.cuny.edu](http://www.cuny.edu)
-- [http://www.instagram.com](http://www.instagram.com)
 
 ## Brand Guidelines
 

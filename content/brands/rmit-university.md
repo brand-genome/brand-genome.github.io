@@ -2,7 +2,7 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-04-10T09:40:31.466629"
+date: "2026-04-15T09:21:23.123039"
 draft: false
 sectors:
   - university
@@ -15,10 +15,10 @@ years:
 languages:
   - english
 tags:
-  - signage
+  - university
   - featured
   - education
-  - university
+  - signage
 industries: []
 countries:
   - australia
@@ -73,8 +73,6 @@ visual_term_image_urls: {}
 
 - [https://www.rmit.edu.au](https://www.rmit.edu.au)
 - [https://rmit.com.vn](https://rmit.com.vn)
-- [http://www.myfonts.com](http://www.myfonts.com)
-- [http://www.myfonts.com/fonts/linotype/frutiger](http://www.myfonts.com/fonts/linotype/frutiger)
 
 ## Brand Guidelines
 

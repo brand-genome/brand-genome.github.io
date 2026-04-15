@@ -2,11 +2,11 @@
 title: Universidade de Brasília
 slug: "universidade-de-brasilia"
 description: ""
-date: "2026-04-10T09:40:30.565701"
+date: "2026-04-15T09:21:22.090834"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - brazil
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

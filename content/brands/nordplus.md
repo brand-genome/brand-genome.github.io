@@ -2,7 +2,7 @@
 title: NordPlus
 slug: nordplus
 description: ""
-date: "2026-04-10T09:40:34.033757"
+date: "2026-04-15T09:21:24.951695"
 draft: false
 sectors:
   - education
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://nordplusonline.org](https://nordplusonline.org)
 - [https://www.nordplus.lt](https://www.nordplus.lt)
-- [http://www.archimedes.ee](http://www.archimedes.ee)
-- [http://www.regeringen.ax](http://www.regeringen.ax)
 
 ## Brand Guidelines
 

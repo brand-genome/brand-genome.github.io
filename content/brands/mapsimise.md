@@ -2,7 +2,7 @@
 title: Mapsimise
 slug: mapsimise
 description: ""
-date: "2026-04-10T09:40:32.567090"
+date: "2026-04-15T09:21:23.765614"
 draft: false
 sectors:
   - software

@@ -2,7 +2,7 @@
 title: Maestro
 slug: maestro
 description: ""
-date: "2026-04-10T09:40:34.669628"
+date: "2026-04-15T09:21:25.661143"
 draft: false
 sectors:
   - finance
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: music by Alex Brachet
-wikidata_url: "https://www.wikidata.org/wiki/Q106923197"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,26 +69,3 @@ visual_term_image_urls: {}
 ### 2016
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106923197) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Alex Brachet |
-| Publication Date | 2007-10-16 |
-| Title | Maestro |
-| Duration | 208 second |
-| Genre | instrumental rock, heavy metal music, rock music |
-| Country Of Origin | France |
-| Musicbrainz Recording Id | 4285c194-de9c-4d25-9c83-3e5c52413d4d |
-| Spotify Track Id | 38S53qbhTT4w9khywwKHTk |
-| Deezer Track Id | 16916136 |
-| Youtube Video Id | Qbp0Bd_Sl5c (as of 2021-05-26) |
-| Genius Id | Alex-brachet-maestro-lyrics |
-| Amazon Standard Identification Number | B007G5E8ZA |
-| Distribution Format | music streaming |
-| P1243 | FR6V81250589 |

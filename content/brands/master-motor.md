@@ -2,7 +2,7 @@
 title: Master Motor
 slug: "master-motor"
 description: ""
-date: "2026-04-10T09:40:32.525023"
+date: "2026-04-15T09:21:23.729478"
 draft: false
 sectors:
   - automobile
@@ -14,8 +14,7 @@ languages:
   - spanish
 tags:
   - engineering
-industries:
-  - "automotive-industry"
+industries: []
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -24,11 +23,9 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - truck
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - karachi
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Pakistani truck manufacturer.
-wikidata_url: "https://www.wikidata.org/wiki/Q6785069"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -62,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.mmcl.com.pk](http://www.mmcl.com.pk)
-
 ## Brand Guidelines
 
 ### 2020
@@ -217,22 +210,3 @@ visual_term_image_urls: {}
 - Esta área debe estar libre de cualquier texto o elemento gráfico. Tomándo como referencia al ancho y altura del carácter "R" como valor asignados a "X" y "Y", respectivamente. El espacio de protección equivale a un valor 1X alrededor de toda la Marca MASTER MOTOR.
 - Esta regla se aplica a todas las versiones de la Marca MASTER MOTOR en todos los medios.
 - Manteniendo el criterio referencial del ancho y altura, respectivamente, del carácter "R" como valor asignados a "X" y "Y", el espacio de protección equivale a un valor 1 x alrededor de toda la Marca MASTER MOTOR.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q6785069) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/) |
-| Headquarters Location | [Karachi](/headquarters_locations/karachi/) |
-| Headquarters Location | Karachi |
-| Product Or Material Produced | truck |
-| Industry | automotive industry |
-| Freebase Id | /m/076w3ym |
-| Crunchbase Organization Id | master-motor |
-| Facebook Username | MasterMotorMMCL |
-| X (Twitter) Username | MasterMotorMMCL |
-| Instagram Username | mastermotorofficial |

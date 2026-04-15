@@ -2,7 +2,7 @@
 title: The Ordinary
 slug: "the-ordinary"
 description: ""
-date: "2026-04-10T09:40:31.530492"
+date: "2026-04-15T09:21:23.180275"
 draft: false
 sectors:
   - beauty
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: vocal track by Morrissey; 1988 studio recording
-wikidata_url: "https://www.wikidata.org/wiki/Q63385757"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -64,20 +64,3 @@ visual_term_image_urls: {}
 
 - [https://theordinary.com](https://theordinary.com)
 - [https://deciem.com](https://deciem.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q63385757) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Morrissey |
-| Recording Or Performance Of | The Ordinary Boys |
-| Title | The Ordinary Boys |
-| Musicbrainz Recording Id | dabba551-94df-4e01-a7fd-1c1aa8d98108 |
-| Published In | Viva Hate |
-| Youtube Video Id | 6odORVrlpzk (as of 2021-03-21) |
-| Has Characteristic | studio recording |
-| P1243 | USRE10100885 |

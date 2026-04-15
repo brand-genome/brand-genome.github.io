@@ -2,7 +2,7 @@
 title: Scottish National Heritage
 slug: "scottish-national-heritage"
 description: ""
-date: "2026-04-10T09:40:34.059114"
+date: "2026-04-15T09:21:24.974144"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nature.scot](https://www.nature.scot)
-- [http://www.gov.scot/Resource/0045/00453827.pdf](http://www.gov.scot/Resource/0045/00453827.pdf)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

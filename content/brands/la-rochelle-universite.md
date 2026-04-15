@@ -2,11 +2,11 @@
 title: La Rochelle Université
 slug: "la-rochelle-universite"
 description: ""
-date: "2026-04-10T09:40:34.509946"
+date: "2026-04-15T09:21:25.443912"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.univ-larochelle.fr](https://www.univ-larochelle.fr)
 - [https://www.univ-larochelle.fr/en](https://www.univ-larochelle.fr/en)
-- [http://www.stephanepeneaud.com](http://www.stephanepeneaud.com)
 - [http://www.univ-larochelle.fr](http://www.univ-larochelle.fr)
 
 ## Brand Guidelines

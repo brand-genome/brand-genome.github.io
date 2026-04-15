@@ -2,7 +2,7 @@
 title: Public Relations Society of America
 slug: "public-relations-society-of-america"
 description: ""
-date: "2026-04-10T09:40:31.546143"
+date: "2026-04-15T09:21:23.196401"
 draft: false
 sectors:
   - "public-relations"

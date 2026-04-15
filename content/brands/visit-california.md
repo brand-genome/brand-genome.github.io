@@ -2,15 +2,15 @@
 title: Visit California
 slug: "visit-california"
 description: ""
-date: "2026-04-10T09:40:33.111532"
+date: "2026-04-15T09:21:24.046009"
 draft: false
 sectors:
   - tourism
 regions:
   - usa
 years:
-  - 2016
   - 2019
+  - 2016
 languages:
   - english
 tags:

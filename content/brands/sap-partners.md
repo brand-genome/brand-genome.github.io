@@ -2,7 +2,7 @@
 title: SAP Partners
 slug: "sap-partners"
 description: ""
-date: "2026-04-10T09:40:31.956131"
+date: "2026-04-15T09:21:23.393255"
 draft: false
 sectors:
   - software

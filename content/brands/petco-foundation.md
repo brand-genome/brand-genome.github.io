@@ -2,11 +2,11 @@
 title: Petco Foundation
 slug: "petco-foundation"
 description: ""
-date: "2026-04-10T09:40:34.675303"
+date: "2026-04-15T09:21:25.666239"
 draft: false
 sectors:
-  - ngo
   - "veterinary-pet-care"
+  - ngo
 regions:
   - usa
 years:

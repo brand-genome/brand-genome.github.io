@@ -2,11 +2,11 @@
 title: Make it Possible
 slug: "make-it-possible"
 description: ""
-date: "2026-04-10T09:40:34.004649"
+date: "2026-04-15T09:21:24.925830"
 draft: false
 sectors:
-  - electronics
   - "marketing-advertising"
+  - electronics
 regions:
   - china
 years:

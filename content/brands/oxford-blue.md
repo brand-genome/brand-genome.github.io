@@ -2,11 +2,11 @@
 title: Oxford Blue
 slug: "oxford-blue"
 description: ""
-date: "2026-04-10T09:40:32.636796"
+date: "2026-04-15T09:21:23.817438"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,12 +2,12 @@
 title: Surf Life Saving Australia
 slug: "surf-life-saving-australia"
 description: ""
-date: "2026-04-10T09:40:34.671447"
+date: "2026-04-15T09:21:25.662536"
 draft: false
 sectors:
-  - ngo
   - sports
   - "emergency-services"
+  - ngo
 regions:
   - australia
 years:

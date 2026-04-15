@@ -2,11 +2,11 @@
 title: Yelets
 slug: yelets
 description: ""
-date: "2026-04-10T09:40:33.051475"
+date: "2026-04-15T09:21:23.993363"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - russia
 years:

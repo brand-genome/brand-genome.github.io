@@ -2,7 +2,7 @@
 title: Xbox Live
 slug: "xbox-live"
 description: ""
-date: "2026-04-10T09:40:34.482773"
+date: "2026-04-15T09:21:25.420754"
 draft: false
 sectors:
   - gaming
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Wikimedia list article
-wikidata_url: "https://www.wikidata.org/wiki/Q914380"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,14 +70,3 @@ visual_term_image_urls: {}
 ### 2013
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q914380) |
-
-| Property | Value |
-|----------|-------|
-| Platform |  |
-| Is A List Of | game |

@@ -2,7 +2,7 @@
 title: Klepierre
 slug: klepierre
 description: ""
-date: "2026-04-10T09:40:34.896772"
+date: "2026-04-15T09:21:25.866242"
 draft: false
 sectors:
   - "real-estate"

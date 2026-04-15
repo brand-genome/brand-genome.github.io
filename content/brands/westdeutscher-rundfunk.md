@@ -2,7 +2,7 @@
 title: Westdeutscher Rundfunk
 slug: "westdeutscher-rundfunk"
 description: ""
-date: "2026-04-10T09:40:32.077435"
+date: "2026-04-15T09:21:23.565391"
 draft: false
 sectors:
   - broadcasting
@@ -15,8 +15,8 @@ languages:
 tags:
   - broadcast
 industries:
-  - "media-industry"
   - broadcasting
+  - "media-industry"
 countries:
   - germany
 revenue_buckets: []

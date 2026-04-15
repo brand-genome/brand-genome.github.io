@@ -2,11 +2,11 @@
 title: Spritz
 slug: spritz
 description: ""
-date: "2026-04-10T09:40:32.705239"
+date: "2026-04-15T09:21:23.835909"
 draft: false
 sectors:
-  - finance
   - "blockchain-crypto"
+  - finance
 regions:
   - usa
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "chilled drink, usually with white wine and sparkling water"
-wikidata_url: "https://www.wikidata.org/wiki/Q655244"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,23 +70,3 @@ visual_term_image_urls: {}
 ### 2022
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q655244) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/01f_7f |
-| Part Of | Hungarian cuisine, Austrian cuisine |
-| Image | White wine spritzer.jpg |
-| Has Part(S) | wine, carbonated water |
-| Subclass Of | Schorle |
-| Babelnet Id | 00073662n |
-| Tasteatlas Id | spritzer |
-| Wordnet 3.1 Synset Id | 07931017-n |
-| Different From | Szprycer |
-| Golden Id | Spritzer-AAAJ3 |
-| Museum Digital Tag Id | 53489 |

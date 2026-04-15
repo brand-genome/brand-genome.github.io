@@ -2,11 +2,11 @@
 title: Sands
 slug: sands
 description: ""
-date: "2026-04-10T09:40:30.953972"
+date: "2026-04-15T09:21:22.566129"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - corporate
   - tourism
+  - corporate
 industries: []
 countries: []
 revenue_buckets: []
@@ -53,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: 1999 music video directed by Juuso Syrjä; official music video by Darude
-wikidata_url: "https://www.wikidata.org/wiki/Q108107018"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -66,34 +66,3 @@ visual_term_image_urls: {}
 
 - [https://www.sands.com](https://www.sands.com)
 - [https://www.marinabaysands.com](https://www.marinabaysands.com)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q108107018) |
-
-| Property | Value |
-|----------|-------|
-| Youtube Video Id | y6120QOlsfU (as of 2021-03-19) |
-| Genre | trance |
-| Performer | Darude |
-| Filming Location | Helsinki, Senate Square, Helsinki Cathedral, Ullanlinna, Vuorimiehenkatu (+3 more) |
-| Title | Sandstorm |
-| Country Of Origin | Finland |
-| Color | color |
-| Language Of Work Or Name | no linguistic content |
-| Recording Or Performance Of | Sandstorm |
-| Duration | 233 second |
-| Record Label | Robbins Entertainment |
-| Cast Member | Darude, Tiina Hillilä, Mirella Koulias, Joonas Mäkilä |
-| Director | Juuso Syrjä |
-| Imvdb Music Video Id | darude/sandstorm |
-| Imdb Id | tt6012482 |
-| Production Date | 2000-05 |
-| Publication Date | 1999, 2000, 2009-07-05 |
-| Review Score | 8.2/10 (as of 2021-08-15) |
-| Director Of Photography | Jens Maasbøl |
-| Film Editor | Misko Iho |
-| Contributor To The Creative Work Or Subject | Misko Iho, Tuomas Haavisto |
-| Čsfd Film Id | 348250 |

@@ -2,7 +2,7 @@
 title: Yamaha Motor Academy
 slug: "yamaha-motor-academy"
 description: ""
-date: "2026-04-10T09:40:32.200505"
+date: "2026-04-15T09:21:23.650434"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - engineering
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [http://www.yamaha-racing.com](http://www.yamaha-racing.com)
-- [http://www.motor.nl](http://www.motor.nl)
 - [http://www.yamaha-motor.eu](http://www.yamaha-motor.eu)
 
 ## Brand Guidelines

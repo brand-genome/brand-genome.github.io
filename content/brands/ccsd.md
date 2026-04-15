@@ -2,7 +2,7 @@
 title: CCSD
 slug: ccsd
 description: ""
-date: "2026-04-10T09:40:32.661616"
+date: "2026-04-15T09:21:23.825918"
 draft: false
 sectors:
   - research
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://learning.hal.science](https://learning.hal.science)
 - [https://www.episciences.org](https://www.episciences.org)
 - [https://www.sciencesconf.org](https://www.sciencesconf.org)
-- [http://www.grapheine.com](http://www.grapheine.com)
 
 ## Brand Guidelines
 

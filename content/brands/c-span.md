@@ -2,7 +2,7 @@
 title: "C-SPAN"
 slug: "c-span"
 description: ""
-date: "2026-04-10T09:40:33.275215"
+date: "2026-04-15T09:21:24.213121"
 draft: false
 sectors:
   - broadcasting

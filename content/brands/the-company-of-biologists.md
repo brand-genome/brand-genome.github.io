@@ -2,7 +2,7 @@
 title: The Company of Biologists
 slug: "the-company-of-biologists"
 description: ""
-date: "2026-04-10T09:40:33.670512"
+date: "2026-04-15T09:21:24.612205"
 draft: false
 sectors:
   - research

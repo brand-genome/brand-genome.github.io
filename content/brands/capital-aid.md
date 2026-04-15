@@ -2,7 +2,7 @@
 title: Capital Aid
 slug: "capital-aid"
 description: ""
-date: "2026-04-10T09:40:32.523515"
+date: "2026-04-15T09:21:23.728321"
 draft: false
 sectors:
   - finance

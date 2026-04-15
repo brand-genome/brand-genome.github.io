@@ -2,7 +2,7 @@
 title: Charles Sturt University
 slug: "charles-sturt-university"
 description: ""
-date: "2026-04-10T09:40:31.581646"
+date: "2026-04-15T09:21:23.219765"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - australia

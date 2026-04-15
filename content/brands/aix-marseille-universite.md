@@ -2,22 +2,22 @@
 title: "Aix-Marseille Université"
 slug: "aix-marseille-universite"
 description: ""
-date: "2026-04-10T09:40:30.816154"
+date: "2026-04-15T09:21:22.420579"
 draft: false
 sectors:
   - university
 regions:
   - france
 years:
+  - 2024
   - 2015
   - 2019
-  - 2024
 languages:
   - french
 tags:
   - featured
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

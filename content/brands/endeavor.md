@@ -2,7 +2,7 @@
 title: Endeavor
 slug: endeavor
 description: ""
-date: "2026-04-10T09:40:32.791163"
+date: "2026-04-15T09:21:23.856831"
 draft: false
 sectors:
   - ngo
@@ -13,12 +13,10 @@ years:
 languages:
   - english
 tags:
-  - business
   - community
-industries:
-  - "talent-agent"
-countries:
-  - "united-states"
+  - business
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "beverly-hills"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1898
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American talent agency
-wikidata_url: "https://www.wikidata.org/wiki/Q1515039"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://endeavor.org](https://endeavor.org)
-- [https://www.endeavorco.com](https://www.endeavorco.com)
 
 ## Brand Guidelines
 
@@ -406,41 +400,3 @@ visual_term_image_urls: {}
 - Always use the Endeavor logo and mark for your local office -don't create other logos. This dilutes the strength of our Endeavor brand.
 - When using local office names in copy or text, follow these rules: • Unless you are referring specifically to your local office, simply use "Endeavor". We use Endeavor to mean Endeavor Global. • Only use the official name for your local office. Use "Endeavor Italy" not a variation like "Endeavor IT".
 - Naming Guidelines • Do not use "Insight" or "Insights" in naming as it dilutes from Endeavor Insight. • Do not use "Catalyst" or "Catalyze" in naming as it dilutes from Endeavor Catalyst. • Do not use "Outliers" when not in context of the Endeavor Outliers. • Do not overuse "Scale Up". • Do not overuse "High-Impact".
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1515039) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Beverly Hills](/headquarters_locations/beverly-hills/) |
-| Foundation Date | [1898](/foundation_dates/1898/) |
-| Freebase Id | /m/05htfh |
-| Inception | 1898 |
-| Country | United States |
-| Headquarters Location | Beverly Hills |
-| Quora Topic Id | William-Morris-Endeavor-1 |
-| Owned By | Silver Lake |
-| Chief Executive Officer | Ari Emanuel, Patrick Whitesell |
-| Discogs Artist Id | 3462772 |
-| Internet Broadway Database Person Id | 500720 |
-| Child Organization Or Unit | IMG (from 2013), Ultimate Fighting Championship, Professional Bull Riders, Endeavor Streaming, WWE |
-| Littlesis Organization Id | 44048 |
-| Instagram Username | endeavor |
-| X (Twitter) Username | wmespeakers (as of 2020-06-16, from 2011-11-20), WMESpeakers |
-| Facebook Username | WMEFoundation |
-| Social Media Followers | 5,091 (as of 2021-01-05), 5,038 (as of 2020-06-16) |
-| Location Of Formation | Beverly Hills |
-| Crunchbase Organization Id | william-morris-endeavor |
-| Industry | talent agent |
-| Stock Exchange | New York Stock Exchange |
-| Central Index Key | 0001766363 |
-| Irs Employer Identification Number | 83-3340169 |
-| Legal Form | Delaware corporation |
-| Date Of Incorporation | 2019-01-29 |
-| Official Name | Endeavor Group Holdings, Inc. |
-| Owner Of | Miami Open, Madrid Open (tennis), Frieze Art Fair, Barrett-Jackson, Hyde Park Winter Wonderland (+1 more) |
-| Item Operated | Women's British Open, The Honda Classic |
-| Replaces | William Morris Agency, Endeavor Talent Agency |

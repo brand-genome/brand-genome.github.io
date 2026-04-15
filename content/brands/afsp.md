@@ -2,11 +2,11 @@
 title: AFSP
 slug: afsp
 description: ""
-date: "2026-04-10T09:40:33.282454"
+date: "2026-04-15T09:21:24.219942"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: GreenPower
 slug: greenpower
 description: ""
-date: "2026-04-10T09:40:33.000994"
+date: "2026-04-15T09:21:23.953151"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - environment
   - engineering
+  - environment
 industries: []
 countries: []
 revenue_buckets: []
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Canadian electric bus manufactuer
-wikidata_url: "https://www.wikidata.org/wiki/Q39058437"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.greenpower.gov.au](https://www.greenpower.gov.au)
 - [https://www.energy.nsw.gov.au/households/action/initiatives/greenpower](https://www.energy.nsw.gov.au/households/action/initiatives/greenpower)
-- [http://www.greenpowerbus.com](http://www.greenpowerbus.com)
 
 ## Brand Guidelines
 
@@ -196,14 +195,3 @@ visual_term_image_urls: {}
 - Photography and illustrations must be owned by GreenPower before use. Requests for downloaded images from the internet, or other copyright requests, must be discussed with the GreenPower Program Manager—Marketing (images cannot be used without permission from the owner of the image).
 - For commercial printing, images must be available at 300dpi (high resolution).
 - Consent forms must be used for all people ‘actively engaged with the camera’, including staff.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q39058437) |
-
-| Property | Value |
-|----------|-------|
-| Google Knowledge Graph Id | /g/11fy4txwfd |
-| Isin | CA39540E4013 |

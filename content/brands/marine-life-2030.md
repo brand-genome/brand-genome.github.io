@@ -2,11 +2,11 @@
 title: Marine Life 2030
 slug: "marine-life-2030"
 description: ""
-date: "2026-04-10T09:40:32.513138"
+date: "2026-04-15T09:21:23.718856"
 draft: false
 sectors:
-  - ngo
   - research
+  - ngo
 regions:
   - international
 years:

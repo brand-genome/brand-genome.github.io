@@ -2,7 +2,7 @@
 title: Locally
 slug: locally
 description: ""
-date: "2026-04-10T09:40:30.593003"
+date: "2026-04-15T09:21:22.135385"
 draft: false
 sectors:
   - fashion
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - fashion
   - community
+  - fashion
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,4 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://linktr.ee/locallyeg](https://linktr.ee/locallyeg)
-- [http://www.fourseedesign.com](http://www.fourseedesign.com)

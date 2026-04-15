@@ -2,7 +2,7 @@
 title: University of Chicago Laboratory Schools
 slug: "university-of-chicago-laboratory-schools"
 description: ""
-date: "2026-04-10T09:40:32.987814"
+date: "2026-04-15T09:21:23.940697"
 draft: false
 sectors:
   - education

@@ -2,7 +2,7 @@
 title: ICLEI
 slug: iclei
 description: ""
-date: "2026-04-10T09:40:32.606570"
+date: "2026-04-15T09:21:23.800023"
 draft: false
 sectors:
   - ngo
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://iclei.org](https://iclei.org)
 - [https://icleiusa.org](https://icleiusa.org)
 - [https://worldcongress.iclei.org](https://worldcongress.iclei.org)
-- [http://www.google.com/get/noto](http://www.google.com/get/noto)
 - [http://www.iclei.org/webinar](http://www.iclei.org/webinar)
 - [http://icleiusa.org](http://icleiusa.org)
 

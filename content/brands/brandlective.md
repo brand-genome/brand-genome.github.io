@@ -2,7 +2,7 @@
 title: BrandLective
 slug: brandlective
 description: ""
-date: "2026-04-10T09:40:33.777084"
+date: "2026-04-15T09:21:24.757210"
 draft: false
 sectors:
   - "public-relations"

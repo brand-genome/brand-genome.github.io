@@ -2,7 +2,7 @@
 title: Al Rehal Company
 slug: "al-rehal-company"
 description: ""
-date: "2026-04-10T09:40:31.581028"
+date: "2026-04-15T09:21:23.219168"
 draft: false
 sectors:
   - tourism
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.aztecheg.com](http://www.aztecheg.com)
-
 ## Brand Guidelines
 
 ### 2023

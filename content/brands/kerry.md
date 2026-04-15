@@ -2,7 +2,7 @@
 title: Kerry
 slug: kerry
 description: ""
-date: "2026-04-10T09:40:33.785697"
+date: "2026-04-15T09:21:24.764912"
 draft: false
 sectors:
   - food
@@ -15,8 +15,7 @@ languages:
 tags:
   - "food-beverage"
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: UK historical motorcycle manufacturer
-wikidata_url: "https://www.wikidata.org/wiki/Q11681897"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -121,17 +120,3 @@ visual_term_image_urls: {}
 - Minimum size: 25 mm 95 pixels
 - CMYK 100.47.0.47 RGB 0.70.119 HEX 004577 Pantone 540U
 - CMYK 0.34.91.0 RGB 252.177.49 HEX fbb130 Pantone 137U
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11681897) |
-
-| Property | Value |
-|----------|-------|
-| Country | United Kingdom |
-| Isni | 0000000106670038 |
-| Viaf Cluster Id | 141686746 |
-| Image | Kerry 2 pk (308 cc) 1903.jpg |
-| Google Knowledge Graph Id | /g/121m_fq4 |

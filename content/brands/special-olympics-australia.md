@@ -2,7 +2,7 @@
 title: Special Olympics Australia
 slug: "special-olympics-australia"
 description: ""
-date: "2026-04-10T09:40:32.684876"
+date: "2026-04-15T09:21:23.830493"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: United Way Centraide
 slug: "united-way-centraide"
 description: ""
-date: "2026-04-10T09:40:30.711328"
+date: "2026-04-15T09:21:22.297405"
 draft: false
 sectors:
   - ngo

@@ -44,7 +44,7 @@ LLAVA_IMG_FILE = BASE_DIR / "llava_outputs_img2 (1).json"
 LLAVA_HUMAN_FILE = BASE_DIR / "llava_outputs_human3 (1).json"
 COMPANY_SECTOR_FILE = BASE_DIR / "company_sector.csv"
 WIKIDATA_FILE = BASE_DIR / "wikidata_extracted_data_v3.json"
-BG_DATASET_FILE = BASE_DIR / "final_brand_dataset_with_pdf_urls.json"
+BG_DATASET_FILE = BASE_DIR / "final_brand_dataset_with_pdf_urls_verified.json"
 GPT_OUTPUT_DIR = BASE_DIR / "gpt_guideline_extraction" / "gpt4o_output"
 EXTRACTED_GUIDELINES_DIR = BASE_DIR / "taxonomy" / "brand_guidelines_yukon" / "extracted_guidelines"
 

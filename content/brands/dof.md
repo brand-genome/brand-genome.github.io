@@ -2,7 +2,7 @@
 title: DOF
 slug: dof
 description: ""
-date: "2026-04-10T09:40:34.492909"
+date: "2026-04-15T09:21:25.429259"
 draft: false
 sectors:
   - "maritime-shipping"
@@ -16,8 +16,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - philippines
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - manila
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1897
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: national executive department of the Philippines
-wikidata_url: "https://www.wikidata.org/wiki/Q3002326"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.dof.com](https://www.dof.com)
 - [http://dof.no](http://dof.no)
-- [http://www.dof.gov.ph](http://www.dof.gov.ph)
 
 ## Brand Guidelines
 
@@ -240,33 +235,3 @@ visual_term_image_urls: {}
 - DOF letter templates may vary depending on what region of operation they refer to. Letter templates are of mandatory usage for all communication messages with external destinations.
 - Envelopes layout will vary in some details depending on what region of operation they refer to.
 - Business cards bring the professional info from DOF employees, such as name, e-mail address and phone numbers. DOF business cards generator can be found at MyPortal: the user can generate his/her business card and download it ready for printing. Business cards are available for job positions that require it.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3002326) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Manila](/headquarters_locations/manila/) |
-| Foundation Date | [1897](/foundation_dates/1897/) |
-| Topic'S Main Category | Category:Department of Finance (Philippines) |
-| Freebase Id | /m/0dnlxy |
-| Country | Philippines |
-| Applies To Jurisdiction | Philippines |
-| Inception | 1897-01-01 |
-| Position Held By Head Of The Organization | Secretary of Finance |
-| Child Organization Or Unit | Bureau of Customs |
-| Parent Organization Or Unit | government of the Philippines |
-| Headquarters Location | Manila |
-| Facebook Username | DOFPH |
-| X (Twitter) Username | dof_ph (as of 2022-03-14, from 2014-05-20) |
-| Instagram Username | dof_ph |
-| Youtube Channel Id | UCVI6xxn51j0p6l8O3UXEW3A (as of 2022-03-13, from 2017-08-23) |
-| Viber Group Id | AQAYsuTqRav0MkrjTK09QU3X3NnUXshXw2SrJU5kbuo4XRV3BTWZYGXwQ+z8zn6b |
-| Phone Number | +63-2-8525-0244 |
-| Social Media Followers | 28,984 (as of 2022-03-28), 39,249 (as of 2023-02-02) |
-| Seal Image | Department of Finance (DOF).svg |
-| On Focus List Of Wikimedia Project | Govdirectory |
-| Youtube Handle | departmentoffinanceph (as of 2025-10-21) |

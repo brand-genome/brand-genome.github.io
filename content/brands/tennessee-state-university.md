@@ -2,7 +2,7 @@
 title: Tennessee State University
 slug: "tennessee-state-university"
 description: ""
-date: "2026-04-10T09:40:34.663969"
+date: "2026-04-15T09:21:25.656048"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

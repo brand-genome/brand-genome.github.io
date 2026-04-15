@@ -2,11 +2,11 @@
 title: SanDisk
 slug: sandisk
 description: ""
-date: "2026-04-10T09:40:34.860431"
+date: "2026-04-15T09:21:25.833085"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:
@@ -27,13 +27,13 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - "computer-memory"
   - "sim-card"
   - "dynamic-random-access-memory"
+  - "portable-media-player"
   - "solid-state-drive"
   - "memory-card"
-  - "computer-memory"
   - "usb-flash-drive"
-  - "portable-media-player"
 products: []
 headquarters_locations:
   - milpitas
@@ -87,7 +87,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Sim Card](/products_or_materials_produced/sim-card/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Memory Card](/products_or_materials_produced/memory-card/); [Computer Memory](/products_or_materials_produced/computer-memory/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/); [Portable Media Player](/products_or_materials_produced/portable-media-player/) |
+| Product Or Material Produced | [Computer Memory](/products_or_materials_produced/computer-memory/); [Sim Card](/products_or_materials_produced/sim-card/); [Dynamic Random Access Memory](/products_or_materials_produced/dynamic-random-access-memory/); [Portable Media Player](/products_or_materials_produced/portable-media-player/); [Solid State Drive](/products_or_materials_produced/solid-state-drive/); [Memory Card](/products_or_materials_produced/memory-card/); [Usb Flash Drive](/products_or_materials_produced/usb-flash-drive/) |
 | Headquarters Location | [Milpitas](/headquarters_locations/milpitas/) |
 | Foundation Date | [1988](/foundation_dates/1988/) |
 | Stock Exchange | Nasdaq (from 2025-02-24) |

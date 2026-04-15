@@ -2,7 +2,7 @@
 title: Casio
 slug: casio
 description: ""
-date: "2026-04-10T09:40:34.007779"
+date: "2026-04-15T09:21:24.928564"
 draft: false
 sectors:
   - electronics

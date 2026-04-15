@@ -2,7 +2,7 @@
 title: Buenos Aires Ciudad
 slug: "buenos-aires-ciudad"
 description: ""
-date: "2026-04-10T09:40:33.372138"
+date: "2026-04-15T09:21:24.308039"
 draft: false
 sectors:
   - "public-sector"

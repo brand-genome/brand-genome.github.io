@@ -2,7 +2,7 @@
 title: Compeer Financial
 slug: "compeer-financial"
 description: ""
-date: "2026-04-10T09:40:33.670992"
+date: "2026-04-15T09:21:24.612492"
 draft: false
 sectors:
   - finance

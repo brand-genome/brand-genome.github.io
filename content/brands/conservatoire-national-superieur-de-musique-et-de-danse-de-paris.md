@@ -2,11 +2,11 @@
 title: Conservatoire National Supérieur de Musique et de Danse de Paris
 slug: "conservatoire-national-superieur-de-musique-et-de-danse-de-paris"
 description: ""
-date: "2026-04-10T09:40:34.887383"
+date: "2026-04-15T09:21:25.858225"
 draft: false
 sectors:
-  - "arts-culture"
   - university
+  - "arts-culture"
 regions:
   - france
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
+  - music
   - cultural
   - education
-  - music
 industries: []
 countries: []
 revenue_buckets: []

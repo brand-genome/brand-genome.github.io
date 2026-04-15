@@ -2,12 +2,12 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-04-10T09:40:34.495505"
+date: "2026-04-15T09:21:25.431884"
 draft: false
 sectors:
+  - "e-commerce"
   - software
   - restaurant
-  - "e-commerce"
 regions:
   - india
 years:

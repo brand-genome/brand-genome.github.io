@@ -2,7 +2,7 @@
 title: iPIX
 slug: ipix
 description: ""
-date: "2026-04-10T09:40:32.099508"
+date: "2026-04-15T09:21:23.587010"
 draft: false
 sectors:
   - software

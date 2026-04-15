@@ -2,7 +2,7 @@
 title: Urban Prophet Atelier
 slug: "urban-prophet-atelier"
 description: ""
-date: "2026-04-10T09:40:31.954990"
+date: "2026-04-15T09:21:23.392124"
 draft: false
 sectors:
   - architecture

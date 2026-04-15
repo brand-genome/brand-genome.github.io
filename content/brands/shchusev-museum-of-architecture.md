@@ -2,7 +2,7 @@
 title: Shchusev Museum of Architecture
 slug: "shchusev-museum-of-architecture"
 description: ""
-date: "2026-04-10T09:40:31.956001"
+date: "2026-04-15T09:21:23.393122"
 draft: false
 sectors:
   - "public-sector"

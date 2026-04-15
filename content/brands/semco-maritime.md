@@ -2,23 +2,23 @@
 title: Semco Maritime
 slug: "semco-maritime"
 description: ""
-date: "2026-04-10T09:40:30.711037"
+date: "2026-04-15T09:21:22.297261"
 draft: false
 sectors:
-  - oil
-  - gas
-  - construction
   - "renewable-energy"
+  - gas
+  - oil
+  - construction
 regions:
   - denmark
 years:
-  - 2019
   - 2024
+  - 2019
 languages:
   - english
 tags:
-  - environment
   - featured
+  - environment
   - corporate
 industries: []
 countries:

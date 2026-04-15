@@ -2,11 +2,11 @@
 title: Best Western Premier
 slug: "best-western-premier"
 description: ""
-date: "2026-04-10T09:40:33.187051"
+date: "2026-04-15T09:21:24.131261"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - usa
 years:

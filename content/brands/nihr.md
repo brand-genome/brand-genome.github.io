@@ -2,11 +2,11 @@
 title: NIHR
 slug: nihr
 description: ""
-date: "2026-04-10T09:40:34.505544"
+date: "2026-04-15T09:21:25.440513"
 draft: false
 sectors:
-  - research
   - "public-sector"
+  - research
   - healthcare
 regions:
   - "united-kingdom"
@@ -17,8 +17,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - iran
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "medical research institute in Teheran, Iran"
-wikidata_url: "https://www.wikidata.org/wiki/Q88980859"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,25 +65,9 @@ visual_term_image_urls: {}
 
 - [https://www.nihr.ac.uk](https://www.nihr.ac.uk)
 - [https://www.nihr.ac.uk/branding](https://www.nihr.ac.uk/branding)
-- [http://nihr.tums.ac.ir/En](http://nihr.tums.ac.ir/En)
-- [http://nihr.tums.ac.ir/Home](http://nihr.tums.ac.ir/Home)
 
 ## Brand Guidelines
 
 ### 2019
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q88980859) |
-
-| Property | Value |
-|----------|-------|
-| Country | Iran |
-| Located In The Administrative Territorial Entity | Tehran |
-| Coordinate Location | 35.7032, 51.4005 |
-| Google Knowledge Graph Id | /g/11ftbkb1q_ |
-| Ror Id | 00spd2n27 |

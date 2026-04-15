@@ -2,7 +2,7 @@
 title: Deloitte
 slug: deloitte
 description: ""
-date: "2026-04-10T09:40:33.740066"
+date: "2026-04-15T09:21:24.715373"
 draft: false
 sectors:
   - consulting
@@ -30,10 +30,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - tax
+  - "law-firm"
   - audit
   - consultation
-  - "law-firm"
+  - tax
   - "risk-management"
 products: []
 headquarters_locations:
@@ -95,7 +95,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Tax](/products_or_materials_produced/tax/); [Audit](/products_or_materials_produced/audit/); [Consultation](/products_or_materials_produced/consultation/); [Law Firm](/products_or_materials_produced/law-firm/); [Risk Management](/products_or_materials_produced/risk-management/) |
+| Product Or Material Produced | [Law Firm](/products_or_materials_produced/law-firm/); [Audit](/products_or_materials_produced/audit/); [Consultation](/products_or_materials_produced/consultation/); [Tax](/products_or_materials_produced/tax/); [Risk Management](/products_or_materials_produced/risk-management/) |
 | Headquarters Location | [London](/headquarters_locations/london/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1845](/foundation_dates/1845/) |
 | Founded By | William Welch Deloitte, George Touche |

@@ -2,11 +2,11 @@
 title: Jamaica
 slug: jamaica
 description: ""
-date: "2026-04-10T09:40:34.277699"
+date: "2026-04-15T09:21:25.189430"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - jamaica
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1780
-foundation_year_buckets:
-  - "18TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "town in Vermont, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q3450853"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.visitjamaica.com](https://www.visitjamaica.com)
 - [https://www.jtbonline.org](https://www.jtbonline.org)
-- [https://www.jamaicavermont.org](https://www.jamaicavermont.org)
 
 ## Brand Guidelines
 
@@ -259,38 +255,3 @@ visual_term_image_urls: {}
 ##### Campaign Texture
 
 - Like our photography style and illustrated icons, another branding element that unites our campaign is the texture shown here. This texture was selected because it allows our photography, type and icons to stand out and be as legible as possible.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q3450853) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1780](/foundation_dates/1780/) |
-| Fips 55 3 (Locations In The Us) | 50-36175 |
-| Gnis Feature Id | 1462126 |
-| Country | United States |
-| Coordinate Location | 43.1005964, -72.7993386 |
-| Located In The Administrative Territorial Entity | Windham County |
-| Topic'S Main Category | Category:Jamaica, Vermont |
-| Curlie Id | Regional/North_America/United_States/Vermont/Localities/J/Jamaica/ |
-| Freebase Id | /m/010knc |
-| Elevation Above Sea Level | 346 metre |
-| Postal Code | 05343 |
-| Locator Map Image | Jamaica vt highlight.png |
-| Image | View of Jamaica Village, VT.jpg |
-| Area | 49 square mile |
-| Category For People Born Here |  |
-| Category Of Associated People | Category:People from Jamaica, Vermont |
-| Local Dialing Code | 802 |
-| Inception | 1780 |
-| Who'S On First Id | 1125960477 |
-| Musicbrainz Area Id | 479af501-8cb5-4e9a-8126-0e16b62040ed |
-| Population | 1,005 (as of 2020-04-01), 1,035 (as of 2010-04-01) |
-| Per Capita Income | 35,624 United States dollar (as of 2020-12-31) |
-| Number Of Households | 409 (as of 2020-12-31), 409 |
-| Openstreetmap Relation Id | 2017759 |
-| Un/Locode | US5MJ |
-| Official Name | Town of Jamaica, Jamaica |

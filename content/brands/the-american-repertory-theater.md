@@ -2,7 +2,7 @@
 title: The American Repertory Theater
 slug: "the-american-repertory-theater"
 description: ""
-date: "2026-04-10T09:40:34.886335"
+date: "2026-04-15T09:21:25.857138"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - theater
   - cultural
+  - theater
 industries: []
 countries: []
 revenue_buckets: []

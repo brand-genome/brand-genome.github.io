@@ -2,11 +2,11 @@
 title: Studyportals
 slug: studyportals
 description: ""
-date: "2026-04-10T09:40:33.392288"
+date: "2026-04-15T09:21:24.325553"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - netherlands
 years:

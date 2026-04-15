@@ -2,21 +2,21 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-04-10T09:40:32.479124"
+date: "2026-04-15T09:21:23.691948"
 draft: false
 sectors:
   - automobile
 regions:
   - usa
 years:
-  - 2020
   - 2012
+  - 2020
 languages:
   - english
 tags:
   - featured
-  - corporate
   - transport
+  - corporate
 industries:
   - "automotive-industry"
 countries:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.subaru.com](https://www.subaru.com)
-- [http://www.fonts.com](http://www.fonts.com)
 - [http://www.subaru.com](http://www.subaru.com)
 
 ## Brand Guidelines

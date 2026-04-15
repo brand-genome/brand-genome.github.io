@@ -2,12 +2,12 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-04-10T09:40:32.653732"
+date: "2026-04-15T09:21:23.822964"
 draft: false
 sectors:
-  - ngo
   - "emergency-services"
   - healthcare
+  - ngo
 regions:
   - usa
 years:

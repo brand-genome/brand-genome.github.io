@@ -2,7 +2,7 @@
 title: Total Foundation
 slug: "total-foundation"
 description: ""
-date: "2026-04-10T09:40:31.539674"
+date: "2026-04-15T09:21:23.190293"
 draft: false
 sectors:
   - ngo

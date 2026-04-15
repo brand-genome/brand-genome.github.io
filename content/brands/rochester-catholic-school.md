@@ -2,7 +2,7 @@
 title: Rochester Catholic School
 slug: "rochester-catholic-school"
 description: ""
-date: "2026-04-10T09:40:33.157356"
+date: "2026-04-15T09:21:24.085657"
 draft: false
 sectors:
   - education

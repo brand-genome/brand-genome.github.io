@@ -2,11 +2,11 @@
 title: SwizzyLab
 slug: swizzylab
 description: ""
-date: "2026-04-10T09:40:34.673047"
+date: "2026-04-15T09:21:25.663914"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - unknown
 years:

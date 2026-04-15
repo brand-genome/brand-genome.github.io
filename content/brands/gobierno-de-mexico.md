@@ -2,7 +2,7 @@
 title: Gobierno de México
 slug: "gobierno-de-mexico"
 description: ""
-date: "2026-04-10T09:40:32.826494"
+date: "2026-04-15T09:21:23.872350"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

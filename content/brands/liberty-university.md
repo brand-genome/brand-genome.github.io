@@ -2,12 +2,12 @@
 title: Liberty University
 slug: "liberty-university"
 description: ""
-date: "2026-04-10T09:40:33.382959"
+date: "2026-04-15T09:21:24.315893"
 draft: false
 sectors:
+  - university
   - "e-learning-edtech"
   - education
-  - university
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

@@ -2,11 +2,11 @@
 title: GAPP
 slug: gapp
 description: ""
-date: "2026-04-10T09:40:33.301618"
+date: "2026-04-15T09:21:24.237568"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - community
 industries: []
-countries:
-  - "peoples-republic-of-china"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2001
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: administrative agency responsible for regulating publications in China
-wikidata_url: "https://www.wikidata.org/wiki/Q5531666"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.goethe.de/GAPP](https://www.goethe.de/GAPP)
 - [https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html](https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html)
 - [https://exchanges.state.gov/us/program/german-american-partnership-program](https://exchanges.state.gov/us/program/german-american-partnership-program)
-- [http://www.gapp.gov.cn](http://www.gapp.gov.cn)
 
 ## Brand Guidelines
 
@@ -269,21 +265,3 @@ visual_term_image_urls: {}
 
 - The system font Verdana is used for all editable text on the Internet, in email correspondence and in PowerPoint presentations.
 - German_American_Partnership_Program_Logotype_Blue_RGB_Web.jpg German_American_Partnership_Program_Logotype_Gray_RGB_Web.jpg JPG German_American_Partnership_Program_Logotype_Green_RGB_Web copy.jpg German_American_Partnership_Program_Logotype_Purple_RGB_Web.jpg German_American_Partnership_Program_Logotype_True_Black_RGB_Web.jpg German_American_Partnership_Program_Logotype German_American_Partnership_Program_Logotype_Blue_RGB_Web.png German_Ameri ca n_Pa rtnersh ip_Program_Logotype_Gray_RGB_Web.png German_Ameri ca n_Pa rtn ersh ip_Program_Logotype_Green_RGB_Web.png PNGI German_American_Partnership_Program_Logotype_Purple_RGB_Web.png German_American_Partnership_Program_Logotype_True_Black_RGB_Web.png German_American_Partnership_Program_Logotype_White_RGB_Web.png German_American_Partnership_Program_Full_Signature_Blue_RGB_Web.jpg German_Ameri ca n_Pa rtnersh ip_Program_Full_Signature_Gray_Cream_RGB_Web.jpg JPG German_American_Partnership_Program_Full_Signature_Green_RGB_Web.jpg German_American_Partnership_Program_Full_Signature_Purple_Orange_RGB_Web.jpg German_American_Partnership_Program_Full_Signature_True_Black_RGB_Web.jpg German_American_Partnership_Program_Signature German_American_Partnership_Program_Full_Signature_Blue_RGB_Web.png German_American_Partnership_Program_Full_Signature_Gray_Cream_RGB_Web.png German_American_Partnership_Program_Full_Signature_Green_RGB_Web.png PNGI German_American_Partnership_Program_Full_Signature_Purple_Orange_RGB_Web.png German_American_Partnership_Program_Full_Signature_True_Black_RGB_Web.png German_American_Partnership_Program_Full_Signature_White_RGB_Web.png
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5531666) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2001](/foundation_dates/2001/) |
-| Dissolved, Abolished Or Demolished Date | 2013-03-14 |
-| Part Of | State Council of the People's Republic of China |
-| Topic'S Main Category |  |
-| Country | People's Republic of China |
-| Inception | 2001-04 |
-| Freebase Id | /m/05c48qn |
-| Replaced By | State Administration of Press |
-| Encyclopedia Of China (Third Edition) Id | 531175 |

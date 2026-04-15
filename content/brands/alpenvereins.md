@@ -2,7 +2,7 @@
 title: Alpenvereins
 slug: alpenvereins
 description: ""
-date: "2026-04-10T09:40:33.449651"
+date: "2026-04-15T09:21:24.381806"
 draft: false
 sectors:
   - sports
@@ -14,11 +14,10 @@ years:
 languages:
   - german
 tags:
-  - sport
   - community
+  - sport
 industries: []
-countries:
-  - germany
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1964
-foundation_year_buckets:
-  - 1960S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -56,7 +53,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q109568198"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.alpenverein.at/ooe](https://www.alpenverein.at/ooe)
 - [http://www.alpenverein.at](http://www.alpenverein.at)
 - [http://www.alpenvereinsjugend.at](http://www.alpenvereinsjugend.at)
-- [http://www.dav-buchen.de/die-arnberghuette](http://www.dav-buchen.de/die-arnberghuette)
 
 ## Brand Guidelines
 
@@ -458,27 +454,3 @@ visual_term_image_urls: {}
 - Als Richtwerte für Prospekte und Folder/Flyer sind folgende Grammaturen möglich: → Umschläge: 150 / 170 / 200 / 250 g/qm → Innenteile: 80 / 90 / 100 / 115 / 130 / 150 g/qm
 - Für spezielle Produktionen, bei denen eine betont natürliche Wirkung beabsichtigt ist, kann ein ungestriche-nes Naturpapier verwendet werden: Munken LYNX von Arctic Paper (Europapier). Dieses passt durch seine leichte Tönung gut zu den beiden genannten gestrichenen Papieren, betont aber durch seine ungestrichene Oberfläche einen natürlichen Ausdruck. – Munken LYNX ist in folgenden Grammaturen lieferbar, die adäquat zum Einsatzzweck bestimmt werden: 80 / 90 / 100 / 120 / 130 / 150 / 170 / 200 / 240 / 300 / 400 g/qm.
 - Für die Bürokommunikation kommen weiße, ungestrichene Papiere mit leichter Tönung zum Einsatz – passend zu den erwähnten Papiersorten.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q109568198) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1964](/foundation_dates/1964/) |
-| Country | Germany |
-| Located In The Administrative Territorial Entity | Buchen |
-| Dav Hut Id | 7242201 |
-| Mountain Range | Buntsandstein-Odenwald |
-| Coordinate Location | 49.52878337633047, 9.313031633846307 |
-| Owned By | German Alpine Club |
-| Elevation Above Sea Level | 350 metre |
-| Has Facility | kitchen, shower, bed,  |
-| Operator | Deutscher Alpenverein Sektion Buchen |
-| Inception | 1964 |
-| Image | Arnberghütte 2022 00.jpg |
-| Öav Hut Id | 1875 |
-| Mapcarta Id | W233398773 |
-| Openstreetmap Way Id | 233398773 |

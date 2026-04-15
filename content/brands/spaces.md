@@ -2,7 +2,7 @@
 title: Spaces
 slug: spaces
 description: ""
-date: "2026-04-10T09:40:33.782207"
+date: "2026-04-15T09:21:24.761348"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -28,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2005
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q25212963"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,8 +65,6 @@ visual_term_image_urls: {}
 - [https://www.spacesworks.com](https://www.spacesworks.com)
 - [https://www.spacesworks.com/en/us](https://www.spacesworks.com/en/us)
 - [http://www.spacesworks.com](http://www.spacesworks.com)
-- [https://fonts.google.com/specimen/Overpass](https://fonts.google.com/specimen/Overpass)
-- [http://www.spaces-home.com](http://www.spaces-home.com)
 
 ## Brand Guidelines
 
@@ -79,14 +75,3 @@ visual_term_image_urls: {}
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q25212963) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2005](/foundation_dates/2005/) |
-| Inception | 2005 |

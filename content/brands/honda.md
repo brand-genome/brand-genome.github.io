@@ -2,7 +2,7 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-04-10T09:40:31.962155"
+date: "2026-04-15T09:21:23.399914"
 draft: false
 sectors:
   - automobile
@@ -10,8 +10,8 @@ regions:
   - japan
 years:
   - 2013
-  - 2009
   - 2021
+  - 2009
 languages:
   - english
   - french
@@ -19,8 +19,8 @@ tags:
   - featured
   - transport
 industries:
-  - "industrial-manufacturing"
   - "automotive-industry"
+  - "industrial-manufacturing"
 countries:
   - japan
 revenue_buckets:
@@ -37,22 +37,22 @@ total_equity_buckets:
   - "OVER-1T"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "garden-tool"
-  - motorcycle
-  - "electrical-generator"
-  - truck
-  - engine
-  - "et-cetera"
-  - robot
   - car
   - airplane
+  - engine
+  - motorcycle
+  - "garden-tool"
+  - robot
+  - "et-cetera"
+  - truck
+  - "electrical-generator"
 products: []
 headquarters_locations:
   - minato
 subsidiaries: []
 foundation_dates:
-  - 1948
   - 1946
+  - 1948
 foundation_year_buckets:
   - 1940S
 lightings: []
@@ -91,8 +91,6 @@ visual_term_image_urls: {}
 - [https://www.honda.co.jp](https://www.honda.co.jp)
 - [https://www.honda.com/en](https://www.honda.com/en)
 - [https://automobiles.honda.com](https://automobiles.honda.com)
-- [http://www.linotype.com/1184637/avenir-next-rounded-family.html](http://www.linotype.com/1184637/avenir-next-rounded-family.html)
-- [http://www.siriusxm.com](http://www.siriusxm.com)
 - [http://www.honda.co.uk](http://www.honda.co.uk)
 - [https://www.honda.com.vn](https://www.honda.com.vn)
 - [https://www.honda.co.th](https://www.honda.co.th)
@@ -472,9 +470,9 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Garden Tool](/products_or_materials_produced/garden-tool/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Truck](/products_or_materials_produced/truck/); [Engine](/products_or_materials_produced/engine/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Robot](/products_or_materials_produced/robot/); [Car](/products_or_materials_produced/car/); [Airplane](/products_or_materials_produced/airplane/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Airplane](/products_or_materials_produced/airplane/); [Engine](/products_or_materials_produced/engine/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Robot](/products_or_materials_produced/robot/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Truck](/products_or_materials_produced/truck/); [Electrical Generator](/products_or_materials_produced/electrical-generator/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
-| Foundation Date | [1948](/foundation_dates/1948/); [1946](/foundation_dates/1946/) |
+| Foundation Date | [1946](/foundation_dates/1946/); [1948](/foundation_dates/1948/) |
 | Country | Japan |
 | Member Of | Open Automotive Alliance, Linux Foundation (from 2016-09-07) |
 | Headquarters Location | Minato |

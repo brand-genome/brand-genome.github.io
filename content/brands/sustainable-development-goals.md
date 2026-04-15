@@ -2,16 +2,16 @@
 title: Sustainable Development Goals
 slug: "sustainable-development-goals"
 description: ""
-date: "2026-04-10T09:40:31.991835"
+date: "2026-04-15T09:21:23.424086"
 draft: false
 sectors:
-  - ngo
   - "public-sector"
+  - ngo
 regions:
   - international
 years:
-  - 2019
   - 2023
+  - 2019
 languages:
   - english
 tags:

@@ -2,7 +2,7 @@
 title: NZ on Air
 slug: "nz-on-air"
 description: ""
-date: "2026-04-10T09:40:31.458469"
+date: "2026-04-15T09:21:23.113143"
 draft: false
 sectors:
   - "public-sector"
@@ -70,8 +70,6 @@ visual_term_image_urls: {}
 - [https://portal.nzonair.govt.nz](https://portal.nzonair.govt.nz)
 - [https://funding.nzonair.govt.nz](https://funding.nzonair.govt.nz)
 - [https://www.nzonscreen.com](https://www.nzonscreen.com)
-- [http://www.heihei.nz](http://www.heihei.nz)
-- [http://www.govt.nz](http://www.govt.nz)
 
 ## Additional Properties
 

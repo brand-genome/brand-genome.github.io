@@ -2,7 +2,7 @@
 title: Higher Colleges of Technology
 slug: "higher-colleges-of-technology"
 description: ""
-date: "2026-04-10T09:40:33.780538"
+date: "2026-04-15T09:21:24.759828"
 draft: false
 sectors:
   - university

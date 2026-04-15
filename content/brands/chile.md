@@ -2,7 +2,7 @@
 title: Chile
 slug: chile
 description: ""
-date: "2026-04-10T09:40:33.143793"
+date: "2026-04-15T09:21:24.074266"
 draft: false
 sectors:
   - "public-sector"
@@ -14,11 +14,10 @@ years:
 languages:
   - spanish
 tags:
-  - institution
   - featured
+  - institution
 industries: []
-countries:
-  - chile
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "men's national association football team representing Chile"
-wikidata_url: "https://www.wikidata.org/wiki/Q172025"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.marcachile.cl](https://www.marcachile.cl)
-- [https://www.laroja.cl](https://www.laroja.cl)
 
 ## Brand Guidelines
 
@@ -309,51 +307,3 @@ visual_term_image_urls: {}
 - En esta página se entregan lineamientos para el uso de la imagen gráfica en redes sociales, campañas, banners, micro-sitios, etc. Las diferentes reparticiones de gobierno deberán utilizar estos criterios a la hora de configurar sus cuentas. Para evitar incurrir en errores, utilizar las plantillas para este tipo de documentos.
 - Avatar Twitter Favicon.ico 32x32 pixéles.
 - Avatar Facebook
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q172025) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Chile national football team |
-| Freebase Id | /m/033nzk |
-| Sport | association football |
-| Participant In | 1930 FIFA World Cup, 1962 FIFA World Cup, 1966 FIFA World Cup, 1974 FIFA World Cup, 1982 FIFA World Cup (+9 more) |
-| X (Twitter) Username | LaRoja (as of 2018-05-10, from 2014-10-24) |
-| Country | Chile |
-| Official Name | Selección de fútbol de Chile |
-| Facebook Username | SeleccionChilena |
-| Fifa Country Code | CHI |
-| Quora Topic Id | Chile-National-Football-Team |
-| Country For Sport | Chile |
-| Ranking | 3 (as of 2016-04-07), 3 (as of 2016-05-05), 4 (as of 2017-02-09), 4 (as of 2017-03-09), 4 (as of 2017-04-06) (+275 more) |
-| Competition Class | men's association football |
-| Owned By | Football Federation of Chile |
-| History Of Topic | history of the Chile national football team |
-| Home Venue | Julio Martínez Prádanos National Stadium |
-| Flag Image | Flag of Chile.svg |
-| Team Captain | Gary Medel |
-| Transfermarkt Team Id | 3700 |
-| Social Media Followers | 585,690 (as of 2021-01-07), 460,968 (as of 2018-05-10), 751,210 (as of 2022-03-01), 847,285 (as of 2023-02-07), 36,800 (as of 2024-07-20) (+1 more) |
-| Head Coach | Ricardo Gareca (from 2024-01-25, until 2025-06-11), Eduardo Berizzo (from 2022-05-26, until 2023-11-17) |
-| Opta Football Team Id | 831 |
-| Competition Won | 2015 Copa América, Copa América Centenario |
-| Great Russian Encyclopedia Portal Id | sbornaia-chili-po-futbolu-ad5df1 |
-| Playmakerstats.Com Team Id | 936 |
-| Worldfootball.Net Team Id (Old) | chile-team |
-| Scorebar / Soccerway Team Id | 424 |
-| National Football Teams.Com Team Id | 41 |
-| Kicker Team Id | chile |
-| Goalzz.Com Team Id | 344 |
-| Dongqiudi.Com Team Id | 50000326 |
-| Fandom Article Id | football:Chile_national_football_team |
-| Kit Supplier | Adidas AG |
-| Instagram Username | laroja |
-| Youtube Channel Id | UCcxSAppTL9uUkV6-rEuT5Og (as of 2024-07-14, from 2014-05-14) |
-| Bbc Things Id | 021d0bd4-7cca-450b-9960-2fd51cb9dff5 |
-| Short Name | Чылі |
-| Category For Members Of A Team | Category:Chile men's international footballers |
-| Subclass Of | national sports team |

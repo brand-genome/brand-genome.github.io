@@ -2,7 +2,7 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-04-10T09:40:31.986859"
+date: "2026-04-15T09:21:23.418376"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - featured
-  - sport
   - vintage
+  - sport
 industries: []
 countries:
   - switzerland

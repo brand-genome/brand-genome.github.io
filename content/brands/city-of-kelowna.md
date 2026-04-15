@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-04-10T09:40:34.636344"
+date: "2026-04-15T09:21:25.630053"
 draft: false
 sectors:
   - "public-sector"

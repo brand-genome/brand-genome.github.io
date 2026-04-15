@@ -2,11 +2,11 @@
 title: Hexaware
 slug: hexaware
 description: ""
-date: "2026-04-10T09:40:30.767662"
+date: "2026-04-15T09:21:22.365523"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - india
 years:

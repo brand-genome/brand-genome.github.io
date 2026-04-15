@@ -2,7 +2,7 @@
 title: Your Europe
 slug: "your-europe"
 description: ""
-date: "2026-04-10T09:40:30.786475"
+date: "2026-04-15T09:21:22.387318"
 draft: false
 sectors:
   - "public-sector"

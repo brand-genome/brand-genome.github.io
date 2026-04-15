@@ -2,7 +2,7 @@
 title: Microsoft Bing
 slug: "microsoft-bing"
 description: ""
-date: "2026-04-10T09:40:32.982339"
+date: "2026-04-15T09:21:23.936090"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - internet
+  - software
 industries: []
 countries:
   - "united-states"

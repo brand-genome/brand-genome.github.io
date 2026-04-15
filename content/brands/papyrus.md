@@ -2,11 +2,11 @@
 title: Papyrus
 slug: papyrus
 description: ""
-date: "2026-04-10T09:40:30.850605"
+date: "2026-04-15T09:21:22.463124"
 draft: false
 sectors:
-  - ngo
   - healthcare
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: UML2 graphical editing tool based on Eclipse
-wikidata_url: "https://www.wikidata.org/wiki/Q7133257"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.papyrus-uk.org](https://www.papyrus-uk.org)
-- [http://eclipse.org/papyrus](http://eclipse.org/papyrus)
 
 ## Brand Guidelines
 
@@ -309,20 +308,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7133257) |
-
-| Property | Value |
-|----------|-------|
-| Copyright License | Eclipse Public License |
-| Developer | Alternative Energies and Atomic Energy Commission |
-| Repology Project Name | eclipse-papyrus |
-| Aur Package | papyrus |
-| Software Version Identifier | 4.4.0, 4.8.0 |
-| Programmed In | Java |
-| Has Use | UML modeling |
-| Freebase Id | /m/03m546t |

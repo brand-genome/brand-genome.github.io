@@ -2,15 +2,15 @@
 title: "Oeko-Tex"
 slug: "oeko-tex"
 description: ""
-date: "2026-04-10T09:40:30.826176"
+date: "2026-04-15T09:21:22.434435"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
 regions:
   - international
 years:
-  - 2023
   - 2024
+  - 2023
 languages:
   - english
   - chinese

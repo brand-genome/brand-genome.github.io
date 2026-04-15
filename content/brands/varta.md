@@ -2,11 +2,11 @@
 title: Varta
 slug: varta
 description: ""
-date: "2026-04-10T09:40:33.147215"
+date: "2026-04-15T09:21:24.076354"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - germany
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - technology
+  - corporate
 industries:
-  - "manufacture-of-batteries-and-accumulators"
   - "electrical-industry"
+  - "manufacture-of-batteries-and-accumulators"
 countries:
-  - germany
   - "german-reich"
+  - germany
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - berlin
   - hanover
+  - berlin
   - hagen
 subsidiaries: []
 foundation_dates:
@@ -84,7 +84,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Hanover](/headquarters_locations/hanover/); [Hagen](/headquarters_locations/hagen/) |
+| Headquarters Location | [Hanover](/headquarters_locations/hanover/); [Berlin](/headquarters_locations/berlin/); [Hagen](/headquarters_locations/hagen/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Pm20 Folder Id | co/041404 |
 | Board Member | Günther Quandt |

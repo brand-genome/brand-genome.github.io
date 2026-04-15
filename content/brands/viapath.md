@@ -2,7 +2,7 @@
 title: Viapath
 slug: viapath
 description: ""
-date: "2026-04-10T09:40:33.802116"
+date: "2026-04-15T09:21:24.781623"
 draft: false
 sectors:
   - software
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: British pathology company
-wikidata_url: "https://www.wikidata.org/wiki/Q17040700"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.viapath.com](https://www.viapath.com)
-- [http://www.viapath.co.uk](http://www.viapath.co.uk)
 
 ## Brand Guidelines
 
@@ -308,14 +307,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17040700) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/010qhhv8 |
-| Uk Parliament Thesaurus Id | 569187 |

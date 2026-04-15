@@ -2,7 +2,7 @@
 title: Frame.io
 slug: frameio
 description: ""
-date: "2026-04-10T09:40:32.570926"
+date: "2026-04-15T09:21:23.770643"
 draft: false
 sectors:
   - software

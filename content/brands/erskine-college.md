@@ -2,11 +2,11 @@
 title: Erskine College
 slug: "erskine-college"
 description: ""
-date: "2026-04-10T09:40:31.560894"
+date: "2026-04-15T09:21:23.206937"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Southeastern Railway
 slug: "southeastern-railway"
 description: ""
-date: "2026-04-10T09:40:30.640593"
+date: "2026-04-15T09:21:22.210933"
 draft: false
 sectors:
-  - railroad
   - "public-transportation"
+  - railroad
 regions:
   - "united-kingdom"
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1970
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "railway museum in Duluth, Georgia, USA"
-wikidata_url: "https://www.wikidata.org/wiki/Q7569499"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.southeasternrailway.co.uk](https://www.southeasternrailway.co.uk)
-- [https://www.train-museum.org](https://www.train-museum.org)
 
 ## Brand Guidelines
 
@@ -187,24 +183,3 @@ visual_term_image_urls: {}
 - Don't change our brand colours
 - Don't place on dark backgrounds unless you use a reversed variant
 - Don't place in a white box
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7569499) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1970](/foundation_dates/1970/) |
-| Coordinate Location | 33.988601, -84.155498 |
-| Country | United States |
-| Located In The Administrative Territorial Entity | Duluth |
-| Image | General Electric 44-ton switcher.jpg |
-| Inception | 1970-01-01 |
-| Location | Duluth |
-| Phone Number | +1-770-476-2013 |
-| Postal Code | 30096 |
-| Post Office Box | 1267 |
-| Street Address | 3595 Buford Highway, Duluth, GA 30096 |
-| Freebase Id | /m/05zr2t_ |

@@ -2,11 +2,11 @@
 title: "Didascalies & Co"
 slug: "didascalies-co"
 description: ""
-date: "2026-04-10T09:40:34.777849"
+date: "2026-04-15T09:21:25.756408"
 draft: false
 sectors:
-  - "arts-culture"
   - entertainment
+  - "arts-culture"
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - theater
   - cultural
+  - theater
 industries: []
 countries: []
 revenue_buckets: []

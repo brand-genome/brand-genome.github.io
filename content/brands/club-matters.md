@@ -2,7 +2,7 @@
 title: Club Matters
 slug: "club-matters"
 description: ""
-date: "2026-04-10T09:40:34.393555"
+date: "2026-04-15T09:21:25.343137"
 draft: false
 sectors:
   - sports
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers](https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers)
 - [https://www.sportengland.org/news/club-matters-launches](https://www.sportengland.org/news/club-matters-launches)
 - [http://www.sportenglandclubmatters.com](http://www.sportenglandclubmatters.com)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

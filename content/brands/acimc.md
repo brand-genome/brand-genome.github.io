@@ -2,11 +2,11 @@
 title: ACIMC
 slug: acimc
 description: ""
-date: "2026-04-10T09:40:34.762933"
+date: "2026-04-15T09:21:25.743336"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - france
 years:

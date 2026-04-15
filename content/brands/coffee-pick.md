@@ -2,7 +2,7 @@
 title: Coffee Pick
 slug: "coffee-pick"
 description: ""
-date: "2026-04-10T09:40:30.637595"
+date: "2026-04-15T09:21:22.206920"
 draft: false
 sectors:
   - software

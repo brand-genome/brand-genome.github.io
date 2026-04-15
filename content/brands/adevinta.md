@@ -2,11 +2,11 @@
 title: Adevinta
 slug: adevinta
 description: ""
-date: "2026-04-10T09:40:32.800649"
+date: "2026-04-15T09:21:23.860289"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - norway
 years:

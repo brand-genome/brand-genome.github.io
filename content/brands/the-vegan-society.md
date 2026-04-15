@@ -2,7 +2,7 @@
 title: The Vegan Society
 slug: "the-vegan-society"
 description: ""
-date: "2026-04-10T09:40:30.948776"
+date: "2026-04-15T09:21:22.560094"
 draft: false
 sectors:
   - ngo

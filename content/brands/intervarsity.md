@@ -2,11 +2,11 @@
 title: InterVarsity
 slug: intervarsity
 description: ""
-date: "2026-04-10T09:40:34.648446"
+date: "2026-04-15T09:21:25.641181"
 draft: false
 sectors:
-  - ngo
   - publishing
+  - ngo
 regions:
   - usa
 years:

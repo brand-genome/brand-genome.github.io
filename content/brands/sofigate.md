@@ -2,7 +2,7 @@
 title: Sofigate
 slug: sofigate
 description: ""
-date: "2026-04-10T09:40:33.655566"
+date: "2026-04-15T09:21:24.599242"
 draft: false
 sectors:
   - consulting

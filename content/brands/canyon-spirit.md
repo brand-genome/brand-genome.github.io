@@ -2,7 +2,7 @@
 title: Canyon Spirit
 slug: "canyon-spirit"
 description: ""
-date: "2026-04-10T09:40:30.648936"
+date: "2026-04-15T09:21:22.218396"
 draft: false
 sectors:
   - tourism

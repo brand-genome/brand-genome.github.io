@@ -2,11 +2,11 @@
 title: Ogury
 slug: ogury
 description: ""
-date: "2026-04-10T09:40:33.830869"
+date: "2026-04-15T09:21:24.808729"
 draft: false
 sectors:
-  - software
   - "marketing-advertising"
+  - software
 regions:
   - usa
 years:

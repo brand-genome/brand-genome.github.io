@@ -2,15 +2,15 @@
 title: Herman Miller
 slug: "herman-miller"
 description: ""
-date: "2026-04-10T09:40:31.392700"
+date: "2026-04-15T09:21:23.069655"
 draft: false
 sectors:
   - "consumer-goods"
 regions:
   - usa
 years:
-  - 2015
   - 2010
+  - 2015
 languages:
   - english
 tags:

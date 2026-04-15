@@ -2,7 +2,7 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-04-10T09:40:34.791804"
+date: "2026-04-15T09:21:25.769405"
 draft: false
 sectors:
   - "public-sector"

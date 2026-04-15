@@ -2,7 +2,7 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-04-10T09:40:32.596003"
+date: "2026-04-15T09:21:23.793697"
 draft: false
 sectors:
   - "consumer-goods"

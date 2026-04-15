@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-04-10T09:40:34.152054"
+date: "2026-04-15T09:21:25.057283"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2015
   - 2007
+  - 2015
 languages:
   - english
 tags:
@@ -27,11 +27,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - bus
-  - truck
-  - "passenger-car"
-  - engine
   - "commercial-vehicle"
+  - engine
+  - bus
+  - "passenger-car"
+  - truck
 products: []
 headquarters_locations:
   - stuttgart
@@ -95,7 +95,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bus](/products_or_materials_produced/bus/); [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Engine](/products_or_materials_produced/engine/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/); [Bus](/products_or_materials_produced/bus/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |

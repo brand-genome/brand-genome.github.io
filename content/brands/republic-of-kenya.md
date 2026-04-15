@@ -2,7 +2,7 @@
 title: Republic of Kenya
 slug: "republic-of-kenya"
 description: ""
-date: "2026-04-10T09:40:32.520775"
+date: "2026-04-15T09:21:23.726081"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

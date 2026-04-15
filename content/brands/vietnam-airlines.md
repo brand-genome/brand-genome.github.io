@@ -2,7 +2,7 @@
 title: Vietnam Airlines
 slug: "vietnam-airlines"
 description: ""
-date: "2026-04-10T09:40:33.676794"
+date: "2026-04-15T09:21:24.617452"
 draft: false
 sectors:
   - airline

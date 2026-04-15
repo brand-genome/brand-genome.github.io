@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-04-10T09:40:33.095299"
+date: "2026-04-15T09:21:24.031443"
 draft: false
 sectors:
-  - ngo
-  - research
   - publishing
+  - research
+  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - biology
   - community
+  - biology
   - science
 industries: []
 countries:

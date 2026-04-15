@@ -2,7 +2,7 @@
 title: City of San Diego
 slug: "city-of-san-diego"
 description: ""
-date: "2026-04-10T09:40:34.882893"
+date: "2026-04-15T09:21:25.854127"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - city
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: government agency
-wikidata_url: "https://www.wikidata.org/wiki/Q110781491"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sandiego.gov](https://www.sandiego.gov)
-- [https://www.sandiego.gov/parks-and-recreation](https://www.sandiego.gov/parks-and-recreation)
 
 ## Brand Guidelines
 
@@ -266,13 +264,3 @@ visual_term_image_urls: {}
 ##### Design Samples And Templates
 
 - No data was found in the selected collection for your question. This could be due to a system configuration issue, or there may not be relevant data matching your query. Suggestion: Try rephrasing your question with more specific information, or contact support if you believe this is a technical error.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q110781491) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |

@@ -2,12 +2,12 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-04-10T09:40:33.279138"
+date: "2026-04-15T09:21:24.216629"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

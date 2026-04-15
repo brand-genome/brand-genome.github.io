@@ -2,7 +2,7 @@
 title: Fédération Française de Karaté
 slug: "federation-francaise-de-karate"
 description: ""
-date: "2026-04-10T09:40:34.437907"
+date: "2026-04-15T09:21:25.383029"
 draft: false
 sectors:
   - sports

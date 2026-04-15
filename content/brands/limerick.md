@@ -2,11 +2,11 @@
 title: Limerick
 slug: limerick
 description: ""
-date: "2026-04-10T09:40:34.027545"
+date: "2026-04-15T09:21:24.945534"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ireland
 years:

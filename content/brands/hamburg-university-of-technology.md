@@ -2,7 +2,7 @@
 title: Hamburg University of Technology
 slug: "hamburg-university-of-technology"
 description: ""
-date: "2026-04-10T09:40:32.679369"
+date: "2026-04-15T09:21:23.829213"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - technology
+  - education
 industries: []
 countries:
   - germany

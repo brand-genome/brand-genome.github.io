@@ -2,7 +2,7 @@
 title: Chiesi
 slug: chiesi
 description: ""
-date: "2026-04-10T09:40:32.561860"
+date: "2026-04-15T09:21:23.760642"
 draft: false
 sectors:
   - biotech
@@ -16,8 +16,7 @@ languages:
 tags:
   - health
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1650
-foundation_year_buckets:
-  - "17TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Hospital or nursing home in Meldola (FC)
-wikidata_url: "https://www.wikidata.org/wiki/Q106082657"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -161,20 +158,3 @@ visual_term_image_urls: {}
 - As we are proud of our B Corp certification it should also be promoted in corporate communications, such as in email signatures and corporate brochures.
 - The logo is available in both black and white variations, and has its own set of brand guidelines, which should be reviewed separately.
 - Supporting files: Comprehensive brand guidelines (and a complete set of logos) are available for B Corp certification. These are available in English, French, German, Italian, Spanish and Portuguese.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q106082657) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1650](/foundation_dates/1650/) |
-| Country | Italy |
-| Tourer.It Id | 17952 |
-| Located In The Administrative Territorial Entity | Meldola |
-| Coordinate Location | 44.125835, 12.060538 |
-| Street Address | via Cavour 60 ‒ Meldola (FC) |
-| Inception | 1650-01-01 |
-| Heritage Designation | Italian national heritage |

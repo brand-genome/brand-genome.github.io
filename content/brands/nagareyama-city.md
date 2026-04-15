@@ -2,7 +2,7 @@
 title: Nagareyama city
 slug: "nagareyama-city"
 description: ""
-date: "2026-04-10T09:40:31.983968"
+date: "2026-04-15T09:21:23.415025"
 draft: false
 sectors:
   - "public-sector"
@@ -16,8 +16,7 @@ tags:
   - city
   - regional
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1978
-foundation_year_buckets:
-  - 1970S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "museum in Nagareyama, Chiba, Japan"
-wikidata_url: "https://www.wikidata.org/wiki/Q11556656"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.city.nagareyama.chiba.jp](https://www.city.nagareyama.chiba.jp)
 - [https://m.city.nagareyama.chiba.jp](https://m.city.nagareyama.chiba.jp)
-- [https://www.city.nagareyama.chiba.jp/life/1001780/1001785/index.html](https://www.city.nagareyama.chiba.jp/life/1001780/1001785/index.html)
 
 ## Brand Guidelines
 
@@ -259,32 +255,3 @@ visual_term_image_urls: {}
 ##### Direct Mailer
 
 - 2016 ANNUAL CONFERENCE Inspired Marketing UX Design Trends Save the date for THE marketing event of the year. Save the date for THE marketing event of the year. SEPTEMBER 27-29 JW Marriott, Austin, TX JW Marriott, Austin, TX ama.org/annual ama.org/annual Join us in Austin this September and be prepared to go beyond the content, to seek clarity, innovations, insights & next practices. AM> content, to seek clarity, innovations, insights & next practices. AM> American Marketing Association American Marketing Association 311 South Wacker Drive #5800 311 South Wacker Drive #5800 Chicago IL 60606-6629 Chicago IL 60606-6629 KEYNOTE SPEAKERS KEYNOTE SPEAKERS Guy Kawasaki Chris Di Cesare Guy Kawasaki Chris Di Cesare Chief Evangelist, Canva Head of Creative Programming Chief Evangelist, Canva Head of Creative Programming at Google/YouTube • at Google/YouTube STRATEGIC TRACKS STRATEGIC TRACKS • Insights & Innovation • From Chaos to Clarity: Resilience • Insights & Innovation: • From Chaos to Clarity: Resilience An Inextricable Link in an Ever-Changing World An Inextricable Link in an Ever-Changing World • Next Practices: Getting Ahead • Beyond Content: The Key to • Next Practices: Getting Ahead • Beyond Content: The Key to of the Marketing Curve Competitive Advantage of the Marketing Curve Competitive Advantage Register before September 1st to save To learn more visit: ama.org/annual Register before September 1st to save To learn more visit: ama.org/annual with the early registration fee. with the early registration fee. Official Conference Official Conference Partner Sponsors PPA! @aapresv Partner Sponsors PPAJ @dapresv Sponsorship and exhibit opportunities are available. Contact Lore Gil at 312-542-9033 or email Igil@ama.org Sponsorship and exhibit opportunities are available. Contact Lore Gil at 312-542-9033 or email Igil@ama.org
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11556656) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1978](/foundation_dates/1978/) |
-| Inception | 1978-01-01 |
-| Country | Japan |
-| Library Of Congress Authority Id | n85371475 |
-| Viaf Cluster Id | 261512355 |
-| Street Address | 千葉県流山市加1-1225-6 |
-| Member Of | Japanese Liaison Council of History and Folk Museums |
-| Coordinate Location | 35.858659, 139.902416 |
-| Google Knowledge Graph Id | /g/122w1dxc |
-| Located In The Administrative Territorial Entity | Ka |
-| Facebook Username | 158423778069641 |
-| Date Of Official Opening | 1978-06 |
-| Tripadvisor Id | 3948955 |
-| X (Twitter) Username | mus_nagareyama (as of 2023-01-16, from 2022-08-21) |
-| Instagram Username | mus_nagareyama |
-| Image | Nagareyama City Museum ac.jpg |
-| Openstreetmap Node Id | 1420741114 |
-| Cultural Heritage Online (Japan) Institution Id | 152 |
-| Isil | JP-2001176 |
-| ‎Yale Lux Id | group/bcb999d1-d5fb-4080-ba63-88b965557f3a |

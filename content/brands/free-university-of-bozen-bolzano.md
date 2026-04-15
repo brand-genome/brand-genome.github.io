@@ -2,11 +2,11 @@
 title: Free University of Bozen • Bolzano
 slug: "free-university-of-bozen-bolzano"
 description: ""
-date: "2026-04-10T09:40:32.087062"
+date: "2026-04-15T09:21:23.572268"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

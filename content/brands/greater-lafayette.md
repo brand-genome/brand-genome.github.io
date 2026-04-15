@@ -2,11 +2,11 @@
 title: Greater Lafayette
 slug: "greater-lafayette"
 description: ""
-date: "2026-04-10T09:40:31.983785"
+date: "2026-04-15T09:21:23.414912"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - community
   - featured
   - regional
-  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,4 +66,3 @@ visual_term_image_urls: {}
 
 - [https://greaterlafayetteind.com](https://greaterlafayetteind.com)
 - [https://greaterlafayetteind.com/about](https://greaterlafayetteind.com/about)
-- [http://www.myfonts.com](http://www.myfonts.com)

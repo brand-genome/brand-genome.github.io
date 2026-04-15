@@ -2,11 +2,11 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-04-10T09:40:34.531953"
+date: "2026-04-15T09:21:25.463552"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - design
   - university
+  - design
 industries: []
 countries:
   - canada

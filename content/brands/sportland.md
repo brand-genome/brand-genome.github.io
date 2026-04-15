@@ -2,11 +2,11 @@
 title: Sportland
 slug: sportland
 description: ""
-date: "2026-04-10T09:40:33.157979"
+date: "2026-04-15T09:21:24.085987"
 draft: false
 sectors:
-  - sports
   - tourism
+  - sports
 regions:
   - italy
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - austria
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2019
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Austrian cycling team
-wikidata_url: "https://www.wikidata.org/wiki/Q63225798"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,20 +69,3 @@ visual_term_image_urls: {}
 ### 2018
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q63225798) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2019](/foundation_dates/2019/) |
-| Sport | road bicycle racing |
-| Country | Austria |
-| Uci Code Of Cycling Team | CTN |
-| Official Name | Sport.Land. Niederösterreich Selle SMP-St Rich Bikewear (from 2019, until 2019), Sport.Land. Niederösterreich (from 2020, until 2020) |
-| Has Part(S) | 2019 Sport.Land. Niederösterreich Selle SMP-St Rich Bikewear |
-| Dissolved, Abolished Or Demolished Date | 2020 |
-| Inception | 2019 |

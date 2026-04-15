@@ -2,27 +2,27 @@
 title: HP
 slug: hp
 description: ""
-date: "2026-04-10T09:40:30.821582"
+date: "2026-04-15T09:21:22.426790"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - "home-appliances"
+  - electronics
+  - hardware
 regions:
   - usa
 years:
+  - 2006
   - 2019
   - 2020
-  - 2006
 languages:
   - english
 tags:
   - corporate
 industries:
+  - "software-industry"
+  - "computer-hardware-industry"
   - "information-and-communications-industry"
   - "information-technology-industry"
-  - "computer-hardware-industry"
-  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,22 +38,22 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "digital-camera"
-  - laptop
-  - "networking-hardware"
   - "systems-integrator"
-  - "mobile-phone"
-  - "computer-storage-media"
+  - printer
   - software
+  - computer
+  - "digital-camera"
+  - "tablet-computer"
+  - "mobile-phone"
+  - laptop
+  - "computer-storage-media"
+  - "computer-hardware"
+  - server
+  - smartphone
+  - "networking-hardware"
   - "pocket-computer"
   - "image-scanner"
-  - "computer-hardware"
-  - printer
-  - smartphone
-  - "tablet-computer"
   - "personal-computer"
-  - server
-  - computer
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -962,7 +962,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Digital Camera](/products_or_materials_produced/digital-camera/); [Laptop](/products_or_materials_produced/laptop/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Software](/products_or_materials_produced/software/); [Pocket Computer](/products_or_materials_produced/pocket-computer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Printer](/products_or_materials_produced/printer/); [Smartphone](/products_or_materials_produced/smartphone/); +4 more |
+| Product Or Material Produced | [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Printer](/products_or_materials_produced/printer/); [Software](/products_or_materials_produced/software/); [Computer](/products_or_materials_produced/computer/); [Digital Camera](/products_or_materials_produced/digital-camera/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Laptop](/products_or_materials_produced/laptop/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/); [Smartphone](/products_or_materials_produced/smartphone/); +4 more |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1939](/foundation_dates/1939/) |
 | Topic'S Main Category | Category:Hewlett-Packard |

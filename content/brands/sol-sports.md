@@ -2,11 +2,11 @@
 title: Sol Sports
 slug: "sol-sports"
 description: ""
-date: "2026-04-10T09:40:34.394296"
+date: "2026-04-15T09:21:25.343935"
 draft: false
 sectors:
-  - fashion
   - aerospace
+  - fashion
 regions:
   - brazil
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2003
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q11315426"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +65,6 @@ visual_term_image_urls: {}
 - [https://solsportswear.com.br](https://solsportswear.com.br)
 - [https://loja.solparagliders.com.br](https://loja.solparagliders.com.br)
 - [https://solparagliders.com.br/es](https://solparagliders.com.br/es)
-- [http://www.sskamo.co.jp/sol](http://www.sskamo.co.jp/sol)
 
 ## Brand Guidelines
 
@@ -314,18 +310,3 @@ visual_term_image_urls: {}
 ##### Environmental Applications
 
 - This example demonstrates an environment that can be created within our graphic system.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11315426) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2003](/foundation_dates/2003/) |
-| Inception | 2003-01-24 |
-| Corporate Number (Japan) | 2011001039768 |
-| Google Knowledge Graph Id | /g/122yykjx |
-| Country | Japan |
-| Opencorporates Id | jp/2011001039768 |

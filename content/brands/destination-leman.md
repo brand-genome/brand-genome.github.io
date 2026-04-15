@@ -2,7 +2,7 @@
 title: Destination Leman
 slug: "destination-leman"
 description: ""
-date: "2026-04-10T09:40:32.819084"
+date: "2026-04-15T09:21:23.868632"
 draft: false
 sectors:
   - tourism
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.destination-leman.com/en](https://www.destination-leman.com/en)
 - [https://www.destination-leman.com/de](https://www.destination-leman.com/de)
 - [http://www.destination-leman.com](http://www.destination-leman.com)
-- [http://www.leman.com](http://www.leman.com)
 
 ## Brand Guidelines
 

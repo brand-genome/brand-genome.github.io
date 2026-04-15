@@ -2,7 +2,7 @@
 title: EastMidlands Councils
 slug: "eastmidlands-councils"
 description: ""
-date: "2026-04-10T09:40:34.476065"
+date: "2026-04-15T09:21:25.414910"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.emcouncils.gov.uk](https://www.emcouncils.gov.uk)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Architecture Contemporaine Remarquable
 slug: "architecture-contemporaine-remarquable"
 description: ""
-date: "2026-04-10T09:40:32.002201"
+date: "2026-04-15T09:21:23.428980"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ years:
 languages:
   - french
 tags:
-  - architecture
   - featured
+  - architecture
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.culture.gouv.fr/aides-demarches/protections-labels-et-appellations/label-architecture-contemporaine-remarquable](https://www.culture.gouv.fr/aides-demarches/protections-labels-et-appellations/label-architecture-contemporaine-remarquable)
-- [http://www.fondation-patrimoine.org](http://www.fondation-patrimoine.org)
 - [https://www.culture.gouv.fr/Aides-demarches](https://www.culture.gouv.fr/Aides-demarches)
 
 ## Brand Guidelines

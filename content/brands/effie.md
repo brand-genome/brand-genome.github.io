@@ -2,7 +2,7 @@
 title: Effie
 slug: effie
 description: ""
-date: "2026-04-10T09:40:30.556216"
+date: "2026-04-15T09:21:22.077526"
 draft: false
 sectors:
   - "marketing-advertising"

@@ -2,11 +2,11 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-04-10T09:40:34.683140"
+date: "2026-04-15T09:21:25.671754"
 draft: false
 sectors:
-  - research
   - biotech
+  - research
 regions:
   - france
 years:
@@ -14,12 +14,11 @@ years:
 languages:
   - french
 tags:
-  - biology
   - featured
+  - biology
   - science
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -54,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: research institute at University of Edinburgh
-wikidata_url: "https://www.wikidata.org/wiki/Q132530755"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.igmm.cnrs.fr](https://www.igmm.cnrs.fr)
 - [https://application.igmm.cnrs.fr](https://application.igmm.cnrs.fr)
-- [https://institute-genetics-cancer.ed.ac.uk](https://institute-genetics-cancer.ed.ac.uk)
 
 ## Brand Guidelines
 
@@ -198,16 +196,3 @@ visual_term_image_urls: {}
 - Le logo ne doit pas de remplissage inopportun.
 - Le logo doit être affiché dans sa version monochrome quand il est sup-perposé sur une image.
 - Le logo peut être utilisé dans sa version couleur lorsqu’il est affiché dans un cartouche blanc qui respecte les zones d’exclusions.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q132530755) |
-
-| Property | Value |
-|----------|-------|
-| Country | United Kingdom |
-| Located In The Administrative Territorial Entity | Edinburgh |
-| Ror Id | 05hygey35 |
-| Grid Id | grid.415854.9 |

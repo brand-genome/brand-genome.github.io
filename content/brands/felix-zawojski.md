@@ -2,7 +2,7 @@
 title: Felix Zawojski
 slug: "felix-zawojski"
 description: ""
-date: "2026-04-10T09:40:33.402054"
+date: "2026-04-15T09:21:24.333515"
 draft: false
 sectors:
   - hospitality
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.artlebedev.ru/felix-zawojski/site](https://www.artlebedev.ru/felix-zawojski/site)
-- [http://www.artlebedev.ru/type/mirta](http://www.artlebedev.ru/type/mirta)
 
 ## Brand Guidelines
 

@@ -2,21 +2,21 @@
 title: McMaster University
 slug: "mcmaster-university"
 description: ""
-date: "2026-04-10T09:40:34.135006"
+date: "2026-04-15T09:21:25.042661"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
-  - 2017
   - 2010
+  - 2017
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - canada

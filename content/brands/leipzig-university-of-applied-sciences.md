@@ -2,11 +2,11 @@
 title: Leipzig University of Applied Sciences
 slug: "leipzig-university-of-applied-sciences"
 description: ""
-date: "2026-04-10T09:40:32.101479"
+date: "2026-04-15T09:21:23.588847"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - germany
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 
 - [https://www.htwk-leipzig.de](https://www.htwk-leipzig.de)
 - [https://www.htwk-leipzig.de/en/htwk-leipzig](https://www.htwk-leipzig.de/en/htwk-leipzig)
-- [http://www.leipzig.de](http://www.leipzig.de)
 - [https://www.htwk-leipzig.de/startseite](https://www.htwk-leipzig.de/startseite)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Fédération Française de Billard
 slug: "federation-francaise-de-billard"
 description: ""
-date: "2026-04-10T09:40:33.076204"
+date: "2026-04-15T09:21:24.011058"
 draft: false
 sectors:
   - sports

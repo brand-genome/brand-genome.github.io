@@ -2,7 +2,7 @@
 title: BMW Clubs
 slug: "bmw-clubs"
 description: ""
-date: "2026-04-10T09:40:34.389226"
+date: "2026-04-15T09:21:25.338791"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - transport
+  - sport
 industries: []
 countries: []
 revenue_buckets: []

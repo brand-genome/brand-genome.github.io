@@ -2,11 +2,11 @@
 title: Université Laval
 slug: "universite-laval"
 description: ""
-date: "2026-04-10T09:40:34.673166"
+date: "2026-04-15T09:21:25.664006"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.ulaval.ca/en](https://www.ulaval.ca/en)
 - [https://www.reg.ulaval.ca](https://www.reg.ulaval.ca)
 - [https://www.fsa.ulaval.ca](https://www.fsa.ulaval.ca)
-- [http://www.cairn.info/revue-nouvelles-](http://www.cairn.info/revue-nouvelles-)
 - [http://www.ulaval.ca](http://www.ulaval.ca)
 
 ## Brand Guidelines

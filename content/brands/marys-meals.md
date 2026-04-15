@@ -2,7 +2,7 @@
 title: Mary’s Meals
 slug: "marys-meals"
 description: ""
-date: "2026-04-10T09:40:34.422294"
+date: "2026-04-15T09:21:25.368181"
 draft: false
 sectors:
   - ngo

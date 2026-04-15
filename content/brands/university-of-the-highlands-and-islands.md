@@ -2,11 +2,11 @@
 title: University of the Highlands and Islands
 slug: "university-of-the-highlands-and-islands"
 description: ""
-date: "2026-04-10T09:40:31.556337"
+date: "2026-04-15T09:21:23.203389"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - scotland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

@@ -2,7 +2,7 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-04-10T09:40:34.717771"
+date: "2026-04-15T09:21:25.699231"
 draft: false
 sectors:
   - drink
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
-countries:
-  - italy
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -30,10 +29,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1737
-foundation_year_buckets:
-  - "18TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "opera house in Naples, Italy"
-wikidata_url: "https://www.wikidata.org/wiki/Q628491"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -64,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.teatrosancarlo.it](http://www.teatrosancarlo.it)
-
 ## Brand Guidelines
 
 ### 2006
@@ -311,55 +304,3 @@ visual_term_image_urls: {}
 - We're one OSU, with one mission, and now one identity.
 - The OSU Brand was updated again in 2019, but the most significant development is that the brand will now represent all of Oklahoma State University, not just its athletic department.
 - This logo is widely recognized and associated regionally, nationally and internationally with Oklahoma State University. It provides the opportunity to educate, motivate and inspire wherever our Brand appears.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q628491) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1737](/foundation_dates/1737/) |
-| Coordinate Location | 40.8373882298, 14.2496871007 |
-| Architect | Giovanni Antonio Medrano, Angelo Carasale |
-| Freebase Id | /m/031p43 |
-| Musicbrainz Place Id | 2752fd71-bac4-4038-abd4-271bb55172d6 |
-| Image | Teatro de San Carlos, Nápoles, Italia, 2023-03-25, DD 184-186 HDR.jpg |
-| Country | Italy |
-| Viaf Cluster Id | 126846559 |
-| Gran Enciclopèdia Catalana Id (Former Scheme) | 0058570 |
-| Located In The Administrative Territorial Entity | Naples |
-| Great Russian Encyclopedia Online Id (2017) | 3532089 |
-| Euta Theatre Id | 986 |
-| Google Arts & Culture Partner Id | teatro-di-san-carlo |
-| Heritage Designation | Italian national heritage |
-| Phone Number | +39-081-797-2111 |
-| Email Address | lettere@teatrosancarlo.it |
-| Postal Code | 80132 |
-| Bibliothèque Nationale De France Id | 120852376 |
-| Idref Id | 029170508 |
-| Carthalia Id | 2378 |
-| Dbunico Mibact Id | 108225 |
-| Isni | 0000000121093021 |
-| Street Address | Via San Carlo 98/F - Napoli |
-| Native Label | Real Teatro di San Carlo |
-| Library Of Congress Authority Id | n83215452 |
-| Category For The Interior Of The Item | Category:Interior of Teatro San Carlo (Naples) |
-| Gran Enciclopèdia De La Música Id | 3767 |
-| Topic'S Main Category | Category:Ballet of Teatro di San Carlo |
-| Alexander Turnbull Library Id | 128426 |
-| Share Catalogue Author Id | 183925 |
-| Spap Id | a/d3dc8d6a-9f9c-4102-9e59-390a485dca93 |
-| National Library Of Israel J9U Id | 987007268835505171 |
-| Image Of Interior | Teatro San Carlo - View of stage from Royal Box.JPG, Teatro San Carlo large view.jpg |
-| Inception | 1737-11-04 |
-| Nl Cr Aut Id | kv20191048184 |
-| Field Of Work | opera house, opera, concert, play |
-| Fondoambiente.It Id | teatro-di-san-carlo |
-| Gnd Id | 1190671050 |
-| Great Russian Encyclopedia Portal Id | san-karlo-19ce1d |
-| Gran Enciclopèdia Catalana Id | teatro-san-carlo |
-| Named After | Charles Borromeo |
-| ‎Yale Lux Id | place/0192e506-b7c8-4b9b-b50c-46ca19c671ad |
-| Nacsis Cat Author Id | DA14548733 |

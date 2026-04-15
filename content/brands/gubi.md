@@ -2,7 +2,7 @@
 title: Gubi
 slug: gubi
 description: ""
-date: "2026-04-10T09:40:30.960997"
+date: "2026-04-15T09:21:22.577585"
 draft: false
 sectors:
   - "consumer-goods"
@@ -16,8 +16,7 @@ languages:
 tags:
   - design
 industries: []
-countries:
-  - poland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "railway station in Gubin, Poland"
-wikidata_url: "https://www.wikidata.org/wiki/Q9282527"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -177,30 +176,3 @@ visual_term_image_urls: {}
 - In the GUBI Library you can find materials customized for social media, including story posts and small videos for both story and feed post in correct crops. Visit the library and be inspired by using the tag "Digital Activation". This is the only imagery with text across you are allowed to use.
 - When using GUBI imagery on any platform, keep in mind that all general image guidelines apply. In addition, you are not allowed to place any kind of text, figures, icons, etc. on our imagery.
 - We recommend partners only to showcase images of products they have available for customers to buy.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q9282527) |
-
-| Property | Value |
-|----------|-------|
-| Country | Poland |
-| Coordinate Location | 51.978611111111, 14.723611111111 |
-| Adjacent Station | Wałowice, Guben railway station |
-| Located In The Administrative Territorial Entity | Gubin |
-| Connecting Line | Guben-Zbąszynek railway |
-| Located In Time Zone | Central European Time |
-| Image | Stacja gubin2.JPG |
-| Polish Nationwide Railway Database   Station Id | 190 |
-| Google Knowledge Graph Id | /g/122kcq30 |
-| Connecting Service | RB 92 (Poland / Germany), RB 92 (Poland / Germany) |
-| Ibnr Id | 5101281 |
-| Operator | PKP Polskie Linie Kolejowe |
-| Owned By | PKP Polskie Linie Kolejowe |
-| State Of Use | in use |
-| Transport Network | Verkehrsverbund Berlin-Brandenburg |
-| Deutsche Bahn Station Code | XPGU |
-| Openstreetmap Node Id | 9815748245 |
-| Uic Station Code | 5102800 |

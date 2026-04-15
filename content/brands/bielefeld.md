@@ -2,7 +2,7 @@
 title: Bielefeld
 slug: bielefeld
 description: ""
-date: "2026-04-10T09:40:31.405612"
+date: "2026-04-15T09:21:23.076931"
 draft: false
 sectors:
   - "public-sector"
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 - [https://www.bielefeld-marketing.de](https://www.bielefeld-marketing.de)
 - [https://www.bielefeld.jetzt](https://www.bielefeld.jetzt)
 - [http://www.bielefeld.jetzt/weihnachtsmarkt](http://www.bielefeld.jetzt/weihnachtsmarkt)
-- [http://www.deteringdesign.de](http://www.deteringdesign.de)
-- [http://www.radiobielefeld.de](http://www.radiobielefeld.de)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "Nutri-score"
 slug: "nutri-score"
 description: ""
-date: "2026-04-10T09:40:32.534605"
+date: "2026-04-15T09:21:23.735260"
 draft: false
 sectors:
   - "public-sector"

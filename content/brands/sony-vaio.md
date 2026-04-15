@@ -2,11 +2,11 @@
 title: Sony Vaio
 slug: "sony-vaio"
 description: ""
-date: "2026-04-10T09:40:34.806285"
+date: "2026-04-15T09:21:25.782544"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - japan
 years:

@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-04-10T09:40:30.563586"
+date: "2026-04-15T09:21:22.085800"
 draft: false
 sectors:
   - ngo
@@ -34,8 +34,8 @@ foundation_dates:
   - 1919
   - 1964
 foundation_year_buckets:
-  - 1910S
   - 1960S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []

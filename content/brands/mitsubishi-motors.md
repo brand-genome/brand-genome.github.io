@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-04-10T09:40:33.644576"
+date: "2026-04-15T09:21:24.589858"
 draft: false
 sectors:
   - automobile

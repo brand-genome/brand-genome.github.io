@@ -2,11 +2,11 @@
 title: Ford
 slug: ford
 description: ""
-date: "2026-04-10T09:40:31.995325"
+date: "2026-04-15T09:21:23.426043"
 draft: false
 sectors:
-  - finance
   - automobile
+  - finance
 regions:
   - usa
 years:
@@ -36,8 +36,8 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "passenger-car"
   - truck
+  - "passenger-car"
 products: []
 headquarters_locations:
   - dearborn
@@ -518,7 +518,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Passenger Car](/products_or_materials_produced/passenger-car/) |
 | Headquarters Location | [Dearborn](/headquarters_locations/dearborn/) |
 | Foundation Date | [1903](/foundation_dates/1903/) |
 | Isin | US3453708600 |

@@ -2,7 +2,7 @@
 title: Torlago
 slug: torlago
 description: ""
-date: "2026-04-10T09:40:32.524804"
+date: "2026-04-15T09:21:23.729387"
 draft: false
 sectors:
   - consulting

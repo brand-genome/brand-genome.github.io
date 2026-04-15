@@ -2,7 +2,7 @@
 title: British Land
 slug: "british-land"
 description: ""
-date: "2026-04-10T09:40:34.906424"
+date: "2026-04-15T09:21:25.874722"
 draft: false
 sectors:
   - "real-estate"

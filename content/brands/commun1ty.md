@@ -2,12 +2,12 @@
 title: Commun1ty
 slug: commun1ty
 description: ""
-date: "2026-04-10T09:40:32.562646"
+date: "2026-04-15T09:21:23.761402"
 draft: false
 sectors:
-  - software
   - "e-commerce"
   - "social-media"
+  - software
 regions:
   - singapore
 years:

@@ -2,11 +2,11 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-04-10T09:40:34.732918"
+date: "2026-04-15T09:21:25.713605"
 draft: false
 sectors:
-  - finance
   - insurance
+  - finance
 regions:
   - germany
 years:
@@ -17,9 +17,9 @@ tags:
   - featured
   - insurance
 industries:
+  - "financial-services"
   - "insurance-industry"
   - insurance
-  - "financial-services"
 countries:
   - germany
 revenue_buckets:

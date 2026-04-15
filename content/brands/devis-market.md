@@ -2,7 +2,7 @@
 title: Devis Market
 slug: "devis-market"
 description: ""
-date: "2026-04-10T09:40:34.903115"
+date: "2026-04-15T09:21:25.871685"
 draft: false
 sectors:
   - "marketing-advertising"

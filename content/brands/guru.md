@@ -2,7 +2,7 @@
 title: Guru
 slug: guru
 description: ""
-date: "2026-04-10T09:40:34.149755"
+date: "2026-04-15T09:21:25.055840"
 draft: false
 sectors:
   - software
@@ -15,8 +15,7 @@ languages:
 tags:
   - software
 industries: []
-countries:
-  - tanzania
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: ethnic group in Tanzania
-wikidata_url: "https://www.wikidata.org/wiki/Q2979621"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -302,20 +301,3 @@ visual_term_image_urls: {}
 - learn more at getguru.com
 - Our business cards feature your fancy new headshots because we're all about the humans here. Keeps things interesting and feels more personal. 3.3" x 2.16 Becca Dierolf Brand Designer rdierolf@getguru.com 215.555.1234 back 3.3" x 2.16"
 - It's hard to forget a person when you have a card with their face on it.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2979621) |
-
-| Property | Value |
-|----------|-------|
-| Freebase Id | /m/0gdw7j |
-| Asc Leiden Thesaurus Id | 294918795 |
-| Country | Tanzania |
-| Library Of Congress Authority Id | sh85071271 |
-| Art & Architecture Thesaurus Id | 300263803 |
-| On Focus List Of Wikimedia Project | WikiProject PCC Wikidata Pilot/Smithsonian Libraries African Ethnic Groups |
-| National Library Of Israel J9U Id | 987007538505605171 |
-| ‎Yale Lux Id | concept/642d2348-b0b9-4c9f-9d27-8c620d589f06 |

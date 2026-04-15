@@ -2,11 +2,11 @@
 title: Wheaton College
 slug: "wheaton-college"
 description: ""
-date: "2026-04-10T09:40:30.958275"
+date: "2026-04-15T09:21:22.573877"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

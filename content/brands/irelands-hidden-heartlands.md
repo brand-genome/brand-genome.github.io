@@ -2,7 +2,7 @@
 title: Ireland’s Hidden Heartlands
 slug: "irelands-hidden-heartlands"
 description: ""
-date: "2026-04-10T09:40:31.543877"
+date: "2026-04-15T09:21:23.194402"
 draft: false
 sectors:
   - tourism

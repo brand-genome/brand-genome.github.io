@@ -2,7 +2,7 @@
 title: Bronte
 slug: bronte
 description: ""
-date: "2026-04-10T09:40:34.064302"
+date: "2026-04-15T09:21:24.979719"
 draft: false
 sectors:
   - restaurant

@@ -2,12 +2,12 @@
 title: Renata
 slug: renata
 description: ""
-date: "2026-04-10T09:40:33.776838"
+date: "2026-04-15T09:21:24.756941"
 draft: false
 sectors:
-  - "public-sector"
   - networking
   - research
+  - "public-sector"
 regions:
   - colombia
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://paginarenata.renata.edu.co](https://paginarenata.renata.edu.co)
 - [https://www.renata.edu.co](https://www.renata.edu.co)
 - [http://www.renata.edu.co](http://www.renata.edu.co)
-- [https://typekit.com/fonts/program](https://typekit.com/fonts/program)
 
 ## Brand Guidelines
 

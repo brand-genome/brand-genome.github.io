@@ -2,12 +2,12 @@
 title: Incubator Studio
 slug: "incubator-studio"
 description: ""
-date: "2026-04-10T09:40:31.464003"
+date: "2026-04-15T09:21:23.119417"
 draft: false
 sectors:
+  - "marketing-advertising"
   - consulting
   - "design-creative"
-  - "marketing-advertising"
 regions:
   - france
 years:

@@ -2,11 +2,11 @@
 title: US Robotics
 slug: "us-robotics"
 description: ""
-date: "2026-04-10T09:40:33.351570"
+date: "2026-04-15T09:21:24.285908"
 draft: false
 sectors:
-  - hardware
   - networking
+  - hardware
 regions:
   - usa
 years:
@@ -28,10 +28,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - modem
+  - "computer-network"
   - "voice-over-ip"
   - software
-  - "computer-network"
-  - modem
 products: []
 headquarters_locations:
   - schaumburg
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Software](/products_or_materials_produced/software/); [Computer Network](/products_or_materials_produced/computer-network/); [Modem](/products_or_materials_produced/modem/) |
+| Product Or Material Produced | [Modem](/products_or_materials_produced/modem/); [Computer Network](/products_or_materials_produced/computer-network/); [Voice Over Ip](/products_or_materials_produced/voice-over-ip/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Schaumburg](/headquarters_locations/schaumburg/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Freebase Id | /m/01c18s |

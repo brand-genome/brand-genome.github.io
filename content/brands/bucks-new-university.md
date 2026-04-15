@@ -2,11 +2,11 @@
 title: Bucks New University
 slug: "bucks-new-university"
 description: ""
-date: "2026-04-10T09:40:33.618329"
+date: "2026-04-15T09:21:24.560367"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -14,11 +14,10 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
-countries:
-  - "united-kingdom"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,8 +27,7 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "high-wycombe"
+headquarters_locations: []
 subsidiaries: []
 foundation_dates: []
 foundation_year_buckets: []
@@ -54,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: nursing school
-wikidata_url: "https://www.wikidata.org/wiki/Q101044942"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bucks.ac.uk](https://www.bucks.ac.uk)
-- [http://www.gov.uk](http://www.gov.uk)
 
 ## Brand Guidelines
 
@@ -225,18 +222,3 @@ visual_term_image_urls: {}
 - Treat mobile phone numbers as having four-figure area codes: +44 (0) 7769 123 456.
 - Use international numbers on stationery and adverts in publications that may be seen overseas, eg +44 (0) 1494 522 141.
 - Use tel, ext and fax in abbreviated form, without a full stop. Make sure you check all telephone numbers before a document is published by dialling them.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q101044942) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [High Wycombe](/headquarters_locations/high-wycombe/) |
-| Headquarters Location | High Wycombe |
-| Isni | 0000000403736216 |
-| Country | United Kingdom |
-| Part Of | Buckinghamshire New University |
-| Ringgold Id | 152572 |

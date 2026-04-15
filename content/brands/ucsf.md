@@ -2,7 +2,7 @@
 title: UCSF
 slug: ucsf
 description: ""
-date: "2026-04-10T09:40:32.832411"
+date: "2026-04-15T09:21:23.874772"
 draft: false
 sectors:
   - university
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - signage
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"

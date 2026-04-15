@@ -2,7 +2,7 @@
 title: Decade of Ocean Science for Sustainable Development
 slug: "decade-of-ocean-science-for-sustainable-development"
 description: ""
-date: "2026-04-10T09:40:32.640497"
+date: "2026-04-15T09:21:23.818773"
 draft: false
 sectors:
   - "public-sector"

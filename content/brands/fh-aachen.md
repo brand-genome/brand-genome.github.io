@@ -2,11 +2,11 @@
 title: FH Aachen
 slug: "fh-aachen"
 description: ""
-date: "2026-04-10T09:40:34.797242"
+date: "2026-04-15T09:21:25.774397"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - germany

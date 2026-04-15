@@ -2,7 +2,7 @@
 title: Fairtrade Mark
 slug: "fairtrade-mark"
 description: ""
-date: "2026-04-10T09:40:32.998660"
+date: "2026-04-15T09:21:23.949970"
 draft: false
 sectors:
   - ngo
@@ -26,13 +26,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - dublin
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1992
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -55,7 +52,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q5430724"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -68,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.fairtrade.net](https://www.fairtrade.net)
 - [https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html](https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html)
 - [https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html](https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html)
-- [http://www.fairtrade.ie](http://www.fairtrade.ie)
 
 ## Brand Guidelines
 
@@ -453,17 +449,3 @@ visual_term_image_urls: {}
 - Please check that artwork complies with these guidelines and the artwork submission checklist on page 34.
 - Please note: incomplete information on artwork applications will result in a delay.
 - The Licensee must make certain that both the product and the artwork are approved prior to publication or printing or public distribution of any product, packaging or promotional material that displays the FAIRTRADE Mark.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5430724) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Dublin](/headquarters_locations/dublin/) |
-| Foundation Date | [1992](/foundation_dates/1992/) |
-| Headquarters Location | Dublin |
-| Inception | 1992 |
-| Freebase Id | /m/0kqrt7 |

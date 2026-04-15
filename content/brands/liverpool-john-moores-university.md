@@ -2,7 +2,7 @@
 title: Liverpool John Moores University
 slug: "liverpool-john-moores-university"
 description: ""
-date: "2026-04-10T09:40:32.211527"
+date: "2026-04-15T09:21:23.656098"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"

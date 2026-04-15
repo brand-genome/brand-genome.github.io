@@ -2,12 +2,12 @@
 title: Clayton Homes
 slug: "clayton-homes"
 description: ""
-date: "2026-04-10T09:40:33.065952"
+date: "2026-04-15T09:21:24.004449"
 draft: false
 sectors:
+  - "real-estate"
   - finance
   - insurance
-  - "real-estate"
   - construction
 regions:
   - usa

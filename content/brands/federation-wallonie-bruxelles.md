@@ -2,7 +2,7 @@
 title: "Fédération Wallonie-Bruxelles"
 slug: "federation-wallonie-bruxelles"
 description: ""
-date: "2026-04-10T09:40:34.868696"
+date: "2026-04-15T09:21:25.840464"
 draft: false
 sectors:
   - "public-sector"

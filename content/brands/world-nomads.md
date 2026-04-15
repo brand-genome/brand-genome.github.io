@@ -2,7 +2,7 @@
 title: World Nomads
 slug: "world-nomads"
 description: ""
-date: "2026-04-10T09:40:33.665149"
+date: "2026-04-15T09:21:24.607553"
 draft: false
 sectors:
   - tourism

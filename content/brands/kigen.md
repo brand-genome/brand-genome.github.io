@@ -2,12 +2,12 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-04-10T09:40:33.111978"
+date: "2026-04-15T09:21:24.046142"
 draft: false
 sectors:
-  - telecom
   - networking
   - cybersecurity
+  - telecom
 regions:
   - "united-kingdom"
 years:
@@ -15,11 +15,10 @@ years:
 languages:
   - english
 tags:
-  - networks
   - security
+  - networks
 industries: []
-countries:
-  - "empire-of-japan"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -54,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: 1940 Japanese song
-wikidata_url: "https://www.wikidata.org/wiki/Q11604975"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -217,23 +216,3 @@ visual_term_image_urls: {}
 - Do not use or register the logo (or any part of it) as part of another trademark, logo or name. This includes but is not limited to a company name, trade name, product name, service name, technology name, social media name or handle.
 - Do not use the logo in any manner that expresses or implies that Kigen has any affiliation, sponsorship, endorsement, certification, or approval of your product, service or company.
 - Do not use the logo to make fun of Kigen or portray Kigen in a negative way.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q11604975) |
-
-| Property | Value |
-|----------|-------|
-| Performer | Noboru Kirishima |
-| Commemorates | 2600th Anniversary Celebrations of the Japanese Empire |
-| Google Knowledge Graph Id | /g/120svl69 |
-| Country | Empire of Japan |
-| Publication Date | 1940 |
-| Title | 紀元二千六百年 |
-| Genre | national song |
-| Language Of Work Or Name | Japanese |
-| Composer | Kihachirō Mori |
-| Form Of Creative Work | song |
-| Lyricist |  |

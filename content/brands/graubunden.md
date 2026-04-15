@@ -2,11 +2,11 @@
 title: Graubünden
 slug: graubunden
 description: ""
-date: "2026-04-10T09:40:30.972667"
+date: "2026-04-15T09:21:22.590613"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - switzerland
 years:
@@ -67,5 +67,4 @@ visual_term_image_urls: {}
 - [https://www.graubuenden.ch/en](https://www.graubuenden.ch/en)
 - [https://www.graubuenden.ch/de](https://www.graubuenden.ch/de)
 - [https://www.graubuenden.ch/it](https://www.graubuenden.ch/it)
-- [http://www.chur.ch](http://www.chur.ch)
 - [http://www.graubuenden.ch](http://www.graubuenden.ch)

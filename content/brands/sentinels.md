@@ -2,7 +2,7 @@
 title: Sentinels
 slug: sentinels
 description: ""
-date: "2026-04-10T09:40:33.345048"
+date: "2026-04-15T09:21:24.279866"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - entertainment
+  - sport
 industries: []
 countries:
   - "united-states"

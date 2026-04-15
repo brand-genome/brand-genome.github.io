@@ -2,21 +2,21 @@
 title: Etihad Airways
 slug: "etihad-airways"
 description: ""
-date: "2026-04-10T09:40:32.571488"
+date: "2026-04-15T09:21:23.770992"
 draft: false
 sectors:
   - airline
 regions:
   - "abu-dhabi"
 years:
-  - 2016
   - 2014
+  - 2016
 languages:
   - english
   - arabic
 tags:
-  - aeronautic
   - airline
+  - aeronautic
 industries: []
 countries:
   - "united-arab-emirates"

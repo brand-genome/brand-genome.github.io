@@ -2,11 +2,11 @@
 title: The Wayfarers
 slug: "the-wayfarers"
 description: ""
-date: "2026-04-10T09:40:30.893619"
+date: "2026-04-15T09:21:22.513549"
 draft: false
 sectors:
-  - software
   - tourism
+  - software
 regions:
   - india
 years:
@@ -52,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Australian musical group
-wikidata_url: "https://www.wikidata.org/wiki/Q48700706"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -61,16 +61,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q48700706) |
-
-| Property | Value |
-|----------|-------|
-| Country Of Origin | Australia |
-| Discogs Artist Id | 188802 |
-| Musicbrainz Artist Id | 01eb1772-015c-49f4-8e92-cbbab71bfaeb |
-| Songkick Artist Id | 429466 |
-| Google Knowledge Graph Id | /g/11f3w6kdkq |

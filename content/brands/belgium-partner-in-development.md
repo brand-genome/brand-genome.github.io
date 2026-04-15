@@ -2,7 +2,7 @@
 title: Belgium partner in development
 slug: "belgium-partner-in-development"
 description: ""
-date: "2026-04-10T09:40:33.284146"
+date: "2026-04-15T09:21:24.221358"
 draft: false
 sectors:
   - "public-sector"

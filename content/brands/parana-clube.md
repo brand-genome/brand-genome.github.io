@@ -2,7 +2,7 @@
 title: Paraná Clube
 slug: "parana-clube"
 description: ""
-date: "2026-04-10T09:40:34.260367"
+date: "2026-04-15T09:21:25.176844"
 draft: false
 sectors:
   - sports

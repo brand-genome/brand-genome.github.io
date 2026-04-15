@@ -2,11 +2,11 @@
 title: Pioneer Foods
 slug: "pioneer-foods"
 description: ""
-date: "2026-04-10T09:40:33.695402"
+date: "2026-04-15T09:21:24.655889"
 draft: false
 sectors:
-  - drink
   - food
+  - drink
 regions:
   - "south-africa"
 years:

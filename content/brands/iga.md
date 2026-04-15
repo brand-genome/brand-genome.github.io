@@ -2,7 +2,7 @@
 title: IGA
 slug: iga
 description: ""
-date: "2026-04-10T09:40:33.406017"
+date: "2026-04-15T09:21:24.336833"
 draft: false
 sectors:
   - supermarket
@@ -50,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: antibody that plays a crucial role in the immune function of mucous membranes
-wikidata_url: "https://www.wikidata.org/wiki/Q79453"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.iga.com](https://www.iga.com)
 - [https://igalink.iga.com](https://igalink.iga.com)
-- [http://www.myfonts.com/fonts/mika-melvas/signalist](http://www.myfonts.com/fonts/mika-melvas/signalist)
 
 ## Brand Guidelines
 
@@ -372,28 +371,3 @@ visual_term_image_urls: {}
 - Plan for adequate paper size and stock, high-quality images, alternate formats and the extra time and funding needed for creating additional formats.
 - Extended Schedule.
 - Allow sufficient time for the creation of alternate formats — including proofing and review by an accessibility expert.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q79453) |
-
-| Property | Value |
-|----------|-------|
-| Subclass Of | antibody, immunoglobulin |
-| Freebase Id | /m/02gsfx |
-| Wikiskripta Article Id | 5092 |
-| Mesh Descriptor Id | D007070 |
-| Subject Has Role | immunologic factor |
-| Different From | serum immunoglobulin A level |
-| Encyclopædia Britannica Online Id | science/IgA-biochemistry |
-| Foundational Model Of Anatomy Id | 62874 |
-| Microsoft Academic Id (Discontinued) | 2779102806 |
-| Kbpedia Id | AntibodyIgA |
-| Interlingual Index Id | i116149 |
-| Mesh Tree Code | D12.776.124.486.485.114.619.026, D12.776.124.790.651.114.619.026, D12.776.377.715.548.114.619.026 |
-| Openalex Id | C2779102806, C2909735910 |
-| Produced By | IgA plasma cell |
-| Image | Dimeric IgA schematic 01.svg |
-| Namuwiki Id | 면역글로불린 A |

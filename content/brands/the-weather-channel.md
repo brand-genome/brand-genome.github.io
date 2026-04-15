@@ -2,7 +2,7 @@
 title: The Weather Channel
 slug: "the-weather-channel"
 description: ""
-date: "2026-04-10T09:40:33.613387"
+date: "2026-04-15T09:21:24.552933"
 draft: false
 sectors:
   - broadcasting

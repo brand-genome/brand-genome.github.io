@@ -2,7 +2,7 @@
 title: American Marketing Association
 slug: "american-marketing-association"
 description: ""
-date: "2026-04-10T09:40:33.260745"
+date: "2026-04-15T09:21:24.203129"
 draft: false
 sectors:
   - "marketing-advertising"

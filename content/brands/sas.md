@@ -2,7 +2,7 @@
 title: SAS
 slug: sas
 description: ""
-date: "2026-04-10T09:40:32.821238"
+date: "2026-04-15T09:21:23.869591"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ languages:
 tags:
   - software
 industries:
-  - "artificial-intelligence"
   - analytics
   - "software-industry"
+  - "artificial-intelligence"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 
 - [https://www.sas.com](https://www.sas.com)
 - [https://brand.sas.com](https://brand.sas.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
-- [http://www.linotype.com](http://www.linotype.com)
 - [http://www.sas.com](http://www.sas.com)
 
 ## Brand Guidelines

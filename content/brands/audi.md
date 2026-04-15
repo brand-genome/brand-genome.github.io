@@ -2,7 +2,7 @@
 title: Audi
 slug: audi
 description: ""
-date: "2026-04-10T09:40:30.814433"
+date: "2026-04-15T09:21:22.418118"
 draft: false
 sectors:
   - automobile
@@ -13,14 +13,14 @@ years:
 languages:
   - english
 tags:
-  - corporate
   - transport
+  - corporate
 industries:
-  - "vehicle-construction"
   - "automotive-industry"
+  - "vehicle-construction"
 countries:
-  - germany
   - "german-reich"
+  - germany
 revenue_buckets:
   - "10B-50B"
 operating_income_buckets:

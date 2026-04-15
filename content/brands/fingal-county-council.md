@@ -2,7 +2,7 @@
 title: Fingal County Council
 slug: "fingal-county-council"
 description: ""
-date: "2026-04-10T09:40:32.810252"
+date: "2026-04-15T09:21:23.863123"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - ireland
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: part of the 1999 Irish local elections
-wikidata_url: "https://www.wikidata.org/wiki/Q17984515"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,17 +70,3 @@ visual_term_image_urls: {}
 ### 2014
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q17984515) |
-
-| Property | Value |
-|----------|-------|
-| Point In Time | 1999-06-10 |
-| Follows | 1991 Fingal County Council election |
-| Country | Ireland |
-| Freebase Id | /m/011q98qr |
-| Applies To Jurisdiction | Fingal |

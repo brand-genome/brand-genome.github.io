@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-04-10T09:40:34.701584"
+date: "2026-04-15T09:21:25.685316"
 draft: false
 sectors:
-  - ngo
-  - research
   - publishing
+  - research
+  - ngo
 regions:
   - usa
 years:

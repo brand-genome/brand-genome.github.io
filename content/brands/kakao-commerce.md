@@ -2,7 +2,7 @@
 title: Kakao Commerce
 slug: "kakao-commerce"
 description: ""
-date: "2026-04-10T09:40:32.486461"
+date: "2026-04-15T09:21:23.698047"
 draft: false
 sectors:
   - "e-commerce"

@@ -2,7 +2,7 @@
 title: Governo de Santa Catarina
 slug: "governo-de-santa-catarina"
 description: ""
-date: "2026-04-10T09:40:31.949500"
+date: "2026-04-15T09:21:23.386203"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries:
   - brazil

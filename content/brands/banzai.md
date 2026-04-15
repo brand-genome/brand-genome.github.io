@@ -2,11 +2,11 @@
 title: "Banzai!"
 slug: banzai
 description: ""
-date: "2026-04-10T09:40:31.464095"
+date: "2026-04-15T09:21:23.119539"
 draft: false
 sectors:
-  - education
   - "e-learning-edtech"
+  - education
 regions:
   - usa
 years:

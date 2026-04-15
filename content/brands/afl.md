@@ -2,7 +2,7 @@
 title: AFL
 slug: afl
 description: ""
-date: "2026-04-10T09:40:32.128924"
+date: "2026-04-15T09:21:23.606439"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: sports statistics website
-wikidata_url: "https://www.wikidata.org/wiki/Q19360207"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.afl.com.au](https://www.afl.com.au)
-- [https://afltables.com](https://afltables.com)
 
 ## Brand Guidelines
 
@@ -166,16 +164,3 @@ visual_term_image_urls: {}
 - Pantone® (spot) -AFL03a.eps Process (CMYK) -AFL03b.eps
 - AFL Blue PMS 287 or Black No other colour is acceptable
 - Note: ensure ® symbol is reversed
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q19360207) |
-
-| Property | Value |
-|----------|-------|
-| Main Subject | Australian Football League, Australian rules football |
-| Main Wikidata Property | AFL Tables player ID, AFL Tables coach ID, AFL Tables umpire ID |
-| Topic Has Template | Template:AFL Tables |
-| Country | Australia |

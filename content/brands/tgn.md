@@ -2,11 +2,11 @@
 title: TGN
 slug: tgn
 description: ""
-date: "2026-04-10T09:40:30.565578"
+date: "2026-04-15T09:21:22.089097"
 draft: false
 sectors:
-  - gas
   - utilities
+  - gas
 regions:
   - argentina
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tgn.com.ar](https://www.tgn.com.ar)
-- [http://www.com.ar](http://www.com.ar)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Versatile
 slug: versatile
 description: ""
-date: "2026-04-10T09:40:32.839894"
+date: "2026-04-15T09:21:23.879428"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"

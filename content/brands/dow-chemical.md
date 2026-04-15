@@ -2,15 +2,15 @@
 title: Dow Chemical
 slug: "dow-chemical"
 description: ""
-date: "2026-04-10T09:40:33.046159"
+date: "2026-04-15T09:21:23.988728"
 draft: false
 sectors:
   - "consumer-goods"
 regions:
   - usa
 years:
-  - 2014
   - 2021
+  - 2014
 languages:
   - english
 tags:
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - plastic
   - "ethylene-oxide"
+  - plastic
   - "calcium-chloride"
 products: []
 headquarters_locations:
@@ -461,7 +461,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Plastic](/products_or_materials_produced/plastic/); [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
+| Product Or Material Produced | [Ethylene Oxide](/products_or_materials_produced/ethylene-oxide/); [Plastic](/products_or_materials_produced/plastic/); [Calcium Chloride](/products_or_materials_produced/calcium-chloride/) |
 | Headquarters Location | [Midland](/headquarters_locations/midland/) |
 | Foundation Date | [1897](/foundation_dates/1897/) |
 | Stock Exchange | New York Stock Exchange, Tokyo Stock Exchange (until 2016-12-08) |

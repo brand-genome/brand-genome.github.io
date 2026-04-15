@@ -2,7 +2,7 @@
 title: Stephen F. Austin University
 slug: "stephen-f-austin-university"
 description: ""
-date: "2026-04-10T09:40:34.784934"
+date: "2026-04-15T09:21:25.763334"
 draft: false
 sectors:
   - university
@@ -13,11 +13,10 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -52,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "men's basketball team that represents Stephen F. Austin State University"
-wikidata_url: "https://www.wikidata.org/wiki/Q7609164"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,34 +64,9 @@ visual_term_image_urls: {}
 
 - [https://www.sfasu.edu](https://www.sfasu.edu)
 - [https://sfajacks.com](https://sfajacks.com)
-- [http://sfajacks.com/index.aspx?path=mbball](http://sfajacks.com/index.aspx?path=mbball)
-- [https://sfajacks.com/sports/mens-basketball](https://sfajacks.com/sports/mens-basketball)
 
 ## Brand Guidelines
 
 ### 2017
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q7609164) |
-
-| Property | Value |
-|----------|-------|
-| Topic'S Main Category | Category:Stephen F. Austin Lumberjacks basketball |
-| Country | United States |
-| Sport | basketball |
-| X (Twitter) Username | SFA_MBB (as of 2020-03-21, from 2012-08-27) |
-| Member Of | Stephen F. Austin State University |
-| League Or Competition | NCAA Division I men's basketball |
-| Competition Class | men's basketball |
-| Parent Club | Stephen F. Austin Lumberjacks and Ladyjacks |
-| Social Media Followers | 19,147 (as of 2021-01-04), 20,171 (as of 2022-03-02), 20,614 (as of 2023-02-07) |
-| Freebase Id | /m/05lb9ld |
-| Home Venue | William R. Johnson Coliseum |
-| Sports Reference.Com College Basketball Team Id | stephen-f-austin/men |
-| Head Coach | Kyle Keller (from 2016-04-04) |
-| Category For Members Of A Team | Category:Stephen F. Austin Lumberjacks basketball players |

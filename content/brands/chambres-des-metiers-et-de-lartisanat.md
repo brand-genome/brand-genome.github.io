@@ -2,7 +2,7 @@
 title: Chambres des métiers et de l’artisanat
 slug: "chambres-des-metiers-et-de-lartisanat"
 description: ""
-date: "2026-04-10T09:40:33.699850"
+date: "2026-04-15T09:21:24.660137"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://www.artisanat.fr](https://www.artisanat.fr)
 - [http://www.apcma.fr](http://www.apcma.fr)
 - [http://www.artisanat.fr](http://www.artisanat.fr)
-- [https://graphiste.com/blog/tailles-](https://graphiste.com/blog/tailles-)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Manchester United
 slug: "manchester-united"
 description: ""
-date: "2026-04-10T09:40:32.112958"
+date: "2026-04-15T09:21:23.596246"
 draft: false
 sectors:
   - sports

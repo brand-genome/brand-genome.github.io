@@ -2,7 +2,7 @@
 title: University of Mount Saint Vincent
 slug: "university-of-mount-saint-vincent"
 description: ""
-date: "2026-04-10T09:40:30.745022"
+date: "2026-04-15T09:21:22.338771"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 
 - [https://mountsaintvincent.edu](https://mountsaintvincent.edu)
 - [https://university.mountsaintvincent.edu](https://university.mountsaintvincent.edu)
-- [http://www.google.com](http://www.google.com)
 - [http://www.mountsaintvincent.edu](http://www.mountsaintvincent.edu)
 - [http://cmsv.edu](http://cmsv.edu)
 

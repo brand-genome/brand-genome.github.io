@@ -2,16 +2,16 @@
 title: Mahindra Rise
 slug: "mahindra-rise"
 description: ""
-date: "2026-04-10T09:40:34.790095"
+date: "2026-04-15T09:21:25.767600"
 draft: false
 sectors:
-  - consulting
-  - defense
   - "real-estate"
-  - finance
   - automobile
-  - hospitality
+  - finance
+  - defense
   - "renewable-energy"
+  - hospitality
+  - consulting
 regions:
   - india
 years:

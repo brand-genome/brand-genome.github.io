@@ -2,11 +2,11 @@
 title: BJSS
 slug: bjss
 description: ""
-date: "2026-04-10T09:40:33.152173"
+date: "2026-04-15T09:21:24.080979"
 draft: false
 sectors:
-  - software
   - consulting
+  - software
 regions:
   - "united-kingdom"
 years:

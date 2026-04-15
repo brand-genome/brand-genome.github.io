@@ -2,7 +2,7 @@
 title: imart
 slug: imart
 description: ""
-date: "2026-04-10T09:40:34.670639"
+date: "2026-04-15T09:21:25.662069"
 draft: false
 sectors:
   - "design-creative"
@@ -14,10 +14,8 @@ languages:
   - spanish
 tags:
   - design
-industries:
-  - unknown
-countries:
-  - france
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,7 +51,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q125714656"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: false
 promotion_image_count: 0
@@ -64,18 +62,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.imart.es](https://www.imart.es)
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q125714656) |
-
-| Property | Value |
-|----------|-------|
-| Industry |  |
-| Country | France |
-| Legal Form | limited liability company (with no further details) |
-| Opencorporates Id | fr/438773442 |
-| Siren Number | 438773442 |
-| Official Name | IMART |

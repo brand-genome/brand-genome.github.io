@@ -2,7 +2,7 @@
 title: Waterloo
 slug: waterloo
 description: ""
-date: "2026-04-10T09:40:34.405200"
+date: "2026-04-15T09:21:25.353018"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,7 @@ languages:
 tags:
   - regional
 industries: []
-countries:
-  - canada
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -28,10 +27,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1857
-foundation_year_buckets:
-  - "19TH-CENTURY"
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -53,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "city in Ontario, Canada"
-wikidata_url: "https://www.wikidata.org/wiki/Q639408"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -65,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://experiencewaterloo.com](https://experiencewaterloo.com)
-- [http://www.waterloo.ca](http://www.waterloo.ca)
 
 ## Brand Guidelines
 
@@ -155,64 +151,3 @@ visual_term_image_urls: {}
 - The Experience Waterloo logo should always be produced at a reasonable size to maintain its legibility.
 - For printed materials the optimal minimum width is 1.25 inches.
 - For digital use, the optimal minimum width is 90 pixels.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q639408) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [1857](/foundation_dates/1857/) |
-| Named After | Battle of Waterloo |
-| Country | Canada |
-| Coordinate Location | 43.466666666667, -80.516666666667 |
-| Topic'S Main Category | Category:Waterloo, Ontario |
-| Curlie Id | Regional/North_America/Canada/Ontario/Localities/W/Waterloo/ |
-| Freebase Id | /m/0jpkg |
-| Gnd Id | 4140559-6 |
-| Located In The Administrative Territorial Entity | Regional Municipality of Waterloo |
-| Population | 98,780 (as of 2011), 104,986 (as of 2016), 121,436 (as of 2021) |
-| Postal Code | N2J, N2K, N2L, N2T, N2V |
-| Local Dialing Code | 519, 226 |
-| Inception | 1857-05-27 |
-| Locator Map Image | Waterloo, Ontario.png |
-| Located In Time Zone | Eastern Time Zone |
-| Elevation Above Sea Level | 329 metre |
-| Image | Uptown Waterloo Ontario.JPG |
-| Commons Gallery | Waterloo, Ontario |
-| Shares Border With | St. Jacobs, Kitchener |
-| Musicbrainz Area Id | 573f35c7-34e8-40bd-94f8-87f99b9aee1e |
-| Quora Topic Id | Waterloo-ON |
-| Category Of Associated People | Category:People from Waterloo, Ontario |
-| U.S. National Archives Identifier | 10045734 |
-| Encyclopædia Britannica Online Id | place/Waterloo-Ontario |
-| Statistics Canada Geographic Code | 3530016 |
-| Page Banner | Waterloo Ontario Wikivoyage banner.jpg |
-| Bibliothèque Nationale De France Id | 121271945 |
-| Archinform Location Id | 5693 |
-| Canadian Encyclopedia Article Id | waterloo |
-| Viaf Cluster Id | 180144783045669474111 |
-| Who'S On First Id | 101736191 |
-| Brockhaus Enzyklopädie Online Id | waterloo-20 |
-| Category For Maps Or Plans | Category:Maps of Waterloo, Ontario |
-| Nl Cr Aut Id | xx0032588 |
-| Openstreetmap Relation Id | 2062154 |
-| Subreddit | waterloo |
-| Getty Thesaurus Of Geographic Names Id | 7013137 |
-| Factgrid Item Id | Q93231 |
-| Online Pwn Encyclopedia Id | 3994297 |
-| Category For People Born Here |  |
-| Great Norwegian Encyclopedia Id | Waterloo_-_by_i_Canada |
-| Urban Electric Transit City Id | 2344 |
-| Lex Id | Waterloo |
-| Idref Id | 02970491X |
-| Cgndb Unique Id | FDBJZ |
-| Openweathermap City Id | 6176823 |
-| Un/Locode | CAWTL |
-| Snarc Id | Q2284 |
-| Lemmy Community Id | waterloo@lemmy.ca |
-| ‎Yale Lux Id | place/fb1f4ab0-2fba-4ea7-a308-809463252cba |
-| Flag Image | Flag of Waterloo.png |
-| Category For People Who Died Here |  |

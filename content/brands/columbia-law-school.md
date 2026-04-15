@@ -2,7 +2,7 @@
 title: Columbia Law School
 slug: "columbia-law-school"
 description: ""
-date: "2026-04-10T09:40:34.474199"
+date: "2026-04-15T09:21:25.413501"
 draft: false
 sectors:
   - university

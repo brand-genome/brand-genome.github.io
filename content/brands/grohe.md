@@ -2,7 +2,7 @@
 title: Grohe
 slug: grohe
 description: ""
-date: "2026-04-10T09:40:34.248906"
+date: "2026-04-15T09:21:25.167472"
 draft: false
 sectors:
   - hardware
@@ -29,8 +29,8 @@ products_or_materials_produced:
   - "plumbing-fixture"
 products: []
 headquarters_locations:
-  - dusseldorf
   - hemer
+  - dusseldorf
 subsidiaries: []
 foundation_dates:
   - 1948
@@ -286,7 +286,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Plumbing Fixture](/products_or_materials_produced/plumbing-fixture/) |
-| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Hemer](/headquarters_locations/hemer/) |
+| Headquarters Location | [Hemer](/headquarters_locations/hemer/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
 | Foundation Date | [1948](/foundation_dates/1948/) |
 | Freebase Id | /m/03d3fs_ |
 | Headquarters Location | Düsseldorf, Hemer, Düsseldorf |

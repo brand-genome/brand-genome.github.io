@@ -2,7 +2,7 @@
 title: Newman University Athletics
 slug: "newman-university-athletics"
 description: ""
-date: "2026-04-10T09:40:30.662946"
+date: "2026-04-15T09:21:22.226691"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

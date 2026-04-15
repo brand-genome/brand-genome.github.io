@@ -2,7 +2,7 @@
 title: IRPET
 slug: irpet
 description: ""
-date: "2026-04-10T09:40:34.458972"
+date: "2026-04-15T09:21:25.400625"
 draft: false
 sectors:
   - "public-sector"

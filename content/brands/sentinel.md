@@ -2,11 +2,11 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-04-10T09:40:32.599527"
+date: "2026-04-15T09:21:23.796270"
 draft: false
 sectors:
-  - "consumer-goods"
   - utilities
+  - "consumer-goods"
 regions:
   - "united-kingdom"
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "Mutant-hunting robot in Marvel Comics"
-wikidata_url: "https://www.wikidata.org/wiki/Q782181"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -70,22 +70,3 @@ visual_term_image_urls: {}
 ### 2014
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q782181) |
-
-| Property | Value |
-|----------|-------|
-| Subclass Of | hunter, fictional murderer |
-| Freebase Id | /m/079pb |
-| From Narrative Universe | Earth-616 |
-| Publisher | Marvel Comics |
-| Start Of Work Period | 1965-11 |
-| Present In Work | X-Men: The Last Stand, X-Men: Days of Future Past |
-| Creator | Stan Lee |
-| Enemy | mutant, X-Men |
-| Fandom Article Id | marvel:Sentinels, villains:Sentinels_(Marvel), x-men:Sentinel |
-| Native Label | Sentinel |

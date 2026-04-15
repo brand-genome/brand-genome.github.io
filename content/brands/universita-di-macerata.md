@@ -2,11 +2,11 @@
 title: Università di Macerata
 slug: "universita-di-macerata"
 description: ""
-date: "2026-04-10T09:40:33.165923"
+date: "2026-04-15T09:21:24.093606"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

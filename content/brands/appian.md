@@ -2,7 +2,7 @@
 title: Appian
 slug: appian
 description: ""
-date: "2026-04-10T09:40:32.570317"
+date: "2026-04-15T09:21:23.768936"
 draft: false
 sectors:
   - software
@@ -15,8 +15,7 @@ languages:
 tags:
   - software
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "west-hollywood"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2004
-foundation_year_buckets:
-  - 2000S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: film production company
-wikidata_url: "https://www.wikidata.org/wiki/Q2858710"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -239,21 +235,3 @@ visual_term_image_urls: {}
 
 - Look to the natural horizontal lines that form the bowl of the "a" letterform and use those lines to create the line-spacing around the circular element. The smallest size the seal can be shrunk down to is 45px (.625") to preserve legibility.
 - The certification badges should follow the same usage guidelines as the corporate logo.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2858710) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [West Hollywood](/headquarters_locations/west-hollywood/) |
-| Foundation Date | [2004](/foundation_dates/2004/) |
-| Founded By | Leonardo DiCaprio |
-| Inception | 2004 |
-| Headquarters Location | West Hollywood |
-| Country | United States |
-| Imdb Id | co0088354 |
-| Allociné Company Id | 5717 |
-| Google Knowledge Graph Id | /g/1hb_d8tqx |

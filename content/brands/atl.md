@@ -2,7 +2,7 @@
 title: ATL
 slug: atl
 description: ""
-date: "2026-04-10T09:40:32.480186"
+date: "2026-04-15T09:21:23.692839"
 draft: false
 sectors:
   - "public-sector"
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - transport
-industries:
-  - "video-game-industry"
-countries:
-  - japan
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,16 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - "megami-tensei"
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - tokyo
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2013
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: Japanese video game company
-wikidata_url: "https://www.wikidata.org/wiki/Q780528"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://atltransit.ga.gov](https://atltransit.ga.gov)
-- [http://www.ga.gov](http://www.ga.gov)
-- [http://www.atlus.co.jp](http://www.atlus.co.jp)
 
 ## Brand Guidelines
 
@@ -205,68 +197,3 @@ visual_term_image_urls: {}
 - All ATL logo orientations are available with and without the full acronym, Atlanta-Region Transit Link Authority.
 - In order to give the ATL logo maximum legibility and exposure, please allow for an area of clearance from other graphic elements around the logo. The distance of clearance should be the width of the A on all sides. This will give the logo prominence and ensure that it will not be obscured or diminished.
 - The ATL logo should not be used in any circumstance where the vertical version of the logo is shorter than .5" or 35 pixels high or any of the horizontal versions of the logo shorter than .25" or 17 pixels high. Producing the logo at a size smaller than this will jeopardize the integrity of the ATL brand.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q780528) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Megami Tensei](/products_or_materials_produced/megami-tensei/) |
-| Headquarters Location | [Tokyo](/headquarters_locations/tokyo/) |
-| Foundation Date | [2013](/foundation_dates/2013/) |
-| Freebase Id | /m/0260p2 |
-| Industry | video game industry |
-| Topic'S Main Category | Category:Atlus |
-| Parent Organization Or Unit | , Sega Sammy Holdings |
-| Headquarters Location | Tokyo, Tokyo |
-| Inception | 2013 |
-| X (Twitter) Username | Atlus_jp (as of 2020-04-25, from 2009-11-18), Atlus_West (as of 2020-06-16, from 2009-01-26) |
-| Location Of Formation | Shinagawa |
-| Legal Form | kabushiki gaisha |
-| Quora Topic Id | Atlus |
-| Corporate Number (Japan) | 2010701028452 |
-| Viaf Cluster Id | 259335196 |
-| Ndl Authority Id | 00395478 |
-| Mobygames Company Id (Former Scheme) | atlus-co-ltd |
-| Opencorporates Id | jp/2010701028452 |
-| Country | Japan |
-| Giant Bomb Id (Former Scheme) | 3010-442 |
-| Uvl Company Id | 151 |
-| Product Or Material Produced | Megami Tensei |
-| Gry Online Company Id | 1749 |
-| Media Arts Database Id | C44807 |
-| Tv Tropes Id | Creator/Atlus |
-| Internet Game Database Company Id | atlus |
-| Zhihu Topic Id | 19845336 |
-| Videogamegeek Company Id | 11904 |
-| Vgmdb Organization Id | 128 |
-| Child Organization Or Unit | Atlus USA |
-| Crunchbase Organization Id | atlus-d3ba |
-| Notable Work | BlaZeon |
-| Mobygames Company Id | 6305 |
-| Myanimelist Company Id | 344 |
-| Steam Curator Id | 37895402 |
-| Gematsu Company Id | 679715 |
-| Mod Db Company Id | atlus |
-| Visual Novel Database Id | p203 |
-| Pcsx2 Wiki Id | Atlus |
-| Indie Db Company Id | atlus |
-| Nec Retro Id | Atlus |
-| Gamereactor Company Id | Atlus |
-| Namuwiki Id | ATLUS |
-| Reddit Topic Id | atlus |
-| Subreddit | atlus |
-| Vgc Company Id | 1401 |
-| Vgmrips Company Id | atlus |
-| Snesmusic.Org Company Id | 163 |
-| My Abandonware Company Id | 3iv |
-| Located In The Administrative Territorial Entity | Shinagawa |
-| Coordinate Location | 35.614944, 139.731167 |
-| Postal Code | 141-0033 |
-| Street Address | 東京都品川区西品川1-1-1 住友不動産大崎ガーデンタワー12階 |
-| Image | Osaki Garden Tower.jpg |
-| ‎Gamesindustry.Biz Tag Id | companies/atlus |
-| Facebook Username | atlus.jp |

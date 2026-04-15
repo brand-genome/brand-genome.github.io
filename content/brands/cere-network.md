@@ -2,11 +2,11 @@
 title: Cere Network
 slug: "cere-network"
 description: ""
-date: "2026-04-10T09:40:32.135205"
+date: "2026-04-15T09:21:23.610663"
 draft: false
 sectors:
-  - software
   - "blockchain-crypto"
+  - software
 regions:
   - germany
 years:

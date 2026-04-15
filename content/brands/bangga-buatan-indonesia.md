@@ -2,7 +2,7 @@
 title: Bangga Buatan Indonesia
 slug: "bangga-buatan-indonesia"
 description: ""
-date: "2026-04-10T09:40:31.582173"
+date: "2026-04-15T09:21:23.220089"
 draft: false
 sectors:
   - "public-sector"

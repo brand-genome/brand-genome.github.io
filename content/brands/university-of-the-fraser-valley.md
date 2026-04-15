@@ -2,11 +2,11 @@
 title: University of the Fraser Valley
 slug: "university-of-the-fraser-valley"
 description: ""
-date: "2026-04-10T09:40:34.473053"
+date: "2026-04-15T09:21:25.412611"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - canada

@@ -2,7 +2,7 @@
 title: IRC
 slug: irc
 description: ""
-date: "2026-04-10T09:40:33.804555"
+date: "2026-04-15T09:21:24.783971"
 draft: false
 sectors:
   - ngo
@@ -15,27 +15,20 @@ languages:
 tags:
   - ngo
 industries: []
-countries:
-  - "united-states"
-revenue_buckets:
-  - "500M-1B"
+countries: []
+revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
-employees_buckets:
-  - "10K-50K"
-total_assets_buckets:
-  - "500M-1B"
+employees_buckets: []
+total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "chanin-building"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1933
-foundation_year_buckets:
-  - 1930S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "non-profit organization in the USA"
-wikidata_url: "https://www.wikidata.org/wiki/Q1666849"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -69,12 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ircwash.org](https://www.ircwash.org)
-- [http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en](http://creativecommons.org/licenses/by-nc-sa/3.0/nl/deed.en)
-- [http://www.cmpethiopia.org](http://www.cmpethiopia.org)
 - [http://www.waterservicesthatlast.org](http://www.waterservicesthatlast.org)
-- [http://www.wiley.com](http://www.wiley.com)
-- [https://www.rescue.org](https://www.rescue.org)
-- [http://www.theirc.org](http://www.theirc.org)
 
 ## Brand Guidelines
 
@@ -230,104 +218,3 @@ visual_term_image_urls: {}
 - This is an example of a 32 field grid on an A4 page. it is broken into four columns each comprising of eight fields. Using the 32 field grid with a baseline grid will help ensure a consistent look and feel.
 - A square box may be used as a holding device for the Brand Mark and copy.
 - The square box device can be used when the Brand Mark needs to sit on an image or on a solid colour. This approach may also be used as a graphic element in layouts, screen presentations, posters, advertisements etc.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1666849) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Chanin Building](/headquarters_locations/chanin-building/) |
-| Foundation Date | [1933](/foundation_dates/1933/) |
-| Headquarters Location | Chanin Building |
-| Freebase Id | /m/01bxrb |
-| Gnd Id | 4456301-2 |
-| Library Of Congress Authority Id | n80073837 |
-| Viaf Cluster Id | 126667416 |
-| Inception | 1933 |
-| Isni | 0000000087287745, 0000000112299415 |
-| Quora Topic Id | International-Rescue-Committee-IRC, The-International-Rescue-Committee, International-Rescue-Committee |
-| Ringgold Id | 66048 |
-| Country | United States |
-| Fast Id | 545508 |
-| Snac Ark Id | w62k10tf |
-| Encyclopædia Britannica Online Id | topic/International-Rescue-Committee |
-| Grid Id | grid.420433.2 |
-| Charity Navigator Id (Obsolete) | 3898 |
-| Nl Cr Aut Id | uk2012696687, uk2012696686, ko2016897925 |
-| Irs Employer Identification Number | 13-5660870 |
-| Youtube Channel Id | UCFWA1y24EABrEB6u_dAfqIQ (as of 2020-12-10, from 2006-12-20) |
-| Facebook Username | InternationalRescueCommittee |
-| X (Twitter) Username | theirc (as of 2020-03-14, from 2019-08-26), theIRC |
-| Instagram Username | theirc |
-| Linkedin Company Or Organization Id | international-rescue-committee |
-| Ror Id | 03v6ftq03 |
-| Different From | International Committee of the Red Cross |
-| Uk Parliament Thesaurus Id | 37737 |
-| Social Media Followers | 13,400 (as of 2021-07-03), 16,200 (as of 2022-03-17), 18,500 (as of 2023-02-17), 20,300 (as of 2024-02-24), 21,700 (as of 2025-03-15) |
-| Media Bias/Fact Check Id | international-rescue-committee-irc (as of 2024-02-02) |
-| Donations | 184,349,000 United States dollar (as of 2020), 1,355,187,734 United States dollar (as of 2022), 924,498,780 United States dollar (as of 2021), 1,297,110,590 United States dollar (as of 2023), 388,492,046 United States dollar (as of 2011) (+9 more) |
-| Short Name | IRC |
-| Legal Form | 501(c)(3) organization |
-| National Library Of Israel J9U Id | 987007604737105171 |
-| Influencewatch Id | non-profit/international-rescue-committee |
-| Bbc Things Id | 6098408e-b340-4146-a326-b6ecfc5f44cd |
-| Gateway To Research Organisation Id | 8B572F37-FCD6-44BF-AB66-7F646744665F |
-| Official Observer Status In Organization | International Organization for Migration |
-| Uia Open Yearbook Organization Website Id | 1100036736 |
-| Funder | Open Society Foundations (as of 2022), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021), Open Society Foundations (as of 2021) (+10 more) |
-| Kalliope Verbund (Gnd) Id | 4456301-2 |
-| Iati Organisation Id | US-EIN-13-5660870 |
-| Eu Transparency Register Id | 336765244362-96 |
-| Member Of | New York Immigration Coalition |
-| Located In The Administrative Territorial Entity | New York |
-| Domain Name | rescue.org |
-| Osm Name Suggestion Index Id | internationalrescuecommittee-e4e4f8 |
-| ‎Yale Lux Id | group/da9d0146-5e60-4e71-8821-6f2ac1d068bd |
-| Official Donation Page Url | https://help.rescue.org/donate/make-tribute-donation |
-
-### Revenue History
-
-| Revenue ($) | Year information | Bucket |
-|---|---|---|
-| $727.82M | as of 2017-01-01 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $825.57M | as of 2020 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $1.37B | as of 2022 | [1B-10B](/revenue_buckets/1b-10b/) |
-| $950.66M | as of 2021 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $1.34B | as of 2023 | [1B-10B](/revenue_buckets/1b-10b/) |
-| $397.87M | as of 2011 | [100M-500M](/revenue_buckets/100m-500m/) |
-| $386.54M | as of 2012 | [100M-500M](/revenue_buckets/100m-500m/) |
-| $456.12M | as of 2013 | [100M-500M](/revenue_buckets/100m-500m/) |
-| $562.02M | as of 2014 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $688.92M | as of 2015 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $736.80M | as of 2016 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $729.56M | as of 2018 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $785.36M | as of 2019 | [500M-1B](/revenue_buckets/500m-1b/) |
-| $1.53B | as of 2024 | [1B-10B](/revenue_buckets/1b-10b/) |
-
-### Employees History
-
-| Employees | Year information | Bucket |
-|---|---|---|
-| 17,000 | as of 2020 | [10K-50K](/employees_buckets/10k-50k/) |
-
-### Total Assets History
-
-| Total Assets ($) | Year information | Bucket |
-|---|---|---|
-| $584.27M | as of 2022 | [500M-1B](/total_assets_buckets/500m-1b/) |
-| $527.55M | as of 2021 | [500M-1B](/total_assets_buckets/500m-1b/) |
-| $629.98M | as of 2023 | [500M-1B](/total_assets_buckets/500m-1b/) |
-| $195.27M | as of 2011 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $197.93M | as of 2012 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $215.70M | as of 2013 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $245.59M | as of 2014 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $270.14M | as of 2015 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $286.76M | as of 2016 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $374.73M | as of 2017 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $371.22M | as of 2018 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $385.11M | as of 2019 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $418.24M | as of 2020 | [100M-500M](/total_assets_buckets/100m-500m/) |
-| $669.75M | as of 2024 | [500M-1B](/total_assets_buckets/500m-1b/) |

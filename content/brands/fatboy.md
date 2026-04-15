@@ -2,7 +2,7 @@
 title: Fatboy
 slug: fatboy
 description: ""
-date: "2026-04-10T09:40:30.930899"
+date: "2026-04-15T09:21:22.541038"
 draft: false
 sectors:
   - "consumer-goods"
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: band
-wikidata_url: "https://www.wikidata.org/wiki/Q219472"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.fatboy.com/nl-nl](https://www.fatboy.com/nl-nl)
 - [https://b2bservice.fatboy.com](https://b2bservice.fatboy.com)
 - [http://www.fatboy.com](http://www.fatboy.com)
-- [http://www.fatboy.se](http://www.fatboy.se)
 
 ## Brand Guidelines
 
@@ -319,28 +318,3 @@ visual_term_image_urls: {}
 - 5. If you have a beanbag in your showroom please try to fluff it up each day, so it looks good and comfy
 - 6. Same goes for the Lamzac, please inflate multiple times a day so it looks good
 - 7. If you have any rechargeable lights, like the edison the petit orTransloetje, make sure they're charged each day, so customers can see how they work
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q219472) |
-
-| Property | Value |
-|----------|-------|
-| Musicbrainz Artist Id | d4baafab-4314-4c3a-bc59-8cce9cb12ce8 |
-| Discogs Artist Id | 250266 |
-| Image | Fatboy press 2 svartvit mindre.jpg |
-| Country Of Origin | Sweden |
-| Songkick Artist Id | 546635 |
-| Genre | rockabilly |
-| Start Of Work Period | 1996 |
-| Freebase Id | /m/0dmrym3 |
-| Last.Fm Id | Fatboy |
-| Instagram Username | gofatboy |
-| Facebook Username | gofatboy |
-| Spotify Artist Id | 5vK6yZH3E1wOYY93NHZwJT |
-| X (Twitter) Username | gofatboy (as of 2021-09-01, from 2009-05-06) |
-| Muziekweb Performer Id | M00000366323 |
-| Apple Music Artist Id | 31547894 |
-| Jaxsta Profile Id | cc04f04c-bd12-41c9-947c-e6c4291f3f25 |

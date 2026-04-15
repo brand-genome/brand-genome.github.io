@@ -2,7 +2,7 @@
 title: AES
 slug: aes
 description: ""
-date: "2026-04-10T09:40:32.643370"
+date: "2026-04-15T09:21:23.818885"
 draft: false
 sectors:
   - research
@@ -15,10 +15,8 @@ languages:
   - english
 tags:
   - music
-industries:
-  - "electricity-generation"
-countries:
-  - "united-states"
+industries: []
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,16 +24,12 @@ employees_buckets: []
 total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
-products_or_materials_produced:
-  - electricity
+products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - "arlington-county"
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1981
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: American utility and power company
-wikidata_url: "https://www.wikidata.org/wiki/Q291508"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -72,8 +66,6 @@ visual_term_image_urls: {}
 - [https://aes.org/about/brand-assets/logos](https://aes.org/about/brand-assets/logos)
 - [https://www.aesstudents.org](https://www.aesstudents.org)
 - [https://www.aeseducationalfoundation.org](https://www.aeseducationalfoundation.org)
-- [http://www.aes.com](http://www.aes.com)
-- [https://www.aes.com](https://www.aes.com)
 
 ## Brand Guidelines
 
@@ -187,53 +179,3 @@ visual_term_image_urls: {}
 - Vínculo de marcas secundarias con una tercera marca.
 - Distancia de separación y escala en el vínculo con terceras marcas.
 - Estas son las distancias de separación y escalas que deben mantener las marcas puestas en vínculo.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q291508) |
-
-| Property | Value |
-|----------|-------|
-| Product Or Material Produced | [Electricity](/products_or_materials_produced/electricity/) |
-| Headquarters Location | [Arlington County](/headquarters_locations/arlington-county/) |
-| Foundation Date | [1981](/foundation_dates/1981/) |
-| Stock Exchange | New York Stock Exchange (from 1996-10-16) |
-| Freebase Id | /m/03br8l4 |
-| Country | United States |
-| Part Of | S&P 500 |
-| Viaf Cluster Id | 295715328 |
-| Isin | US00130H1059 |
-| Inception | 1981-01-01 |
-| Legal Entity Identifier | 2NUNNB7D43COUIRE5295 |
-| Grid Id | grid.467158.9 |
-| Quora Topic Id | The-AES-Corporation |
-| Topic'S Main Category | Category:AES Corporation |
-| Headquarters Location | Arlington County |
-| Isni | 0000000403707220 |
-| Child Organization Or Unit | AES (United Kingdom), AES Andes |
-| Permid | 4295903289 |
-| Open Funder Registry Funder Id | 100007531 |
-| Owner Of | Shulbinsk Hydroelectric Power Plant, AES Andes |
-| Library Of Congress Authority Id | no2004113487 |
-| Ror Id | 05b7fdx35 |
-| Ringgold Id | 1308 |
-| X (Twitter) Username | theaescorp (as of 2020-04-24, from 2014-06-02) |
-| Product Or Material Produced | electricity |
-| Industry | electricity generation |
-| Described At Url | http://www.fundinguniverse.com/company-histories/aes-corporation-history/ |
-| Central Index Key | 0000874761 |
-| Social Media Followers | 3,118 (as of 2021-01-03), 2,752 (as of 2020-04-24) |
-| Osm Name Suggestion Index Id | aescorporation-12344d, aescorporation-f7f223 |
-| Founded By | Roger W. Sant |
-| Image | AES Corporation (52368078840).jpg |
-| National Library Of Israel J9U Id | 987007319677305171 |
-| Board Member | Gerard M. Anderson (from 2023-07-17), Inderpal Bhandari (from 2024-01-18), Janet G. Davidson (from 2019-02-22), Andrés R. Gluski (from 2011-09-30), Holly K. Koeppel (from 2015-04-23) (+6 more) |
-| Chief Executive Officer | Andrés R. Gluski (from 2011-09-30) |
-| Facebook Username | TheAESCorporation |
-| Legal Form | Delaware corporation |
-| Global Energy Monitor Wiki Id | AES |
-| Uk Parliament Thesaurus Id | 429133 |
-| Wikirate Company Id | 1600975 |
-| Eia Utility Id | 61012 |

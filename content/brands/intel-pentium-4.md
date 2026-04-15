@@ -2,11 +2,11 @@
 title: Intel Pentium 4
 slug: "intel-pentium-4"
 description: ""
-date: "2026-04-10T09:40:31.530608"
+date: "2026-04-15T09:21:23.180386"
 draft: false
 sectors:
-  - hardware
   - electronics
+  - hardware
 regions:
   - usa
 years:

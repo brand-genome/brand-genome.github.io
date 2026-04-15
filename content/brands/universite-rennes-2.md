@@ -2,7 +2,7 @@
 title: Université Rennes 2
 slug: "universite-rennes-2"
 description: ""
-date: "2026-04-10T09:40:34.900872"
+date: "2026-04-15T09:21:25.869791"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []

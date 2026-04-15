@@ -2,11 +2,11 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-04-10T09:40:34.260649"
+date: "2026-04-15T09:21:25.177089"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - colombia
 years:

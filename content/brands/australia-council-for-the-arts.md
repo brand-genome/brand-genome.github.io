@@ -2,7 +2,7 @@
 title: Australia Council for the Arts
 slug: "australia-council-for-the-arts"
 description: ""
-date: "2026-04-10T09:40:34.698664"
+date: "2026-04-15T09:21:25.683670"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - institution
   - art
+  - institution
 industries: []
 countries:
   - australia

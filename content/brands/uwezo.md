@@ -2,11 +2,11 @@
 title: Uwezo
 slug: uwezo
 description: ""
-date: "2026-04-10T09:40:34.290361"
+date: "2026-04-15T09:21:25.194029"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - kenya
 years:
@@ -16,8 +16,7 @@ languages:
 tags:
   - charity
 industries: []
-countries:
-  - rwanda
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,10 +28,8 @@ products_or_materials_produced: []
 products: []
 headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 2013
-foundation_year_buckets:
-  - 2010S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: national NGO from Rwanda
-wikidata_url: "https://www.wikidata.org/wiki/Q129675640"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,24 +63,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://uwezotanzania.or.tz](https://uwezotanzania.or.tz)
-- [https://uwezoyouth.org](https://uwezoyouth.org)
 
 ## Brand Guidelines
 
 ### 2012
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q129675640) |
-
-| Property | Value |
-|----------|-------|
-| Foundation Date | [2013](/foundation_dates/2013/) |
-| Country | Rwanda |
-| Inception | 2013-01-15 |
-| Member Of | National Union of Disability Organizations in Rwanda |
-| Iati Organisation Id | RW-RGB-101-RGB-NGO-2014 |

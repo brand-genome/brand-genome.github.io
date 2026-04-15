@@ -2,11 +2,11 @@
 title: Sectigo
 slug: sectigo
 description: ""
-date: "2026-04-10T09:40:34.266566"
+date: "2026-04-15T09:21:25.181285"
 draft: false
 sectors:
-  - software
   - cybersecurity
+  - software
 regions:
   - international
 years:

@@ -2,7 +2,7 @@
 title: Hamamatsu City
 slug: "hamamatsu-city"
 description: ""
-date: "2026-04-10T09:40:32.146804"
+date: "2026-04-15T09:21:23.619218"
 draft: false
 sectors:
   - "public-sector"
@@ -15,11 +15,10 @@ languages:
   - japanese
 tags:
   - city
-  - regional
   - featured
+  - regional
 industries: []
-countries:
-  - japan
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -55,7 +54,7 @@ brand_colors: []
 typographies: []
 imagery_styles: []
 wikidata_description: ""
-wikidata_url: "https://www.wikidata.org/wiki/Q28083517"
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -67,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.city.hamamatsu.shizuoka.jp](https://www.city.hamamatsu.shizuoka.jp)
 - [https://visit.hamamatsu-japan.com](https://visit.hamamatsu-japan.com)
-- [https://www.city.hamamatsu.shizuoka.jp/gikai/index.html](https://www.city.hamamatsu.shizuoka.jp/gikai/index.html)
 
 ## Brand Guidelines
 
@@ -235,18 +233,3 @@ visual_term_image_urls: {}
 - 影をつけてはいけません。
 - ロゴマークのバランスを変えてはいけません。
 - 立体にしてはいけません。
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q28083517) |
-
-| Property | Value |
-|----------|-------|
-| Ndl Authority Id | 01196882 |
-| Viaf Cluster Id | 259773099 |
-| Number Of Seats | 46 |
-| Country | Japan |
-| Applies To Jurisdiction | Hamamatsu |
-| Google Knowledge Graph Id | /g/11c52h6tyb |

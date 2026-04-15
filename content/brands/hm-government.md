@@ -2,15 +2,15 @@
 title: HM Government
 slug: "hm-government"
 description: ""
-date: "2026-04-10T09:40:30.964246"
+date: "2026-04-15T09:21:22.579748"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - "united-kingdom"
 years:
-  - 2022
   - 2019
+  - 2022
 languages:
   - english
 tags:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 - [https://www.gov.uk](https://www.gov.uk)
 - [https://hmgbrand.gcs.civilservice.gov.uk](https://hmgbrand.gcs.civilservice.gov.uk)
 - [http://www.gov.uk](http://www.gov.uk)
-- [http://www.trade.gov](http://www.trade.gov)
 - [https://www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk)
 - [https://www.yourpension.gov.uk](https://www.yourpension.gov.uk)
 - [https://gov.uk](https://gov.uk)

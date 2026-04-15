@@ -2,7 +2,7 @@
 title: Canadien National
 slug: "canadien-national"
 description: ""
-date: "2026-04-10T09:40:34.864275"
+date: "2026-04-15T09:21:25.836451"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -18,8 +18,8 @@ tags:
 industries:
   - "rail-freight-transport"
 countries:
-  - "united-states"
   - canada
+  - "united-states"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

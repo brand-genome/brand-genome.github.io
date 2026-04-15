@@ -2,11 +2,11 @@
 title: Landscape Institute
 slug: "landscape-institute"
 description: ""
-date: "2026-04-10T09:40:30.585093"
+date: "2026-04-15T09:21:22.124348"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - "united-kingdom"
 years:

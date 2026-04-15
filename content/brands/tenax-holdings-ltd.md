@@ -2,12 +2,12 @@
 title: Tenax Holdings Ltd
 slug: "tenax-holdings-ltd"
 description: ""
-date: "2026-04-10T09:40:30.601055"
+date: "2026-04-15T09:21:22.146851"
 draft: false
 sectors:
   - "maritime-shipping"
-  - oil
   - "logistics-supply-chain"
+  - oil
 regions:
   - "united-kingdom"
 years:

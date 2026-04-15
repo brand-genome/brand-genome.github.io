@@ -2,7 +2,7 @@
 title: Centre Pompidou Málaga
 slug: "centre-pompidou-malaga"
 description: ""
-date: "2026-04-10T09:40:30.727955"
+date: "2026-04-15T09:21:22.317822"
 draft: false
 sectors:
   - "arts-culture"
@@ -64,4 +64,3 @@ visual_term_image_urls: {}
 
 - [https://centrepompidou-malaga.eu](https://centrepompidou-malaga.eu)
 - [https://www.centrepompidou.fr/en/lieu/centre-pompidou-malaga](https://www.centrepompidou.fr/en/lieu/centre-pompidou-malaga)
-- [http://www.artnet.fr](http://www.artnet.fr)

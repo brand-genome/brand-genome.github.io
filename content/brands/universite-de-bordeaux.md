@@ -2,11 +2,11 @@
 title: Université de Bordeaux
 slug: "universite-de-bordeaux"
 description: ""
-date: "2026-04-10T09:40:33.454497"
+date: "2026-04-15T09:21:24.387144"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - education
   - university
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.u-bordeaux.fr](https://www.u-bordeaux.fr)
 - [https://www.u-bordeaux.fr/en](https://www.u-bordeaux.fr/en)
-- [http://www.bordeaux.fr](http://www.bordeaux.fr)
-- [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.u-bordeaux.fr](http://www.u-bordeaux.fr)
 
 ## Brand Guidelines

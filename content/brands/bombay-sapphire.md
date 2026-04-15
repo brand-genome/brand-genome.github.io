@@ -2,7 +2,7 @@
 title: Bombay Sapphire
 slug: "bombay-sapphire"
 description: ""
-date: "2026-04-10T09:40:32.526541"
+date: "2026-04-15T09:21:23.730030"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - featured
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

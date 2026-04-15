@@ -2,11 +2,11 @@
 title: Bakery Hours
 slug: "bakery-hours"
 description: ""
-date: "2026-04-10T09:40:33.817455"
+date: "2026-04-15T09:21:24.795172"
 draft: false
 sectors:
-  - restaurant
   - food
+  - restaurant
 regions:
   - spain
 years:

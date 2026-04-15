@@ -2,12 +2,12 @@
 title: Victorinox
 slug: victorinox
 description: ""
-date: "2026-04-10T09:40:34.729396"
+date: "2026-04-15T09:21:25.709907"
 draft: false
 sectors:
-  - hardware
-  - "consumer-goods"
   - watches
+  - "consumer-goods"
+  - hardware
 regions:
   - switzerland
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "knife-manufacturer"
   - metallurgy
+  - "knife-manufacturer"
 countries:
   - switzerland
 revenue_buckets: []
@@ -29,10 +29,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - cutlery
-  - watch
   - "swiss-army-knife"
   - baggage
+  - watch
+  - cutlery
 products: []
 headquarters_locations:
   - ibach
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cutlery](/products_or_materials_produced/cutlery/); [Watch](/products_or_materials_produced/watch/); [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Baggage](/products_or_materials_produced/baggage/) |
+| Product Or Material Produced | [Swiss Army Knife](/products_or_materials_produced/swiss-army-knife/); [Baggage](/products_or_materials_produced/baggage/); [Watch](/products_or_materials_produced/watch/); [Cutlery](/products_or_materials_produced/cutlery/) |
 | Headquarters Location | [Ibach](/headquarters_locations/ibach/) |
 | Foundation Date | [1884](/foundation_dates/1884/) |
 | Headquarters Location | Ibach |

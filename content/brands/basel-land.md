@@ -2,7 +2,7 @@
 title: Basel Land
 slug: "basel-land"
 description: ""
-date: "2026-04-10T09:40:32.121395"
+date: "2026-04-15T09:21:23.601305"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - german
 tags:
-  - institution
   - regional
+  - institution
 industries: []
 countries: []
 revenue_buckets: []

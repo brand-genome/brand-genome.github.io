@@ -2,7 +2,7 @@
 title: Capital Invest Construction
 slug: "capital-invest-construction"
 description: ""
-date: "2026-04-10T09:40:31.982509"
+date: "2026-04-15T09:21:23.414091"
 draft: false
 sectors:
   - "real-estate"

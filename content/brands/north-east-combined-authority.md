@@ -2,7 +2,7 @@
 title: North East Combined Authority
 slug: "north-east-combined-authority"
 description: ""
-date: "2026-04-10T09:40:30.583031"
+date: "2026-04-15T09:21:22.119328"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.northeast-ca.gov.uk](https://www.northeast-ca.gov.uk)
-- [http://www.ca.gov](http://www.ca.gov)
 - [https://northeastca.gov.uk](https://northeastca.gov.uk)
 
 ## Brand Guidelines

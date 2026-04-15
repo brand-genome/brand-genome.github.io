@@ -2,7 +2,7 @@
 title: ByteBao
 slug: bytebao
 description: ""
-date: "2026-04-10T09:40:31.893492"
+date: "2026-04-15T09:21:23.331939"
 draft: false
 sectors:
   - consulting
@@ -10,13 +10,13 @@ sectors:
 regions:
   - dubai
 years:
-  - 2022
   - 2021
+  - 2022
 languages:
   - english
 tags:
-  - technology
   - featured
+  - technology
   - financial
 industries: []
 countries: []

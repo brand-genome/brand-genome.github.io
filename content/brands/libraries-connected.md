@@ -2,11 +2,11 @@
 title: Libraries Connected
 slug: "libraries-connected"
 description: ""
-date: "2026-04-10T09:40:32.644273"
+date: "2026-04-15T09:21:23.819353"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - "united-kingdom"
 years:

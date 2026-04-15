@@ -2,7 +2,7 @@
 title: Hello Brain
 slug: "hello-brain"
 description: ""
-date: "2026-04-10T09:40:34.477509"
+date: "2026-04-15T09:21:25.416591"
 draft: false
 sectors:
   - education

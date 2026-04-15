@@ -2,11 +2,11 @@
 title: Universidad del Rosario
 slug: "universidad-del-rosario"
 description: ""
-date: "2026-04-10T09:40:30.928561"
+date: "2026-04-15T09:21:22.539000"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - colombia

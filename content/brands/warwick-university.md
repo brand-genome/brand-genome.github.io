@@ -2,7 +2,7 @@
 title: Warwick University
 slug: "warwick-university"
 description: ""
-date: "2026-04-10T09:40:33.605222"
+date: "2026-04-15T09:21:24.544528"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-kingdom"
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 
 - [https://warwick.ac.uk](https://warwick.ac.uk)
 - [https://alum.warwick.ac.uk](https://alum.warwick.ac.uk)
-- [http://ukbiologycompetitions.org](http://ukbiologycompetitions.org)
-- [http://www.warwicksu.com](http://www.warwicksu.com)
 - [http://www.warwick.ac.uk](http://www.warwick.ac.uk)
 
 ## Brand Guidelines

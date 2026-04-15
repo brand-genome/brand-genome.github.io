@@ -2,7 +2,7 @@
 title: Oklahoma State Athletics
 slug: "oklahoma-state-athletics"
 description: ""
-date: "2026-04-10T09:40:32.624952"
+date: "2026-04-15T09:21:23.810001"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://okstate.com](https://okstate.com)
 - [https://okstateposse.com](https://okstateposse.com)
 - [http://www.okstate.com](http://www.okstate.com)
-- [http://www.okstate.edu](http://www.okstate.edu)
 
 ## Brand Guidelines
 

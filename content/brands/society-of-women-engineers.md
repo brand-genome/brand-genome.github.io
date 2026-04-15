@@ -2,11 +2,11 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-04-10T09:40:32.478756"
+date: "2026-04-15T09:21:23.691486"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:

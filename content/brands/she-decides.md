@@ -2,7 +2,7 @@
 title: She Decides
 slug: "she-decides"
 description: ""
-date: "2026-04-10T09:40:32.997543"
+date: "2026-04-15T09:21:23.949106"
 draft: false
 sectors:
   - ngo

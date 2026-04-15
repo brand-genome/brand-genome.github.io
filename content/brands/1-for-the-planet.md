@@ -2,15 +2,15 @@
 title: "1% for the planet"
 slug: "1-for-the-planet"
 description: ""
-date: "2026-04-10T09:40:32.517928"
+date: "2026-04-15T09:21:23.723357"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2020
   - 2021
+  - 2020
 languages:
   - english
 tags:

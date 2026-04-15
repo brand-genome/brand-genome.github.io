@@ -2,7 +2,7 @@
 title: Greenway
 slug: greenway
 description: ""
-date: "2026-04-10T09:40:33.820118"
+date: "2026-04-15T09:21:24.797386"
 draft: false
 sectors:
   - "public-sector"
@@ -17,8 +17,7 @@ tags:
   - signage
   - regional
 industries: []
-countries:
-  - "united-states"
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -53,8 +52,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "town in Clay County, Arkansas, United States"
-wikidata_url: "https://www.wikidata.org/wiki/Q1861230"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -375,34 +374,3 @@ visual_term_image_urls: {}
 ##### Print Guidelines
 
 - When choosing paper stock for printed applications, avoid glossy papers and finishes. Instead, opt for rougher looking uncoated or recycled papers.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q1861230) |
-
-| Property | Value |
-|----------|-------|
-| Country | United States |
-| Coordinate Location | 36.3403, -90.2222 |
-| Located In The Administrative Territorial Entity | Clay County |
-| Freebase Id | /m/0qs5y |
-| Musicbrainz Area Id | 44b565d7-828d-4363-917d-aea5e9e3ef68 |
-| Elevation Above Sea Level | 88 metre |
-| Gnis Feature Id | 57847, 2403754 |
-| Postal Code | 72430 |
-| Locator Map Image | Clay County Arkansas Incorporated and Unincorporated areas Greenway Highlighted.svg |
-| Fips 55 3 (Locations In The Us) | 05-28720 |
-| Local Dialing Code | 870 |
-| Image | Greenway-welcome-sign-ar.jpg |
-| Who'S On First Id | 85920115 |
-| Cals Encyclopedia Of Arkansas Id | greenway-clay-county-6123 |
-| Population | 209 (as of 2010-04-01), 174 (as of 2020-04-01) |
-| Area | 0 square kilometre (as of 2010-04-01) |
-| Water As Percent Of Area | 0 percent (as of 2010-04-01) |
-| Water Area | 0 square kilometre (as of 2010-04-01) |
-| Per Capita Income | 14,058 United States dollar (as of 2020-12-31) |
-| Number Of Households | 75 (as of 2020-12-31) |
-| Openstreetmap Relation Id | 8529854 |
-| Official Name | Greenway |

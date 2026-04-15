@@ -2,7 +2,7 @@
 title: Husqvarna
 slug: husqvarna
 description: ""
-date: "2026-04-10T09:40:34.720950"
+date: "2026-04-15T09:21:25.702441"
 draft: false
 sectors:
   - automobile
@@ -15,8 +15,7 @@ languages:
 tags:
   - transport
 industries: []
-countries:
-  - sweden
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -26,13 +25,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - jonkoping
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1987
-foundation_year_buckets:
-  - 1980S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -54,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "association football/soccer club in Huskvarna, Sweden"
-wikidata_url: "https://www.wikidata.org/wiki/Q935299"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -66,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.husqvarna-motorcycles.com](https://www.husqvarna-motorcycles.com)
-- [http://www.husqvarnaff.se](http://www.husqvarnaff.se)
 
 ## Brand Guidelines
 
@@ -309,29 +304,3 @@ visual_term_image_urls: {}
 
 - The first real customer contact takes place at the dealer. Therefore, it is absolutely essential to create a uniform worldwide appearance here as well.
 - Guidelines for shop design can be found in the Husqvarna Shop Manual.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q935299) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Jonkoping](/headquarters_locations/jonkoping/) |
-| Foundation Date | [1987](/foundation_dates/1987/) |
-| Freebase Id | /m/04q7nxd |
-| Topic'S Main Category | Category:Husqvarna FF |
-| Sport | association football |
-| Viaf Cluster Id | 309906853 |
-| Inception | 1987-02-03 |
-| Country | Sweden |
-| Headquarters Location | Jönköping |
-| Home Venue | Vapenvallen |
-| League Or Competition | Ettan Fotboll |
-| Selibr Id | 376248 |
-| Category For Members Of A Team | Category:Husqvarna FF players |
-| Fandom Article Id | football:Husqvarna_FF, sweden:Husqvarna_FF |
-| Member Of | Smålands Fotbollförbund |
-| Topic Has Template |  |
-| Libris Uri | 20dhpjml5nx4x2m |

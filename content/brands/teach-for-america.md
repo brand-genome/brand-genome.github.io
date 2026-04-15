@@ -2,11 +2,11 @@
 title: Teach For America
 slug: "teach-for-america"
 description: ""
-date: "2026-04-10T09:40:33.401574"
+date: "2026-04-15T09:21:24.333324"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - usa
 years:
@@ -74,15 +74,9 @@ visual_term_image_urls: {}
 - [https://learn.teachforamerica.org](https://learn.teachforamerica.org)
 - [https://explore.teachforamerica.org](https://explore.teachforamerica.org)
 - [https://tfaignite.smapply.io](https://tfaignite.smapply.io)
-- [http://cargocollective.com/pstype/Quatro-Slab](http://cargocollective.com/pstype/Quatro-Slab)
-- [http://www.zappos.com](http://www.zappos.com)
-- [http://www.box.com](http://www.box.com)
 - [http://www.google.com/a/teachforamerica.org](http://www.google.com/a/teachforamerica.org)
 - [http://www.linkedin.com/company/teach-for-america](http://www.linkedin.com/company/teach-for-america)
-- [http://www.pardot.com/emailTemplate/read/id/472](http://www.pardot.com/emailTemplate/read/id/472)
 - [http://www.teachforamerica.org](http://www.teachforamerica.org)
-- [http://www.weebly.com/uploads/1/5/2/9/15294726/dwdfinal2.pdf](http://www.weebly.com/uploads/1/5/2/9/15294726/dwdfinal2.pdf)
-- [http://www.youtube.com](http://www.youtube.com)
 - [https://docs.google.com/a/teachforamerica.org/spreadsheet](https://docs.google.com/a/teachforamerica.org/spreadsheet)
 - [https://twitter.com/teachforamerica](https://twitter.com/teachforamerica)
 

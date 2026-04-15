@@ -2,11 +2,11 @@
 title: Broward College
 slug: "broward-college"
 description: ""
-date: "2026-04-10T09:40:30.972796"
+date: "2026-04-15T09:21:22.590731"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:

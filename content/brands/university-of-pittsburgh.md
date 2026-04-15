@@ -2,23 +2,23 @@
 title: University of Pittsburgh
 slug: "university-of-pittsburgh"
 description: ""
-date: "2026-04-10T09:40:30.752974"
+date: "2026-04-15T09:21:22.347111"
 draft: false
 sectors:
+  - university
   - research
   - education
-  - university
 regions:
   - usa
 years:
-  - 2022
-  - 2015
   - 2024
+  - 2015
+  - 2022
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - "united-states"
@@ -75,13 +75,10 @@ visual_term_image_urls: {}
 - [https://www.pitt.edu](https://www.pitt.edu)
 - [https://brand.pitt.edu](https://brand.pitt.edu)
 - [https://www.communications.pitt.edu](https://www.communications.pitt.edu)
-- [http://www.myfonts.com](http://www.myfonts.com)
 - [http://www.pitt.edu](http://www.pitt.edu)
 - [http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98](http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98)
 - [http://www.brand.pitt.edu](http://www.brand.pitt.edu)
 - [http://www.communications.pitt.edu](http://www.communications.pitt.edu)
-- [http://www.google.com](http://www.google.com)
-- [https://triblive.com/news/education-classroom/pitt-promotes-use-of-name-](https://triblive.com/news/education-classroom/pitt-promotes-use-of-name-)
 
 ## Brand Guidelines
 

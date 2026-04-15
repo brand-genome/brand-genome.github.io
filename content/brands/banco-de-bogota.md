@@ -2,7 +2,7 @@
 title: Banco de Bogotá
 slug: "banco-de-bogota"
 description: ""
-date: "2026-04-10T09:40:30.923877"
+date: "2026-04-15T09:21:22.535615"
 draft: false
 sectors:
   - finance
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bancodebogota.com](https://www.bancodebogota.com)
-- [http://www.com.co](http://www.com.co)
 
 ## Brand Guidelines
 

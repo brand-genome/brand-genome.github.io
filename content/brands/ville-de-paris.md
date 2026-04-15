@@ -2,7 +2,7 @@
 title: Ville de Paris
 slug: "ville-de-paris"
 description: ""
-date: "2026-04-10T09:40:33.607698"
+date: "2026-04-15T09:21:24.547863"
 draft: false
 sectors:
   - "public-sector"

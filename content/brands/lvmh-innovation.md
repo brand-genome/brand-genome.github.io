@@ -2,11 +2,11 @@
 title: LVMH Innovation
 slug: "lvmh-innovation"
 description: ""
-date: "2026-04-10T09:40:30.666784"
+date: "2026-04-15T09:21:22.231933"
 draft: false
 sectors:
-  - consulting
   - "public-relations"
+  - consulting
 regions:
   - france
 years:

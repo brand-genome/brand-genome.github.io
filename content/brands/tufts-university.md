@@ -2,11 +2,11 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-04-10T09:40:34.908652"
+date: "2026-04-15T09:21:25.877372"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries:
   - "higher-education"
 countries:

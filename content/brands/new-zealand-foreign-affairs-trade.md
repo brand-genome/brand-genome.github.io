@@ -2,7 +2,7 @@
 title: "New Zealand Foreign Affairs & Trade"
 slug: "new-zealand-foreign-affairs-trade"
 description: ""
-date: "2026-04-10T09:40:34.519516"
+date: "2026-04-15T09:21:25.452324"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mfat.govt.nz](https://www.mfat.govt.nz)
-- [http://www.govt.nz](http://www.govt.nz)
 
 ## Brand Guidelines
 

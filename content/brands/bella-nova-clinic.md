@@ -2,7 +2,7 @@
 title: Bella Nova Clinic
 slug: "bella-nova-clinic"
 description: ""
-date: "2026-04-10T09:40:30.932279"
+date: "2026-04-15T09:21:22.542245"
 draft: false
 sectors:
   - cosmetics

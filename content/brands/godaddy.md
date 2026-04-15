@@ -2,11 +2,11 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-04-10T09:40:33.583212"
+date: "2026-04-15T09:21:24.534644"
 draft: false
 sectors:
-  - software
   - "e-commerce"
+  - software
 regions:
   - usa
 years:

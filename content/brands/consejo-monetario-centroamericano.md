@@ -2,7 +2,7 @@
 title: Consejo Monetario Centroamericano
 slug: "consejo-monetario-centroamericano"
 description: ""
-date: "2026-04-10T09:40:31.944285"
+date: "2026-04-15T09:21:23.379341"
 draft: false
 sectors:
   - "public-sector"

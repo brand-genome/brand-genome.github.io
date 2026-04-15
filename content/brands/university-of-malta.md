@@ -2,11 +2,11 @@
 title: University of Malta
 slug: "university-of-malta"
 description: ""
-date: "2026-04-10T09:40:34.442853"
+date: "2026-04-15T09:21:25.386993"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - malta
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - malta

@@ -2,7 +2,7 @@
 title: Australian Athletics
 slug: "australian-athletics"
 description: ""
-date: "2026-04-10T09:40:30.579305"
+date: "2026-04-15T09:21:22.113586"
 draft: false
 sectors:
   - sports
@@ -15,8 +15,7 @@ languages:
 tags:
   - sport
 industries: []
-countries:
-  - australia
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -51,8 +50,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: "database from the Australian athletics association, Athletics Australia"
-wikidata_url: "https://www.wikidata.org/wiki/Q115794139"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -63,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.athletics.com.au](https://www.athletics.com.au)
-- [http://www.athletics.com](http://www.athletics.com)
-- [https://athletics.possumbility.com/index.htm](https://athletics.possumbility.com/index.htm)
 
 ## Brand Guidelines
 
@@ -367,17 +364,3 @@ visual_term_image_urls: {}
 - Only the Landscape or Portrait Logo may be used for sponsorship and partnership branding to maximise brand recognition and sponsorship value. The Brand mark or Word mark should never be used.
 - When creating a new sponsorship or partnership lockup please ensure: - The partner logo is sized appropriately to give equal visual prominence to both logos - The dividing line uses AA Grey as a keyline stroke - The height of the dividing line equals the height of the Australian Athletics logo - The space between the partner logo/Australian Athletics Logo and the dividing line is 0.25 the height of the Brand mark
 - All sponsorship and partnership co-branding must be approved by the Marketing & Communication team.
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q115794139) |
-
-| Property | Value |
-|----------|-------|
-| Main Wikidata Property | Australian Athletics Historical Results athlete ID |
-| Country | Australia |
-| Language Of Work Or Name | English |
-| Owned By | Athletics Australia |
-| Maintained By | Athletics Australia |

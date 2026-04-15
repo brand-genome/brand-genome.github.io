@@ -2,11 +2,11 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-04-10T09:40:33.612299"
+date: "2026-04-15T09:21:24.551756"
 draft: false
 sectors:
-  - hospitality
   - tourism
+  - hospitality
 regions:
   - france
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "activities-of-head-offices"
   - "hospitality-industry"
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:

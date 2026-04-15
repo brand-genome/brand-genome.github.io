@@ -2,7 +2,7 @@
 title: Eurosport
 slug: eurosport
 description: ""
-date: "2026-04-10T09:40:34.860825"
+date: "2026-04-15T09:21:25.833382"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - broadcast
+  - sport
 industries:
   - "broadcasting-of-sports-events"
 countries:

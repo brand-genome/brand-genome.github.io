@@ -2,11 +2,11 @@
 title: Kinjo Gakuin University
 slug: "kinjo-gakuin-university"
 description: ""
-date: "2026-04-10T09:40:31.535043"
+date: "2026-04-15T09:21:23.185725"
 draft: false
 sectors:
-  - education
   - university
+  - education
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - education
   - university
+  - education
 industries: []
 countries:
   - japan

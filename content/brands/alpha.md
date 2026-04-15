@@ -2,11 +2,11 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-04-10T09:40:33.033701"
+date: "2026-04-15T09:21:23.978210"
 draft: false
 sectors:
-  - ngo
   - education
+  - ngo
 regions:
   - france
 years:
@@ -51,8 +51,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: early stage in software design
-wikidata_url: "https://www.wikidata.org/wiki/Q2122918"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -221,19 +221,3 @@ visual_term_image_urls: {}
 
 - Nous décrivons un partenariat avec Alpha de la manière suivante: • En partenariat avec Alpha • Soutenu par Alpha
 - Nous pouvons introduire du contenu comme provenant d'Alpha en ces termes: • En association avec Alpha • Généré par Alpha • Soutenu par Alpha
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q2122918) |
-
-| Property | Value |
-|----------|-------|
-| Subclass Of | pre-release version |
-| Followed By | beta version,  |
-| Follows | pre-alpha version |
-| Part Of | software alpha testing |
-| Described By Source | TheFreeDictionary.com, TheFreeDictionary.com, Macmillan Dictionary |
-| Google Knowledge Graph Id | /g/121sljgq, /g/122n5zsn |
-| Image | Alfa-Beta-Gamma.png |

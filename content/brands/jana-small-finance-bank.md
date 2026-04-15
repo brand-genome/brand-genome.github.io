@@ -2,7 +2,7 @@
 title: Jana Small Finance Bank
 slug: "jana-small-finance-bank"
 description: ""
-date: "2026-04-10T09:40:30.933689"
+date: "2026-04-15T09:21:22.543440"
 draft: false
 sectors:
   - finance

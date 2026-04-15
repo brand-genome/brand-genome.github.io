@@ -2,12 +2,12 @@
 title: "Marks & Spencer"
 slug: "marks-spencer"
 description: ""
-date: "2026-04-10T09:40:34.729909"
+date: "2026-04-15T09:21:25.710231"
 draft: false
 sectors:
+  - supermarket
   - "consumer-goods"
   - "e-commerce"
-  - supermarket
 regions:
   - "united-kingdom"
 years:
@@ -32,8 +32,8 @@ products_or_materials_produced:
   - clothing
 products: []
 headquarters_locations:
-  - leeds
   - london
+  - leeds
 subsidiaries: []
 foundation_dates:
   - 1884
@@ -286,7 +286,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Clothing](/products_or_materials_produced/clothing/) |
-| Headquarters Location | [Leeds](/headquarters_locations/leeds/); [London](/headquarters_locations/london/) |
+| Headquarters Location | [London](/headquarters_locations/london/); [Leeds](/headquarters_locations/leeds/) |
 | Foundation Date | [1884](/foundation_dates/1884/) |
 | Founded By | Michael Marks, Thomas Spencer |
 | Topic'S Main Category | Category:Marks & Spencer |

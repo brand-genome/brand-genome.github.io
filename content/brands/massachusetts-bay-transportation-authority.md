@@ -2,7 +2,7 @@
 title: Massachusetts Bay Transportation Authority
 slug: "massachusetts-bay-transportation-authority"
 description: ""
-date: "2026-04-10T09:40:31.973391"
+date: "2026-04-15T09:21:23.407538"
 draft: false
 sectors:
   - "public-sector"
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 - [https://www.mbta.com/ferries](https://www.mbta.com/ferries)
 - [https://www.mass.gov/orgs/massachusetts-bay-transportation-authority](https://www.mass.gov/orgs/massachusetts-bay-transportation-authority)
 - [http://www.mbta.com](http://www.mbta.com)
-- [http://www.gettyimages.com](http://www.gettyimages.com)
 
 ## Brand Guidelines
 

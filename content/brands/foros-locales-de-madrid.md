@@ -2,7 +2,7 @@
 title: Foros Locales de Madrid
 slug: "foros-locales-de-madrid"
 description: ""
-date: "2026-04-10T09:40:32.493056"
+date: "2026-04-15T09:21:23.702823"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - social
   - community
+  - social
 industries: []
 countries: []
 revenue_buckets: []

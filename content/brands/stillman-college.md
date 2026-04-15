@@ -2,7 +2,7 @@
 title: Stillman College
 slug: "stillman-college"
 description: ""
-date: "2026-04-10T09:40:30.982822"
+date: "2026-04-15T09:21:22.601167"
 draft: false
 sectors:
   - university

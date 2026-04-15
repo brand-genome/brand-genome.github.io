@@ -2,7 +2,7 @@
 title: Vinnytsia City
 slug: "vinnytsia-city"
 description: ""
-date: "2026-04-10T09:40:30.889690"
+date: "2026-04-15T09:21:22.509039"
 draft: false
 sectors:
   - "public-sector"

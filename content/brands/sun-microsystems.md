@@ -2,7 +2,7 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-04-10T09:40:33.944879"
+date: "2026-04-15T09:21:24.893037"
 draft: false
 sectors:
   - software
@@ -15,12 +15,12 @@ years:
 languages:
   - english
 tags:
-  - software
   - ambigram
   - technology
+  - software
 industries:
-  - "software-development"
   - computing
+  - "software-development"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -34,8 +34,8 @@ market_cap_buckets: []
 products_or_materials_produced:
   - software
   - workstation
-  - "computer-hardware"
   - server
+  - "computer-hardware"
 products: []
 headquarters_locations:
   - "santa-clara"
@@ -98,7 +98,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
 | Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |

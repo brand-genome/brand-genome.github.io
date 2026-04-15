@@ -2,7 +2,7 @@
 title: Gasag
 slug: gasag
 description: ""
-date: "2026-04-10T09:40:31.528428"
+date: "2026-04-15T09:21:23.175333"
 draft: false
 sectors:
   - utilities
@@ -16,9 +16,9 @@ tags:
   - featured
   - industry
 industries:
+  - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
   - "energy-company"
   - "energy-supply"
-  - "manufacture-of-gas-distribution-of-gaseous-fuels-through-mains"
 countries:
   - germany
 revenue_buckets: []
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 
 - [https://www.gasag.de](https://www.gasag.de)
 - [http://www.gasagdeals.de](http://www.gasagdeals.de)
-- [http://www.peperoni.berlin](http://www.peperoni.berlin)
 - [http://www.gasag.de](http://www.gasag.de)
 
 ## Additional Properties

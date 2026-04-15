@@ -2,7 +2,7 @@
 title: Aircoat
 slug: aircoat
 description: ""
-date: "2026-04-10T09:40:34.636671"
+date: "2026-04-15T09:21:25.630247"
 draft: false
 sectors:
   - "maritime-shipping"

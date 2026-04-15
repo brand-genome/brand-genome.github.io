@@ -2,7 +2,7 @@
 title: Aludium
 slug: aludium
 description: ""
-date: "2026-04-10T09:40:34.638626"
+date: "2026-04-15T09:21:25.632150"
 draft: false
 sectors:
   - "manufacturing-industry"

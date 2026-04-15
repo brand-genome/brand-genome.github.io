@@ -2,7 +2,7 @@
 title: Pratt Institute
 slug: "pratt-institute"
 description: ""
-date: "2026-04-10T09:40:30.925756"
+date: "2026-04-15T09:21:22.537044"
 draft: false
 sectors:
   - university
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 
 - [https://www.pratt.edu](https://www.pratt.edu)
 - [http://www.pratt.edu](http://www.pratt.edu)
-- [http://www.ibm.com/design/language/2x-grid](http://www.ibm.com/design/language/2x-grid)
 - [https://pratt.edu](https://pratt.edu)
 
 ## Additional Properties

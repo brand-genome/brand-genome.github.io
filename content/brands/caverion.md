@@ -2,12 +2,12 @@
 title: Caverion
 slug: caverion
 description: ""
-date: "2026-04-10T09:40:34.670882"
+date: "2026-04-15T09:21:25.662253"
 draft: false
 sectors:
+  - utilities
   - consulting
   - construction
-  - utilities
 regions:
   - finland
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - corporate
 industries:
-  - "construction-industry"
   - "project-management"
+  - "construction-industry"
 countries:
   - sweden
 revenue_buckets: []

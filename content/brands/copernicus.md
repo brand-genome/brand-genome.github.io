@@ -2,12 +2,12 @@
 title: Copernicus
 slug: copernicus
 description: ""
-date: "2026-04-10T09:40:33.751702"
+date: "2026-04-15T09:21:24.727480"
 draft: false
 sectors:
   - "public-sector"
-  - satellite
   - research
+  - satellite
 regions:
   - europe
 years:
@@ -18,8 +18,7 @@ tags:
   - institution
   - aeronautic
 industries: []
-countries:
-  - germany
+countries: []
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,13 +28,10 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced: []
 products: []
-headquarters_locations:
-  - gottingen
+headquarters_locations: []
 subsidiaries: []
-foundation_dates:
-  - 1994
-foundation_year_buckets:
-  - 1990S
+foundation_dates: []
+foundation_year_buckets: []
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -57,8 +53,8 @@ logo_elements: []
 brand_colors: []
 typographies: []
 imagery_styles: []
-wikidata_description: scientific publishing house
-wikidata_url: "https://www.wikidata.org/wiki/Q5168538"
+wikidata_description: ""
+wikidata_url: ""
 has_twitter: false
 has_guidelines: true
 promotion_image_count: 0
@@ -71,36 +67,9 @@ visual_term_image_urls: {}
 - [https://www.copernicus.eu](https://www.copernicus.eu)
 - [https://climate.copernicus.eu](https://climate.copernicus.eu)
 - [https://atmosphere.copernicus.eu](https://atmosphere.copernicus.eu)
-- [http://publications.copernicus.org](http://publications.copernicus.org)
 
 ## Brand Guidelines
 
 ### 2015
 
 *Guidelines data not available*
-
-## Additional Properties
-
-| Property | Value |
-|----------|-------|
-| Wikidata Link | [Open Wikidata](https://www.wikidata.org/wiki/Q5168538) |
-
-| Property | Value |
-|----------|-------|
-| Headquarters Location | [Gottingen](/headquarters_locations/gottingen/) |
-| Foundation Date | [1994](/foundation_dates/1994/) |
-| Inception | 1994-01-01 |
-| Headquarters Location | Göttingen |
-| Doi Prefix | 10.5194 |
-| Country | Germany |
-| Member Of | ORCID, Inc. (as of 2023-10), Open Access Scholarly Publishing Association, Committee on Publication Ethics |
-| Romeo Publisher Id | 215 |
-| Publons Publisher Id | 239 |
-| Legal Form | Gesellschaft mit beschränkter Haftung |
-| Freebase Id | /m/0h1gwc6 |
-| Language Used | German |
-| Ror Id | 00yafkq43 |
-| Participant In | OA Switchboard (as of 2023-02) |
-| On Focus List Of Wikimedia Project | Wikidata:WikiProject Academic Publisher |
-| Openalex Id | P4310313756 |
-| Kisti Id | K000338424 |

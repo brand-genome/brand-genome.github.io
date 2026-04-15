@@ -2,7 +2,7 @@
 title: Fédération Française d’Athlétisme
 slug: "federation-francaise-dathletisme"
 description: ""
-date: "2026-04-10T09:40:31.952940"
+date: "2026-04-15T09:21:23.389568"
 draft: false
 sectors:
   - sports

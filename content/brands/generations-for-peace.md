@@ -2,7 +2,7 @@
 title: Generations for Peace
 slug: "generations-for-peace"
 description: ""
-date: "2026-04-10T09:40:32.982071"
+date: "2026-04-15T09:21:23.935959"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ngo
   - peace
+  - ngo
 industries: []
 countries:
   - jordan
