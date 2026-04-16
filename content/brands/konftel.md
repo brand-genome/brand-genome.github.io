@@ -2,7 +2,7 @@
 title: Konftel
 slug: konftel
 description: ""
-date: "2026-04-15T09:21:24.075405"
+date: "2026-04-16T19:21:59.398176"
 draft: false
 sectors:
   - hardware
@@ -59,7 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.konftel.com](https://www.konftel.com)
-- [https://konftel.com/es](https://konftel.com/es)

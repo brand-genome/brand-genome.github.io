@@ -2,7 +2,7 @@
 title: Allianz
 slug: allianz
 description: ""
-date: "2026-04-15T09:21:25.713605"
+date: "2026-04-16T19:22:01.839755"
 draft: false
 sectors:
   - insurance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
   - "financial-services"
   - "insurance-industry"
@@ -78,7 +78,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.allianz.com/en.html](https://www.allianz.com/en.html)
 - [https://www.allianz.com](https://www.allianz.com)
 - [https://www.allianz.fr](https://www.allianz.fr)
 - [https://www.allianz.com.tr](https://www.allianz.com.tr)

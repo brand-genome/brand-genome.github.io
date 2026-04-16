@@ -2,11 +2,11 @@
 title: Ogilvy Typography
 slug: "ogilvy-typography"
 description: ""
-date: "2026-04-15T09:21:23.573980"
+date: "2026-04-16T19:21:58.867590"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
   - consulting
 regions:
   - usa

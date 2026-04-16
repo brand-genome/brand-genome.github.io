@@ -2,10 +2,9 @@
 title: Hanwag
 slug: hanwag
 description: ""
-date: "2026-04-15T09:21:24.602686"
+date: "2026-04-16T19:22:00.166090"
 draft: false
 sectors:
-  - fashion
   - footwear
 regions:
   - germany
@@ -67,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hanwag.de](https://www.hanwag.de)
-- [https://www.hanwag.com](https://www.hanwag.com)
 - [http://www.hanwag.de](http://www.hanwag.de)
 
 ## Brand Guidelines

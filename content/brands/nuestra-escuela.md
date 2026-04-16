@@ -2,10 +2,9 @@
 title: Nuestra Escuela
 slug: "nuestra-escuela"
 description: ""
-date: "2026-04-15T09:21:24.051003"
+date: "2026-04-16T19:21:59.371155"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
 regions:
   - argentina

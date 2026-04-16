@@ -2,11 +2,11 @@
 title: Kids Up Front
 slug: "kids-up-front"
 description: ""
-date: "2026-04-15T09:21:23.991588"
+date: "2026-04-16T19:21:59.300862"
 draft: false
 sectors:
-  - entertainment
   - ngo
+  - entertainment
 regions:
   - canada
 years:
@@ -68,12 +68,12 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kidsupfront.com](https://kidsupfront.com)
-- [https://kidsupfront.com/atlantic](https://kidsupfront.com/atlantic)
-- [https://kidsupfront.com/calgary](https://kidsupfront.com/calgary)
-- [https://kidsupfront.com/edmonton](https://kidsupfront.com/edmonton)
-- [https://kidsupfront.com/ottawa](https://kidsupfront.com/ottawa)
-- [https://kidsupfront.com/toronto](https://kidsupfront.com/toronto)
-- [https://kidsupfront.com/vancouver](https://kidsupfront.com/vancouver)
+- [http://kidsupfrontatlantic.com](http://kidsupfrontatlantic.com)
+- [https://kidsupfrontcalgary.com](https://kidsupfrontcalgary.com)
+- [https://kidsupfrontedmonton.com](https://kidsupfrontedmonton.com)
+- [https://www.kidsupfrontottawa.com](https://www.kidsupfrontottawa.com)
+- [https://kidsupfronttoronto.com](https://kidsupfronttoronto.com)
+- [https://kidsupfrontvancouver.com](https://kidsupfrontvancouver.com)
 - [https://www.kidsupfronttoronto.com](https://www.kidsupfronttoronto.com)
 
 ## Brand Guidelines

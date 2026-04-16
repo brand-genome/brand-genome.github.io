@@ -2,7 +2,7 @@
 title: Scout Association of Malta
 slug: "scout-association-of-malta"
 description: ""
-date: "2026-04-15T09:21:24.072959"
+date: "2026-04-16T19:21:59.395570"
 draft: false
 sectors:
   - ngo
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://scouts.mt](https://scouts.mt)
-- [https://www.scouts.org.mt](https://www.scouts.org.mt)
 
 ## Brand Guidelines
 

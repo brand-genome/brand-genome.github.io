@@ -2,7 +2,7 @@
 title: England’s Waterways
 slug: "englands-waterways"
 description: ""
-date: "2026-04-15T09:21:24.981038"
+date: "2026-04-16T19:22:00.552888"
 draft: false
 sectors:
   - tourism
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://englandswaterways.com](https://englandswaterways.com)
-
 ## Brand Guidelines
 
 ### 2019

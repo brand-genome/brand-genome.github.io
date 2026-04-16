@@ -2,7 +2,7 @@
 title: University of Oregon
 slug: "university-of-oregon"
 description: ""
-date: "2026-04-15T09:21:23.196596"
+date: "2026-04-16T19:21:58.601497"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.uoregon.edu](https://www.uoregon.edu)
-- [https://brand.uoregon.edu](https://brand.uoregon.edu)
+- [https://communications.uoregon.edu/brand](https://communications.uoregon.edu/brand)
 - [https://pdx.uoregon.edu](https://pdx.uoregon.edu)
 - [https://online.uoregon.edu](https://online.uoregon.edu)
 - [https://go.uoregon.edu](https://go.uoregon.edu)

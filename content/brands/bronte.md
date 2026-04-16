@@ -2,7 +2,7 @@
 title: Bronte
 slug: bronte
 description: ""
-date: "2026-04-15T09:21:24.979719"
+date: "2026-04-16T19:22:00.551339"
 draft: false
 sectors:
   - restaurant
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.bronte.co.uk](http://www.bronte.co.uk)
+- [https://bronte.co.uk](https://bronte.co.uk)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: University of Graz
 slug: "university-of-graz"
 description: ""
-date: "2026-04-15T09:21:22.522133"
+date: "2026-04-16T19:21:57.857635"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - austria
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - austria
@@ -68,10 +68,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.uni-graz.at/en](https://www.uni-graz.at/en)
-- [https://www.uni-graz.at](https://www.uni-graz.at)
+- [https://www.uni-graz.at/de](https://www.uni-graz.at/de)
 - [http://www.nawigraz.at](http://www.nawigraz.at)
 - [http://www.uni-graz.at](http://www.uni-graz.at)
-- [https://www.uni-graz.at/de](https://www.uni-graz.at/de)
 
 ## Additional Properties
 

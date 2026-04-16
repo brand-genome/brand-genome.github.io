@@ -2,11 +2,11 @@
 title: Universitat Autònoma de Barcelona
 slug: "universitat-autonoma-de-barcelona"
 description: ""
-date: "2026-04-15T09:21:23.858999"
+date: "2026-04-16T19:21:59.186236"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - catalan
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,11 +63,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uab.cat/en](https://www.uab.cat/en)
-- [https://www.uab.cat/es](https://www.uab.cat/es)
+- [https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)
+- [https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954409.html](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954409.html)
 - [https://www.uab.cat](https://www.uab.cat)
 - [https://www.uabcampus.cat/en](https://www.uabcampus.cat/en)
-- [https://www.uabcampus.cat](https://www.uabcampus.cat)
+- [https://www.uabcampus.cat/ca/index.php](https://www.uabcampus.cat/ca/index.php)
 - [http://www.uab.cat](http://www.uab.cat)
 
 ## Brand Guidelines

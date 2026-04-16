@@ -2,7 +2,7 @@
 title: Universidad de Murcia
 slug: "universidad-de-murcia"
 description: ""
-date: "2026-04-15T09:21:22.450725"
+date: "2026-04-16T19:21:57.728983"
 draft: false
 sectors:
   - university
@@ -14,9 +14,9 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - university
   - education
+  - featured
 industries: []
 countries:
   - spain

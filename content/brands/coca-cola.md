@@ -2,10 +2,9 @@
 title: "Coca-Cola"
 slug: "coca-cola"
 description: ""
-date: "2026-04-15T09:21:23.700724"
+date: "2026-04-16T19:21:59.023928"
 draft: false
 sectors:
-  - food
   - drink
 regions:
   - usa
@@ -15,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
-  - packaging
   - "student-work"
+  - featured
+  - packaging
 industries: []
 countries: []
 revenue_buckets: []

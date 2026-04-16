@@ -2,11 +2,11 @@
 title: Swiss Wine
 slug: "swiss-wine"
 description: ""
-date: "2026-04-15T09:21:24.234417"
+date: "2026-04-16T19:21:59.612226"
 draft: false
 sectors:
-  - "marketing-advertising"
   - drink
+  - "marketing-advertising"
 regions:
   - switzerland
 years:
@@ -62,10 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.swisswine.com](https://www.swisswine.com)
+- [https://www.swisswine.com/fr](https://www.swisswine.com/fr)
 - [https://www.swisswine.com/en](https://www.swisswine.com/en)
 - [https://www.swisswine.com/de](https://www.swisswine.com/de)
-- [https://www.swisswine.com/fr](https://www.swisswine.com/fr)
 - [https://www.swisswine.com/it](https://www.swisswine.com/it)
 - [https://www.swisswine.com/en/about-us](https://www.swisswine.com/en/about-us)
 

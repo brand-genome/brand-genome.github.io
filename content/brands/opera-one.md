@@ -2,7 +2,7 @@
 title: Opera One
 slug: "opera-one"
 description: ""
-date: "2026-04-15T09:21:23.186709"
+date: "2026-04-16T19:21:58.586905"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.opera.com](https://www.opera.com)
-- [https://opr.as/opera-one](https://opr.as/opera-one)
+- [https://www.opera.com/one?utm_source=press-release&utm_medium=pr&utm_campaign=OperaOne_launch_0623](https://www.opera.com/one?utm_source=press-release&utm_medium=pr&utm_campaign=OperaOne_launch_0623)
 - [https://blogs.opera.com/desktop](https://blogs.opera.com/desktop)
 
 ## Brand Guidelines

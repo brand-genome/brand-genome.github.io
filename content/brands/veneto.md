@@ -2,7 +2,7 @@
 title: Veneto
 slug: veneto
 description: ""
-date: "2026-04-15T09:21:24.076154"
+date: "2026-04-16T19:21:59.399357"
 draft: false
 sectors:
   - tourism
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.veneto.eu](https://www.veneto.eu)
 - [https://www.regione.veneto.it/turismo](https://www.regione.veneto.it/turismo)
 
 ## Brand Guidelines

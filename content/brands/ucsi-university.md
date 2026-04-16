@@ -2,7 +2,7 @@
 title: UCSI University
 slug: "ucsi-university"
 description: ""
-date: "2026-04-15T09:21:24.199528"
+date: "2026-04-16T19:21:59.564209"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - malaysia
@@ -65,9 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ucsiuniversity.edu.my](https://www.ucsiuniversity.edu.my)
-- [https://www.ucsiuniversity.edu.my/ucsi-ci](https://www.ucsiuniversity.edu.my/ucsi-ci)
-- [https://www.bangladesh.ucsiuniversity.edu.my](https://www.bangladesh.ucsiuniversity.edu.my)
 - [http://www.ucsiuniversity.edu.my/index.aspx](http://www.ucsiuniversity.edu.my/index.aspx)
 
 ## Brand Guidelines

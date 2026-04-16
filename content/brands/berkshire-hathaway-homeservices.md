@@ -2,7 +2,7 @@
 title: Berkshire Hathaway Homeservices
 slug: "berkshire-hathaway-homeservices"
 description: ""
-date: "2026-04-15T09:21:24.922492"
+date: "2026-04-16T19:22:00.494088"
 draft: false
 sectors:
   - "real-estate"
@@ -62,9 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bhhs.com](https://www.bhhs.com)
-- [https://www.bhhs.com/contact-us](https://www.bhhs.com/contact-us)
 - [https://www.bhhsresourcecenter.com](https://www.bhhsresourcecenter.com)
+- [https://www.bhhs.com](https://www.bhhs.com)
 
 ## Brand Guidelines
 

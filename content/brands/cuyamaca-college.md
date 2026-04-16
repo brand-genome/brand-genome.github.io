@@ -2,7 +2,7 @@
 title: Cuyamaca College
 slug: "cuyamaca-college"
 description: ""
-date: "2026-04-15T09:21:23.743528"
+date: "2026-04-16T19:21:59.068479"
 draft: false
 sectors:
   - education

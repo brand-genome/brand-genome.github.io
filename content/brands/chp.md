@@ -2,7 +2,7 @@
 title: CHP
 slug: chp
 description: ""
-date: "2026-04-15T09:21:23.609901"
+date: "2026-04-16T19:21:58.898314"
 draft: false
 sectors:
   - "public-sector"

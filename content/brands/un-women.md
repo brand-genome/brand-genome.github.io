@@ -2,11 +2,11 @@
 title: UN Women
 slug: "un-women"
 description: ""
-date: "2026-04-15T09:21:24.255703"
+date: "2026-04-16T19:21:59.658319"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -62,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unwomen.org](https://www.unwomen.org)
+- [https://www.unwomen.org/en](https://www.unwomen.org/en)
 - [https://data.unwomen.org](https://data.unwomen.org)
-- [https://open.unwomen.org](https://open.unwomen.org)
+- [https://open.unwomen.org/en](https://open.unwomen.org/en)
 
 ## Brand Guidelines
 

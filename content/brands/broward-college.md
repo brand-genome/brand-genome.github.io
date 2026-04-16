@@ -2,11 +2,11 @@
 title: Broward College
 slug: "broward-college"
 description: ""
-date: "2026-04-15T09:21:22.590731"
+date: "2026-04-16T19:21:57.954213"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.broward.edu](https://www.broward.edu)
 - [https://www.broward.edu/online](https://www.broward.edu/online)
 - [https://www.browardcollegefoundation.org](https://www.browardcollegefoundation.org)
 - [http://www.broward.edu](http://www.broward.edu)

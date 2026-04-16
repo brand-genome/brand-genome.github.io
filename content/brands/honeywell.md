@@ -2,7 +2,7 @@
 title: Honeywell
 slug: honeywell
 description: ""
-date: "2026-04-15T09:21:23.837738"
+date: "2026-04-16T19:21:59.166119"
 draft: false
 sectors:
   - aerospace
@@ -11,21 +11,21 @@ sectors:
 regions:
   - usa
 years:
-  - 2009
   - 2014
+  - 2009
   - 2004
 languages:
   - english
 tags:
   - corporate
 industries:
-  - retail
-  - "aerospace-industry"
   - "industrial-safety"
+  - "aerospace-industry"
+  - "chemical-industry"
   - "manufacturing-industry"
   - "supply-chain"
-  - "chemical-industry"
   - "health-care-industry"
+  - retail
 countries:
   - "united-states"
 revenue_buckets:
@@ -81,9 +81,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.honeywell.com](https://www.honeywell.com)
-- [https://brand.honeywell.com](https://brand.honeywell.com)
+- [https://www.honeywell.com/us/en](https://www.honeywell.com/us/en)
+- [https://brand.honeywell.com/us/en/login](https://brand.honeywell.com/us/en/login)
 - [http://www.honeywell.com/brandm](http://www.honeywell.com/brandm)
+- [https://www.honeywell.com](https://www.honeywell.com)
 - [http://honeywell.com](http://honeywell.com)
 
 ## Brand Guidelines

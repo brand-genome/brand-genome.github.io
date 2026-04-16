@@ -2,7 +2,7 @@
 title: Heathrow airport
 slug: "heathrow-airport"
 description: ""
-date: "2026-04-15T09:21:25.038155"
+date: "2026-04-16T19:22:00.625555"
 draft: false
 sectors:
   - tourism
@@ -10,8 +10,8 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:

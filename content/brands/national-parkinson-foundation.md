@@ -2,12 +2,12 @@
 title: National Parkinson Foundation
 slug: "national-parkinson-foundation"
 description: ""
-date: "2026-04-15T09:21:24.934853"
+date: "2026-04-16T19:22:00.508884"
 draft: false
 sectors:
-  - research
-  - healthcare
   - ngo
+  - healthcare
+  - research
 regions:
   - usa
 years:

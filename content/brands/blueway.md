@@ -2,7 +2,7 @@
 title: Blueway
 slug: blueway
 description: ""
-date: "2026-04-15T09:21:25.373570"
+date: "2026-04-16T19:22:01.040483"
 draft: false
 sectors:
   - tourism

@@ -2,7 +2,7 @@
 title: Epson
 slug: epson
 description: ""
-date: "2026-04-15T09:21:25.393955"
+date: "2026-04-16T19:22:01.070445"
 draft: false
 sectors:
   - electronics
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2010
   - 2013
+  - 2010
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,10 +65,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://epson.com/usa](https://epson.com/usa)
-- [https://epson.com/support](https://epson.com/support)
+- [https://epson.com/Support/sl/s](https://epson.com/Support/sl/s)
 - [https://epson.com/shop-epson-store](https://epson.com/shop-epson-store)
-- [https://global.epson.com](https://global.epson.com)
-- [https://corporate.epson/en](https://corporate.epson/en)
 - [http://www.epson.com](http://www.epson.com)
 - [https://epson.com](https://epson.com)
 

@@ -2,7 +2,7 @@
 title: Asociácia rádií Slovenska
 slug: "asociacia-radii-slovenska"
 description: ""
-date: "2026-04-15T09:21:22.375536"
+date: "2026-04-16T19:21:57.622372"
 draft: false
 sectors:
   - broadcasting

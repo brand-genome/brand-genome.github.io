@@ -2,7 +2,7 @@
 title: ERA
 slug: era
 description: ""
-date: "2026-04-15T09:21:25.835515"
+date: "2026-04-16T19:22:02.066630"
 draft: false
 sectors:
   - "real-estate"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.erafrance.com](https://www.erafrance.com)
 - [https://www.eraimmobilier.com](https://www.eraimmobilier.com)
 
 ## Brand Guidelines

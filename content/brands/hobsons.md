@@ -2,11 +2,11 @@
 title: Hobsons
 slug: hobsons
 description: ""
-date: "2026-04-15T09:21:25.172810"
+date: "2026-04-16T19:22:00.767737"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -63,12 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hobsons.com](https://www.hobsons.com)
-- [https://www.naviance.com](https://www.naviance.com)
+- [https://www.powerschool.com/classroom/naviance](https://www.powerschool.com/classroom/naviance)
 - [https://id.naviance.com](https://id.naviance.com)
-- [https://www.intersect.hobsons.com](https://www.intersect.hobsons.com)
 - [https://www.powerschool.com](https://www.powerschool.com)
-- [https://eab.com/products/starfish](https://eab.com/products/starfish)
+- [https://eab.com/solutions/starfish](https://eab.com/solutions/starfish)
 - [https://loginsupport.starfishsolutions.com](https://loginsupport.starfishsolutions.com)
 - [http://www.hobsons.com](http://www.hobsons.com)
 

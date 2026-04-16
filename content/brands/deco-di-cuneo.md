@@ -2,7 +2,7 @@
 title: De.C.O. di Cuneo
 slug: "deco-di-cuneo"
 description: ""
-date: "2026-04-15T09:21:24.029830"
+date: "2026-04-16T19:21:59.345315"
 draft: false
 sectors:
   - "public-sector"
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.comune.cuneo.it/attivita-produttive/denominazione-comunale-di-origine-deco-del-comune-di-cuneo.html](https://www.comune.cuneo.it/attivita-produttive/denominazione-comunale-di-origine-deco-del-comune-di-cuneo.html)
-
 ## Brand Guidelines
 
 ### 2018

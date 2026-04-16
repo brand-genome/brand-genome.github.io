@@ -2,7 +2,7 @@
 title: Red Lion
 slug: "red-lion"
 description: ""
-date: "2026-04-15T09:21:24.009746"
+date: "2026-04-16T19:21:59.319937"
 draft: false
 sectors:
   - networking
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.redlion.net](https://www.redlion.net)
+- [https://www.hms-networks.com/red-lion](https://www.hms-networks.com/red-lion)
 
 ## Brand Guidelines
 

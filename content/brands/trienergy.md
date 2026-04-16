@@ -2,12 +2,10 @@
 title: Trienergy
 slug: trienergy
 description: ""
-date: "2026-04-15T09:21:23.175108"
+date: "2026-04-16T19:21:58.576720"
 draft: false
 sectors:
-  - gas
   - oil
-  - construction
 regions:
   - colombia
 years:

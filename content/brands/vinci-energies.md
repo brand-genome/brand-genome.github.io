@@ -2,14 +2,13 @@
 title: Vinci Energies
 slug: "vinci-energies"
 description: ""
-date: "2026-04-15T09:21:25.707687"
+date: "2026-04-16T19:22:01.824573"
 draft: false
 sectors:
-  - networking
-  - "renewable-energy"
   - utilities
-  - consulting
+  - networking
   - construction
+  - "renewable-energy"
 regions:
   - france
 years:

@@ -2,7 +2,7 @@
 title: Samsung Mobile
 slug: "samsung-mobile"
 description: ""
-date: "2026-04-15T09:21:23.698143"
+date: "2026-04-16T19:21:59.020942"
 draft: false
 sectors:
   - electronics

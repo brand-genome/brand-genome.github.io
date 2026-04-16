@@ -2,23 +2,23 @@
 title: HKUST
 slug: hkust
 description: ""
-date: "2026-04-15T09:21:23.801574"
+date: "2026-04-16T19:21:59.130324"
 draft: false
 sectors:
   - university
 regions:
   - "hong-kong"
 years:
-  - 2020
-  - 2018
   - 2019
   - 2022
+  - 2020
+  - 2018
 languages:
-  - english
   - chinese
+  - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hkust.edu.hk](https://www.hkust.edu.hk)
-- [https://www.hkust.ac.cn](https://www.hkust.ac.cn)
 - [https://www.hkust-gz.edu.cn](https://www.hkust-gz.edu.cn)
 - [https://infh.hkust-gz.edu.cn](https://infh.hkust-gz.edu.cn)
 - [https://studyathkustgz.hkust-gz.edu.cn](https://studyathkustgz.hkust-gz.edu.cn)

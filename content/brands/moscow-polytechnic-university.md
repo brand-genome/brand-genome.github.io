@@ -2,7 +2,7 @@
 title: Moscow Polytechnic University
 slug: "moscow-polytechnic-university"
 description: ""
-date: "2026-04-15T09:21:23.619687"
+date: "2026-04-16T19:21:58.908508"
 draft: false
 sectors:
   - university
@@ -13,13 +13,13 @@ years:
 languages:
   - russian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "russian-empire"
-  - "soviet-union"
   - russia
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://mospolytech.ru](https://mospolytech.ru)
-- [https://mospolytech.ru/en](https://mospolytech.ru/en)
 - [http://www.mospolytech.ru/index.php?eng](http://www.mospolytech.ru/index.php?eng)
 
 ## Brand Guidelines

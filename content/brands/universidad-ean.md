@@ -2,7 +2,7 @@
 title: Universidad Ean
 slug: "universidad-ean"
 description: ""
-date: "2026-04-15T09:21:22.540920"
+date: "2026-04-16T19:21:57.886472"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - colombia

@@ -2,7 +2,7 @@
 title: Kakao Commerce
 slug: "kakao-commerce"
 description: ""
-date: "2026-04-15T09:21:23.698047"
+date: "2026-04-16T19:21:59.020815"
 draft: false
 sectors:
   - "e-commerce"
@@ -61,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kakaocommerce.com](https://www.kakaocommerce.com)
-- [https://www.kakaocorp.com](https://www.kakaocorp.com)
+- [https://www.kakaocorp.com/page](https://www.kakaocorp.com/page)
 
 ## Brand Guidelines
 

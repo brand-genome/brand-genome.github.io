@@ -2,11 +2,11 @@
 title: ISPE
 slug: ispe
 description: ""
-date: "2026-04-15T09:21:24.332386"
+date: "2026-04-16T19:21:59.752244"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:

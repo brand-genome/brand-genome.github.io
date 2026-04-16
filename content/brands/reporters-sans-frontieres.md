@@ -2,7 +2,7 @@
 title: Reporters Sans Frontières
 slug: "reporters-sans-frontieres"
 description: ""
-date: "2026-04-15T09:21:23.191617"
+date: "2026-04-16T19:21:58.593938"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - featured
   - ngo
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,5 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rsf.org](https://rsf.org)
+- [https://rsf.org/fr](https://rsf.org/fr)
 - [http://www.rsf.org](http://www.rsf.org)

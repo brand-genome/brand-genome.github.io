@@ -2,7 +2,7 @@
 title: issuu
 slug: issuu
 description: ""
-date: "2026-04-15T09:21:24.161878"
+date: "2026-04-16T19:21:59.493603"
 draft: false
 sectors:
   - software
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://issuu.com](https://issuu.com)
-- [https://help.issuu.com](https://help.issuu.com)
 
 ## Brand Guidelines
 

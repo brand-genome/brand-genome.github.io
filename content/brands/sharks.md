@@ -2,7 +2,7 @@
 title: Sharks
 slug: sharks
 description: ""
-date: "2026-04-15T09:21:25.691891"
+date: "2026-04-16T19:22:01.775671"
 draft: false
 sectors:
   - sports
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hpusharks.com](https://hpusharks.com)
+- [https://hpusharks.com/splash.aspx?id=splash_72](https://hpusharks.com/splash.aspx?id=splash_72)
 - [https://www.hpu.edu](https://www.hpu.edu)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: La Villette
 slug: "la-villette"
 description: ""
-date: "2026-04-15T09:21:25.642529"
+date: "2026-04-16T19:22:01.654253"
 draft: false
 sectors:
-  - entertainment
   - "arts-culture"
+  - entertainment
 regions:
   - france
 years:

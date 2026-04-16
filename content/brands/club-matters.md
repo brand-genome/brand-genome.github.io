@@ -2,11 +2,11 @@
 title: Club Matters
 slug: "club-matters"
 description: ""
-date: "2026-04-15T09:21:25.343137"
+date: "2026-04-16T19:22:01.010480"
 draft: false
 sectors:
-  - sports
   - "public-sector"
+  - sports
 regions:
   - "united-kingdom"
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://buddle.co](https://buddle.co)
 - [https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers](https://www.sportengland.org/guidance-and-support/supporting-grassroots-organisers)
 - [https://www.sportengland.org/news/club-matters-launches](https://www.sportengland.org/news/club-matters-launches)
-- [http://www.sportenglandclubmatters.com](http://www.sportenglandclubmatters.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Skidmore College
 slug: "skidmore-college"
 description: ""
-date: "2026-04-15T09:21:22.232243"
+date: "2026-04-16T19:21:57.274139"
 draft: false
 sectors:
   - university

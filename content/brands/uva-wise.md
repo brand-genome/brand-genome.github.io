@@ -2,7 +2,7 @@
 title: UVA Wise
 slug: "uva-wise"
 description: ""
-date: "2026-04-15T09:21:24.341277"
+date: "2026-04-16T19:21:59.784828"
 draft: false
 sectors:
   - university

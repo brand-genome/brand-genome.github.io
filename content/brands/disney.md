@@ -2,11 +2,11 @@
 title: Disney+
 slug: disney
 description: ""
-date: "2026-04-15T09:21:22.501199"
+date: "2026-04-16T19:21:57.829178"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.disneyplus.com](https://www.disneyplus.com)
 - [https://help.disneyplus.com](https://help.disneyplus.com)
 - [https://www.disneyplus.com/brand/star](https://www.disneyplus.com/brand/star)
 

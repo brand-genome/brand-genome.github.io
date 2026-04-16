@@ -2,11 +2,10 @@
 title: Ajman Free Zone
 slug: "ajman-free-zone"
 description: ""
-date: "2026-04-15T09:21:23.709894"
+date: "2026-04-16T19:21:59.032934"
 draft: false
 sectors:
   - "public-sector"
-  - "real-estate"
 regions:
   - "united-arab-emirates"
 years:

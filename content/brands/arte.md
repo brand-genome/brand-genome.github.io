@@ -2,27 +2,27 @@
 title: Arte
 slug: arte
 description: ""
-date: "2026-04-15T09:21:24.280492"
+date: "2026-04-16T19:21:59.686349"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - france
 years:
-  - 2013
-  - 2017
-  - 2008
-  - 2011
   - 2016
+  - 2011
+  - 2017
+  - 2013
+  - 2008
 languages:
-  - english
   - french
+  - english
 tags:
-  - mobile
+  - featured
   - broadcast
   - "social-networks"
-  - featured
+  - mobile
   - media
 industries: []
 countries:
@@ -74,8 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.arte.tv](https://www.arte.tv)
+- [https://www.arte.tv/en](https://www.arte.tv/en)
 - [https://www.arte.tv/fr](https://www.arte.tv/fr)
+- [https://www.arte.tv](https://www.arte.tv)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: IRC
 slug: irc
 description: ""
-date: "2026-04-15T09:21:24.783971"
+date: "2026-04-16T19:22:00.333652"
 draft: false
 sectors:
   - ngo
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ircwash.org](https://www.ircwash.org)
 - [http://www.waterservicesthatlast.org](http://www.waterservicesthatlast.org)
 
 ## Brand Guidelines

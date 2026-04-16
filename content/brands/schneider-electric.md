@@ -2,11 +2,11 @@
 title: Schneider Electric
 slug: "schneider-electric"
 description: ""
-date: "2026-04-15T09:21:22.291938"
+date: "2026-04-16T19:21:57.329320"
 draft: false
 sectors:
-  - utilities
   - software
+  - utilities
 regions:
   - france
 years:
@@ -40,8 +40,8 @@ products_or_materials_produced:
   - software
 products: []
 headquarters_locations:
-  - "rueil-malmaison"
   - macon
+  - "rueil-malmaison"
 subsidiaries: []
 foundation_dates:
   - 1836
@@ -459,7 +459,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Electrical Device](/products_or_materials_produced/electrical-device/); [Software](/products_or_materials_produced/software/) |
-| Headquarters Location | [Rueil Malmaison](/headquarters_locations/rueil-malmaison/); [Macon](/headquarters_locations/macon/) |
+| Headquarters Location | [Macon](/headquarters_locations/macon/); [Rueil Malmaison](/headquarters_locations/rueil-malmaison/) |
 | Foundation Date | [1836](/foundation_dates/1836/); [2009](/foundation_dates/2009/) |
 | Topic'S Main Category | Category:Schneider Electric |
 | Member Of | MEDEE power electronics cluster, CVE Numbering Authority, Zigbee Alliance, Wireless Power Consortium |

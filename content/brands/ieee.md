@@ -2,12 +2,12 @@
 title: IEEE
 slug: ieee
 description: ""
-date: "2026-04-15T09:21:25.685316"
+date: "2026-04-16T19:22:01.761557"
 draft: false
 sectors:
+  - ngo
   - publishing
   - research
-  - ngo
 regions:
   - usa
 years:
@@ -72,9 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [https://www.ieee.org](https://www.ieee.org)
-- [https://www.ieee.org/go/brand](https://www.ieee.org/go/brand)
-- [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org)
 
 ## Brand Guidelines
 

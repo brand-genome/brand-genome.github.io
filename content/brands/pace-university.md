@@ -2,7 +2,7 @@
 title: Pace University
 slug: "pace-university"
 description: ""
-date: "2026-04-15T09:21:24.227805"
+date: "2026-04-16T19:21:59.605004"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

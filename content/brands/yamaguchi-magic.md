@@ -2,7 +2,7 @@
 title: "Yamaguchi Magic!"
 slug: "yamaguchi-magic"
 description: ""
-date: "2026-04-15T09:21:23.569871"
+date: "2026-04-16T19:21:58.864150"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://yamaguchi-tourism.jp](https://yamaguchi-tourism.jp)
-- [https://www.visit-jy.com](https://www.visit-jy.com)
 
 ## Brand Guidelines
 

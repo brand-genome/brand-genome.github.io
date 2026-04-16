@@ -2,7 +2,7 @@
 title: Mi AI
 slug: "mi-ai"
 description: ""
-date: "2026-04-15T09:21:22.548721"
+date: "2026-04-16T19:21:57.893756"
 draft: false
 sectors:
   - software
@@ -59,6 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.mi.com/aispeaker](https://www.mi.com/aispeaker)

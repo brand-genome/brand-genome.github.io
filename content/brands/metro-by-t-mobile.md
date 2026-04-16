@@ -2,15 +2,15 @@
 title: "Metro by T-Mobile"
 slug: "metro-by-t-mobile"
 description: ""
-date: "2026-04-15T09:21:23.584791"
+date: "2026-04-16T19:21:58.874930"
 draft: false
 sectors:
   - telecom
 regions:
   - usa
 years:
-  - 2018
   - 2020
+  - 2018
 languages:
   - english
 tags:

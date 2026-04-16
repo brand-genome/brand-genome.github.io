@@ -2,7 +2,7 @@
 title: Chiesi
 slug: chiesi
 description: ""
-date: "2026-04-15T09:21:23.760642"
+date: "2026-04-16T19:21:59.086432"
 draft: false
 sectors:
   - biotech
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.chiesi.com/en](https://www.chiesi.com/en)
-- [https://www.chiesi.com/it](https://www.chiesi.com/it)
 - [https://www.chiesi.it](https://www.chiesi.it)
 - [https://www.chiesiusa.com](https://www.chiesiusa.com)
 - [https://www.chiesi.fr/en](https://www.chiesi.fr/en)

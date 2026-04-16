@@ -2,11 +2,11 @@
 title: Miami University
 slug: "miami-university"
 description: ""
-date: "2026-04-15T09:21:25.757542"
+date: "2026-04-16T19:22:01.934321"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

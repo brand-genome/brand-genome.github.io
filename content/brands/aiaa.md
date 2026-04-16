@@ -2,7 +2,7 @@
 title: AIAA
 slug: aiaa
 description: ""
-date: "2026-04-15T09:21:25.771658"
+date: "2026-04-16T19:22:01.964189"
 draft: false
 sectors:
   - aerospace
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aiaa.org](https://www.aiaa.org)
 - [http://www.aiaa.org](http://www.aiaa.org)
 
 ## Brand Guidelines

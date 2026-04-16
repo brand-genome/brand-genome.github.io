@@ -2,10 +2,11 @@
 title: Whole Foods Market
 slug: "whole-foods-market"
 description: ""
-date: "2026-04-15T09:21:25.830938"
+date: "2026-04-16T19:22:02.060887"
 draft: false
 sectors:
-  - airline
+  - food
+  - supermarket
 regions:
   - usa
 years:
@@ -13,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - "student-work"
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -60,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.skywest.com](https://www.skywest.com)
-
 ## Brand Guidelines
 
 ### 2016

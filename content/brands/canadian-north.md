@@ -2,7 +2,7 @@
 title: Canadian North
 slug: "canadian-north"
 description: ""
-date: "2026-04-15T09:21:22.435199"
+date: "2026-04-16T19:21:57.712703"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -69,9 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.canadiannorth.com](https://www.canadiannorth.com)
-- [https://cargo.canadiannorth.com](https://cargo.canadiannorth.com)
-- [https://firstair.ca/contact](https://firstair.ca/contact)
 - [https://canadiannorth.com](https://canadiannorth.com)
 - [https://canadiannorth.com?lang=fr](https://canadiannorth.com?lang=fr)
 - [https://canadiannorth.com?lang=iu](https://canadiannorth.com?lang=iu)

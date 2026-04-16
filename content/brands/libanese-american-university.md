@@ -2,7 +2,7 @@
 title: Libanese American University
 slug: "libanese-american-university"
 description: ""
-date: "2026-04-15T09:21:25.855832"
+date: "2026-04-16T19:22:02.122567"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lau.edu.lb](https://www.lau.edu.lb)
-- [http://marcom.lau.edu.lb/guidelines](http://marcom.lau.edu.lb/guidelines)
 - [https://online.lau.edu.lb](https://online.lau.edu.lb)
 - [https://nyc.lau.edu](https://nyc.lau.edu)
 

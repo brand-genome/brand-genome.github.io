@@ -2,7 +2,7 @@
 title: Sotheby’s
 slug: sothebys
 description: ""
-date: "2026-04-15T09:21:23.974539"
+date: "2026-04-16T19:21:59.284400"
 draft: false
 sectors:
   - "real-estate"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sothebysrealty.com](https://www.sothebysrealty.com)
 - [https://home.sothebysrealty.com](https://home.sothebysrealty.com)
 
 ## Brand Guidelines

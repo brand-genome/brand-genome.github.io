@@ -2,11 +2,11 @@
 title: Arizona Christian University Athletic
 slug: "arizona-christian-university-athletic"
 description: ""
-date: "2026-04-15T09:21:23.832496"
+date: "2026-04-16T19:21:59.161172"
 draft: false
 sectors:
-  - university
   - sports
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - sport
+  - university
 industries: []
 countries:
   - "united-states"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://acufirestorm.com](https://acufirestorm.com)
-- [https://www.arizonachristian.edu/athletics](https://www.arizonachristian.edu/athletics)
 - [https://www.acufirestorm.com](https://www.acufirestorm.com)
 
 ## Brand Guidelines

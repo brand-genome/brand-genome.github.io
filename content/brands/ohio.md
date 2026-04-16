@@ -2,7 +2,7 @@
 title: Ohio
 slug: ohio
 description: ""
-date: "2026-04-15T09:21:22.526472"
+date: "2026-04-16T19:21:57.866218"
 draft: false
 sectors:
   - tourism
@@ -10,9 +10,9 @@ sectors:
 regions:
   - usa
 years:
+  - 2019
   - 2023
   - 2006
-  - 2019
 languages:
   - english
 tags:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://welcometoohio.org](https://welcometoohio.org)
-- [https://ohio.org](https://ohio.org)
 - [http://www.ohio.gov](http://www.ohio.gov)
 - [http://www.ohio.org](http://www.ohio.org)
 - [http://www.ohiovets.gov](http://www.ohiovets.gov)

@@ -2,7 +2,7 @@
 title: Sacem
 slug: sacem
 description: ""
-date: "2026-04-15T09:21:24.207897"
+date: "2026-04-16T19:21:59.574563"
 draft: false
 sectors:
   - publishing
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sacem.fr](https://www.sacem.fr)
 - [https://societe.sacem.fr](https://societe.sacem.fr)
 
 ## Brand Guidelines

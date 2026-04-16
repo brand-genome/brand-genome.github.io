@@ -2,7 +2,7 @@
 title: Air France
 slug: "air-france"
 description: ""
-date: "2026-04-15T09:21:24.288751"
+date: "2026-04-16T19:21:59.695215"
 draft: false
 sectors:
   - airline
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.airfrance.com](https://www.airfrance.com)
-- [https://corporate.airfrance.com/en](https://corporate.airfrance.com/en)
 - [https://wwws.airfrance.co.uk](https://wwws.airfrance.co.uk)
 - [https://wwws.airfrance.us](https://wwws.airfrance.us)
 - [https://wwws.airfrance.fr](https://wwws.airfrance.fr)

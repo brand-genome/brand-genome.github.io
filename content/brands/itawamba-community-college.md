@@ -2,7 +2,7 @@
 title: Itawamba Community College
 slug: "itawamba-community-college"
 description: ""
-date: "2026-04-15T09:21:23.587162"
+date: "2026-04-16T19:21:58.876855"
 draft: false
 sectors:
   - education

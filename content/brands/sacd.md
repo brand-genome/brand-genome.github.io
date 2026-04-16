@@ -2,7 +2,7 @@
 title: SACD
 slug: sacd
 description: ""
-date: "2026-04-15T09:21:25.380062"
+date: "2026-04-16T19:22:01.046562"
 draft: false
 sectors:
   - "legal-services"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sacd.fr](https://sacd.fr)
 - [https://sacd.fr/fr](https://sacd.fr/fr)
 - [http://www.sacd.fr](http://www.sacd.fr)
 - [https://www.sacd.fr](https://www.sacd.fr)

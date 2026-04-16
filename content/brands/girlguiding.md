@@ -2,16 +2,16 @@
 title: Girlguiding
 slug: girlguiding
 description: ""
-date: "2026-04-15T09:21:22.526267"
+date: "2026-04-16T19:21:57.865586"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - "united-kingdom"
 years:
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:

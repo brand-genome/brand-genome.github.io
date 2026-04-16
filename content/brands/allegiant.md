@@ -2,7 +2,7 @@
 title: Allegiant
 slug: allegiant
 description: ""
-date: "2026-04-15T09:21:25.462556"
+date: "2026-04-16T19:22:01.209899"
 draft: false
 sectors:
   - tourism
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.allegiantair.com](https://www.allegiantair.com)
-- [https://newsroom.allegiantair.com](https://newsroom.allegiantair.com)
 
 ## Additional Properties
 

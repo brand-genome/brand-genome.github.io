@@ -2,18 +2,18 @@
 title: AMD Ryzen
 slug: "amd-ryzen"
 description: ""
-date: "2026-04-15T09:21:24.955161"
+date: "2026-04-16T19:22:00.529659"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
   - 2017
 languages:
-  - english
   - chinese
+  - english
 tags:
   - technology
 industries: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amd.com](https://www.amd.com)
 - [https://www.amd.com/en/ryzen](https://www.amd.com/en/ryzen)
 
 ## Brand Guidelines

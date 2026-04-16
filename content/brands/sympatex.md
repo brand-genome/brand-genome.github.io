@@ -2,7 +2,7 @@
 title: Sympatex
 slug: sympatex
 description: ""
-date: "2026-04-15T09:21:24.162016"
+date: "2026-04-16T19:21:59.493738"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 
 - [https://www.sympatex.com](https://www.sympatex.com)
 - [https://www.sympatex.com/en](https://www.sympatex.com/en)
-- [https://www.sympatex.com/de](https://www.sympatex.com/de)
+- [https://www.sympatex.com/press/die-zukunft-der-kreislaufwirtschaft-gestalten](https://www.sympatex.com/press/die-zukunft-der-kreislaufwirtschaft-gestalten)
 - [https://www.sympatex.com/fr](https://www.sympatex.com/fr)
 - [https://www.sympatex.com/it](https://www.sympatex.com/it)
 - [https://www.sympatex.com/es](https://www.sympatex.com/es)

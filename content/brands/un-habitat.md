@@ -2,11 +2,10 @@
 title: UN Habitat
 slug: "un-habitat"
 description: ""
-date: "2026-04-15T09:21:24.325775"
+date: "2026-04-16T19:21:59.734204"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - international
 years:

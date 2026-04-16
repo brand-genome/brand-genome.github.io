@@ -2,7 +2,7 @@
 title: Barazza
 slug: barazza
 description: ""
-date: "2026-04-15T09:21:25.029883"
+date: "2026-04-16T19:22:00.615640"
 draft: false
 sectors:
   - "home-appliances"
@@ -59,12 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://barazzasrl.it](https://barazzasrl.it)
-- [https://barazzasrl.it/en](https://barazzasrl.it/en)
-- [https://barazzasrl.it/en/shop-online](https://barazzasrl.it/en/shop-online)
-
 ## Brand Guidelines
 
 ### 2018

@@ -2,7 +2,7 @@
 title: Nutriplan
 slug: nutriplan
 description: ""
-date: "2026-04-15T09:21:24.072848"
+date: "2026-04-16T19:21:59.395467"
 draft: false
 sectors:
   - horticulture
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://nutriplan.com.br](https://nutriplan.com.br)
-- [https://nutriplast.com.br](https://nutriplast.com.br)
 
 ## Brand Guidelines
 

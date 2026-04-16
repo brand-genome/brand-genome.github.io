@@ -2,7 +2,7 @@
 title: Project Management Institute
 slug: "project-management-institute"
 description: ""
-date: "2026-04-15T09:21:23.076775"
+date: "2026-04-16T19:21:58.485336"
 draft: false
 sectors:
   - education
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
   - education
+  - featured
 industries:
   - "project-management"
 countries:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pmi.org](https://www.pmi.org)
 - [https://www.pmi.org.in](https://www.pmi.org.in)
 - [http://www.pmi.org](http://www.pmi.org)
 

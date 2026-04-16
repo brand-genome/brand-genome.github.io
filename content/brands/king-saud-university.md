@@ -2,22 +2,22 @@
 title: King Saud University
 slug: "king-saud-university"
 description: ""
-date: "2026-04-15T09:21:24.075887"
+date: "2026-04-16T19:21:59.398970"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "saudi-arabia"
 years:
-  - 2015
   - 2014
+  - 2015
 languages:
-  - english
   - arabic
+  - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "saudi-arabia"
@@ -70,9 +70,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ksu.edu.sa/en](https://ksu.edu.sa/en)
-- [https://ksu.edu.sa/ar](https://ksu.edu.sa/ar)
-- [https://sares.ksu.edu.sa/en](https://sares.ksu.edu.sa/en)
 - [https://ksu.edu.sa](https://ksu.edu.sa)
+- [https://sares.ksu.edu.sa/en](https://sares.ksu.edu.sa/en)
 
 ## Brand Guidelines
 

@@ -2,11 +2,10 @@
 title: Feed The Future
 slug: "feed-the-future"
 description: ""
-date: "2026-04-15T09:21:25.761599"
+date: "2026-04-16T19:22:01.940477"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - usa
 years:
@@ -62,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.feedthefuture.gov](https://www.feedthefuture.gov)
-- [https://www.feedthefuture.gov/branding](https://www.feedthefuture.gov/branding)
 - [https://www.usaid.gov](https://www.usaid.gov)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Alutech
 slug: alutech
 description: ""
-date: "2026-04-15T09:21:25.465708"
+date: "2026-04-16T19:22:01.218677"
 draft: false
 sectors:
   - construction
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://alutech-group.com](https://alutech-group.com)
-- [https://alutech.ru](https://alutech.ru)
 - [http://www.alutech-group.com](http://www.alutech-group.com)
 
 ## Brand Guidelines

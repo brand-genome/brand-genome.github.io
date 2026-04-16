@@ -2,7 +2,7 @@
 title: USAID
 slug: usaid
 description: ""
-date: "2026-04-15T09:21:24.057355"
+date: "2026-04-16T19:21:59.377578"
 draft: false
 sectors:
   - "public-sector"
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - ngo
+  - social
 industries: []
 countries:
   - "united-states"
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.usaid.gov](https://www.usaid.gov)
-- [https://www.usaid.gov/branding](https://www.usaid.gov/branding)
 - [https://oig.usaid.gov](https://oig.usaid.gov)
 - [https://usaid.gov](https://usaid.gov)
 - [https://usaid.govarchive.us](https://usaid.govarchive.us)

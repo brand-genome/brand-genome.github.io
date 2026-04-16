@@ -2,7 +2,7 @@
 title: Kyushu University
 slug: "kyushu-university"
 description: ""
-date: "2026-04-15T09:21:23.649919"
+date: "2026-04-16T19:21:58.957857"
 draft: false
 sectors:
   - university
@@ -13,9 +13,9 @@ years:
 languages:
   - japanese
 tags:
-  - featured
   - university
   - education
+  - featured
 industries: []
 countries:
   - japan
@@ -69,9 +69,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kyushu-u.ac.jp/en](https://www.kyushu-u.ac.jp/en)
-- [https://www.kyushu-u.ac.jp](https://www.kyushu-u.ac.jp)
-- [http://www.kyushu-u.ac.jp](http://www.kyushu-u.ac.jp)
 - [https://www.kyushu-u.ac.jp/ja](https://www.kyushu-u.ac.jp/ja)
+- [http://www.kyushu-u.ac.jp](http://www.kyushu-u.ac.jp)
 
 ## Brand Guidelines
 

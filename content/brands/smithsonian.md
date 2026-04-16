@@ -2,12 +2,12 @@
 title: Smithsonian
 slug: smithsonian
 description: ""
-date: "2026-04-15T09:21:25.440604"
+date: "2026-04-16T19:22:01.125839"
 draft: false
 sectors:
-  - research
-  - education
   - "arts-culture"
+  - education
+  - research
 regions:
   - usa
 years:
@@ -71,14 +71,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.si.edu](https://www.si.edu)
-- [https://www.si.edu/education](https://www.si.edu/education)
 - [https://smithsonian.com](https://smithsonian.com)
 - [https://www.smithsonianmag.com](https://www.smithsonianmag.com)
 - [https://www.smithsonianchannel.com](https://www.smithsonianchannel.com)
 - [https://www.smithsonianjourneys.org](https://www.smithsonianjourneys.org)
 - [https://3d.si.edu](https://3d.si.edu)
 - [https://affiliations.si.edu/si-edu](https://affiliations.si.edu/si-edu)
+- [https://www.si.edu](https://www.si.edu)
 
 ## Brand Guidelines
 

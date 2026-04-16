@@ -2,15 +2,15 @@
 title: "Mercedes-Benz"
 slug: "mercedes-benz"
 description: ""
-date: "2026-04-15T09:21:25.057283"
+date: "2026-04-16T19:22:00.650456"
 draft: false
 sectors:
   - automobile
 regions:
   - germany
 years:
-  - 2007
   - 2015
+  - 2007
 languages:
   - english
 tags:
@@ -27,11 +27,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - truck
   - "commercial-vehicle"
-  - engine
   - bus
   - "passenger-car"
-  - truck
+  - engine
 products: []
 headquarters_locations:
   - stuttgart
@@ -72,9 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mercedes-benz.com](https://www.mercedes-benz.com)
-- [https://www.mbusa.com](https://www.mbusa.com)
-- [https://group.mercedes-benz.com/en](https://group.mercedes-benz.com/en)
+- [https://www.mbusa.com/en/home](https://www.mbusa.com/en/home)
 - [https://www.mercedes-benz.com/en](https://www.mercedes-benz.com/en)
 
 ## Brand Guidelines
@@ -95,7 +93,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Engine](/products_or_materials_produced/engine/); [Bus](/products_or_materials_produced/bus/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Truck](/products_or_materials_produced/truck/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Bus](/products_or_materials_produced/bus/); [Passenger Car](/products_or_materials_produced/passenger-car/); [Engine](/products_or_materials_produced/engine/) |
 | Headquarters Location | [Stuttgart](/headquarters_locations/stuttgart/) |
 | Foundation Date | [1926](/foundation_dates/1926/) |
 | Named After | Mercédès Jellinek, Carl Benz |

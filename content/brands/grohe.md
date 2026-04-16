@@ -2,7 +2,7 @@
 title: Grohe
 slug: grohe
 description: ""
-date: "2026-04-15T09:21:25.167472"
+date: "2026-04-16T19:22:00.763816"
 draft: false
 sectors:
   - hardware
@@ -68,10 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.grohe.com](https://www.grohe.com)
-- [https://www.grohespa.com](https://www.grohespa.com)
+- [https://www.grohe.com/en-GB](https://www.grohe.com/en-GB)
 - [https://www.grohe.us](https://www.grohe.us)
 - [http://www.grohe.com](http://www.grohe.com)
+- [https://www.grohe.com](https://www.grohe.com)
 - [https://dealer.grohe.co.in](https://dealer.grohe.co.in)
 
 ## Brand Guidelines

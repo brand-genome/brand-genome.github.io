@@ -2,11 +2,11 @@
 title: Erasmus Student Network
 slug: "erasmus-student-network"
 description: ""
-date: "2026-04-15T09:21:25.417914"
+date: "2026-04-16T19:22:01.101758"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:

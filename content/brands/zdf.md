@@ -2,20 +2,20 @@
 title: ZDF
 slug: zdf
 description: ""
-date: "2026-04-15T09:21:24.199669"
+date: "2026-04-16T19:21:59.564348"
 draft: false
 sectors:
   - broadcasting
 regions:
   - germany
 years:
-  - 2010
   - 2002
+  - 2010
 languages:
   - german
 tags:
-  - broadcast
   - media
+  - broadcast
 industries: []
 countries:
   - germany

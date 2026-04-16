@@ -2,11 +2,10 @@
 title: TBUC
 slug: tbuc
 description: ""
-date: "2026-04-15T09:21:25.642128"
+date: "2026-04-16T19:22:01.653869"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.executiveoffice-ni.gov.uk/topics/together-building-united-community-tbuc](https://www.executiveoffice-ni.gov.uk/topics/together-building-united-community-tbuc)
-- [https://www.eani.org.uk/tbuc](https://www.eani.org.uk/tbuc)
 
 ## Brand Guidelines
 

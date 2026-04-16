@@ -2,11 +2,10 @@
 title: Fender
 slug: fender
 description: ""
-date: "2026-04-15T09:21:25.422248"
+date: "2026-04-16T19:22:01.106482"
 draft: false
 sectors:
   - "consumer-goods"
-  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -26,9 +25,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "bass-guitar"
-  - "string-instrument"
   - "electronic-amplifier"
+  - "string-instrument"
+  - "bass-guitar"
 products: []
 headquarters_locations:
   - "nabari-station"
@@ -70,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fender.com](https://www.fender.com)
-- [https://support.fender.com](https://support.fender.com)
 
 ## Brand Guidelines
 
@@ -256,7 +254,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Bass Guitar](/products_or_materials_produced/bass-guitar/); [String Instrument](/products_or_materials_produced/string-instrument/); [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/) |
+| Product Or Material Produced | [Electronic Amplifier](/products_or_materials_produced/electronic-amplifier/); [String Instrument](/products_or_materials_produced/string-instrument/); [Bass Guitar](/products_or_materials_produced/bass-guitar/) |
 | Headquarters Location | [Nabari Station](/headquarters_locations/nabari-station/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Founded By | Leo Fender |

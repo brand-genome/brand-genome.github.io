@@ -2,7 +2,7 @@
 title: Pôle Métropolitain
 slug: "pole-metropolitain"
 description: ""
-date: "2026-04-15T09:21:25.782675"
+date: "2026-04-16T19:22:01.981637"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: Finep
 slug: finep
 description: ""
-date: "2026-04-15T09:21:25.342434"
+date: "2026-04-16T19:22:01.009457"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - brazil
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - technology
   - science
+  - technology
 industries: []
 countries:
   - brazil

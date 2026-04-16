@@ -2,7 +2,7 @@
 title: Varta
 slug: varta
 description: ""
-date: "2026-04-15T09:21:24.076354"
+date: "2026-04-16T19:21:59.399578"
 draft: false
 sectors:
   - electronics
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - corporate
+  - technology
 industries:
   - "electrical-industry"
   - "manufacture-of-batteries-and-accumulators"
@@ -32,9 +32,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
+  - hagen
   - hanover
   - berlin
-  - hagen
 subsidiaries: []
 foundation_dates:
   - 1890
@@ -84,7 +84,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Hanover](/headquarters_locations/hanover/); [Berlin](/headquarters_locations/berlin/); [Hagen](/headquarters_locations/hagen/) |
+| Headquarters Location | [Hagen](/headquarters_locations/hagen/); [Hanover](/headquarters_locations/hanover/); [Berlin](/headquarters_locations/berlin/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Pm20 Folder Id | co/041404 |
 | Board Member | Günther Quandt |

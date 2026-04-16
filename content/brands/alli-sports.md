@@ -2,12 +2,11 @@
 title: Alli Sports
 slug: "alli-sports"
 description: ""
-date: "2026-04-15T09:21:23.762334"
+date: "2026-04-16T19:21:59.088309"
 draft: false
 sectors:
-  - sports
-  - broadcasting
   - entertainment
+  - sports
 regions:
   - usa
 years:
@@ -67,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://allisports.com](http://allisports.com)
 - [http://www.allisports.com](http://www.allisports.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: BenQ
 slug: benq
 description: ""
-date: "2026-04-15T09:21:25.668639"
+date: "2026-04-16T19:22:01.707184"
 draft: false
 sectors:
   - electronics
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "video-projector"
   - "computer-hardware"
+  - "video-projector"
 products: []
 headquarters_locations:
   - taipei
@@ -70,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.benq.com](https://www.benq.com)
-- [https://www.benq.com/en-us](https://www.benq.com/en-us)
-- [https://www.benq.com/zh-tw](https://www.benq.com/zh-tw)
+- [https://www.benq.com/en-in/index.html](https://www.benq.com/en-in/index.html)
+- [https://www.benq.com/en-us/index.html](https://www.benq.com/en-us/index.html)
+- [https://www.benq.com/zh-tw/index.html](https://www.benq.com/zh-tw/index.html)
 - [https://www.benq.com.cn](https://www.benq.com.cn)
 - [http://www.benq.com](http://www.benq.com)
 - [https://benq.com](https://benq.com)
@@ -92,7 +92,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Video Projector](/products_or_materials_produced/video-projector/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Video Projector](/products_or_materials_produced/video-projector/) |
 | Headquarters Location | [Taipei](/headquarters_locations/taipei/) |
 | Foundation Date | [1984](/foundation_dates/1984/) |
 | Headquarters Location | Taipei |

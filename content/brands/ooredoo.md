@@ -2,7 +2,7 @@
 title: Ooredoo
 slug: ooredoo
 description: ""
-date: "2026-04-15T09:21:23.783946"
+date: "2026-04-16T19:21:59.113364"
 draft: false
 sectors:
   - finance
@@ -68,9 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ooredoo.com](https://www.ooredoo.com)
-- [https://www.ooredoo.com/en](https://www.ooredoo.com/en)
-- [https://www.ooredoo.qa](https://www.ooredoo.qa)
+- [https://www.ooredoo.qa/web/en](https://www.ooredoo.qa/web/en)
 - [https://www.ooredoomoney.qa](https://www.ooredoomoney.qa)
 - [http://www.instagram.com/ooredooqatar](http://www.instagram.com/ooredooqatar)
 - [http://www.ooredoo.tn](http://www.ooredoo.tn)

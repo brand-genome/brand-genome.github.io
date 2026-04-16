@@ -2,11 +2,10 @@
 title: NSK Ship
 slug: "nsk-ship"
 description: ""
-date: "2026-04-15T09:21:22.178669"
+date: "2026-04-16T19:21:57.203178"
 draft: false
 sectors:
   - "maritime-shipping"
-  - engineering
 regions:
   - norway
 years:

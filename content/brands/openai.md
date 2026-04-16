@@ -2,7 +2,7 @@
 title: openAi
 slug: openai
 description: ""
-date: "2026-04-15T09:21:22.351927"
+date: "2026-04-16T19:21:57.583214"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,6 +62,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://openai.com](https://openai.com)
 - [https://developers.openai.com](https://developers.openai.com)
-- [https://openai.com/api](https://openai.com/api)

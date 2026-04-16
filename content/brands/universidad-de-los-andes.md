@@ -2,11 +2,11 @@
 title: Universidad de los Andes
 slug: "universidad-de-los-andes"
 description: ""
-date: "2026-04-15T09:21:25.860944"
+date: "2026-04-16T19:22:02.129416"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - colombia

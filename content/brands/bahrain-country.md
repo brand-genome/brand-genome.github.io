@@ -2,7 +2,7 @@
 title: Bahrain Country
 slug: "bahrain-country"
 description: ""
-date: "2026-04-15T09:21:23.853690"
+date: "2026-04-16T19:21:59.181333"
 draft: false
 sectors:
   - tourism
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bahrain.com](https://www.bahrain.com)
-- [https://calendar.bh](https://calendar.bh)
-- [https://www.visitbahrain.bh](https://www.visitbahrain.bh)
+- [https://visitbahrain.bh](https://visitbahrain.bh)
 
 ## Brand Guidelines
 

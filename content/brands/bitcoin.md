@@ -2,7 +2,7 @@
 title: Bitcoin
 slug: bitcoin
 description: ""
-date: "2026-04-15T09:21:25.850468"
+date: "2026-04-16T19:22:02.113915"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -13,10 +13,10 @@ years:
 languages:
   - english
 tags:
-  - featured
   - financial
   - internet
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

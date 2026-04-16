@@ -2,7 +2,7 @@
 title: Senato della Repubblica
 slug: "senato-della-repubblica"
 description: ""
-date: "2026-04-15T09:21:22.088601"
+date: "2026-04-16T19:21:57.129758"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.senato.it](https://www.senato.it)
+- [https://www.senato.it/home](https://www.senato.it/home)
 - [http://www.senato.it](http://www.senato.it)
 
 ## Brand Guidelines

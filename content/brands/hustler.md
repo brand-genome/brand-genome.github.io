@@ -2,7 +2,7 @@
 title: Hustler
 slug: hustler
 description: ""
-date: "2026-04-15T09:21:25.411277"
+date: "2026-04-16T19:22:01.095192"
 draft: false
 sectors:
   - "consumer-goods"
@@ -62,9 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hustlerturf.com](https://www.hustlerturf.com)
-- [https://es.hustlerturf.com](https://es.hustlerturf.com)
 - [https://www.hustlerdealers.com/en-US](https://www.hustlerdealers.com/en-US)
-- [https://ad-materials.hustlerturf.com](https://ad-materials.hustlerturf.com)
 - [http://www.hustlerturf.com](http://www.hustlerturf.com)
 
 ## Brand Guidelines

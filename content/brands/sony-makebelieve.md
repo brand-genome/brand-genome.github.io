@@ -2,7 +2,7 @@
 title: SONY make.believe
 slug: "sony-makebelieve"
 description: ""
-date: "2026-04-15T09:21:24.194539"
+date: "2026-04-16T19:21:59.545932"
 draft: false
 sectors:
   - entertainment
@@ -61,11 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.sony.com](https://www.sony.com)
-- [https://www.sony.com/en/SonyInfo](https://www.sony.com/en/SonyInfo)
-
 ## Brand Guidelines
 
 ### 2009

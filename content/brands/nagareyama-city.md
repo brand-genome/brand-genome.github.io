@@ -2,7 +2,7 @@
 title: Nagareyama city
 slug: "nagareyama-city"
 description: ""
-date: "2026-04-15T09:21:23.415025"
+date: "2026-04-16T19:21:58.804485"
 draft: false
 sectors:
   - "public-sector"
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.city.nagareyama.chiba.jp](https://www.city.nagareyama.chiba.jp)
-- [https://m.city.nagareyama.chiba.jp](https://m.city.nagareyama.chiba.jp)
-
 ## Brand Guidelines
 
 ### 2018

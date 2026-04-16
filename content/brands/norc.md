@@ -2,11 +2,11 @@
 title: Norc
 slug: norc
 description: ""
-date: "2026-04-15T09:21:23.984051"
+date: "2026-04-16T19:21:59.293443"
 draft: false
 sectors:
-  - research
   - consulting
+  - research
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - science
+  - social
 industries: []
 countries:
   - "united-states"

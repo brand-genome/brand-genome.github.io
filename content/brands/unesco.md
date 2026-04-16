@@ -2,14 +2,14 @@
 title: Unesco
 slug: unesco
 description: ""
-date: "2026-04-15T09:21:24.925101"
+date: "2026-04-16T19:22:00.496955"
 draft: false
 sectors:
-  - education
   - "public-sector"
   - research
-  - ngo
+  - education
   - "arts-culture"
+  - ngo
 regions:
   - international
 years:
@@ -70,8 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unesco.org/en](https://www.unesco.org/en)
-- [https://whc.unesco.org/en](https://whc.unesco.org/en)
-- [https://www.iiep.unesco.org](https://www.iiep.unesco.org)
+- [https://www.iiep.unesco.org/en](https://www.iiep.unesco.org/en)
 - [https://unesco.org/en](https://unesco.org/en)
 - [https://fr.unesco.org](https://fr.unesco.org)
 - [https://es.unesco.org](https://es.unesco.org)

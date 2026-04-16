@@ -2,7 +2,7 @@
 title: Fédération Française de Volley
 slug: "federation-francaise-de-volley"
 description: ""
-date: "2026-04-15T09:21:23.985031"
+date: "2026-04-16T19:21:59.294386"
 draft: false
 sectors:
   - sports
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ffvb.org](https://www.ffvb.org)
-- [https://boutique-volley.fr](https://boutique-volley.fr)
 - [https://www.billetweb.fr/pro/ffvolley](https://www.billetweb.fr/pro/ffvolley)
 
 ## Brand Guidelines

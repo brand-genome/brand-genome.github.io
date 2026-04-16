@@ -2,7 +2,7 @@
 title: Riverland Community College
 slug: "riverland-community-college"
 description: ""
-date: "2026-04-15T09:21:23.869265"
+date: "2026-04-16T19:21:59.194582"
 draft: false
 sectors:
   - education
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.riverland.edu](https://www.riverland.edu)
-- [https://www.riverland.edu/medialibrary](https://www.riverland.edu/medialibrary)
+- [https://www.riverland.edu/about-riverland/media-and-public-relations/media-library](https://www.riverland.edu/about-riverland/media-and-public-relations/media-library)
 - [http://www.riverland.edu](http://www.riverland.edu)
 
 ## Brand Guidelines

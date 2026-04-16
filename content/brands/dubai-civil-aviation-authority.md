@@ -2,11 +2,11 @@
 title: Dubai Civil Aviation Authority
 slug: "dubai-civil-aviation-authority"
 description: ""
-date: "2026-04-15T09:21:22.137163"
+date: "2026-04-16T19:21:57.172092"
 draft: false
 sectors:
-  - "public-sector"
   - aerospace
+  - "public-sector"
 regions:
   - dubai
 years:

@@ -2,11 +2,11 @@
 title: Ostfalia
 slug: ostfalia
 description: ""
-date: "2026-04-15T09:21:22.351628"
+date: "2026-04-16T19:21:57.582838"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - germany
@@ -34,8 +34,8 @@ foundation_dates:
   - 1971
   - 1928
 foundation_year_buckets:
-  - 1920S
   - 1970S
+  - 1920S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ostfalia.de](https://www.ostfalia.de)
-- [https://www.ostfalia.de/cms/de](https://www.ostfalia.de/cms/de)
-- [https://www.ostfalia.de/cms/en](https://www.ostfalia.de/cms/en)
 - [http://www.ostfalia.de](http://www.ostfalia.de)
 
 ## Brand Guidelines

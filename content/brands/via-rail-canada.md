@@ -2,16 +2,16 @@
 title: VIA Rail Canada
 slug: "via-rail-canada"
 description: ""
-date: "2026-04-15T09:21:22.333228"
+date: "2026-04-16T19:21:57.439265"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - canada
 years:
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:
@@ -19,8 +19,8 @@ tags:
   - featured
   - transport
 industries:
-  - "rail-transport"
   - "passenger-rail-transport"
+  - "rail-transport"
 countries:
   - canada
 revenue_buckets:
@@ -35,8 +35,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - montreal
   - "place-ville-marie"
+  - montreal
 subsidiaries: []
 foundation_dates:
   - 1977
@@ -74,10 +74,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.viarail.ca](https://www.viarail.ca)
+- [https://www.viarail.ca/en](https://www.viarail.ca/en)
 - [https://corpo.viarail.ca/en](https://corpo.viarail.ca/en)
 - [https://corpo.viarail.ca/fr](https://corpo.viarail.ca/fr)
-- [https://www.viarail.ca/en](https://www.viarail.ca/en)
 - [https://www.viarail.ca/fr](https://www.viarail.ca/fr)
 
 ## Brand Guidelines
@@ -98,7 +97,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Montreal](/headquarters_locations/montreal/); [Place Ville Marie](/headquarters_locations/place-ville-marie/) |
+| Headquarters Location | [Place Ville Marie](/headquarters_locations/place-ville-marie/); [Montreal](/headquarters_locations/montreal/) |
 | Foundation Date | [1977](/foundation_dates/1977/) |
 | Topic'S Main Category | Category:Via Rail |
 | Commons Gallery | Via Rail |

@@ -2,7 +2,7 @@
 title: "U-Padel"
 slug: "u-padel"
 description: ""
-date: "2026-04-15T09:21:22.708905"
+date: "2026-04-16T19:21:58.141746"
 draft: false
 sectors:
   - sports

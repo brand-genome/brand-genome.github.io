@@ -2,7 +2,7 @@
 title: Sant Boi de Llobregat
 slug: "sant-boi-de-llobregat"
 description: ""
-date: "2026-04-15T09:21:23.196902"
+date: "2026-04-16T19:21:58.601948"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.santboi.cat](https://www.santboi.cat)
-- [https://www.santboi.cat/en](https://www.santboi.cat/en)
 
 ## Brand Guidelines
 

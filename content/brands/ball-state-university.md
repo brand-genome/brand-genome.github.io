@@ -2,11 +2,11 @@
 title: Ball State University
 slug: "ball-state-university"
 description: ""
-date: "2026-04-15T09:21:25.425445"
+date: "2026-04-16T19:22:01.109497"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bsu.edu](https://www.bsu.edu)
 - [http://www.bsu.edu/brand/writing](http://www.bsu.edu/brand/writing)
 - [http://www.bsu.edu](http://www.bsu.edu)
 

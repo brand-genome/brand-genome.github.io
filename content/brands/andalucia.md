@@ -2,7 +2,7 @@
 title: Andalucia
 slug: andalucia
 description: ""
-date: "2026-04-15T09:21:24.339398"
+date: "2026-04-16T19:21:59.780321"
 draft: false
 sectors:
   - tourism
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.andalucia.org/es](https://www.andalucia.org/es)
+- [https://www.andalucia.org](https://www.andalucia.org)
 - [https://en.andalucia.org](https://en.andalucia.org)
 
 ## Brand Guidelines

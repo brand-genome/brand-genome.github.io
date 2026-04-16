@@ -2,11 +2,11 @@
 title: Anchore
 slug: anchore
 description: ""
-date: "2026-04-15T09:21:23.604244"
+date: "2026-04-16T19:21:58.892926"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

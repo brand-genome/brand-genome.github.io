@@ -2,7 +2,7 @@
 title: Century 21
 slug: "century-21"
 description: ""
-date: "2026-04-15T09:21:22.203716"
+date: "2026-04-16T19:21:57.240528"
 draft: false
 sectors:
   - "real-estate"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "real-estate"
+  - featured
 industries: []
 countries:
   - "united-states"

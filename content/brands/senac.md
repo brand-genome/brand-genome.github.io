@@ -2,11 +2,11 @@
 title: Senac
 slug: senac
 description: ""
-date: "2026-04-15T09:21:25.659754"
+date: "2026-04-16T19:22:01.683695"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - brazil
 years:
@@ -64,9 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.senac.br](https://www.senac.br)
-- [https://www.sp.senac.br](https://www.sp.senac.br)
-- [https://www.ba.senac.br](https://www.ba.senac.br)
+- [https://www.ba.senac.br/Home/Index](https://www.ba.senac.br/Home/Index)
 - [https://portal.ac.senac.br](https://portal.ac.senac.br)
 - [http://www.senac.br](http://www.senac.br)
 

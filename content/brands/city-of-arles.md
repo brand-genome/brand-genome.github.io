@@ -2,7 +2,7 @@
 title: City of Arles
 slug: "city-of-arles"
 description: ""
-date: "2026-04-15T09:21:25.871465"
+date: "2026-04-16T19:22:02.141086"
 draft: false
 sectors:
   - "public-sector"
@@ -60,6 +60,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://arles.fr](https://arles.fr)

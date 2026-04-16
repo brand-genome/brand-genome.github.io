@@ -2,11 +2,11 @@
 title: Pure Oil
 slug: "pure-oil"
 description: ""
-date: "2026-04-15T09:21:23.414770"
+date: "2026-04-16T19:21:58.804218"
 draft: false
 sectors:
-  - petroleum
   - "petrol-station"
+  - petroleum
 regions:
   - usa
 years:
@@ -29,19 +29,19 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - pittsburgh
   - chicago
+  - pittsburgh
 subsidiaries: []
 foundation_dates:
   - 1895
+  - 1920
   - 1902
   - 1914
-  - 1920
 foundation_year_buckets:
-  - 1910S
-  - 1920S
   - 1900S
   - "19TH-CENTURY"
+  - 1920S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -85,8 +85,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Pittsburgh](/headquarters_locations/pittsburgh/); [Chicago](/headquarters_locations/chicago/) |
-| Foundation Date | [1895](/foundation_dates/1895/); [1902](/foundation_dates/1902/); [1914](/foundation_dates/1914/); [1920](/foundation_dates/1920/) |
+| Headquarters Location | [Chicago](/headquarters_locations/chicago/); [Pittsburgh](/headquarters_locations/pittsburgh/) |
+| Foundation Date | [1895](/foundation_dates/1895/); [1920](/foundation_dates/1920/); [1902](/foundation_dates/1902/); [1914](/foundation_dates/1914/) |
 | Freebase Id | /m/05p2rm5 |
 | Inception | 1895-11-08, 1902, 1914, 1920 |
 | Headquarters Location | Pittsburgh, Chicago |

@@ -2,7 +2,7 @@
 title: Région Aquitaine
 slug: "region-aquitaine"
 description: ""
-date: "2026-04-15T09:21:25.863934"
+date: "2026-04-16T19:22:02.133422"
 draft: false
 sectors:
   - "public-sector"

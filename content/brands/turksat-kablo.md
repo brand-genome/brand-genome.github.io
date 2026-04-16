@@ -2,11 +2,11 @@
 title: Turksat Kablo
 slug: "turksat-kablo"
 description: ""
-date: "2026-04-15T09:21:24.727368"
+date: "2026-04-16T19:22:00.272900"
 draft: false
 sectors:
-  - broadcasting
   - telecom
+  - broadcasting
 regions:
   - turkiye
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.turksatkablo.com.tr](https://www.turksatkablo.com.tr)
 - [https://www.turksatkablonet.com](https://www.turksatkablonet.com)
 - [https://www.tvheryerde.com.tr](https://www.tvheryerde.com.tr)
 - [http://www.turksatkablo.com](http://www.turksatkablo.com)

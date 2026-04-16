@@ -2,7 +2,7 @@
 title: Tasmanian Government
 slug: "tasmanian-government"
 description: ""
-date: "2026-04-15T09:21:25.190214"
+date: "2026-04-16T19:22:00.785402"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tas.gov.au](https://www.tas.gov.au)
-- [https://www.communications.tas.gov.au](https://www.communications.tas.gov.au)
+- [https://www.tas.gov.au/communications](https://www.tas.gov.au/communications)
 
 ## Brand Guidelines
 

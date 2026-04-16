@@ -2,7 +2,7 @@
 title: epp Group
 slug: "epp-group"
 description: ""
-date: "2026-04-15T09:21:25.411545"
+date: "2026-04-16T19:22:01.095496"
 draft: false
 sectors:
   - "public-sector"

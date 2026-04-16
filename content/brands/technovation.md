@@ -2,11 +2,11 @@
 title: Technovation
 slug: technovation
 description: ""
-date: "2026-04-15T09:21:25.405326"
+date: "2026-04-16T19:22:01.088859"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://technovationchallenge.org/tw](https://technovationchallenge.org/tw)
 - [https://www.technovation.org](https://www.technovation.org)
 - [https://iridescentlearning.org](https://iridescentlearning.org)
-- [https://iridescentsupport.zendesk.com/hc/en-us](https://iridescentsupport.zendesk.com/hc/en-us)
 
 ## Brand Guidelines
 

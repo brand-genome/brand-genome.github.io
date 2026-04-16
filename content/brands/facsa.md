@@ -2,7 +2,7 @@
 title: Facsa
 slug: facsa
 description: ""
-date: "2026-04-15T09:21:22.352353"
+date: "2026-04-16T19:21:57.584865"
 draft: false
 sectors:
   - utilities
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.facsa.com](https://www.facsa.com)
-- [https://www.aguasdeoropesa.com](https://www.aguasdeoropesa.com)
+- [https://aguasdeoropesa.com](https://aguasdeoropesa.com)
 - [http://www.facsa.com](http://www.facsa.com)
 
 ## Brand Guidelines

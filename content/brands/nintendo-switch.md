@@ -2,7 +2,7 @@
 title: Nintendo Switch
 slug: "nintendo-switch"
 description: ""
-date: "2026-04-15T09:21:22.377776"
+date: "2026-04-16T19:21:57.626437"
 draft: false
 sectors:
   - gaming
@@ -10,13 +10,13 @@ sectors:
 regions:
   - japan
 years:
-  - 2020
   - 2016
+  - 2020
 languages:
   - english
 tags:
-  - featured
   - entertainment
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nintendo.com/us/switch](https://www.nintendo.com/us/switch)
-- [https://www.nintendo.com/jp/switch](https://www.nintendo.com/jp/switch)
-- [https://support.nintendo.com/jp/switch](https://support.nintendo.com/jp/switch)
+- [https://www.nintendo.com/us/gaming-systems/switch](https://www.nintendo.com/us/gaming-systems/switch)
+- [https://www.nintendo.com/jp/hardware/switch/compare/index.html](https://www.nintendo.com/jp/hardware/switch/compare/index.html)
+- [https://support.nintendo.com/jp/switch/index.html](https://support.nintendo.com/jp/switch/index.html)
 
 ## Brand Guidelines
 

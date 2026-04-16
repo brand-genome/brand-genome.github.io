@@ -2,7 +2,7 @@
 title: US Figure Skating
 slug: "us-figure-skating"
 description: ""
-date: "2026-04-15T09:21:24.279990"
+date: "2026-04-16T19:21:59.685890"
 draft: false
 sectors:
   - sports
@@ -65,9 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://usfigureskating.org](https://usfigureskating.org)
+- [https://usfigureskating.org/sports/2025/10/15/learn-to-skate.aspx](https://usfigureskating.org/sports/2025/10/15/learn-to-skate.aspx)
 - [https://www.usfigureskating.org](https://www.usfigureskating.org)
-- [https://www.usfigureskating.org/skate/learn-to-skate](https://www.usfigureskating.org/skate/learn-to-skate)
-- [https://www.leaveyourmark2026.com](https://www.leaveyourmark2026.com)
 
 ## Brand Guidelines
 

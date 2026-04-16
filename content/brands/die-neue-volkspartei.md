@@ -2,7 +2,7 @@
 title: Die Neue Volkspartei
 slug: "die-neue-volkspartei"
 description: ""
-date: "2026-04-15T09:21:23.706756"
+date: "2026-04-16T19:21:59.029851"
 draft: false
 sectors:
   - "public-sector"
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.dievolkspartei.at](https://www.dievolkspartei.at)
-- [https://www.oevp.at](https://www.oevp.at)
-
 ## Brand Guidelines
 
 ### 2017

@@ -2,7 +2,7 @@
 title: Karcher
 slug: karcher
 description: ""
-date: "2026-04-15T09:21:24.070076"
+date: "2026-04-16T19:21:59.392249"
 draft: false
 sectors:
   - "home-appliances"
@@ -30,9 +30,9 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "pressure-washer"
-  - "robotic-vacuum-cleaner"
-  - "battery-lawn-mower"
   - "vacuum-cleaner"
+  - "battery-lawn-mower"
+  - "robotic-vacuum-cleaner"
 products: []
 headquarters_locations:
   - winnenden
@@ -73,8 +73,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kaercher.com](https://www.kaercher.com)
+- [https://www.kaercher.com/int](https://www.kaercher.com/int)
 - [https://www.kaercher.com/us](https://www.kaercher.com/us)
+- [https://www.kaercher.com](https://www.kaercher.com)
 
 ## Brand Guidelines
 
@@ -90,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Pressure Washer](/products_or_materials_produced/pressure-washer/); [Robotic Vacuum Cleaner](/products_or_materials_produced/robotic-vacuum-cleaner/); [Battery Lawn Mower](/products_or_materials_produced/battery-lawn-mower/); [Vacuum Cleaner](/products_or_materials_produced/vacuum-cleaner/) |
+| Product Or Material Produced | [Pressure Washer](/products_or_materials_produced/pressure-washer/); [Vacuum Cleaner](/products_or_materials_produced/vacuum-cleaner/); [Battery Lawn Mower](/products_or_materials_produced/battery-lawn-mower/); [Robotic Vacuum Cleaner](/products_or_materials_produced/robotic-vacuum-cleaner/) |
 | Headquarters Location | [Winnenden](/headquarters_locations/winnenden/) |
 | Foundation Date | [1945](/foundation_dates/1945/) |
 | Freebase Id | /m/085rqy, /m/0r8g08g |

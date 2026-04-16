@@ -2,11 +2,11 @@
 title: Emily Carr University
 slug: "emily-carr-university"
 description: ""
-date: "2026-04-15T09:21:25.463552"
+date: "2026-04-16T19:22:01.211897"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - design
+  - university
 industries: []
 countries:
   - canada
@@ -67,9 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ecuad.ca](https://ecuad.ca)
-- [https://www.ecuad.ca](https://www.ecuad.ca)
 - [http://www.ecuad.ca](http://www.ecuad.ca)
+- [https://www.ecuad.ca](https://www.ecuad.ca)
 
 ## Brand Guidelines
 

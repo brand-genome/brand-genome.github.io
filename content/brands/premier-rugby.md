@@ -2,7 +2,7 @@
 title: Premier Rugby
 slug: "premier-rugby"
 description: ""
-date: "2026-04-15T09:21:25.390022"
+date: "2026-04-16T19:22:01.065418"
 draft: false
 sectors:
   - sports

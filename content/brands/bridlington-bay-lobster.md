@@ -2,7 +2,7 @@
 title: Bridlington Bay Lobster
 slug: "bridlington-bay-lobster"
 description: ""
-date: "2026-04-15T09:21:22.064012"
+date: "2026-04-16T19:21:57.102422"
 draft: false
 sectors:
   - food
@@ -61,4 +61,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bridshellfish.com](https://www.bridshellfish.com)
+- [https://www.bridshellfish.co.uk](https://www.bridshellfish.co.uk)

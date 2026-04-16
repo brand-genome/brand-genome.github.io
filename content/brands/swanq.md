@@ -2,12 +2,12 @@
 title: Swanq
 slug: swanq
 description: ""
-date: "2026-04-15T09:21:22.300271"
+date: "2026-04-16T19:21:57.338789"
 draft: false
 sectors:
-  - "consumer-goods"
-  - "home-appliances"
   - "interior-design-decor"
+  - "home-appliances"
+  - "consumer-goods"
 regions:
   - india
 years:
@@ -63,5 +63,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nolte-kuechen.com](https://www.nolte-kuechen.com)
+- [https://www.nolte-kuechen.com/de-DE/privatkunden](https://www.nolte-kuechen.com/de-DE/privatkunden)
 - [https://www.kuche7.com](https://www.kuche7.com)

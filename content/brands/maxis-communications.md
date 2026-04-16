@@ -2,7 +2,7 @@
 title: Maxis Communications
 slug: "maxis-communications"
 description: ""
-date: "2026-04-15T09:21:25.192346"
+date: "2026-04-16T19:22:00.787423"
 draft: false
 sectors:
   - telecom
@@ -67,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.maxis.com.my](https://www.maxis.com.my)
+- [https://www.maxis.com.my/en/home](https://www.maxis.com.my/en/home)
 - [https://www.maxis.com.my/en/identify-maxis-email](https://www.maxis.com.my/en/identify-maxis-email)
+- [https://www.maxis.com.my](https://www.maxis.com.my)
 
 ## Brand Guidelines
 

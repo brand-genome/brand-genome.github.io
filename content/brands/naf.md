@@ -2,11 +2,11 @@
 title: NAF
 slug: naf
 description: ""
-date: "2026-04-15T09:21:24.653763"
+date: "2026-04-16T19:22:00.206144"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

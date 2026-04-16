@@ -2,11 +2,10 @@
 title: "ES & GE Dimsum"
 slug: "es-ge-dimsum"
 description: ""
-date: "2026-04-15T09:21:23.402745"
+date: "2026-04-16T19:21:58.793616"
 draft: false
 sectors:
   - food
-  - restaurant
 regions:
   - indonesia
 years:

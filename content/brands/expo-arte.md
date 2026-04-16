@@ -2,10 +2,9 @@
 title: Expo Arte
 slug: "expo-arte"
 description: ""
-date: "2026-04-15T09:21:23.611984"
+date: "2026-04-16T19:21:58.900484"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
 regions:
   - romania

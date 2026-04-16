@@ -2,10 +2,9 @@
 title: Pass
 slug: pass
 description: ""
-date: "2026-04-15T09:21:23.726171"
+date: "2026-04-16T19:21:59.049739"
 draft: false
 sectors:
-  - finance
   - software
 regions:
   - nigeria
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "social-networks"
   - business
+  - "social-networks"
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.ourpass.co](https://www.ourpass.co)
-
 ## Brand Guidelines
 
 ### 2020

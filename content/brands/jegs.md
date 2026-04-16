@@ -2,12 +2,12 @@
 title: Jegs
 slug: jegs
 description: ""
-date: "2026-04-15T09:21:25.667390"
+date: "2026-04-16T19:22:01.705399"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
   - automobile
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"

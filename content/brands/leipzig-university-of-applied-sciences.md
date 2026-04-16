@@ -2,11 +2,11 @@
 title: Leipzig University of Applied Sciences
 slug: "leipzig-university-of-applied-sciences"
 description: ""
-date: "2026-04-15T09:21:23.588847"
+date: "2026-04-16T19:21:58.878445"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - germany

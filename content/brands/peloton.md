@@ -2,11 +2,11 @@
 title: Peloton
 slug: peloton
 description: ""
-date: "2026-04-15T09:21:24.317767"
+date: "2026-04-16T19:21:59.726374"
 draft: false
 sectors:
-  - fitness
   - software
+  - fitness
 regions:
   - usa
 years:
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.onepeloton.com](https://www.onepeloton.com)
-- [https://press.onepeloton.com](https://press.onepeloton.com)
-- [https://hotelfinder.onepeloton.com](https://hotelfinder.onepeloton.com)
+- [https://hotelfinder.onepeloton.com/en](https://hotelfinder.onepeloton.com/en)
 - [http://www.onepeloton.com](http://www.onepeloton.com)
 
 ## Brand Guidelines

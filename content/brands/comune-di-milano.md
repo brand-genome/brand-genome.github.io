@@ -2,21 +2,21 @@
 title: Comune di Milano
 slug: "comune-di-milano"
 description: ""
-date: "2026-04-15T09:21:24.078244"
+date: "2026-04-16T19:21:59.402122"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - italy
 years:
-  - 2017
   - 2016
+  - 2017
 languages:
   - italian
 tags:
   - city
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.comune.milano.it](https://www.comune.milano.it)
 - [https://servizi.comune.milano.it](https://servizi.comune.milano.it)
 
 ## Brand Guidelines

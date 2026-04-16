@@ -2,7 +2,7 @@
 title: FFCK
 slug: ffck
 description: ""
-date: "2026-04-15T09:21:25.855001"
+date: "2026-04-16T19:22:02.121409"
 draft: false
 sectors:
   - sports

@@ -2,12 +2,12 @@
 title: NVidia
 slug: nvidia
 description: ""
-date: "2026-04-15T09:21:25.715423"
+date: "2026-04-16T19:22:01.842131"
 draft: false
 sectors:
   - software
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nvidia.com](https://www.nvidia.com)
+- [https://www.nvidia.com/en-in](https://www.nvidia.com/en-in)
 
 ## Brand Guidelines
 

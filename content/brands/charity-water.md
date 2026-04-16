@@ -2,7 +2,7 @@
 title: Charity Water
 slug: "charity-water"
 description: ""
-date: "2026-04-15T09:21:25.837115"
+date: "2026-04-16T19:22:02.077639"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - ngo
+  - charity
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 
 - [https://www.charitywater.org](https://www.charitywater.org)
 - [https://store.charitywater.org](https://store.charitywater.org)
-- [https://www.charitywateruk.org](https://www.charitywateruk.org)
+- [https://www.charitywater.org/uk](https://www.charitywater.org/uk)
 
 ## Brand Guidelines
 

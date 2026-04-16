@@ -2,23 +2,23 @@
 title: University of Pittsburgh
 slug: "university-of-pittsburgh"
 description: ""
-date: "2026-04-15T09:21:22.347111"
+date: "2026-04-16T19:21:57.552601"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
+  - 2022
   - 2024
   - 2015
-  - 2022
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -73,7 +73,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.pitt.edu](https://www.pitt.edu)
-- [https://brand.pitt.edu](https://brand.pitt.edu)
+- [https://www.brand.pitt.edu](https://www.brand.pitt.edu)
 - [https://www.communications.pitt.edu](https://www.communications.pitt.edu)
 - [http://www.pitt.edu](http://www.pitt.edu)
 - [http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98](http://pittsburghpanthers.com/sports/2017/6/17/ot-pitt-licensing-html.aspx?id=98)

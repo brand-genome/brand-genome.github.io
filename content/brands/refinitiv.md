@@ -2,7 +2,7 @@
 title: Refinitiv
 slug: refinitiv
 description: ""
-date: "2026-04-15T09:21:23.699831"
+date: "2026-04-16T19:21:59.022947"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - financial
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.refinitiv.com](https://www.refinitiv.com)
+- [https://www.lseg.com/en/data-analytics](https://www.lseg.com/en/data-analytics)
 - [https://www.lseg.com/en/data-analytics/refinitiv](https://www.lseg.com/en/data-analytics/refinitiv)
 
 ## Brand Guidelines

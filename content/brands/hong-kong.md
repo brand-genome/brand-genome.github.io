@@ -2,14 +2,14 @@
 title: Hong Kong
 slug: "hong-kong"
 description: ""
-date: "2026-04-15T09:21:22.558707"
+date: "2026-04-16T19:21:57.924310"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
-  - china
   - "hong-kong"
+  - china
 years:
   - 2012
   - 2020
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 
 - [https://www.brandhk.gov.hk](https://www.brandhk.gov.hk)
 - [https://www.brandhk.gov.hk/en](https://www.brandhk.gov.hk/en)
-- [https://www.brandhk.gov.hk/zh-hant](https://www.brandhk.gov.hk/zh-hant)
-- [https://www.brandhk.gov.hk/zh-hans](https://www.brandhk.gov.hk/zh-hans)
 
 ## Brand Guidelines
 

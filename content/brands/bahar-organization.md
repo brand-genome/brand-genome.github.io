@@ -2,11 +2,11 @@
 title: Bahar Organization
 slug: "bahar-organization"
 description: ""
-date: "2026-04-15T09:21:23.980808"
+date: "2026-04-16T19:21:59.290083"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - turkiye
 years:

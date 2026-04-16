@@ -2,7 +2,7 @@
 title: Delta Airlines
 slug: "delta-airlines"
 description: ""
-date: "2026-04-15T09:21:22.273566"
+date: "2026-04-16T19:21:57.313301"
 draft: false
 sectors:
   - tourism
@@ -37,8 +37,8 @@ market_cap_buckets:
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - monroe
   - atlanta
+  - monroe
 subsidiaries: []
 foundation_dates:
   - 1929
@@ -77,9 +77,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [http://ssp.delta.com/content/dam/delta-www/sorry-server/delta_sorry.html](http://ssp.delta.com/content/dam/delta-www/sorry-server/delta_sorry.html)
 - [https://www.delta.com](https://www.delta.com)
-- [https://www.delta.com/us/en/skymiles/overview](https://www.delta.com/us/en/skymiles/overview)
-- [https://www.delta.com/us/en/delta-vacations](https://www.delta.com/us/en/delta-vacations)
 - [https://zh.delta.com](https://zh.delta.com)
 - [https://de.delta.com](https://de.delta.com)
 - [https://fr.delta.com](https://fr.delta.com)
@@ -940,7 +939,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Monroe](/headquarters_locations/monroe/); [Atlanta](/headquarters_locations/atlanta/) |
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Monroe](/headquarters_locations/monroe/) |
 | Foundation Date | [1929](/foundation_dates/1929/); [1925](/foundation_dates/1925/) |
 | Iata Airline Designator | DL |
 | Icao Airline Designator | DAL |

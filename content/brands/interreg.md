@@ -2,7 +2,7 @@
 title: Interreg
 slug: interreg
 description: ""
-date: "2026-04-15T09:21:25.715529"
+date: "2026-04-16T19:22:01.842388"
 draft: false
 sectors:
   - "public-sector"

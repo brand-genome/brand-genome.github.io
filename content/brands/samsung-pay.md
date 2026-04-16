@@ -2,7 +2,7 @@
 title: Samsung Pay
 slug: "samsung-pay"
 description: ""
-date: "2026-04-15T09:21:25.662855"
+date: "2026-04-16T19:22:01.694037"
 draft: false
 sectors:
   - finance

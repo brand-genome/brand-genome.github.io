@@ -2,11 +2,11 @@
 title: NBC Sports
 slug: "nbc-sports"
 description: ""
-date: "2026-04-15T09:21:24.930522"
+date: "2026-04-16T19:22:00.504249"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nbcsports.com](https://www.nbcsports.com)
-- [https://www.peacocktv.com/channels/nbcsports](https://www.peacocktv.com/channels/nbcsports)
-- [https://www.peacocktv.com/channels/nbc-sports-now](https://www.peacocktv.com/channels/nbc-sports-now)
 - [http://www.nbcsports.com](http://www.nbcsports.com)
 
 ## Brand Guidelines

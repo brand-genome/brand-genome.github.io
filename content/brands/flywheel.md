@@ -2,7 +2,7 @@
 title: Flywheel
 slug: flywheel
 description: ""
-date: "2026-04-15T09:21:25.777353"
+date: "2026-04-16T19:22:01.972304"
 draft: false
 sectors:
   - software

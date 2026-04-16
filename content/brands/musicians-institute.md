@@ -2,7 +2,7 @@
 title: Musicians Institute
 slug: "musicians-institute"
 description: ""
-date: "2026-04-15T09:21:25.427415"
+date: "2026-04-16T19:22:01.111473"
 draft: false
 sectors:
   - education

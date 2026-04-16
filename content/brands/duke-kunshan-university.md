@@ -2,11 +2,11 @@
 title: Duke Kunshan University
 slug: "duke-kunshan-university"
 description: ""
-date: "2026-04-15T09:21:22.045385"
+date: "2026-04-16T19:21:57.092978"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - china
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -66,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dukekunshan.edu.cn](https://dukekunshan.edu.cn)
+- [https://www.dukekunshan.edu.cn](https://www.dukekunshan.edu.cn)
 - [https://dukekunshan.edu.cn/zh](https://dukekunshan.edu.cn/zh)
+- [https://dukekunshan.edu.cn](https://dukekunshan.edu.cn)
 - [https://dku.edu.cn](https://dku.edu.cn)
 - [https://dku.edu.cn/zh](https://dku.edu.cn/zh)
 

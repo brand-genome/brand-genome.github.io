@@ -2,11 +2,11 @@
 title: Santa Cruz de Tenerife
 slug: "santa-cruz-de-tenerife"
 description: ""
-date: "2026-04-15T09:21:24.086199"
+date: "2026-04-16T19:21:59.412771"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - spain
 years:
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 
 - [https://www.santacruzdetenerife.es/web/inicio](https://www.santacruzdetenerife.es/web/inicio)
 - [https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad](https://www.santacruzdetenerife.es/web/gobierno/marca-ciudad)
-- [https://sede.santacruzdetenerife.es](https://sede.santacruzdetenerife.es)
-- [https://ovc.santacruzdetenerife.es](https://ovc.santacruzdetenerife.es)
+- [https://sede.santacruzdetenerife.es/sede/inicio](https://sede.santacruzdetenerife.es/sede/inicio)
+- [https://ovc.santacruzdetenerife.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=FRONTAL_OVC](https://ovc.santacruzdetenerife.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=FRONTAL_OVC)
 - [https://www.santacruzdetenerife.es](https://www.santacruzdetenerife.es)
 
 ## Brand Guidelines

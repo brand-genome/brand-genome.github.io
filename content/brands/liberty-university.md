@@ -2,12 +2,12 @@
 title: Liberty University
 slug: "liberty-university"
 description: ""
-date: "2026-04-15T09:21:24.315893"
+date: "2026-04-16T19:21:59.724358"
 draft: false
 sectors:
+  - education
   - university
   - "e-learning-edtech"
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.liberty.edu](https://www.liberty.edu)
-- [https://www.degrees-liberty.com](https://www.degrees-liberty.com)
 - [http://www.liberty.edu](http://www.liberty.edu)
 - [http://www.libertyflames.com](http://www.libertyflames.com)
 

@@ -2,11 +2,11 @@
 title: "Universidad Nacional Autónoma de Nicaragua, Managua"
 slug: "universidad-nacional-autonoma-de-nicaragua-managua"
 description: ""
-date: "2026-04-15T09:21:23.134161"
+date: "2026-04-16T19:21:58.535577"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - nicaragua
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.unan.edu.ni](http://www.unan.edu.ni)
+- [https://www.unan.edu.ni](https://www.unan.edu.ni)
 
 ## Brand Guidelines
 

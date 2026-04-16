@@ -2,7 +2,7 @@
 title: Sochi 2014 Mascot
 slug: "sochi-2014-mascot"
 description: ""
-date: "2026-04-15T09:21:24.211165"
+date: "2026-04-16T19:21:59.579463"
 draft: false
 sectors:
   - sports
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://olympics.com/en/olympic-games/sochi-2014](https://olympics.com/en/olympic-games/sochi-2014)
-
 ## Brand Guidelines
 
 ### 2012

@@ -2,17 +2,17 @@
 title: Moodle
 slug: moodle
 description: ""
-date: "2026-04-15T09:21:22.586238"
+date: "2026-04-16T19:21:57.949288"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - australia
 years:
-  - 2023
   - 2019
   - 2022
+  - 2023
 languages:
   - english
 tags:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://moodle.com](https://moodle.com)
-- [https://moodlecloud.com](https://moodlecloud.com)
 - [https://moodle.com/products/moodle-app](https://moodle.com/products/moodle-app)
 - [https://moodle.com/products/workplace](https://moodle.com/products/workplace)
 - [http://www.moodle.org](http://www.moodle.org)

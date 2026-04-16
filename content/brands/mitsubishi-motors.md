@@ -2,7 +2,7 @@
 title: Mitsubishi Motors
 slug: "mitsubishi-motors"
 description: ""
-date: "2026-04-15T09:21:24.589858"
+date: "2026-04-16T19:22:00.153288"
 draft: false
 sectors:
   - automobile
@@ -29,8 +29,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - car
-  - "commercial-vehicle"
   - "sport-utility-vehicle"
+  - "commercial-vehicle"
 products: []
 headquarters_locations:
   - minato
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Sport Utility Vehicle](/products_or_materials_produced/sport-utility-vehicle/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:Mitsubishi Motors |

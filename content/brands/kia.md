@@ -2,15 +2,15 @@
 title: Kia
 slug: kia
 description: ""
-date: "2026-04-15T09:21:23.766578"
+date: "2026-04-16T19:21:59.094092"
 draft: false
 sectors:
   - automobile
 regions:
   - "south-korea"
 years:
-  - 2021
   - 2020
+  - 2021
 languages:
   - english
 tags:
@@ -70,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kia.com](https://www.kia.com)
-- [https://worldwide.kia.com](https://worldwide.kia.com)
+- [https://www.kia.com/in/home.html](https://www.kia.com/in/home.html)
+- [https://worldwide.kia.com/int](https://worldwide.kia.com/int)
 - [http://www.kia.com](http://www.kia.com)
 - [https://kia.com](https://kia.com)
 - [https://www.kia.com/kr](https://www.kia.com/kr)

@@ -2,11 +2,10 @@
 title: Trade with Ukraine
 slug: "trade-with-ukraine"
 description: ""
-date: "2026-04-15T09:21:23.799158"
+date: "2026-04-16T19:21:59.128476"
 draft: false
 sectors:
   - "marketing-advertising"
-  - "logistics-supply-chain"
 regions:
   - ukraine
 years:

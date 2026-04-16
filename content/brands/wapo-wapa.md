@@ -2,11 +2,11 @@
 title: "Wapo & Wapa"
 slug: "wapo-wapa"
 description: ""
-date: "2026-04-15T09:21:22.522317"
+date: "2026-04-16T19:21:57.857940"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - "new-zealand"
 years:

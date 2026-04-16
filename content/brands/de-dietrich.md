@@ -2,10 +2,9 @@
 title: De Dietrich
 slug: "de-dietrich"
 description: ""
-date: "2026-04-15T09:21:24.816715"
+date: "2026-04-16T19:22:00.364954"
 draft: false
 sectors:
-  - utilities
   - "home-appliances"
 regions:
   - france
@@ -63,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.dedietrich-thermique.fr](https://www.dedietrich-thermique.fr)
-- [https://pro.dedietrich-thermique.fr/fr](https://pro.dedietrich-thermique.fr/fr)
-- [https://pro.dedietrich-heating.com](https://pro.dedietrich-heating.com)
 - [http://www.dedietrich-thermique.fr](http://www.dedietrich-thermique.fr)
 
 ## Brand Guidelines

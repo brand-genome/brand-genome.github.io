@@ -2,7 +2,7 @@
 title: London Underground
 slug: "london-underground"
 description: ""
-date: "2026-04-15T09:21:23.430855"
+date: "2026-04-16T19:21:58.817096"
 draft: false
 sectors:
   - "public-transportation"
@@ -17,8 +17,8 @@ tags:
   - transport
 industries:
   - "rail-transport"
-  - "urban-and-suburban-passenger-land-transport"
   - "passenger-transport"
+  - "urban-and-suburban-passenger-land-transport"
 countries:
   - "united-kingdom"
 revenue_buckets: []

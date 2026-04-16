@@ -2,11 +2,11 @@
 title: South East Technological University
 slug: "south-east-technological-university"
 description: ""
-date: "2026-04-15T09:21:23.692493"
+date: "2026-04-16T19:21:59.015765"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - ireland
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
   - technology
   - education
+  - university
 industries: []
 countries:
   - ireland
@@ -70,9 +70,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.setu.ie](https://www.setu.ie)
 - [https://research.setu.ie](https://research.setu.ie)
 - [https://www.tuse.ie](https://www.tuse.ie)
+- [https://www.setu.ie](https://www.setu.ie)
 
 ## Brand Guidelines
 

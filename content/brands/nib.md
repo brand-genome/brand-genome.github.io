@@ -2,7 +2,7 @@
 title: NIB
 slug: nib
 description: ""
-date: "2026-04-15T09:21:25.706333"
+date: "2026-04-16T19:22:01.818601"
 draft: false
 sectors:
   - finance

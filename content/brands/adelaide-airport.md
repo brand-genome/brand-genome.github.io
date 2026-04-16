@@ -2,7 +2,7 @@
 title: Adelaide Airport
 slug: "adelaide-airport"
 description: ""
-date: "2026-04-15T09:21:25.370604"
+date: "2026-04-16T19:22:01.037525"
 draft: false
 sectors:
   - "public-transportation"
@@ -64,9 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://adelaideairport.com.au](https://adelaideairport.com.au)
-- [https://corporate.adelaideairport.com.au](https://corporate.adelaideairport.com.au)
-- [https://prebook.adelaideairport.com.au](https://prebook.adelaideairport.com.au)
+- [https://prebook.adelaideairport.com.au/en](https://prebook.adelaideairport.com.au/en)
 - [https://www.adelaideairport.com.au](https://www.adelaideairport.com.au)
 
 ## Brand Guidelines

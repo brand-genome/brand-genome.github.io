@@ -2,7 +2,7 @@
 title: ESAB
 slug: esab
 description: ""
-date: "2026-04-15T09:21:25.341580"
+date: "2026-04-16T19:22:01.008531"
 draft: false
 sectors:
   - hardware
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.esab.com](https://www.esab.com)
 - [https://esabcorporation.com/company/esab](https://esabcorporation.com/company/esab)
 - [http://www.esab.com](http://www.esab.com)
 

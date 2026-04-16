@@ -2,7 +2,7 @@
 title: Air Methods
 slug: "air-methods"
 description: ""
-date: "2026-04-15T09:21:24.954953"
+date: "2026-04-16T19:22:00.529364"
 draft: false
 sectors:
   - aerospace

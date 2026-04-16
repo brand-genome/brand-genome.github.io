@@ -2,7 +2,7 @@
 title: Spaces
 slug: spaces
 description: ""
-date: "2026-04-15T09:21:24.761348"
+date: "2026-04-16T19:22:00.309301"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spacesworks.com](https://www.spacesworks.com)
+- [https://www.spacesworks.com/en](https://www.spacesworks.com/en)
 - [https://www.spacesworks.com/en/us](https://www.spacesworks.com/en/us)
 - [http://www.spacesworks.com](http://www.spacesworks.com)
 

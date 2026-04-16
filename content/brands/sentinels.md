@@ -2,12 +2,12 @@
 title: Sentinels
 slug: sentinels
 description: ""
-date: "2026-04-15T09:21:24.279866"
+date: "2026-04-16T19:21:59.685767"
 draft: false
 sectors:
-  - sports
   - gaming
   - entertainment
+  - sports
 regions:
   - usa
 years:
@@ -65,6 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://sentinels.gg](https://sentinels.gg)
 - [https://www.sentinels.gg](https://www.sentinels.gg)
 
 ## Brand Guidelines

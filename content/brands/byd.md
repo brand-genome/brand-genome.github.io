@@ -2,7 +2,7 @@
 title: BYD
 slug: byd
 description: ""
-date: "2026-04-15T09:21:22.132578"
+date: "2026-04-16T19:21:57.167540"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
   - transport
 industries:
-  - "automotive-industry"
-  - "consumer-electronics-industry"
   - "battery-industry"
+  - "consumer-electronics-industry"
+  - "automotive-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets:
@@ -76,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.byd.com](https://www.byd.com)
+- [https://www.byd.com/in](https://www.byd.com/in)
 - [https://www.byd.com/en](https://www.byd.com/en)
 - [https://www.byd.com/cn](https://www.byd.com/cn)
 - [https://www.bydglobal.com](https://www.bydglobal.com)

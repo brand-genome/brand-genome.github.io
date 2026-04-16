@@ -2,7 +2,7 @@
 title: Cleveland State University
 slug: "cleveland-state-university"
 description: ""
-date: "2026-04-15T09:21:25.850956"
+date: "2026-04-16T19:22:02.114382"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

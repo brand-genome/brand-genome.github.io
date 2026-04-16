@@ -2,12 +2,12 @@
 title: Billon
 slug: billon
 description: ""
-date: "2026-04-15T09:21:23.611045"
+date: "2026-04-16T19:21:58.899467"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - finance
   - software
+  - "blockchain-crypto"
 regions:
   - poland
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://billongroup.com](https://billongroup.com)
-- [https://stabillon.com](https://stabillon.com)
 - [http://www.billongroup.com](http://www.billongroup.com)
 
 ## Brand Guidelines

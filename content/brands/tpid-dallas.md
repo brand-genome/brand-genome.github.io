@@ -2,7 +2,7 @@
 title: TPID Dallas
 slug: "tpid-dallas"
 description: ""
-date: "2026-04-15T09:21:23.792586"
+date: "2026-04-16T19:21:59.121944"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://dallastpid.com](https://dallastpid.com)
-- [https://dallasecodev.org/423/Tourism-PID](https://dallasecodev.org/423/Tourism-PID)
+- [https://dallasecodev.org/423/Dallas-Tourism-PID](https://dallasecodev.org/423/Dallas-Tourism-PID)
 
 ## Brand Guidelines
 

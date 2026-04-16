@@ -2,7 +2,7 @@
 title: Enel
 slug: enel
 description: ""
-date: "2026-04-15T09:21:25.750137"
+date: "2026-04-16T19:22:01.923130"
 draft: false
 sectors:
   - utilities

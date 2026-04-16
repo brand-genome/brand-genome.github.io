@@ -2,7 +2,7 @@
 title: Invest Lithuania
 slug: "invest-lithuania"
 description: ""
-date: "2026-04-15T09:21:23.881841"
+date: "2026-04-16T19:21:59.208369"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - business
+  - featured
 industries: []
 countries:
   - lithuania
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://investlithuania.com](https://investlithuania.com)
-- [https://download.investlithuania.com](https://download.investlithuania.com)
 - [https://kurklt.lt](https://kurklt.lt)
 - [http://www.investlithuania.com/en](http://www.investlithuania.com/en)
 

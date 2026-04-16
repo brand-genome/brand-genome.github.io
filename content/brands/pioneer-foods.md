@@ -2,11 +2,11 @@
 title: Pioneer Foods
 slug: "pioneer-foods"
 description: ""
-date: "2026-04-15T09:21:24.655889"
+date: "2026-04-16T19:22:00.207940"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - "south-africa"
 years:
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.pioneerfoods.co.za](http://www.pioneerfoods.co.za)
-
 ## Brand Guidelines
 
 ### 2009

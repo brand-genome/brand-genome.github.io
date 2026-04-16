@@ -2,7 +2,7 @@
 title: Noor Fares
 slug: "noor-fares"
 description: ""
-date: "2026-04-15T09:21:24.789922"
+date: "2026-04-16T19:22:00.339384"
 draft: false
 sectors:
   - jewellery
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://noorfares.com](https://noorfares.com)
-- [https://www.noorfares.com](https://www.noorfares.com)
 - [http://www.noorfares.com](http://www.noorfares.com)
 
 ## Brand Guidelines

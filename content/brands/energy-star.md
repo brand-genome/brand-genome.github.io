@@ -2,12 +2,10 @@
 title: Energy Star
 slug: "energy-star"
 description: ""
-date: "2026-04-15T09:21:24.593345"
+date: "2026-04-16T19:22:00.156252"
 draft: false
 sectors:
   - "public-sector"
-  - "renewable-energy"
-  - utilities
 regions:
   - usa
 years:
@@ -64,8 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.energystar.gov](https://www.energystar.gov)
-- [https://www.energy.gov/eere/buildings/energy-starr](https://www.energy.gov/eere/buildings/energy-starr)
-- [https://portfoliomanager.energystar.gov/pm](https://portfoliomanager.energystar.gov/pm)
+- [https://portfoliomanager.energystar.gov/pm/login](https://portfoliomanager.energystar.gov/pm/login)
 - [http://www.energystar.gov](http://www.energystar.gov)
 
 ## Brand Guidelines

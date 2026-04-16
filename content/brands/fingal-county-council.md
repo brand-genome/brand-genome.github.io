@@ -2,7 +2,7 @@
 title: Fingal County Council
 slug: "fingal-county-council"
 description: ""
-date: "2026-04-15T09:21:23.863123"
+date: "2026-04-16T19:21:59.189792"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fingal.ie](https://www.fingal.ie)
-- [https://www.fingal.ie/brand](https://www.fingal.ie/brand)
 - [http://www.fingal.ie](http://www.fingal.ie)
 
 ## Brand Guidelines

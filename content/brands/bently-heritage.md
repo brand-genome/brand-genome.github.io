@@ -2,10 +2,9 @@
 title: Bently Heritage
 slug: "bently-heritage"
 description: ""
-date: "2026-04-15T09:21:24.384915"
+date: "2026-04-16T19:21:59.972964"
 draft: false
 sectors:
-  - brewery
   - drink
 regions:
   - usa

@@ -2,7 +2,7 @@
 title: IUCN Green List
 slug: "iucn-green-list"
 description: ""
-date: "2026-04-15T09:21:23.954696"
+date: "2026-04-16T19:21:59.270546"
 draft: false
 sectors:
   - ngo
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://iucngreenlist.org](https://iucngreenlist.org)
-- [https://www.iucn.org/greenlist](https://www.iucn.org/greenlist)
+- [https://iucn.org/resources/conservation-tool/iucn-green-list-protected-and-conserved-areas](https://iucn.org/resources/conservation-tool/iucn-green-list-protected-and-conserved-areas)
 
 ## Brand Guidelines
 

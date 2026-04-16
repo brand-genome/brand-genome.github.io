@@ -2,10 +2,9 @@
 title: Yelp
 slug: yelp
 description: ""
-date: "2026-04-15T09:21:25.768878"
+date: "2026-04-16T19:22:01.959575"
 draft: false
 sectors:
-  - "e-commerce"
   - "social-media"
 regions:
   - usa
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

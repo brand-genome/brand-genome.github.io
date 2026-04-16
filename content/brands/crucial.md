@@ -2,17 +2,17 @@
 title: Crucial
 slug: crucial
 description: ""
-date: "2026-04-15T09:21:22.219417"
+date: "2026-04-16T19:21:57.260652"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
-  - 2024
-  - 2019
   - 2020
+  - 2019
+  - 2024
 languages:
   - english
 tags:

@@ -2,11 +2,11 @@
 title: Kremenchuk City
 slug: "kremenchuk-city"
 description: ""
-date: "2026-04-15T09:21:22.424067"
+date: "2026-04-16T19:21:57.703508"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ukraine
 years:
@@ -63,7 +63,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kremen.gov.ua](https://kremen.gov.ua)
 - [https://open-kremenchuk.com.ua](https://open-kremenchuk.com.ua)
-- [https://www.krembusiness.com/en](https://www.krembusiness.com/en)
 - [https://kremenchuk.ocb.works](https://kremenchuk.ocb.works)

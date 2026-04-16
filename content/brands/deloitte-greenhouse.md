@@ -2,7 +2,7 @@
 title: Deloitte Greenhouse
 slug: "deloitte-greenhouse"
 description: ""
-date: "2026-04-15T09:21:24.306501"
+date: "2026-04-16T19:21:59.712061"
 draft: false
 sectors:
   - consulting

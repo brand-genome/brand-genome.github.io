@@ -2,7 +2,7 @@
 title: Research Ireland
 slug: "research-ireland"
 description: ""
-date: "2026-04-15T09:21:22.412989"
+date: "2026-04-16T19:21:57.693614"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - science
   - education
+  - featured
 industries: []
 countries:
   - ireland

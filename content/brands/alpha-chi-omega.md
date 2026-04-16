@@ -2,11 +2,11 @@
 title: Alpha Chi Omega
 slug: "alpha-chi-omega"
 description: ""
-date: "2026-04-15T09:21:24.801542"
+date: "2026-04-16T19:22:00.350518"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

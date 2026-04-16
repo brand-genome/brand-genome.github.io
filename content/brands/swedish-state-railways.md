@@ -2,7 +2,7 @@
 title: Swedish State Railways
 slug: "swedish-state-railways"
 description: ""
-date: "2026-04-15T09:21:22.291643"
+date: "2026-04-16T19:21:57.329166"
 draft: false
 sectors:
   - railroad
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.sj.se/en](https://www.sj.se/en)
 - [https://www.sj.se](https://www.sj.se)
-- [https://www.sj.no/en](https://www.sj.no/en)
 - [http://www.sj.se](http://www.sj.se)
 
 ## Additional Properties

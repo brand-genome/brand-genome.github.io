@@ -2,11 +2,11 @@
 title: Cartoon Network
 slug: "cartoon-network"
 description: ""
-date: "2026-04-15T09:21:23.700034"
+date: "2026-04-16T19:21:59.023182"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - "united-arab-emirates"
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.max.com](https://www.max.com)
+- [https://www.hbomax.com](https://www.hbomax.com)
 - [https://www.wbd.com](https://www.wbd.com)
 - [http://www.cartoonnetwork.com](http://www.cartoonnetwork.com)
 - [https://www.youtube.com/cartoonnetworkmena](https://www.youtube.com/cartoonnetworkmena)

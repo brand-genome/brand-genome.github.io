@@ -2,7 +2,7 @@
 title: BBR
 slug: bbr
 description: ""
-date: "2026-04-15T09:21:25.464213"
+date: "2026-04-16T19:22:01.215038"
 draft: false
 sectors:
   - finance
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://bbr.ru/en](https://bbr.ru/en)
 - [https://wb.bbr.ru](https://wb.bbr.ru)
 - [https://ib.bbr.ru](https://ib.bbr.ru)
-- [https://shop.bbr.ru](https://shop.bbr.ru)
 
 ## Brand Guidelines
 

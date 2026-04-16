@@ -2,7 +2,7 @@
 title: Southern Company
 slug: "southern-company"
 description: ""
-date: "2026-04-15T09:21:24.316764"
+date: "2026-04-16T19:21:59.725340"
 draft: false
 sectors:
   - utilities
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:
   - engineering
 industries:
-  - "energy-industry"
   - "electric-power-industry"
+  - "energy-industry"
 countries:
   - "united-states"
 revenue_buckets: []

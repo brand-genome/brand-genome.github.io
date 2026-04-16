@@ -2,11 +2,11 @@
 title: Sapo
 slug: sapo
 description: ""
-date: "2026-04-15T09:21:25.877884"
+date: "2026-04-16T19:22:02.147292"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
   - publishing
 regions:
   - portugal
@@ -15,8 +15,8 @@ years:
 languages:
   - portuguese
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - internet
 countries:
@@ -70,10 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sapo.pt](https://www.sapo.pt)
+- [https://sapo.pt:443](https://sapo.pt:443)
 - [https://mail.sapo.pt](https://mail.sapo.pt)
-- [https://login.sapo.pt](https://login.sapo.pt)
+- [https://login.sapo.pt/LoginWithToken.do](https://login.sapo.pt/LoginWithToken.do)
 - [https://ajuda.sapo.pt](https://ajuda.sapo.pt)
+- [https://www.sapo.pt](https://www.sapo.pt)
 
 ## Brand Guidelines
 

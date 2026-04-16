@@ -2,11 +2,11 @@
 title: HootSuite
 slug: hootsuite
 description: ""
-date: "2026-04-15T09:21:23.741591"
+date: "2026-04-16T19:21:59.066729"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - canada
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries:
   - "social-media"
 countries:
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hootsuite.com](https://www.hootsuite.com)
-- [https://amplify.hootsuite.com](https://amplify.hootsuite.com)
+- [https://hootsuite.com/signin?redirect=%2Fauth%2Fauthorize%3Fclient_id%3DWo9kpAB8xYKRidFBlUFr%26nonce%3D6a5ddbc5c05641298230233e9ab7ed08cbfb0e25a1d83af955e58ddd6e2da356%26redirect_uri%3Dhttps%253A%252F%252Fhootsuite.com%252Flogin%26response_type%3Did_token%26state%3D66cd9688a2ae068244ea01e70f0e230f5623b7fa4cdecb65070a09ec06452262&oauth2Authorize=0](https://hootsuite.com/signin?redirect=%2Fauth%2Fauthorize%3Fclient_id%3DWo9kpAB8xYKRidFBlUFr%26nonce%3D6a5ddbc5c05641298230233e9ab7ed08cbfb0e25a1d83af955e58ddd6e2da356%26redirect_uri%3Dhttps%253A%252F%252Fhootsuite.com%252Flogin%26response_type%3Did_token%26state%3D66cd9688a2ae068244ea01e70f0e230f5623b7fa4cdecb65070a09ec06452262&oauth2Authorize=0)
 - [http://www.hootsuite.com](http://www.hootsuite.com)
 - [http://hootsuite.com](http://hootsuite.com)
 

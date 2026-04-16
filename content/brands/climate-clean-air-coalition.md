@@ -2,7 +2,7 @@
 title: "Climate & Clean Air Coalition"
 slug: "climate-clean-air-coalition"
 description: ""
-date: "2026-04-15T09:21:24.970503"
+date: "2026-04-16T19:22:00.545779"
 draft: false
 sectors:
   - ngo
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ccacoalition.org/en](https://www.ccacoalition.org/en)
-- [https://www.unep.org/topics/energy/methane/climate-and-clean-air-coalition-ccac](https://www.unep.org/topics/energy/methane/climate-and-clean-air-coalition-ccac)
 - [http://www.ccac.org](http://www.ccac.org)
 - [https://www.ccacoalition.org/en/partners/nigeria](https://www.ccacoalition.org/en/partners/nigeria)
 

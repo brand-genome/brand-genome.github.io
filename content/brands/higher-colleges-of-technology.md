@@ -2,7 +2,7 @@
 title: Higher Colleges of Technology
 slug: "higher-colleges-of-technology"
 description: ""
-date: "2026-04-15T09:21:24.759828"
+date: "2026-04-16T19:22:00.307545"
 draft: false
 sectors:
   - university
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hct.ac.ae](https://hct.ac.ae)
+- [https://hct.ac.ae/ar](https://hct.ac.ae/ar)
 - [https://hct.ac.ae/en](https://hct.ac.ae/en)
 - [http://www.hct.ac.ae](http://www.hct.ac.ae)
 

@@ -2,11 +2,11 @@
 title: Toastmasters
 slug: toastmasters
 description: ""
-date: "2026-04-15T09:21:24.007034"
+date: "2026-04-16T19:21:59.316602"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.toastmasters.org](https://www.toastmasters.org)
-- [https://www.toastmasters.org/Logos](https://www.toastmasters.org/Logos)
 - [http://www.toastmasters.org](http://www.toastmasters.org)
 
 ## Brand Guidelines

@@ -2,9 +2,10 @@
 title: Ticket To The Moon
 slug: "ticket-to-the-moon"
 description: ""
-date: "2026-04-15T09:21:25.176724"
+date: "2026-04-16T19:22:00.771098"
 draft: false
 sectors:
+  - "e-commerce"
   - "consumer-goods"
 regions:
   - indonesia
@@ -25,9 +26,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "sleeping-bag"
-  - "outdoor-gear"
   - hammock
+  - "outdoor-gear"
+  - "sleeping-bag"
 products: []
 headquarters_locations: []
 subsidiaries: []
@@ -66,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ticketothemoon.com](https://ticketothemoon.com)
-- [https://brand.ticketothemoon.com](https://brand.ticketothemoon.com)
 - [http://www.ticketothemoon.com](http://www.ticketothemoon.com)
 - [https://eu.ticketothemoon.com](https://eu.ticketothemoon.com)
 
@@ -84,6 +84,6 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Sleeping Bag](/products_or_materials_produced/sleeping-bag/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Hammock](/products_or_materials_produced/hammock/) |
+| Product Or Material Produced | [Hammock](/products_or_materials_produced/hammock/); [Outdoor Gear](/products_or_materials_produced/outdoor-gear/); [Sleeping Bag](/products_or_materials_produced/sleeping-bag/) |
 | Country | Austria |
 | Product Or Material Produced | outdoor gear, hammock, sleeping bag |

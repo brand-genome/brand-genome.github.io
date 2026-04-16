@@ -2,10 +2,10 @@
 title: IBM – Be Equal
 slug: "ibm-be-equal"
 description: ""
-date: "2026-04-15T09:21:24.072162"
+date: "2026-04-16T19:21:59.394743"
 draft: false
 sectors:
-  - "public-relations"
+  - ngo
 regions:
   - usa
 years:
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - social
+  - technology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: UNIMC
 slug: unimc
 description: ""
-date: "2026-04-15T09:21:25.681518"
+date: "2026-04-16T19:22:01.748109"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - italy
@@ -66,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unimc.it](https://www.unimc.it)
+- [https://www.unimc.it/it](https://www.unimc.it/it)
 - [https://www.unimc.it/en](https://www.unimc.it/en)
 - [https://apply.unimc.it](https://apply.unimc.it)
+- [https://www.unimc.it](https://www.unimc.it)
 
 ## Additional Properties
 

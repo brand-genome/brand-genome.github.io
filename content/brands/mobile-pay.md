@@ -2,7 +2,7 @@
 title: Mobile Pay
 slug: "mobile-pay"
 description: ""
-date: "2026-04-15T09:21:25.713487"
+date: "2026-04-16T19:22:01.839614"
 draft: false
 sectors:
   - finance
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - financial
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

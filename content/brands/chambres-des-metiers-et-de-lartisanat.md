@@ -2,7 +2,7 @@
 title: Chambres des métiers et de l’artisanat
 slug: "chambres-des-metiers-et-de-lartisanat"
 description: ""
-date: "2026-04-15T09:21:24.660137"
+date: "2026-04-16T19:22:00.211973"
 draft: false
 sectors:
   - "public-sector"

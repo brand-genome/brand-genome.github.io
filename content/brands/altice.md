@@ -2,11 +2,11 @@
 title: Altice
 slug: altice
 description: ""
-date: "2026-04-15T09:21:23.214189"
+date: "2026-04-16T19:21:58.631859"
 draft: false
 sectors:
-  - broadcasting
   - telecom
+  - broadcasting
 regions:
   - europe
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
@@ -28,9 +28,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "cable-television"
   - "internet-access"
   - telephony
+  - "cable-television"
 products: []
 headquarters_locations:
   - luxembourg
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://altice.net](https://altice.net)
-- [https://www.alticefrance.com](https://www.alticefrance.com)
+- [https://alticefrance.com](https://alticefrance.com)
 - [http://www.altice.net](http://www.altice.net)
 
 ## Brand Guidelines
@@ -451,7 +451,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Cable Television](/products_or_materials_produced/cable-television/); [Internet Access](/products_or_materials_produced/internet-access/); [Telephony](/products_or_materials_produced/telephony/) |
+| Product Or Material Produced | [Internet Access](/products_or_materials_produced/internet-access/); [Telephony](/products_or_materials_produced/telephony/); [Cable Television](/products_or_materials_produced/cable-television/) |
 | Headquarters Location | [Luxembourg](/headquarters_locations/luxembourg/) |
 | Foundation Date | [2001](/foundation_dates/2001/) |
 | Isin | NL0011333752 |

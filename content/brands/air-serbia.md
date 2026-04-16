@@ -2,7 +2,7 @@
 title: Air Serbia
 slug: "air-serbia"
 description: ""
-date: "2026-04-15T09:21:22.439401"
+date: "2026-04-16T19:21:57.716680"
 draft: false
 sectors:
   - airline
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.airserbia.com/en](https://www.airserbia.com/en)
-- [https://www.airserbia.com/en_BA](https://www.airserbia.com/en_BA)
 - [https://www.airserbia.com](https://www.airserbia.com)
 
 ## Additional Properties

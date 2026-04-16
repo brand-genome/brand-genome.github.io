@@ -2,7 +2,7 @@
 title: Debiopharm
 slug: debiopharm
 description: ""
-date: "2026-04-15T09:21:22.172934"
+date: "2026-04-16T19:21:57.201743"
 draft: false
 sectors:
   - pharma

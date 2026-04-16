@@ -2,10 +2,11 @@
 title: S.M.A.T
 slug: smat
 description: ""
-date: "2026-04-15T09:21:23.930128"
+date: "2026-04-16T19:21:59.248550"
 draft: false
 sectors:
-  - consulting
+  - "emergency-services"
+  - education
 regions:
   - ireland
 years:
@@ -61,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.smat-training.com](http://www.smat-training.com)
-- [https://www.smat-training.com](https://www.smat-training.com)
+- [https://www.smattraining.com/fr](https://www.smattraining.com/fr)
 
 ## Brand Guidelines
 

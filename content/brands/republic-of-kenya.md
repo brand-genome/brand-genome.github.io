@@ -2,7 +2,7 @@
 title: Republic of Kenya
 slug: "republic-of-kenya"
 description: ""
-date: "2026-04-15T09:21:23.726081"
+date: "2026-04-16T19:21:59.049460"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gok.kenya.go.ke](https://gok.kenya.go.ke)
-- [https://www.president.go.ke](https://www.president.go.ke)
 - [https://ag.ecitizen.go.ke/index.php](https://ag.ecitizen.go.ke/index.php)
 - [https://www.mfa.go.ke](https://www.mfa.go.ke)
 

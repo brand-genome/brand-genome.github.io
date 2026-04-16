@@ -2,7 +2,7 @@
 title: Green Party
 slug: "green-party"
 description: ""
-date: "2026-04-15T09:21:25.635808"
+date: "2026-04-16T19:22:01.642185"
 draft: false
 sectors:
   - "public-sector"

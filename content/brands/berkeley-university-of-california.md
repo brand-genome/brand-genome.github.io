@@ -2,12 +2,12 @@
 title: Berkeley – University of California
 slug: "berkeley-university-of-california"
 description: ""
-date: "2026-04-15T09:21:25.877602"
+date: "2026-04-16T19:22:02.146967"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - institution
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 
 - [https://www.berkeley.edu](https://www.berkeley.edu)
 - [https://brand.berkeley.edu](https://brand.berkeley.edu)
-- [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+- [https://strategiccommunications.berkeley.edu](https://strategiccommunications.berkeley.edu)
 - [https://identity.berkeley.edu](https://identity.berkeley.edu)
 
 ## Brand Guidelines

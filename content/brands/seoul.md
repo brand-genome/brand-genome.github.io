@@ -2,11 +2,11 @@
 title: Seoul
 slug: seoul
 description: ""
-date: "2026-04-15T09:21:24.976354"
+date: "2026-04-16T19:22:00.548039"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "south-korea"
 years:

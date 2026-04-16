@@ -2,7 +2,7 @@
 title: Professional Engineers Ontario
 slug: "professional-engineers-ontario"
 description: ""
-date: "2026-04-15T09:21:23.863239"
+date: "2026-04-16T19:21:59.190050"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.peo.on.ca](https://www.peo.on.ca)
 - [http://www.peo.on.ca](http://www.peo.on.ca)
+- [https://www.peo.on.ca](https://www.peo.on.ca)
 
 ## Brand Guidelines
 

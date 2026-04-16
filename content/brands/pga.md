@@ -2,7 +2,7 @@
 title: PGA
 slug: pga
 description: ""
-date: "2026-04-15T09:21:24.588972"
+date: "2026-04-16T19:22:00.152582"
 draft: false
 sectors:
   - sports

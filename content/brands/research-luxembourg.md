@@ -2,7 +2,7 @@
 title: Research Luxembourg
 slug: "research-luxembourg"
 description: ""
-date: "2026-04-15T09:21:24.092132"
+date: "2026-04-16T19:21:59.422739"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.researchluxembourg.org/en](https://www.researchluxembourg.org/en)
-- [https://www.researchluxembourg.org](https://www.researchluxembourg.org)
 
 ## Brand Guidelines
 

@@ -2,13 +2,13 @@
 title: Arbonne
 slug: arbonne
 description: ""
-date: "2026-04-15T09:21:25.751856"
+date: "2026-04-16T19:22:01.926109"
 draft: false
 sectors:
   - beauty
   - mlm
-  - cosmetics
   - "wellness-spa"
+  - cosmetics
 regions:
   - canada
 years:
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.arbonne.com](https://www.arbonne.com)
-- [https://www.arbonne.ca](https://www.arbonne.ca)
 - [https://best.arbonne.com](https://best.arbonne.com)
 - [http://www.arbonne.com](http://www.arbonne.com)
 

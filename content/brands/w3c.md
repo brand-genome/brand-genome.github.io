@@ -2,7 +2,7 @@
 title: W3C
 slug: w3c
 description: ""
-date: "2026-04-15T09:21:22.122941"
+date: "2026-04-16T19:21:57.157704"
 draft: false
 sectors:
   - software

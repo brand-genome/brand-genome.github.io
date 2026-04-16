@@ -2,11 +2,11 @@
 title: Big Commerce
 slug: "big-commerce"
 description: ""
-date: "2026-04-15T09:21:24.244352"
+date: "2026-04-16T19:21:59.638630"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - financial
+  - technology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Gluten Free Certification Mark
 slug: "gluten-free-certification-mark"
 description: ""
-date: "2026-04-15T09:21:23.758694"
+date: "2026-04-16T19:21:59.084599"
 draft: false
 sectors:
   - food
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://gfco.org](https://gfco.org)
 - [https://gluten.org/new-gfco-certification-mark](https://gluten.org/new-gfco-certification-mark)
 - [http://www.gfco.org](http://www.gfco.org)
 

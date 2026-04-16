@@ -2,7 +2,7 @@
 title: Nexi
 slug: nexi
 description: ""
-date: "2026-04-15T09:21:23.609742"
+date: "2026-04-16T19:21:58.898163"
 draft: false
 sectors:
   - finance
@@ -71,9 +71,10 @@ visual_term_image_urls: {}
 
 - [https://www.nexigroup.com/it](https://www.nexigroup.com/it)
 - [https://www.nexigroup.com/en/group/brands/nexi](https://www.nexigroup.com/en/group/brands/nexi)
-- [https://www.nexi.it](https://www.nexi.it)
+- [https://www.nexi.it/it](https://www.nexi.it/it)
 - [http://www.nexi.it](http://www.nexi.it)
 - [http://www.nexigroup.com](http://www.nexigroup.com)
+- [https://www.nexi.it](https://www.nexi.it)
 - [https://www.nexigroup.com](https://www.nexigroup.com)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Al Jazeera
 slug: "al-jazeera"
 description: ""
-date: "2026-04-15T09:21:25.634919"
+date: "2026-04-16T19:22:01.641132"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - qatar
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries:
   - qatar
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 
 - [https://www.aljazeera.com](https://www.aljazeera.com)
 - [https://www.aljazeera.net](https://www.aljazeera.net)
-- [https://network.aljazeera.net](https://network.aljazeera.net)
+- [https://network.aljazeera.net/en](https://network.aljazeera.net/en)
 - [https://chinese.aljazeera.net](https://chinese.aljazeera.net)
 - [http://aljazeera.com.tr](http://aljazeera.com.tr)
 

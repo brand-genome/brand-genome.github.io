@@ -2,9 +2,10 @@
 title: Dulux
 slug: dulux
 description: ""
-date: "2026-04-15T09:21:23.199684"
+date: "2026-04-16T19:21:58.605511"
 draft: false
 sectors:
+  - "interior-design-decor"
   - "consumer-goods"
 regions:
   - "united-kingdom"
@@ -16,9 +17,9 @@ tags:
   - corporate
 industries: []
 countries:
-  - india
   - "united-kingdom"
   - canada
+  - india
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

@@ -2,12 +2,12 @@
 title: Verbatim
 slug: verbatim
 description: ""
-date: "2026-04-15T09:21:23.930220"
+date: "2026-04-16T19:21:59.248644"
 draft: false
 sectors:
-  - "consumer-goods"
   - electronics
   - hardware
+  - "consumer-goods"
 regions:
   - taiwan
 years:
@@ -70,10 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.verbatim.com](https://www.verbatim.com)
-- [https://www.verbatim-europe.com](https://www.verbatim-europe.com)
+- [https://www.verbatim-europe.com/en](https://www.verbatim-europe.com/en)
 - [https://verbatim.com.tw](https://verbatim.com.tw)
 - [http://www.verbatim.com](http://www.verbatim.com)
+- [https://www.verbatim.com](https://www.verbatim.com)
 
 ## Brand Guidelines
 

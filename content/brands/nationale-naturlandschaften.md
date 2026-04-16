@@ -2,7 +2,7 @@
 title: Nationale Naturlandschaften
 slug: "nationale-naturlandschaften"
 description: ""
-date: "2026-04-15T09:21:23.777455"
+date: "2026-04-16T19:21:59.105819"
 draft: false
 sectors:
   - ngo
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - berlin
   - grafenau
+  - berlin
 subsidiaries: []
 foundation_dates:
   - 1991
@@ -79,7 +79,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Berlin](/headquarters_locations/berlin/); [Grafenau](/headquarters_locations/grafenau/) |
+| Headquarters Location | [Grafenau](/headquarters_locations/grafenau/); [Berlin](/headquarters_locations/berlin/) |
 | Foundation Date | [1991](/foundation_dates/1991/) |
 | Freebase Id | /m/0gffg6n |
 | Country | Germany |

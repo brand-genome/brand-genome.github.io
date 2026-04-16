@@ -2,12 +2,12 @@
 title: Emerson Electric
 slug: "emerson-electric"
 description: ""
-date: "2026-04-15T09:21:23.121230"
+date: "2026-04-16T19:21:58.528354"
 draft: false
 sectors:
-  - electronics
   - software
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -71,10 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.emerson.com](https://www.emerson.com)
+- [https://www.emerson.com/global](https://www.emerson.com/global)
 - [https://ir.emerson.com](https://ir.emerson.com)
 - [http://www.emerson.com](http://www.emerson.com)
-- [https://www.emerson.com/global](https://www.emerson.com/global)
 
 ## Additional Properties
 

@@ -2,7 +2,7 @@
 title: Redfern
 slug: redfern
 description: ""
-date: "2026-04-15T09:21:25.836362"
+date: "2026-04-16T19:22:02.074889"
 draft: false
 sectors:
   - tourism

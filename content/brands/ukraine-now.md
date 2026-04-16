@@ -2,11 +2,11 @@
 title: Ukraine Now
 slug: "ukraine-now"
 description: ""
-date: "2026-04-15T09:21:25.363772"
+date: "2026-04-16T19:22:01.030531"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ukraine
 years:

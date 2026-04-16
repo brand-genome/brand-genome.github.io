@@ -2,11 +2,11 @@
 title: Leroy Merlin
 slug: "leroy-merlin"
 description: ""
-date: "2026-04-15T09:21:23.108987"
+date: "2026-04-16T19:21:58.519503"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - france
 years:
@@ -64,11 +64,6 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.leroymerlin.fr](https://www.leroymerlin.fr)
-- [https://www.leroymerlin.pt](https://www.leroymerlin.pt)
-
 ## Additional Properties
 
 | Property | Value |

@@ -2,7 +2,7 @@
 title: Marin Transit
 slug: "marin-transit"
 description: ""
-date: "2026-04-15T09:21:22.538881"
+date: "2026-04-16T19:21:57.883857"
 draft: false
 sectors:
   - "public-transportation"
@@ -67,9 +67,7 @@ visual_term_image_urls: {}
 
 - [https://marintransit.gov](https://marintransit.gov)
 - [https://marintransit.gov/marin-access](https://marintransit.gov/marin-access)
-- [https://marintransit.org](https://marintransit.org)
-- [https://marintransit.org/paratransit](https://marintransit.org/paratransit)
-- [https://booking.marinaccess.org](https://booking.marinaccess.org)
+- [https://marintransit.gov/paratransit](https://marintransit.gov/paratransit)
 
 ## Additional Properties
 

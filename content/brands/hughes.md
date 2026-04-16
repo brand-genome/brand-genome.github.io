@@ -2,7 +2,7 @@
 title: Hughes
 slug: hughes
 description: ""
-date: "2026-04-15T09:21:25.377783"
+date: "2026-04-16T19:22:01.044538"
 draft: false
 sectors:
   - networking
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 
 - [https://www.hughes.com](https://www.hughes.com)
 - [https://www.hughesnet.com](https://www.hughesnet.com)
-- [https://my.hughesnet.com](https://my.hughesnet.com)
+- [https://my.hughesnet.com/en/overview](https://my.hughesnet.com/en/overview)
 - [http://www.hughes.com](http://www.hughes.com)
 
 ## Brand Guidelines

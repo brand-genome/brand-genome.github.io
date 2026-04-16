@@ -2,15 +2,15 @@
 title: Granite
 slug: granite
 description: ""
-date: "2026-04-15T09:21:25.175390"
+date: "2026-04-16T19:22:00.769687"
 draft: false
 sectors:
   - construction
 regions:
   - usa
 years:
-  - 2018
   - 2011
+  - 2018
 languages:
   - english
 tags:

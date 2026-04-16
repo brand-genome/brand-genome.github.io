@@ -2,11 +2,11 @@
 title: Tramways Coffee
 slug: "tramways-coffee"
 description: ""
-date: "2026-04-15T09:21:23.690609"
+date: "2026-04-16T19:21:59.014283"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - india
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://brewtramwayscoffee.com](https://brewtramwayscoffee.com)
-
 ## Brand Guidelines
 
 ### 2022

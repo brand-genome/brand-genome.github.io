@@ -2,7 +2,7 @@
 title: Bing
 slug: bing
 description: ""
-date: "2026-04-15T09:21:24.924241"
+date: "2026-04-16T19:22:00.495874"
 draft: false
 sectors:
   - software

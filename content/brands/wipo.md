@@ -2,7 +2,7 @@
 title: WIPO
 slug: wipo
 description: ""
-date: "2026-04-15T09:21:25.754631"
+date: "2026-04-16T19:22:01.930377"
 draft: false
 sectors:
   - "public-sector"
@@ -66,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wipo.int](https://www.wipo.int)
+- [https://www.wipo.int/portal/en/index.html](https://www.wipo.int/portal/en/index.html)
 - [https://www3.wipo.int](https://www3.wipo.int)
+- [https://www.wipo.int](https://www.wipo.int)
 
 ## Brand Guidelines
 

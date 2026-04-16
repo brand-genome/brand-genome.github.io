@@ -2,7 +2,7 @@
 title: Node.js
 slug: nodejs
 description: ""
-date: "2026-04-15T09:21:25.751557"
+date: "2026-04-16T19:22:01.925681"
 draft: false
 sectors:
   - software
@@ -63,8 +63,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nodejs.org](https://nodejs.org)
+- [https://nodejs.org/en](https://nodejs.org/en)
 - [https://nodejs.org/en/about](https://nodejs.org/en/about)
+- [https://nodejs.org](https://nodejs.org)
 - [https://nodejs.org/fr](https://nodejs.org/fr)
 - [https://nodejs.org/ja](https://nodejs.org/ja)
 

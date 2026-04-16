@@ -2,7 +2,7 @@
 title: ICAN
 slug: ican
 description: ""
-date: "2026-04-15T09:21:25.869344"
+date: "2026-04-16T19:22:02.138737"
 draft: false
 sectors:
   - education

@@ -2,10 +2,9 @@
 title: Quanta
 slug: quanta
 description: ""
-date: "2026-04-15T09:21:25.045413"
+date: "2026-04-16T19:22:00.636820"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
 regions:
   - usa
@@ -62,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://quantaservices.com](https://quantaservices.com)
+- [https://www.quantaservices.com](https://www.quantaservices.com)
 - [https://support.quantaservices.com](https://support.quantaservices.com)
 - [http://www.quantaservices.com](http://www.quantaservices.com)
 

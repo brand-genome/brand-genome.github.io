@@ -2,11 +2,11 @@
 title: Bambino
 slug: bambino
 description: ""
-date: "2026-04-15T09:21:23.793792"
+date: "2026-04-16T19:21:59.123173"
 draft: false
 sectors:
-  - "childcare-family-services"
   - software
+  - "childcare-family-services"
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://bambinositters.com](https://bambinositters.com)
-- [https://bambinoapp.com](https://bambinoapp.com)
 
 ## Brand Guidelines
 

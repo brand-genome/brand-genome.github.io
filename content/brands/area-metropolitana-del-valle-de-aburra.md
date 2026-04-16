@@ -2,7 +2,7 @@
 title: Área Metropolitana del Valle de Aburrá
 slug: "area-metropolitana-del-valle-de-aburra"
 description: ""
-date: "2026-04-15T09:21:24.052934"
+date: "2026-04-16T19:21:59.373445"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.metropol.gov.co](https://www.metropol.gov.co)
-- [https://datosabiertos.metropol.gov.co](https://datosabiertos.metropol.gov.co)
-- [https://idem.metropol.gov.co](https://idem.metropol.gov.co)
 
 ## Brand Guidelines
 

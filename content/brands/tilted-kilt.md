@@ -2,7 +2,7 @@
 title: Tilted Kilt
 slug: "tilted-kilt"
 description: ""
-date: "2026-04-15T09:21:24.302547"
+date: "2026-04-16T19:21:59.708607"
 draft: false
 sectors:
   - drink
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://tiltedkilt.com](https://tiltedkilt.com)
-- [https://tiltedkiltpubandeatery.com](https://tiltedkiltpubandeatery.com)
 - [http://tiltedkilt.com](http://tiltedkilt.com)
 
 ## Brand Guidelines

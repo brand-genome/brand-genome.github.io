@@ -2,11 +2,11 @@
 title: Snapchat
 slug: snapchat
 description: ""
-date: "2026-04-15T09:21:24.214561"
+date: "2026-04-16T19:21:59.583233"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - usa
 years:
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.snapchat.com](https://www.snapchat.com)
-- [https://web.snapchat.com](https://web.snapchat.com)
+- [https://www.snapchat.com/web](https://www.snapchat.com/web)
 - [https://www.snap.com](https://www.snap.com)
 
 ## Brand Guidelines

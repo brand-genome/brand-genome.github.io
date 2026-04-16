@@ -2,7 +2,7 @@
 title: Fortum
 slug: fortum
 description: ""
-date: "2026-04-15T09:21:23.418708"
+date: "2026-04-16T19:21:58.807006"
 draft: false
 sectors:
   - utilities
@@ -68,10 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [http://www.twitter.com/fortum_oyj](http://www.twitter.com/fortum_oyj)
 - [https://www.fortum.com](https://www.fortum.com)
 - [https://www.fortum.fi](https://www.fortum.fi)
-- [https://guidelines.fortum.com](https://guidelines.fortum.com)
-- [http://www.twitter.com/fortum_oyj](http://www.twitter.com/fortum_oyj)
 
 ## Brand Guidelines
 

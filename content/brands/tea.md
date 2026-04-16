@@ -2,7 +2,7 @@
 title: Tea
 slug: tea
 description: ""
-date: "2026-04-15T09:21:25.699231"
+date: "2026-04-16T19:22:01.805980"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

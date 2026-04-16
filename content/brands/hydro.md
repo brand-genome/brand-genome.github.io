@@ -2,11 +2,11 @@
 title: Hydro
 slug: hydro
 description: ""
-date: "2026-04-15T09:21:24.548951"
+date: "2026-04-16T19:22:00.120317"
 draft: false
 sectors:
-  - "renewable-energy"
   - hardware
+  - "renewable-energy"
 regions:
   - norway
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hydro.com](https://www.hydro.com)
+- [https://www.hydro.com/en/en](https://www.hydro.com/en/en)
 - [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/low-carbon-aluminum/hydro-reduxa)
 - [https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal](https://www.hydro.com/us/global/aluminum/products/low-carbon-and-recycled-aluminum/recycled-aluminum/hydro-circal)
 - [http://www.hydro.com](http://www.hydro.com)

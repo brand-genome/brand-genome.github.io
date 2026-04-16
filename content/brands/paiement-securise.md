@@ -2,15 +2,15 @@
 title: Paiement Securisé
 slug: "paiement-securise"
 description: ""
-date: "2026-04-15T09:21:22.556226"
+date: "2026-04-16T19:21:57.920278"
 draft: false
 sectors:
   - finance
 regions:
   - france
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - french
 tags:

@@ -2,11 +2,11 @@
 title: Areandina
 slug: areandina
 description: ""
-date: "2026-04-15T09:21:24.218347"
+date: "2026-04-16T19:21:59.587213"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - colombia
@@ -62,10 +62,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.areandina.edu.co/es](https://www.areandina.edu.co/es)
-
 ## Brand Guidelines
 
 ### 2014

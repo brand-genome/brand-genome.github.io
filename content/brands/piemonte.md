@@ -2,7 +2,7 @@
 title: Piemonte
 slug: piemonte
 description: ""
-date: "2026-04-15T09:21:25.661037"
+date: "2026-04-16T19:22:01.687193"
 draft: false
 sectors:
   - "public-sector"
@@ -61,4 +61,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.piemontetheplacetoinvest.it](https://www.piemontetheplacetoinvest.it)
+- [https://www.centroestero.org/en](https://www.centroestero.org/en)

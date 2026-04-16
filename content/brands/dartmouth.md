@@ -2,7 +2,7 @@
 title: Dartmouth
 slug: dartmouth
 description: ""
-date: "2026-04-15T09:21:24.923916"
+date: "2026-04-16T19:22:00.495319"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://home.dartmouth.edu](https://home.dartmouth.edu)
-- [https://dartmouth.edu](https://dartmouth.edu)
 - [https://admissions.dartmouth.edu](https://admissions.dartmouth.edu)
 - [https://home.dartmouth.edu/admissions](https://home.dartmouth.edu/admissions)
 - [http://www.dartmouth.edu](http://www.dartmouth.edu)

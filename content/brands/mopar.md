@@ -2,12 +2,12 @@
 title: Mopar
 slug: mopar
 description: ""
-date: "2026-04-15T09:21:25.037910"
+date: "2026-04-16T19:22:00.625231"
 draft: false
 sectors:
   - "e-commerce"
-  - "consumer-goods"
   - automobile
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -69,11 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mopar.com/en-us/store.html](https://www.mopar.com/en-us/store.html)
-- [https://www.mopar.com](https://www.mopar.com)
-- [https://store.mopar.com](https://store.mopar.com)
 - [http://www.pinterest.com/mopar](http://www.pinterest.com/mopar)
 - [http://www.youtube.com/mopar](http://www.youtube.com/mopar)
+- [https://www.mopar.com](https://www.mopar.com)
 
 ## Brand Guidelines
 

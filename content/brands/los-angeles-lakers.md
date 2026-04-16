@@ -2,11 +2,11 @@
 title: Los Angeles Lakers
 slug: "los-angeles-lakers"
 description: ""
-date: "2026-04-15T09:21:25.356206"
+date: "2026-04-16T19:22:01.022586"
 draft: false
 sectors:
-  - sports
   - entertainment
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -32,8 +32,8 @@ headquarters_locations:
   - "los-angeles"
 subsidiaries: []
 foundation_dates:
-  - 1947
   - 1946
+  - 1947
 foundation_year_buckets:
   - 1940S
 lightings: []
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nba.com/lakers](https://www.nba.com/lakers)
-- [https://www.lakers.com](https://www.lakers.com)
+- [https://www.nba.com/lakers?tmd=1](https://www.nba.com/lakers?tmd=1)
 - [https://southbay.gleague.nba.com](https://southbay.gleague.nba.com)
 - [http://www.lakers.com](http://www.lakers.com)
 - [http://www.nba.com/lakers](http://www.nba.com/lakers)
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Los Angeles](/headquarters_locations/los-angeles/) |
-| Foundation Date | [1947](/foundation_dates/1947/); [1946](/foundation_dates/1946/) |
+| Foundation Date | [1946](/foundation_dates/1946/); [1947](/foundation_dates/1947/) |
 | Head Coach | JJ Redick (from 2024-06-20) |
 | League Or Competition | National Basketball Association |
 | Home Venue | Minneapolis Auditorium (from 1947-01-01, until 1959-01-01), Minneapolis Armory (from 1947, until 1960-01-01), Los Angeles Memorial Sports Arena (from 1960-01-01, until 1967-01-01), Kia Forum (from 1967-01-01, until 1999-01-01), Crypto.com Arena (from 1999-01-01) |

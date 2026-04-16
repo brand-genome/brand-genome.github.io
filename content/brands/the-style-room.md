@@ -2,11 +2,11 @@
 title: The Style Room
 slug: "the-style-room"
 description: ""
-date: "2026-04-15T09:21:23.823726"
+date: "2026-04-16T19:21:59.151915"
 draft: false
 sectors:
-  - fashion
   - "e-commerce"
+  - fashion
 regions:
   - usa
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zappos.com/a/the-style-room/redirect/luxury](https://www.zappos.com/a/the-style-room/redirect/luxury)
+- [https://www.zappos.com](https://www.zappos.com)
 - [https://www.zappos.com/kratos/c/the-style-room-women](https://www.zappos.com/kratos/c/the-style-room-women)
 - [http://www.zappos.com](http://www.zappos.com)
 

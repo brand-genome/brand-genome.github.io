@@ -2,7 +2,7 @@
 title: Ville amie des Animaux
 slug: "ville-amie-des-animaux"
 description: ""
-date: "2026-04-15T09:21:24.088215"
+date: "2026-04-16T19:21:59.414962"
 draft: false
 sectors:
   - "public-sector"

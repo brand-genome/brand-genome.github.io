@@ -2,11 +2,11 @@
 title: Joi Scientific
 slug: "joi-scientific"
 description: ""
-date: "2026-04-15T09:21:23.855595"
+date: "2026-04-16T19:21:59.183232"
 draft: false
 sectors:
-  - "renewable-energy"
   - hardware
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - science
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.joiscientific.com](https://www.joiscientific.com)
+- [https://joiscientific.com](https://joiscientific.com)
 
 ## Brand Guidelines
 

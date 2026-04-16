@@ -2,11 +2,11 @@
 title: Jacksonville State University
 slug: "jacksonville-state-university"
 description: ""
-date: "2026-04-15T09:21:24.788763"
+date: "2026-04-16T19:22:00.337902"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.jsu.edu](https://www.jsu.edu)
-- [https://www.jsu.edu/marketingservices/styleguide](https://www.jsu.edu/marketingservices/styleguide)
 - [http://www.jsu.edu](http://www.jsu.edu)
 - [http://www.flickr.com/photos/jacksonvillestateuniversity](http://www.flickr.com/photos/jacksonvillestateuniversity)
 - [http://www.instagram.com/JSUpix](http://www.instagram.com/JSUpix)

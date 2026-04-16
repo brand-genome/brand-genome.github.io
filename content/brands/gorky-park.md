@@ -2,7 +2,7 @@
 title: Gorky Park
 slug: "gorky-park"
 description: ""
-date: "2026-04-15T09:21:24.785056"
+date: "2026-04-16T19:22:00.334316"
 draft: false
 sectors:
   - entertainment
@@ -17,8 +17,8 @@ tags:
   - entertainment
 industries: []
 countries:
-  - "soviet-union"
   - russia
+  - "soviet-union"
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

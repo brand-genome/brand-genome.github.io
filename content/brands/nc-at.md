@@ -2,11 +2,11 @@
 title: "N.C. A&T"
 slug: "nc-at"
 description: ""
-date: "2026-04-15T09:21:24.211271"
+date: "2026-04-16T19:21:59.579634"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ncat.edu](https://www.ncat.edu)
 - [https://online.ncat.edu](https://online.ncat.edu)
 - [https://ncat.edu](https://ncat.edu)
 

@@ -2,7 +2,7 @@
 title: United Technologies
 slug: "united-technologies"
 description: ""
-date: "2026-04-15T09:21:25.355415"
+date: "2026-04-16T19:22:01.021630"
 draft: false
 sectors:
   - aerospace

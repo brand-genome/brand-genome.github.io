@@ -2,7 +2,7 @@
 title: US. Civil Rights Trail
 slug: "us-civil-rights-trail"
 description: ""
-date: "2026-04-15T09:21:24.373575"
+date: "2026-04-16T19:21:59.903025"
 draft: false
 sectors:
   - tourism

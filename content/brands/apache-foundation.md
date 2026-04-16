@@ -2,11 +2,11 @@
 title: Apache Foundation
 slug: "apache-foundation"
 description: ""
-date: "2026-04-15T09:21:24.928850"
+date: "2026-04-16T19:22:00.501925"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -30,8 +30,8 @@ products_or_materials_produced:
   - "free-software"
 products: []
 headquarters_locations:
-  - "wakefield-township"
   - "forest-hill"
+  - "wakefield-township"
 subsidiaries: []
 foundation_dates:
   - 1999
@@ -191,7 +191,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Free Software](/products_or_materials_produced/free-software/) |
-| Headquarters Location | [Wakefield Township](/headquarters_locations/wakefield-township/); [Forest Hill](/headquarters_locations/forest-hill/) |
+| Headquarters Location | [Forest Hill](/headquarters_locations/forest-hill/); [Wakefield Township](/headquarters_locations/wakefield-township/) |
 | Foundation Date | [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:Apache Software Foundation |
 | Freebase Id | /m/0nzm |

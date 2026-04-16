@@ -2,7 +2,7 @@
 title: John Knox Christian School
 slug: "john-knox-christian-school"
 description: ""
-date: "2026-04-15T09:21:22.346265"
+date: "2026-04-16T19:21:57.551968"
 draft: false
 sectors:
   - education
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://johnknoxbc.org](https://johnknoxbc.org)
-- [https://athletics.johnknoxbc.org](https://athletics.johnknoxbc.org)
+- [https://athletics.johnknoxbc.org/jkcshawks](https://athletics.johnknoxbc.org/jkcshawks)
 - [http://www.johnknoxbc.org](http://www.johnknoxbc.org)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: "Hautes-Alpes"
 slug: "hautes-alpes"
 description: ""
-date: "2026-04-15T09:21:24.302863"
+date: "2026-04-16T19:21:59.708912"
 draft: false
 sectors:
   - tourism
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 
 - [https://www.hautes-alpes.net](https://www.hautes-alpes.net)
 - [https://www.hautes-alpes.net/en](https://www.hautes-alpes.net/en)
-- [https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html](https://www.hautes-alpes.net/fr/economie/reseau/qui-sommes-nous/agence-de-developpement.html)
+- [https://www.hautes-alpes.net/lagence-de-developpement](https://www.hautes-alpes.net/lagence-de-developpement)
 - [https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes](https://www.hautes-alpes.fr/annuaire/agence-departementale-de-developpement-economique-et-touristique-des-hautes-alpes)
 - [https://plus.hautes-alpes.net/mentions-legales](https://plus.hautes-alpes.net/mentions-legales)
 - [http://www.hautes-alpes.net](http://www.hautes-alpes.net)

@@ -2,7 +2,7 @@
 title: Région de Bruxelles – Capitale
 slug: "region-de-bruxelles-capitale"
 description: ""
-date: "2026-04-15T09:21:23.829500"
+date: "2026-04-16T19:21:59.158092"
 draft: false
 sectors:
   - "public-sector"
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://be.brussels](https://be.brussels)
-- [https://be.brussels/fr](https://be.brussels/fr)
-
 ## Brand Guidelines
 
 ### 2012

@@ -2,11 +2,11 @@
 title: North Texas Food Bank
 slug: "north-texas-food-bank"
 description: ""
-date: "2026-04-15T09:21:24.007179"
+date: "2026-04-16T19:21:59.316799"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - social
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"

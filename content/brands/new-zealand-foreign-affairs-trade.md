@@ -2,7 +2,7 @@
 title: "New Zealand Foreign Affairs & Trade"
 slug: "new-zealand-foreign-affairs-trade"
 description: ""
-date: "2026-04-15T09:21:25.452324"
+date: "2026-04-16T19:22:01.161699"
 draft: false
 sectors:
   - "public-sector"

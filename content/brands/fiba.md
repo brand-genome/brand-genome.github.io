@@ -2,15 +2,15 @@
 title: FIBA
 slug: fiba
 description: ""
-date: "2026-04-15T09:21:22.385831"
+date: "2026-04-16T19:21:57.636664"
 draft: false
 sectors:
   - sports
 regions:
   - international
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - english
 tags:
@@ -66,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.fiba.basketball/en](https://www.fiba.basketball/en)
+- [https://about.fiba.basketball/en](https://about.fiba.basketball/en)
 - [https://www.fiba.basketball](https://www.fiba.basketball)
-- [https://about.fiba.basketball](https://about.fiba.basketball)
-- [https://fiba3x3.com](https://fiba3x3.com)
 
 ## Brand Guidelines
 

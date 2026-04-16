@@ -2,11 +2,11 @@
 title: Ministère de la Culture
 slug: "ministere-de-la-culture"
 description: ""
-date: "2026-04-15T09:21:23.823456"
+date: "2026-04-16T19:21:59.151589"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - france
 years:

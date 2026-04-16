@@ -2,7 +2,7 @@
 title: Vetus
 slug: vetus
 description: ""
-date: "2026-04-15T09:21:24.325470"
+date: "2026-04-16T19:21:59.733790"
 draft: false
 sectors:
   - "manufacturing-industry"

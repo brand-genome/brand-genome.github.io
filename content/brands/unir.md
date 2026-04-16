@@ -2,7 +2,7 @@
 title: UNIR
 slug: unir
 description: ""
-date: "2026-04-15T09:21:25.174363"
+date: "2026-04-16T19:22:00.768621"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - spain
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unir.net](https://www.unir.net)
-- [https://mexico.unir.net](https://mexico.unir.net)
 
 ## Brand Guidelines
 

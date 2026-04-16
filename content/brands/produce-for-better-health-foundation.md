@@ -2,12 +2,12 @@
 title: Produce For Better Health Foundation
 slug: "produce-for-better-health-foundation"
 description: ""
-date: "2026-04-15T09:21:24.077815"
+date: "2026-04-16T19:21:59.401495"
 draft: false
 sectors:
+  - ngo
   - food
   - healthcare
-  - ngo
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - health
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fruitsandveggies.org](https://fruitsandveggies.org)
 - [http://www.pbhfoundation.org](http://www.pbhfoundation.org)
 
 ## Brand Guidelines

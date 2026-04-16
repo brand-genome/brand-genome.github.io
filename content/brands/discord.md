@@ -2,11 +2,11 @@
 title: Discord
 slug: discord
 description: ""
-date: "2026-04-15T09:21:22.332735"
+date: "2026-04-16T19:21:57.438245"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - app
   - software
+  - app
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

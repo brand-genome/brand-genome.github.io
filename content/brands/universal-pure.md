@@ -2,7 +2,7 @@
 title: Universal Pure
 slug: "universal-pure"
 description: ""
-date: "2026-04-15T09:21:25.353487"
+date: "2026-04-16T19:22:01.019632"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - technology
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []

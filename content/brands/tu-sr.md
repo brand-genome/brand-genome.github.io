@@ -2,7 +2,7 @@
 title: TÚ SR
 slug: "tu-sr"
 description: ""
-date: "2026-04-15T09:21:25.679354"
+date: "2026-04-16T19:22:01.744450"
 draft: false
 sectors:
   - "public-sector"
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.teleoff.gov.sk](https://www.teleoff.gov.sk)
-
 ## Brand Guidelines
 
 ### 2010

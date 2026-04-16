@@ -2,7 +2,7 @@
 title: Roblox
 slug: roblox
 description: ""
-date: "2026-04-15T09:21:23.954524"
+date: "2026-04-16T19:21:59.270251"
 draft: false
 sectors:
   - gaming
@@ -71,9 +71,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.roblox.com](https://www.roblox.com)
-- [https://corp.roblox.com](https://corp.roblox.com)
+- [https://about.roblox.com](https://about.roblox.com)
 - [https://brands.roblox.com](https://brands.roblox.com)
 - [https://create.roblox.com](https://create.roblox.com)
+- [https://corp.roblox.com](https://corp.roblox.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Unicef USA
 slug: "unicef-usa"
 description: ""
-date: "2026-04-15T09:21:25.640417"
+date: "2026-04-16T19:22:01.651187"
 draft: false
 sectors:
   - ngo
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unicefusa.org](https://www.unicefusa.org)
 - [http://www.unicefusa.org](http://www.unicefusa.org)
 
 ## Brand Guidelines

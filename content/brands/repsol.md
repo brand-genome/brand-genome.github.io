@@ -2,14 +2,14 @@
 title: Repsol
 slug: repsol
 description: ""
-date: "2026-04-15T09:21:23.479009"
+date: "2026-04-16T19:21:58.853833"
 draft: false
 sectors:
-  - gas
+  - petroleum
+  - "renewable-energy"
   - oil
   - "petrol-station"
-  - "renewable-energy"
-  - petroleum
+  - gas
 regions:
   - spain
 years:
@@ -17,8 +17,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - industry
+  - featured
 industries:
   - "petroleum-industry"
 countries:
@@ -74,11 +74,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.repsol.com](https://www.repsol.com)
-- [https://www.repsol.com/en](https://www.repsol.com/en)
-- [https://www.repsol.es](https://www.repsol.es)
+- [https://www.repsol.com/es/index.cshtml](https://www.repsol.com/es/index.cshtml)
+- [https://www.repsol.com/en/index.cshtml](https://www.repsol.com/en/index.cshtml)
+- [https://www.repsol.es/particulares](https://www.repsol.es/particulares)
 - [https://www.repsol.es/waylet](https://www.repsol.es/waylet)
 - [https://www.repsol.com/en/about-us/where-we-work/repsol-worldwide/the-americas/united-states/index.cshtml](https://www.repsol.com/en/about-us/where-we-work/repsol-worldwide/the-americas/united-states/index.cshtml)
+- [https://www.repsol.com](https://www.repsol.com)
+- [https://www.repsol.es](https://www.repsol.es)
 - [https://repsol.it](https://repsol.it)
 - [https://factura.repsol.com.mx](https://factura.repsol.com.mx)
 - [https://www.repsol.pe](https://www.repsol.pe)

@@ -2,15 +2,15 @@
 title: City of Edmonton
 slug: "city-of-edmonton"
 description: ""
-date: "2026-04-15T09:21:23.409125"
+date: "2026-04-16T19:21:58.800390"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - canada
 years:
-  - 2017
   - 2022
+  - 2017
 languages:
   - english
 tags:
@@ -35,9 +35,9 @@ foundation_dates:
   - 1904
   - 1795
 foundation_year_buckets:
-  - "18TH-CENTURY"
   - 1900S
   - "19TH-CENTURY"
+  - "18TH-CENTURY"
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 
 - [https://www.edmonton.ca](https://www.edmonton.ca)
 - [https://www.edmonton.ca/city_government/news/visual-identity-standards](https://www.edmonton.ca/city_government/news/visual-identity-standards)
-- [https://my.edmonton.ca](https://my.edmonton.ca)
+- [https://my.edmonton.ca/log-in?destination=/](https://my.edmonton.ca/log-in?destination=/)
 - [http://www.edmonton.ca/visualidentity](http://www.edmonton.ca/visualidentity)
 
 ## Brand Guidelines

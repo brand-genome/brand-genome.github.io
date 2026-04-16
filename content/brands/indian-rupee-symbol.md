@@ -2,11 +2,11 @@
 title: Indian Rupee Symbol
 slug: "indian-rupee-symbol"
 description: ""
-date: "2026-04-15T09:21:23.698580"
+date: "2026-04-16T19:21:59.021647"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - india
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - financial
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

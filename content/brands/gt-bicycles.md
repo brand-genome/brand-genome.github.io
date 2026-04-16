@@ -2,7 +2,7 @@
 title: GT Bicycles
 slug: "gt-bicycles"
 description: ""
-date: "2026-04-15T09:21:24.318553"
+date: "2026-04-16T19:21:59.727287"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: Wilkes University
 slug: "wilkes-university"
 description: ""
-date: "2026-04-15T09:21:22.600779"
+date: "2026-04-16T19:21:57.964301"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

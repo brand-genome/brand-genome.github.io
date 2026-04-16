@@ -2,11 +2,11 @@
 title: Check Point Software Technologies
 slug: "check-point-software-technologies"
 description: ""
-date: "2026-04-15T09:21:23.984860"
+date: "2026-04-16T19:21:59.294226"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - israel
 years:
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "networking-hardware"
   - software
+  - "networking-hardware"
 products: []
 headquarters_locations:
   - "tel-aviv"
@@ -86,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
 | Headquarters Location | [Tel Aviv](/headquarters_locations/tel-aviv/) |
 | Foundation Date | [1993](/foundation_dates/1993/) |
 | Freebase Id | /m/06wx09 |

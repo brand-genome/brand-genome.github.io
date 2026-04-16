@@ -2,7 +2,7 @@
 title: Corban University
 slug: "corban-university"
 description: ""
-date: "2026-04-15T09:21:25.780928"
+date: "2026-04-16T19:22:01.978472"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.corban.edu](https://www.corban.edu)
-- [https://www.corban.edu/communications/policies.html](https://www.corban.edu/communications/policies.html)
 - [http://www.corban.edu](http://www.corban.edu)
 
 ## Brand Guidelines

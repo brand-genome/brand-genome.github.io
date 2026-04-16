@@ -2,7 +2,7 @@
 title: Kansas City Streetcar
 slug: "kansas-city-streetcar"
 description: ""
-date: "2026-04-15T09:21:24.929515"
+date: "2026-04-16T19:22:00.502607"
 draft: false
 sectors:
   - "public-transportation"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kcstreetcar.org](https://kcstreetcar.org)
 - [https://ridekc.org](https://ridekc.org)
 
 ## Brand Guidelines

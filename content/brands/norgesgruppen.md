@@ -2,7 +2,7 @@
 title: Norgesgruppen
 slug: norgesgruppen
 description: ""
-date: "2026-04-15T09:21:24.386287"
+date: "2026-04-16T19:21:59.974989"
 draft: false
 sectors:
   - supermarket
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.norgesgruppen.no](https://www.norgesgruppen.no)
-- [https://www.norgesgruppen.no/en](https://www.norgesgruppen.no/en)
 - [https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram](https://www.norgesgruppen.no/om-oss/trumf-lojalitetsprogram)
 - [https://unil.no](https://unil.no)
 - [http://www.kiwi.no](http://www.kiwi.no)

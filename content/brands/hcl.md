@@ -2,7 +2,7 @@
 title: HCL
 slug: hcl
 description: ""
-date: "2026-04-15T09:21:25.030953"
+date: "2026-04-16T19:22:00.616941"
 draft: false
 sectors:
   - consulting
@@ -10,8 +10,8 @@ sectors:
 regions:
   - india
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://hcl.com](https://hcl.com)
-- [https://www.hcltech.com](https://www.hcltech.com)
 - [https://www.hcl-software.com](https://www.hcl-software.com)
 - [http://www.hcl.com](http://www.hcl.com)
 - [http://www.hcltech.com](http://www.hcltech.com)

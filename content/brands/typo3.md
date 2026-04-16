@@ -2,7 +2,7 @@
 title: Typo3
 slug: typo3
 description: ""
-date: "2026-04-15T09:21:25.054845"
+date: "2026-04-16T19:22:00.647716"
 draft: false
 sectors:
   - software

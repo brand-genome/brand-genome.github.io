@@ -2,7 +2,7 @@
 title: TensorFlow
 slug: tensorflow
 description: ""
-date: "2026-04-15T09:21:25.411120"
+date: "2026-04-16T19:22:01.094984"
 draft: false
 sectors:
   - software

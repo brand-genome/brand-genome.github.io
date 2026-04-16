@@ -2,12 +2,12 @@
 title: Vizrt
 slug: vizrt
 description: ""
-date: "2026-04-15T09:21:22.524188"
+date: "2026-04-16T19:21:57.863465"
 draft: false
 sectors:
+  - software
   - networking
   - broadcasting
-  - software
 regions:
   - norway
 years:
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vizrt.com/home](https://www.vizrt.com/home)
+- [https://www.vizrt.com](https://www.vizrt.com)
 - [https://www.newtek.com](https://www.newtek.com)
 - [http://www.vizrt.com](http://www.vizrt.com)
 

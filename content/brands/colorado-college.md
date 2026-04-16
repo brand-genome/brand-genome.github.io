@@ -2,11 +2,11 @@
 title: Colorado College
 slug: "colorado-college"
 description: ""
-date: "2026-04-15T09:21:25.631913"
+date: "2026-04-16T19:22:01.636143"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

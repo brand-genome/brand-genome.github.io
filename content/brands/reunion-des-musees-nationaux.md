@@ -2,11 +2,11 @@
 title: Réunion des Musées Nationaux
 slug: "reunion-des-musees-nationaux"
 description: ""
-date: "2026-04-15T09:21:24.091878"
+date: "2026-04-16T19:21:59.422599"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - france
 years:
@@ -62,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.grandpalais.fr](https://www.grandpalais.fr)
-- [https://www.grandpalais-immersif.fr](https://www.grandpalais-immersif.fr)
+- [https://www.grandpalais.fr/fr](https://www.grandpalais.fr/fr)
 
 ## Brand Guidelines
 

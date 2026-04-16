@@ -2,7 +2,7 @@
 title: Diputació de Girona
 slug: "diputacio-de-girona"
 description: ""
-date: "2026-04-15T09:21:24.607638"
+date: "2026-04-16T19:22:00.175516"
 draft: false
 sectors:
   - "public-sector"

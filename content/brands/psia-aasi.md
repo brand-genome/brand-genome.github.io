@@ -2,11 +2,11 @@
 title: PSIA / AASI
 slug: "psia-aasi"
 description: ""
-date: "2026-04-15T09:21:24.278406"
+date: "2026-04-16T19:21:59.684319"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:

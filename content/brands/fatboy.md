@@ -2,19 +2,19 @@
 title: Fatboy
 slug: fatboy
 description: ""
-date: "2026-04-15T09:21:22.541038"
+date: "2026-04-16T19:21:57.886620"
 draft: false
 sectors:
-  - "consumer-goods"
   - "interior-design-decor"
+  - "consumer-goods"
 regions:
   - netherlands
 years: []
 languages:
   - english
 tags:
-  - featured
   - design
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,9 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fatboy.com](https://www.fatboy.com)
+- [https://www.fatboy.com/home](https://www.fatboy.com/home)
 - [https://www.fatboy.com/nl-nl](https://www.fatboy.com/nl-nl)
-- [https://b2bservice.fatboy.com](https://b2bservice.fatboy.com)
 - [http://www.fatboy.com](http://www.fatboy.com)
 
 ## Brand Guidelines

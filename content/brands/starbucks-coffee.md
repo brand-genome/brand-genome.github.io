@@ -2,7 +2,7 @@
 title: Starbucks Coffee
 slug: "starbucks-coffee"
 description: ""
-date: "2026-04-15T09:21:25.747727"
+date: "2026-04-16T19:22:01.918756"
 draft: false
 sectors:
   - drink
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries:
   - japan
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.starbucks.com](https://www.starbucks.com)
-- [https://www.starbuckscoffeecompany.com](https://www.starbuckscoffeecompany.com)
-- [https://weproudlyservestarbucks.nestle.jp](https://weproudlyservestarbucks.nestle.jp)
 - [https://www.starbucks.co.id](https://www.starbucks.co.id)
 - [https://store.starbucks.co.jp/detail-2003](https://store.starbucks.co.jp/detail-2003)
 

@@ -2,7 +2,7 @@
 title: Plaion
 slug: plaion
 description: ""
-date: "2026-04-15T09:21:22.288397"
+date: "2026-04-16T19:21:57.326824"
 draft: false
 sectors:
   - gaming
@@ -69,14 +69,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.plaion.com](https://www.plaion.com)
-- [https://shop.plaion.com](https://shop.plaion.com)
-- [https://www.deepsilver.com/us](https://www.deepsilver.com/us)
-- [https://ravenscourt.games](https://ravenscourt.games)
-- [https://shop.plaionpictures.com](https://shop.plaionpictures.com)
-- [https://www.spotfilm-networx.com](https://www.spotfilm-networx.com)
-- [http://www.kochmedia.com](http://www.kochmedia.com)
 - [https://plaion.com](https://plaion.com)
+- [https://shop.plaion.com/shop/de_DE/index.html](https://shop.plaion.com/shop/de_DE/index.html)
+- [https://www.deepsilver.com](https://www.deepsilver.com)
+- [https://ravenscourt.games/en-GB](https://ravenscourt.games/en-GB)
+- [https://shop.plaionpictures.com](https://shop.plaionpictures.com)
+- [http://www.kochmedia.com](http://www.kochmedia.com)
 
 ## Additional Properties
 

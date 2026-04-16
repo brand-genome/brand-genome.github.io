@@ -2,7 +2,7 @@
 title: Cuyahoga Community College
 slug: "cuyahoga-community-college"
 description: ""
-date: "2026-04-15T09:21:24.335233"
+date: "2026-04-16T19:21:59.775278"
 draft: false
 sectors:
   - education
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 
 - [https://www.tri-c.edu](https://www.tri-c.edu)
 - [https://www.tri-c.edu/index.html](https://www.tri-c.edu/index.html)
-- [https://my.tri-c.edu](https://my.tri-c.edu)
 - [http://www.tri-c.edu](http://www.tri-c.edu)
 
 ## Brand Guidelines

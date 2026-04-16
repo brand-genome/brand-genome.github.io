@@ -2,7 +2,7 @@
 title: Basel Land
 slug: "basel-land"
 description: ""
-date: "2026-04-15T09:21:23.601305"
+date: "2026-04-16T19:21:58.889830"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.baselland.ch](https://www.baselland.ch)
 - [http://www.youtube.com/kantonbl](http://www.youtube.com/kantonbl)
 
 ## Brand Guidelines

@@ -2,18 +2,18 @@
 title: Nasa
 slug: nasa
 description: ""
-date: "2026-04-15T09:21:22.139106"
+date: "2026-04-16T19:21:57.173116"
 draft: false
 sectors:
-  - "public-sector"
   - aerospace
+  - "public-sector"
   - "space-technology"
 regions:
   - usa
 years:
   - 1976
-  - 2006
   - 2009
+  - 2006
 languages:
   - english
 tags:

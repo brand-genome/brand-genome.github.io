@@ -2,11 +2,11 @@
 title: Symantec
 slug: symantec
 description: ""
-date: "2026-04-15T09:21:25.462705"
+date: "2026-04-16T19:22:01.210135"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - "computer-security"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -37,8 +37,8 @@ products_or_materials_produced:
   - norton
 products: []
 headquarters_locations:
-  - tempe
   - "mountain-view"
+  - tempe
 subsidiaries: []
 foundation_dates:
   - 1982
@@ -77,10 +77,11 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.broadcom.com](https://www.broadcom.com)
-- [https://www.gendigital.com](https://www.gendigital.com)
+- [https://www.gendigital.com/us/en](https://www.gendigital.com/us/en)
 - [http://www.symantec.com](http://www.symantec.com)
 - [https://www.nortonlifelock.com](https://www.nortonlifelock.com)
 - [https://www.symantec.com](https://www.symantec.com)
+- [https://www.gendigital.com](https://www.gendigital.com)
 
 ## Brand Guidelines
 
@@ -97,7 +98,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Norton](/products_or_materials_produced/norton/) |
-| Headquarters Location | [Tempe](/headquarters_locations/tempe/); [Mountain View](/headquarters_locations/mountain-view/) |
+| Headquarters Location | [Mountain View](/headquarters_locations/mountain-view/); [Tempe](/headquarters_locations/tempe/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Founded By | Gary Hendrix |
 | Stock Exchange | Nasdaq (from 2019, until 2022), Nasdaq (until 2019), Nasdaq (from 2022) |

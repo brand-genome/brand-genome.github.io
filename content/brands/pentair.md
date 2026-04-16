@@ -2,19 +2,19 @@
 title: Pentair
 slug: pentair
 description: ""
-date: "2026-04-15T09:21:22.444993"
+date: "2026-04-16T19:21:57.722886"
 draft: false
 sectors:
-  - utilities
   - construction
+  - utilities
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
-  - english
   - russian
+  - english
 tags:
   - industry
 industries: []

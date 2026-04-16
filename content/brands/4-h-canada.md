@@ -2,11 +2,11 @@
 title: "4-H Canada"
 slug: "4-h-canada"
 description: ""
-date: "2026-04-15T09:21:25.648939"
+date: "2026-04-16T19:22:01.665067"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - canada
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 - [https://4-h-canada.ca](https://4-h-canada.ca)
 - [https://exchange.4-h-canada.ca](https://exchange.4-h-canada.ca)
 - [https://apply.4-h-canada.ca](https://apply.4-h-canada.ca)
-- [https://register.4-h-canada.ca](https://register.4-h-canada.ca)
 
 ## Brand Guidelines
 

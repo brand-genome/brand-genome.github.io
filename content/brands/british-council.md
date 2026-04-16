@@ -2,11 +2,11 @@
 title: British Council
 slug: "british-council"
 description: ""
-date: "2026-04-15T09:21:23.214059"
+date: "2026-04-16T19:21:58.631583"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - "united-kingdom"
 years:
@@ -66,10 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.britishcouncil.org](https://www.britishcouncil.org)
-- [https://brand.britishcouncil.org](https://brand.britishcouncil.org)
+- [https://brandhub.britishcouncil.org/login](https://brandhub.britishcouncil.org/login)
 - [https://www.teachingenglish.org.uk](https://www.teachingenglish.org.uk)
-- [https://www.britishcouncil.us](https://www.britishcouncil.us)
 
 ## Additional Properties
 

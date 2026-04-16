@@ -2,7 +2,7 @@
 title: Italiangas
 slug: italiangas
 description: ""
-date: "2026-04-15T09:21:25.866922"
+date: "2026-04-16T19:22:02.136307"
 draft: false
 sectors:
   - utilities

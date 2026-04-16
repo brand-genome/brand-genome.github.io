@@ -2,7 +2,7 @@
 title: Woolmark
 slug: woolmark
 description: ""
-date: "2026-04-15T09:21:23.699918"
+date: "2026-04-16T19:21:59.023055"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - trademark
+  - featured
 industries:
   - "business-and-professional-associations-unions"
 countries: []

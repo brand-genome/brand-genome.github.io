@@ -2,9 +2,10 @@
 title: First
 slug: first
 description: ""
-date: "2026-04-15T09:21:25.453562"
+date: "2026-04-16T19:22:01.166348"
 draft: false
 sectors:
+  - ngo
   - education
 regions:
   - usa

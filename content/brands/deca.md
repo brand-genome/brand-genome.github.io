@@ -2,11 +2,11 @@
 title: Deca
 slug: deca
 description: ""
-date: "2026-04-15T09:21:24.972268"
+date: "2026-04-16T19:22:00.546511"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

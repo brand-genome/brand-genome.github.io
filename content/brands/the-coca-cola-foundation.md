@@ -2,7 +2,7 @@
 title: The Coca Cola Foundation
 slug: "the-coca-cola-foundation"
 description: ""
-date: "2026-04-15T09:21:22.601306"
+date: "2026-04-16T19:21:57.965978"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,5 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.coca-colacompany.com/social](https://www.coca-colacompany.com/social)
+- [https://www.coca-colacompany.com/about-us/the-coca-cola-foundation](https://www.coca-colacompany.com/about-us/the-coca-cola-foundation)
 - [https://www.coca-cola.com/us/en/about-us/faq/what-is-the-coca-cola-foundation](https://www.coca-cola.com/us/en/about-us/faq/what-is-the-coca-cola-foundation)

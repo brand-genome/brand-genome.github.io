@@ -2,7 +2,7 @@
 title: Order of the Arrow
 slug: "order-of-the-arrow"
 description: ""
-date: "2026-04-15T09:21:25.647506"
+date: "2026-04-16T19:22:01.660121"
 draft: false
 sectors:
   - ngo

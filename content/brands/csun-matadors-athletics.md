@@ -2,7 +2,7 @@
 title: CSUN Matadors Athletics
 slug: "csun-matadors-athletics"
 description: ""
-date: "2026-04-15T09:21:24.551154"
+date: "2026-04-16T19:22:00.122796"
 draft: false
 sectors:
   - sports
@@ -63,8 +63,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://gomatadors.com](https://gomatadors.com)
-- [https://gomatadors.com/tickets](https://gomatadors.com/tickets)
-- [https://tickets.gomatadors.com](https://tickets.gomatadors.com)
+- [https://gomatadors.com/sports/2015/6/22/Tickets](https://gomatadors.com/sports/2015/6/22/Tickets)
+- [https://tickets.gomatadors.com/Online/error.asp](https://tickets.gomatadors.com/Online/error.asp)
 
 ## Brand Guidelines
 

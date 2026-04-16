@@ -2,7 +2,7 @@
 title: Precor
 slug: precor
 description: ""
-date: "2026-04-15T09:21:25.855623"
+date: "2026-04-16T19:22:02.122139"
 draft: false
 sectors:
   - fitness
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - sport
   - corporate
+  - sport
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,4 +64,4 @@ visual_term_image_urls: {}
 
 - [https://www.precor.com/en-US](https://www.precor.com/en-US)
 - [https://precorathome.com](https://precorathome.com)
-- [https://my.preva.com](https://my.preva.com)
+- [https://my.preva.com/login/auth](https://my.preva.com/login/auth)

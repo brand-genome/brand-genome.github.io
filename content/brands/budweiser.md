@@ -2,11 +2,11 @@
 title: Budweiser
 slug: budweiser
 description: ""
-date: "2026-04-15T09:21:23.598316"
+date: "2026-04-16T19:21:58.887033"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: "SATT Sud-Est"
 slug: "satt-sud-est"
 description: ""
-date: "2026-04-15T09:21:25.697969"
+date: "2026-04-16T19:22:01.802588"
 draft: false
 sectors:
-  - research
   - consulting
+  - research
 regions:
   - france
 years:

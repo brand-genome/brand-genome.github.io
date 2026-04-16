@@ -2,7 +2,7 @@
 title: Indonesian AID
 slug: "indonesian-aid"
 description: ""
-date: "2026-04-15T09:21:22.537423"
+date: "2026-04-16T19:21:57.881391"
 draft: false
 sectors:
   - "public-sector"
@@ -59,12 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://ldkpi.kemenkeu.go.id](https://ldkpi.kemenkeu.go.id)
-- [https://ldkpi.kemenkeu.go.id/en](https://ldkpi.kemenkeu.go.id/en)
-- [https://tias.kemenkeu.go.id/landing](https://tias.kemenkeu.go.id/landing)
-
 ## Brand Guidelines
 
 ### 2021

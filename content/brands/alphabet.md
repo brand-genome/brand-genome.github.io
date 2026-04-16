@@ -2,10 +2,9 @@
 title: Alphabet
 slug: alphabet
 description: ""
-date: "2026-04-15T09:21:25.385452"
+date: "2026-04-16T19:22:01.056443"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
 regions:
   - germany
@@ -62,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alphabet.com](https://www.alphabet.com)
+- [https://www.alphabet.com/en-ww.html](https://www.alphabet.com/en-ww.html)
 - [http://www.alphabet.com](http://www.alphabet.com)
 
 ## Brand Guidelines

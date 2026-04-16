@@ -2,7 +2,7 @@
 title: Downtown Crossing
 slug: "downtown-crossing"
 description: ""
-date: "2026-04-15T09:21:24.378474"
+date: "2026-04-16T19:21:59.942241"
 draft: false
 sectors:
   - tourism
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - regional
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.downtowncrossing.org/brandg](http://www.downtowncrossing.org/brandg)
-
 ## Brand Guidelines
 
 ### 2009

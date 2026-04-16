@@ -2,7 +2,7 @@
 title: Husqvarna
 slug: husqvarna
 description: ""
-date: "2026-04-15T09:21:25.702441"
+date: "2026-04-16T19:22:01.811619"
 draft: false
 sectors:
   - automobile
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.husqvarna-motorcycles.com](https://www.husqvarna-motorcycles.com)
+- [https://www.husqvarna-motorcycles.com/en-in.html](https://www.husqvarna-motorcycles.com/en-in.html)
 
 ## Brand Guidelines
 

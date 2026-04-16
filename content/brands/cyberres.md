@@ -2,11 +2,11 @@
 title: CyberRes
 slug: cyberres
 description: ""
-date: "2026-04-15T09:21:22.577938"
+date: "2026-04-16T19:21:57.941765"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.microfocus.com/en-us/cyberres](https://www.microfocus.com/en-us/cyberres)
+- [https://www.opentext.com/products/cybersecurity-cloud](https://www.opentext.com/products/cybersecurity-cloud)
 - [https://cybersecurity.opentext.com](https://cybersecurity.opentext.com)
 - [https://www.opentext.com/microfocus](https://www.opentext.com/microfocus)
 

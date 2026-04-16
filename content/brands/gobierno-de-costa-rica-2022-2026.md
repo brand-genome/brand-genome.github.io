@@ -2,7 +2,7 @@
 title: "Gobierno de Costa Rica 2022-2026"
 slug: "gobierno-de-costa-rica-2022-2026"
 description: ""
-date: "2026-04-15T09:21:23.401215"
+date: "2026-04-16T19:21:58.790973"
 draft: false
 sectors:
   - "public-sector"
@@ -63,4 +63,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.presidencia.go.cr](https://www.presidencia.go.cr)
-- [https://www.gob.go.cr](https://www.gob.go.cr)
+- [https://puravidadigital.gob.go.cr](https://puravidadigital.gob.go.cr)

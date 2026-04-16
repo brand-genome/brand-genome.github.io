@@ -2,20 +2,20 @@
 title: Fiat
 slug: fiat
 description: ""
-date: "2026-04-15T09:21:23.403026"
+date: "2026-04-16T19:21:58.793959"
 draft: false
 sectors:
   - automobile
 regions:
-  - brazil
   - italy
+  - brazil
 years:
-  - 2005
   - 2019
+  - 2005
   - 2011
 languages:
-  - english
   - portuguese
+  - english
 tags:
   - featured
   - transport
@@ -72,8 +72,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fiat.com.br](https://www.fiat.com.br)
-- [https://www.fiatlatam.com](https://www.fiatlatam.com)
 - [https://www.fiatoriginal.com.br](https://www.fiatoriginal.com.br)
 - [https://www.fiat.com](https://www.fiat.com)
 

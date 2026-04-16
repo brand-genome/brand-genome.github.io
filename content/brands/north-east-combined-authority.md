@@ -2,7 +2,7 @@
 title: North East Combined Authority
 slug: "north-east-combined-authority"
 description: ""
-date: "2026-04-15T09:21:22.119328"
+date: "2026-04-16T19:21:57.155049"
 draft: false
 sectors:
   - "public-sector"

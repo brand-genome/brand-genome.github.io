@@ -2,11 +2,11 @@
 title: Tecnológico de Costa Rica
 slug: "tecnologico-de-costa-rica"
 description: ""
-date: "2026-04-15T09:21:24.234108"
+date: "2026-04-16T19:21:59.611891"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "costa-rica"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

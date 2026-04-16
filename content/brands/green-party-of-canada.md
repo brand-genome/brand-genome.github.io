@@ -2,7 +2,7 @@
 title: Green party of Canada
 slug: "green-party-of-canada"
 description: ""
-date: "2026-04-15T09:21:22.331531"
+date: "2026-04-16T19:21:57.436012"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - featured
+  - community
 industries: []
 countries: []
 revenue_buckets: []

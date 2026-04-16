@@ -2,24 +2,24 @@
 title: Volvo
 slug: volvo
 description: ""
-date: "2026-04-15T09:21:22.365611"
+date: "2026-04-16T19:21:57.603184"
 draft: false
 sectors:
-  - automobile
   - construction
+  - automobile
   - hardware
 regions:
   - sweden
 years:
-  - 2021
-  - 2022
   - 2016
+  - 2022
+  - 2021
 languages:
-  - english
   - chinese
+  - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
   - "car-manufacturing"
@@ -45,8 +45,8 @@ headquarters_locations:
   - gothenburg
 subsidiaries: []
 foundation_dates:
-  - 2010
   - 1927
+  - 2010
 foundation_year_buckets:
   - 1920S
   - 2010S
@@ -83,7 +83,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.volvogroup.com/en](https://www.volvogroup.com/en)
-- [https://www.volvocars.com/intl](https://www.volvocars.com/intl)
 - [https://www.volvotrucks.com/en-en](https://www.volvotrucks.com/en-en)
 - [https://www.volvoce.com](https://www.volvoce.com)
 - [https://www.volvopenta.com](https://www.volvopenta.com)
@@ -94,6 +93,7 @@ visual_term_image_urls: {}
 - [https://www.volvocars.com](https://www.volvocars.com)
 - [https://www.volvocars.com/us](https://www.volvocars.com/us)
 - [https://www.volvocars.com/de](https://www.volvocars.com/de)
+- [https://www.volvocars.com/intl](https://www.volvocars.com/intl)
 - [https://www.volvocars.de](https://www.volvocars.de)
 - [https://www.volvocars.com/es](https://www.volvocars.com/es)
 - [https://volvocars-concessions.com](https://volvocars-concessions.com)
@@ -247,7 +247,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Car](/products_or_materials_produced/car/) |
 | Headquarters Location | [Gothenburg](/headquarters_locations/gothenburg/) |
-| Foundation Date | [2010](/foundation_dates/2010/); [1927](/foundation_dates/1927/) |
+| Foundation Date | [1927](/foundation_dates/1927/); [2010](/foundation_dates/2010/) |
 | Topic'S Main Category | Category:Volvo Cars |
 | Freebase Id | /m/022hnr |
 | Headquarters Location | Gothenburg |

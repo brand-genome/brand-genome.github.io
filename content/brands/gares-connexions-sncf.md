@@ -2,10 +2,9 @@
 title: "Gares & Connexions SNCF"
 slug: "gares-connexions-sncf"
 description: ""
-date: "2026-04-15T09:21:23.779208"
+date: "2026-04-16T19:21:59.107719"
 draft: false
 sectors:
-  - "real-estate"
   - "public-transportation"
 regions:
   - france
@@ -60,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.garesetconnexions.sncf](https://www.garesetconnexions.sncf)
-- [https://www.garesetconnexions.sncf/en](https://www.garesetconnexions.sncf/en)
-
 ## Brand Guidelines
 
 ### 2018

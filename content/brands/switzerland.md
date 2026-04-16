@@ -2,7 +2,7 @@
 title: Switzerland
 slug: switzerland
 description: ""
-date: "2026-04-15T09:21:24.282199"
+date: "2026-04-16T19:21:59.688339"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aboutswitzerland.org](https://www.aboutswitzerland.org)
+- [https://www.aboutswitzerland.eda.admin.ch/en](https://www.aboutswitzerland.eda.admin.ch/en)
 - [https://www.houseofswitzerland.org](https://www.houseofswitzerland.org)
-- [https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/landeskommunikation/corporate-design-landeskommunikation/geschuetzer-bereich-cd-prs.html/content/contacts/en/contacts-zentrale/eda/GS-EDA/PRS](https://www.eda.admin.ch/eda/en/fdfa/foreign-policy/landeskommunikation/corporate-design-landeskommunikation/geschuetzer-bereich-cd-prs.html/content/contacts/en/contacts-zentrale/eda/GS-EDA/PRS)
+- [https://www.eda.admin.ch/en](https://www.eda.admin.ch/en)
 
 ## Brand Guidelines
 

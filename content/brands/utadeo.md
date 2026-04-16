@@ -2,11 +2,11 @@
 title: Utadeo
 slug: utadeo
 description: ""
-date: "2026-04-15T09:21:25.342982"
+date: "2026-04-16T19:22:01.010128"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - colombia
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.utadeo.edu.co/es](https://www.utadeo.edu.co/es)
-- [https://www.utadeo.edu.co/en](https://www.utadeo.edu.co/en)
 - [http://www.utadeo.edu.co](http://www.utadeo.edu.co)
 
 ## Brand Guidelines

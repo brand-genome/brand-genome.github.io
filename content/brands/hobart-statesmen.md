@@ -2,7 +2,7 @@
 title: Hobart Statesmen
 slug: "hobart-statesmen"
 description: ""
-date: "2026-04-15T09:21:25.170247"
+date: "2026-04-16T19:22:00.765834"
 draft: false
 sectors:
   - sports

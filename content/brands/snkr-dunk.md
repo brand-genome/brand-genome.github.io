@@ -2,11 +2,11 @@
 title: Snkr Dunk
 slug: "snkr-dunk"
 description: ""
-date: "2026-04-15T09:21:22.561539"
+date: "2026-04-16T19:21:57.928071"
 draft: false
 sectors:
-  - fashion
   - "e-commerce"
+  - fashion
 regions:
   - japan
 years:
@@ -63,4 +63,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://snkrdunk.com](https://snkrdunk.com)
-- [https://help.snkrdunk-guide.com](https://help.snkrdunk-guide.com)
+- [https://help.snkrdunk-guide.com/snkrdunk-faq/ja](https://help.snkrdunk-guide.com/snkrdunk-faq/ja)

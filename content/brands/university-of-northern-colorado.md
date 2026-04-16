@@ -2,12 +2,12 @@
 title: University of Northern Colorado
 slug: "university-of-northern-colorado"
 description: ""
-date: "2026-04-15T09:21:25.877710"
+date: "2026-04-16T19:22:02.147090"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - institution
+  - university
 industries: []
 countries:
   - "united-states"
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unco.edu](https://www.unco.edu)
-- [https://www.unco.edu/universityrelations](https://www.unco.edu/universityrelations)
+- [https://www.unco.edu/marketing-communications](https://www.unco.edu/marketing-communications)
 - [https://unco.edu](https://unco.edu)
 
 ## Brand Guidelines

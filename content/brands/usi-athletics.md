@@ -2,7 +2,7 @@
 title: USI Athletics
 slug: "usi-athletics"
 description: ""
-date: "2026-04-15T09:21:25.773602"
+date: "2026-04-16T19:22:01.966967"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - sport
+  - university
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Maison ONA
 slug: "maison-ona"
 description: ""
-date: "2026-04-15T09:21:25.684294"
+date: "2026-04-16T19:22:01.759882"
 draft: false
 sectors:
   - "arts-culture"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - edition
   - art
   - music
-  - edition
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Oi
 slug: oi
 description: ""
-date: "2026-04-15T09:21:25.839413"
+date: "2026-04-16T19:22:02.088320"
 draft: false
 sectors:
   - networking
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oi.com.br](https://www.oi.com.br)
-- [https://www.oi.com.br/minha-oi](https://www.oi.com.br/minha-oi)
 - [http://www.oi.com.br](http://www.oi.com.br)
 
 ## Brand Guidelines

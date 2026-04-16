@@ -2,7 +2,7 @@
 title: Governo do Amazonas
 slug: "governo-do-amazonas"
 description: ""
-date: "2026-04-15T09:21:23.794478"
+date: "2026-04-16T19:21:59.123911"
 draft: false
 sectors:
   - "public-sector"
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.transparencia.am.gov.br](https://www.transparencia.am.gov.br)
-- [https://www.sefaz.am.gov.br](https://www.sefaz.am.gov.br)
 - [https://imprensaoficial.am.gov.br](https://imprensaoficial.am.gov.br)
 
 ## Brand Guidelines

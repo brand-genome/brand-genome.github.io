@@ -2,7 +2,7 @@
 title: Howden
 slug: howden
 description: ""
-date: "2026-04-15T09:21:23.199792"
+date: "2026-04-16T19:21:58.605667"
 draft: false
 sectors:
   - insurance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries: []
 countries:
   - worldwide
@@ -67,11 +67,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.howdengroup.com](https://www.howdengroup.com)
 - [https://www.howdeninsurance.co.uk](https://www.howdeninsurance.co.uk)
-- [https://www.howdengroup.com/us-en](https://www.howdengroup.com/us-en)
 - [https://www.howdenre.com](https://www.howdenre.com)
-- [https://online.howdengroup.com](https://online.howdengroup.com)
+- [https://online.howdengroup.com/login](https://online.howdengroup.com/login)
+- [https://www.howdengroup.com](https://www.howdengroup.com)
 - [https://www.howdengroupholdings.com](https://www.howdengroupholdings.com)
 
 ## Additional Properties

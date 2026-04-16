@@ -2,7 +2,7 @@
 title: US Foods
 slug: "us-foods"
 description: ""
-date: "2026-04-15T09:21:23.765291"
+date: "2026-04-16T19:21:59.092701"
 draft: false
 sectors:
   - food
@@ -16,9 +16,9 @@ languages:
 tags:
   - agriculture
 industries:
-  - "foodservice-distributor"
   - "food-distribution"
   - "food-industry"
+  - "foodservice-distributor"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -29,9 +29,9 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "frozen-meal"
   - meat
   - produce
+  - "frozen-meal"
 products: []
 headquarters_locations:
   - rosemont
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Frozen Meal](/products_or_materials_produced/frozen-meal/); [Meat](/products_or_materials_produced/meat/); [Produce](/products_or_materials_produced/produce/) |
+| Product Or Material Produced | [Meat](/products_or_materials_produced/meat/); [Produce](/products_or_materials_produced/produce/); [Frozen Meal](/products_or_materials_produced/frozen-meal/) |
 | Headquarters Location | [Rosemont](/headquarters_locations/rosemont/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/09d6jk |

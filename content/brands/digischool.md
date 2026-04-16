@@ -2,12 +2,12 @@
 title: Digischool
 slug: digischool
 description: ""
-date: "2026-04-15T09:21:24.387053"
+date: "2026-04-16T19:21:59.976166"
 draft: false
 sectors:
   - "public-sector"
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - kenya
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://digischool.icta.go.ke](https://digischool.icta.go.ke)
 - [https://www.digischool.go.ke](https://www.digischool.go.ke)
 - [https://icta.go.ke](https://icta.go.ke)
 

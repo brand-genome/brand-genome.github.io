@@ -2,11 +2,11 @@
 title: ITV
 slug: itv
 description: ""
-date: "2026-04-15T09:21:23.398558"
+date: "2026-04-16T19:21:58.788215"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - "united-kingdom"
 years:
@@ -67,11 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itv.com](https://www.itv.com)
+- [https://brand.itv.com/mars/oauth2016.auth?scope=/mars/api_user.details+/o2/api_user.priv&redirect_uri=%2Fapi-gateway%2Flogin&state=%2Fmars%2Foauth2016.auth%3Fscope%3Dhttps%253A%252F%252Fbrand.itv.com%252Fo2%252Fapi_user.details%2520https%253A%252F%252Fbrand.itv.com%252Fo2%252Fapi_user.privs%26state%3Dprofile%26redirect_uri%3Dhttps%253A%252F%252Fbrand.itv.com%252Fpoint%252Fauth%252F%253Fbacklink%253D2zo0v%2526lang_id%253D2%26response_type%3Dcode%26client_id%3DGB-admin%26access_type%3Doffline%26approval_prompt%3Dauto%26p_ptl_id%3D44322%26p_oty_id%3D302608%26p_lae_id%3D2%26p_com_id%3D34352&response_type=code&client_id=apiGateway&access_type=offline&approval_prompt=auto&p_com_id=34352&p_lae_id=2&p_ptl_id=44322&p_oty_id=302608](https://brand.itv.com/mars/oauth2016.auth?scope=/mars/api_user.details+/o2/api_user.priv&redirect_uri=%2Fapi-gateway%2Flogin&state=%2Fmars%2Foauth2016.auth%3Fscope%3Dhttps%253A%252F%252Fbrand.itv.com%252Fo2%252Fapi_user.details%2520https%253A%252F%252Fbrand.itv.com%252Fo2%252Fapi_user.privs%26state%3Dprofile%26redirect_uri%3Dhttps%253A%252F%252Fbrand.itv.com%252Fpoint%252Fauth%252F%253Fbacklink%253D2zo0v%2526lang_id%253D2%26response_type%3Dcode%26client_id%3DGB-admin%26access_type%3Doffline%26approval_prompt%3Dauto%26p_ptl_id%3D44322%26p_oty_id%3D302608%26p_lae_id%3D2%26p_com_id%3D34352&response_type=code&client_id=apiGateway&access_type=offline&approval_prompt=auto&p_com_id=34352&p_lae_id=2&p_ptl_id=44322&p_oty_id=302608)
+- [https://careers.itv.com](https://careers.itv.com)
 - [https://www.itvplc.com](https://www.itvplc.com)
-- [https://brand.itv.com](https://brand.itv.com)
-- [https://www.itv.com/commissioning](https://www.itv.com/commissioning)
-- [https://www.itvjobs.com](https://www.itvjobs.com)
 - [https://itvstudios.com](https://itvstudios.com)
 
 ## Brand Guidelines

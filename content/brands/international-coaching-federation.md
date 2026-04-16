@@ -2,11 +2,11 @@
 title: International Coaching Federation
 slug: "international-coaching-federation"
 description: ""
-date: "2026-04-15T09:21:23.974219"
+date: "2026-04-16T19:21:59.284230"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:

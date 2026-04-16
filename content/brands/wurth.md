@@ -2,7 +2,7 @@
 title: Würth
 slug: wurth
 description: ""
-date: "2026-04-15T09:21:25.432222"
+date: "2026-04-16T19:22:01.116807"
 draft: false
 sectors:
   - construction
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.wuerth.com](https://www.wuerth.com)
 - [https://www.wuerth.de](https://www.wuerth.de)
-- [https://www.wuerth.com/wuerth-group](https://www.wuerth.com/wuerth-group)
 - [http://www.wuerth.com](http://www.wuerth.com)
 - [http://www.wuerth.de](http://www.wuerth.de)
 

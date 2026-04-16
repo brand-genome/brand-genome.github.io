@@ -2,7 +2,7 @@
 title: Baloise Group
 slug: "baloise-group"
 description: ""
-date: "2026-04-15T09:21:23.739033"
+date: "2026-04-16T19:21:59.064483"
 draft: false
 sectors:
   - insurance
@@ -68,13 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.baloise.com](https://www.baloise.com)
-- [https://www.baloise.ch](https://www.baloise.ch)
-- [https://www.baloise.de](https://www.baloise.de)
-- [https://www.baloise.be](https://www.baloise.be)
-- [https://www.baloise.lu](https://www.baloise.lu)
-- [https://www.baloise-life.com](https://www.baloise-life.com)
+- [https://www.baloise.ch/de/privatkunden.html](https://www.baloise.ch/de/privatkunden.html)
 - [http://www.baloise.ch](http://www.baloise.ch)
+- [https://www.baloise.com](https://www.baloise.com)
+- [https://www.baloise.de](https://www.baloise.de)
 
 ## Brand Guidelines
 

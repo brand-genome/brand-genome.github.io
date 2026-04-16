@@ -2,7 +2,7 @@
 title: Basislager Coworking
 slug: "basislager-coworking"
 description: ""
-date: "2026-04-15T09:21:23.599027"
+date: "2026-04-16T19:21:58.887621"
 draft: false
 sectors:
   - "coworking-flexible-office"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.basislager.co](https://www.basislager.co)
+- [https://www.basislager.co/de](https://www.basislager.co/de)
 
 ## Brand Guidelines
 

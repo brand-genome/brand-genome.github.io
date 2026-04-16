@@ -2,7 +2,7 @@
 title: Master Motor
 slug: "master-motor"
 description: ""
-date: "2026-04-15T09:21:23.729478"
+date: "2026-04-16T19:21:59.054487"
 draft: false
 sectors:
   - automobile

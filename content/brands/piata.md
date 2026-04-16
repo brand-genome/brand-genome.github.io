@@ -2,7 +2,7 @@
 title: PIATA
 slug: piata
 description: ""
-date: "2026-04-15T09:21:25.446030"
+date: "2026-04-16T19:22:01.137489"
 draft: false
 sectors:
   - ngo
@@ -61,6 +61,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://agra.org/piata](https://agra.org/piata)
-- [https://agra.org/publication/piata-final-evaluation-report-volume-i](https://agra.org/publication/piata-final-evaluation-report-volume-i)
+- [https://agra.org?attachment_id=13624](https://agra.org?attachment_id=13624)
 - [https://agra.org/piata-evaluation-report](https://agra.org/piata-evaluation-report)
 - [http://www.agra.org](http://www.agra.org)

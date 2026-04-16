@@ -2,18 +2,18 @@
 title: Suncor
 slug: suncor
 description: ""
-date: "2026-04-15T09:21:23.869416"
+date: "2026-04-16T19:21:59.194721"
 draft: false
 sectors:
-  - gas
-  - petroleum
   - oil
+  - petroleum
+  - gas
   - "petrol-station"
 regions:
   - canada
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -72,9 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.suncor.com](https://www.suncor.com)
 - [https://sunlink.suncor.com](https://sunlink.suncor.com)
-- [https://www.petro-canada.ca/en](https://www.petro-canada.ca/en)
 - [http://www.suncor.com](http://www.suncor.com)
 
 ## Brand Guidelines

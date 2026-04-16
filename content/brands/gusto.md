@@ -2,7 +2,7 @@
 title: Gusto
 slug: gusto
 description: ""
-date: "2026-04-15T09:21:23.795441"
+date: "2026-04-16T19:21:59.124927"
 draft: false
 sectors:
   - insurance
@@ -15,13 +15,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries:
-  - "software-industry"
-  - "human-resource-management"
-  - "business-software-industry"
   - "internet-industry"
+  - "business-software-industry"
+  - "human-resource-management"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

@@ -2,11 +2,11 @@
 title: Marathon Petroleum
 slug: "marathon-petroleum"
 description: ""
-date: "2026-04-15T09:21:23.381404"
+date: "2026-04-16T19:21:58.768982"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - petroleum
+  - "logistics-supply-chain"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries:
   - "petroleum-industry"
 countries:

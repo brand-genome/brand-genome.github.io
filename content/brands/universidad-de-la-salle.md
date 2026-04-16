@@ -2,11 +2,11 @@
 title: Universidad de La Salle
 slug: "universidad-de-la-salle"
 description: ""
-date: "2026-04-15T09:21:25.658281"
+date: "2026-04-16T19:22:01.680758"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lasalle.edu.co](https://lasalle.edu.co)
+- [https://lasalle.edu.co/es](https://lasalle.edu.co/es)
 
 ## Brand Guidelines
 

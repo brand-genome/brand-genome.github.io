@@ -2,7 +2,7 @@
 title: HM Government
 slug: "hm-government"
 description: ""
-date: "2026-04-15T09:21:22.579748"
+date: "2026-04-16T19:21:57.943671"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gov.uk](https://www.gov.uk)
-- [https://hmgbrand.gcs.civilservice.gov.uk](https://hmgbrand.gcs.civilservice.gov.uk)
+- [https://www.brand.gov.uk/login?mepr-unauth-page=4&redirect_to=%2F](https://www.brand.gov.uk/login?mepr-unauth-page=4&redirect_to=%2F)
 - [http://www.gov.uk](http://www.gov.uk)
 - [https://www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk)
 - [https://www.yourpension.gov.uk](https://www.yourpension.gov.uk)

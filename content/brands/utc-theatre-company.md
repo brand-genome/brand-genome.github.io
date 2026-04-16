@@ -2,11 +2,11 @@
 title: UTC Theatre Company
 slug: "utc-theatre-company"
 description: ""
-date: "2026-04-15T09:21:25.755873"
+date: "2026-04-16T19:22:01.931249"
 draft: false
 sectors:
-  - university
   - "arts-culture"
+  - university
 regions:
   - usa
 years:

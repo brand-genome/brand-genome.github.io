@@ -2,11 +2,11 @@
 title: Tubi
 slug: tubi
 description: ""
-date: "2026-04-15T09:21:22.551208"
+date: "2026-04-16T19:21:57.898727"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,5 +63,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://tubitv.com](https://tubitv.com)
-- [https://tubitv.com/help-center](https://tubitv.com/help-center)
+- [https://gdpr.tubi.tv](https://gdpr.tubi.tv)

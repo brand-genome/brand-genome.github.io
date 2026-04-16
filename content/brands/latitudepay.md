@@ -2,7 +2,7 @@
 title: LatitudePay
 slug: latitudepay
 description: ""
-date: "2026-04-15T09:21:23.746649"
+date: "2026-04-16T19:21:59.071323"
 draft: false
 sectors:
   - finance
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide](https://resources.latitudefinancial.com/docs/latitude-pay/assets-branding-guide)
 - [https://www.latitudefinancial.com.au/latitudepay-closure](https://www.latitudefinancial.com.au/latitudepay-closure)
 - [http://www.latitudepay.com](http://www.latitudepay.com)
 

@@ -2,11 +2,11 @@
 title: Bogotá
 slug: bogota
 description: ""
-date: "2026-04-15T09:21:24.083534"
+date: "2026-04-16T19:21:59.408606"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - colombia
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.idt.gov.co/marca-bogota](https://www.idt.gov.co/marca-bogota)
 - [https://enbogotasepuedeser.gov.co/manualdemarca](https://enbogotasepuedeser.gov.co/manualdemarca)
 
 ## Brand Guidelines

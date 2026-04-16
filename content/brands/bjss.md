@@ -2,7 +2,7 @@
 title: BJSS
 slug: bjss
 description: ""
-date: "2026-04-15T09:21:24.080979"
+date: "2026-04-16T19:21:59.405278"
 draft: false
 sectors:
   - consulting
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.bjss.com](https://www.bjss.com)
-- [https://www.bjss.com/media-toolkit](https://www.bjss.com/media-toolkit)
-
 ## Brand Guidelines
 
 ### 2021

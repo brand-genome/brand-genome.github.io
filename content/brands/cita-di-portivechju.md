@@ -2,7 +2,7 @@
 title: Cita di Portivechju
 slug: "cita-di-portivechju"
 description: ""
-date: "2026-04-15T09:21:23.200257"
+date: "2026-04-16T19:21:58.606238"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.portivechju.corsica](https://www.portivechju.corsica)
-- [https://www.animu.corsica](https://www.animu.corsica)
 - [http://www.portivechju.corsica](http://www.portivechju.corsica)
 
 ## Brand Guidelines

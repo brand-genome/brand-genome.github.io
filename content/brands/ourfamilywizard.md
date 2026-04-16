@@ -2,7 +2,7 @@
 title: OurFamilyWizard
 slug: ourfamilywizard
 description: ""
-date: "2026-04-15T09:21:22.444128"
+date: "2026-04-16T19:21:57.721780"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - app
   - software
+  - app
 industries:
   - "software-industry"
 countries: []
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 
 - [https://www.ourfamilywizard.com](https://www.ourfamilywizard.com)
 - [https://www.ourfamilywizard.com/about](https://www.ourfamilywizard.com/about)
-- [https://support.ourfamilywizard.com/hc/en-us](https://support.ourfamilywizard.com/hc/en-us)
 
 ## Additional Properties
 

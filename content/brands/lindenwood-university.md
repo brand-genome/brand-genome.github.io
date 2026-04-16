@@ -2,11 +2,11 @@
 title: Lindenwood University
 slug: "lindenwood-university"
 description: ""
-date: "2026-04-15T09:21:23.945087"
+date: "2026-04-16T19:21:59.262210"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lindenwood.edu](https://www.lindenwood.edu)
-- [https://lindenwoodlions.com](https://lindenwoodlions.com)
+- [https://lindenwoodlions.com/splash.aspx?id=splash_133](https://lindenwoodlions.com/splash.aspx?id=splash_133)
 - [http://www.lindenwood.edu](http://www.lindenwood.edu)
 
 ## Brand Guidelines

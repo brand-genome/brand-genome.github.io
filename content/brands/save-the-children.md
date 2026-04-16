@@ -2,7 +2,7 @@
 title: Save The Children
 slug: "save-the-children"
 description: ""
-date: "2026-04-15T09:21:25.640274"
+date: "2026-04-16T19:22:01.650964"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - charity
   - ngo
+  - charity
 industries: []
 countries:
   - "united-kingdom"

@@ -2,7 +2,7 @@
 title: StarTribune
 slug: startribune
 description: ""
-date: "2026-04-15T09:21:25.358144"
+date: "2026-04-16T19:22:01.024473"
 draft: false
 sectors:
   - publishing
@@ -29,11 +29,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1867
   - 1982
+  - 1867
 foundation_year_buckets:
-  - 1980S
   - "19TH-CENTURY"
+  - 1980S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.startribune.com](https://www.startribune.com)
 - [https://www.startribunecompany.com](https://www.startribunecompany.com)
 - [http://www.startribune.com](http://www.startribune.com)
 - [http://www.startribunecompany.com](http://www.startribunecompany.com)
@@ -89,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1867](/foundation_dates/1867/); [1982](/foundation_dates/1982/) |
+| Foundation Date | [1982](/foundation_dates/1982/); [1867](/foundation_dates/1867/) |
 | Freebase Id | /m/01nf4f |
 | Issn | 0895-2825, 2641-9556 |
 | Title | Star Tribune, The Minneapolis Journal, The Minneapolis Star |

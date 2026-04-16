@@ -2,11 +2,11 @@
 title: PlayStation 4 Pro
 slug: "playstation-4-pro"
 description: ""
-date: "2026-04-15T09:21:24.288395"
+date: "2026-04-16T19:21:59.694849"
 draft: false
 sectors:
-  - gaming
   - entertainment
+  - gaming
   - hardware
 regions:
   - japan
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.playstation.com/en-us/ps4](https://www.playstation.com/en-us/ps4)
-- [https://sonyinteractive.com/en/corporate/release/2016/160908c.html](https://sonyinteractive.com/en/corporate/release/2016/160908c.html)
+- [https://sonyinteractive.com/en/press-releases/sony-interactive-entertainment-unveils-playstation4-pro-delivering-enhanced-ps4-experience](https://sonyinteractive.com/en/press-releases/sony-interactive-entertainment-unveils-playstation4-pro-delivering-enhanced-ps4-experience)
 
 ## Brand Guidelines
 

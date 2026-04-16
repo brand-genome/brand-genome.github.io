@@ -2,11 +2,11 @@
 title: Aalto
 slug: aalto
 description: ""
-date: "2026-04-15T09:21:25.416792"
+date: "2026-04-16T19:22:01.100616"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - finland
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - finland
@@ -67,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aalto.fi](https://www.aalto.fi)
+- [https://www.aalto.fi/fi](https://www.aalto.fi/fi)
 - [https://www.aalto.fi/en](https://www.aalto.fi/en)
 - [https://www.aaltoee.fi/en](https://www.aaltoee.fi/en)
 - [http://www.aalto.fi](http://www.aalto.fi)
+- [https://www.aalto.fi](https://www.aalto.fi)
 
 ## Brand Guidelines
 

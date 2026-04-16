@@ -2,11 +2,11 @@
 title: MIT Civil and Environmental Engineering
 slug: "mit-civil-and-environmental-engineering"
 description: ""
-date: "2026-04-15T09:21:23.979491"
+date: "2026-04-16T19:21:59.288748"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Life
 slug: life
 description: ""
-date: "2026-04-15T09:21:24.317858"
+date: "2026-04-16T19:21:59.726528"
 draft: false
 sectors:
   - "arts-culture"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - magazine
   - media
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

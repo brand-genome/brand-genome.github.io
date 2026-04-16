@@ -2,7 +2,7 @@
 title: Google Marketing
 slug: "google-marketing"
 description: ""
-date: "2026-04-15T09:21:25.668413"
+date: "2026-04-16T19:22:01.706759"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://marketingplatform.google.com](https://marketingplatform.google.com)
+- [https://marketingplatform.google.com/about](https://marketingplatform.google.com/about)
 
 ## Brand Guidelines
 

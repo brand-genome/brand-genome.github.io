@@ -2,21 +2,21 @@
 title: Motorola
 slug: motorola
 description: ""
-date: "2026-04-15T09:21:23.597074"
+date: "2026-04-16T19:21:58.885950"
 draft: false
 sectors:
-  - hardware
   - telecom
+  - hardware
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
-  - featured
   - telecommunications
+  - featured
 industries:
   - telecommunications
 countries:
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.motorola.com](https://www.motorola.com)
+- [https://www.motorola.in](https://www.motorola.in)
 - [https://www.motorola.com/us/en/thinkshield](https://www.motorola.com/us/en/thinkshield)
 - [https://www.motorola.com/we/en/motoverse/hello-you](https://www.motorola.com/we/en/motoverse/hello-you)
 - [https://www.hellomoto.com.br](https://www.hellomoto.com.br)

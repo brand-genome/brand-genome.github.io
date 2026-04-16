@@ -2,7 +2,7 @@
 title: Sescam
 slug: sescam
 description: ""
-date: "2026-04-15T09:21:23.615351"
+date: "2026-04-16T19:21:58.903691"
 draft: false
 sectors:
   - "public-sector"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://sanidad.castillalamancha.es](https://sanidad.castillalamancha.es)
-- [https://sescam.jccm.es/misaluddigital](https://sescam.jccm.es/misaluddigital)
 
 ## Brand Guidelines
 

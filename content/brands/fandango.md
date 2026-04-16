@@ -2,11 +2,11 @@
 title: Fandango
 slug: fandango
 description: ""
-date: "2026-04-15T09:21:25.046869"
+date: "2026-04-16T19:22:00.637892"
 draft: false
 sectors:
-  - "e-commerce"
   - entertainment
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - internet
   - entertainment
+  - internet
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fandango.com](https://www.fandango.com)
-- [https://athome.fandango.com](https://athome.fandango.com)
+- [https://athome.fandango.com/region-error](https://athome.fandango.com/region-error)
 - [http://www.fandango.com](http://www.fandango.com)
 
 ## Brand Guidelines

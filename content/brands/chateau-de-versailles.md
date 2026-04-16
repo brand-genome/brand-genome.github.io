@@ -2,11 +2,11 @@
 title: Château de Versailles
 slug: "chateau-de-versailles"
 description: ""
-date: "2026-04-15T09:21:25.842869"
+date: "2026-04-16T19:22:02.102423"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - france
 years:

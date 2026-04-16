@@ -2,7 +2,7 @@
 title: İzmir Kalkınma Ajansı
 slug: "izmir-kalknma-ajans"
 description: ""
-date: "2026-04-15T09:21:24.761013"
+date: "2026-04-16T19:22:00.308844"
 draft: false
 sectors:
   - "public-sector"

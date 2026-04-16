@@ -2,7 +2,7 @@
 title: Beaver Builder
 slug: "beaver-builder"
 description: ""
-date: "2026-04-15T09:21:23.755826"
+date: "2026-04-16T19:21:59.081510"
 draft: false
 sectors:
   - software
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 
 - [https://www.wpbeaverbuilder.com](https://www.wpbeaverbuilder.com)
 - [https://docs.wpbeaverbuilder.com](https://docs.wpbeaverbuilder.com)
-- [https://www.assistant.pro](https://www.assistant.pro)
+- [https://assistant.pro](https://assistant.pro)
 
 ## Brand Guidelines
 

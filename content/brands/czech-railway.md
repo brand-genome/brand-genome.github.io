@@ -2,11 +2,11 @@
 title: Czech railway
 slug: "czech-railway"
 description: ""
-date: "2026-04-15T09:21:23.566290"
+date: "2026-04-16T19:21:58.859282"
 draft: false
 sectors:
-  - "public-sector"
   - railroad
+  - "public-sector"
 regions:
   - "czech-republic"
 years:

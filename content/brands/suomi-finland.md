@@ -2,11 +2,11 @@
 title: Suomi Finland
 slug: "suomi-finland"
 description: ""
-date: "2026-04-15T09:21:24.911659"
+date: "2026-04-16T19:22:00.482426"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - finland
 years:

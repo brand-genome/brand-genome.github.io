@@ -2,7 +2,7 @@
 title: Icelandair
 slug: icelandair
 description: ""
-date: "2026-04-15T09:21:22.554866"
+date: "2026-04-16T19:21:57.903834"
 draft: false
 sectors:
   - airline
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
   - aeronautic
+  - transport
 industries: []
 countries:
   - iceland
@@ -68,9 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.icelandair.com](https://www.icelandair.com)
-- [https://www.icelandair.is](https://www.icelandair.is)
-- [https://www.icelandair.net](https://www.icelandair.net)
 - [http://www.icelandair.com](http://www.icelandair.com)
 - [https://www.icelandair.com/de-de](https://www.icelandair.com/de-de)
 - [https://www.icelandair.com/da-dk](https://www.icelandair.com/da-dk)

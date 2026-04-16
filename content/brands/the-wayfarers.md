@@ -2,7 +2,7 @@
 title: The Wayfarers
 slug: "the-wayfarers"
 description: ""
-date: "2026-04-15T09:21:22.513549"
+date: "2026-04-16T19:21:57.842500"
 draft: false
 sectors:
   - tourism

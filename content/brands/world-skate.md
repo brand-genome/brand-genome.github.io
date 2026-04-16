@@ -2,7 +2,7 @@
 title: World Skate
 slug: "world-skate"
 description: ""
-date: "2026-04-15T09:21:25.363886"
+date: "2026-04-16T19:22:01.030655"
 draft: false
 sectors:
   - sports

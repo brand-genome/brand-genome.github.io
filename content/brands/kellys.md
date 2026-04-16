@@ -2,7 +2,7 @@
 title: Kellys
 slug: kellys
 description: ""
-date: "2026-04-15T09:21:24.915974"
+date: "2026-04-16T19:22:00.486361"
 draft: false
 sectors:
   - sports
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kellysbike.com](https://kellysbike.com)
-- [http://kellysbike.com/INT/support-logo-manual](http://kellysbike.com/INT/support-logo-manual)
-- [http://kellysbike.com/SK/podpora-logo-manual](http://kellysbike.com/SK/podpora-logo-manual)
 - [https://www.kellysbikeusa.com](https://www.kellysbikeusa.com)
 
 ## Brand Guidelines

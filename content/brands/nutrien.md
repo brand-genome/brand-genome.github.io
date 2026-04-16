@@ -2,10 +2,10 @@
 title: Nutrien
 slug: nutrien
 description: ""
-date: "2026-04-15T09:21:25.168654"
+date: "2026-04-16T19:22:00.764811"
 draft: false
 sectors:
-  - "agricultural-heavy-equipment"
+  - "agriculture-natural-resources"
 regions:
   - canada
 years:

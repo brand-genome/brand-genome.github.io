@@ -2,7 +2,7 @@
 title: Kinokuniya
 slug: kinokuniya
 description: ""
-date: "2026-04-15T09:21:24.075773"
+date: "2026-04-16T19:21:59.398820"
 draft: false
 sectors:
   - retail
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - entertainment
+  - cultural
 industries: []
 countries:
   - japan

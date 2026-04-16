@@ -2,11 +2,11 @@
 title: Central Bank of Bahrain
 slug: "central-bank-of-bahrain"
 description: ""
-date: "2026-04-15T09:21:25.032360"
+date: "2026-04-16T19:22:00.618639"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - bahrain
 years:

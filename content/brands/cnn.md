@@ -2,11 +2,11 @@
 title: CNN
 slug: cnn
 description: ""
-date: "2026-04-15T09:21:22.218592"
+date: "2026-04-16T19:21:57.259977"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
   - media
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []

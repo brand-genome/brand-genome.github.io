@@ -2,7 +2,7 @@
 title: Swansea University
 slug: "swansea-university"
 description: ""
-date: "2026-04-15T09:21:24.313527"
+date: "2026-04-16T19:21:59.721285"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 
 - [https://www.swansea.ac.uk](https://www.swansea.ac.uk)
 - [https://hwb.swansea.ac.uk](https://hwb.swansea.ac.uk)
-- [https://marketingtoolkit.swansea.ac.uk](https://marketingtoolkit.swansea.ac.uk)
+- [https://login.microsoftonline.com/bbcab52e-9fbe-43d6-a2f3-9f66c43df268/oauth2/authorize?response_type=code&scope=openid&client_id=a27a9b76-c0b1-476a-b2e4-0b85706e2033&state=TSH4mOtjaCj8uavjg36KjmttwzE&redirect_uri=https%3A%2F%2Fstaff.swansea.ac.uk%2Flogged-in&nonce=JljBJ9UCFUsFpJf3o6fnNu4sgTEy3JotWtXWvG7gy4A&domain_hint=swansea.ac.uk](https://login.microsoftonline.com/bbcab52e-9fbe-43d6-a2f3-9f66c43df268/oauth2/authorize?response_type=code&scope=openid&client_id=a27a9b76-c0b1-476a-b2e4-0b85706e2033&state=TSH4mOtjaCj8uavjg36KjmttwzE&redirect_uri=https%3A%2F%2Fstaff.swansea.ac.uk%2Flogged-in&nonce=JljBJ9UCFUsFpJf3o6fnNu4sgTEy3JotWtXWvG7gy4A&domain_hint=swansea.ac.uk)
 - [http://www.swansea.ac.uk](http://www.swansea.ac.uk)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: American Advertising Federation
 slug: "american-advertising-federation"
 description: ""
-date: "2026-04-15T09:21:24.029538"
+date: "2026-04-16T19:21:59.344949"
 draft: false
 sectors:
   - "marketing-advertising"

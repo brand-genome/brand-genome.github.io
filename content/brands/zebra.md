@@ -2,18 +2,16 @@
 title: Zebra
 slug: zebra
 description: ""
-date: "2026-04-15T09:21:23.692388"
+date: "2026-04-16T19:21:59.015654"
 draft: false
 sectors:
-  - insurance
-  - finance
   - software
 regions:
   - usa
 years:
+  - 2022
   - 2020
   - 2017
-  - 2022
 languages:
   - english
 tags:
@@ -63,10 +61,6 @@ guideline_count: 3
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.thezebra.com](https://www.thezebra.com)
-
 ## Brand Guidelines
 
 ### 2022

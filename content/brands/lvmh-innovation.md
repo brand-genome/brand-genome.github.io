@@ -2,11 +2,10 @@
 title: LVMH Innovation
 slug: "lvmh-innovation"
 description: ""
-date: "2026-04-15T09:21:22.231933"
+date: "2026-04-16T19:21:57.273735"
 draft: false
 sectors:
   - "public-relations"
-  - consulting
 regions:
   - france
 years:
@@ -62,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lamaisondesstartups.lvmh.com](https://lamaisondesstartups.lvmh.com)
-- [https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh](https://lamaisondesstartups.lvmh.com/open-innovation-at-lvmh)
+- [https://www.lvmh.com/en/startups-tech-partners](https://www.lvmh.com/en/startups-tech-partners)
 - [https://www.lvmh.com/en/startups-tech-partners/la-maison-des-startups-lvmh](https://www.lvmh.com/en/startups-tech-partners/la-maison-des-startups-lvmh)
 - [https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025](https://www.lvmh.com/en/lvmh-x-vivatech-2025/lvmh-innovation-award-2025)
 

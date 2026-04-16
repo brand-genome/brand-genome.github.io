@@ -2,7 +2,7 @@
 title: Northern Ireland
 slug: "northern-ireland"
 description: ""
-date: "2026-04-15T09:21:24.376760"
+date: "2026-04-16T19:21:59.920946"
 draft: false
 sectors:
   - tourism
@@ -11,8 +11,8 @@ regions:
   - "united-kingdom"
   - ireland
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:

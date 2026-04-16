@@ -2,11 +2,11 @@
 title: Stitch Fix
 slug: "stitch-fix"
 description: ""
-date: "2026-04-15T09:21:25.183198"
+date: "2026-04-16T19:22:00.777828"
 draft: false
 sectors:
-  - fashion
   - "e-commerce"
+  - fashion
 regions:
   - usa
 years:

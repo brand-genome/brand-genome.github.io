@@ -2,12 +2,12 @@
 title: Food Bank
 slug: "food-bank"
 description: ""
-date: "2026-04-15T09:21:25.841614"
+date: "2026-04-16T19:22:02.099968"
 draft: false
 sectors:
+  - ngo
   - food
   - "logistics-supply-chain"
-  - ngo
 regions:
   - australia
 years:

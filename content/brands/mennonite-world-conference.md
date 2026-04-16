@@ -2,7 +2,7 @@
 title: Mennonite World Conference
 slug: "mennonite-world-conference"
 description: ""
-date: "2026-04-15T09:21:24.613337"
+date: "2026-04-16T19:22:00.181557"
 draft: false
 sectors:
   - ngo
@@ -61,9 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mwc-cmm.org](https://mwc-cmm.org)
 - [https://mwc-cmm.org/en](https://mwc-cmm.org/en)
-- [https://mwc-cmm.org/identity](https://mwc-cmm.org/identity)
 
 ## Brand Guidelines
 

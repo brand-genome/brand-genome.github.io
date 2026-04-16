@@ -2,11 +2,10 @@
 title: CReIAMO PA
 slug: "creiamo-pa"
 description: ""
-date: "2026-04-15T09:21:24.050914"
+date: "2026-04-16T19:21:59.371017"
 draft: false
 sectors:
   - "public-sector"
-  - "renewable-energy"
 regions:
   - italy
 years:
@@ -60,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://creiamopa.mase.gov.it](https://creiamopa.mase.gov.it)
-- [https://creiamopa.mase.gov.it/web/creiamopa.html](https://creiamopa.mase.gov.it/web/creiamopa.html)
-
 ## Brand Guidelines
 
 ### 2018

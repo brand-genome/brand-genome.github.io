@@ -2,7 +2,7 @@
 title: HiP
 slug: hip
 description: ""
-date: "2026-04-15T09:21:25.374019"
+date: "2026-04-16T19:22:01.040936"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.in.gov/fssa/hip](https://www.in.gov/fssa/hip)
-- [https://www.in.gov/fssa/hip/index.htm](https://www.in.gov/fssa/hip/index.htm)
 - [https://www.mhsindiana.com/members/hip/login1.html](https://www.mhsindiana.com/members/hip/login1.html)
 
 ## Brand Guidelines

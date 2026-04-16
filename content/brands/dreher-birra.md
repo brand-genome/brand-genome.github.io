@@ -2,11 +2,11 @@
 title: Dreher Birra
 slug: "dreher-birra"
 description: ""
-date: "2026-04-15T09:21:24.803689"
+date: "2026-04-16T19:22:00.352192"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - italy
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - italian
 tags:
-  - featured
   - "food-beverage"
   - vintage
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

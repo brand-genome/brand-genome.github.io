@@ -2,10 +2,9 @@
 title: Yamaha Offers You
 slug: "yamaha-offers-you"
 description: ""
-date: "2026-04-15T09:21:25.652353"
+date: "2026-04-16T19:22:01.671461"
 draft: false
 sectors:
-  - automobile
   - insurance
   - finance
 regions:

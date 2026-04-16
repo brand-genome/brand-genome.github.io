@@ -2,11 +2,11 @@
 title: Girl Guides of Canada
 slug: "girl-guides-of-canada"
 description: ""
-date: "2026-04-15T09:21:25.334585"
+date: "2026-04-16T19:22:01.000748"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - canada
 years:
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.girlguides.ca](https://www.girlguides.ca)
-- [https://www.girlguides.ca/web/qc-fr](https://www.girlguides.ca/web/qc-fr)
 - [http://www.girlguides.ca](http://www.girlguides.ca)
 
 ## Brand Guidelines

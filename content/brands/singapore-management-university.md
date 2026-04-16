@@ -2,11 +2,11 @@
 title: Singapore Management University
 slug: "singapore-management-university"
 description: ""
-date: "2026-04-15T09:21:25.441000"
+date: "2026-04-16T19:22:01.126292"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - singapore
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - singapore

@@ -2,7 +2,7 @@
 title: Alfa Romeo
 slug: "alfa-romeo"
 description: ""
-date: "2026-04-15T09:21:25.391965"
+date: "2026-04-16T19:22:01.068040"
 draft: false
 sectors:
   - automobile
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "luxury-vehicle"
   - car
+  - "luxury-vehicle"
 products: []
 headquarters_locations:
   - turin
@@ -69,11 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alfaromeo.com](https://www.alfaromeo.com)
-- [https://www.alfaromeo.com/choose-your-market](https://www.alfaromeo.com/choose-your-market)
-- [https://www.alfaromeousa.com](https://www.alfaromeousa.com)
-- [https://www.alfaromeo.ca](https://www.alfaromeo.ca)
 - [http://www.alfaromeo.com](http://www.alfaromeo.com)
+- [https://www.alfaromeo.com](https://www.alfaromeo.com)
 
 ## Brand Guidelines
 
@@ -239,7 +236,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/); [Car](/products_or_materials_produced/car/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
 | Headquarters Location | [Turin](/headquarters_locations/turin/) |
 | Foundation Date | [1910](/foundation_dates/1910/) |
 | Headquarters Location | Turin |

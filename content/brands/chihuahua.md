@@ -2,11 +2,11 @@
 title: Chihuahua
 slug: chihuahua
 description: ""
-date: "2026-04-15T09:21:23.865647"
+date: "2026-04-16T19:21:59.191754"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - mexico
 years:

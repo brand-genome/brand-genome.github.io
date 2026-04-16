@@ -2,7 +2,7 @@
 title: Appian
 slug: appian
 description: ""
-date: "2026-04-15T09:21:23.768936"
+date: "2026-04-16T19:21:59.096800"
 draft: false
 sectors:
   - software
@@ -61,11 +61,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.appian.com](https://www.appian.com)
+- [https://appian.com](https://appian.com)
 - [https://www.appian.de](https://www.appian.de)
 - [https://www.appian.it](https://www.appian.it)
 - [https://www.appian.es](https://www.appian.es)
-- [https://www.appian.fr](https://www.appian.fr)
+- [https://appian.com/fr](https://appian.com/fr)
 - [http://www.appian.com](http://www.appian.com)
 
 ## Brand Guidelines

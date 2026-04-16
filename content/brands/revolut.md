@@ -2,7 +2,7 @@
 title: Revolut
 slug: revolut
 description: ""
-date: "2026-04-15T09:21:22.445348"
+date: "2026-04-16T19:21:57.723514"
 draft: false
 sectors:
   - finance
@@ -26,11 +26,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "foreign-exchange-market"
   - "transactional-account"
-  - "bureau-de-change"
   - insurance
   - "debit-card"
+  - "foreign-exchange-market"
+  - "bureau-de-change"
 products: []
 headquarters_locations:
   - london
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.revolut.com](https://www.revolut.com)
-- [https://business.revolut.com](https://business.revolut.com)
 
 ## Brand Guidelines
 
@@ -252,7 +251,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Transactional Account](/products_or_materials_produced/transactional-account/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/); [Insurance](/products_or_materials_produced/insurance/); [Debit Card](/products_or_materials_produced/debit-card/) |
+| Product Or Material Produced | [Transactional Account](/products_or_materials_produced/transactional-account/); [Insurance](/products_or_materials_produced/insurance/); [Debit Card](/products_or_materials_produced/debit-card/); [Foreign Exchange Market](/products_or_materials_produced/foreign-exchange-market/); [Bureau De Change](/products_or_materials_produced/bureau-de-change/) |
 | Headquarters Location | [London](/headquarters_locations/london/) |
 | Foundation Date | [2015](/foundation_dates/2015/) |
 | Motto Text | Simply Revolutionary, Change the way you money. |

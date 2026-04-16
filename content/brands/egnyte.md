@@ -2,11 +2,11 @@
 title: Egnyte
 slug: egnyte
 description: ""
-date: "2026-04-15T09:21:22.598482"
+date: "2026-04-16T19:21:57.962790"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

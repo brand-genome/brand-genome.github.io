@@ -2,7 +2,7 @@
 title: University College London
 slug: "university-college-london"
 description: ""
-date: "2026-04-15T09:21:22.576637"
+date: "2026-04-16T19:21:57.940327"
 draft: false
 sectors:
   - university
@@ -10,15 +10,15 @@ regions:
   - "united-kingdom"
 years:
   - 2024
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
-  - university
   - featured
-  - education
   - signage
+  - education
+  - university
 industries: []
 countries:
   - "united-kingdom"

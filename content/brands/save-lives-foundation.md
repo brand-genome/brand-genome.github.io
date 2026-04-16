@@ -2,7 +2,7 @@
 title: Save Lives Foundation
 slug: "save-lives-foundation"
 description: ""
-date: "2026-04-15T09:21:23.402533"
+date: "2026-04-16T19:21:58.793395"
 draft: false
 sectors:
   - ngo

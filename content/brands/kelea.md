@@ -2,7 +2,7 @@
 title: Kelea
 slug: kelea
 description: ""
-date: "2026-04-15T09:21:25.640589"
+date: "2026-04-16T19:22:01.651436"
 draft: false
 sectors:
   - tourism
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.keleasurfspa.com](http://www.keleasurfspa.com)
-
 ## Brand Guidelines
 
 ### 2017

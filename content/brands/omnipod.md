@@ -2,7 +2,7 @@
 title: Omnipod
 slug: omnipod
 description: ""
-date: "2026-04-15T09:21:23.709762"
+date: "2026-04-16T19:21:59.032784"
 draft: false
 sectors:
   - healthcare
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.omnipod.com/home](https://www.omnipod.com/home)
+- [https://www.omnipod.com](https://www.omnipod.com)
 - [http://www.omnipod.com](http://www.omnipod.com)
 
 ## Brand Guidelines

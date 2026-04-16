@@ -2,11 +2,11 @@
 title: Mansfield
 slug: mansfield
 description: ""
-date: "2026-04-15T09:21:22.126247"
+date: "2026-04-16T19:21:57.161571"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:

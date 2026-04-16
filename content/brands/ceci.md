@@ -2,7 +2,7 @@
 title: CECI
 slug: ceci
 description: ""
-date: "2026-04-15T09:21:23.775192"
+date: "2026-04-16T19:21:59.103166"
 draft: false
 sectors:
   - ngo

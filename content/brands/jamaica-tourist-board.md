@@ -2,7 +2,7 @@
 title: Jamaica Tourist Board
 slug: "jamaica-tourist-board"
 description: ""
-date: "2026-04-15T09:21:24.541357"
+date: "2026-04-16T19:22:00.114283"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.visitjamaica.com](https://www.visitjamaica.com)
-- [https://www.jtbonline.org](https://www.jtbonline.org)
 
 ## Brand Guidelines
 

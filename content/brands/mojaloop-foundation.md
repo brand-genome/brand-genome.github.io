@@ -2,11 +2,11 @@
 title: Mojaloop Foundation
 slug: "mojaloop-foundation"
 description: ""
-date: "2026-04-15T09:21:24.002545"
+date: "2026-04-16T19:21:59.311344"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:

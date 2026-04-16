@@ -2,7 +2,7 @@
 title: FISU
 slug: fisu
 description: ""
-date: "2026-04-15T09:21:23.817939"
+date: "2026-04-16T19:21:59.146264"
 draft: false
 sectors:
   - sports

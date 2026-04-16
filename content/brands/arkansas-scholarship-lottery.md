@@ -2,11 +2,11 @@
 title: Arkansas Scholarship Lottery
 slug: "arkansas-scholarship-lottery"
 description: ""
-date: "2026-04-15T09:21:24.555783"
+date: "2026-04-16T19:22:00.127260"
 draft: false
 sectors:
-  - "public-sector"
   - entertainment
+  - "public-sector"
 regions:
   - usa
 years:
@@ -63,8 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.myarkansaslottery.com](https://www.myarkansaslottery.com)
 - [http://www.myarkansaslottery.com](http://www.myarkansaslottery.com)
+- [https://www.myarkansaslottery.com](https://www.myarkansaslottery.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Kokugakuin University
 slug: "kokugakuin-university"
 description: ""
-date: "2026-04-15T09:21:24.385598"
+date: "2026-04-16T19:21:59.974499"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - japan
@@ -68,8 +68,9 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kokugakuin.ac.jp](https://www.kokugakuin.ac.jp)
-- [https://www.kokugakuin.ac.jp/en](https://www.kokugakuin.ac.jp/en)
+- [https://www.kokugakuin.ac.jp/en/about](https://www.kokugakuin.ac.jp/en/about)
 - [http://www.kokugakuin.ac.jp](http://www.kokugakuin.ac.jp)
+- [https://www.kokugakuin.ac.jp/en](https://www.kokugakuin.ac.jp/en)
 
 ## Brand Guidelines
 

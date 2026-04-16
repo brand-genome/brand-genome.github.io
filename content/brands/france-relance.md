@@ -2,7 +2,7 @@
 title: France Relance
 slug: "france-relance"
 description: ""
-date: "2026-04-15T09:21:23.987503"
+date: "2026-04-16T19:21:59.296716"
 draft: false
 sectors:
   - "public-sector"
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.info.gouv.fr/grand-dossier/france-relance](https://www.info.gouv.fr/grand-dossier/france-relance)
-- [https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance](https://www.collectivites-locales.gouv.fr/cohesion-territoriale/france-relance)
-
 ## Brand Guidelines
 
 ### 2021

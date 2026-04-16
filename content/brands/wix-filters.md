@@ -2,10 +2,9 @@
 title: Wix Filters
 slug: "wix-filters"
 description: ""
-date: "2026-04-15T09:21:23.793697"
+date: "2026-04-16T19:21:59.123076"
 draft: false
 sectors:
-  - "consumer-goods"
   - automobile
 regions:
   - usa
@@ -62,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wixfilters.com](https://www.wixfilters.com)
-- [https://www.wixeurope.com](https://www.wixeurope.com)
+- [https://www.wixfilters.com/en-us.html](https://www.wixfilters.com/en-us.html)
 - [http://www.wixeurope.com](http://www.wixeurope.com)
 
 ## Brand Guidelines

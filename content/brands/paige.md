@@ -2,7 +2,7 @@
 title: Paige
 slug: paige
 description: ""
-date: "2026-04-15T09:21:23.786803"
+date: "2026-04-16T19:21:59.116326"
 draft: false
 sectors:
   - networking
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.paigeconnected.com](https://www.paigeconnected.com)
+- [https://paigeconnected.com](https://paigeconnected.com)
 - [http://www.paigedatacom.com](http://www.paigedatacom.com)
 - [http://www.paigeconnected.com](http://www.paigeconnected.com)
 

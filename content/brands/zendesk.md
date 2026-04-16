@@ -2,7 +2,7 @@
 title: Zendesk
 slug: zendesk
 description: ""
-date: "2026-04-15T09:21:23.394781"
+date: "2026-04-16T19:21:58.784312"
 draft: false
 sectors:
   - software
@@ -67,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.zendesk.com/in](https://www.zendesk.com/in)
+- [https://support.zendesk.com/hc/en-us](https://support.zendesk.com/hc/en-us)
 - [https://www.zendesk.com](https://www.zendesk.com)
-- [https://support.zendesk.com](https://support.zendesk.com)
 - [https://www.zendesk.co.jp](https://www.zendesk.co.jp)
 
 ## Additional Properties

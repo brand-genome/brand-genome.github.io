@@ -2,7 +2,7 @@
 title: Queenstown Lakes District Council
 slug: "queenstown-lakes-district-council"
 description: ""
-date: "2026-04-15T09:21:23.872017"
+date: "2026-04-16T19:21:59.197804"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: Office de Tourisme de France
 slug: "office-de-tourisme-de-france"
 description: ""
-date: "2026-04-15T09:21:25.834955"
+date: "2026-04-16T19:22:02.065868"
 draft: false
 sectors:
   - tourism
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.tourisme.fr](https://www.tourisme.fr)
-
 ## Brand Guidelines
 
 ### 2014

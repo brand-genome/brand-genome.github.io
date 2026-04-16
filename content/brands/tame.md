@@ -2,7 +2,7 @@
 title: TAME
 slug: tame
 description: ""
-date: "2026-04-15T09:21:24.194853"
+date: "2026-04-16T19:21:59.546846"
 draft: false
 sectors:
   - airline
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.tame.com.ec](http://www.tame.com.ec)
 - [https://www.tame.com.ec](https://www.tame.com.ec)
 
 ## Brand Guidelines

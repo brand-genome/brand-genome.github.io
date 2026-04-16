@@ -2,7 +2,7 @@
 title: European Greens
 slug: "european-greens"
 description: ""
-date: "2026-04-15T09:21:24.387708"
+date: "2026-04-16T19:21:59.977036"
 draft: false
 sectors:
   - ngo

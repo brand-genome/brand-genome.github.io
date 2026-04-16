@@ -2,12 +2,12 @@
 title: Trinity College Dublin
 slug: "trinity-college-dublin"
 description: ""
-date: "2026-04-15T09:21:22.242547"
+date: "2026-04-16T19:21:57.281325"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - ireland
 years:

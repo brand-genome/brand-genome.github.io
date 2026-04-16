@@ -2,7 +2,7 @@
 title: Ilu Beverages
 slug: "ilu-beverages"
 description: ""
-date: "2026-04-15T09:21:22.507493"
+date: "2026-04-16T19:21:57.833187"
 draft: false
 sectors:
   - drink
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://drinkilu.com](https://drinkilu.com)
+- [https://www.ilyteyou.com](https://www.ilyteyou.com)
 
 ## Brand Guidelines
 

@@ -2,22 +2,22 @@
 title: ESPN
 slug: espn
 description: ""
-date: "2026-04-15T09:21:22.441081"
+date: "2026-04-16T19:21:57.718796"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
-  - 2024
   - 2008
+  - 2024
 languages:
   - english
 tags:
-  - broadcast
   - featured
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.espn.com](https://www.espn.com)
-- [https://plus.espn.com](https://plus.espn.com)
 - [https://espnpressroom.com/us](https://espnpressroom.com/us)
 
 ## Brand Guidelines

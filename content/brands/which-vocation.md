@@ -2,10 +2,10 @@
 title: Which Vocation
 slug: "which-vocation"
 description: ""
-date: "2026-04-15T09:21:24.083437"
+date: "2026-04-16T19:21:59.408453"
 draft: false
 sectors:
-  - education
+  - "staffing-recruitment"
 regions:
   - "united-kingdom"
 years:

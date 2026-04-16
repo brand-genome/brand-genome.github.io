@@ -2,7 +2,7 @@
 title: University of the Arts
 slug: "university-of-the-arts"
 description: ""
-date: "2026-04-15T09:21:23.799770"
+date: "2026-04-16T19:21:59.129376"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - art
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uarts.edu](https://www.uarts.edu)
 - [https://uarts.edu](https://uarts.edu)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Super Hi
 slug: "super-hi"
 description: ""
-date: "2026-04-15T09:21:23.702727"
+date: "2026-04-16T19:21:59.025947"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
   - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

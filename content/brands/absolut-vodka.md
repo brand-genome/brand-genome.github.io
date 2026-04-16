@@ -2,7 +2,7 @@
 title: Absolut Vodka
 slug: "absolut-vodka"
 description: ""
-date: "2026-04-15T09:21:23.186118"
+date: "2026-04-16T19:21:58.585795"
 draft: false
 sectors:
   - drink
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.absolut.com](https://www.absolut.com)
-- [https://www.absolut.com/en-us/products/absolut-vodka](https://www.absolut.com/en-us/products/absolut-vodka)
-- [https://www.absolutdrinks.com](https://www.absolutdrinks.com)
 
 ## Brand Guidelines
 

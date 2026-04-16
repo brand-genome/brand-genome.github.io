@@ -2,12 +2,12 @@
 title: NDI
 slug: ndi
 description: ""
-date: "2026-04-15T09:21:23.776151"
+date: "2026-04-16T19:21:59.104215"
 draft: false
 sectors:
+  - software
   - networking
   - broadcasting
-  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - software
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ndi.video](https://ndi.video)
-- [https://www.vizrt.com/products/ndi](https://www.vizrt.com/products/ndi)
 - [http://www.linkedin.com/company/ndi-tv](http://www.linkedin.com/company/ndi-tv)
 - [http://www.ndi.tv](http://www.ndi.tv)
 - [http://www.youtube.com/c/NDItv/featured](http://www.youtube.com/c/NDItv/featured)

@@ -2,10 +2,11 @@
 title: Aiga
 slug: aiga
 description: ""
-date: "2026-04-15T09:21:24.376636"
+date: "2026-04-16T19:21:59.920466"
 draft: false
 sectors:
   - "arts-culture"
+  - "design-creative"
 regions:
   - usa
 years:

@@ -2,10 +2,9 @@
 title: Merchant Advisory Group
 slug: "merchant-advisory-group"
 description: ""
-date: "2026-04-15T09:21:22.590866"
+date: "2026-04-16T19:21:57.954385"
 draft: false
 sectors:
-  - consulting
   - ngo
 regions:
   - usa

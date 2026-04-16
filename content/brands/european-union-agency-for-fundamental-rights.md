@@ -2,7 +2,7 @@
 title: European Union Agency for Fundamental Rights
 slug: "european-union-agency-for-fundamental-rights"
 description: ""
-date: "2026-04-15T09:21:23.650281"
+date: "2026-04-16T19:21:58.963552"
 draft: false
 sectors:
   - "public-sector"

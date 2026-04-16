@@ -2,7 +2,7 @@
 title: Certification Europe
 slug: "certification-europe"
 description: ""
-date: "2026-04-15T09:21:24.385400"
+date: "2026-04-16T19:21:59.973536"
 draft: false
 sectors:
   - consulting
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.certificationeurope.com](https://www.certificationeurope.com)
+- [https://amtivo.com/ie](https://amtivo.com/ie)
 
 ## Brand Guidelines
 

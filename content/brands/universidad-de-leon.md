@@ -2,11 +2,11 @@
 title: Universidad de León
 slug: "universidad-de-leon"
 description: ""
-date: "2026-04-15T09:21:22.363791"
+date: "2026-04-16T19:21:57.601738"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

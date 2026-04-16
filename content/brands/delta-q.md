@@ -2,11 +2,11 @@
 title: Delta Q
 slug: "delta-q"
 description: ""
-date: "2026-04-15T09:21:22.523283"
+date: "2026-04-16T19:21:57.862614"
 draft: false
 sectors:
-  - food
   - drink
+  - food
 regions:
   - portugal
 years:
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mydeltaq.com](https://www.mydeltaq.com)
-- [https://pt.mydeltaq.com/pt/pt](https://pt.mydeltaq.com/pt/pt)
 - [https://gl.mydeltaq.com/en/en](https://gl.mydeltaq.com/en/en)
 - [https://risebydeltaq.com](https://risebydeltaq.com)
 - [http://www.mydeltaq.com](http://www.mydeltaq.com)

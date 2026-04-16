@@ -2,7 +2,7 @@
 title: Comune di Roma
 slug: "comune-di-roma"
 description: ""
-date: "2026-04-15T09:21:25.681412"
+date: "2026-04-16T19:22:01.746985"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.comune.roma.it](https://www.comune.roma.it)
+- [https://www.comune.roma.it/web/it/home.page](https://www.comune.roma.it/web/it/home.page)
 - [http://www.comune.roma.it/web/it/assemblea-capitolina.page](http://www.comune.roma.it/web/it/assemblea-capitolina.page)
 
 ## Brand Guidelines

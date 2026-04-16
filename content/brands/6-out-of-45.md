@@ -2,7 +2,7 @@
 title: 6 Out of 45
 slug: "6-out-of-45"
 description: ""
-date: "2026-04-15T09:21:24.084295"
+date: "2026-04-16T19:21:59.410166"
 draft: false
 sectors:
   - entertainment
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.stoloto.ru/check-ticket/6x45](https://www.stoloto.ru/check-ticket/6x45)
-- [https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45](https://media.stoloto.ru/article/kak-igrat-v-sportloto-6-iz-45)
-
 ## Brand Guidelines
 
 ### 2010

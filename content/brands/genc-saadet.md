@@ -2,10 +2,10 @@
 title: Genç Saadet
 slug: "genc-saadet"
 description: ""
-date: "2026-04-15T09:21:24.814007"
+date: "2026-04-16T19:22:00.360550"
 draft: false
 sectors:
-  - ngo
+  - "public-sector"
 regions:
   - turkiye
 years:

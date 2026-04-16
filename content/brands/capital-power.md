@@ -2,12 +2,12 @@
 title: Capital Power
 slug: "capital-power"
 description: ""
-date: "2026-04-15T09:21:24.935000"
+date: "2026-04-16T19:22:00.509050"
 draft: false
 sectors:
+  - gas
   - utilities
   - "renewable-energy"
-  - gas
 regions:
   - canada
 years:

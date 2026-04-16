@@ -2,11 +2,10 @@
 title: CitésLab
 slug: citeslab
 description: ""
-date: "2026-04-15T09:21:24.083877"
+date: "2026-04-16T19:21:59.409264"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - france
 years:
@@ -62,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.citeslab.fr](https://www.citeslab.fr)
-- [https://www.bpifrance.fr/nos-appels-a-projets-concours/citeslab-revelateurs-de-talents](https://www.bpifrance.fr/nos-appels-a-projets-concours/citeslab-revelateurs-de-talents)
+- [https://entrepreneuriat-quartiers-2030.fr](https://entrepreneuriat-quartiers-2030.fr)
 
 ## Brand Guidelines
 

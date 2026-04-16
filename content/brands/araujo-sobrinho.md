@@ -2,11 +2,11 @@
 title: "Araujo & Sobrinho"
 slug: "araujo-sobrinho"
 description: ""
-date: "2026-04-15T09:21:22.602943"
+date: "2026-04-16T19:21:57.968137"
 draft: false
 sectors:
-  - "consumer-goods"
   - "arts-culture"
+  - "consumer-goods"
 regions:
   - portugal
 years:

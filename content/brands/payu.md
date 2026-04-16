@@ -2,7 +2,7 @@
 title: PayU
 slug: payu
 description: ""
-date: "2026-04-15T09:21:24.227687"
+date: "2026-04-16T19:21:59.604870"
 draft: false
 sectors:
   - finance
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://corporate.payu.com](https://corporate.payu.com)
-- [https://payu.com](https://payu.com)
 - [https://www.payu.pl](https://www.payu.pl)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: 10YFP
 slug: 10yfp
 description: ""
-date: "2026-04-15T09:21:24.088309"
+date: "2026-04-16T19:21:59.415386"
 draft: false
 sectors:
   - ngo
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unep.org](https://www.unep.org)
-- [https://www.unep.org/es/node/1578](https://www.unep.org/es/node/1578)
 
 ## Brand Guidelines
 

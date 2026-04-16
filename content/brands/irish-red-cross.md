@@ -2,11 +2,11 @@
 title: Irish Red Cross
 slug: "irish-red-cross"
 description: ""
-date: "2026-04-15T09:21:24.224660"
+date: "2026-04-16T19:21:59.601865"
 draft: false
 sectors:
-  - "emergency-services"
   - ngo
+  - "emergency-services"
 regions:
   - ireland
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.redcross.ie](https://www.redcross.ie)
-- [https://redcrossefr.org](https://redcrossefr.org)
 
 ## Brand Guidelines
 

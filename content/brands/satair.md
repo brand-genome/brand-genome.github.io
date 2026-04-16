@@ -2,7 +2,7 @@
 title: Satair
 slug: satair
 description: ""
-date: "2026-04-15T09:21:25.394852"
+date: "2026-04-16T19:22:01.071775"
 draft: false
 sectors:
   - aerospace

@@ -2,11 +2,10 @@
 title: Samoa
 slug: samoa
 description: ""
-date: "2026-04-15T09:21:23.873291"
+date: "2026-04-16T19:21:59.199224"
 draft: false
 sectors:
   - tourism
-  - "public-sector"
 regions:
   - samoa
 years:
@@ -61,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.samoa.travel](https://www.samoa.travel)
-
 ## Brand Guidelines
 
 ### 2020

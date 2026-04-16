@@ -2,20 +2,20 @@
 title: Special Olympics
 slug: "special-olympics"
 description: ""
-date: "2026-04-15T09:21:24.249481"
+date: "2026-04-16T19:21:59.647869"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - international
 years:
+  - 2016
   - 2002
   - 2012
-  - 2016
 languages:
-  - english
   - chinese
+  - english
 tags:
   - sport
 industries: []

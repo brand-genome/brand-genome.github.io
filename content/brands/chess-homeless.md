@@ -2,7 +2,7 @@
 title: CHESS Homeless
 slug: "chess-homeless"
 description: ""
-date: "2026-04-15T09:21:25.390138"
+date: "2026-04-16T19:22:01.065831"
 draft: false
 sectors:
   - ngo

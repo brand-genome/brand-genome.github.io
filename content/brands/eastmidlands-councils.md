@@ -2,7 +2,7 @@
 title: EastMidlands Councils
 slug: "eastmidlands-councils"
 description: ""
-date: "2026-04-15T09:21:25.414910"
+date: "2026-04-16T19:22:01.099030"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - regional
   - corporate
+  - regional
 industries: []
 countries: []
 revenue_buckets: []

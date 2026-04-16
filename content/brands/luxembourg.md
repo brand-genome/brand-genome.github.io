@@ -2,11 +2,11 @@
 title: Luxembourg
 slug: luxembourg
 description: ""
-date: "2026-04-15T09:21:22.074688"
+date: "2026-04-16T19:21:57.112046"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - luxembourg
 years:

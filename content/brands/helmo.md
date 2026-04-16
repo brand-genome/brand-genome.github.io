@@ -2,10 +2,11 @@
 title: HELMo
 slug: helmo
 description: ""
-date: "2026-04-15T09:21:24.091526"
+date: "2026-04-16T19:21:59.422357"
 draft: false
 sectors:
   - education
+  - university
 regions:
   - belgium
 years:

@@ -2,11 +2,11 @@
 title: Meals on Wheels
 slug: "meals-on-wheels"
 description: ""
-date: "2026-04-15T09:21:24.389020"
+date: "2026-04-16T19:21:59.978754"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - social
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,9 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mealsonwheels.ca](https://www.mealsonwheels.ca)
 - [https://www.mealsonwheels.com](https://www.mealsonwheels.com)
-- [https://www.mealsonwheels-ottawa.org](https://www.mealsonwheels-ottawa.org)
 
 ## Brand Guidelines
 

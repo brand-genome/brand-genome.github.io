@@ -2,11 +2,11 @@
 title: University of South Australia
 slug: "university-of-south-australia"
 description: ""
-date: "2026-04-15T09:21:24.808106"
+date: "2026-04-16T19:22:00.355796"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - australia
 years:
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - signage
-  - university
   - education
+  - university
 industries: []
 countries:
   - australia

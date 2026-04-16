@@ -2,11 +2,11 @@
 title: Mimecast
 slug: mimecast
 description: ""
-date: "2026-04-15T09:21:22.073166"
+date: "2026-04-16T19:21:57.110335"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://www.mimecast.com](https://www.mimecast.com)
 - [https://trust.mimecast.com](https://trust.mimecast.com)
 - [https://www.mimecast.com/login](https://www.mimecast.com/login)
-- [https://mimecastsupport.zendesk.com/hc/en-us](https://mimecastsupport.zendesk.com/hc/en-us)
 - [https://login-us.mimecast.com/partner/Common/Login](https://login-us.mimecast.com/partner/Common/Login)
 - [http://www.mimecast.com](http://www.mimecast.com)
 

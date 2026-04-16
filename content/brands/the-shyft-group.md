@@ -2,7 +2,7 @@
 title: The Shyft Group
 slug: "the-shyft-group"
 description: ""
-date: "2026-04-15T09:21:23.738930"
+date: "2026-04-16T19:21:59.064373"
 draft: false
 sectors:
   - automobile

@@ -2,7 +2,7 @@
 title: UK Space Agency
 slug: "uk-space-agency"
 description: ""
-date: "2026-04-15T09:21:23.209072"
+date: "2026-04-16T19:21:58.620661"
 draft: false
 sectors:
   - "public-sector"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gov.uk/government/organisations/uk-space-agency](https://www.gov.uk/government/organisations/uk-space-agency)
-- [https://www.gov.uk/uksa](https://www.gov.uk/uksa)
 - [http://www.youtube.com/user/spacegovuk](http://www.youtube.com/user/spacegovuk)
 - [https://gov.uk/uksa](https://gov.uk/uksa)
 - [http://www.bis.gov.uk/ukspaceagency](http://www.bis.gov.uk/ukspaceagency)

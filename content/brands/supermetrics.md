@@ -2,7 +2,7 @@
 title: Supermetrics
 slug: supermetrics
 description: ""
-date: "2026-04-15T09:21:23.597392"
+date: "2026-04-16T19:21:58.886228"
 draft: false
 sectors:
   - software
@@ -15,14 +15,14 @@ languages:
 tags:
   - technology
 industries:
+  - "software-engineering"
   - "digital-marketing"
   - "data-management"
-  - "software-engineering"
 countries:
-  - finland
   - singapore
   - ireland
   - lithuania
+  - finland
 revenue_buckets:
   - "UNDER-1M"
 operating_income_buckets:
@@ -34,8 +34,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - analytics
   - "data-visualization-software"
+  - analytics
 products: []
 headquarters_locations:
   - kluuvi
@@ -78,9 +78,7 @@ visual_term_image_urls: {}
 
 - [https://supermetrics.com](https://supermetrics.com)
 - [https://docs.supermetrics.com](https://docs.supermetrics.com)
-- [https://support.supermetrics.com](https://support.supermetrics.com)
 - [https://community.supermetrics.com](https://community.supermetrics.com)
-- [https://api.supermetrics.com](https://api.supermetrics.com)
 
 ## Additional Properties
 
@@ -90,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Analytics](/products_or_materials_produced/analytics/); [Data Visualization Software](/products_or_materials_produced/data-visualization-software/) |
+| Product Or Material Produced | [Data Visualization Software](/products_or_materials_produced/data-visualization-software/); [Analytics](/products_or_materials_produced/analytics/) |
 | Headquarters Location | [Kluuvi](/headquarters_locations/kluuvi/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013 |

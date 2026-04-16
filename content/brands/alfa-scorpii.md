@@ -2,11 +2,11 @@
 title: Alfa Scorpii
 slug: "alfa-scorpii"
 description: ""
-date: "2026-04-15T09:21:25.178470"
+date: "2026-04-16T19:22:00.772808"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - brazil
 years:

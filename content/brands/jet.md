@@ -2,7 +2,7 @@
 title: Jet
 slug: jet
 description: ""
-date: "2026-04-15T09:21:25.371812"
+date: "2026-04-16T19:22:01.038819"
 draft: false
 sectors:
   - "e-commerce"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.walmart.com](https://www.walmart.com)
+- [https://www.walmart.com/blocked?url=Lw==&uuid=c9b6112b-139f-11f1-88ee-dfe664620239&vid=&g=b](https://www.walmart.com/blocked?url=Lw==&uuid=c9b6112b-139f-11f1-88ee-dfe664620239&vid=&g=b)
 - [http://www.jet.com](http://www.jet.com)
 
 ## Brand Guidelines

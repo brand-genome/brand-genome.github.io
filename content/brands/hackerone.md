@@ -2,11 +2,11 @@
 title: HackerOne
 slug: hackerone
 description: ""
-date: "2026-04-15T09:21:24.812960"
+date: "2026-04-16T19:22:00.359395"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - software
+  - community
 industries:
   - "computer-security"
 countries:
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hackerone.com](https://www.hackerone.com)
-- [https://docs.hackerone.com](https://docs.hackerone.com)
+- [https://docs.hackerone.com/en](https://docs.hackerone.com/en)
 - [https://hackerone.com](https://hackerone.com)
 
 ## Brand Guidelines

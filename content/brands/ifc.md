@@ -2,7 +2,7 @@
 title: IFC
 slug: ifc
 description: ""
-date: "2026-04-15T09:21:25.706141"
+date: "2026-04-16T19:22:01.817947"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "private-sector-development"
   - "international-governmental-or-non-governmental-organizations"
+  - "private-sector-development"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -67,6 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.ifc.org/en/home](https://www.ifc.org/en/home)
 - [https://www.ifc.org](https://www.ifc.org)
 
 ## Brand Guidelines

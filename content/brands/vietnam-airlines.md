@@ -2,7 +2,7 @@
 title: Vietnam Airlines
 slug: "vietnam-airlines"
 description: ""
-date: "2026-04-15T09:21:24.617452"
+date: "2026-04-16T19:22:00.187019"
 draft: false
 sectors:
   - airline
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vietnamairlines.com](https://www.vietnamairlines.com)
+- [https://www.vietnamairlines.com/in/en](https://www.vietnamairlines.com/in/en)
 - [https://www.vietnamairlines.com/us/en](https://www.vietnamairlines.com/us/en)
 - [https://www.vietnamairlines.com/vn/en](https://www.vietnamairlines.com/vn/en)
 - [https://www.vietnamairlines.com/us/en/lotusmiles](https://www.vietnamairlines.com/us/en/lotusmiles)

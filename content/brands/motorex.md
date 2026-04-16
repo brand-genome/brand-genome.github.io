@@ -2,9 +2,11 @@
 title: Motorex
 slug: motorex
 description: ""
-date: "2026-04-15T09:21:22.278635"
+date: "2026-04-16T19:21:57.319269"
 draft: false
 sectors:
+  - petroleum
+  - automobile
   - "consumer-goods"
 regions:
   - switzerland
@@ -66,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://motorex.com](https://motorex.com)
+- [https://motorex.com/en](https://motorex.com/en)
 - [https://www.motorexusa.com](https://www.motorexusa.com)
 - [http://www.motorex.com](http://www.motorex.com)
 

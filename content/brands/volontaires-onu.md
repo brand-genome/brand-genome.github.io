@@ -2,11 +2,11 @@
 title: Volontaires ONU
 slug: "volontaires-onu"
 description: ""
-date: "2026-04-15T09:21:25.685644"
+date: "2026-04-16T19:22:01.761954"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.unv.org](https://www.unv.org)
-- [https://www.unv.org/branding/tools](https://www.unv.org/branding/tools)
-
 ## Brand Guidelines
 
 ### 2016

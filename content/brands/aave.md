@@ -2,11 +2,11 @@
 title: Aave
 slug: aave
 description: ""
-date: "2026-04-15T09:21:23.762218"
+date: "2026-04-16T19:21:59.088160"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - finance
+  - "blockchain-crypto"
 regions:
   - "united-kingdom"
 years:

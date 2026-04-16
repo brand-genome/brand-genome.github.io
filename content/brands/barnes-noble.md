@@ -2,7 +2,7 @@
 title: "Barnes & Noble"
 slug: "barnes-noble"
 description: ""
-date: "2026-04-15T09:21:25.049582"
+date: "2026-04-16T19:22:00.640536"
 draft: false
 sectors:
   - "retail-commerce"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - cultural
   - entertainment
+  - cultural
 industries:
   - bookselling
 countries:
@@ -40,8 +40,8 @@ foundation_dates:
   - 1917
   - 1873
 foundation_year_buckets:
-  - 1910S
   - "19TH-CENTURY"
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -75,7 +75,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.barnesandnoble.com](https://www.barnesandnoble.com)
-- [https://nook.barnesandnoble.com](https://nook.barnesandnoble.com)
 - [https://www.bn.com](https://www.bn.com)
 
 ## Brand Guidelines

@@ -2,23 +2,22 @@
 title: FAO
 slug: fao
 description: ""
-date: "2026-04-15T09:21:22.449093"
+date: "2026-04-16T19:21:57.726554"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - international
 years:
-  - 2023
   - 2024
+  - 2023
 languages:
   - english
 tags:
   - agriculture
-  - "food-beverage"
   - "social-networks"
   - institution
+  - "food-beverage"
 industries:
   - "international-governmental-or-non-governmental-organizations"
 countries:
@@ -71,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fao.org](https://www.fao.org)
 - [https://www.fao.org/home/en](https://www.fao.org/home/en)
+- [https://www.fao.org](https://www.fao.org)
 - [https://www.fao.org/home/ar](https://www.fao.org/home/ar)
 - [https://www.fao.org/home/zh](https://www.fao.org/home/zh)
 - [https://www.fao.org/home/fr](https://www.fao.org/home/fr)

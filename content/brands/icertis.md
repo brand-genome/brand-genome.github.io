@@ -2,7 +2,7 @@
 title: Icertis
 slug: icertis
 description: ""
-date: "2026-04-15T09:21:25.746149"
+date: "2026-04-16T19:22:01.916571"
 draft: false
 sectors:
   - software
@@ -25,8 +25,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "contract-management-software"
   - software
+  - "contract-management-software"
 products: []
 headquarters_locations:
   - bellevue
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.icertis.com](https://www.icertis.com)
-- [https://help.icertis.com](https://help.icertis.com)
+- [https://help.icertis.com/login?redirectUrl=](https://help.icertis.com/login?redirectUrl=)
 
 ## Brand Guidelines
 
@@ -358,7 +358,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Contract Management Software](/products_or_materials_produced/contract-management-software/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Contract Management Software](/products_or_materials_produced/contract-management-software/) |
 | Headquarters Location | [Bellevue](/headquarters_locations/bellevue/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Inception | 2009 |

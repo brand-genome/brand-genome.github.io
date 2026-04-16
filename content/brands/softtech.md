@@ -2,11 +2,10 @@
 title: Softtech
 slug: softtech
 description: ""
-date: "2026-04-15T09:21:24.816362"
+date: "2026-04-16T19:22:00.363642"
 draft: false
 sectors:
-  - "textile-apparel-manufacturing"
-  - "consumer-goods"
+  - software
 regions:
   - turkiye
 years:

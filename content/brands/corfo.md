@@ -2,7 +2,7 @@
 title: Corfo
 slug: corfo
 description: ""
-date: "2026-04-15T09:21:24.783849"
+date: "2026-04-16T19:22:00.333511"
 draft: false
 sectors:
   - "public-sector"
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.corfo.cl](https://www.corfo.cl)
-- [https://wapp.corfo.cl/transparencia](https://wapp.corfo.cl/transparencia)
 - [http://www.corfo.cl](http://www.corfo.cl)
 
 ## Brand Guidelines

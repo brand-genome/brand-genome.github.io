@@ -2,11 +2,11 @@
 title: WRKOUT
 slug: wrkout
 description: ""
-date: "2026-04-15T09:21:23.749327"
+date: "2026-04-16T19:21:59.073730"
 draft: false
 sectors:
-  - fitness
   - software
+  - fitness
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - app
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wrkout.com](https://www.wrkout.com)
-- [https://resources.wrkout.com](https://resources.wrkout.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Sormat
 slug: sormat
 description: ""
-date: "2026-04-15T09:21:24.782729"
+date: "2026-04-16T19:22:00.332361"
 draft: false
 sectors:
   - construction

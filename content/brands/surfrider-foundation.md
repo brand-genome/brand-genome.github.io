@@ -2,7 +2,7 @@
 title: Surfrider Foundation
 slug: "surfrider-foundation"
 description: ""
-date: "2026-04-15T09:21:22.099649"
+date: "2026-04-16T19:21:57.137778"
 draft: false
 sectors:
   - ngo
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - environment
   - ngo
+  - featured
 industries: []
 countries:
   - "united-states"

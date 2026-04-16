@@ -2,12 +2,12 @@
 title: The Company of Biologists
 slug: "the-company-of-biologists"
 description: ""
-date: "2026-04-15T09:21:24.612205"
+date: "2026-04-16T19:22:00.180537"
 draft: false
 sectors:
-  - research
   - ngo
   - publishing
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - biology
   - science
+  - biology
 industries: []
 countries:
   - "united-kingdom"
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.biologists.com](https://www.biologists.com)
-- [https://journals.biologists.com](https://journals.biologists.com)
 - [http://www.biologists.com](http://www.biologists.com)
 
 ## Brand Guidelines

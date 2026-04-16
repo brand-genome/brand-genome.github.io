@@ -2,11 +2,11 @@
 title: Swansea University Science for Schools Scheme
 slug: "swansea-university-science-for-schools-scheme"
 description: ""
-date: "2026-04-15T09:21:23.777145"
+date: "2026-04-16T19:21:59.105419"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - university
   - science
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,10 +62,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://s4science.co.uk](https://s4science.co.uk)
-
 ## Brand Guidelines
 
 ### 2019

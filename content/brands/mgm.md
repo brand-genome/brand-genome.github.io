@@ -2,11 +2,11 @@
 title: MGM+
 slug: mgm
 description: ""
-date: "2026-04-15T09:21:22.377436"
+date: "2026-04-16T19:21:57.625809"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mgmplus.com](https://mgmplus.com)
+- [https://www.mgmplus.com](https://www.mgmplus.com)
 - [http://www.mgmplus.com](http://www.mgmplus.com)
 
 ## Brand Guidelines

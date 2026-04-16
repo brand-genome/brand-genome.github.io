@@ -2,11 +2,11 @@
 title: University of the Pacific
 slug: "university-of-the-pacific"
 description: ""
-date: "2026-04-15T09:21:23.831092"
+date: "2026-04-16T19:21:59.159941"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

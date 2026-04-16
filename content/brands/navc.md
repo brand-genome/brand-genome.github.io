@@ -2,7 +2,7 @@
 title: NAVC
 slug: navc
 description: ""
-date: "2026-04-15T09:21:24.795053"
+date: "2026-04-16T19:22:00.344769"
 draft: false
 sectors:
   - "veterinary-pet-care"
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://navc.com](https://navc.com)
-- [https://navc.com/vetfolio](https://navc.com/vetfolio)
-
 ## Brand Guidelines
 
 ### 2016

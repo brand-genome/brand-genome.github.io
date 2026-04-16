@@ -2,11 +2,11 @@
 title: Pennington Biomedical
 slug: "pennington-biomedical"
 description: ""
-date: "2026-04-15T09:21:23.979354"
+date: "2026-04-16T19:21:59.288612"
 draft: false
 sectors:
-  - research
   - healthcare
+  - research
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - biology
   - health
+  - biology
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -67,9 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pbrc.edu/index.aspx](https://www.pbrc.edu/index.aspx)
-- [https://pbrf.org](https://pbrf.org)
 - [https://www.pbrc.edu](https://www.pbrc.edu)
+- [https://pbrf.org](https://pbrf.org)
 
 ## Brand Guidelines
 

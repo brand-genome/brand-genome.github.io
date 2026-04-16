@@ -2,21 +2,21 @@
 title: University of South Alabama
 slug: "university-of-south-alabama"
 description: ""
-date: "2026-04-15T09:21:22.109303"
+date: "2026-04-16T19:21:57.146148"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
-  - 2024
   - 2016
+  - 2024
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

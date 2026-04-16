@@ -2,12 +2,12 @@
 title: University of Galway
 slug: "university-of-galway"
 description: ""
-date: "2026-04-15T09:21:23.428433"
+date: "2026-04-16T19:21:58.814757"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - ireland
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - ireland
@@ -71,10 +71,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.universityofgalway.ie](https://www.universityofgalway.ie)
-- [https://www.ollscoilnagaillimhe.ie](https://www.ollscoilnagaillimhe.ie)
-- [https://www.ugal.ie](https://www.ugal.ie)
+- [https://www.ollscoilnagaillimhe.ie/index.htm](https://www.ollscoilnagaillimhe.ie/index.htm)
 - [http://www.universityofgalway.ie](http://www.universityofgalway.ie)
 - [http://www.nuigalway.ie](http://www.nuigalway.ie)
+- [https://www.ollscoilnagaillimhe.ie](https://www.ollscoilnagaillimhe.ie)
 - [http://www.oegaillimh.ie](http://www.oegaillimh.ie)
 
 ## Additional Properties

@@ -2,7 +2,7 @@
 title: Luther
 slug: luther
 description: ""
-date: "2026-04-15T09:21:23.140120"
+date: "2026-04-16T19:21:58.545534"
 draft: false
 sectors:
   - automobile
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.lutherauto.com](https://www.lutherauto.com)
-
 ## Brand Guidelines
 
 ### 2016

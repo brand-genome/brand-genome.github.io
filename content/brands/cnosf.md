@@ -2,11 +2,11 @@
 title: CNOSF
 slug: cnosf
 description: ""
-date: "2026-04-15T09:21:25.381218"
+date: "2026-04-16T19:22:01.049299"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - france
 years:
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://cnosf.franceolympique.com](https://cnosf.franceolympique.com)
-- [https://www.franceolympique.com](https://www.franceolympique.com)
-- [https://www.franceolympique.org](https://www.franceolympique.org)
 
 ## Brand Guidelines
 

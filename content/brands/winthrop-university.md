@@ -2,7 +2,7 @@
 title: Winthrop University
 slug: "winthrop-university"
 description: ""
-date: "2026-04-15T09:21:24.332247"
+date: "2026-04-16T19:21:59.751954"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 
 - [https://www.winthrop.edu](https://www.winthrop.edu)
 - [https://www.winthrop.edu/ucm](https://www.winthrop.edu/ucm)
-- [https://www.winthrop.edu/ucm/visualidentity](https://www.winthrop.edu/ucm/visualidentity)
+- [https://www.winthrop.edu/ucm/visual-identity-manual.aspx](https://www.winthrop.edu/ucm/visual-identity-manual.aspx)
 - [http://www.winthrop.edu](http://www.winthrop.edu)
 
 ## Brand Guidelines

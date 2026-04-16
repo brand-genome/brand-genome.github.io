@@ -2,7 +2,7 @@
 title: New York City Transit Authority
 slug: "new-york-city-transit-authority"
 description: ""
-date: "2026-04-15T09:21:25.756493"
+date: "2026-04-16T19:22:01.932209"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - vintage
+  - featured
   - transport
 industries:
   - "passenger-transport"
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mta.info/agency/new-york-city-transit](https://www.mta.info/agency/new-york-city-transit)
-- [https://www.mta.info/nyct](https://www.mta.info/nyct)
 - [http://www.mta.info/nyct](http://www.mta.info/nyct)
 - [https://new.mta.info/agency/new-york-city-transit](https://new.mta.info/agency/new-york-city-transit)
 

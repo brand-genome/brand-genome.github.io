@@ -2,7 +2,7 @@
 title: ESO
 slug: eso
 description: ""
-date: "2026-04-15T09:21:23.975112"
+date: "2026-04-16T19:21:59.284878"
 draft: false
 sectors:
   - research
@@ -66,10 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eso.org](https://www.eso.org)
-- [https://archive.eso.org](https://archive.eso.org)
+- [https://www.eso.org/public](https://www.eso.org/public)
+- [http://archive.eso.org/cms.html](http://archive.eso.org/cms.html)
 - [https://messenger.eso.org](https://messenger.eso.org)
 - [https://www.eso.org/public/france?lang](https://www.eso.org/public/france?lang)
+- [https://www.eso.org](https://www.eso.org)
 
 ## Brand Guidelines
 

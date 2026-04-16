@@ -2,7 +2,7 @@
 title: Aston Villa Football Club
 slug: "aston-villa-football-club"
 description: ""
-date: "2026-04-15T09:21:25.450964"
+date: "2026-04-16T19:22:01.157948"
 draft: false
 sectors:
   - sports
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.avfc.co.uk](https://www.avfc.co.uk)
-- [https://www.avfcfc.com](https://www.avfcfc.com)
 
 ## Brand Guidelines
 

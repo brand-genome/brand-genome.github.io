@@ -2,7 +2,7 @@
 title: Centrální Nákup Plzeňského Kraje
 slug: "centralni-nakup-plzenskeho-kraje"
 description: ""
-date: "2026-04-15T09:21:24.054378"
+date: "2026-04-16T19:21:59.374619"
 draft: false
 sectors:
   - "public-sector"

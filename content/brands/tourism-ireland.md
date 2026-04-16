@@ -2,7 +2,7 @@
 title: Tourism Ireland
 slug: "tourism-ireland"
 description: ""
-date: "2026-04-15T09:21:25.668521"
+date: "2026-04-16T19:22:01.707043"
 draft: false
 sectors:
   - tourism
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ireland.com](https://www.ireland.com)
+- [https://www.ireland.com/en](https://www.ireland.com/en)
 - [https://www.tourismireland.com](https://www.tourismireland.com)
 - [http://www.ireland.com](http://www.ireland.com)
 

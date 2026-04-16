@@ -2,7 +2,7 @@
 title: Alfresco
 slug: alfresco
 description: ""
-date: "2026-04-15T09:21:25.176950"
+date: "2026-04-16T19:22:00.771345"
 draft: false
 sectors:
   - software
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alfresco.com](https://www.alfresco.com)
+- [https://www.hyland.com/en/solutions/products/alfresco-platform](https://www.hyland.com/en/solutions/products/alfresco-platform)
 - [https://docs.alfresco.com](https://docs.alfresco.com)
 - [https://github.com/Alfresco](https://github.com/Alfresco)
 - [https://connect.hyland.com](https://connect.hyland.com)

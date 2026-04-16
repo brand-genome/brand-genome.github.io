@@ -2,7 +2,7 @@
 title: Robert Juliat
 slug: "robert-juliat"
 description: ""
-date: "2026-04-15T09:21:24.657544"
+date: "2026-04-16T19:22:00.209743"
 draft: false
 sectors:
   - entertainment

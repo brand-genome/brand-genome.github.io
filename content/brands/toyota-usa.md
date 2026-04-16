@@ -2,7 +2,7 @@
 title: Toyota USA
 slug: "toyota-usa"
 description: ""
-date: "2026-04-15T09:21:25.871784"
+date: "2026-04-16T19:22:02.141419"
 draft: false
 sectors:
   - automobile

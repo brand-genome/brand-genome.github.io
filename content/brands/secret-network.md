@@ -2,12 +2,12 @@
 title: Secret Network
 slug: "secret-network"
 description: ""
-date: "2026-04-15T09:21:23.603925"
+date: "2026-04-16T19:21:58.892433"
 draft: false
 sectors:
+  - software
   - "blockchain-crypto"
   - cybersecurity
-  - software
 regions:
   - usa
 years:
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://scrt.network](https://scrt.network)
-- [https://docs.scrt.network](https://docs.scrt.network)
+- [https://docs.scrt.network/secret-network-documentation](https://docs.scrt.network/secret-network-documentation)
 - [https://github.com/scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork)
 
 ## Brand Guidelines

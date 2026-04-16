@@ -2,7 +2,7 @@
 title: NATO
 slug: nato
 description: ""
-date: "2026-04-15T09:21:25.754520"
+date: "2026-04-16T19:22:01.930154"
 draft: false
 sectors:
   - entertainment
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://cinemaunited.org](https://cinemaunited.org)
-- [https://www.natoonline.org](https://www.natoonline.org)
 
 ## Brand Guidelines
 

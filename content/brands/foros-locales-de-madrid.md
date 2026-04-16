@@ -2,7 +2,7 @@
 title: Foros Locales de Madrid
 slug: "foros-locales-de-madrid"
 description: ""
-date: "2026-04-15T09:21:23.702823"
+date: "2026-04-16T19:21:59.026202"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - community
   - social
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales](https://transparencia.madrid.es/portales/transparencia/es/Relacion-con-la-ciudadania/Participacion-de-la-ciudadania/Foros-locales)
-- [https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana](https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Foros-Locales-los-nuevos-espacios-de-participacion-ciudadana)
-
 ## Brand Guidelines
 
 ### 2017

@@ -2,7 +2,7 @@
 title: OneBlood
 slug: oneblood
 description: ""
-date: "2026-04-15T09:21:24.379351"
+date: "2026-04-16T19:21:59.967488"
 draft: false
 sectors:
   - healthcare
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.oneblood.org](https://www.oneblood.org)
-- [https://donor.oneblood.org](https://donor.oneblood.org)
 
 ## Brand Guidelines
 

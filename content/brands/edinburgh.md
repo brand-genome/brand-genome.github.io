@@ -2,11 +2,11 @@
 title: Edinburgh
 slug: edinburgh
 description: ""
-date: "2026-04-15T09:21:25.418406"
+date: "2026-04-16T19:22:01.102233"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 
 - [https://www.edinburgh.gov.uk](https://www.edinburgh.gov.uk)
 - [https://visitedinburgh.com](https://visitedinburgh.com)
-- [https://www.visitscotland.com](https://www.visitscotland.com)
 - [http://www.edinburgh.org](http://www.edinburgh.org)
 - [https://edinburgh.org](https://edinburgh.org)
 

@@ -2,7 +2,7 @@
 title: Sprig
 slug: sprig
 description: ""
-date: "2026-04-15T09:21:25.355200"
+date: "2026-04-16T19:22:01.021402"
 draft: false
 sectors:
   - healthcare
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - health
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sprigusa.com](https://www.sprigusa.com)
+- [https://sprigusa.com](https://sprigusa.com)
 - [https://store.sprigusa.com](https://store.sprigusa.com)
 
 ## Brand Guidelines

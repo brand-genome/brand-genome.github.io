@@ -2,7 +2,7 @@
 title: Palma
 slug: palma
 description: ""
-date: "2026-04-15T09:21:24.326402"
+date: "2026-04-16T19:21:59.735206"
 draft: false
 sectors:
   - "public-sector"
@@ -60,13 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.palma.es](https://www.palma.es)
-- [https://www.palma.cat/portal/PALMA/home.jsp?codResi=1](https://www.palma.cat/portal/PALMA/home.jsp?codResi=1)
-- [https://seuelectronica.palma.es](https://seuelectronica.palma.es)
-- [https://tufas.palma.cat](https://tufas.palma.cat)
-
 ## Brand Guidelines
 
 ### 2009

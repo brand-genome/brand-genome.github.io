@@ -2,7 +2,7 @@
 title: University of York
 slug: "university-of-york"
 description: ""
-date: "2026-04-15T09:21:23.949202"
+date: "2026-04-16T19:21:59.266651"
 draft: false
 sectors:
   - university
@@ -12,8 +12,8 @@ years:
   - 2020
 languages: []
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"

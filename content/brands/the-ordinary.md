@@ -2,7 +2,7 @@
 title: The Ordinary
 slug: "the-ordinary"
 description: ""
-date: "2026-04-15T09:21:23.180275"
+date: "2026-04-16T19:21:58.578962"
 draft: false
 sectors:
   - beauty
@@ -62,5 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://theordinary.com](https://theordinary.com)
+- [https://theordinary.com/en-in](https://theordinary.com/en-in)
 - [https://deciem.com](https://deciem.com)

@@ -2,10 +2,9 @@
 title: Ikan
 slug: ikan
 description: ""
-date: "2026-04-15T09:21:22.561941"
+date: "2026-04-16T19:21:57.928356"
 draft: false
 sectors:
-  - "staffing-recruitment"
   - "logistics-supply-chain"
 regions:
   - india
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "human-ressources"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

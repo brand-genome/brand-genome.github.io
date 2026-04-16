@@ -2,7 +2,7 @@
 title: Stacks
 slug: stacks
 description: ""
-date: "2026-04-15T09:21:25.646817"
+date: "2026-04-16T19:22:01.658605"
 draft: false
 sectors:
   - software

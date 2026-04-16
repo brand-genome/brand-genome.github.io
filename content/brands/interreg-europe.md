@@ -2,7 +2,7 @@
 title: Interreg Europe
 slug: "interreg-europe"
 description: ""
-date: "2026-04-15T09:21:24.811367"
+date: "2026-04-16T19:22:00.358231"
 draft: false
 sectors:
   - "public-sector"
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.interregeurope.eu](https://www.interregeurope.eu)
-- [https://www.interregeurope.eu/about-us/logo](https://www.interregeurope.eu/about-us/logo)
 - [https://interreg.eu/programmes/interreg-europe](https://interreg.eu/programmes/interreg-europe)
 
 ## Brand Guidelines

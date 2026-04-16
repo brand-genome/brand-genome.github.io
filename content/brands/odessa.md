@@ -2,11 +2,11 @@
 title: Odessa
 slug: odessa
 description: ""
-date: "2026-04-15T09:21:24.075678"
+date: "2026-04-16T19:21:59.398683"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ukraine
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://omr.gov.ua](https://omr.gov.ua)
 - [https://odesa365.omr.gov.ua/en](https://odesa365.omr.gov.ua/en)
 
 ## Brand Guidelines

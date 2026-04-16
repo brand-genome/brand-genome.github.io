@@ -2,7 +2,7 @@
 title: Xero
 slug: xero
 description: ""
-date: "2026-04-15T09:21:25.428610"
+date: "2026-04-16T19:22:01.113328"
 draft: false
 sectors:
   - finance

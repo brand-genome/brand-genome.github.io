@@ -2,7 +2,7 @@
 title: "Université Savoie Mont-Blanc"
 slug: "universite-savoie-mont-blanc"
 description: ""
-date: "2026-04-15T09:21:22.417503"
+date: "2026-04-16T19:21:57.697050"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,6 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.univ-smb.fr](https://www.univ-smb.fr)
-- [https://www.univ-smb.fr/Portail/Groupes/charte](https://www.univ-smb.fr/Portail/Groupes/charte)
+- [https://www.univ-smb.fr/universite/charte-graphique](https://www.univ-smb.fr/universite/charte-graphique)
 - [https://www.univ-smb.fr/en/universite/charte-graphique](https://www.univ-smb.fr/en/universite/charte-graphique)
 - [http://www.univ-smb.fr](http://www.univ-smb.fr)

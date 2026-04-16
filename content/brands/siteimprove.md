@@ -2,7 +2,7 @@
 title: SiteImprove
 slug: siteimprove
 description: ""
-date: "2026-04-15T09:21:24.761441"
+date: "2026-04-16T19:22:00.309424"
 draft: false
 sectors:
   - software
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.siteimprove.com](https://www.siteimprove.com)
-- [https://go.siteimprove.com/contact](https://go.siteimprove.com/contact)
 - [http://www.siteimprove.com/contact](http://www.siteimprove.com/contact)
 - [https://siteimprove.com](https://siteimprove.com)
 

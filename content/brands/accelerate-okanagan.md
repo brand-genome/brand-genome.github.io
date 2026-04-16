@@ -2,10 +2,9 @@
 title: Accelerate Okanagan
 slug: "accelerate-okanagan"
 description: ""
-date: "2026-04-15T09:21:24.310243"
+date: "2026-04-16T19:21:59.717454"
 draft: false
 sectors:
-  - consulting
   - ngo
 regions:
   - canada

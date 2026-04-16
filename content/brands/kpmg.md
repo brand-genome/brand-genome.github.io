@@ -2,12 +2,10 @@
 title: KPMG
 slug: kpmg
 description: ""
-date: "2026-04-15T09:21:23.649733"
+date: "2026-04-16T19:21:58.956725"
 draft: false
 sectors:
   - consulting
-  - "legal-services"
-  - finance
 regions:
   - netherlands
 years:
@@ -71,12 +69,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kpmg.com](https://kpmg.com)
-- [https://kpmg.com/nl/en](https://kpmg.com/nl/en)
-- [https://kpmg.com/nl/nl](https://kpmg.com/nl/nl)
+- [https://kpmg.com/xx/en.html](https://kpmg.com/xx/en.html)
+- [https://kpmg.com/nl/en/home.html](https://kpmg.com/nl/en/home.html)
+- [https://kpmg.com/nl/nl/home.html](https://kpmg.com/nl/nl/home.html)
 - [https://www.werkenbijkpmg.nl/en](https://www.werkenbijkpmg.nl/en)
 - [http://www.kpmg.fr](http://www.kpmg.fr)
 - [https://home.kpmg.com/xx/en/home.html](https://home.kpmg.com/xx/en/home.html)
+- [https://kpmg.com](https://kpmg.com)
 - [https://bureaux.kpmg.fr](https://bureaux.kpmg.fr)
 
 ## Brand Guidelines

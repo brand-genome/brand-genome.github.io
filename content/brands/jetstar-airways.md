@@ -2,7 +2,7 @@
 title: Jetstar Airways
 slug: "jetstar-airways"
 description: ""
-date: "2026-04-15T09:21:25.460954"
+date: "2026-04-16T19:22:01.205892"
 draft: false
 sectors:
   - airline
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jetstar.com](https://www.jetstar.com)
-- [https://www.jetstar.com/au/en/home](https://www.jetstar.com/au/en/home)
 - [https://www.jetstar.com/au/en](https://www.jetstar.com/au/en)
 - [https://www.jetstar.com/us/en](https://www.jetstar.com/us/en)
 

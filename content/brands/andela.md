@@ -2,7 +2,7 @@
 title: Andela
 slug: andela
 description: ""
-date: "2026-04-15T09:21:23.741996"
+date: "2026-04-16T19:21:59.067183"
 draft: false
 sectors:
   - "staffing-recruitment"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.andela.com](https://www.andela.com)
-- [https://help.andela.com](https://help.andela.com)
 - [https://andela.com](https://andela.com)
 
 ## Brand Guidelines

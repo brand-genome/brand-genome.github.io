@@ -2,22 +2,22 @@
 title: Hyundai
 slug: hyundai
 description: ""
-date: "2026-04-15T09:21:24.328856"
+date: "2026-04-16T19:21:59.738563"
 draft: false
 sectors:
   - automobile
 regions:
-  - usa
   - "south-korea"
+  - usa
 years:
+  - 2016
   - 2002
   - 2011
-  - 2016
 languages:
   - english
 tags:
-  - transport
   - corporate
+  - transport
 industries:
   - "automotive-industry"
 countries:

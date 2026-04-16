@@ -2,7 +2,7 @@
 title: Philippines Commission on Higher Education
 slug: "philippines-commission-on-higher-education"
 description: ""
-date: "2026-04-15T09:21:23.590382"
+date: "2026-04-16T19:21:58.879751"
 draft: false
 sectors:
   - "public-sector"
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://ched.gov.ph](https://ched.gov.ph)
-
 ## Brand Guidelines
 
 ### 2022

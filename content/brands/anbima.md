@@ -2,7 +2,7 @@
 title: Anbima
 slug: anbima
 description: ""
-date: "2026-04-15T09:21:25.174519"
+date: "2026-04-16T19:22:00.768786"
 draft: false
 sectors:
   - finance
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 - [https://www.anbima.com.br](https://www.anbima.com.br)
 - [https://associados.anbima.com.br](https://associados.anbima.com.br)
 - [https://rededei.anbima.com.br](https://rededei.anbima.com.br)
-- [https://developer.anbima.com.br](https://developer.anbima.com.br)
 
 ## Brand Guidelines
 

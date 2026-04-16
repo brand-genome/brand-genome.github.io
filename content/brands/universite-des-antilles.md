@@ -2,11 +2,11 @@
 title: Université des Antilles
 slug: "universite-des-antilles"
 description: ""
-date: "2026-04-15T09:21:25.671109"
+date: "2026-04-16T19:22:01.711139"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - france
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - french
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

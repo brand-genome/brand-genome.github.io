@@ -2,11 +2,11 @@
 title: Tokyo Medical University
 slug: "tokyo-medical-university"
 description: ""
-date: "2026-04-15T09:21:23.580010"
+date: "2026-04-16T19:21:58.872201"
 draft: false
 sectors:
-  - university
   - healthcare
+  - university
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - japanese
 tags:
-  - university
   - health
+  - university
 industries: []
 countries:
   - japan
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tokyo-med.ac.jp](https://www.tokyo-med.ac.jp)
 - [https://hospinfo.tokyo-med.ac.jp/index.html](https://hospinfo.tokyo-med.ac.jp/index.html)
 - [http://www.tokyo-med.ac.jp](http://www.tokyo-med.ac.jp)
 

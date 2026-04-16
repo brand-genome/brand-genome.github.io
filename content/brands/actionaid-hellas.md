@@ -2,7 +2,7 @@
 title: ActionAid Hellas
 slug: "actionaid-hellas"
 description: ""
-date: "2026-04-15T09:21:24.304131"
+date: "2026-04-16T19:21:59.710008"
 draft: false
 sectors:
   - ngo
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - social
   - ngo
+  - social
+  - featured
 industries: []
 countries:
   - greece

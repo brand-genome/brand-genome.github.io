@@ -2,11 +2,11 @@
 title: Prime Video
 slug: "prime-video"
 description: ""
-date: "2026-04-15T09:21:25.396000"
+date: "2026-04-16T19:22:01.073505"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -68,10 +68,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.primevideo.com](https://www.primevideo.com)
-- [https://www.primevideo.com/storefront](https://www.primevideo.com/storefront)
+- [https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root](https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root)
 - [http://www.amazon.com](http://www.amazon.com)
 - [http://www.primevideo.com](http://www.primevideo.com)
+- [https://www.primevideo.com](https://www.primevideo.com)
 - [https://www.amazon.co.jp/gp/video/storefront](https://www.amazon.co.jp/gp/video/storefront)
 
 ## Brand Guidelines

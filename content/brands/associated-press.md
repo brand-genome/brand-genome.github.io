@@ -2,11 +2,11 @@
 title: Associated Press
 slug: "associated-press"
 description: ""
-date: "2026-04-15T09:21:24.608281"
+date: "2026-04-16T19:22:00.176427"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - media
+  - featured
 industries:
   - "news-media"
   - "media-industry"

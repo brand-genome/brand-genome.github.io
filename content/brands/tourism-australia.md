@@ -2,7 +2,7 @@
 title: Tourism Australia
 slug: "tourism-australia"
 description: ""
-date: "2026-04-15T09:21:25.773696"
+date: "2026-04-16T19:22:01.967081"
 draft: false
 sectors:
   - tourism
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tourism.australia.com/en](https://www.tourism.australia.com/en)
-- [https://www.australia.com](https://www.australia.com)
+- [https://www.australia.com/en-in](https://www.australia.com/en-in)
 - [https://businessevents.australia.com/en](https://businessevents.australia.com/en)
 
 ## Brand Guidelines

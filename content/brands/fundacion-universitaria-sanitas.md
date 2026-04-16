@@ -2,11 +2,11 @@
 title: Fundación Universitaria Sanitas
 slug: "fundacion-universitaria-sanitas"
 description: ""
-date: "2026-04-15T09:21:24.218477"
+date: "2026-04-16T19:21:59.587360"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.unisanitas.edu.co](https://www.unisanitas.edu.co)
-
 ## Brand Guidelines
 
 ### 2015

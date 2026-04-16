@@ -2,11 +2,11 @@
 title: Street Link
 slug: "street-link"
 description: ""
-date: "2026-04-15T09:21:25.432047"
+date: "2026-04-16T19:22:01.116592"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://thestreetlink.org.uk](https://thestreetlink.org.uk)
-- [https://www.streetlink.london](https://www.streetlink.london)
 
 ## Brand Guidelines
 

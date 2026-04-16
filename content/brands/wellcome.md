@@ -2,11 +2,11 @@
 title: Wellcome
 slug: wellcome
 description: ""
-date: "2026-04-15T09:21:25.704890"
+date: "2026-04-16T19:22:01.816104"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:

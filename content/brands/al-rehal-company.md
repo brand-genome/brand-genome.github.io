@@ -2,7 +2,7 @@
 title: Al Rehal Company
 slug: "al-rehal-company"
 description: ""
-date: "2026-04-15T09:21:23.219168"
+date: "2026-04-16T19:21:58.640078"
 draft: false
 sectors:
   - tourism

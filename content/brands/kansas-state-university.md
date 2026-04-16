@@ -2,11 +2,11 @@
 title: Kansas State University
 slug: "kansas-state-university"
 description: ""
-date: "2026-04-15T09:21:25.874887"
+date: "2026-04-16T19:22:02.144588"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.k-state.edu](https://www.k-state.edu)
-- [https://www.kstatesports.com](https://www.kstatesports.com)
 - [http://www.k-state.edu](http://www.k-state.edu)
 
 ## Brand Guidelines

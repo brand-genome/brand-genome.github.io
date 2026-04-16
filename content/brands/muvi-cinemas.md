@@ -2,7 +2,7 @@
 title: muvi Cinemas
 slug: "muvi-cinemas"
 description: ""
-date: "2026-04-15T09:21:22.178409"
+date: "2026-04-16T19:21:57.202886"
 draft: false
 sectors:
   - entertainment
@@ -66,6 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.muvicinemas.com/en](https://www.muvicinemas.com/en)
 - [https://www.muvicinemas.com](https://www.muvicinemas.com)
 
 ## Additional Properties

@@ -2,10 +2,10 @@
 title: Strategic Dining Services
 slug: "strategic-dining-services"
 description: ""
-date: "2026-04-15T09:21:22.130960"
+date: "2026-04-16T19:21:57.166180"
 draft: false
 sectors:
-  - "professional-services"
+  - consulting
   - healthcare
 regions:
   - usa

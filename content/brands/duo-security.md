@@ -2,11 +2,11 @@
 title: Duo Security
 slug: "duo-security"
 description: ""
-date: "2026-04-15T09:21:24.603981"
+date: "2026-04-16T19:22:00.167280"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://duo.com](https://duo.com)
-- [https://admin.duosecurity.com](https://admin.duosecurity.com)
+- [https://admin.duosecurity.com/login?next=%2F](https://admin.duosecurity.com/login?next=%2F)
 - [http://www.duo.com](http://www.duo.com)
 
 ## Brand Guidelines

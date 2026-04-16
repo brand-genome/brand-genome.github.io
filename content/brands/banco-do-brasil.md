@@ -2,7 +2,7 @@
 title: Banco do Brasil
 slug: "banco-do-brasil"
 description: ""
-date: "2026-04-15T09:21:22.508103"
+date: "2026-04-16T19:21:57.834910"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
   - "economics-of-banking"
+  - "financial-services"
   - "financial-sector"
 countries:
   - brazil
@@ -72,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bb.com.br](https://www.bb.com.br)
 - [https://www46.bb.com.br](https://www46.bb.com.br)
+- [https://www.bb.com.br](https://www.bb.com.br)
 
 ## Brand Guidelines
 

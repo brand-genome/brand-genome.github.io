@@ -2,7 +2,7 @@
 title: Znips
 slug: znips
 description: ""
-date: "2026-04-15T09:21:25.682848"
+date: "2026-04-16T19:22:01.751733"
 draft: false
 sectors:
   - beauty

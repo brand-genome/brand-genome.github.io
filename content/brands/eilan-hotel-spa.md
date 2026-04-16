@@ -2,11 +2,11 @@
 title: "Eilan Hotel & Spa"
 slug: "eilan-hotel-spa"
 description: ""
-date: "2026-04-15T09:21:25.192511"
+date: "2026-04-16T19:22:00.787587"
 draft: false
 sectors:
-  - "wellness-spa"
   - hospitality
+  - "wellness-spa"
 regions:
   - italy
 years:

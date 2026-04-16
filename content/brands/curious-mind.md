@@ -2,7 +2,7 @@
 title: Curious Mind
 slug: "curious-mind"
 description: ""
-date: "2026-04-15T09:21:25.365573"
+date: "2026-04-16T19:22:01.032405"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.curiousminds.nz](https://www.curiousminds.nz)
-- [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/curious-minds](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/curious-minds)
+- [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society)
 - [https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/investment-funds/science-in-society/participatory-science-platform)
 
 ## Brand Guidelines

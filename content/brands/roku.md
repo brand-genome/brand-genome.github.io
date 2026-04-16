@@ -2,11 +2,11 @@
 title: Roku
 slug: roku
 description: ""
-date: "2026-04-15T09:21:24.555624"
+date: "2026-04-16T19:22:00.127105"
 draft: false
 sectors:
-  - technology
   - entertainment
+  - technology
 regions:
   - usa
 years:
@@ -62,9 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.roku.com](https://www.roku.com)
-- [https://therokuchannel.roku.com](https://therokuchannel.roku.com)
+- [https://www.roku.com/intl?next=/&source=www.roku.com](https://www.roku.com/intl?next=/&source=www.roku.com)
+- [https://therokuchannel.roku.com/enguard/en-in](https://therokuchannel.roku.com/enguard/en-in)
 - [http://www.roku.com](http://www.roku.com)
+- [https://www.roku.com](https://www.roku.com)
 
 ## Brand Guidelines
 

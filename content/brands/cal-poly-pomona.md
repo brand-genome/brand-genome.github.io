@@ -2,11 +2,11 @@
 title: Cal Poly Pomona
 slug: "cal-poly-pomona"
 description: ""
-date: "2026-04-15T09:21:24.943977"
+date: "2026-04-16T19:22:00.518719"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

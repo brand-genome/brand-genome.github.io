@@ -2,11 +2,11 @@
 title: PBS Kids
 slug: "pbs-kids"
 description: ""
-date: "2026-04-15T09:21:23.120430"
+date: "2026-04-16T19:21:58.527992"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - entertainment
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -32,8 +32,8 @@ headquarters_locations:
   - "crystal-city"
 subsidiaries: []
 foundation_dates:
-  - 1999
   - 1994
+  - 1999
 foundation_year_buckets:
   - 1990S
 lightings: []
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 - [https://pbskids.org](https://pbskids.org)
 - [https://www.pbs.org/parents](https://www.pbs.org/parents)
 - [https://www.pbs.org](https://www.pbs.org)
-- [https://www.pbs.org/apps](https://www.pbs.org/apps)
+- [https://www.pbs.org/pbs-app](https://www.pbs.org/pbs-app)
 - [https://pbskids.org/apps](https://pbskids.org/apps)
 
 ## Additional Properties
@@ -83,7 +83,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Crystal City](/headquarters_locations/crystal-city/) |
-| Foundation Date | [1999](/foundation_dates/1999/); [1994](/foundation_dates/1994/) |
+| Foundation Date | [1994](/foundation_dates/1994/); [1999](/foundation_dates/1999/) |
 | Topic'S Main Category | Category:PBS Kids |
 | Freebase Id | /m/06_zh7 |
 | Inception | 1994-07-11, 1999-09-06 |

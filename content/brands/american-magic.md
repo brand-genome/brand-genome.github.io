@@ -2,7 +2,7 @@
 title: American Magic
 slug: "american-magic"
 description: ""
-date: "2026-04-15T09:21:24.276311"
+date: "2026-04-16T19:21:59.682984"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.americanmagic.com](https://www.americanmagic.com)
 - [https://americanmagic.americascup.com](https://americanmagic.americascup.com)
-- [https://americanmagic.americascup.com/en/store](https://americanmagic.americascup.com/en/store)
 
 ## Brand Guidelines
 

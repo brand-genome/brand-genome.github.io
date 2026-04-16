@@ -2,7 +2,7 @@
 title: Mat Troi Bé Tho
 slug: "mat-troi-be-tho"
 description: ""
-date: "2026-04-15T09:21:25.682742"
+date: "2026-04-16T19:22:01.751418"
 draft: false
 sectors:
   - ngo
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://mattroibetho.vn](http://mattroibetho.vn)
-
 ## Brand Guidelines
 
 ### 2010

@@ -2,7 +2,7 @@
 title: Wiley
 slug: wiley
 description: ""
-date: "2026-04-15T09:21:24.717367"
+date: "2026-04-16T19:22:00.261408"
 draft: false
 sectors:
   - education
@@ -18,14 +18,14 @@ tags:
   - science
 industries: []
 countries:
-  - "united-kingdom"
   - "united-states"
   - germany
-  - australia
-  - japan
+  - "united-kingdom"
   - italy
   - "peoples-republic-of-china"
   - netherlands
+  - australia
+  - japan
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -75,10 +75,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wiley.com](https://www.wiley.com)
-- [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com)
+- [https://www.wiley.com/en-in](https://www.wiley.com/en-in)
 - [http://www.wiley-vch.de](http://www.wiley-vch.de)
 - [http://www.wiley.com](http://www.wiley.com)
+- [https://www.wiley.com](https://www.wiley.com)
 
 ## Brand Guidelines
 

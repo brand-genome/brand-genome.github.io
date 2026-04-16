@@ -2,12 +2,12 @@
 title: University of Vienna
 slug: "university-of-vienna"
 description: ""
-date: "2026-04-15T09:21:23.724951"
+date: "2026-04-16T19:21:59.048129"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - austria
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - austria

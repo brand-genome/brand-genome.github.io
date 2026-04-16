@@ -2,7 +2,7 @@
 title: Tailify
 slug: tailify
 description: ""
-date: "2026-04-15T09:21:23.568153"
+date: "2026-04-16T19:21:58.862101"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -60,6 +60,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://tailify.com](https://tailify.com)

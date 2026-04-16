@@ -2,7 +2,7 @@
 title: Goat
 slug: goat
 description: ""
-date: "2026-04-15T09:21:25.367486"
+date: "2026-04-16T19:22:01.034346"
 draft: false
 sectors:
   - food
@@ -61,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.goatgeneration.com](https://www.goatgeneration.com)
-- [https://www.goatgeneration.ca](https://www.goatgeneration.ca)
+- [https://www.afternic.com/forsale/goatgeneration.com?utm_source=TDFS&utm_medium=sn_affiliate_click&utm_campaign=TDFS_GoDaddy_DLS&traffic_type=TDFS&traffic_id=GoDaddy_DLS](https://www.afternic.com/forsale/goatgeneration.com?utm_source=TDFS&utm_medium=sn_affiliate_click&utm_campaign=TDFS_GoDaddy_DLS&traffic_type=TDFS&traffic_id=GoDaddy_DLS)
+- [https://www.afternic.com/forsale/goatgeneration.ca?utm_source=TDFS&utm_medium=sn_affiliate_click&utm_campaign=TDFS_GoDaddy_DLS&traffic_type=TDFS&traffic_id=GoDaddy_DLS](https://www.afternic.com/forsale/goatgeneration.ca?utm_source=TDFS&utm_medium=sn_affiliate_click&utm_campaign=TDFS_GoDaddy_DLS&traffic_type=TDFS&traffic_id=GoDaddy_DLS)
 
 ## Brand Guidelines
 

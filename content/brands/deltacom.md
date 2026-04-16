@@ -2,7 +2,7 @@
 title: Delta.com
 slug: deltacom
 description: ""
-date: "2026-04-15T09:21:23.715373"
+date: "2026-04-16T19:21:59.038935"
 draft: false
 sectors:
   - airline
@@ -62,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.delta.com](https://www.delta.com)
-- [https://ir.delta.com](https://ir.delta.com)
+- [http://ssp.delta.com/content/dam/delta-www/sorry-server/delta_sorry.html](http://ssp.delta.com/content/dam/delta-www/sorry-server/delta_sorry.html)
+- [https://ir.delta.com/home/default.aspx](https://ir.delta.com/home/default.aspx)
 - [https://news.delta.com](https://news.delta.com)
 - [http://www.delta.com](http://www.delta.com)
 

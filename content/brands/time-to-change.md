@@ -2,11 +2,11 @@
 title: Time To Change
 slug: "time-to-change"
 description: ""
-date: "2026-04-15T09:21:24.214444"
+date: "2026-04-16T19:21:59.583053"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - health
+  - social
 industries: []
 countries:
   - "united-kingdom"

@@ -2,7 +2,7 @@
 title: PB Swiss Tools
 slug: "pb-swiss-tools"
 description: ""
-date: "2026-04-15T09:21:24.939093"
+date: "2026-04-16T19:22:00.513561"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pbswisstools.com](https://www.pbswisstools.com)
+- [https://www.pbswisstools.com/en](https://www.pbswisstools.com/en)
 - [https://pbswisstools.us](https://pbswisstools.us)
 - [http://www.pbswisstools.com](http://www.pbswisstools.com)
 

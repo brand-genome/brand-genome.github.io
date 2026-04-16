@@ -2,15 +2,15 @@
 title: WWF
 slug: wwf
 description: ""
-date: "2026-04-15T09:21:22.352741"
+date: "2026-04-16T19:21:57.585757"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2010
   - 2012
+  - 2010
 languages:
   - english
 tags:
@@ -70,9 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://wwf.panda.org](https://wwf.panda.org)
-- [https://www.worldwildlife.org](https://www.worldwildlife.org)
 - [https://wwf.org](https://wwf.org)
+- [https://wwf.panda.org](https://wwf.panda.org)
 
 ## Brand Guidelines
 

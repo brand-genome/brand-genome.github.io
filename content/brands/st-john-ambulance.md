@@ -2,12 +2,12 @@
 title: St John Ambulance
 slug: "st-john-ambulance"
 description: ""
-date: "2026-04-15T09:21:23.799667"
+date: "2026-04-16T19:21:59.129211"
 draft: false
 sectors:
+  - ngo
   - education
   - healthcare
-  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -15,10 +15,10 @@ years:
 languages:
   - english
 tags:
-  - featured
+  - ngo
   - health
   - education
-  - ngo
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

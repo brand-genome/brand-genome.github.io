@@ -2,7 +2,7 @@
 title: Lexus
 slug: lexus
 description: ""
-date: "2026-04-15T09:21:25.711301"
+date: "2026-04-16T19:22:01.836798"
 draft: false
 sectors:
   - automobile
@@ -25,8 +25,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "luxury-vehicle"
   - "performance-car"
+  - "luxury-vehicle"
 products: []
 headquarters_locations:
   - nagoya
@@ -514,7 +514,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/); [Performance Car](/products_or_materials_produced/performance-car/) |
+| Product Or Material Produced | [Performance Car](/products_or_materials_produced/performance-car/); [Luxury Vehicle](/products_or_materials_produced/luxury-vehicle/) |
 | Headquarters Location | [Nagoya](/headquarters_locations/nagoya/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Founded By | Eiji Toyoda |

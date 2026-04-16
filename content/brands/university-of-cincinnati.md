@@ -2,11 +2,11 @@
 title: University of Cincinnati
 slug: "university-of-cincinnati"
 description: ""
-date: "2026-04-15T09:21:25.851348"
+date: "2026-04-16T19:22:02.115390"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

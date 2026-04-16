@@ -2,11 +2,11 @@
 title: Harrods
 slug: harrods
 description: ""
-date: "2026-04-15T09:21:23.993905"
+date: "2026-04-16T19:21:59.303378"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - "united-kingdom"
 years:
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.harrods.com/en-gb](https://www.harrods.com/en-gb)
-- [https://www.harrods.com/en-us](https://www.harrods.com/en-us)
 - [http://www.harrods.com](http://www.harrods.com)
 
 ## Brand Guidelines

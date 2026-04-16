@@ -2,11 +2,11 @@
 title: FileWave
 slug: filewave
 description: ""
-date: "2026-04-15T09:21:24.606533"
+date: "2026-04-16T19:22:00.170678"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -63,9 +63,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.filewave.com](https://www.filewave.com)
-- [https://support.filewave.com](https://support.filewave.com)
+- [https://support.filewave.com/_hcms/mem/saml?redirect_url=https%3A%2F%2Fsupport.filewave.com%2Ftickets-view](https://support.filewave.com/_hcms/mem/saml?redirect_url=https%3A%2F%2Fsupport.filewave.com%2Ftickets-view)
 - [https://kb.filewave.com](https://kb.filewave.com)
-- [https://www.filewave.com/brand-guide](https://www.filewave.com/brand-guide)
 
 ## Brand Guidelines
 

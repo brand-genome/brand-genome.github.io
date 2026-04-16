@@ -2,11 +2,11 @@
 title: Fondos Europeos
 slug: "fondos-europeos"
 description: ""
-date: "2026-04-15T09:21:22.339717"
+date: "2026-04-16T19:21:57.477221"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - financial
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,9 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fondoseuropeos.gob.es](https://fondoseuropeos.gob.es)
-- [https://fondoseuropeos.gob.es/es-es/europasesiente](https://fondoseuropeos.gob.es/es-es/europasesiente)
-- [https://www.fondoseuropeos.hacienda.gob.es](https://www.fondoseuropeos.hacienda.gob.es)
+- [https://fondoseuropeos.gob.es/es-es/Paginas/Inicio.aspx](https://fondoseuropeos.gob.es/es-es/Paginas/Inicio.aspx)
+- [https://fondoseuropeos.gob.es/es-es/europasesiente/Paginas/Inicio.aspx](https://fondoseuropeos.gob.es/es-es/europasesiente/Paginas/Inicio.aspx)
 
 ## Brand Guidelines
 

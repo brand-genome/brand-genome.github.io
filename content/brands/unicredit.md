@@ -2,22 +2,22 @@
 title: UniCredit
 slug: unicredit
 description: ""
-date: "2026-04-15T09:21:24.911083"
+date: "2026-04-16T19:22:00.481578"
 draft: false
 sectors:
   - finance
 regions:
   - italy
 years:
-  - 2010
   - 2008
+  - 2010
 languages:
   - english
 tags:
   - financial
 industries:
-  - "financial-services"
   - "economics-of-banking"
+  - "financial-services"
   - "financial-sector"
 countries:
   - italy
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.unicreditgroup.eu](https://www.unicreditgroup.eu)
-- [https://www.unicredit.it](https://www.unicredit.it)
 
 ## Brand Guidelines
 

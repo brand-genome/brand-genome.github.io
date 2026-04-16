@@ -2,11 +2,11 @@
 title: Sports Boulevard
 slug: "sports-boulevard"
 description: ""
-date: "2026-04-15T09:21:22.550850"
+date: "2026-04-16T19:21:57.897334"
 draft: false
 sectors:
-  - "public-sector"
   - "real-estate"
+  - "public-sector"
 regions:
   - "saudi-arabia"
 years:
@@ -62,5 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sportsboulevard.sa](https://sportsboulevard.sa)
+- [https://sportsboulevard.sa:443/ar](https://sportsboulevard.sa:443/ar)
 - [https://sportsboulevard.sa/en](https://sportsboulevard.sa/en)

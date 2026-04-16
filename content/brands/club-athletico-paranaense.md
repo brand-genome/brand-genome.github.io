@@ -2,7 +2,7 @@
 title: Club Athletico Paranaense
 slug: "club-athletico-paranaense"
 description: ""
-date: "2026-04-15T09:21:22.279410"
+date: "2026-04-16T19:21:57.319966"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.athletico.com.br](https://www.athletico.com.br)
 - [https://loja.athletico.com.br](https://loja.athletico.com.br)
 - [https://athletico.com.br](https://athletico.com.br)
 

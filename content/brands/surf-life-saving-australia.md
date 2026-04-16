@@ -2,11 +2,11 @@
 title: Surf Life Saving Australia
 slug: "surf-life-saving-australia"
 description: ""
-date: "2026-04-15T09:21:25.662536"
+date: "2026-04-16T19:22:01.692507"
 draft: false
 sectors:
-  - sports
   - "emergency-services"
+  - sports
   - ngo
 regions:
   - australia
@@ -62,10 +62,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.sls.com.au](https://www.sls.com.au)
-
 ## Brand Guidelines
 
 ### 2015

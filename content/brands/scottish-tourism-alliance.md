@@ -2,7 +2,7 @@
 title: Scottish Tourism Alliance
 slug: "scottish-tourism-alliance"
 description: ""
-date: "2026-04-15T09:21:24.076258"
+date: "2026-04-16T19:21:59.399479"
 draft: false
 sectors:
   - tourism

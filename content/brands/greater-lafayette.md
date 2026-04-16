@@ -2,7 +2,7 @@
 title: Greater Lafayette
 slug: "greater-lafayette"
 description: ""
-date: "2026-04-15T09:21:23.414912"
+date: "2026-04-16T19:21:58.804376"
 draft: false
 sectors:
   - tourism
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - featured
   - regional
+  - community
 industries: []
 countries: []
 revenue_buckets: []

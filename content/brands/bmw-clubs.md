@@ -2,10 +2,9 @@
 title: BMW Clubs
 slug: "bmw-clubs"
 description: ""
-date: "2026-04-15T09:21:25.338791"
+date: "2026-04-16T19:22:01.005163"
 draft: false
 sectors:
-  - sports
   - automobile
 regions:
   - germany
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - sport
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bmwgroup-classic.com/en/bmw-clubs/international-council.html](https://www.bmwgroup-classic.com/en/bmw-clubs/international-council.html)
+- [https://www.bmwgroup-classic.com/en/clubs-community/clubs.html](https://www.bmwgroup-classic.com/en/clubs-community/clubs.html)
 - [https://bmwclubs.member365.org](https://bmwclubs.member365.org)
 - [https://www.bcef.eu](https://www.bcef.eu)
 

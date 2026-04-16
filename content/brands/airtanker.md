@@ -2,7 +2,7 @@
 title: AirTanker
 slug: airtanker
 description: ""
-date: "2026-04-15T09:21:25.369440"
+date: "2026-04-16T19:22:01.036142"
 draft: false
 sectors:
   - aerospace
@@ -16,8 +16,8 @@ languages:
 tags:
   - airline
 industries:
-  - military
   - aviation
+  - military
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -34,8 +34,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "raf-brize-norton"
   - "airtanker-hub"
+  - "raf-brize-norton"
 subsidiaries: []
 foundation_dates:
   - 2007
@@ -73,8 +73,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.airtanker.co.uk](https://www.airtanker.co.uk)
 - [https://airtanker.pinpointhq.com](https://airtanker.pinpointhq.com)
+- [https://www.airtanker.co.uk](https://www.airtanker.co.uk)
 
 ## Brand Guidelines
 
@@ -262,7 +262,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Raf Brize Norton](/headquarters_locations/raf-brize-norton/); [Airtanker Hub](/headquarters_locations/airtanker-hub/) |
+| Headquarters Location | [Airtanker Hub](/headquarters_locations/airtanker-hub/); [Raf Brize Norton](/headquarters_locations/raf-brize-norton/) |
 | Foundation Date | [2007](/foundation_dates/2007/) |
 | Parent Organization Or Unit | Cobham Limited, Airbus SE, Rolls-Royce, Babcock International, Thales Group (+1 more) |
 | Icao Airline Designator | TOW |

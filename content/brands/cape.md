@@ -2,11 +2,10 @@
 title: Cape
 slug: cape
 description: ""
-date: "2026-04-15T09:21:24.091198"
+date: "2026-04-16T19:21:59.421974"
 draft: false
 sectors:
   - finance
-  - software
 regions:
   - australia
 years:
@@ -62,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hellocape.com](https://www.hellocape.com)
-- [https://www.hellocape.com/sign-up](https://www.hellocape.com/sign-up)
+- [https://www.hugedomains.com/domain_profile.cfm?d=hellocape.com](https://www.hugedomains.com/domain_profile.cfm?d=hellocape.com)
 
 ## Brand Guidelines
 

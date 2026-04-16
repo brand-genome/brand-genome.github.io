@@ -2,7 +2,7 @@
 title: American Marketing Association
 slug: "american-marketing-association"
 description: ""
-date: "2026-04-15T09:21:24.203129"
+date: "2026-04-16T19:21:59.568668"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ama.org](https://www.ama.org)
-- [https://myama.my.salesforce-sites.com](https://myama.my.salesforce-sites.com)
+- [https://myama.my.salesforce-sites.com/paymentrequest](https://myama.my.salesforce-sites.com/paymentrequest)
 - [https://www.ama.org/Pages/default.aspx](https://www.ama.org/Pages/default.aspx)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Revelstoke
 slug: revelstoke
 description: ""
-date: "2026-04-15T09:21:25.439157"
+date: "2026-04-16T19:22:01.124169"
 draft: false
 sectors:
   - tourism

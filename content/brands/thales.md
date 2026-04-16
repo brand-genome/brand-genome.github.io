@@ -2,13 +2,13 @@
 title: Thales
 slug: thales
 description: ""
-date: "2026-04-15T09:21:24.953692"
+date: "2026-04-16T19:22:00.528043"
 draft: false
 sectors:
   - aerospace
+  - defense
   - "space-technology"
   - cybersecurity
-  - defense
 regions:
   - france
 years:
@@ -19,12 +19,12 @@ tags:
   - technology
   - transport
 industries:
+  - "aerospace-industry"
+  - "computer-security"
   - "weapons-industry"
   - "software-industry"
-  - "computer-security"
-  - "aerospace-industry"
-  - "activities-of-head-offices"
   - telecommunications
+  - "activities-of-head-offices"
 countries:
   - france
 revenue_buckets:
@@ -42,17 +42,17 @@ total_equity_buckets:
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "remote-weapon-station"
-  - aeronautics
   - radar
+  - aeronautics
   - "infantry-mobility-vehicle"
+  - "remote-weapon-station"
 products: []
 headquarters_locations:
-  - meudon
-  - "neuilly-sur-seine"
+  - courbevoie
   - paris
   - puteaux
-  - courbevoie
+  - "neuilly-sur-seine"
+  - meudon
 subsidiaries: []
 foundation_dates:
   - 2000
@@ -91,7 +91,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.thalesgroup.com](https://www.thalesgroup.com)
-- [https://brandworld.thalesgroup.com](https://brandworld.thalesgroup.com)
 - [https://www.thalesdsi.com](https://www.thalesdsi.com)
 - [http://www.linkedin.com/company/thales](http://www.linkedin.com/company/thales)
 - [http://www.thalesgroup.com](http://www.thalesgroup.com)
@@ -111,8 +110,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Remote Weapon Station](/products_or_materials_produced/remote-weapon-station/); [Aeronautics](/products_or_materials_produced/aeronautics/); [Radar](/products_or_materials_produced/radar/); [Infantry Mobility Vehicle](/products_or_materials_produced/infantry-mobility-vehicle/) |
-| Headquarters Location | [Meudon](/headquarters_locations/meudon/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Paris](/headquarters_locations/paris/); [Puteaux](/headquarters_locations/puteaux/); [Courbevoie](/headquarters_locations/courbevoie/) |
+| Product Or Material Produced | [Radar](/products_or_materials_produced/radar/); [Aeronautics](/products_or_materials_produced/aeronautics/); [Infantry Mobility Vehicle](/products_or_materials_produced/infantry-mobility-vehicle/); [Remote Weapon Station](/products_or_materials_produced/remote-weapon-station/) |
+| Headquarters Location | [Courbevoie](/headquarters_locations/courbevoie/); [Paris](/headquarters_locations/paris/); [Puteaux](/headquarters_locations/puteaux/); [Neuilly Sur Seine](/headquarters_locations/neuilly-sur-seine/); [Meudon](/headquarters_locations/meudon/) |
 | Foundation Date | [2000](/foundation_dates/2000/) |
 | Headquarters Location | Puteaux (until 1993-10-19), Paris (from 1993-10-19, until 2003-09-12), Neuilly-sur-Seine (from 2003-09-12, until 2014-09-16), Courbevoie (from 2014-09-16, until 2023-03-07), Meudon (from 2023-03-07) |
 | Chief Executive Officer | Denis Ranque (from 2004-05-12, until 2009-05-19), Luc Vigneron (from 2009-05-19, until 2012-12-20), Jean-Bernard Lévy (from 2012-12-20, until 2014-11-27), Philippe Logak (from 2014-11-27, until 2014-12-23), Patrice Caine (from 2014-12-23) |

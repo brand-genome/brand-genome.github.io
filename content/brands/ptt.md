@@ -2,7 +2,7 @@
 title: PTT
 slug: ptt
 description: ""
-date: "2026-04-15T09:21:23.644040"
+date: "2026-04-16T19:21:58.949285"
 draft: false
 sectors:
   - "public-sector"
@@ -65,12 +65,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.ptt.gov.tr](https://www.ptt.gov.tr)
-- [https://www.ptt.gov.tr?wapp=homePage_en](https://www.ptt.gov.tr?wapp=homePage_en)
-- [https://www.pttavm.com](https://www.pttavm.com)
-
 ## Brand Guidelines
 
 ### 2020

@@ -2,7 +2,7 @@
 title: Comsol
 slug: comsol
 description: ""
-date: "2026-04-15T09:21:22.578615"
+date: "2026-04-16T19:21:57.942368"
 draft: false
 sectors:
   - software
@@ -12,8 +12,8 @@ years:
   - 2024
 languages: []
 tags:
-  - software
   - corporate
+  - software
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.comsol.com](https://www.comsol.com)
-- [https://www.comsol.se](https://www.comsol.se)
 - [https://www.comsol.de](https://www.comsol.de)
 - [https://www.comsol.fr](https://www.comsol.fr)
 - [http://www.comsol.com](http://www.comsol.com)

@@ -2,7 +2,7 @@
 title: IGA
 slug: iga
 description: ""
-date: "2026-04-15T09:21:24.336833"
+date: "2026-04-16T19:21:59.777187"
 draft: false
 sectors:
   - supermarket
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.iga.com](https://www.iga.com)
-- [https://igalink.iga.com](https://igalink.iga.com)
 
 ## Brand Guidelines
 

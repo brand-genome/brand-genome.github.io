@@ -2,7 +2,7 @@
 title: Government of Ireland
 slug: "government-of-ireland"
 description: ""
-date: "2026-04-15T09:21:25.454260"
+date: "2026-04-16T19:22:01.167126"
 draft: false
 sectors:
   - "public-sector"
@@ -62,10 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.ie](https://www.gov.ie)
-- [https://www.ireland.ie](https://www.ireland.ie)
-- [https://www.mygovid.ie](https://www.mygovid.ie)
+- [https://www.gov.ie/en](https://www.gov.ie/en)
 - [http://www.gov.ie](http://www.gov.ie)
+- [https://www.gov.ie](https://www.gov.ie)
 
 ## Brand Guidelines
 

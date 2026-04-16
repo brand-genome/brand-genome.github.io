@@ -2,7 +2,7 @@
 title: "Nutri-score"
 slug: "nutri-score"
 description: ""
-date: "2026-04-15T09:21:23.735260"
+date: "2026-04-16T19:21:59.060528"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.santepubliquefrance.fr/en/nutri-score](https://www.santepubliquefrance.fr/en/nutri-score)
 - [https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france](https://www.demarches-simplifiees.fr/commencer/nutri-score_enregistrement_france)
 - [https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure](https://www.demarches-simplifiees.fr/commencer/ns_international_registration_procedure)
 - [https://www.santepubliquefrance.fr/Sante-publique-France/Nutri-Score](https://www.santepubliquefrance.fr/Sante-publique-France/Nutri-Score)

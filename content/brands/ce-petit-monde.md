@@ -2,11 +2,10 @@
 title: Ce Petit Monde
 slug: "ce-petit-monde"
 description: ""
-date: "2026-04-15T09:21:25.691998"
+date: "2026-04-16T19:22:01.776194"
 draft: false
 sectors:
   - education
-  - ngo
 regions:
   - france
 years:
@@ -60,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://cepetitmonde.com](http://cepetitmonde.com)
-
 ## Brand Guidelines
 
 ### 2014

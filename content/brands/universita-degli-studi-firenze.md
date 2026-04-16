@@ -2,11 +2,11 @@
 title: Universita degli studi Firenze
 slug: "universita-degli-studi-firenze"
 description: ""
-date: "2026-04-15T09:21:25.680670"
+date: "2026-04-16T19:22:01.746040"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.unifi.it](https://www.unifi.it)
-
 ## Brand Guidelines
 
 ### 2013

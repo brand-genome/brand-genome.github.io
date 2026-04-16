@@ -2,11 +2,11 @@
 title: DFPI
 slug: dfpi
 description: ""
-date: "2026-04-15T09:21:23.812032"
+date: "2026-04-16T19:21:59.140178"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - usa
 years:

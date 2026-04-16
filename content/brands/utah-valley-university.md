@@ -2,7 +2,7 @@
 title: Utah Valley University
 slug: "utah-valley-university"
 description: ""
-date: "2026-04-15T09:21:22.194858"
+date: "2026-04-16T19:21:57.227037"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

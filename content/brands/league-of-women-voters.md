@@ -2,7 +2,7 @@
 title: League of Women Voters
 slug: "league-of-women-voters"
 description: ""
-date: "2026-04-15T09:21:23.850776"
+date: "2026-04-16T19:21:59.178627"
 draft: false
 sectors:
   - ngo
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lwv.org](https://www.lwv.org)
 - [https://www.vote411.org](https://www.vote411.org)
 - [https://my.lwv.org](https://my.lwv.org)
 - [http://www.lwvny.org](http://www.lwvny.org)

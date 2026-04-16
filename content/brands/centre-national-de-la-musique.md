@@ -2,11 +2,11 @@
 title: Centre national de la musique
 slug: "centre-national-de-la-musique"
 description: ""
-date: "2026-04-15T09:21:23.797520"
+date: "2026-04-16T19:21:59.127184"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - france
 years:

@@ -2,7 +2,7 @@
 title: DNN Corporation
 slug: "dnn-corporation"
 description: ""
-date: "2026-04-15T09:21:22.389012"
+date: "2026-04-16T19:21:57.645074"
 draft: false
 sectors:
   - software
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dnnsoftware.com](https://www.dnnsoftware.com)
 - [https://store.dnnsoftware.com](https://store.dnnsoftware.com)
 - [https://dnnsupport.dnnsoftware.com](https://dnnsupport.dnnsoftware.com)
 

@@ -2,7 +2,7 @@
 title: Sigma Kappa
 slug: "sigma-kappa"
 description: ""
-date: "2026-04-15T09:21:25.347573"
+date: "2026-04-16T19:22:01.014583"
 draft: false
 sectors:
   - ngo

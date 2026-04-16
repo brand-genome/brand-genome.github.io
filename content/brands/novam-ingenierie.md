@@ -2,7 +2,7 @@
 title: Novam Ingénierie
 slug: "novam-ingenierie"
 description: ""
-date: "2026-04-15T09:21:25.651428"
+date: "2026-04-16T19:22:01.669157"
 draft: false
 sectors:
   - consulting

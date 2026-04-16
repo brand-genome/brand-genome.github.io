@@ -2,7 +2,7 @@
 title: Tricare
 slug: tricare
 description: ""
-date: "2026-04-15T09:21:25.414784"
+date: "2026-04-16T19:22:01.098888"
 draft: false
 sectors:
   - "public-sector"
@@ -70,8 +70,6 @@ visual_term_image_urls: {}
 - [https://www.tricare.mil/east](https://www.tricare.mil/east)
 - [https://www.tricare.mil/west](https://www.tricare.mil/west)
 - [https://www.humanamilitary.com](https://www.humanamilitary.com)
-- [https://tricare.triwest.com](https://tricare.triwest.com)
-- [https://www.tricare-overseas.com](https://www.tricare-overseas.com)
 - [http://www.tricare.mil/brand](http://www.tricare.mil/brand)
 - [https://tricarewest.net](https://tricarewest.net)
 - [https://tricare.mil](https://tricare.mil)

@@ -2,11 +2,11 @@
 title: Greenway
 slug: greenway
 description: ""
-date: "2026-04-15T09:21:24.797386"
+date: "2026-04-16T19:22:00.347006"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ireland
 years:

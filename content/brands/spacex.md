@@ -2,7 +2,7 @@
 title: SpaceX
 slug: spacex
 description: ""
-date: "2026-04-15T09:21:25.403510"
+date: "2026-04-16T19:22:01.086133"
 draft: false
 sectors:
   - "space-technology"
@@ -29,20 +29,20 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - raptor
-  - dragon
-  - "autonomous-spaceport-drone-ship"
-  - octagrabber
-  - starhopper
-  - merlin
-  - superdraco
   - falcon
   - kestrel
   - "spacex-draco"
+  - "autonomous-spaceport-drone-ship"
+  - octagrabber
+  - raptor
+  - merlin
+  - superdraco
+  - starhopper
+  - dragon
 products: []
 headquarters_locations:
-  - hawthorne
   - brownsville
+  - hawthorne
 subsidiaries: []
 foundation_dates:
   - 2002
@@ -80,8 +80,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spacex.com](https://www.spacex.com)
-- [https://www.starlink.com](https://www.starlink.com)
+- [https://www.spacex.com/index.html](https://www.spacex.com/index.html)
+- [https://starlink.com](https://starlink.com)
 - [https://spacex.com](https://spacex.com)
 
 ## Brand Guidelines
@@ -98,8 +98,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Raptor](/products_or_materials_produced/raptor/); [Dragon](/products_or_materials_produced/dragon/); [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Starhopper](/products_or_materials_produced/starhopper/); [Merlin](/products_or_materials_produced/merlin/); [Superdraco](/products_or_materials_produced/superdraco/); [Falcon](/products_or_materials_produced/falcon/); [Kestrel](/products_or_materials_produced/kestrel/); [Spacex Draco](/products_or_materials_produced/spacex-draco/) |
-| Headquarters Location | [Hawthorne](/headquarters_locations/hawthorne/); [Brownsville](/headquarters_locations/brownsville/) |
+| Product Or Material Produced | [Falcon](/products_or_materials_produced/falcon/); [Kestrel](/products_or_materials_produced/kestrel/); [Spacex Draco](/products_or_materials_produced/spacex-draco/); [Autonomous Spaceport Drone Ship](/products_or_materials_produced/autonomous-spaceport-drone-ship/); [Octagrabber](/products_or_materials_produced/octagrabber/); [Raptor](/products_or_materials_produced/raptor/); [Merlin](/products_or_materials_produced/merlin/); [Superdraco](/products_or_materials_produced/superdraco/); [Starhopper](/products_or_materials_produced/starhopper/); [Dragon](/products_or_materials_produced/dragon/) |
+| Headquarters Location | [Brownsville](/headquarters_locations/brownsville/); [Hawthorne](/headquarters_locations/hawthorne/) |
 | Foundation Date | [2002](/foundation_dates/2002/) |
 | Headquarters Location | Hawthorne, Brownsville |
 | Chief Executive Officer | Elon Musk (from 2002) |

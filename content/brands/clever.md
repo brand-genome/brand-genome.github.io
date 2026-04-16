@@ -2,11 +2,11 @@
 title: Clever
 slug: clever
 description: ""
-date: "2026-04-15T09:21:22.378846"
+date: "2026-04-16T19:21:57.627621"
 draft: false
 sectors:
-  - education
   - software
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - software
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.clever.com](https://www.clever.com)
-- [https://clever.com/academy](https://clever.com/academy)
+- [https://www.clever.com/academy](https://www.clever.com/academy)
 - [https://status.clever.com](https://status.clever.com)
 
 ## Brand Guidelines

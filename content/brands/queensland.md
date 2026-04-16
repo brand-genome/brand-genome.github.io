@@ -2,7 +2,7 @@
 title: Queensland
 slug: queensland
 description: ""
-date: "2026-04-15T09:21:24.314240"
+date: "2026-04-16T19:21:59.722276"
 draft: false
 sectors:
   - tourism
@@ -62,9 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.queensland.com](https://www.queensland.com)
-- [https://teq.queensland.com](https://teq.queensland.com)
-- [https://portal.queensland.com](https://portal.queensland.com)
+- [https://www.queensland.com/in/en/home](https://www.queensland.com/in/en/home)
+- [https://teq.queensland.com/au/en/industry?redirect=home](https://teq.queensland.com/au/en/industry?redirect=home)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Adevinta
 slug: adevinta
 description: ""
-date: "2026-04-15T09:21:23.860289"
+date: "2026-04-16T19:21:59.187476"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - norway
 years:
@@ -66,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.adevinta.com](https://www.adevinta.com)
+- [https://adevinta.com](https://adevinta.com)
 - [http://www.adevinta.com](http://www.adevinta.com)
+- [https://www.adevinta.com](https://www.adevinta.com)
 
 ## Brand Guidelines
 

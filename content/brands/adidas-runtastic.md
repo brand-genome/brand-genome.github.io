@@ -2,11 +2,11 @@
 title: Adidas Runtastic
 slug: "adidas-runtastic"
 description: ""
-date: "2026-04-15T09:21:22.436482"
+date: "2026-04-16T19:21:57.713673"
 draft: false
 sectors:
-  - fitness
   - software
+  - fitness
 regions:
   - austria
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - austria

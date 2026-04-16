@@ -2,10 +2,9 @@
 title: Dimplex
 slug: dimplex
 description: ""
-date: "2026-04-15T09:21:22.284466"
+date: "2026-04-16T19:21:57.324854"
 draft: false
 sectors:
-  - utilities
   - "home-appliances"
 regions:
   - ireland
@@ -64,5 +63,5 @@ visual_term_image_urls: {}
 
 - [https://www.dimplex.co.uk](https://www.dimplex.co.uk)
 - [https://www.dimplex.com/en-us](https://www.dimplex.com/en-us)
-- [https://www.glendimplex.com](https://www.glendimplex.com)
+- [https://www.glendimplex.com/en-ie](https://www.glendimplex.com/en-ie)
 - [https://www.gdhv.com](https://www.gdhv.com)

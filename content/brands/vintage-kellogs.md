@@ -2,7 +2,7 @@
 title: Vintage Kellogs
 slug: "vintage-kellogs"
 description: ""
-date: "2026-04-15T09:21:22.242007"
+date: "2026-04-16T19:21:57.280731"
 draft: false
 sectors:
   - food

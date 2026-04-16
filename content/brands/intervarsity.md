@@ -2,11 +2,11 @@
 title: InterVarsity
 slug: intervarsity
 description: ""
-date: "2026-04-15T09:21:25.641181"
+date: "2026-04-16T19:22:01.652112"
 draft: false
 sectors:
-  - publishing
   - ngo
+  - publishing
 regions:
   - usa
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://intervarsity.org](https://intervarsity.org)
-- [https://www.ivpress.com](https://www.ivpress.com)
 - [http://www.intervarsity.org](http://www.intervarsity.org)
 
 ## Brand Guidelines

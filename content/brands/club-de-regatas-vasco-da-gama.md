@@ -2,7 +2,7 @@
 title: Club de Regatas Vasco da Gama
 slug: "club-de-regatas-vasco-da-gama"
 description: ""
-date: "2026-04-15T09:21:22.343837"
+date: "2026-04-16T19:21:57.529852"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://vasco.com.br](https://vasco.com.br)
 - [https://sociogigante.com](https://sociogigante.com)
 - [https://www.vascostore.com.br](https://www.vascostore.com.br)
 - [http://www.vasco.com.br](http://www.vasco.com.br)

@@ -2,11 +2,10 @@
 title: Sky West
 slug: "sky-west"
 description: ""
-date: "2026-04-15T09:21:25.831146"
+date: "2026-04-16T19:22:02.061155"
 draft: false
 sectors:
-  - healthcare
-  - ngo
+  - airline
 regions:
   - usa
 years:
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - airline
+  - transport
 industries: []
 countries: []
 revenue_buckets: []

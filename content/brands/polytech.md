@@ -2,10 +2,11 @@
 title: Polytech
 slug: polytech
 description: ""
-date: "2026-04-15T09:21:24.301335"
+date: "2026-04-16T19:21:59.707247"
 draft: false
 sectors:
   - education
+  - university
 regions:
   - france
 years:

@@ -2,7 +2,7 @@
 title: Gobierno de El Salvador
 slug: "gobierno-de-el-salvador"
 description: ""
-date: "2026-04-15T09:21:24.078161"
+date: "2026-04-16T19:21:59.402026"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mh.gob.sv](https://www.mh.gob.sv)
-- [https://rree.gob.sv](https://rree.gob.sv)
 - [https://www.gobernacion.gob.sv](https://www.gobernacion.gob.sv)
 - [https://integracion.gob.sv](https://integracion.gob.sv)
 

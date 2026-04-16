@@ -2,11 +2,11 @@
 title: Nipigon
 slug: nipigon
 description: ""
-date: "2026-04-15T09:21:24.373814"
+date: "2026-04-16T19:21:59.903619"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - canada
 years:

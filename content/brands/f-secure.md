@@ -2,11 +2,11 @@
 title: "F-Secure"
 slug: "f-secure"
 description: ""
-date: "2026-04-15T09:21:23.712827"
+date: "2026-04-16T19:21:59.036134"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - finland
 years:
@@ -69,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.f-secure.com](https://www.f-secure.com)
+- [https://www.f-secure.com/en](https://www.f-secure.com/en)
 - [https://www.f-secure.com/us-en](https://www.f-secure.com/us-en)
-- [https://company.f-secure.com](https://company.f-secure.com)
+- [https://company.f-secure.com/en](https://company.f-secure.com/en)
 - [http://www.f-secure.com](http://www.f-secure.com)
 
 ## Brand Guidelines

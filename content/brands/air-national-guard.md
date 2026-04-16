@@ -2,11 +2,11 @@
 title: Air National Guard
 slug: "air-national-guard"
 description: ""
-date: "2026-04-15T09:21:24.944864"
+date: "2026-04-16T19:22:00.519897"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
 regions:
   - usa
 years:
@@ -64,8 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nationalguard.mil](https://www.nationalguard.mil)
-- [https://www.goang.com](https://www.goang.com)
+- [https://www.airforce.com:443/ways-to-serve/air-national-guard](https://www.airforce.com:443/ways-to-serve/air-national-guard)
 
 ## Brand Guidelines
 

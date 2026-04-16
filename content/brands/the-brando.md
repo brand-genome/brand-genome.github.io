@@ -2,7 +2,7 @@
 title: The Brando
 slug: "the-brando"
 description: ""
-date: "2026-04-15T09:21:25.348614"
+date: "2026-04-16T19:22:01.015593"
 draft: false
 sectors:
   - tourism

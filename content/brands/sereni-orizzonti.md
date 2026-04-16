@@ -2,7 +2,7 @@
 title: Sereni Orizzonti
 slug: "sereni-orizzonti"
 description: ""
-date: "2026-04-15T09:21:24.076066"
+date: "2026-04-16T19:21:59.399227"
 draft: false
 sectors:
   - "elder-care"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sereniorizzonti.it](https://sereniorizzonti.it)
+- [https://sereniorizzonti.it/it](https://sereniorizzonti.it/it)
 - [https://sereniorizzonti.it/en](https://sereniorizzonti.it/en)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Irish Ferries
 slug: "irish-ferries"
 description: ""
-date: "2026-04-15T09:21:24.223631"
+date: "2026-04-16T19:21:59.594090"
 draft: false
 sectors:
-  - "maritime-shipping"
   - tourism
+  - "maritime-shipping"
 regions:
   - ireland
 years:
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.irishferries.com](https://www.irishferries.com)
+- [https://www.irishferries.com/uk-en/Travel-to-France](https://www.irishferries.com/uk-en/Travel-to-France)
 - [http://www.irishferries.com](http://www.irishferries.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: VIB
 slug: vib
 description: ""
-date: "2026-04-15T09:21:24.785313"
+date: "2026-04-16T19:22:00.334592"
 draft: false
 sectors:
   - biotech
@@ -66,9 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vib.be](https://www.vib.be)
+- [https://vib.be/en](https://vib.be/en)
 - [https://vib.be/en/about](https://vib.be/en/about)
-- [https://www.vib.be/phd](https://www.vib.be/phd)
 - [https://vib.be](https://vib.be)
 
 ## Brand Guidelines

@@ -2,10 +2,9 @@
 title: MicroStrategy
 slug: microstrategy
 description: ""
-date: "2026-04-15T09:21:25.391375"
+date: "2026-04-16T19:22:01.067297"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
 regions:
   - usa
@@ -18,10 +17,10 @@ tags:
 industries:
   - "software-industry"
   - "software-development"
-  - "technology-industry"
+  - "business-intelligence"
   - analytics
   - "data-visualization"
-  - "business-intelligence"
+  - "technology-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -37,12 +36,12 @@ total_equity_buckets: []
 market_cap_buckets:
   - "50B-100B"
 products_or_materials_produced:
-  - application
-  - "computer-program"
-  - software
-  - "mobile-app"
   - "business-intelligence-software"
+  - application
+  - software
+  - "computer-program"
   - "data-analysis-software"
+  - "mobile-app"
 products: []
 headquarters_locations:
   - wilmington
@@ -84,9 +83,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.strategy.com](https://www.strategy.com)
-- [https://www.strategy.com/software](https://www.strategy.com/software)
-- [https://www.strategysoftware.com](https://www.strategysoftware.com)
 - [https://www.microstrategy.com](https://www.microstrategy.com)
 
 ## Brand Guidelines
@@ -103,7 +99,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Application](/products_or_materials_produced/application/); [Computer Program](/products_or_materials_produced/computer-program/); [Software](/products_or_materials_produced/software/); [Mobile App](/products_or_materials_produced/mobile-app/); [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/) |
+| Product Or Material Produced | [Business Intelligence Software](/products_or_materials_produced/business-intelligence-software/); [Application](/products_or_materials_produced/application/); [Software](/products_or_materials_produced/software/); [Computer Program](/products_or_materials_produced/computer-program/); [Data Analysis Software](/products_or_materials_produced/data-analysis-software/); [Mobile App](/products_or_materials_produced/mobile-app/) |
 | Headquarters Location | [Wilmington](/headquarters_locations/wilmington/); [Tysons](/headquarters_locations/tysons/) |
 | Foundation Date | [1989](/foundation_dates/1989/) |
 | Freebase Id | /m/052hvb |

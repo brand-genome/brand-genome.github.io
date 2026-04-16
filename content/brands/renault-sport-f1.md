@@ -2,7 +2,7 @@
 title: Renault Sport F1
 slug: "renault-sport-f1"
 description: ""
-date: "2026-04-15T09:21:22.434199"
+date: "2026-04-16T19:21:57.711510"
 draft: false
 sectors:
   - sports
@@ -16,8 +16,8 @@ tags:
   - sport
 industries: []
 countries:
-  - france
   - "united-kingdom"
+  - france
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.renaultgroup.com/en](https://www.renaultgroup.com/en)
-- [https://www.alpinecars.com/en/formula-1](https://www.alpinecars.com/en/formula-1)
 - [https://www.renaultgroup.com/en/our-brands/alpine](https://www.renaultgroup.com/en/our-brands/alpine)
 
 ## Additional Properties

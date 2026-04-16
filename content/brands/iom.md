@@ -2,7 +2,7 @@
 title: IOM
 slug: iom
 description: ""
-date: "2026-04-15T09:21:24.244263"
+date: "2026-04-16T19:21:59.637936"
 draft: false
 sectors:
   - ngo
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.iom.int](https://www.iom.int)
-- [https://eea.iom.int](https://eea.iom.int)
+- [https://eca.iom.int](https://eca.iom.int)
 
 ## Brand Guidelines
 

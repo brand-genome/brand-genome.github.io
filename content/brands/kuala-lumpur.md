@@ -2,7 +2,7 @@
 title: Kuala Lumpur
 slug: "kuala-lumpur"
 description: ""
-date: "2026-04-15T09:21:25.358315"
+date: "2026-04-16T19:22:01.024803"
 draft: false
 sectors:
   - tourism
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.brandkl.com](https://www.brandkl.com)
 - [https://www.warisankl.my](https://www.warisankl.my)
 - [https://www.dbkl.gov.my/en](https://www.dbkl.gov.my/en)
 - [http://www.dbkl.gov.my](http://www.dbkl.gov.my)

@@ -2,7 +2,7 @@
 title: CCI France
 slug: "cci-france"
 description: ""
-date: "2026-04-15T09:21:25.870277"
+date: "2026-04-16T19:22:02.139868"
 draft: false
 sectors:
   - "public-sector"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.cci.fr](https://www.cci.fr)
-- [https://www.cci.fr/reseau-cci/cci-france](https://www.cci.fr/reseau-cci/cci-france)
 
 ## Brand Guidelines
 

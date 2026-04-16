@@ -2,12 +2,12 @@
 title: Dalla Lana
 slug: "dalla-lana"
 description: ""
-date: "2026-04-15T09:21:25.657375"
+date: "2026-04-16T19:22:01.679546"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - canada
 years:

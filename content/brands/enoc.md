@@ -2,12 +2,12 @@
 title: Enoc
 slug: enoc
 description: ""
-date: "2026-04-15T09:21:22.542119"
+date: "2026-04-16T19:21:57.887868"
 draft: false
 sectors:
-  - gas
   - oil
   - "petrol-station"
+  - gas
 regions:
   - dubai
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.enoc.com/en](https://www.enoc.com/en)
 - [http://www.enoc.com](http://www.enoc.com)
 
 ## Additional Properties

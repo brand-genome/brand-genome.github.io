@@ -2,7 +2,7 @@
 title: Hello Brain
 slug: "hello-brain"
 description: ""
-date: "2026-04-15T09:21:25.416591"
+date: "2026-04-16T19:22:01.100391"
 draft: false
 sectors:
   - education
@@ -60,14 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.hellobrain.eu](https://www.hellobrain.eu)
-- [http://www.hellobrain.eu](http://www.hellobrain.eu)
-- [https://www.hellobrain.eu/en](https://www.hellobrain.eu/en)
-- [https://www.hellobrain.eu/fr](https://www.hellobrain.eu/fr)
-- [https://www.hellobrain.eu/de](https://www.hellobrain.eu/de)
-
 ## Brand Guidelines
 
 ### 2014

@@ -2,7 +2,7 @@
 title: The American Repertory Theater
 slug: "the-american-repertory-theater"
 description: ""
-date: "2026-04-15T09:21:25.857138"
+date: "2026-04-16T19:22:02.124047"
 draft: false
 sectors:
   - "arts-culture"

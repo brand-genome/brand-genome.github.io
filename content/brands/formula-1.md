@@ -2,11 +2,11 @@
 title: Formula 1
 slug: "formula-1"
 description: ""
-date: "2026-04-15T09:21:24.788363"
+date: "2026-04-16T19:22:00.337472"
 draft: false
 sectors:
-  - sports
   - entertainment
+  - sports
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.formula1.com](https://www.formula1.com)
-- [https://corp.formula1.com](https://corp.formula1.com)
 - [http://www.f1experiences.com](http://www.f1experiences.com)
 - [http://www.f1.com](http://www.f1.com)
 - [https://f1esports.com](https://f1esports.com)

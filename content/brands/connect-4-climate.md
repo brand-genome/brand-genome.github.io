@@ -2,7 +2,7 @@
 title: Connect 4 Climate
 slug: "connect-4-climate"
 description: ""
-date: "2026-04-15T09:21:25.338079"
+date: "2026-04-16T19:22:01.004442"
 draft: false
 sectors:
   - ngo

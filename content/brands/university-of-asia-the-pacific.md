@@ -2,7 +2,7 @@
 title: "University of Asia & the Pacific"
 slug: "university-of-asia-the-pacific"
 description: ""
-date: "2026-04-15T09:21:23.402308"
+date: "2026-04-16T19:21:58.793139"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

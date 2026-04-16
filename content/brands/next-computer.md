@@ -2,7 +2,7 @@
 title: Next Computer
 slug: "next-computer"
 description: ""
-date: "2026-04-15T09:21:23.413940"
+date: "2026-04-16T19:21:58.803277"
 draft: false
 sectors:
   - software
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - vintage
+  - technology
+  - featured
 industries:
-  - "software-industry"
   - "computer-hardware-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -30,15 +30,15 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - nextstep
-  - "next-computer"
-  - "nextcube-turbo"
   - nextstation
+  - "nextcube-turbo"
+  - "next-computer"
+  - nextstep
   - nextcube
 products: []
 headquarters_locations:
-  - "palo-alto"
   - "redwood-city"
+  - "palo-alto"
 subsidiaries: []
 foundation_dates:
   - 1985
@@ -87,8 +87,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Nextstep](/products_or_materials_produced/nextstep/); [Next Computer](/products_or_materials_produced/next-computer/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Nextstation](/products_or_materials_produced/nextstation/); [Nextcube](/products_or_materials_produced/nextcube/) |
-| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [Redwood City](/headquarters_locations/redwood-city/) |
+| Product Or Material Produced | [Nextstation](/products_or_materials_produced/nextstation/); [Nextcube Turbo](/products_or_materials_produced/nextcube-turbo/); [Next Computer](/products_or_materials_produced/next-computer/); [Nextstep](/products_or_materials_produced/nextstep/); [Nextcube](/products_or_materials_produced/nextcube/) |
+| Headquarters Location | [Redwood City](/headquarters_locations/redwood-city/); [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1985](/foundation_dates/1985/) |
 | Founded By | Steve Jobs |
 | Chief Executive Officer | Steve Jobs |

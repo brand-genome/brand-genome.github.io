@@ -2,7 +2,7 @@
 title: FluoroSeal Valves
 slug: "fluoroseal-valves"
 description: ""
-date: "2026-04-15T09:21:23.791178"
+date: "2026-04-16T19:21:59.120522"
 draft: false
 sectors:
   - hardware
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries: []
 countries: []
 revenue_buckets: []

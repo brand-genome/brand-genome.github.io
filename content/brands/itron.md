@@ -2,7 +2,7 @@
 title: Itron
 slug: itron
 description: ""
-date: "2026-04-15T09:21:25.338509"
+date: "2026-04-16T19:22:01.004864"
 draft: false
 sectors:
   - utilities
@@ -32,8 +32,8 @@ headquarters_locations:
   - "liberty-lake"
 subsidiaries: []
 foundation_dates:
-  - 1972
   - 1977
+  - 1972
 foundation_year_buckets:
   - 1970S
 lightings: []
@@ -68,8 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.itron.com](https://www.itron.com)
-- [https://investors.itron.com](https://investors.itron.com)
+- [https://na.itron.com](https://na.itron.com)
 - [http://www.itron.com](http://www.itron.com)
 
 ## Brand Guidelines
@@ -87,7 +86,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Liberty Lake](/headquarters_locations/liberty-lake/) |
-| Foundation Date | [1972](/foundation_dates/1972/); [1977](/foundation_dates/1977/) |
+| Foundation Date | [1977](/foundation_dates/1977/); [1972](/foundation_dates/1972/) |
 | Stock Exchange | Nasdaq (from 1993-11-05) |
 | Headquarters Location | Liberty Lake |
 | Inception | 1972, 1977 |

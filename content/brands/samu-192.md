@@ -2,11 +2,11 @@
 title: Samu 192
 slug: "samu-192"
 description: ""
-date: "2026-04-15T09:21:24.009839"
+date: "2026-04-16T19:21:59.320038"
 draft: false
 sectors:
-  - "public-sector"
   - "emergency-services"
+  - "public-sector"
   - healthcare
 regions:
   - brazil

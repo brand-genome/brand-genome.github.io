@@ -2,7 +2,7 @@
 title: SPD
 slug: spd
 description: ""
-date: "2026-04-15T09:21:24.943873"
+date: "2026-04-16T19:22:00.518591"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spd.de](https://www.spd.de)
 - [https://www.spdfraktion.de](https://www.spdfraktion.de)
 - [http://www.youtube.com/SPDvision](http://www.youtube.com/SPDvision)
 

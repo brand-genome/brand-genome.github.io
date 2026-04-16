@@ -2,7 +2,7 @@
 title: "T-Mobile"
 slug: "t-mobile"
 description: ""
-date: "2026-04-15T09:21:23.590919"
+date: "2026-04-16T19:21:58.880228"
 draft: false
 sectors:
   - telecom
@@ -71,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.telekom.de/start](https://www.telekom.de/start)
 - [https://www.t-mobile.com](https://www.t-mobile.com)
-- [https://www.telekom.de](https://www.telekom.de)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Bravida
 slug: bravida
 description: ""
-date: "2026-04-15T09:21:23.599810"
+date: "2026-04-16T19:21:58.888326"
 draft: false
 sectors:
   - utilities
@@ -13,13 +13,13 @@ years:
   - 2018
 languages: []
 tags:
-  - featured
   - industry
+  - featured
 industries: []
 countries:
   - norway
-  - denmark
   - sweden
+  - denmark
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

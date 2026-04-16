@@ -2,11 +2,11 @@
 title: RMHC
 slug: rmhc
 description: ""
-date: "2026-04-15T09:21:23.394672"
+date: "2026-04-16T19:21:58.784178"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - charity
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,4 +63,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rmhc.org](https://rmhc.org)
+- [https://ronaldmcdonaldhouse.org](https://ronaldmcdonaldhouse.org)

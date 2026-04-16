@@ -2,11 +2,11 @@
 title: inserm
 slug: inserm
 description: ""
-date: "2026-04-15T09:21:25.399867"
+date: "2026-04-16T19:22:01.081351"
 draft: false
 sectors:
-  - research
   - healthcare
+  - research
 regions:
   - france
 years:

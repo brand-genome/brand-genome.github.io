@@ -2,7 +2,7 @@
 title: City of Detroit
 slug: "city-of-detroit"
 description: ""
-date: "2026-04-15T09:21:24.094344"
+date: "2026-04-16T19:21:59.424551"
 draft: false
 sectors:
   - "public-sector"
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://detroitmi.gov](https://detroitmi.gov)
-- [https://www.detroitmi.gov/styleguide](https://www.detroitmi.gov/styleguide)
+- [https://detroitmi.gov/departments/department-innovation-and-technology/style-guide](https://detroitmi.gov/departments/department-innovation-and-technology/style-guide)
 
 ## Brand Guidelines
 

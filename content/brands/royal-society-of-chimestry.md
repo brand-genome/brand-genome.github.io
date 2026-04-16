@@ -2,11 +2,11 @@
 title: Royal Society of Chimestry
 slug: "royal-society-of-chimestry"
 description: ""
-date: "2026-04-15T09:21:24.727259"
+date: "2026-04-16T19:22:00.272689"
 draft: false
 sectors:
-  - research
   - publishing
+  - research
 regions:
   - "united-kingdom"
 years:

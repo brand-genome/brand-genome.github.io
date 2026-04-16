@@ -2,7 +2,7 @@
 title: IWWF
 slug: iwwf
 description: ""
-date: "2026-04-15T09:21:25.428874"
+date: "2026-04-16T19:22:01.113628"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://iwwf.sport](https://iwwf.sport)
-- [https://www.iwsf.com](https://www.iwsf.com)
 - [http://www.iwsf.com](http://www.iwsf.com)
 - [http://www.iwwfed.com](http://www.iwwfed.com)
 - [https://ems.iwwf.sport](https://ems.iwwf.sport)

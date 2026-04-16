@@ -2,7 +2,7 @@
 title: CCCrafts
 slug: cccrafts
 description: ""
-date: "2026-04-15T09:21:22.225133"
+date: "2026-04-16T19:21:57.267508"
 draft: false
 sectors:
   - software

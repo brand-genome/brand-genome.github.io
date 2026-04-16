@@ -2,7 +2,7 @@
 title: Bertelsman
 slug: bertelsman
 description: ""
-date: "2026-04-15T09:21:24.556687"
+date: "2026-04-16T19:22:00.128142"
 draft: false
 sectors:
   - entertainment

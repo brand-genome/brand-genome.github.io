@@ -2,11 +2,11 @@
 title: Voice of America
 slug: "voice-of-america"
 description: ""
-date: "2026-04-15T09:21:22.341999"
+date: "2026-04-16T19:21:57.524136"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - media
   - ambigram
   - broadcast
-  - media
 industries: []
 countries:
   - "united-states"
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.voanews.com](https://www.voanews.com)
-- [https://www.voanews.com/branding](https://www.voanews.com/branding)
+- [https://projects.voanews.com/branding](https://projects.voanews.com/branding)
 - [https://www.insidevoa.com](https://www.insidevoa.com)
 - [http://www.voanews.com/branding](http://www.voanews.com/branding)
 - [https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion](https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion)

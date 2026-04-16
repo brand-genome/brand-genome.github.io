@@ -2,7 +2,7 @@
 title: Simplify
 slug: simplify
 description: ""
-date: "2026-04-15T09:21:24.044174"
+date: "2026-04-16T19:21:59.364173"
 draft: false
 sectors:
   - consulting

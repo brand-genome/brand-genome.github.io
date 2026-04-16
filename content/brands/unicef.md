@@ -2,19 +2,19 @@
 title: Unicef
 slug: unicef
 description: ""
-date: "2026-04-15T09:21:25.413828"
+date: "2026-04-16T19:22:01.097856"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2018
-  - 2017
   - 2012
+  - 2017
+  - 2018
 languages:
-  - english
   - spanish
+  - english
 tags:
   - ngo
 industries: []
@@ -62,10 +62,6 @@ guideline_count: 3
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.unicef.org](https://www.unicef.org)
-
 ## Brand Guidelines
 
 ### 2018

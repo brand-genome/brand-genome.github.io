@@ -2,7 +2,7 @@
 title: Blue Cross NC
 slug: "blue-cross-nc"
 description: ""
-date: "2026-04-15T09:21:23.974675"
+date: "2026-04-16T19:21:59.284495"
 draft: false
 sectors:
   - insurance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - health
+  - social
 industries: []
 countries: []
 revenue_buckets: []

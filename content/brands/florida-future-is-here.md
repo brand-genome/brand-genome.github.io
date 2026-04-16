@@ -2,11 +2,11 @@
 title: Florida – Future is Here
 slug: "florida-future-is-here"
 description: ""
-date: "2026-04-15T09:21:23.755257"
+date: "2026-04-16T19:21:59.080902"
 draft: false
 sectors:
-  - "public-sector"
   - "marketing-advertising"
+  - "public-sector"
 regions:
   - usa
 years:
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.floridathefutureishere.com](https://www.floridathefutureishere.com)
-- [https://www.enterpriseflorida.com](https://www.enterpriseflorida.com)
-
 ## Brand Guidelines
 
 ### 2017

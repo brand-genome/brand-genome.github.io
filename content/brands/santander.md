@@ -2,7 +2,7 @@
 title: Santander
 slug: santander
 description: ""
-date: "2026-04-15T09:21:22.423187"
+date: "2026-04-16T19:21:57.702732"
 draft: false
 sectors:
   - finance
@@ -11,13 +11,13 @@ regions:
 years:
   - 2020
 languages:
-  - english
   - spanish
+  - english
 tags:
   - financial
 industries:
-  - "financial-services"
   - "economics-of-banking"
+  - "financial-services"
   - "financial-sector"
 countries:
   - spain
@@ -70,9 +70,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.santander.com/en/home](https://www.santander.com/en/home)
+- [https://www.bancosantander.es/particulares](https://www.bancosantander.es/particulares)
+- [https://www.bancosantander.es/en/particulares](https://www.bancosantander.es/en/particulares)
 - [https://www.santander.com](https://www.santander.com)
 - [https://www.bancosantander.es](https://www.bancosantander.es)
-- [https://www.bancosantander.es/en](https://www.bancosantander.es/en)
 - [https://www.santander.com.mx](https://www.santander.com.mx)
 - [https://www.santanderrio.com.ar](https://www.santanderrio.com.ar)
 

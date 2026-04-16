@@ -2,10 +2,9 @@
 title: Avinor
 slug: avinor
 description: ""
-date: "2026-04-15T09:21:25.417654"
+date: "2026-04-16T19:22:01.101614"
 draft: false
 sectors:
-  - utilities
   - "public-transportation"
 regions:
   - norway

@@ -2,7 +2,7 @@
 title: FSSA
 slug: fssa
 description: ""
-date: "2026-04-15T09:21:25.350617"
+date: "2026-04-16T19:22:01.017060"
 draft: false
 sectors:
   - "public-sector"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.in.gov/fssa](https://www.in.gov/fssa)
-- [https://fssabenefits.in.gov/bp](https://fssabenefits.in.gov/bp)
 - [http://www.in.gov/fssa/index.htm](http://www.in.gov/fssa/index.htm)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Devis Market
 slug: "devis-market"
 description: ""
-date: "2026-04-15T09:21:25.871685"
+date: "2026-04-16T19:22:02.141305"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -61,5 +61,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.devis-market.com](http://www.devis-market.com)
+- [https://www.devis-market.com](https://www.devis-market.com)
 - [https://www.agencesevenementielles.com](https://www.agencesevenementielles.com)

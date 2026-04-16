@@ -2,11 +2,11 @@
 title: Sport 2000
 slug: "sport-2000"
 description: ""
-date: "2026-04-15T09:21:25.692419"
+date: "2026-04-16T19:22:01.779304"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - france
 years:
@@ -29,12 +29,12 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - mainhausen
   - egly
+  - mainhausen
 subsidiaries: []
 foundation_dates:
-  - 1999
   - 1966
+  - 1999
 foundation_year_buckets:
   - 1960S
   - 1990S
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 
 - [https://www.sport2000.fr](https://www.sport2000.fr)
 - [https://location-ski.sport2000.fr](https://location-ski.sport2000.fr)
-- [https://cartecadeau.sport2000.fr](https://cartecadeau.sport2000.fr)
 - [https://www.sport2000international.com](https://www.sport2000international.com)
 - [https://sport2000.at](https://sport2000.at)
 
@@ -90,8 +89,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Mainhausen](/headquarters_locations/mainhausen/); [Egly](/headquarters_locations/egly/) |
-| Foundation Date | [1999](/foundation_dates/1999/); [1966](/foundation_dates/1966/) |
+| Headquarters Location | [Egly](/headquarters_locations/egly/); [Mainhausen](/headquarters_locations/mainhausen/) |
+| Foundation Date | [1966](/foundation_dates/1966/); [1999](/foundation_dates/1999/) |
 | Headquarters Location | Mainhausen, Égly |
 | Inception | 1966-01-01, 1999-01-02 |
 | Country | France |

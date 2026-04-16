@@ -2,11 +2,11 @@
 title: Society of Women Engineers
 slug: "society-of-women-engineers"
 description: ""
-date: "2026-04-15T09:21:23.691486"
+date: "2026-04-16T19:21:59.014810"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - engineering
+  - community
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://swe.org](https://swe.org)
-- [https://brand.swe.org](https://brand.swe.org)
 - [http://www.swe.org](http://www.swe.org)
 - [http://societyofwomenengineers.swe.org](http://societyofwomenengineers.swe.org)
 

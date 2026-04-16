@@ -2,7 +2,7 @@
 title: UL Hospitals Group
 slug: "ul-hospitals-group"
 description: ""
-date: "2026-04-15T09:21:24.052234"
+date: "2026-04-16T19:21:59.372414"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://healthservice.hse.ie/healthcare-delivery/ul-hospitals-group/ul-hospitals-group.html](https://healthservice.hse.ie/healthcare-delivery/ul-hospitals-group/ul-hospitals-group.html)
+- [https://www.hse.ie/website-update](https://www.hse.ie/website-update)
 
 ## Brand Guidelines
 

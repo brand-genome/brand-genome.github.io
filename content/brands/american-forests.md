@@ -2,9 +2,10 @@
 title: American Forests
 slug: "american-forests"
 description: ""
-date: "2026-04-15T09:21:22.048954"
+date: "2026-04-16T19:21:57.095763"
 draft: false
 sectors:
+  - ngo
   - "forestry-timber"
 regions:
   - usa
@@ -13,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - environment
+  - featured
 industries:
   - environment
 countries:
@@ -69,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://americanforests.org](http://americanforests.org)
+- [https://www.americanforests.org](https://www.americanforests.org)
 - [http://www.americanforests.org](http://www.americanforests.org)
 
 ## Brand Guidelines

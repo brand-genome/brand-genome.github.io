@@ -2,11 +2,11 @@
 title: Buddha Bowl
 slug: "buddha-bowl"
 description: ""
-date: "2026-04-15T09:21:23.719761"
+date: "2026-04-16T19:21:59.043079"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.buddhabowl.com](https://www.buddhabowl.com)
-
 ## Brand Guidelines
 
 ### 2018

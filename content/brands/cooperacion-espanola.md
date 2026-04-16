@@ -2,11 +2,10 @@
 title: Cooperación Española
 slug: "cooperacion-espanola"
 description: ""
-date: "2026-04-15T09:21:24.251484"
+date: "2026-04-16T19:21:59.649906"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - spain
 years:
@@ -14,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - institution
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.cooperacionespanola.es](https://www.cooperacionespanola.es)
-- [https://www.aecid.es](https://www.aecid.es)
 
 ## Brand Guidelines
 

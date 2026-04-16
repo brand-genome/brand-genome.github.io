@@ -2,7 +2,7 @@
 title: Kryptonite
 slug: kryptonite
 description: ""
-date: "2026-04-15T09:21:24.602836"
+date: "2026-04-16T19:22:00.166252"
 draft: false
 sectors:
   - hardware
@@ -61,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kryptonitelock.com](https://www.kryptonitelock.com)
-- [https://diamond.kryptonitelock.com](https://diamond.kryptonitelock.com)
+- [https://diamond.kryptonitelock.com/en/home.html](https://diamond.kryptonitelock.com/en/home.html)
 - [http://www.kryptonitelock.com](http://www.kryptonitelock.com)
 
 ## Brand Guidelines

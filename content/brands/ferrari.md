@@ -2,7 +2,7 @@
 title: Ferrari
 slug: ferrari
 description: ""
-date: "2026-04-15T09:21:23.689230"
+date: "2026-04-16T19:21:59.012693"
 draft: false
 sectors:
   - automobile
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - luxury
+  - featured
   - transport
 industries:
   - "automotive-industry"
@@ -28,8 +28,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - supercar
   - "sports-car"
+  - supercar
 products: []
 headquarters_locations:
   - maranello
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ferrari.com](https://www.ferrari.com)
-- [https://www.ferrari.com/en-EN/corporate/homepage](https://www.ferrari.com/en-EN/corporate/homepage)
-- [https://www.ferrari.com/en-EN/museums](https://www.ferrari.com/en-EN/museums)
 
 ## Brand Guidelines
 
@@ -88,7 +86,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Supercar](/products_or_materials_produced/supercar/); [Sports Car](/products_or_materials_produced/sports-car/) |
+| Product Or Material Produced | [Sports Car](/products_or_materials_produced/sports-car/); [Supercar](/products_or_materials_produced/supercar/) |
 | Headquarters Location | [Maranello](/headquarters_locations/maranello/) |
 | Foundation Date | [1947](/foundation_dates/1947/) |
 | Founded By | Enzo Ferrari |

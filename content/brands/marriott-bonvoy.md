@@ -2,7 +2,7 @@
 title: Marriott Bonvoy
 slug: "marriott-bonvoy"
 description: ""
-date: "2026-04-15T09:21:23.180162"
+date: "2026-04-16T19:21:58.578841"
 draft: false
 sectors:
   - hospitality
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - tourism
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.marriott.com](https://www.marriott.com)
+- [https://www.marriott.com/default.mi](https://www.marriott.com/default.mi)
 - [https://www.marriott.com/loyalty.mi](https://www.marriott.com/loyalty.mi)
 - [http://www.marriott.com/loyalty/earn.mi](http://www.marriott.com/loyalty/earn.mi)
 

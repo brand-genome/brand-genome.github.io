@@ -2,7 +2,7 @@
 title: NCAA
 slug: ncaa
 description: ""
-date: "2026-04-15T09:21:23.784598"
+date: "2026-04-16T19:21:59.114139"
 draft: false
 sectors:
   - sports
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 
 - [https://www.ncaa.org](https://www.ncaa.org)
 - [https://www.ncaa.com](https://www.ncaa.com)
-- [https://www.ncaa.org/playcollegesports](https://www.ncaa.org/playcollegesports)
+- [https://www.ncaa.org/sports/2021/2/8/student-athletes-future.aspx](https://www.ncaa.org/sports/2021/2/8/student-athletes-future.aspx)
 
 ## Brand Guidelines
 

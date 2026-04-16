@@ -2,11 +2,11 @@
 title: Carrier
 slug: carrier
 description: ""
-date: "2026-04-15T09:21:25.410062"
+date: "2026-04-16T19:22:01.093917"
 draft: false
 sectors:
-  - "home-appliances"
   - construction
+  - "home-appliances"
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - technology
 industries:
-  - "heating-ventilation-and-air-conditioning"
   - "construction-industry"
+  - "heating-ventilation-and-air-conditioning"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -30,16 +30,16 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - charlotte
-  - indianapolis
   - farmington
+  - indianapolis
+  - charlotte
 subsidiaries: []
 foundation_dates:
-  - 1978
   - 1915
+  - 1978
 foundation_year_buckets:
-  - 1910S
   - 1970S
+  - 1910S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -73,8 +73,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.carrier.com/us/en](https://www.carrier.com/us/en)
-- [https://www.carrier.com](https://www.carrier.com)
 - [https://www.corporate.carrier.com](https://www.corporate.carrier.com)
+- [https://www.carrier.com](https://www.carrier.com)
 - [https://www.bryant.com](https://www.bryant.com)
 
 ## Brand Guidelines
@@ -267,8 +267,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Charlotte](/headquarters_locations/charlotte/); [Indianapolis](/headquarters_locations/indianapolis/); [Farmington](/headquarters_locations/farmington/) |
-| Foundation Date | [1978](/foundation_dates/1978/); [1915](/foundation_dates/1915/) |
+| Headquarters Location | [Farmington](/headquarters_locations/farmington/); [Indianapolis](/headquarters_locations/indianapolis/); [Charlotte](/headquarters_locations/charlotte/) |
+| Foundation Date | [1915](/foundation_dates/1915/); [1978](/foundation_dates/1978/) |
 | Freebase Id | /m/07_dc0 |
 | Headquarters Location | Charlotte, Indianapolis, Farmington |
 | Founded By | Willis Carrier |

@@ -2,11 +2,11 @@
 title: WeChat
 slug: wechat
 description: ""
-date: "2026-04-15T09:21:24.373941"
+date: "2026-04-16T19:21:59.903894"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - china
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - chinese
 tags:
-  - featured
   - internet
   - app
+  - featured
 industries: []
 countries:
   - "peoples-republic-of-china"
@@ -67,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.wechat.com](https://www.wechat.com)
 - [https://weixin.qq.com](https://weixin.qq.com)
+- [https://www.wechat.com](https://www.wechat.com)
 - [https://weui.io](https://weui.io)
 
 ## Brand Guidelines

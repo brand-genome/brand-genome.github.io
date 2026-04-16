@@ -2,12 +2,12 @@
 title: Higher School of Economics
 slug: "higher-school-of-economics"
 description: ""
-date: "2026-04-15T09:21:23.595698"
+date: "2026-04-16T19:21:58.884567"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - russia
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hse.ru](https://www.hse.ru)
 - [https://www.hse.ru/en](https://www.hse.ru/en)
 - [https://studentcentre.hse.ru/en](https://studentcentre.hse.ru/en)
 - [https://online.hse.ru/en](https://online.hse.ru/en)

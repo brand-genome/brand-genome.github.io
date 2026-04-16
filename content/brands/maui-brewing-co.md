@@ -2,12 +2,12 @@
 title: Maui Brewing Co
 slug: "maui-brewing-co"
 description: ""
-date: "2026-04-15T09:21:25.447211"
+date: "2026-04-16T19:22:01.139014"
 draft: false
 sectors:
   - drink
-  - brewery
   - restaurant
+  - brewery
 regions:
   - usa
 years:

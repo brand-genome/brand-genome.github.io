@@ -2,12 +2,12 @@
 title: Nest
 slug: nest
 description: ""
-date: "2026-04-15T09:21:25.376686"
+date: "2026-04-16T19:22:01.043098"
 draft: false
 sectors:
-  - electronics
   - software
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://store.google.com/category/connected_home](https://store.google.com/category/connected_home)
+- [https://store.google.com?hl=en-IN](https://store.google.com?hl=en-IN)
 - [https://home.nest.com](https://home.nest.com)
 - [http://www.nest.com/legal/ip-and-other-notices](http://www.nest.com/legal/ip-and-other-notices)
 - [https://store.google.com/in/category/connected_home](https://store.google.com/in/category/connected_home)

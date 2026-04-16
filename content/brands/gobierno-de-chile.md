@@ -2,7 +2,7 @@
 title: Gobierno de Chile
 slug: "gobierno-de-chile"
 description: ""
-date: "2026-04-15T09:21:25.775357"
+date: "2026-04-16T19:22:01.969711"
 draft: false
 sectors:
   - "public-sector"

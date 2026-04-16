@@ -2,7 +2,7 @@
 title: Nasdaq
 slug: nasdaq
 description: ""
-date: "2026-04-15T09:21:22.709047"
+date: "2026-04-16T19:21:58.141869"
 draft: false
 sectors:
   - finance
@@ -10,18 +10,18 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2020
+  - 2021
 languages:
   - english
 tags:
-  - featured
   - financial
+  - featured
 industries:
   - "financial-services"
 countries:
-  - sweden
   - "united-states"
+  - sweden
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,8 +32,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "new-york-city"
   - "one-liberty-plaza"
+  - "new-york-city"
 subsidiaries: []
 foundation_dates:
   - 1971
@@ -71,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://customerportal.nasdaq.com/auth/login](https://customerportal.nasdaq.com/auth/login)
 - [https://www.nasdaq.com](https://www.nasdaq.com)
-- [https://customerportal.nasdaq.com](https://customerportal.nasdaq.com)
 
 ## Brand Guidelines
 
@@ -360,7 +360,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/) |
+| Headquarters Location | [One Liberty Plaza](/headquarters_locations/one-liberty-plaza/); [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [1971](/foundation_dates/1971/) |
 | Currency | United States dollar |
 | Topic'S Main Category | Category:Nasdaq |

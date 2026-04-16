@@ -2,7 +2,7 @@
 title: Euractiv
 slug: euractiv
 description: ""
-date: "2026-04-15T09:21:23.875653"
+date: "2026-04-16T19:21:59.202648"
 draft: false
 sectors:
   - publishing
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.euractiv.com](https://www.euractiv.com)
-- [https://www.euractiv.com/logos](https://www.euractiv.com/logos)
 - [https://assets.euractiv.com](https://assets.euractiv.com)
 - [http://euractiv.com](http://euractiv.com)
 - [https://www.euractiv.de](https://www.euractiv.de)
@@ -88,6 +86,7 @@ visual_term_image_urls: {}
 - [https://euractiv.mondo.rs](https://euractiv.mondo.rs)
 - [https://euractiv.sk](https://euractiv.sk)
 - [https://euractiv.es](https://euractiv.es)
+- [https://www.euractiv.com](https://www.euractiv.com)
 
 ## Brand Guidelines
 

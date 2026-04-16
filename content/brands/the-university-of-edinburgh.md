@@ -2,12 +2,12 @@
 title: The University of Edinburgh
 slug: "the-university-of-edinburgh"
 description: ""
-date: "2026-04-15T09:21:25.747411"
+date: "2026-04-16T19:22:01.918441"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -70,7 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ed.ac.uk](https://www.ed.ac.uk)
-- [https://www.ed.ac.uk/brand](https://www.ed.ac.uk/brand)
 
 ## Brand Guidelines
 

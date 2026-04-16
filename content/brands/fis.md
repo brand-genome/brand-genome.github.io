@@ -2,7 +2,7 @@
 title: FIS
 slug: fis
 description: ""
-date: "2026-04-15T09:21:25.749494"
+date: "2026-04-16T19:22:01.922346"
 draft: false
 sectors:
   - sports

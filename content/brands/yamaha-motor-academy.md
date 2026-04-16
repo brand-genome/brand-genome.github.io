@@ -2,7 +2,7 @@
 title: Yamaha Motor Academy
 slug: "yamaha-motor-academy"
 description: ""
-date: "2026-04-15T09:21:23.650434"
+date: "2026-04-16T19:21:58.965713"
 draft: false
 sectors:
   - education

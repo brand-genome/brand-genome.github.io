@@ -2,7 +2,7 @@
 title: Calvià 2000
 slug: "calvia-2000"
 description: ""
-date: "2026-04-15T09:21:24.609794"
+date: "2026-04-16T19:22:00.177882"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.calvia2000.es](https://www.calvia2000.es)
 - [https://www.calvia.com/en/municipal-areas/environment-and-animal-welfare/calvia-2000-1](https://www.calvia.com/en/municipal-areas/environment-and-animal-welfare/calvia-2000-1)
 
 ## Brand Guidelines

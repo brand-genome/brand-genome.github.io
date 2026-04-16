@@ -2,7 +2,7 @@
 title: Northern Irish Connections
 slug: "northern-irish-connections"
 description: ""
-date: "2026-04-15T09:21:24.232237"
+date: "2026-04-16T19:21:59.609760"
 draft: false
 sectors:
   - "public-sector"

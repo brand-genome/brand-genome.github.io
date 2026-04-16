@@ -2,7 +2,7 @@
 title: "Université de Paris-Dauphine"
 slug: "universite-de-paris-dauphine"
 description: ""
-date: "2026-04-15T09:21:25.855726"
+date: "2026-04-16T19:22:02.122450"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://dauphine.psl.eu](https://dauphine.psl.eu)
-- [http://www.dauphine.fr](http://www.dauphine.fr)
 - [https://tunis.dauphine.psl.eu](https://tunis.dauphine.psl.eu)
 
 ## Brand Guidelines

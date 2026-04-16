@@ -2,7 +2,7 @@
 title: Rugby Canada
 slug: "rugby-canada"
 description: ""
-date: "2026-04-15T09:21:24.378382"
+date: "2026-04-16T19:21:59.924867"
 draft: false
 sectors:
   - sports
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://rugby.ca/en](https://rugby.ca/en)
-- [https://rugby.ca](https://rugby.ca)
 - [https://rugbycanada.sportlomo.com](https://rugbycanada.sportlomo.com)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Wheaton College
 slug: "wheaton-college"
 description: ""
-date: "2026-04-15T09:21:22.573877"
+date: "2026-04-16T19:21:57.937351"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -69,7 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wheaton.edu](https://www.wheaton.edu)
-- [https://www.wheaton.edu/brandbook](https://www.wheaton.edu/brandbook)
+- [https://www.wheaton.edu/about-wheaton/offices-and-services/marketing-communications/what-we-do/wheaton-college-brand](https://www.wheaton.edu/about-wheaton/offices-and-services/marketing-communications/what-we-do/wheaton-college-brand)
 - [http://www.wheaton.edu/GRADUATE-SCHOOL](http://www.wheaton.edu/GRADUATE-SCHOOL)
 
 ## Additional Properties

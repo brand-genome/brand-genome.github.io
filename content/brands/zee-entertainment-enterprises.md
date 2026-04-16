@@ -2,27 +2,27 @@
 title: Zee Entertainment Enterprises
 slug: "zee-entertainment-enterprises"
 description: ""
-date: "2026-04-15T09:21:22.195985"
+date: "2026-04-16T19:21:57.228090"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - india
 years:
-  - 2025
   - 2017
+  - 2025
 languages:
   - english
 tags:
-  - broadcast
   - featured
   - media
+  - broadcast
 industries:
   - "mass-media"
 countries:
-  - india
   - "united-kingdom"
+  - india
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []

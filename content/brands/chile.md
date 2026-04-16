@@ -2,11 +2,11 @@
 title: Chile
 slug: chile
 description: ""
-date: "2026-04-15T09:21:24.074266"
+date: "2026-04-16T19:21:59.397013"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - chile
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - featured
   - institution
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Visit Nuuk
 slug: "visit-nuuk"
 description: ""
-date: "2026-04-15T09:21:22.081478"
+date: "2026-04-16T19:21:57.117732"
 draft: false
 sectors:
   - tourism
@@ -14,9 +14,9 @@ languages:
   - english
 tags:
   - city
-  - featured
   - tourism
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Urba
 slug: urba
 description: ""
-date: "2026-04-15T09:21:23.836127"
+date: "2026-04-16T19:21:59.164982"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - business
+  - community
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ourrutland.ca](https://ourrutland.ca)
-- [https://www.ourrutland.ca](https://www.ourrutland.ca)
 
 ## Brand Guidelines
 

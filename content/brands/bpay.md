@@ -2,7 +2,7 @@
 title: Bpay
 slug: bpay
 description: ""
-date: "2026-04-15T09:21:25.704344"
+date: "2026-04-16T19:22:01.815367"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries:
   - "financial-services"
 countries: []
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bpay.com.au](https://www.bpay.com.au)
+- [https://www.auspayplus.com.au/solutions/bpay](https://www.auspayplus.com.au/solutions/bpay)
 - [http://www.bpay.com.au](http://www.bpay.com.au)
 
 ## Brand Guidelines

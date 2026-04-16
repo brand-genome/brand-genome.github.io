@@ -2,12 +2,12 @@
 title: Expedia Group
 slug: "expedia-group"
 description: ""
-date: "2026-04-15T09:21:25.432314"
+date: "2026-04-16T19:22:01.116922"
 draft: false
 sectors:
   - tourism
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:

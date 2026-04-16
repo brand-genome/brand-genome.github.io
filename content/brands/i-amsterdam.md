@@ -2,7 +2,7 @@
 title: I amsterdam
 slug: "i-amsterdam"
 description: ""
-date: "2026-04-15T09:21:24.928003"
+date: "2026-04-16T19:22:00.501016"
 draft: false
 sectors:
   - tourism
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.iamsterdam.com](https://www.iamsterdam.com)
 - [https://www.iamsterdam.com/en/amsterdam-and-partners](https://www.iamsterdam.com/en/amsterdam-and-partners)
-- [https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam](https://www.amsterdam.nl/stijlweb/over-het-merk/merk-gebruiken/motto-iamsterdam)
 
 ## Brand Guidelines
 

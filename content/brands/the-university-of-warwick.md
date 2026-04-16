@@ -2,11 +2,11 @@
 title: The University of Warwick
 slug: "the-university-of-warwick"
 description: ""
-date: "2026-04-15T09:21:22.534194"
+date: "2026-04-16T19:21:57.876316"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"

@@ -2,11 +2,11 @@
 title: Benediktiner Weissbier
 slug: "benediktiner-weissbier"
 description: ""
-date: "2026-04-15T09:21:23.108255"
+date: "2026-04-16T19:21:58.518724"
 draft: false
 sectors:
-  - brewery
   - drink
+  - brewery
 regions:
   - germany
 years:
@@ -62,9 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.benediktiner-weissbier.de](https://www.benediktiner-weissbier.de)
 - [https://www.benediktiner-weissbier.de/en](https://www.benediktiner-weissbier.de/en)
-- [https://www.benediktiner-weissbier.de/de](https://www.benediktiner-weissbier.de/de)
 
 ## Brand Guidelines
 

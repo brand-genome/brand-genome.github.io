@@ -2,10 +2,9 @@
 title: Knauf Insulation
 slug: "knauf-insulation"
 description: ""
-date: "2026-04-15T09:21:25.406270"
+date: "2026-04-16T19:22:01.089951"
 draft: false
 sectors:
-  - utilities
   - construction
 regions:
   - germany
@@ -17,8 +16,8 @@ tags:
   - corporate
 industries: []
 countries:
-  - belgium
   - germany
+  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -67,9 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.knaufinsulation.com](https://www.knaufinsulation.com)
 - [https://knauf.com/de-DE/knaufinsulation](https://knauf.com/de-DE/knaufinsulation)
-- [https://www.knaufnorthamerica.com](https://www.knaufnorthamerica.com)
+- [https://www.knaufnorthamerica.com/en-us](https://www.knaufnorthamerica.com/en-us)
 - [http://knaufinsulation.co.uk/downloads](http://knaufinsulation.co.uk/downloads)
 - [http://www.knaufinsulation.be](http://www.knaufinsulation.be)
 - [http://www.knaufinsulation.no](http://www.knaufinsulation.no)

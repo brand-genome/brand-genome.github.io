@@ -2,20 +2,21 @@
 title: Skype
 slug: skype
 description: ""
-date: "2026-04-15T09:21:25.666027"
+date: "2026-04-16T19:22:01.701957"
 draft: false
 sectors:
   - software
+  - telecom
 regions:
   - usa
 years:
-  - 2007
   - 2005
+  - 2007
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://teams.live.com/free?source=skype](https://teams.live.com/free?source=skype)
+- [https://support.microsoft.com/en-us/skype](https://support.microsoft.com/en-us/skype)
 - [https://www.skype.com](https://www.skype.com)
-- [https://support.microsoft.com/skype](https://support.microsoft.com/skype)
 - [https://www.skype.com/en](https://www.skype.com/en)
 - [https://www.skype.com/tr](https://www.skype.com/tr)
 - [https://www.skype.com/it](https://www.skype.com/it)

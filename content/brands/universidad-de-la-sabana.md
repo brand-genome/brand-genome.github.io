@@ -2,11 +2,11 @@
 title: Universidad de La Sabana
 slug: "universidad-de-la-sabana"
 description: ""
-date: "2026-04-15T09:21:22.541963"
+date: "2026-04-16T19:21:57.887684"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - colombia

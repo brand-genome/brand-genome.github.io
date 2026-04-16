@@ -2,7 +2,7 @@
 title: Wolf
 slug: wolf
 description: ""
-date: "2026-04-15T09:21:23.787555"
+date: "2026-04-16T19:21:59.117085"
 draft: false
 sectors:
   - "consumer-goods"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.wolf1834.com](https://www.wolf1834.com)
-
 ## Brand Guidelines
 
 ### 2018

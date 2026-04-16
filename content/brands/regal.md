@@ -2,7 +2,7 @@
 title: Regal
 slug: regal
 description: ""
-date: "2026-04-15T09:21:24.808979"
+date: "2026-04-16T19:22:00.356342"
 draft: false
 sectors:
   - entertainment
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.regmovies.com](https://www.regmovies.com)
-
 ## Brand Guidelines
 
 ### 2018

@@ -2,7 +2,7 @@
 title: Kawasaki
 slug: kawasaki
 description: ""
-date: "2026-04-15T09:21:23.653713"
+date: "2026-04-16T19:21:58.973770"
 draft: false
 sectors:
   - automobile
@@ -61,9 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kawasaki.com/global](https://www.kawasaki.com/global)
-- [https://www.kawasaki.com/us](https://www.kawasaki.com/us)
-- [https://kawasaki.brandifyer.com](https://kawasaki.brandifyer.com)
+- [https://www.kawasaki.com/en-us](https://www.kawasaki.com/en-us)
 - [http://www.kawasaki.eu](http://www.kawasaki.eu)
 - [https://www.kawasaki.com](https://www.kawasaki.com)
 

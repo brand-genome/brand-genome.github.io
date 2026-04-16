@@ -2,7 +2,7 @@
 title: "Ayrshire & Arran"
 slug: "ayrshire-arran"
 description: ""
-date: "2026-04-15T09:21:25.031282"
+date: "2026-04-16T19:22:00.617354"
 draft: false
 sectors:
   - tourism

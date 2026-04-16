@@ -2,7 +2,7 @@
 title: Nutanix
 slug: nutanix
 description: ""
-date: "2026-04-15T09:21:25.379944"
+date: "2026-04-16T19:22:01.046408"
 draft: false
 sectors:
   - software

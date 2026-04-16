@@ -2,11 +2,11 @@
 title: Sol Sports
 slug: "sol-sports"
 description: ""
-date: "2026-04-15T09:21:25.343935"
+date: "2026-04-16T19:22:01.011260"
 draft: false
 sectors:
-  - aerospace
   - fashion
+  - sports
 regions:
   - brazil
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://solsportswear.com.br](https://solsportswear.com.br)
-- [https://loja.solparagliders.com.br](https://loja.solparagliders.com.br)
+- [https://loja.solparagliders.com.br/index.php](https://loja.solparagliders.com.br/index.php)
 - [https://solparagliders.com.br/es](https://solparagliders.com.br/es)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Matco Tools
 slug: "matco-tools"
 description: ""
-date: "2026-04-15T09:21:24.600922"
+date: "2026-04-16T19:22:00.164242"
 draft: false
 sectors:
-  - automobile
   - hardware
+  - automobile
 regions:
   - usa
 years:
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.matcotools.com](https://www.matcotools.com)
-- [https://www.matcotools.com/franchise](https://www.matcotools.com/franchise)
-- [https://www.matcotools.com/logos](https://www.matcotools.com/logos)
+- [https://franchise.matcotools.com](https://franchise.matcotools.com)
+- [https://www.matcotools.com:443/logos](https://www.matcotools.com:443/logos)
 - [http://www.matcotools.com](http://www.matcotools.com)
 
 ## Brand Guidelines

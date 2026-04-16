@@ -2,11 +2,11 @@
 title: Grubhub
 slug: grubhub
 description: ""
-date: "2026-04-15T09:21:22.117702"
+date: "2026-04-16T19:21:57.154010"
 draft: false
 sectors:
   - food
-  - ecommerce
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - app
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"

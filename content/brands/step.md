@@ -2,7 +2,7 @@
 title: Step
 slug: step
 description: ""
-date: "2026-04-15T09:21:24.792364"
+date: "2026-04-16T19:22:00.342045"
 draft: false
 sectors:
   - "professional-services"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.step.org](https://www.step.org)
-- [https://congress.step.org](https://congress.step.org)
 - [https://www.stepnewyork.org](https://www.stepnewyork.org)
 
 ## Brand Guidelines

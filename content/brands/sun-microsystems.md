@@ -2,7 +2,7 @@
 title: Sun Microsystems
 slug: "sun-microsystems"
 description: ""
-date: "2026-04-15T09:21:24.893037"
+date: "2026-04-16T19:22:00.460986"
 draft: false
 sectors:
   - software
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - ambigram
   - technology
   - software
+  - ambigram
 industries:
   - computing
   - "software-development"
@@ -32,10 +32,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - software
   - workstation
-  - server
   - "computer-hardware"
+  - server
+  - software
 products: []
 headquarters_locations:
   - "santa-clara"
@@ -76,7 +76,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oracle.com/sun](https://www.oracle.com/sun)
 - [http://www.sun.com](http://www.sun.com)
 - [https://www.sun.com](https://www.sun.com)
 
@@ -98,7 +97,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Workstation](/products_or_materials_produced/workstation/); [Server](/products_or_materials_produced/server/); [Computer Hardware](/products_or_materials_produced/computer-hardware/) |
+| Product Or Material Produced | [Workstation](/products_or_materials_produced/workstation/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/); [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/) |
 | Foundation Date | [1982](/foundation_dates/1982/) |
 | Part Of | Oracle Corporation (from 2010-01-27) |

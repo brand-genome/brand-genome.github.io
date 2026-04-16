@@ -2,7 +2,7 @@
 title: Meggitt
 slug: meggitt
 description: ""
-date: "2026-04-15T09:21:23.692706"
+date: "2026-04-16T19:21:59.016129"
 draft: false
 sectors:
   - aerospace
@@ -69,9 +69,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.meggitt.com](https://www.meggitt.com)
 - [https://discover.parker.com/meggitt](https://discover.parker.com/meggitt)
-- [https://www.meggittpower.com](https://www.meggittpower.com)
 - [http://www.meggitt.com](http://www.meggitt.com)
 
 ## Brand Guidelines

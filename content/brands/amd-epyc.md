@@ -2,11 +2,11 @@
 title: AMD EPYC
 slug: "amd-epyc"
 description: ""
-date: "2026-04-15T09:21:24.611197"
+date: "2026-04-16T19:22:00.179334"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -62,11 +62,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.amd.com/epyc](https://www.amd.com/epyc)
-- [https://www.amd.com](https://www.amd.com)
-
 ## Brand Guidelines
 
 ### 2017

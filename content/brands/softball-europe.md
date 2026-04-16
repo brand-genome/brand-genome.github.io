@@ -2,7 +2,7 @@
 title: Softball Europe
 slug: "softball-europe"
 description: ""
-date: "2026-04-15T09:21:24.372670"
+date: "2026-04-16T19:21:59.899890"
 draft: false
 sectors:
   - sports
@@ -59,12 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.europeansoftball.org](http://www.europeansoftball.org)
-- [http://www.europeansoftball.org/media/corporate-identity](http://www.europeansoftball.org/media/corporate-identity)
-- [https://www.wbsceurope.org/en](https://www.wbsceurope.org/en)
-
 ## Brand Guidelines
 
 ### 2017

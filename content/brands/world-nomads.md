@@ -2,11 +2,11 @@
 title: World Nomads
 slug: "world-nomads"
 description: ""
-date: "2026-04-15T09:21:24.607553"
+date: "2026-04-16T19:22:00.174183"
 draft: false
 sectors:
-  - tourism
   - insurance
+  - tourism
 regions:
   - australia
 years:

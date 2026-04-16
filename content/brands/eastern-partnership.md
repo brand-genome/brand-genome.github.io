@@ -2,7 +2,7 @@
 title: Eastern Partnership
 slug: "eastern-partnership"
 description: ""
-date: "2026-04-15T09:21:24.978679"
+date: "2026-04-16T19:22:00.550288"
 draft: false
 sectors:
   - "public-sector"

@@ -2,11 +2,11 @@
 title: Transpennine Express
 slug: "transpennine-express"
 description: ""
-date: "2026-04-15T09:21:22.286199"
+date: "2026-04-16T19:21:57.326188"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:

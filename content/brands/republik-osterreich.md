@@ -2,7 +2,7 @@
 title: Republik Österreich
 slug: "republik-osterreich"
 description: ""
-date: "2026-04-15T09:21:23.780512"
+date: "2026-04-16T19:21:59.109313"
 draft: false
 sectors:
   - "public-sector"
@@ -61,6 +61,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oesterreich.gv.at](https://www.oesterreich.gv.at)
-- [https://www.bundeskanzleramt.gv.at](https://www.bundeskanzleramt.gv.at)
-- [https://www.republik.oesterreich.gv.at](https://www.republik.oesterreich.gv.at)
+- [https://www.oesterreich.gv.at/de](https://www.oesterreich.gv.at/de)

@@ -2,7 +2,7 @@
 title: Altima
 slug: altima
 description: ""
-date: "2026-04-15T09:21:23.877876"
+date: "2026-04-16T19:21:59.205062"
 draft: false
 sectors:
   - insurance
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.altima-assurances.fr](https://www.altima-assurances.fr)
+- [https://www.altima-assurances.fr/particuliers](https://www.altima-assurances.fr/particuliers)
 
 ## Brand Guidelines
 

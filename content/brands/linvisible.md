@@ -2,7 +2,7 @@
 title: Linvisible
 slug: linvisible
 description: ""
-date: "2026-04-15T09:21:25.630858"
+date: "2026-04-16T19:22:01.634996"
 draft: false
 sectors:
   - construction
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://linvisibile.com](https://linvisibile.com)
 - [https://linvisibile.com/it](https://linvisibile.com/it)
-- [https://linvisibile.it](https://linvisibile.it)
 
 ## Brand Guidelines
 

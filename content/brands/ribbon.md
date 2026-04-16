@@ -2,11 +2,11 @@
 title: Ribbon
 slug: ribbon
 description: ""
-date: "2026-04-15T09:21:24.010870"
+date: "2026-04-16T19:21:59.320978"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
   - telecom
 regions:
   - usa

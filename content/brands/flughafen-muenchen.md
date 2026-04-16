@@ -2,7 +2,7 @@
 title: Flughafen Muenchen
 slug: "flughafen-muenchen"
 description: ""
-date: "2026-04-15T09:21:24.615993"
+date: "2026-04-16T19:22:00.184844"
 draft: false
 sectors:
   - "public-transportation"

@@ -2,11 +2,11 @@
 title: MTV One
 slug: "mtv-one"
 description: ""
-date: "2026-04-15T09:21:23.392352"
+date: "2026-04-16T19:21:58.781549"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - music
 industries: []
 countries:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mtv.co.uk](https://www.mtv.co.uk)
-- [https://www.mtv.ie](https://www.mtv.ie)
 - [http://www.mtv.co.uk](http://www.mtv.co.uk)
 
 ## Brand Guidelines

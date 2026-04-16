@@ -2,7 +2,7 @@
 title: Crédit Agricole
 slug: "credit-agricole"
 description: ""
-date: "2026-04-15T09:21:25.781547"
+date: "2026-04-16T19:22:01.979297"
 draft: false
 sectors:
   - insurance

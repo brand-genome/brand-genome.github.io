@@ -2,11 +2,11 @@
 title: Pencils Of Promise
 slug: "pencils-of-promise"
 description: ""
-date: "2026-04-15T09:21:25.750690"
+date: "2026-04-16T19:22:01.924514"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

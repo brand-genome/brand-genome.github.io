@@ -2,11 +2,11 @@
 title: Berkeley
 slug: berkeley
 description: ""
-date: "2026-04-15T09:21:24.540990"
+date: "2026-04-16T19:22:00.113746"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 
 - [https://www.berkeley.edu](https://www.berkeley.edu)
 - [https://brand.berkeley.edu](https://brand.berkeley.edu)
-- [https://publicaffairs.berkeley.edu](https://publicaffairs.berkeley.edu)
+- [https://strategiccommunications.berkeley.edu](https://strategiccommunications.berkeley.edu)
 - [https://identity.berkeley.edu](https://identity.berkeley.edu)
 - [http://www.calbears.com/licensing](http://www.calbears.com/licensing)
 

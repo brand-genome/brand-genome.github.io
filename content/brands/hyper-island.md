@@ -2,12 +2,12 @@
 title: Hyper Island
 slug: "hyper-island"
 description: ""
-date: "2026-04-15T09:21:24.921180"
+date: "2026-04-16T19:22:00.492502"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - consulting
   - education
+  - "e-learning-edtech"
 regions:
   - sweden
 years:
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hyperisland.com](https://hyperisland.com)
+- [https://hyperisland.com/en](https://hyperisland.com/en)
 - [https://www.hyperisland.com.br](https://www.hyperisland.com.br)
 - [http://www.hyperisland.com](http://www.hyperisland.com)
 - [http://www.hyperisland.se](http://www.hyperisland.se)

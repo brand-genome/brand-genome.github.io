@@ -2,7 +2,7 @@
 title: Stella Maris
 slug: "stella-maris"
 description: ""
-date: "2026-04-15T09:21:24.254569"
+date: "2026-04-16T19:21:59.657266"
 draft: false
 sectors:
   - ngo

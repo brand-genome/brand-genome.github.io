@@ -2,12 +2,12 @@
 title: Akamai
 slug: akamai
 description: ""
-date: "2026-04-15T09:21:22.103259"
+date: "2026-04-16T19:21:57.140219"
 draft: false
 sectors:
+  - software
   - networking
   - cybersecurity
-  - software
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries:
   - "web-hosting-service"
   - "internet-industry"

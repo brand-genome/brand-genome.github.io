@@ -2,7 +2,7 @@
 title: Wellesley College
 slug: "wellesley-college"
 description: ""
-date: "2026-04-15T09:21:23.992939"
+date: "2026-04-16T19:21:59.302182"
 draft: false
 sectors:
   - university
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wellesley.edu](https://www.wellesley.edu)
-- [https://www1.wellesley.edu](https://www1.wellesley.edu)
 
 ## Brand Guidelines
 

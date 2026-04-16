@@ -2,7 +2,7 @@
 title: ChAI
 slug: chai
 description: ""
-date: "2026-04-15T09:21:22.537891"
+date: "2026-04-16T19:21:57.881990"
 draft: false
 sectors:
   - insurance
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://chaipredict.com](https://chaipredict.com)
-- [https://login.chaipredict.com](https://login.chaipredict.com)
 - [https://intel.chaipredict.com](https://intel.chaipredict.com)
 
 ## Brand Guidelines

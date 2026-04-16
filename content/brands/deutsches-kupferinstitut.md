@@ -2,7 +2,7 @@
 title: Deutsches Kupferinstitut
 slug: "deutsches-kupferinstitut"
 description: ""
-date: "2026-04-15T09:21:23.571283"
+date: "2026-04-16T19:21:58.865437"
 draft: false
 sectors:
   - ngo
@@ -66,8 +66,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kupfer.de](https://kupfer.de)
-- [https://www.kupferinstitut.de](https://www.kupferinstitut.de)
 - [http://www.kupferinstitut.de](http://www.kupferinstitut.de)
+- [https://www.kupferinstitut.de](https://www.kupferinstitut.de)
 
 ## Brand Guidelines
 

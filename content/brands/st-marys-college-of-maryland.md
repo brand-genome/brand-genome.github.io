@@ -2,7 +2,7 @@
 title: St Mary’s College of Maryland
 slug: "st-marys-college-of-maryland"
 description: ""
-date: "2026-04-15T09:21:25.660057"
+date: "2026-04-16T19:22:01.684598"
 draft: false
 sectors:
   - university

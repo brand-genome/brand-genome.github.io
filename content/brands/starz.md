@@ -2,11 +2,11 @@
 title: Starz
 slug: starz
 description: ""
-date: "2026-04-15T09:21:25.835941"
+date: "2026-04-16T19:22:02.074035"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
   - media
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.starz.com](https://www.starz.com)
 - [https://www.starz.com/us/en](https://www.starz.com/us/en)
+- [https://www.starz.com](https://www.starz.com)
 
 ## Brand Guidelines
 

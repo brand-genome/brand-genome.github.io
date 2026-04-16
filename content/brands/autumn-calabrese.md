@@ -2,7 +2,7 @@
 title: Autumn Calabrese
 slug: "autumn-calabrese"
 description: ""
-date: "2026-04-15T09:21:24.589215"
+date: "2026-04-16T19:22:00.152720"
 draft: false
 sectors:
   - fitness

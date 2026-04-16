@@ -2,7 +2,7 @@
 title: Saba
 slug: saba
 description: ""
-date: "2026-04-15T09:21:25.671222"
+date: "2026-04-16T19:22:01.711327"
 draft: false
 sectors:
   - "public-transportation"
@@ -61,10 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sabagroup.com](https://www.sabagroup.com)
-- [https://www.saba.eu](https://www.saba.eu)
-- [https://www.saba.es](https://www.saba.es)
-- [https://www.sabazonaregulada.com](https://www.sabazonaregulada.com)
+- [https://www.sabagroup.com/ca](https://www.sabagroup.com/ca)
+- [https://www.saba.es/es](https://www.saba.es/es)
 
 ## Brand Guidelines
 

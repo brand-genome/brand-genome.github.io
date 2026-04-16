@@ -2,7 +2,7 @@
 title: Microsoft Bing
 slug: "microsoft-bing"
 description: ""
-date: "2026-04-15T09:21:23.936090"
+date: "2026-04-16T19:21:59.253883"
 draft: false
 sectors:
   - software
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bing.com](https://www.bing.com)
-- [https://www.microsoft.com/en-us/bing](https://www.microsoft.com/en-us/bing)
+- [https://www.microsoft.com/en-us/bing?form=MA13QZ&cs=3783549923](https://www.microsoft.com/en-us/bing?form=MA13QZ&cs=3783549923)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: JGI
 slug: jgi
 description: ""
-date: "2026-04-15T09:21:24.718582"
+date: "2026-04-16T19:22:00.263297"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - biology
   - science
+  - biology
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://jgi.doe.gov](https://jgi.doe.gov)
-- [https://genome.jgi.doe.gov](https://genome.jgi.doe.gov)
+- [https://genome.jgi.doe.gov/portal](https://genome.jgi.doe.gov/portal)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: BMW Group
 slug: "bmw-group"
 description: ""
-date: "2026-04-15T09:21:24.000626"
+date: "2026-04-16T19:21:59.309279"
 draft: false
 sectors:
-  - automobile
   - finance
+  - automobile
 regions:
   - germany
 years:
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - transport
   - sport
+  - transport
 industries:
-  - "automotive-industry"
   - "manufacture-of-motor-vehicles"
   - "aeronautical-engineering"
+  - "automotive-industry"
   - "activities-of-holding-companies"
 countries:
   - germany
@@ -80,9 +80,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bmwgroup.com/en.html](https://www.bmwgroup.com/en.html)
 - [https://www.bmwgroup.com](https://www.bmwgroup.com)
 - [https://www.bmw.com](https://www.bmw.com)
-- [https://www.bmwmotorcycles.com](https://www.bmwmotorcycles.com)
 - [https://www.bmw.de](https://www.bmw.de)
 - [https://www.bmw.com.mx](https://www.bmw.com.mx)
 - [https://www.bmw.com.br](https://www.bmw.com.br)

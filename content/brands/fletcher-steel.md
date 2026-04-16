@@ -2,11 +2,11 @@
 title: Fletcher Steel
 slug: "fletcher-steel"
 description: ""
-date: "2026-04-15T09:21:24.538351"
+date: "2026-04-16T19:22:00.111220"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
+  - "logistics-supply-chain"
 regions:
   - "new-zealand"
 years:

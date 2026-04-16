@@ -2,7 +2,7 @@
 title: Saladmaster
 slug: saladmaster
 description: ""
-date: "2026-04-15T09:21:24.219817"
+date: "2026-04-16T19:21:59.588691"
 draft: false
 sectors:
   - mlm
@@ -66,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://saladmaster.com](https://saladmaster.com)
 - [https://saladmasterhelp.zendesk.com/hc/en-us](https://saladmasterhelp.zendesk.com/hc/en-us)
+- [https://saladmaster.com](https://saladmaster.com)
 
 ## Brand Guidelines
 

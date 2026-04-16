@@ -2,7 +2,7 @@
 title: UN Volunteers
 slug: "un-volunteers"
 description: ""
-date: "2026-04-15T09:21:24.791799"
+date: "2026-04-16T19:22:00.341222"
 draft: false
 sectors:
   - ngo
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.unv.org](https://www.unv.org)
-- [https://www.unv.org/branding/tools](https://www.unv.org/branding/tools)
-
 ## Brand Guidelines
 
 ### 2016

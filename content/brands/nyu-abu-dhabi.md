@@ -2,20 +2,20 @@
 title: NYU Abu Dhabi
 slug: "nyu-abu-dhabi"
 description: ""
-date: "2026-04-15T09:21:23.944898"
+date: "2026-04-16T19:21:59.262066"
 draft: false
 sectors:
   - university
 regions:
   - "abu-dhabi"
 years:
-  - 2021
   - 2014
+  - 2021
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-arab-emirates"
@@ -66,8 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+- [https://nyuad.nyu.edu:443/en](https://nyuad.nyu.edu:443/en)
 - [https://join.nyuad.nyu.edu](https://join.nyuad.nyu.edu)
+- [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
 - [https://nyuad.nyu.edu/ar](https://nyuad.nyu.edu/ar)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Defense Health Agency
 slug: "defense-health-agency"
 description: ""
-date: "2026-04-15T09:21:23.982451"
+date: "2026-04-16T19:21:59.291796"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
   - healthcare
 regions:
   - usa

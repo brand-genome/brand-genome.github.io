@@ -2,9 +2,10 @@
 title: San Francisco Airport
 slug: "san-francisco-airport"
 description: ""
-date: "2026-04-15T09:21:24.075506"
+date: "2026-04-16T19:21:59.398298"
 draft: false
 sectors:
+  - "public-sector"
   - "public-transportation"
 regions:
   - usa

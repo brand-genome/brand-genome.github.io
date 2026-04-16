@@ -2,10 +2,10 @@
 title: Welbilt
 slug: welbilt
 description: ""
-date: "2026-04-15T09:21:25.413391"
+date: "2026-04-16T19:22:01.097404"
 draft: false
 sectors:
-  - "home-appliances"
+  - hardware
 regions:
   - usa
 years:

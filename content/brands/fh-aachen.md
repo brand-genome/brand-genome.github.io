@@ -2,11 +2,11 @@
 title: FH Aachen
 slug: "fh-aachen"
 description: ""
-date: "2026-04-15T09:21:25.774397"
+date: "2026-04-16T19:22:01.968085"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - germany
@@ -70,8 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.fh-aachen.de](https://www.fh-aachen.de)
-- [https://www.fh-aachen.de/en](https://www.fh-aachen.de/en)
-- [https://www.fh-aachen.de/pressestelle.html](https://www.fh-aachen.de/pressestelle.html)
 
 ## Brand Guidelines
 

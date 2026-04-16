@@ -2,10 +2,9 @@
 title: Odebrecht
 slug: odebrecht
 description: ""
-date: "2026-04-15T09:21:25.661842"
+date: "2026-04-16T19:22:01.688278"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - construction
 regions:
   - brazil
@@ -66,10 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oec-eng.com](https://www.oec-eng.com)
+- [https://www.odebrecht.com](https://www.odebrecht.com)
 - [https://www.odebrecht.com.br](https://www.odebrecht.com.br)
-- [https://www.novonor.com.br](https://www.novonor.com.br)
-- [https://novonor.com](https://novonor.com)
+- [https://www.novonor.com](https://www.novonor.com)
 - [http://www.odebrecht-ec.com](http://www.odebrecht-ec.com)
 
 ## Brand Guidelines

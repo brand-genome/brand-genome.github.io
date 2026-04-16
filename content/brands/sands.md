@@ -2,7 +2,7 @@
 title: Sands
 slug: sands
 description: ""
-date: "2026-04-15T09:21:22.566129"
+date: "2026-04-16T19:21:57.932067"
 draft: false
 sectors:
   - tourism
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - tourism
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.sands.com](https://www.sands.com)
-- [https://www.marinabaysands.com](https://www.marinabaysands.com)

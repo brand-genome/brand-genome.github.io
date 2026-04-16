@@ -2,7 +2,7 @@
 title: Sigfox
 slug: sigfox
 description: ""
-date: "2026-04-15T09:21:25.432803"
+date: "2026-04-16T19:22:01.117420"
 draft: false
 sectors:
   - networking

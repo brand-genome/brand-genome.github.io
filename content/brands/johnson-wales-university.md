@@ -2,11 +2,11 @@
 title: "Johnson & Wales University"
 slug: "johnson-wales-university"
 description: ""
-date: "2026-04-15T09:21:25.656329"
+date: "2026-04-16T19:22:01.677649"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.jwu.edu](https://www.jwu.edu)
-- [https://wildcats.jwu.edu](https://wildcats.jwu.edu)
 - [https://jwuconnect.com](https://jwuconnect.com)
 - [http://www.jwu.edu](http://www.jwu.edu)
 

@@ -2,7 +2,7 @@
 title: Decade of Ocean Science for Sustainable Development
 slug: "decade-of-ocean-science-for-sustainable-development"
 description: ""
-date: "2026-04-15T09:21:23.818773"
+date: "2026-04-16T19:21:59.146899"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://oceandecade.org](https://oceandecade.org)
 - [https://www.unesco.org/en/ocean-decade/about](https://www.unesco.org/en/ocean-decade/about)
-- [https://forum.oceandecade.org](https://forum.oceandecade.org)
 
 ## Brand Guidelines
 

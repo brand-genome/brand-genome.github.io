@@ -2,11 +2,11 @@
 title: University of the Philippines
 slug: "university-of-the-philippines"
 description: ""
-date: "2026-04-15T09:21:22.578049"
+date: "2026-04-16T19:21:57.941892"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - philippines
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - philippines

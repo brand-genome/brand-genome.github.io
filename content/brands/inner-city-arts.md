@@ -2,12 +2,12 @@
 title: "Inner-City Arts"
 slug: "inner-city-arts"
 description: ""
-date: "2026-04-15T09:21:24.614528"
+date: "2026-04-16T19:22:00.183149"
 draft: false
 sectors:
+  - ngo
   - "arts-culture"
   - education
-  - ngo
 regions:
   - usa
 years:

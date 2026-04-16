@@ -2,11 +2,11 @@
 title: Zaryadye Park
 slug: "zaryadye-park"
 description: ""
-date: "2026-04-15T09:21:23.783064"
+date: "2026-04-16T19:21:59.112007"
 draft: false
 sectors:
-  - tourism
   - "arts-culture"
+  - tourism
 regions:
   - russia
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zaryadyepark.ru](https://www.zaryadyepark.ru)
 - [https://welcome.zaryadyepark.ru](https://welcome.zaryadyepark.ru)
 - [http://zaryadyepark.ru](http://zaryadyepark.ru)
 - [https://www.zaryadyepark.ru/en](https://www.zaryadyepark.ru/en)

@@ -2,7 +2,7 @@
 title: Governo de Santa Catarina
 slug: "governo-de-santa-catarina"
 description: ""
-date: "2026-04-15T09:21:23.386203"
+date: "2026-04-16T19:21:58.774856"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sc.gov.br](https://www.sc.gov.br)
-- [https://www.governo.sc.gov.br](https://www.governo.sc.gov.br)
 - [https://facil.sc.gov.br](https://facil.sc.gov.br)
 
 ## Additional Properties

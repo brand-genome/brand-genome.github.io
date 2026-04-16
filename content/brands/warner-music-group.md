@@ -2,7 +2,7 @@
 title: Warner Music Group
 slug: "warner-music-group"
 description: ""
-date: "2026-04-15T09:21:23.187386"
+date: "2026-04-16T19:21:58.589213"
 draft: false
 sectors:
   - entertainment
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
+  - entertainment
   - featured
   - music
-  - entertainment
 industries:
   - "music-industry"
 countries:
@@ -74,7 +74,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wmg.com](https://www.wmg.com)
-- [https://secure.wmg.com](https://secure.wmg.com)
+- [https://secure.wmg.com/login;jsessionid=1B7616F15555D11039CDC05F1F687547](https://secure.wmg.com/login;jsessionid=1B7616F15555D11039CDC05F1F687547)
 
 ## Additional Properties
 

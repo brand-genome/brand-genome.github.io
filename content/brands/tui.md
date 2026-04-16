@@ -2,7 +2,7 @@
 title: TUI
 slug: tui
 description: ""
-date: "2026-04-15T09:21:25.851543"
+date: "2026-04-16T19:22:02.115720"
 draft: false
 sectors:
   - tourism
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tui.com](https://www.tui.com)
-- [https://www.tuigroup.com/home](https://www.tuigroup.com/home)
+- [https://www.tuigroup.com/en/home](https://www.tuigroup.com/en/home)
 - [https://www.tui-group.com](https://www.tui-group.com)
 - [https://www.tui-group.com/en](https://www.tui-group.com/en)
 - [https://www.tuigroup.com](https://www.tuigroup.com)

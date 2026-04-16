@@ -2,11 +2,11 @@
 title: Alpenvereins
 slug: alpenvereins
 description: ""
-date: "2026-04-15T09:21:24.381806"
+date: "2026-04-16T19:21:59.970283"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - austria
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - community
   - sport
+  - community
 industries: []
 countries: []
 revenue_buckets: []

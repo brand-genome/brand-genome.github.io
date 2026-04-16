@@ -2,16 +2,16 @@
 title: BBC Music
 slug: "bbc-music"
 description: ""
-date: "2026-04-15T09:21:25.423859"
+date: "2026-04-16T19:22:01.107887"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - "united-kingdom"
 years:
-  - 2015
   - 2017
+  - 2015
 languages:
   - english
 tags:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bbc.co.uk/music](https://www.bbc.co.uk/music)
+- [https://www.bbc.com/culture/music](https://www.bbc.com/culture/music)
 
 ## Brand Guidelines
 

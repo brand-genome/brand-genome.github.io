@@ -2,11 +2,10 @@
 title: Valmont
 slug: valmont
 description: ""
-date: "2026-04-15T09:21:23.649281"
+date: "2026-04-16T19:21:58.954993"
 draft: false
 sectors:
   - utilities
-  - horticulture
   - construction
 regions:
   - usa
@@ -64,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.valmont.com](https://www.valmont.com)
-- [https://www.valmont.com/brand](https://www.valmont.com/brand)
 - [https://www.valmontcoatings.com](https://www.valmontcoatings.com)
 - [https://www.valmonthighway.com](https://www.valmonthighway.com)
 - [http://www.valmont.com](http://www.valmont.com)

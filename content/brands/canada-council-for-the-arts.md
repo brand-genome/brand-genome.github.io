@@ -2,11 +2,11 @@
 title: Canada Council For the Arts
 slug: "canada-council-for-the-arts"
 description: ""
-date: "2026-04-15T09:21:25.855939"
+date: "2026-04-16T19:22:02.122677"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - canada
 years:

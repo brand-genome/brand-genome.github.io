@@ -2,7 +2,7 @@
 title: Obig Tech
 slug: "obig-tech"
 description: ""
-date: "2026-04-15T09:21:23.807924"
+date: "2026-04-16T19:21:59.136165"
 draft: false
 sectors:
   - "design-creative"

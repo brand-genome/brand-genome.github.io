@@ -2,7 +2,7 @@
 title: New England Revolution
 slug: "new-england-revolution"
 description: ""
-date: "2026-04-15T09:21:23.568001"
+date: "2026-04-16T19:21:58.861944"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"

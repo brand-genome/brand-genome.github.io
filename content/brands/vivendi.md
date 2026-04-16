@@ -2,12 +2,10 @@
 title: Vivendi
 slug: vivendi
 description: ""
-date: "2026-04-15T09:21:25.840143"
+date: "2026-04-16T19:22:02.092090"
 draft: false
 sectors:
-  - "marketing-advertising"
   - entertainment
-  - publishing
 regions:
   - france
 years:
@@ -75,7 +73,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.vivendi.com](https://www.vivendi.com)
-- [https://www.vivendi.com/en](https://www.vivendi.com/en)
 
 ## Brand Guidelines
 

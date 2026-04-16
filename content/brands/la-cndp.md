@@ -2,7 +2,7 @@
 title: La CNDP
 slug: "la-cndp"
 description: ""
-date: "2026-04-15T09:21:23.587964"
+date: "2026-04-16T19:21:58.877635"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.debatpublic.fr](https://www.debatpublic.fr)
-
 ## Brand Guidelines
 
 ### 2021

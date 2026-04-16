@@ -2,11 +2,11 @@
 title: Hyundai Wia
 slug: "hyundai-wia"
 description: ""
-date: "2026-04-15T09:21:25.464486"
+date: "2026-04-16T19:22:01.215411"
 draft: false
 sectors:
-  - automobile
   - defense
+  - automobile
 regions:
   - "south-korea"
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hyundai-wia.com](https://www.hyundai-wia.com)
 - [https://en.hyundai-wia.com](https://en.hyundai-wia.com)
 - [http://www.hyundai-wia.com](http://www.hyundai-wia.com)
 - [https://en.hyundai-wia.com/main/main.asp](https://en.hyundai-wia.com/main/main.asp)

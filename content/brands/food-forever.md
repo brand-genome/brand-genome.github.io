@@ -2,12 +2,11 @@
 title: Food Forever
 slug: "food-forever"
 description: ""
-date: "2026-04-15T09:21:23.975009"
+date: "2026-04-16T19:21:59.284784"
 draft: false
 sectors:
-  - research
-  - food
   - ngo
+  - food
 regions:
   - germany
 years:
@@ -65,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.croptrust.org](https://www.croptrust.org)
-- [https://www.foodforever.org](https://www.foodforever.org)
+- [https://foodforever.org](https://foodforever.org)
 
 ## Brand Guidelines
 

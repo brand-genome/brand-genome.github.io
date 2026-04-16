@@ -2,11 +2,11 @@
 title: IMG Academy
 slug: "img-academy"
 description: ""
-date: "2026-04-15T09:21:24.539909"
+date: "2026-04-16T19:22:00.112661"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 
 - [https://www.imgacademy.com](https://www.imgacademy.com)
 - [https://www.imgacademy.com/boarding-school](https://www.imgacademy.com/boarding-school)
-- [https://www.imgacademy.com/youth-sport-camps](https://www.imgacademy.com/youth-sport-camps)
+- [https://www.imgacademy.com/sport-camps](https://www.imgacademy.com/sport-camps)
 
 ## Brand Guidelines
 

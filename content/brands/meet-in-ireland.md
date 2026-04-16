@@ -2,7 +2,7 @@
 title: Meet in Ireland
 slug: "meet-in-ireland"
 description: ""
-date: "2026-04-15T09:21:25.197292"
+date: "2026-04-16T19:22:00.792785"
 draft: false
 sectors:
   - tourism

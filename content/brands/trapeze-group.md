@@ -2,11 +2,11 @@
 title: Trapeze Group
 slug: "trapeze-group"
 description: ""
-date: "2026-04-15T09:21:25.696235"
+date: "2026-04-16T19:22:01.798485"
 draft: false
 sectors:
-  - "public-transportation"
   - software
+  - "public-transportation"
 regions:
   - canada
 years:
@@ -62,13 +62,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.trapezegroup.com](https://www.trapezegroup.com)
+- [https://trapezegroup.com](https://trapezegroup.com)
 - [https://trapezegroup.co.uk](https://trapezegroup.co.uk)
 - [https://www.trapezegroup.de](https://www.trapezegroup.de)
 - [https://trapezegroup.ae](https://trapezegroup.ae)
-- [https://trapezegroup.co.za](https://trapezegroup.co.za)
-- [https://trapezegroup.com.my](https://trapezegroup.com.my)
 - [https://trapezegroup.africa](https://trapezegroup.africa)
+- [https://trapezegroup.com.my](https://trapezegroup.com.my)
 
 ## Brand Guidelines
 

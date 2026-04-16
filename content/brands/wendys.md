@@ -2,11 +2,11 @@
 title: Wendy’s
 slug: wendys
 description: ""
-date: "2026-04-15T09:21:22.433911"
+date: "2026-04-16T19:21:57.711269"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: TAFE NSW
 slug: "tafe-nsw"
 description: ""
-date: "2026-04-15T09:21:23.826760"
+date: "2026-04-16T19:21:59.155129"
 draft: false
 sectors:
   - education

@@ -2,12 +2,11 @@
 title: YMCA Canada
 slug: "ymca-canada"
 description: ""
-date: "2026-04-15T09:21:25.379842"
+date: "2026-04-16T19:22:01.046298"
 draft: false
 sectors:
-  - "wellness-spa"
-  - education
   - ngo
+  - education
 regions:
   - canada
 years:
@@ -63,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ymca.ca](https://www.ymca.ca)
+- [https://ymca.ca/en](https://ymca.ca/en)
 - [http://www.ymca.ca](http://www.ymca.ca)
 - [http://www.ymcabrandon.ca](http://www.ymcabrandon.ca)
 - [http://www.ymcacalgary.org](http://www.ymcacalgary.org)

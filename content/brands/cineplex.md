@@ -2,7 +2,7 @@
 title: Cineplex
 slug: cineplex
 description: ""
-date: "2026-04-15T09:21:24.047443"
+date: "2026-04-16T19:21:59.367445"
 draft: false
 sectors:
   - entertainment
@@ -61,9 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cineplex.com](https://www.cineplex.com)
 - [https://corp.cineplex.com](https://corp.cineplex.com)
-- [https://corporateorders.cineplex.com](https://corporateorders.cineplex.com)
 
 ## Brand Guidelines
 

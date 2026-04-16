@@ -2,7 +2,7 @@
 title: Hyperoptic
 slug: hyperoptic
 description: ""
-date: "2026-04-15T09:21:25.194119"
+date: "2026-04-16T19:22:00.789183"
 draft: false
 sectors:
   - networking

@@ -2,7 +2,7 @@
 title: Mustang Cup
 slug: "mustang-cup"
 description: ""
-date: "2026-04-15T09:21:22.239490"
+date: "2026-04-16T19:21:57.279307"
 draft: false
 sectors:
   - sports
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://mustangcup.com](https://mustangcup.com)
-
 ## Brand Guidelines
 
 ### 2025

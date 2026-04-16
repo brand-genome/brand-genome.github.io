@@ -2,11 +2,11 @@
 title: BrandLective
 slug: brandlective
 description: ""
-date: "2026-04-15T09:21:24.757210"
+date: "2026-04-16T19:22:00.304828"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - "united-kingdom"
 years:

@@ -2,11 +2,11 @@
 title: Asics
 slug: asics
 description: ""
-date: "2026-04-15T09:21:24.286058"
+date: "2026-04-16T19:21:59.692845"
 draft: false
 sectors:
-  - fashion
   - footwear
+  - fashion
 regions:
   - japan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.asics.com](https://www.asics.com)
+- [https://www.asics.co.in](https://www.asics.co.in)
 - [https://corp.asics.com/en](https://corp.asics.com/en)
 - [https://www.asics.com/us/en-us](https://www.asics.com/us/en-us)
 

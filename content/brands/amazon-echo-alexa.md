@@ -2,7 +2,7 @@
 title: Amazon Echo / Alexa
 slug: "amazon-echo-alexa"
 description: ""
-date: "2026-04-15T09:21:25.408540"
+date: "2026-04-16T19:22:01.092315"
 draft: false
 sectors:
   - software
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - internet
+  - technology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,9 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://alexa.amazon.com](https://alexa.amazon.com)
-- [https://developer.amazon.com/alexa](https://developer.amazon.com/alexa)
-- [https://www.amazon.com/echo](https://www.amazon.com/echo)
+- [https://alexa.amazon.com/about](https://alexa.amazon.com/about)
+- [https://developer.amazon.com/en-US/alexa](https://developer.amazon.com/en-US/alexa)
+- [https://www.amazon.com/alexa/shop-echo-devices?ref_=nav_sul_ods_ha_echo_cp_0_2_4_2](https://www.amazon.com/alexa/shop-echo-devices?ref_=nav_sul_ods_ha_echo_cp_0_2_4_2)
 - [http://www.amazon.com](http://www.amazon.com)
 
 ## Brand Guidelines

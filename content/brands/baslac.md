@@ -2,7 +2,7 @@
 title: Baslac
 slug: baslac
 description: ""
-date: "2026-04-15T09:21:24.981138"
+date: "2026-04-16T19:22:00.553018"
 draft: false
 sectors:
   - "consumer-goods"

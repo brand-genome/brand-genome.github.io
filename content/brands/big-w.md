@@ -2,7 +2,7 @@
 title: Big W
 slug: "big-w"
 description: ""
-date: "2026-04-15T09:21:23.593759"
+date: "2026-04-16T19:21:58.882817"
 draft: false
 sectors:
   - "retail-commerce"
@@ -59,6 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.bigw.com.au](https://www.bigw.com.au)

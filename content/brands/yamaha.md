@@ -2,7 +2,7 @@
 title: Yamaha
 slug: yamaha
 description: ""
-date: "2026-04-15T09:21:24.785514"
+date: "2026-04-16T19:22:00.334732"
 draft: false
 sectors:
   - automobile
@@ -10,8 +10,8 @@ regions:
   - japan
   - usa
 years:
-  - 2008
   - 2016
+  - 2008
 languages:
   - english
 tags:

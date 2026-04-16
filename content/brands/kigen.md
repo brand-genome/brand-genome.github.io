@@ -2,12 +2,12 @@
 title: Kigen
 slug: kigen
 description: ""
-date: "2026-04-15T09:21:24.046142"
+date: "2026-04-16T19:21:59.365995"
 draft: false
 sectors:
   - networking
-  - cybersecurity
   - telecom
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -62,10 +62,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://kigen.com](https://kigen.com)
-
 ## Brand Guidelines
 
 ### 2020

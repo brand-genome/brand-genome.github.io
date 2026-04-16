@@ -2,7 +2,7 @@
 title: GAISF
 slug: gaisf
 description: ""
-date: "2026-04-15T09:21:25.392641"
+date: "2026-04-16T19:22:01.069041"
 draft: false
 sectors:
   - sports
@@ -65,6 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.sportaccord.sport](https://www.sportaccord.sport)
 - [https://gaisf.sport](https://gaisf.sport)
 
 ## Brand Guidelines

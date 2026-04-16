@@ -2,7 +2,7 @@
 title: São Paulo
 slug: "sao-paulo"
 description: ""
-date: "2026-04-15T09:21:25.195847"
+date: "2026-04-16T19:22:00.791214"
 draft: false
 sectors:
   - tourism
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.spturis.com](https://www.spturis.com)
-- [https://www.prefeitura.sp.gov.br](https://www.prefeitura.sp.gov.br)
+- [https://prefeitura.sp.gov.br](https://prefeitura.sp.gov.br)
 - [https://prefeitura.sp.gov.br/en/web/prefeitura-de-sao-paulo](https://prefeitura.sp.gov.br/en/web/prefeitura-de-sao-paulo)
 
 ## Brand Guidelines

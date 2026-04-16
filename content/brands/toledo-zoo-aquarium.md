@@ -2,11 +2,12 @@
 title: "Toledo Zoo & Aquarium"
 slug: "toledo-zoo-aquarium"
 description: ""
-date: "2026-04-15T09:21:23.832808"
+date: "2026-04-16T19:21:59.161469"
 draft: false
 sectors:
   - entertainment
-  - "arts-culture"
+  - tourism
+  - education
 regions:
   - usa
 years:

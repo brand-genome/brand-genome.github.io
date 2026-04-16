@@ -2,11 +2,11 @@
 title: Litecoin
 slug: litecoin
 description: ""
-date: "2026-04-15T09:21:24.811958"
+date: "2026-04-16T19:22:00.358684"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - ngo
+  - "blockchain-crypto"
 regions:
   - singapore
 years:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 - [https://litecoin.org](https://litecoin.org)
 - [https://litecoin.com](https://litecoin.com)
 - [https://litecoin.com/litecoin-foundation](https://litecoin.com/litecoin-foundation)
-- [https://litecoin-foundation.org](https://litecoin-foundation.org)
 - [https://ltclabs.org](https://ltclabs.org)
 
 ## Brand Guidelines

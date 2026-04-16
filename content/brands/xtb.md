@@ -2,7 +2,7 @@
 title: XTB
 slug: xtb
 description: ""
-date: "2026-04-15T09:21:24.816207"
+date: "2026-04-16T19:22:00.363465"
 draft: false
 sectors:
   - finance
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xtb.com](https://www.xtb.com)
+- [https://www.xtb.com/int](https://www.xtb.com/int)
 - [https://www.xtb.com/pl](https://www.xtb.com/pl)
 - [https://www.xtb.com/en](https://www.xtb.com/en)
 - [https://www.xtb.com/en/contact](https://www.xtb.com/en/contact)
@@ -74,6 +74,7 @@ visual_term_image_urls: {}
 - [http://www.xtb.fr](http://www.xtb.fr)
 - [http://www.xtb.it](http://www.xtb.it)
 - [http://www.xtb.ro](http://www.xtb.ro)
+- [https://www.xtb.com](https://www.xtb.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Dammam Airports Company
 slug: "dammam-airports-company"
 description: ""
-date: "2026-04-15T09:21:22.350724"
+date: "2026-04-16T19:21:57.580635"
 draft: false
 sectors:
   - aerospace
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.daco.sa](https://www.daco.sa)
+- [https://daco.sa/landing](https://daco.sa/landing)
 - [https://kfia.sa](https://kfia.sa)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Edinburgh Napier University
 slug: "edinburgh-napier-university"
 description: ""
-date: "2026-04-15T09:21:24.782835"
+date: "2026-04-16T19:22:00.332482"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"

@@ -2,7 +2,7 @@
 title: Humanly
 slug: humanly
 description: ""
-date: "2026-04-15T09:21:22.352436"
+date: "2026-04-16T19:21:57.585000"
 draft: false
 sectors:
   - healthcare

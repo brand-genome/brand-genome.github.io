@@ -2,11 +2,11 @@
 title: Sport is the Norm campaign
 slug: "sport-is-the-norm-campaign"
 description: ""
-date: "2026-04-15T09:21:24.089224"
+date: "2026-04-16T19:21:59.417478"
 draft: false
 sectors:
-  - sports
   - "public-sector"
+  - sports
 regions:
   - russia
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://norma-sport.ru](https://norma-sport.ru)
-
 ## Brand Guidelines
 
 ### 2019

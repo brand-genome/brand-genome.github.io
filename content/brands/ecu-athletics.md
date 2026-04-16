@@ -2,7 +2,7 @@
 title: ECU Athletics
 slug: "ecu-athletics"
 description: ""
-date: "2026-04-15T09:21:23.792764"
+date: "2026-04-16T19:21:59.122142"
 draft: false
 sectors:
   - sports
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ecupirates.com](https://ecupirates.com)
-- [https://www.ecu.edu/licensing](https://www.ecu.edu/licensing)
 - [http://www.ecupirateclub.com](http://www.ecupirateclub.com)
 - [http://www.ecupirates.com](http://www.ecupirates.com)
 

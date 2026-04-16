@@ -2,7 +2,7 @@
 title: Beeline
 slug: beeline
 description: ""
-date: "2026-04-15T09:21:25.465536"
+date: "2026-04-16T19:22:01.218327"
 draft: false
 sectors:
   - telecom
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://beeline.ru](https://beeline.ru)
+- [https://moskva.beeline.ru/customers/products](https://moskva.beeline.ru/customers/products)
 - [https://www.beeline.ru](https://www.beeline.ru)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Universidad de Valladolid
 slug: "universidad-de-valladolid"
 description: ""
-date: "2026-04-15T09:21:24.252971"
+date: "2026-04-16T19:21:59.651877"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - spain
@@ -65,10 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uva.es](https://www.uva.es)
+- [https://www.uva.es/export/sites/uva](https://www.uva.es/export/sites/uva)
 - [https://universityofvalladolid.uva.es](https://universityofvalladolid.uva.es)
 - [https://campusvirtual.uva.es](https://campusvirtual.uva.es)
 - [https://extension.campusvirtual.uva.es](https://extension.campusvirtual.uva.es)
+- [https://www.uva.es](https://www.uva.es)
 
 ## Brand Guidelines
 

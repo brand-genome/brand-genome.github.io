@@ -2,11 +2,11 @@
 title: World of Life
 slug: "world-of-life"
 description: ""
-date: "2026-04-15T09:21:24.323485"
+date: "2026-04-16T19:21:59.732094"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

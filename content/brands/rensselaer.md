@@ -2,7 +2,7 @@
 title: Rensselaer
 slug: rensselaer
 description: ""
-date: "2026-04-15T09:21:25.872228"
+date: "2026-04-16T19:22:02.141958"
 draft: false
 sectors:
   - university

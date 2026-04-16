@@ -2,13 +2,13 @@
 title: Constructor Group
 slug: "constructor-group"
 description: ""
-date: "2026-04-15T09:21:22.340972"
+date: "2026-04-16T19:21:57.517893"
 draft: false
 sectors:
-  - university
-  - "e-learning-edtech"
   - finance
   - education
+  - university
+  - "e-learning-edtech"
 regions:
   - switzerland
 years:
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 
 - [https://constructor.org](https://constructor.org)
 - [https://constructor.university](https://constructor.university)
-- [https://academy.constructor.org](https://academy.constructor.org)
+- [https://nexademy.org](https://nexademy.org)
 - [https://institute.constructor.org](https://institute.constructor.org)
 - [https://constructor.capital](https://constructor.capital)
 - [http://www.constructor.org](http://www.constructor.org)

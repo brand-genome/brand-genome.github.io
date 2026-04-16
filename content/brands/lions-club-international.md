@@ -2,7 +2,7 @@
 title: Lions Club International
 slug: "lions-club-international"
 description: ""
-date: "2026-04-15T09:21:25.771801"
+date: "2026-04-16T19:22:01.964391"
 draft: false
 sectors:
   - ngo
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lionsclubs.org/en](https://www.lionsclubs.org/en)
 - [https://lionsclubs.org](https://lionsclubs.org)
 
 ## Additional Properties

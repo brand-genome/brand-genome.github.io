@@ -2,11 +2,11 @@
 title: Pacifico Power
 slug: "pacifico-power"
 description: ""
-date: "2026-04-15T09:21:23.747638"
+date: "2026-04-16T19:21:59.072262"
 draft: false
 sectors:
-  - "renewable-energy"
   - utilities
+  - "renewable-energy"
 regions:
   - usa
 years:

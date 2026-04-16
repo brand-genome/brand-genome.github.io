@@ -2,7 +2,7 @@
 title: El Paso Electric
 slug: "el-paso-electric"
 description: ""
-date: "2026-04-15T09:21:22.131715"
+date: "2026-04-16T19:21:57.166791"
 draft: false
 sectors:
   - utilities
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.epelectric.com](http://www.epelectric.com)
 - [https://epelectric.com](https://epelectric.com)
 
 ## Brand Guidelines

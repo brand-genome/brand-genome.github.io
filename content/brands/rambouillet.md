@@ -2,11 +2,11 @@
 title: Rambouillet
 slug: rambouillet
 description: ""
-date: "2026-04-15T09:21:25.753487"
+date: "2026-04-16T19:22:01.928506"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - france
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rambouillet.fr](https://www.rambouillet.fr)
+- [https://rambouillet.fr](https://rambouillet.fr)
 - [https://www.rambouillet-tourisme.fr](https://www.rambouillet-tourisme.fr)
 
 ## Brand Guidelines

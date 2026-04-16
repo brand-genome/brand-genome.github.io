@@ -2,7 +2,7 @@
 title: Rotageek
 slug: rotageek
 description: ""
-date: "2026-04-15T09:21:24.816601"
+date: "2026-04-16T19:22:00.364284"
 draft: false
 sectors:
   - software

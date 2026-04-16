@@ -2,7 +2,7 @@
 title: Australian Dragon Boat Federation
 slug: "australian-dragon-boat-federation"
 description: ""
-date: "2026-04-15T09:21:23.601647"
+date: "2026-04-16T19:21:58.890494"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
   - marine
 industries: []
 countries: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.ausdbf.com.au](https://www.ausdbf.com.au)
-
 ## Brand Guidelines
 
 ### 2022

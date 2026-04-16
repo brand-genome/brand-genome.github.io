@@ -2,11 +2,11 @@
 title: Royal Academy of Engineering
 slug: "royal-academy-of-engineering"
 description: ""
-date: "2026-04-15T09:21:24.946115"
+date: "2026-04-16T19:22:00.521200"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:

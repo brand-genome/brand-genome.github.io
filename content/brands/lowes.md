@@ -2,11 +2,11 @@
 title: Lowe’s
 slug: lowes
 description: ""
-date: "2026-04-15T09:21:23.944675"
+date: "2026-04-16T19:21:59.261847"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lowes.com](https://www.lowes.com)
-- [https://corporate.lowes.com](https://corporate.lowes.com)
-- [https://www.lowesprosupply.com](https://www.lowesprosupply.com)
 
 ## Brand Guidelines
 

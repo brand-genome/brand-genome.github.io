@@ -2,7 +2,7 @@
 title: City of Rybnik
 slug: "city-of-rybnik"
 description: ""
-date: "2026-04-15T09:21:23.407153"
+date: "2026-04-16T19:21:58.798640"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - polish
 tags:
   - city
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,6 +65,3 @@ visual_term_image_urls: {}
 
 - [https://www.rybnik.eu](https://www.rybnik.eu)
 - [https://www.rybnik.eu/en](https://www.rybnik.eu/en)
-- [https://bip.um.rybnik.eu](https://bip.um.rybnik.eu)
-- [https://edukacja.rybnik.eu](https://edukacja.rybnik.eu)
-- [https://rachunki.rybnik.eu](https://rachunki.rybnik.eu)

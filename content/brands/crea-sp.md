@@ -2,7 +2,7 @@
 title: "Crea-SP"
 slug: "crea-sp"
 description: ""
-date: "2026-04-15T09:21:24.657330"
+date: "2026-04-16T19:22:00.209490"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.creasp.org.br](https://www.creasp.org.br)
-
 ## Brand Guidelines
 
 ### 2019

@@ -2,16 +2,15 @@
 title: Odigo
 slug: odigo
 description: ""
-date: "2026-04-15T09:21:22.578729"
+date: "2026-04-16T19:21:57.942503"
 draft: false
 sectors:
   - software
-  - telecom
 regions:
   - france
 years:
-  - 2021
   - 2022
+  - 2021
 languages:
   - english
 tags:

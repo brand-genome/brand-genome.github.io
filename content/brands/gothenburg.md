@@ -2,7 +2,7 @@
 title: Gothenburg
 slug: gothenburg
 description: ""
-date: "2026-04-15T09:21:24.278521"
+date: "2026-04-16T19:21:59.684430"
 draft: false
 sectors:
   - tourism

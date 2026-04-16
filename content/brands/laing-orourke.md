@@ -2,7 +2,7 @@
 title: Laing O’Rourke
 slug: "laing-orourke"
 description: ""
-date: "2026-04-15T09:21:24.007362"
+date: "2026-04-16T19:21:59.317019"
 draft: false
 sectors:
   - construction

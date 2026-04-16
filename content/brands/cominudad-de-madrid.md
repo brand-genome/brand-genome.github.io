@@ -2,11 +2,10 @@
 title: Cominudad de Madrid
 slug: "cominudad-de-madrid"
 description: ""
-date: "2026-04-15T09:21:24.289149"
+date: "2026-04-16T19:21:59.695666"
 draft: false
 sectors:
   - "public-sector"
-  - tourism
 regions:
   - spain
 years:
@@ -61,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.comunidad.madrid](https://www.comunidad.madrid)
-- [https://www.visitmadrid.es](https://www.visitmadrid.es)
-
 ## Brand Guidelines
 
 ### 2010

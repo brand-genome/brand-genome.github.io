@@ -2,16 +2,16 @@
 title: Cylance
 slug: cylance
 description: ""
-date: "2026-04-15T09:21:24.235476"
+date: "2026-04-16T19:21:59.613135"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -68,9 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cylance.com](https://www.cylance.com)
-- [https://www.blackberry.com](https://www.blackberry.com)
-- [https://docs.blackberry.com](https://docs.blackberry.com)
+- [https://www.blackberry.com/en](https://www.blackberry.com/en)
+- [https://docs.blackberry.com/en](https://docs.blackberry.com/en)
 - [http://www.cylance.com/en-us/index.html](http://www.cylance.com/en-us/index.html)
 
 ## Brand Guidelines

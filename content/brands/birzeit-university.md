@@ -2,7 +2,7 @@
 title: Birzeit University
 slug: "birzeit-university"
 description: ""
-date: "2026-04-15T09:21:25.744382"
+date: "2026-04-16T19:22:01.912635"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - palestine
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.birzeit.edu/en](https://www.birzeit.edu/en)
-- [https://www.birzeit.edu/ar](https://www.birzeit.edu/ar)
 - [https://www.birzeit.edu](https://www.birzeit.edu)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Optile GmbH
 slug: "optile-gmbh"
 description: ""
-date: "2026-04-15T09:21:23.881721"
+date: "2026-04-16T19:21:59.208272"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://optile.net](https://optile.net)
-
 ## Brand Guidelines
 
 ### 2019

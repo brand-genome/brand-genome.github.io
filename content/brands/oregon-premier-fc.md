@@ -2,7 +2,7 @@
 title: Oregon Premier FC
 slug: "oregon-premier-fc"
 description: ""
-date: "2026-04-15T09:21:25.450643"
+date: "2026-04-16T19:22:01.157611"
 draft: false
 sectors:
   - sports

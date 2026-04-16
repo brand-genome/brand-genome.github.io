@@ -2,15 +2,15 @@
 title: Carte Bleue
 slug: "carte-bleue"
 description: ""
-date: "2026-04-15T09:21:22.555278"
+date: "2026-04-16T19:21:57.916124"
 draft: false
 sectors:
   - finance
 regions:
   - france
 years:
-  - 2024
   - 2019
+  - 2024
 languages:
   - french
 tags:

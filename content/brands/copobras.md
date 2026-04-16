@@ -2,11 +2,11 @@
 title: Copobras
 slug: copobras
 description: ""
-date: "2026-04-15T09:21:24.920145"
+date: "2026-04-16T19:22:00.491055"
 draft: false
 sectors:
-  - "consumer-goods"
   - "printing-reprographics"
+  - "consumer-goods"
 regions:
   - brazil
 years:

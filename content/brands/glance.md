@@ -2,11 +2,10 @@
 title: Glance
 slug: glance
 description: ""
-date: "2026-04-15T09:21:23.710991"
+date: "2026-04-16T19:21:59.034479"
 draft: false
 sectors:
   - "marketing-advertising"
-  - "social-media"
   - software
 regions:
   - india
@@ -63,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.glance.com](https://www.glance.com)
-- [https://www.glance.com/company](https://www.glance.com/company)
 - [https://glance.com/advertising](https://glance.com/advertising)
 - [https://www.glance.app](https://www.glance.app)
 - [https://www.glance.world](https://www.glance.world)

@@ -2,11 +2,11 @@
 title: ELSA
 slug: elsa
 description: ""
-date: "2026-04-15T09:21:25.690405"
+date: "2026-04-16T19:22:01.770183"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:

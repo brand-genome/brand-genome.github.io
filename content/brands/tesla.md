@@ -2,11 +2,11 @@
 title: Tesla
 slug: tesla
 description: ""
-date: "2026-04-15T09:21:25.771159"
+date: "2026-04-16T19:22:01.963092"
 draft: false
 sectors:
-  - "renewable-energy"
   - automobile
+  - "renewable-energy"
 regions:
   - usa
 years:
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
+  - corporate
   - featured
   - transport
-  - corporate
 industries:
-  - "automotive-industry"
-  - "battery-industry"
   - "solar-industry"
+  - "battery-industry"
+  - "automotive-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -79,8 +79,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tesla.com](https://www.tesla.com)
 - [https://ir.tesla.com](https://ir.tesla.com)
+- [https://www.tesla.com](https://www.tesla.com)
 - [https://www.tesla.com/de_de](https://www.tesla.com/de_de)
 - [https://www.tesla.com/fr_fr](https://www.tesla.com/fr_fr)
 - [https://www.tesla.com/nl_nl](https://www.tesla.com/nl_nl)

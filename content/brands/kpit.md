@@ -2,7 +2,7 @@
 title: KPIT
 slug: kpit
 description: ""
-date: "2026-04-15T09:21:25.769694"
+date: "2026-04-16T19:22:01.961324"
 draft: false
 sectors:
   - consulting
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kpit.com](https://www.kpit.com)
-- [https://marketingportal.kpit.com](https://marketingportal.kpit.com)
 
 ## Brand Guidelines
 

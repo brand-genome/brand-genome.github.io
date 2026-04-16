@@ -2,7 +2,7 @@
 title: Faber Halbertsma Group
 slug: "faber-halbertsma-group"
 description: ""
-date: "2026-04-15T09:21:24.206735"
+date: "2026-04-16T19:21:59.573335"
 draft: false
 sectors:
   - "logistics-supply-chain"

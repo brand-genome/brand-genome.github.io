@@ -2,7 +2,7 @@
 title: Tupperware
 slug: tupperware
 description: ""
-date: "2026-04-15T09:21:22.514971"
+date: "2026-04-16T19:21:57.844121"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "direct-selling"
 countries:
@@ -71,8 +71,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tupperware.com](https://www.tupperware.com)
-- [https://www.tupperwarebrands.com](https://www.tupperwarebrands.com)
 - [http://www.tupperware.com](http://www.tupperware.com)
+- [https://www.tupperwarebrands.com](https://www.tupperwarebrands.com)
 - [https://www.tupperware.com.mx](https://www.tupperware.com.mx)
 - [https://www.tupperware.de](https://www.tupperware.de)
 - [https://my.tupperware.com](https://my.tupperware.com)

@@ -2,11 +2,11 @@
 title: Globo
 slug: globo
 description: ""
-date: "2026-04-15T09:21:23.995951"
+date: "2026-04-16T19:21:59.305274"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - brazil
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - portuguese
 tags:
-  - broadcast
   - featured
   - media
+  - broadcast
 industries: []
 countries:
   - brazil
@@ -68,11 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.globo.com](https://www.globo.com)
-- [https://www.globo.com.br](https://www.globo.com.br)
-- [https://g1.globo.com](https://g1.globo.com)
-- [https://ge.globo.com](https://ge.globo.com)
-- [https://globoplay.globo.com](https://globoplay.globo.com)
 - [http://redeglobo.globo.com](http://redeglobo.globo.com)
 
 ## Brand Guidelines

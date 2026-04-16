@@ -2,7 +2,7 @@
 title: Servei de Trànsit de Catalunya
 slug: "servei-de-transit-de-catalunya"
 description: ""
-date: "2026-04-15T09:21:22.503057"
+date: "2026-04-16T19:21:57.831839"
 draft: false
 sectors:
   - "public-sector"
@@ -62,6 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://transit.gencat.cat/ca](https://transit.gencat.cat/ca)
+- [https://transit.gencat.cat/ca/inici](https://transit.gencat.cat/ca/inici)
 - [https://www.gencat.cat/transit](https://www.gencat.cat/transit)
-- [https://visoritineraris.transit.gencat.cat](https://visoritineraris.transit.gencat.cat)

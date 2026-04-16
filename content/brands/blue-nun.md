@@ -2,7 +2,7 @@
 title: Blue Nun
 slug: "blue-nun"
 description: ""
-date: "2026-04-15T09:21:25.361804"
+date: "2026-04-16T19:22:01.028146"
 draft: false
 sectors:
   - drink
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://bluenun.wine](https://bluenun.wine)
 - [https://www.bluenunworld.com](https://www.bluenunworld.com)
-- [https://www.langguthworld.com](https://www.langguthworld.com)
 - [https://www.bluenun.wine](https://www.bluenun.wine)
 
 ## Brand Guidelines

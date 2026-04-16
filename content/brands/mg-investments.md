@@ -2,7 +2,7 @@
 title: "M&G Investments"
 slug: "mg-investments"
 description: ""
-date: "2026-04-15T09:21:24.372232"
+date: "2026-04-16T19:21:59.898848"
 draft: false
 sectors:
   - finance
@@ -65,10 +65,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mandg.com/investments](https://www.mandg.com/investments)
+- [https://www.mandg.com/investments/hub?utm_source=vanity&utm_medium=301&utm_campaign=https://www.mandg.com/investments](https://www.mandg.com/investments/hub?utm_source=vanity&utm_medium=301&utm_campaign=https://www.mandg.com/investments)
 - [https://www.mymandg.co.uk](https://www.mymandg.co.uk)
-- [https://www.mandg.com/realestate](https://www.mandg.com/realestate)
-- [https://mandgplc.com](https://mandgplc.com)
+- [https://www.mandg.com/realestate/en-gb/real-estate?utm_source=vanity&utm_medium=301&utm_campaign=https://www.mandg.com/realestate](https://www.mandg.com/realestate/en-gb/real-estate?utm_source=vanity&utm_medium=301&utm_campaign=https://www.mandg.com/realestate)
 - [http://www.bondvigilantes.com](http://www.bondvigilantes.com)
 - [http://www.mandg.at](http://www.mandg.at)
 - [http://www.mandg.ch](http://www.mandg.ch)

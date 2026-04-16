@@ -2,7 +2,7 @@
 title: Shelter
 slug: shelter
 description: ""
-date: "2026-04-15T09:21:24.599745"
+date: "2026-04-16T19:22:00.163404"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - social
   - charity
+  - social
 industries: []
 countries: []
 revenue_buckets: []

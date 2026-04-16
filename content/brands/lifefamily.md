@@ -2,12 +2,12 @@
 title: LifeFamily
 slug: lifefamily
 description: ""
-date: "2026-04-15T09:21:24.000430"
+date: "2026-04-16T19:21:59.309088"
 draft: false
 sectors:
+  - ngo
   - "childcare-family-services"
   - education
-  - ngo
 regions:
   - usa
 years:

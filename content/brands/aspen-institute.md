@@ -2,7 +2,7 @@
 title: Aspen Institute
 slug: "aspen-institute"
 description: ""
-date: "2026-04-15T09:21:24.011303"
+date: "2026-04-16T19:21:59.321726"
 draft: false
 sectors:
   - ngo
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.aspeninstitute.org](https://www.aspeninstitute.org)
-- [https://www.aspeninstitute.org/branding](https://www.aspeninstitute.org/branding)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Governo de Portugal
 slug: "governo-de-portugal"
 description: ""
-date: "2026-04-15T09:21:22.553880"
+date: "2026-04-16T19:21:57.902643"
 draft: false
 sectors:
   - "public-sector"
@@ -66,9 +66,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.portugal.gov.pt](https://www.portugal.gov.pt)
+- [https://www.portugal.gov.pt/pt/gc25](https://www.portugal.gov.pt/pt/gc25)
 - [https://www2.gov.pt/inicio](https://www2.gov.pt/inicio)
-- [https://eportugal.gov.pt](https://eportugal.gov.pt)
+- [https://www.gov.pt](https://www.gov.pt)
 - [http://www.portugal.gov.pt/en.aspx](http://www.portugal.gov.pt/en.aspx)
 
 ## Brand Guidelines

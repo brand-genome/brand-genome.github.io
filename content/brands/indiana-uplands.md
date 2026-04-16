@@ -2,7 +2,7 @@
 title: Indiana Uplands
 slug: "indiana-uplands"
 description: ""
-date: "2026-04-15T09:21:22.342319"
+date: "2026-04-16T19:21:57.524732"
 draft: false
 sectors:
   - ngo

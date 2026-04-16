@@ -2,11 +2,11 @@
 title: Kunststiftung NRW
 slug: "kunststiftung-nrw"
 description: ""
-date: "2026-04-15T09:21:23.566151"
+date: "2026-04-16T19:21:58.859139"
 draft: false
 sectors:
-  - ngo
   - "arts-culture"
+  - ngo
 regions:
   - germany
 years:

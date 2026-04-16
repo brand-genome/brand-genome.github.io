@@ -2,7 +2,7 @@
 title: Mohawk College
 slug: "mohawk-college"
 description: ""
-date: "2026-04-15T09:21:25.681788"
+date: "2026-04-16T19:22:01.748931"
 draft: false
 sectors:
   - education

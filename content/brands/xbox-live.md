@@ -2,7 +2,7 @@
 title: Xbox Live
 slug: "xbox-live"
 description: ""
-date: "2026-04-15T09:21:25.420754"
+date: "2026-04-16T19:22:01.104917"
 draft: false
 sectors:
   - gaming
@@ -62,8 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xbox.com/live](https://www.xbox.com/live)
-- [https://www.xbox.com](https://www.xbox.com)
+- [https://www.xbox.com/en-IN/live](https://www.xbox.com/en-IN/live)
+- [https://www.xbox.com/en-IN](https://www.xbox.com/en-IN)
 
 ## Brand Guidelines
 

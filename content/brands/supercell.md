@@ -2,7 +2,7 @@
 title: Supercell
 slug: supercell
 description: ""
-date: "2026-04-15T09:21:23.118915"
+date: "2026-04-16T19:21:58.526479"
 draft: false
 sectors:
   - gaming

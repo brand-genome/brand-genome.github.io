@@ -2,12 +2,12 @@
 title: Blockpass
 slug: blockpass
 description: ""
-date: "2026-04-15T09:21:24.338297"
+date: "2026-04-16T19:21:59.778934"
 draft: false
 sectors:
+  - software
   - "blockchain-crypto"
   - cybersecurity
-  - software
 regions:
   - "hong-kong"
 years:

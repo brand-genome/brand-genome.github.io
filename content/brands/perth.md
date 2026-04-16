@@ -2,7 +2,7 @@
 title: Perth
 slug: perth
 description: ""
-date: "2026-04-15T09:21:25.362478"
+date: "2026-04-16T19:22:01.028829"
 draft: false
 sectors:
   - tourism

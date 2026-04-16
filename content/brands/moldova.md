@@ -2,7 +2,7 @@
 title: Moldova
 slug: moldova
 description: ""
-date: "2026-04-15T09:21:22.137635"
+date: "2026-04-16T19:21:57.172578"
 draft: false
 sectors:
   - tourism
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://moldova.travel/en](https://moldova.travel/en)
-- [https://moldova.travel/ro](https://moldova.travel/ro)
+- [https://moldova.travel/rutele-vietii/roata-vremii](https://moldova.travel/rutele-vietii/roata-vremii)
 - [https://turism.gov.md/en](https://turism.gov.md/en)
 - [https://turism.gov.md/ro](https://turism.gov.md/ro)
 

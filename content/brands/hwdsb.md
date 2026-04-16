@@ -2,7 +2,7 @@
 title: HWDSB
 slug: hwdsb
 description: ""
-date: "2026-04-15T09:21:23.832676"
+date: "2026-04-16T19:21:59.161334"
 draft: false
 sectors:
   - "public-sector"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hwdsb.on.ca](https://www.hwdsb.on.ca)
-- [https://my.hwdsb.on.ca](https://my.hwdsb.on.ca)
 - [http://www.hwdsb.on.ca](http://www.hwdsb.on.ca)
 
 ## Brand Guidelines

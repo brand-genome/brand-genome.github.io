@@ -2,7 +2,7 @@
 title: Square
 slug: square
 description: ""
-date: "2026-04-15T09:21:22.556849"
+date: "2026-04-16T19:21:57.921224"
 draft: false
 sectors:
   - hospitality
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - institut
   - financial
+  - institut
 industries: []
 countries: []
 revenue_buckets: []

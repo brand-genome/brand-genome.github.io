@@ -2,7 +2,7 @@
 title: Iberia
 slug: iberia
 description: ""
-date: "2026-04-15T09:21:24.226371"
+date: "2026-04-16T19:21:59.603659"
 draft: false
 sectors:
   - airline
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.iberia.com](https://www.iberia.com)
-- [https://grupo.iberia.com](https://grupo.iberia.com)
 - [https://www.iberiaexpress.com](https://www.iberiaexpress.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Markforged
 slug: markforged
 description: ""
-date: "2026-04-15T09:21:23.396817"
+date: "2026-04-16T19:21:58.786807"
 draft: false
 sectors:
   - software
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "3d-printing"
 countries:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.markforged.com](https://www.markforged.com)
 - [http://www.markforged.com](http://www.markforged.com)
 - [https://markforged.com](https://markforged.com)
 

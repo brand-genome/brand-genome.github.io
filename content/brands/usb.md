@@ -2,11 +2,11 @@
 title: USB
 slug: usb
 description: ""
-date: "2026-04-15T09:21:23.713681"
+date: "2026-04-16T19:21:59.037046"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - international
 years:

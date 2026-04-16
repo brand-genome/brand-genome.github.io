@@ -2,12 +2,12 @@
 title: Umbro
 slug: umbro
 description: ""
-date: "2026-04-15T09:21:24.535584"
+date: "2026-04-16T19:22:00.107172"
 draft: false
 sectors:
-  - sports
-  - fashion
   - footwear
+  - fashion
+  - sports
 regions:
   - "united-kingdom"
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.umbro.com](https://www.umbro.com)
-- [https://www.umbro.co.uk](https://www.umbro.co.uk)
 - [https://www.umbro.com/en](https://www.umbro.com/en)
 - [https://www.umbro.com.au](https://www.umbro.com.au)
 - [http://www.umbro.com](http://www.umbro.com)

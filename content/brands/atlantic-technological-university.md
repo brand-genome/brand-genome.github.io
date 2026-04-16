@@ -2,11 +2,11 @@
 title: Atlantic Technological University
 slug: "atlantic-technological-university"
 description: ""
-date: "2026-04-15T09:21:23.762549"
+date: "2026-04-16T19:21:59.088622"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - ireland
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - university
   - education
+  - featured
 industries: []
 countries:
   - ireland
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://atu.ie](https://atu.ie)
 - [https://www.atu.ie](https://www.atu.ie)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Leica Geosystems
 slug: "leica-geosystems"
 description: ""
-date: "2026-04-15T09:21:24.258580"
+date: "2026-04-16T19:21:59.661125"
 draft: false
 sectors:
   - software
@@ -67,9 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://leica-geosystems.com](https://leica-geosystems.com)
-- [https://leica-geosystems.com/en-us](https://leica-geosystems.com/en-us)
-- [https://leica-geosystems.com/en/services-and-support/product-services/myworld---customer-portal](https://leica-geosystems.com/en/services-and-support/product-services/myworld---customer-portal)
 - [http://www.leica-geosystems.com](http://www.leica-geosystems.com)
 
 ## Brand Guidelines

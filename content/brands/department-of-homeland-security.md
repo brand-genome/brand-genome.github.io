@@ -2,11 +2,11 @@
 title: Department of Homeland Security
 slug: "department-of-homeland-security"
 description: ""
-date: "2026-04-15T09:21:24.553057"
+date: "2026-04-16T19:22:00.124698"
 draft: false
 sectors:
-  - "public-sector"
   - "emergency-services"
+  - "public-sector"
   - cybersecurity
 regions:
   - usa
@@ -78,7 +78,7 @@ visual_term_image_urls: {}
 - [https://www.cbp.gov](https://www.cbp.gov)
 - [https://www.uscis.gov](https://www.uscis.gov)
 - [https://www.ice.gov](https://www.ice.gov)
-- [https://hsin.dhs.gov](https://hsin.dhs.gov)
+- [https://hsin.dhs.gov/mipstatic/auth](https://hsin.dhs.gov/mipstatic/auth)
 - [http://www.dhs.gov](http://www.dhs.gov)
 
 ## Brand Guidelines

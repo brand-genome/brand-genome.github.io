@@ -2,7 +2,7 @@
 title: Windows Live
 slug: "windows-live"
 description: ""
-date: "2026-04-15T09:21:24.757803"
+date: "2026-04-16T19:22:00.305449"
 draft: false
 sectors:
   - software
@@ -64,14 +64,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.microsoft.com](https://www.microsoft.com)
-- [https://www.outlook.com](https://www.outlook.com)
-- [https://outlook.live.com](https://outlook.live.com)
-- [https://onedrive.live.com](https://onedrive.live.com)
+- [https://www.microsoft.com/en-in](https://www.microsoft.com/en-in)
+- [https://outlook.live.com/mail/0](https://outlook.live.com/mail/0)
 - [https://www.onedrive.com](https://www.onedrive.com)
-- [https://account.microsoft.com](https://account.microsoft.com)
+- [https://account.microsoft.com/account?ru=https%3A%2F%2Faccount.microsoft.com%2F&destrt=home.landing&pageName=Account](https://account.microsoft.com/account?ru=https%3A%2F%2Faccount.microsoft.com%2F&destrt=home.landing&pageName=Account)
 - [http://www.microsoft.com](http://www.microsoft.com)
 - [https://skydrive.live.com](https://skydrive.live.com)
+- [https://onedrive.live.com](https://onedrive.live.com)
 
 ## Brand Guidelines
 

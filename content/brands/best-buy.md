@@ -2,11 +2,11 @@
 title: Best Buy
 slug: "best-buy"
 description: ""
-date: "2026-04-15T09:21:25.463010"
+date: "2026-04-16T19:22:01.210442"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 
 - [https://www.bestbuy.com](https://www.bestbuy.com)
 - [https://corporate.bestbuy.com](https://corporate.bestbuy.com)
-- [https://investors.bestbuy.com/default.aspx](https://investors.bestbuy.com/default.aspx)
 - [https://www.bestbuy.ca/en-ca](https://www.bestbuy.ca/en-ca)
 - [https://www.bestbuy.ca](https://www.bestbuy.ca)
 - [https://www.pacificsales.com](https://www.pacificsales.com)

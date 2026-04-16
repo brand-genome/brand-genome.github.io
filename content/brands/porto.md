@@ -2,11 +2,11 @@
 title: Porto
 slug: porto
 description: ""
-date: "2026-04-15T09:21:24.798780"
+date: "2026-04-16T19:22:00.348264"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - portugal
 years:

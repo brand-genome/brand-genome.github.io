@@ -2,7 +2,7 @@
 title: No Where Near
 slug: "no-where-near"
 description: ""
-date: "2026-04-15T09:21:22.223919"
+date: "2026-04-16T19:21:57.266466"
 draft: false
 sectors:
   - entertainment
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - featured
   - "human-ressources"
+  - community
 industries: []
 countries: []
 revenue_buckets: []

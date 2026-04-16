@@ -2,11 +2,10 @@
 title: Mankato
 slug: mankato
 description: ""
-date: "2026-04-15T09:21:25.393005"
+date: "2026-04-16T19:22:01.069456"
 draft: false
 sectors:
   - tourism
-  - "public-sector"
 regions:
   - usa
 years:
@@ -66,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://greatermankato.com/visit-mankato](https://greatermankato.com/visit-mankato)
-- [https://www.mankatomn.gov](https://www.mankatomn.gov)
 - [http://www.ci.mankato.mn.us](http://www.ci.mankato.mn.us)
 
 ## Brand Guidelines

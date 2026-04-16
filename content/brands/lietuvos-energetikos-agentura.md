@@ -2,7 +2,7 @@
 title: Lietuvos Energetikos Agentūra
 slug: "lietuvos-energetikos-agentura"
 description: ""
-date: "2026-04-15T09:21:23.568426"
+date: "2026-04-16T19:21:58.862441"
 draft: false
 sectors:
   - "public-sector"

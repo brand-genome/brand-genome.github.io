@@ -2,11 +2,11 @@
 title: NC State University
 slug: "nc-state-university"
 description: ""
-date: "2026-04-15T09:21:24.930795"
+date: "2026-04-16T19:22:00.504723"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ncsu.edu](https://www.ncsu.edu)
 - [https://brand.ncsu.edu](https://brand.ncsu.edu)
 - [https://web.ncsu.edu/brand](https://web.ncsu.edu/brand)
 - [http://www.ncsu.edu](http://www.ncsu.edu)

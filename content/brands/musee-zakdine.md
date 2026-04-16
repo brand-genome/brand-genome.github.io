@@ -2,7 +2,7 @@
 title: Musée Zakdine
 slug: "musee-zakdine"
 description: ""
-date: "2026-04-15T09:21:25.859818"
+date: "2026-04-16T19:22:02.128269"
 draft: false
 sectors:
   - "arts-culture"
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.parismusees.paris.fr/en/musee-zadkine](https://www.parismusees.paris.fr/en/musee-zadkine)
-- [https://www.parismusees.paris.fr/musee-zadkine](https://www.parismusees.paris.fr/musee-zadkine)
 - [https://www.parismuseescollections.paris.fr/fr/le-musee-zadkine](https://www.parismuseescollections.paris.fr/fr/le-musee-zadkine)
 
 ## Brand Guidelines

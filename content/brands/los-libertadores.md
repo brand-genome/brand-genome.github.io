@@ -2,11 +2,11 @@
 title: Los Libertadores
 slug: "los-libertadores"
 description: ""
-date: "2026-04-15T09:21:25.177089"
+date: "2026-04-16T19:22:00.771476"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - colombia
 years:
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ulibertadores.edu.co](https://www.ulibertadores.edu.co)
-- [https://virtualdistancia.libertadores.edu.co](https://virtualdistancia.libertadores.edu.co)
-- [https://www.ulibertadores.edu.co/educacion-virtual-distancia](https://www.ulibertadores.edu.co/educacion-virtual-distancia)
 
 ## Brand Guidelines
 

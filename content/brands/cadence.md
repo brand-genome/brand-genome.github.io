@@ -2,7 +2,7 @@
 title: Cadence
 slug: cadence
 description: ""
-date: "2026-04-15T09:21:23.428875"
+date: "2026-04-16T19:21:58.815213"
 draft: false
 sectors:
   - software
@@ -59,6 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.cadence.com](https://www.cadence.com)

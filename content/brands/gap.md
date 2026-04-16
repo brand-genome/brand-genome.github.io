@@ -2,12 +2,12 @@
 title: Gap
 slug: gap
 description: ""
-date: "2026-04-15T09:21:23.721848"
+date: "2026-04-16T19:21:59.045229"
 draft: false
 sectors:
   - fashion
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -73,6 +73,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gap.com](https://www.gap.com)
+- [https://www.gapinc.com/en-us](https://www.gapinc.com/en-us)
 - [https://www.gapinc.com](https://www.gapinc.com)
 - [https://www.gapfactory.com](https://www.gapfactory.com)
 - [https://www.gapcanada.ca](https://www.gapcanada.ca)

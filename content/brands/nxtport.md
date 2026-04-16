@@ -2,11 +2,11 @@
 title: NxtPort
 slug: nxtport
 description: ""
-date: "2026-04-15T09:21:25.194951"
+date: "2026-04-16T19:22:00.790023"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - software
+  - "logistics-supply-chain"
 regions:
   - belgium
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://nxtport.com](https://nxtport.com)
-- [https://www.nxtport.eu](https://www.nxtport.eu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Buenos Aires Ciudad
 slug: "buenos-aires-ciudad"
 description: ""
-date: "2026-04-15T09:21:24.308039"
+date: "2026-04-16T19:21:59.713416"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://buenosaires.gob.ar](https://buenosaires.gob.ar)
+- [https://buenosaires.gob.ar/inicio](https://buenosaires.gob.ar/inicio)
 
 ## Brand Guidelines
 

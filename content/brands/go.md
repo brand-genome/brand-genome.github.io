@@ -2,7 +2,7 @@
 title: Go
 slug: go
 description: ""
-date: "2026-04-15T09:21:24.086493"
+date: "2026-04-16T19:21:59.413166"
 draft: false
 sectors:
   - software
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://go.dev](https://go.dev)
-- [https://golang.org](https://golang.org)
 
 ## Brand Guidelines
 

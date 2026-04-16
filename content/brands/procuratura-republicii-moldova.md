@@ -2,11 +2,11 @@
 title: Procuratura Republicii Moldova
 slug: "procuratura-republicii-moldova"
 description: ""
-date: "2026-04-15T09:21:22.111859"
+date: "2026-04-16T19:21:57.148530"
 draft: false
 sectors:
-  - "public-sector"
   - "legal-services"
+  - "public-sector"
 regions:
   - moldova
 years:

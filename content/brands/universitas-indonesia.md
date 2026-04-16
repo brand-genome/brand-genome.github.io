@@ -2,12 +2,12 @@
 title: Universitas Indonesia
 slug: "universitas-indonesia"
 description: ""
-date: "2026-04-15T09:21:23.697135"
+date: "2026-04-16T19:21:59.019885"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - indonesia
@@ -33,11 +33,11 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 1950
   - 1849
+  - 1950
 foundation_year_buckets:
-  - 1950S
   - "19TH-CENTURY"
+  - 1950S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -206,7 +206,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [1950](/foundation_dates/1950/); [1849](/foundation_dates/1849/) |
+| Foundation Date | [1849](/foundation_dates/1849/); [1950](/foundation_dates/1950/) |
 | Freebase Id | /m/01zlrv |
 | Coordinate Location | -6.3606229, 106.8272343 |
 | Country | Indonesia |

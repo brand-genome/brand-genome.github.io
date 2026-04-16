@@ -2,11 +2,11 @@
 title: PennyMac
 slug: pennymac
 description: ""
-date: "2026-04-15T09:21:23.713432"
+date: "2026-04-16T19:21:59.036770"
 draft: false
 sectors:
-  - "real-estate"
   - finance
+  - "real-estate"
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "real-estate"
   - financial
+  - "real-estate"
 industries:
   - "mortgage-loan"
 countries: []
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 - [https://www.pennymac.com](https://www.pennymac.com)
 - [https://www.pennymac.com/my-account](https://www.pennymac.com/my-account)
 - [https://pfsi.pennymac.com/home/default.aspx](https://pfsi.pennymac.com/home/default.aspx)
-- [https://pmt.pennymac.com](https://pmt.pennymac.com)
 - [http://www.pennymacusa.com](http://www.pennymacusa.com)
 
 ## Brand Guidelines

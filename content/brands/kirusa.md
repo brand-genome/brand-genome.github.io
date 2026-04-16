@@ -2,7 +2,7 @@
 title: Kirusa
 slug: kirusa
 description: ""
-date: "2026-04-15T09:21:25.345002"
+date: "2026-04-16T19:22:01.012332"
 draft: false
 sectors:
   - software

@@ -2,11 +2,10 @@
 title: Givergy
 slug: givergy
 description: ""
-date: "2026-04-15T09:21:25.668787"
+date: "2026-04-16T19:22:01.707359"
 draft: false
 sectors:
   - software
-  - ngo
 regions:
   - usa
 years:
@@ -62,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.givergy.com](https://www.givergy.com)
 - [https://www.givergy.com/us](https://www.givergy.com/us)
 
 ## Brand Guidelines

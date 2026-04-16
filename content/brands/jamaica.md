@@ -2,7 +2,7 @@
 title: Jamaica
 slug: jamaica
 description: ""
-date: "2026-04-15T09:21:25.189430"
+date: "2026-04-16T19:22:00.784621"
 draft: false
 sectors:
   - tourism
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.visitjamaica.com](https://www.visitjamaica.com)
-- [https://www.jtbonline.org](https://www.jtbonline.org)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: AOL
 slug: aol
 description: ""
-date: "2026-04-15T09:21:24.587464"
+date: "2026-04-16T19:22:00.150987"
 draft: false
 sectors:
   - software
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries:
   - "software-industry"
-  - "media-industry"
-  - "technology-industry"
   - "mass-media"
+  - "technology-industry"
+  - "media-industry"
   - "internet-industry"
 countries:
   - "united-states"
@@ -39,8 +39,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1983
   - 1985
+  - 1983
 foundation_year_buckets:
   - 1980S
 lightings: []
@@ -456,7 +456,7 @@ visual_term_image_urls: {}
 |----------|-------|
 | Product Or Material Produced | [Software](/products_or_materials_produced/software/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1983](/foundation_dates/1983/); [1985](/foundation_dates/1985/) |
+| Foundation Date | [1985](/foundation_dates/1985/); [1983](/foundation_dates/1983/) |
 | Topic'S Main Category | Category:AOL |
 | Freebase Id | /m/0plw |
 | Headquarters Location | New York City |

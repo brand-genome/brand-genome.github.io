@@ -2,11 +2,11 @@
 title: Università degli Studi di Trieste
 slug: "universita-degli-studi-di-trieste"
 description: ""
-date: "2026-04-15T09:21:23.695042"
+date: "2026-04-16T19:21:59.017707"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,9 +63,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.units.it](https://www.units.it)
+- [https://portale.units.it:443/it](https://portale.units.it:443/it)
 - [https://corsi.units.it](https://corsi.units.it)
-- [https://www.cus.units.it](https://www.cus.units.it)
 
 ## Brand Guidelines
 

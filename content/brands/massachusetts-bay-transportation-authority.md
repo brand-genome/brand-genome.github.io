@@ -2,7 +2,7 @@
 title: Massachusetts Bay Transportation Authority
 slug: "massachusetts-bay-transportation-authority"
 description: ""
-date: "2026-04-15T09:21:23.407538"
+date: "2026-04-16T19:21:58.798849"
 draft: false
 sectors:
   - "public-sector"
@@ -67,10 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mbta.com](https://www.mbta.com)
-- [https://www.mbta.com/fares/the-ride](https://www.mbta.com/fares/the-ride)
 - [https://www.mbta.com/schedules/commuter-rail](https://www.mbta.com/schedules/commuter-rail)
-- [https://www.mbta.com/ferries](https://www.mbta.com/ferries)
-- [https://www.mass.gov/orgs/massachusetts-bay-transportation-authority](https://www.mass.gov/orgs/massachusetts-bay-transportation-authority)
 - [http://www.mbta.com](http://www.mbta.com)
 
 ## Brand Guidelines

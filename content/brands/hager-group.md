@@ -2,11 +2,11 @@
 title: Hager Group
 slug: "hager-group"
 description: ""
-date: "2026-04-15T09:21:24.086082"
+date: "2026-04-16T19:21:59.412624"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - germany
 years:
@@ -67,10 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hagergroup.com](https://hagergroup.com)
+- [https://hagergroup.com/en](https://hagergroup.com/en)
 - [https://hagergroup.com/en/about-us](https://hagergroup.com/en/about-us)
-- [https://hagergroup.com/en/products-websites](https://hagergroup.com/en/products-websites)
-- [https://www.berker.com](https://www.berker.com)
+- [https://hager.com](https://hager.com)
 - [http://www.hagergroup.com](http://www.hagergroup.com)
 - [http://hagergroup.com](http://hagergroup.com)
 

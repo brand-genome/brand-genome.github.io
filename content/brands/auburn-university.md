@@ -2,7 +2,7 @@
 title: Auburn University
 slug: "auburn-university"
 description: ""
-date: "2026-04-15T09:21:25.672862"
+date: "2026-04-16T19:22:01.714849"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://auburn.edu](https://auburn.edu)
-- [https://ocm.auburn.edu/styleguide](https://ocm.auburn.edu/styleguide)
 
 ## Brand Guidelines
 

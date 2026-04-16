@@ -2,11 +2,11 @@
 title: China National Desert Park
 slug: "china-national-desert-park"
 description: ""
-date: "2026-04-15T09:21:24.216825"
+date: "2026-04-16T19:21:59.586009"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - china
 years:

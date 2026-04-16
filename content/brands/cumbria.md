@@ -2,7 +2,7 @@
 title: Cumbria
 slug: cumbria
 description: ""
-date: "2026-04-15T09:21:24.541240"
+date: "2026-04-16T19:22:00.114144"
 draft: false
 sectors:
   - tourism
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.cumbriatourism.org](https://www.cumbriatourism.org)
 - [https://www.cumbriatourism.org/brands/visit-lake-district](https://www.cumbriatourism.org/brands/visit-lake-district)
 - [https://www.cumbriatourism.org/brands](https://www.cumbriatourism.org/brands)
-- [https://www.mycumbriacard.co.uk](https://www.mycumbriacard.co.uk)
 
 ## Brand Guidelines
 

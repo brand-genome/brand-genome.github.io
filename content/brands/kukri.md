@@ -2,7 +2,7 @@
 title: Kukri
 slug: kukri
 description: ""
-date: "2026-04-15T09:21:22.043460"
+date: "2026-04-16T19:21:57.091025"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kukrisports.com/uk](https://www.kukrisports.com/uk)
+- [https://www.kukrisports.com/uk/home](https://www.kukrisports.com/uk/home)
 - [https://www.kukrisports.fr](https://www.kukrisports.fr)
 - [http://www.kukrisports.com](http://www.kukrisports.com)
 - [https://www.kukrisports.co.uk](https://www.kukrisports.co.uk)

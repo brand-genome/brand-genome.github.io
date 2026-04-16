@@ -2,11 +2,11 @@
 title: Logan
 slug: logan
 description: ""
-date: "2026-04-15T09:21:25.651533"
+date: "2026-04-16T19:22:01.669473"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: ACTVET
 slug: actvet
 description: ""
-date: "2026-04-15T09:21:24.002637"
+date: "2026-04-16T19:21:59.311447"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.actvet.gov.ae](https://www.actvet.gov.ae)
+- [https://www.actvet.gov.ae/en/Pages/default.aspx](https://www.actvet.gov.ae/en/Pages/default.aspx)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Massachusetts College
 slug: "massachusetts-college"
 description: ""
-date: "2026-04-15T09:21:24.247070"
+date: "2026-04-16T19:21:59.644540"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://massart.edu](https://massart.edu)
-- [https://www.massart.edu](https://www.massart.edu)
 - [http://www.massart.edu](http://www.massart.edu)
 
 ## Brand Guidelines

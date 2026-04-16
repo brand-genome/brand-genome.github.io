@@ -2,7 +2,7 @@
 title: Yudist Ardhana
 slug: "yudist-ardhana"
 description: ""
-date: "2026-04-15T09:21:23.402640"
+date: "2026-04-16T19:21:58.793510"
 draft: false
 sectors:
   - entertainment

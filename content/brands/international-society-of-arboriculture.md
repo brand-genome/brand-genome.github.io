@@ -2,11 +2,11 @@
 title: International Society of Arboriculture
 slug: "international-society-of-arboriculture"
 description: ""
-date: "2026-04-15T09:21:25.852410"
+date: "2026-04-16T19:22:02.118175"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.isa-arbor.com](https://www.isa-arbor.com)
-- [https://www.treesaregood.org](https://www.treesaregood.org)
 - [https://joa.isa-arbor.com](https://joa.isa-arbor.com)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: World Bank Group
 slug: "world-bank-group"
 description: ""
-date: "2026-04-15T09:21:25.769405"
+date: "2026-04-16T19:22:01.960756"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - international
 years:
@@ -67,12 +67,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.worldbank.org](https://www.worldbank.org)
+- [https://www.worldbank.org/ext/en/home](https://www.worldbank.org/ext/en/home)
 - [https://www.worldbank.org/en/who-we-are/ibrd](https://www.worldbank.org/en/who-we-are/ibrd)
-- [https://ida.worldbank.org](https://ida.worldbank.org)
-- [https://www.ifc.org](https://www.ifc.org)
+- [https://ida.worldbank.org/en/home](https://ida.worldbank.org/en/home)
+- [https://www.ifc.org/en/home](https://www.ifc.org/en/home)
 - [https://www.miga.org](https://www.miga.org)
 - [https://icsid.worldbank.org](https://icsid.worldbank.org)
+- [https://www.worldbank.org](https://www.worldbank.org)
 - [https://www.banquemondiale.org](https://www.banquemondiale.org)
 - [https://www.albankaldawli.org](https://www.albankaldawli.org)
 - [https://www.vsemirnyjbank.org](https://www.vsemirnyjbank.org)

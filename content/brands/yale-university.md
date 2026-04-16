@@ -2,12 +2,12 @@
 title: Yale University
 slug: "yale-university"
 description: ""
-date: "2026-04-15T09:21:24.319836"
+date: "2026-04-16T19:21:59.728666"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

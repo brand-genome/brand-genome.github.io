@@ -2,7 +2,7 @@
 title: Symphonic
 slug: symphonic
 description: ""
-date: "2026-04-15T09:21:25.425352"
+date: "2026-04-16T19:22:01.109392"
 draft: false
 sectors:
   - entertainment

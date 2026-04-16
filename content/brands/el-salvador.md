@@ -2,7 +2,7 @@
 title: El Salvador
 slug: "el-salvador"
 description: ""
-date: "2026-04-15T09:21:24.078997"
+date: "2026-04-16T19:21:59.402750"
 draft: false
 sectors:
   - tourism
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://elsalvador.travel](https://elsalvador.travel)
+- [https://elsalvador.travel/esp](https://elsalvador.travel/esp)
 - [https://www.mitur.gob.sv/servicios/marca-el-salvador](https://www.mitur.gob.sv/servicios/marca-el-salvador)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Lih Ming
 slug: "lih-ming"
 description: ""
-date: "2026-04-15T09:21:23.764240"
+date: "2026-04-16T19:21:59.091504"
 draft: false
 sectors:
   - utilities

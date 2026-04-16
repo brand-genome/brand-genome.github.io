@@ -2,11 +2,11 @@
 title: Bucks New University
 slug: "bucks-new-university"
 description: ""
-date: "2026-04-15T09:21:24.560367"
+date: "2026-04-16T19:22:00.129324"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

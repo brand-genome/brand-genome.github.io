@@ -2,7 +2,7 @@
 title: Mennonite Church USA
 slug: "mennonite-church-usa"
 description: ""
-date: "2026-04-15T09:21:23.736325"
+date: "2026-04-16T19:21:59.061637"
 draft: false
 sectors:
   - ngo
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.mennoniteusa.org](https://www.mennoniteusa.org)
-
 ## Brand Guidelines
 
 ### 2005

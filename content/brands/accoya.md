@@ -2,7 +2,7 @@
 title: Accoya
 slug: accoya
 description: ""
-date: "2026-04-15T09:21:24.619383"
+date: "2026-04-16T19:22:00.189073"
 draft: false
 sectors:
   - construction
@@ -61,9 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.accoya.com](https://www.accoya.com)
-- [https://www.accoya.com/uk](https://www.accoya.com/uk)
-- [https://www.accoya.com/accoya-usa](https://www.accoya.com/accoya-usa)
 - [https://www.accsysplc.com](https://www.accsysplc.com)
 
 ## Brand Guidelines

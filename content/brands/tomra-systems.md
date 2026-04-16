@@ -2,10 +2,9 @@
 title: Tomra Systems
 slug: "tomra-systems"
 description: ""
-date: "2026-04-15T09:21:25.193870"
+date: "2026-04-16T19:22:00.788937"
 draft: false
 sectors:
-  - "renewable-energy"
   - software
   - hardware
 regions:
@@ -15,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - environment
+  - technology
 industries:
   - "reverse-vending-machine"
 countries:
@@ -70,11 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tomra.com](https://www.tomra.com)
-- [https://www.tomra.com/reverse-vending](https://www.tomra.com/reverse-vending)
-- [https://www.tomra.com/food](https://www.tomra.com/food)
-- [https://www.tomra.com/waste-metal-recycling](https://www.tomra.com/waste-metal-recycling)
-- [https://www.tomra.com/mining](https://www.tomra.com/mining)
 - [https://tomra.com](https://tomra.com)
 
 ## Brand Guidelines

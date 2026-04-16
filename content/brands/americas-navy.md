@@ -2,11 +2,11 @@
 title: America’s NAVY
 slug: "americas-navy"
 description: ""
-date: "2026-04-15T09:21:24.314840"
+date: "2026-04-16T19:21:59.723145"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
 regions:
   - usa
 years:
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.navy.com](https://www.navy.com)
-- [https://aws.navy.com](https://aws.navy.com)
-
 ## Brand Guidelines
 
 ### 2019

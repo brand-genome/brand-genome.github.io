@@ -2,7 +2,7 @@
 title: Volkswagen Internet Marketing
 slug: "volkswagen-internet-marketing"
 description: ""
-date: "2026-04-15T09:21:24.221119"
+date: "2026-04-16T19:21:59.590149"
 draft: false
 sectors:
   - automobile
@@ -61,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.volkswagen.com](https://www.volkswagen.com)
-- [https://www.volkswagen.de](https://www.volkswagen.de)
+- [https://www.volkswagen.co.in/en.html](https://www.volkswagen.co.in/en.html)
+- [https://www.volkswagen.de/de.html](https://www.volkswagen.de/de.html)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Petit c Paris
 slug: "petit-c-paris"
 description: ""
-date: "2026-04-15T09:21:25.688270"
+date: "2026-04-16T19:22:01.768176"
 draft: false
 sectors:
   - food
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.petit-c-paris.com](http://www.petit-c-paris.com)
-- [https://www.petit-c-paris.com](https://www.petit-c-paris.com)
-
 ## Brand Guidelines
 
 ### 2016

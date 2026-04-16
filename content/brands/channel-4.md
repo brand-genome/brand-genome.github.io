@@ -2,7 +2,7 @@
 title: Channel 4
 slug: "channel-4"
 description: ""
-date: "2026-04-15T09:21:22.334143"
+date: "2026-04-16T19:21:57.440057"
 draft: false
 sectors:
   - broadcasting
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - media
+  - broadcast
 industries:
   - television
 countries:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.channel4.com](https://www.channel4.com)
 - [http://www.channel4.com](http://www.channel4.com)
 
 ## Brand Guidelines

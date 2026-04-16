@@ -2,11 +2,11 @@
 title: Mental Health Research UK
 slug: "mental-health-research-uk"
 description: ""
-date: "2026-04-15T09:21:23.119260"
+date: "2026-04-16T19:21:58.526725"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - health
+  - featured
 industries: []
 countries:
   - "united-kingdom"

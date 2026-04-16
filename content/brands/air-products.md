@@ -2,11 +2,11 @@
 title: Air Products
 slug: "air-products"
 description: ""
-date: "2026-04-15T09:21:22.093021"
+date: "2026-04-16T19:21:57.132515"
 draft: false
 sectors:
-  - gas
   - "manufacturing-industry"
+  - gas
 regions:
   - usa
 years:
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.airproducts.com](https://www.airproducts.com)
-- [https://investors.airproducts.com](https://investors.airproducts.com)
 - [http://www.airproducts.com/identity](http://www.airproducts.com/identity)
 - [http://www.airproducts.be](http://www.airproducts.be)
 

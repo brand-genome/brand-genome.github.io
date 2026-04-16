@@ -2,11 +2,11 @@
 title: UNDP
 slug: undp
 description: ""
-date: "2026-04-15T09:21:25.871571"
+date: "2026-04-16T19:22:02.141188"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.undp.org](https://www.undp.org)
-- [https://popp.undp.org](https://popp.undp.org)
 - [https://strategicplan.undp.org](https://strategicplan.undp.org)
 
 ## Brand Guidelines

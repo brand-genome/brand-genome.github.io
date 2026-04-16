@@ -2,11 +2,11 @@
 title: Tampere Finland
 slug: "tampere-finland"
 description: ""
-date: "2026-04-15T09:21:24.911762"
+date: "2026-04-16T19:22:00.482545"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - finland
 years:

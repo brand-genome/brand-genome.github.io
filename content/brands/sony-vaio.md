@@ -2,11 +2,11 @@
 title: Sony Vaio
 slug: "sony-vaio"
 description: ""
-date: "2026-04-15T09:21:25.782544"
+date: "2026-04-16T19:22:01.981475"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - japan
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - corporate
 industries:
-  - smartphone
   - laptop
+  - smartphone
 countries:
   - japan
 revenue_buckets: []
@@ -71,16 +71,15 @@ visual_term_image_urls: {}
 
 - [https://vaio.com](https://vaio.com)
 - [https://us.vaio.com](https://us.vaio.com)
-- [https://hk.vaio.com](https://hk.vaio.com)
-- [https://tw.vaio.com](https://tw.vaio.com)
-- [https://sg.vaio.com](https://sg.vaio.com)
-- [https://my.vaio.com](https://my.vaio.com)
-- [https://www.vaio-china.com](https://www.vaio-china.com)
+- [https://hk.vaio.com/en](https://hk.vaio.com/en)
+- [https://www.tw.vaio.com](https://www.tw.vaio.com)
+- [https://www.vaio.com.sg](https://www.vaio.com.sg)
+- [https://my.vaio.com/en](https://my.vaio.com/en)
 - [https://ar.vaio.com](https://ar.vaio.com)
-- [https://br.vaio.com](https://br.vaio.com)
+- [https://www.br.vaio.com](https://www.br.vaio.com)
 - [https://cl.vaio.com](https://cl.vaio.com)
-- [https://in.vaio.com](https://in.vaio.com)
-- [https://mea.vaio.com](https://mea.vaio.com)
+- [https://in.vaio.com/en](https://in.vaio.com/en)
+- [https://mea.vaio.com/en](https://mea.vaio.com/en)
 - [https://mx.vaio.com](https://mx.vaio.com)
 - [https://uy.vaio.com](https://uy.vaio.com)
 - [https://support.vaio.com/global](https://support.vaio.com/global)

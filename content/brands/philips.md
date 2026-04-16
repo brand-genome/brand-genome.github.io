@@ -2,11 +2,11 @@
 title: Philips
 slug: philips
 description: ""
-date: "2026-04-15T09:21:25.767131"
+date: "2026-04-16T19:22:01.956034"
 draft: false
 sectors:
-  - electronics
   - healthcare
+  - electronics
 regions:
   - netherlands
 years:
@@ -16,9 +16,9 @@ languages:
 tags:
   - corporate
 industries:
+  - "electrical-industry"
   - "consumer-electronics-industry"
   - "electronics-industry"
-  - "electrical-industry"
 countries:
   - netherlands
 revenue_buckets:
@@ -80,7 +80,7 @@ visual_term_image_urls: {}
 
 - [https://www.philips.com](https://www.philips.com)
 - [https://www.philips.com/a-w/about/our-brand](https://www.philips.com/a-w/about/our-brand)
-- [https://www.ourbrand.philips.com](https://www.ourbrand.philips.com)
+- [https://www.ourbrand.philips.com/login](https://www.ourbrand.philips.com/login)
 - [https://philips.com](https://philips.com)
 - [https://usa.philips.com](https://usa.philips.com)
 - [https://philips.ca](https://philips.ca)

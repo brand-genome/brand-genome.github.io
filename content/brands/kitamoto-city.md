@@ -2,11 +2,11 @@
 title: Kitamoto City
 slug: "kitamoto-city"
 description: ""
-date: "2026-04-15T09:21:23.566626"
+date: "2026-04-16T19:21:58.860549"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - japan
 years:

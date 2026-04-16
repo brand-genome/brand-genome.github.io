@@ -2,11 +2,11 @@
 title: Pioneers Athletics
 slug: "pioneers-athletics"
 description: ""
-date: "2026-04-15T09:21:24.243182"
+date: "2026-04-16T19:21:59.619886"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://northlandpioneers.com](https://northlandpioneers.com)
-- [https://www.northlandcollege.edu](https://www.northlandcollege.edu)
 
 ## Brand Guidelines
 

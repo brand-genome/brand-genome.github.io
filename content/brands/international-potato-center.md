@@ -2,11 +2,11 @@
 title: International Potato Center
 slug: "international-potato-center"
 description: ""
-date: "2026-04-15T09:21:25.430969"
+date: "2026-04-16T19:22:01.115837"
 draft: false
 sectors:
-  - research
   - horticulture
+  - research
 regions:
   - usa
 years:

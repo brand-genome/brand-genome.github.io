@@ -2,12 +2,12 @@
 title: PUCP
 slug: pucp
 description: ""
-date: "2026-04-15T09:21:23.872138"
+date: "2026-04-16T19:21:59.197931"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - peru
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - spanish
 tags:
-  - community
   - education
+  - community
 industries: []
 countries:
   - peru

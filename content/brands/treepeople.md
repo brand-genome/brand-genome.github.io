@@ -2,15 +2,15 @@
 title: TreePeople
 slug: treepeople
 description: ""
-date: "2026-04-15T09:21:22.540744"
+date: "2026-04-16T19:21:57.886252"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
   - english
 tags:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://treepeople.org](https://treepeople.org)
-- [https://helpdesk.treepeople.org](https://helpdesk.treepeople.org)
 - [http://www.treepeople.org](http://www.treepeople.org)
 
 ## Brand Guidelines

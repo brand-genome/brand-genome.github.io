@@ -2,12 +2,12 @@
 title: Collège de France
 slug: "college-de-france"
 description: ""
-date: "2026-04-15T09:21:22.548611"
+date: "2026-04-16T19:21:57.893627"
 draft: false
 sectors:
+  - publishing
   - university
   - research
-  - publishing
 regions:
   - france
 years:
@@ -63,6 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.college-de-france.fr](https://www.college-de-france.fr)
+- [https://www.college-de-france.fr/fr](https://www.college-de-france.fr/fr)
 - [https://www.college-de-france.fr/en](https://www.college-de-france.fr/en)
 - [https://www.college-de-france.fr/fr/editions-du-college-de-france](https://www.college-de-france.fr/fr/editions-du-college-de-france)

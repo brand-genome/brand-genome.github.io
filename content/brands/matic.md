@@ -2,7 +2,7 @@
 title: Matic
 slug: matic
 description: ""
-date: "2026-04-15T09:21:24.553872"
+date: "2026-04-16T19:22:00.125527"
 draft: false
 sectors:
   - insurance

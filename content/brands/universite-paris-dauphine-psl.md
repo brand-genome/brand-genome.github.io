@@ -2,12 +2,12 @@
 title: Université Paris Dauphine PSL
 slug: "universite-paris-dauphine-psl"
 description: ""
-date: "2026-04-15T09:21:22.423539"
+date: "2026-04-16T19:21:57.702983"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - france
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - french
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 
 - [https://dauphine.psl.eu](https://dauphine.psl.eu)
 - [https://london.dauphine.psl.eu](https://london.dauphine.psl.eu)
-- [https://dauphine.psl.eu/alumni](https://dauphine.psl.eu/alumni)
+- [https://dauphine.psl.eu/dauphine-alumni](https://dauphine.psl.eu/dauphine-alumni)
 - [https://www.dauphine-alumni.org/fr](https://www.dauphine-alumni.org/fr)
 - [https://www.dauphinefoundation.com](https://www.dauphinefoundation.com)
 

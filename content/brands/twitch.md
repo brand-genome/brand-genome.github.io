@@ -2,23 +2,23 @@
 title: Twitch
 slug: twitch
 description: ""
-date: "2026-04-15T09:21:24.162316"
+date: "2026-04-16T19:21:59.494041"
 draft: false
 sectors:
+  - entertainment
   - "social-media"
   - broadcasting
-  - entertainment
 regions:
   - usa
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
-  - broadcast
   - featured
   - entertainment
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []

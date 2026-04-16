@@ -2,7 +2,7 @@
 title: Mokulele Airlines
 slug: "mokulele-airlines"
 description: ""
-date: "2026-04-15T09:21:24.195158"
+date: "2026-04-16T19:21:59.550248"
 draft: false
 sectors:
   - airline
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://mokuleleairlines.com](https://mokuleleairlines.com)
+- [https://www.mokuleleairlines.com](https://www.mokuleleairlines.com)
 - [http://www.mokuleleairlines.com](http://www.mokuleleairlines.com)
 
 ## Brand Guidelines

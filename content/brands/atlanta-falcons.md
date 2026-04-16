@@ -2,7 +2,7 @@
 title: Atlanta Falcons
 slug: "atlanta-falcons"
 description: ""
-date: "2026-04-15T09:21:23.814514"
+date: "2026-04-16T19:21:59.142066"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "flowery-branch"
   - atlanta
+  - "flowery-branch"
 subsidiaries: []
 foundation_dates:
   - 1966
@@ -85,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Flowery Branch](/headquarters_locations/flowery-branch/); [Atlanta](/headquarters_locations/atlanta/) |
+| Headquarters Location | [Atlanta](/headquarters_locations/atlanta/); [Flowery Branch](/headquarters_locations/flowery-branch/) |
 | Foundation Date | [1966](/foundation_dates/1966/) |
 | Home Venue | Georgia Dome (from 1992, until 2016), Mercedes-Benz Stadium (from 2017) |
 | Country | United States |

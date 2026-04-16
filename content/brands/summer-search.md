@@ -2,11 +2,11 @@
 title: Summer Search
 slug: "summer-search"
 description: ""
-date: "2026-04-15T09:21:25.392760"
+date: "2026-04-16T19:22:01.069175"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

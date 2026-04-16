@@ -2,11 +2,11 @@
 title: Crosscall
 slug: crosscall
 description: ""
-date: "2026-04-15T09:21:23.479543"
+date: "2026-04-16T19:21:58.854245"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - france
 years:
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - smartphone
   - "mobile-phone"
+  - smartphone
 products: []
 headquarters_locations:
   - "aix-en-provence"
@@ -373,7 +373,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Smartphone](/products_or_materials_produced/smartphone/); [Mobile Phone](/products_or_materials_produced/mobile-phone/) |
+| Product Or Material Produced | [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Smartphone](/products_or_materials_produced/smartphone/) |
 | Headquarters Location | [Aix En Provence](/headquarters_locations/aix-en-provence/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Member Of | Wi-Fi Alliance |

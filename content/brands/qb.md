@@ -2,7 +2,7 @@
 title: QB
 slug: qb
 description: ""
-date: "2026-04-15T09:21:25.646923"
+date: "2026-04-16T19:22:01.658770"
 draft: false
 sectors:
   - construction
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cstb.fr/nos-offres/activites-cstb/la-certification](https://www.cstb.fr/nos-offres/activites-cstb/la-certification)
+- [https://www.cstb.fr/nos-offres/activites/certification](https://www.cstb.fr/nos-offres/activites/certification)
 - [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-wallpec-carreaux-ceramiques-revetements-muraux)
 - [https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes](https://www.cstb.fr/nos-offres/toutes-nos-offres/certification-qb-murs-maconnerie-elements-connexes)
 - [http://evaluation.cstb.fr](http://evaluation.cstb.fr)

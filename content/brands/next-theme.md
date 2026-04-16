@@ -2,12 +2,12 @@
 title: Next Theme
 slug: "next-theme"
 description: ""
-date: "2026-04-15T09:21:23.982201"
+date: "2026-04-16T19:21:59.291518"
 draft: false
 sectors:
   - "marketing-advertising"
-  - "design-creative"
   - software
+  - "design-creative"
 regions:
   - "united-kingdom"
 years:

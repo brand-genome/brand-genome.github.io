@@ -2,7 +2,7 @@
 title: Départements de France
 slug: "departements-de-france"
 description: ""
-date: "2026-04-15T09:21:24.307933"
+date: "2026-04-16T19:21:59.713289"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.departements.fr](https://www.departements.fr)
+- [https://departements.fr](https://departements.fr)
 - [http://www.departements.fr](http://www.departements.fr)
 
 ## Brand Guidelines

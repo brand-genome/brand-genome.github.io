@@ -2,7 +2,7 @@
 title: Anvil by Gildan
 slug: "anvil-by-gildan"
 description: ""
-date: "2026-04-15T09:21:23.809906"
+date: "2026-04-16T19:21:59.138396"
 draft: false
 sectors:
   - fashion
@@ -60,12 +60,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.gildan.com](https://www.gildan.com)
-- [https://gildanbrands.com/jp](https://gildanbrands.com/jp)
-- [https://anvil.eu](https://anvil.eu)
-- [https://anvilknitwear.com](https://anvilknitwear.com)
-- [https://anvilknitwear.ca](https://anvilknitwear.ca)
-- [https://anvilknitwear.com.au](https://anvilknitwear.com.au)
-- [https://anvilclothing.co.nz](https://anvilclothing.co.nz)

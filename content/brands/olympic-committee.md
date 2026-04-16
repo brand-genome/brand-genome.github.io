@@ -2,11 +2,11 @@
 title: Olympic Committee
 slug: "olympic-committee"
 description: ""
-date: "2026-04-15T09:21:24.213011"
+date: "2026-04-16T19:21:59.581186"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - international
 years:
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://olympics.com/ioc](https://olympics.com/ioc)
-- [https://olympics.com](https://olympics.com)
-
 ## Brand Guidelines
 
 ### 2013

@@ -2,9 +2,10 @@
 title: Stockholm Environment Institute
 slug: "stockholm-environment-institute"
 description: ""
-date: "2026-04-15T09:21:22.123983"
+date: "2026-04-16T19:21:57.159454"
 draft: false
 sectors:
+  - ngo
   - research
 regions:
   - sweden

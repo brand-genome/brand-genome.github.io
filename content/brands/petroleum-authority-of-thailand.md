@@ -2,12 +2,12 @@
 title: Petroleum Authority of Thailand
 slug: "petroleum-authority-of-thailand"
 description: ""
-date: "2026-04-15T09:21:24.015055"
+date: "2026-04-16T19:21:59.327909"
 draft: false
 sectors:
-  - gas
-  - petroleum
   - oil
+  - petroleum
+  - gas
 regions:
   - thailand
 years:
@@ -70,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pttplc.com/en](https://www.pttplc.com/en)
-- [https://www.pttplc.com/en/Home.aspx](https://www.pttplc.com/en/Home.aspx)
+- [https://pds-cwaf.pttdigital.com/pds-cwaf.html?_event_transid=650471386](https://pds-cwaf.pttdigital.com/pds-cwaf.html?_event_transid=650471386)
+- [https://validate.perfdrive.com/a0ae6b42c6412974c8bd6347ddc00fac?ssa=be6643ec-59b0-4214-8423-4b05f03b4245&ssb=83167260710&ssc=https%3A%2F%2Fwww.pttplc.com%2Fen%2FHome.aspx&ssi=d23dc0f1-da6i-42f1-92cf-70c7b9fcb1a4&ssk=botmanager_support@radware.com&ssm=80401067099463131103565393828664&ssn=a9d97e4be635d1ae0f156105271eff9450c1ca7c4782-00e5-4e81-bece17&sso=d0508892-d6f5ae0a7e37951c24a086d2c59bb5b54fc53bdd4912f0aa&ssp=04539722631772115815177210164887192&ssq=78598585869176772793358691189504908419751&ssr=MTAzLjI1LjIzMS4yNTI=&sst=Mozilla/5.0%20(BrandIdentityBot/2.0)&ssu=&ssv=&ssw=&ssx=eyJyZCI6InB0dHBsYy5jb20iLCJfX3V6bWYiOiI3ZjkwMDBjYTdjNDc4Mi0wMGU1LTRlODEtYjg5Mi1kNmY1YWUwYTdlMzcxLTE3NzIxNTg2OTE4MjgwLTAwMmE0Y2RhODRiOWQ1OGViOTIxMCIsInV6bXgiOiI3ZjkwMDA1MTA0NjcxMS0xY2Q3LTQ1ZjgtOGMxMC03YzA2ZmY3Mjk3ZjExLTE3NzIxNTg2OTE4MjgwLWQ4NTFhMTk3NzVmOTk4NTAxMCJ9](https://validate.perfdrive.com/a0ae6b42c6412974c8bd6347ddc00fac?ssa=be6643ec-59b0-4214-8423-4b05f03b4245&ssb=83167260710&ssc=https%3A%2F%2Fwww.pttplc.com%2Fen%2FHome.aspx&ssi=d23dc0f1-da6i-42f1-92cf-70c7b9fcb1a4&ssk=botmanager_support@radware.com&ssm=80401067099463131103565393828664&ssn=a9d97e4be635d1ae0f156105271eff9450c1ca7c4782-00e5-4e81-bece17&sso=d0508892-d6f5ae0a7e37951c24a086d2c59bb5b54fc53bdd4912f0aa&ssp=04539722631772115815177210164887192&ssq=78598585869176772793358691189504908419751&ssr=MTAzLjI1LjIzMS4yNTI=&sst=Mozilla/5.0%20(BrandIdentityBot/2.0)&ssu=&ssv=&ssw=&ssx=eyJyZCI6InB0dHBsYy5jb20iLCJfX3V6bWYiOiI3ZjkwMDBjYTdjNDc4Mi0wMGU1LTRlODEtYjg5Mi1kNmY1YWUwYTdlMzcxLTE3NzIxNTg2OTE4MjgwLTAwMmE0Y2RhODRiOWQ1OGViOTIxMCIsInV6bXgiOiI3ZjkwMDA1MTA0NjcxMS0xY2Q3LTQ1ZjgtOGMxMC03YzA2ZmY3Mjk3ZjExLTE3NzIxNTg2OTE4MjgwLWQ4NTFhMTk3NzVmOTk4NTAxMCJ9)
 - [http://www.pttplc.com](http://www.pttplc.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Gobierno de la Ciudad de México
 slug: "gobierno-de-la-ciudad-de-mexico"
 description: ""
-date: "2026-04-15T09:21:22.290594"
+date: "2026-04-16T19:21:57.328690"
 draft: false
 sectors:
   - "public-sector"
@@ -60,8 +60,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://gobierno.cdmx.gob.mx](https://gobierno.cdmx.gob.mx)
-- [https://www.cdmx.gob.mx](https://www.cdmx.gob.mx)
-- [https://www.jefaturadegobierno.cdmx.gob.mx](https://www.jefaturadegobierno.cdmx.gob.mx)

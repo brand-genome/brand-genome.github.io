@@ -2,7 +2,7 @@
 title: NAHB
 slug: nahb
 description: ""
-date: "2026-04-15T09:21:25.031192"
+date: "2026-04-16T19:22:00.617240"
 draft: false
 sectors:
   - "real-estate"

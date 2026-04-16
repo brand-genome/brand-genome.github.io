@@ -2,7 +2,7 @@
 title: euskadi.eus
 slug: euskadieus
 description: ""
-date: "2026-04-15T09:21:24.209044"
+date: "2026-04-16T19:21:59.575690"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.euskadi.eus](https://www.euskadi.eus)
+- [https://www.euskadi.eus/hasiera](https://www.euskadi.eus/hasiera)
 
 ## Brand Guidelines
 

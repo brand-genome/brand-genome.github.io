@@ -2,7 +2,7 @@
 title: Exotismes
 slug: exotismes
 description: ""
-date: "2026-04-15T09:21:25.386365"
+date: "2026-04-16T19:22:01.057231"
 draft: false
 sectors:
   - tourism

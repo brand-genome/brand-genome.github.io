@@ -2,7 +2,7 @@
 title: United Nations Global Compact
 slug: "united-nations-global-compact"
 description: ""
-date: "2026-04-15T09:21:25.679457"
+date: "2026-04-16T19:22:01.744595"
 draft: false
 sectors:
   - ngo
@@ -63,6 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://unglobalcompact.org](https://unglobalcompact.org)
 - [https://www.unglobalcompact.org](https://www.unglobalcompact.org)
 
 ## Additional Properties

@@ -2,7 +2,7 @@
 title: NPR
 slug: npr
 description: ""
-date: "2026-04-15T09:21:25.400812"
+date: "2026-04-16T19:22:01.082137"
 draft: false
 sectors:
   - broadcasting
@@ -68,9 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.npr.org](https://www.npr.org)
-- [https://www.npr.org/about](https://www.npr.org/about)
 - [http://www.npr.org](http://www.npr.org)
+- [https://www.npr.org](https://www.npr.org)
 
 ## Brand Guidelines
 

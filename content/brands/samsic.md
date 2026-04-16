@@ -2,11 +2,11 @@
 title: Samsic
 slug: samsic
 description: ""
-date: "2026-04-15T09:21:25.708615"
+date: "2026-04-16T19:22:01.826971"
 draft: false
 sectors:
-  - "cleaning-facility-services"
   - "staffing-recruitment"
+  - "cleaning-facility-services"
 regions:
   - france
 years:

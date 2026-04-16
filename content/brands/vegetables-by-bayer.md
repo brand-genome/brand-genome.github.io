@@ -2,7 +2,7 @@
 title: Vegetables by Bayer
 slug: "vegetables-by-bayer"
 description: ""
-date: "2026-04-15T09:21:22.711352"
+date: "2026-04-16T19:21:58.143476"
 draft: false
 sectors:
   - horticulture
@@ -59,8 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.vegetables.bayer.com](https://www.vegetables.bayer.com)
-- [https://www.vegetables.bayer.com/us/en-us/products/seminis.html](https://www.vegetables.bayer.com/us/en-us/products/seminis.html)
-- [http://www.deruiterseeds.com](http://www.deruiterseeds.com)

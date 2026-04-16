@@ -2,11 +2,11 @@
 title: University of Malta
 slug: "university-of-malta"
 description: ""
-date: "2026-04-15T09:21:25.386993"
+date: "2026-04-16T19:22:01.058127"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - malta
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - malta
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.um.edu.mt](https://www.um.edu.mt)
-- [https://www.um.edu.mt/brandmanual](https://www.um.edu.mt/brandmanual)
+- [https://www.um.edu.mt/media/um/docs/directorates/marketingcommunications/brandmanual.pdf](https://www.um.edu.mt/media/um/docs/directorates/marketingcommunications/brandmanual.pdf)
 - [https://www.um.edu.mt/marketingcommunications/branding](https://www.um.edu.mt/marketingcommunications/branding)
 
 ## Brand Guidelines

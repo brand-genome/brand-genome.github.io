@@ -2,15 +2,15 @@
 title: City of Bern
 slug: "city-of-bern"
 description: ""
-date: "2026-04-15T09:21:23.695237"
+date: "2026-04-16T19:21:59.017957"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - switzerland
 years:
-  - 2021
   - 2022
+  - 2021
 languages:
   - german
 tags:

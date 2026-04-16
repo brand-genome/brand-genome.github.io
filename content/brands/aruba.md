@@ -2,22 +2,22 @@
 title: Aruba
 slug: aruba
 description: ""
-date: "2026-04-15T09:21:25.433701"
+date: "2026-04-16T19:22:01.118492"
 draft: false
 sectors:
+  - hardware
   - networking
   - cybersecurity
-  - hardware
 regions:
   - usa
 years:
-  - 2018
   - 2017
+  - 2018
 languages:
   - english
 tags:
-  - technology
   - networks
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,12 +63,6 @@ guideline_count: 2
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.hpe.com/us/en/networking/hpe-aruba-networking.html](https://www.hpe.com/us/en/networking/hpe-aruba-networking.html)
-- [https://instant-on.hpe.com](https://instant-on.hpe.com)
-- [https://buy.hpe.com/us/en/hpe-aruba-networking](https://buy.hpe.com/us/en/hpe-aruba-networking)
-
 ## Brand Guidelines
 
 ### 2018

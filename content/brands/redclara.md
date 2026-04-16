@@ -2,11 +2,11 @@
 title: RedCLARA
 slug: redclara
 description: ""
-date: "2026-04-15T09:21:25.466145"
+date: "2026-04-16T19:22:01.219134"
 draft: false
 sectors:
-  - networking
   - ngo
+  - networking
 regions:
   - chile
 years:
@@ -66,6 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://redclara.net/es](https://redclara.net/es)
 - [http://www.redclara.net](http://www.redclara.net)
 
 ## Additional Properties

@@ -2,11 +2,10 @@
 title: New Holland
 slug: "new-holland"
 description: ""
-date: "2026-04-15T09:21:25.193139"
+date: "2026-04-16T19:22:00.788211"
 draft: false
 sectors:
   - construction
-  - hardware
 regions:
   - italy
 years:
@@ -63,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://construction.newholland.com](https://construction.newholland.com)
+- [https://construction.newholland.com/en/asiapacific](https://construction.newholland.com/en/asiapacific)
 - [https://www.newhollandce.com.mx](https://www.newhollandce.com.mx)
 - [https://www.cnh.com](https://www.cnh.com)
 - [https://www.newholland.com.tr](https://www.newholland.com.tr)

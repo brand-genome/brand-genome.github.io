@@ -2,13 +2,11 @@
 title: Jamie Oliver
 slug: "jamie-oliver"
 description: ""
-date: "2026-04-15T09:21:24.948571"
+date: "2026-04-16T19:22:00.522821"
 draft: false
 sectors:
   - food
   - "consumer-goods"
-  - restaurant
-  - publishing
 regions:
   - "united-kingdom"
 years:

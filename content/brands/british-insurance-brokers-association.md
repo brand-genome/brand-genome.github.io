@@ -2,7 +2,7 @@
 title: British Insurance Brokers’ Association
 slug: "british-insurance-brokers-association"
 description: ""
-date: "2026-04-15T09:21:22.067595"
+date: "2026-04-16T19:21:57.106135"
 draft: false
 sectors:
   - insurance

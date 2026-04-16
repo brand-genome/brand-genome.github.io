@@ -2,12 +2,12 @@
 title: University of Delaware
 slug: "university-of-delaware"
 description: ""
-date: "2026-04-15T09:21:25.640060"
+date: "2026-04-16T19:22:01.649956"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.udel.edu](https://www.udel.edu)
-- [https://www.udel.edu/ocm](https://www.udel.edu/ocm)
+- [https://www.udel.edu/home/ocm](https://www.udel.edu/home/ocm)
 - [http://www.udel.edu](http://www.udel.edu)
 - [https://sites.udel.edu/generalcounsel/policies/use-of-digital-and-multimedia](https://sites.udel.edu/generalcounsel/policies/use-of-digital-and-multimedia)
 

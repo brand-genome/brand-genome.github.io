@@ -2,7 +2,7 @@
 title: Channel 4 Television
 slug: "channel-4-television"
 description: ""
-date: "2026-04-15T09:21:23.401322"
+date: "2026-04-16T19:21:58.791094"
 draft: false
 sectors:
   - broadcasting
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.channel4.com](https://www.channel4.com)
-- [https://www.channel4.com/info/commissioning](https://www.channel4.com/info/commissioning)
+- [https://www.channel4.com/4producers](https://www.channel4.com/4producers)
 - [http://www.channel4.com](http://www.channel4.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: We Mean Business
 slug: "we-mean-business"
 description: ""
-date: "2026-04-15T09:21:25.654572"
+date: "2026-04-16T19:22:01.674852"
 draft: false
 sectors:
   - ngo

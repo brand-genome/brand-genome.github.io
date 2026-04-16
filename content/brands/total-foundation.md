@@ -2,7 +2,7 @@
 title: Total Foundation
 slug: "total-foundation"
 description: ""
-date: "2026-04-15T09:21:23.190293"
+date: "2026-04-16T19:21:58.592289"
 draft: false
 sectors:
   - ngo
@@ -61,4 +61,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://fondation.totalenergies.com](https://fondation.totalenergies.com)
+- [https://fondation.totalenergies.com/fr](https://fondation.totalenergies.com/fr)

@@ -2,11 +2,11 @@
 title: Mitel
 slug: mitel
 description: ""
-date: "2026-04-15T09:21:25.413927"
+date: "2026-04-16T19:22:01.097970"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
   - telecom
 regions:
   - canada
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - networks
   - corporate
+  - networks
 industries:
   - telecommunications
 countries:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mitel.com](https://www.mitel.com)
 - [http://www.mitel.com](http://www.mitel.com)
 
 ## Brand Guidelines

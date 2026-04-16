@@ -2,11 +2,11 @@
 title: Quinn
 slug: quinn
 description: ""
-date: "2026-04-15T09:21:24.132614"
+date: "2026-04-16T19:21:59.456922"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - usa
 years:

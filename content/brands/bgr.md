@@ -2,7 +2,7 @@
 title: BGR
 slug: bgr
 description: ""
-date: "2026-04-15T09:21:23.835480"
+date: "2026-04-16T19:21:59.164324"
 draft: false
 sectors:
   - publishing
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bgr.com](https://www.bgr.com)
-- [https://bgr.com](https://bgr.com)
 
 ## Brand Guidelines
 

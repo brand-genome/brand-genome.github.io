@@ -2,12 +2,12 @@
 title: Clayton Homes
 slug: "clayton-homes"
 description: ""
-date: "2026-04-15T09:21:24.004449"
+date: "2026-04-16T19:21:59.313479"
 draft: false
 sectors:
+  - insurance
   - "real-estate"
   - finance
-  - insurance
   - construction
 regions:
   - usa
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 - [https://www.claytonhomes.com](https://www.claytonhomes.com)
 - [https://claytonhomebuildinggroup.com](https://claytonhomebuildinggroup.com)
 - [https://www.vmf.com](https://www.vmf.com)
-- [https://www.21stmortgage.com](https://www.21stmortgage.com)
-- [https://www.homefirstagency.com](https://www.homefirstagency.com)
 - [http://www.claytonhomes.com](http://www.claytonhomes.com)
 
 ## Brand Guidelines

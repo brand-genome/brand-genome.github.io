@@ -2,11 +2,11 @@
 title: UN Environment Programme
 slug: "un-environment-programme"
 description: ""
-date: "2026-04-15T09:21:25.417465"
+date: "2026-04-16T19:22:01.101229"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -16,8 +16,8 @@ languages:
 tags:
   - environment
 industries:
-  - environment
   - "international-governmental-or-non-governmental-organizations"
+  - environment
 countries:
   - kenya
 revenue_buckets: []

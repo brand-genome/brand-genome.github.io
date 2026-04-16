@@ -2,11 +2,11 @@
 title: Berbix
 slug: berbix
 description: ""
-date: "2026-04-15T09:21:23.200000"
+date: "2026-04-16T19:21:58.605926"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.berbix.com](https://www.berbix.com)
 - [https://www.socure.com/products/document-verification](https://www.socure.com/products/document-verification)
 
 ## Brand Guidelines

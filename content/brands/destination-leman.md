@@ -2,7 +2,7 @@
 title: Destination Leman
 slug: "destination-leman"
 description: ""
-date: "2026-04-15T09:21:23.868632"
+date: "2026-04-16T19:21:59.193989"
 draft: false
 sectors:
   - tourism

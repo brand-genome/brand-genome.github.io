@@ -2,7 +2,7 @@
 title: Thoughtworks
 slug: thoughtworks
 description: ""
-date: "2026-04-15T09:21:22.351503"
+date: "2026-04-16T19:21:57.582659"
 draft: false
 sectors:
   - consulting
@@ -10,16 +10,16 @@ sectors:
 regions:
   - usa
 years:
-  - 2024
   - 2022
+  - 2024
 languages:
   - english
 tags:
   - technology
 industries:
+  - consulting
   - technology
   - "software-industry"
-  - consulting
 countries:
   - "united-states"
 revenue_buckets: []

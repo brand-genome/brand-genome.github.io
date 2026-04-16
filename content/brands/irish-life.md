@@ -2,7 +2,7 @@
 title: Irish Life
 slug: "irish-life"
 description: ""
-date: "2026-04-15T09:21:24.233247"
+date: "2026-04-16T19:21:59.610900"
 draft: false
 sectors:
   - insurance
@@ -62,10 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.irishlife.ie](https://www.irishlife.ie)
-- [https://www.irishlifehealth.ie](https://www.irishlifehealth.ie)
 - [https://www.ilim.com](https://www.ilim.com)
-- [https://www.myirishlife.ie](https://www.myirishlife.ie)
 
 ## Brand Guidelines
 

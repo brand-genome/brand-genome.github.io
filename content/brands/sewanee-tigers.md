@@ -2,7 +2,7 @@
 title: Sewanee Tigers
 slug: "sewanee-tigers"
 description: ""
-date: "2026-04-15T09:21:25.449444"
+date: "2026-04-16T19:22:01.145166"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: Energias de Portugal
 slug: "energias-de-portugal"
 description: ""
-date: "2026-04-15T09:21:23.615200"
+date: "2026-04-16T19:21:58.903509"
 draft: false
 sectors:
   - utilities
@@ -10,16 +10,16 @@ sectors:
 regions:
   - portugal
 years:
+  - 2022
+  - 2013
   - 2015
   - 2018
-  - 2013
-  - 2022
 languages:
-  - english
   - portuguese
+  - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "electricity-supply-company"
 countries:
@@ -74,8 +74,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.edp.com](https://www.edp.com)
-- [https://www.edp.com/en](https://www.edp.com/en)
 - [https://www.edp.pt](https://www.edp.pt)
 
 ## Brand Guidelines

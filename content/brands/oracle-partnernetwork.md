@@ -2,7 +2,7 @@
 title: Oracle PartnerNetwork
 slug: "oracle-partnernetwork"
 description: ""
-date: "2026-04-15T09:21:25.872132"
+date: "2026-04-16T19:22:02.141846"
 draft: false
 sectors:
   - software
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.oracle.com/partnernetwork](https://www.oracle.com/partnernetwork)
-
 ## Brand Guidelines
 
 ### 2012

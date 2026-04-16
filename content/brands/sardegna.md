@@ -2,7 +2,7 @@
 title: Sardegna
 slug: sardegna
 description: ""
-date: "2026-04-15T09:21:25.680564"
+date: "2026-04-16T19:22:01.745922"
 draft: false
 sectors:
   - tourism
@@ -62,5 +62,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sardegnapromozione.it](https://www.sardegnapromozione.it)
 - [https://www.regione.sardegna.it](https://www.regione.sardegna.it)

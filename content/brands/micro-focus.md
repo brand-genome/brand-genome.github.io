@@ -2,11 +2,11 @@
 title: Micro Focus
 slug: "micro-focus"
 description: ""
-date: "2026-04-15T09:21:23.827544"
+date: "2026-04-16T19:21:59.156049"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.opentext.com/microfocus](https://www.opentext.com/microfocus)
-- [https://www.microfocus.com](https://www.microfocus.com)
+- [https://www.opentext.com?o=mf](https://www.opentext.com?o=mf)
 - [http://www.microfocus.com/resources](http://www.microfocus.com/resources)
 - [http://www.microfocus.com](http://www.microfocus.com)
 

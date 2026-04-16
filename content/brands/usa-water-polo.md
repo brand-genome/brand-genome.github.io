@@ -2,11 +2,11 @@
 title: USA Water Polo
 slug: "usa-water-polo"
 description: ""
-date: "2026-04-15T09:21:23.402413"
+date: "2026-04-16T19:21:58.793264"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - usa
 years:

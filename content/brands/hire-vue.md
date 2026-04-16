@@ -2,7 +2,7 @@
 title: Hire Vue
 slug: "hire-vue"
 description: ""
-date: "2026-04-15T09:21:25.439250"
+date: "2026-04-16T19:22:01.124265"
 draft: false
 sectors:
   - "staffing-recruitment"

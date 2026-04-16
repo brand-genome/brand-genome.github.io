@@ -2,7 +2,7 @@
 title: Paypal
 slug: paypal
 description: ""
-date: "2026-04-15T09:21:22.133687"
+date: "2026-04-16T19:21:57.168545"
 draft: false
 sectors:
   - finance
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
+  - 2022
   - 2020
   - 2013
-  - 2022
 languages:
   - english
 tags:
-  - featured
   - financial
   - internet
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -70,12 +70,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.paypal.com](https://www.paypal.com)
-- [https://brand.paypal.com](https://brand.paypal.com)
-- [https://developer.paypal.com](https://developer.paypal.com)
+- [https://www.paypal.com/in/home](https://www.paypal.com/in/home)
+- [https://developer.paypal.com/home](https://developer.paypal.com/home)
 - [https://venmo.com](https://venmo.com)
 - [https://www.zettle.com](https://www.zettle.com)
 - [https://www.joinhoney.com](https://www.joinhoney.com)
+- [https://www.paypal.com](https://www.paypal.com)
 
 ## Brand Guidelines
 

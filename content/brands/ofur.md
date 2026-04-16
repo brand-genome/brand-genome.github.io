@@ -2,7 +2,7 @@
 title: Ofur
 slug: ofur
 description: ""
-date: "2026-04-15T09:21:22.363430"
+date: "2026-04-16T19:21:57.601337"
 draft: false
 sectors:
   - fashion

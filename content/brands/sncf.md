@@ -2,12 +2,12 @@
 title: SNCF
 slug: sncf
 description: ""
-date: "2026-04-15T09:21:23.392890"
+date: "2026-04-16T19:21:58.782338"
 draft: false
 sectors:
-  - "logistics-supply-chain"
-  - "public-transportation"
   - railroad
+  - "public-transportation"
+  - "logistics-supply-chain"
 regions:
   - france
 years:
@@ -18,8 +18,8 @@ tags:
   - featured
   - transport
 industries:
-  - "rail-transport"
   - unknown
+  - "rail-transport"
 countries:
   - france
 revenue_buckets:
@@ -34,8 +34,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - paris
   - "saint-denis"
+  - paris
 subsidiaries: []
 foundation_dates:
   - 1938
@@ -73,13 +73,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.groupe-sncf.com](https://www.groupe-sncf.com)
+- [https://www.groupe-sncf.com/fr](https://www.groupe-sncf.com/fr)
 - [https://www.groupe-sncf.com/en](https://www.groupe-sncf.com/en)
-- [https://www.sncf-connect.com](https://www.sncf-connect.com)
-- [https://www.sncf-connect.com/en-en](https://www.sncf-connect.com/en-en)
 - [http://www.sncf.com/fr/groupe/marques/sncf](http://www.sncf.com/fr/groupe/marques/sncf)
 - [https://www.sncf.com](https://www.sncf.com)
 - [https://www.sncf.fr](https://www.sncf.fr)
+- [https://www.groupe-sncf.com](https://www.groupe-sncf.com)
 
 ## Additional Properties
 
@@ -89,7 +88,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Paris](/headquarters_locations/paris/); [Saint Denis](/headquarters_locations/saint-denis/) |
+| Headquarters Location | [Saint Denis](/headquarters_locations/saint-denis/); [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [1938](/foundation_dates/1938/) |
 | Headquarters Location | Saint-Denis (from 2013, until 2024-12-31), Paris, Saint-Denis (from 2025-01-01) |
 | Follows | Chemins de fer d'Alsace et de Lorraine, Chemins de fer de l'État, Chemins de fer de l'Est, Chemins de fer du Nord, Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée (+1 more) |

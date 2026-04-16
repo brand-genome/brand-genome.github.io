@@ -2,11 +2,11 @@
 title: Carleton College
 slug: "carleton-college"
 description: ""
-date: "2026-04-15T09:21:24.326824"
+date: "2026-04-16T19:21:59.735796"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.carleton.edu](https://www.carleton.edu)
-- [https://apps.carleton.edu/creativeservices/styleguide](https://apps.carleton.edu/creativeservices/styleguide)
+- [https://www.carleton.edu/communications/resources/editorial-style-guide](https://www.carleton.edu/communications/resources/editorial-style-guide)
 
 ## Brand Guidelines
 

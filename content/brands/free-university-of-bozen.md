@@ -2,11 +2,11 @@
 title: Free University of Bozen
 slug: "free-university-of-bozen"
 description: ""
-date: "2026-04-15T09:21:23.593572"
+date: "2026-04-16T19:21:58.882619"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - german
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - italy
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 - [https://www.unibz.it/en](https://www.unibz.it/en)
 - [https://www.unibz.it/it](https://www.unibz.it/it)
 - [https://www.unibz.it/de](https://www.unibz.it/de)
-- [https://aws.unibz.it/exup/it/Application/Index](https://aws.unibz.it/exup/it/Application/Index)
+- [https://aws.unibz.it/exup/en/Account/Logon?ReturnUrl=%2fexup%2fit%2fApplication%2fIndex](https://aws.unibz.it/exup/en/Account/Logon?ReturnUrl=%2fexup%2fit%2fApplication%2fIndex)
 - [http://www.unibz.it](http://www.unibz.it)
 
 ## Additional Properties

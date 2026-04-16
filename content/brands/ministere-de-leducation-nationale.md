@@ -2,7 +2,7 @@
 title: Ministère de l’Éducation Nationale
 slug: "ministere-de-leducation-nationale"
 description: ""
-date: "2026-04-15T09:21:25.696125"
+date: "2026-04-16T19:22:01.798304"
 draft: false
 sectors:
   - "public-sector"
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.education.gouv.fr](https://www.education.gouv.fr)
-
 ## Brand Guidelines
 
 ### 2016

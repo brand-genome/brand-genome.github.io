@@ -2,7 +2,7 @@
 title: Topsy
 slug: topsy
 description: ""
-date: "2026-04-15T09:21:23.676853"
+date: "2026-04-16T19:21:58.994809"
 draft: false
 sectors:
   - food
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tonicorp.com/marca/topsy](https://www.tonicorp.com/marca/topsy)
-- [https://www.tonicorp.com/helados.html](https://www.tonicorp.com/helados.html)
 - [http://www.tonicorp.com](http://www.tonicorp.com)
 
 ## Brand Guidelines

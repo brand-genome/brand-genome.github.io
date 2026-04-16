@@ -2,7 +2,7 @@
 title: Adare
 slug: adare
 description: ""
-date: "2026-04-15T09:21:23.187775"
+date: "2026-04-16T19:21:58.589908"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.adare.ie](https://www.adare.ie)
 - [https://www.limerick.ie/discover/explore/areas-in-limerick/adare/brand](https://www.limerick.ie/discover/explore/areas-in-limerick/adare/brand)
 - [http://www.limerick.ie](http://www.limerick.ie)
 

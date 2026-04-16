@@ -2,11 +2,11 @@
 title: Western Sydney University
 slug: "western-sydney-university"
 description: ""
-date: "2026-04-15T09:21:25.642232"
+date: "2026-04-16T19:22:01.654002"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - australia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - australia

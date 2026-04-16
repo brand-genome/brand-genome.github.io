@@ -2,7 +2,7 @@
 title: Sunnyvale
 slug: sunnyvale
 description: ""
-date: "2026-04-15T09:21:24.542302"
+date: "2026-04-16T19:22:00.115174"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sunnyvale.ca.gov](https://www.sunnyvale.ca.gov)
 - [https://sunnyvale.ca.gov](https://sunnyvale.ca.gov)
 
 ## Brand Guidelines

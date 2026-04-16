@@ -2,11 +2,11 @@
 title: CAVA Grill
 slug: "cava-grill"
 description: ""
-date: "2026-04-15T09:21:24.595263"
+date: "2026-04-16T19:22:00.158507"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://cava.com](https://cava.com)
-- [https://cava.com/careers](https://cava.com/careers)
-- [https://investor.cava.com](https://investor.cava.com)
 
 ## Brand Guidelines
 

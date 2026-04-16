@@ -2,7 +2,7 @@
 title: Dalenys
 slug: dalenys
 description: ""
-date: "2026-04-15T09:21:24.030998"
+date: "2026-04-16T19:21:59.346571"
 draft: false
 sectors:
   - finance
@@ -67,8 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://dalenys.com](https://dalenys.com)
-- [https://payment.dalenys.com](https://payment.dalenys.com)
+- [https://payment.dalenys.com/cockpit](https://payment.dalenys.com/cockpit)
 - [http://www.dalenys.com](http://www.dalenys.com)
 
 ## Brand Guidelines

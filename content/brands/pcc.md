@@ -2,7 +2,7 @@
 title: PCC
 slug: pcc
 description: ""
-date: "2026-04-15T09:21:25.769790"
+date: "2026-04-16T19:22:01.961466"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.loc.gov/aba/pcc](https://www.loc.gov/aba/pcc)
-- [https://www.loc.gov/catdir/pcc/brand](https://www.loc.gov/catdir/pcc/brand)
+- [http://www.loc.gov/aba/pcc/pcc-redir.html](http://www.loc.gov/aba/pcc/pcc-redir.html)
 
 ## Brand Guidelines
 

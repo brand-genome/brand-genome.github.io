@@ -2,10 +2,10 @@
 title: Travel and Transport
 slug: "travel-and-transport"
 description: ""
-date: "2026-04-15T09:21:24.934375"
+date: "2026-04-16T19:22:00.508268"
 draft: false
 sectors:
-  - "logistics-supply-chain"
+  - tourism
 regions:
   - usa
 years:
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.travelandtransport.com](https://www.travelandtransport.com)
+- [https://us.travelctm.com?utm_campaign=TT-website-redirect&utm_medium=WEB&utm_source=TTW&utm_content=link-CTM-home](https://us.travelctm.com?utm_campaign=TT-website-redirect&utm_medium=WEB&utm_source=TTW&utm_content=link-CTM-home)
 - [http://www.travelandtransport.com](http://www.travelandtransport.com)
 
 ## Brand Guidelines

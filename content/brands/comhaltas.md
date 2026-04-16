@@ -2,11 +2,11 @@
 title: Comhaltas
 slug: comhaltas
 description: ""
-date: "2026-04-15T09:21:22.105277"
+date: "2026-04-16T19:21:57.141857"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - ireland
 years:

@@ -2,11 +2,11 @@
 title: Matosinhos
 slug: matosinhos
 description: ""
-date: "2026-04-15T09:21:23.846084"
+date: "2026-04-16T19:21:59.174324"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - portugal
 years:

@@ -2,7 +2,7 @@
 title: Covered California
 slug: "covered-california"
 description: ""
-date: "2026-04-15T09:21:25.776539"
+date: "2026-04-16T19:22:01.971169"
 draft: false
 sectors:
   - healthcare

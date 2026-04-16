@@ -2,7 +2,7 @@
 title: Lightning Protection Institute
 slug: "lightning-protection-institute"
 description: ""
-date: "2026-04-15T09:21:23.746758"
+date: "2026-04-16T19:21:59.071529"
 draft: false
 sectors:
   - utilities

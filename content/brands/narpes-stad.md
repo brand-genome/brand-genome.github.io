@@ -2,11 +2,11 @@
 title: Närpes stad
 slug: "narpes-stad"
 description: ""
-date: "2026-04-15T09:21:23.120322"
+date: "2026-04-16T19:21:58.527862"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - finland
 years:
@@ -64,6 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.narpes.fi](https://www.narpes.fi)
-- [https://visitnarpes.fi](https://visitnarpes.fi)
+- [https://visitnarpes.fi/sv](https://visitnarpes.fi/sv)
 - [https://visitnarpes.fi/en](https://visitnarpes.fi/en)
 - [http://www.narpes.fi](http://www.narpes.fi)

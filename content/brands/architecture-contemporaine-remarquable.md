@@ -2,12 +2,12 @@
 title: Architecture Contemporaine Remarquable
 slug: "architecture-contemporaine-remarquable"
 description: ""
-date: "2026-04-15T09:21:23.428980"
+date: "2026-04-16T19:21:58.815474"
 draft: false
 sectors:
+  - "arts-culture"
   - "public-sector"
   - architecture
-  - "arts-culture"
 regions:
   - france
 years:

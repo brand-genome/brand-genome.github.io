@@ -2,11 +2,11 @@
 title: RSK
 slug: rsk
 description: ""
-date: "2026-04-15T09:21:24.807533"
+date: "2026-04-16T19:22:00.355322"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
+  - "blockchain-crypto"
 regions:
   - "united-kingdom"
 years:
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://rootstock.io](https://rootstock.io)
-- [https://rsk.co](https://rsk.co)
-- [https://explorer.rsk.co](https://explorer.rsk.co)
+- [https://explorer.rootstock.io](https://explorer.rootstock.io)
 - [http://www.rsk.co](http://www.rsk.co)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Wipeout
 slug: wipeout
 description: ""
-date: "2026-04-15T09:21:25.353591"
+date: "2026-04-16T19:22:01.019742"
 draft: false
 sectors:
   - entertainment
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://abc.com/shows/wipeout](https://abc.com/shows/wipeout)
 - [http://beta.abc.go.com/shows/wipeout](http://beta.abc.go.com/shows/wipeout)
 
 ## Brand Guidelines

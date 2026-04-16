@@ -2,7 +2,7 @@
 title: Healthy Ireland
 slug: "healthy-ireland"
 description: ""
-date: "2026-04-15T09:21:25.371171"
+date: "2026-04-16T19:22:01.038066"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.ie/en/healthy-ireland](https://www.gov.ie/en/healthy-ireland)
+- [https://www.gov.ie/en/healthy-ireland/campaigns/healthy-ireland](https://www.gov.ie/en/healthy-ireland/campaigns/healthy-ireland)
 
 ## Brand Guidelines
 

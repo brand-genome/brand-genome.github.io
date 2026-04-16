@@ -2,7 +2,7 @@
 title: Emory University
 slug: "emory-university"
 description: ""
-date: "2026-04-15T09:21:22.378548"
+date: "2026-04-16T19:21:57.627268"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.emory.edu/home](https://www.emory.edu/home)
-- [https://apply.emory.edu](https://apply.emory.edu)
+- [https://apply.emory.edu/index.html](https://apply.emory.edu/index.html)
 - [https://www.emory.edu/home/admission/index.html](https://www.emory.edu/home/admission/index.html)
 - [https://emory.edu](https://emory.edu)
 

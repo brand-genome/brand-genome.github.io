@@ -2,11 +2,11 @@
 title: Frog
 slug: frog
 description: ""
-date: "2026-04-15T09:21:24.716775"
+date: "2026-04-16T19:22:00.260752"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - "united-kingdom"
 years:

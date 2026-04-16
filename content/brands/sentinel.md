@@ -2,10 +2,9 @@
 title: Sentinel
 slug: sentinel
 description: ""
-date: "2026-04-15T09:21:23.796270"
+date: "2026-04-16T19:21:59.125793"
 draft: false
 sectors:
-  - utilities
   - "consumer-goods"
 regions:
   - "united-kingdom"
@@ -62,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sentinelprotects.com](https://sentinelprotects.com)
 - [http://www.sentinelprotects.com](http://www.sentinelprotects.com)
 
 ## Brand Guidelines

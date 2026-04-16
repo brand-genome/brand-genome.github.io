@@ -2,7 +2,7 @@
 title: Keller Williams
 slug: "keller-williams"
 description: ""
-date: "2026-04-15T09:21:24.003967"
+date: "2026-04-16T19:21:59.312974"
 draft: false
 sectors:
   - "real-estate"
@@ -61,14 +61,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://kw.com](https://kw.com)
 - [https://locations.kw.com](https://locations.kw.com)
 - [https://thrive.kw.com](https://thrive.kw.com)
 - [https://events.kw.com](https://events.kw.com)
 - [https://kwcommercial.com](https://kwcommercial.com)
-- [https://luxury.kw.com](https://luxury.kw.com)
 - [https://kwland.com](https://kwland.com)
-- [https://kwworldwide.com](https://kwworldwide.com)
+- [https://kwworldwide.com/en-US](https://kwworldwide.com/en-US)
 - [https://mykwapp.com](https://mykwapp.com)
 
 ## Brand Guidelines

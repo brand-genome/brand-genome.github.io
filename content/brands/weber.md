@@ -2,7 +2,7 @@
 title: Weber
 slug: weber
 description: ""
-date: "2026-04-15T09:21:24.051441"
+date: "2026-04-16T19:21:59.371643"
 draft: false
 sectors:
   - construction
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.weber.fr](https://www.weber.fr)
-- [https://distributeurs.fr.weber](https://distributeurs.fr.weber)
 - [https://nic.weber](https://nic.weber)
 
 ## Brand Guidelines

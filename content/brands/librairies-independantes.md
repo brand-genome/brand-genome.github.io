@@ -2,10 +2,11 @@
 title: Librairies Indépendantes
 slug: "librairies-independantes"
 description: ""
-date: "2026-04-15T09:21:25.428057"
+date: "2026-04-16T19:22:01.112141"
 draft: false
 sectors:
   - "arts-culture"
+  - publishing
 regions:
   - france
 years:

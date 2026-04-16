@@ -2,7 +2,7 @@
 title: Cooking Light
 slug: "cooking-light"
 description: ""
-date: "2026-04-15T09:21:25.853013"
+date: "2026-04-16T19:22:02.119241"
 draft: false
 sectors:
   - food
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - magazine
+  - "food-beverage"
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,9 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://support.people.inc/hc/en-us/articles/4410128621079-Cooking-Light-Magazine](https://support.people.inc/hc/en-us/articles/4410128621079-Cooking-Light-Magazine)
 - [https://www.magazines.com/cooking-light.html](https://www.magazines.com/cooking-light.html)
-- [https://www.magzter.com/US/People-Inc/Cooking-Light/Food-%26-Beverage/1654613](https://www.magzter.com/US/People-Inc/Cooking-Light/Food-%26-Beverage/1654613)
 - [https://pocketmags.com/cooking-light-magazine/specialissues](https://pocketmags.com/cooking-light-magazine/specialissues)
 
 ## Brand Guidelines

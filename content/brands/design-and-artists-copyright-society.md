@@ -2,7 +2,7 @@
 title: Design and Artists Copyright Society
 slug: "design-and-artists-copyright-society"
 description: ""
-date: "2026-04-15T09:21:23.744986"
+date: "2026-04-16T19:21:59.069875"
 draft: false
 sectors:
   - "legal-services"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - cultural
+  - community
 industries: []
 countries:
   - "united-kingdom"

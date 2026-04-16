@@ -2,13 +2,13 @@
 title: Bitwise Industries
 slug: "bitwise-industries"
 description: ""
-date: "2026-04-15T09:21:23.826416"
+date: "2026-04-16T19:21:59.154631"
 draft: false
 sectors:
-  - "real-estate"
   - "coworking-flexible-office"
-  - education
+  - "real-estate"
   - software
+  - education
 regions:
   - usa
 years:
@@ -16,8 +16,8 @@ years:
 languages:
   - english
 tags:
-  - education
   - software
+  - education
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bitwiseindustries.com](https://www.bitwiseindustries.com)
+- [https://www.scottsmortuaryonline.com](https://www.scottsmortuaryonline.com)
 
 ## Brand Guidelines
 

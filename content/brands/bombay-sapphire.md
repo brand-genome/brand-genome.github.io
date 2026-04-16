@@ -2,7 +2,7 @@
 title: Bombay Sapphire
 slug: "bombay-sapphire"
 description: ""
-date: "2026-04-15T09:21:23.730030"
+date: "2026-04-16T19:21:59.055228"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bombaysapphire.com](https://www.bombaysapphire.com)
-- [https://www.bombaysapphire.com/us/en/homepage](https://www.bombaysapphire.com/us/en/homepage)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Frame.io
 slug: frameio
 description: ""
-date: "2026-04-15T09:21:23.770643"
+date: "2026-04-16T19:21:59.097786"
 draft: false
 sectors:
   - software
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://frame.io](https://frame.io)
-- [https://www.adobe.com/products/frame-io.html](https://www.adobe.com/products/frame-io.html)
 - [http://www.frame.io](http://www.frame.io)
 
 ## Brand Guidelines

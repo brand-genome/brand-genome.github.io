@@ -2,7 +2,7 @@
 title: Yelets
 slug: yelets
 description: ""
-date: "2026-04-15T09:21:23.993363"
+date: "2026-04-16T19:21:59.302735"
 draft: false
 sectors:
   - tourism
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://visitelets.ru](https://visitelets.ru)
-- [https://www.elets-info.ru](https://www.elets-info.ru)
 - [http://www.elets-adm.ru](http://www.elets-adm.ru)
 
 ## Brand Guidelines

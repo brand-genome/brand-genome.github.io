@@ -2,7 +2,7 @@
 title: Great Himalaya Trail
 slug: "great-himalaya-trail"
 description: ""
-date: "2026-04-15T09:21:24.217612"
+date: "2026-04-16T19:21:59.586412"
 draft: false
 sectors:
   - tourism

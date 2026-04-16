@@ -2,7 +2,7 @@
 title: Deezer
 slug: deezer
 description: ""
-date: "2026-04-15T09:21:22.563515"
+date: "2026-04-16T19:21:57.929571"
 draft: false
 sectors:
   - entertainment
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - music
   - internet
   - app
+  - featured
+  - music
 industries: []
 countries:
   - france
@@ -71,8 +71,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.deezer.com/soon](https://www.deezer.com/soon)
+- [https://support.deezer.com/hc/en-gb](https://support.deezer.com/hc/en-gb)
 - [https://www.deezer.com](https://www.deezer.com)
-- [https://support.deezer.com](https://support.deezer.com)
 
 ## Brand Guidelines
 

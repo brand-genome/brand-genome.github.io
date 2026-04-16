@@ -2,11 +2,11 @@
 title: GCOS
 slug: gcos
 description: ""
-date: "2026-04-15T09:21:23.754944"
+date: "2026-04-16T19:21:59.080508"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - international
 years:
@@ -63,6 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://gcos.wmo.int/site/global-climate-observing-system-gcos](https://gcos.wmo.int/site/global-climate-observing-system-gcos)
 - [https://gcos.wmo.int](https://gcos.wmo.int)
 
 ## Brand Guidelines

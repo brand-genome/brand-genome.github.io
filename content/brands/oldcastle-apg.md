@@ -2,11 +2,11 @@
 title: Oldcastle APG
 slug: "oldcastle-apg"
 description: ""
-date: "2026-04-15T09:21:22.219535"
+date: "2026-04-16T19:21:57.260958"
 draft: false
 sectors:
-  - "consumer-goods"
   - construction
+  - "consumer-goods"
 regions:
   - unknown
 years:

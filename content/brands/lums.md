@@ -2,11 +2,11 @@
 title: LUMS
 slug: lums
 description: ""
-date: "2026-04-15T09:21:24.085510"
+date: "2026-04-16T19:21:59.411604"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - pakistan
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - pakistan
@@ -66,9 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lums.edu.pk](https://www.lums.edu.pk)
-- [https://admission.lums.edu.pk](https://admission.lums.edu.pk)
-- [https://lumsx.lums.edu.pk](https://lumsx.lums.edu.pk)
 - [http://lums.edu.pk/index.php](http://lums.edu.pk/index.php)
 
 ## Brand Guidelines

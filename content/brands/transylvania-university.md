@@ -2,11 +2,11 @@
 title: Transylvania University
 slug: "transylvania-university"
 description: ""
-date: "2026-04-15T09:21:25.443382"
+date: "2026-04-16T19:22:01.132275"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

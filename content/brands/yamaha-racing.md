@@ -2,11 +2,10 @@
 title: Yamaha Racing
 slug: "yamaha-racing"
 description: ""
-date: "2026-04-15T09:21:25.419470"
+date: "2026-04-16T19:22:01.103394"
 draft: false
 sectors:
   - sports
-  - automobile
 regions:
   - japan
 years:
@@ -64,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://global.yamaha-motor.com/race](https://global.yamaha-motor.com/race)
-- [https://www.yamaha-racing.com](https://www.yamaha-racing.com)
+- [https://www.yamaha-racing.com/home](https://www.yamaha-racing.com/home)
 - [https://www.yamahamotogp.com](https://www.yamahamotogp.com)
 - [https://www.yamahamotorsports.com/Content.php?content=racing](https://www.yamahamotorsports.com/Content.php?content=racing)
 

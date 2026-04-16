@@ -2,7 +2,7 @@
 title: Sense Bank
 slug: "sense-bank"
 description: ""
-date: "2026-04-15T09:21:22.500678"
+date: "2026-04-16T19:21:57.827865"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - featured
   - financial
+  - featured
 industries: []
 countries:
   - ukraine
@@ -68,9 +68,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://sensebank.ua](https://sensebank.ua)
-- [https://sensebank.com.ua](https://sensebank.com.ua)
-- [https://sense.com.ua](https://sense.com.ua)
 - [https://alfabank.ua](https://alfabank.ua)
+- [https://sensebank.com.ua](https://sensebank.com.ua)
 
 ## Additional Properties
 

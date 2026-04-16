@@ -2,7 +2,7 @@
 title: Google for Work
 slug: "google-for-work"
 description: ""
-date: "2026-04-15T09:21:25.177214"
+date: "2026-04-16T19:22:00.771609"
 draft: false
 sectors:
   - software

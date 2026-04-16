@@ -2,7 +2,7 @@
 title: Brasil Governo Federal
 slug: "brasil-governo-federal"
 description: ""
-date: "2026-04-15T09:21:23.596120"
+date: "2026-04-16T19:21:58.885116"
 draft: false
 sectors:
   - "public-sector"
@@ -13,8 +13,8 @@ years:
 languages:
   - portuguese
 tags:
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,4 +64,3 @@ visual_term_image_urls: {}
 
 - [https://www.gov.br/pt-br](https://www.gov.br/pt-br)
 - [https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view](https://www.gov.br/secom/pt-br/acompanhe-a-secom/central-de-conteudo/guias-e-manuais/uso-da-marca-do-governo-federal/250911_secom_manual_marcagovbr.pdf/view)
-- [https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/marca-do-governo-federal)

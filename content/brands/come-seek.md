@@ -2,17 +2,17 @@
 title: Come Seek
 slug: "come-seek"
 description: ""
-date: "2026-04-15T09:21:24.712330"
+date: "2026-04-16T19:22:00.255891"
 draft: false
 sectors:
   - tourism
-  - "marketing-advertising"
   - cruise
+  - "marketing-advertising"
 regions:
   - usa
 years:
-  - 2018
   - 2019
+  - 2018
 languages:
   - english
 tags:

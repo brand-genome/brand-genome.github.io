@@ -2,11 +2,11 @@
 title: Dorarte
 slug: dorarte
 description: ""
-date: "2026-04-15T09:21:23.139984"
+date: "2026-04-16T19:21:58.545287"
 draft: false
 sectors:
-  - "consumer-goods"
   - "arts-culture"
+  - "consumer-goods"
 regions:
   - colombia
 years:

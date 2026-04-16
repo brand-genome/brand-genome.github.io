@@ -2,7 +2,7 @@
 title: Government of Nunavut
 slug: "government-of-nunavut"
 description: ""
-date: "2026-04-15T09:21:23.597594"
+date: "2026-04-16T19:21:58.886435"
 draft: false
 sectors:
   - "public-sector"
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.nu.ca/en](https://www.gov.nu.ca/en)
-- [https://www.gov.nu.ca/en/tourism](https://www.gov.nu.ca/en/tourism)
 - [https://nunavutparks.com](https://nunavutparks.com)
 - [http://www.gov.nu.ca](http://www.gov.nu.ca)
 

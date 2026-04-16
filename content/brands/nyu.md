@@ -2,21 +2,21 @@
 title: NYU
 slug: nyu
 description: ""
-date: "2026-04-15T09:21:24.157459"
+date: "2026-04-16T19:21:59.487743"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
-  - 2010
   - 2014
+  - 2010
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -72,10 +72,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nyu.edu](https://www.nyu.edu)
 - [https://www.law.nyu.edu](https://www.law.nyu.edu)
 - [https://shanghai.nyu.edu](https://shanghai.nyu.edu)
-- [https://nyuad.nyu.edu](https://nyuad.nyu.edu)
+- [https://nyuad.nyu.edu:443/en](https://nyuad.nyu.edu:443/en)
 - [https://nyu.edu](https://nyu.edu)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Hope Air
 slug: "hope-air"
 description: ""
-date: "2026-04-15T09:21:25.831262"
+date: "2026-04-16T19:22:02.061263"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - canada
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - transport
-  - airline
   - ngo
+  - airline
+  - transport
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://hopeair.ca](https://hopeair.ca)
-- [https://support.hopeair.ca](https://support.hopeair.ca)
+- [https://secure.hopeair.ca/site/TR?fr_id=1110&pg=entry](https://secure.hopeair.ca/site/TR?fr_id=1110&pg=entry)
 
 ## Brand Guidelines
 

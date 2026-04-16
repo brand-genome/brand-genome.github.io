@@ -2,7 +2,7 @@
 title: Berlin
 slug: berlin
 description: ""
-date: "2026-04-15T09:21:23.705879"
+date: "2026-04-16T19:21:59.029046"
 draft: false
 sectors:
   - "public-sector"
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 
 - [https://www.berlin.de](https://www.berlin.de)
 - [https://service.berlin.de](https://service.berlin.de)
-- [https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin)
+- [https://www.berlin.de/moderne-verwaltung/buergerservice/serviceportal-1509908.php](https://www.berlin.de/moderne-verwaltung/buergerservice/serviceportal-1509908.php)
 - [http://www.berlin.de](http://www.berlin.de)
 
 ## Brand Guidelines

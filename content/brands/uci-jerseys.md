@@ -2,7 +2,7 @@
 title: UCI Jerseys
 slug: "uci-jerseys"
 description: ""
-date: "2026-04-15T09:21:24.208945"
+date: "2026-04-16T19:21:59.575563"
 draft: false
 sectors:
   - sports

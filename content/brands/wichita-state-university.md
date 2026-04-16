@@ -2,7 +2,7 @@
 title: Wichita State University
 slug: "wichita-state-university"
 description: ""
-date: "2026-04-15T09:21:23.689537"
+date: "2026-04-16T19:21:59.012997"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wichita.edu](https://www.wichita.edu)
-- [https://www.wichita.edu/visualstandards](https://www.wichita.edu/visualstandards)
+- [https://www.wichita.edu/services/strategic_communications/brand_standards/visual_standards.php](https://www.wichita.edu/services/strategic_communications/brand_standards/visual_standards.php)
 - [http://www.wichita.edu](http://www.wichita.edu)
 
 ## Brand Guidelines

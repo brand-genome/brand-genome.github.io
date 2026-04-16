@@ -2,7 +2,7 @@
 title: Moscow Transport
 slug: "moscow-transport"
 description: ""
-date: "2026-04-15T09:21:24.044336"
+date: "2026-04-16T19:21:59.364365"
 draft: false
 sectors:
   - "public-sector"
@@ -61,12 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://transport.mos.ru/en](https://transport.mos.ru/en)
-- [https://transport.mos.ru](https://transport.mos.ru)
-- [https://mosmetro.ru](https://mosmetro.ru)
-
 ## Brand Guidelines
 
 ### 2014

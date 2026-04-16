@@ -2,11 +2,11 @@
 title: Sky Co.
 slug: "sky-co"
 description: ""
-date: "2026-04-15T09:21:23.187678"
+date: "2026-04-16T19:21:58.589641"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "design-creative"
+  - "marketing-advertising"
 regions:
   - nigeria
 years:

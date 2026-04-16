@@ -2,11 +2,11 @@
 title: Glean
 slug: glean
 description: ""
-date: "2026-04-15T09:21:22.565224"
+date: "2026-04-16T19:21:57.931518"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - education
   - software
+  - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

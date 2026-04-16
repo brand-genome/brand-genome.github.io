@@ -2,7 +2,7 @@
 title: Air Malta
 slug: "air-malta"
 description: ""
-date: "2026-04-15T09:21:24.166299"
+date: "2026-04-16T19:21:59.505527"
 draft: false
 sectors:
   - airline
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kmairmalta.com](https://kmairmalta.com)
-- [https://www.airmalta.com](https://www.airmalta.com)
 - [https://airmalta.com](https://airmalta.com)
 
 ## Brand Guidelines

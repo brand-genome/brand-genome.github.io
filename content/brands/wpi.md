@@ -2,12 +2,12 @@
 title: WPI
 slug: wpi
 description: ""
-date: "2026-04-15T09:21:24.216629"
+date: "2026-04-16T19:21:59.585498"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.wpi.edu](https://www.wpi.edu)
-- [https://w.wpi.edu](https://w.wpi.edu)
 - [http://www.wpi.edu](http://www.wpi.edu)
 
 ## Brand Guidelines

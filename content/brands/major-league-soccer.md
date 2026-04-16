@@ -2,7 +2,7 @@
 title: Major League Soccer
 slug: "major-league-soccer"
 description: ""
-date: "2026-04-15T09:21:23.413704"
+date: "2026-04-16T19:21:58.803067"
 draft: false
 sectors:
   - sports
@@ -13,12 +13,12 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
-  - canada
   - "united-states"
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -32,8 +32,8 @@ headquarters_locations:
   - "new-york-city"
 subsidiaries: []
 foundation_dates:
-  - 1993
   - 1995
+  - 1993
 foundation_year_buckets:
   - 1990S
 lightings: []
@@ -82,7 +82,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
-| Foundation Date | [1993](/foundation_dates/1993/); [1995](/foundation_dates/1995/) |
+| Foundation Date | [1995](/foundation_dates/1995/); [1993](/foundation_dates/1993/) |
 | Country | United States, Canada |
 | Topic'S Main Category | Category:Major League Soccer |
 | Freebase Id | /m/0jfpf |

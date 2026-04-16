@@ -2,7 +2,7 @@
 title: Alcaldía de Medellín
 slug: "alcaldia-de-medellin"
 description: ""
-date: "2026-04-15T09:21:22.534456"
+date: "2026-04-16T19:21:57.876576"
 draft: false
 sectors:
   - "public-sector"
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.medellin.gov.co](https://www.medellin.gov.co)
-
 ## Brand Guidelines
 
 ### 2022

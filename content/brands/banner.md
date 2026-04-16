@@ -2,11 +2,11 @@
 title: Banner
 slug: banner
 description: ""
-date: "2026-04-15T09:21:25.693724"
+date: "2026-04-16T19:22:01.792747"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.bannerengineering.com](https://www.bannerengineering.com)
-
 ## Brand Guidelines
 
 ### 2017

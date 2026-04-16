@@ -2,11 +2,11 @@
 title: Canal de Panamá
 slug: "canal-de-panama"
 description: ""
-date: "2026-04-15T09:21:22.379988"
+date: "2026-04-16T19:21:57.628343"
 draft: false
 sectors:
-  - "maritime-shipping"
   - "public-sector"
+  - "maritime-shipping"
 regions:
   - panama
 years:

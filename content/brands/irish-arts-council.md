@@ -2,11 +2,11 @@
 title: Irish Arts Council
 slug: "irish-arts-council"
 description: ""
-date: "2026-04-15T09:21:22.217789"
+date: "2026-04-16T19:21:57.259242"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - ireland
 years:

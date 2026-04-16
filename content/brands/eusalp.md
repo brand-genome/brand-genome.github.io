@@ -2,7 +2,7 @@
 title: EUSALP
 slug: eusalp
 description: ""
-date: "2026-04-15T09:21:25.446132"
+date: "2026-04-16T19:22:01.137597"
 draft: false
 sectors:
   - "public-sector"

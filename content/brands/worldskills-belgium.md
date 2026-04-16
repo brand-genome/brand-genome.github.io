@@ -2,7 +2,7 @@
 title: WorldSkills Belgium
 slug: "worldskills-belgium"
 description: ""
-date: "2026-04-15T09:21:24.226467"
+date: "2026-04-16T19:21:59.603754"
 draft: false
 sectors:
   - education
@@ -60,14 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.worldskills.be](https://www.worldskills.be)
-- [https://www.worldskills.be/en](https://www.worldskills.be/en)
-- [https://www.worldskills.be/nl](https://www.worldskills.be/nl)
-- [https://www.worldskills.be/fr](https://www.worldskills.be/fr)
-- [https://www.worldskills.be/de](https://www.worldskills.be/de)
-
 ## Brand Guidelines
 
 ### 2019

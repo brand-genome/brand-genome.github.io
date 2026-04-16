@@ -2,7 +2,7 @@
 title: Stifel
 slug: stifel
 description: ""
-date: "2026-04-15T09:21:25.057661"
+date: "2026-04-16T19:22:00.651030"
 draft: false
 sectors:
   - finance
@@ -15,9 +15,9 @@ languages:
 tags:
   - financial
 industries:
-  - investment
   - "financial-services"
   - finance
+  - investment
 countries:
   - "united-states"
 revenue_buckets:
@@ -34,10 +34,10 @@ total_equity_buckets:
 market_cap_buckets: []
 products_or_materials_produced:
   - "financial-services"
-  - "broker-dealer"
+  - intermediation
   - broker
   - "asset-management"
-  - intermediation
+  - "broker-dealer"
   - "investment-banking"
 products: []
 headquarters_locations:
@@ -96,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/); [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Broker](/products_or_materials_produced/broker/); [Asset Management](/products_or_materials_produced/asset-management/); [Intermediation](/products_or_materials_produced/intermediation/); [Investment Banking](/products_or_materials_produced/investment-banking/) |
+| Product Or Material Produced | [Financial Services](/products_or_materials_produced/financial-services/); [Intermediation](/products_or_materials_produced/intermediation/); [Broker](/products_or_materials_produced/broker/); [Asset Management](/products_or_materials_produced/asset-management/); [Broker Dealer](/products_or_materials_produced/broker-dealer/); [Investment Banking](/products_or_materials_produced/investment-banking/) |
 | Headquarters Location | [St Louis](/headquarters_locations/st-louis/) |
 | Foundation Date | [1890](/foundation_dates/1890/) |
 | Stock Exchange | New York Stock Exchange (from 1986-11-24) |

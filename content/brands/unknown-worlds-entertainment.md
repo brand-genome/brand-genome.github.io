@@ -2,7 +2,7 @@
 title: Unknown Worlds Entertainment
 slug: "unknown-worlds-entertainment"
 description: ""
-date: "2026-04-15T09:21:22.343566"
+date: "2026-04-16T19:21:57.529311"
 draft: false
 sectors:
   - gaming
@@ -73,7 +73,7 @@ visual_term_image_urls: {}
 - [https://unknownworlds.com/en](https://unknownworlds.com/en)
 - [https://subnautica.com/en](https://subnautica.com/en)
 - [https://naturalselection2.com](https://naturalselection2.com)
-- [https://moonbreaker.com](https://moonbreaker.com)
+- [https://moonbreaker.com/en](https://moonbreaker.com/en)
 - [http://www.unknownworlds.com](http://www.unknownworlds.com)
 
 ## Brand Guidelines

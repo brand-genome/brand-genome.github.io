@@ -2,10 +2,10 @@
 title: Bar Pine
 slug: "bar-pine"
 description: ""
-date: "2026-04-15T09:21:22.066067"
+date: "2026-04-16T19:21:57.104633"
 draft: false
 sectors:
-  - "food-beverage"
+  - drink
   - restaurant
 regions:
   - taiwan
@@ -14,8 +14,8 @@ years:
 languages:
   - chinese
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

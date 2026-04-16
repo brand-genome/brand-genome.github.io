@@ -2,7 +2,7 @@
 title: Honda
 slug: honda
 description: ""
-date: "2026-04-15T09:21:23.399914"
+date: "2026-04-16T19:21:58.789622"
 draft: false
 sectors:
   - automobile
@@ -10,17 +10,17 @@ regions:
   - japan
 years:
   - 2013
-  - 2021
   - 2009
+  - 2021
 languages:
-  - english
   - french
+  - english
 tags:
   - featured
   - transport
 industries:
-  - "automotive-industry"
   - "industrial-manufacturing"
+  - "automotive-industry"
 countries:
   - japan
 revenue_buckets:
@@ -37,15 +37,15 @@ total_equity_buckets:
   - "OVER-1T"
 market_cap_buckets: []
 products_or_materials_produced:
-  - car
-  - airplane
-  - engine
-  - motorcycle
-  - "garden-tool"
   - robot
+  - airplane
+  - motorcycle
   - "et-cetera"
+  - "garden-tool"
   - truck
   - "electrical-generator"
+  - car
+  - engine
 products: []
 headquarters_locations:
   - minato
@@ -87,10 +87,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.honda](https://global.honda)
+- [https://global.honda/en](https://global.honda/en)
 - [https://www.honda.co.jp](https://www.honda.co.jp)
-- [https://www.honda.com/en](https://www.honda.com/en)
-- [https://automobiles.honda.com](https://automobiles.honda.com)
+- [https://global.honda](https://global.honda)
 - [http://www.honda.co.uk](http://www.honda.co.uk)
 - [https://www.honda.com.vn](https://www.honda.com.vn)
 - [https://www.honda.co.th](https://www.honda.co.th)
@@ -470,7 +469,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Airplane](/products_or_materials_produced/airplane/); [Engine](/products_or_materials_produced/engine/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Robot](/products_or_materials_produced/robot/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Truck](/products_or_materials_produced/truck/); [Electrical Generator](/products_or_materials_produced/electrical-generator/) |
+| Product Or Material Produced | [Robot](/products_or_materials_produced/robot/); [Airplane](/products_or_materials_produced/airplane/); [Motorcycle](/products_or_materials_produced/motorcycle/); [Et Cetera](/products_or_materials_produced/et-cetera/); [Garden Tool](/products_or_materials_produced/garden-tool/); [Truck](/products_or_materials_produced/truck/); [Electrical Generator](/products_or_materials_produced/electrical-generator/); [Car](/products_or_materials_produced/car/); [Engine](/products_or_materials_produced/engine/) |
 | Headquarters Location | [Minato](/headquarters_locations/minato/) |
 | Foundation Date | [1946](/foundation_dates/1946/); [1948](/foundation_dates/1948/) |
 | Country | Japan |

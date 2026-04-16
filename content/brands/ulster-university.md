@@ -2,21 +2,21 @@
 title: Ulster University
 slug: "ulster-university"
 description: ""
-date: "2026-04-15T09:21:24.381539"
+date: "2026-04-16T19:21:59.969332"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - "united-kingdom"
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -68,9 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://portal.ulster.ac.uk](https://portal.ulster.ac.uk)
 - [https://www.ulster.ac.uk](https://www.ulster.ac.uk)
-- [http://portal.ulster.ac.uk](http://portal.ulster.ac.uk)
-- [https://recruitment.ulster.ac.uk](https://recruitment.ulster.ac.uk)
 
 ## Brand Guidelines
 

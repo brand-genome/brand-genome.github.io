@@ -2,7 +2,7 @@
 title: Turkish Basketball Federation
 slug: "turkish-basketball-federation"
 description: ""
-date: "2026-04-15T09:21:25.448222"
+date: "2026-04-16T19:22:01.140161"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tbf.org.tr](https://www.tbf.org.tr)
 - [http://www.tbf.org.tr](http://www.tbf.org.tr)
 
 ## Brand Guidelines

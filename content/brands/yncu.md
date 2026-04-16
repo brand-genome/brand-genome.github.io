@@ -2,7 +2,7 @@
 title: YNCU
 slug: yncu
 description: ""
-date: "2026-04-15T09:21:24.221544"
+date: "2026-04-16T19:21:59.590671"
 draft: false
 sectors:
   - finance

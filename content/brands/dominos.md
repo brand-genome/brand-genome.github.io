@@ -2,11 +2,11 @@
 title: Domino’s
 slug: dominos
 description: ""
-date: "2026-04-15T09:21:24.726751"
+date: "2026-04-16T19:22:00.271968"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -60,12 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.dominos.co.uk](https://www.dominos.co.uk)
-- [https://www.dominos.ie](https://www.dominos.ie)
-- [https://corporate.dominos.co.uk](https://corporate.dominos.co.uk)
-
 ## Brand Guidelines
 
 ### 2013

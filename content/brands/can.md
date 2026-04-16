@@ -2,10 +2,9 @@
 title: Can
 slug: can
 description: ""
-date: "2026-04-15T09:21:24.938288"
+date: "2026-04-16T19:22:00.512757"
 draft: false
 sectors:
-  - "coworking-flexible-office"
   - ngo
 regions:
   - "united-kingdom"

@@ -2,7 +2,7 @@
 title: Orchestre de Chambre de Paris
 slug: "orchestre-de-chambre-de-paris"
 description: ""
-date: "2026-04-15T09:21:25.858828"
+date: "2026-04-16T19:22:02.125844"
 draft: false
 sectors:
   - "arts-culture"
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - music
   - cultural
+  - music
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: One UI
 slug: "one-ui"
 description: ""
-date: "2026-04-15T09:21:25.662752"
+date: "2026-04-16T19:22:01.693766"
 draft: false
 sectors:
   - software

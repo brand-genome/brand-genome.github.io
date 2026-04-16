@@ -2,12 +2,12 @@
 title: Linku
 slug: linku
 description: ""
-date: "2026-04-15T09:21:25.171100"
+date: "2026-04-16T19:22:00.766612"
 draft: false
 sectors:
-  - consulting
   - "design-creative"
   - software
+  - consulting
 regions:
   - netherlands
 years:

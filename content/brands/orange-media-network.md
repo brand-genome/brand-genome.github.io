@@ -2,11 +2,11 @@
 title: Orange Media Network
 slug: "orange-media-network"
 description: ""
-date: "2026-04-15T09:21:25.744277"
+date: "2026-04-16T19:22:01.912515"
 draft: false
 sectors:
-  - broadcasting
   - publishing
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []

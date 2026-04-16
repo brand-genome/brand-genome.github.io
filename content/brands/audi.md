@@ -2,7 +2,7 @@
 title: Audi
 slug: audi
 description: ""
-date: "2026-04-15T09:21:22.418118"
+date: "2026-04-16T19:21:57.698067"
 draft: false
 sectors:
   - automobile
@@ -13,11 +13,11 @@ years:
 languages:
   - english
 tags:
-  - transport
   - corporate
+  - transport
 industries:
-  - "automotive-industry"
   - "vehicle-construction"
+  - "automotive-industry"
 countries:
   - "german-reich"
   - germany
@@ -75,10 +75,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.audi.com](https://www.audi.com)
+- [https://www.audi.com/en](https://www.audi.com/en)
 - [https://www.audi.com/en/company](https://www.audi.com/en/company)
 - [https://www.audi.com/de](https://www.audi.com/de)
-- [https://my.audi.com](https://my.audi.com)
+- [https://my.audi.com/region-selector](https://my.audi.com/region-selector)
+- [https://www.audi.com](https://www.audi.com)
 - [https://www.audi.co.za](https://www.audi.co.za)
 - [https://www.audi.de](https://www.audi.de)
 - [https://www.audi.fr](https://www.audi.fr)

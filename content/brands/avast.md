@@ -2,11 +2,11 @@
 title: Avast
 slug: avast
 description: ""
-date: "2026-04-15T09:21:24.538929"
+date: "2026-04-16T19:22:00.111789"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - "czech-republic"
 years:
@@ -17,8 +17,8 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - "computer-security"
+  - "software-industry"
 countries:
   - "czech-republic"
 revenue_buckets:
@@ -76,7 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.avast.com](https://www.avast.com)
+- [https://www.avast.com/hi-in/index](https://www.avast.com/hi-in/index)
 - [https://www.avast.com/en-us/business](https://www.avast.com/en-us/business)
 - [https://support.avast.com/en-us](https://support.avast.com/en-us)
 - [https://www.avast.com/about](https://www.avast.com/about)

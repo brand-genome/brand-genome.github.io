@@ -2,7 +2,7 @@
 title: Salve Regina University
 slug: "salve-regina-university"
 description: ""
-date: "2026-04-15T09:21:22.535780"
+date: "2026-04-16T19:21:57.877927"
 draft: false
 sectors:
   - university

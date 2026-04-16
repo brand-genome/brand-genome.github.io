@@ -2,11 +2,11 @@
 title: UW Milwaukee
 slug: "uw-milwaukee"
 description: ""
-date: "2026-04-15T09:21:25.707028"
+date: "2026-04-16T19:22:01.820374"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uwm.edu](https://www.uwm.edu)
 - [https://uwm.edu/brand](https://uwm.edu/brand)
 - [http://www.uwm.edu](http://www.uwm.edu)
 - [http://uwm.edu](http://uwm.edu)

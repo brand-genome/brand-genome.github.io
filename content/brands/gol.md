@@ -2,7 +2,7 @@
 title: GOL
 slug: gol
 description: ""
-date: "2026-04-15T09:21:25.054980"
+date: "2026-04-16T19:22:00.647872"
 draft: false
 sectors:
   - airline
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.voegol.com.br](https://www.voegol.com.br)
 - [http://www.voegol.com.br](http://www.voegol.com.br)
 - [http://m.voegol.com.br](http://m.voegol.com.br)
 

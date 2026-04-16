@@ -2,7 +2,7 @@
 title: Service National Universel
 slug: "service-national-universel"
 description: ""
-date: "2026-04-15T09:21:25.378549"
+date: "2026-04-16T19:22:01.045281"
 draft: false
 sectors:
   - "public-sector"
@@ -30,8 +30,8 @@ products: []
 headquarters_locations: []
 subsidiaries: []
 foundation_dates:
-  - 2018
   - 2019
+  - 2018
 foundation_year_buckets:
   - 2010S
 lightings: []
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.snu.gouv.fr](https://www.snu.gouv.fr)
-- [https://www.jeunes.gouv.fr](https://www.jeunes.gouv.fr)
-- [https://www.education.gouv.fr](https://www.education.gouv.fr)
 - [https://www.defense.gouv.fr](https://www.defense.gouv.fr)
 
 ## Brand Guidelines
@@ -324,7 +322,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Foundation Date | [2018](/foundation_dates/2018/); [2019](/foundation_dates/2019/) |
+| Foundation Date | [2019](/foundation_dates/2019/); [2018](/foundation_dates/2018/) |
 | Google Knowledge Graph Id | /g/11flxwg5zx |
 | Inception | 2019, 2018 |
 | Country | France |

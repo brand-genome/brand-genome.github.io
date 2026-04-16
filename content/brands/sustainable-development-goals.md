@@ -2,16 +2,15 @@
 title: Sustainable Development Goals
 slug: "sustainable-development-goals"
 description: ""
-date: "2026-04-15T09:21:23.424086"
+date: "2026-04-16T19:21:58.810647"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - international
 years:
-  - 2023
   - 2019
+  - 2023
 languages:
   - english
 tags:
@@ -65,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.un.org/sustainabledevelopment/development-goals](https://www.un.org/sustainabledevelopment/development-goals)
 - [https://sdgs.un.org/goals](https://sdgs.un.org/goals)
-- [https://www.undp.org/sustainable-development-goals](https://www.undp.org/sustainable-development-goals)
 
 ## Brand Guidelines
 

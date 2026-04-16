@@ -2,7 +2,7 @@
 title: Bellevue Children’s Academy
 slug: "bellevue-childrens-academy"
 description: ""
-date: "2026-04-15T09:21:23.207414"
+date: "2026-04-16T19:21:58.618831"
 draft: false
 sectors:
   - education

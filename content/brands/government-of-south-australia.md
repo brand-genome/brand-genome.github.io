@@ -2,7 +2,7 @@
 title: Government of South Australia
 slug: "government-of-south-australia"
 description: ""
-date: "2026-04-15T09:21:22.425446"
+date: "2026-04-16T19:21:57.704361"
 draft: false
 sectors:
   - "public-sector"
@@ -65,9 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sa.gov.au](https://www.sa.gov.au)
-- [https://www.sa.gov.au/mysagov](https://www.sa.gov.au/mysagov)
-- [https://www.premier.sa.gov.au](https://www.premier.sa.gov.au)
-- [https://www.governmentgazette.sa.gov.au](https://www.governmentgazette.sa.gov.au)
 
 ## Brand Guidelines
 

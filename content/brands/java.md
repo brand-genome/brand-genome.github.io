@@ -2,7 +2,7 @@
 title: Java
 slug: java
 description: ""
-date: "2026-04-15T09:21:24.310916"
+date: "2026-04-16T19:21:59.718213"
 draft: false
 sectors:
   - software
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oracle.com/java](https://www.oracle.com/java)
-- [https://www.java.com](https://www.java.com)
 - [https://openjdk.org](https://openjdk.org)
 - [https://dev.java](https://dev.java)
 

@@ -2,11 +2,11 @@
 title: Alpha
 slug: alpha
 description: ""
-date: "2026-04-15T09:21:23.978210"
+date: "2026-04-16T19:21:59.287447"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - france
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.parcoursalpha.fr](https://www.parcoursalpha.fr)
-- [https://alpha.org](https://alpha.org)
+- [https://www.alpha.org](https://www.alpha.org)
 
 ## Brand Guidelines
 

@@ -2,11 +2,11 @@
 title: Oracle Academy
 slug: "oracle-academy"
 description: ""
-date: "2026-04-15T09:21:25.031093"
+date: "2026-04-16T19:22:00.617116"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://academy.oracle.com](https://academy.oracle.com)
-- [https://academy.oracle.com/pt-br](https://academy.oracle.com/pt-br)
 - [http://www.oracle.com](http://www.oracle.com)
 
 ## Brand Guidelines

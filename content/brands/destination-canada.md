@@ -2,7 +2,7 @@
 title: Destination Canada
 slug: "destination-canada"
 description: ""
-date: "2026-04-15T09:21:24.388801"
+date: "2026-04-16T19:21:59.978292"
 draft: false
 sectors:
   - tourism
@@ -10,8 +10,8 @@ sectors:
 regions:
   - canada
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:

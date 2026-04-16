@@ -2,7 +2,7 @@
 title: Bello
 slug: bello
 description: ""
-date: "2026-04-15T09:21:22.225456"
+date: "2026-04-16T19:21:57.268129"
 draft: false
 sectors:
   - restaurant

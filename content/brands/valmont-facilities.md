@@ -2,7 +2,7 @@
 title: Valmont facilities
 slug: "valmont-facilities"
 description: ""
-date: "2026-04-15T09:21:24.009536"
+date: "2026-04-16T19:21:59.319534"
 draft: false
 sectors:
   - "agricultural-heavy-equipment"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.valmont.com](https://www.valmont.com)
-- [https://www.valmont.com/brand](https://www.valmont.com/brand)
 
 ## Brand Guidelines
 

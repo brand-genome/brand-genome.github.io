@@ -2,12 +2,12 @@
 title: Hitachi
 slug: hitachi
 description: ""
-date: "2026-04-15T09:21:25.861103"
+date: "2026-04-16T19:22:02.129626"
 draft: false
 sectors:
-  - hardware
-  - electronics
   - software
+  - electronics
+  - hardware
 regions:
   - japan
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - electronics
   - corporate
+  - electronics
 industries:
-  - "consumer-electronics-industry"
   - "electrical-industry"
+  - "consumer-electronics-industry"
 countries:
   - japan
 revenue_buckets: []
@@ -70,6 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.hitachi.com/en](https://www.hitachi.com/en)
 - [https://www.hitachi.com](https://www.hitachi.com)
 
 ## Brand Guidelines

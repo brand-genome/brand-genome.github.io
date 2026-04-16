@@ -2,7 +2,7 @@
 title: Accor Hotels
 slug: "accor-hotels"
 description: ""
-date: "2026-04-15T09:21:24.551756"
+date: "2026-04-16T19:22:00.123291"
 draft: false
 sectors:
   - tourism
@@ -16,8 +16,8 @@ languages:
 tags:
   - tourism
 industries:
-  - "hospitality-industry"
   - "activities-of-head-offices"
+  - "hospitality-industry"
 countries:
   - france
 revenue_buckets:
@@ -74,15 +74,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://all.accor.com](https://all.accor.com)
-- [https://group.accor.com](https://group.accor.com)
+- [https://all.accor.com/a/en.html](https://all.accor.com/a/en.html)
+- [https://group.accor.com/en](https://group.accor.com/en)
 - [http://www.accor.com](http://www.accor.com)
 - [http://www.accorhotels.com](http://www.accorhotels.com)
-- [https://group.accor.com/en](https://group.accor.com/en)
 - [https://group.accor.com/fr-FR](https://group.accor.com/fr-FR)
 - [https://www.restaurants.accorhotels.com](https://www.restaurants.accorhotels.com)
 - [https://restaurantsandbars.accor.com](https://restaurantsandbars.accor.com)
 - [https://accorhotels.com](https://accorhotels.com)
+- [https://all.accor.com](https://all.accor.com)
 
 ## Brand Guidelines
 

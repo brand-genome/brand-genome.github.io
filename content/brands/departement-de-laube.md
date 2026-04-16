@@ -2,7 +2,7 @@
 title: Département de l’Aube
 slug: "departement-de-laube"
 description: ""
-date: "2026-04-15T09:21:23.789501"
+date: "2026-04-16T19:21:59.118738"
 draft: false
 sectors:
   - "public-sector"

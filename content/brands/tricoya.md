@@ -2,7 +2,7 @@
 title: Tricoya
 slug: tricoya
 description: ""
-date: "2026-04-15T09:21:25.391159"
+date: "2026-04-16T19:22:01.066953"
 draft: false
 sectors:
   - construction
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tricoya.com](https://www.tricoya.com)
 - [https://www.accsysplc.com](https://www.accsysplc.com)
 
 ## Brand Guidelines

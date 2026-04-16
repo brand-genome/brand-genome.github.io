@@ -2,11 +2,11 @@
 title: ACIMC
 slug: acimc
 description: ""
-date: "2026-04-15T09:21:25.743336"
+date: "2026-04-16T19:22:01.911531"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - france
 years:
@@ -62,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://a-c-i-m-c.org](http://a-c-i-m-c.org)
-- [https://a-c-i-m-c.org](https://a-c-i-m-c.org)
+- [https://hitmysong.io](https://hitmysong.io)
 
 ## Brand Guidelines
 

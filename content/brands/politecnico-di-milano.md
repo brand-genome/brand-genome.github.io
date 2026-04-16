@@ -2,11 +2,11 @@
 title: Politecnico di Milano
 slug: "politecnico-di-milano"
 description: ""
-date: "2026-04-15T09:21:22.343342"
+date: "2026-04-16T19:21:57.528107"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - featured
   - education
+  - featured
 industries: []
 countries:
   - italy

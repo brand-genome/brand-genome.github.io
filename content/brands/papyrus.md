@@ -2,11 +2,11 @@
 title: Papyrus
 slug: papyrus
 description: ""
-date: "2026-04-15T09:21:22.463124"
+date: "2026-04-16T19:21:57.749374"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.papyrus-uk.org](https://www.papyrus-uk.org)
-
 ## Brand Guidelines
 
 ### 2024

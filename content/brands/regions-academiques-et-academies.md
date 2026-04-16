@@ -2,7 +2,7 @@
 title: Régions académiques et Académies
 slug: "regions-academiques-et-academies"
 description: ""
-date: "2026-04-15T09:21:24.153947"
+date: "2026-04-16T19:21:59.483722"
 draft: false
 sectors:
   - "public-sector"
@@ -61,13 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.education.gouv.fr](https://www.education.gouv.fr)
-- [https://www.education.gouv.fr/academie-de-paris-467953](https://www.education.gouv.fr/academie-de-paris-467953)
-- [https://www.ac-paris.fr](https://www.ac-paris.fr)
-- [https://www.ac-paris.fr/RAIDF](https://www.ac-paris.fr/RAIDF)
-
 ## Brand Guidelines
 
 ### 2020

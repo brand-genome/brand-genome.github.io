@@ -2,12 +2,12 @@
 title: Gojek
 slug: gojek
 description: ""
-date: "2026-04-15T09:21:23.139527"
+date: "2026-04-16T19:21:58.540730"
 draft: false
 sectors:
   - finance
-  - "ride-sharing"
   - software
+  - "ride-sharing"
 regions:
   - indonesia
 years:
@@ -15,11 +15,11 @@ years:
 languages:
   - english
 tags:
-  - featured
   - financial
+  - featured
 industries:
-  - "software-industry"
   - "online-taxi-service"
+  - "software-industry"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []
@@ -70,8 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gojek.com](https://www.gojek.com)
-- [https://www.gojek.com/goride](https://www.gojek.com/goride)
+- [https://www.gojek.com/en-id](https://www.gojek.com/en-id)
+- [https://www.gojek.com/en-id/goride](https://www.gojek.com/en-id/goride)
 - [https://www.gojek.com/en-id/help](https://www.gojek.com/en-id/help)
 - [http://www.gojek.com](http://www.gojek.com)
 - [http://www.instagram.com/gojekindonesia](http://www.instagram.com/gojekindonesia)

@@ -2,16 +2,16 @@
 title: Boy Scouts of America
 slug: "boy-scouts-of-america"
 description: ""
-date: "2026-04-15T09:21:24.320801"
+date: "2026-04-16T19:21:59.729874"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.scouting.org](https://www.scouting.org)
-- [https://www.scoutshop.org](https://www.scoutshop.org)
 - [http://www.scouting.org](http://www.scouting.org)
 
 ## Brand Guidelines

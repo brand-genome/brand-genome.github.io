@@ -2,7 +2,7 @@
 title: Kaluga Region
 slug: "kaluga-region"
 description: ""
-date: "2026-04-15T09:21:24.050818"
+date: "2026-04-16T19:21:59.370897"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.admobl.kaluga.ru](http://www.admobl.kaluga.ru)
-
 ## Brand Guidelines
 
 ### 2011

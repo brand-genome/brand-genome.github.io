@@ -2,10 +2,9 @@
 title: INTO
 slug: into
 description: ""
-date: "2026-04-15T09:21:25.375111"
+date: "2026-04-16T19:22:01.041677"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
 regions:
   - "united-kingdom"

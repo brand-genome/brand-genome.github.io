@@ -2,7 +2,7 @@
 title: World Curling
 slug: "world-curling"
 description: ""
-date: "2026-04-15T09:21:22.112884"
+date: "2026-04-16T19:21:57.149325"
 draft: false
 sectors:
   - sports

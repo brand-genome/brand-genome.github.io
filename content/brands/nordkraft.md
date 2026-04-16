@@ -2,7 +2,7 @@
 title: Nordkraft
 slug: nordkraft
 description: ""
-date: "2026-04-15T09:21:24.339696"
+date: "2026-04-16T19:21:59.781034"
 draft: false
 sectors:
   - utilities
@@ -16,9 +16,9 @@ languages:
 tags:
   - engineering
 industries:
+  - "network-operator"
   - "electricity-generation"
   - "energy-company"
-  - "network-operator"
 countries:
   - norway
 revenue_buckets: []
@@ -70,9 +70,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nordkraft.no](https://www.nordkraft.no)
+- [https://www.nordkraft.no?lang=no_NO](https://www.nordkraft.no?lang=no_NO)
 - [http://www.nordkraft.no](http://www.nordkraft.no)
 - [http://www.narvik-energi.no](http://www.narvik-energi.no)
+- [https://www.nordkraft.no](https://www.nordkraft.no)
 
 ## Brand Guidelines
 

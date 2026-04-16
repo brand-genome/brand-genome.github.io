@@ -2,11 +2,11 @@
 title: Kenyon
 slug: kenyon
 description: ""
-date: "2026-04-15T09:21:23.605196"
+date: "2026-04-16T19:21:58.893827"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kenyon.edu](https://www.kenyon.edu)
-- [http://messaging.kenyon.edu](http://messaging.kenyon.edu)
 - [http://www.kenyon.edu](http://www.kenyon.edu)
 
 ## Brand Guidelines

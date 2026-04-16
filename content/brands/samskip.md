@@ -2,11 +2,11 @@
 title: Samskip
 slug: samskip
 description: ""
-date: "2026-04-15T09:21:24.761215"
+date: "2026-04-16T19:22:00.309127"
 draft: false
 sectors:
-  - "maritime-shipping"
   - "logistics-supply-chain"
+  - "maritime-shipping"
 regions:
   - netherlands
 years:
@@ -16,11 +16,11 @@ languages:
 tags:
   - corporate
 industries:
-  - logistics
   - "transport-industry"
+  - logistics
 countries:
-  - iceland
   - netherlands
+  - iceland
 revenue_buckets:
   - "500M-1B"
 operating_income_buckets: []

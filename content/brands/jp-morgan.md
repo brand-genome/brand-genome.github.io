@@ -2,7 +2,7 @@
 title: JP Morgan
 slug: "jp-morgan"
 description: ""
-date: "2026-04-15T09:21:24.923777"
+date: "2026-04-16T19:22:00.495068"
 draft: false
 sectors:
   - finance
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jpmorgan.com](https://www.jpmorgan.com)
+- [https://www.jpmorgan.com/global](https://www.jpmorgan.com/global)
 - [http://www.jpmorgan.com](http://www.jpmorgan.com)
 - [http://www.jpmorgan.com/pages/jpmorgan](http://www.jpmorgan.com/pages/jpmorgan)
 - [https://people.firstrepublic.com](https://people.firstrepublic.com)

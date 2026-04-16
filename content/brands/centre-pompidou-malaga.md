@@ -2,7 +2,7 @@
 title: Centre Pompidou Málaga
 slug: "centre-pompidou-malaga"
 description: ""
-date: "2026-04-15T09:21:22.317822"
+date: "2026-04-16T19:21:57.363080"
 draft: false
 sectors:
   - "arts-culture"

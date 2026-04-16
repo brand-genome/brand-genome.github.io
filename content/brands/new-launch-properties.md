@@ -2,7 +2,7 @@
 title: New Launch Properties
 slug: "new-launch-properties"
 description: ""
-date: "2026-04-15T09:21:22.513642"
+date: "2026-04-16T19:21:57.842612"
 draft: false
 sectors:
   - "real-estate"
@@ -61,6 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://newlaunchproperties.com](https://newlaunchproperties.com)
+- [https://www.newlaunchproperties.com](https://www.newlaunchproperties.com)
 - [https://www.newlaunchproperties.ae](https://www.newlaunchproperties.ae)
 - [http://www.newlaunchproperties.ae](http://www.newlaunchproperties.ae)

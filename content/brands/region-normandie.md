@@ -2,7 +2,7 @@
 title: Région Normandie
 slug: "region-normandie"
 description: ""
-date: "2026-04-15T09:21:25.866123"
+date: "2026-04-16T19:22:02.135564"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.normandie.fr](https://www.normandie.fr)
-
 ## Brand Guidelines
 
 ### 2016

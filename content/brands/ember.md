@@ -2,7 +2,7 @@
 title: Ember
 slug: ember
 description: ""
-date: "2026-04-15T09:21:24.163919"
+date: "2026-04-16T19:21:59.498186"
 draft: false
 sectors:
   - software

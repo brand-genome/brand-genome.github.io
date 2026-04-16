@@ -2,12 +2,12 @@
 title: Middlecap
 slug: middlecap
 description: ""
-date: "2026-04-15T09:21:25.444898"
+date: "2026-04-16T19:22:01.134426"
 draft: false
 sectors:
-  - "real-estate"
-  - consulting
   - finance
+  - consulting
+  - "real-estate"
 regions:
   - slovakia
 years:

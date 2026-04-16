@@ -2,7 +2,7 @@
 title: "Covid-19 Public Health Advice"
 slug: "covid-19-public-health-advice"
 description: ""
-date: "2026-04-15T09:21:24.279285"
+date: "2026-04-16T19:21:59.685203"
 draft: false
 sectors:
   - "public-sector"
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources](https://www.gov.ie/en/department-of-health/collections/covid-19-information-resources)
-- [https://www.gov.ie/health-covid-19](https://www.gov.ie/health-covid-19)
-- [https://www.gov.ie/health](https://www.gov.ie/health)
+- [https://www.gov.ie/en/department-of-health](https://www.gov.ie/en/department-of-health)
 - [https://www.hse.ie](https://www.hse.ie)
 
 ## Brand Guidelines

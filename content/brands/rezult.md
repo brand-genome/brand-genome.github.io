@@ -2,7 +2,7 @@
 title: Rezult
 slug: rezult
 description: ""
-date: "2026-04-15T09:21:22.351840"
+date: "2026-04-16T19:21:57.583108"
 draft: false
 sectors:
   - "forestry-timber"
@@ -61,10 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rezult.pro](https://rezult.pro)
+- [https://rezult.pro/ua](https://rezult.pro/ua)
 - [https://rezult.pro/en/contacts](https://rezult.pro/en/contacts)
-- [https://rezult-timber.com](https://rezult-timber.com)
-- [https://rezult-timber.com/en/contacts](https://rezult-timber.com/en/contacts)
 - [http://www.rezult.pro](http://www.rezult.pro)
 
 ## Brand Guidelines

@@ -2,28 +2,28 @@
 title: Deutsche Bank
 slug: "deutsche-bank"
 description: ""
-date: "2026-04-15T09:21:23.206091"
+date: "2026-04-16T19:21:58.616242"
 draft: false
 sectors:
   - finance
 regions:
   - germany
 years:
-  - 1978
   - 2022
+  - 1978
   - 2011
 languages:
-  - english
   - german
+  - english
 tags:
-  - featured
-  - vintage
   - financial
+  - vintage
+  - featured
 industries:
-  - "other-monetary-intermediation"
   - "financial-services"
-  - "financial-service-activities-except-insurance-and-pension-funding"
   - "financial-sector"
+  - "financial-service-activities-except-insurance-and-pension-funding"
+  - "other-monetary-intermediation"
 countries:
   - germany
 revenue_buckets:
@@ -82,9 +82,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.db.com](https://www.db.com)
-- [https://www.deutsche-bank.de](https://www.deutsche-bank.de)
+- [https://www.deutsche-bank.de/pk.html](https://www.deutsche-bank.de/pk.html)
 - [http://www.db.com](http://www.db.com)
 - [http://www.deutschewealth.com](http://www.deutschewealth.com)
+- [https://www.deutsche-bank.de](https://www.deutsche-bank.de)
 - [https://www.db-finanzberatung.de](https://www.db-finanzberatung.de)
 - [https://www.deutsche-bank.es](https://www.deutsche-bank.es)
 

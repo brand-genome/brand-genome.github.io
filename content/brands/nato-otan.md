@@ -2,11 +2,11 @@
 title: NATO / OTAN
 slug: "nato-otan"
 description: ""
-date: "2026-04-15T09:21:25.452216"
+date: "2026-04-16T19:22:01.161356"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
 regions:
   - international
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nato.int](https://www.nato.int)
+- [https://www.nato.int/en](https://www.nato.int/en)
 - [https://www.nato.org](https://www.nato.org)
 - [http://www.nato.int](http://www.nato.int)
 

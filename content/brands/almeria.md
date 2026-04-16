@@ -2,11 +2,11 @@
 title: Almería
 slug: almeria
 description: ""
-date: "2026-04-15T09:21:24.551033"
+date: "2026-04-16T19:22:00.122534"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - spain
 years:

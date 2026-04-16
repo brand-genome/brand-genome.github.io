@@ -2,7 +2,7 @@
 title: NewTek
 slug: newtek
 description: ""
-date: "2026-04-15T09:21:24.232559"
+date: "2026-04-16T19:21:59.609875"
 draft: false
 sectors:
   - software

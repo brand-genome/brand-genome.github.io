@@ -2,7 +2,7 @@
 title: "Kaboom!"
 slug: kaboom
 description: ""
-date: "2026-04-15T09:21:23.846283"
+date: "2026-04-16T19:21:59.174521"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - sport
+  - community
 industries: []
 countries:
   - "united-states"

@@ -2,7 +2,7 @@
 title: Tech Informed
 slug: "tech-informed"
 description: ""
-date: "2026-04-15T09:21:23.690798"
+date: "2026-04-16T19:21:59.014469"
 draft: false
 sectors:
   - publishing
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.techinformed.com](https://www.techinformed.com)
+- [https://techinformed.com](https://techinformed.com)
 - [http://www.techinformed.com](http://www.techinformed.com)
 
 ## Brand Guidelines

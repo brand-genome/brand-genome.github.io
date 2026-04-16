@@ -2,7 +2,7 @@
 title: Chelsea Football Club
 slug: "chelsea-football-club"
 description: ""
-date: "2026-04-15T09:21:25.457262"
+date: "2026-04-16T19:22:01.174785"
 draft: false
 sectors:
   - sports
@@ -65,10 +65,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.chelseafc.com](https://www.chelseafc.com)
+- [https://www.chelseafc.com/en](https://www.chelseafc.com/en)
 - [https://www.chelseafc.com/en/tickets-button](https://www.chelseafc.com/en/tickets-button)
 - [https://usastore.chelseafc.com](https://usastore.chelseafc.com)
 - [http://www.chelseafc.com](http://www.chelseafc.com)
+- [https://www.chelseafc.com](https://www.chelseafc.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Bluebeam
 slug: bluebeam
 description: ""
-date: "2026-04-15T09:21:22.509143"
+date: "2026-04-16T19:21:57.836163"
 draft: false
 sectors:
   - software
@@ -62,8 +62,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.bluebeam.com](https://www.bluebeam.com)
-- [https://support.bluebeam.com](https://support.bluebeam.com)
-- [https://studio.bluebeam.com](https://studio.bluebeam.com)
+- [https://support.bluebeam.com/home.html](https://support.bluebeam.com/home.html)
+- [https://signin.bluebeam.com/oauth2/aus24bywt5tBmY0ky4x7/v1/authorize?client_id=2f77e584-f6ae-401e-9209-1b2d08d320e7&nonce=639077449431613102.YjAxYzFmNjQtOWJhOS00YmZmLWIxMzgtNTQ2NjM5NmQ3ZTIwNGM2NWRkMDMtNDU2ZC00ZjI3LTgwNWMtNjBiMjQ4OGU1YzM1&redirect_uri=https%3A%2F%2Fstudio.bluebeam.com&response_mode=form_post&response_type=code+id_token+token&scope=openid+profile+email&state=OpenIdConnect.AuthenticationProperties%3Dm3rdSgyi9C6nvH2sn5GJgUcldp_o7lQLNr-emhQZXOlBrac4PacPLqMotuVb3RmZAXUzel-Qfr7I8GTL3UfGYiChlgO-u0tsHDvvDW7OFflekdRkUa5JcQiLItKIavwSOq47XnCJ5zHErOd-fSq4FRE1_Qxe4UsNl-JC8E1-Y7GQtKjf5HaKfPWQ8oor62z4eMMqGg&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554](https://signin.bluebeam.com/oauth2/aus24bywt5tBmY0ky4x7/v1/authorize?client_id=2f77e584-f6ae-401e-9209-1b2d08d320e7&nonce=639077449431613102.YjAxYzFmNjQtOWJhOS00YmZmLWIxMzgtNTQ2NjM5NmQ3ZTIwNGM2NWRkMDMtNDU2ZC00ZjI3LTgwNWMtNjBiMjQ4OGU1YzM1&redirect_uri=https%3A%2F%2Fstudio.bluebeam.com&response_mode=form_post&response_type=code+id_token+token&scope=openid+profile+email&state=OpenIdConnect.AuthenticationProperties%3Dm3rdSgyi9C6nvH2sn5GJgUcldp_o7lQLNr-emhQZXOlBrac4PacPLqMotuVb3RmZAXUzel-Qfr7I8GTL3UfGYiChlgO-u0tsHDvvDW7OFflekdRkUa5JcQiLItKIavwSOq47XnCJ5zHErOd-fSq4FRE1_Qxe4UsNl-JC8E1-Y7GQtKjf5HaKfPWQ8oor62z4eMMqGg&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554)
 - [https://status.bluebeam.com](https://status.bluebeam.com)
 
 ## Brand Guidelines

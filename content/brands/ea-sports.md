@@ -2,7 +2,7 @@
 title: EA Sports
 slug: "ea-sports"
 description: ""
-date: "2026-04-15T09:21:25.402624"
+date: "2026-04-16T19:22:01.085188"
 draft: false
 sectors:
   - gaming
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - entertainment
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Jeep
 slug: jeep
 description: ""
-date: "2026-04-15T09:21:25.333841"
+date: "2026-04-16T19:22:00.999973"
 draft: false
 sectors:
   - automobile
@@ -68,11 +68,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.jeep.com](https://www.jeep.com)
-- [https://www.jeep.ca](https://www.jeep.ca)
-- [https://www.jeep.co.uk](https://www.jeep.co.uk)
 - [https://www.jeep.com.br](https://www.jeep.com.br)
 - [https://www.jeep.de](https://www.jeep.de)
 - [https://www.jeep.com.tr](https://www.jeep.com.tr)
+- [https://www.jeep.co.uk](https://www.jeep.co.uk)
 
 ## Brand Guidelines
 

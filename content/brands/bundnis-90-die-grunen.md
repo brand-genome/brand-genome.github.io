@@ -2,7 +2,7 @@
 title: Bündnis 90 / Die Grünen
 slug: "bundnis-90-die-grunen"
 description: ""
-date: "2026-04-15T09:21:23.996698"
+date: "2026-04-16T19:21:59.305958"
 draft: false
 sectors:
   - "public-sector"

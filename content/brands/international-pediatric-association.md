@@ -2,11 +2,11 @@
 title: International Pediatric Association
 slug: "international-pediatric-association"
 description: ""
-date: "2026-04-15T09:21:24.915152"
+date: "2026-04-16T19:22:00.485607"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ipa-world.org](https://www.ipa-world.org)
-- [https://www.ipa-world.com](https://www.ipa-world.com)
-- [https://www.ipaf-world.org](https://www.ipaf-world.org)
 - [http://www.ipa-world.org](http://www.ipa-world.org)
 - [https://ipa-world.org](https://ipa-world.org)
 

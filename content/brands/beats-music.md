@@ -2,7 +2,7 @@
 title: Beats Music
 slug: "beats-music"
 description: ""
-date: "2026-04-15T09:21:24.659053"
+date: "2026-04-16T19:22:00.210907"
 draft: false
 sectors:
   - entertainment

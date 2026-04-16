@@ -2,7 +2,7 @@
 title: City of Liège
 slug: "city-of-liege"
 description: ""
-date: "2026-04-15T09:21:25.843077"
+date: "2026-04-16T19:22:02.102655"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.liege.be](https://www.liege.be)
+- [https://www.liege.be/fr](https://www.liege.be/fr)
 
 ## Brand Guidelines
 

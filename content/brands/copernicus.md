@@ -2,12 +2,12 @@
 title: Copernicus
 slug: copernicus
 description: ""
-date: "2026-04-15T09:21:24.727480"
+date: "2026-04-16T19:22:00.273010"
 draft: false
 sectors:
   - "public-sector"
-  - research
   - satellite
+  - research
 regions:
   - europe
 years:
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.copernicus.eu](https://www.copernicus.eu)
+- [https://www.copernicus.eu/en](https://www.copernicus.eu/en)
 - [https://climate.copernicus.eu](https://climate.copernicus.eu)
 - [https://atmosphere.copernicus.eu](https://atmosphere.copernicus.eu)
 

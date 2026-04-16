@@ -2,7 +2,7 @@
 title: THAI Airways
 slug: "thai-airways"
 description: ""
-date: "2026-04-15T09:21:24.599467"
+date: "2026-04-16T19:22:00.163073"
 draft: false
 sectors:
   - airline
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.thaiairways.com](https://www.thaiairways.com)
 - [http://www.thaiairways.com](http://www.thaiairways.com)
 
 ## Brand Guidelines

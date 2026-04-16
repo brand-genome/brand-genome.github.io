@@ -2,7 +2,7 @@
 title: Nepal Herbs
 slug: "nepal-herbs"
 description: ""
-date: "2026-04-15T09:21:24.196132"
+date: "2026-04-16T19:21:59.554998"
 draft: false
 sectors:
   - "wellness-spa"
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://www.nepalherbs.com](http://www.nepalherbs.com)
-- [https://www.nepalherbs.com](https://www.nepalherbs.com)
-
 ## Brand Guidelines
 
 ### 2016

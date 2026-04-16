@@ -2,7 +2,7 @@
 title: Do Space
 slug: "do-space"
 description: ""
-date: "2026-04-15T09:21:25.420849"
+date: "2026-04-16T19:22:01.105021"
 draft: false
 sectors:
   - education
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - technology
+  - community
 industries: []
 countries:
   - "united-states"

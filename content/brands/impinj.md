@@ -2,7 +2,7 @@
 title: Impinj
 slug: impinj
 description: ""
-date: "2026-04-15T09:21:23.860411"
+date: "2026-04-16T19:21:59.187597"
 draft: false
 sectors:
   - software
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.impinj.com](https://www.impinj.com)
 - [http://www.impinj.com](http://www.impinj.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Concurrent
 slug: concurrent
 description: ""
-date: "2026-04-15T09:21:22.086381"
+date: "2026-04-16T19:21:57.127598"
 draft: false
 sectors:
   - hardware

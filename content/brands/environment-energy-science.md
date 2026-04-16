@@ -2,7 +2,7 @@
 title: "Environment, Energy & Science"
 slug: "environment-energy-science"
 description: ""
-date: "2026-04-15T09:21:23.815556"
+date: "2026-04-16T19:21:59.143853"
 draft: false
 sectors:
   - "public-sector"
@@ -63,5 +63,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.environment.nsw.gov.au](https://www.environment.nsw.gov.au)
-- [https://www.environment.nsw.gov.au/brand](https://www.environment.nsw.gov.au/brand)
 - [https://images.environment.nsw.gov.au](https://images.environment.nsw.gov.au)

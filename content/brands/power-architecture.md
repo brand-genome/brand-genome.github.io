@@ -2,7 +2,7 @@
 title: Power Architecture
 slug: "power-architecture"
 description: ""
-date: "2026-04-15T09:21:25.767409"
+date: "2026-04-16T19:22:01.957793"
 draft: false
 sectors:
   - hardware

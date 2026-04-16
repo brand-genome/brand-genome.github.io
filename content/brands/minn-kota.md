@@ -2,7 +2,7 @@
 title: Minn Kota
 slug: "minn-kota"
 description: ""
-date: "2026-04-15T09:21:24.340003"
+date: "2026-04-16T19:21:59.782900"
 draft: false
 sectors:
   - electronics
@@ -16,9 +16,9 @@ languages:
 tags:
   - electronics
 industries:
+  - "outdoor-recreation"
   - "fishing-industry"
   - "online-shop"
-  - "outdoor-recreation"
 countries: []
 revenue_buckets: []
 operating_income_buckets: []

@@ -2,7 +2,7 @@
 title: Low Carbon Dorset
 slug: "low-carbon-dorset"
 description: ""
-date: "2026-04-15T09:21:24.789090"
+date: "2026-04-16T19:22:00.338471"
 draft: false
 sectors:
   - "public-sector"
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.lowcarbondorset.org.uk](https://www.lowcarbondorset.org.uk)
-- [https://www.dorsetcouncil.gov.uk/low-carbon-dorset](https://www.dorsetcouncil.gov.uk/low-carbon-dorset)
-
 ## Brand Guidelines
 
 ### 2018

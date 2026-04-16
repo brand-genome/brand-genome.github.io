@@ -2,7 +2,7 @@
 title: PRS for Music
 slug: "prs-for-music"
 description: ""
-date: "2026-04-15T09:21:23.754354"
+date: "2026-04-16T19:21:59.079743"
 draft: false
 sectors:
   - "legal-services"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - cultural
   - community
   - music
-  - cultural
 industries: []
 countries:
   - "united-kingdom"

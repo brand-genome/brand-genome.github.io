@@ -2,7 +2,7 @@
 title: Nanyang Academy of Fine Arts
 slug: "nanyang-academy-of-fine-arts"
 description: ""
-date: "2026-04-15T09:21:22.579579"
+date: "2026-04-16T19:21:57.943496"
 draft: false
 sectors:
   - education

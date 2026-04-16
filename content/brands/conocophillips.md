@@ -2,11 +2,11 @@
 title: ConocoPhillips
 slug: conocophillips
 description: ""
-date: "2026-04-15T09:21:22.564829"
+date: "2026-04-16T19:21:57.931164"
 draft: false
 sectors:
-  - gas
   - oil
+  - gas
 regions:
   - usa
 years:
@@ -87,7 +87,6 @@ visual_term_image_urls: {}
 - [https://globallng.conocophillips.com](https://globallng.conocophillips.com)
 - [https://lnglicensing.conocophillips.com](https://lnglicensing.conocophillips.com)
 - [https://www.copbrandcenter.com](https://www.copbrandcenter.com)
-- [https://www.powerincooperation.com](https://www.powerincooperation.com)
 - [http://www.conocophillips.com](http://www.conocophillips.com)
 - [http://www.conocophillips.com/news-media/brand](http://www.conocophillips.com/news-media/brand)
 

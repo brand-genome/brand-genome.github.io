@@ -2,10 +2,10 @@
 title: "TAP Maintenance & Engineering"
 slug: "tap-maintenance-engineering"
 description: ""
-date: "2026-04-15T09:21:24.005255"
+date: "2026-04-16T19:21:59.314393"
 draft: false
 sectors:
-  - airline
+  - aerospace
 regions:
   - portugal
 years:
@@ -61,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tapme.pt](https://www.tapme.pt)
-- [https://www.flytap.com](https://www.flytap.com)
+- [https://www.tapme.pt/en](https://www.tapme.pt/en)
 
 ## Brand Guidelines
 

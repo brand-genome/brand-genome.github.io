@@ -2,7 +2,7 @@
 title: Allentown
 slug: allentown
 description: ""
-date: "2026-04-15T09:21:23.568984"
+date: "2026-04-16T19:21:58.863117"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - city
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.allentownpa.gov](https://www.allentownpa.gov)
-- [https://allinspiring.allentownpa.gov](https://allinspiring.allentownpa.gov)
 - [http://www.allentownpa.gov](http://www.allentownpa.gov)
 
 ## Additional Properties

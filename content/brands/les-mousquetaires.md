@@ -2,7 +2,7 @@
 title: Les mousquetaires
 slug: "les-mousquetaires"
 description: ""
-date: "2026-04-15T09:21:24.077954"
+date: "2026-04-16T19:21:59.401673"
 draft: false
 sectors:
   - supermarket
@@ -67,9 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mousquetaires.com](https://www.mousquetaires.com)
-- [https://www.carrieres-mousquetaires.com](https://www.carrieres-mousquetaires.com)
-- [https://presse.mousquetaires.com](https://presse.mousquetaires.com)
+- [https://presse.mousquetaires.com/fr?lang=fra](https://presse.mousquetaires.com/fr?lang=fra)
 - [http://www.mousquetaires.com](http://www.mousquetaires.com)
 
 ## Brand Guidelines

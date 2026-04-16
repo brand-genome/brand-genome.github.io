@@ -2,13 +2,11 @@
 title: Calvin Klein
 slug: "calvin-klein"
 description: ""
-date: "2026-04-15T09:21:23.811243"
+date: "2026-04-16T19:21:59.139695"
 draft: false
 sectors:
   - beauty
   - fashion
-  - cosmetics
-  - "home-appliances"
 regions:
   - usa
 years:
@@ -16,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - fashion
+  - featured
 industries:
   - fashion
   - "clothing-industry"
@@ -73,10 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.calvinklein.us](https://www.calvinklein.us)
-- [https://www.calvinklein.us/en/home](https://www.calvinklein.us/en/home)
-- [https://www.calvinklein.us/en/men/fragrance](https://www.calvinklein.us/en/men/fragrance)
 - [https://www.calvinklein.com](https://www.calvinklein.com)
+- [https://www.calvinklein.us](https://www.calvinklein.us)
 - [https://www.calvinklein.de](https://www.calvinklein.de)
 - [https://www.calvinklein.fr](https://www.calvinklein.fr)
 - [https://www.calvinklein.com.br](https://www.calvinklein.com.br)

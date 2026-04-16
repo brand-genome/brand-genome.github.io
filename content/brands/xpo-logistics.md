@@ -2,7 +2,7 @@
 title: XPO Logistics
 slug: "xpo-logistics"
 description: ""
-date: "2026-04-15T09:21:24.339171"
+date: "2026-04-16T19:21:59.779988"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.xpo.com](https://www.xpo.com)
-- [https://brand.xpo.com](https://brand.xpo.com)
 
 ## Brand Guidelines
 

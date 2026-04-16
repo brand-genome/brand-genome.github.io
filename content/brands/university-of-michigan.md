@@ -2,11 +2,11 @@
 title: University of Michigan
 slug: "university-of-michigan"
 description: ""
-date: "2026-04-15T09:21:23.200888"
+date: "2026-04-16T19:21:58.607042"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -70,8 +70,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://umich.edu](https://umich.edu)
-- [https://brand.umich.edu](https://brand.umich.edu)
-- [https://admissions.umich.edu](https://admissions.umich.edu)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: "GAD Heart & Lung Institue"
 slug: "gad-heart-lung-institue"
 description: ""
-date: "2026-04-15T09:21:22.332475"
+date: "2026-04-16T19:21:57.437793"
 draft: false
 sectors:
   - healthcare

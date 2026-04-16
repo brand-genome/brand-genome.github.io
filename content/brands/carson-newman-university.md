@@ -2,11 +2,11 @@
 title: "Carson-Newman University"
 slug: "carson-newman-university"
 description: ""
-date: "2026-04-15T09:21:22.444436"
+date: "2026-04-16T19:21:57.722286"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 - [https://www.cn.edu](https://www.cn.edu)
 - [https://catalog.cn.edu](https://catalog.cn.edu)
 - [https://acorns-oaks.cn.edu](https://acorns-oaks.cn.edu)
-- [https://admissions.cn.edu](https://admissions.cn.edu)
+- [https://www.cn.edu/admissions-and-aid](https://www.cn.edu/admissions-and-aid)
 - [http://www.cn.edu](http://www.cn.edu)
 
 ## Brand Guidelines

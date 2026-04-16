@@ -2,7 +2,7 @@
 title: Sam’s Club
 slug: "sams-club"
 description: ""
-date: "2026-04-15T09:21:23.746948"
+date: "2026-04-16T19:21:59.071744"
 draft: false
 sectors:
   - supermarket
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.samsclub.com](https://www.samsclub.com)
 - [https://corporate.walmart.com/about/samsclub](https://corporate.walmart.com/about/samsclub)
 
 ## Brand Guidelines

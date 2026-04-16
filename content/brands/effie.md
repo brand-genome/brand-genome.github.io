@@ -2,7 +2,7 @@
 title: Effie
 slug: effie
 description: ""
-date: "2026-04-15T09:21:22.077526"
+date: "2026-04-16T19:21:57.113843"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.effie.org](https://www.effie.org)
+- [https://effie.org](https://effie.org)
 - [http://www.effie.org](http://www.effie.org)
 
 ## Brand Guidelines

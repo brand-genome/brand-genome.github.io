@@ -2,26 +2,26 @@
 title: Mc Donald’s
 slug: "mc-donalds"
 description: ""
-date: "2026-04-15T09:21:22.334276"
+date: "2026-04-16T19:21:57.440813"
 draft: false
 sectors:
   - restaurant
 regions:
-  - usa
   - vietnam
+  - usa
 years:
-  - 2019
   - 2012
+  - 2019
   - 2024
   - 1999
   - 2009
 languages:
-  - english
   - vietnamese
+  - english
 tags:
-  - featured
   - "food-beverage"
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -69,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mcdonalds.com](https://www.mcdonalds.com)
-- [https://corporate.mcdonalds.com](https://corporate.mcdonalds.com)
+- [https://www.mcdonalds.com/us/en-us.html](https://www.mcdonalds.com/us/en-us.html)
+- [https://corporate.mcdonalds.com/corpmcd/home.html](https://corporate.mcdonalds.com/corpmcd/home.html)
 - [https://careers.mcdonalds.com](https://careers.mcdonalds.com)
 
 ## Brand Guidelines

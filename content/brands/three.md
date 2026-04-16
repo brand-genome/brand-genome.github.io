@@ -2,20 +2,20 @@
 title: Three
 slug: three
 description: ""
-date: "2026-04-15T09:21:22.224885"
+date: "2026-04-16T19:21:57.267395"
 draft: false
 sectors:
   - telecom
 regions:
   - "hong-kong"
 years:
-  - 2025
   - 2022
+  - 2025
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
   - telecommunications
 industries: []
 countries: []
@@ -64,5 +64,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.three.com.hk](https://www.three.com.hk)
-- [https://www.three.com.hk/prepaid](https://www.three.com.hk/prepaid)
+- [https://www.three.com.hk/tc/home.html](https://www.three.com.hk/tc/home.html)

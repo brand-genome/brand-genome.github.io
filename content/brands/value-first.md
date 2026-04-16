@@ -2,7 +2,7 @@
 title: Value First
 slug: "value-first"
 description: ""
-date: "2026-04-15T09:21:24.340470"
+date: "2026-04-16T19:21:59.784038"
 draft: false
 sectors:
   - software

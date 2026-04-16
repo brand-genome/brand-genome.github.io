@@ -2,11 +2,11 @@
 title: International Olympic Committee
 slug: "international-olympic-committee"
 description: ""
-date: "2026-04-15T09:21:23.418376"
+date: "2026-04-16T19:21:58.806671"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - international
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - vintage
   - sport
+  - featured
 industries: []
 countries:
   - switzerland
@@ -69,9 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://olympics.com/ioc](https://olympics.com/ioc)
-- [https://olympics.com](https://olympics.com)
-- [https://olympic.org](https://olympic.org)
 - [https://www.olympics.com/ioc](https://www.olympics.com/ioc)
 
 ## Brand Guidelines

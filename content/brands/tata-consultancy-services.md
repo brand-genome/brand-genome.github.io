@@ -2,7 +2,7 @@
 title: Tata Consultancy Services
 slug: "tata-consultancy-services"
 description: ""
-date: "2026-04-15T09:21:22.146945"
+date: "2026-04-16T19:21:57.180187"
 draft: false
 sectors:
   - consulting

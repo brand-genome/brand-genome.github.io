@@ -2,7 +2,7 @@
 title: TOPdesk
 slug: topdesk
 description: ""
-date: "2026-04-15T09:21:24.813857"
+date: "2026-04-16T19:22:00.360417"
 draft: false
 sectors:
   - software
@@ -64,9 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.topdesk.com/en](https://www.topdesk.com/en)
-- [https://www.topdesk.com/en/contact](https://www.topdesk.com/en/contact)
-- [https://my.topdesk.com](https://my.topdesk.com)
 - [https://docs.topdesk.com](https://docs.topdesk.com)
 - [https://www.topdesk.com](https://www.topdesk.com)
 

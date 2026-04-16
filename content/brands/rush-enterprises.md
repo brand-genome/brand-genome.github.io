@@ -2,10 +2,9 @@
 title: Rush Enterprises
 slug: "rush-enterprises"
 description: ""
-date: "2026-04-15T09:21:24.289290"
+date: "2026-04-16T19:21:59.695800"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
 regions:
   - usa
@@ -67,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rushenterprises.com](https://www.rushenterprises.com)
 - [http://www.rushenterprises.com](http://www.rushenterprises.com)
 
 ## Brand Guidelines

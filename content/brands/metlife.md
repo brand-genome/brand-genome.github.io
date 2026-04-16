@@ -2,20 +2,20 @@
 title: MetLife
 slug: metlife
 description: ""
-date: "2026-04-15T09:21:23.422666"
+date: "2026-04-16T19:21:58.808852"
 draft: false
 sectors:
   - insurance
 regions:
   - usa
 years:
-  - 2020
   - 2016
+  - 2020
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
   - "insurance-industry"
 countries:

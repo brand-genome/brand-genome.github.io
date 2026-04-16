@@ -2,11 +2,11 @@
 title: "Embry-Riddle Aeronautical University"
 slug: "embry-riddle-aeronautical-university"
 description: ""
-date: "2026-04-15T09:21:25.705849"
+date: "2026-04-16T19:22:01.817631"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

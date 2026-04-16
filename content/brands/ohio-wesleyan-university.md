@@ -2,7 +2,7 @@
 title: Ohio Wesleyan University
 slug: "ohio-wesleyan-university"
 description: ""
-date: "2026-04-15T09:21:23.948588"
+date: "2026-04-16T19:21:59.265864"
 draft: false
 sectors:
   - university
@@ -12,8 +12,8 @@ years:
   - 2015
 languages: []
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -69,9 +69,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.owu.edu](https://www.owu.edu)
-- [https://my.owu.edu](https://my.owu.edu)
-- [https://mail.owu.edu](https://mail.owu.edu)
-- [https://campus.owu.edu](https://campus.owu.edu)
+- [https://idp.owu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1](https://idp.owu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1)
+- [https://campus.owu.edu/selfserv/Home/LogIn?ReturnUrl=%2Fselfserv%2F](https://campus.owu.edu/selfserv/Home/LogIn?ReturnUrl=%2Fselfserv%2F)
 
 ## Brand Guidelines
 

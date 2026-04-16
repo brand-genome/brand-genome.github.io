@@ -2,7 +2,7 @@
 title: Chrysler
 slug: chrysler
 description: ""
-date: "2026-04-15T09:21:23.125752"
+date: "2026-04-16T19:21:58.530639"
 draft: false
 sectors:
   - automobile
@@ -27,8 +27,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - car
-  - truck
   - "automotive-part"
+  - truck
 products: []
 headquarters_locations:
   - "chrysler-headquarters-and-technology-center"
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.chrysler.com](https://www.chrysler.com)
-- [https://www.chrysler.com.mx](https://www.chrysler.com.mx)
 - [http://www.chrysler.com](http://www.chrysler.com)
 - [https://media.fcanorthamerica.com](https://media.fcanorthamerica.com)
 - [http://www.fcausllc.com](http://www.fcausllc.com)
@@ -142,7 +140,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Truck](/products_or_materials_produced/truck/); [Automotive Part](/products_or_materials_produced/automotive-part/) |
+| Product Or Material Produced | [Car](/products_or_materials_produced/car/); [Automotive Part](/products_or_materials_produced/automotive-part/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Chrysler Headquarters And Technology Center](/headquarters_locations/chrysler-headquarters-and-technology-center/) |
 | Foundation Date | [1925](/foundation_dates/1925/) |
 | Founded By | Walter Percy Chrysler Sr. |

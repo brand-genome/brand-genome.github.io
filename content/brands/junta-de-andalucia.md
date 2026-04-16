@@ -2,7 +2,7 @@
 title: Junta de Andalucía
 slug: "junta-de-andalucia"
 description: ""
-date: "2026-04-15T09:21:22.341809"
+date: "2026-04-16T19:21:57.523554"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.juntadeandalucia.es](https://www.juntadeandalucia.es)
 - [https://www.juntadeandalucia.es/identidad](https://www.juntadeandalucia.es/identidad)
-- [https://lajunta.es/msdsistemadiseno](https://lajunta.es/msdsistemadiseno)
 
 ## Brand Guidelines
 

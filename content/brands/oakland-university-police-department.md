@@ -2,11 +2,11 @@
 title: Oakland University Police Department
 slug: "oakland-university-police-department"
 description: ""
-date: "2026-04-15T09:21:24.214103"
+date: "2026-04-16T19:21:59.582350"
 draft: false
 sectors:
-  - "public-sector"
   - "emergency-services"
+  - "public-sector"
 regions:
   - usa
 years:

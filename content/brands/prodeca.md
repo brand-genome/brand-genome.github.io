@@ -2,11 +2,11 @@
 title: Prodeca
 slug: prodeca
 description: ""
-date: "2026-04-15T09:21:22.351373"
+date: "2026-04-16T19:21:57.582472"
 draft: false
 sectors:
-  - "public-sector"
   - food
+  - "public-sector"
 regions:
   - spain
 years:
@@ -67,10 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.prodeca.cat](https://www.prodeca.cat)
+- [https://www.prodeca.cat/ca](https://www.prodeca.cat/ca)
 - [https://www.prodeca.cat/en](https://www.prodeca.cat/en)
-- [https://gastroteca.cat](https://gastroteca.cat)
+- [https://www.gastroteca.cat](https://www.gastroteca.cat)
 - [http://www.prodeca.cat](http://www.prodeca.cat)
+- [https://www.prodeca.cat](https://www.prodeca.cat)
 
 ## Brand Guidelines
 

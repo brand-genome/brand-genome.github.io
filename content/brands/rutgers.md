@@ -2,21 +2,21 @@
 title: Rutgers
 slug: rutgers
 description: ""
-date: "2026-04-15T09:21:23.424899"
+date: "2026-04-16T19:21:58.811388"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
-  - 2017
   - 2008
+  - 2017
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

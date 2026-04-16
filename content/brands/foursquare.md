@@ -2,7 +2,7 @@
 title: Foursquare
 slug: foursquare
 description: ""
-date: "2026-04-15T09:21:25.449756"
+date: "2026-04-16T19:22:01.145517"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - usa
 years:
-  - 2014
   - 2012
+  - 2014
 languages:
   - english
 tags:
@@ -30,16 +30,16 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - marsbot
+  - foursweep
   - "attribution-by-foursquare"
   - "places-by-foursquare"
-  - "pilgrim-toolkit"
-  - "foursquare-studio"
-  - "pilgrim-sdk-by-foursquare"
+  - marsbot
   - "foursquare-city-guide"
-  - "foursquare-swarm"
-  - foursweep
+  - "pilgrim-sdk-by-foursquare"
+  - "foursquare-studio"
   - "pinpoint-by-foursquare"
+  - "foursquare-swarm"
+  - "pilgrim-toolkit"
 products: []
 headquarters_locations:
   - "new-york-city"
@@ -322,7 +322,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Marsbot](/products_or_materials_produced/marsbot/); [Attribution By Foursquare](/products_or_materials_produced/attribution-by-foursquare/); [Places By Foursquare](/products_or_materials_produced/places-by-foursquare/); [Pilgrim Toolkit](/products_or_materials_produced/pilgrim-toolkit/); [Foursquare Studio](/products_or_materials_produced/foursquare-studio/); [Pilgrim Sdk By Foursquare](/products_or_materials_produced/pilgrim-sdk-by-foursquare/); [Foursquare City Guide](/products_or_materials_produced/foursquare-city-guide/); [Foursquare Swarm](/products_or_materials_produced/foursquare-swarm/); [Foursweep](/products_or_materials_produced/foursweep/); [Pinpoint By Foursquare](/products_or_materials_produced/pinpoint-by-foursquare/) |
+| Product Or Material Produced | [Foursweep](/products_or_materials_produced/foursweep/); [Attribution By Foursquare](/products_or_materials_produced/attribution-by-foursquare/); [Places By Foursquare](/products_or_materials_produced/places-by-foursquare/); [Marsbot](/products_or_materials_produced/marsbot/); [Foursquare City Guide](/products_or_materials_produced/foursquare-city-guide/); [Pilgrim Sdk By Foursquare](/products_or_materials_produced/pilgrim-sdk-by-foursquare/); [Foursquare Studio](/products_or_materials_produced/foursquare-studio/); [Pinpoint By Foursquare](/products_or_materials_produced/pinpoint-by-foursquare/); [Foursquare Swarm](/products_or_materials_produced/foursquare-swarm/); [Pilgrim Toolkit](/products_or_materials_produced/pilgrim-toolkit/) |
 | Headquarters Location | [New York City](/headquarters_locations/new-york-city/) |
 | Foundation Date | [2009](/foundation_dates/2009/) |
 | Freebase Id | /m/06wcbt9 |

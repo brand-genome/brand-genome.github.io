@@ -2,11 +2,11 @@
 title: Federación Nacional de Cafeteros
 slug: "federacion-nacional-de-cafeteros"
 description: ""
-date: "2026-04-15T09:21:24.590072"
+date: "2026-04-16T19:22:00.153504"
 draft: false
 sectors:
-  - food
   - ngo
+  - food
 regions:
   - colombia
 years:
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://federaciondecafeteros.org/wp](https://federaciondecafeteros.org/wp)
-- [https://www.cenicafe.org](https://www.cenicafe.org)
 - [https://www.buencafe.com](https://www.buencafe.com)
 - [https://juanvaldez.com](https://juanvaldez.com)
 

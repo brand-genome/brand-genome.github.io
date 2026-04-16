@@ -2,7 +2,7 @@
 title: Safe Food
 slug: "safe-food"
 description: ""
-date: "2026-04-15T09:21:25.833274"
+date: "2026-04-16T19:22:02.063250"
 draft: false
 sectors:
   - "public-sector"

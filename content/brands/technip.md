@@ -2,13 +2,13 @@
 title: Technip
 slug: technip
 description: ""
-date: "2026-04-15T09:21:24.948334"
+date: "2026-04-16T19:22:00.522511"
 draft: false
 sectors:
-  - "renewable-energy"
-  - gas
   - oil
+  - gas
   - construction
+  - "renewable-energy"
 regions:
   - france
 years:
@@ -18,8 +18,8 @@ languages:
 tags:
   - engineering
 industries:
-  - engineering
   - "activities-of-head-offices"
+  - engineering
 countries:
   - france
 revenue_buckets:
@@ -74,8 +74,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.technipfmc.com](https://www.technipfmc.com)
-- [https://www.ten.com](https://www.ten.com)
+- [https://www.ten.com/en](https://www.ten.com/en)
 - [http://www.technip.com](http://www.technip.com)
 
 ## Brand Guidelines

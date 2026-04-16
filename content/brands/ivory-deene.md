@@ -2,12 +2,11 @@
 title: "Ivory & Deene"
 slug: "ivory-deene"
 description: ""
-date: "2026-04-15T09:21:22.551727"
+date: "2026-04-16T19:21:57.899440"
 draft: false
 sectors:
-  - "real-estate"
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - australia
 years:

@@ -2,11 +2,11 @@
 title: University of North Carolina at Chapel Hill
 slug: "university-of-north-carolina-at-chapel-hill"
 description: ""
-date: "2026-04-15T09:21:22.443055"
+date: "2026-04-16T19:21:57.720504"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unc.edu](https://www.unc.edu)
-- [https://identity.unc.edu](https://identity.unc.edu)
 - [http://www.goheels.com/Tickets](http://www.goheels.com/Tickets)
 - [http://www.unchealth.org](http://www.unchealth.org)
 - [https://unc.edu](https://unc.edu)

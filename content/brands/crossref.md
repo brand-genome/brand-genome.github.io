@@ -2,11 +2,11 @@
 title: Crossref
 slug: crossref
 description: ""
-date: "2026-04-15T09:21:25.404856"
+date: "2026-04-16T19:22:01.088397"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:

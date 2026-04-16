@@ -2,7 +2,7 @@
 title: Panda Global
 slug: "panda-global"
 description: ""
-date: "2026-04-15T09:21:23.822868"
+date: "2026-04-16T19:21:59.150974"
 draft: false
 sectors:
   - gaming
@@ -62,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://panda.gg](https://panda.gg)
-- [https://shop.panda.gg](https://shop.panda.gg)
+- [https://www.panda.gg](https://www.panda.gg)
 
 ## Brand Guidelines
 

@@ -2,10 +2,11 @@
 title: PKP Intercity
 slug: "pkp-intercity"
 description: ""
-date: "2026-04-15T09:21:22.333090"
+date: "2026-04-16T19:21:57.439080"
 draft: false
 sectors:
   - railroad
+  - "public-transportation"
 regions:
   - unknown
 years:
@@ -68,10 +69,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.intercity.pl](https://www.intercity.pl)
 - [https://www.intercity.pl/pl](https://www.intercity.pl/pl)
 - [https://www.intercity.pl/en](https://www.intercity.pl/en)
 - [https://www.intercity.pl/ru](https://www.intercity.pl/ru)
+- [https://www.intercity.pl](https://www.intercity.pl)
 
 ## Brand Guidelines
 

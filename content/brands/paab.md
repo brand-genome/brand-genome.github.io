@@ -2,11 +2,11 @@
 title: Paab
 slug: paab
 description: ""
-date: "2026-04-15T09:21:23.999775"
+date: "2026-04-16T19:21:59.308489"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - ngo
+  - health
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.paab.ca](https://www.paab.ca)
-- [https://code.paab.ca](https://code.paab.ca)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Helsingin Energia
 slug: "helsingin-energia"
 description: ""
-date: "2026-04-15T09:21:24.912918"
+date: "2026-04-16T19:22:00.483786"
 draft: false
 sectors:
   - utilities

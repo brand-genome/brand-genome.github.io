@@ -2,7 +2,7 @@
 title: cPanel
 slug: cpanel
 description: ""
-date: "2026-04-15T09:21:24.339295"
+date: "2026-04-16T19:21:59.780183"
 draft: false
 sectors:
   - software

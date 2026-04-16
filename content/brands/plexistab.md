@@ -2,7 +2,7 @@
 title: Plexistab
 slug: plexistab
 description: ""
-date: "2026-04-15T09:21:22.536123"
+date: "2026-04-16T19:21:57.878127"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -62,5 +62,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://plexistab.com](https://plexistab.com)
-- [https://www.plexistab.com](https://www.plexistab.com)
 - [http://www.plexistab.com](http://www.plexistab.com)

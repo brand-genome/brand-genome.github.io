@@ -2,7 +2,7 @@
 title: Utah State Athletics
 slug: "utah-state-athletics"
 description: ""
-date: "2026-04-15T09:21:24.320685"
+date: "2026-04-16T19:21:59.729747"
 draft: false
 sectors:
   - sports
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://utahstateaggies.com](https://utahstateaggies.com)
+- [https://utahstateaggies.com/splash.aspx?id=splash_22](https://utahstateaggies.com/splash.aspx?id=splash_22)
 
 ## Brand Guidelines
 

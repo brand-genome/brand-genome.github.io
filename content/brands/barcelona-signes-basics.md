@@ -2,7 +2,7 @@
 title: Barcelona – Signes bàsics
 slug: "barcelona-signes-basics"
 description: ""
-date: "2026-04-15T09:21:24.308706"
+date: "2026-04-16T19:21:59.715516"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ajuntament.barcelona.cat](https://ajuntament.barcelona.cat)
+- [https://ajuntament.barcelona.cat/ca](https://ajuntament.barcelona.cat/ca)
 - [https://ajuntament.barcelona.cat/en](https://ajuntament.barcelona.cat/en)
 
 ## Brand Guidelines

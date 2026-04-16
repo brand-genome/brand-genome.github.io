@@ -2,7 +2,7 @@
 title: Evernote
 slug: evernote
 description: ""
-date: "2026-04-15T09:21:23.115863"
+date: "2026-04-16T19:21:58.523690"
 draft: false
 sectors:
   - software
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - app
   - software
+  - app
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -68,9 +68,7 @@ visual_term_image_urls: {}
 - [https://evernote.com](https://evernote.com)
 - [https://evernote.com/download](https://evernote.com/download)
 - [https://evernote.com/features](https://evernote.com/features)
-- [https://evernote.com/pricing](https://evernote.com/pricing)
-- [https://evernote.com/about-us](https://evernote.com/about-us)
-- [https://help.evernote.com](https://help.evernote.com)
+- [https://evernote.com/compare-plans](https://evernote.com/compare-plans)
 - [http://www.evernote.com/about-us](http://www.evernote.com/about-us)
 
 ## Additional Properties

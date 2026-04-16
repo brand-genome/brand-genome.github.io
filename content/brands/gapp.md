@@ -2,11 +2,11 @@
 title: GAPP
 slug: gapp
 description: ""
-date: "2026-04-15T09:21:24.237568"
+date: "2026-04-16T19:21:59.615319"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.goethe.de/GAPP](https://www.goethe.de/GAPP)
+- [https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html?wt_sc=gapp](https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html?wt_sc=gapp)
 - [https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html](https://www.goethe.de/ins/us/en/spr/unt/efd/gpp.html)
 - [https://exchanges.state.gov/us/program/german-american-partnership-program](https://exchanges.state.gov/us/program/german-american-partnership-program)
 

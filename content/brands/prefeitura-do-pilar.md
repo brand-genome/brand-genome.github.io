@@ -2,7 +2,7 @@
 title: Prefeitura do Pilar
 slug: "prefeitura-do-pilar"
 description: ""
-date: "2026-04-15T09:21:23.978892"
+date: "2026-04-16T19:21:59.288155"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.pilar.al.gov.br](https://www.pilar.al.gov.br)
+- [https://pilar.al.gov.br](https://pilar.al.gov.br)
 
 ## Brand Guidelines
 

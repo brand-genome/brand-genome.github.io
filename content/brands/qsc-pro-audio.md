@@ -2,7 +2,7 @@
 title: QSC Pro Audio
 slug: "qsc-pro-audio"
 description: ""
-date: "2026-04-15T09:21:23.076484"
+date: "2026-04-16T19:21:58.485090"
 draft: false
 sectors:
   - electronics
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
   - music
 industries: []
 countries: []

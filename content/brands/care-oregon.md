@@ -2,7 +2,7 @@
 title: Care Oregon
 slug: "care-oregon"
 description: ""
-date: "2026-04-15T09:21:24.292686"
+date: "2026-04-16T19:21:59.698833"
 draft: false
 sectors:
   - insurance

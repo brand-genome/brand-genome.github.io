@@ -2,11 +2,11 @@
 title: FilmBox
 slug: filmbox
 description: ""
-date: "2026-04-15T09:21:22.234007"
+date: "2026-04-16T19:21:57.275935"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - entertainment
+  - broadcast
 industries: []
 countries:
   - "czech-republic"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.filmbox.com](https://www.filmbox.com)
 - [https://www.filmboxplus.com](https://www.filmboxplus.com)
 - [http://www.sledujfilmbox.cz](http://www.sledujfilmbox.cz)
 - [https://www.spiintl.com/channels/filmbox](https://www.spiintl.com/channels/filmbox)

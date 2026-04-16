@@ -2,22 +2,22 @@
 title: Canon
 slug: canon
 description: ""
-date: "2026-04-15T09:21:23.115724"
+date: "2026-04-16T19:21:58.523540"
 draft: false
 sectors:
   - electronics
   - hardware
 regions:
-  - japan
   - singapore
+  - japan
 years:
-  - 2015
   - 2017
+  - 2015
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.canon](https://global.canon)
+- [https://global.canon/en](https://global.canon/en)
 - [https://global.canon/en/support](https://global.canon/en/support)
-- [https://sg.canon](https://sg.canon)
+- [https://sg.canon/en/consumer](https://sg.canon/en/consumer)
 - [https://global.canon/en/csr/management/brand.html](https://global.canon/en/csr/management/brand.html)
 
 ## Brand Guidelines

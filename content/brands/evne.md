@@ -2,11 +2,11 @@
 title: Evne
 slug: evne
 description: ""
-date: "2026-04-15T09:21:24.258248"
+date: "2026-04-16T19:21:59.660674"
 draft: false
 sectors:
-  - construction
   - software
+  - construction
 regions:
   - india
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.evnegroup.com](https://www.evnegroup.com)
-
 ## Brand Guidelines
 
 ### 2020

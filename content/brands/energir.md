@@ -2,11 +2,11 @@
 title: Energir
 slug: energir
 description: ""
-date: "2026-04-15T09:21:23.858748"
+date: "2026-04-16T19:21:59.185983"
 draft: false
 sectors:
-  - utilities
   - gas
+  - utilities
   - "renewable-energy"
 regions:
   - canada

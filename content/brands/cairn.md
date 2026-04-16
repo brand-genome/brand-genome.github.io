@@ -2,12 +2,12 @@
 title: Cairn
 slug: cairn
 description: ""
-date: "2026-04-15T09:21:25.767502"
+date: "2026-04-16T19:22:01.957927"
 draft: false
 sectors:
-  - gas
-  - petroleum
   - oil
+  - petroleum
+  - gas
 regions:
   - india
 years:
@@ -61,12 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.cairnindia.com](https://www.cairnindia.com)
-- [https://uat.cairnindia.com](https://uat.cairnindia.com)
-- [https://foundation.cairnindia.com](https://foundation.cairnindia.com)
-
 ## Brand Guidelines
 
 ### 2015

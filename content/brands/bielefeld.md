@@ -2,11 +2,11 @@
 title: Bielefeld
 slug: bielefeld
 description: ""
-date: "2026-04-15T09:21:23.076931"
+date: "2026-04-16T19:21:58.485500"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - germany
 years:

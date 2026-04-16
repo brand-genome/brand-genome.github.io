@@ -2,7 +2,7 @@
 title: Carleton University
 slug: "carleton-university"
 description: ""
-date: "2026-04-15T09:21:24.196863"
+date: "2026-04-16T19:21:59.556492"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - canada
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://carleton.ca](https://carleton.ca)
-- [https://carleton.ca/duc/resources](https://carleton.ca/duc/resources)
+- [https://carleton.ca/duc/campus-resources](https://carleton.ca/duc/campus-resources)
 
 ## Brand Guidelines
 

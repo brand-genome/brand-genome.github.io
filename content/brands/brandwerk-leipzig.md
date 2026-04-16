@@ -2,7 +2,7 @@
 title: Brandwerk Leipzig
 slug: "brandwerk-leipzig"
 description: ""
-date: "2026-04-15T09:21:23.598487"
+date: "2026-04-16T19:21:58.887147"
 draft: false
 sectors:
   - drink

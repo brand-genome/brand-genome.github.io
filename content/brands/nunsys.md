@@ -2,12 +2,12 @@
 title: Nunsys
 slug: nunsys
 description: ""
-date: "2026-04-15T09:21:25.197188"
+date: "2026-04-16T19:22:00.792663"
 draft: false
 sectors:
+  - software
   - networking
   - cybersecurity
-  - software
 regions:
   - spain
 years:
@@ -63,9 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nunsys.com](https://www.nunsys.com)
-- [https://en.nunsys.com](https://en.nunsys.com)
-- [https://www.tusociotecnologico.nunsys.com](https://www.tusociotecnologico.nunsys.com)
 - [http://www.nunsys.com](http://www.nunsys.com)
 
 ## Brand Guidelines

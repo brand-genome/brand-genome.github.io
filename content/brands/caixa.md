@@ -2,7 +2,7 @@
 title: Caixa
 slug: caixa
 description: ""
-date: "2026-04-15T09:21:23.830853"
+date: "2026-04-16T19:21:59.159658"
 draft: false
 sectors:
   - finance
@@ -15,8 +15,8 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
   - "economics-of-banking"
+  - "financial-services"
   - "financial-sector"
 countries:
   - brazil
@@ -72,6 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.caixa.gov.br/Paginas/home-caixa.aspx](https://www.caixa.gov.br/Paginas/home-caixa.aspx)
 - [https://www.caixa.gov.br](https://www.caixa.gov.br)
 
 ## Brand Guidelines

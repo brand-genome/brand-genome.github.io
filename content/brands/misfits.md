@@ -2,10 +2,9 @@
 title: Misfits
 slug: misfits
 description: ""
-date: "2026-04-15T09:21:22.514124"
+date: "2026-04-16T19:21:57.843531"
 draft: false
 sectors:
-  - "social-media"
   - entertainment
 regions:
   - india

@@ -2,7 +2,7 @@
 title: Henkel
 slug: henkel
 description: ""
-date: "2026-04-15T09:21:23.692191"
+date: "2026-04-16T19:21:59.015428"
 draft: false
 sectors:
   - chemicals
@@ -10,8 +10,8 @@ sectors:
 regions:
   - germany
 years:
-  - 2018
   - 2022
+  - 2018
 languages:
   - english
 tags:
@@ -33,8 +33,8 @@ products_or_materials_produced:
   - laundry
 products: []
 headquarters_locations:
-  - aachen
   - dusseldorf
+  - aachen
 subsidiaries: []
 foundation_dates:
   - 1876
@@ -73,7 +73,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.henkel.com](https://www.henkel.com)
-- [https://www.henkel-adhesives.com/us/en.html](https://www.henkel-adhesives.com/us/en.html)
+- [https://next.henkel-adhesives.com/us/en.html](https://next.henkel-adhesives.com/us/en.html)
 - [http://www.henkel-brand-hub.com](http://www.henkel-brand-hub.com)
 - [https://www.henkel-de](https://www.henkel-de)
 
@@ -92,7 +92,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Laundry](/products_or_materials_produced/laundry/) |
-| Headquarters Location | [Aachen](/headquarters_locations/aachen/); [Dusseldorf](/headquarters_locations/dusseldorf/) |
+| Headquarters Location | [Dusseldorf](/headquarters_locations/dusseldorf/); [Aachen](/headquarters_locations/aachen/) |
 | Foundation Date | [1876](/foundation_dates/1876/) |
 | Inception | 1876-09-26 |
 | Freebase Id | /m/06ll4c |

@@ -2,7 +2,7 @@
 title: ZyXEL
 slug: zyxel
 description: ""
-date: "2026-04-15T09:21:25.183553"
+date: "2026-04-16T19:22:00.778288"
 draft: false
 sectors:
   - networking
@@ -72,9 +72,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zyxel.com](https://www.zyxel.com)
+- [https://www.zyxel.com/in/en-in/home](https://www.zyxel.com/in/en-in/home)
 - [https://www.zyxel.com/us/en-us](https://www.zyxel.com/us/en-us)
 - [http://www.zyxel.com](http://www.zyxel.com)
+- [https://www.zyxel.com](https://www.zyxel.com)
 
 ## Brand Guidelines
 

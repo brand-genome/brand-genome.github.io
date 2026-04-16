@@ -2,10 +2,9 @@
 title: Indian Motorcycle Riders Group
 slug: "indian-motorcycle-riders-group"
 description: ""
-date: "2026-04-15T09:21:24.006411"
+date: "2026-04-16T19:21:59.315609"
 draft: false
 sectors:
-  - sports
   - automobile
 regions:
   - usa
@@ -61,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.indianmotorcycle.com/en-us/riders-group](https://www.indianmotorcycle.com/en-us/riders-group)
-- [https://www.indianmotorcycle.com/en-us/riders-group/chapters](https://www.indianmotorcycle.com/en-us/riders-group/chapters)
-
 ## Brand Guidelines
 
 ### 2015

@@ -2,7 +2,7 @@
 title: Later
 slug: later
 description: ""
-date: "2026-04-15T09:21:23.436242"
+date: "2026-04-16T19:21:58.822066"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://later.com](https://later.com)
-- [https://help.later.com](https://help.later.com)
 - [https://later.com/careers](https://later.com/careers)
 
 ## Brand Guidelines

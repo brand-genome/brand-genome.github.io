@@ -2,11 +2,11 @@
 title: Sylius
 slug: sylius
 description: ""
-date: "2026-04-15T09:21:24.547397"
+date: "2026-04-16T19:22:00.118579"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - poland
 years:

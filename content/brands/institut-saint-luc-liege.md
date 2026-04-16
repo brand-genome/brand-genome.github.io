@@ -2,7 +2,7 @@
 title: "Institut Saint-Luc Liège"
 slug: "institut-saint-luc-liege"
 description: ""
-date: "2026-04-15T09:21:22.535521"
+date: "2026-04-16T19:21:57.877661"
 draft: false
 sectors:
   - education
@@ -14,8 +14,8 @@ languages:
   - french
 tags:
   - art
-  - featured
   - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

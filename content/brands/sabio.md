@@ -2,7 +2,7 @@
 title: Sabio
 slug: sabio
 description: ""
-date: "2026-04-15T09:21:22.552673"
+date: "2026-04-16T19:21:57.901155"
 draft: false
 sectors:
   - food

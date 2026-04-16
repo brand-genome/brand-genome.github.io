@@ -2,12 +2,12 @@
 title: Fortinet
 slug: fortinet
 description: ""
-date: "2026-04-15T09:21:24.070250"
+date: "2026-04-16T19:21:59.392422"
 draft: false
 sectors:
+  - software
   - networking
   - cybersecurity
-  - software
 regions:
   - usa
 years:
@@ -33,8 +33,8 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "networking-hardware"
   - software
+  - "networking-hardware"
 products: []
 headquarters_locations:
   - sunnyvale
@@ -547,7 +547,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Software](/products_or_materials_produced/software/); [Networking Hardware](/products_or_materials_produced/networking-hardware/) |
 | Headquarters Location | [Sunnyvale](/headquarters_locations/sunnyvale/) |
 | Foundation Date | [2000](/foundation_dates/2000/) |
 | Freebase Id | /m/06lqbt |

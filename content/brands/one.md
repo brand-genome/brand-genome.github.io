@@ -2,7 +2,7 @@
 title: One
 slug: one
 description: ""
-date: "2026-04-15T09:21:24.222590"
+date: "2026-04-16T19:21:59.592207"
 draft: false
 sectors:
   - ngo
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.one.org](https://www.one.org)
 - [https://www.one.org/us](https://www.one.org/us)
 
 ## Brand Guidelines

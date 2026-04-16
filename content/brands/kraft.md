@@ -2,7 +2,7 @@
 title: Kraft
 slug: kraft
 description: ""
-date: "2026-04-15T09:21:24.617191"
+date: "2026-04-16T19:22:00.186664"
 draft: false
 sectors:
   - "design-creative"
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - marketing
   - "student-work"
+  - marketing
 industries: []
 countries: []
 revenue_buckets: []
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.kraftcreative.com](https://www.kraftcreative.com)
-
 ## Brand Guidelines
 
 ### 2019

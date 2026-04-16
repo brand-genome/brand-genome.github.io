@@ -2,7 +2,7 @@
 title: Aetna
 slug: aetna
 description: ""
-date: "2026-04-15T09:21:24.340299"
+date: "2026-04-16T19:21:59.783851"
 draft: false
 sectors:
   - insurance

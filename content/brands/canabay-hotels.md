@@ -2,7 +2,7 @@
 title: Canabay Hotels
 slug: "canabay-hotels"
 description: ""
-date: "2026-04-15T09:21:24.759051"
+date: "2026-04-16T19:22:00.306740"
 draft: false
 sectors:
   - hospitality

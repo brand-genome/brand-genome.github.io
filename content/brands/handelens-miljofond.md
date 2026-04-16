@@ -2,7 +2,7 @@
 title: Handelens Miljofond
 slug: "handelens-miljofond"
 description: ""
-date: "2026-04-15T09:21:24.656019"
+date: "2026-04-16T19:22:00.208197"
 draft: false
 sectors:
   - ngo
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.handelensmiljofond.no](https://www.handelensmiljofond.no)
 - [https://handelensmiljofond.no](https://handelensmiljofond.no)
 - [https://handelensmiljofond.no/en](https://handelensmiljofond.no/en)
 

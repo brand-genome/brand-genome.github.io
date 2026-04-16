@@ -2,11 +2,11 @@
 title: Hikma
 slug: hikma
 description: ""
-date: "2026-04-15T09:21:24.325656"
+date: "2026-04-16T19:21:59.734057"
 draft: false
 sectors:
-  - pharma
   - healthcare
+  - pharma
 regions:
   - "united-kingdom"
 years:
@@ -69,8 +69,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hikma.com](https://www.hikma.com)
-- [https://www.hikma.com/en-us](https://www.hikma.com/en-us)
-- [https://www.hikma.com/en-gb](https://www.hikma.com/en-gb)
+- [https://www.hikma.com/en-us/overview](https://www.hikma.com/en-us/overview)
 - [http://www.hikma.com](http://www.hikma.com)
 
 ## Brand Guidelines

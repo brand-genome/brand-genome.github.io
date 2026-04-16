@@ -2,7 +2,7 @@
 title: Decred
 slug: decred
 description: ""
-date: "2026-04-15T09:21:22.291547"
+date: "2026-04-16T19:21:57.329058"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - ambigram
   - financial
+  - ambigram
 industries: []
 countries: []
 revenue_buckets: []

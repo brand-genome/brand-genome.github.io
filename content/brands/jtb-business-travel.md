@@ -2,10 +2,10 @@
 title: JTB Business Travel
 slug: "jtb-business-travel"
 description: ""
-date: "2026-04-15T09:21:24.554978"
+date: "2026-04-16T19:22:00.126455"
 draft: false
 sectors:
-  - "logistics-supply-chain"
+  - tourism
 regions:
   - usa
 years:

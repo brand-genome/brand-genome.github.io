@@ -2,7 +2,7 @@
 title: Slack
 slug: slack
 description: ""
-date: "2026-04-15T09:21:24.210370"
+date: "2026-04-16T19:21:59.577619"
 draft: false
 sectors:
   - software
@@ -64,15 +64,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://slack.com](https://slack.com)
-- [https://app.slack.com](https://app.slack.com)
-- [https://slack.com/help](https://slack.com/help)
-- [https://slack.com/downloads](https://slack.com/downloads)
-- [https://slack.com/integrations](https://slack.com/integrations)
-- [https://api.slack.com](https://api.slack.com)
+- [https://slack.com/intl/en-in](https://slack.com/intl/en-in)
+- [https://slack.com/intl/en-in/help](https://slack.com/intl/en-in/help)
+- [https://slack.com/intl/en-in/downloads/other](https://slack.com/intl/en-in/downloads/other)
+- [https://slack.com/intl/en-in/integrations](https://slack.com/intl/en-in/integrations)
 - [https://docs.slack.dev](https://docs.slack.dev)
-- [https://tools.slack.dev](https://tools.slack.dev)
+- [https://docs.slack.dev/tools](https://docs.slack.dev/tools)
 - [https://slack-status.com](https://slack-status.com)
+- [https://slack.com](https://slack.com)
 - [https://www.salesforce.com/slack](https://www.salesforce.com/slack)
 
 ## Brand Guidelines

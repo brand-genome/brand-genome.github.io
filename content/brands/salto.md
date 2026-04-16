@@ -2,7 +2,7 @@
 title: Salto
 slug: salto
 description: ""
-date: "2026-04-15T09:21:23.619119"
+date: "2026-04-16T19:21:58.907908"
 draft: false
 sectors:
   - education
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 - [https://saltonetwork.eu](https://saltonetwork.eu)
 - [https://saltonetwork.eu/resource-centres](https://saltonetwork.eu/resource-centres)
 - [https://saltogreen.eu/en](https://saltogreen.eu/en)
-- [https://www.salto-et.eu](https://www.salto-et.eu)
 - [http://www.salto-youth.net/see](http://www.salto-youth.net/see)
 
 ## Brand Guidelines

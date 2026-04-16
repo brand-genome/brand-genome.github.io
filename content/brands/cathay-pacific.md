@@ -2,7 +2,7 @@
 title: Cathay Pacific
 slug: "cathay-pacific"
 description: ""
-date: "2026-04-15T09:21:24.792780"
+date: "2026-04-16T19:22:00.342570"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -65,9 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cathaypacific.com](https://www.cathaypacific.com)
-- [https://www.cathaycargo.com](https://www.cathaycargo.com)
 - [http://www.cathaypacific.com](http://www.cathaypacific.com)
+- [https://www.cathaypacific.com](https://www.cathaypacific.com)
 
 ## Brand Guidelines
 

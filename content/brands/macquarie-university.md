@@ -2,11 +2,11 @@
 title: Macquarie University
 slug: "macquarie-university"
 description: ""
-date: "2026-04-15T09:21:24.296852"
+date: "2026-04-16T19:21:59.703340"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - australia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - australia
@@ -66,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ilearn.mq.edu.au/login/index.php](https://ilearn.mq.edu.au/login/index.php)
 - [https://www.mq.edu.au](https://www.mq.edu.au)
-- [https://ilearn.mq.edu.au](https://ilearn.mq.edu.au)
 
 ## Brand Guidelines
 

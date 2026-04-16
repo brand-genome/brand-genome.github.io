@@ -2,7 +2,7 @@
 title: Villandry Café
 slug: "villandry-cafe"
 description: ""
-date: "2026-04-15T09:21:24.767620"
+date: "2026-04-16T19:22:00.317088"
 draft: false
 sectors:
   - restaurant
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.villandry.com](http://www.villandry.com)
+- [https://www.villandry.com](https://www.villandry.com)
 
 ## Brand Guidelines
 

@@ -2,11 +2,10 @@
 title: DOF
 slug: dof
 description: ""
-date: "2026-04-15T09:21:25.429259"
+date: "2026-04-16T19:22:01.114012"
 draft: false
 sectors:
   - "maritime-shipping"
-  - "logistics-supply-chain"
 regions:
   - norway
 years:

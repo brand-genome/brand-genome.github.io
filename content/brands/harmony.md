@@ -2,11 +2,11 @@
 title: Harmony
 slug: harmony
 description: ""
-date: "2026-04-15T09:21:24.293241"
+date: "2026-04-16T19:21:59.699387"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
+  - "blockchain-crypto"
 regions:
   - usa
 years:
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 
 - [https://harmony.one](https://harmony.one)
 - [https://open.harmony.one](https://open.harmony.one)
-- [https://docs.harmony.one](https://docs.harmony.one)
+- [https://docs.harmony.one/home](https://docs.harmony.one/home)
 
 ## Brand Guidelines
 

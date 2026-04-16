@@ -2,7 +2,7 @@
 title: USA Roller Sports
 slug: "usa-roller-sports"
 description: ""
-date: "2026-04-15T09:21:23.862490"
+date: "2026-04-16T19:21:59.189376"
 draft: false
 sectors:
   - sports
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.usarollersports.org](https://www.usarollersports.org)
 - [https://www.usarsinlinehockey.org](https://www.usarsinlinehockey.org)
-- [https://www.usarollersportsscootering.com](https://www.usarollersportsscootering.com)
 - [http://www.teamusa.org/USA-Roller-Sports](http://www.teamusa.org/USA-Roller-Sports)
 
 ## Brand Guidelines

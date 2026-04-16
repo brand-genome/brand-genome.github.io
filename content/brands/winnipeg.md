@@ -2,11 +2,11 @@
 title: Winnipeg
 slug: winnipeg
 description: ""
-date: "2026-04-15T09:21:24.924712"
+date: "2026-04-16T19:22:00.496484"
 draft: false
 sectors:
-  - "public-sector"
   - utilities
+  - "public-sector"
   - "public-transportation"
 regions:
   - canada
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.winnipeg.ca](https://www.winnipeg.ca)
-- [https://myutility.winnipeg.ca](https://myutility.winnipeg.ca)
+- [https://myutility.winnipeg.ca/UtilityPortal](https://myutility.winnipeg.ca/UtilityPortal)
 - [https://www.winnipeg.ca/311-city-services](https://www.winnipeg.ca/311-city-services)
 - [http://www.winnipeg.ca/indigenousrelations](http://www.winnipeg.ca/indigenousrelations)
 - [http://www.winnipegtransit.com](http://www.winnipegtransit.com)

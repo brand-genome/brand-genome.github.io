@@ -2,7 +2,7 @@
 title: NZ Post
 slug: "nz-post"
 description: ""
-date: "2026-04-15T09:21:22.191412"
+date: "2026-04-16T19:21:57.220166"
 draft: false
 sectors:
   - "parcel-service"

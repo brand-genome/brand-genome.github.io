@@ -2,11 +2,11 @@
 title: FirstGroup
 slug: firstgroup
 description: ""
-date: "2026-04-15T09:21:25.415861"
+date: "2026-04-16T19:22:01.099637"
 draft: false
 sectors:
-  - "public-transportation"
   - railroad
+  - "public-transportation"
 regions:
   - "united-kingdom"
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.firstgroupplc.com](https://www.firstgroupplc.com)
 - [http://www.firsttravelsolutions.com](http://www.firsttravelsolutions.com)
 - [http://www.gwr.com](http://www.gwr.com)
 

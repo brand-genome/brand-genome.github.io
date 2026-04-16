@@ -2,7 +2,7 @@
 title: Research Council of Lithuania
 slug: "research-council-of-lithuania"
 description: ""
-date: "2026-04-15T09:21:23.561731"
+date: "2026-04-16T19:21:58.856398"
 draft: false
 sectors:
   - "public-sector"
@@ -66,8 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lmt.lrv.lt/en](https://lmt.lrv.lt/en)
-- [https://lmt.lrv.lt/lt](https://lmt.lrv.lt/lt)
 - [http://www.lmt.lt](http://www.lmt.lt)
 
 ## Brand Guidelines

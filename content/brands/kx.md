@@ -2,7 +2,7 @@
 title: KX
 slug: kx
 description: ""
-date: "2026-04-15T09:21:23.845970"
+date: "2026-04-16T19:21:59.174225"
 draft: false
 sectors:
   - software
@@ -62,8 +62,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kx.com](https://kx.com)
-- [https://code.kx.com](https://code.kx.com)
-- [https://docs.kx.com](https://docs.kx.com)
+- [https://code.kx.com/home](https://code.kx.com/home)
+- [https://docs.kx.com/home/index.html](https://docs.kx.com/home/index.html)
 - [https://code.kx.com/q](https://code.kx.com/q)
 - [https://kx.com/software-support](https://kx.com/software-support)
 

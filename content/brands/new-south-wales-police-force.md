@@ -2,11 +2,11 @@
 title: New South Wales Police Force
 slug: "new-south-wales-police-force"
 description: ""
-date: "2026-04-15T09:21:24.094676"
+date: "2026-04-16T19:21:59.424899"
 draft: false
 sectors:
-  - "public-sector"
   - "emergency-services"
+  - "public-sector"
 regions:
   - australia
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.police.nsw.gov.au](https://www.police.nsw.gov.au)
-
 ## Brand Guidelines
 
 ### 2019

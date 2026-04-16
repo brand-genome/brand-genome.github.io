@@ -2,11 +2,11 @@
 title: Green Key
 slug: "green-key"
 description: ""
-date: "2026-04-15T09:21:25.354546"
+date: "2026-04-16T19:22:01.020732"
 draft: false
 sectors:
-  - tourism
   - ngo
+  - tourism
 regions:
   - denmark
 years:

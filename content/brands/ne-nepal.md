@@ -2,11 +2,11 @@
 title: Né Nepal
 slug: "ne-nepal"
 description: ""
-date: "2026-04-15T09:21:22.433224"
+date: "2026-04-16T19:21:57.710904"
 draft: false
 sectors:
-  - "consumer-goods"
   - jewellery
+  - "consumer-goods"
 regions:
   - nepal
 years:

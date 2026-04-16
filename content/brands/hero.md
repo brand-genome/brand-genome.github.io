@@ -2,7 +2,7 @@
 title: Hero
 slug: hero
 description: ""
-date: "2026-04-15T09:21:25.052455"
+date: "2026-04-16T19:22:00.644228"
 draft: false
 sectors:
   - automobile
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.heromotocorp.com](https://www.heromotocorp.com)
 - [https://www.heromotocorp.com/en-in.html](https://www.heromotocorp.com/en-in.html)
 
 ## Brand Guidelines

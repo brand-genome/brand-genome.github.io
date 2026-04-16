@@ -2,10 +2,9 @@
 title: Creative Commons
 slug: "creative-commons"
 description: ""
-date: "2026-04-15T09:21:24.618477"
+date: "2026-04-16T19:22:00.188108"
 draft: false
 sectors:
-  - "legal-services"
   - ngo
 regions:
   - international

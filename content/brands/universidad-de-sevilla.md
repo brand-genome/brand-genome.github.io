@@ -2,11 +2,11 @@
 title: Universidad de Sevilla
 slug: "universidad-de-sevilla"
 description: ""
-date: "2026-04-15T09:21:23.604033"
+date: "2026-04-16T19:21:58.892538"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - spain
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.us.es](https://www.us.es)
-- [https://sede.us.es](https://sede.us.es)
+- [https://sede.us.es/opencms/system/modules/sede/index](https://sede.us.es/opencms/system/modules/sede/index)
 - [https://buzonweb.us.es](https://buzonweb.us.es)
 
 ## Brand Guidelines

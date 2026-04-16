@@ -2,7 +2,7 @@
 title: Fonepay
 slug: fonepay
 description: ""
-date: "2026-04-15T09:21:22.334055"
+date: "2026-04-16T19:21:57.439860"
 draft: false
 sectors:
   - finance

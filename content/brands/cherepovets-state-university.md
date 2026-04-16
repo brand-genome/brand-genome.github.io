@@ -2,11 +2,11 @@
 title: Cherepovets State University
 slug: "cherepovets-state-university"
 description: ""
-date: "2026-04-15T09:21:24.253147"
+date: "2026-04-16T19:21:59.652147"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - russia
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - russian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - russia

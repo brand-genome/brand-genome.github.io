@@ -2,7 +2,7 @@
 title: United Way Worldwide
 slug: "united-way-worldwide"
 description: ""
-date: "2026-04-15T09:21:25.165518"
+date: "2026-04-16T19:22:00.762774"
 draft: false
 sectors:
   - ngo

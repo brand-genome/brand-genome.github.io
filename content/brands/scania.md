@@ -2,11 +2,11 @@
 title: Scania
 slug: scania
 description: ""
-date: "2026-04-15T09:21:23.754758"
+date: "2026-04-16T19:21:59.080174"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - automobile
+  - "logistics-supply-chain"
 regions:
   - sweden
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
@@ -34,9 +34,9 @@ total_equity_buckets:
   - "50B-100B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - coach
   - "commercial-vehicle"
   - "diesel-engine"
+  - coach
   - truck
 products: []
 headquarters_locations:
@@ -96,7 +96,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Coach](/products_or_materials_produced/coach/); [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/); [Truck](/products_or_materials_produced/truck/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Diesel Engine](/products_or_materials_produced/diesel-engine/); [Coach](/products_or_materials_produced/coach/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Sodertalje](/headquarters_locations/sodertalje/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Topic'S Main Category | Category:Scania AB |

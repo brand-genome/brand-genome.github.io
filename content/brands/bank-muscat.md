@@ -2,10 +2,9 @@
 title: Bank Muscat
 slug: "bank-muscat"
 description: ""
-date: "2026-04-15T09:21:22.096397"
+date: "2026-04-16T19:21:57.134977"
 draft: false
 sectors:
-  - insurance
   - finance
 regions:
   - oman
@@ -69,7 +68,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bankmuscat.com](https://www.bankmuscat.com)
 - [http://www.bankmuscat.com](http://www.bankmuscat.com)
 
 ## Brand Guidelines

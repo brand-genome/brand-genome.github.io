@@ -2,10 +2,10 @@
 title: Circus
 slug: circus
 description: ""
-date: "2026-04-15T09:21:25.683059"
+date: "2026-04-16T19:22:01.753118"
 draft: false
 sectors:
-  - "ambiguous-brand-disambiguation-needed"
+  - entertainment
 regions:
   - "united-kingdom"
 years:

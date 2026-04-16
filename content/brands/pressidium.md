@@ -2,7 +2,7 @@
 title: Pressidium
 slug: pressidium
 description: ""
-date: "2026-04-15T09:21:23.744861"
+date: "2026-04-16T19:21:59.069751"
 draft: false
 sectors:
   - software

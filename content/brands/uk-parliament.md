@@ -2,7 +2,7 @@
 title: UK Parliament
 slug: "uk-parliament"
 description: ""
-date: "2026-04-15T09:21:23.218953"
+date: "2026-04-16T19:21:58.639317"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.parliament.uk](https://www.parliament.uk)
-- [https://archives.parliament.uk](https://archives.parliament.uk)
 
 ## Additional Properties
 

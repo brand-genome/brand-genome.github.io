@@ -2,11 +2,11 @@
 title: Studyportals
 slug: studyportals
 description: ""
-date: "2026-04-15T09:21:24.325553"
+date: "2026-04-16T19:21:59.733916"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - education
+  - "e-learning-edtech"
 regions:
   - netherlands
 years:
@@ -66,15 +66,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://studyportals.com](https://studyportals.com)
-- [https://www.bachelorsportal.com](https://www.bachelorsportal.com)
-- [https://www.mastersportal.com](https://www.mastersportal.com)
-- [https://www.phdportal.com](https://www.phdportal.com)
-- [https://www.shortcoursesportal.com](https://www.shortcoursesportal.com)
-- [https://www.distancelearningportal.com](https://www.distancelearningportal.com)
-- [https://www.admissiontestportal.com](https://www.admissiontestportal.com)
-- [https://www.englishtestportal.com](https://www.englishtestportal.com)
-- [https://www.studentinsuranceportal.com](https://www.studentinsuranceportal.com)
-- [https://www.languagesuccessportal.com](https://www.languagesuccessportal.com)
+- [https://admissiontestportal.com](https://admissiontestportal.com)
+- [https://englishtestportal.com](https://englishtestportal.com)
+- [https://studentinsuranceportal.com](https://studentinsuranceportal.com)
+- [https://languagesuccessportal.com](https://languagesuccessportal.com)
 - [http://www.studyportals.com](http://www.studyportals.com)
 - [http://www.studyportals.eu](http://www.studyportals.eu)
 

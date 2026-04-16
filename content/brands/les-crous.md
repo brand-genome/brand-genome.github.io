@@ -2,7 +2,7 @@
 title: Les Crous
 slug: "les-crous"
 description: ""
-date: "2026-04-15T09:21:25.684673"
+date: "2026-04-16T19:22:01.760435"
 draft: false
 sectors:
   - "public-sector"
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lescrous.fr](https://www.lescrous.fr)
-- [https://www.cnous.fr](https://www.cnous.fr)
 - [https://www.crous-paris.fr](https://www.crous-paris.fr)
 - [https://etudiant.gouv.fr/fr](https://etudiant.gouv.fr/fr)
 - [https://etudiant.gouv.fr/en](https://etudiant.gouv.fr/en)

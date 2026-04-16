@@ -2,15 +2,15 @@
 title: Freie Demokraten
 slug: "freie-demokraten"
 description: ""
-date: "2026-04-15T09:21:23.707652"
+date: "2026-04-16T19:21:59.030750"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - germany
 years:
-  - 2022
   - 2016
+  - 2022
 languages:
   - german
 tags:

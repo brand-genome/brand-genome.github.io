@@ -2,7 +2,7 @@
 title: FFBB
 slug: ffbb
 description: ""
-date: "2026-04-15T09:21:25.451676"
+date: "2026-04-16T19:22:01.158959"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ffbb.com](https://www.ffbb.com)
 - [http://www.ffbb.com](http://www.ffbb.com)
 
 ## Brand Guidelines

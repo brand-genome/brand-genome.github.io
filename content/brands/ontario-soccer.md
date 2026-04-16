@@ -2,7 +2,7 @@
 title: Ontario Soccer
 slug: "ontario-soccer"
 description: ""
-date: "2026-04-15T09:21:25.193661"
+date: "2026-04-16T19:22:00.788727"
 draft: false
 sectors:
   - sports

@@ -2,7 +2,7 @@
 title: Buta Airways
 slug: "buta-airways"
 description: ""
-date: "2026-04-15T09:21:24.911326"
+date: "2026-04-16T19:22:00.481888"
 draft: false
 sectors:
   - airline
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.butaairways.az/en](https://www.butaairways.az/en)
-- [https://www.butaairways.az](https://www.butaairways.az)
 - [http://www.butaairways.az](http://www.butaairways.az)
 
 ## Brand Guidelines

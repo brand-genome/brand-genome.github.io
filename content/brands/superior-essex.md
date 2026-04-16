@@ -2,11 +2,11 @@
 title: Superior Essex
 slug: "superior-essex"
 description: ""
-date: "2026-04-15T09:21:23.751794"
+date: "2026-04-16T19:21:59.077135"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - industry
   - corporate
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://superioressex.com](https://superioressex.com)
-- [https://www.spsx.com](https://www.spsx.com)
 - [https://essexsolutions.com](https://essexsolutions.com)
 - [https://superioressexcommunications.com](https://superioressexcommunications.com)
 - [http://www.spsx.com](http://www.spsx.com)

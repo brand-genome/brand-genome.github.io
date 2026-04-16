@@ -2,11 +2,11 @@
 title: Interspiro
 slug: interspiro
 description: ""
-date: "2026-04-15T09:21:24.804909"
+date: "2026-04-16T19:22:00.353227"
 draft: false
 sectors:
-  - "emergency-services"
   - defense
+  - "emergency-services"
 regions:
   - usa
 years:

@@ -2,11 +2,11 @@
 title: Universitatea Alexandru Ioan Cuza
 slug: "universitatea-alexandru-ioan-cuza"
 description: ""
-date: "2026-04-15T09:21:23.612972"
+date: "2026-04-16T19:21:58.901138"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - romania
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - romanian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - romania
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uaic.ro](https://www.uaic.ro)
-- [https://www.uaic.ro/en](https://www.uaic.ro/en)
 - [https://identitate.uaic.ro](https://identitate.uaic.ro)
 - [http://360.uaic.ro](http://360.uaic.ro)
 - [http://www.uaic.ro](http://www.uaic.ro)

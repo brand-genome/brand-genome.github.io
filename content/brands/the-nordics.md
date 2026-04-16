@@ -2,10 +2,9 @@
 title: The Nordics
 slug: "the-nordics"
 description: ""
-date: "2026-04-15T09:21:25.632427"
+date: "2026-04-16T19:22:01.636760"
 draft: false
 sectors:
-  - tourism
   - "public-sector"
 regions:
   - international
@@ -60,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://thenordics.com](https://thenordics.com)
-
 ## Brand Guidelines
 
 ### 2018

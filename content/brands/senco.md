@@ -2,7 +2,7 @@
 title: Senco
 slug: senco
 description: ""
-date: "2026-04-15T09:21:24.761547"
+date: "2026-04-16T19:22:00.309559"
 draft: false
 sectors:
   - hardware

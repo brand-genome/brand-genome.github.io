@@ -2,7 +2,7 @@
 title: Alytus Myliu
 slug: "alytus-myliu"
 description: ""
-date: "2026-04-15T09:21:23.569196"
+date: "2026-04-16T19:21:58.863358"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://alytus.lt/lt/apie-alytu/miesto-zenklai/alytus-myliu](https://alytus.lt/lt/apie-alytu/miesto-zenklai/alytus-myliu)
-
 ## Brand Guidelines
 
 ### 2018

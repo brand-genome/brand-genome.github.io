@@ -2,11 +2,11 @@
 title: Audi Sport
 slug: "audi-sport"
 description: ""
-date: "2026-04-15T09:21:25.688372"
+date: "2026-04-16T19:22:01.768328"
 draft: false
 sectors:
-  - sports
   - automobile
+  - sports
 regions:
   - germany
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - sport
+  - transport
 industries:
   - "automotive-industry"
 countries:

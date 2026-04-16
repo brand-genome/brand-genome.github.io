@@ -2,7 +2,7 @@
 title: Simatec
 slug: simatec
 description: ""
-date: "2026-04-15T09:21:23.861794"
+date: "2026-04-16T19:21:59.188924"
 draft: false
 sectors:
   - hardware
@@ -65,11 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://simatec.com](https://simatec.com)
+- [https://simatec.com/int/en](https://simatec.com/int/en)
 - [https://simatec.com/us/en](https://simatec.com/us/en)
 - [https://simatec.com/ch/de](https://simatec.com/ch/de)
 - [https://simatec.com/ch/fr](https://simatec.com/ch/fr)
-- [https://simatec.com/ch/en](https://simatec.com/ch/en)
 
 ## Brand Guidelines
 

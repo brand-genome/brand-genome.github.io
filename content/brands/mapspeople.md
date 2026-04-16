@@ -2,7 +2,7 @@
 title: MapsPeople
 slug: mapspeople
 description: ""
-date: "2026-04-15T09:21:23.109151"
+date: "2026-04-16T19:21:58.519677"
 draft: false
 sectors:
   - software
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mapspeople.com](https://www.mapspeople.com)
-- [https://www.mapspeople.com/de](https://www.mapspeople.com/de)
 - [https://www.mapsindoors.com](https://www.mapsindoors.com)
 - [http://www.mapspeople.com](http://www.mapspeople.com)
 

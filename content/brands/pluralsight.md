@@ -2,7 +2,7 @@
 title: Pluralsight
 slug: pluralsight
 description: ""
-date: "2026-04-15T09:21:25.751735"
+date: "2026-04-16T19:22:01.925950"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -68,8 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.pluralsight.com](https://www.pluralsight.com)
-- [https://www.pluralsight.com/product/skills](https://www.pluralsight.com/product/skills)
-- [https://help.pluralsight.com](https://help.pluralsight.com)
+- [https://www.pluralsight.com/individuals](https://www.pluralsight.com/individuals)
 - [http://www.pluralsight.com](http://www.pluralsight.com)
 
 ## Brand Guidelines

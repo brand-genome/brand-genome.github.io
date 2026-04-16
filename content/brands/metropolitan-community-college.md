@@ -2,11 +2,11 @@
 title: Metropolitan Community College
 slug: "metropolitan-community-college"
 description: ""
-date: "2026-04-15T09:21:23.651416"
+date: "2026-04-16T19:21:58.971301"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

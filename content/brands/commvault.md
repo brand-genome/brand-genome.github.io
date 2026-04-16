@@ -2,11 +2,11 @@
 title: Commvault
 slug: commvault
 description: ""
-date: "2026-04-15T09:21:25.406147"
+date: "2026-04-16T19:22:01.089778"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.commvault.com](https://www.commvault.com)
-- [https://support.commvault.com](https://support.commvault.com)
+- [https://support.commvault.com/Account/Login?ReturnUrl=%2F](https://support.commvault.com/Account/Login?ReturnUrl=%2F)
 - [http://www.commvault.com](http://www.commvault.com)
 
 ## Brand Guidelines

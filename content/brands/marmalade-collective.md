@@ -2,11 +2,11 @@
 title: Marmalade Collective
 slug: "marmalade-collective"
 description: ""
-date: "2026-04-15T09:21:22.233913"
+date: "2026-04-16T19:21:57.275808"
 draft: false
 sectors:
-  - publishing
   - "arts-culture"
+  - publishing
 regions:
   - "united-kingdom"
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - featured
   - media
+  - community
 industries: []
 countries: []
 revenue_buckets: []

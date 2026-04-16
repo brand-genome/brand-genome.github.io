@@ -2,7 +2,7 @@
 title: Apollo Tyres
 slug: "apollo-tyres"
 description: ""
-date: "2026-04-15T09:21:22.070294"
+date: "2026-04-16T19:21:57.108695"
 draft: false
 sectors:
   - tires
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://apollotyres.com](https://apollotyres.com)
 - [http://www.apollotyres.com](http://www.apollotyres.com)
 - [https://www.apollotyres.com](https://www.apollotyres.com)
 

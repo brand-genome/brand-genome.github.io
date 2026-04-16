@@ -2,7 +2,7 @@
 title: Treasury Board Of Canada Secretariat
 slug: "treasury-board-of-canada-secretariat"
 description: ""
-date: "2026-04-15T09:21:23.928934"
+date: "2026-04-16T19:21:59.247125"
 draft: false
 sectors:
   - "public-sector"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - vintage
   - institution
+  - featured
 industries: []
 countries:
   - canada
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.canada.ca/en/treasury-board-secretariat.html](https://www.canada.ca/en/treasury-board-secretariat.html)
-- [https://www.tbs-sct.gc.ca](https://www.tbs-sct.gc.ca)
+- [https://www.tbs-sct.canada.ca](https://www.tbs-sct.canada.ca)
 - [https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/federal-identity-program/manual.html](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/federal-identity-program/manual.html)
 - [http://www.canada.ca/en/treasury-board-secretariat/index.html](http://www.canada.ca/en/treasury-board-secretariat/index.html)
 

@@ -2,11 +2,11 @@
 title: Tufts University
 slug: "tufts-university"
 description: ""
-date: "2026-04-15T09:21:25.877372"
+date: "2026-04-16T19:22:02.146604"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:
@@ -69,8 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tufts.edu](https://www.tufts.edu)
-- [https://communications.tufts.edu](https://communications.tufts.edu)
 - [https://admissions.tufts.edu](https://admissions.tufts.edu)
 - [https://gsbs.tufts.edu](https://gsbs.tufts.edu)
 - [https://vet.tufts.edu](https://vet.tufts.edu)

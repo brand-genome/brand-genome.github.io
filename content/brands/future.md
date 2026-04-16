@@ -2,7 +2,7 @@
 title: Future
 slug: future
 description: ""
-date: "2026-04-15T09:21:25.359044"
+date: "2026-04-16T19:22:01.025558"
 draft: false
 sectors:
   - publishing
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.futureplc.com](https://www.futureplc.com)
 - [https://futureplc.com](https://futureplc.com)
 
 ## Brand Guidelines

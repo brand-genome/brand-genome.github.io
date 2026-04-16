@@ -2,7 +2,7 @@
 title: SMC Corporation
 slug: "smc-corporation"
 description: ""
-date: "2026-04-15T09:21:23.654052"
+date: "2026-04-16T19:21:58.974126"
 draft: false
 sectors:
   - hardware
@@ -65,14 +65,14 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.smcworld.com](https://www.smcworld.com)
 - [https://www.smcworld.com/corporate/about/corp.html](https://www.smcworld.com/corporate/about/corp.html)
-- [https://www.smc.eu](https://www.smc.eu)
+- [https://www.smc.eu/en-eu](https://www.smc.eu/en-eu)
 - [https://www.smcusa.com](https://www.smcusa.com)
 - [http://www.smc.at](http://www.smc.at)
 - [http://www.smc.de](http://www.smc.de)
 - [http://www.smc.eu](http://www.smc.eu)
 - [http://www.smc.sk](http://www.smc.sk)
+- [https://www.smcworld.com](https://www.smcworld.com)
 - [http://www.smcworld.com](http://www.smcworld.com)
 
 ## Brand Guidelines

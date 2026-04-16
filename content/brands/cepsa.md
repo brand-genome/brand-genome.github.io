@@ -2,11 +2,11 @@
 title: Cepsa
 slug: cepsa
 description: ""
-date: "2026-04-15T09:21:22.381208"
+date: "2026-04-16T19:21:57.630126"
 draft: false
 sectors:
-  - "renewable-energy"
   - "petrol-station"
+  - "renewable-energy"
 regions:
   - spain
 years:
@@ -68,9 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.moeveglobal.com](https://www.moeveglobal.com)
 - [https://www.moeveglobal.com/en](https://www.moeveglobal.com/en)
 - [http://www.cepsa.com](http://www.cepsa.com)
+- [https://www.moeveglobal.com](https://www.moeveglobal.com)
 - [https://www.cepsa.com](https://www.cepsa.com)
 - [https://www.cepsa.es](https://www.cepsa.es)
 

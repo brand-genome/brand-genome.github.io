@@ -2,11 +2,11 @@
 title: Spritz
 slug: spritz
 description: ""
-date: "2026-04-15T09:21:23.835909"
+date: "2026-04-16T19:21:59.164889"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - finance
+  - "blockchain-crypto"
 regions:
   - usa
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://spritz.finance](https://spritz.finance)
 - [https://www.spritz.finance](https://www.spritz.finance)
 
 ## Brand Guidelines

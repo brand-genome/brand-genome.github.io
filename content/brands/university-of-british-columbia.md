@@ -2,11 +2,11 @@
 title: University of British Columbia
 slug: "university-of-british-columbia"
 description: ""
-date: "2026-04-15T09:21:24.324442"
+date: "2026-04-16T19:21:59.733192"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - canada

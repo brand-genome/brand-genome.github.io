@@ -2,7 +2,7 @@
 title: Xiaomi
 slug: xiaomi
 description: ""
-date: "2026-04-15T09:21:24.214204"
+date: "2026-04-16T19:21:59.582511"
 draft: false
 sectors:
   - software
@@ -17,10 +17,10 @@ languages:
 tags:
   - electronics
 industries:
-  - "automotive-industry"
-  - "consumer-electronics-industry"
   - "mobile-phone"
   - "home-appliance"
+  - "consumer-electronics-industry"
+  - "automotive-industry"
 countries:
   - "peoples-republic-of-china"
 revenue_buckets: []
@@ -35,10 +35,10 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "building-automation"
-  - "networking-hardware"
   - "computer-hardware"
+  - "networking-hardware"
   - software
+  - "building-automation"
 products: []
 headquarters_locations:
   - beijing
@@ -80,8 +80,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mi.com](https://www.mi.com)
-- [https://www.mi.com/global](https://www.mi.com/global)
-- [https://www.xiaomi.com](https://www.xiaomi.com)
 - [http://www.xiaomi.com](http://www.xiaomi.com)
 - [https://www.mi.com/tr](https://www.mi.com/tr)
 
@@ -99,7 +97,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Building Automation](/products_or_materials_produced/building-automation/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/) |
+| Product Or Material Produced | [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Software](/products_or_materials_produced/software/); [Building Automation](/products_or_materials_produced/building-automation/) |
 | Headquarters Location | [Beijing](/headquarters_locations/beijing/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Inception | 2010-04-06 |

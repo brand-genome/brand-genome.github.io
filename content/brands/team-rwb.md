@@ -2,11 +2,11 @@
 title: Team RWB
 slug: "team-rwb"
 description: ""
-date: "2026-04-15T09:21:25.678879"
+date: "2026-04-16T19:22:01.743628"
 draft: false
 sectors:
-  - fitness
   - ngo
+  - fitness
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: Chivas 18
 slug: "chivas-18"
 description: ""
-date: "2026-04-15T09:21:24.658782"
+date: "2026-04-16T19:22:00.210573"
 draft: false
 sectors:
   - drink
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.chivas.com/en-US](https://www.chivas.com/en-US)
-- [https://www.chivas.com/en-us/collection/chivas-18](https://www.chivas.com/en-us/collection/chivas-18)
-
 ## Brand Guidelines
 
 ### 2012

@@ -2,7 +2,7 @@
 title: UCLA Athletics
 slug: "ucla-athletics"
 description: ""
-date: "2026-04-15T09:21:22.524040"
+date: "2026-04-16T19:21:57.863299"
 draft: false
 sectors:
   - sports
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
   - education
+  - featured
 industries: []
 countries:
   - "united-states"

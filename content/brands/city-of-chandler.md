@@ -2,11 +2,11 @@
 title: City of Chandler
 slug: "city-of-chandler"
 description: ""
-date: "2026-04-15T09:21:22.436914"
+date: "2026-04-16T19:21:57.714022"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - usa
 years:

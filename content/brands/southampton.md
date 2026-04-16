@@ -2,11 +2,11 @@
 title: Southampton
 slug: southampton
 description: ""
-date: "2026-04-15T09:21:22.102278"
+date: "2026-04-16T19:21:57.139774"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://southampton.gov.uk](https://southampton.gov.uk)
 - [https://www.southampton.gov.uk](https://www.southampton.gov.uk)
 
 ## Brand Guidelines

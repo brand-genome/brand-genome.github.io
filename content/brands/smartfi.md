@@ -2,11 +2,11 @@
 title: SmartFi
 slug: smartfi
 description: ""
-date: "2026-04-15T09:21:23.610570"
+date: "2026-04-16T19:21:58.898963"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - finance
+  - "blockchain-crypto"
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://smartfi.com](https://smartfi.com)
-- [https://portal.smartfi.com](https://portal.smartfi.com)
 
 ## Brand Guidelines
 

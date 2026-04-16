@@ -2,7 +2,7 @@
 title: "Rolls-Royce SMR"
 slug: "rolls-royce-smr"
 description: ""
-date: "2026-04-15T09:21:22.097250"
+date: "2026-04-16T19:21:57.135475"
 draft: false
 sectors:
   - "nuclear-energy"
@@ -61,10 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.rolls-royce-smr.com](https://www.rolls-royce-smr.com)
-
 ## Brand Guidelines
 
 ### 2024

@@ -2,10 +2,10 @@
 title: Mouvement des Entreprises de France
 slug: "mouvement-des-entreprises-de-france"
 description: ""
-date: "2026-04-15T09:21:23.733746"
+date: "2026-04-16T19:21:59.058926"
 draft: false
 sectors:
-  - ngo
+  - consulting
 regions:
   - france
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.medef.com](https://www.medef.com)
-- [https://extranet.medef.com](https://extranet.medef.com)
 - [https://www.medef.com/fr](https://www.medef.com/fr)
 
 ## Brand Guidelines

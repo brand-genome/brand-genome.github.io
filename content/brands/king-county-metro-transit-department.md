@@ -2,7 +2,7 @@
 title: King County Metro Transit Department
 slug: "king-county-metro-transit-department"
 description: ""
-date: "2026-04-15T09:21:23.416050"
+date: "2026-04-16T19:21:58.805743"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - "student-work"
+  - transport
 industries: []
 countries:
   - "united-states"
@@ -68,8 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://kingcounty.gov/en/dept/metro](https://kingcounty.gov/en/dept/metro)
-- [https://metro.kingcounty.gov](https://metro.kingcounty.gov)
-- [https://kingcounty.gov/tripplanner](https://kingcounty.gov/tripplanner)
+- [https://tripplanner.kingcounty.gov](https://tripplanner.kingcounty.gov)
 - [http://www.kingcounty.gov](http://www.kingcounty.gov)
 
 ## Brand Guidelines

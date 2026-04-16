@@ -2,7 +2,7 @@
 title: Nova Scotia Power
 slug: "nova-scotia-power"
 description: ""
-date: "2026-04-15T09:21:23.066421"
+date: "2026-04-16T19:21:58.477414"
 draft: false
 sectors:
   - utilities
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - environment
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []

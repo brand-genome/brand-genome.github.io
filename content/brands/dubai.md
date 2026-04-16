@@ -2,7 +2,7 @@
 title: Dubai
 slug: dubai
 description: ""
-date: "2026-04-15T09:21:22.212205"
+date: "2026-04-16T19:21:57.252953"
 draft: false
 sectors:
   - tourism
@@ -10,16 +10,16 @@ sectors:
 regions:
   - dubai
 years:
+  - 2021
   - 2023
   - 2025
-  - 2021
 languages:
   - english
 tags:
   - city
-  - featured
   - tourism
   - regional
+  - featured
 industries: []
 countries:
   - "united-arab-emirates"
@@ -70,10 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.visitdubai.com](https://www.visitdubai.com)
-- [https://www.dubaidet.gov.ae](https://www.dubaidet.gov.ae)
-- [https://www.dubaicalendar.com](https://www.dubaicalendar.com)
-- [https://www.dubaibusinessevents.com](https://www.dubaibusinessevents.com)
+- [https://www.visitdubai.com/en](https://www.visitdubai.com/en)
+- [https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar?tags=Leisure+events](https://www.visitdubai.com/en/festivals-and-events/dubai-events-calendar?tags=Leisure+events)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Bambu
 slug: bambu
 description: ""
-date: "2026-04-15T09:21:23.835803"
+date: "2026-04-16T19:21:59.164793"
 draft: false
 sectors:
   - finance
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,7 +61,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://bambu.co](https://bambu.co)
-- [https://www.bambu.co](https://www.bambu.co)

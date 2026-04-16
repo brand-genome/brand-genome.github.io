@@ -2,20 +2,20 @@
 title: Windows
 slug: windows
 description: ""
-date: "2026-04-15T09:21:23.755037"
+date: "2026-04-16T19:21:59.080624"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2017
   - 2022
+  - 2017
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -65,8 +65,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.microsoft.com/windows](https://www.microsoft.com/windows)
-- [https://www.microsoft.com/en-us/microsoft-365/windows](https://www.microsoft.com/en-us/microsoft-365/windows)
+- [https://www.microsoft.com/en-in/windows](https://www.microsoft.com/en-in/windows)
 - [http://www.microsoft.com/trademarks](http://www.microsoft.com/trademarks)
 - [https://windows.com](https://windows.com)
 - [https://www.microsoft.com/tr-tr/windows](https://www.microsoft.com/tr-tr/windows)

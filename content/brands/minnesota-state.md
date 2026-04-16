@@ -2,16 +2,16 @@
 title: Minnesota State
 slug: "minnesota-state"
 description: ""
-date: "2026-04-15T09:21:24.596922"
+date: "2026-04-16T19:22:00.160493"
 draft: false
 sectors:
   - education
 regions:
   - usa
 years:
-  - 2018
-  - 2017
   - 2016
+  - 2017
+  - 2018
 languages:
   - english
 tags:

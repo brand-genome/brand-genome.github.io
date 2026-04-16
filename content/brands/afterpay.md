@@ -2,7 +2,7 @@
 title: Afterpay
 slug: afterpay
 description: ""
-date: "2026-04-15T09:21:24.334334"
+date: "2026-04-16T19:21:59.773939"
 draft: false
 sectors:
   - finance
@@ -67,12 +67,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.afterpay.com](https://www.afterpay.com)
+- [https://www.afterpay.com/global/country-select](https://www.afterpay.com/global/country-select)
 - [https://www.afterpay.com/en-au](https://www.afterpay.com/en-au)
 - [https://www.afterpay.com/en-us](https://www.afterpay.com/en-us)
-- [https://developers.afterpay.com](https://developers.afterpay.com)
+- [https://developers.afterpay.com/afterpay-online-developer/home](https://developers.afterpay.com/afterpay-online-developer/home)
 - [https://hub.us.afterpay.com/us](https://hub.us.afterpay.com/us)
-- [https://help.business.afterpay.com](https://help.business.afterpay.com)
 - [http://www.afterpay.com](http://www.afterpay.com)
 - [https://www.afterpay.com/en-AU/index](https://www.afterpay.com/en-AU/index)
 

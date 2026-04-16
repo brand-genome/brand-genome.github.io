@@ -2,7 +2,7 @@
 title: The Jewish Agency for Israel
 slug: "the-jewish-agency-for-israel"
 description: ""
-date: "2026-04-15T09:21:24.239231"
+date: "2026-04-16T19:21:59.616883"
 draft: false
 sectors:
   - ngo
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.jewishagency.org](https://www.jewishagency.org)
-
 ## Brand Guidelines
 
 ### 2017

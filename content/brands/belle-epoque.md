@@ -2,11 +2,11 @@
 title: Belle Époque
 slug: "belle-epoque"
 description: ""
-date: "2026-04-15T09:21:24.964935"
+date: "2026-04-16T19:22:00.540803"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - "united-kingdom"
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://belleepoque.co.uk](https://belleepoque.co.uk)
-
 ## Brand Guidelines
 
 ### 2016

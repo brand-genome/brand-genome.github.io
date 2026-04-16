@@ -2,26 +2,26 @@
 title: Uber
 slug: uber
 description: ""
-date: "2026-04-15T09:21:22.330997"
+date: "2026-04-16T19:21:57.435202"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - "ride-sharing"
+  - "logistics-supply-chain"
   - software
 regions:
   - usa
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
-  - transport
   - internet
   - app
+  - transport
 industries:
-  - "information-technology"
   - "peer-to-peer-ridesharing"
+  - "information-technology"
 countries:
   - "united-states"
   - netherlands
@@ -79,8 +79,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uber.com](https://www.uber.com)
+- [https://www.uber.com/in/en](https://www.uber.com/in/en)
 - [https://help.uber.com](https://help.uber.com)
+- [https://www.uber.com](https://www.uber.com)
 
 ## Brand Guidelines
 

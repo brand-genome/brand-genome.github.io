@@ -2,12 +2,11 @@
 title: Massive Music
 slug: "massive-music"
 description: ""
-date: "2026-04-15T09:21:23.732570"
+date: "2026-04-16T19:21:59.058075"
 draft: false
 sectors:
   - "marketing-advertising"
   - entertainment
-  - software
 regions:
   - netherlands
 years:

@@ -2,7 +2,7 @@
 title: Truman State Athletics
 slug: "truman-state-athletics"
 description: ""
-date: "2026-04-15T09:21:24.155033"
+date: "2026-04-16T19:21:59.485010"
 draft: false
 sectors:
   - sports

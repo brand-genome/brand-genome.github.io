@@ -2,7 +2,7 @@
 title: Index Exchange
 slug: "index-exchange"
 description: ""
-date: "2026-04-15T09:21:25.659872"
+date: "2026-04-16T19:22:01.683846"
 draft: false
 sectors:
   - "marketing-advertising"

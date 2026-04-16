@@ -2,11 +2,11 @@
 title: Atlantic Coast Conference
 slug: "atlantic-coast-conference"
 description: ""
-date: "2026-04-15T09:21:24.979819"
+date: "2026-04-16T19:22:00.551473"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://theacc.com](https://theacc.com)
-- [https://www.theacc.com/media](https://www.theacc.com/media)
+- [https://theacc.com/sports/2017/9/6/media-info.aspx](https://theacc.com/sports/2017/9/6/media-info.aspx)
 - [http://theacc.co/ACCBrandStandards](http://theacc.co/ACCBrandStandards)
 - [http://www.theacc.com](http://www.theacc.com)
 

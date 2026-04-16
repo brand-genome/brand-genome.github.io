@@ -2,7 +2,7 @@
 title: Vitafédé
 slug: vitafede
 description: ""
-date: "2026-04-15T09:21:25.351433"
+date: "2026-04-16T19:22:01.017681"
 draft: false
 sectors:
   - sports
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ffepgv.fr](https://www.ffepgv.fr)
 - [https://sportsante.fr](https://sportsante.fr)
 - [http://www.vitafede.fr](http://www.vitafede.fr)
 

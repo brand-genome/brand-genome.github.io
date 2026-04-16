@@ -2,7 +2,7 @@
 title: Seafood from Norway
 slug: "seafood-from-norway"
 description: ""
-date: "2026-04-15T09:21:24.955069"
+date: "2026-04-16T19:22:00.529506"
 draft: false
 sectors:
   - food

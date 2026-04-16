@@ -2,7 +2,7 @@
 title: Rocky Mountaineer
 slug: "rocky-mountaineer"
 description: ""
-date: "2026-04-15T09:21:22.317006"
+date: "2026-04-16T19:21:57.361585"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - tourism
-  - transport
   - regional
+  - transport
 industries: []
 countries:
   - canada
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.rockymountaineer.com](https://www.rockymountaineer.com)
-- [https://www.canyonspirit.com](https://www.canyonspirit.com)
 
 ## Additional Properties
 

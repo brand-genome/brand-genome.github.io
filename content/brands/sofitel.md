@@ -2,7 +2,7 @@
 title: Sofitel
 slug: sofitel
 description: ""
-date: "2026-04-15T09:21:24.226261"
+date: "2026-04-16T19:21:59.603543"
 draft: false
 sectors:
   - tourism
@@ -62,10 +62,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sofitel.accor.com](https://sofitel.accor.com)
+- [https://sofitel.accor.com/select-country.html](https://sofitel.accor.com/select-country.html)
 - [https://sofitel.accor.com/en.html](https://sofitel.accor.com/en.html)
 - [https://all.accor.com/a/en/brands/sofitel.html](https://all.accor.com/a/en/brands/sofitel.html)
-- [https://group.accor.com/en/brands/luxury/sofitel](https://group.accor.com/en/brands/luxury/sofitel)
+- [https://group.accor.com/en/brands-and-experiences/our-hotel-brands/sofitel](https://group.accor.com/en/brands-and-experiences/our-hotel-brands/sofitel)
 - [https://sofitelmice.accor.com](https://sofitelmice.accor.com)
 
 ## Brand Guidelines

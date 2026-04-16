@@ -2,7 +2,7 @@
 title: Madrid
 slug: madrid
 description: ""
-date: "2026-04-15T09:21:23.751926"
+date: "2026-04-16T19:21:59.077434"
 draft: false
 sectors:
   - tourism
@@ -10,8 +10,8 @@ regions:
   - spain
 years:
   - 2019
-  - 2012
   - 2016
+  - 2012
 languages:
   - spanish
 tags:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.esmadrid.com/en](https://www.esmadrid.com/en)
-- [https://www.esmadrid.com/en/pagina-inicio](https://www.esmadrid.com/en/pagina-inicio)
 - [https://www.esmadrid.com/mcb/en](https://www.esmadrid.com/mcb/en)
 - [https://www.madrid.es](https://www.madrid.es)
 - [https://www.munimadrid.es](https://www.munimadrid.es)

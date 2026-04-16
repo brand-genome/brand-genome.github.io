@@ -2,7 +2,7 @@
 title: Concello de Marín
 slug: "concello-de-marin"
 description: ""
-date: "2026-04-15T09:21:23.407447"
+date: "2026-04-16T19:21:58.798744"
 draft: false
 sectors:
   - "public-sector"
@@ -63,4 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.concellodemarin.es](https://www.concellodemarin.es)
-- [https://sede.concellodemarin.es](https://sede.concellodemarin.es)

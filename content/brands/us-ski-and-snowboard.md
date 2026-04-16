@@ -2,7 +2,7 @@
 title: US Ski and Snowboard
 slug: "us-ski-and-snowboard"
 description: ""
-date: "2026-04-15T09:21:25.178910"
+date: "2026-04-16T19:22:00.773505"
 draft: false
 sectors:
   - sports
@@ -65,9 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usskiandsnowboard.org](https://usskiandsnowboard.org)
-- [https://usskiandsnowboard.org/foundation](https://usskiandsnowboard.org/foundation)
 - [http://www.ussa.org](http://www.ussa.org)
+- [https://usskiandsnowboard.org](https://usskiandsnowboard.org)
 
 ## Brand Guidelines
 

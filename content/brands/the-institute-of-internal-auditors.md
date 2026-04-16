@@ -2,12 +2,11 @@
 title: The Institute of Internal Auditors
 slug: "the-institute-of-internal-auditors"
 description: ""
-date: "2026-04-15T09:21:25.649891"
+date: "2026-04-16T19:22:01.667026"
 draft: false
 sectors:
-  - consulting
-  - education
   - ngo
+  - education
 regions:
   - international
 years:

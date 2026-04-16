@@ -2,7 +2,7 @@
 title: Cultural and Natural Heritage of Lithuania
 slug: "cultural-and-natural-heritage-of-lithuania"
 description: ""
-date: "2026-04-15T09:21:23.833758"
+date: "2026-04-16T19:21:59.162333"
 draft: false
 sectors:
   - tourism
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://lithuania.travel](https://lithuania.travel)
+- [https://lithuania.travel/lt](https://lithuania.travel/lt)
 - [http://www.lithuania.travel](http://www.lithuania.travel)
 
 ## Brand Guidelines

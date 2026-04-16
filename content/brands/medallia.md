@@ -2,7 +2,7 @@
 title: Medallia
 slug: medallia
 description: ""
-date: "2026-04-15T09:21:24.088965"
+date: "2026-04-16T19:21:59.416677"
 draft: false
 sectors:
   - software
@@ -15,8 +15,8 @@ languages:
 tags:
   - software
 industries:
-  - "software-industry"
   - "business-software-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -29,8 +29,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "san-mateo"
   - "palo-alto"
+  - "san-mateo"
 subsidiaries: []
 foundation_dates:
   - 2001
@@ -85,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [San Mateo](/headquarters_locations/san-mateo/); [Palo Alto](/headquarters_locations/palo-alto/) |
+| Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/); [San Mateo](/headquarters_locations/san-mateo/) |
 | Foundation Date | [2001](/foundation_dates/2001/) |
 | Country | United States |
 | Inception | 2001 |

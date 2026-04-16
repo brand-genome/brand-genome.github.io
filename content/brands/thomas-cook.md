@@ -2,7 +2,7 @@
 title: Thomas Cook
 slug: "thomas-cook"
 description: ""
-date: "2026-04-15T09:21:25.363598"
+date: "2026-04-16T19:22:01.030110"
 draft: false
 sectors:
   - tourism

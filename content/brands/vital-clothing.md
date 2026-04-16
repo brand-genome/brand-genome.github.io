@@ -2,7 +2,7 @@
 title: Vital Clothing
 slug: "vital-clothing"
 description: ""
-date: "2026-04-15T09:21:24.249737"
+date: "2026-04-16T19:21:59.648170"
 draft: false
 sectors:
   - fashion
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://vitalclothing.com](https://vitalclothing.com)
-
 ## Brand Guidelines
 
 ### 2017

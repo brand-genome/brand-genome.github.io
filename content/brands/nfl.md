@@ -2,11 +2,11 @@
 title: NFL
 slug: nfl
 description: ""
-date: "2026-04-15T09:21:25.839161"
+date: "2026-04-16T19:22:02.087160"
 draft: false
 sectors:
-  - sports
   - entertainment
+  - sports
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries:
   - "united-states"
@@ -67,9 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nfl.com](https://www.nfl.com)
+- [https://www.nfl.com/international](https://www.nfl.com/international)
 - [https://operations.nfl.com](https://operations.nfl.com)
-- [https://support.nfl.com](https://support.nfl.com)
+- [https://www.nfl.com](https://www.nfl.com)
 
 ## Brand Guidelines
 

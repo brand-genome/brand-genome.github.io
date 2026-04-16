@@ -2,11 +2,11 @@
 title: Victoria
 slug: victoria
 description: ""
-date: "2026-04-15T09:21:25.455696"
+date: "2026-04-16T19:22:01.170639"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - australia
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.vic.gov.au/brand-victoria-guidelines](https://www.vic.gov.au/brand-victoria-guidelines)
 - [https://www.vic.gov.au](https://www.vic.gov.au)
-- [https://www.visitvictoria.com](https://www.visitvictoria.com)
 - [https://corporate.visitvictoria.com](https://corporate.visitvictoria.com)
 
 ## Brand Guidelines

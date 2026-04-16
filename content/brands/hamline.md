@@ -2,11 +2,11 @@
 title: Hamline
 slug: hamline
 description: ""
-date: "2026-04-15T09:21:25.667228"
+date: "2026-04-16T19:22:01.704334"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - university
   - education
+  - featured
 industries:
   - "higher-education"
 countries:
@@ -71,8 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hamline.edu](https://www.hamline.edu)
-- [https://www.hamline.edu/homepage](https://www.hamline.edu/homepage)
-- [https://hamline.edu/medialibrary](https://hamline.edu/medialibrary)
 - [http://www.hamline.edu/CWP](http://www.hamline.edu/CWP)
 - [http://www.hamline.edu](http://www.hamline.edu)
 

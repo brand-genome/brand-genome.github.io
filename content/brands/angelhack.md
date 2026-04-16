@@ -2,11 +2,10 @@
 title: Angelhack
 slug: angelhack
 description: ""
-date: "2026-04-15T09:21:25.745873"
+date: "2026-04-16T19:22:01.916168"
 draft: false
 sectors:
   - education
-  - software
 regions:
   - international
 years:

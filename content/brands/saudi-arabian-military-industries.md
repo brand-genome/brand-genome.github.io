@@ -2,7 +2,7 @@
 title: Saudi Arabian Military Industries
 slug: "saudi-arabian-military-industries"
 description: ""
-date: "2026-04-15T09:21:22.232670"
+date: "2026-04-16T19:21:57.274541"
 draft: false
 sectors:
   - aerospace
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.sami.com.sa](https://www.sami.com.sa)
-- [https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries](https://www.pif.gov.sa/en/our-investments/our-portfolio/saudi-arabian-military-industries)
 
 ## Brand Guidelines
 

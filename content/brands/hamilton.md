@@ -2,7 +2,7 @@
 title: Hamilton
 slug: hamilton
 description: ""
-date: "2026-04-15T09:21:24.617061"
+date: "2026-04-16T19:22:00.186332"
 draft: false
 sectors:
   - tourism

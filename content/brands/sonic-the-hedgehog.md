@@ -2,7 +2,7 @@
 title: Sonic The Hedgehog
 slug: "sonic-the-hedgehog"
 description: ""
-date: "2026-04-15T09:21:23.386372"
+date: "2026-04-16T19:21:58.775027"
 draft: false
 sectors:
   - gaming
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - entertainment
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,6 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sonicthehedgehog.com](https://www.sonicthehedgehog.com)
+- [https://www.sega.com/sonic-the-hedgehog](https://www.sega.com/sonic-the-hedgehog)
 - [https://asia.sega.com/SonicTheHedgehog/en](https://asia.sega.com/SonicTheHedgehog/en)
 - [https://sonic.sega.jp/SonicChannel](https://sonic.sega.jp/SonicChannel)

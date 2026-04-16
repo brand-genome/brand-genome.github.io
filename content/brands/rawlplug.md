@@ -2,7 +2,7 @@
 title: Rawlplug
 slug: rawlplug
 description: ""
-date: "2026-04-15T09:21:25.428764"
+date: "2026-04-16T19:22:01.113498"
 draft: false
 sectors:
   - construction
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://rawlplug.com](https://rawlplug.com)
+- [https://rawlplug.com/global/en](https://rawlplug.com/global/en)
 - [https://www.rawlplug.com](https://www.rawlplug.com)
 
 ## Brand Guidelines

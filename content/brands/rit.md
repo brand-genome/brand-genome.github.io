@@ -2,7 +2,7 @@
 title: RIT
 slug: rit
 description: ""
-date: "2026-04-15T09:21:25.770047"
+date: "2026-04-16T19:22:01.961587"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

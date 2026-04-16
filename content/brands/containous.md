@@ -2,11 +2,11 @@
 title: Containous
 slug: containous
 description: ""
-date: "2026-04-15T09:21:24.607309"
+date: "2026-04-16T19:22:00.172876"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://containo.us](https://containo.us)
 - [https://traefik.io](https://traefik.io)
 
 ## Brand Guidelines

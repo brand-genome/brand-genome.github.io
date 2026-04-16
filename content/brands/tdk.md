@@ -2,7 +2,7 @@
 title: TDK
 slug: tdk
 description: ""
-date: "2026-04-15T09:21:25.420966"
+date: "2026-04-16T19:22:01.105138"
 draft: false
 sectors:
   - electronics
@@ -67,8 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tdk.com](https://www.tdk.com)
 - [http://www.global.tdk.com](http://www.global.tdk.com)
+- [https://www.tdk.com](https://www.tdk.com)
 
 ## Brand Guidelines
 

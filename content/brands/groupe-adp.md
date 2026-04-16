@@ -2,7 +2,7 @@
 title: Groupe ADP
 slug: "groupe-adp"
 description: ""
-date: "2026-04-15T09:21:24.090335"
+date: "2026-04-16T19:21:59.419421"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -74,8 +74,8 @@ visual_term_image_urls: {}
 - [https://www.parisaeroport.fr/homepage-groupe](https://www.parisaeroport.fr/homepage-groupe)
 - [https://www.parisaeroport.fr](https://www.parisaeroport.fr)
 - [https://presse.groupeadp.fr/accueil?lang=fr](https://presse.groupeadp.fr/accueil?lang=fr)
-- [https://mediacenter.groupe-adp.com](https://mediacenter.groupe-adp.com)
-- [https://groupeadp-recrute.talent-soft.com](https://groupeadp-recrute.talent-soft.com)
+- [https://mediacenter.groupe-adp.com/fr/home](https://mediacenter.groupe-adp.com/fr/home)
+- [https://groupeadp-recrute.talent-soft.com/accueil.aspx?LCID=1036](https://groupeadp-recrute.talent-soft.com/accueil.aspx?LCID=1036)
 - [https://www.parisaeroport.fr/fr/homepage-groupe](https://www.parisaeroport.fr/fr/homepage-groupe)
 
 ## Brand Guidelines

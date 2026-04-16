@@ -2,7 +2,7 @@
 title: Assa Abloy
 slug: "assa-abloy"
 description: ""
-date: "2026-04-15T09:21:24.554222"
+date: "2026-04-16T19:22:00.125657"
 draft: false
 sectors:
   - hardware
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.assaabloy.com](https://www.assaabloy.com)
+- [https://www.assaabloy.com/in/en](https://www.assaabloy.com/in/en)
 - [https://www.assaabloyentrance.com/us/en](https://www.assaabloyentrance.com/us/en)
 - [http://www.assa.se](http://www.assa.se)
 - [http://www.assaabloy.com](http://www.assaabloy.com)

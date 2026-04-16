@@ -2,7 +2,7 @@
 title: Best Western Premier
 slug: "best-western-premier"
 description: ""
-date: "2026-04-15T09:21:24.131261"
+date: "2026-04-16T19:21:59.455741"
 draft: false
 sectors:
   - tourism
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-premier.html](https://www.bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-premier.html)
-- [https://www.bestwestern.com](https://www.bestwestern.com)
-
 ## Brand Guidelines
 
 ### 2005

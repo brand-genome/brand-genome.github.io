@@ -2,7 +2,7 @@
 title: MSC Cruises
 slug: "msc-cruises"
 description: ""
-date: "2026-04-15T09:21:23.764330"
+date: "2026-04-16T19:21:59.091630"
 draft: false
 sectors:
   - cruise
@@ -18,8 +18,8 @@ tags:
 industries:
   - tourism
 countries:
-  - switzerland
   - italy
+  - switzerland
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -31,9 +31,9 @@ products_or_materials_produced:
   - cruising
 products: []
 headquarters_locations:
+  - geneva
   - naples
   - genoa
-  - geneva
 subsidiaries: []
 foundation_dates:
   - 1970
@@ -72,8 +72,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.msccruises.com](https://www.msccruises.com)
-- [https://www.msccruises.com/select-your-country](https://www.msccruises.com/select-your-country)
-- [https://www.msccruises.com/manage-booking/msc-voyagers-club](https://www.msccruises.com/manage-booking/msc-voyagers-club)
 - [http://www.msc-kreuzfahrten.de](http://www.msc-kreuzfahrten.de)
 - [https://www.mscpressarea.com](https://www.mscpressarea.com)
 - [https://www.msccruisesusa.com](https://www.msccruisesusa.com)
@@ -215,7 +213,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Product Or Material Produced | [Cruising](/products_or_materials_produced/cruising/) |
-| Headquarters Location | [Naples](/headquarters_locations/naples/); [Genoa](/headquarters_locations/genoa/); [Geneva](/headquarters_locations/geneva/) |
+| Headquarters Location | [Geneva](/headquarters_locations/geneva/); [Naples](/headquarters_locations/naples/); [Genoa](/headquarters_locations/genoa/) |
 | Foundation Date | [1970](/foundation_dates/1970/) |
 | Topic'S Main Category | Category:MSC Cruises |
 | Freebase Id | /m/04q7d8 |

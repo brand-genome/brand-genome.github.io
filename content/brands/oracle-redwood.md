@@ -2,7 +2,7 @@
 title: Oracle Redwood
 slug: "oracle-redwood"
 description: ""
-date: "2026-04-15T09:21:22.209013"
+date: "2026-04-16T19:21:57.247783"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,4 +62,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://design.oracle.com](https://design.oracle.com)
+- [https://design.oracle.com/index.html](https://design.oracle.com/index.html)

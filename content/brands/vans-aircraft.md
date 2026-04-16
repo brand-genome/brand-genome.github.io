@@ -2,7 +2,7 @@
 title: Van’s Aircraft
 slug: "vans-aircraft"
 description: ""
-date: "2026-04-15T09:21:25.198971"
+date: "2026-04-16T19:22:00.794073"
 draft: false
 sectors:
   - aerospace

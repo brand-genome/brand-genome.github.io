@@ -2,10 +2,10 @@
 title: Viapath
 slug: viapath
 description: ""
-date: "2026-04-15T09:21:24.781623"
+date: "2026-04-16T19:22:00.330910"
 draft: false
 sectors:
-  - software
+  - healthcare
 regions:
   - "united-kingdom"
 years:

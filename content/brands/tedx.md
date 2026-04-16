@@ -2,7 +2,7 @@
 title: TEDx
 slug: tedx
 description: ""
-date: "2026-04-15T09:21:25.178576"
+date: "2026-04-16T19:22:00.773073"
 draft: false
 sectors:
   - entertainment
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ted.com/tedx](https://www.ted.com/tedx)
 - [https://www.ted.com/about/programs-initiatives/tedx-program](https://www.ted.com/about/programs-initiatives/tedx-program)
 - [https://www.ted.com/pages/your-event-website](https://www.ted.com/pages/your-event-website)
 - [http://www.ted.com](http://www.ted.com)

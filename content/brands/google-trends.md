@@ -2,7 +2,7 @@
 title: Google Trends
 slug: "google-trends"
 description: ""
-date: "2026-04-15T09:21:25.768030"
+date: "2026-04-16T19:22:01.958622"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,6 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://trends.google.com/trends](https://trends.google.com/trends)
 - [https://trends.google.com](https://trends.google.com)
 
 ## Brand Guidelines

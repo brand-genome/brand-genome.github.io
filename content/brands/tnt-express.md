@@ -2,7 +2,7 @@
 title: TNT Express
 slug: "tnt-express"
 description: ""
-date: "2026-04-15T09:21:25.768349"
+date: "2026-04-16T19:22:01.959029"
 draft: false
 sectors:
   - "logistics-supply-chain"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - transport
   - corporate
+  - transport
 industries:
   - "package-delivery"
 countries:
@@ -68,8 +68,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tnt.com](https://www.tnt.com)
+- [https://www.tnt.com/express/en_in/site/home.html](https://www.tnt.com/express/en_in/site/home.html)
 - [https://www.tnt.com/express/en_us/site/home.html](https://www.tnt.com/express/en_us/site/home.html)
+- [https://www.tnt.com](https://www.tnt.com)
 - [https://www.tnt.it](https://www.tnt.it)
 
 ## Brand Guidelines

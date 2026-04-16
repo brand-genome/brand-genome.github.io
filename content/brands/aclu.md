@@ -2,7 +2,7 @@
 title: ACLU
 slug: aclu
 description: ""
-date: "2026-04-15T09:21:24.788468"
+date: "2026-04-16T19:22:00.337598"
 draft: false
 sectors:
   - ngo
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.aclu.org](https://www.aclu.org)
-- [https://www.peoplepower.org](https://www.peoplepower.org)
+- [https://act.aclu.org/a/join-our-volunteer-teams](https://act.aclu.org/a/join-our-volunteer-teams)
 - [http://www.aclu-nm.org](http://www.aclu-nm.org)
 - [http://www.aclu.org](http://www.aclu.org)
 - [http://www.aclum.org](http://www.aclum.org)

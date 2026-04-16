@@ -2,11 +2,11 @@
 title: Canadian Tire
 slug: "canadian-tire"
 description: ""
-date: "2026-04-15T09:21:23.130167"
+date: "2026-04-16T19:21:58.533617"
 draft: false
 sectors:
-  - "consumer-goods"
   - finance
+  - "consumer-goods"
 regions:
   - canada
 years:
@@ -72,8 +72,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.canadiantire.ca/en.html](https://www.canadiantire.ca/en.html)
-- [https://corp.canadiantire.ca](https://corp.canadiantire.ca)
-- [https://www.ctfs.com](https://www.ctfs.com)
+- [https://www.ctfs.com/content/ctfs3/en/homepage.html](https://www.ctfs.com/content/ctfs3/en/homepage.html)
 - [https://triangle.canadiantire.ca/en.html](https://triangle.canadiantire.ca/en.html)
 - [https://jumpstart.canadiantire.ca](https://jumpstart.canadiantire.ca)
 - [https://www.canadiantire.ca](https://www.canadiantire.ca)

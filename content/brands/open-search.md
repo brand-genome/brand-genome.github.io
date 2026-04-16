@@ -2,7 +2,7 @@
 title: Open Search
 slug: "open-search"
 description: ""
-date: "2026-04-15T09:21:24.032369"
+date: "2026-04-16T19:21:59.348109"
 draft: false
 sectors:
   - software

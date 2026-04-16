@@ -2,11 +2,11 @@
 title: Radio Player
 slug: "radio-player"
 description: ""
-date: "2026-04-15T09:21:25.386713"
+date: "2026-04-16T19:22:01.057624"
 draft: false
 sectors:
-  - broadcasting
   - software
+  - broadcasting
 regions:
   - canada
 years:
@@ -62,9 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://radioplayer.ca](https://radioplayer.ca)
-- [https://radioplayer.ca/app](https://radioplayer.ca/app)
-- [https://www.support.radioplayer.ca](https://www.support.radioplayer.ca)
 - [https://radioplayer.org](https://radioplayer.org)
 - [http://www.radioplayer.ca](http://www.radioplayer.ca)
 

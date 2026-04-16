@@ -2,7 +2,7 @@
 title: CFDT
 slug: cfdt
 description: ""
-date: "2026-04-15T09:21:22.085800"
+date: "2026-04-16T19:21:57.126641"
 draft: false
 sectors:
   - ngo
@@ -31,8 +31,8 @@ headquarters_locations:
   - paris
 subsidiaries: []
 foundation_dates:
-  - 1919
   - 1964
+  - 1919
 foundation_year_buckets:
   - 1960S
   - 1910S
@@ -86,7 +86,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
-| Foundation Date | [1919](/foundation_dates/1919/); [1964](/foundation_dates/1964/) |
+| Foundation Date | [1964](/foundation_dates/1964/); [1919](/foundation_dates/1919/) |
 | Freebase Id | /m/01v_bk |
 | Topic'S Main Category | Category:Confédération française démocratique du travail |
 | Viaf Cluster Id | 159011716 |

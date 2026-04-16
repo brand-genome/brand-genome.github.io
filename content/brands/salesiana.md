@@ -2,11 +2,11 @@
 title: Salesiana
 slug: salesiana
 description: ""
-date: "2026-04-15T09:21:24.089094"
+date: "2026-04-16T19:21:59.417040"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - ecuador
 years:
@@ -65,18 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://login.microsoftonline.com/estlive.ups.edu.ec/oauth2/v2.0/authorize?state=dc5707904df5df59efb526f989d5fa8f&scope=openid%20profile%20offline_access%20user.read%20mailboxsettings.read%20calendars.readwrite&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Favac.ups.edu.ec%2Fcallback&client_id=851e1c62-8ab8-49fc-a2a0-74ad70988da0](https://login.microsoftonline.com/estlive.ups.edu.ec/oauth2/v2.0/authorize?state=dc5707904df5df59efb526f989d5fa8f&scope=openid%20profile%20offline_access%20user.read%20mailboxsettings.read%20calendars.readwrite&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Favac.ups.edu.ec%2Fcallback&client_id=851e1c62-8ab8-49fc-a2a0-74ad70988da0)
 - [https://www.ups.edu.ec](https://www.ups.edu.ec)
-- [https://www.ups.edu.ec/en](https://www.ups.edu.ec/en)
-- [https://www.ups.edu.ec/sede-guayaquil](https://www.ups.edu.ec/sede-guayaquil)
-- [https://avac.ups.edu.ec](https://avac.ups.edu.ec)
-- [https://portal.ups.edu.ec](https://portal.ups.edu.ec)
-- [https://dspace.ups.edu.ec](https://dspace.ups.edu.ec)
-- [https://bienestar.ups.edu.ec](https://bienestar.ups.edu.ec)
-- [https://educacioncontinua.ups.edu.ec](https://educacioncontinua.ups.edu.ec)
-- [https://idiomas.ups.edu.ec](https://idiomas.ups.edu.ec)
-- [https://quipux.ups.edu.ec](https://quipux.ups.edu.ec)
-- [https://ti.ups.edu.ec](https://ti.ups.edu.ec)
-- [https://upsenlinea.com](https://upsenlinea.com)
 
 ## Brand Guidelines
 

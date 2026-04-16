@@ -2,11 +2,11 @@
 title: Arts Council
 slug: "arts-council"
 description: ""
-date: "2026-04-15T09:21:25.860407"
+date: "2026-04-16T19:22:02.128905"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - ireland
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://artscouncil.ie](https://artscouncil.ie)
-- [https://www.artscouncil.ie/funding/logoguide](https://www.artscouncil.ie/funding/logoguide)
 
 ## Brand Guidelines
 

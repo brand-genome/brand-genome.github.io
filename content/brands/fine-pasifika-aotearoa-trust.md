@@ -2,11 +2,11 @@
 title: F’INE Pasifika Aotearoa Trust
 slug: "fine-pasifika-aotearoa-trust"
 description: ""
-date: "2026-04-15T09:21:23.728891"
+date: "2026-04-16T19:21:59.053736"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - "new-zealand"
 years:

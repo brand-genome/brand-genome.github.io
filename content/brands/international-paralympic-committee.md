@@ -2,16 +2,16 @@
 title: International Paralympic Committee
 slug: "international-paralympic-committee"
 description: ""
-date: "2026-04-15T09:21:23.781181"
+date: "2026-04-16T19:21:59.110023"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - international
 years:
-  - 2017
   - 2019
+  - 2017
 languages:
   - english
 tags:
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.paralympic.org/home](https://www.paralympic.org/home)
+- [https://www.paralympic.org/milano-cortina-2026](https://www.paralympic.org/milano-cortina-2026)
 - [http://www.paralympic.org](http://www.paralympic.org)
 - [https://www.paralympic.org](https://www.paralympic.org)
 

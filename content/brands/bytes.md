@@ -2,12 +2,12 @@
 title: Bytes
 slug: bytes
 description: ""
-date: "2026-04-15T09:21:22.100695"
+date: "2026-04-16T19:21:57.138266"
 draft: false
 sectors:
-  - "marketing-advertising"
   - "design-creative"
   - software
+  - "marketing-advertising"
 regions:
   - bulgaria
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - marketing
   - design
+  - marketing
 industries: []
 countries: []
 revenue_buckets: []

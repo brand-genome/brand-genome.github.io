@@ -2,7 +2,7 @@
 title: Bournemouth University
 slug: "bournemouth-university"
 description: ""
-date: "2026-04-15T09:21:24.160222"
+date: "2026-04-16T19:21:59.491913"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-kingdom"
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bournemouth.ac.uk](https://www.bournemouth.ac.uk)
 - [http://www.bournemouth.ac.uk](http://www.bournemouth.ac.uk)
 
 ## Brand Guidelines

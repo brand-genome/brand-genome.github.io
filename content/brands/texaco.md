@@ -2,7 +2,7 @@
 title: Texaco
 slug: texaco
 description: ""
-date: "2026-04-15T09:21:22.546443"
+date: "2026-04-16T19:21:57.891797"
 draft: false
 sectors:
   - oil
@@ -28,8 +28,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "petroleum-product"
-  - petroleum
   - "natural-gas"
+  - petroleum
 products: []
 headquarters_locations:
   - "san-ramon"
@@ -85,7 +85,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Petroleum Product](/products_or_materials_produced/petroleum-product/); [Petroleum](/products_or_materials_produced/petroleum/); [Natural Gas](/products_or_materials_produced/natural-gas/) |
+| Product Or Material Produced | [Petroleum Product](/products_or_materials_produced/petroleum-product/); [Natural Gas](/products_or_materials_produced/natural-gas/); [Petroleum](/products_or_materials_produced/petroleum/) |
 | Headquarters Location | [San Ramon](/headquarters_locations/san-ramon/) |
 | Foundation Date | [1901](/foundation_dates/1901/) |
 | Topic'S Main Category | Category:Texaco |

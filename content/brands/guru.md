@@ -2,7 +2,7 @@
 title: Guru
 slug: guru
 description: ""
-date: "2026-04-15T09:21:25.055840"
+date: "2026-04-16T19:22:00.648698"
 draft: false
 sectors:
   - software

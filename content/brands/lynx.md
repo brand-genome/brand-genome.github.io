@@ -2,7 +2,7 @@
 title: Lynx
 slug: lynx
 description: ""
-date: "2026-04-15T09:21:24.945414"
+date: "2026-04-16T19:22:00.520416"
 draft: false
 sectors:
   - "public-transportation"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.golynx.com](https://www.golynx.com)
 - [http://www.instagram.com/golynx](http://www.instagram.com/golynx)
 
 ## Brand Guidelines

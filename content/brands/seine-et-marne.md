@@ -2,7 +2,7 @@
 title: "Seine-et-Marne"
 slug: "seine-et-marne"
 description: ""
-date: "2026-04-15T09:21:23.799255"
+date: "2026-04-16T19:21:59.128576"
 draft: false
 sectors:
   - "public-sector"
@@ -64,9 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.seine-et-marne.fr](https://www.seine-et-marne.fr)
-- [https://seine-et-marne.fr](https://seine-et-marne.fr)
+- [https://www.seine-et-marne.fr/fr](https://www.seine-et-marne.fr/fr)
+- [https://seine-et-marne.fr/fr](https://seine-et-marne.fr/fr)
 - [http://www.seine-et-marne.fr](http://www.seine-et-marne.fr)
+- [https://seine-et-marne.fr](https://seine-et-marne.fr)
 
 ## Brand Guidelines
 

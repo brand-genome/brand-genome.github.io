@@ -2,7 +2,7 @@
 title: X
 slug: x
 description: ""
-date: "2026-04-15T09:21:22.221688"
+date: "2026-04-16T19:21:57.263408"
 draft: false
 sectors:
   - "social-media"
@@ -13,9 +13,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - internet
   - app
+  - featured
 industries:
   - internet
 countries:
@@ -71,11 +71,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://x.com](https://x.com)
-- [https://help.x.com](https://help.x.com)
-- [https://about.x.com/en_us/company/brand-resources.html](https://about.x.com/en_us/company/brand-resources.html)
-- [https://ads.x.com](https://ads.x.com)
+- [https://about.x.com/en/who-we-are/brand-toolkit](https://about.x.com/en/who-we-are/brand-toolkit)
+- [https://business.x.com/en/advertising](https://business.x.com/en/advertising)
 - [https://developer.x.com](https://developer.x.com)
-- [https://docs.x.com](https://docs.x.com)
+- [https://docs.x.com/overview](https://docs.x.com/overview)
 - [http://www.x.com](http://www.x.com)
 - [https://twitter.com](https://twitter.com)
 - [https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion)

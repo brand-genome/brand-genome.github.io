@@ -2,11 +2,11 @@
 title: CCSD
 slug: ccsd
 description: ""
-date: "2026-04-15T09:21:23.825918"
+date: "2026-04-16T19:21:59.154155"
 draft: false
 sectors:
-  - research
   - software
+  - research
 regions:
   - france
 years:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 - [https://www.ccsd.cnrs.fr/en/home](https://www.ccsd.cnrs.fr/en/home)
 - [https://hal.science](https://hal.science)
 - [https://doc.hal.science/en](https://doc.hal.science/en)
-- [https://learning.hal.science](https://learning.hal.science)
 - [https://www.episciences.org](https://www.episciences.org)
 - [https://www.sciencesconf.org](https://www.sciencesconf.org)
 

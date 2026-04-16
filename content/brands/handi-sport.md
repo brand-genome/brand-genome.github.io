@@ -2,11 +2,11 @@
 title: Handi Sport
 slug: "handi-sport"
 description: ""
-date: "2026-04-15T09:21:25.870163"
+date: "2026-04-16T19:22:02.139616"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - france
 years:

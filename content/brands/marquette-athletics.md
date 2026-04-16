@@ -2,7 +2,7 @@
 title: Marquette Athletics
 slug: "marquette-athletics"
 description: ""
-date: "2026-04-15T09:21:25.683241"
+date: "2026-04-16T19:22:01.754724"
 draft: false
 sectors:
   - sports
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://gomarquette.com](https://gomarquette.com)
-- [https://gomarquette.be](https://gomarquette.be)
 
 ## Brand Guidelines
 

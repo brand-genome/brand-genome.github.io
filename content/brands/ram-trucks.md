@@ -2,7 +2,7 @@
 title: Ram Trucks
 slug: "ram-trucks"
 description: ""
-date: "2026-04-15T09:21:23.754509"
+date: "2026-04-16T19:21:59.079885"
 draft: false
 sectors:
   - automobile
@@ -13,13 +13,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - engineering
+  - featured
 industries:
   - "automotive-industry"
 countries:
-  - canada
   - "united-states"
+  - canada
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -29,8 +29,8 @@ total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
   - "commercial-vehicle"
-  - truck
   - "pickup-truck"
+  - truck
 products: []
 headquarters_locations:
   - "auburn-hills"
@@ -71,8 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ramtrucks.com](https://www.ramtrucks.com)
 - [https://www.ram.com/mx](https://www.ram.com/mx)
+- [https://www.ramtrucks.com](https://www.ramtrucks.com)
 - [https://www.ramtruck.ca/en](https://www.ramtruck.ca/en)
 
 ## Brand Guidelines
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Truck](/products_or_materials_produced/truck/); [Pickup Truck](/products_or_materials_produced/pickup-truck/) |
+| Product Or Material Produced | [Commercial Vehicle](/products_or_materials_produced/commercial-vehicle/); [Pickup Truck](/products_or_materials_produced/pickup-truck/); [Truck](/products_or_materials_produced/truck/) |
 | Headquarters Location | [Auburn Hills](/headquarters_locations/auburn-hills/) |
 | Foundation Date | [2010](/foundation_dates/2010/) |
 | Headquarters Location | Auburn Hills |

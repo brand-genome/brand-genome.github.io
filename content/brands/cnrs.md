@@ -2,7 +2,7 @@
 title: CNRS
 slug: cnrs
 description: ""
-date: "2026-04-15T09:21:23.593879"
+date: "2026-04-16T19:21:58.883040"
 draft: false
 sectors:
   - "public-sector"
@@ -10,8 +10,8 @@ sectors:
 regions:
   - france
 years:
-  - 2010
   - 2019
+  - 2010
 languages:
   - french
 tags:
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.cnrs.fr](https://www.cnrs.fr)
+- [https://www.cnrs.fr/fr](https://www.cnrs.fr/fr)
 - [https://www.cnrs.fr/en](https://www.cnrs.fr/en)
 - [http://www.cnrs.fr](http://www.cnrs.fr)
 

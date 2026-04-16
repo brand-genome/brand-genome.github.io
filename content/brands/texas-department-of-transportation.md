@@ -2,7 +2,7 @@
 title: Texas Department of Transportation
 slug: "texas-department-of-transportation"
 description: ""
-date: "2026-04-15T09:21:24.372789"
+date: "2026-04-16T19:21:59.900480"
 draft: false
 sectors:
   - "public-sector"
@@ -68,8 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.txdot.gov](https://www.txdot.gov)
-- [https://ftp.txdot.gov](https://ftp.txdot.gov)
-- [https://txdot.txdotcms.com](https://txdot.txdotcms.com)
 - [http://www.txdot.gov](http://www.txdot.gov)
 
 ## Brand Guidelines

@@ -2,12 +2,12 @@
 title: A10 Networks
 slug: "a10-networks"
 description: ""
-date: "2026-04-15T09:21:23.608389"
+date: "2026-04-16T19:21:58.896852"
 draft: false
 sectors:
+  - hardware
   - networking
   - cybersecurity
-  - hardware
 regions:
   - usa
 years:

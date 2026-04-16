@@ -2,7 +2,7 @@
 title: Dolby Audio
 slug: "dolby-audio"
 description: ""
-date: "2026-04-15T09:21:25.856642"
+date: "2026-04-16T19:22:02.123436"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - music
   - corporate
+  - music
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,9 +62,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dolby.com](https://www.dolby.com)
+- [https://www.dolby.com/en-in](https://www.dolby.com/en-in)
 - [https://professional.dolby.com/technologies/dolby-audio](https://professional.dolby.com/technologies/dolby-audio)
-- [https://developer.dolby.com](https://developer.dolby.com)
 
 ## Brand Guidelines
 

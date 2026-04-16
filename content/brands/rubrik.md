@@ -2,11 +2,11 @@
 title: Rubrik
 slug: rubrik
 description: ""
-date: "2026-04-15T09:21:22.197493"
+date: "2026-04-16T19:21:57.232665"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,14 +14,14 @@ years:
 languages:
   - english
 tags:
-  - technology
   - security
   - software
+  - technology
 industries:
   - "computer-storage-media"
-  - "software-industry"
-  - "computer-security"
   - "computer-hardware-industry"
+  - "computer-security"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -34,11 +34,11 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "remote-backup-service"
+  - "data-security"
   - "computer-security"
   - "zero-trust-architecture"
+  - "remote-backup-service"
   - "data-security-and-protection"
-  - "data-security"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -91,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Computer Security](/products_or_materials_produced/computer-security/); [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/); [Data Security](/products_or_materials_produced/data-security/) |
+| Product Or Material Produced | [Data Security](/products_or_materials_produced/data-security/); [Computer Security](/products_or_materials_produced/computer-security/); [Zero Trust Architecture](/products_or_materials_produced/zero-trust-architecture/); [Remote Backup Service](/products_or_materials_produced/remote-backup-service/); [Data Security And Protection](/products_or_materials_produced/data-security-and-protection/) |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [2013](/foundation_dates/2013/) |
 | Inception | 2013-12 |

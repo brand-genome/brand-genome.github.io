@@ -2,7 +2,7 @@
 title: East London NHS Foundation Trust
 slug: "east-london-nhs-foundation-trust"
 description: ""
-date: "2026-04-15T09:21:23.601406"
+date: "2026-04-16T19:21:58.889949"
 draft: false
 sectors:
   - "public-sector"

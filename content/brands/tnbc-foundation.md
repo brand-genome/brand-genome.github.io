@@ -2,11 +2,11 @@
 title: TNBC Foundation
 slug: "tnbc-foundation"
 description: ""
-date: "2026-04-15T09:21:24.295172"
+date: "2026-04-16T19:21:59.701451"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - health
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

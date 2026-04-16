@@ -2,11 +2,11 @@
 title: Kahoot
 slug: kahoot
 description: ""
-date: "2026-04-15T09:21:23.790465"
+date: "2026-04-16T19:21:59.119777"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - norway
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 
 - [https://kahoot.com](https://kahoot.com)
 - [https://kahoot.it](https://kahoot.it)
-- [https://support.kahoot.com](https://support.kahoot.com)
 - [https://trust.kahoot.com](https://trust.kahoot.com)
 - [https://status.kahoot.com](https://status.kahoot.com)
 - [https://create.kahoot.it](https://create.kahoot.it)

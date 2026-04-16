@@ -2,7 +2,7 @@
 title: L.A. Metro
 slug: "la-metro"
 description: ""
-date: "2026-04-15T09:21:24.604597"
+date: "2026-04-16T19:22:00.167928"
 draft: false
 sectors:
   - "public-sector"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - signage
   - featured
   - transport
-  - signage
 industries: []
 countries: []
 revenue_buckets: []

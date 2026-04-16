@@ -2,21 +2,21 @@
 title: AIESEC
 slug: aiesec
 description: ""
-date: "2026-04-15T09:21:23.840781"
+date: "2026-04-16T19:21:59.168886"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - netherlands
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
-  - education
   - ngo
+  - education
 industries: []
 countries:
   - canada

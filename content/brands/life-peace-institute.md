@@ -2,7 +2,7 @@
 title: "Life & Peace Institute"
 slug: "life-peace-institute"
 description: ""
-date: "2026-04-15T09:21:23.880114"
+date: "2026-04-16T19:21:59.207120"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - peace
   - ngo
+  - peace
 industries: []
 countries:
   - sweden

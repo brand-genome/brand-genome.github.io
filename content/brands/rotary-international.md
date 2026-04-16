@@ -2,16 +2,16 @@
 title: Rotary International
 slug: "rotary-international"
 description: ""
-date: "2026-04-15T09:21:23.432457"
+date: "2026-04-16T19:21:58.818187"
 draft: false
 sectors:
   - ngo
 regions:
   - international
 years:
-  - 2015
   - 2019
   - 2016
+  - 2015
 languages:
   - english
 tags:
@@ -68,11 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.rotary.org](https://www.rotary.org)
 - [https://www.rotary.org/en](https://www.rotary.org/en)
 - [https://www.rotary.org/en/about-rotary/rotary-foundation](https://www.rotary.org/en/about-rotary/rotary-foundation)
 - [http://www.rotary.org/brandcenter](http://www.rotary.org/brandcenter)
 - [http://www.rotary.org](http://www.rotary.org)
+- [https://www.rotary.org](https://www.rotary.org)
 - [https://www.rotary.org/fr](https://www.rotary.org/fr)
 
 ## Brand Guidelines

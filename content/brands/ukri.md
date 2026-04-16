@@ -2,7 +2,7 @@
 title: UKRI
 slug: ukri
 description: ""
-date: "2026-04-15T09:21:24.338391"
+date: "2026-04-16T19:21:59.779041"
 draft: false
 sectors:
   - "public-sector"
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 
 - [https://www.ukri.org](https://www.ukri.org)
 - [https://gtr.ukri.org](https://gtr.ukri.org)
-- [https://www.ukro.ac.uk](https://www.ukro.ac.uk)
-- [https://brand.ukri.org](https://brand.ukri.org)
 - [http://www.ukri.org/brand](http://www.ukri.org/brand)
 
 ## Brand Guidelines

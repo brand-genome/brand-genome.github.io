@@ -2,7 +2,7 @@
 title: OCAD University
 slug: "ocad-university"
 description: ""
-date: "2026-04-15T09:21:24.226566"
+date: "2026-04-16T19:21:59.603856"
 draft: false
 sectors:
   - university
@@ -14,8 +14,8 @@ languages:
   - english
 tags:
   - art
-  - university
   - education
+  - university
 industries: []
 countries:
   - canada

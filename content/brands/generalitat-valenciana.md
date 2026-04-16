@@ -2,7 +2,7 @@
 title: Generalitat Valenciana
 slug: "generalitat-valenciana"
 description: ""
-date: "2026-04-15T09:21:22.387666"
+date: "2026-04-16T19:21:57.641410"
 draft: false
 sectors:
   - "public-sector"
@@ -61,8 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gva.es](https://www.gva.es)
-- [https://sede.gva.es](https://sede.gva.es)
+- [https://www.gva.es/va/inici](https://www.gva.es/va/inici)
+- [https://sede.gva.es/va](https://sede.gva.es/va)
 
 ## Brand Guidelines
 

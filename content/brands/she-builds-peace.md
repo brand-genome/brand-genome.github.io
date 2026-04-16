@@ -2,7 +2,7 @@
 title: She Builds Peace
 slug: "she-builds-peace"
 description: ""
-date: "2026-04-15T09:21:23.799484"
+date: "2026-04-16T19:21:59.128830"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - peace
   - ngo
+  - peace
 industries: []
 countries: []
 revenue_buckets: []

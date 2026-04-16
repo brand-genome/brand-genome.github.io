@@ -2,7 +2,7 @@
 title: Koç
 slug: koc
 description: ""
-date: "2026-04-15T09:21:24.983404"
+date: "2026-04-16T19:22:00.555356"
 draft: false
 sectors:
   - conglomerate
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.koc.com.tr](https://www.koc.com.tr)
 - [https://www.koc.com.tr/en](https://www.koc.com.tr/en)
 
 ## Brand Guidelines

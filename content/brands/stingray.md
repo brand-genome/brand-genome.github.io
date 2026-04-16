@@ -2,11 +2,11 @@
 title: Stingray
 slug: stingray
 description: ""
-date: "2026-04-15T09:21:25.427311"
+date: "2026-04-16T19:22:01.111352"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - canada
 years:
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 
 - [https://www.stingray.com](https://www.stingray.com)
 - [https://corporate.stingray.com](https://corporate.stingray.com)
-- [https://music.stingray.com](https://music.stingray.com)
+- [https://music.stingray.com/en/CA](https://music.stingray.com/en/CA)
 - [https://webplayer.stingray.com](https://webplayer.stingray.com)
 
 ## Brand Guidelines

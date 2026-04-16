@@ -2,11 +2,11 @@
 title: University Of Nebraska System
 slug: "university-of-nebraska-system"
 description: ""
-date: "2026-04-15T09:21:22.064728"
+date: "2026-04-16T19:21:57.103535"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nebraska.edu](https://www.nebraska.edu)
+- [https://nebraska.edu:443](https://nebraska.edu:443)
 - [http://www.nebraska.edu](http://www.nebraska.edu)
 
 ## Additional Properties

@@ -2,12 +2,12 @@
 title: March of Dimes
 slug: "march-of-dimes"
 description: ""
-date: "2026-04-15T09:21:23.712639"
+date: "2026-04-16T19:21:59.035901"
 draft: false
 sectors:
-  - research
-  - healthcare
   - ngo
+  - healthcare
+  - research
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - health
   - charity
+  - health
 industries: []
 countries:
   - "united-states"

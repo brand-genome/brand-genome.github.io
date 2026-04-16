@@ -2,7 +2,7 @@
 title: BASF
 slug: basf
 description: ""
-date: "2026-04-15T09:21:25.763443"
+date: "2026-04-16T19:22:01.944891"
 draft: false
 sectors:
   - "manufacturing-industry"
@@ -15,9 +15,9 @@ languages:
 tags:
   - chemical
 industries:
+  - "extraction-of-petroleum"
   - "chemical-industry"
   - "plant-protection"
-  - "extraction-of-petroleum"
 countries:
   - germany
 revenue_buckets:
@@ -76,6 +76,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.basf.com/in/en](https://www.basf.com/in/en)
 - [https://www.basf.com](https://www.basf.com)
 
 ## Brand Guidelines

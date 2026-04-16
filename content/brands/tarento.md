@@ -2,7 +2,7 @@
 title: Tarento
 slug: tarento
 description: ""
-date: "2026-04-15T09:21:24.323576"
+date: "2026-04-16T19:21:59.732208"
 draft: false
 sectors:
   - consulting

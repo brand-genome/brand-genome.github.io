@@ -2,7 +2,7 @@
 title: Xunta de Galicia
 slug: "xunta-de-galicia"
 description: ""
-date: "2026-04-15T09:21:22.446885"
+date: "2026-04-16T19:21:57.724326"
 draft: false
 sectors:
   - "public-sector"
@@ -65,9 +65,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.xunta.gal](https://www.xunta.gal)
-- [https://sede.xunta.gal](https://sede.xunta.gal)
+- [https://www.xunta.gal/portada](https://www.xunta.gal/portada)
+- [https://sede.xunta.gal/portada](https://sede.xunta.gal/portada)
 - [http://www.xunta.gal](http://www.xunta.gal)
+- [https://www.xunta.gal](https://www.xunta.gal)
 
 ## Additional Properties
 

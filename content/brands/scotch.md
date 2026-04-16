@@ -2,7 +2,7 @@
 title: Scotch
 slug: scotch
 description: ""
-date: "2026-04-15T09:21:22.216268"
+date: "2026-04-16T19:21:57.257478"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,6 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.scotchbrand.com/3M/en_US/scotch-brand](https://www.scotchbrand.com/3M/en_US/scotch-brand)
 - [http://www.3m.com/identity](http://www.3m.com/identity)
 - [http://www.scotchbrand.com](http://www.scotchbrand.com)

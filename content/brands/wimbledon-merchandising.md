@@ -2,11 +2,11 @@
 title: Wimbledon merchandising
 slug: "wimbledon-merchandising"
 description: ""
-date: "2026-04-15T09:21:24.156458"
+date: "2026-04-16T19:21:59.486256"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - "united-kingdom"
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://shop.wimbledon.com](https://shop.wimbledon.com)
-- [https://shop.wimbledon.com/stores/wimbledon/en](https://shop.wimbledon.com/stores/wimbledon/en)
 
 ## Brand Guidelines
 

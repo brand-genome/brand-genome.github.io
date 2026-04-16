@@ -2,7 +2,7 @@
 title: Trustly
 slug: trustly
 description: ""
-date: "2026-04-15T09:21:24.619987"
+date: "2026-04-16T19:22:00.190178"
 draft: false
 sectors:
   - finance
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - technology
   - financial
+  - technology
 industries:
-  - fintech
   - "financial-services"
+  - fintech
 countries:
   - sweden
 revenue_buckets: []
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 - [https://www.trustly.com](https://www.trustly.com)
 - [https://www.trustly.com/us](https://www.trustly.com/us)
 - [https://www.trustly.com/us/developers](https://www.trustly.com/us/developers)
-- [https://amer.developers.trustly.com](https://amer.developers.trustly.com)
+- [https://amer.developers.trustly.com/payments/reference/overview](https://amer.developers.trustly.com/payments/reference/overview)
 - [http://www.trustly.com](http://www.trustly.com)
 
 ## Brand Guidelines

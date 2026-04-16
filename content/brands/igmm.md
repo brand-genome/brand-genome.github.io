@@ -2,7 +2,7 @@
 title: IGMM
 slug: igmm
 description: ""
-date: "2026-04-15T09:21:25.671754"
+date: "2026-04-16T19:22:01.712887"
 draft: false
 sectors:
   - biotech
@@ -14,9 +14,9 @@ years:
 languages:
   - french
 tags:
-  - featured
-  - biology
   - science
+  - biology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

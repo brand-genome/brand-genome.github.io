@@ -2,7 +2,7 @@
 title: DataCamp
 slug: datacamp
 description: ""
-date: "2026-04-15T09:21:22.556107"
+date: "2026-04-16T19:21:57.920069"
 draft: false
 sectors:
   - "e-learning-edtech"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - education
+  - featured
 industries:
   - "educational-technology"
 countries:

@@ -2,7 +2,7 @@
 title: IBM Software
 slug: "ibm-software"
 description: ""
-date: "2026-04-15T09:21:23.815443"
+date: "2026-04-16T19:21:59.143221"
 draft: false
 sectors:
   - software

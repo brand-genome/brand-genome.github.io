@@ -2,7 +2,7 @@
 title: Région Bretagne
 slug: "region-bretagne"
 description: ""
-date: "2026-04-15T09:21:25.681694"
+date: "2026-04-16T19:22:01.748469"
 draft: false
 sectors:
   - "public-sector"
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.bretagne.bzh](https://www.bretagne.bzh)
-
 ## Brand Guidelines
 
 ### 2016

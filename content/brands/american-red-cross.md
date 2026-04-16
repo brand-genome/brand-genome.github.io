@@ -2,12 +2,12 @@
 title: American Red Cross
 slug: "american-red-cross"
 description: ""
-date: "2026-04-15T09:21:23.822964"
+date: "2026-04-16T19:21:59.151075"
 draft: false
 sectors:
+  - ngo
   - "emergency-services"
   - healthcare
-  - ngo
 regions:
   - usa
 years:
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.redcross.org](https://www.redcross.org)
-- [https://www.redcross.org/brand](https://www.redcross.org/brand)
 - [http://www.redcross.org/brand](http://www.redcross.org/brand)
 
 ## Brand Guidelines

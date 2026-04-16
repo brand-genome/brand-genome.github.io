@@ -2,7 +2,7 @@
 title: CNES
 slug: cnes
 description: ""
-date: "2026-04-15T09:21:25.772874"
+date: "2026-04-16T19:22:01.966008"
 draft: false
 sectors:
   - "public-sector"
@@ -68,13 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://cnes.fr/fr](https://cnes.fr/fr)
+- [https://cnes.fr](https://cnes.fr)
 - [https://cnes.fr/en](https://cnes.fr/en)
 - [https://centrespatialguyanais.cnes.fr](https://centrespatialguyanais.cnes.fr)
-- [https://recrutement.cnes.fr](https://recrutement.cnes.fr)
+- [https://recrutement.cnes.fr/fr/annonces](https://recrutement.cnes.fr/fr/annonces)
 - [https://cnes-observatoire.fr](https://cnes-observatoire.fr)
 - [https://maboutique.cnes.fr](https://maboutique.cnes.fr)
-- [https://cnes.fr](https://cnes.fr)
 
 ## Brand Guidelines
 

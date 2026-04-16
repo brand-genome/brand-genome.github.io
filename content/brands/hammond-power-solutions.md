@@ -2,7 +2,7 @@
 title: Hammond Power Solutions
 slug: "hammond-power-solutions"
 description: ""
-date: "2026-04-15T09:21:22.293515"
+date: "2026-04-16T19:21:57.331370"
 draft: false
 sectors:
   - electronics
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hammondpowersolutions.com](https://www.hammondpowersolutions.com)
+- [https://asia.hammondpowersolutions.com](https://asia.hammondpowersolutions.com)
 - [https://americas.hammondpowersolutions.com](https://americas.hammondpowersolutions.com)
 - [https://emea.hammondpowersolutions.com](https://emea.hammondpowersolutions.com)
 

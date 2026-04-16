@@ -2,11 +2,11 @@
 title: HCMA
 slug: hcma
 description: ""
-date: "2026-04-15T09:21:22.521594"
+date: "2026-04-16T19:21:57.856283"
 draft: false
 sectors:
-  - architecture
   - "design-creative"
+  - architecture
 regions:
   - canada
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - design
   - featured
   - architecture
-  - design
 industries: []
 countries: []
 revenue_buckets: []

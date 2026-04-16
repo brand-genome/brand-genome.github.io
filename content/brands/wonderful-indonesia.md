@@ -2,7 +2,7 @@
 title: Wonderful Indonesia
 slug: "wonderful-indonesia"
 description: ""
-date: "2026-04-15T09:21:25.709793"
+date: "2026-04-16T19:22:01.829350"
 draft: false
 sectors:
   - tourism
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.indonesia.travel](https://www.indonesia.travel)
+- [https://www.indonesia.travel/in/en](https://www.indonesia.travel/in/en)
 - [https://www.indonesia.travel/gb/en](https://www.indonesia.travel/gb/en)
 - [https://www.indonesia.travel/au/en](https://www.indonesia.travel/au/en)
 

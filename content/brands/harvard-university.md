@@ -2,22 +2,22 @@
 title: Harvard University
 slug: "harvard-university"
 description: ""
-date: "2026-04-15T09:21:22.529026"
+date: "2026-04-16T19:21:57.870561"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

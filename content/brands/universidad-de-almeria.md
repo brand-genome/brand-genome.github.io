@@ -2,11 +2,11 @@
 title: Universidad de Almería
 slug: "universidad-de-almeria"
 description: ""
-date: "2026-04-15T09:21:22.386009"
+date: "2026-04-16T19:21:57.636972"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []

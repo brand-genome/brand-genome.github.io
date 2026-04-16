@@ -2,7 +2,7 @@
 title: INRA
 slug: inra
 description: ""
-date: "2026-04-15T09:21:25.384128"
+date: "2026-04-16T19:22:01.054663"
 draft: false
 sectors:
   - "public-sector"

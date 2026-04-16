@@ -2,7 +2,7 @@
 title: TranSantiago
 slug: transantiago
 description: ""
-date: "2026-04-15T09:21:24.197620"
+date: "2026-04-16T19:21:59.558615"
 draft: false
 sectors:
   - "public-transportation"

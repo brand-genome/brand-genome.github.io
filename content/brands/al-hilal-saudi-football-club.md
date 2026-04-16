@@ -2,7 +2,7 @@
 title: "Al-Hilal Saudi Football Club"
 slug: "al-hilal-saudi-football-club"
 description: ""
-date: "2026-04-15T09:21:22.363689"
+date: "2026-04-16T19:21:57.601591"
 draft: false
 sectors:
   - sports
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - sport
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

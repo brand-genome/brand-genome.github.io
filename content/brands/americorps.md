@@ -2,21 +2,20 @@
 title: AmeriCorps
 slug: americorps
 description: ""
-date: "2026-04-15T09:21:22.539241"
+date: "2026-04-16T19:21:57.884568"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - usa
 years:
-  - 2023
   - 2020
+  - 2023
 languages:
   - english
 tags:
-  - social
   - environment
+  - social
   - community
 industries: []
 countries:
@@ -69,12 +68,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.americorps.gov](https://www.americorps.gov)
 - [https://questions.americorps.gov](https://questions.americorps.gov)
 - [https://www.americorpsoig.gov](https://www.americorpsoig.gov)
 - [http://www.americorps.gov](http://www.americorps.gov)
 - [http://www.nationalservice.gov](http://www.nationalservice.gov)
 - [https://www.nationalservice.gov](https://www.nationalservice.gov)
+- [https://www.americorps.gov](https://www.americorps.gov)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Biden Harris
 slug: "biden-harris"
 description: ""
-date: "2026-04-15T09:21:24.311486"
+date: "2026-04-16T19:21:59.718851"
 draft: false
 sectors:
   - "public-sector"

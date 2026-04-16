@@ -2,11 +2,11 @@
 title: Universidad Tecnológica de Panamá
 slug: "universidad-tecnologica-de-panama"
 description: ""
-date: "2026-04-15T09:21:24.165498"
+date: "2026-04-16T19:21:59.502734"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - panama
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 - [https://utp.ac.pa](https://utp.ac.pa)
 - [https://correo.utp.ac.pa](https://correo.utp.ac.pa)
 - [https://revistas.utp.ac.pa](https://revistas.utp.ac.pa)
-- [https://academia.utp.ac.pa](https://academia.utp.ac.pa)
+- [https://www.academia.utp.ac.pa](https://www.academia.utp.ac.pa)
 - [https://pdi.utp.ac.pa](https://pdi.utp.ac.pa)
 - [https://verificate.utp.ac.pa](https://verificate.utp.ac.pa)
 

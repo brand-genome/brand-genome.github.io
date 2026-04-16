@@ -2,11 +2,10 @@
 title: Global Important Agricultural Heritage Systems
 slug: "global-important-agricultural-heritage-systems"
 description: ""
-date: "2026-04-15T09:21:22.284769"
+date: "2026-04-16T19:21:57.325179"
 draft: false
 sectors:
   - "public-sector"
-  - "agricultural-heavy-equipment"
 regions:
   - international
 years:
@@ -62,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fao.org/giahs/home/en](https://www.fao.org/giahs/home/en)
 - [https://www.fao.org/giahs/en](https://www.fao.org/giahs/en)
 - [http://www.fao.org/giahs/en](http://www.fao.org/giahs/en)
 

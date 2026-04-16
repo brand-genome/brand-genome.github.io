@@ -2,7 +2,7 @@
 title: Union for the Mediterranean
 slug: "union-for-the-mediterranean"
 description: ""
-date: "2026-04-15T09:21:23.873752"
+date: "2026-04-16T19:21:59.200469"
 draft: false
 sectors:
   - "public-sector"

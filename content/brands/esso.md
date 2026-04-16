@@ -2,11 +2,11 @@
 title: Esso
 slug: esso
 description: ""
-date: "2026-04-15T09:21:25.633218"
+date: "2026-04-16T19:22:01.637704"
 draft: false
 sectors:
-  - petroleum
   - "petrol-station"
+  - petroleum
 regions:
   - usa
 years:
@@ -27,8 +27,8 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - lubricant
   - gasoline
+  - lubricant
 products: []
 headquarters_locations:
   - irving
@@ -206,7 +206,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Lubricant](/products_or_materials_produced/lubricant/); [Gasoline](/products_or_materials_produced/gasoline/) |
+| Product Or Material Produced | [Gasoline](/products_or_materials_produced/gasoline/); [Lubricant](/products_or_materials_produced/lubricant/) |
 | Headquarters Location | [Irving](/headquarters_locations/irving/) |
 | Foundation Date | [1911](/foundation_dates/1911/) |
 | Freebase Id | /m/01dw30 |

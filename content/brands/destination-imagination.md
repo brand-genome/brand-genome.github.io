@@ -2,11 +2,11 @@
 title: Destination Imagination
 slug: "destination-imagination"
 description: ""
-date: "2026-04-15T09:21:25.777242"
+date: "2026-04-16T19:22:01.972160"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

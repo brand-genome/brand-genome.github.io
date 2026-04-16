@@ -2,10 +2,11 @@
 title: "Faculty of Sexual & Reproductive Healthcare"
 slug: "faculty-of-sexual-reproductive-healthcare"
 description: ""
-date: "2026-04-15T09:21:23.199593"
+date: "2026-04-16T19:21:58.605352"
 draft: false
 sectors:
   - education
+  - healthcare
 regions:
   - "united-kingdom"
 years:
@@ -61,5 +62,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fsrh.org](https://www.fsrh.org)
+- [https://www.cosrh.org](https://www.cosrh.org)
 - [http://www.fsrh.org](http://www.fsrh.org)

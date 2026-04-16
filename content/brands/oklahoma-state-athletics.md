@@ -2,7 +2,7 @@
 title: Oklahoma State Athletics
 slug: "oklahoma-state-athletics"
 description: ""
-date: "2026-04-15T09:21:23.810001"
+date: "2026-04-16T19:21:59.138495"
 draft: false
 sectors:
   - sports

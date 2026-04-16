@@ -2,10 +2,10 @@
 title: MZLZ
 slug: mzlz
 description: ""
-date: "2026-04-15T09:21:23.876770"
+date: "2026-04-16T19:21:59.203988"
 draft: false
 sectors:
-  - "public-transportation"
+  - tourism
 regions:
   - croatia
 years:

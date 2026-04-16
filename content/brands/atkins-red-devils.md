@@ -2,11 +2,11 @@
 title: Atkins Red Devils
 slug: "atkins-red-devils"
 description: ""
-date: "2026-04-15T09:21:25.044689"
+date: "2026-04-16T19:22:00.635930"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:

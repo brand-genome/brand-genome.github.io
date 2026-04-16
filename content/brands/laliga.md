@@ -2,7 +2,7 @@
 title: LaLiga
 slug: laliga
 description: ""
-date: "2026-04-15T09:21:24.280141"
+date: "2026-04-16T19:21:59.686025"
 draft: false
 sectors:
   - sports

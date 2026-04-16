@@ -2,7 +2,7 @@
 title: F4 US Championship
 slug: "f4-us-championship"
 description: ""
-date: "2026-04-15T09:21:24.766107"
+date: "2026-04-16T19:22:00.315248"
 draft: false
 sectors:
   - sports
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.f4uschampionship.com](https://www.f4uschampionship.com)
-
 ## Brand Guidelines
 
 ### 2019

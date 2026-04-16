@@ -2,7 +2,7 @@
 title: Austrian Airlines
 slug: "austrian-airlines"
 description: ""
-date: "2026-04-15T09:21:23.595928"
+date: "2026-04-16T19:21:58.884896"
 draft: false
 sectors:
   - airline
@@ -72,9 +72,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.austrian.com](https://www.austrian.com)
-- [https://www.austrian.com/xx/en/company](https://www.austrian.com/xx/en/company)
-- [https://www.austrian.com/lhg/us/en](https://www.austrian.com/lhg/us/en)
-- [https://www.austrianairlines.ag/en/corporate-profile](https://www.austrianairlines.ag/en/corporate-profile)
 - [http://www.aua.com](http://www.aua.com)
 
 ## Additional Properties

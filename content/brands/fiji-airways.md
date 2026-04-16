@@ -2,7 +2,7 @@
 title: Fiji Airways
 slug: "fiji-airways"
 description: ""
-date: "2026-04-15T09:21:22.168638"
+date: "2026-04-16T19:21:57.199532"
 draft: false
 sectors:
   - airline
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fijiairways.com](https://www.fijiairways.com)
 - [http://www.fijiairways.com](http://www.fijiairways.com)
 - [http://www.airpacific.com.fj](http://www.airpacific.com.fj)
 

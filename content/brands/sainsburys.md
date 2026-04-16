@@ -2,7 +2,7 @@
 title: Sainsbury’s
 slug: sainsburys
 description: ""
-date: "2026-04-15T09:21:24.759717"
+date: "2026-04-16T19:22:00.307425"
 draft: false
 sectors:
   - supermarket
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sainsburys.co.uk](https://www.sainsburys.co.uk)
 - [https://corporate.sainsburys.co.uk](https://corporate.sainsburys.co.uk)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Xbox
 slug: xbox
 description: ""
-date: "2026-04-15T09:21:24.239576"
+date: "2026-04-16T19:21:59.617126"
 draft: false
 sectors:
   - gaming
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - entertainment
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.xbox.com/en-US](https://www.xbox.com/en-US)
-- [https://www.xbox.com](https://www.xbox.com)
+- [https://www.xbox.com/en-IN](https://www.xbox.com/en-IN)
 - [https://www.xbox.com/en-US/consoles/xbox-series-x](https://www.xbox.com/en-US/consoles/xbox-series-x)
 
 ## Brand Guidelines

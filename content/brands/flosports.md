@@ -2,11 +2,11 @@
 title: FloSports
 slug: flosports
 description: ""
-date: "2026-04-15T09:21:23.789375"
+date: "2026-04-16T19:21:59.118618"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.flosports.tv](https://www.flosports.tv)
-- [https://support.flosports.tv](https://support.flosports.tv)
+- [https://support.flosports.tv/en](https://support.flosports.tv/en)
 
 ## Additional Properties
 

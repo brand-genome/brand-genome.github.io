@@ -2,11 +2,11 @@
 title: Radeon
 slug: radeon
 description: ""
-date: "2026-04-15T09:21:25.846302"
+date: "2026-04-16T19:22:02.106122"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amd.com/en/graphics/radeon-rx-graphics](https://www.amd.com/en/graphics/radeon-rx-graphics)
-- [https://www.amd.com/en/support](https://www.amd.com/en/support)
 - [https://www.radeon.com](https://www.radeon.com)
 
 ## Additional Properties

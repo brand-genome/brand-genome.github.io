@@ -2,7 +2,7 @@
 title: Barcelona Turisme
 slug: "barcelona-turisme"
 description: ""
-date: "2026-04-15T09:21:22.552784"
+date: "2026-04-16T19:21:57.901285"
 draft: false
 sectors:
   - tourism
@@ -65,7 +65,7 @@ visual_term_image_urls: {}
 
 - [https://www.barcelonaturisme.com](https://www.barcelonaturisme.com)
 - [https://www.visitbarcelona.com](https://www.visitbarcelona.com)
-- [https://professional.barcelonaturisme.com](https://professional.barcelonaturisme.com)
+- [https://professional.barcelonaturisme.com/en](https://professional.barcelonaturisme.com/en)
 - [https://sefarad.visitbarcelona.com](https://sefarad.visitbarcelona.com)
 - [https://www.barcelonacard.com](https://www.barcelonacard.com)
 - [http://www.barcelonacard.com](http://www.barcelonacard.com)

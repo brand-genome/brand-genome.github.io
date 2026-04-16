@@ -2,12 +2,12 @@
 title: Airbus
 slug: airbus
 description: ""
-date: "2026-04-15T09:21:23.208669"
+date: "2026-04-16T19:21:58.620336"
 draft: false
 sectors:
   - aerospace
-  - satellite
   - defense
+  - satellite
 regions:
   - europe
 years:
@@ -34,16 +34,16 @@ total_equity_buckets:
   - "1B-10B"
 market_cap_buckets: []
 products_or_materials_produced:
-  - "airbus-a350"
-  - "airbus-a380"
-  - "airbus-a300"
+  - "airbus-a330"
+  - "airbus-a320-family"
   - airplane
+  - "airbus-a300"
+  - "airbus-a220"
+  - "airbus-a340"
+  - "airbus-a380"
+  - "airbus-a350"
   - aircraft
   - "airbus-a310"
-  - "airbus-a330"
-  - "airbus-a340"
-  - "airbus-a220"
-  - "airbus-a320-family"
 products: []
 headquarters_locations:
   - blagnac
@@ -86,9 +86,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.airbus.com](https://www.airbus.com)
-- [https://www.aircraft.airbus.com](https://www.aircraft.airbus.com)
+- [https://www.airbus.com/en](https://www.airbus.com/en)
+- [https://www.aircraft.airbus.com/en](https://www.aircraft.airbus.com/en)
 - [https://space-solutions.airbus.com](https://space-solutions.airbus.com)
+- [https://www.airbus.com](https://www.airbus.com)
 - [https://www.airbus.com/en/products-services/commercial-aircraft](https://www.airbus.com/en/products-services/commercial-aircraft)
 - [https://www.airbus.com/aircraft.html](https://www.airbus.com/aircraft.html)
 - [https://www.wikimedia.de](https://www.wikimedia.de)
@@ -107,7 +108,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Airbus A350](/products_or_materials_produced/airbus-a350/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airplane](/products_or_materials_produced/airplane/); [Aircraft](/products_or_materials_produced/aircraft/); [Airbus A310](/products_or_materials_produced/airbus-a310/); [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/) |
+| Product Or Material Produced | [Airbus A330](/products_or_materials_produced/airbus-a330/); [Airbus A320 Family](/products_or_materials_produced/airbus-a320-family/); [Airplane](/products_or_materials_produced/airplane/); [Airbus A300](/products_or_materials_produced/airbus-a300/); [Airbus A220](/products_or_materials_produced/airbus-a220/); [Airbus A340](/products_or_materials_produced/airbus-a340/); [Airbus A380](/products_or_materials_produced/airbus-a380/); [Airbus A350](/products_or_materials_produced/airbus-a350/); [Aircraft](/products_or_materials_produced/aircraft/); [Airbus A310](/products_or_materials_produced/airbus-a310/) |
 | Headquarters Location | [Blagnac](/headquarters_locations/blagnac/) |
 | Foundation Date | [1969](/foundation_dates/1969/); [1970](/foundation_dates/1970/) |
 | Headquarters Location | Blagnac |

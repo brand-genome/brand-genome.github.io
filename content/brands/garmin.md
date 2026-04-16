@@ -2,16 +2,16 @@
 title: Garmin
 slug: garmin
 description: ""
-date: "2026-04-15T09:21:23.654183"
+date: "2026-04-16T19:21:58.974267"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
-  - 2006
   - 2012
+  - 2006
 languages:
   - english
 tags:
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.garmin.com](https://www.garmin.com)
+- [https://www.garmin-india.com](https://www.garmin-india.com)
 - [https://connect.garmin.com](https://connect.garmin.com)
 - [http://www.garmin.com/de-CH](http://www.garmin.com/de-CH)
 

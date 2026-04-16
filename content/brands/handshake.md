@@ -2,21 +2,21 @@
 title: Handshake
 slug: handshake
 description: ""
-date: "2026-04-15T09:21:24.160116"
+date: "2026-04-16T19:21:59.491807"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
-  - education
   - corporate
+  - education
 industries: []
 countries: []
 revenue_buckets: []

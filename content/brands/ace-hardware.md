@@ -2,7 +2,7 @@
 title: Ace Hardware
 slug: "ace-hardware"
 description: ""
-date: "2026-04-15T09:21:22.515541"
+date: "2026-04-16T19:21:57.844624"
 draft: false
 sectors:
   - "consumer-goods"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - corporate
+  - featured
 industries:
   - "hardware-store"
 countries:

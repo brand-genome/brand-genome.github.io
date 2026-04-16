@@ -2,7 +2,7 @@
 title: Glassdoor
 slug: glassdoor
 description: ""
-date: "2026-04-15T09:21:25.338655"
+date: "2026-04-16T19:22:01.005022"
 draft: false
 sectors:
   - software
@@ -66,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.glassdoor.com](https://www.glassdoor.com)
 - [https://www.glassdoor.com/employers](https://www.glassdoor.com/employers)
+- [https://www.glassdoor.com](https://www.glassdoor.com)
 
 ## Brand Guidelines
 

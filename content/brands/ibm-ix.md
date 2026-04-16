@@ -2,11 +2,10 @@
 title: IBM iX
 slug: "ibm-ix"
 description: ""
-date: "2026-04-15T09:21:24.802442"
+date: "2026-04-16T19:22:00.351074"
 draft: false
 sectors:
   - consulting
-  - software
 regions:
   - usa
 years:

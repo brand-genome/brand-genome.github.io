@@ -2,7 +2,7 @@
 title: QSC
 slug: qsc
 description: ""
-date: "2026-04-15T09:21:23.825431"
+date: "2026-04-16T19:21:59.153610"
 draft: false
 sectors:
   - software

@@ -2,7 +2,7 @@
 title: Bradesco
 slug: bradesco
 description: ""
-date: "2026-04-15T09:21:24.794871"
+date: "2026-04-16T19:22:00.344612"
 draft: false
 sectors:
   - insurance
@@ -16,8 +16,8 @@ languages:
 tags:
   - financial
 industries:
-  - "financial-services"
   - "economics-of-banking"
+  - "financial-services"
   - "financial-sector"
 countries:
   - brazil
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://banco.bradesco](https://banco.bradesco)
-- [https://www.bradescoseguros.com.br](https://www.bradescoseguros.com.br)
+- [https://www.bradescoseguros.com.br/clientes](https://www.bradescoseguros.com.br/clientes)
 - [https://bradescobank.com/pt](https://bradescobank.com/pt)
 - [https://bradescobank.com/es](https://bradescobank.com/es)
 - [https://www.bradesco.com.br](https://www.bradesco.com.br)

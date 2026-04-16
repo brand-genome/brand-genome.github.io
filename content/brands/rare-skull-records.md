@@ -2,7 +2,7 @@
 title: Rare Skull Records
 slug: "rare-skull-records"
 description: ""
-date: "2026-04-15T09:21:24.555518"
+date: "2026-04-16T19:22:00.126979"
 draft: false
 sectors:
   - entertainment
@@ -13,8 +13,8 @@ years:
 languages:
   - spanish
 tags:
-  - music
   - "student-work"
+  - music
 industries: []
 countries: []
 revenue_buckets: []

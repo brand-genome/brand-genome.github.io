@@ -2,7 +2,7 @@
 title: SRAM Urban
 slug: "sram-urban"
 description: ""
-date: "2026-04-15T09:21:23.773340"
+date: "2026-04-16T19:21:59.101043"
 draft: false
 sectors:
   - hardware
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sram.com](https://www.sram.com)
+- [https://www.sram.com/en/sram](https://www.sram.com/en/sram)
 - [http://www.sram.com](http://www.sram.com)
 
 ## Brand Guidelines

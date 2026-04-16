@@ -2,11 +2,10 @@
 title: Tani
 slug: tani
 description: ""
-date: "2026-04-15T09:21:24.717565"
+date: "2026-04-16T19:22:00.262024"
 draft: false
 sectors:
   - "marketing-advertising"
-  - software
 regions:
   - turkiye
 years:
@@ -62,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tani.com.tr](https://www.tani.com.tr)
-- [https://www.tani.com.tr/kurumsal](https://www.tani.com.tr/kurumsal)
+- [https://chippin.com/crm-hizmetleri](https://chippin.com/crm-hizmetleri)
 
 ## Brand Guidelines
 

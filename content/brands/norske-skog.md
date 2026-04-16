@@ -2,7 +2,7 @@
 title: Norske Skog
 slug: "norske-skog"
 description: ""
-date: "2026-04-15T09:21:24.794114"
+date: "2026-04-16T19:22:00.343960"
 draft: false
 sectors:
   - "forestry-timber"

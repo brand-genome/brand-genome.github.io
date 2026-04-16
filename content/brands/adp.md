@@ -2,7 +2,7 @@
 title: ADP
 slug: adp
 description: ""
-date: "2026-04-15T09:21:25.179032"
+date: "2026-04-16T19:22:00.773648"
 draft: false
 sectors:
   - finance
@@ -16,10 +16,10 @@ languages:
 tags:
   - corporate
 industries:
-  - "accounting-services"
-  - "software-industry"
-  - "human-resource-management"
   - "data-processing"
+  - "accounting-services"
+  - "human-resource-management"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -32,12 +32,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "database-management-system"
   - "accounting-software"
+  - "software-as-a-service"
   - software
+  - "database-management-system"
   - "relational-database-management-system"
   - "enterprise-resource-planning"
-  - "software-as-a-service"
 products: []
 headquarters_locations:
   - roseland
@@ -254,7 +254,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Database Management System](/products_or_materials_produced/database-management-system/); [Accounting Software](/products_or_materials_produced/accounting-software/); [Software](/products_or_materials_produced/software/); [Relational Database Management System](/products_or_materials_produced/relational-database-management-system/); [Enterprise Resource Planning](/products_or_materials_produced/enterprise-resource-planning/); [Software As A Service](/products_or_materials_produced/software-as-a-service/) |
+| Product Or Material Produced | [Accounting Software](/products_or_materials_produced/accounting-software/); [Software As A Service](/products_or_materials_produced/software-as-a-service/); [Software](/products_or_materials_produced/software/); [Database Management System](/products_or_materials_produced/database-management-system/); [Relational Database Management System](/products_or_materials_produced/relational-database-management-system/); [Enterprise Resource Planning](/products_or_materials_produced/enterprise-resource-planning/) |
 | Headquarters Location | [Roseland](/headquarters_locations/roseland/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Stock Exchange | Nasdaq (from 1990-01-02) |

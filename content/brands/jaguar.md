@@ -2,7 +2,7 @@
 title: Jaguar
 slug: jaguar
 description: ""
-date: "2026-04-15T09:21:24.552061"
+date: "2026-04-16T19:22:00.123632"
 draft: false
 sectors:
   - automobile
@@ -68,9 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jaguar.com](https://www.jaguar.com)
-- [https://www.jaguar.co.uk](https://www.jaguar.co.uk)
-- [https://www.jlr.com/en/brands/jaguar](https://www.jlr.com/en/brands/jaguar)
+- [https://www.jaguar.com/en-xi/jdx/market-selector.html](https://www.jaguar.com/en-xi/jdx/market-selector.html)
+- [https://www.jaguar.com/en-gb/jdx/index.html](https://www.jaguar.com/en-gb/jdx/index.html)
 
 ## Brand Guidelines
 

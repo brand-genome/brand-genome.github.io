@@ -2,7 +2,7 @@
 title: "MIT Computer Science & Artificial Intelligence Laboratory"
 slug: "mit-computer-science-artificial-intelligence-laboratory"
 description: ""
-date: "2026-04-15T09:21:23.128091"
+date: "2026-04-16T19:21:58.531614"
 draft: false
 sectors:
   - university
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://csail.mit.edu](https://csail.mit.edu)
+- [https://www.csail.mit.edu](https://www.csail.mit.edu)
 - [http://www.mit.edu](http://www.mit.edu)
 
 ## Brand Guidelines

@@ -2,15 +2,15 @@
 title: Mayor of London
 slug: "mayor-of-london"
 description: ""
-date: "2026-04-15T09:21:24.055398"
+date: "2026-04-16T19:21:59.375667"
 draft: false
 sectors:
   - "public-sector"
 regions:
   - "united-kingdom"
 years:
-  - 2021
   - 2019
+  - 2021
 languages:
   - english
 tags:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.london.gov.uk](https://www.london.gov.uk)
 - [https://webcasts.london.gov.uk/Mayoral](https://webcasts.london.gov.uk/Mayoral)
 - [https://www.london.gov.uk/about-us/mayor-london](https://www.london.gov.uk/about-us/mayor-london)
 

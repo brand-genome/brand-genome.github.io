@@ -2,11 +2,11 @@
 title: "Honor Coffee & Tea"
 slug: "honor-coffee-tea"
 description: ""
-date: "2026-04-15T09:21:24.796528"
+date: "2026-04-16T19:22:00.346219"
 draft: false
 sectors:
-  - restaurant
   - drink
+  - restaurant
 regions:
   - usa
 years:
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [http://honorcoffee.com](http://honorcoffee.com)
-
 ## Brand Guidelines
 
 ### 2015

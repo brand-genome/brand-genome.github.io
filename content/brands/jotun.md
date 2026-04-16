@@ -2,11 +2,11 @@
 title: Jotun
 slug: jotun
 description: ""
-date: "2026-04-15T09:21:23.773436"
+date: "2026-04-16T19:21:59.101585"
 draft: false
 sectors:
-  - "consumer-goods"
   - construction
+  - "consumer-goods"
 regions:
   - norway
 years:
@@ -69,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.jotun.com](https://www.jotun.com)
+- [https://www.jotun.com/in-en](https://www.jotun.com/in-en)
 - [http://www.jotun.com](http://www.jotun.com)
+- [https://www.jotun.com](https://www.jotun.com)
 
 ## Brand Guidelines
 

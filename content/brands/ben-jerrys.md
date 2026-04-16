@@ -2,7 +2,7 @@
 title: "Ben & Jerry’s"
 slug: "ben-jerrys"
 description: ""
-date: "2026-04-15T09:21:23.739478"
+date: "2026-04-16T19:21:59.064626"
 draft: false
 sectors:
   - food
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.benjerry.com](https://www.benjerry.com)
-- [https://www.benjerry.ie](https://www.benjerry.ie)
-
 ## Brand Guidelines
 
 ### 2015

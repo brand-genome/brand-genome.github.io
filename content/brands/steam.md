@@ -2,7 +2,7 @@
 title: Steam
 slug: steam
 description: ""
-date: "2026-04-15T09:21:22.345932"
+date: "2026-04-16T19:21:57.551205"
 draft: false
 sectors:
   - entertainment
@@ -65,9 +65,8 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://store.steampowered.com](https://store.steampowered.com)
-- [https://steamcommunity.com](https://steamcommunity.com)
 - [https://partner.steamgames.com](https://partner.steamgames.com)
-- [https://help.steampowered.com](https://help.steampowered.com)
+- [https://help.steampowered.com/en](https://help.steampowered.com/en)
 - [http://www.steampowered.com](http://www.steampowered.com)
 - [https://partner.steamgames.com/doc/marketing](https://partner.steamgames.com/doc/marketing)
 - [https://store.steampowered.com?l=english](https://store.steampowered.com?l=english)

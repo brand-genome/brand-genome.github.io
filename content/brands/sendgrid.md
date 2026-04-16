@@ -2,7 +2,7 @@
 title: SendGrid
 slug: sendgrid
 description: ""
-date: "2026-04-15T09:21:24.950758"
+date: "2026-04-16T19:22:00.525193"
 draft: false
 sectors:
   - software
@@ -66,8 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://sendgrid.com](https://sendgrid.com)
-- [https://www.twilio.com](https://www.twilio.com)
+- [https://www.twilio.com/en-us/sendgrid](https://www.twilio.com/en-us/sendgrid)
+- [https://www.twilio.com/en-us](https://www.twilio.com/en-us)
 - [http://sendgrid.com](http://sendgrid.com)
 
 ## Brand Guidelines

@@ -2,10 +2,11 @@
 title: CRUP
 slug: crup
 description: ""
-date: "2026-04-15T09:21:24.386430"
+date: "2026-04-16T19:21:59.975489"
 draft: false
 sectors:
   - education
+  - university
 regions:
   - argentina
 years:
@@ -61,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.crup.org.ar](https://www.crup.org.ar)
 - [https://realcup.org](https://realcup.org)
 
 ## Brand Guidelines

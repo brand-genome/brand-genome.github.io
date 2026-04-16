@@ -2,12 +2,12 @@
 title: "Dooney & Bourke"
 slug: "dooney-bourke"
 description: ""
-date: "2026-04-15T09:21:25.184401"
+date: "2026-04-16T19:22:00.779578"
 draft: false
 sectors:
   - fashion
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:

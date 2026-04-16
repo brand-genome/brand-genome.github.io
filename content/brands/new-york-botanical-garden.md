@@ -2,13 +2,13 @@
 title: New York Botanical Garden
 slug: "new-york-botanical-garden"
 description: ""
-date: "2026-04-15T09:21:23.722936"
+date: "2026-04-16T19:21:59.046310"
 draft: false
 sectors:
-  - tourism
-  - research
-  - education
   - "arts-culture"
+  - tourism
+  - education
+  - research
 regions:
   - usa
 years:
@@ -33,8 +33,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "the-bronx"
   - "new-york-city"
+  - "the-bronx"
 subsidiaries: []
 foundation_dates:
   - 1891
@@ -72,8 +72,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nybg.org](https://www.nybg.org)
 - [http://www.nybg.org](http://www.nybg.org)
+- [https://www.nybg.org](https://www.nybg.org)
 
 ## Brand Guidelines
 
@@ -89,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [The Bronx](/headquarters_locations/the-bronx/); [New York City](/headquarters_locations/new-york-city/) |
+| Headquarters Location | [New York City](/headquarters_locations/new-york-city/); [The Bronx](/headquarters_locations/the-bronx/) |
 | Foundation Date | [1891](/foundation_dates/1891/) |
 | Nrhp Reference Number | 67000009 |
 | Coordinate Location | 40.863611, -73.878333 |

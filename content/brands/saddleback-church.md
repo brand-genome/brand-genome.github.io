@@ -2,7 +2,7 @@
 title: Saddleback Church
 slug: "saddleback-church"
 description: ""
-date: "2026-04-15T09:21:23.120874"
+date: "2026-04-16T19:21:58.528143"
 draft: false
 sectors:
   - ngo
@@ -61,8 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://welcome.saddleback.com](https://welcome.saddleback.com)
-- [https://www.saddleback.com](https://www.saddleback.com)
+- [https://saddleback.com](https://saddleback.com)
 - [https://saddlebacksantaclaravalley.com](https://saddlebacksantaclaravalley.com)
 - [https://www.saddlebacknorcal.com](https://www.saddlebacknorcal.com)
 - [http://www.saddleback.com](http://www.saddleback.com)

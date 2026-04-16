@@ -2,11 +2,10 @@
 title: Lauak
 slug: lauak
 description: ""
-date: "2026-04-15T09:21:24.083622"
+date: "2026-04-16T19:21:59.408741"
 draft: false
 sectors:
   - aerospace
-  - hardware
 regions:
   - france
 years:
@@ -70,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.wiprolauak.com](https://www.wiprolauak.com)
+- [https://www.wiprolauak.com/en](https://www.wiprolauak.com/en)
 - [https://www.groupe-lauak.com](https://www.groupe-lauak.com)
-- [https://www.groupe-lauak.com/en](https://www.groupe-lauak.com/en)
 
 ## Brand Guidelines
 

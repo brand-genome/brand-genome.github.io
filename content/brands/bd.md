@@ -2,7 +2,7 @@
 title: "B&D"
 slug: bd
 description: ""
-date: "2026-04-15T09:21:24.255807"
+date: "2026-04-16T19:21:59.658453"
 draft: false
 sectors:
   - construction

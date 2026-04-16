@@ -2,7 +2,7 @@
 title: BC Hydro
 slug: "bc-hydro"
 description: ""
-date: "2026-04-15T09:21:24.339027"
+date: "2026-04-16T19:21:59.779767"
 draft: false
 sectors:
   - utilities
@@ -68,6 +68,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.bchydro.com/index.html](https://www.bchydro.com/index.html)
 - [https://www.bchydro.com](https://www.bchydro.com)
 
 ## Brand Guidelines

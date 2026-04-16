@@ -2,7 +2,7 @@
 title: Eredivisie
 slug: eredivisie
 description: ""
-date: "2026-04-15T09:21:22.317127"
+date: "2026-04-16T19:21:57.362186"
 draft: false
 sectors:
   - sports
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eredivisie.nl](https://eredivisie.nl)
+- [https://eredivisie.nl/vriendenloterijeredivisie](https://eredivisie.nl/vriendenloterijeredivisie)
 - [https://eredivisie.eu/home](https://eredivisie.eu/home)
 
 ## Brand Guidelines

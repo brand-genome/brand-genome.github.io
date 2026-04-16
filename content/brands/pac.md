@@ -2,7 +2,7 @@
 title: PAC
 slug: pac
 description: ""
-date: "2026-04-15T09:21:25.647037"
+date: "2026-04-16T19:22:01.659588"
 draft: false
 sectors:
   - "blockchain-crypto"
@@ -59,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://pacglobal.io](https://pacglobal.io)
-- [https://pacglobal.io/network](https://pacglobal.io/network)
-
 ## Brand Guidelines
 
 ### 2018

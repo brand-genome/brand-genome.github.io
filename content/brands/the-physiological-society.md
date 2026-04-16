@@ -2,12 +2,12 @@
 title: The Physiological Society
 slug: "the-physiological-society"
 description: ""
-date: "2026-04-15T09:21:24.031443"
+date: "2026-04-16T19:21:59.347038"
 draft: false
 sectors:
+  - ngo
   - publishing
   - research
-  - ngo
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - community
-  - biology
   - science
+  - biology
+  - community
 industries: []
 countries:
   - "united-kingdom"
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.physoc.org](https://www.physoc.org)
-- [https://physoc.onlinelibrary.wiley.com/journal/14697793](https://physoc.onlinelibrary.wiley.com/journal/14697793)
 
 ## Brand Guidelines
 

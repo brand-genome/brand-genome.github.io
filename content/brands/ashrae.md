@@ -2,11 +2,11 @@
 title: Ashrae
 slug: ashrae
 description: ""
-date: "2026-04-15T09:21:25.402742"
+date: "2026-04-16T19:22:01.085306"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:

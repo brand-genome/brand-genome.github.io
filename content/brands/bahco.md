@@ -2,7 +2,7 @@
 title: Bahco
 slug: bahco
 description: ""
-date: "2026-04-15T09:21:22.525773"
+date: "2026-04-16T19:21:57.864968"
 draft: false
 sectors:
   - hardware
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bahco.com](https://www.bahco.com)
 - [http://www.bahco.com](http://www.bahco.com)
 - [https://www.bahco.com/fr_fr](https://www.bahco.com/fr_fr)
 - [https://www.bahco.com/be_fr](https://www.bahco.com/be_fr)

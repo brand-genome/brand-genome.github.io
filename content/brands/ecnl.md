@@ -2,7 +2,7 @@
 title: ECNL
 slug: ecnl
 description: ""
-date: "2026-04-15T09:21:24.208024"
+date: "2026-04-16T19:21:59.574678"
 draft: false
 sectors:
   - sports

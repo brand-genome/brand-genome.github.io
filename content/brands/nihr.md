@@ -2,12 +2,12 @@
 title: NIHR
 slug: nihr
 description: ""
-date: "2026-04-15T09:21:25.440513"
+date: "2026-04-16T19:22:01.125667"
 draft: false
 sectors:
   - "public-sector"
-  - research
   - healthcare
+  - research
 regions:
   - "united-kingdom"
 years:
@@ -61,11 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.nihr.ac.uk](https://www.nihr.ac.uk)
-- [https://www.nihr.ac.uk/branding](https://www.nihr.ac.uk/branding)
-
 ## Brand Guidelines
 
 ### 2019

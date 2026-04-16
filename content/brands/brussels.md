@@ -2,7 +2,7 @@
 title: Brussels
 slug: brussels
 description: ""
-date: "2026-04-15T09:21:22.439657"
+date: "2026-04-16T19:21:57.716984"
 draft: false
 sectors:
   - tourism
@@ -15,8 +15,8 @@ languages:
   - english
 tags:
   - city
-  - featured
   - regional
+  - featured
 industries: []
 countries:
   - belgium
@@ -65,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://internationalbrand.brussels/en/home](https://internationalbrand.brussels/en/home)
-- [https://internationalbrand.brussels](https://internationalbrand.brussels)
+- [https://www.internationalbrand.brussels/en/home](https://www.internationalbrand.brussels/en/home)
+- [https://www.internationalbrand.brussels/fr/home](https://www.internationalbrand.brussels/fr/home)
 - [https://www.brussels.be](https://www.brussels.be)
 - [https://www.bruxelles.be](https://www.bruxelles.be)
 - [https://www.brussel.be](https://www.brussel.be)

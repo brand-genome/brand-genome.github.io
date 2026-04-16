@@ -2,10 +2,12 @@
 title: BAFTA
 slug: bafta
 description: ""
-date: "2026-04-15T09:21:24.788917"
+date: "2026-04-16T19:22:00.338238"
 draft: false
 sectors:
+  - gaming
   - "arts-culture"
+  - entertainment
 regions:
   - "united-kingdom"
 years:
@@ -67,7 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bafta.org](https://www.bafta.org)
 - [https://bafta.org](https://bafta.org)
 
 ## Brand Guidelines

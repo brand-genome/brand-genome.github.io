@@ -2,7 +2,7 @@
 title: Sangoma
 slug: sangoma
 description: ""
-date: "2026-04-15T09:21:25.194801"
+date: "2026-04-16T19:22:00.789880"
 draft: false
 sectors:
   - software
@@ -70,8 +70,6 @@ visual_term_image_urls: {}
 
 - [https://sangoma.com](https://sangoma.com)
 - [https://support.sangoma.com](https://support.sangoma.com)
-- [https://www.freepbx.org](https://www.freepbx.org)
-- [https://www.asterisk.org](https://www.asterisk.org)
 - [http://www.sangoma.com](http://www.sangoma.com)
 
 ## Brand Guidelines

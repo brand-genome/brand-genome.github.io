@@ -2,27 +2,26 @@
 title: HP
 slug: hp
 description: ""
-date: "2026-04-15T09:21:22.426790"
+date: "2026-04-16T19:21:57.705818"
 draft: false
 sectors:
-  - "home-appliances"
-  - electronics
   - hardware
+  - electronics
 regions:
   - usa
 years:
-  - 2006
   - 2019
   - 2020
+  - 2006
 languages:
   - english
 tags:
   - corporate
 industries:
-  - "software-industry"
   - "computer-hardware-industry"
   - "information-and-communications-industry"
   - "information-technology-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets:
@@ -38,22 +37,22 @@ total_equity_buckets: []
 market_cap_buckets:
   - "10B-50B"
 products_or_materials_produced:
-  - "systems-integrator"
-  - printer
-  - software
-  - computer
-  - "digital-camera"
-  - "tablet-computer"
   - "mobile-phone"
-  - laptop
+  - computer
   - "computer-storage-media"
-  - "computer-hardware"
-  - server
-  - smartphone
+  - software
+  - "systems-integrator"
   - "networking-hardware"
-  - "pocket-computer"
+  - "computer-hardware"
+  - smartphone
+  - printer
+  - server
+  - laptop
   - "image-scanner"
   - "personal-computer"
+  - "tablet-computer"
+  - "digital-camera"
+  - "pocket-computer"
 products: []
 headquarters_locations:
   - "palo-alto"
@@ -94,10 +93,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.hp.com](https://www.hp.com)
-- [https://support.hp.com](https://support.hp.com)
-- [https://brand-stage.hp.com/content/hp-brand-central/us/en.html](https://brand-stage.hp.com/content/hp-brand-central/us/en.html)
+- [https://www.hp.com/in-en/home.html](https://www.hp.com/in-en/home.html)
+- [https://support.hp.com/in-en](https://support.hp.com/in-en)
 - [http://www.hp.com/country/w1/en/termsofuse.html](http://www.hp.com/country/w1/en/termsofuse.html)
+- [https://www.hp.com](https://www.hp.com)
 
 ## Brand Guidelines
 
@@ -962,7 +961,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Printer](/products_or_materials_produced/printer/); [Software](/products_or_materials_produced/software/); [Computer](/products_or_materials_produced/computer/); [Digital Camera](/products_or_materials_produced/digital-camera/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Laptop](/products_or_materials_produced/laptop/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Server](/products_or_materials_produced/server/); [Smartphone](/products_or_materials_produced/smartphone/); +4 more |
+| Product Or Material Produced | [Mobile Phone](/products_or_materials_produced/mobile-phone/); [Computer](/products_or_materials_produced/computer/); [Computer Storage Media](/products_or_materials_produced/computer-storage-media/); [Software](/products_or_materials_produced/software/); [Systems Integrator](/products_or_materials_produced/systems-integrator/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Printer](/products_or_materials_produced/printer/); [Server](/products_or_materials_produced/server/); [Laptop](/products_or_materials_produced/laptop/); [Image Scanner](/products_or_materials_produced/image-scanner/); +4 more |
 | Headquarters Location | [Palo Alto](/headquarters_locations/palo-alto/) |
 | Foundation Date | [1939](/foundation_dates/1939/) |
 | Topic'S Main Category | Category:Hewlett-Packard |

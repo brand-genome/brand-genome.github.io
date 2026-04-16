@@ -2,7 +2,7 @@
 title: Hisense
 slug: hisense
 description: ""
-date: "2026-04-15T09:21:23.743038"
+date: "2026-04-16T19:21:59.067985"
 draft: false
 sectors:
   - "home-appliances"
@@ -69,8 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://global.hisense.com](https://global.hisense.com)
+- [https://www.hisense-india.com](https://www.hisense-india.com)
 - [https://www.hisense-usa.com](https://www.hisense-usa.com)
+- [https://global.hisense.com](https://global.hisense.com)
 - [https://www.hisense-europe.com](https://www.hisense-europe.com)
 - [https://cz.hisense.com](https://cz.hisense.com)
 - [https://sk.hisense.com](https://sk.hisense.com)

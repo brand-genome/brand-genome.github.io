@@ -2,7 +2,7 @@
 title: EU Ecolabel
 slug: "eu-ecolabel"
 description: ""
-date: "2026-04-15T09:21:23.171326"
+date: "2026-04-16T19:21:58.574787"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://environment.ec.europa.eu/topics/circular-economy-topics/eu-ecolabel/about-eu-ecolabel_en](https://environment.ec.europa.eu/topics/circular-economy-topics/eu-ecolabel/about-eu-ecolabel_en)
-- [https://www.ecolabel.eu](https://www.ecolabel.eu)
+- [https://environment.ec.europa.eu/topics/circular-economy-topics/eu-ecolabel_en](https://environment.ec.europa.eu/topics/circular-economy-topics/eu-ecolabel_en)
 
 ## Brand Guidelines
 

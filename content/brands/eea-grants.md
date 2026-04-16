@@ -2,11 +2,11 @@
 title: EEA Grants
 slug: "eea-grants"
 description: ""
-date: "2026-04-15T09:21:25.679136"
+date: "2026-04-16T19:22:01.744067"
 draft: false
 sectors:
-  - "public-sector"
   - finance
+  - "public-sector"
 regions:
   - iceland
 years:
@@ -62,4 +62,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eeagrants.org](https://eeagrants.org)
+- [https://eeagrants.org/en/fmo](https://eeagrants.org/en/fmo)

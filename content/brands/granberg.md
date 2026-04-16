@@ -2,7 +2,7 @@
 title: Granberg
 slug: granberg
 description: ""
-date: "2026-04-15T09:21:25.662160"
+date: "2026-04-16T19:22:01.689958"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"

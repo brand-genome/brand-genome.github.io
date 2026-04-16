@@ -2,12 +2,12 @@
 title: Trendhim
 slug: trendhim
 description: ""
-date: "2026-04-15T09:21:24.599364"
+date: "2026-04-16T19:22:00.162960"
 draft: false
 sectors:
+  - "e-commerce"
   - fashion
   - "consumer-goods"
-  - "e-commerce"
 regions:
   - "united-kingdom"
 years:

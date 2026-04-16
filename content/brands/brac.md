@@ -2,7 +2,7 @@
 title: Brac
 slug: brac
 description: ""
-date: "2026-04-15T09:21:25.337171"
+date: "2026-04-16T19:22:01.003477"
 draft: false
 sectors:
   - ngo
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 
 - [https://www.brac.net](https://www.brac.net)
 - [https://www.bracinternational.org](https://www.bracinternational.org)
-- [https://bracusa.org](https://bracusa.org)
+- [https://www.bracusa.org](https://www.bracusa.org)
 - [http://www.brac.net](http://www.brac.net)
 - [http://www.twitter.com/bracworld](http://www.twitter.com/bracworld)
 

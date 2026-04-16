@@ -2,11 +2,10 @@
 title: Checkout 51
 slug: "checkout-51"
 description: ""
-date: "2026-04-15T09:21:24.764804"
+date: "2026-04-16T19:22:00.313252"
 draft: false
 sectors:
   - "marketing-advertising"
-  - "e-commerce"
 regions:
   - usa
 years:
@@ -63,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.checkout51.com](https://www.checkout51.com)
-- [https://support.checkout51.com/hc/en-us](https://support.checkout51.com/hc/en-us)
 - [https://www.checkout51.com/contact](https://www.checkout51.com/contact)
 
 ## Brand Guidelines

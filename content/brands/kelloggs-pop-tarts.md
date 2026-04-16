@@ -2,7 +2,7 @@
 title: "Kellogg’s Pop-Tarts"
 slug: "kelloggs-pop-tarts"
 description: ""
-date: "2026-04-15T09:21:23.873918"
+date: "2026-04-16T19:21:59.200635"
 draft: false
 sectors:
   - food
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.poptarts.com/en_US/home.html](https://www.poptarts.com/en_US/home.html)
-
 ## Brand Guidelines
 
 ### 2014

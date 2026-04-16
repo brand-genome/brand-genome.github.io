@@ -2,7 +2,7 @@
 title: Nanna’s Negroni
 slug: "nannas-negroni"
 description: ""
-date: "2026-04-15T09:21:22.330905"
+date: "2026-04-16T19:21:57.435006"
 draft: false
 sectors:
   - drink
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://linktr.ee/nannasnegroni](https://linktr.ee/nannasnegroni)
-- [https://www.instagram.com/nannasnegroni](https://www.instagram.com/nannasnegroni)
 
 ## Brand Guidelines
 

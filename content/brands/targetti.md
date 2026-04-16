@@ -2,7 +2,7 @@
 title: Targetti
 slug: targetti
 description: ""
-date: "2026-04-15T09:21:24.606306"
+date: "2026-04-16T19:22:00.170304"
 draft: false
 sectors:
   - hardware
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.targetti.com](https://www.targetti.com)
+- [https://www.targetti.com/en](https://www.targetti.com/en)
 - [http://www.targetti.com](http://www.targetti.com)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Bishop Fenwick
 slug: "bishop-fenwick"
 description: ""
-date: "2026-04-15T09:21:25.051965"
+date: "2026-04-16T19:22:00.643617"
 draft: false
 sectors:
   - education

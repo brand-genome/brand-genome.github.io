@@ -2,11 +2,11 @@
 title: NICA
 slug: nica
 description: ""
-date: "2026-04-15T09:21:24.912212"
+date: "2026-04-16T19:22:00.483042"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://nationalmtb.org](https://nationalmtb.org)
-- [https://www.nationalmtb.org](https://www.nationalmtb.org)
 - [http://www.nationalmtb.org](http://www.nationalmtb.org)
 
 ## Brand Guidelines

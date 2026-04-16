@@ -2,11 +2,11 @@
 title: ESC
 slug: esc
 description: ""
-date: "2026-04-15T09:21:24.806309"
+date: "2026-04-16T19:22:00.354360"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - europe
 years:

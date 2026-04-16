@@ -2,10 +2,9 @@
 title: "al-Zubaidi"
 slug: "al-zubaidi"
 description: ""
-date: "2026-04-15T09:21:23.708764"
+date: "2026-04-16T19:21:59.031708"
 draft: false
 sectors:
-  - retail
   - "consumer-goods"
 regions:
   - yemen

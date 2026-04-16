@@ -2,7 +2,7 @@
 title: The Verge
 slug: "the-verge"
 description: ""
-date: "2026-04-15T09:21:23.843137"
+date: "2026-04-16T19:21:59.171371"
 draft: false
 sectors:
   - publishing
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.theverge.com](https://www.theverge.com)
-- [https://www.theverge.space](https://www.theverge.space)
 
 ## Brand Guidelines
 

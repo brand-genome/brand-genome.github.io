@@ -2,10 +2,9 @@
 title: Bella Nova Clinic
 slug: "bella-nova-clinic"
 description: ""
-date: "2026-04-15T09:21:22.542245"
+date: "2026-04-16T19:21:57.888012"
 draft: false
 sectors:
-  - cosmetics
   - healthcare
 regions:
   - oman

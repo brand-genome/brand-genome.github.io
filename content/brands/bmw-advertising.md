@@ -2,7 +2,7 @@
 title: BMW Advertising
 slug: "bmw-advertising"
 description: ""
-date: "2026-04-15T09:21:24.244450"
+date: "2026-04-16T19:21:59.639280"
 draft: false
 sectors:
   - automobile
@@ -61,8 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bmw.com](https://www.bmw.com)
-- [https://www.bmwusa.com](https://www.bmwusa.com)
 - [https://aws-p.bmwcenternet.com](https://aws-p.bmwcenternet.com)
 
 ## Brand Guidelines

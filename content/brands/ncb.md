@@ -2,7 +2,7 @@
 title: NCB
 slug: ncb
 description: ""
-date: "2026-04-15T09:21:24.976767"
+date: "2026-04-16T19:22:00.548378"
 draft: false
 sectors:
   - finance
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.alahli.com](https://www.alahli.com)
-
 ## Brand Guidelines
 
 ### 2014

@@ -2,7 +2,7 @@
 title: Aldi
 slug: aldi
 description: ""
-date: "2026-04-15T09:21:25.186337"
+date: "2026-04-16T19:22:00.781405"
 draft: false
 sectors:
   - supermarket
@@ -20,10 +20,10 @@ industries:
   - retail
   - "discount-store"
 countries:
-  - belgium
   - "united-states"
-  - germany
   - netherlands
+  - germany
+  - belgium
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -34,9 +34,9 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
+  - batavia
   - essen
   - "mulheim-an-der-ruhr"
-  - batavia
 subsidiaries: []
 foundation_dates:
   - 1946
@@ -76,7 +76,7 @@ visual_term_image_urls: {}
 
 - [https://www.aldi.de](https://www.aldi.de)
 - [https://www.aldi-nord.de](https://www.aldi-nord.de)
-- [https://www.aldi-sued.de/de/homepage.html](https://www.aldi-sued.de/de/homepage.html)
+- [https://www.aldi-sued.de](https://www.aldi-sued.de)
 - [https://www.aldi.com](https://www.aldi.com)
 - [https://www.aldi.com.au](https://www.aldi.com.au)
 - [http://www.aldi.com](http://www.aldi.com)
@@ -438,7 +438,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Essen](/headquarters_locations/essen/); [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/); [Batavia](/headquarters_locations/batavia/) |
+| Headquarters Location | [Batavia](/headquarters_locations/batavia/); [Essen](/headquarters_locations/essen/); [Mulheim An Der Ruhr](/headquarters_locations/mulheim-an-der-ruhr/) |
 | Foundation Date | [1946](/foundation_dates/1946/) |
 | Freebase Id | /m/0246n2 |
 | Topic'S Main Category | Category:Aldi |

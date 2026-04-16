@@ -2,7 +2,7 @@
 title: GSK
 slug: gsk
 description: ""
-date: "2026-04-15T09:21:23.396458"
+date: "2026-04-16T19:21:58.786387"
 draft: false
 sectors:
   - biotech
@@ -10,15 +10,15 @@ sectors:
 regions:
   - "united-kingdom"
 years:
-  - 2013
   - 2022
+  - 2013
 languages:
   - english
 tags:
   - health
 industries:
-  - "pharmaceutical-industry"
   - biotechnology
+  - "pharmaceutical-industry"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -71,6 +71,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.gsk.com/en-gb](https://www.gsk.com/en-gb)
 - [https://www.gsk.com](https://www.gsk.com)
 
 ## Brand Guidelines

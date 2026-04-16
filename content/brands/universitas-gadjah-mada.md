@@ -2,12 +2,12 @@
 title: Universitas Gadjah Mada
 slug: "universitas-gadjah-mada"
 description: ""
-date: "2026-04-15T09:21:22.547105"
+date: "2026-04-16T19:21:57.892275"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - indonesia
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - indonesian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - indonesia
@@ -71,8 +71,8 @@ visual_term_image_urls: {}
 - [https://ugm.ac.id](https://ugm.ac.id)
 - [https://ugm.ac.id/en](https://ugm.ac.id/en)
 - [https://brand.ugm.ac.id](https://brand.ugm.ac.id)
-- [https://brand.ugm.ac.id/logo](https://brand.ugm.ac.id/logo)
-- [https://admissions.ugm.ac.id](https://admissions.ugm.ac.id)
+- [https://brand.ugm.ac.id/brand-guideline/logo-sekunder-dan-tersier](https://brand.ugm.ac.id/brand-guideline/logo-sekunder-dan-tersier)
+- [https://admissions.ugm.ac.id/v26](https://admissions.ugm.ac.id/v26)
 - [http://brand.ugm.ac.id](http://brand.ugm.ac.id)
 - [https://www.ugm.ac.id](https://www.ugm.ac.id)
 

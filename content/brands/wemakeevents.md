@@ -2,7 +2,7 @@
 title: "#WeMakeEvents"
 slug: wemakeevents
 description: ""
-date: "2026-04-15T09:21:23.428332"
+date: "2026-04-16T19:21:58.814623"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - cultural
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

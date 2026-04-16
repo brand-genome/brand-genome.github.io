@@ -2,12 +2,12 @@
 title: Tesco
 slug: tesco
 description: ""
-date: "2026-04-15T09:21:24.587179"
+date: "2026-04-16T19:22:00.150705"
 draft: false
 sectors:
+  - "e-commerce"
   - supermarket
   - "consumer-goods"
-  - "e-commerce"
 regions:
   - "united-kingdom"
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - shopping
   - corporate
+  - shopping
+  - featured
 industries:
   - "retail-chain"
 countries:
@@ -36,8 +36,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "welwyn-garden-city"
   - cheshunt
+  - "welwyn-garden-city"
 subsidiaries: []
 foundation_dates:
   - 1919
@@ -75,8 +75,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tesco.com](https://www.tesco.com)
-- [https://www.tesco.com/groceries](https://www.tesco.com/groceries)
 - [https://www.tescoplc.com](https://www.tescoplc.com)
 - [https://www.tesco.ie](https://www.tesco.ie)
 - [https://tesco.hu](https://tesco.hu)
@@ -99,7 +97,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Welwyn Garden City](/headquarters_locations/welwyn-garden-city/); [Cheshunt](/headquarters_locations/cheshunt/) |
+| Headquarters Location | [Cheshunt](/headquarters_locations/cheshunt/); [Welwyn Garden City](/headquarters_locations/welwyn-garden-city/) |
 | Foundation Date | [1919](/foundation_dates/1919/) |
 | Founded By | Jack Cohen |
 | Headquarters Location | Welwyn Garden City, Cheshunt |

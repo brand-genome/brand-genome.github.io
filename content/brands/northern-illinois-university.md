@@ -2,7 +2,7 @@
 title: Northern Illinois University
 slug: "northern-illinois-university"
 description: ""
-date: "2026-04-15T09:21:23.808011"
+date: "2026-04-16T19:21:59.136372"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -67,11 +67,12 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.niu.edu](https://www.niu.edu)
+- [https://www.niu.edu/index.shtml](https://www.niu.edu/index.shtml)
 - [https://www.niu.edu/communication-standards/index.shtml](https://www.niu.edu/communication-standards/index.shtml)
 - [https://www.niu.edu/online](https://www.niu.edu/online)
 - [http://www.niu.edu](http://www.niu.edu)
 - [http://www.niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx](http://www.niuhuskies.com/sports/2016/6/13/ot-licensing-information-html.aspx)
+- [https://www.niu.edu](https://www.niu.edu)
 
 ## Brand Guidelines
 

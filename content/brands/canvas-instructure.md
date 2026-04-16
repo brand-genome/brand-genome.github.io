@@ -2,11 +2,11 @@
 title: Canvas Instructure
 slug: "canvas-instructure"
 description: ""
-date: "2026-04-15T09:21:25.401757"
+date: "2026-04-16T19:22:01.084280"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.instructure.com/landing/canvas](https://www.instructure.com/landing/canvas)
+- [https://www.instructure.com/canvas](https://www.instructure.com/canvas)
 - [https://www.instructure.com/lms-learning-management-system](https://www.instructure.com/lms-learning-management-system)
 - [https://canvaslms.instructure.com](https://canvaslms.instructure.com)
 

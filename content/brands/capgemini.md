@@ -2,7 +2,7 @@
 title: Capgemini
 slug: capgemini
 description: ""
-date: "2026-04-15T09:21:25.396184"
+date: "2026-04-16T19:22:01.073712"
 draft: false
 sectors:
   - consulting
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - software
   - corporate
+  - software
 industries:
   - "it-service-management"
   - "activities-of-head-offices"

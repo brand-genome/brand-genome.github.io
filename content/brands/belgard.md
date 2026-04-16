@@ -2,11 +2,11 @@
 title: Belgard
 slug: belgard
 description: ""
-date: "2026-04-15T09:21:25.405417"
+date: "2026-04-16T19:22:01.088973"
 draft: false
 sectors:
-  - "consumer-goods"
   - construction
+  - "consumer-goods"
 regions:
   - serbia
 years:

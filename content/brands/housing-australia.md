@@ -2,12 +2,12 @@
 title: Housing Australia
 slug: "housing-australia"
 description: ""
-date: "2026-04-15T09:21:22.509592"
+date: "2026-04-16T19:21:57.836658"
 draft: false
 sectors:
+  - finance
   - "public-sector"
   - "real-estate"
-  - finance
 regions:
   - australia
 years:

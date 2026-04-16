@@ -2,7 +2,7 @@
 title: Sharp
 slug: sharp
 description: ""
-date: "2026-04-15T09:21:25.766929"
+date: "2026-04-16T19:22:01.955753"
 draft: false
 sectors:
   - electronics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - electronics
   - corporate
+  - electronics
 industries:
   - electronics
 countries:
@@ -74,8 +74,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://global.sharp](https://global.sharp)
-- [https://www.sharp.co.jp](https://www.sharp.co.jp)
-- [https://www.sharp-world.com](https://www.sharp-world.com)
 - [https://corporate.jp.sharp](https://corporate.jp.sharp)
 
 ## Additional Properties

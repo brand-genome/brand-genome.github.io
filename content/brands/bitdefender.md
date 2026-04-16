@@ -2,11 +2,11 @@
 title: Bitdefender
 slug: bitdefender
 description: ""
-date: "2026-04-15T09:21:24.979930"
+date: "2026-04-16T19:22:00.551622"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - romania
 years:
@@ -62,10 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bitdefender.com](https://www.bitdefender.com)
+- [https://www.bitdefender.com/en-in](https://www.bitdefender.com/en-in)
 - [https://central.bitdefender.com](https://central.bitdefender.com)
-- [https://techzone.bitdefender.com](https://techzone.bitdefender.com)
-- [https://community.bitdefender.com](https://community.bitdefender.com)
+- [https://techzone.bitdefender.com/en/gravityzone-platform.html](https://techzone.bitdefender.com/en/gravityzone-platform.html)
 - [https://pan.bitdefender.com](https://pan.bitdefender.com)
 - [https://nexus-us.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-us.gravityzone.bitdefender.com/Identity/Account/Login)
 - [https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login](https://nexus-eu.gravityzone.bitdefender.com/Identity/Account/Login)

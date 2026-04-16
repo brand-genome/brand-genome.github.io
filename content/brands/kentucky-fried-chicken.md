@@ -2,11 +2,11 @@
 title: Kentucky Fried Chicken
 slug: "kentucky-fried-chicken"
 description: ""
-date: "2026-04-15T09:21:25.339754"
+date: "2026-04-16T19:22:01.006757"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -70,9 +70,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kfc.com](https://www.kfc.com)
 - [https://global.kfc.com](https://global.kfc.com)
-- [https://www.kfclogos.com](https://www.kfclogos.com)
+- [https://www.kfc.com](https://www.kfc.com)
 - [https://www.kfc.ca](https://www.kfc.ca)
 - [http://www.kfc.com.mx](http://www.kfc.com.mx)
 - [http://www.kfc.bm](http://www.kfc.bm)

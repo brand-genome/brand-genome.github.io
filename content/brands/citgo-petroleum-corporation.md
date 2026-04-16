@@ -2,7 +2,7 @@
 title: Citgo Petroleum Corporation
 slug: "citgo-petroleum-corporation"
 description: ""
-date: "2026-04-15T09:21:22.519207"
+date: "2026-04-16T19:21:57.851442"
 draft: false
 sectors:
   - oil
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.citgo.com](https://www.citgo.com)
-- [https://www.clubcitgo.com](https://www.clubcitgo.com)
-- [https://www.mystiklubes.com](https://www.mystiklubes.com)
 - [https://www.citgo.com/motorists](https://www.citgo.com/motorists)
 
 ## Brand Guidelines

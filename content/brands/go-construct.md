@@ -2,7 +2,7 @@
 title: Go Construct
 slug: "go-construct"
 description: ""
-date: "2026-04-15T09:21:23.412616"
+date: "2026-04-16T19:21:58.802179"
 draft: false
 sectors:
   - education

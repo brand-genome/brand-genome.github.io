@@ -2,12 +2,12 @@
 title: Dalhousie University
 slug: "dalhousie-university"
 description: ""
-date: "2026-04-15T09:21:23.617384"
+date: "2026-04-16T19:21:58.906096"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - canada
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - canada

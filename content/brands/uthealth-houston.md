@@ -2,11 +2,11 @@
 title: UTHealth Houston
 slug: "uthealth-houston"
 description: ""
-date: "2026-04-15T09:21:23.643861"
+date: "2026-04-16T19:21:58.948988"
 draft: false
 sectors:
-  - university
   - healthcare
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - health
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,11 +63,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uth.edu](https://www.uth.edu)
 - [https://www.utphysicians.com/myuthealthhouston](https://www.utphysicians.com/myuthealthhouston)
 - [https://dentistry.uth.edu](https://dentistry.uth.edu)
 - [https://nursing.uth.edu](https://nursing.uth.edu)
-- [https://sph.uth.edu](https://sph.uth.edu)
+- [https://sph.uth.edu/campuses/houston](https://sph.uth.edu/campuses/houston)
 - [https://med.uth.edu](https://med.uth.edu)
 - [http://dentistry.uth.edu](http://dentistry.uth.edu)
 - [http://nba.uth.tmc.edu](http://nba.uth.tmc.edu)

@@ -2,7 +2,7 @@
 title: SkyUp Airlines
 slug: "skyup-airlines"
 description: ""
-date: "2026-04-15T09:21:22.135626"
+date: "2026-04-16T19:21:57.170241"
 draft: false
 sectors:
   - airline
@@ -28,8 +28,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - ukraine
   - kyiv
+  - ukraine
 subsidiaries: []
 foundation_dates:
   - 2018
@@ -67,7 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://skyup.aero](https://skyup.aero)
+- [https://skyup.aero/uk](https://skyup.aero/uk)
 - [https://skyup.aero/en](https://skyup.aero/en)
 - [http://www.skyup.aero](http://www.skyup.aero)
 
@@ -79,7 +79,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [Ukraine](/headquarters_locations/ukraine/); [Kyiv](/headquarters_locations/kyiv/) |
+| Headquarters Location | [Kyiv](/headquarters_locations/kyiv/); [Ukraine](/headquarters_locations/ukraine/) |
 | Foundation Date | [2018](/foundation_dates/2018/) |
 | Inception | 2018 |
 | Country | Ukraine |

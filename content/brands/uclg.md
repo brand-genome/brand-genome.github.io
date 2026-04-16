@@ -2,11 +2,11 @@
 title: UCLG
 slug: uclg
 description: ""
-date: "2026-04-15T09:21:25.420471"
+date: "2026-04-16T19:22:01.104438"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - spain
 years:
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uclg.org](https://www.uclg.org)
+- [https://uclg.org](https://uclg.org)
 - [https://www.uclgmeets.org](https://www.uclgmeets.org)
 - [http://www.uclg.org](http://www.uclg.org)
 

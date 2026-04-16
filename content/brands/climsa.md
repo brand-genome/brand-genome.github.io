@@ -2,7 +2,7 @@
 title: ClimSA
 slug: climsa
 description: ""
-date: "2026-04-15T09:21:24.008284"
+date: "2026-04-16T19:21:59.318039"
 draft: false
 sectors:
   - "public-sector"
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.climsa.org](https://www.climsa.org)
-
 ## Brand Guidelines
 
 ### 2021

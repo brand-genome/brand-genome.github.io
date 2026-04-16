@@ -2,7 +2,7 @@
 title: Mercurius Health
 slug: "mercurius-health"
 description: ""
-date: "2026-04-15T09:21:23.832906"
+date: "2026-04-16T19:21:59.161573"
 draft: false
 sectors:
   - consulting

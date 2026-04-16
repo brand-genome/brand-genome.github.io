@@ -2,11 +2,11 @@
 title: Vingtor Stentofon
 slug: "vingtor-stentofon"
 description: ""
-date: "2026-04-15T09:21:25.404363"
+date: "2026-04-16T19:22:01.087536"
 draft: false
 sectors:
-  - hardware
   - telecom
+  - hardware
 regions:
   - belgium
 years:

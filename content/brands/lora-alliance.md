@@ -2,11 +2,11 @@
 title: LoRa Alliance
 slug: "lora-alliance"
 description: ""
-date: "2026-04-15T09:21:24.206842"
+date: "2026-04-16T19:21:59.573521"
 draft: false
 sectors:
-  - networking
   - ngo
+  - networking
 regions:
   - usa
 years:

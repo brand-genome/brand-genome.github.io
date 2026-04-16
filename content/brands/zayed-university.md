@@ -2,12 +2,12 @@
 title: Zayed University
 slug: "zayed-university"
 description: ""
-date: "2026-04-15T09:21:25.440253"
+date: "2026-04-16T19:22:01.125300"
 draft: false
 sectors:
+  - education
   - university
   - research
-  - education
 regions:
   - dubai
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - arabic
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-arab-emirates"
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zu.ac.ae](https://www.zu.ac.ae)
 - [http://www.zu.ac.ae](http://www.zu.ac.ae)
 
 ## Brand Guidelines

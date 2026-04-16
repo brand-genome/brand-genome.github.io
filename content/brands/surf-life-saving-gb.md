@@ -2,11 +2,11 @@
 title: Surf Life Saving GB
 slug: "surf-life-saving-gb"
 description: ""
-date: "2026-04-15T09:21:25.364471"
+date: "2026-04-16T19:22:01.031285"
 draft: false
 sectors:
-  - sports
   - ngo
+  - sports
 regions:
   - "united-kingdom"
 years:

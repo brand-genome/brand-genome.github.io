@@ -2,11 +2,11 @@
 title: Toys “R” Us
 slug: "toys-r-us"
 description: ""
-date: "2026-04-15T09:21:24.552827"
+date: "2026-04-16T19:22:00.124427"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - usa
 years:

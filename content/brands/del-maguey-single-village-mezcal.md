@@ -2,7 +2,7 @@
 title: Del Maguey Single Village Mezcal
 slug: "del-maguey-single-village-mezcal"
 description: ""
-date: "2026-04-15T09:21:22.288644"
+date: "2026-04-16T19:21:57.327348"
 draft: false
 sectors:
   - drink
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://delmaguey.com](https://delmaguey.com)
 - [https://www.pernod-ricard.com/en/brands/del-maguey](https://www.pernod-ricard.com/en/brands/del-maguey)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Messengers of Peace
 slug: "messengers-of-peace"
 description: ""
-date: "2026-04-15T09:21:23.750951"
+date: "2026-04-16T19:21:59.076222"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - international
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - peace
+  - community
 industries: []
 countries: []
 revenue_buckets: []

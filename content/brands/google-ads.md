@@ -2,7 +2,7 @@
 title: Google Ads
 slug: "google-ads"
 description: ""
-date: "2026-04-15T09:21:25.635116"
+date: "2026-04-16T19:22:01.641396"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ads.google.com](https://ads.google.com)
+- [https://business.google.com/in/google-ads](https://business.google.com/in/google-ads)
 - [https://support.google.com/google-ads](https://support.google.com/google-ads)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Alamo Drafthouse
 slug: "alamo-drafthouse"
 description: ""
-date: "2026-04-15T09:21:24.295371"
+date: "2026-04-16T19:21:59.701664"
 draft: false
 sectors:
   - entertainment

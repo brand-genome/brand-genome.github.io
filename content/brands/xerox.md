@@ -2,7 +2,7 @@
 title: Xerox
 slug: xerox
 description: ""
-date: "2026-04-15T09:21:23.873404"
+date: "2026-04-16T19:21:59.199551"
 draft: false
 sectors:
   - software
@@ -30,12 +30,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
+  - photocopier
+  - "multifunction-printer"
+  - software
   - "office-supply"
   - printer
-  - software
-  - photocopier
   - projector
-  - "multifunction-printer"
   - "image-scanner"
   - "wide-format-printer"
 products: []
@@ -78,6 +78,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://www.xerox.com/en-us](https://www.xerox.com/en-us)
 - [https://www.xerox.com](https://www.xerox.com)
 
 ## Additional Properties
@@ -88,7 +89,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Office Supply](/products_or_materials_produced/office-supply/); [Printer](/products_or_materials_produced/printer/); [Software](/products_or_materials_produced/software/); [Photocopier](/products_or_materials_produced/photocopier/); [Projector](/products_or_materials_produced/projector/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/) |
+| Product Or Material Produced | [Photocopier](/products_or_materials_produced/photocopier/); [Multifunction Printer](/products_or_materials_produced/multifunction-printer/); [Software](/products_or_materials_produced/software/); [Office Supply](/products_or_materials_produced/office-supply/); [Printer](/products_or_materials_produced/printer/); [Projector](/products_or_materials_produced/projector/); [Image Scanner](/products_or_materials_produced/image-scanner/); [Wide Format Printer](/products_or_materials_produced/wide-format-printer/) |
 | Headquarters Location | [Norwalk](/headquarters_locations/norwalk/) |
 | Foundation Date | [1906](/foundation_dates/1906/) |
 | Topic'S Main Category | Category:Xerox |

@@ -2,7 +2,7 @@
 title: Metro Transit
 slug: "metro-transit"
 description: ""
-date: "2026-04-15T09:21:24.308561"
+date: "2026-04-16T19:21:59.714045"
 draft: false
 sectors:
   - "public-sector"
@@ -67,9 +67,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.metrotransit.org](https://www.metrotransit.org)
-- [https://www.metrotransit.org/metro-system](https://www.metrotransit.org/metro-system)
 - [http://www.flickr.com/photos/metrotransitmn](http://www.flickr.com/photos/metrotransitmn)
+- [https://www.metrotransit.org](https://www.metrotransit.org)
 
 ## Brand Guidelines
 

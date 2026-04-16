@@ -2,7 +2,7 @@
 title: Kounta
 slug: kounta
 description: ""
-date: "2026-04-15T09:21:25.191602"
+date: "2026-04-16T19:22:00.786808"
 draft: false
 sectors:
   - software
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://my.kounta.com/login/pos](https://my.kounta.com/login/pos)
-- [https://kounta.zendesk.com](https://kounta.zendesk.com)
+- [https://kounta.zendesk.com/auth/v3/signin?role=end_user](https://kounta.zendesk.com/auth/v3/signin?role=end_user)
 - [http://www.kounta.com](http://www.kounta.com)
 - [https://www.lightspeedhq.com.au](https://www.lightspeedhq.com.au)
 

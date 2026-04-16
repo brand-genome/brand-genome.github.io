@@ -2,7 +2,7 @@
 title: Nexans
 slug: nexans
 description: ""
-date: "2026-04-15T09:21:22.128983"
+date: "2026-04-16T19:21:57.164067"
 draft: false
 sectors:
   - utilities

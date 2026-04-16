@@ -2,7 +2,7 @@
 title: Fairtrade Mark
 slug: "fairtrade-mark"
 description: ""
-date: "2026-04-15T09:21:23.949970"
+date: "2026-04-16T19:21:59.267545"
 draft: false
 sectors:
   - ngo
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - trademark
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.fairtrade.net](https://www.fairtrade.net)
+- [https://www.fairtrade.net/napp-en.html](https://www.fairtrade.net/napp-en.html)
 - [https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html](https://www.fairtrade.net/en/why-fairtrade/how-we-do-it/how-does-the-label-work/report-misuse-of--the-fairtrade-mark.html)
 - [https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html](https://www.fairtrade.net/us-en/for-business/for-partners/how-to-use-the-mark.html)
 

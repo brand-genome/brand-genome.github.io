@@ -2,11 +2,11 @@
 title: The Chartered Institute of Logistics and Transport
 slug: "the-chartered-institute-of-logistics-and-transport"
 description: ""
-date: "2026-04-15T09:21:23.877984"
+date: "2026-04-16T19:21:59.205165"
 draft: false
 sectors:
-  - "logistics-supply-chain"
   - education
+  - "logistics-supply-chain"
 regions:
   - "united-kingdom"
 years:

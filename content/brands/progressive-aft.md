@@ -2,7 +2,7 @@
 title: Progressive AFT
 slug: "progressive-aft"
 description: ""
-date: "2026-04-15T09:21:24.078888"
+date: "2026-04-16T19:21:59.402655"
 draft: false
 sectors:
   - sports

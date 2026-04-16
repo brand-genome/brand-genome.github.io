@@ -2,7 +2,7 @@
 title: Coldwell Banker
 slug: "coldwell-banker"
 description: ""
-date: "2026-04-15T09:21:23.809755"
+date: "2026-04-16T19:21:59.138215"
 draft: false
 sectors:
   - "real-estate"
@@ -33,11 +33,11 @@ headquarters_locations:
   - madison
 subsidiaries: []
 foundation_dates:
-  - 1906
   - 2008
+  - 1906
 foundation_year_buckets:
-  - 2000S
   - 1900S
+  - 2000S
 lightings: []
 perspectives: []
 image_backgrounds: []
@@ -90,7 +90,7 @@ visual_term_image_urls: {}
 | Property | Value |
 |----------|-------|
 | Headquarters Location | [Cairo](/headquarters_locations/cairo/); [Madison](/headquarters_locations/madison/) |
-| Foundation Date | [1906](/foundation_dates/1906/); [2008](/foundation_dates/2008/) |
+| Foundation Date | [2008](/foundation_dates/2008/); [1906](/foundation_dates/1906/) |
 | Freebase Id | /m/0838qg |
 | Headquarters Location | Madison, Cairo |
 | Inception | 1906-08-27, 2008 |

@@ -2,7 +2,7 @@
 title: Believe
 slug: believe
 description: ""
-date: "2026-04-15T09:21:22.208177"
+date: "2026-04-16T19:21:57.246376"
 draft: false
 sectors:
   - entertainment
@@ -28,10 +28,10 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - "rights-management"
-  - marketing
-  - "music-publishing"
   - "digital-distribution"
+  - "rights-management"
+  - "music-publishing"
+  - marketing
 products: []
 headquarters_locations:
   - paris
@@ -72,10 +72,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.believe.com](https://www.believe.com)
-- [https://www.believe.com/fr](https://www.believe.com/fr)
-- [https://www.believe.com/artist-services](https://www.believe.com/artist-services)
-- [https://www.believe.com/label/allpoints](https://www.believe.com/label/allpoints)
 - [https://www.tunecore.com](https://www.tunecore.com)
 - [https://www.nuclearblast.com](https://www.nuclearblast.com)
 - [http://www.believe.com](http://www.believe.com)
@@ -180,7 +176,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Rights Management](/products_or_materials_produced/rights-management/); [Marketing](/products_or_materials_produced/marketing/); [Music Publishing](/products_or_materials_produced/music-publishing/); [Digital Distribution](/products_or_materials_produced/digital-distribution/) |
+| Product Or Material Produced | [Digital Distribution](/products_or_materials_produced/digital-distribution/); [Rights Management](/products_or_materials_produced/rights-management/); [Music Publishing](/products_or_materials_produced/music-publishing/); [Marketing](/products_or_materials_produced/marketing/) |
 | Headquarters Location | [Paris](/headquarters_locations/paris/) |
 | Foundation Date | [2005](/foundation_dates/2005/) |
 | Musicbrainz Label Id | 3fc17205-3a0e-4a2c-8f00-cdfb899427e3, b13d3ac5-dbb5-4ea7-9f4a-2eedc601c671 |

@@ -2,7 +2,7 @@
 title: Starling Bank
 slug: "starling-bank"
 description: ""
-date: "2026-04-15T09:21:22.455284"
+date: "2026-04-16T19:21:57.734140"
 draft: false
 sectors:
   - finance

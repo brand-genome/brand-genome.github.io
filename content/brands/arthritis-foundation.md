@@ -2,12 +2,12 @@
 title: Arthritis Foundation
 slug: "arthritis-foundation"
 description: ""
-date: "2026-04-15T09:21:25.639328"
+date: "2026-04-16T19:22:01.646852"
 draft: false
 sectors:
-  - research
-  - healthcare
   - ngo
+  - healthcare
+  - research
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: University of Jeddah
 slug: "university-of-jeddah"
 description: ""
-date: "2026-04-15T09:21:24.233843"
+date: "2026-04-16T19:21:59.611468"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - arabic
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "saudi-arabia"
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.uj.edu.sa](https://www.uj.edu.sa)
+- [https://www.uj.edu.sa/ar](https://www.uj.edu.sa/ar)
 - [https://www.uj.edu.sa/en](https://www.uj.edu.sa/en)
 - [http://uj.edu.sa](http://uj.edu.sa)
 - [http://www.uj.edu.sa/Home.aspx?Lng=EN](http://www.uj.edu.sa/Home.aspx?Lng=EN)

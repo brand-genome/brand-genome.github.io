@@ -2,7 +2,7 @@
 title: Bullhorn
 slug: bullhorn
 description: ""
-date: "2026-04-15T09:21:25.382102"
+date: "2026-04-16T19:22:01.051365"
 draft: false
 sectors:
   - software

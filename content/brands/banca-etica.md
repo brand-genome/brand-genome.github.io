@@ -2,7 +2,7 @@
 title: Banca Etica
 slug: "banca-etica"
 description: ""
-date: "2026-04-15T09:21:23.691792"
+date: "2026-04-16T19:21:59.015039"
 draft: false
 sectors:
   - finance
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bancaetica.it](https://www.bancaetica.it)
-- [https://www.fiarebancaetica.coop](https://www.fiarebancaetica.coop)
 - [http://www.bancaetica.it](http://www.bancaetica.it)
 
 ## Brand Guidelines

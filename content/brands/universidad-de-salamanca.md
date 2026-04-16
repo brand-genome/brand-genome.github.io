@@ -2,11 +2,11 @@
 title: Universidad de Salamanca
 slug: "universidad-de-salamanca"
 description: ""
-date: "2026-04-15T09:21:23.777680"
+date: "2026-04-16T19:21:59.106081"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - spain
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - spanish
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - spain
@@ -67,14 +67,15 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.usal.es](https://www.usal.es)
-- [https://www.usal.es/en/USAL](https://www.usal.es/en/USAL)
-- [https://sede.usal.es/en](https://sede.usal.es/en)
+- [https://usal.es](https://usal.es)
+- [https://usal.es/en/USAL](https://usal.es/en/USAL)
+- [https://sede.usal.es/en/web/guest/inicio](https://sede.usal.es/en/web/guest/inicio)
 - [https://administracionelectronica.usal.es](https://administracionelectronica.usal.es)
 - [https://estudiantesinternacionales.usal.es](https://estudiantesinternacionales.usal.es)
 - [https://cursosinternacionales.usal.es/es](https://cursosinternacionales.usal.es/es)
 - [https://cursosinternacionales.usal.es/en](https://cursosinternacionales.usal.es/en)
 - [http://www.usal.es](http://www.usal.es)
+- [https://www.usal.es](https://www.usal.es)
 
 ## Brand Guidelines
 

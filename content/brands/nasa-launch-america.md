@@ -2,12 +2,12 @@
 title: NASA Launch America
 slug: "nasa-launch-america"
 description: ""
-date: "2026-04-15T09:21:24.591908"
+date: "2026-04-16T19:22:00.154765"
 draft: false
 sectors:
   - "public-sector"
-  - broadcasting
   - "space-technology"
+  - broadcasting
 regions:
   - usa
 years:
@@ -15,8 +15,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
   - transport
 industries: []
 countries: []
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.nasa.gov](https://www.nasa.gov)
-- [https://www.nasa.gov/beourguest](https://www.nasa.gov/beourguest)
 - [https://www.nasa.gov/live](https://www.nasa.gov/live)
 - [https://plus.nasa.gov](https://plus.nasa.gov)
 - [https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica](https://www.nasa.gov/missions/station/how-goddard-supports-commercial-crew-and-launchamerica)

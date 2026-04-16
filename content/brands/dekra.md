@@ -2,12 +2,11 @@
 title: Dekra
 slug: dekra
 description: ""
-date: "2026-04-15T09:21:22.329623"
+date: "2026-04-16T19:21:57.431452"
 draft: false
 sectors:
-  - consulting
-  - cybersecurity
   - automobile
+  - cybersecurity
 regions:
   - germany
 years:
@@ -15,12 +14,12 @@ years:
 languages:
   - english
 tags:
-  - transport
   - security
+  - transport
 industries: []
 countries:
-  - denmark
   - germany
+  - denmark
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -69,9 +68,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dekra.com](https://www.dekra.com)
-- [https://www.dekra.de](https://www.dekra.de)
+- [https://www.dekra.com/en/home](https://www.dekra.com/en/home)
+- [https://www.dekra.de/de/startseite](https://www.dekra.de/de/startseite)
 - [http://www.dekra.com](http://www.dekra.com)
+- [https://www.dekra.de](https://www.dekra.de)
+- [https://www.dekra.com](https://www.dekra.com)
 - [https://www.dekra.dk](https://www.dekra.dk)
 - [https://www.dekra-norisko.fr](https://www.dekra-norisko.fr)
 - [https://www.dekra-pl.com](https://www.dekra-pl.com)

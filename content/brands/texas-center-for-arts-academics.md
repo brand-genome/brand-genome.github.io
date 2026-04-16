@@ -2,11 +2,11 @@
 title: Texas Center for Arts + Academics
 slug: "texas-center-for-arts-academics"
 description: ""
-date: "2026-04-15T09:21:23.610922"
+date: "2026-04-16T19:21:58.899351"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - usa
 years:

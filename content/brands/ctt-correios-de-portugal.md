@@ -2,7 +2,7 @@
 title: CTT – Correios de Portugal
 slug: "ctt-correios-de-portugal"
 description: ""
-date: "2026-04-15T09:21:22.134582"
+date: "2026-04-16T19:21:57.169016"
 draft: false
 sectors:
   - finance
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ctt.pt](https://www.ctt.pt)
+- [https://www.ctt.pt/particulares/index](https://www.ctt.pt/particulares/index)
 - [https://www.payshop.pt](https://www.payshop.pt)
 - [https://www.bancoctt.pt](https://www.bancoctt.pt)
 

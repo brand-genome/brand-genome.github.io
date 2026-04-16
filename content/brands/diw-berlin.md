@@ -2,7 +2,7 @@
 title: DIW Berlin
 slug: "diw-berlin"
 description: ""
-date: "2026-04-15T09:21:24.609612"
+date: "2026-04-16T19:22:00.177618"
 draft: false
 sectors:
   - research

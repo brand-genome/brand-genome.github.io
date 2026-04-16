@@ -2,11 +2,11 @@
 title: Action Against Hunger
 slug: "action-against-hunger"
 description: ""
-date: "2026-04-15T09:21:24.162411"
+date: "2026-04-16T19:21:59.494157"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - international
 years:
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.actioncontrelafaim.org/en](https://www.actioncontrelafaim.org/en)
 - [https://www.actionagainsthunger.org](https://www.actionagainsthunger.org)
 - [https://www.accioncontraelhambre.org/es](https://www.accioncontraelhambre.org/es)
 - [https://www.actioncontrelafaim.org](https://www.actioncontrelafaim.org)

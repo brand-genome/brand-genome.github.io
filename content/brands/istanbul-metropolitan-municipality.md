@@ -2,7 +2,7 @@
 title: Istanbul Metropolitan Municipality
 slug: "istanbul-metropolitan-municipality"
 description: ""
-date: "2026-04-15T09:21:23.725688"
+date: "2026-04-16T19:21:59.048942"
 draft: false
 sectors:
   - "public-sector"
@@ -65,10 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ibb.istanbul](https://www.ibb.istanbul)
-- [https://ibb.istanbul/en/imm](https://ibb.istanbul/en/imm)
-- [https://ibb.istanbul/en](https://ibb.istanbul/en)
-- [https://ibb.istanbul](https://ibb.istanbul)
 - [http://www.ibb.istanbul](http://www.ibb.istanbul)
 
 ## Brand Guidelines

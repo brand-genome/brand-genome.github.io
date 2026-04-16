@@ -2,11 +2,11 @@
 title: Camerons Brewery
 slug: "camerons-brewery"
 description: ""
-date: "2026-04-15T09:21:24.339483"
+date: "2026-04-16T19:21:59.780449"
 draft: false
 sectors:
-  - brewery
   - restaurant
+  - brewery
 regions:
   - "united-kingdom"
 years:

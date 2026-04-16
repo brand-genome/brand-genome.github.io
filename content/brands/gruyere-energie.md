@@ -2,7 +2,7 @@
 title: Gruyère Énergie
 slug: "gruyere-energie"
 description: ""
-date: "2026-04-15T09:21:25.679031"
+date: "2026-04-16T19:22:01.743913"
 draft: false
 sectors:
   - utilities

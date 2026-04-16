@@ -2,7 +2,7 @@
 title: LOfavør
 slug: lofavr
 description: ""
-date: "2026-04-15T09:21:24.614428"
+date: "2026-04-16T19:22:00.183008"
 draft: false
 sectors:
   - insurance

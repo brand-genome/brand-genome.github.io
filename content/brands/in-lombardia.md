@@ -2,7 +2,7 @@
 title: in Lombardia
 slug: "in-lombardia"
 description: ""
-date: "2026-04-15T09:21:24.086393"
+date: "2026-04-16T19:21:59.413042"
 draft: false
 sectors:
   - tourism
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 
 - [https://www.in-lombardia.it](https://www.in-lombardia.it)
 - [https://www.in-lombardia.it/en](https://www.in-lombardia.it/en)
-- [https://www.in-lombardia.it/it](https://www.in-lombardia.it/it)
 - [https://www.in-lombardia.it/fr](https://www.in-lombardia.it/fr)
 - [https://www.in-lombardia.it/de](https://www.in-lombardia.it/de)
 - [https://www.in-lombardia.it/es](https://www.in-lombardia.it/es)

@@ -2,7 +2,7 @@
 title: Stan’s Grill
 slug: "stans-grill"
 description: ""
-date: "2026-04-15T09:21:22.551479"
+date: "2026-04-16T19:21:57.899110"
 draft: false
 sectors:
   - restaurant

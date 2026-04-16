@@ -2,11 +2,11 @@
 title: The Open Application Network
 slug: "the-open-application-network"
 description: ""
-date: "2026-04-15T09:21:23.600192"
+date: "2026-04-16T19:21:58.888707"
 draft: false
 sectors:
-  - "blockchain-crypto"
   - software
+  - "blockchain-crypto"
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - technology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://developer.theoan.com](https://developer.theoan.com)
-- [https://validators.theoan.com](https://validators.theoan.com)
+- [https://validators.theoan.com/docs/get-started](https://validators.theoan.com/docs/get-started)
 - [https://aion.theoan.com](https://aion.theoan.com)
 
 ## Brand Guidelines

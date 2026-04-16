@@ -2,18 +2,18 @@
 title: Wipro
 slug: wipro
 description: ""
-date: "2026-04-15T09:21:22.191808"
+date: "2026-04-16T19:21:57.220831"
 draft: false
 sectors:
   - consulting
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - india
 years:
+  - 2022
   - 2024
   - 2017
-  - 2022
 languages:
   - english
 tags:

@@ -2,10 +2,9 @@
 title: SwizzyLab
 slug: swizzylab
 description: ""
-date: "2026-04-15T09:21:25.663914"
+date: "2026-04-16T19:22:01.697552"
 draft: false
 sectors:
-  - consulting
   - software
 regions:
   - unknown
@@ -60,6 +59,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.swizzylab.com](https://www.swizzylab.com)

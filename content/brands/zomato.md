@@ -2,17 +2,17 @@
 title: Zomato
 slug: zomato
 description: ""
-date: "2026-04-15T09:21:25.431884"
+date: "2026-04-16T19:22:01.116387"
 draft: false
 sectors:
-  - "e-commerce"
-  - software
   - restaurant
+  - software
+  - "e-commerce"
 regions:
   - india
 years:
-  - 2015
   - 2019
+  - 2015
 languages:
   - english
 tags:
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.zomato.com](https://www.zomato.com)
 - [https://www.hyperpure.com](https://www.hyperpure.com)
+- [https://www.zomato.com](https://www.zomato.com)
 - [https://www.zomato.com/tr](https://www.zomato.com/tr)
 - [https://www.zomato.com/uk](https://www.zomato.com/uk)
 

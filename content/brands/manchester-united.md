@@ -2,7 +2,7 @@
 title: Manchester United
 slug: "manchester-united"
 description: ""
-date: "2026-04-15T09:21:23.596246"
+date: "2026-04-16T19:21:58.885223"
 draft: false
 sectors:
   - sports
@@ -66,9 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.manutd.com](https://www.manutd.com)
-- [https://tickets.manutd.com](https://tickets.manutd.com)
 - [https://www.manutd.com/ticket](https://www.manutd.com/ticket)
-- [https://ir.manutd.com](https://ir.manutd.com)
 - [http://www.manutd.com](http://www.manutd.com)
 - [http://www.manutd.co](http://www.manutd.co)
 - [https://www.manutd.com/zh](https://www.manutd.com/zh)

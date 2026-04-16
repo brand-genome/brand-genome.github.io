@@ -2,11 +2,11 @@
 title: Ville de Cabourg
 slug: "ville-de-cabourg"
 description: ""
-date: "2026-04-15T09:21:23.750848"
+date: "2026-04-16T19:21:59.076087"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - france
 years:

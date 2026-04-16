@@ -2,11 +2,11 @@
 title: Botswana
 slug: botswana
 description: ""
-date: "2026-04-15T09:21:25.188499"
+date: "2026-04-16T19:22:00.783688"
 draft: false
 sectors:
-  - "public-sector"
   - "marketing-advertising"
+  - "public-sector"
   - tourism
 regions:
   - botswana

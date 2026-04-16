@@ -2,7 +2,7 @@
 title: Userlike
 slug: userlike
 description: ""
-date: "2026-04-15T09:21:23.566410"
+date: "2026-04-16T19:21:58.859559"
 draft: false
 sectors:
   - software
@@ -61,5 +61,5 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://connect.lime-technologies.com](https://connect.lime-technologies.com)
+- [https://connect.lime-technologies.com/en](https://connect.lime-technologies.com/en)
 - [https://connect.lime-technologies.com/en/products/messaging/website-chat](https://connect.lime-technologies.com/en/products/messaging/website-chat)

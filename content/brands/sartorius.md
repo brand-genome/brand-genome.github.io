@@ -2,7 +2,7 @@
 title: Sartorius
 slug: sartorius
 description: ""
-date: "2026-04-15T09:21:24.334184"
+date: "2026-04-16T19:21:59.773262"
 draft: false
 sectors:
   - biotech
@@ -14,13 +14,13 @@ years:
 languages:
   - english
 tags:
-  - featured
   - science
   - corporate
+  - featured
 industries:
+  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
   - "pharmaceutical-industry"
   - "precision-engineering-and-optical-industry"
-  - "manufacture-of-instruments-and-appliances-for-measuring-testing-and-navigation"
 countries:
   - germany
 revenue_buckets: []
@@ -71,9 +71,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.sartorius.com](https://www.sartorius.com)
 - [https://www.sartorius.com/en](https://www.sartorius.com/en)
-- [https://shop.sartorius.com](https://shop.sartorius.com)
+- [https://shop.sartorius.com/in](https://shop.sartorius.com/in)
 - [http://www.sartorius.com](http://www.sartorius.com)
 
 ## Brand Guidelines

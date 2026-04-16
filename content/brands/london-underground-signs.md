@@ -2,7 +2,7 @@
 title: London Underground Signs
 slug: "london-underground-signs"
 description: ""
-date: "2026-04-15T09:21:25.851117"
+date: "2026-04-16T19:22:02.114685"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - signage
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

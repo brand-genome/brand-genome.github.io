@@ -2,11 +2,11 @@
 title: Arts Midwest
 slug: "arts-midwest"
 description: ""
-date: "2026-04-15T09:21:22.381347"
+date: "2026-04-16T19:21:57.630309"
 draft: false
 sectors:
-  - "arts-culture"
   - ngo
+  - "arts-culture"
 regions:
   - usa
 years:

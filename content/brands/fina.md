@@ -2,7 +2,7 @@
 title: FINA
 slug: fina
 description: ""
-date: "2026-04-15T09:21:25.876639"
+date: "2026-04-16T19:22:02.145869"
 draft: false
 sectors:
   - sports
@@ -65,8 +65,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.worldaquatics.com](https://www.worldaquatics.com)
 - [http://www.fina.org](http://www.fina.org)
+- [https://www.worldaquatics.com](https://www.worldaquatics.com)
 
 ## Brand Guidelines
 

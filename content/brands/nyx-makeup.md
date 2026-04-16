@@ -2,7 +2,7 @@
 title: NYX Makeup
 slug: "nyx-makeup"
 description: ""
-date: "2026-04-15T09:21:23.855069"
+date: "2026-04-16T19:21:59.182708"
 draft: false
 sectors:
   - cosmetics
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - cosmetics
   - "student-work"
+  - cosmetics
 industries: []
 countries: []
 revenue_buckets: []
@@ -60,10 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.nyxcosmetics.com](https://www.nyxcosmetics.com)
-
 ## Brand Guidelines
 
 ### 2019

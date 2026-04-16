@@ -2,11 +2,11 @@
 title: Instructure
 slug: instructure
 description: ""
-date: "2026-04-15T09:21:24.009940"
+date: "2026-04-16T19:21:59.320151"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,12 +14,12 @@ years:
 languages:
   - english
 tags:
+  - corporate
   - technology
   - education
-  - corporate
 industries:
-  - "software-industry"
   - "educational-technology"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

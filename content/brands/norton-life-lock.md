@@ -2,11 +2,11 @@
 title: Norton Life Lock
 slug: "norton-life-lock"
 description: ""
-date: "2026-04-15T09:21:24.241541"
+date: "2026-04-16T19:21:59.618630"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - security
+  - technology
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -64,10 +64,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nortonlifelock.com/us/en](https://www.nortonlifelock.com/us/en)
+- [https://www.gendigital.com/us/en](https://www.gendigital.com/us/en)
 - [https://lifelock.norton.com](https://lifelock.norton.com)
-- [https://www.norton.com](https://www.norton.com)
-- [https://www.gendigital.com](https://www.gendigital.com)
+- [https://in.norton.com](https://in.norton.com)
 
 ## Brand Guidelines
 

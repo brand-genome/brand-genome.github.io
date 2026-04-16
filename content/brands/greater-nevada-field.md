@@ -2,11 +2,11 @@
 title: Greater Nevada Field
 slug: "greater-nevada-field"
 description: ""
-date: "2026-04-15T09:21:25.421527"
+date: "2026-04-16T19:22:01.105706"
 draft: false
 sectors:
-  - sports
   - entertainment
+  - sports
 regions:
   - usa
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://greaternevadafield.com](https://greaternevadafield.com)
+- [https://www.milb.com/reno/team/club-information](https://www.milb.com/reno/team/club-information)
 - [https://www.milb.com/reno](https://www.milb.com/reno)
 
 ## Brand Guidelines

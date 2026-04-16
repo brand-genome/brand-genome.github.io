@@ -2,7 +2,7 @@
 title: Taboola
 slug: taboola
 description: ""
-date: "2026-04-15T09:21:23.330767"
+date: "2026-04-16T19:21:58.718268"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -16,9 +16,9 @@ languages:
 tags:
   - marketing
 industries:
-  - "software-industry"
-  - "advertising-industry"
   - "digital-marketing"
+  - "advertising-industry"
+  - "software-industry"
 countries:
   - "united-states"
 revenue_buckets: []

@@ -2,7 +2,7 @@
 title: Alliance Bank
 slug: "alliance-bank"
 description: ""
-date: "2026-04-15T09:21:22.447044"
+date: "2026-04-16T19:21:57.724564"
 draft: false
 sectors:
   - finance
@@ -13,8 +13,8 @@ years:
 languages:
   - ukrainian
 tags:
-  - featured
   - financial
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,4 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://alb.ua](https://alb.ua)
-- [http://alliancebank.ua](http://alliancebank.ua)

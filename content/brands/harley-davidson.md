@@ -2,13 +2,12 @@
 title: Harley Davidson
 slug: "harley-davidson"
 description: ""
-date: "2026-04-15T09:21:23.848829"
+date: "2026-04-16T19:21:59.176791"
 draft: false
 sectors:
-  - "consumer-goods"
-  - automobile
-  - insurance
   - finance
+  - automobile
+  - "consumer-goods"
 regions:
   - usa
 years:
@@ -65,8 +64,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.harley-davidson.com](https://www.harley-davidson.com)
-- [https://www.harley-davidson.com/parts](https://www.harley-davidson.com/parts)
+- [https://www.harley-davidson.com/in/en/index.html](https://www.harley-davidson.com/in/en/index.html)
+- [https://www.harley-davidson.com/in/en/shop/c/motorcycle-parts](https://www.harley-davidson.com/in/en/shop/c/motorcycle-parts)
 - [https://www.harley-davidson.com/us/en/shop/c/screamin-eagle](https://www.harley-davidson.com/us/en/shop/c/screamin-eagle)
 - [https://www.harley-davidson.com/us/en/content/hog.html](https://www.harley-davidson.com/us/en/content/hog.html)
 - [https://www.h-dvisa.com](https://www.h-dvisa.com)

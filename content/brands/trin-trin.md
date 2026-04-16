@@ -2,7 +2,7 @@
 title: "Trin-Trin"
 slug: "trin-trin"
 description: ""
-date: "2026-04-15T09:21:22.434340"
+date: "2026-04-16T19:21:57.711664"
 draft: false
 sectors:
   - "public-sector"

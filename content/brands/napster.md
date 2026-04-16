@@ -2,7 +2,7 @@
 title: Napster
 slug: napster
 description: ""
-date: "2026-04-15T09:21:25.663294"
+date: "2026-04-16T19:22:01.695374"
 draft: false
 sectors:
   - entertainment
@@ -65,8 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www2.napster.com/us](https://www2.napster.com/us)
-- [https://us.napster.com](https://us.napster.com)
 - [https://www.napster.com](https://www.napster.com)
 
 ## Brand Guidelines

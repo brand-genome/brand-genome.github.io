@@ -2,7 +2,7 @@
 title: Amnesty International
 slug: "amnesty-international"
 description: ""
-date: "2026-04-15T09:21:23.724633"
+date: "2026-04-16T19:21:59.047794"
 draft: false
 sectors:
   - ngo
@@ -67,8 +67,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.amnesty.org](https://www.amnesty.org)
+- [https://www.amnesty.org/en](https://www.amnesty.org/en)
 - [https://www.amnestyusa.org](https://www.amnestyusa.org)
+- [https://www.amnesty.org](https://www.amnesty.org)
 - [http://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion](http://amnestyl337aduwuvpf57irfl54ggtnuera45ygcxzuftwxjvvmpuzqd.onion)
 - [https://www.amnesty.eu](https://www.amnesty.eu)
 

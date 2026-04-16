@@ -2,7 +2,7 @@
 title: Ouishare
 slug: ouishare
 description: ""
-date: "2026-04-15T09:21:25.193477"
+date: "2026-04-16T19:22:00.788586"
 draft: false
 sectors:
   - ngo
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://ouishare.net](https://ouishare.net)
 - [http://ouishare.net](http://ouishare.net)
 
 ## Brand Guidelines

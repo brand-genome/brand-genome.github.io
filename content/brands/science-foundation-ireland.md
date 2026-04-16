@@ -2,7 +2,7 @@
 title: Science Foundation Ireland
 slug: "science-foundation-ireland"
 description: ""
-date: "2026-04-15T09:21:25.453435"
+date: "2026-04-16T19:22:01.166171"
 draft: false
 sectors:
   - "public-sector"

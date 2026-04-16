@@ -2,11 +2,10 @@
 title: Land Grant
 slug: "land-grant"
 description: ""
-date: "2026-04-15T09:21:25.049151"
+date: "2026-04-16T19:22:00.639847"
 draft: false
 sectors:
   - brewery
-  - restaurant
 regions:
   - usa
 years:

@@ -2,7 +2,7 @@
 title: IABC
 slug: iabc
 description: ""
-date: "2026-04-15T09:21:25.872427"
+date: "2026-04-16T19:22:02.142203"
 draft: false
 sectors:
   - "public-relations"

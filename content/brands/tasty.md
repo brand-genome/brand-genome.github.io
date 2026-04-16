@@ -2,7 +2,7 @@
 title: Tasty
 slug: tasty
 description: ""
-date: "2026-04-15T09:21:25.197948"
+date: "2026-04-16T19:22:00.793432"
 draft: false
 sectors:
   - food

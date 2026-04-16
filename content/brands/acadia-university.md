@@ -2,11 +2,11 @@
 title: Acadia University
 slug: "acadia-university"
 description: ""
-date: "2026-04-15T09:21:23.615471"
+date: "2026-04-16T19:21:58.904007"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - canada
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - canada
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www2.acadiau.ca](https://www2.acadiau.ca)
+- [https://www2.acadiau.ca/home.html](https://www2.acadiau.ca/home.html)
 - [http://www.acadiau.ca](http://www.acadiau.ca)
 - [http://www2.acadiau.ca](http://www2.acadiau.ca)
 

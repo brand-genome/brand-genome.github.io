@@ -2,11 +2,10 @@
 title: Turkey – Discover the potential
 slug: "turkey-discover-the-potential"
 description: ""
-date: "2026-04-15T09:21:23.949443"
+date: "2026-04-16T19:21:59.267041"
 draft: false
 sectors:
   - "public-sector"
-  - tourism
 regions:
   - turkiye
 years:

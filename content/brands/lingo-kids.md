@@ -2,11 +2,11 @@
 title: Lingo Kids
 slug: "lingo-kids"
 description: ""
-date: "2026-04-15T09:21:23.565902"
+date: "2026-04-16T19:21:58.858591"
 draft: false
 sectors:
-  - "e-learning-edtech"
   - software
+  - "e-learning-edtech"
 regions:
   - usa
 years:
@@ -14,10 +14,10 @@ years:
 languages:
   - english
 tags:
-  - featured
+  - software
   - app
   - education
-  - software
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

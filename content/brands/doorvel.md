@@ -2,7 +2,7 @@
 title: Doorvel
 slug: doorvel
 description: ""
-date: "2026-04-15T09:21:22.540182"
+date: "2026-04-16T19:21:57.885656"
 draft: false
 sectors:
   - "real-estate"

@@ -2,7 +2,7 @@
 title: Invictus Intergalactic Federation
 slug: "invictus-intergalactic-federation"
 description: ""
-date: "2026-04-15T09:21:23.797887"
+date: "2026-04-16T19:21:59.127575"
 draft: false
 sectors:
   - gaming

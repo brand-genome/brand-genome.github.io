@@ -2,7 +2,7 @@
 title: TiVo
 slug: tivo
 description: ""
-date: "2026-04-15T09:21:24.803512"
+date: "2026-04-16T19:22:00.352027"
 draft: false
 sectors:
   - entertainment
@@ -10,13 +10,13 @@ sectors:
 regions:
   - usa
 years:
-  - 2018
   - 2008
+  - 2018
 languages:
   - english
 tags:
-  - technology
   - corporate
+  - technology
 industries: []
 countries:
   - "united-states"
@@ -30,8 +30,8 @@ market_cap_buckets: []
 products_or_materials_produced: []
 products: []
 headquarters_locations:
-  - "san-jose"
   - "santa-clara"
+  - "san-jose"
 subsidiaries: []
 foundation_dates:
   - 1983
@@ -71,7 +71,7 @@ visual_term_image_urls: {}
 
 - [https://www.tivo.com](https://www.tivo.com)
 - [https://www.tivo.com/products/tivo-os](https://www.tivo.com/products/tivo-os)
-- [https://online.tivo.com](https://online.tivo.com)
+- [http://online.tivo.com/start](http://online.tivo.com/start)
 - [http://www.tivo.com](http://www.tivo.com)
 
 ## Brand Guidelines
@@ -92,7 +92,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Headquarters Location | [San Jose](/headquarters_locations/san-jose/); [Santa Clara](/headquarters_locations/santa-clara/) |
+| Headquarters Location | [Santa Clara](/headquarters_locations/santa-clara/); [San Jose](/headquarters_locations/san-jose/) |
 | Foundation Date | [1983](/foundation_dates/1983/) |
 | Stock Exchange | Nasdaq (from 1999-09-30) |
 | Headquarters Location | Santa Clara, San Jose |

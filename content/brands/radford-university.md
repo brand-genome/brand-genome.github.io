@@ -2,7 +2,7 @@
 title: Radford University
 slug: "radford-university"
 description: ""
-date: "2026-04-15T09:21:25.697493"
+date: "2026-04-16T19:22:01.801032"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

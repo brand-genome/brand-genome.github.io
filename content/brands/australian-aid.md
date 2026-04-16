@@ -2,7 +2,7 @@
 title: Australian AID
 slug: "australian-aid"
 description: ""
-date: "2026-04-15T09:21:25.669682"
+date: "2026-04-16T19:22:01.708798"
 draft: false
 sectors:
   - "public-sector"
@@ -59,12 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.dfat.gov.au/development/australias-development-program](https://www.dfat.gov.au/development/australias-development-program)
-- [https://adp.dfat.gov.au](https://adp.dfat.gov.au)
-- [https://www.dfat.gov.au/about-us/publications/Pages/australian-aid](https://www.dfat.gov.au/about-us/publications/Pages/australian-aid)
-
 ## Brand Guidelines
 
 ### 2011

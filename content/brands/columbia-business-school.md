@@ -2,11 +2,11 @@
 title: Columbia Business School
 slug: "columbia-business-school"
 description: ""
-date: "2026-04-15T09:21:23.713545"
+date: "2026-04-16T19:21:59.036908"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://business.columbia.edu/home](https://business.columbia.edu/home)
 - [http://www.gsb.columbia.edu](http://www.gsb.columbia.edu)
 - [https://business.columbia.edu](https://business.columbia.edu)
 

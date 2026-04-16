@@ -2,7 +2,7 @@
 title: iPIX
 slug: ipix
 description: ""
-date: "2026-04-15T09:21:23.587010"
+date: "2026-04-16T19:21:58.876719"
 draft: false
 sectors:
   - software
@@ -61,6 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
+- [https://ipix.com](https://ipix.com)
 - [http://www.ipix.com](http://www.ipix.com)
 
 ## Additional Properties

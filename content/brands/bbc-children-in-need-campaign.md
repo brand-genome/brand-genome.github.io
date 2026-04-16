@@ -2,11 +2,11 @@
 title: BBC Children in Need Campaign
 slug: "bbc-children-in-need-campaign"
 description: ""
-date: "2026-04-15T09:21:22.531953"
+date: "2026-04-16T19:21:57.873314"
 draft: false
 sectors:
-  - broadcasting
   - ngo
+  - broadcasting
 regions:
   - "united-kingdom"
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - featured
+  - broadcast
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.bbc.co.uk/pudsey](https://www.bbc.co.uk/pudsey)
 - [https://www.bbcchildreninneed.co.uk](https://www.bbcchildreninneed.co.uk)
 
 ## Brand Guidelines

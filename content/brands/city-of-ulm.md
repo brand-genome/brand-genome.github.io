@@ -2,7 +2,7 @@
 title: City of Ulm
 slug: "city-of-ulm"
 description: ""
-date: "2026-04-15T09:21:22.377336"
+date: "2026-04-16T19:21:57.625664"
 draft: false
 sectors:
   - "public-sector"

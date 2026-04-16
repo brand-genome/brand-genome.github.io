@@ -2,7 +2,7 @@
 title: "JB Hi-Fi Solutions"
 slug: "jb-hi-fi-solutions"
 description: ""
-date: "2026-04-15T09:21:24.223879"
+date: "2026-04-16T19:21:59.598728"
 draft: false
 sectors:
   - consulting

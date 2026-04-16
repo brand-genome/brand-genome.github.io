@@ -2,11 +2,11 @@
 title: ATNS
 slug: atns
 description: ""
-date: "2026-04-15T09:21:25.632314"
+date: "2026-04-16T19:22:01.636562"
 draft: false
 sectors:
-  - "public-sector"
   - aerospace
+  - "public-sector"
 regions:
   - "south-africa"
 years:

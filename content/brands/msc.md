@@ -2,7 +2,7 @@
 title: MSC
 slug: msc
 description: ""
-date: "2026-04-15T09:21:24.977042"
+date: "2026-04-16T19:22:00.548697"
 draft: false
 sectors:
   - tourism
@@ -60,13 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.msccruises.com](https://www.msccruises.com)
-- [https://www.msccruises.com/select-your-country](https://www.msccruises.com/select-your-country)
-- [https://www.msccruises.it](https://www.msccruises.it)
-- [https://www.msccruisesusa.com](https://www.msccruisesusa.com)
-
 ## Brand Guidelines
 
 ### 2018

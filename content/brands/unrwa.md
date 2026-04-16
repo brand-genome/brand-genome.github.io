@@ -2,11 +2,11 @@
 title: UNRWA
 slug: unrwa
 description: ""
-date: "2026-04-15T09:21:24.076493"
+date: "2026-04-16T19:21:59.399741"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -17,8 +17,8 @@ tags:
   - ngo
 industries: []
 countries:
-  - palestine
   - jordan
+  - palestine
 revenue_buckets: []
 operating_income_buckets: []
 net_profit_buckets: []
@@ -27,12 +27,12 @@ total_assets_buckets: []
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - education
-  - microcredit
   - "public-works"
-  - "emergency-service"
-  - "social-services"
   - "health-care"
+  - "social-services"
+  - education
+  - "emergency-service"
+  - microcredit
 products: []
 headquarters_locations:
   - amman
@@ -74,7 +74,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unrwa.org](https://www.unrwa.org)
 - [https://www.unrwausa.org](https://www.unrwausa.org)
 - [https://unrwa.org](https://unrwa.org)
 
@@ -92,7 +91,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Education](/products_or_materials_produced/education/); [Microcredit](/products_or_materials_produced/microcredit/); [Public Works](/products_or_materials_produced/public-works/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Social Services](/products_or_materials_produced/social-services/); [Health Care](/products_or_materials_produced/health-care/) |
+| Product Or Material Produced | [Public Works](/products_or_materials_produced/public-works/); [Health Care](/products_or_materials_produced/health-care/); [Social Services](/products_or_materials_produced/social-services/); [Education](/products_or_materials_produced/education/); [Emergency Service](/products_or_materials_produced/emergency-service/); [Microcredit](/products_or_materials_produced/microcredit/) |
 | Headquarters Location | [Amman](/headquarters_locations/amman/); [Gaza City](/headquarters_locations/gaza-city/) |
 | Foundation Date | [1949](/foundation_dates/1949/) |
 | Freebase Id | /m/07xw7 |

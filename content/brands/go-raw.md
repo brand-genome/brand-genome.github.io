@@ -2,7 +2,7 @@
 title: Go Raw
 slug: "go-raw"
 description: ""
-date: "2026-04-15T09:21:25.658185"
+date: "2026-04-16T19:22:01.680640"
 draft: false
 sectors:
   - food

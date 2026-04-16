@@ -2,7 +2,7 @@
 title: Ivy Tech
 slug: "ivy-tech"
 description: ""
-date: "2026-04-15T09:21:25.183686"
+date: "2026-04-16T19:22:00.778639"
 draft: false
 sectors:
   - education
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.ivytech.edu](https://www.ivytech.edu)
-- [https://www.ivytech.edu/indianapolis](https://www.ivytech.edu/indianapolis)
+- [https://www.ivytech.edu/locations/indianapolis](https://www.ivytech.edu/locations/indianapolis)
 - [http://ivytech.edu](http://ivytech.edu)
 
 ## Brand Guidelines

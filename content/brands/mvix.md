@@ -2,7 +2,7 @@
 title: Mvix
 slug: mvix
 description: ""
-date: "2026-04-15T09:21:24.760363"
+date: "2026-04-16T19:22:00.308110"
 draft: false
 sectors:
   - software
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mvixdigitalsignage.com](https://www.mvixdigitalsignage.com)
 - [https://www.mvix.com](https://www.mvix.com)
 
 ## Brand Guidelines

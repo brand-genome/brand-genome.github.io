@@ -2,11 +2,11 @@
 title: BigLift
 slug: biglift
 description: ""
-date: "2026-04-15T09:21:23.749424"
+date: "2026-04-16T19:21:59.074218"
 draft: false
 sectors:
-  - "maritime-shipping"
   - "logistics-supply-chain"
+  - "maritime-shipping"
 regions:
   - netherlands
 years:

@@ -2,7 +2,7 @@
 title: "Oeko-Tex"
 slug: "oeko-tex"
 description: ""
-date: "2026-04-15T09:21:22.434435"
+date: "2026-04-16T19:21:57.711907"
 draft: false
 sectors:
   - "textile-apparel-manufacturing"
@@ -12,8 +12,8 @@ years:
   - 2024
   - 2023
 languages:
-  - english
   - chinese
+  - english
 tags:
   - trademark
 industries: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.oeko-tex.com](https://www.oeko-tex.com)
+- [https://www.oeko-tex.com/en](https://www.oeko-tex.com/en)
 - [https://www.oeko-tex.com/en/label-check](https://www.oeko-tex.com/en/label-check)
 - [https://www.oeko-tex.com/de/label-check](https://www.oeko-tex.com/de/label-check)
 - [http://www.oeko-tex.com](http://www.oeko-tex.com)

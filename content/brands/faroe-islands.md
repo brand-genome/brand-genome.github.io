@@ -2,7 +2,7 @@
 title: Faroe Islands
 slug: "faroe-islands"
 description: ""
-date: "2026-04-15T09:21:23.944796"
+date: "2026-04-16T19:21:59.261964"
 draft: false
 sectors:
   - tourism
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://visitfaroeislands.com](https://visitfaroeislands.com)
+- [https://visitfaroeislands.com/en](https://visitfaroeislands.com/en)
 
 ## Brand Guidelines
 

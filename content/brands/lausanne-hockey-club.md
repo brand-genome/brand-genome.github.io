@@ -2,7 +2,7 @@
 title: Lausanne Hockey Club
 slug: "lausanne-hockey-club"
 description: ""
-date: "2026-04-15T09:21:22.211672"
+date: "2026-04-16T19:21:57.252444"
 draft: false
 sectors:
   - sports
@@ -66,12 +66,10 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://lausannehc.ch](https://lausannehc.ch)
-- [https://lausannehc.ch/lausanne-hockey-club-brand-book](https://lausannehc.ch/lausanne-hockey-club-brand-book)
 - [https://shop.lausannehc.ch](https://shop.lausannehc.ch)
 - [https://business.lausannehc.ch](https://business.lausannehc.ch)
 - [https://academy.lausannehc.ch](https://academy.lausannehc.ch)
 - [https://feminin.lausannehc.ch](https://feminin.lausannehc.ch)
-- [https://fondation.lausannehc.ch](https://fondation.lausannehc.ch)
 - [http://www.lausannehc.ch](http://www.lausannehc.ch)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Jamf
 slug: jamf
 description: ""
-date: "2026-04-15T09:21:25.180082"
+date: "2026-04-16T19:22:00.774805"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:

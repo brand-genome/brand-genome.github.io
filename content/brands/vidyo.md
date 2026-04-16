@@ -2,15 +2,15 @@
 title: Vidyo
 slug: vidyo
 description: ""
-date: "2026-04-15T09:21:25.656213"
+date: "2026-04-16T19:22:01.677495"
 draft: false
 sectors:
   - software
 regions:
   - usa
 years:
-  - 2018
   - 2016
+  - 2018
 languages:
   - english
 tags:
@@ -67,9 +67,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.vidyo.com](https://www.vidyo.com)
 - [https://www.vidyo.com/help/VidyoPlatform/1_Intro/VidyoPlatform-Home.htm](https://www.vidyo.com/help/VidyoPlatform/1_Intro/VidyoPlatform-Home.htm)
-- [https://vidyo.github.io/vidyoplatform.github.io](https://vidyo.github.io/vidyoplatform.github.io)
 - [http://www.vidyo.com](http://www.vidyo.com)
 
 ## Brand Guidelines

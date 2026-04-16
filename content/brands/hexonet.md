@@ -2,11 +2,11 @@
 title: Hexonet
 slug: hexonet
 description: ""
-date: "2026-04-15T09:21:25.635220"
+date: "2026-04-16T19:22:01.641569"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - canada
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.hexonet.net](https://www.hexonet.net)
-- [https://www.hexonet.com](https://www.hexonet.com)
 
 ## Brand Guidelines
 

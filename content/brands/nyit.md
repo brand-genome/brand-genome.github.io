@@ -2,22 +2,22 @@
 title: NYIT
 slug: nyit
 description: ""
-date: "2026-04-15T09:21:24.535715"
+date: "2026-04-16T19:22:00.107399"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
-  - 2017
   - 2020
+  - 2017
 languages:
   - english
 tags:
-  - featured
   - technology
   - education
+  - featured
 industries:
   - "higher-education"
 countries:

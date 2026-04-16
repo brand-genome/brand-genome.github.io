@@ -2,7 +2,7 @@
 title: Thread
 slug: thread
 description: ""
-date: "2026-04-15T09:21:23.945408"
+date: "2026-04-16T19:21:59.262548"
 draft: false
 sectors:
   - networking
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - internet
+  - technology
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.threadgroup.org](https://www.threadgroup.org)
+- [https://threadgroup.org](https://threadgroup.org)
 
 ## Brand Guidelines
 

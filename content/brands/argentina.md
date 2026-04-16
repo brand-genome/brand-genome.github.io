@@ -2,11 +2,11 @@
 title: Argentina
 slug: argentina
 description: ""
-date: "2026-04-15T09:21:24.981229"
+date: "2026-04-16T19:22:00.553149"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - argentina
 years:
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://argentina.ar/es](https://argentina.ar/es)
-- [https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais](https://argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais)
+- [https://www.argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais](https://www.argentina.gob.ar/comunicacion-y-prensa/contenidos-de-difusion/marca-pais)
 - [https://www.argentina.gob.ar/reglamento-de-la-marca-pais](https://www.argentina.gob.ar/reglamento-de-la-marca-pais)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: Gijon
 slug: gijon
 description: ""
-date: "2026-04-15T09:21:24.800172"
+date: "2026-04-16T19:22:00.349167"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - spain
 years:

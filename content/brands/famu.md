@@ -2,11 +2,11 @@
 title: FAMU
 slug: famu
 description: ""
-date: "2026-04-15T09:21:24.297196"
+date: "2026-04-16T19:21:59.703912"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"

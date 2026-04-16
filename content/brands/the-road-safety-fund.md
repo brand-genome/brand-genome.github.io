@@ -2,11 +2,11 @@
 title: The Road Safety Fund
 slug: "the-road-safety-fund"
 description: ""
-date: "2026-04-15T09:21:23.881992"
+date: "2026-04-16T19:21:59.208495"
 draft: false
 sectors:
-  - "public-sector"
   - ngo
+  - "public-sector"
 regions:
   - international
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://roadsafetyfund.un.org](https://roadsafetyfund.un.org)
-- [https://unece.org/un-road-safety-fund](https://unece.org/un-road-safety-fund)
 
 ## Brand Guidelines
 

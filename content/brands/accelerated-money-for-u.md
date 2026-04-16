@@ -2,7 +2,7 @@
 title: Accelerated Money for U
 slug: "accelerated-money-for-u"
 description: ""
-date: "2026-04-15T09:21:22.510536"
+date: "2026-04-16T19:21:57.837617"
 draft: false
 sectors:
   - finance
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.amuleasingpl.com](https://www.amuleasingpl.com)
 - [https://www.amuleasingpl.com/about](https://www.amuleasingpl.com/about)
-- [https://amu.finance](https://amu.finance)
 
 ## Brand Guidelines
 

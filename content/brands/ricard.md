@@ -2,18 +2,18 @@
 title: Ricard
 slug: ricard
 description: ""
-date: "2026-04-15T09:21:23.843248"
+date: "2026-04-16T19:21:59.171474"
 draft: false
 sectors:
   - drink
 regions:
   - france
 years:
-  - 2009
   - 2017
+  - 2009
 languages:
-  - english
   - french
+  - english
 tags:
   - "food-beverage"
 industries: []
@@ -61,10 +61,6 @@ guideline_count: 2
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.ricard.com](https://www.ricard.com)
-
 ## Brand Guidelines
 
 ### 2017

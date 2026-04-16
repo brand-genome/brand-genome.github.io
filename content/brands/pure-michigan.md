@@ -2,7 +2,7 @@
 title: Pure Michigan
 slug: "pure-michigan"
 description: ""
-date: "2026-04-15T09:21:25.683151"
+date: "2026-04-16T19:22:01.754309"
 draft: false
 sectors:
   - tourism
@@ -62,8 +62,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.michigan.org](https://www.michigan.org)
-- [https://www.michigan.org/logorequest](https://www.michigan.org/logorequest)
 - [https://www.michiganbusiness.org/logo-request](https://www.michiganbusiness.org/logo-request)
 
 ## Brand Guidelines

@@ -2,7 +2,7 @@
 title: Mérida
 slug: merida
 description: ""
-date: "2026-04-15T09:21:24.373706"
+date: "2026-04-16T19:21:59.903309"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://merida.es](https://merida.es)
-- [https://sede.merida.es/portal/inicio.do](https://sede.merida.es/portal/inicio.do)
 - [http://www.merida.es](http://www.merida.es)
 
 ## Brand Guidelines

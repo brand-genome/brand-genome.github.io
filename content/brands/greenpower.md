@@ -2,7 +2,7 @@
 title: GreenPower
 slug: greenpower
 description: ""
-date: "2026-04-15T09:21:23.953151"
+date: "2026-04-16T19:21:59.269709"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - engineering
   - environment
+  - engineering
 industries: []
 countries: []
 revenue_buckets: []

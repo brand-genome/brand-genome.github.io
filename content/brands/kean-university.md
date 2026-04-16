@@ -2,11 +2,11 @@
 title: Kean University
 slug: "kean-university"
 description: ""
-date: "2026-04-15T09:21:25.662367"
+date: "2026-04-16T19:22:01.691262"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-states"
@@ -68,7 +68,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.kean.edu](https://www.kean.edu)
-- [https://www.kean.edu/brand](https://www.kean.edu/brand)
+- [https://www.kean.edu/university-relations](https://www.kean.edu/university-relations)
 - [https://www.kean.edu/branding-guide](https://www.kean.edu/branding-guide)
 - [https://www.kean.edu/offices/university-relations/brand-resources](https://www.kean.edu/offices/university-relations/brand-resources)
 - [https://ces.kean.edu](https://ces.kean.edu)

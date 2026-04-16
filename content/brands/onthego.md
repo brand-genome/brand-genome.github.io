@@ -2,11 +2,11 @@
 title: OnTheGo
 slug: onthego
 description: ""
-date: "2026-04-15T09:21:25.390639"
+date: "2026-04-16T19:22:01.066372"
 draft: false
 sectors:
-  - "consumer-goods"
   - "e-commerce"
+  - "consumer-goods"
 regions:
   - australia
 years:

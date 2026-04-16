@@ -2,12 +2,12 @@
 title: BAE Systems
 slug: "bae-systems"
 description: ""
-date: "2026-04-15T09:21:22.708184"
+date: "2026-04-16T19:21:58.141586"
 draft: false
 sectors:
   - aerospace
-  - cybersecurity
   - defense
+  - cybersecurity
 regions:
   - "united-kingdom"
 years:
@@ -72,9 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.baesystems.com](https://www.baesystems.com)
-- [https://www.baesystems.com/en-us/home](https://www.baesystems.com/en-us/home)
-- [https://jobs.baesystems.com](https://jobs.baesystems.com)
+- [https://jobs.baesystems.com/global/en](https://jobs.baesystems.com/global/en)
 - [http://www.baesystems.com](http://www.baesystems.com)
 
 ## Additional Properties

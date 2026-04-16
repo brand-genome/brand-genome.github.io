@@ -2,11 +2,11 @@
 title: Care
 slug: care
 description: ""
-date: "2026-04-15T09:21:24.306616"
+date: "2026-04-16T19:21:59.712175"
 draft: false
 sectors:
-  - "elder-care"
   - healthcare
+  - "elder-care"
 regions:
   - "united-kingdom"
 years:

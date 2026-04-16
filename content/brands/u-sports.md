@@ -2,7 +2,7 @@
 title: U Sports
 slug: "u-sports"
 description: ""
-date: "2026-04-15T09:21:24.764140"
+date: "2026-04-16T19:22:00.312597"
 draft: false
 sectors:
   - sports
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://usports.ca](https://usports.ca)
 - [http://www.usports.ca](http://www.usports.ca)
 - [http://usports.ca](http://usports.ca)
 

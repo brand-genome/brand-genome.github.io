@@ -2,7 +2,7 @@
 title: Hamburg University of Technology
 slug: "hamburg-university-of-technology"
 description: ""
-date: "2026-04-15T09:21:23.829213"
+date: "2026-04-16T19:21:59.157797"
 draft: false
 sectors:
   - university
@@ -66,9 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.tuhh.de](https://www.tuhh.de)
+- [https://www.tuhh.de/tuhh/startseite](https://www.tuhh.de/tuhh/startseite)
 - [https://dual.tuhh.de](https://dual.tuhh.de)
 - [http://www.tuhh.de](http://www.tuhh.de)
+- [https://www.tuhh.de](https://www.tuhh.de)
 
 ## Brand Guidelines
 

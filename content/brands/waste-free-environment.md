@@ -2,7 +2,7 @@
 title: Waste Free Environment
 slug: "waste-free-environment"
 description: ""
-date: "2026-04-15T09:21:25.386821"
+date: "2026-04-16T19:22:01.057758"
 draft: false
 sectors:
   - ngo
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://wastefreeenvironment.com](https://wastefreeenvironment.com)
-- [https://www.gpca.org.ae](https://www.gpca.org.ae)
+- [https://gpcachem.org](https://gpcachem.org)
 
 ## Brand Guidelines
 

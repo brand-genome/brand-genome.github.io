@@ -2,7 +2,7 @@
 title: BlaBlaCar
 slug: blablacar
 description: ""
-date: "2026-04-15T09:21:22.137271"
+date: "2026-04-16T19:21:57.172229"
 draft: false
 sectors:
   - "ride-sharing"
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - app
   - featured
   - transport
-  - app
 industries:
   - unknown
 countries:
@@ -69,7 +69,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.blablacar.com](https://www.blablacar.com)
 - [https://www.blablacar.fr](https://www.blablacar.fr)
 - [https://www.blablacar.co.uk](https://www.blablacar.co.uk)
 - [https://www.blablacar.in](https://www.blablacar.in)

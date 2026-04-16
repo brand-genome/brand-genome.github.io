@@ -2,13 +2,12 @@
 title: GKN
 slug: gkn
 description: ""
-date: "2026-04-15T09:21:25.032712"
+date: "2026-04-16T19:22:00.619151"
 draft: false
 sectors:
   - aerospace
-  - "space-technology"
-  - hardware
   - automobile
+  - hardware
 regions:
   - "united-kingdom"
 years:
@@ -19,8 +18,8 @@ tags:
   - engineering
   - industry
 industries:
-  - "automotive-industry"
   - "aerospace-industry"
+  - "automotive-industry"
 countries:
   - "united-kingdom"
 revenue_buckets:
@@ -72,8 +71,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gknaerospace.com](https://www.gknaerospace.com)
-- [https://www.gknpm.com](https://www.gknpm.com)
 - [http://www.gkn.com](http://www.gkn.com)
 
 ## Brand Guidelines

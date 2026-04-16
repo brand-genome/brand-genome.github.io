@@ -2,11 +2,11 @@
 title: Tigo Sports
 slug: "tigo-sports"
 description: ""
-date: "2026-04-15T09:21:25.394058"
+date: "2026-04-16T19:22:01.070695"
 draft: false
 sectors:
-  - broadcasting
   - entertainment
+  - broadcasting
 regions:
   - paraguay
 years:
@@ -65,7 +65,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.tigosports.com.py](https://www.tigosports.com.py)
-- [https://www.tigo.com.py/tigosportsmas](https://www.tigo.com.py/tigosportsmas)
 - [http://www.tigosports.com.py](http://www.tigosports.com.py)
 
 ## Brand Guidelines

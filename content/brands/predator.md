@@ -2,11 +2,11 @@
 title: Predator
 slug: predator
 description: ""
-date: "2026-04-15T09:21:24.091625"
+date: "2026-04-16T19:21:59.422472"
 draft: false
 sectors:
-  - electronics
   - hardware
+  - electronics
 regions:
   - taiwan
 years:
@@ -60,11 +60,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.acer.com/predator](https://www.acer.com/predator)
-- [https://predator.acer.com](https://predator.acer.com)
-
 ## Brand Guidelines
 
 ### 2015

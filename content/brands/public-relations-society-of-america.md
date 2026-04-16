@@ -2,7 +2,7 @@
 title: Public Relations Society of America
 slug: "public-relations-society-of-america"
 description: ""
-date: "2026-04-15T09:21:23.196401"
+date: "2026-04-16T19:21:58.600161"
 draft: false
 sectors:
   - "public-relations"
@@ -70,7 +70,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.prsa.org](https://www.prsa.org)
-- [https://connect.prsa.org](https://connect.prsa.org)
+- [https://connect.prsa.org/home](https://connect.prsa.org/home)
 - [http://www.prsa.org](http://www.prsa.org)
 
 ## Additional Properties

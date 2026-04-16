@@ -2,7 +2,7 @@
 title: Vision Zero
 slug: "vision-zero"
 description: ""
-date: "2026-04-15T09:21:23.792682"
+date: "2026-04-16T19:21:59.122047"
 draft: false
 sectors:
   - ngo
@@ -63,5 +63,4 @@ visual_term_image_urls: {}
 
 - [https://visionzero.global](https://visionzero.global)
 - [https://visionzero.global/issa](https://visionzero.global/issa)
-- [https://www.issa.int/node/181520](https://www.issa.int/node/181520)
 - [http://www.visionzero.global](http://www.visionzero.global)

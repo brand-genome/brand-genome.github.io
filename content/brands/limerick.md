@@ -2,7 +2,7 @@
 title: Limerick
 slug: limerick
 description: ""
-date: "2026-04-15T09:21:24.945534"
+date: "2026-04-16T19:22:00.520708"
 draft: false
 sectors:
   - tourism

@@ -2,7 +2,7 @@
 title: PlayStation 3
 slug: "playstation-3"
 description: ""
-date: "2026-04-15T09:21:24.790022"
+date: "2026-04-16T19:22:00.339488"
 draft: false
 sectors:
   - gaming

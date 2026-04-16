@@ -2,7 +2,7 @@
 title: Abu Dhabi Education Council
 slug: "abu-dhabi-education-council"
 description: ""
-date: "2026-04-15T09:21:25.867588"
+date: "2026-04-16T19:22:02.136927"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ years:
 languages:
   - arabic
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - "united-arab-emirates"

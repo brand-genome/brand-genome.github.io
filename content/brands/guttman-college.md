@@ -2,11 +2,11 @@
 title: Guttman College
 slug: "guttman-college"
 description: ""
-date: "2026-04-15T09:21:24.247659"
+date: "2026-04-16T19:21:59.645515"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - usa
 years:

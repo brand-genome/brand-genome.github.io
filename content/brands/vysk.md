@@ -2,11 +2,11 @@
 title: Vysk
 slug: vysk
 description: ""
-date: "2026-04-15T09:21:25.057181"
+date: "2026-04-16T19:22:00.650341"
 draft: false
 sectors:
-  - cybersecurity
   - hardware
+  - cybersecurity
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://vysk.com](https://vysk.com)
-- [http://docs.vyskmedia.com](http://docs.vyskmedia.com)
 - [http://www.vysk.com](http://www.vysk.com)
 
 ## Brand Guidelines

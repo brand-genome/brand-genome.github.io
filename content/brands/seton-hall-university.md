@@ -2,7 +2,7 @@
 title: Seton Hall University
 slug: "seton-hall-university"
 description: ""
-date: "2026-04-15T09:21:25.759720"
+date: "2026-04-16T19:22:01.938263"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries:
   - "higher-education"
 countries:

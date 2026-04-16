@@ -2,7 +2,7 @@
 title: Ogury
 slug: ogury
 description: ""
-date: "2026-04-15T09:21:24.808729"
+date: "2026-04-16T19:22:00.356046"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://ogury.com](https://ogury.com)
-- [https://admin.ogury.io](https://admin.ogury.io)
+- [https://admin.ogury.io/clients/sign_in](https://admin.ogury.io/clients/sign_in)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Esso Card
 slug: "esso-card"
 description: ""
-date: "2026-04-15T09:21:24.788053"
+date: "2026-04-16T19:22:00.337096"
 draft: false
 sectors:
   - finance
@@ -62,9 +62,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.essocard.com](https://www.essocard.com)
+- [https://www.essocard.com/en-gb](https://www.essocard.com/en-gb)
 - [https://www.essobusinesscards.ca](https://www.essobusinesscards.ca)
-- [https://essocardlocks.ca/en](https://essocardlocks.ca/en)
+- [https://www.essocardlocks.ca/en-ca](https://www.essocardlocks.ca/en-ca)
 
 ## Brand Guidelines
 

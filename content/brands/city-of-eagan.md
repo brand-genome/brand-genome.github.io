@@ -2,7 +2,7 @@
 title: City of Eagan
 slug: "city-of-eagan"
 description: ""
-date: "2026-04-15T09:21:24.795279"
+date: "2026-04-16T19:22:00.344973"
 draft: false
 sectors:
   - "public-sector"
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://cityofeagan.com](https://cityofeagan.com)
-- [https://www.cityofeagan.com](https://www.cityofeagan.com)
 
 ## Brand Guidelines
 

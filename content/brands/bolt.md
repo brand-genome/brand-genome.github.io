@@ -2,7 +2,7 @@
 title: Bolt
 slug: bolt
 description: Identity designed by Arthur Foliard at Koto.
-date: "2026-04-15T09:21:22.227631"
+date: "2026-04-16T19:21:57.269768"
 draft: false
 sectors:
   - finance
@@ -10,15 +10,15 @@ sectors:
 regions:
   - usa
 years:
+  - 2019
   - 2024
   - 2025
-  - 2019
 languages:
   - english
 tags:
-  - featured
   - financial
   - internet
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -66,7 +66,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://bolt.com](https://bolt.com)
+- [https://www.bolt.com](https://www.bolt.com)
 - [https://help.bolt.com](https://help.bolt.com)
 - [http://www.bolt.com](http://www.bolt.com)
 

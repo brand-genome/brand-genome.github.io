@@ -2,15 +2,15 @@
 title: GlobalGiving
 slug: globalgiving
 description: ""
-date: "2026-04-15T09:21:23.941853"
+date: "2026-04-16T19:21:59.259054"
 draft: false
 sectors:
   - ngo
 regions:
   - usa
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
   - english
 tags:
@@ -66,9 +66,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.globalgiving.org](https://www.globalgiving.org)
 - [https://www.globalgiving.org/api](https://www.globalgiving.org/api)
-- [https://www.secureglobalgiving.org](https://www.secureglobalgiving.org)
+- [https://www.globalgiving.org](https://www.globalgiving.org)
 
 ## Brand Guidelines
 

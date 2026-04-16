@@ -2,11 +2,11 @@
 title: Havas
 slug: havas
 description: ""
-date: "2026-04-15T09:21:24.258349"
+date: "2026-04-16T19:21:59.660803"
 draft: false
 sectors:
-  - "public-relations"
   - "marketing-advertising"
+  - "public-relations"
 regions:
   - france
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.havas.com](https://www.havas.com)
-- [https://tobettertogether.com](https://tobettertogether.com)
 
 ## Brand Guidelines
 

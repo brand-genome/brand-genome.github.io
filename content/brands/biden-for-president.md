@@ -2,7 +2,7 @@
 title: Biden for President
 slug: "biden-for-president"
 description: ""
-date: "2026-04-15T09:21:24.326515"
+date: "2026-04-16T19:21:59.735311"
 draft: false
 sectors:
   - "public-sector"

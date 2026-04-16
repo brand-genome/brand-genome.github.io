@@ -2,11 +2,10 @@
 title: Ineco
 slug: ineco
 description: ""
-date: "2026-04-15T09:21:25.660148"
+date: "2026-04-16T19:22:01.684741"
 draft: false
 sectors:
   - consulting
-  - construction
 regions:
   - spain
 years:
@@ -62,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ineco.com](https://www.ineco.com)
+- [https://www.ineco.com/ineco](https://www.ineco.com/ineco)
 
 ## Brand Guidelines
 

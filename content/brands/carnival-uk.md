@@ -2,7 +2,7 @@
 title: Carnival UK
 slug: "carnival-uk"
 description: ""
-date: "2026-04-15T09:21:22.282624"
+date: "2026-04-16T19:21:57.323145"
 draft: false
 sectors:
   - tourism
@@ -64,8 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.carnivalukcareers.co.uk](https://www.carnivalukcareers.co.uk)
-- [https://www.pocruises.com](https://www.pocruises.com)
-- [https://www.cunard.com](https://www.cunard.com)
 - [http://www.carnivalukgroup.com](http://www.carnivalukgroup.com)
 
 ## Brand Guidelines

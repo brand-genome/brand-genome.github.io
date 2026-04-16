@@ -2,11 +2,11 @@
 title: Berlin University of the Arts
 slug: "berlin-university-of-the-arts"
 description: ""
-date: "2026-04-15T09:21:24.008836"
+date: "2026-04-16T19:21:59.318743"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - germany
 years:
@@ -15,8 +15,8 @@ languages:
   - german
 tags:
   - art
-  - university
   - education
+  - university
 industries: []
 countries:
   - germany

@@ -2,7 +2,7 @@
 title: Dayton Area Chamber of Commerce
 slug: "dayton-area-chamber-of-commerce"
 description: ""
-date: "2026-04-15T09:21:25.771570"
+date: "2026-04-16T19:22:01.963961"
 draft: false
 sectors:
   - ngo
@@ -59,10 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://daytonchamber.org](https://daytonchamber.org)
-
 ## Brand Guidelines
 
 ### 2010

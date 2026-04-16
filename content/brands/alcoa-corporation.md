@@ -2,7 +2,7 @@
 title: Alcoa Corporation
 slug: "alcoa-corporation"
 description: ""
-date: "2026-04-15T09:21:23.382355"
+date: "2026-04-16T19:21:58.769982"
 draft: false
 sectors:
   - "mining-extraction"
@@ -13,11 +13,11 @@ years:
 languages:
   - english
 tags:
-  - featured
   - industry
+  - featured
 industries:
-  - "aluminium-industry"
   - "aluminium-production"
+  - "aluminium-industry"
 countries:
   - "united-states"
 revenue_buckets: []
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alcoa.com](https://www.alcoa.com)
+- [https://www.alcoa.com/global/en/home](https://www.alcoa.com/global/en/home)
 - [http://www.alcoa.com](http://www.alcoa.com)
 
 ## Additional Properties

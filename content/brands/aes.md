@@ -2,11 +2,11 @@
 title: AES
 slug: aes
 description: ""
-date: "2026-04-15T09:21:23.818885"
+date: "2026-04-16T19:21:59.147029"
 draft: false
 sectors:
-  - research
   - education
+  - research
 regions:
   - usa
 years:
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 
 - [https://aes.org](https://aes.org)
 - [https://aes.org/about/brand-assets/logos](https://aes.org/about/brand-assets/logos)
-- [https://www.aesstudents.org](https://www.aesstudents.org)
+- [https://aesstudents.org](https://aesstudents.org)
 - [https://www.aeseducationalfoundation.org](https://www.aeseducationalfoundation.org)
 
 ## Brand Guidelines

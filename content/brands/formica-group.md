@@ -2,10 +2,9 @@
 title: Formica Group
 slug: "formica-group"
 description: ""
-date: "2026-04-15T09:21:23.404735"
+date: "2026-04-16T19:21:58.796142"
 draft: false
 sectors:
-  - "real-estate"
   - construction
 regions:
   - usa
@@ -62,9 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.formica.com](https://www.formica.com)
-- [https://www.formica.com/about-us](https://www.formica.com/about-us)
-- [https://www.formica.com/en-us/products/homapal](https://www.formica.com/en-us/products/homapal)
 - [http://www.homapal.de](http://www.homapal.de)
 
 ## Brand Guidelines

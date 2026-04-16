@@ -2,7 +2,7 @@
 title: Apprenticeship
 slug: apprenticeship
 description: ""
-date: "2026-04-15T09:21:24.316929"
+date: "2026-04-16T19:21:59.725507"
 draft: false
 sectors:
   - "public-sector"

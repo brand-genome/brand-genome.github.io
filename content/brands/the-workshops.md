@@ -2,10 +2,10 @@
 title: The Workshops
 slug: "the-workshops"
 description: ""
-date: "2026-04-15T09:21:25.862192"
+date: "2026-04-16T19:22:02.130478"
 draft: false
 sectors:
-  - education
+  - "62-education"
 regions:
   - france
 years:

@@ -2,7 +2,7 @@
 title: Blue Prism
 slug: "blue-prism"
 description: ""
-date: "2026-04-15T09:21:24.011510"
+date: "2026-04-16T19:21:59.322214"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries:
   - "robotic-process-automation"
 countries:
@@ -68,7 +68,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.blueprism.com](https://www.blueprism.com)
-- [https://info.ssctech.com/blue-prism-acquisition](https://info.ssctech.com/blue-prism-acquisition)
 
 ## Brand Guidelines
 

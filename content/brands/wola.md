@@ -2,11 +2,11 @@
 title: WOLA
 slug: wola
 description: ""
-date: "2026-04-15T09:21:22.284360"
+date: "2026-04-16T19:21:57.324755"
 draft: false
 sectors:
-  - research
   - ngo
+  - research
 regions:
   - usa
 years:

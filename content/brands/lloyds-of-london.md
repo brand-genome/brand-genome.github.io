@@ -2,7 +2,7 @@
 title: Lloyd’s of London
 slug: "lloyds-of-london"
 description: ""
-date: "2026-04-15T09:21:25.783306"
+date: "2026-04-16T19:22:01.982775"
 draft: false
 sectors:
   - insurance
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lloyds.com](https://www.lloyds.com)
-- [https://www.lloyds.com/en-us](https://www.lloyds.com/en-us)
 
 ## Brand Guidelines
 

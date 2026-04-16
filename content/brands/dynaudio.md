@@ -2,7 +2,7 @@
 title: Dynaudio
 slug: dynaudio
 description: ""
-date: "2026-04-15T09:21:25.423138"
+date: "2026-04-16T19:22:01.107322"
 draft: false
 sectors:
   - electronics

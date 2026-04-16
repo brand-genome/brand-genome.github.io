@@ -2,11 +2,11 @@
 title: EELISA
 slug: eelisa
 description: ""
-date: "2026-04-15T09:21:22.061795"
+date: "2026-04-16T19:21:57.100702"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - europe
 years:
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
-  - featured
   - university
   - education
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

@@ -2,10 +2,11 @@
 title: Jacobsen
 slug: jacobsen
 description: ""
-date: "2026-04-15T09:21:25.051870"
+date: "2026-04-16T19:22:00.643349"
 draft: false
 sectors:
   - drink
+  - brewery
 regions:
   - denmark
 years:
@@ -61,8 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.carlsberggroup.com/products/jacobsen](https://www.carlsberggroup.com/products/jacobsen)
-- [https://homeofcarlsberg.com/press/press-release-jacobsen](https://homeofcarlsberg.com/press/press-release-jacobsen)
+- [https://www.carlsberggroup.com/products?brand=11361](https://www.carlsberggroup.com/products?brand=11361)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Locally
 slug: locally
 description: ""
-date: "2026-04-15T09:21:22.135385"
+date: "2026-04-16T19:21:57.169858"
 draft: false
 sectors:
   - fashion
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - community
   - fashion
+  - community
 industries: []
 countries: []
 revenue_buckets: []

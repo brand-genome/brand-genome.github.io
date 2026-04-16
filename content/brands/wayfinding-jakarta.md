@@ -2,12 +2,12 @@
 title: Wayfinding Jakarta
 slug: "wayfinding-jakarta"
 description: ""
-date: "2026-04-15T09:21:23.429919"
+date: "2026-04-16T19:21:58.816074"
 draft: false
 sectors:
+  - "design-creative"
   - "public-sector"
   - "public-transportation"
-  - "design-creative"
 regions:
   - indonesia
 years:

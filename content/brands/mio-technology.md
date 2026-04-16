@@ -2,7 +2,7 @@
 title: Mio Technology
 slug: "mio-technology"
 description: ""
-date: "2026-04-15T09:21:22.412850"
+date: "2026-04-16T19:21:57.693471"
 draft: false
 sectors:
   - electronics
@@ -13,8 +13,8 @@ years:
   - 2017
 languages: []
 tags:
-  - featured
   - technology
+  - featured
 industries: []
 countries:
   - taiwan
@@ -67,8 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.mio.com](https://www.mio.com)
-- [https://www.mio.com/tw](https://www.mio.com/tw)
-- [https://www.mio.com/ph/about-mio-technology.htm](https://www.mio.com/ph/about-mio-technology.htm)
 
 ## Brand Guidelines
 

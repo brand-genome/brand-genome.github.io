@@ -2,7 +2,7 @@
 title: Ambit
 slug: ambit
 description: ""
-date: "2026-04-15T09:21:24.332008"
+date: "2026-04-16T19:21:59.751603"
 draft: false
 sectors:
   - software
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - technology
   - software
+  - technology
 industries: []
 countries: []
 revenue_buckets: []

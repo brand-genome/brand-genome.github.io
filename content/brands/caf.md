@@ -2,10 +2,11 @@
 title: CAF
 slug: caf
 description: ""
-date: "2026-04-15T09:21:24.982179"
+date: "2026-04-16T19:22:00.554083"
 draft: false
 sectors:
-  - finance
+  - railroad
+  - "public-transportation"
 regions:
   - usa
 years:
@@ -63,7 +64,7 @@ visual_term_image_urls: {}
 
 - [https://www.caf.com](https://www.caf.com)
 - [https://www.caf.com/en](https://www.caf.com/en)
-- [https://www.caf.net](https://www.caf.net)
+- [https://www.cafmobility.com:443](https://www.cafmobility.com:443)
 
 ## Brand Guidelines
 

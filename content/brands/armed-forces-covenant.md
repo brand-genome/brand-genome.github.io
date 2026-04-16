@@ -2,11 +2,11 @@
 title: Armed Forces Covenant
 slug: "armed-forces-covenant"
 description: ""
-date: "2026-04-15T09:21:23.787738"
+date: "2026-04-16T19:21:59.117289"
 draft: false
 sectors:
-  - "public-sector"
   - defense
+  - "public-sector"
 regions:
   - "united-kingdom"
 years:
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.armedforcescovenant.gov.uk](https://www.armedforcescovenant.gov.uk)
-- [https://www.gov.uk/government/groups/defence-relationship-management](https://www.gov.uk/government/groups/defence-relationship-management)
 - [https://www.gov.uk/government/publications/defence-employer-recognition-scheme](https://www.gov.uk/government/publications/defence-employer-recognition-scheme)
 - [http://www.gov.uk/forces-help-to-buy](http://www.gov.uk/forces-help-to-buy)
 - [http://www.mod.uk](http://www.mod.uk)

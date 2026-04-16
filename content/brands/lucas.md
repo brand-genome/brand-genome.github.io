@@ -2,7 +2,7 @@
 title: Lucas
 slug: lucas
 description: ""
-date: "2026-04-15T09:21:25.030706"
+date: "2026-04-16T19:22:00.616548"
 draft: false
 sectors:
   - hardware

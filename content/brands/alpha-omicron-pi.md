@@ -2,7 +2,7 @@
 title: Alpha Omicron Pi
 slug: "alpha-omicron-pi"
 description: ""
-date: "2026-04-15T09:21:25.053497"
+date: "2026-04-16T19:22:00.645874"
 draft: false
 sectors:
   - ngo

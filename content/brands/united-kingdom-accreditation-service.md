@@ -2,11 +2,10 @@
 title: United Kingdom Accreditation Service
 slug: "united-kingdom-accreditation-service"
 description: ""
-date: "2026-04-15T09:21:23.981547"
+date: "2026-04-16T19:21:59.290856"
 draft: false
 sectors:
   - "public-sector"
-  - consulting
 regions:
   - "united-kingdom"
 years:
@@ -65,7 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ukas.com](https://www.ukas.com)
 - [http://www.ukas.com](http://www.ukas.com)
 
 ## Brand Guidelines

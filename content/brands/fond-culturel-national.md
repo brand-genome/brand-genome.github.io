@@ -2,11 +2,11 @@
 title: Fond Culturel National
 slug: "fond-culturel-national"
 description: ""
-date: "2026-04-15T09:21:25.842544"
+date: "2026-04-16T19:22:02.101886"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - luxembourg
 years:

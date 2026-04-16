@@ -2,7 +2,7 @@
 title: Alaska Seafood Marketing Institute
 slug: "alaska-seafood-marketing-institute"
 description: ""
-date: "2026-04-15T09:21:23.135243"
+date: "2026-04-16T19:21:58.536680"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - "food-beverage"
   - marketing
+  - "food-beverage"
 industries: []
 countries:
   - "united-states"
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.alaskaseafood.org](https://www.alaskaseafood.org)
 - [http://www.alaskaseafood.org](http://www.alaskaseafood.org)
 
 ## Brand Guidelines

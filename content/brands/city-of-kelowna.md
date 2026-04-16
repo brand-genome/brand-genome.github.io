@@ -2,7 +2,7 @@
 title: City of Kelowna
 slug: "city-of-kelowna"
 description: ""
-date: "2026-04-15T09:21:25.630053"
+date: "2026-04-16T19:22:01.633486"
 draft: false
 sectors:
   - "public-sector"
@@ -64,7 +64,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kelowna.ca](https://www.kelowna.ca)
 - [https://kelowna.ca](https://kelowna.ca)
 
 ## Brand Guidelines

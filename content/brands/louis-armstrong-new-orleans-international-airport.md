@@ -2,10 +2,11 @@
 title: Louis Armstrong New Orleans International Airport
 slug: "louis-armstrong-new-orleans-international-airport"
 description: ""
-date: "2026-04-15T09:21:22.116032"
+date: "2026-04-16T19:21:57.152532"
 draft: false
 sectors:
-  - airline
+  - tourism
+  - "public-sector"
 regions:
   - usa
 years:

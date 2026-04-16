@@ -2,11 +2,11 @@
 title: GoDaddy
 slug: godaddy
 description: ""
-date: "2026-04-15T09:21:24.534644"
+date: "2026-04-16T19:22:00.105727"
 draft: false
 sectors:
-  - "e-commerce"
   - software
+  - "e-commerce"
 regions:
   - usa
 years:
@@ -71,7 +71,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.godaddy.com](https://www.godaddy.com)
-- [https://gddam.godaddy.com](https://gddam.godaddy.com)
 
 ## Brand Guidelines
 

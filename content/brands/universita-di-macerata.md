@@ -2,11 +2,11 @@
 title: Università di Macerata
 slug: "universita-di-macerata"
 description: ""
-date: "2026-04-15T09:21:24.093606"
+date: "2026-04-16T19:21:59.423877"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - italy
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - italian
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,7 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.unimc.it](https://www.unimc.it)
+- [https://www.unimc.it/it](https://www.unimc.it/it)
 - [https://www.unimc.it/en](https://www.unimc.it/en)
 - [https://apply.unimc.it](https://apply.unimc.it)
 

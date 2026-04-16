@@ -2,7 +2,7 @@
 title: Klarna
 slug: klarna
 description: ""
-date: "2026-04-15T09:21:22.602663"
+date: "2026-04-16T19:21:57.967498"
 draft: false
 sectors:
   - finance
@@ -68,12 +68,13 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.klarna.com](https://www.klarna.com)
+- [https://www.klarna.com/international?grs=%2F&grr=empty](https://www.klarna.com/international?grs=%2F&grr=empty)
 - [https://www.klarna.com/us](https://www.klarna.com/us)
-- [https://www.klarna.com/us/business/the-merchant-portal](https://www.klarna.com/us/business/the-merchant-portal)
+- [https://www.klarna.com/international/enterprise/the-merchant-portal](https://www.klarna.com/international/enterprise/the-merchant-portal)
 - [https://portal.klarna.com](https://portal.klarna.com)
 - [https://brand.klarna.com/resources](https://brand.klarna.com/resources)
 - [https://docs.klarna.com](https://docs.klarna.com)
+- [https://www.klarna.com](https://www.klarna.com)
 
 ## Brand Guidelines
 

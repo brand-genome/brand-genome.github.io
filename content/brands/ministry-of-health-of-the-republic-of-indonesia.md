@@ -2,7 +2,7 @@
 title: Ministry of Health of the Republic of Indonesia
 slug: "ministry-of-health-of-the-republic-of-indonesia"
 description: ""
-date: "2026-04-15T09:21:22.342413"
+date: "2026-04-16T19:21:57.524851"
 draft: false
 sectors:
   - "public-sector"
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.kemkes.go.id](https://www.kemkes.go.id)
+- [http://www.kemkes.go.id/id/home](http://www.kemkes.go.id/id/home)
 - [https://www.kemkes.go.id/eng](https://www.kemkes.go.id/eng)
 - [https://satusehat.kemkes.go.id](https://satusehat.kemkes.go.id)
 - [https://setjen.kemkes.go.id](https://setjen.kemkes.go.id)
@@ -72,7 +72,7 @@ visual_term_image_urls: {}
 - [https://farmalkes.kemkes.go.id](https://farmalkes.kemkes.go.id)
 - [https://ditjen-sdmk.kemkes.go.id](https://ditjen-sdmk.kemkes.go.id)
 - [https://itjen.kemkes.go.id](https://itjen.kemkes.go.id)
-- [https://upk.kemkes.go.id](https://upk.kemkes.go.id)
+- [https://upk.kemkes.go.id/new](https://upk.kemkes.go.id/new)
 - [https://jdih.kemkes.go.id](https://jdih.kemkes.go.id)
 - [https://ayosehat.kemkes.go.id](https://ayosehat.kemkes.go.id)
 - [https://kemkes.go.id/id/filosofi-logo](https://kemkes.go.id/id/filosofi-logo)

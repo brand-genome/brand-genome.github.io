@@ -2,7 +2,7 @@
 title: Cadillac
 slug: cadillac
 description: ""
-date: "2026-04-15T09:21:23.205935"
+date: "2026-04-16T19:21:58.615968"
 draft: false
 sectors:
   - automobile

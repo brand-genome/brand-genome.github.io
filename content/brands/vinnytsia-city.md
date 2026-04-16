@@ -2,11 +2,11 @@
 title: Vinnytsia City
 slug: "vinnytsia-city"
 description: ""
-date: "2026-04-15T09:21:22.509039"
+date: "2026-04-16T19:21:57.836000"
 draft: false
 sectors:
-  - "public-sector"
   - tourism
+  - "public-sector"
 regions:
   - ukraine
 years:
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://vmr.gov.ua](https://vmr.gov.ua)
 - [https://vinnytsia.city](https://vinnytsia.city)
-- [https://vinnytsia.city/en](https://vinnytsia.city/en)
 - [https://brandbook.vinnytsia.city](https://brandbook.vinnytsia.city)
 - [https://investinvinnytsia.com](https://investinvinnytsia.com)

@@ -2,7 +2,7 @@
 title: Sogeti
 slug: sogeti
 description: ""
-date: "2026-04-15T09:21:25.682944"
+date: "2026-04-16T19:22:01.752225"
 draft: false
 sectors:
   - consulting
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 
 - [https://www.sogeti.com](https://www.sogeti.com)
 - [https://www.fr.sogeti.com](https://www.fr.sogeti.com)
-- [https://www.uk.sogeti.com](https://www.uk.sogeti.com)
-- [https://www.us.sogeti.com](https://www.us.sogeti.com)
+- [https://www.sogeti.uk](https://www.sogeti.uk)
+- [https://www.sogeti.us](https://www.sogeti.us)
 
 ## Brand Guidelines
 

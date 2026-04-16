@@ -2,11 +2,11 @@
 title: Universidade de Brasília
 slug: "universidade-de-brasilia"
 description: ""
-date: "2026-04-15T09:21:22.090834"
+date: "2026-04-16T19:21:57.130596"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - brazil
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - portuguese
 tags:
-  - university
   - education
+  - university
 industries: []
 countries: []
 revenue_buckets: []
@@ -61,11 +61,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.portal.unb.br](https://www.portal.unb.br)
-- [https://international.unb.br](https://international.unb.br)
-
 ## Brand Guidelines
 
 ### 2008

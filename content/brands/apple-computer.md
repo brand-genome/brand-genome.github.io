@@ -2,11 +2,11 @@
 title: Apple Computer
 slug: "apple-computer"
 description: ""
-date: "2026-04-15T09:21:23.563051"
+date: "2026-04-16T19:21:58.856858"
 draft: false
 sectors:
-  - electronics
   - software
+  - electronics
 regions:
   - usa
 years:
@@ -15,18 +15,18 @@ years:
 languages:
   - english
 tags:
-  - featured
-  - technology
   - vintage
   - software
+  - technology
+  - featured
 industries:
   - "software-industry"
   - "software-development"
-  - "consumer-electronics-industry"
   - "information-technology"
   - "mobile-phone-industry"
-  - electronics
+  - "consumer-electronics-industry"
   - "digital-distribution"
+  - electronics
 countries:
   - "united-states"
 revenue_buckets:
@@ -44,30 +44,30 @@ total_equity_buckets:
 market_cap_buckets:
   - "OVER-1T"
 products_or_materials_produced:
-  - "apple-watch"
-  - "apple-tv"
-  - "apple-pay"
-  - mac
-  - airpods
-  - homepod
-  - ipod
-  - "wearable-computer"
-  - smartphone
   - "ipod-touch"
-  - imac
-  - "consumer-electronics"
-  - "personal-computer"
+  - "networking-hardware"
+  - smartphone
   - "personal-digital-assistant"
+  - mac
+  - imac
+  - peripheral
+  - "personal-computer"
+  - airpods
+  - "computer-hardware"
   - software
   - "tablet-computer"
-  - peripheral
+  - "apple-watch"
+  - "apple-tv"
   - "video-game-console"
-  - "computer-hardware"
-  - "networking-hardware"
+  - "apple-pay"
+  - "wearable-computer"
+  - ipod
+  - "consumer-electronics"
+  - homepod
 products: []
 headquarters_locations:
-  - "apple-park"
   - cupertino
+  - "apple-park"
 subsidiaries: []
 foundation_dates:
   - 1976
@@ -444,8 +444,8 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Apple Watch](/products_or_materials_produced/apple-watch/); [Apple Tv](/products_or_materials_produced/apple-tv/); [Apple Pay](/products_or_materials_produced/apple-pay/); [Mac](/products_or_materials_produced/mac/); [Airpods](/products_or_materials_produced/airpods/); [Homepod](/products_or_materials_produced/homepod/); [Ipod](/products_or_materials_produced/ipod/); [Wearable Computer](/products_or_materials_produced/wearable-computer/); [Smartphone](/products_or_materials_produced/smartphone/); [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Imac](/products_or_materials_produced/imac/); [Consumer Electronics](/products_or_materials_produced/consumer-electronics/); +8 more |
-| Headquarters Location | [Apple Park](/headquarters_locations/apple-park/); [Cupertino](/headquarters_locations/cupertino/) |
+| Product Or Material Produced | [Ipod Touch](/products_or_materials_produced/ipod-touch/); [Networking Hardware](/products_or_materials_produced/networking-hardware/); [Smartphone](/products_or_materials_produced/smartphone/); [Personal Digital Assistant](/products_or_materials_produced/personal-digital-assistant/); [Mac](/products_or_materials_produced/mac/); [Imac](/products_or_materials_produced/imac/); [Peripheral](/products_or_materials_produced/peripheral/); [Personal Computer](/products_or_materials_produced/personal-computer/); [Airpods](/products_or_materials_produced/airpods/); [Computer Hardware](/products_or_materials_produced/computer-hardware/); [Software](/products_or_materials_produced/software/); [Tablet Computer](/products_or_materials_produced/tablet-computer/); +8 more |
+| Headquarters Location | [Cupertino](/headquarters_locations/cupertino/); [Apple Park](/headquarters_locations/apple-park/) |
 | Foundation Date | [1976](/foundation_dates/1976/) |
 | Irs Employer Identification Number | 94-2404110 |
 | Legal Entity Identifier | HWUPKR0MPOU8FGXBT394 |

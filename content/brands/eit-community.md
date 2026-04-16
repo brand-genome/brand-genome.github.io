@@ -2,12 +2,12 @@
 title: EIT Community
 slug: "eit-community"
 description: ""
-date: "2026-04-15T09:21:25.747302"
+date: "2026-04-16T19:22:01.918198"
 draft: false
 sectors:
   - "public-sector"
-  - research
   - education
+  - research
 regions:
   - hungary
 years:
@@ -64,11 +64,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://eit.europa.eu](https://eit.europa.eu)
+- [https://www.eit.europa.eu](https://www.eit.europa.eu)
 - [https://www.eit.europa.eu/eit-community/eit](https://www.eit.europa.eu/eit-community/eit)
 - [https://www.eit.europa.eu/community-activities/eit-community-education](https://www.eit.europa.eu/community-activities/eit-community-education)
 - [https://neb.eitcommunity.eu](https://neb.eitcommunity.eu)
-- [https://www.go-eit.eu](https://www.go-eit.eu)
 
 ## Brand Guidelines
 

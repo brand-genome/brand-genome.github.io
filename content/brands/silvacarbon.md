@@ -2,12 +2,11 @@
 title: SilvaCarbon
 slug: silvacarbon
 description: ""
-date: "2026-04-15T09:21:24.000214"
+date: "2026-04-16T19:21:59.308899"
 draft: false
 sectors:
   - "public-sector"
   - research
-  - ngo
 regions:
   - usa
 years:

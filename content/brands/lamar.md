@@ -2,7 +2,7 @@
 title: Lamar
 slug: lamar
 description: ""
-date: "2026-04-15T09:21:23.124578"
+date: "2026-04-16T19:21:58.529854"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - marketing
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -62,7 +62,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.lamar.com](https://www.lamar.com)
+- [https://lamar.com](https://lamar.com)
 
 ## Brand Guidelines
 

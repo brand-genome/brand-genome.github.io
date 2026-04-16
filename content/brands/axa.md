@@ -2,7 +2,7 @@
 title: Axa
 slug: axa
 description: ""
-date: "2026-04-15T09:21:24.047032"
+date: "2026-04-16T19:21:59.367018"
 draft: false
 sectors:
   - insurance
@@ -14,11 +14,11 @@ years:
 languages:
   - english
 tags:
-  - featured
   - insurance
+  - featured
 industries:
-  - "investment-funds-and-similar-financial-entities"
   - "financial-services"
+  - "investment-funds-and-similar-financial-entities"
   - insurance
   - "insurance-industry"
 countries:

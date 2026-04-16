@@ -2,11 +2,11 @@
 title: Lamar Athletics
 slug: "lamar-athletics"
 description: ""
-date: "2026-04-15T09:21:23.795561"
+date: "2026-04-16T19:21:59.125064"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - usa
 years:

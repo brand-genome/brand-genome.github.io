@@ -2,7 +2,7 @@
 title: Ministry of Digital Affairs
 slug: "ministry-of-digital-affairs"
 description: ""
-date: "2026-04-15T09:21:23.648636"
+date: "2026-04-16T19:21:58.954239"
 draft: false
 sectors:
   - "public-sector"

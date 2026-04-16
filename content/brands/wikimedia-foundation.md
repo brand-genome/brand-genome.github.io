@@ -2,11 +2,11 @@
 title: Wikimedia Foundation
 slug: "wikimedia-foundation"
 description: ""
-date: "2026-04-15T09:21:24.306107"
+date: "2026-04-16T19:21:59.711610"
 draft: false
 sectors:
-  - software
   - ngo
+  - software
 regions:
   - usa
 years:
@@ -30,17 +30,17 @@ total_assets_buckets:
 total_equity_buckets: []
 market_cap_buckets: []
 products_or_materials_produced:
-  - wikibooks
-  - wikiquote
-  - wiktionary
-  - "wikimedia-commons"
+  - wikivoyage
   - wikinews
   - wikisource
-  - wikidata
   - wikiversity
-  - wikivoyage
   - wikifunctions
+  - wiktionary
   - wikipedia
+  - wikidata
+  - "wikimedia-commons"
+  - wikiquote
+  - wikibooks
   - wikispecies
 products: []
 headquarters_locations:
@@ -83,7 +83,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://wikimediafoundation.org](https://wikimediafoundation.org)
-- [https://foundation.wikimedia.org](https://foundation.wikimedia.org)
+- [https://foundation.wikimedia.org/wiki/Home](https://foundation.wikimedia.org/wiki/Home)
 - [https://www.wikimedia.org](https://www.wikimedia.org)
 - [https://meta.wikimedia.org/wiki/Brand](https://meta.wikimedia.org/wiki/Brand)
 - [http://www.wikimedia.org/wiki](http://www.wikimedia.org/wiki)
@@ -102,7 +102,7 @@ visual_term_image_urls: {}
 
 | Property | Value |
 |----------|-------|
-| Product Or Material Produced | [Wikibooks](/products_or_materials_produced/wikibooks/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikisource](/products_or_materials_produced/wikisource/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikispecies](/products_or_materials_produced/wikispecies/) |
+| Product Or Material Produced | [Wikivoyage](/products_or_materials_produced/wikivoyage/); [Wikinews](/products_or_materials_produced/wikinews/); [Wikisource](/products_or_materials_produced/wikisource/); [Wikiversity](/products_or_materials_produced/wikiversity/); [Wikifunctions](/products_or_materials_produced/wikifunctions/); [Wiktionary](/products_or_materials_produced/wiktionary/); [Wikipedia](/products_or_materials_produced/wikipedia/); [Wikidata](/products_or_materials_produced/wikidata/); [Wikimedia Commons](/products_or_materials_produced/wikimedia-commons/); [Wikiquote](/products_or_materials_produced/wikiquote/); [Wikibooks](/products_or_materials_produced/wikibooks/); [Wikispecies](/products_or_materials_produced/wikispecies/) |
 | Headquarters Location | [San Francisco](/headquarters_locations/san-francisco/) |
 | Foundation Date | [2003](/foundation_dates/2003/) |
 | Country | United States |

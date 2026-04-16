@@ -2,7 +2,7 @@
 title: INRS
 slug: inrs
 description: ""
-date: "2026-04-15T09:21:22.298240"
+date: "2026-04-16T19:21:57.337104"
 draft: false
 sectors:
   - university

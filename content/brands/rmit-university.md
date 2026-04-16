@@ -2,7 +2,7 @@
 title: RMIT University
 slug: "rmit-university"
 description: ""
-date: "2026-04-15T09:21:23.123039"
+date: "2026-04-16T19:21:58.529510"
 draft: false
 sectors:
   - university
@@ -10,15 +10,15 @@ regions:
   - australia
 years:
   - 2022
-  - 2017
   - 2020
+  - 2017
 languages:
   - english
 tags:
-  - university
   - featured
-  - education
   - signage
+  - education
+  - university
 industries: []
 countries:
   - australia
@@ -72,7 +72,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.rmit.edu.au](https://www.rmit.edu.au)
-- [https://rmit.com.vn](https://rmit.com.vn)
 
 ## Brand Guidelines
 

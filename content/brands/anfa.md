@@ -2,10 +2,9 @@
 title: ANFA
 slug: anfa
 description: ""
-date: "2026-04-15T09:21:25.428164"
+date: "2026-04-16T19:22:01.112889"
 draft: false
 sectors:
-  - "public-sector"
   - education
 regions:
   - france
@@ -63,7 +62,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.anfa-auto.fr](https://www.anfa-auto.fr)
-- [https://innovauto.org](https://innovauto.org)
+- [https://www.innovauto.org](https://www.innovauto.org)
 - [https://f2f.anfa-auto.fr](https://f2f.anfa-auto.fr)
 - [http://www.anfa-auto.fr](http://www.anfa-auto.fr)
 

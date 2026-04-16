@@ -2,11 +2,11 @@
 title: North Sails
 slug: "north-sails"
 description: ""
-date: "2026-04-15T09:21:23.879708"
+date: "2026-04-16T19:21:59.206705"
 draft: false
 sectors:
-  - sports
   - fashion
+  - sports
 regions:
   - usa
 years:

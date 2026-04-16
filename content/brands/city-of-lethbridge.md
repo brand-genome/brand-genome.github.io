@@ -2,7 +2,7 @@
 title: City of Lethbridge
 slug: "city-of-lethbridge"
 description: ""
-date: "2026-04-15T09:21:23.432358"
+date: "2026-04-16T19:21:58.818078"
 draft: false
 sectors:
   - "public-sector"

@@ -2,7 +2,7 @@
 title: eBay
 slug: ebay
 description: ""
-date: "2026-04-15T09:21:22.387228"
+date: "2026-04-16T19:21:57.639952"
 draft: false
 sectors:
   - "e-commerce"
@@ -61,10 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ebay.com](https://www.ebay.com)
 - [https://www.ebayinc.com](https://www.ebayinc.com)
-- [https://developer.ebay.com](https://developer.ebay.com)
-- [https://brandpermission.ebay.com](https://brandpermission.ebay.com)
 
 ## Brand Guidelines
 

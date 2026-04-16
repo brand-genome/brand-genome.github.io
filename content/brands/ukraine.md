@@ -2,7 +2,7 @@
 title: Ukraine
 slug: ukraine
 description: ""
-date: "2026-04-15T09:21:24.078072"
+date: "2026-04-16T19:21:59.401926"
 draft: false
 sectors:
   - tourism

@@ -2,7 +2,7 @@
 title: National Premier Leagues
 slug: "national-premier-leagues"
 description: ""
-date: "2026-04-15T09:21:24.766362"
+date: "2026-04-16T19:22:00.315572"
 draft: false
 sectors:
   - sports
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.nationalpremierleagues.com.au](https://www.nationalpremierleagues.com.au)
+- [https://nationalpremierleagues.com.au](https://nationalpremierleagues.com.au)
 - [http://www.footballaustralia.com.au/nationalpremierleagues](http://www.footballaustralia.com.au/nationalpremierleagues)
 
 ## Brand Guidelines

@@ -2,11 +2,11 @@
 title: AVG
 slug: avg
 description: ""
-date: "2026-04-15T09:21:23.396952"
+date: "2026-04-16T19:21:58.786975"
 draft: false
 sectors:
-  - cybersecurity
   - software
+  - cybersecurity
 regions:
   - usa
 years:
@@ -64,11 +64,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.avg.com](https://www.avg.com)
+- [https://www.avg.com/en-in/homepage](https://www.avg.com/en-in/homepage)
 - [https://support.avg.com](https://support.avg.com)
-- [https://account.avg.com](https://account.avg.com)
-- [https://myaccount.avg.com](https://myaccount.avg.com)
+- [https://id.avg.com/sso](https://id.avg.com/sso)
 - [http://www.avast.com](http://www.avast.com)
+- [https://www.avg.com](https://www.avg.com)
 - [https://www.avg.com/en-us/homepage](https://www.avg.com/en-us/homepage)
 - [https://www.avg.com/tr-tr/homepage](https://www.avg.com/tr-tr/homepage)
 - [https://www.avg.com/en-gb/homepage](https://www.avg.com/en-gb/homepage)

@@ -2,11 +2,11 @@
 title: "Baskin-Robbins"
 slug: "baskin-robbins"
 description: ""
-date: "2026-04-15T09:21:23.776706"
+date: "2026-04-16T19:21:59.104900"
 draft: false
 sectors:
-  - food
   - restaurant
+  - food
 regions:
   - usa
 years:
@@ -69,8 +69,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.baskinrobbins.com](https://www.baskinrobbins.com)
 - [https://locations.baskinrobbins.com](https://locations.baskinrobbins.com)
+- [https://www.baskinrobbins.com](https://www.baskinrobbins.com)
 - [https://baskinrobbins.com.my](https://baskinrobbins.com.my)
 - [https://www.31ice.co.jp](https://www.31ice.co.jp)
 - [https://www.baskinrobbins.ca](https://www.baskinrobbins.ca)

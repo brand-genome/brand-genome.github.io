@@ -2,7 +2,7 @@
 title: Go North Wales
 slug: "go-north-wales"
 description: ""
-date: "2026-04-15T09:21:23.130006"
+date: "2026-04-16T19:21:58.533473"
 draft: false
 sectors:
   - tourism
@@ -63,5 +63,5 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.gonorthwales.co.uk](https://www.gonorthwales.co.uk)
-- [https://northwalestourism.co.uk](https://northwalestourism.co.uk)
+- [https://northwalestourism.com](https://northwalestourism.com)
 - [https://northwalesdistribution.co.uk](https://northwalesdistribution.co.uk)

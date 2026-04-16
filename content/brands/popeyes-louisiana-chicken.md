@@ -2,7 +2,7 @@
 title: Popeyes Louisiana Chicken
 slug: "popeyes-louisiana-chicken"
 description: ""
-date: "2026-04-15T09:21:22.225361"
+date: "2026-04-16T19:21:57.267778"
 draft: false
 sectors:
   - restaurant
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - featured
   - "food-beverage"
+  - featured
 industries: []
 countries: []
 revenue_buckets: []
@@ -63,4 +63,3 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.popeyes.com](https://www.popeyes.com)
-- [https://order.popeyes.com](https://order.popeyes.com)

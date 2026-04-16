@@ -2,7 +2,7 @@
 title: Gobierno de la República Dominicana
 slug: "gobierno-de-la-republica-dominicana"
 description: ""
-date: "2026-04-15T09:21:23.208210"
+date: "2026-04-16T19:21:58.619853"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.dominicana.gob.do](https://www.dominicana.gob.do)
 - [https://www.gob.do](https://www.gob.do)
 - [https://www.presidencia.gob.do](https://www.presidencia.gob.do)
 - [http://www.pinterest.com/GobEspaillatRD](http://www.pinterest.com/GobEspaillatRD)

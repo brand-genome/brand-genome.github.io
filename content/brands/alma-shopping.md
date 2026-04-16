@@ -2,10 +2,10 @@
 title: Alma Shopping
 slug: "alma-shopping"
 description: ""
-date: "2026-04-15T09:21:24.388704"
+date: "2026-04-16T19:21:59.978157"
 draft: false
 sectors:
-  - "consumer-goods"
+  - "real-estate"
 regions:
   - portugal
 years:
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.almashopping.pt](https://www.almashopping.pt)
+- [https://almashopping.pt](https://almashopping.pt)
 - [http://www.almashopping.pt](http://www.almashopping.pt)
 
 ## Brand Guidelines

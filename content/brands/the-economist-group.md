@@ -2,7 +2,7 @@
 title: The Economist Group
 slug: "the-economist-group"
 description: ""
-date: "2026-04-15T09:21:23.791046"
+date: "2026-04-16T19:21:59.120383"
 draft: false
 sectors:
   - publishing
@@ -67,9 +67,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.economistgroup.com](https://www.economistgroup.com)
-- [https://www.economist.com](https://www.economist.com)
 - [https://impact.economist.com](https://impact.economist.com)
-- [https://www.eiu.com](https://www.eiu.com)
 - [https://education.economist.com](https://education.economist.com)
 
 ## Brand Guidelines

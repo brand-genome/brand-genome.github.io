@@ -2,7 +2,7 @@
 title: Caisse d’épargne
 slug: "caisse-depargne"
 description: ""
-date: "2026-04-15T09:21:25.639530"
+date: "2026-04-16T19:22:01.648400"
 draft: false
 sectors:
   - insurance

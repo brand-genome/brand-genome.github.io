@@ -2,11 +2,11 @@
 title: Flipboard
 slug: flipboard
 description: ""
-date: "2026-04-15T09:21:25.420646"
+date: "2026-04-16T19:22:01.104657"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
   - publishing
 regions:
   - usa
@@ -64,7 +64,7 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://flipboard.com](https://flipboard.com)
-- [https://flip.it/logos](https://flip.it/logos)
+- [https://cdn.flipboard.com/wp-content/uploads/2018/04/Flipboard-Brand-Assets.zip](https://cdn.flipboard.com/wp-content/uploads/2018/04/Flipboard-Brand-Assets.zip)
 - [https://flipboard.com/newsletters](https://flipboard.com/newsletters)
 - [http://www.flip.it/logos](http://www.flip.it/logos)
 

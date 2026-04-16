@@ -2,7 +2,7 @@
 title: Subaru of America
 slug: "subaru-of-america"
 description: ""
-date: "2026-04-15T09:21:23.691948"
+date: "2026-04-16T19:21:59.015178"
 draft: false
 sectors:
   - automobile
@@ -14,9 +14,9 @@ years:
 languages:
   - english
 tags:
+  - corporate
   - featured
   - transport
-  - corporate
 industries:
   - "automotive-industry"
 countries:

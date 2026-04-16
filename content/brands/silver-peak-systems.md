@@ -2,11 +2,11 @@
 title: Silver Peak Systems
 slug: "silver-peak-systems"
 description: ""
-date: "2026-04-15T09:21:24.044427"
+date: "2026-04-16T19:21:59.364476"
 draft: false
 sectors:
-  - networking
   - software
+  - networking
 regions:
   - usa
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.silver-peak.com](https://www.silver-peak.com)
 - [http://www.silver-peak.com](http://www.silver-peak.com)
 
 ## Brand Guidelines

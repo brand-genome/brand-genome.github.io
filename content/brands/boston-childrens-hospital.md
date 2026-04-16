@@ -2,11 +2,11 @@
 title: Boston Children’s Hospital
 slug: "boston-childrens-hospital"
 description: ""
-date: "2026-04-15T09:21:23.996816"
+date: "2026-04-16T19:21:59.306067"
 draft: false
 sectors:
-  - research
   - healthcare
+  - research
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.childrenshospital.org](https://www.childrenshospital.org)
-- [https://web2.tch.harvard.edu/marcomm](https://web2.tch.harvard.edu/marcomm)
 
 ## Brand Guidelines
 

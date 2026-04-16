@@ -2,7 +2,7 @@
 title: Catholic Charities Dallas
 slug: "catholic-charities-dallas"
 description: ""
-date: "2026-04-15T09:21:24.198955"
+date: "2026-04-16T19:21:59.561961"
 draft: false
 sectors:
   - ngo

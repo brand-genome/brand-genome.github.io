@@ -2,9 +2,10 @@
 title: Yakima Chief Hops
 slug: "yakima-chief-hops"
 description: ""
-date: "2026-04-15T09:21:24.541117"
+date: "2026-04-16T19:22:00.113992"
 draft: false
 sectors:
+  - drink
   - food
 regions:
   - usa

@@ -2,7 +2,7 @@
 title: Eurosport
 slug: eurosport
 description: ""
-date: "2026-04-15T09:21:25.833382"
+date: "2026-04-16T19:22:02.063662"
 draft: false
 sectors:
   - sports
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - sport
+  - broadcast
 industries:
   - "broadcasting-of-sports-events"
 countries:
@@ -68,8 +68,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.eurosport.com](https://www.eurosport.com)
 - [https://www.eurosport.fr](https://www.eurosport.fr)
+- [https://www.eurosport.com](https://www.eurosport.com)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Mobilads
 slug: mobilads
 description: ""
-date: "2026-04-15T09:21:25.443540"
+date: "2026-04-16T19:22:01.132477"
 draft: false
 sectors:
   - "marketing-advertising"
@@ -61,10 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.mobilads.co](https://www.mobilads.co)
-- [https://mediakit.mobilads.co](https://mediakit.mobilads.co)
-- [https://www.mobilads.co/terms-and-conditions](https://www.mobilads.co/terms-and-conditions)
-- [https://www.mobilads.co/privacy-policy](https://www.mobilads.co/privacy-policy)
+- [https://www.goodtraffic.com](https://www.goodtraffic.com)
 - [http://www.mobilads.co](http://www.mobilads.co)
 
 ## Brand Guidelines

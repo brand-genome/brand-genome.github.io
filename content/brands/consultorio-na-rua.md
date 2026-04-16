@@ -2,7 +2,7 @@
 title: Consultório na Rua
 slug: "consultorio-na-rua"
 description: ""
-date: "2026-04-15T09:21:25.659968"
+date: "2026-04-16T19:22:01.683957"
 draft: false
 sectors:
   - "public-sector"
@@ -61,4 +61,4 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.gov.br/saude](https://www.gov.br/saude)
+- [https://www.gov.br/saude/pt-br](https://www.gov.br/saude/pt-br)

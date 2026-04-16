@@ -2,7 +2,7 @@
 title: Almería ciudad
 slug: "almeria-ciudad"
 description: ""
-date: "2026-04-15T09:21:22.086749"
+date: "2026-04-16T19:21:57.128200"
 draft: false
 sectors:
   - "public-sector"
@@ -14,8 +14,8 @@ languages:
   - spanish
 tags:
   - city
-  - featured
   - regional
+  - featured
 industries: []
 countries: []
 revenue_buckets: []

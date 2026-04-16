@@ -2,7 +2,7 @@
 title: Admiral
 slug: admiral
 description: ""
-date: "2026-04-15T09:21:24.550906"
+date: "2026-04-16T19:22:00.122418"
 draft: false
 sectors:
   - insurance
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.admiral.com](https://www.admiral.com)
 - [https://www.admiral.com/about-us](https://www.admiral.com/about-us)
-- [https://admiralgroup.co.uk](https://admiralgroup.co.uk)
 
 ## Brand Guidelines
 

@@ -2,7 +2,7 @@
 title: Motor Industry Workshop Association
 slug: "motor-industry-workshop-association"
 description: ""
-date: "2026-04-15T09:21:22.200300"
+date: "2026-04-16T19:21:57.235496"
 draft: false
 sectors:
   - ngo
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.miwa.org.za](https://www.miwa.org.za)
 - [https://www.rmi.org.za](https://www.rmi.org.za)
 
 ## Brand Guidelines

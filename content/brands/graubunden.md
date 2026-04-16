@@ -2,7 +2,7 @@
 title: Graubünden
 slug: graubunden
 description: ""
-date: "2026-04-15T09:21:22.590613"
+date: "2026-04-16T19:21:57.954069"
 draft: false
 sectors:
   - tourism
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.marke.graubuenden.ch/de](https://www.marke.graubuenden.ch/de)
-- [https://www.marke.graubuenden.ch](https://www.marke.graubuenden.ch)
 - [https://www.graubuenden.ch/en](https://www.graubuenden.ch/en)
 - [https://www.graubuenden.ch/de](https://www.graubuenden.ch/de)
 - [https://www.graubuenden.ch/it](https://www.graubuenden.ch/it)

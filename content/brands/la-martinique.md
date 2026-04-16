@@ -2,7 +2,7 @@
 title: La Martinique
 slug: "la-martinique"
 description: ""
-date: "2026-04-15T09:21:23.934069"
+date: "2026-04-16T19:21:59.252187"
 draft: false
 sectors:
   - tourism
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 - [https://www.martinique.org/fr](https://www.martinique.org/fr)
 - [https://www.martinique.org/en](https://www.martinique.org/en)
 - [https://martiniquepro.org/fr/nous-joindre](https://martiniquepro.org/fr/nous-joindre)
-- [http://www.martiniquetourisme.com](http://www.martiniquetourisme.com)
 
 ## Brand Guidelines
 

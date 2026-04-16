@@ -2,7 +2,7 @@
 title: Fédération Française de Rugby
 slug: "federation-francaise-de-rugby"
 description: ""
-date: "2026-04-15T09:21:23.986704"
+date: "2026-04-16T19:21:59.295889"
 draft: false
 sectors:
   - sports
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ffr.fr](https://www.ffr.fr)
 - [https://boutique.ffr.fr](https://boutique.ffr.fr)
 
 ## Brand Guidelines

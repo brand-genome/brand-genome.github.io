@@ -2,11 +2,11 @@
 title: Scuola Calcio Elite
 slug: "scuola-calcio-elite"
 description: ""
-date: "2026-04-15T09:21:24.085754"
+date: "2026-04-16T19:21:59.411855"
 draft: false
 sectors:
-  - sports
   - education
+  - sports
 regions:
   - italy
 years:
@@ -63,8 +63,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico](https://figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico)
-- [https://figc.it/262772.aspx](https://figc.it/262772.aspx)
+- [https://www.figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico](https://www.figc.it/it/giovani/governance/il-settore-giovanile-e-scolastico)
 - [https://www.figc-tutelaminori.it](https://www.figc-tutelaminori.it)
 
 ## Brand Guidelines

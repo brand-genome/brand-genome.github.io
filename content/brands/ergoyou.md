@@ -2,7 +2,7 @@
 title: ErgoYou
 slug: ergoyou
 description: ""
-date: "2026-04-15T09:21:24.052843"
+date: "2026-04-16T19:21:59.373339"
 draft: false
 sectors:
   - "consumer-goods"

@@ -2,10 +2,9 @@
 title: Demand Media
 slug: "demand-media"
 description: ""
-date: "2026-04-15T09:21:25.031374"
+date: "2026-04-16T19:22:00.617463"
 draft: false
 sectors:
-  - software
   - publishing
 regions:
   - usa
@@ -67,11 +66,10 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [http://www.demandmedia.com](http://www.demandmedia.com)
-- [https://leafgroup.com](https://leafgroup.com)
 - [http://www.cracked.com](http://www.cracked.com)
 - [http://www.livestrong.com](http://www.livestrong.com)
 - [http://www.ehow.com](http://www.ehow.com)
+- [http://www.demandmedia.com](http://www.demandmedia.com)
 
 ## Brand Guidelines
 

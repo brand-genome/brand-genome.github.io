@@ -2,11 +2,10 @@
 title: Cundinamarca
 slug: cundinamarca
 description: ""
-date: "2026-04-15T09:21:22.091227"
+date: "2026-04-16T19:21:57.130876"
 draft: false
 sectors:
   - "public-sector"
-  - ngo
 regions:
   - colombia
 years:
@@ -60,11 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.car.gov.co](https://www.car.gov.co)
-- [https://sie.car.gov.co](https://sie.car.gov.co)
-
 ## Brand Guidelines
 
 ### 2025

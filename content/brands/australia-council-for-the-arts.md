@@ -2,11 +2,11 @@
 title: Australia Council for the Arts
 slug: "australia-council-for-the-arts"
 description: ""
-date: "2026-04-15T09:21:25.683670"
+date: "2026-04-16T19:22:01.758963"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - australia
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://creative.gov.au](https://creative.gov.au)
-- [https://www.arts.gov.au/what-we-do/creative-australia](https://www.arts.gov.au/what-we-do/creative-australia)
 - [http://www.australiacouncil.gov.au](http://www.australiacouncil.gov.au)
 
 ## Additional Properties

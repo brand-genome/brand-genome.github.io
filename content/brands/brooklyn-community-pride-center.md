@@ -2,11 +2,11 @@
 title: Brooklyn Community Pride Center
 slug: "brooklyn-community-pride-center"
 description: ""
-date: "2026-04-15T09:21:23.614798"
+date: "2026-04-16T19:21:58.903022"
 draft: false
 sectors:
-  - healthcare
   - ngo
+  - healthcare
 regions:
   - usa
 years:
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.lgbtbrooklyn.org](https://www.lgbtbrooklyn.org)
-- [https://lgbtbrooklyn.org](https://lgbtbrooklyn.org)
 
 ## Brand Guidelines
 

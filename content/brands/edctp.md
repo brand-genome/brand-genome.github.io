@@ -2,12 +2,12 @@
 title: EDCTP
 slug: edctp
 description: ""
-date: "2026-04-15T09:21:25.707202"
+date: "2026-04-16T19:22:01.821667"
 draft: false
 sectors:
-  - research
   - ngo
   - healthcare
+  - research
 regions:
   - international
 years:
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.edctp.org](https://www.edctp.org)
-- [https://edctp.org/brand-manual](https://edctp.org/brand-manual)
 
 ## Brand Guidelines
 

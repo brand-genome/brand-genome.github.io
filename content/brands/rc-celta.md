@@ -2,7 +2,7 @@
 title: RC Celta
 slug: "rc-celta"
 description: ""
-date: "2026-04-15T09:21:24.726191"
+date: "2026-04-16T19:22:00.271319"
 draft: false
 sectors:
   - sports
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 
 - [https://rccelta.es/en](https://rccelta.es/en)
 - [https://rccelta.es](https://rccelta.es)
-- [https://www.celta.gal](https://www.celta.gal)
 - [https://fundacioncelta.gal/en](https://fundacioncelta.gal/en)
 - [https://fundacioncelta.gal](https://fundacioncelta.gal)
 - [http://www.rccelta.es](http://www.rccelta.es)

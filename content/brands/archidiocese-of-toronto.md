@@ -2,10 +2,10 @@
 title: Archidiocese of Toronto
 slug: "archidiocese-of-toronto"
 description: ""
-date: "2026-04-15T09:21:24.323664"
+date: "2026-04-16T19:21:59.732309"
 draft: false
 sectors:
-  - "public-sector"
+  - ngo
 regions:
   - canada
 years:
@@ -62,7 +62,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.archtoronto.org](https://www.archtoronto.org)
-- [https://www.archtoronto.org/graphicstandards](https://www.archtoronto.org/graphicstandards)
 
 ## Brand Guidelines
 

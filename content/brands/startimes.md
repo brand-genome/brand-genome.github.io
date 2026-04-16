@@ -2,11 +2,10 @@
 title: StarTimes
 slug: startimes
 description: ""
-date: "2026-04-15T09:21:24.055281"
+date: "2026-04-16T19:21:59.375534"
 draft: false
 sectors:
   - broadcasting
-  - telecom
 regions:
   - china
 years:
@@ -14,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - broadcast
   - media
+  - broadcast
 industries:
   - "information-and-communications-technology"
 countries: []

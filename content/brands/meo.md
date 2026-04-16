@@ -2,7 +2,7 @@
 title: MEO
 slug: meo
 description: "Designed by MYBRAND, Lisbon."
-date: "2026-04-15T09:21:22.126875"
+date: "2026-04-16T19:21:57.161986"
 draft: false
 sectors:
   - telecom
@@ -63,7 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.meo.pt](https://www.meo.pt)
 - [https://tv.meo.pt/en](https://tv.meo.pt/en)
-- [https://en.institutional.meo.pt](https://en.institutional.meo.pt)
 
 ## Brand Guidelines
 

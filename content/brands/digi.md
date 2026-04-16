@@ -2,12 +2,12 @@
 title: Digi
 slug: digi
 description: ""
-date: "2026-04-15T09:21:25.653418"
+date: "2026-04-16T19:22:01.673571"
 draft: false
 sectors:
   - networking
-  - software
   - hardware
+  - software
 regions:
   - usa
 years:

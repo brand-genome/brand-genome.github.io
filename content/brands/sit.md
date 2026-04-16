@@ -2,11 +2,11 @@
 title: SIT
 slug: sit
 description: ""
-date: "2026-04-15T09:21:25.394154"
+date: "2026-04-16T19:22:01.070820"
 draft: false
 sectors:
-  - university
   - education
+  - university
 regions:
   - singapore
 years:
@@ -14,8 +14,8 @@ years:
 languages:
   - english
 tags:
-  - institut
   - technology
+  - institut
 industries: []
 countries: []
 revenue_buckets: []

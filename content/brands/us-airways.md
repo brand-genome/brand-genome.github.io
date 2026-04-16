@@ -2,7 +2,7 @@
 title: US Airways
 slug: "us-airways"
 description: ""
-date: "2026-04-15T09:21:24.593000"
+date: "2026-04-16T19:22:00.155809"
 draft: false
 sectors:
   - airline
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.aa.com](https://www.aa.com)
 - [http://www.usairways.com](http://www.usairways.com)
 
 ## Brand Guidelines

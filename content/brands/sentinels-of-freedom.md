@@ -2,11 +2,11 @@
 title: Sentinels of Freedom
 slug: "sentinels-of-freedom"
 description: ""
-date: "2026-04-15T09:21:24.657445"
+date: "2026-04-16T19:22:00.209611"
 draft: false
 sectors:
-  - education
   - ngo
+  - education
 regions:
   - usa
 years:

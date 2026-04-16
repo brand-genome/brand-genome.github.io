@@ -2,7 +2,7 @@
 title: Schweizerischen Bundesverwaltung
 slug: "schweizerischen-bundesverwaltung"
 description: ""
-date: "2026-04-15T09:21:23.780419"
+date: "2026-04-16T19:21:59.109195"
 draft: false
 sectors:
   - "public-sector"
@@ -61,9 +61,8 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.admin.ch](https://www.admin.ch)
 - [https://www.bk.admin.ch](https://www.bk.admin.ch)
-- [https://www.geo.admin.ch](https://www.geo.admin.ch)
+- [https://www.geo.admin.ch/de](https://www.geo.admin.ch/de)
 - [https://www.epa.admin.ch](https://www.epa.admin.ch)
 - [http://www.admin.ch](http://www.admin.ch)
 

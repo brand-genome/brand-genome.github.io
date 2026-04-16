@@ -2,7 +2,7 @@
 title: National Museum Liverpool
 slug: "national-museum-liverpool"
 description: ""
-date: "2026-04-15T09:21:23.747416"
+date: "2026-04-16T19:21:59.072153"
 draft: false
 sectors:
   - "arts-culture"
@@ -62,5 +62,4 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.liverpoolmuseums.org.uk](https://www.liverpoolmuseums.org.uk)
-- [https://blog.liverpoolmuseums.org.uk](https://blog.liverpoolmuseums.org.uk)
-- [https://nml.melearning.university](https://nml.melearning.university)
+- [https://www.liverpoolmuseums.org.uk/stories](https://www.liverpoolmuseums.org.uk/stories)

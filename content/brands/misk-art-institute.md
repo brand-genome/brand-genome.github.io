@@ -2,11 +2,11 @@
 title: Misk Art Institute
 slug: "misk-art-institute"
 description: ""
-date: "2026-04-15T09:21:22.108410"
+date: "2026-04-16T19:21:57.145076"
 draft: false
 sectors:
-  - education
   - "arts-culture"
+  - education
 regions:
   - "saudi-arabia"
 years:
@@ -66,7 +66,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://miskartinstitute.org/en](https://miskartinstitute.org/en)
-- [https://misk.org.sa/en](https://misk.org.sa/en)
 - [https://miskartinstitute.org](https://miskartinstitute.org)
 
 ## Brand Guidelines

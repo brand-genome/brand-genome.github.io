@@ -2,7 +2,7 @@
 title: The Salvation Army
 slug: "the-salvation-army"
 description: ""
-date: "2026-04-15T09:21:24.195724"
+date: "2026-04-16T19:21:59.552272"
 draft: false
 sectors:
   - ngo

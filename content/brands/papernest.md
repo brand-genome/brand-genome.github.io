@@ -2,10 +2,9 @@
 title: Papernest
 slug: papernest
 description: ""
-date: "2026-04-15T09:21:25.642651"
+date: "2026-04-16T19:22:01.654389"
 draft: false
 sectors:
-  - "e-commerce"
   - software
 regions:
   - france
@@ -68,7 +67,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.papernest.com](https://www.papernest.com)
-- [https://www.papernest.com/en](https://www.papernest.com/en)
 - [http://www.papernest.com](http://www.papernest.com)
 - [https://papernest.com](https://papernest.com)
 - [https://www.papernest.it](https://www.papernest.it)

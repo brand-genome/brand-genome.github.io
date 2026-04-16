@@ -2,7 +2,7 @@
 title: City of Melbourne
 slug: "city-of-melbourne"
 description: ""
-date: "2026-04-15T09:21:25.835830"
+date: "2026-04-16T19:22:02.066977"
 draft: false
 sectors:
   - "public-sector"
@@ -61,7 +61,6 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.melbourne.vic.gov.au](https://www.melbourne.vic.gov.au)
 - [https://citycollection.melbourne.vic.gov.au](https://citycollection.melbourne.vic.gov.au)
 
 ## Brand Guidelines

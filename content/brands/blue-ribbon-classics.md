@@ -2,7 +2,7 @@
 title: Blue Ribbon Classics
 slug: "blue-ribbon-classics"
 description: ""
-date: "2026-04-15T09:21:25.192622"
+date: "2026-04-16T19:22:00.787693"
 draft: false
 sectors:
   - food
@@ -59,12 +59,6 @@ guideline_count: 1
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://blueribbonclassics.com](https://blueribbonclassics.com)
-- [https://wellsfoodservice.com/brands/blue-ribbon-classics](https://wellsfoodservice.com/brands/blue-ribbon-classics)
-- [https://wellsvending.com/brands/blue-ribbon-classics](https://wellsvending.com/brands/blue-ribbon-classics)
-
 ## Brand Guidelines
 
 ### 2017

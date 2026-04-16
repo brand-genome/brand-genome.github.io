@@ -2,11 +2,11 @@
 title: Reddit
 slug: reddit
 description: ""
-date: "2026-04-15T09:21:22.571580"
+date: "2026-04-16T19:21:57.935748"
 draft: false
 sectors:
-  - "social-media"
   - software
+  - "social-media"
 regions:
   - usa
 years:
@@ -15,9 +15,9 @@ years:
 languages:
   - english
 tags:
-  - community
   - featured
   - internet
+  - community
 industries: []
 countries: []
 revenue_buckets: []

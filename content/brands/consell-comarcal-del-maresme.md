@@ -2,7 +2,7 @@
 title: Consell Comarcal del Maresme
 slug: "consell-comarcal-del-maresme"
 description: ""
-date: "2026-04-15T09:21:22.451388"
+date: "2026-04-16T19:21:57.729562"
 draft: false
 sectors:
   - "public-sector"
@@ -63,8 +63,6 @@ visual_term_image_urls: {}
 
 - [https://www.ccmaresme.cat](https://www.ccmaresme.cat)
 - [https://seu.ccmaresme.cat](https://seu.ccmaresme.cat)
-- [https://www.meteomar.cat](https://www.meteomar.cat)
-- [https://www.caadmaresme.com](https://www.caadmaresme.com)
 - [http://www.ccmaresme.cat](http://www.ccmaresme.cat)
 
 ## Brand Guidelines

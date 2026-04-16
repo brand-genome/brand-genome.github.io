@@ -2,11 +2,11 @@
 title: Creative Australia
 slug: "creative-australia"
 description: ""
-date: "2026-04-15T09:21:22.107448"
+date: "2026-04-16T19:21:57.143437"
 draft: false
 sectors:
-  - "public-sector"
   - "arts-culture"
+  - "public-sector"
 regions:
   - australia
 years:

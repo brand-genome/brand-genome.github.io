@@ -2,7 +2,7 @@
 title: University College Cork
 slug: "university-college-cork"
 description: ""
-date: "2026-04-15T09:21:23.948373"
+date: "2026-04-16T19:21:59.265623"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - university
   - education
+  - university
 industries: []
 countries:
   - ireland
@@ -69,9 +69,9 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://www.ucc.ie](https://www.ucc.ie)
+- [https://www.ucc.ie/en](https://www.ucc.ie/en)
 - [https://research.ucc.ie](https://research.ucc.ie)
-- [https://thearch.ucc.ie](https://thearch.ucc.ie)
+- [https://www.ucc.ie](https://www.ucc.ie)
 
 ## Brand Guidelines
 

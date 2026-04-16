@@ -2,11 +2,11 @@
 title: The Automobile Association
 slug: "the-automobile-association"
 description: ""
-date: "2026-04-15T09:21:25.851204"
+date: "2026-04-16T19:22:02.114824"
 draft: false
 sectors:
-  - automobile
   - insurance
+  - automobile
 regions:
   - "united-kingdom"
 years:
@@ -16,12 +16,12 @@ languages:
 tags:
   - insurance
 industries:
-  - "activities-of-other-membership-organisations-nec"
-  - "insurance-industry"
   - "drivers-education"
   - "roadside-assistance"
-  - "road-transport"
   - "voluntary-sector"
+  - "insurance-industry"
+  - "activities-of-other-membership-organisations-nec"
+  - "road-transport"
 countries:
   - "united-kingdom"
 revenue_buckets: []
@@ -73,7 +73,6 @@ visual_term_image_urls: {}
 ## Official Websites
 
 - [https://www.theaa.com](https://www.theaa.com)
-- [https://www.theaacorporate.com](https://www.theaacorporate.com)
 
 ## Brand Guidelines
 

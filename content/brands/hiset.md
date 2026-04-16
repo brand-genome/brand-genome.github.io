@@ -2,7 +2,7 @@
 title: HiSET
 slug: hiset
 description: ""
-date: "2026-04-15T09:21:22.079462"
+date: "2026-04-16T19:21:57.115643"
 draft: false
 sectors:
   - education
@@ -61,7 +61,7 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://hiset.ets.org](https://hiset.ets.org)
+- [https://hiset.org:443](https://hiset.org:443)
 
 ## Brand Guidelines
 

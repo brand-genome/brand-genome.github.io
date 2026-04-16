@@ -2,7 +2,7 @@
 title: Dalkia
 slug: dalkia
 description: ""
-date: "2026-04-15T09:21:22.295262"
+date: "2026-04-16T19:21:57.334552"
 draft: false
 sectors:
   - utilities
@@ -10,14 +10,14 @@ sectors:
 regions:
   - france
 years:
-  - 2021
   - 2017
+  - 2021
 languages:
-  - english
   - french
+  - english
 tags:
-  - industry
   - corporate
+  - industry
 industries: []
 countries: []
 revenue_buckets: []
@@ -67,7 +67,6 @@ visual_term_image_urls: {}
 
 - [https://www.dalkia.fr](https://www.dalkia.fr)
 - [https://www.dalkia.com](https://www.dalkia.com)
-- [https://www.dalkiasolutions.com](https://www.dalkiasolutions.com)
 - [https://dalkia.co.uk](https://dalkia.co.uk)
 
 ## Brand Guidelines

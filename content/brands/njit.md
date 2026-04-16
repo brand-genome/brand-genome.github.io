@@ -2,7 +2,7 @@
 title: NJIT
 slug: njit
 description: ""
-date: "2026-04-15T09:21:25.647736"
+date: "2026-04-16T19:22:01.660581"
 draft: false
 sectors:
   - university
@@ -13,8 +13,8 @@ years:
 languages:
   - english
 tags:
-  - institut
   - technology
+  - institut
 industries: []
 countries:
   - "united-states"

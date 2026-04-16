@@ -2,7 +2,7 @@
 title: Trentino
 slug: trentino
 description: ""
-date: "2026-04-15T09:21:25.862423"
+date: "2026-04-16T19:22:02.130754"
 draft: false
 sectors:
   - tourism

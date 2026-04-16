@@ -2,7 +2,7 @@
 title: IBDM
 slug: ibdm
 description: ""
-date: "2026-04-15T09:21:25.863845"
+date: "2026-04-16T19:22:02.133314"
 draft: false
 sectors:
   - research
@@ -13,8 +13,8 @@ years:
 languages:
   - french
 tags:
-  - biology
   - science
+  - biology
   - institution
 industries: []
 countries: []
@@ -61,6 +61,3 @@ guideline_count: 0
 sample_image_urls: []
 visual_term_image_urls: {}
 ---
-## Official Websites
-
-- [https://www.ibdm.univ-amu.fr](https://www.ibdm.univ-amu.fr)

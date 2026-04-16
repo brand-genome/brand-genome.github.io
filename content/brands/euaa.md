@@ -2,7 +2,7 @@
 title: EUAA
 slug: euaa
 description: ""
-date: "2026-04-15T09:21:23.620277"
+date: "2026-04-16T19:21:58.909131"
 draft: false
 sectors:
   - "public-sector"
@@ -66,10 +66,11 @@ visual_term_image_urls: {}
 ---
 ## Official Websites
 
-- [https://euaa.europa.eu](https://euaa.europa.eu)
+- [https://www.euaa.europa.eu](https://www.euaa.europa.eu)
 - [https://cei.euaa.europa.eu](https://cei.euaa.europa.eu)
 - [https://www.euaa.europa.eu/design_system/index.html](https://www.euaa.europa.eu/design_system/index.html)
 - [https://easo.europa.eu](https://easo.europa.eu)
+- [https://euaa.europa.eu](https://euaa.europa.eu)
 
 ## Brand Guidelines
 
